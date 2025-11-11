@@ -209,7 +209,7 @@ class CommentSystem {
     this.pageId = options.pageId || window.location.pathname;
     this.container = null;
     this.comments = [];
-    this.orderingMode = "chronological"; // 'chronological' or 'similarity'
+    this.orderingMode = "similarity"; // Default to 'similarity' (Relevant) mode
     this.chronologicalOrder = "newest"; // 'newest' (recent) or 'oldest'
     this.isLoading = false;
     this.isOnline = navigator.onLine;
@@ -276,16 +276,12 @@ class CommentSystem {
             </h3>
             <div class="ordering-controls">
               <div class="ordering-toggle">
-                <button class="ordering-button active" data-mode="chronological">
+                <button class="ordering-button" data-mode="chronological">
                   Recent
                 </button>
-                <button class="ordering-button" data-mode="similarity">
+                <button class="ordering-button active" data-mode="similarity">
                   Relevant
                 </button>
-              </div>
-              <div class="loading-indicator" id="loading-indicator" style="display: none;">
-                <div class="loading-spinner"></div>
-                <span>Processing...</span>
               </div>
             </div>
           </div>
@@ -1127,7 +1123,6 @@ class CommentSystem {
     }
 
     // Check if we have cached results for this mode
-    // Note: Don't include lastCommentCount in cache key to avoid race conditions
     const cacheKey =
       mode === "chronological"
         ? `${mode}_${this.chronologicalOrder}_${this.pageId}`
@@ -1136,7 +1131,6 @@ class CommentSystem {
     if (this.orderingCache.has(cacheKey)) {
       // Use cached results instantly
       this.comments = this.orderingCache.get(cacheKey);
-      // Ensure loading state is cleared
       this.setLoading(false);
       setTimeout(() => {
         this.renderComments();
@@ -1144,10 +1138,9 @@ class CommentSystem {
       return;
     }
 
-    // For similarity mode, use background analysis approach
+    // For similarity mode, use transparent background analysis approach
     if (mode === "similarity") {
-      console.log("🔄 Loading similarity comments from API");
-      console.log("🔄 Current comments before API call:", this.comments.length);
+      console.log("🔄 [Transparent] Loading similarity comments from API");
 
       // Preserve current comments in case API fails
       const preservedComments = [...this.comments];
@@ -1156,7 +1149,7 @@ class CommentSystem {
 
       try {
         const data = await this.api.getComments(this.pageId, "similarity");
-        console.log("🔄 Similarity API response:", data);
+        console.log("🔄 [Transparent] API response:", data);
 
         if (
           data &&
@@ -1164,116 +1157,103 @@ class CommentSystem {
           data.comments &&
           Array.isArray(data.comments)
         ) {
-          console.log(
-            "🔄 Setting comments from similarity API:",
-            data.comments.length
-          );
           this.comments = data.comments;
           this.lastCommentCount = this.countAllComments(this.comments);
-          console.log(
-            "🔄 Comments after similarity API:",
-            this.comments.length
-          );
 
           // Cache the results
           this.orderingCache.set(cacheKey, [...this.comments]);
           this.savePersistentCache();
 
-          // Check if this is background analysis mode
-          if (
-            data.orderingType === "recent" &&
-            data.analysisStatus === "processing"
-          ) {
-            console.log(
-              "🔄 Background analysis in progress, showing recent comments"
-            );
-            this.showAIProcessingBanner();
-            this.updateAIStatusIndicator("processing");
-
-            // Start polling for analysis completion
-            this.startAnalysisPolling();
-
-            if (this.showNotification) {
-              this.showNotification(
-                "Showing recent comments while AI analyzes for relevance...",
-                "info"
-              );
-            }
+          // TRANSPARENT BEHAVIOR: No banners, no notifications
+          // If chronological, start silent polling for cache completion
+          if (data.orderingType === "chronological") {
+            console.log("🔄 [Transparent] Showing chronological, will poll for relevance");
+            this.startSilentPolling();
           } else if (data.orderingType === "similarity") {
-            console.log(
-              "🔄 Analysis complete, showing relevance-sorted comments"
-            );
-            this.hideAIProcessingBanner();
-            this.updateAIStatusIndicator("complete");
-
-            if (this.showNotification) {
-              this.showNotification("Comments sorted by relevance", "success");
-            }
+            console.log("🔄 [Transparent] Showing relevance-sorted comments");
           }
         } else {
-          console.log(
-            "🔄 Invalid or empty similarity API response, keeping existing comments"
-          );
-          // Keep existing comments instead of clearing them
+          console.log("🔄 [Transparent] Invalid response, keeping existing comments");
           this.comments = preservedComments;
-
-          // Show warning but don't change mode
-          if (this.showNotification) {
-            this.showNotification(
-              "Relevance analysis unavailable. Showing comments in current order.",
-              "info"
-            );
-          }
         }
 
         this.renderComments();
       } catch (error) {
-        console.error("🔄 Similarity API failed:", error);
-
-        // Restore preserved comments
+        console.error("🔄 [Transparent] API failed:", error);
         this.comments = preservedComments;
-
-        // Revert to previous mode on error
         this.orderingMode = previousMode;
-
-        // Revert button states
         buttons.forEach((btn) => {
           btn.classList.toggle("active", btn.dataset.mode === previousMode);
         });
-
-        // Show error notification but keep comments visible
-        if (this.showNotification) {
-          this.showNotification(
-            "Failed to load relevant comments. Showing recent comments instead.",
-            "warning"
-          );
-        }
-
         this.renderComments();
       } finally {
         this.setLoading(false);
       }
     } else {
-      // For chronological mode, ensure loading state is cleared and re-render existing comments
+      // For chronological mode
       this.setLoading(false);
       setTimeout(() => {
         this.renderComments();
-        // Fallback: ensure transition completes even if there are timing issues
         setTimeout(() => {
           const commentsList = this.container.querySelector("#comments-list");
           if (
             commentsList &&
             commentsList.classList.contains("transitioning")
           ) {
-            console.log(
-              "🔄 Fallback: Forcing transition completion for chronological mode"
-            );
             commentsList.classList.remove("transitioning", "loaded", "loading");
             commentsList.style.opacity = "";
           }
         }, 1000);
       }, 150);
     }
+  }
+
+  /**
+   * Silent polling for cache completion (no UI indicators)
+   * Polls 3 times at 30-second intervals
+   */
+  startSilentPolling() {
+    let pollCount = 0;
+    const maxPolls = 3;
+    const pollInterval = 30000; // 30 seconds
+
+    const poll = async () => {
+      pollCount++;
+      console.log(`🔄 [Transparent] Silent poll ${pollCount}/${maxPolls}`);
+
+      try {
+        const data = await this.api.getComments(this.pageId, "similarity");
+        
+        if (data && data.success && data.orderingType === "similarity") {
+          // Cache is ready! Silently switch to relevant view
+          console.log("🔄 [Transparent] Cache ready, switching to relevant view");
+          this.comments = data.comments;
+          this.lastCommentCount = this.countAllComments(this.comments);
+          
+          // Cache the results
+          const cacheKey = `similarity_${this.pageId}`;
+          this.orderingCache.set(cacheKey, [...this.comments]);
+          this.savePersistentCache();
+          
+          // Silently re-render with relevant comments
+          this.renderComments();
+          return; // Stop polling
+        }
+
+        // Not ready yet, continue polling if under max
+        if (pollCount < maxPolls) {
+          setTimeout(poll, pollInterval);
+        } else {
+          console.log("🔄 [Transparent] Max polls reached, staying with current view");
+        }
+      } catch (error) {
+        console.error("🔄 [Transparent] Poll failed:", error);
+        // Stop polling on error
+      }
+    };
+
+    // Start first poll after 30 seconds
+    setTimeout(poll, pollInterval);
   }
 
   async loadComments() {
@@ -1288,8 +1268,9 @@ class CommentSystem {
         });
       }
 
-      // Always load chronologically first
-      const data = await this.api.getComments(this.pageId, "chronological");
+      // TRANSPARENT BEHAVIOR: Always try to load with similarity (Relevant) mode first
+      console.log("🔄 [Transparent] Initial load - requesting similarity mode");
+      const data = await this.api.getComments(this.pageId, "similarity");
       const newComments = data.comments || [];
 
       // Check if we need to invalidate cache (new comments added)
@@ -1308,11 +1289,21 @@ class CommentSystem {
 
       this.comments = newComments;
 
-      // Store chronological versions in cache (both newest and oldest)
-      const chronologicalNewestKey = `chronological_newest_${this.pageId}`;
-      const chronologicalOldestKey = `chronological_oldest_${this.pageId}`;
-      this.orderingCache.set(chronologicalNewestKey, [...this.comments]);
-      this.orderingCache.set(chronologicalOldestKey, [...this.comments]);
+      // Cache based on what we received
+      if (data.orderingType === "similarity") {
+        console.log("🔄 [Transparent] Received similarity-sorted comments");
+        const similarityKey = `similarity_${this.pageId}`;
+        this.orderingCache.set(similarityKey, [...this.comments]);
+      } else {
+        console.log("🔄 [Transparent] Received chronological comments, will poll for relevance");
+        const chronologicalKey = `chronological_newest_${this.pageId}`;
+        this.orderingCache.set(chronologicalKey, [...this.comments]);
+        
+        // Start silent polling if we got chronological but wanted similarity
+        if (this.orderingMode === "similarity") {
+          this.startSilentPolling();
+        }
+      }
 
       // Save to localStorage for persistence
       this.savePersistentCache();
@@ -1907,63 +1898,9 @@ class CommentSystem {
     });
   }
 
-  showAIProcessingBanner() {
-    const existingBanner = this.container.querySelector(
-      ".ai-processing-banner"
-    );
-    if (existingBanner) return;
-
-    const banner = document.createElement("div");
-    banner.className = "ai-processing-banner";
-    banner.innerHTML = `
-      <div class="ai-processing-icon">🤖</div>
-      <div class="ai-processing-content">
-        <div class="ai-processing-title">AI Topic Analysis</div>
-        <div class="ai-processing-description">Analyzing comment content to group similar topics together...</div>
-      </div>
-    `;
-
-    const commentsContainer = this.container.querySelector(
-      ".comments-container"
-    );
-    commentsContainer.insertBefore(banner, commentsContainer.firstChild);
-
-    // Add AI status indicator
-    this.updateAIStatusIndicator("processing");
-  }
-
-  hideAIProcessingBanner() {
-    const banner = this.container.querySelector(".ai-processing-banner");
-    if (banner) {
-      banner.style.animation = "none";
-      banner.style.opacity = "0";
-      setTimeout(() => banner.remove(), 300);
-    }
-
-    this.updateAIStatusIndicator("ready");
-  }
-
-  updateAIStatusIndicator(status) {
-    const controls = this.container.querySelector(".ordering-controls");
-    let indicator = controls.querySelector(".ai-status-indicator");
-
-    if (!indicator) {
-      indicator = document.createElement("div");
-      indicator.className = "ai-status-indicator";
-      controls.appendChild(indicator);
-    }
-
-    indicator.className = `ai-status-indicator ${status}`;
-
-    // Set tooltip based on status
-    const tooltips = {
-      ready: "AI analysis ready",
-      processing: "Processing with AI...",
-      error: "AI analysis unavailable",
-    };
-
-    indicator.title = tooltips[status] || "";
-  }
+  // REMOVED: All banner and notification methods for transparent behavior
+  // No showAIProcessingBanner, hideAIProcessingBanner, or updateAIStatusIndicator
+  // System operates completely transparently with no UI indicators
 
   buildCommentThreads(comments) {
     // Comments from the backend are already properly threaded with replies nested
