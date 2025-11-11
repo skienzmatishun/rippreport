@@ -27,10 +27,10 @@
   {{- /* Check if current post is in holiday category */ -}}
   {{- $isHoliday := in .Params.categories "holiday" }}
   {{- if $isHoliday }}
-    {{- /* Show 10 most recent articles for holiday posts */ -}}
+    {{- /* Show 10 most recent articles for holiday posts, excluding other holiday posts */ -}}
     {{- $recentToShow = first 10 $recent }}
     {{- range $recentToShow }}
-      {{- if ne . $currentPost }}
+      {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
         {{- $filteredRecent = $filteredRecent | append . }}
       {{- end }}
     {{- end }}
