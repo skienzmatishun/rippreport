@@ -38,12 +38,15 @@
     {{- /* Check if we have related_articles from the generator */ -}}
     {{- $relatedArticles := .Params.related_articles }}
     {{- if $relatedArticles }}
-      {{- /* Use AI-generated related articles, sorted by rank */ -}}
+      {{- /* Use AI-generated related articles, sorted by rank, excluding llm_score of 0 */ -}}
       {{- range $relatedArticles }}
-        {{- $slug := .slug }}
-        {{- range $recent }}
-          {{- if eq .File.ContentBaseName $slug }}
-            {{- $filteredRecent = $filteredRecent | append . }}
+        {{- $llmScore := .llm_score | default 0 }}
+        {{- if ne $llmScore 0 }}
+          {{- $slug := .slug }}
+          {{- range $recent }}
+            {{- if eq .File.ContentBaseName $slug }}
+              {{- $filteredRecent = $filteredRecent | append . }}
+            {{- end }}
           {{- end }}
         {{- end }}
       {{- end }}
