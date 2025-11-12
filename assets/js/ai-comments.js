@@ -1409,32 +1409,9 @@ class CommentSystem {
       if (this.orderingMode === "similarity") {
         console.log("🔄 Rendering in similarity mode");
         
-        // Get page tags once
-        const pageContext = this.extractPageContext();
-        const pageTags = pageContext.tags || [];
-        
-        // Calculate combined scores for all comments
-        const sortedComments = [...this.comments].map(comment => {
-          // Get Deepseek's relevance score (default 0.5 if not available)
-          const deepseekScore = comment.relevanceScore || 0.5;
-          
-          // Calculate tag-matching score
-          const tagScore = this.calculateTagMatchScore(comment.content, pageTags);
-          
-          // Combined score: 60% Deepseek + 40% tag matching
-          const combinedScore = (deepseekScore * 0.6) + (tagScore * 0.4);
-          
-          return {
-            ...comment,
-            tagMatchScore: tagScore,
-            combinedScore: combinedScore
-          };
-        }).sort((a, b) => {
-          // Sort by combined score (higher is more relevant)
-          return b.combinedScore - a.combinedScore;
-        });
-        
-        html = sortedComments
+        // Backend already sorted with boost strategy (2 most recent at top, rest by relevance)
+        // Just render in the order received from backend
+        html = this.comments
           .map((comment) => this.renderCommentThread(comment))
           .join("");
       } else {
