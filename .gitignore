@@ -30,3 +30,4 @@ archive_link_verifier/*
 recent_placement/*
 audit/*
 bsp_transcript_generator/*
+migrate_comments/*
