@@ -1,0 +1,136 @@
+{
+  "summary": {
+    "total_pages": 2,
+    "successful_pages": 2,
+    "failed_pages": 0,
+    "total_comments_extracted": 3,
+    "total_comments_imported": 2,
+    "total_failed_imports": 1,
+    "success_rate": 100.0,
+    "total_duration": 6.2e-05,
+    "started_at": "2025-11-17T22:04:05.563207Z",
+    "completed_at": "2025-11-17T22:04:05.563269Z"
+  },
+  "page_reports": {
+    "/p/json-test-1/": {
+      "page_id": "/p/json-test-1/",
+      "section_id": "json-test-1",
+      "comments_extracted": 2,
+      "comments_transformed": 2,
+      "comments_imported": 2,
+      "failed_imports": 0,
+      "extraction_duration": 0.2,
+      "transformation_duration": 0.05,
+      "import_duration": 0.08,
+      "total_duration": 0.33,
+      "errors": [],
+      "success": true
+    },
+    "/p/json-test-2/": {
+      "page_id": "/p/json-test-2/",
+      "section_id": "json-test-2",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "comments_imported": 0,
+      "failed_imports": 1,
+      "extraction_duration": 0.15,
+      "transformation_duration": 0.03,
+      "import_duration": 0.04,
+      "total_duration": 0.22,
+      "errors": [
+        "Import: Network timeout"
+      ],
+      "success": true
+    }
+  },
+  "operation_logs": [
+    {
+      "timestamp": "2025-11-17T22:04:05.563215Z",
+      "operation_type": "extraction",
+      "page_id": "/p/json-test-1/",
+      "success": true,
+      "duration": 0.2,
+      "details": {
+        "section_id": "json-test-1",
+        "comment_count": 2
+      },
+      "error": null
+    },
+    {
+      "timestamp": "2025-11-17T22:04:05.563223Z",
+      "operation_type": "transformation",
+      "page_id": "/p/json-test-1/",
+      "success": true,
+      "duration": 0.05,
+      "details": {
+        "input_count": 2,
+        "output_count": 2
+      },
+      "error": null
+    },
+    {
+      "timestamp": "2025-11-17T22:04:05.563231Z",
+      "operation_type": "import",
+      "page_id": "/p/json-test-1/",
+      "success": true,
+      "duration": 0.04,
+      "details": {
+        "comment_id": 700,
+        "matrix_event_id": "$json_evt_0"
+      },
+      "error": null
+    },
+    {
+      "timestamp": "2025-11-17T22:04:05.563233Z",
+      "operation_type": "import",
+      "page_id": "/p/json-test-1/",
+      "success": true,
+      "duration": 0.04,
+      "details": {
+        "comment_id": 701,
+        "matrix_event_id": "$json_evt_1"
+      },
+      "error": null
+    },
+    {
+      "timestamp": "2025-11-17T22:04:05.563241Z",
+      "operation_type": "extraction",
+      "page_id": "/p/json-test-2/",
+      "success": true,
+      "duration": 0.15,
+      "details": {
+        "section_id": "json-test-2",
+        "comment_count": 1
+      },
+      "error": null
+    },
+    {
+      "timestamp": "2025-11-17T22:04:05.563249Z",
+      "operation_type": "transformation",
+      "page_id": "/p/json-test-2/",
+      "success": true,
+      "duration": 0.03,
+      "details": {
+        "input_count": 1,
+        "output_count": 1
+      },
+      "error": null
+    },
+    {
+      "timestamp": "2025-11-17T22:04:05.563256Z",
+      "operation_type": "import",
+      "page_id": "/p/json-test-2/",
+      "success": false,
+      "duration": 0.04,
+      "details": {
+        "comment_id": null,
+        "matrix_event_id": "$json_evt_fail"
+      },
+      "error": "Network timeout"
+    }
+  ],
+  "id_mapping": {
+    "$json_evt_0": 700,
+    "$json_evt_1": 701
+  }
+}

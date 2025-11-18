@@ -1,0 +1,31 @@
+================================================================================
+MIGRATION SUMMARY REPORT
+================================================================================
+
+Migration Timeline:
+  Started:   2025-11-17T22:04:05.562551Z
+  Completed: 2025-11-17T22:04:05.562816Z
+  Duration:  0.00s
+
+Page Statistics:
+  Total Pages:      10
+  Successful Pages: 8
+  Failed Pages:     2
+  Success Rate:     80.0%
+
+Comment Statistics:
+  Total Extracted: 15
+  Total Imported:  15
+  Failed Imports:  0
+  Import Rate:     100.0%
+
+Failed Pages:
+  - /p/post-8/
+    Error: Extraction: Connection timeout
+  - /p/post-9/
+    Error: Extraction: Connection timeout
+
+ID Mapping:
+  Total Mappings: 15
+
+================================================================================
