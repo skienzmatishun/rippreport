@@ -150,4 +150,4 @@ Fauxhope keep Jack -- Fairhope -- vote Jack OUT make a needed change -- vote for
 
 {{< socialpreview url="https://troyvickers.com/" >}}
 
-{{< chat lcfhofh2 >}}
+{{< aicomments >}}
