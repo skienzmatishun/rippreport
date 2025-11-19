@@ -97,4 +97,4 @@ Corruption steals the spotlight: companies with political ties score million-dol
 
 Crime waves hit hard—teens clash with high-powered weapons, and a fisherman’s hobby accidentally solves a cold case. Lawmakers push to strip local control, letting state leaders handpick police chiefs instead. The podcast wraps with a mix of levity (festivals for snowbirds!) and a warning: Alabama’s leaders keep failing, and it’s up to citizens to demand better.
 
-{{< chat 3397 >}}
+{{< aicomments "3397" >}}

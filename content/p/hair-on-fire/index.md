@@ -112,4 +112,4 @@ If passed, Elliott’s bill would create a full-time, non-rotating commissioner 
 
 Elliott needs to be replaced in the next election, as well as the Sheriff.
 
-{{< chat chris-fire >}}
+{{< aicomments "chris-fire" >}}

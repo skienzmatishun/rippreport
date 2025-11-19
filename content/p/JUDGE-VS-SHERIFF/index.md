@@ -136,6 +136,6 @@ READ LAGNIAPPE AND STAY INFORMED
 
 You think this is bad? Stay tuned.
 
-{{< chat jvs >}}
+{{< aicomments "jvs" >}}
 
 {{< mailchimp >}}

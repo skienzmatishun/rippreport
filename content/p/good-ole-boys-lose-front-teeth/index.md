@@ -148,4 +148,4 @@ Let’s hope they establish term limits in future mayor and council terms.
 
 GOB did much better in Fauxhope, their headquarters, as well as Gulf Shores and Orange Beach, that’s the next story.
 
-{{< chat goblft >}}
+{{< aicomments "goblft" >}}

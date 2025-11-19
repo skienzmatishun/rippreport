@@ -139,4 +139,4 @@ Mayor Wills is shameless, you should not be suspicious of a COVER UP because the
 My deepest condolences to the French family and friends of O.J.
 
 
-{{< chat cover-up >}}
+{{< aicomments "cover-up" >}}

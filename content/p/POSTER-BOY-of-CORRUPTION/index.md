@@ -106,4 +106,4 @@ Mr. Albritton is the classic case of a sociopath. He argues for no changes in th
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/supreme-court-stops-special-master-in-mabel-amos-case/article_3513b1ae-9ec8-11ee-b6b1-6bd4ab21716c.html" >}}
 
-{{< chat agagag >}}
+{{< aicomments "agagag" >}}

@@ -124,4 +124,4 @@ Francis Paul Ripp
 
 ![](https://rippreport.com/img/im-back-10.jpg)
 
-{{< chat im-back >}}
+{{< aicomments "im-back" >}}

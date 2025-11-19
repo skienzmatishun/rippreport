@@ -106,4 +106,4 @@ A VETERANS RALLY WILL BE HELD IN MONTGOMERY FEB> 25th @ 11:30
 
 <img src="https://rippreport.com/p/rally.webp">
 
-{{< chat war >}}
+{{< aicomments "war" >}}

@@ -106,4 +106,4 @@ At a local campaign meeting for Jerry Carl looked like a fraternity meeting of t
 2. He forgot who put him in office, BALDWIN COUNTY
 3. Sheriff Hoss Mack endorse him.
 
-{{< chat vote-march-5th >}}
+{{< aicomments "vote-march-5th" >}}

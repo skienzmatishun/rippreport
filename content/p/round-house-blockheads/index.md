@@ -137,6 +137,6 @@ Mayor Wilson:
 
 BEWARE DO NOT BECOME A FAUXHOPE SQUAREHEAD IN A ROUNDHOUSE
 
-{{< chat roundhouse >}}
+{{< aicomments "roundhouse" >}}
 
 {{< subscribe >}}

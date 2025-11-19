@@ -153,4 +153,4 @@ Fauxhope keep Jack-- Fairhope-- vote Jack OUT make a needed change vote for Troy
 
 </style>
 
-{{< chat lcfhofh >}}
+{{< aicomments "lcfhofh" >}}

@@ -155,4 +155,4 @@ Mr. Barkley’s case is being appealed, as it should. The Justice Center Fratern
 
  **DON'T THINK THIS COULD NOT HAPPEN TO YOU!**
 
-{{< chat leecounty >}}
+{{< aicomments "leecounty" >}}

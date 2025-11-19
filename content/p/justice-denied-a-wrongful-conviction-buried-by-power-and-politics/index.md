@@ -133,4 +133,4 @@ This is an egregious injustice. Murray Lawrence Jr has lost two decades of his l
 
 
 {{< subscribe >}}
-{{< chat mlpr >}}
+{{< aicomments "mlpr" >}}

@@ -113,4 +113,4 @@ Please share with your neighbors and encourage them to vote Aug 26th.
 <style>.cactus-comment:has(.cactus-comment-time[title="Thu Jul 03 22:49:03 2025 UTC"]), .cactus-comment:has(.cactus-comment-time[title="Thu Aug 07 17:18:15 2025 UTC"]) {display:none;}</style>
 
 {{< subscribe >}}
-{{< chat fhofh >}}
+{{< aicomments "fhofh" >}}

@@ -98,4 +98,4 @@ Criminal rights advocates have unearthed a second autopsy of a 2003 murder that 
 *Get the entire article at local newsstand, Lagniappe is free.
 
 
-{{< chat advocates >}}
+{{< aicomments "advocates" >}}

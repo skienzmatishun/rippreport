@@ -113,6 +113,6 @@ It’s a real soap opera to say the least. But I also can’t help starting to f
 Not only is Alabama the most politically corrupt state, its judiciary is running a close second. Watch for the whitewashing of any criminal activity in the final settlement agreement and lack of any transparency or accountability.
 
 
-{{< chat stealing-from-kids >}}
+{{< aicomments "stealing-from-kids" >}}
 
 {{< mailchimp >}}

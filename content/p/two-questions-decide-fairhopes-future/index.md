@@ -115,4 +115,4 @@ If you want these things to change, you cannot keep voting for the same people a
 
 Upcoming Vote Tuesday, Aug 26th
 
-{{< chat fbpostkw >}}
+{{< aicomments "fbpostkw" >}}

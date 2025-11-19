@@ -109,4 +109,4 @@ Read the complaint and tell me who is crazy?
 
 {{< subscribe >}}
 
-{{< chat ctlrrerun >}}
+{{< aicomments "ctlrrerun" >}}

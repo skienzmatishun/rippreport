@@ -112,6 +112,6 @@ For years the Ripp Report has been exposing the corruption in Baldwin County and
 
 
 
-{{< chat bcwc >}}
+{{< aicomments "bcwc" >}}
 
 {{< mailchimp >}}

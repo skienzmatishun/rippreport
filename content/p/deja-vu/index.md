@@ -160,4 +160,4 @@ Get ready for some “REDNECK RENOVATIONS”.
 {{< subscribe >}}
 
 
-{{< chat dejavu >}}
+{{< aicomments "dejavu" >}}

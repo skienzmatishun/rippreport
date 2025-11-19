@@ -96,4 +96,4 @@ Are you aware that the Fairhope City Council has ignored repeated concerns from 
 
 {{< subscribe >}}
 
-{{< chat msknb >}}
+{{< aicomments "msknb" >}}

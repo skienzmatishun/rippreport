@@ -156,4 +156,4 @@ Phone: 251.990.4615
 
 {{< subscribe >}}
 
-{{< chat lips >}}
+{{< aicomments "lips" >}}

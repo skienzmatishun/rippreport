@@ -129,4 +129,4 @@ FAIRHOPE get together and find some candidates for next years election or this g
 
 Welcome to Fauxhope Alabama
 
-{{< chat ffhp >}}
+{{< aicomments "ffhp" >}}

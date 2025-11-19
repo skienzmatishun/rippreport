@@ -94,4 +94,4 @@ Circuit Clerk of Baldwin County is a position that the GOB, Catalyst, have contr
 **VOTE FOR CARRIE HOSIER AND KIM EARL**
 
 
-{{< chat vote-smart >}}
+{{< aicomments "vote-smart" >}}

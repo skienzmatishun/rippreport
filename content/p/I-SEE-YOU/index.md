@@ -130,4 +130,4 @@ Councilman Martin explains how infrastructure for the Aldi and the East Fairhope
 
 Fauxhope this is what you get when you elect a cabal of good ole boys and a development council.
 
-{{< chat i-see-you >}}
+{{< aicomments "i-see-you" >}}

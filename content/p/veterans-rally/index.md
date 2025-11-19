@@ -95,4 +95,4 @@ related_articles:
 <img src="https://rippreport.com/p/rally.webp">
 
 
-{{< chat rallvet >}}
+{{< aicomments "rallvet" >}}

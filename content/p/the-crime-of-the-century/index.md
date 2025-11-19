@@ -95,5 +95,5 @@ Backstory Podcast breaks down hot topics like Trump’s plans for military rules
 
 The podcast uncovers a true crime story in Clarke County, where a hospice business had shady ties to a judge, exposing Alabama’s “good old boy” system. Plus, veterans’ programs are in chaos after Davis was ousted, with leaders turning the job into a political role. Learn how power and money hurt regular people in these stories.
 
-{{< chat thecrimeofcentury >}}
+{{< aicomments "thecrimeofcentury" >}}
 

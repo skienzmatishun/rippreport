@@ -129,4 +129,4 @@ WELCOME to Baldwin County where authorities do what ever the hell they want.
 
 [At yesterday’s (9/20) Baldwin County, AL Commission regular meeting Francis Ripp of The Ripp Report …](https://www.facebook.com/watch/?v=3408779712701984&ref=sharing)
 
-{{< chat railroaded >}}
+{{< aicomments "railroaded" >}}

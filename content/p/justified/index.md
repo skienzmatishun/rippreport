@@ -124,4 +124,4 @@ A WARNING to the general public------ BEWARE you may be next.
 
 {{< socialpreview url=https://1819news.com/news/item/graphic-video-shows-officer-involved-shooting-of-otis-french-jr-in-bay-minette >}}
 
-{{< chat justice>}}
+{{< aicomments "justice" >}}

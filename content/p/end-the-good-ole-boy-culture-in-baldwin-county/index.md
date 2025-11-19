@@ -153,4 +153,4 @@ Orange Beach is a tourist town not a soap opera show.
 
 Don’t forget mid term elections are coming up and there will be many more elected officials and judges that need to be voted out.
 
-{{< chat lcfhofh3 >}}
+{{< aicomments "lcfhofh3" >}}

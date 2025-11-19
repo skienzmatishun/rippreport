@@ -184,4 +184,4 @@ Be sure to read all the comments:
 
 {{< socialpreview url="https://www.spotfund.com/story/f2814173-6d70-4515-9b20-1a6900b30f97" >}}
 
-{{< chat hosscsso >}}
+{{< aicomments "hosscsso" >}}

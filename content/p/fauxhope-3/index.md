@@ -120,4 +120,4 @@ To clean it up and get back to Fairhope, the Mayor, Council, municipal judge and
 Wake up Fauxhope
 
 
-{{< chat fauxhope3 >}}
+{{< aicomments "fauxhope3" >}}

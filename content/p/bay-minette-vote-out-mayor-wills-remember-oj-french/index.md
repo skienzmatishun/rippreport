@@ -129,4 +129,4 @@ ELECT JOSHUA BROWN
 <a href="https://sites.google.com/brownconsultingllc.com/joshuabrownformayor/about-josh/#h.343ef39d4d1b4191_182"><img loading="lazy" src="/cdn-cgi/image/width=750,quality=85,format=auto/img/brown-6.png" alt="Pictures with Community"></a>
 <a href="https://sites.google.com/brownconsultingllc.com/joshuabrownformayor/events/#h.e5b34a5d5d6bf9e_12"><img loading="lazy" src="/cdn-cgi/image/width=750,quality=85,format=auto/img/brown-7.png" alt="Unity in the Park Event"></a>
 
-{{< chat brownbayminette >}}
+{{< aicomments "brownbayminette" >}}

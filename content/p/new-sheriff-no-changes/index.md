@@ -132,5 +132,5 @@ STARTS AT 50 SECONDS
 .cactus-comment:has(.cactus-comment-time[title="Wed Sep 18 13:31:26 2024 UTC"]) {opacity: 0.62;order: 15;}
 </style>
 
-{{< chat nsnc >}}
+{{< aicomments "nsnc" >}}
 

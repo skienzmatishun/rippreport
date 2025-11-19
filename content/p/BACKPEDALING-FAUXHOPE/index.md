@@ -154,4 +154,4 @@ That’s 27 million dollars on failed or incomplete projects and Fauxhope infras
 
 <style>.cactus-comment:has(.cactus-comment-time[title="Mon May 20 22:39:51 2024 UTC"]) {opacity: 0.12;order: 15;}</style>
 
-{{< chat bpingfh >}}
+{{< aicomments "bpingfh" >}}

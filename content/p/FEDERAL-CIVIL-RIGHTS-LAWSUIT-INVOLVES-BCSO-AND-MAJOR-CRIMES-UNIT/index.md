@@ -171,4 +171,4 @@ SOUTHERN DIVISION
 
 IN MEMORY OF O. J. FRENCH
 
-{{< chat ojfrench >}}
+{{< aicomments "ojfrench" >}}

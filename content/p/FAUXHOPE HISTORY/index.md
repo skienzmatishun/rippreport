@@ -112,6 +112,6 @@ Mayor Sherry Sullivan called the draft “a good start.” If the ordinance were
 
 Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.
 
-{{< chat history >}}
+{{< aicomments "history" >}}
 
 {{< mailchimp >}}

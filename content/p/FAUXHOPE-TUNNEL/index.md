@@ -162,6 +162,6 @@ Ask the city council where the land use plan is or the comprehensive plan?
 It’s called FAUXHOPE for a reason.
 
 
-{{< chat tunnel >}}
+{{< aicomments "tunnel" >}}
 
 {{< mailchimp >}}

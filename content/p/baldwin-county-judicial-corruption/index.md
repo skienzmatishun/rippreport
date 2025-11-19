@@ -112,6 +112,6 @@ REAL CHRISTIANS WOULD NEVER CONVICT AN INNOCENT MAN.
 
 Lawyers have been hired to right this horrible wrong and we will be updating this story. Look for RULE 32 coming soon.
 
-{{< chat bcjccc >}}
+{{< aicomments "bcjccc" >}}
 
 {{< subscribe >}}

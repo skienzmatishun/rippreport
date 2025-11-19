@@ -133,4 +133,4 @@ YOUR DECISION FAIRHOPE OR FAUXHOPE ?
 
 {{< subscribe >}}
 
-{{< chat pfrr >}}
+{{< aicomments "pfrr" >}}

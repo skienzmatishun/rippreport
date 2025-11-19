@@ -120,4 +120,4 @@ THANK YOU
 
 Francis Paul Ripp
 
-{{< chat jfmfhbc >}}
+{{< aicomments "jfmfhbc" >}}

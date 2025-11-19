@@ -152,4 +152,4 @@ to the bay shore to insure resiliency, sustainability and human interaction of t
 
 This project is 3 years behind schedule. Has the Council and Mayor lost or abandoned the project??? Fairhope needs to clean house the next election.
 
-{{< chat bull >}}
+{{< aicomments "bull" >}}

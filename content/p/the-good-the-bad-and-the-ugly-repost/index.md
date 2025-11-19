@@ -143,4 +143,4 @@ Pay attention ladies, what if this happened to you?
 
 {{< subscribe >}}
 
-{{< chat gbaurerun >}}
+{{< aicomments "gbaurerun" >}}

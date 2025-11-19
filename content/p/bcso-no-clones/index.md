@@ -111,4 +111,4 @@ Read the comments:
 
 {{< socialpreview url="https://rippreport.com/p/po-po-hoss-mack-ccuo/" >}}
 
-{{< chat bcsonoclones >}}
+{{< aicomments "bcsonoclones" >}}

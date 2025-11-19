@@ -101,4 +101,4 @@ related_articles:
   </a>
 </div>
 
-{{< chat fft >}}
+{{< aicomments "fft" >}}

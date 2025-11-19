@@ -110,4 +110,4 @@ Research his positions on subjects and you will see he puts the constituents fir
 
 <a href="https://www.facebook.com/VoteForByrian">Facebook: @VoteForByrian</a>
 
-{{< chat qdd6ccc >}}
+{{< aicomments "qdd6ccc" >}}

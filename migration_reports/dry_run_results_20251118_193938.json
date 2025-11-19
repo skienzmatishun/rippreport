@@ -1,0 +1,3350 @@
+{
+  "summary": {
+    "total_pages": 117,
+    "successful_pages": 117,
+    "pages_with_issues": 0,
+    "total_comments_extracted": 655,
+    "total_comments_would_import": 655,
+    "total_issues": 0,
+    "total_warnings": 0,
+    "total_duration": 214.435766,
+    "recommendation": "GO: Migration looks good (100.0% success rate, 655 comments ready to import).",
+    "started_at": "2025-11-19T01:36:04.229379Z",
+    "completed_at": "2025-11-19T01:39:38.665145Z"
+  },
+  "page_results": {
+    "3397": {
+      "page_id": "3397",
+      "section_id": "3397",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 3.188088893890381,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "4th2025": {
+      "page_id": "4th2025",
+      "section_id": "4th2025",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 4.00806188583374,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "5000rerun": {
+      "page_id": "5000rerun",
+      "section_id": "5000rerun",
+      "comments_extracted": 5,
+      "comments_transformed": 5,
+      "would_import": 5,
+      "validation_passed": true,
+      "extraction_duration": 4.263638019561768,
+      "transformation_duration": 0.00028896331787109375,
+      "validation_duration": 0.0005776882171630859,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "Jack ain't going nowhere. We run this town. Not you Ripp1",
+          "created_at": "2025-08-06T06:04:07.012000Z",
+          "is_reply": false,
+          "content_hash": "6b641da5c0c49ab2..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "**@Reply to Cat List:**\n*Jack ain't going nowhere. We run this town. Not you Ripp1*\n\nWE run this tow...",
+          "created_at": "2025-08-07T13:15:06.998000Z",
+          "is_reply": false,
+          "content_hash": "7424e45c789c5278..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Insanity is doing the same thing over and over again expecting a different outcome.  Jack has cost F...",
+          "created_at": "2025-08-09T17:55:57.266000Z",
+          "is_reply": false,
+          "content_hash": "9606aa8502722dbb..."
+        }
+      ]
+    },
+    "5111": {
+      "page_id": "5111",
+      "section_id": "5111",
+      "comments_extracted": 2,
+      "comments_transformed": 2,
+      "would_import": 2,
+      "validation_passed": true,
+      "extraction_duration": 1.8176157474517822,
+      "transformation_duration": 0.00019788742065429688,
+      "validation_duration": 0.0006971359252929688,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "The Marine hero in NYC was trained to protect and defend. \n\nJustice was done.",
+          "created_at": "2024-12-07T05:30:53.351000Z",
+          "is_reply": false,
+          "content_hash": "f66d8ead44720002..."
+        },
+        {
+          "author_name": "link ",
+          "content": "**@Reply to Anonymous:**\n*The Marine hero in NYC was trained to protect and defend.Justice was done....",
+          "created_at": "2025-07-21T13:35:46.856000Z",
+          "is_reply": false,
+          "content_hash": "f1e003ce655809aa..."
+        }
+      ]
+    },
+    "5397": {
+      "page_id": "5397",
+      "section_id": "5397",
+      "comments_extracted": 5,
+      "comments_transformed": 5,
+      "would_import": 5,
+      "validation_passed": true,
+      "extraction_duration": 1.8399131298065186,
+      "transformation_duration": 0.000640869140625,
+      "validation_duration": 0.000885009765625,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Why do the drones have FAA safety green and red lights? Iran is more afraid of the FAA than the mili...",
+          "created_at": "2024-12-15T12:11:42.237000Z",
+          "is_reply": false,
+          "content_hash": "952eeee62e3484f1..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Everything about this seems off.  It's not just that there are aren't weird unexplained objects like...",
+          "created_at": "2024-12-15T12:54:21.489000Z",
+          "is_reply": false,
+          "content_hash": "27f028c19f185826..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "The UFOs came and went to Baldwin county. \n\nThey found no intelligent life here.",
+          "created_at": "2024-12-21T10:20:41.192000Z",
+          "is_reply": false,
+          "content_hash": "ab6f2d239b510996..."
+        }
+      ]
+    },
+    "7098": {
+      "page_id": "7098",
+      "section_id": "7098",
+      "comments_extracted": 3,
+      "comments_transformed": 3,
+      "would_import": 3,
+      "validation_passed": true,
+      "extraction_duration": 1.3006958961486816,
+      "transformation_duration": 0.00011515617370605469,
+      "validation_duration": 0.00027179718017578125,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Fentanyl via nose candy.",
+          "created_at": "2024-10-04T16:17:35.691000Z",
+          "is_reply": false,
+          "content_hash": "28b1fad06b44f4f6..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Disrespectful and ungodly.",
+          "created_at": "2024-10-06T15:00:24.217000Z",
+          "is_reply": false,
+          "content_hash": "357767a2494ceba5..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "I heard he did a Pete Rose into a huge pile.",
+          "created_at": "2024-10-10T09:34:23.802000Z",
+          "is_reply": false,
+          "content_hash": "25226b8c00a1f370..."
+        }
+      ]
+    },
+    "9781": {
+      "page_id": "9781",
+      "section_id": "9781",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 7.71135687828064,
+      "transformation_duration": 0.00026226043701171875,
+      "validation_duration": 0.0006761550903320312,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Citizens arrestee",
+          "content": "The BCSO Leadership is a vindictive and manipulative little bastard it appears. From taking someone’...",
+          "created_at": "2024-12-23T08:30:13.058000Z",
+          "is_reply": false,
+          "content_hash": "5e3b29f3853a1792..."
+        }
+      ]
+    },
+    "advocates": {
+      "page_id": "advocates",
+      "section_id": "advocates",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 3.8351540565490723,
+      "transformation_duration": 0.00024199485778808594,
+      "validation_duration": 0.0007998943328857422,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Get the entire article at local newsstand, Lagniappe is free.",
+          "created_at": "2023-10-04T15:35:22.164000Z",
+          "is_reply": false,
+          "content_hash": "bc710f26fc2d1b02..."
+        }
+      ]
+    },
+    "agagag": {
+      "page_id": "agagag",
+      "section_id": "agagag",
+      "comments_extracted": 2,
+      "comments_transformed": 2,
+      "would_import": 2,
+      "validation_passed": true,
+      "extraction_duration": 4.106690168380737,
+      "transformation_duration": 0.0003447532653808594,
+      "validation_duration": 0.0007951259613037109,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "The name of the commission is a misnomer, for sure! Thanks for another enlightening report!",
+          "created_at": "2024-03-13T14:35:24.322000Z",
+          "is_reply": false,
+          "content_hash": "1c487c7313d49c05..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "They do you wrong in Alabama. Poor Murray Jr. is still suffering because of all this corruption. The...",
+          "created_at": "2024-03-18T06:06:03.025000Z",
+          "is_reply": false,
+          "content_hash": "957ce01c56dd55bc..."
+        }
+      ]
+    },
+    "alabama-attorney-general": {
+      "page_id": "alabama-attorney-general",
+      "section_id": "alabama-attorney-general",
+      "comments_extracted": 9,
+      "comments_transformed": 9,
+      "would_import": 9,
+      "validation_passed": true,
+      "extraction_duration": 2.7380549907684326,
+      "transformation_duration": 0.0002601146697998047,
+      "validation_duration": 0.00067901611328125,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "I hope this Christian goes to church. Hell is half full of his kind already.",
+          "created_at": "2024-02-23T15:10:03.596000Z",
+          "is_reply": false,
+          "content_hash": "a3419baffbb28401..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "What a misnomer of a name for this group!",
+          "created_at": "2024-02-23T20:34:21.544000Z",
+          "is_reply": false,
+          "content_hash": "53de0be10624c991..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Albritton is the worst of the worst and the legislature, Governor and Alabama Bar are equally guilty...",
+          "created_at": "2024-02-24T10:19:38.004000Z",
+          "is_reply": false,
+          "content_hash": "a5cb59a6025a50ae..."
+        }
+      ]
+    },
+    "alabamas-ethics-director-should-resign-2": {
+      "page_id": "alabamas-ethics-director-should-resign-2",
+      "section_id": "alabamas-ethics-director-should-resign-2",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6512389183044434,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "alag": {
+      "page_id": "alag",
+      "section_id": "alag",
+      "comments_extracted": 3,
+      "comments_transformed": 3,
+      "would_import": 3,
+      "validation_passed": true,
+      "extraction_duration": 1.3294520378112793,
+      "transformation_duration": 0.00028705596923828125,
+      "validation_duration": 0.0007162094116210938,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Jim from Tuscaloosa ",
+          "content": "I am sure this will fall on deaf ears as the powers to be will not throw their buddies under the bus...",
+          "created_at": "2023-11-02T11:08:00.921000Z",
+          "is_reply": false,
+          "content_hash": "63debbee2a3c7ed6..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Jim from Tuscaloosa you are right that is why Alabama is the most corrupt state in the United States...",
+          "created_at": "2023-11-16T09:29:59.575000Z",
+          "is_reply": false,
+          "content_hash": "65da55d0ccee07b2..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "they will do you dirty in baldwin county",
+          "created_at": "2023-11-20T13:22:31.925000Z",
+          "is_reply": false,
+          "content_hash": "b864d9189663f155..."
+        }
+      ]
+    },
+    "alagasdasd27": {
+      "page_id": "alagasdasd27",
+      "section_id": "alagasdasd27",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6593570709228516,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "alien-indictment": {
+      "page_id": "alien-indictment",
+      "section_id": "alien-indictment",
+      "comments_extracted": 6,
+      "comments_transformed": 6,
+      "would_import": 6,
+      "validation_passed": true,
+      "extraction_duration": 1.5731959342956543,
+      "transformation_duration": 0.00020599365234375,
+      "validation_duration": 0.0004508495330810547,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "👇",
+          "content": "We can't get to Star Trek without first becoming a one world communist government.   I read somethin...",
+          "created_at": "2023-06-11T12:29:09.962000Z",
+          "is_reply": false,
+          "content_hash": "48cce769007ccc91..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "A replicator copies anything out of thin air or something.",
+          "created_at": "2023-06-11T13:08:28.103000Z",
+          "is_reply": false,
+          "content_hash": "b3a24fe7d14f1035..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "China Joe has fricken this country",
+          "created_at": "2023-06-12T13:14:57.279000Z",
+          "is_reply": false,
+          "content_hash": "32f3e66d81384475..."
+        }
+      ]
+    },
+    "all-mouth": {
+      "page_id": "all-mouth",
+      "section_id": "all-mouth",
+      "comments_extracted": 6,
+      "comments_transformed": 6,
+      "would_import": 6,
+      "validation_passed": true,
+      "extraction_duration": 1.3741660118103027,
+      "transformation_duration": 0.0002760887145996094,
+      "validation_duration": 0.0005252361297607422,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "You don't know Jack!\nHe is a fine Christian man.",
+          "created_at": "2023-05-27T02:30:46.678000Z",
+          "is_reply": false,
+          "content_hash": "2c9c80c547f7f022..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "His police report says different. Hangs out at McSherry's.",
+          "created_at": "2023-05-27T11:19:03.769000Z",
+          "is_reply": false,
+          "content_hash": "1ece43b8c9de7631..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "How is Fairhope allowed to use Mobile Bay as it's toilet overflow?\n\n\nGonna hang up and listen Paul.\n...",
+          "created_at": "2023-05-30T05:18:20.745000Z",
+          "is_reply": false,
+          "content_hash": "5c3d00e07bdcaf36..."
+        }
+      ]
+    },
+    "asblfahpem": {
+      "page_id": "asblfahpem",
+      "section_id": "asblfahpem",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 1.1115150451660156,
+      "transformation_duration": 0.0002980232238769531,
+      "validation_duration": 0.0007190704345703125,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "Welcome to the black hole of Alabama. Where the Klan is still in control.\nKeep fighting but go above...",
+          "created_at": "2025-08-20T13:06:33.818000Z",
+          "is_reply": false,
+          "content_hash": "8070cabeab04b6b9..."
+        }
+      ]
+    },
+    "bad-faith": {
+      "page_id": "bad-faith",
+      "section_id": "bad-faith",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 0.873499870300293,
+      "transformation_duration": 0.00018095970153808594,
+      "validation_duration": 0.0004570484161376953,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "👇",
+          "content": "I called my friend and he says his friend had 3 marijuanas and overdosed!  Not me. I was wasted drun...",
+          "created_at": "2023-05-29T13:42:41.309000Z",
+          "is_reply": false,
+          "content_hash": "27bec3c4d9e3df44..."
+        }
+      ]
+    },
+    "baldwincountysheriffappointment": {
+      "page_id": "baldwincountysheriffappointment",
+      "section_id": "baldwincountysheriffappointment",
+      "comments_extracted": 13,
+      "comments_transformed": 13,
+      "would_import": 13,
+      "validation_passed": true,
+      "extraction_duration": 2.8244071006774902,
+      "transformation_duration": 0.0005619525909423828,
+      "validation_duration": 0.0010921955108642578,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Very interesting! Thanks for the insight. The BCSO has other scandals that haven’t been listed, such...",
+          "created_at": "2024-07-27T21:30:48.872000Z",
+          "is_reply": false,
+          "content_hash": "c06f178a6bb1e8fe..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "What about the story of Katherine Lee Ard. A woman from Elsanor that call the BCSO to have her abusi...",
+          "created_at": "2024-07-27T22:34:13.024000Z",
+          "is_reply": false,
+          "content_hash": "505aafc70b76585b..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Integrity. Where is the integrity that is so proudly boasted about within the department? We as citi...",
+          "created_at": "2024-07-28T20:58:20.686000Z",
+          "is_reply": false,
+          "content_hash": "9779009436bafd92..."
+        }
+      ]
+    },
+    "bcjccc": {
+      "page_id": "bcjccc",
+      "section_id": "bcjccc",
+      "comments_extracted": 7,
+      "comments_transformed": 7,
+      "would_import": 7,
+      "validation_passed": true,
+      "extraction_duration": 2.4345340728759766,
+      "transformation_duration": 0.0003027915954589844,
+      "validation_duration": 0.0005869865417480469,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Todf",
+          "content": "You say all this with no proof and expect us to believe it?",
+          "created_at": "2023-12-08T08:26:28.457000Z",
+          "is_reply": false,
+          "content_hash": "2c3da596675d0925..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Todf   I am so glad you asked for proof. Documents filed with the court shows all three signatures o...",
+          "created_at": "2023-12-08T10:51:45.898000Z",
+          "is_reply": false,
+          "content_hash": "530b78c376f45fba..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Bout right  smf",
+          "created_at": "2023-12-08T11:54:08.228000Z",
+          "is_reply": false,
+          "content_hash": "4667aafd4507f931..."
+        }
+      ]
+    },
+    "bcso-cops": {
+      "page_id": "bcso-cops",
+      "section_id": "bcso-cops",
+      "comments_extracted": 5,
+      "comments_transformed": 5,
+      "would_import": 5,
+      "validation_passed": true,
+      "extraction_duration": 2.186807155609131,
+      "transformation_duration": 0.0003108978271484375,
+      "validation_duration": 0.0007081031799316406,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Spot on!! Fairhope is the worst city to drive through... Make sure you are in a new, nice car, or yo...",
+          "created_at": "2023-11-20T17:54:27.357000Z",
+          "is_reply": false,
+          "content_hash": "62b378abab7a2f4b..."
+        },
+        {
+          "author_name": "Lena Z",
+          "content": "The Baldwin County Court and penal system should be investigated. Where is work release prisoners mo...",
+          "created_at": "2023-11-22T10:38:35.678000Z",
+          "is_reply": false,
+          "content_hash": "5d2c6fa943fe9b0a..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Work release money not going to them? Why? Hoss taking it in fees? Slaves for him basically. Caught ...",
+          "created_at": "2023-11-22T13:18:45.019000Z",
+          "is_reply": false,
+          "content_hash": "03b91d583ef17c5a..."
+        }
+      ]
+    },
+    "bcso-culture": {
+      "page_id": "bcso-culture",
+      "section_id": "bcso-culture",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 1.3851509094238281,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "bcsonoclones": {
+      "page_id": "bcsonoclones",
+      "section_id": "bcsonoclones",
+      "comments_extracted": 6,
+      "comments_transformed": 6,
+      "would_import": 6,
+      "validation_passed": true,
+      "extraction_duration": 5.532639980316162,
+      "transformation_duration": 0.00022792816162109375,
+      "validation_duration": 0.0006341934204101562,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "Word is the sheriff deputies in Baldwin County have always worked for the machine.\nIn other words......",
+          "created_at": "2025-09-26T15:56:39.879000Z",
+          "is_reply": false,
+          "content_hash": "3acc712af9086c15..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "colonel we will have the Sec. of State paying attention. You are right they will fix it if possible.",
+          "created_at": "2025-09-26T16:04:53.148000Z",
+          "is_reply": false,
+          "content_hash": "2d09d43a8cd37361..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "https://rippreport.com/p/bcso-how-to-become-sheriff/",
+          "created_at": "2025-09-28T11:20:53.532000Z",
+          "is_reply": false,
+          "content_hash": "dd9f4df357905c41..."
+        }
+      ]
+    },
+    "bcwc": {
+      "page_id": "bcwc",
+      "section_id": "bcwc",
+      "comments_extracted": 2,
+      "comments_transformed": 2,
+      "would_import": 2,
+      "validation_passed": true,
+      "extraction_duration": 7.471299648284912,
+      "transformation_duration": 0.00026702880859375,
+      "validation_duration": 0.0006232261657714844,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Murray Lawrence, Jr. a.k.a. \"Little Bubba\" did not commit this crime. Not only was exculpatory evide...",
+          "created_at": "2023-10-08T11:15:40.040000Z",
+          "is_reply": false,
+          "content_hash": "5567b60bf83a2e20..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Anyone can be a back seat quarterback and those who have never played a real game are the worst. Hun...",
+          "created_at": "2023-10-08T19:23:37.084000Z",
+          "is_reply": false,
+          "content_hash": "556e80ff8b073c7c..."
+        }
+      ]
+    },
+    "bear": {
+      "page_id": "bear",
+      "section_id": "bear",
+      "comments_extracted": 2,
+      "comments_transformed": 2,
+      "would_import": 2,
+      "validation_passed": true,
+      "extraction_duration": 4.354027032852173,
+      "transformation_duration": 0.0002830028533935547,
+      "validation_duration": 0.0006949901580810547,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Let the chips fall.",
+          "created_at": "2023-07-12T19:38:50.117000Z",
+          "is_reply": false,
+          "content_hash": "dff9763195461342..."
+        },
+        {
+          "author_name": "Ripp Report Admin",
+          "content": "Please stay on topic.",
+          "created_at": "2023-07-14T08:13:09.165000Z",
+          "is_reply": false,
+          "content_hash": "c0511f8993509442..."
+        }
+      ]
+    },
+    "big-mules": {
+      "page_id": "big-mules",
+      "section_id": "big-mules",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 3.803926944732666,
+      "transformation_duration": 0.00024175643920898438,
+      "validation_duration": 0.0005638599395751953,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Suspicious lol",
+          "created_at": "2023-06-10T23:16:30.544000Z",
+          "is_reply": false,
+          "content_hash": "7752eb58a685e74f..."
+        }
+      ]
+    },
+    "boss-sheriff": {
+      "page_id": "boss-sheriff",
+      "section_id": "boss-sheriff",
+      "comments_extracted": 4,
+      "comments_transformed": 4,
+      "would_import": 4,
+      "validation_passed": true,
+      "extraction_duration": 2.831110954284668,
+      "transformation_duration": 0.0004661083221435547,
+      "validation_duration": 0.0006849765777587891,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Hoss is a good Christian man. Look elsewhere for corruption. Stick to Fairhope.",
+          "created_at": "2023-09-12T19:18:25.924000Z",
+          "is_reply": false,
+          "content_hash": "57aff9c177cb5f99..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Mister boss sheriff to you.",
+          "created_at": "2023-09-14T19:37:35.805000Z",
+          "is_reply": false,
+          "content_hash": "d079298315cab940..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Remember Hoss got Pittman to pass a law that severely restricts who can run for sheriff office in Ba...",
+          "created_at": "2023-09-22T22:32:42.982000Z",
+          "is_reply": false,
+          "content_hash": "efcadf9b495f4c9e..."
+        }
+      ]
+    },
+    "bpingfh": {
+      "page_id": "bpingfh",
+      "section_id": "bpingfh",
+      "comments_extracted": 3,
+      "comments_transformed": 3,
+      "would_import": 3,
+      "validation_passed": true,
+      "extraction_duration": 1.4128968715667725,
+      "transformation_duration": 0.0004448890686035156,
+      "validation_duration": 0.001135110855102539,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Hard to get rid of the crooks when they count the votes.",
+          "created_at": "2024-05-17T16:55:53.091000Z",
+          "is_reply": false,
+          "content_hash": "4d444ee8fe81828e..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "I saw today Ukraine's president was re elected without an election. He gets five more years in offic...",
+          "created_at": "2024-05-20T17:39:51.215000Z",
+          "is_reply": false,
+          "content_hash": "3570a8401df07c17..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "now they charge a 100 disconnect fee to have an electrician install switch services for generators,y...",
+          "created_at": "2024-07-22T10:53:19.009000Z",
+          "is_reply": false,
+          "content_hash": "2050d7f5ccc0f5ff..."
+        }
+      ]
+    },
+    "bpingfhmia": {
+      "page_id": "bpingfhmia",
+      "section_id": "bpingfhmia",
+      "comments_extracted": 5,
+      "comments_transformed": 5,
+      "would_import": 5,
+      "validation_passed": true,
+      "extraction_duration": 1.180030107498169,
+      "transformation_duration": 0.0003681182861328125,
+      "validation_duration": 0.0006139278411865234,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "locked out why? for speaking truth?\nexposing redneck losers running baldwin county into the ground?",
+          "created_at": "2025-01-18T09:10:35.820000Z",
+          "is_reply": false,
+          "content_hash": "dce2e9754483e1f4..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Fairhope politicians overbuilt and overloaded the grid. Smdh",
+          "created_at": "2025-01-22T06:32:54.361000Z",
+          "is_reply": false,
+          "content_hash": "37234c8f7f0f1038..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "J Burrell and company are to blame. Selfish greed pricks",
+          "created_at": "2025-01-22T06:33:38.275000Z",
+          "is_reply": false,
+          "content_hash": "8036fa8305576440..."
+        }
+      ]
+    },
+    "brownbayminette": {
+      "page_id": "brownbayminette",
+      "section_id": "brownbayminette",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 0.8964390754699707,
+      "transformation_duration": 0.00043392181396484375,
+      "validation_duration": 0.0013549327850341797,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "CONGRADULATIONS MAYOR BROWN",
+          "created_at": "2025-08-27T09:13:54.356000Z",
+          "is_reply": false,
+          "content_hash": "d5eb08baf9c7b9ee..."
+        }
+      ]
+    },
+    "bsp-154": {
+      "page_id": "bsp-154",
+      "section_id": "bsp-154",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6832036972045898,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "bsp-155": {
+      "page_id": "bsp-155",
+      "section_id": "bsp-155",
+      "comments_extracted": 3,
+      "comments_transformed": 3,
+      "would_import": 3,
+      "validation_passed": true,
+      "extraction_duration": 1.1199870109558105,
+      "transformation_duration": 0.00047016143798828125,
+      "validation_duration": 0.0010807514190673828,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Ripp,\nWho determines  an ESG score?  What criteria?  Where does the money from ESG go?  Who decides?...",
+          "created_at": "2023-05-18T09:46:17.182000Z",
+          "is_reply": false,
+          "content_hash": "1e07df0f2aedbc70..."
+        },
+        {
+          "author_name": "👇",
+          "content": "Rating agencies, research firms, and financial institutions. They set the criteria individually. It'...",
+          "created_at": "2023-05-20T22:35:32.710000Z",
+          "is_reply": false,
+          "content_hash": "454dc63f7e57f439..."
+        },
+        {
+          "author_name": "👇",
+          "content": "Your stock broker was \"scared\" to talk about it because he is there to handle stocks.  Not have a po...",
+          "created_at": "2023-05-21T14:51:37.046000Z",
+          "is_reply": false,
+          "content_hash": "7f80c9f579422326..."
+        }
+      ]
+    },
+    "bsp-dc": {
+      "page_id": "bsp-dc",
+      "section_id": "bsp-dc",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 0.8927631378173828,
+      "transformation_duration": 0.00017690658569335938,
+      "validation_duration": 0.0004968643188476562,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "The patriot act prevented the press from publishing the document in full back then too.  I read the ...",
+          "created_at": "2023-12-07T22:58:38.544000Z",
+          "is_reply": false,
+          "content_hash": "1b25a984c21a1550..."
+        }
+      ]
+    },
+    "bsp153": {
+      "page_id": "bsp153",
+      "section_id": "bsp153",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.639070987701416,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "bspoj": {
+      "page_id": "bspoj",
+      "section_id": "bspoj",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 0.9028840065002441,
+      "transformation_duration": 0.00032520294189453125,
+      "validation_duration": 0.0006840229034423828,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Help mack pack",
+          "created_at": "2024-08-19T13:15:34.220000Z",
+          "is_reply": false,
+          "content_hash": "c06c60730dd883b9..."
+        }
+      ]
+    },
+    "bull": {
+      "page_id": "bull",
+      "section_id": "bull",
+      "comments_extracted": 10,
+      "comments_transformed": 10,
+      "would_import": 10,
+      "validation_passed": true,
+      "extraction_duration": 2.3006718158721924,
+      "transformation_duration": 0.0005261898040771484,
+      "validation_duration": 0.0007259845733642578,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Seems corrupt.",
+          "created_at": "2023-08-10T17:10:55.181000Z",
+          "is_reply": false,
+          "content_hash": "f9e9318fd4d586b4..."
+        },
+        {
+          "author_name": "Anonymous ",
+          "content": "Everybody needs to vote the current members of the city council out of office , especially Jack Burr...",
+          "created_at": "2023-08-10T23:11:58.286000Z",
+          "is_reply": false,
+          "content_hash": "90ac66ab0209dbc9..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "I have been in this town for over 50 years and NEVER had water rationing.  Yet the Council members w...",
+          "created_at": "2023-08-12T17:22:04.677000Z",
+          "is_reply": false,
+          "content_hash": "51bcfcbee1e28ced..."
+        }
+      ]
+    },
+    "cannabis": {
+      "page_id": "cannabis",
+      "section_id": "cannabis",
+      "comments_extracted": 2,
+      "comments_transformed": 2,
+      "would_import": 2,
+      "validation_passed": true,
+      "extraction_duration": 1.1158671379089355,
+      "transformation_duration": 0.0001678466796875,
+      "validation_duration": 0.00042700767517089844,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "How many years has it been since the election of medical marijuana?   Keep on dragging your heals, M...",
+          "created_at": "2023-08-09T22:43:16.901000Z",
+          "is_reply": false,
+          "content_hash": "c981d1dab37402a7..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Once the medical marijuana starts going they will ban the THC sold legally.",
+          "created_at": "2023-08-16T11:57:47.919000Z",
+          "is_reply": false,
+          "content_hash": "e7b2d5d10c37437d..."
+        }
+      ]
+    },
+    "chris-fire": {
+      "page_id": "chris-fire",
+      "section_id": "chris-fire",
+      "comments_extracted": 4,
+      "comments_transformed": 4,
+      "would_import": 4,
+      "validation_passed": true,
+      "extraction_duration": 1.4795379638671875,
+      "transformation_duration": 0.0003361701965332031,
+      "validation_duration": 0.0007479190826416016,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "China was Alabama’s second-largest export destination with over $4.8 billion in goods exported.",
+          "created_at": "2023-05-18T11:45:51.659000Z",
+          "is_reply": false,
+          "content_hash": "762af03ffe247983..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Alabama's state bird is the Yellowhammer.",
+          "created_at": "2023-05-18T13:39:51.241000Z",
+          "is_reply": false,
+          "content_hash": "d3e790594c8e0733..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Elliott is a fine Christian alcoholic and abuser.",
+          "created_at": "2023-05-21T09:53:54.592000Z",
+          "is_reply": false,
+          "content_hash": "1f9a59c7f2240042..."
+        }
+      ]
+    },
+    "cover-up": {
+      "page_id": "cover-up",
+      "section_id": "cover-up",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.8355410099029541,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "crier": {
+      "page_id": "crier",
+      "section_id": "crier",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 0.9475569725036621,
+      "transformation_duration": 0.00013208389282226562,
+      "validation_duration": 0.00034618377685546875,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Racist now? Biden walked out of a Medal of Honor Ceremony yesterday. SMH.",
+          "created_at": "2023-09-05T22:13:49.228000Z",
+          "is_reply": false,
+          "content_hash": "641d3a92373e1709..."
+        }
+      ]
+    },
+    "ctlrrerun": {
+      "page_id": "ctlrrerun",
+      "section_id": "ctlrrerun",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6992568969726562,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "daysinjail": {
+      "page_id": "daysinjail",
+      "section_id": "daysinjail",
+      "comments_extracted": 2,
+      "comments_transformed": 2,
+      "would_import": 2,
+      "validation_passed": true,
+      "extraction_duration": 1.1488909721374512,
+      "transformation_duration": 0.00021314620971679688,
+      "validation_duration": 0.0005950927734375,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "NO COMMENT.",
+          "created_at": "2023-10-17T16:09:37.023000Z",
+          "is_reply": false,
+          "content_hash": "52df5427e3087ca8..."
+        },
+        {
+          "author_name": "EAGLES SOAR!!",
+          "content": "It's not my judgment,  but God's! If they are living comfortable knowing they put an innocent man in...",
+          "created_at": "2024-07-17T11:52:55.376000Z",
+          "is_reply": false,
+          "content_hash": "b1df654c196aa4db..."
+        }
+      ]
+    },
+    "dejavu": {
+      "page_id": "dejavu",
+      "section_id": "dejavu",
+      "comments_extracted": 4,
+      "comments_transformed": 4,
+      "would_import": 4,
+      "validation_passed": true,
+      "extraction_duration": 1.220717191696167,
+      "transformation_duration": 0.00021409988403320312,
+      "validation_duration": 0.0005061626434326172,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "VOTE  OUT THE ENTIRE CITY COUNCIL.",
+          "created_at": "2025-07-02T12:24:33.150000Z",
+          "is_reply": false,
+          "content_hash": "dc6ee6bc5177dc10..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "So you are back Ripp.  Good to hear you are posting again.",
+          "created_at": "2025-07-02T17:04:49.135000Z",
+          "is_reply": false,
+          "content_hash": "baeed6f44dac973b..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "This city council tried to get illegal immigrants in the city until the people revolted.  It was Cor...",
+          "created_at": "2025-07-02T17:05:34.853000Z",
+          "is_reply": false,
+          "content_hash": "2842735ee2b9245f..."
+        }
+      ]
+    },
+    "dhrls": {
+      "page_id": "dhrls",
+      "section_id": "dhrls",
+      "comments_extracted": 12,
+      "comments_transformed": 12,
+      "would_import": 12,
+      "validation_passed": true,
+      "extraction_duration": 2.810338020324707,
+      "transformation_duration": 0.0005319118499755859,
+      "validation_duration": 0.0010631084442138672,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "link ",
+          "content": "Apologies to the non-Korean readers.  I don't know why Facebook does that.",
+          "created_at": "2025-04-03T15:32:12.565000Z",
+          "is_reply": false,
+          "content_hash": "fa9005e75deb89db..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Koreans treat their kids with more dignity for sure",
+          "created_at": "2025-04-03T21:04:39.505000Z",
+          "is_reply": false,
+          "content_hash": "2334d911a7c69f02..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Jimmy Fuson  · 5 days ago  · \nTo all of our friends, followers and church family \nI love yall!!!\nI h...",
+          "created_at": "2025-04-04T13:25:26.940000Z",
+          "is_reply": false,
+          "content_hash": "76cadebed5edd589..."
+        }
+      ]
+    },
+    "ear": {
+      "page_id": "ear",
+      "section_id": "ear",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6518518924713135,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "false-arrest": {
+      "page_id": "false-arrest",
+      "section_id": "false-arrest",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 1.0186238288879395,
+      "transformation_duration": 0.00021076202392578125,
+      "validation_duration": 0.0005567073822021484,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Thanks for keeping hope alive. Alabama does you wrong.",
+          "created_at": "2023-08-16T21:57:20.380000Z",
+          "is_reply": false,
+          "content_hash": "3100176c4ab46dfb..."
+        }
+      ]
+    },
+    "fascism": {
+      "page_id": "fascism",
+      "section_id": "fascism",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 0.9241800308227539,
+      "transformation_duration": 0.00042700767517089844,
+      "validation_duration": 0.0006842613220214844,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Elliott is a fine Christian drunk.",
+          "created_at": "2023-07-11T19:25:20.586000Z",
+          "is_reply": false,
+          "content_hash": "cbe921ff9fd4cccd..."
+        }
+      ]
+    },
+    "fauxhope3": {
+      "page_id": "fauxhope3",
+      "section_id": "fauxhope3",
+      "comments_extracted": 17,
+      "comments_transformed": 17,
+      "would_import": 17,
+      "validation_passed": true,
+      "extraction_duration": 1.649092197418213,
+      "transformation_duration": 0.0005929470062255859,
+      "validation_duration": 0.0011439323425292969,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Free and fair elections are first a must",
+          "created_at": "2024-11-03T14:06:55.626000Z",
+          "is_reply": false,
+          "content_hash": "f09191b2659061ad..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Remember when the water turned brown but it was no big deal.  Then the pump broke a few months later...",
+          "created_at": "2024-11-03T14:17:04.987000Z",
+          "is_reply": false,
+          "content_hash": "afb1a615ca0c41d2..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Lots of mudfish at the pier.",
+          "created_at": "2024-11-03T15:43:55.453000Z",
+          "is_reply": false,
+          "content_hash": "44c566bdfe85ac0b..."
+        }
+      ]
+    },
+    "fbpostkw": {
+      "page_id": "fbpostkw",
+      "section_id": "fbpostkw",
+      "comments_extracted": 2,
+      "comments_transformed": 2,
+      "would_import": 2,
+      "validation_passed": true,
+      "extraction_duration": 1.1370949745178223,
+      "transformation_duration": 0.00020194053649902344,
+      "validation_duration": 0.0007872581481933594,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "The votes are rigged. Sad no one works to watch.",
+          "created_at": "2025-08-21T13:23:34.809000Z",
+          "is_reply": false,
+          "content_hash": "a4f05f90fe0fc39f..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "This council has resisted both. Districts are key to transparency. The Utility issue is a joke.",
+          "created_at": "2025-08-22T08:50:00.402000Z",
+          "is_reply": false,
+          "content_hash": "7f3ca004e60fb69e..."
+        }
+      ]
+    },
+    "ffhp": {
+      "page_id": "ffhp",
+      "section_id": "ffhp",
+      "comments_extracted": 2,
+      "comments_transformed": 2,
+      "would_import": 2,
+      "validation_passed": true,
+      "extraction_duration": 1.2038400173187256,
+      "transformation_duration": 0.0002040863037109375,
+      "validation_duration": 0.0007159709930419922,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "How is this possible a free year?\nWhat about the Constitution of Alabama?",
+          "created_at": "2024-05-15T15:32:34.024000Z",
+          "is_reply": false,
+          "content_hash": "5ff1b9cb0aaf4c91..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "alabama obviously lacks a constitution. this is what you get when you let one party rule",
+          "created_at": "2024-05-17T11:28:00.397000Z",
+          "is_reply": false,
+          "content_hash": "f2a0ab1366279427..."
+        }
+      ]
+    },
+    "fft": {
+      "page_id": "fft",
+      "section_id": "fft",
+      "comments_extracted": 4,
+      "comments_transformed": 4,
+      "would_import": 4,
+      "validation_passed": true,
+      "extraction_duration": 1.3135311603546143,
+      "transformation_duration": 0.0002651214599609375,
+      "validation_duration": 0.0007050037384033203,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "God help Baldwin County. A corrupt backward sh*thole!!!",
+          "created_at": "2025-08-16T12:19:08.806000Z",
+          "is_reply": false,
+          "content_hash": "6118df4d91802bd3..."
+        },
+        {
+          "author_name": "Miscegenation",
+          "content": "If it is what you say it is why is everyone and their dog selling everyting and moving down here? Yo...",
+          "created_at": "2025-08-17T12:29:23.536000Z",
+          "is_reply": false,
+          "content_hash": "63fa8713599d897c..."
+        },
+        {
+          "author_name": "link",
+          "content": "My dog is my sole provider.  I didn't have a choice.",
+          "created_at": "2025-08-19T13:34:29.744000Z",
+          "is_reply": false,
+          "content_hash": "ecdfa51ed35615a1..."
+        }
+      ]
+    },
+    "fhofh": {
+      "page_id": "fhofh",
+      "section_id": "fhofh",
+      "comments_extracted": 5,
+      "comments_transformed": 5,
+      "would_import": 5,
+      "validation_passed": true,
+      "extraction_duration": 1.8444709777832031,
+      "transformation_duration": 0.0002751350402832031,
+      "validation_duration": 0.0006859302520751953,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Are any of these candidates developers or using Scott Boone Consulting?",
+          "created_at": "2025-07-03T15:26:55.011000Z",
+          "is_reply": false,
+          "content_hash": "933b5273e1a40341..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "000",
+          "created_at": "2025-07-03T17:49:03.470000Z",
+          "is_reply": false,
+          "content_hash": "52b205f8f34f6b41..."
+        },
+        {
+          "author_name": "Miscegenation",
+          "content": "Might want to get someone from the AG's Office to come down and oversee the vote counting like when ...",
+          "created_at": "2025-07-04T09:35:17.110000Z",
+          "is_reply": false,
+          "content_hash": "5dcd67e6b104173e..."
+        }
+      ]
+    },
+    "fire-albritton": {
+      "page_id": "fire-albritton",
+      "section_id": "fire-albritton",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6680150032043457,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "focbc": {
+      "page_id": "focbc",
+      "section_id": "focbc",
+      "comments_extracted": 21,
+      "comments_transformed": 21,
+      "would_import": 21,
+      "validation_passed": true,
+      "extraction_duration": 2.7037768363952637,
+      "transformation_duration": 0.0006723403930664062,
+      "validation_duration": 0.001332998275756836,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Crooked court for family court. Simple remedy. \nGet new judges.",
+          "created_at": "2025-03-23T15:15:36.001000Z",
+          "is_reply": false,
+          "content_hash": "7850ca7679282bda..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "I’ve been going threw the same thing in mobile at Strickland youth center for years",
+          "created_at": "2025-03-23T22:39:33.936000Z",
+          "is_reply": false,
+          "content_hash": "0bf69e84c69dcf08..."
+        },
+        {
+          "author_name": "Miscegenation",
+          "content": "well the elections are rigged in BC. Especially for family court. You have to buy the republican nom...",
+          "created_at": "2025-03-24T07:09:46.024000Z",
+          "is_reply": false,
+          "content_hash": "500cffa97ed5b256..."
+        }
+      ]
+    },
+    "gbaurerun": {
+      "page_id": "gbaurerun",
+      "section_id": "gbaurerun",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6515750885009766,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "goblft": {
+      "page_id": "goblft",
+      "section_id": "goblft",
+      "comments_extracted": 20,
+      "comments_transformed": 20,
+      "would_import": 20,
+      "validation_passed": true,
+      "extraction_duration": 1.987231969833374,
+      "transformation_duration": 0.0006008148193359375,
+      "validation_duration": 0.0010859966278076172,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Why would fairhope continue to \"elect\" scumbags who are ruining the place ? \n\nI'll hang up and liste...",
+          "created_at": "2025-08-27T13:32:12.402000Z",
+          "is_reply": false,
+          "content_hash": "1d7288c80297d8dd..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "At least Fairhope got rid of that sorry Corey Martin who tried to bring in all those illegals.  That...",
+          "created_at": "2025-08-27T15:03:13.267000Z",
+          "is_reply": false,
+          "content_hash": "09eef8f92b9c7a8f..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Let me explain. Oba and GS are the playground of the powerful in Alabama. All the state reps and sen...",
+          "created_at": "2025-08-27T15:23:05.637000Z",
+          "is_reply": false,
+          "content_hash": "aa5d17367ae9c200..."
+        }
+      ]
+    },
+    "gthv": {
+      "page_id": "gthv",
+      "section_id": "gthv",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 0.975797176361084,
+      "transformation_duration": 0.0002849102020263672,
+      "validation_duration": 0.0006608963012695312,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "who is the next guvnAH of Alabama? Or will the legislature just postpone the election ala Zelinsky?",
+          "created_at": "2025-03-15T19:04:54.029000Z",
+          "is_reply": false,
+          "content_hash": "91fe1bbc758a9188..."
+        }
+      ]
+    },
+    "h452": {
+      "page_id": "h452",
+      "section_id": "h452",
+      "comments_extracted": 32,
+      "comments_transformed": 32,
+      "would_import": 32,
+      "validation_passed": true,
+      "extraction_duration": 3.5216879844665527,
+      "transformation_duration": 0.0001862049102783203,
+      "validation_duration": 0.0003380775451660156,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Mack will assuredly try and get Lowery put into the Sheriff's spot. If that happens, you will defini...",
+          "created_at": "2024-07-08T12:52:31.648000Z",
+          "is_reply": false,
+          "content_hash": "756ffe5363673bae..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "https://1819news.com/news/item/baldwin-county-commissioner-matt-mckenzie-puts-name-in-hat-for-sherif...",
+          "created_at": "2024-07-08T13:54:52.316000Z",
+          "is_reply": false,
+          "content_hash": "5e6196dcc86200a6..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "looks like the machine is taking care of Hoss. Give him a cush job up on goat hill and shit. I don't...",
+          "created_at": "2024-07-08T14:01:27.978000Z",
+          "is_reply": false,
+          "content_hash": "43b883e76a0e96b7..."
+        }
+      ]
+    },
+    "h4552": {
+      "page_id": "h4552",
+      "section_id": "h4552",
+      "comments_extracted": 21,
+      "comments_transformed": 21,
+      "would_import": 21,
+      "validation_passed": true,
+      "extraction_duration": 2.4220731258392334,
+      "transformation_duration": 0.0008480548858642578,
+      "validation_duration": 0.0009949207305908203,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "EAGLES SOAR!!",
+          "content": "I have read all documentation on the Murray Lawrence case, & am 100% convinced  the wrong man was co...",
+          "created_at": "2024-07-16T14:43:11.704000Z",
+          "is_reply": false,
+          "content_hash": "d58ae1e19148842c..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Alabama has some come ups coming to it as my Grany used to say. Baldwin County has the most crookedn...",
+          "created_at": "2024-07-16T15:19:30.013000Z",
+          "is_reply": false,
+          "content_hash": "7e8e8a6bc78b2e9b..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Hoss will be exonerated he has already cut a deal. Too late Ripp. Nice try.",
+          "created_at": "2024-07-16T15:23:22.472000Z",
+          "is_reply": false,
+          "content_hash": "092e38d4c620af4d..."
+        }
+      ]
+    },
+    "h4oj24": {
+      "page_id": "h4oj24",
+      "section_id": "h4oj24",
+      "comments_extracted": 5,
+      "comments_transformed": 5,
+      "would_import": 5,
+      "validation_passed": true,
+      "extraction_duration": 1.494969129562378,
+      "transformation_duration": 0.0004968643188476562,
+      "validation_duration": 0.0008788108825683594,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "I cannot vote for Joe Biden. Sorry man.\nHe cannot wipe his own ass.",
+          "created_at": "2024-07-04T11:45:58.266000Z",
+          "is_reply": false,
+          "content_hash": "9952a3128d6644fd..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "I'll bet Biden quit days ago.  They are preparing so they appear less chaotic and organized when he ...",
+          "created_at": "2024-07-05T15:43:14.017000Z",
+          "is_reply": false,
+          "content_hash": "e344564029da67a1..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "He said on ABC he has never felt better and isn't dropping out. He will easily beat Trump because Tr...",
+          "created_at": "2024-07-06T12:24:33.571000Z",
+          "is_reply": false,
+          "content_hash": "581eea2647cd931c..."
+        }
+      ]
+    },
+    "hecats": {
+      "page_id": "hecats",
+      "section_id": "hecats",
+      "comments_extracted": 12,
+      "comments_transformed": 12,
+      "would_import": 12,
+      "validation_passed": true,
+      "extraction_duration": 1.684838056564331,
+      "transformation_duration": 0.00012302398681640625,
+      "validation_duration": 0.0002288818359375,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "This word salad rivals Kamala on Oprah.",
+          "created_at": "2024-09-21T06:20:53.216000Z",
+          "is_reply": false,
+          "content_hash": "7a924ec8e94947f8..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Haitians are God fearing and do not eat pets. About ten thousand are coming to Baldwin county and th...",
+          "created_at": "2024-09-24T15:03:03.873000Z",
+          "is_reply": false,
+          "content_hash": "569424db94ed67ab..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "lol. lol. lol. lol WTH…what you trying to say with that mouth full of salad",
+          "created_at": "2024-09-24T20:06:02.891000Z",
+          "is_reply": false,
+          "content_hash": "2035008c1a3359cb..."
+        }
+      ]
+    },
+    "history": {
+      "page_id": "history",
+      "section_id": "history",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.675018310546875,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "hosscsso": {
+      "page_id": "hosscsso",
+      "section_id": "hosscsso",
+      "comments_extracted": 24,
+      "comments_transformed": 24,
+      "would_import": 24,
+      "validation_passed": true,
+      "extraction_duration": 3.802222967147827,
+      "transformation_duration": 0.00031495094299316406,
+      "validation_duration": 0.0005731582641601562,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "I have heard this from deputy’s for years and years",
+          "created_at": "2024-06-15T15:23:26.317000Z",
+          "is_reply": false,
+          "content_hash": "bd369e2b4c4aea4b..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Ask them about the female deputy that was involved in a domestic incident with her significant other...",
+          "created_at": "2024-06-15T18:45:59.087000Z",
+          "is_reply": false,
+          "content_hash": "1c742054eccc061f..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Yep. That’s right. What about the deputy who told everyone he was a Christian, and when he spoke out...",
+          "created_at": "2024-06-15T19:39:43.455000Z",
+          "is_reply": false,
+          "content_hash": "a4bcb48a630f6354..."
+        }
+      ]
+    },
+    "hpbtpp": {
+      "page_id": "hpbtpp",
+      "section_id": "hpbtpp",
+      "comments_extracted": 74,
+      "comments_transformed": 74,
+      "would_import": 74,
+      "validation_passed": true,
+      "extraction_duration": 9.092452049255371,
+      "transformation_duration": 0.0013501644134521484,
+      "validation_duration": 0.0011510848999023438,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Baldwin County Sheriff Deputies are pissed off and many want to see Hoss gone",
+          "created_at": "2024-06-01T07:20:41.215000Z",
+          "is_reply": false,
+          "content_hash": "852757642eddcbe5..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "We are long overdue getting fix of Wilters an the sheriff they are both corrupt",
+          "created_at": "2024-06-01T07:22:09.391000Z",
+          "is_reply": false,
+          "content_hash": "b9ac0586f2003b3a..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Sorry let me make it clear get RID of Wilters and Mack they are corrupt and BC deserves much better.",
+          "created_at": "2024-06-01T07:25:51.792000Z",
+          "is_reply": false,
+          "content_hash": "128ceb6bb337bc27..."
+        }
+      ]
+    },
+    "i-see-you": {
+      "page_id": "i-see-you",
+      "section_id": "i-see-you",
+      "comments_extracted": 8,
+      "comments_transformed": 8,
+      "would_import": 8,
+      "validation_passed": true,
+      "extraction_duration": 2.070091724395752,
+      "transformation_duration": 0.0004611015319824219,
+      "validation_duration": 0.0008101463317871094,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Camera Guy",
+          "content": "The license plate readers are not actually revenue producers, in that they are not going to be used ...",
+          "created_at": "2023-05-23T13:57:40.942000Z",
+          "is_reply": false,
+          "content_hash": "727c8e003819322a..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "So we are being tracked wherever we go by our government.  Nothing to see here.",
+          "created_at": "2023-05-23T14:32:55.287000Z",
+          "is_reply": false,
+          "content_hash": "f244b67ba3f4a734..."
+        },
+        {
+          "author_name": "👇",
+          "content": "Are there any guarantees that this software won't get upgraded in the future to do more?  Lots of AI...",
+          "created_at": "2023-05-23T14:33:17.756000Z",
+          "is_reply": false,
+          "content_hash": "76cd10a1f1da55d3..."
+        }
+      ]
+    },
+    "im-back": {
+      "page_id": "im-back",
+      "section_id": "im-back",
+      "comments_extracted": 3,
+      "comments_transformed": 3,
+      "would_import": 3,
+      "validation_passed": true,
+      "extraction_duration": 1.3734350204467773,
+      "transformation_duration": 0.0003230571746826172,
+      "validation_duration": 0.00067901611328125,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Looks good Paul.",
+          "created_at": "2023-05-05T02:50:29.345000Z",
+          "is_reply": false,
+          "content_hash": "5b84aa74339cdf31..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Beautiful job",
+          "created_at": "2023-05-05T09:52:05.522000Z",
+          "is_reply": false,
+          "content_hash": "4453d943ad2d6065..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Beautiful!\nI wish we had a local np too. The paper kind. I’m old fashioned ☺️",
+          "created_at": "2023-05-05T12:34:40.743000Z",
+          "is_reply": false,
+          "content_hash": "dfeba495e52789bb..."
+        }
+      ]
+    },
+    "infrafh": {
+      "page_id": "infrafh",
+      "section_id": "infrafh",
+      "comments_extracted": 13,
+      "comments_transformed": 13,
+      "would_import": 13,
+      "validation_passed": true,
+      "extraction_duration": 2.3344571590423584,
+      "transformation_duration": 0.0005359649658203125,
+      "validation_duration": 0.0008020401000976562,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Time to find a new nirvana. They ruint it Ripp.",
+          "created_at": "2024-05-07T09:00:10.217000Z",
+          "is_reply": false,
+          "content_hash": "98c2ccf9392e9de4..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Nothing to see here. Burrell and the rest will be retiring filthy rich soon. They have all made bank...",
+          "created_at": "2024-05-07T13:26:12.767000Z",
+          "is_reply": false,
+          "content_hash": "4a82929b230d17b6..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Jon Gray, aka Polly Flander, has done enough damage to our area. He \"runs\" Eddie Tyler. To quote him...",
+          "created_at": "2024-05-07T14:54:35.319000Z",
+          "is_reply": false,
+          "content_hash": "abb50762e8b233d1..."
+        }
+      ]
+    },
+    "jfmfhbc": {
+      "page_id": "jfmfhbc",
+      "section_id": "jfmfhbc",
+      "comments_extracted": 4,
+      "comments_transformed": 4,
+      "would_import": 4,
+      "validation_passed": true,
+      "extraction_duration": 1.2973191738128662,
+      "transformation_duration": 0.00043392181396484375,
+      "validation_duration": 0.0009419918060302734,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "The Sheriff, Prosecutor and Judge should be held accountable. Mack, Whetstone and especially Wilters...",
+          "created_at": "2024-06-19T20:23:13.148000Z",
+          "is_reply": false,
+          "content_hash": "39ad50abfe9f6612..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "I know of two separate occasions where Mack was a place he shouldn’t have been, dining things he sho...",
+          "created_at": "2024-06-21T22:04:57.211000Z",
+          "is_reply": false,
+          "content_hash": "acf29217f94de492..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Sure would like to hear more details of where Mack was and what he was doing and in what municipalit...",
+          "created_at": "2024-07-15T11:03:45.548000Z",
+          "is_reply": false,
+          "content_hash": "7c6052485ae08bab..."
+        }
+      ]
+    },
+    "jfmfhbcdsa": {
+      "page_id": "jfmfhbcdsa",
+      "section_id": "jfmfhbcdsa",
+      "comments_extracted": 5,
+      "comments_transformed": 5,
+      "would_import": 5,
+      "validation_passed": true,
+      "extraction_duration": 1.5513100624084473,
+      "transformation_duration": 0.0002589225769042969,
+      "validation_duration": 0.00074005126953125,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "It did happen!!!! Don’t let the smoke & mirrors fool you.\n\n1. There was certainly evidence of an ina...",
+          "created_at": "2024-06-20T20:50:26.752000Z",
+          "is_reply": false,
+          "content_hash": "99fe16af321db406..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "All very valid points!\n\nWhen you hire, promote, and protect sexual degenerates, this is one of the i...",
+          "created_at": "2024-06-20T21:18:28.172000Z",
+          "is_reply": false,
+          "content_hash": "4a37494a90bc5c39..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Why do they call him Hoss?\nSounds overdone.",
+          "created_at": "2024-06-29T11:45:23.446000Z",
+          "is_reply": false,
+          "content_hash": "e0260354e1e1b8bf..."
+        }
+      ]
+    },
+    "justice": {
+      "page_id": "justice",
+      "section_id": "justice",
+      "comments_extracted": 6,
+      "comments_transformed": 6,
+      "would_import": 6,
+      "validation_passed": true,
+      "extraction_duration": 1.7860438823699951,
+      "transformation_duration": 0.0004527568817138672,
+      "validation_duration": 0.0009641647338867188,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "Thats how they do you in baldwin county!!!",
+          "created_at": "2025-03-08T13:56:44.032000Z",
+          "is_reply": false,
+          "content_hash": "a9fbc58fc3e65aa8..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "bcso makes good police look bad  Alabama is worse than 3rd world countries totally corrupt",
+          "created_at": "2025-03-08T14:54:53.454000Z",
+          "is_reply": false,
+          "content_hash": "5e8e7103390195d6..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "How many time has a police officer stopped you on a traffic violation and asked you to get out of th...",
+          "created_at": "2025-03-09T14:56:16.427000Z",
+          "is_reply": false,
+          "content_hash": "a2104caef8621531..."
+        }
+      ]
+    },
+    "jvs": {
+      "page_id": "jvs",
+      "section_id": "jvs",
+      "comments_extracted": 8,
+      "comments_transformed": 8,
+      "would_import": 8,
+      "validation_passed": true,
+      "extraction_duration": 1.9860188961029053,
+      "transformation_duration": 0.0005450248718261719,
+      "validation_duration": 0.0012030601501464844,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Hoss is a fine Christian man. What church do you go to Ripp?",
+          "created_at": "2023-09-22T17:09:24.921000Z",
+          "is_reply": false,
+          "content_hash": "6a835ac699a95a71..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Fred G Sanford, going to church does not make you a Christian no more than going to McDonalds makes ...",
+          "created_at": "2023-09-23T12:12:44.249000Z",
+          "is_reply": false,
+          "content_hash": "c15657730f3c3c4d..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Hoss is a good man. He once lent me $5000 and I didn't have to pay him back.",
+          "created_at": "2023-09-24T07:43:01.957000Z",
+          "is_reply": false,
+          "content_hash": "174dd0be8194d931..."
+        }
+      ]
+    },
+    "kafka": {
+      "page_id": "kafka",
+      "section_id": "kafka",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.8373579978942871,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "lcfhofh": {
+      "page_id": "lcfhofh",
+      "section_id": "lcfhofh",
+      "comments_extracted": 5,
+      "comments_transformed": 5,
+      "would_import": 5,
+      "validation_passed": true,
+      "extraction_duration": 1.364687204360962,
+      "transformation_duration": 0.0004191398620605469,
+      "validation_duration": 0.0011699199676513672,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Vickers is our man",
+          "created_at": "2025-08-22T12:56:34.142000Z",
+          "is_reply": false,
+          "content_hash": "83e63e2cf793e697..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Jack has got to go.",
+          "created_at": "2025-08-22T16:41:38.998000Z",
+          "is_reply": false,
+          "content_hash": "8b5b8cf148c2d557..."
+        },
+        {
+          "author_name": "Miscegenation",
+          "content": "Jack has made bank off of being a fairhope shitty councilman. He should be in jail but in alabama it...",
+          "created_at": "2025-08-22T19:07:08.320000Z",
+          "is_reply": false,
+          "content_hash": "1f403f8ca792f13e..."
+        }
+      ]
+    },
+    "lcfhofh2": {
+      "page_id": "lcfhofh2",
+      "section_id": "lcfhofh2",
+      "comments_extracted": 3,
+      "comments_transformed": 3,
+      "would_import": 3,
+      "validation_passed": true,
+      "extraction_duration": 1.3892719745635986,
+      "transformation_duration": 0.0004239082336425781,
+      "validation_duration": 0.0007531642913818359,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "Thank you for the great coverage Mr. Ripp. Please get someone from Montgomery to watch the vote tall...",
+          "created_at": "2025-08-24T11:03:31.377000Z",
+          "is_reply": false,
+          "content_hash": "f5ff7a7f4d9136c4..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Alabama has the purest most perfect elections in all of America. Go cry somewhere else!",
+          "created_at": "2025-08-25T10:18:02.704000Z",
+          "is_reply": false,
+          "content_hash": "c1c61c809b752924..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "FAUXHOPE Good ole Boy Country",
+          "created_at": "2025-09-09T13:33:27.701000Z",
+          "is_reply": false,
+          "content_hash": "4d671c62dcb7c72c..."
+        }
+      ]
+    },
+    "lcfhofh3": {
+      "page_id": "lcfhofh3",
+      "section_id": "lcfhofh3",
+      "comments_extracted": 11,
+      "comments_transformed": 11,
+      "would_import": 11,
+      "validation_passed": true,
+      "extraction_duration": 2.2473530769348145,
+      "transformation_duration": 0.00019621849060058594,
+      "validation_duration": 0.00038695335388183594,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "You can tell a Catalyst candidate by the signs   They are 4X4 signs framed with PVC piping.  They ar...",
+          "created_at": "2025-08-25T15:37:26.845000Z",
+          "is_reply": false,
+          "content_hash": "0bf5558e676bae2f..."
+        },
+        {
+          "author_name": "Miscegenation",
+          "content": "The results are already in! SUCKERS!",
+          "created_at": "2025-08-25T17:21:32.836000Z",
+          "is_reply": false,
+          "content_hash": "7601f92357b94a3e..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "This is absolutely crazy that the same people, election cycle after election cycle, get voted in tim...",
+          "created_at": "2025-08-26T12:34:40.326000Z",
+          "is_reply": false,
+          "content_hash": "86c9c61a1382d5c6..."
+        }
+      ]
+    },
+    "leecounty": {
+      "page_id": "leecounty",
+      "section_id": "leecounty",
+      "comments_extracted": 3,
+      "comments_transformed": 3,
+      "would_import": 3,
+      "validation_passed": true,
+      "extraction_duration": 1.1336092948913574,
+      "transformation_duration": 0.0004260540008544922,
+      "validation_duration": 0.001150369644165039,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "I'm not reading all that.",
+          "created_at": "2024-03-12T19:54:11.050000Z",
+          "is_reply": false,
+          "content_hash": "d13c6c4ace646fb0..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "It happen to me I was assaulted  by a white man and auburn and Lee county stole the video and editin...",
+          "created_at": "2025-05-23T12:10:52.020000Z",
+          "is_reply": false,
+          "content_hash": "d6bec835747da6ac..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Please let me tell my story what kee county and auburn  police  department  did to me",
+          "created_at": "2025-05-23T12:13:36.787000Z",
+          "is_reply": false,
+          "content_hash": "54b4a8e7abe23219..."
+        }
+      ]
+    },
+    "lips": {
+      "page_id": "lips",
+      "section_id": "lips",
+      "comments_extracted": 6,
+      "comments_transformed": 6,
+      "would_import": 6,
+      "validation_passed": true,
+      "extraction_duration": 1.6432271003723145,
+      "transformation_duration": 0.00014781951904296875,
+      "validation_duration": 0.00033283233642578125,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "Mee Maw 4 life! She is the best guvnah Alabammy has had by far! Makes a mean mint julep!",
+          "created_at": "2025-03-03T12:44:58.342000Z",
+          "is_reply": false,
+          "content_hash": "966a057eaf1de5a9..."
+        },
+        {
+          "author_name": "Miscegenation",
+          "content": "Thank you for figting corruption in Alabama.\n\nhttps://www.youtube.com/watch?v=9_umqYU0YK4",
+          "created_at": "2025-03-03T13:21:29.757000Z",
+          "is_reply": false,
+          "content_hash": "2178fea24a423550..."
+        },
+        {
+          "author_name": "2-75 Rangers",
+          "content": "Fucking standing",
+          "created_at": "2025-03-04T13:18:27.956000Z",
+          "is_reply": false,
+          "content_hash": "d7407580e1292b4a..."
+        }
+      ]
+    },
+    "ltgovivy": {
+      "page_id": "ltgovivy",
+      "section_id": "ltgovivy",
+      "comments_extracted": 8,
+      "comments_transformed": 8,
+      "would_import": 8,
+      "validation_passed": true,
+      "extraction_duration": 1.3948421478271484,
+      "transformation_duration": 0.0004730224609375,
+      "validation_duration": 0.0012121200561523438,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "Katie Brittle should step in when she's not voting lockstep with the globalists and how Dick Shelby ...",
+          "created_at": "2025-02-13T08:12:13.320000Z",
+          "is_reply": false,
+          "content_hash": "1aefeaa44236ddcc..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Our VSO Board allows for Transparency and Accountability to Alabama's Patriotic Veterans.  We have b...",
+          "created_at": "2025-02-13T08:59:21.233000Z",
+          "is_reply": false,
+          "content_hash": "d177ed95efdad59d..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "All of our State Politicians should have to try and stay alive using the VA Health System.   We spen...",
+          "created_at": "2025-02-13T09:22:32.890000Z",
+          "is_reply": false,
+          "content_hash": "ddf6650918f7b008..."
+        }
+      ]
+    },
+    "marinez": {
+      "page_id": "marinez",
+      "section_id": "marinez",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6238532066345215,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "mljp": {
+      "page_id": "mljp",
+      "section_id": "mljp",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6335480213165283,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "mljp23": {
+      "page_id": "mljp23",
+      "section_id": "mljp23",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.7041809558868408,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "mljp2332": {
+      "page_id": "mljp2332",
+      "section_id": "mljp2332",
+      "comments_extracted": 9,
+      "comments_transformed": 9,
+      "would_import": 9,
+      "validation_passed": true,
+      "extraction_duration": 2.2277722358703613,
+      "transformation_duration": 0.0003120899200439453,
+      "validation_duration": 0.0007121562957763672,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Arlean Wyckoff",
+          "content": "It Is Time For The Truth The Media You Needs To Do Your Job Here And Investigate Who And What They A...",
+          "created_at": "2024-01-29T18:51:23.905000Z",
+          "is_reply": false,
+          "content_hash": "d8b3d423ad1124a4..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Not just in Alabama. Washington.",
+          "created_at": "2024-01-29T19:11:09.171000Z",
+          "is_reply": false,
+          "content_hash": "f8863db49422a05c..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Stop pointing fingers elsewhere, clean your own house first",
+          "created_at": "2024-01-30T08:52:45.440000Z",
+          "is_reply": false,
+          "content_hash": "69f4f5a0ce03682e..."
+        }
+      ]
+    },
+    "mlpr": {
+      "page_id": "mlpr",
+      "section_id": "mlpr",
+      "comments_extracted": 23,
+      "comments_transformed": 23,
+      "would_import": 23,
+      "validation_passed": true,
+      "extraction_duration": 2.5093300342559814,
+      "transformation_duration": 0.0004239082336425781,
+      "validation_duration": 0.001016855239868164,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "They rose through the ranks on the back of an innocent man!  I have heard horror stories about BCSO",
+          "created_at": "2025-07-31T11:46:58.810000Z",
+          "is_reply": false,
+          "content_hash": "354e0f2b3af1da62..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "They will all pay in the afterlife. They pretend to be Christians but what happens when they die and...",
+          "created_at": "2025-07-31T15:20:09.914000Z",
+          "is_reply": false,
+          "content_hash": "8f5f91ada12d3c20..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Karin Wilson should still be mayor. The machine resumed rigging elections.",
+          "created_at": "2025-07-31T17:41:00.899000Z",
+          "is_reply": false,
+          "content_hash": "f548ebbdbd45b345..."
+        }
+      ]
+    },
+    "msknb": {
+      "page_id": "msknb",
+      "section_id": "msknb",
+      "comments_extracted": 8,
+      "comments_transformed": 8,
+      "would_import": 8,
+      "validation_passed": true,
+      "extraction_duration": 1.5120840072631836,
+      "transformation_duration": 0.0003070831298828125,
+      "validation_duration": 0.0005652904510498047,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "Jack and the boyz got woke TF up!\nDisgusting bunch of scumbags.",
+          "created_at": "2025-08-05T14:01:51.213000Z",
+          "is_reply": false,
+          "content_hash": "1590d8352d2aa71e..."
+        },
+        {
+          "author_name": "Miscegenation",
+          "content": "Have a state official oversee the counting of the votes.",
+          "created_at": "2025-08-05T14:05:53.539000Z",
+          "is_reply": false,
+          "content_hash": "d881a7a72fcdaa07..."
+        },
+        {
+          "author_name": "Miscegenation",
+          "content": "burrel shure is arrogant to a fault",
+          "created_at": "2025-08-05T14:10:13.952000Z",
+          "is_reply": false,
+          "content_hash": "09b8a8b5f6068e6c..."
+        }
+      ]
+    },
+    "msknb2": {
+      "page_id": "msknb2",
+      "section_id": "msknb2",
+      "comments_extracted": 10,
+      "comments_transformed": 10,
+      "would_import": 10,
+      "validation_passed": true,
+      "extraction_duration": 1.9307420253753662,
+      "transformation_duration": 0.0005247592926025391,
+      "validation_duration": 0.0010139942169189453,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "Bureel's butt is puckering tight. Rightfully so.",
+          "created_at": "2025-08-11T15:24:16.670000Z",
+          "is_reply": false,
+          "content_hash": "57d229d2c507b9b9..."
+        },
+        {
+          "author_name": "Anonymous ",
+          "content": "We need city council people in office that are Christians! You will be voted OUT! We are tired of yo...",
+          "created_at": "2025-08-12T04:52:11.558000Z",
+          "is_reply": false,
+          "content_hash": "9f2c12c7809e1df0..."
+        },
+        {
+          "author_name": "Miscegenation",
+          "content": "Jack is a divout Christian. Goes to my church sometimes.",
+          "created_at": "2025-08-12T11:53:56.844000Z",
+          "is_reply": false,
+          "content_hash": "c30907da283359bc..."
+        }
+      ]
+    },
+    "mug": {
+      "page_id": "mug",
+      "section_id": "mug",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 0.9212770462036133,
+      "transformation_duration": 0.00039505958557128906,
+      "validation_duration": 0.0011332035064697266,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Biden had done his job.\nMerica has ruined the Marine Core.",
+          "created_at": "2023-08-30T16:27:06.329000Z",
+          "is_reply": false,
+          "content_hash": "c07c2050be8a9c01..."
+        }
+      ]
+    },
+    "muzzle": {
+      "page_id": "muzzle",
+      "section_id": "muzzle",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6626577377319336,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "newsletter-ripp": {
+      "page_id": "newsletter-ripp",
+      "section_id": "newsletter-ripp",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.7667717933654785,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "nojustice": {
+      "page_id": "nojustice",
+      "section_id": "nojustice",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6352319717407227,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "notahardliquor": {
+      "page_id": "notahardliquor",
+      "section_id": "notahardliquor",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 0.9423630237579346,
+      "transformation_duration": 0.00045680999755859375,
+      "validation_duration": 0.0011539459228515625,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "You guys are a bunch of women haters. misogynistic in a word. Nobody listens to your silly podcast",
+          "created_at": "2023-08-05T07:28:57.349000Z",
+          "is_reply": false,
+          "content_hash": "44054a766082e479..."
+        }
+      ]
+    },
+    "notice": {
+      "page_id": "notice",
+      "section_id": "notice",
+      "comments_extracted": 5,
+      "comments_transformed": 5,
+      "would_import": 5,
+      "validation_passed": true,
+      "extraction_duration": 1.3526010513305664,
+      "transformation_duration": 0.00012302398681640625,
+      "validation_duration": 0.0002980232238769531,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "So you are proof of government sponsored censorship it appears. You may want to consult an attorney....",
+          "created_at": "2025-05-05T14:07:22.091000Z",
+          "is_reply": false,
+          "content_hash": "086e3faf5394507f..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Vets before illegals",
+          "created_at": "2025-05-25T08:41:13.606000Z",
+          "is_reply": false,
+          "content_hash": "bdda1017b612099f..."
+        },
+        {
+          "author_name": "Miscegenation",
+          "content": "Ice raided a state of alabama school construction site in Gulf Shores.\n37 illegals nabbed. why are c...",
+          "created_at": "2025-06-25T12:18:29.432000Z",
+          "is_reply": false,
+          "content_hash": "b3d5803296eebe00..."
+        }
+      ]
+    },
+    "nsnc": {
+      "page_id": "nsnc",
+      "section_id": "nsnc",
+      "comments_extracted": 23,
+      "comments_transformed": 23,
+      "would_import": 23,
+      "validation_passed": true,
+      "extraction_duration": 2.9106030464172363,
+      "transformation_duration": 0.0005278587341308594,
+      "validation_duration": 0.0008618831634521484,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "https://x.com/VigilantFox/status/1829292670969380936/mediaViewer?currentTweet=1829292670969380936&cu...",
+          "created_at": "2024-08-29T19:56:11.613000Z",
+          "is_reply": false,
+          "content_hash": "580fd58d18c3539a..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Elections are rigged and BCSD handles that business. \n\nFact",
+          "created_at": "2024-08-29T20:19:19.926000Z",
+          "is_reply": false,
+          "content_hash": "93cffd52d02ef48e..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Where does the statue to Hoss go?",
+          "created_at": "2024-08-31T22:03:26.910000Z",
+          "is_reply": false,
+          "content_hash": "8b6e3c0d116aa9b7..."
+        }
+      ]
+    },
+    "off-rails": {
+      "page_id": "off-rails",
+      "section_id": "off-rails",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 1.0116002559661865,
+      "transformation_duration": 0.0004010200500488281,
+      "validation_duration": 0.001100778579711914,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "It seems improperly regulated. Maybe look to other states that have done this. This ain't rocket sci...",
+          "created_at": "2025-02-07T11:56:35.682000Z",
+          "is_reply": false,
+          "content_hash": "e0f2b266448ea200..."
+        }
+      ]
+    },
+    "offensive": {
+      "page_id": "offensive",
+      "section_id": "offensive",
+      "comments_extracted": 4,
+      "comments_transformed": 4,
+      "would_import": 4,
+      "validation_passed": true,
+      "extraction_duration": 1.947685956954956,
+      "transformation_duration": 0.0004558563232421875,
+      "validation_duration": 0.0011777877807617188,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "More votes than Obama.",
+          "created_at": "2023-06-09T01:09:59.344000Z",
+          "is_reply": false,
+          "content_hash": "cc8d449da8383535..."
+        },
+        {
+          "author_name": "👇",
+          "content": "Grand jury votes for an indictment or two or thirty? Jared got 2 billion from saudi's. Selling our n...",
+          "created_at": "2023-06-09T21:24:50.220000Z",
+          "is_reply": false,
+          "content_hash": "aa709766f0b5e001..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Wait I thought you were a Biden man?\nTrump sure has a lot of work to do after this mess of an admini...",
+          "created_at": "2023-06-10T05:17:13.019000Z",
+          "is_reply": false,
+          "content_hash": "0e99a1378f4b4dd4..."
+        }
+      ]
+    },
+    "ojfrench": {
+      "page_id": "ojfrench",
+      "section_id": "ojfrench",
+      "comments_extracted": 8,
+      "comments_transformed": 8,
+      "would_import": 8,
+      "validation_passed": true,
+      "extraction_duration": 2.4470808506011963,
+      "transformation_duration": 0.00024700164794921875,
+      "validation_duration": 0.0005671977996826172,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Hoss looks guilty af",
+          "created_at": "2024-08-01T17:49:23.264000Z",
+          "is_reply": false,
+          "content_hash": "3bb286360d4dd883..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "The comments in previous post show how dysfunctional BCSO really is.",
+          "created_at": "2024-08-02T14:01:05.522000Z",
+          "is_reply": false,
+          "content_hash": "427b5c0dc07fa7a5..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Time for boss hogg to go behind bars along with many of his minions. He's illegally harassed citizen...",
+          "created_at": "2024-08-02T23:36:56.525000Z",
+          "is_reply": false,
+          "content_hash": "bd1856de3c208206..."
+        }
+      ]
+    },
+    "pfrr": {
+      "page_id": "pfrr",
+      "section_id": "pfrr",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.8241949081420898,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "qdd6ccc": {
+      "page_id": "qdd6ccc",
+      "section_id": "qdd6ccc",
+      "comments_extracted": 19,
+      "comments_transformed": 19,
+      "would_import": 19,
+      "validation_passed": true,
+      "extraction_duration": 4.726171970367432,
+      "transformation_duration": 0.0006518363952636719,
+      "validation_duration": 0.0013370513916015625,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Qualifications matter",
+          "created_at": "2025-08-23T07:42:48.706000Z",
+          "is_reply": false,
+          "content_hash": "6f26fbb87d3a0c6a..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "This young man has worked hard to represent the people, Byrian has earned there respect and they sup...",
+          "created_at": "2025-08-23T08:34:49.513000Z",
+          "is_reply": false,
+          "content_hash": "b8438ea10ca1f4e8..."
+        },
+        {
+          "author_name": "Shelley Hayes",
+          "content": "He can't even enforce the deed restrictions in Lake Forest!!  Have you seen the place?",
+          "created_at": "2025-08-23T08:37:02.800000Z",
+          "is_reply": false,
+          "content_hash": "ac5714aa6c599206..."
+        }
+      ]
+    },
+    "railroaded": {
+      "page_id": "railroaded",
+      "section_id": "railroaded",
+      "comments_extracted": 4,
+      "comments_transformed": 4,
+      "would_import": 4,
+      "validation_passed": true,
+      "extraction_duration": 1.6321611404418945,
+      "transformation_duration": 0.00045490264892578125,
+      "validation_duration": 0.0012118816375732422,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Doesn't appear too Christian anymore.",
+          "created_at": "2023-10-05T20:07:11.368000Z",
+          "is_reply": false,
+          "content_hash": "1bf6a54d6ca72df5..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "\"Hoss\" appears mentally unstable and paranoid.  I think it may be time to vote him out. Problem is h...",
+          "created_at": "2023-10-06T11:44:09.149000Z",
+          "is_reply": false,
+          "content_hash": "179e7031690c3dfa..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "https://rippreport.com/p/baldwin-county-wrongful-conviction/",
+          "created_at": "2023-10-09T19:13:51.114000Z",
+          "is_reply": false,
+          "content_hash": "d246fb0c53c20da5..."
+        }
+      ]
+    },
+    "rallvet": {
+      "page_id": "rallvet",
+      "section_id": "rallvet",
+      "comments_extracted": 3,
+      "comments_transformed": 3,
+      "would_import": 3,
+      "validation_passed": true,
+      "extraction_duration": 1.5209128856658936,
+      "transformation_duration": 0.0004420280456542969,
+      "validation_duration": 0.0011892318725585938,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "EAGLES SOAR!!",
+          "content": "I went, was extremely disappointed at the turnout, but was then told Memaw had it policed, & sure en...",
+          "created_at": "2025-03-01T09:32:19.089000Z",
+          "is_reply": false,
+          "content_hash": "b059f981c0714cf3..."
+        },
+        {
+          "author_name": "Miscegenation",
+          "content": "Biden did this. He and his crackhead son",
+          "created_at": "2025-03-02T15:34:01.425000Z",
+          "is_reply": false,
+          "content_hash": "03d9f02003cf18c4..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "They should have ignored the Biden syndrome Governor and showed up with a 1000 vets and let them try...",
+          "created_at": "2025-03-04T16:02:57.979000Z",
+          "is_reply": false,
+          "content_hash": "84e9e1816a752ef3..."
+        }
+      ]
+    },
+    "roundhouse": {
+      "page_id": "roundhouse",
+      "section_id": "roundhouse",
+      "comments_extracted": 2,
+      "comments_transformed": 2,
+      "would_import": 2,
+      "validation_passed": true,
+      "extraction_duration": 1.228515863418579,
+      "transformation_duration": 0.00011110305786132812,
+      "validation_duration": 0.00028395652770996094,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Jeanne Carney",
+          "content": "Same old players in this development game, preying on the residents sympathies to get what  they des...",
+          "created_at": "2023-12-01T19:18:31.590000Z",
+          "is_reply": false,
+          "content_hash": "6b203bc0e9a0cd3d..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Fairhope is full. Somebody hang the sign for crying out loud. Density has reached its limit. Any foo...",
+          "created_at": "2023-12-02T06:50:47.655000Z",
+          "is_reply": false,
+          "content_hash": "b4729da8136c2b81..."
+        }
+      ]
+    },
+    "rrrerun": {
+      "page_id": "rrrerun",
+      "section_id": "rrrerun",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.8164091110229492,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "rule32": {
+      "page_id": "rule32",
+      "section_id": "rule32",
+      "comments_extracted": 3,
+      "comments_transformed": 3,
+      "would_import": 3,
+      "validation_passed": true,
+      "extraction_duration": 1.4683442115783691,
+      "transformation_duration": 0.0002799034118652344,
+      "validation_duration": 0.0006000995635986328,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Put that fat pos D.A. Whetstone in prison.",
+          "created_at": "2023-12-15T17:22:16.377000Z",
+          "is_reply": false,
+          "content_hash": "992d532fa77aaa78..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Nothing will happen. The Klan is in charge.",
+          "created_at": "2023-12-17T06:59:46.427000Z",
+          "is_reply": false,
+          "content_hash": "8cf78eaf7f5750b6..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Give ' em hell. My compliments to RIPP Report.",
+          "created_at": "2024-01-01T13:50:33.097000Z",
+          "is_reply": false,
+          "content_hash": "4e5c804e1b3569de..."
+        }
+      ]
+    },
+    "smell-test": {
+      "page_id": "smell-test",
+      "section_id": "smell-test",
+      "comments_extracted": 25,
+      "comments_transformed": 25,
+      "would_import": 25,
+      "validation_passed": true,
+      "extraction_duration": 2.0177390575408936,
+      "transformation_duration": 0.0006117820739746094,
+      "validation_duration": 0.0005440711975097656,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Baldwin County is so corrupt that if citizens understood  the political and white collar crime that ...",
+          "created_at": "2024-02-20T07:49:11.768000Z",
+          "is_reply": false,
+          "content_hash": "f1e44cf7fad784d9..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Mr. Ripp has been exposing these faux Christian miscreants for decades now. Damn shame nothign is ev...",
+          "created_at": "2024-02-20T10:14:32.734000Z",
+          "is_reply": false,
+          "content_hash": "2d882fe0ad581952..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Alabama is a great place to live a Christian LIfE.",
+          "created_at": "2024-02-20T16:55:52.137000Z",
+          "is_reply": false,
+          "content_hash": "8fc97f1c00668b46..."
+        }
+      ]
+    },
+    "stealing-from-kids": {
+      "page_id": "stealing-from-kids",
+      "section_id": "stealing-from-kids",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 1.0161657333374023,
+      "transformation_duration": 0.0003237724304199219,
+      "validation_duration": 0.0008282661437988281,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "The KKK that jailed Little Bubba still runs the state.",
+          "created_at": "2023-11-05T08:25:23.876000Z",
+          "is_reply": false,
+          "content_hash": "68ca8515984e7801..."
+        }
+      ]
+    },
+    "stirring-pot-bsp": {
+      "page_id": "stirring-pot-bsp",
+      "section_id": "stirring-pot-bsp",
+      "comments_extracted": 9,
+      "comments_transformed": 9,
+      "would_import": 9,
+      "validation_passed": true,
+      "extraction_duration": 1.559180736541748,
+      "transformation_duration": 0.0005140304565429688,
+      "validation_duration": 0.0011477470397949219,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Kamala wins a close race. Most Alabama residents will be relocated to camps",
+          "created_at": "2024-10-19T10:27:04.739000Z",
+          "is_reply": false,
+          "content_hash": "c9cabc265951ade6..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "dibs on jellystone",
+          "created_at": "2024-10-20T12:37:35.807000Z",
+          "is_reply": false,
+          "content_hash": "92757c6b5deb112f..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Sinister. I think you are on to something. Maybe maybe not.",
+          "created_at": "2024-10-21T12:55:59.698000Z",
+          "is_reply": false,
+          "content_hash": "3696d0bfb2e569fb..."
+        }
+      ]
+    },
+    "subscribe": {
+      "page_id": "subscribe",
+      "section_id": "subscribe",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6638970375061035,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "tehmrtsp": {
+      "page_id": "tehmrtsp",
+      "section_id": "tehmrtsp",
+      "comments_extracted": 2,
+      "comments_transformed": 2,
+      "would_import": 2,
+      "validation_passed": true,
+      "extraction_duration": 1.1013901233673096,
+      "transformation_duration": 0.0006110668182373047,
+      "validation_duration": 0.0012018680572509766,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "https://rippreport.com/p/advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstrea...",
+          "created_at": "2025-08-21T10:58:09.953000Z",
+          "is_reply": false,
+          "content_hash": "17ea5df65ab52698..."
+        },
+        {
+          "author_name": "link",
+          "content": "[Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream\n](https://rippreport.c...",
+          "created_at": "2025-08-22T15:11:27.427000Z",
+          "is_reply": false,
+          "content_hash": "24329b48e38b3cad..."
+        }
+      ]
+    },
+    "the180": {
+      "page_id": "the180",
+      "section_id": "the180",
+      "comments_extracted": 4,
+      "comments_transformed": 4,
+      "would_import": 4,
+      "validation_passed": true,
+      "extraction_duration": 1.3780131340026855,
+      "transformation_duration": 0.00013685226440429688,
+      "validation_duration": 0.00032329559326171875,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Finebaum Mack and Harris all suck and blow. Who gets the nod after boss hog ? Rumor has it that it's...",
+          "created_at": "2024-08-25T18:47:09.406000Z",
+          "is_reply": false,
+          "content_hash": "d45d6a5edea7d74c..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "So much for a good change. Lowry is in. Here comes the train wreck toot toot",
+          "created_at": "2024-08-26T14:25:41.453000Z",
+          "is_reply": false,
+          "content_hash": "ba4fe4f5d3b6b393..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Lowry has done nothing but been propped up by Mack for the past 20 years. He isn’t a true deputy, an...",
+          "created_at": "2024-08-26T15:15:52.013000Z",
+          "is_reply": false,
+          "content_hash": "c3c61e355032f71a..."
+        }
+      ]
+    },
+    "thecrimeofcentury": {
+      "page_id": "thecrimeofcentury",
+      "section_id": "thecrimeofcentury",
+      "comments_extracted": 2,
+      "comments_transformed": 2,
+      "would_import": 2,
+      "validation_passed": true,
+      "extraction_duration": 1.1432828903198242,
+      "transformation_duration": 0.0004169940948486328,
+      "validation_duration": 0.0011250972747802734,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "Power and money in Fairhope has ruint fairhopia",
+          "created_at": "2025-02-04T20:36:23.679000Z",
+          "is_reply": false,
+          "content_hash": "c0da99346637fc28..."
+        },
+        {
+          "author_name": "link ",
+          "content": "The experiment is over.  Time to move back to Des Moines",
+          "created_at": "2025-02-05T12:41:58.156000Z",
+          "is_reply": false,
+          "content_hash": "122296c11f282265..."
+        }
+      ]
+    },
+    "tlefn": {
+      "page_id": "tlefn",
+      "section_id": "tlefn",
+      "comments_extracted": 9,
+      "comments_transformed": 9,
+      "would_import": 9,
+      "validation_passed": true,
+      "extraction_duration": 2.5410468578338623,
+      "transformation_duration": 0.00035309791564941406,
+      "validation_duration": 0.0007569789886474609,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "https://youtu.be/sLChEXaha2s        Listen",
+          "created_at": "2025-09-10T15:03:50.443000Z",
+          "is_reply": false,
+          "content_hash": "58eec36cc376d438..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Holy wall of text Batman",
+          "created_at": "2025-09-10T15:15:01.926000Z",
+          "is_reply": false,
+          "content_hash": "cd7faed773693c23..."
+        },
+        {
+          "author_name": "link",
+          "content": "[Backstory Podcast #4 You Shall Not Pass!](https://youtu.be/sLChEXaha2s)",
+          "created_at": "2025-09-10T15:43:15.247000Z",
+          "is_reply": false,
+          "content_hash": "cc0d2f8884246e12..."
+        }
+      ]
+    },
+    "top": {
+      "page_id": "top",
+      "section_id": "top",
+      "comments_extracted": 5,
+      "comments_transformed": 5,
+      "would_import": 5,
+      "validation_passed": true,
+      "extraction_duration": 1.7232871055603027,
+      "transformation_duration": 0.0004401206970214844,
+      "validation_duration": 0.0011239051818847656,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Sherry ",
+          "content": "It’s scary to live in Alabama. So many stay frustrated and angry with the system. So many stay poor ...",
+          "created_at": "2023-07-22T01:29:15.080000Z",
+          "is_reply": false,
+          "content_hash": "d1a063014beecbe5..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Alabama is a corrupt sh#thole. They rig elections and keep minorities in their proper place. Argue m...",
+          "created_at": "2023-07-22T21:32:49.670000Z",
+          "is_reply": false,
+          "content_hash": "33ef893a96cba9ab..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Is Jack Burrell a top or a bottom? Enquiring minds...",
+          "created_at": "2023-07-26T22:36:23.803000Z",
+          "is_reply": false,
+          "content_hash": "ea6575ed88af3e08..."
+        }
+      ]
+    },
+    "trump": {
+      "page_id": "trump",
+      "section_id": "trump",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.6347451210021973,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "tunnel": {
+      "page_id": "tunnel",
+      "section_id": "tunnel",
+      "comments_extracted": 3,
+      "comments_transformed": 3,
+      "would_import": 3,
+      "validation_passed": true,
+      "extraction_duration": 1.029015064239502,
+      "transformation_duration": 0.0002727508544921875,
+      "validation_duration": 0.0007522106170654297,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Jack and the airport...\n\nActivity at night.",
+          "created_at": "2023-05-10T19:36:29.235000Z",
+          "is_reply": false,
+          "content_hash": "7cdf344674e8a6e1..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Mister Ripp the demise of news papers 📰 has really hurt small towns. Fairhope shitty council people ...",
+          "created_at": "2023-05-11T07:34:07.488000Z",
+          "is_reply": false,
+          "content_hash": "1e8706d962c9f77c..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Toll on the tunnel sayz Jack!",
+          "created_at": "2023-05-11T13:21:24.043000Z",
+          "is_reply": false,
+          "content_hash": "0b0455da6e1a1807..."
+        }
+      ]
+    },
+    "vet-23": {
+      "page_id": "vet-23",
+      "section_id": "vet-23",
+      "comments_extracted": 0,
+      "comments_transformed": 0,
+      "would_import": 0,
+      "validation_passed": true,
+      "extraction_duration": 0.7134771347045898,
+      "transformation_duration": 0.0,
+      "validation_duration": 0.0,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": []
+    },
+    "vote-march-5th": {
+      "page_id": "vote-march-5th",
+      "section_id": "vote-march-5th",
+      "comments_extracted": 3,
+      "comments_transformed": 3,
+      "would_import": 3,
+      "validation_passed": true,
+      "extraction_duration": 1.3202919960021973,
+      "transformation_duration": 0.00042700767517089844,
+      "validation_duration": 0.0011568069458007812,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Jerry Carl LOST for 3 reasons!",
+          "created_at": "2024-03-08T14:54:44.154000Z",
+          "is_reply": false,
+          "content_hash": "a7823d5277f925c9..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "[!](https://rippreport.com/img/i-10-toll-state-thumb.png)",
+          "created_at": "2024-07-19T21:38:11.560000Z",
+          "is_reply": false,
+          "content_hash": "259b825a4f357a34..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "![test](https://rippreport.com/img/i-10-toll-state-thumb.png)",
+          "created_at": "2024-07-19T21:40:43.004000Z",
+          "is_reply": false,
+          "content_hash": "7ff334520dbb34e4..."
+        }
+      ]
+    },
+    "vote-smart": {
+      "page_id": "vote-smart",
+      "section_id": "vote-smart",
+      "comments_extracted": 7,
+      "comments_transformed": 7,
+      "would_import": 7,
+      "validation_passed": true,
+      "extraction_duration": 1.8518378734588623,
+      "transformation_duration": 0.0002429485321044922,
+      "validation_duration": 0.0005397796630859375,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "glenna grant",
+          "content": "Thank you for this much-needed information!",
+          "created_at": "2024-02-14T13:57:10.503000Z",
+          "is_reply": false,
+          "content_hash": "55205393b87daa29..."
+        },
+        {
+          "author_name": "glenna grant",
+          "content": "What about Jerry Carl/ Barry Moore?",
+          "created_at": "2024-02-14T14:01:00.110000Z",
+          "is_reply": false,
+          "content_hash": "0ffa1d4a555d7d95..."
+        },
+        {
+          "author_name": "Anonymous",
+          "content": "Jerry Carl and Jack Burrell lied to everyone about the Mobile Toll Bridge. Lack luster performance b...",
+          "created_at": "2024-02-15T10:19:46.430000Z",
+          "is_reply": false,
+          "content_hash": "91973db481dce33e..."
+        }
+      ]
+    },
+    "war": {
+      "page_id": "war",
+      "section_id": "war",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 1.3126678466796875,
+      "transformation_duration": 0.0003788471221923828,
+      "validation_duration": 0.0011110305786132812,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Miscegenation",
+          "content": "Kay is drunk 24-7 and takes pills to wake up and go to sleep",
+          "created_at": "2025-02-06T15:26:01.928000Z",
+          "is_reply": false,
+          "content_hash": "303cb6ef56851f09..."
+        }
+      ]
+    },
+    "what-the": {
+      "page_id": "what-the",
+      "section_id": "what-the",
+      "comments_extracted": 1,
+      "comments_transformed": 1,
+      "would_import": 1,
+      "validation_passed": true,
+      "extraction_duration": 0.9841930866241455,
+      "transformation_duration": 0.00038886070251464844,
+      "validation_duration": 0.0011069774627685547,
+      "issues": [],
+      "warnings": [],
+      "sample_comments": [
+        {
+          "author_name": "Anonymous",
+          "content": "Alabama deserves better than Bob Riley running the state from his winnebago. Damn shame Ripp.",
+          "created_at": "2024-04-10T17:29:17.371000Z",
+          "is_reply": false,
+          "content_hash": "d9d682d21b7dc529..."
+        }
+      ]
+    }
+  }
+}

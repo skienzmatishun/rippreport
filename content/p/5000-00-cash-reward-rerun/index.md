@@ -118,4 +118,4 @@ Stop blowing smoke Jack and blaming everyone else for YOUR actions, put your mon
 
 {{< subscribe >}}
 
-{{< chat 5000rerun >}}
+{{< aicomments "5000rerun" >}}

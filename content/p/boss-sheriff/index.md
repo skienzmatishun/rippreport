@@ -100,6 +100,6 @@ The FBI has been notified of citizens concerns. This is not new news but a patte
 
 {{< socialpreview url="https://rippreport.com/p/sheriff-huey-boss-mack-secret-police-2/" >}}
 
-{{< chat boss-sheriff >}}
+{{< aicomments "boss-sheriff" >}}
 
 {{< mailchimp >}}

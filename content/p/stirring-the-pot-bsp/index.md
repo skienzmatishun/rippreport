@@ -94,4 +94,4 @@ Notebook LM Podcasts, the Tesla booster catch, the Tesla self driving autonomous
 
 
 
-{{< chat stirring-pot-bsp >}}
+{{< aicomments "stirring-pot-bsp" >}}

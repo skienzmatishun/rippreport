@@ -143,4 +143,4 @@ Thatcher mentioned they are planning the submit to the planning commission next 
 
 This project is designed and marketed to draw business from downtown Fairhope. Fairhope your quality of life is for sale.
 
-{{< chat infrafh >}}
+{{< aicomments "infrafh" >}}

@@ -230,6 +230,6 @@ The Ripp Reporter
 <span id="rippreport.com-3km4knktq5t2h"></span>
 <script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.com" data-skeet="3km4knktq5t2h" ></script>
 
-{{< chat alagasdasd27 >}}
+{{< aicomments "alagasdasd27" >}}
 
 {{< subscribe >}}

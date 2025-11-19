@@ -139,4 +139,4 @@ Opinions expressed in the Alabama Gazette are the opinions and viewpoints of the
 {{< socialpreview url="https://www.alabamagazette.com/story/2024/12/01/opinion/span-classbrnwsbreaking-news-spanstate-of-medical-cannabis-in-alabama/5396.html">}}
 </center>
 
-{{< chat off-rails >}}
+{{< aicomments "off-rails" >}}

@@ -112,4 +112,4 @@ sets the policies of the department. Under the Ivey/Andrew Jones bill the board 
 
 Rep. Ed Oliver (R-Dadeville) is sponsoring the bill in the Alabama House of Representatives.
 
-{{< chat ltgovivy >}}
+{{< aicomments "ltgovivy" >}}

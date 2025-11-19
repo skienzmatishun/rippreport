@@ -154,4 +154,4 @@ Jeff Poor said it best Kay Ivy is petty and vindictive.
 
 Thank You Lagniappe and Baldwin County Legislative Delegation for backing the veterans, It will not be forgotten. 
 
-{{< chat gthv >}}
+{{< aicomments "gthv" >}}

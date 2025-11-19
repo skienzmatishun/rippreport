@@ -133,6 +133,6 @@ Or there Fairhope Budget Overview?
 
 [Budget](https://rippreport.com/p/budget.pdf) 
 
-{{< chat crier >}}
+{{< aicomments "crier" >}}
 
 {{< mailchimp >}}

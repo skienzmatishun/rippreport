@@ -129,4 +129,4 @@ Is this the “at large” council you voted for? It is the same council that co
 
 {{< subscribe >}}
 
-{{< chat rrrerun >}}
+{{< aicomments "rrrerun" >}}

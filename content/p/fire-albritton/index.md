@@ -128,4 +128,4 @@ The Ethics Commission is a joke and Mr. Albritton is a fraud. Wake up ME MA
 
 
 
-{{< chat fire-albritton >}}
+{{< aicomments "fire-albritton" >}}

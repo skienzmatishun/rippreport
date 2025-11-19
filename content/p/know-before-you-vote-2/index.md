@@ -97,4 +97,4 @@ Are you aware that the Fairhope City Council has ignored repeated concerns from 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1UrJv1sStE?si=5jtr_auhbLFAs17H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-{{< chat msknb2 >}}
+{{< aicomments "msknb2" >}}

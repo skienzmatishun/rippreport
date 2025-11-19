@@ -96,6 +96,6 @@ Today we have an audio story for you that has been a long, long time coming. Mur
 "A Verbal Lynching In Alabama" is a copyrighted work by Nancy Koerner and is being shared by Backstory Podcast with her permission.
 
 
-{{< chat mljp >}}
+{{< aicomments "mljp" >}}
 
 {{< mailchimp>}}

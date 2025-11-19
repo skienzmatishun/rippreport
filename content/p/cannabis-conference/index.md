@@ -127,6 +127,6 @@ Email: info@alabamacannaconference.com
 Website: alabamacannaconference.com
 
 
-{{< chat cannabis >}}
+{{< aicomments "cannabis" >}}
 
 {{< mailchimp >}}

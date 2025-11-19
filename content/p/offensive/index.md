@@ -94,4 +94,4 @@ From the Capital Police stopping the school children from singing the National A
 
 
 
-{{< chat offensive >}}
+{{< aicomments "offensive" >}}

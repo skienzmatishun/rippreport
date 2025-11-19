@@ -94,5 +94,5 @@ Nowhere is the “Haitian Immigrant Eating Cats” debate more front and center 
 
 
 
-{{< chat hecats >}}
+{{< aicomments "hecats" >}}
 

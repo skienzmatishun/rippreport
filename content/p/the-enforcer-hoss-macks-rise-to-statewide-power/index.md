@@ -106,4 +106,4 @@ related_articles:
   Your browser does not support the video tag.
 </video>
 
-{{< chat tehmrtsp >}}
+{{< aicomments "tehmrtsp" >}}

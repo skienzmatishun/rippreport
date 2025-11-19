@@ -100,4 +100,4 @@ Even though we have been M.I.A we have stayed up with the absolutely crazy polit
 
 
 
-{{< chat bpingfhmia >}}
+{{< aicomments "bpingfhmia" >}}

@@ -51,4 +51,4 @@ related_articles:
 Wishing everyone a day filled with freedom, fireworks, and fun! Enjoy the celebrations and make some wonderful memories.
 
 
-{{< chat 4th2025 >}}
+{{< aicomments "4th2025" >}}

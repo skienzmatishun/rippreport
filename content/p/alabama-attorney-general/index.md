@@ -137,4 +137,4 @@ Francis Paul Ripp
 
 The Ripp Report, A not for profit consumer organization.
 
-{{< chat alabama-attorney-general >}}
+{{< aicomments "alabama-attorney-general" >}}

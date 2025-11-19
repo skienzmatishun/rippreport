@@ -109,4 +109,4 @@ Much Much More coming on these subjects!
 .cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:12 2024 UTC"]) {display:none;}
 .cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:27 2024 UTC"]) {display:none;}
 </style>
-{{< chat hpbtpp >}}
+{{< aicomments "hpbtpp" >}}

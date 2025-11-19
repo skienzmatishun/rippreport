@@ -137,4 +137,4 @@ Full family insurance plus salary for the council and a double dipping Mayor are
 
 Pay attention to that 2.65, under the table recreation land at the airport, Jack has plans for that land, he will let ya know later, when you forget all the above.
 
-{{< chat all-mouth >}}
+{{< aicomments "all-mouth" >}}

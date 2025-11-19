@@ -118,4 +118,4 @@ Despite the setback, Ripp and Koerner remain dedicated to the case, continuing r
 
 Opinions in the Alabama Gazette are those of the writer alone and do not necessarily reflect the views of the Alabama Gazette staff or publishers.
 
-{{< chat asblfahpem >}}
+{{< aicomments "asblfahpem" >}}

@@ -209,5 +209,5 @@ Montgomery Alabama 36130
 .cactus-comment:has(.cactus-comment-time[title="Wed Jul 31 09:57:10 2024 UTC"]) {opacity: 0.62;order: 15;}
 
 </style>
-{{< chat baldwincountysheriffappointment >}}
+{{< aicomments "baldwincountysheriffappointment" >}}
 

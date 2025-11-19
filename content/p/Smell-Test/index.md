@@ -119,4 +119,4 @@ VOTE MARCH 5th
 
 <img style="margin-bottom:20px" src="/img/carrie.jpg" />
 
-{{< chat smell-test >}}
+{{< aicomments "smell-test" >}}

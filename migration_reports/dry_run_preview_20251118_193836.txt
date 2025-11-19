@@ -1,0 +1,179 @@
+================================================================================
+DRY RUN PREVIEW REPORT
+================================================================================
+
+This is a DRY RUN - no data has been imported to the database.
+
+SUMMARY
+--------------------------------------------------------------------------------
+Started:  2025-11-19T01:33:34.704993Z
+Completed: 2025-11-19T01:38:36.001188Z
+Duration: 5m 1.3s
+
+Total Pages:       117
+Successful Pages:  117
+Pages with Issues: 0
+
+Comments Extracted:    655
+Comments Would Import: 655
+Total Issues:          0
+Total Warnings:        0
+
+RECOMMENDATION
+--------------------------------------------------------------------------------
+GO: Migration looks good (100.0% success rate, 655 comments ready to import).
+
+SAMPLE COMMENTS
+--------------------------------------------------------------------------------
+
+/p/5000-00-cash-reward-rerun:
+  1. Miscegenation at 2025-08-06T06:04:07.012000Z
+     Jack ain't going nowhere. We run this town. Not you Ripp1
+  2. Anonymous at 2025-08-07T13:15:06.998000Z
+     **@Reply to Cat List:**
+*Jack ain't going nowhere. We run this town. Not you Ripp1*
+
+WE run this tow...
+  3. Anonymous at 2025-08-09T17:55:57.266000Z
+     Insanity is doing the same thing over and over again expecting a different outcome.  Jack has cost F...
+
+/p/backstory-podcast-no-186-change-is-coming-alabama:
+  1. Anonymous at 2024-12-07T05:30:53.351000Z
+     The Marine hero in NYC was trained to protect and defend. 
+
+Justice was done.
+  2. link  at 2025-07-21T13:35:46.856000Z
+     **@Reply to Anonymous:**
+*The Marine hero in NYC was trained to protect and defend.Justice was done....
+
+/p/backstory-podcast-no-188-assassins-drones-and-political-corruption:
+  1. Anonymous at 2024-12-15T12:11:42.237000Z
+     Why do the drones have FAA safety green and red lights? Iran is more afraid of the FAA than the mili...
+  2. Anonymous at 2024-12-15T12:54:21.489000Z
+     Everything about this seems off.  It's not just that there are aren't weird unexplained objects like...
+  3. Anonymous at 2024-12-21T10:20:41.192000Z
+     The UFOs came and went to Baldwin county. 
+
+They found no intelligent life here.
+
+PER-PAGE STATISTICS
+--------------------------------------------------------------------------------
+✓ /p/45th-of-july-2025: 0 extracted, 0 would import
+✓ /p/5000-00-cash-reward-rerun: 5 extracted, 5 would import
+✓ /p/7432-days-in-jail: 2 extracted, 2 would import
+✓ /p/ALABAMA ETHICS COMMISSION HIDE THE LIST: 9 extracted, 9 would import
+✓ /p/BACKPEDALING-FAUXHOPE: 3 extracted, 3 would import
+✓ /p/BALDWIN-COUNTY-SHERIFF-APPOINTMENT: 13 extracted, 13 would import
+✓ /p/Baldwin-county-wrongful-conviction: 2 extracted, 2 would import
+✓ /p/FAIRHOPE-FREE-YEAR: 2 extracted, 2 would import
+✓ /p/FAUXHOPE HISTORY: 0 extracted, 0 would import
+✓ /p/FAUXHOPE-TUNNEL: 3 extracted, 3 would import
+✓ /p/FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT: 8 extracted, 8 would import
+✓ /p/I-SEE-YOU: 8 extracted, 8 would import
+✓ /p/JUDGE-VS-SHERIFF: 8 extracted, 8 would import
+✓ /p/POSTER-BOY-of-CORRUPTION: 2 extracted, 2 would import
+✓ /p/PRETTY-FLOWERS-ROTTEN-ROOTS: 0 extracted, 0 would import
+✓ /p/Smell-Test: 25 extracted, 25 would import
+✓ /p/TOP-TO-BOTTOM-CORRUPTION: 5 extracted, 5 would import
+✓ /p/advocates: 1 extracted, 1 would import
+✓ /p/advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream: 1 extracted, 1 would import
+✓ /p/alabama-ag: 3 extracted, 3 would import
+✓ /p/alabama-attorney-general: 9 extracted, 9 would import
+✓ /p/alabama-off-the-rails: 1 extracted, 1 would import
+✓ /p/alabamas-ethics-director-should-resign: 0 extracted, 0 would import
+✓ /p/alien-indictment: 6 extracted, 6 would import
+✓ /p/all-mouth: 6 extracted, 6 would import
+✓ /p/backstory-153: 0 extracted, 0 would import
+✓ /p/backstory-154: 0 extracted, 0 would import
+✓ /p/backstory-155: 3 extracted, 3 would import
+✓ /p/backstory-podcast-no-186-change-is-coming-alabama: 2 extracted, 2 would import
+✓ /p/backstory-podcast-no-187-the-pardon: 1 extracted, 1 would import
+✓ /p/backstory-podcast-no-188-assassins-drones-and-political-corruption: 5 extracted, 5 would import
+✓ /p/bad-faith: 1 extracted, 1 would import
+✓ /p/baldwin-county-dhr-lawsuit: 12 extracted, 12 would import
+✓ /p/baldwin-county-judicial-corruption: 7 extracted, 7 would import
+✓ /p/bay-minette-vote-out-mayor-wills-remember-oj-french: 1 extracted, 1 would import
+✓ /p/bcso-culture: 0 extracted, 0 would import
+✓ /p/bcso-how-to-become-sheriff: 21 extracted, 21 would import
+✓ /p/bcso-no-clones: 6 extracted, 6 would import
+✓ /p/big-mules: 1 extracted, 1 would import
+✓ /p/boss-sheriff: 4 extracted, 4 would import
+✓ /p/bull: 10 extracted, 10 would import
+✓ /p/but-i-didnt-do-it: 1 extracted, 1 would import
+✓ /p/cannabis-conference: 2 extracted, 2 would import
+✓ /p/caught-trap-like-rat: 0 extracted, 0 would import
+✓ /p/cover-up: 0 extracted, 0 would import
+✓ /p/deaf-ears: 0 extracted, 0 would import
+✓ /p/deja-vu: 4 extracted, 4 would import
+✓ /p/delicately-censored: 1 extracted, 1 would import
+✓ /p/earful: 0 extracted, 0 would import
+✓ /p/elliott-history-lesson: 1 extracted, 1 would import
+✓ /p/end-the-good-ole-boy-culture-in-baldwin-county: 11 extracted, 11 would import
+✓ /p/failing-our-children-in-baldwin-county: 21 extracted, 21 would import
+✓ /p/fairhope-infrastructure: 13 extracted, 13 would import
+✓ /p/fauxhope-3: 17 extracted, 17 would import
+✓ /p/fauxhope-crier: 1 extracted, 1 would import
+✓ /p/fauxhope-or-fairhope: 5 extracted, 5 would import
+✓ /p/fire-albritton: 0 extracted, 0 would import
+✓ /p/food-for-thought: 4 extracted, 4 would import
+✓ /p/go-to-hell-veterans: 1 extracted, 1 would import
+✓ /p/good-ole-boys-lose-front-teeth: 20 extracted, 20 would import
+✓ /p/hair-on-fire: 4 extracted, 4 would import
+✓ /p/hanky-panky-at-the-po-po: 5 extracted, 5 would import
+✓ /p/hanky-panky-by-the-po-po: 74 extracted, 74 would import
+✓ /p/happy-4th-of-july: 5 extracted, 5 would import
+✓ /p/hatians-eating-cats: 12 extracted, 12 would import
+✓ /p/im-back-2: 3 extracted, 3 would import
+✓ /p/justice-denied-a-wrongful-conviction-buried-by-power-and-politics: 23 extracted, 23 would import
+✓ /p/justified: 6 extracted, 6 would import
+✓ /p/know-before-you-vote: 8 extracted, 8 would import
+✓ /p/know-before-you-vote-2: 10 extracted, 10 would import
+✓ /p/last-chance-fauxhope-or-fairhope: 5 extracted, 5 would import
+✓ /p/last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council: 3 extracted, 3 would import
+✓ /p/lee-county-no-justice-center: 3 extracted, 3 would import
+✓ /p/lt-governor-ainsworth-breaks-with-governor: 8 extracted, 8 would import
+✓ /p/marine-corp-birthday: 0 extracted, 0 would import
+✓ /p/mia: 5 extracted, 5 would import
+✓ /p/moma-bear: 2 extracted, 2 would import
+✓ /p/new-sheriff-no-changes: 23 extracted, 23 would import
+✓ /p/newsletter: 0 extracted, 0 would import
+✓ /p/no-justice: 0 extracted, 0 would import
+✓ /p/not-a-hard-liquor: 1 extracted, 1 would import
+✓ /p/notice: 5 extracted, 5 would import
+✓ /p/offensive: 4 extracted, 4 would import
+✓ /p/po-po-hoss-mack-ccuo: 24 extracted, 24 would import
+✓ /p/pure-kafka: 0 extracted, 0 would import
+✓ /p/qualified-daphne-district-6-city-council: 19 extracted, 19 would import
+✓ /p/railroaded-by-the-law: 4 extracted, 4 would import
+✓ /p/red-lips-award: 6 extracted, 6 would import
+✓ /p/round-house-blockheads: 2 extracted, 2 would import
+✓ /p/rule-32: 3 extracted, 3 would import
+✓ /p/russian-roulette-fairhope-style-rerun: 0 extracted, 0 would import
+✓ /p/scalped: 0 extracted, 0 would import
+✓ /p/sheriff-huey-boss-mack-secret-police-2: 5 extracted, 5 would import
+✓ /p/sheriff-mack-out-oj-french-lawsuit-in: 1 extracted, 1 would import
+✓ /p/shuffling-the-deck: 32 extracted, 32 would import
+✓ /p/silence-the-eagle: 0 extracted, 0 would import
+✓ /p/stealing-from-kids: 1 extracted, 1 would import
+✓ /p/stirring-the-pot-bsp: 9 extracted, 9 would import
+✓ /p/the-180: 4 extracted, 4 would import
+✓ /p/the-crime-of-the-century: 2 extracted, 2 would import
+✓ /p/the-enforcer-hoss-macks-rise-to-statewide-power: 2 extracted, 2 would import
+✓ /p/the-good-the-bad-and-the-ugly-repost: 0 extracted, 0 would import
+✓ /p/the-law-enforcement-narrative-2: 9 extracted, 9 would import
+✓ /p/the-lie-of-the-century: 0 extracted, 0 would import
+✓ /p/the-mug-shot: 1 extracted, 1 would import
+✓ /p/the-murray-lawrence-jr-project: 0 extracted, 0 would import
+✓ /p/the-pete-rose: 3 extracted, 3 would import
+✓ /p/tides-end: 0 extracted, 0 would import
+✓ /p/trump-n-bama: 0 extracted, 0 would import
+✓ /p/two-questions-decide-fairhopes-future: 2 extracted, 2 would import
+✓ /p/veterans-day-23: 0 extracted, 0 would import
+✓ /p/veterans-rally: 3 extracted, 3 would import
+✓ /p/vote-march-5th: 3 extracted, 3 would import
+✓ /p/vote-smart: 7 extracted, 7 would import
+✓ /p/war: 1 extracted, 1 would import
+✓ /p/what-the: 1 extracted, 1 would import
+✓ /p/wrongful-conviction-fairhope-baldwin-county: 4 extracted, 4 would import
+
+================================================================================

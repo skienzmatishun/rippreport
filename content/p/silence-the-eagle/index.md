@@ -123,6 +123,6 @@ This is the first of many posts that will follow in the next few months, maybe y
 
 {{< socialpreview url="https://rippreport.com/p/but-i-didnt-do-it/" >}}
 
-{{< chat muzzle >}}
+{{< aicomments "muzzle" >}}
 
 {{< mailchimp >}}
