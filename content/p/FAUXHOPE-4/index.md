@@ -2,7 +2,7 @@
 title: FAUXHOPE
 date: 2025-11-14
 thumbnail: img/fauxhope-4.png
-summary: "Want to know why so many people refer to Fairhope as Fauxhope? Consider this: Fauxhope is a tree city. What a joke Fauxhope is more responsible for tree REMOVAL than anyone. The caption is a live oak that HAD a 6 foot 2 inch diameter. It stood proud for decades, if not a century. The tree was on a knoll making it the tallest tree in the area. I was told by city officials that they had no knowledge of its removal. I don’t doubt that. Every vehicle entering and exiting Publix or the neighborhood had the pleasure of seeing the tree while traveling down Parker Road."
+summary: 'Want to know why so many people refer to Fairhope as Fauxhope? Consider this: Fauxhope is a tree city. What a joke Fauxhope is more responsible for tree REMOVAL than anyone. The caption is a live oak that HAD a 6 foot 2 inch diameter. It stood proud for decades, if not a century. The tree was on a knoll making it the tallest tree in the area. I was told by city officials that they had no knowledge of its removal. I don’t doubt that. Every vehicle entering and exiting Publix or the neighborhood had the pleasure of seeing the tree while traveling down Parker Road.'
 tags:
 - City Council
 - Publix
@@ -14,8 +14,88 @@ categories:
 - citycouncil
 authors:
 - admin
+related_articles:
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 72.4147393670087
+  llm_score: 90
+  recency_score: 35.69580588555647
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: round-house-blockheads
+  title: ROUND HOUSE SQUARE HEADS
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 67.29306184899515
+  llm_score: 85
+  recency_score: 22.404902018468416
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 65.13169045841039
+  llm_score: 85
+  recency_score: 8.355987979667463
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 65.08331586723584
+  llm_score: 85
+  recency_score: 8.041553137032842
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 64.090517508371
+  llm_score: 85
+  recency_score: 1.588363804411422
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 63.85404530347247
+  llm_score: 85
+  recency_score: 0.051294472570959884
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: elephant-in-a-volkswagen
+  title: ELEPHANT IN A VOLKSWAGEN
+  score: 63.852440214673024
+  llm_score: 85
+  recency_score: 0.04086139537457567
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 57.727337234959364
+  llm_score: 75
+  recency_score: 0.22769202723574633
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 54.802208127169266
+  llm_score: 70
+  recency_score: 1.214352826600136
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 Want to know why so many people refer to Fairhope as Fauxhope? Consider this:
 
 Fauxhope is a tree city. What a joke Fauxhope is more responsible for tree REMOVAL than anyone.
