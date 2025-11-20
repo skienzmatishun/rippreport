@@ -1,102 +1,22 @@
 ---
-title: BALDWIN COUNTY SHERIFF APPOINTMENT
+title: "BALDWIN COUNTY SHERIFF APPOINTMENT"
 date: 2024-07-27
-thumbnail: img/baldwin-county-sheriff-appointment.jpg
+thumbnail: "img/baldwin-county-sheriff-appointment.jpg"
 tags:
-- Hoss Mack
-- BCSO
-- OJ French
-- Peyton Little
-- Anthony Lowery
-- Jonathan Victor
-- Robert Yates
+  - Hoss Mack
+  - BCSO
+  - OJ French
+  - Peyton Little
+  - Anthony Lowery
+  - Jonathan Victor
+  - Robert Yates
 categories:
-- bcso
+  - bcso
 authors:
-- admin
-alttags: Baldwin County Sheriffs Office seal, mailbox, phone, and envelope suggest potential replacement controversy and public sc...
-related_articles:
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 96.14272077304483
-  llm_score: 95
-  recency_score: 94.92768502479139
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 90.55991952507314
-  llm_score: 85
-  recency_score: 98.63947691297537
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 90.31250161398609
-  llm_score: 85
-  recency_score: 97.03126049090956
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 89.43931806581502
-  llm_score: 85
-  recency_score: 91.35556742779755
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 89.09700143880019
-  llm_score: 85
-  recency_score: 89.13050935220119
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 80.0566151119704
-  llm_score: 85
-  recency_score: 30.367998227807558
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: rumors
-  title: RUMORS
-  score: 71.81597825531563
-  llm_score: 75
-  recency_score: 16.8038586595515
-  length_score: 100
-  category_score: 100
-  rank: 7
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: justified
-  title: JUSTIFIED
-  score: 66.02069118585678
-  llm_score: 75
-  recency_score: 54.13449270806896
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 62.69552085140236
-  llm_score: 75
-  recency_score: 32.52088553411519
-  length_score: 100
-  category_score: 0
-  rank: 10
+  - admin
 ---
+
+
 Sheriff Hoss Mack has one foot out the door and is hoping to slide his second choice, Anthony Lowery in as his “suggested” replacement. Lowery has professed in the past that he did not want the job. He has to know that a ton of crap out of the Hoss Boss closet, is going to expose some very embarrassing incidents involving BCSO. I do hope Lowery reads all the comments on the Ripp Report. If you think that what we printed is revealing, then please consider all the fill-in-the-blanks comments that we did not print. Names, Dates and evidence that match up to the many many allegations in the comments.
 
 
@@ -202,12 +122,5 @@ Montgomery Alabama 36130
 <iframe loading="lazy" style="margin-bottom:2rem;" width="560" height="315" src="https://www.youtube.com/embed/Xu5kx2MxvkQ?si=aI7oHf45VsrK1Xla" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<style>
-.cactus-comment:has(.cactus-comment-time[title="Wed Jul 31 17:22:04 2024 UTC"]) {opacity: 0.62;order: 15;}
-.cactus-comment:has(.cactus-comment-time[title="Wed Jul 31 17:18:13 2024 UTC"]) {opacity: 0.62;order: 15;}
-.cactus-comment:has(.cactus-comment-time[title="Wed Jul 31 13:57:20 2024 UTC"]) {opacity: 0.62;order: 15;}
-.cactus-comment:has(.cactus-comment-time[title="Wed Jul 31 09:57:10 2024 UTC"]) {opacity: 0.62;order: 15;}
-
-</style>
 {{< aicomments "baldwincountysheriffappointment" >}}
 

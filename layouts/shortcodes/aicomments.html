@@ -10,7 +10,7 @@ $defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
 <!-- AI Comment System Container -->
 <div
   id="ai-comment-system"
-  data-page-id="{{ $pageId }}"
+  data-page-id="{{ lower $pageId }}"
   data-default-ordering="{{ $defaultOrdering }}"
   class="ai-comments-container"
 ></div>
