@@ -13,8 +13,88 @@ tags:
 - Matt Franklin
 - BCSO
 - Bay Minette
+related_articles:
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 66.8054778065569
+  llm_score: 70
+  recency_score: 4.235605742619744
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: blind-and-deaf
+  title: BLIND AND DEAF
+  score: 63.852040160990136
+  llm_score: 85
+  recency_score: 0.03826104643576236
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 59.891659160310375
+  llm_score: 75
+  recency_score: 14.295784542017314
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: cover-up
+  title: COVER UP
+  score: 58.75350245324557
+  llm_score: 75
+  recency_score: 6.897765946096069
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 58.33683716336489
+  llm_score: 75
+  recency_score: 4.189441561871679
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: press-release
+  title: PRESS RELEASE
+  score: 58.03179095908181
+  llm_score: 75
+  recency_score: 2.2066412340316854
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 57.837905680086415
+  llm_score: 75
+  recency_score: 0.9463869205615951
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 57.713995271873166
+  llm_score: 75
+  recency_score: 0.14096926717550023
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: silence-the-eagle
+  title: SILENCE THE EAGLE
+  score: 53.156659587195655
+  llm_score: 65
+  recency_score: 10.518287316771712
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: one-woman
+  title: ONE WOMAN
+  score: 51.55944769513018
+  llm_score: 65
+  recency_score: 0.1364100183461363
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 Whitney Scapecchi of the Southern Freedom Press joins Harry Still, Francis Paul Ripp, Brandon Moseley, and Brown G Linder III PE Esq to discuss the arrest, incarceration, attempted involuntary commitment to a mental institution, on the word of Bay Minette City Councilman Matthew Franklin.  You can listen and decide who was assaulted.  Whitney has an unflattering email that was leaked to her from inside the BCSO that she shares with the audience. And be sure to file an Open Records Act request to find out what information is in the Master Name Index about you.  They build the database from the information that you gave them in return for a pistol permit.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l0NQsl3nOYc?si=px_ME1CIUlfcgNcy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
