@@ -91,13 +91,6 @@ related_articles:
   category_score: 0
   rank: 10
 ---
-<div class="link-preview">
-
-## The plot thickens as runoffs approach - Lagniappe Mobile
-
-### The plot thickens as runoffs approach - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2016/11/DTT-1280x640.jpg)
 
 BaCo senate
 
@@ -115,9 +108,7 @@ After Elliott declared he would suffer the “consequences” of running a red l
 
 “Elliott continues to be dogged by his efforts to get special treatment, and that makes him a pretty sketchy choice, in my book.”
 
-Source: [lagniappemobile.com/the-plot-thickens-as-runoffs-approach/](https://lagniappemobile.com/the-plot-thickens-as-runoffs-approach/)
-
-</div>
+[lagniappemobile.com/the-plot-thickens-as-runoffs-approach/](https://lagniappemobile.com/the-plot-thickens-as-runoffs-approach/)
  
 {{< socialpreview url="https://rippreport.com/catalyst-sold-to-the-highest-bidder/" >}}
 
