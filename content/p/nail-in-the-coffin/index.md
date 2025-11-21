@@ -173,4 +173,4 @@ Be aware folks the Fairhope City Council is 100% ?CATALYST. For those of you who
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/" >}}
 
-{{< aicomments "pnail-in-the-coffin" >}}
+{{< aicomments "/p/nail-in-the-coffin/" >}}

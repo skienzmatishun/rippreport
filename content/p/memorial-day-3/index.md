@@ -49,4 +49,4 @@ related_articles:
 ---
 In honor of our heroes.
 
-{{< aicomments "pmemorial-day-3" >}}
+{{< aicomments "/p/memorial-day-3/" >}}

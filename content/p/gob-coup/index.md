@@ -115,4 +115,4 @@ This is a simple case of a small minority ignoring the vast majority for their o
 
 IT’S WAR GOOD VS. EVIL MINORITY VS. MAJORITY
 
-{{< aicomments "pgob-coup" >}}
+{{< aicomments "/p/gob-coup/" >}}

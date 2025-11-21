@@ -93,4 +93,4 @@ related_articles:
 
 ASK THE CITY COUNCIL WHY THEY DID NOTHING
 
-{{< aicomments "pre-run-doing-nothing" >}}
+{{< aicomments "/p/re-run-doing-nothing/" >}}

@@ -200,4 +200,4 @@ Strange what a little money does to the soul and how “good people” turn out 
 
 A BIT DOG BARKS FIRST THESE TWO ARE HOWLING HAVE A WONDERFUL WEDNESDAY
 
-{{< aicomments "pbit-dogs-bark-first" >}}
+{{< aicomments "/p/bit-dogs-bark-first/" >}}

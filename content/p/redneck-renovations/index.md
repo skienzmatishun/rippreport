@@ -132,4 +132,4 @@ Yet another lie.
 
 Some links may have a paywall.
 
-{{< aicomments "predneck-renovations" >}}
+{{< aicomments "/p/redneck-renovations/" >}}

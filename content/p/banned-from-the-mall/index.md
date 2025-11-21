@@ -107,4 +107,4 @@ In the coming weeks Roy Moore will drag Alabama and it’s citizens through the 
 
 {{< socialpreview url="https://www.al.com/opinion/index.ssf/2017/11/roy_moore_bad_mall_santa.html" >}}
 
-{{< aicomments "pbanned-from-the-mall" >}}
+{{< aicomments "/p/banned-from-the-mall/" >}}

@@ -125,4 +125,4 @@ If you were duped then you will be active in combating corruption, if you were w
 
 Ignorance is bliss.
 
-{{< aicomments "pignorance-is-bliss" >}}
+{{< aicomments "/p/ignorance-is-bliss/" >}}

@@ -116,4 +116,4 @@ Another question is what are you teaching your children sportsmanship or Insurre
 
 Enjoy the game may the best team win and the losing team be gracious.
 
-{{< aicomments "psuper-bowl-lv" >}}
+{{< aicomments "/p/super-bowl-lv/" >}}

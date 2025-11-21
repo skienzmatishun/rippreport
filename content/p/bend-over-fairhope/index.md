@@ -120,4 +120,4 @@ Next weeks council meeting has been rescheduled for Thursday, not the regular sc
 
  BEND OVER FAIRHOPE
 
-{{< aicomments "pbend-over-fairhope" >}}
+{{< aicomments "/p/bend-over-fairhope/" >}}

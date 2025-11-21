@@ -143,4 +143,4 @@ How long will the honeymoon last?
 
 ![Robert Brown City Council Fairhope](https://cdn.rippreport.com/wp-content/uploads/2021/03/abd51d34-robert-brown-fairhope-city-council1.png)
 
-{{< aicomments "phoneymoon" >}}
+{{< aicomments "/p/honeymoon/" >}}

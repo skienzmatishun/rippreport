@@ -137,4 +137,4 @@ Source: [thefairhopetimes.blogspot.com/](https://thefairhopetimes.blogspot.com/)
 
 Please pay attention and read the facts, before, you are misled by gossip, half truths or outright fiction.
 
-{{< aicomments "plagniappe" >}}
+{{< aicomments "/p/lagniappe/" >}}

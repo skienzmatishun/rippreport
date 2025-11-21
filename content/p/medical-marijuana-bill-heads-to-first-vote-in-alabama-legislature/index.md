@@ -90,4 +90,4 @@ related_articles:
 ---
 {{< socialpreview url="https://mynbc15.com/news/local/medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature" >}}
 
-{{< aicomments "pmedical-marijuana-bill-heads-to-first-vote-in-alabama-legislature" >}}
+{{< aicomments "/p/medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature/" >}}

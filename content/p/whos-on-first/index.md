@@ -164,4 +164,4 @@ WHO’S ON FIRST ??
 
 The PUBLIC anxiously awaits your answer.
 
-{{< aicomments "pwhos-on-first" >}}
+{{< aicomments "/p/whos-on-first/" >}}

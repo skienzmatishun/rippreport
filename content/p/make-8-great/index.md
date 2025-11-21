@@ -122,4 +122,4 @@ Clarice Hall Black
 
 clarice.hallblack@gmail.com.
 
-{{< aicomments "pmake-8-great" >}}
+{{< aicomments "/p/make-8-great/" >}}

@@ -164,4 +164,4 @@ Pay Attention Fairhope Jackass Jack is the worst negotiator ever and if Mayor Su
 
 {{< socialpreview url="https://rippreport.com/p/alabama-ethics-a-political-tool/" >}}
 
-{{< aicomments "pjackass-jack" >}}
+{{< aicomments "/p/jackass-jack/" >}}

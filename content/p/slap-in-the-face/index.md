@@ -214,4 +214,4 @@ Ripp
 Holiday
 
 
-{{< aicomments "pslap-in-the-face" >}}
+{{< aicomments "/p/slap-in-the-face/" >}}

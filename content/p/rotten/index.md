@@ -123,4 +123,4 @@ If you have the stomach follow through the last 7 years that Burrell has been co
 
 {{< socialpreview url="https://www.al.com/news/2019/08/fairhopes-biggest-problem-the-city-council.html" >}}
 
-{{< aicomments "protten" >}}
+{{< aicomments "/p/rotten/" >}}

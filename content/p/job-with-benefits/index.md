@@ -110,4 +110,4 @@ A job with benefits is city council president, liaison to the Airport Authority 
 
 All bills for the Airport are paid by the city and the Airport Authority has the title to the land, not the city. This guarantees that your job is secure with benefits. All ethical violations filed against you that require an attorney, will be paid by Fairhope Airport Authority. Ethics complaints will be sent to the ethics commission for dismissal. Your position will be protected by 4 other council members, equally blind to public trust, and totally loyal to you, not the city. Your job will have no accountability. Contact Jack Burrell for an interview, sit with your back to the wall.
 
-{{< aicomments "pjob-with-benefits" >}}
+{{< aicomments "/p/job-with-benefits/" >}}

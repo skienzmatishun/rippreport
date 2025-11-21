@@ -153,4 +153,4 @@ He was selected for one reason, his vote on the council and his ability to lick 
 
 It takes a willing partner like Jay, an attorney, to “fix” or circumvent democracy, that is why he has been, SELECTED NOT ELECTED.
 
-{{< aicomments "pselected-not-elected" >}}
+{{< aicomments "/p/selected-not-elected/" >}}

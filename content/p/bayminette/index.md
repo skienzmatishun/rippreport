@@ -169,4 +169,4 @@ If this is what Baldwin County Delegation calls ethical representation of it’s
 
 WAKE UP BALDWIN COUNTY
 
-{{< aicomments "pbayminette" >}}
+{{< aicomments "/p/bayminette/" >}}

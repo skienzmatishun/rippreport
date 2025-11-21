@@ -146,4 +146,4 @@ You know you have a police problem when the police are feared by the public and 
 
 
 
-{{< aicomments "prumors" >}}
+{{< aicomments "/p/rumors/" >}}

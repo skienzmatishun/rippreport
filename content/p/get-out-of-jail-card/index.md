@@ -153,4 +153,4 @@ Baldwin County has the dubious reputation as being the most corrupt county in Al
 
 Apply for your Get Out of Jail Card with your local District Attorney or Sheriff. Applicants without “connections” need not apply.
 
-{{< aicomments "pget-out-of-jail-card" >}}
+{{< aicomments "/p/get-out-of-jail-card/" >}}

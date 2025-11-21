@@ -94,4 +94,4 @@ This Beavis and Butthead plan could only be dreamed up by GUILTY people and this
 
 Next election they will be in the hole, looking up.
 
-{{< aicomments "pholes" >}}
+{{< aicomments "/p/holes/" >}}

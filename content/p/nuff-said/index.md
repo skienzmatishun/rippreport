@@ -87,4 +87,4 @@ What is far more important than that is the council’s lack of accountability a
 
 VERY IMPORTANT
 
-{{< aicomments "pnuff-said" >}}
+{{< aicomments "/p/nuff-said/" >}}

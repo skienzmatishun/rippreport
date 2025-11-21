@@ -111,4 +111,4 @@ Whatever else let’s be fair:
 
 {{< socialpreview url="https://rippreport.com/p/fairness/" >}}
 
-{{< aicomments "pre-gift-gift" >}}
+{{< aicomments "/p/re-gift-gift/" >}}

@@ -106,4 +106,4 @@ Please remember this when the 2020 Fairhope Municipal Elections are held Aug. 25
 
 QUALIFICATIONS for Fairhope City Council, July 7 to 21, 2020 Step up Candidates. Get rid of the good ole boys, once and for all, Fairhope deserves better.
 
-{{< aicomments "pmalfunction-junction" >}}
+{{< aicomments "/p/malfunction-junction/" >}}

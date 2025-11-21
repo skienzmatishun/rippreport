@@ -119,4 +119,4 @@ PLEASE: Take a minute and call or write the county commission and your legislati
 
 THIS IS WHY ALABAMA IS THE MOST POLITICAL CORRUPT STATE IN THE UNITED STATES.
 
-{{< aicomments "psunday-sermon" >}}
+{{< aicomments "/p/sunday-sermon/" >}}

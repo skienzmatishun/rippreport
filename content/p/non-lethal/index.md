@@ -129,4 +129,4 @@ Baldwin County Sheriff’s Department should be required to hand over any cases 
 
 Lagniappe articles are sometimes secured with a paywall, BEHIND THE SCENES, by Gabriel Tynes was published January 19 2021
 
-{{< aicomments "pnon-lethal" >}}
+{{< aicomments "/p/non-lethal/" >}}

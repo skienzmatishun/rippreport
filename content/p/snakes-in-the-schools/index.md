@@ -185,4 +185,4 @@ Alabamians headed to the polls on June 5 to fill out their choices in the state'
 Source: [www.wsfa.com/story/38397411/races-in-alabamas-july-17-primary-run-off-elections](http://www.wsfa.com/story/38397411/races-in-alabamas-july-17-primary-run-off-elections)
 
 </div>
-{{< aicomments "psnakes-in-the-schools" >}}
+{{< aicomments "/p/snakes-in-the-schools/" >}}

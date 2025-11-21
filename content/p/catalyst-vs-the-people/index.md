@@ -94,4 +94,4 @@ related_articles:
 {{< socialpreview url="https://rippreport.com/p/catalyst-sheriff/" >}}
 
 
-{{< aicomments "pcatalyst-vs-the-people" >}}
+{{< aicomments "/p/catalyst-vs-the-people/" >}}

@@ -104,4 +104,4 @@ It should be noted that some of the conflicts of interest Mr. Boone has, date ba
 
 Just how many votes has Mr. Boone cast for his self interest?
 
-{{< aicomments "precuse-yourself" >}}
+{{< aicomments "/p/recuse-yourself/" >}}

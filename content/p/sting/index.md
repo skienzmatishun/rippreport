@@ -147,4 +147,4 @@ If NO candidates challenge Brown or Burrell, Fairhope will be stung again by the
 
 ## Beware of the B-STING
 
-{{< aicomments "psting" >}}
+{{< aicomments "/p/sting/" >}}

@@ -91,4 +91,4 @@ Remembering 9/11.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RNXLP3WH7KQ" frameborder="0" allowfullscreen></iframe>
 
-{{< aicomments "pnever-forget" >}}
+{{< aicomments "/p/never-forget/" >}}

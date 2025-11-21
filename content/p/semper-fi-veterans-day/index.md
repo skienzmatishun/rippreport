@@ -39,4 +39,4 @@ As a resident of Alabama I recognize the fact that our state is dead last in alm
 
 OORAH
 
-{{< aicomments "psemper-fi-veterans-day" >}}
+{{< aicomments "/p/semper-fi-veterans-day/" >}}

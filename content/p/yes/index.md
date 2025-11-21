@@ -157,4 +157,4 @@ Why spend money again? There are two reasons. Firstly, the opposition has had mo
 
 {{< socialpreview url="https://rippreport.com/p/hell-yea/" >}}
 
-{{< aicomments "pyes" >}}
+{{< aicomments "/p/yes/" >}}

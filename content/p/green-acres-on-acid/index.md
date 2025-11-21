@@ -105,4 +105,4 @@ A political sequence of events has resulted in State Senator Pittman as a candid
 
 Folks I know drugs are illegal but if the Luv Gov. appoints Pittman, then someone’s doing acid. We be Trippin!
 
-{{< aicomments "pgreen-acres-on-acid" >}}
+{{< aicomments "/p/green-acres-on-acid/" >}}

@@ -159,4 +159,4 @@ A special thanks to [Mobile Baykeeper](https://rippreport.com/tag/mobile-baykeep
 
 They need that Alabama Power contribution money for the next election.
 
-{{< aicomments "ps-o-s" >}}
+{{< aicomments "/p/s-o-s/" >}}

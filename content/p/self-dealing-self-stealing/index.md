@@ -114,4 +114,4 @@ Write a letter call the TV and Radio stations and ask why they are not covering 
 
  [Download](https://cdn.rippreport.com/4e2819af-skm_c55821071409060-min.pdf)
 
-{{< aicomments "pself-dealing-self-stealing" >}}
+{{< aicomments "/p/self-dealing-self-stealing/" >}}

@@ -98,4 +98,4 @@ Francis Paul Ripp
 
 Paul Ripp is the founder of the not-for-profit consumer organization The Ripp Report and the “Backstory Podcast,” covering politics and ATTENDING THE MEETINGS in Fairhope for 16 years.
 
-{{< aicomments "phistory-repeating-itself" >}}
+{{< aicomments "/p/history-repeating-itself/" >}}

@@ -88,4 +88,4 @@ CATALYST aka Scott Boone Consulting never saw this coming. They were confident t
 
 Thank You Baldwin County, congratulations and good luck to Matt McKenzie
 
-{{< aicomments "pwin-for-baldwin" >}}
+{{< aicomments "/p/win-for-baldwin/" >}}

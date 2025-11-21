@@ -139,4 +139,4 @@ The Mayor of Bay Minette, who has a pending ethics charge, and his “yes sir”
 
 How many people need to be killed or wrongfully incarcerated before the U.S. Justice Dept. steps in?
 
-{{< aicomments "pwrongful-conviction" >}}
+{{< aicomments "/p/wrongful-conviction/" >}}

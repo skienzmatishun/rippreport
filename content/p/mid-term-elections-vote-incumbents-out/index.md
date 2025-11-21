@@ -81,4 +81,4 @@ The Ripp Report encourages everyone to check out all the candidates. You should 
 
 VOTE INCUMBENTS OUT
 
-{{< aicomments "pmid-term-elections-vote-incumbents-out" >}}
+{{< aicomments "/p/mid-term-elections-vote-incumbents-out/" >}}

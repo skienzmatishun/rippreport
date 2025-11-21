@@ -179,4 +179,4 @@ The Police Chief, City Attorney and the City Council need to make a public state
 
 Part two on Wonderful Wednesday. Don’t miss it!
 
-{{< aicomments "plaw-and-disorder-part-1" >}}
+{{< aicomments "/p/law-and-disorder-part-1/" >}}

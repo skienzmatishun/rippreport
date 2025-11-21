@@ -165,4 +165,4 @@ They have NO PLAN and they ALL need to be kicked out of office.
 
 ## CLEAN SWEEP
 
-{{< aicomments "pmarble-mouth" >}}
+{{< aicomments "/p/marble-mouth/" >}}

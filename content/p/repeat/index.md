@@ -101,4 +101,4 @@ What they did not count on is the Court of Public Opinion and that they are acco
 
 {{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
-{{< aicomments "prepeat" >}}
+{{< aicomments "/p/repeat/" >}}

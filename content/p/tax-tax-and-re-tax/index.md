@@ -125,4 +125,4 @@ These are the same micromanaging Christian conservatives who pound their chest e
 
 Teachers need to demand that the Baldwin County School Board address the basic needs of schools. Our teachers are suppose to TEACH not fund-raise.
 
-{{< aicomments "ptax-tax-and-re-tax" >}}
+{{< aicomments "/p/tax-tax-and-re-tax/" >}}

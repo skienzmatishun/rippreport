@@ -166,4 +166,4 @@ Alabama is number 1 in political corruption. This is costing every citizen in th
 Source: [rippreport.com/2018/11/23/no-guardrails/](https://rippreport.com/no-guardrails/)
 
 </div>
-{{< aicomments "pbarstool" >}}
+{{< aicomments "/p/barstool/" >}}

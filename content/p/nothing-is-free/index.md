@@ -143,4 +143,4 @@ Come on Senator Elliott you got the ball rolling, don’t worry about Captain Ja
 
 P.S. Sign me up for annexation.
 
-{{< aicomments "pnothing-is-free" >}}
+{{< aicomments "/p/nothing-is-free/" >}}

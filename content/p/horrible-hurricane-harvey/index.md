@@ -97,4 +97,4 @@ had a very interesting comment which we have heard once before:
 
 Well Well Well What could they be discussing?????? or leaking???????
 
-{{< aicomments "phorrible-hurricane-harvey" >}}
+{{< aicomments "/p/horrible-hurricane-harvey/" >}}

@@ -156,4 +156,4 @@ Currently four separate incidents involving BCSO have resulted in loss of life.
 
 WHERE ARE THE VIDEO’S?
 
-{{< aicomments "pbaldwin-county" >}}
+{{< aicomments "/p/baldwin-county/" >}}

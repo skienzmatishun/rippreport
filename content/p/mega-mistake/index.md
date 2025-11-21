@@ -127,4 +127,4 @@ Any transfer of the mega-mistake property should be fully vetted by the public, 
 
 Stay Tuned More To Come
 
-{{< aicomments "pmega-mistake" >}}
+{{< aicomments "/p/mega-mistake/" >}}

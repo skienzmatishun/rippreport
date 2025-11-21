@@ -178,4 +178,4 @@ Warner’s first version of the now, Volume 5, 320-page book ($15.95, paperback)
 
 [chriswarnerauthor.com](https://www.etsy.com/market/trump_sex_toy)
 
-{{< aicomments "pparadise-lost-ii" >}}
+{{< aicomments "/p/paradise-lost-ii/" >}}

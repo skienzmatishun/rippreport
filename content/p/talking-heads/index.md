@@ -107,4 +107,4 @@ District two needs someone that does not have so much baggage, is independent an
 
 VOTE MAY 24th FOR MATT McKENZIE DISTRICT TWO COUNTY COMMISSION
 
-{{< aicomments "ptalking-heads" >}}
+{{< aicomments "/p/talking-heads/" >}}

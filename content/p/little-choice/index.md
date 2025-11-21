@@ -127,4 +127,4 @@ Are you not tired of the same old BS from career politicians or politicians that
 
 Please vote in the primary and think carefully who you want as Alabama’s next US Senator. Be careful you do not send a swamp rat to the swamp.
 
-{{< aicomments "plittle-choice" >}}
+{{< aicomments "/p/little-choice/" >}}

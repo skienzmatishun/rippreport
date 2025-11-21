@@ -154,4 +154,4 @@ It is women like Paula DiNardi that make a difference.
 
 Stay tuned this is going to get real interesting.
 
-{{< aicomments "pone-woman-2" >}}
+{{< aicomments "/p/one-woman-2/" >}}

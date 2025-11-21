@@ -116,4 +116,4 @@ The Ripp Report, Baldwin County legal Eagle and the Backstory Podcast are commit
 
 Baldwin County ,especially Fairhope needs candidates to replace the self serving council. Please consider public service, what we have now is CATALYST.
 
-{{< aicomments "psaturday-apology" >}}
+{{< aicomments "/p/saturday-apology/" >}}

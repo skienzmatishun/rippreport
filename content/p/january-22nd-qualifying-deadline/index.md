@@ -96,4 +96,4 @@ The unpopular Mobile Bay Bridge project $2.1B will have some impacts as well. Th
 
 And we give the Donald Trump/Maga Mo Brooks led January 6th attempt to usurp the good works of our government their due.
 
-{{< aicomments "pjanuary-22nd-qualifying-deadline" >}}
+{{< aicomments "/p/january-22nd-qualifying-deadline/" >}}

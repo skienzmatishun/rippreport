@@ -90,4 +90,4 @@ related_articles:
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DUgy5-YSTQw" frameborder="0" allowfullscreen></iframe>
 
-{{< aicomments "pripp-report-podcast" >}}
+{{< aicomments "/p/ripp-report-podcast/" >}}

@@ -107,4 +107,4 @@ Stay Tuned
 
 HAPPY NEW YEAR
 
-{{< aicomments "phi-jack-ed" >}}
+{{< aicomments "/p/hi-jack-ed/" >}}

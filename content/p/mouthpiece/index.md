@@ -128,4 +128,4 @@ Sleep tight Baldwin County, Jack Burrell is speaking for YOU.
 
 EVERY POLITICIAN WHO LIED TO US ABOUT NO TOLLS SHOULD BE VOTED OUT OF OFFICE
 
-{{< aicomments "pmouthpiece" >}}
+{{< aicomments "/p/mouthpiece/" >}}

@@ -138,4 +138,4 @@ I applaud Tommy Gallion for his courage. The book finishes with a fine essay on 
 
 Christopher E. Warner
 
-{{< aicomments "preading-in-the-rain" >}}
+{{< aicomments "/p/reading-in-the-rain/" >}}

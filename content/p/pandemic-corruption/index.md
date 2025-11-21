@@ -109,4 +109,4 @@ ALABAMA is the most corrupt state in the United States and will remain so until 
 
 ALABAMA NUMBER ONE
 
-{{< aicomments "ppandemic-corruption" >}}
+{{< aicomments "/p/pandemic-corruption/" >}}

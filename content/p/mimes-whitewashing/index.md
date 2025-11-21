@@ -102,4 +102,4 @@ Employees are beginning to come forward with information that may shed a lot of 
 
 Twice the Ripp Report approached the council in an effort to resolve planning and zoning issues. Both times, different council’s, the council instructed me to sue the city. I did— twice, and won. The cost to the city over— 300,000 dollars. Boone and Brown need to start doing their jobs and stop blowing hot air and challenging the mayor to sue the city when they are responsible for obstructing the mayor from doing her job. This council will be known for it’s whitewashing of complaints and refusal to audit any major issues.
 
-{{< aicomments "pmimes-whitewashing" >}}
+{{< aicomments "/p/mimes-whitewashing/" >}}

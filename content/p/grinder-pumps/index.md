@@ -121,4 +121,4 @@ Mayor Wilson has hired personal that are very well educated in municipal sewer s
 >
 >Battles Trace representatives said that installing a gravity system in Phase 5 would require disturbing the yards and digging up streets in the first four phases to run 3,200 feet of a new system from Phase 5. Such a requirement would be cost prohibitive and disruptive to the existing residents, they said. Again, the staff recommendation was that Phase 5 should be required to meet city standards, and SUBMITTED PHOTOS Peterson said the developer had not provided data to prove an economic hardship. Battles Trace representatives said they would come back before the Planning Commission at a later meeting with such data rather than ask for a vote on Jan. 4. Peterson said his point is simply that the city should enforce its own requirements. The exceptions should not be the rule. They should be the exceptions.”
 
-{{< aicomments "pgrinder-pumps" >}}
+{{< aicomments "/p/grinder-pumps/" >}}

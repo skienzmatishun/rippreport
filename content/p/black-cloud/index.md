@@ -161,4 +161,4 @@ The agreement forces System Office employees to acknowledge that if they violate
 
 All of the above involve corruption and have been written about in the public forum, and yet nothing changes. Corruption drags down your quality of life and without transparency and accountability, corruption flourishes, under a BLACK CLOUD.
 
-{{< aicomments "pblack-cloud" >}}
+{{< aicomments "/p/black-cloud/" >}}

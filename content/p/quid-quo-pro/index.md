@@ -120,4 +120,4 @@ So here we go again the Mayor out front defending the citizens and the Quid quo 
 
 {{< socialpreview url="https://rippreport.com/p/crazy/" >}}
 
-{{< aicomments "pquid-quo-pro" >}}
+{{< aicomments "/p/quid-quo-pro/" >}}

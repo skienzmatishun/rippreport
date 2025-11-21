@@ -116,4 +116,4 @@ SCARY sherry CATALYST and the 3 B’s is the last thing Fairhope needs.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/" >}}
 
-{{< aicomments "pscary" >}}
+{{< aicomments "/p/scary/" >}}

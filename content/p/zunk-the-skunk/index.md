@@ -160,4 +160,4 @@ Fairhope’s needs to replace the self serving B’s, they are the problem.
 
 ## THIS IS VERY IMPORTANT TO THE FAIRHOPE COMMUNITY
 
-{{< aicomments "pzunk-the-skunk" >}}
+{{< aicomments "/p/zunk-the-skunk/" >}}

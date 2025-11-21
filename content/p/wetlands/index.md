@@ -104,4 +104,4 @@ What a small world it is! Firefly was another Arthur Corte project with none oth
 
 Please remind Baykeepers that many people live along Fly Creek and that the proposed apartments to be built on the banks of the creek will only add to the already existing problems with sewage, water quality and quality of life. Baykeepers has remained mute on Fly Creek and its watershed, let’s hope maybe they are waking up.
 
-{{< aicomments "pwetlands" >}}
+{{< aicomments "/p/wetlands/" >}}

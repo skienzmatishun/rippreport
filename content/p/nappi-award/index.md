@@ -142,4 +142,4 @@ WORKING ELECTED OFFICIAL ON TH EASTERN SHORE
 
 MAYOR KARIN WILSON FAIRHOPE
 
-{{< aicomments "pnappi-award" >}}
+{{< aicomments "/p/nappi-award/" >}}

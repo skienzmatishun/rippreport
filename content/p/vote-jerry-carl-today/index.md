@@ -74,4 +74,4 @@ related_articles:
   rank: 10
 ---
 
-{{< aicomments "pvote-jerry-carl-today" >}}
+{{< aicomments "/p/vote-jerry-carl-today/" >}}

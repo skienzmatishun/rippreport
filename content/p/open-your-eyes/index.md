@@ -132,4 +132,4 @@ Jason Fisher is a far better candidate than Chris Elliott. See ya at LULU’s
 
 OPEN YOUR EYES
 
-{{< aicomments "popen-your-eyes" >}}
+{{< aicomments "/p/open-your-eyes/" >}}

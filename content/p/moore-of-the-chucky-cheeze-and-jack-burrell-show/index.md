@@ -115,4 +115,4 @@ Sorry I could not deliver on the Christmas surprise before Christmas, but Wonder
 
 MERRY CHRISTMAS
 
-{{< aicomments "pmoore-of-the-chucky-cheeze-and-jack-burrell-show" >}}
+{{< aicomments "/p/moore-of-the-chucky-cheeze-and-jack-burrell-show/" >}}

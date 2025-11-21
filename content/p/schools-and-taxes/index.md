@@ -96,4 +96,4 @@ The next time the TAX MAN, “Chris Elliott”, is crying in his milk for more t
 
 Thank you CGA
 
-{{< aicomments "pschools-and-taxes" >}}
+{{< aicomments "/p/schools-and-taxes/" >}}

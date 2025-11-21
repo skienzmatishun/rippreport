@@ -127,4 +127,4 @@ The icing on the cake is now the council is bashing social media and the negativ
 
 WELL LET THEM HEAR FROM YA! USE SOCIAL MEDIA
 
-{{< aicomments "plistening-not-reading" >}}
+{{< aicomments "/p/listening-not-reading/" >}}

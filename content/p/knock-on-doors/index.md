@@ -124,4 +124,4 @@ The Baldwin County Commission, State Senator and Representatives and Mayors shou
 
 Stop waiting for the phone to ring, KNOCK ON DOORS
 
-{{< aicomments "pknock-on-doors" >}}
+{{< aicomments "/p/knock-on-doors/" >}}

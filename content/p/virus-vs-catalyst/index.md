@@ -139,4 +139,4 @@ Baldwin County please agree with the rest of the First Congressional District an
 
 Please listen and like BACKSTORY PODCAST
 
-{{< aicomments "pvirus-vs-catalyst" >}}
+{{< aicomments "/p/virus-vs-catalyst/" >}}

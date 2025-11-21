@@ -122,4 +122,4 @@ MATT IS THE BEST CHOICE
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-eat-their-own/" >}}
 
-{{< aicomments "plast-chance" >}}
+{{< aicomments "/p/last-chance/" >}}

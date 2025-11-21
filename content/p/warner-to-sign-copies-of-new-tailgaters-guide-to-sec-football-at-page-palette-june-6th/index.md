@@ -134,4 +134,4 @@ Warner’s first version of the now, Volume 5, 320-page book ($15.95, paperback)
 
 [chriswarnerauthor.com](https://chriswarnerauthor.com)
 
-{{< aicomments "pwarner-to-sign-copies-of-new-tailgaters-guide-to-sec-football-at-page-palette-june-6th" >}}
+{{< aicomments "/p/warner-to-sign-copies-of-new-tailgaters-guide-to-sec-football-at-page-palette-june-6th/" >}}

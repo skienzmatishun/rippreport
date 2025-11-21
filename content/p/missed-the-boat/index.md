@@ -111,4 +111,4 @@ Michelle Thomason Court of Civil Appeals CHRISTY OLINGER EDWARDS
 
 The Ripp Report thanks Doug Jones and David Peterson, both are social media contributors, for their insight in the interpretation of the election results. These results are not official.
 
-{{< aicomments "pmissed-the-boat" >}}
+{{< aicomments "/p/missed-the-boat/" >}}

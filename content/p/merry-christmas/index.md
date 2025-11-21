@@ -10,4 +10,4 @@ alttags: "Two bald eagles perch near a small Christmas tree decorated with patri
 ---
 Have a Merry Christmas!
 
-{{< aicomments "pmerry-christmas" >}}
+{{< aicomments "/p/merry-christmas/" >}}

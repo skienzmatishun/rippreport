@@ -110,4 +110,4 @@ Mr Albritton is the Executive Director of the Ethics Commission. His actions as 
 
 Stay tuned, this story is far from over. The civil case will expose just how many of Mr. Albritton’s law partners and friends were on the “self serving”, money train.
 
-{{< aicomments "pwrit-of-mandamus-update" >}}
+{{< aicomments "/p/writ-of-mandamus-update/" >}}

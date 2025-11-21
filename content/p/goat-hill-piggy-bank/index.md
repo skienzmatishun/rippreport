@@ -118,4 +118,4 @@ Orange Beach has the most corrupt municipal judge in Baldwin County, now he is g
 
 Ask yourself what is more egregious, kids drinking? Or our elected officials taxing us without representation.
 
-{{< aicomments "pgoat-hill-piggy-bank" >}}
+{{< aicomments "/p/goat-hill-piggy-bank/" >}}

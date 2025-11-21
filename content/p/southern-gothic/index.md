@@ -180,4 +180,4 @@ The Tensaw Country North of the Elliott Line 1800-1860, Charles E. Bryant, Ed.D 
 
 As an aside, this document is intended as a speech or ghost story. I offer my services to any organization willing to be informed and entertained by a strong-drawled contrarian (Rotary, Kiwanis, The Chambers of Commerce, Universities, Religious Organizations, Historical Societies, Book Clubs, The “old curmudgeon coffee club” that is surely meeting in your community as I type). To the teachers who still inspire me, I apologize to Ms. Hudson, Trimm, McDaniel, and Dr. Flynt for the grammar, punctuation, and run-on sentences. They are intentional.
 
-{{< aicomments "psouthern-gothic" >}}
+{{< aicomments "/p/southern-gothic/" >}}

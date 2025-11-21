@@ -117,4 +117,4 @@ Mr. Burrell approved Airport funds to hire an attorney to investigate The Ripp R
 
 So NOW you know the real Jack
 
-{{< aicomments "pnow-you-know-jack" >}}
+{{< aicomments "/p/now-you-know-jack/" >}}

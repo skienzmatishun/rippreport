@@ -117,4 +117,4 @@ Over 600 have signed, help us reach a 1000
 
 ## DO NOT BE SURPRISED IF THIS DOES NOT BECOME A CLASS ACTION LAWSUIT.
 
-{{< aicomments "pgold-mine-for-sale" >}}
+{{< aicomments "/p/gold-mine-for-sale/" >}}

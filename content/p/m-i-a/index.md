@@ -141,4 +141,4 @@ In Daphne you have Scott Boone Consulting, aka Catalyst, supporting Steve Carey.
 
 PS The President of the United States has Covid-19, that is not fake news and neither is Covid-19. Wear a mask and social distance.
 
-{{< aicomments "pm-i-a" >}}
+{{< aicomments "/p/m-i-a/" >}}

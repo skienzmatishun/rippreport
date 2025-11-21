@@ -111,4 +111,4 @@ Listed are only 6 items that represent over 50 million dollars and the busy bees
 
 Look on the bright side bees do not live long and these busy bees will end up stinging themselves.
 
-{{< aicomments "pinvestigations" >}}
+{{< aicomments "/p/investigations/" >}}

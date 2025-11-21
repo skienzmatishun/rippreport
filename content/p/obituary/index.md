@@ -115,4 +115,4 @@ There will be a Celebration of Life in October at Eastern Shore Art Center. Plea
 
 .size-full {padding:2rem;}
 
-{{< aicomments "pobituary" >}}
+{{< aicomments "/p/obituary/" >}}

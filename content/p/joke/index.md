@@ -99,4 +99,4 @@ The soccer fields were negotiated for construction under Mr Boone and Mr Burrell
 
 WHO WANTS TO HEAD THE COMMITTEE? THE FINAL REPORT WILL BE PRESENTED TO THE MAYOR, CITY COUNCIL and MADE PUBLIC
 
-{{< aicomments "pjoke" >}}
+{{< aicomments "/p/joke/" >}}

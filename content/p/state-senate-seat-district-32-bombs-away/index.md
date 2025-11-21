@@ -129,4 +129,4 @@ The top two of the above will face off in a runoff. Then in November the winner 
 
 You have four candidates to choose from so why choose a Catalyst Candidate?
 
-{{< aicomments "pstate-senate-seat-district-32-bombs-away" >}}
+{{< aicomments "/p/state-senate-seat-district-32-bombs-away/" >}}

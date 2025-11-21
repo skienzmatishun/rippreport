@@ -95,4 +95,4 @@ So if you wonder why Alabama is number one in corruption, 46th in education and 
 
 {{< socialpreview url="https://www.wkrg.com/news/cnbc-labels-alabama-as-the-worst-state-to-live/" >}}
 
-{{< aicomments "plook-in-the-mirror" >}}
+{{< aicomments "/p/look-in-the-mirror/" >}}

@@ -144,4 +144,4 @@ Brown exemplifies a CATALYST/Scott Boone loyalist, CATALYST has cost Baldwin Cou
 
 ## VOTE HOWELL GIBBENS
 
-{{< aicomments "phowell-gibbens" >}}
+{{< aicomments "/p/howell-gibbens/" >}}

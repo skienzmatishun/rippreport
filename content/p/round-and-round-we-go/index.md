@@ -103,4 +103,4 @@ Public Participation is a necessary ingredient in rejecting this application and
 
 If in the end we are awarded the “Good ole Boy Award” and the majority is once again ignored or constrained by our own regulations and ordinances, then public participation should take over in the form of a boycott. If developers and investors are only interested in the bottom line, then we as a community should identify them and their business locations and boycott not only the one gas station but all the stations those individuals own in Fairhope. If they have no sense of community then the community should unite with an organized campaign to boycott their business, for a prolonged period. The Ripp Report will be happy to follow this story and inform the public just who the owners are and what gas stations that are targeted for boycott.
 
-{{< aicomments "pround-and-round-we-go" >}}
+{{< aicomments "/p/round-and-round-we-go/" >}}

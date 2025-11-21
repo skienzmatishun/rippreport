@@ -212,4 +212,4 @@ Parker Road and Hwy. 98 are already congested, get ready folks for 1200 more car
 
 ## PLEASE CHECK OUT BACKSTORY PODCAST FACEBOOK & PODCAST SOURCES
 
-{{< aicomments "pfairhope-council-asleep-at-the-wheel" >}}
+{{< aicomments "/p/fairhope-council-asleep-at-the-wheel/" >}}

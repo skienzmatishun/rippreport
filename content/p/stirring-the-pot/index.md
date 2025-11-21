@@ -87,4 +87,4 @@ It’s alright for “come fly with me” Jack to hire an attorney, read the let
 
 THINK ABOUT IT ! SEE YA FREAKY FRIDAY
 
-{{< aicomments "pstirring-the-pot" >}}
+{{< aicomments "/p/stirring-the-pot/" >}}

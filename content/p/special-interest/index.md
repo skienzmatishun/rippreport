@@ -118,4 +118,4 @@ Don’t be fooled by deliberate confusion, fear or intimidation, Fairhope deserv
 
 VOTE YES
 
-{{< aicomments "pspecial-interest" >}}
+{{< aicomments "/p/special-interest/" >}}

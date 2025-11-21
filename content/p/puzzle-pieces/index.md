@@ -205,4 +205,4 @@ This article was submitted by a fellow consumer advocate.
 
 We welcome submitted articles.
 
-{{< aicomments "ppuzzle-pieces" >}}
+{{< aicomments "/p/puzzle-pieces/" >}}

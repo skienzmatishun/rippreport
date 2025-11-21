@@ -134,4 +134,4 @@ Chris Elliott and Fairhope City Councilman Burrell are very much alike, if their
 
 Be sure to get a free Lagniappe to read the complete story.
 
-{{< aicomments "ppassport-to-paris" >}}
+{{< aicomments "/p/passport-to-paris/" >}}

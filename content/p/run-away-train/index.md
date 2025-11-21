@@ -145,4 +145,4 @@ If you think traffic is bad now, just wait, there is a Runaway Train heading you
 
 Somebody definitely needs a PLAN.
 
-{{< aicomments "prun-away-train" >}}
+{{< aicomments "/p/run-away-train/" >}}

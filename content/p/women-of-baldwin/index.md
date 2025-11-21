@@ -137,4 +137,4 @@ ANDREA LINDSEY is running for the School Board, District 2. ANDREA brings 24 yea
 
 ## DO NOT VOTE STRAIGHT TICKET
 
-{{< aicomments "pwomen-of-baldwin" >}}
+{{< aicomments "/p/women-of-baldwin/" >}}

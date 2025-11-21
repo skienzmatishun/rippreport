@@ -136,4 +136,4 @@ The laugh is on us for electing Chris Elliott, The TAX MAN. We will not be laugh
 
 ## KEEP LAUGHING BUT BEWARE CATALYST DOES NOT HAVE THE LAST LAUGH
 
-{{< aicomments "plaugh-out-loud-baldwin" >}}
+{{< aicomments "/p/laugh-out-loud-baldwin/" >}}

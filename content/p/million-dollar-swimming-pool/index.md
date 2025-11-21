@@ -125,4 +125,4 @@ Prospective home buyers do your homework, read the facts and stay clear of Bella
 
 A vote for Elliott or Dorsey is a vote for Catalyst WARNING: STAY OUT OF THE POOL
 
-{{< aicomments "pmillion-dollar-swimming-pool" >}}
+{{< aicomments "/p/million-dollar-swimming-pool/" >}}

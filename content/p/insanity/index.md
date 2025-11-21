@@ -105,4 +105,4 @@ October 11th, tomorrow night, Jason Fisher will be at the Fairhope Castle for a 
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2018/10/42503661_1696287730500746_2562634254823456768_n.jpg)
 
-{{< aicomments "pinsanity" >}}
+{{< aicomments "/p/insanity/" >}}

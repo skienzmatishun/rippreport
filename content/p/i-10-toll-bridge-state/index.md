@@ -144,4 +144,4 @@ In Washington doors close if you are from Alabama, they do not open, thanks to o
 
 ## You get what ya vote for.
 
-{{< aicomments "pi-10-toll-bridge-state" >}}
+{{< aicomments "/p/i-10-toll-bridge-state/" >}}

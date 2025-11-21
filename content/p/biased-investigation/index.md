@@ -127,4 +127,4 @@ The city of Bay Minette has refused to inform the public who the officer was tha
 
 Please support the BMJL community, this is a Baldwin County problem not just Bay Minette.
 
-{{< aicomments "pbiased-investigation" >}}
+{{< aicomments "/p/biased-investigation/" >}}

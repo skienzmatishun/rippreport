@@ -91,4 +91,4 @@ Alabama is first in political corruption, until that changes we will remain last
 
 {{< socialpreview url="https://web.archive.org/web/20190115064654/http://uselections.com/al/al.htm" >}}
 
-{{< aicomments "pqualification" >}}
+{{< aicomments "/p/qualification/" >}}

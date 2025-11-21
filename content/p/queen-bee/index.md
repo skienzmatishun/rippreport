@@ -140,4 +140,4 @@ That is what you get when you elect greedy corrupt politicians. The next four ye
 
 Keep that KY handy because the Queen Bee, the three B’s and Scott Boone are just warming up.
 
-{{< aicomments "pqueen-bee" >}}
+{{< aicomments "/p/queen-bee/" >}}

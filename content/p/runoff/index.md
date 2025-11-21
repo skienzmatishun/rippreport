@@ -108,4 +108,4 @@ Source: [rippreport.com/2020/02/28/backwoods-media-ad/](https://rippreport.com/b
 
 </div>
 
-{{< aicomments "prunoff" >}}
+{{< aicomments "/p/runoff/" >}}

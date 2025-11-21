@@ -114,4 +114,4 @@ Please attend the upcoming meeting, to be announced, and have an open mind and r
 
 Fairhope Qualifications for public office, City Council and Mayor, are July 7 to July 21. This has been the worst City Council Fairhope has had in the last 25 years. The corruption and self serving Council has cost Fairhope millions. Please consider running for public office, Fairhope needs fresh faces on the council that are interesting in serving, not taking.
 
-{{< aicomments "pinvitation" >}}
+{{< aicomments "/p/invitation/" >}}

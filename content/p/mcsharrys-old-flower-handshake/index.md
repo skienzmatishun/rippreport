@@ -138,4 +138,4 @@ In addition to the Lagniappe articles, here are a few of the Ripp Report article
 We have said it three times already and will say it again. Ronan McSharry will do it again, Just wait and see, let’s pray no-one is seriously injured or killed.
 
 
-{{< aicomments "pmcsharrys-old-flower-handshake" >}}
+{{< aicomments "/p/mcsharrys-old-flower-handshake/" >}}

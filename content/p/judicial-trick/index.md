@@ -135,4 +135,4 @@ Four years ago we elected a new Mayor and council. The Mayor wanted a fresh star
 
 This next election Fairhope needs a new council. With a new council the City attorney and Municipal Judge, appointed positions, can be replaced.
 
-{{< aicomments "pjudicial-trick" >}}
+{{< aicomments "/p/judicial-trick/" >}}

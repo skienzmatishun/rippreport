@@ -179,4 +179,4 @@ Now is the time for the Jester or Mr Brown to step up and push back. We anxiousl
 
 FAIRHOPE DOES NOT NEED JESTER 666 !
 
-{{< aicomments "phate" >}}
+{{< aicomments "/p/hate/" >}}

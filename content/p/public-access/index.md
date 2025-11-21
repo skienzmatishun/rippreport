@@ -119,4 +119,4 @@ PLEASE TAKE JUST A MINUTE OR TWO AND SIGN THE PETITION. LET’S SEND A CLEAR MES
 
 KICK DORSEY, ELLIOTT AND CATALYST TO THE CURB JUNE 5th.
 
-{{< aicomments "ppublic-access" >}}
+{{< aicomments "/p/public-access/" >}}

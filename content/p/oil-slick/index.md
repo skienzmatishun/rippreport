@@ -149,4 +149,4 @@ Here is the Ripp Report Pledge:
 
 If you are looking for “Good vibes”, then get on the paddle board and put your head in the sea, I hope you can hold your breath for a very long time. If you want raw truth, as ugly as it is, then stay tuned to the Ripp Report.
 
-{{< aicomments "poil-slick" >}}
+{{< aicomments "/p/oil-slick/" >}}

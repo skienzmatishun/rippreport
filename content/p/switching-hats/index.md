@@ -106,4 +106,4 @@ It’s money, greed, and a select few, who we do not know yet, that are manipula
 
 The citizens who live in this area and those in Magnolia Beach Condo’s had better be paying attention. This project will add 20 to 30% more water in the watershed that already has serious problems. Get ready Burrell and Turner are not done yet.
 
-{{< aicomments "pswitching-hats" >}}
+{{< aicomments "/p/switching-hats/" >}}

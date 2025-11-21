@@ -123,4 +123,4 @@ Burrell says he won, what he won was not having to apologize or being accountabl
 
 You are a LOSER, Burrell, and more and more people are coming to that conclusion everyday.
 
-{{< aicomments "ploser" >}}
+{{< aicomments "/p/loser/" >}}

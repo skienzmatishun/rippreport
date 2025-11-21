@@ -103,4 +103,4 @@ The council should not have voted on this without a lot more public participatio
 
 This is a very poor decision that best be handled immediately by a council that has no leadership.
 
-{{< aicomments "pnew-year-new-problems" >}}
+{{< aicomments "/p/new-year-new-problems/" >}}

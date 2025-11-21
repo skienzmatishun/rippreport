@@ -117,4 +117,4 @@ What do ya want Fairhope? To be silenced, or be a part of the Community?
 
 {{< socialpreview url="https://rippreport.com/p/community-engagement/" >}}
 
-{{< aicomments "pshut-up-2" >}}
+{{< aicomments "/p/shut-up-2/" >}}

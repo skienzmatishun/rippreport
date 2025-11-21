@@ -131,4 +131,4 @@ Only in Alabama can you receive a Press award for a bogus story. That was not en
 
 Maybe the whole thing was a HALLUCINATION!
 
-{{< aicomments "phallucinations" >}}
+{{< aicomments "/p/hallucinations/" >}}

@@ -146,4 +146,4 @@ We also know for a fact he is unwilling to answer a simple yes or no question ab
 
 Stay Tuned for the next revelation about Mr Elliott and his general contracting career.
 
-{{< aicomments "pweasel-contractor" >}}
+{{< aicomments "/p/weasel-contractor/" >}}

@@ -89,4 +89,4 @@ related_articles:
   rank: 10
 ---
 
-{{< aicomments "pbelize-vacation-another-world" >}}
+{{< aicomments "/p/belize-vacation-another-world/" >}}

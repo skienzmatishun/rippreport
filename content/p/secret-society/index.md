@@ -158,4 +158,4 @@ Fairhope SBC has total control of your city, in months and years to come you are
 
 Get ready for some “REDNECK RENOVATIONS”.
 
-{{< aicomments "psecret-society" >}}
+{{< aicomments "/p/secret-society/" >}}

@@ -136,4 +136,4 @@ WARNING when Mr Turner takes to the podium Thursday night be prepared for anothe
 
 Oh by the way the Mayor stands on the side of the citizens, IT AIN’T THE MAYOR.
 
-{{< aicomments "pbig-heads" >}}
+{{< aicomments "/p/big-heads/" >}}

@@ -91,4 +91,4 @@ related_articles:
 ---
 No FREAKY FRIDAY today, gone fishing.
 
-{{< aicomments "pgone-fishing" >}}
+{{< aicomments "/p/gone-fishing/" >}}

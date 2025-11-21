@@ -148,4 +148,4 @@ The original complaint centered on Mr. Jack Burrell the elected official. After 
 
 https://cdn.rippreport.com/wp-content/uploads/2017/03/ethics-complaint-1.pdf
 
-{{< aicomments "pinvestigating-the-investigators" >}}
+{{< aicomments "/p/investigating-the-investigators/" >}}

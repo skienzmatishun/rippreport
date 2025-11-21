@@ -97,4 +97,4 @@ A special council meeting was called by Mr Burrell on a Thursday, only 3 days af
 
 The council needs to provide barf bags at the council meetings.
 
-{{< aicomments "popposition-obstruction" >}}
+{{< aicomments "/p/opposition-obstruction/" >}}
