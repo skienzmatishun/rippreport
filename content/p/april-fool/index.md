@@ -126,3 +126,5 @@ In Alabama the virus and politics are a lot alike. Either you educate yourself o
 {{< socialpreview url="https://rippreport.com/p/catalyst-virus/" >}}
 
 Catch us on [Backstory Podcast](https://www.facebook.com/BackstoryPodcast/), [The Ripp Report](https://rippreport.com/), [Baldwin County Legal Eagle](https://www.facebook.com/BaldwinCountyLegalEagle/) or the Ripp Report [Facebook page](https://www.facebook.com/TheRippReport/).
+
+{{< aicomments "/p/april-fool/" >}}

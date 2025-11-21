@@ -131,3 +131,5 @@ This is a line in the sand. If those responsible are allowed to keep their ill b
 At this time we have allegations, some of which Mr Albritton has confirmed, and a civil lawsuit. The Ripp Report will be sending this information to anyone who will listen, in state and out of state This is a civil matter now, however it should be number one on the Attorney General’s list of white collar crime, political corruption and criminal activity.
 
 If you are interested in this story of greed and corruption, please follow it through Lagniappe or The Ripp Report. The so called newspapers have yet to wake up and report the facts to their readers. Maybe that is why newspapers are failing.
+
+{{< aicomments "/p/line-in-the-sand/" >}}

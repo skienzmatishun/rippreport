@@ -118,3 +118,5 @@ Fairhope elected a new Mayor and council over one year ago
 The council is quick to obstruct the Mayor and that is their only accomplishment for the first year. Wake up Fairhope this council is costing you money and Jack Burrell’s leadership is non existent.
 
 {{< socialpreview url="https://rippreport.com/p/job-with-benefits/" >}}
+
+{{< aicomments "/p/bonus-money/" >}}

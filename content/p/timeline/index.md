@@ -114,3 +114,5 @@ Call the City Council and ask for a timeline:
 If the sewer issue pisses you off, how about three of the same Council using their elected office for personal gain? While the other two Council members turned a blind eye.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}
+
+{{< aicomments "/p/timeline/" >}}

@@ -87,3 +87,5 @@ CHUCKY stop giving Fairhope the finger. GCN, the Courier is the media choice of 
 Your articles support a small group of people that are very self centered and are more concerned with maintaining a power base than supporting the community or county. You are far from a journalist and a discredit to the profession.
 
 You have done a good job of keeping the misdeeds of “come fly with me” Burrell and the Fairhope Airport out of the news. However I predict that the truth will come out and Jack will be exposed. The teachers and taxpayers in Fairhope have been hoodwinked by the Fairhope Airport Authority who spends millions on the airport and thousands on education. They will be the deciding factor on what they think is best for the community, so stop giving us the finger.
+
+{{< aicomments "/p/fake-news-and-retaliation/" >}}

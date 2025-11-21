@@ -246,3 +246,5 @@ As Mayor, you and the members of City Council have the opportunity to rescind th
 Thank you.
 
 Respectively Submitted, FACE BOOK PAGE “SAY NO”
+
+{{< aicomments "/p/people-power-wake-up-gulf-shores/" >}}

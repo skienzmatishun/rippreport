@@ -118,3 +118,5 @@ Let’s hope the council does not allow Catalyst or their ego’s to get in the 
 CONGRATULATIONS to LAGNIAPPE and their new BALDWIN EDITION.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/two-eastern-shore-cities-propose-school-tax-referendum/article_1ab148a5-5053-5aa8-a245-f1c4d5f534d8.html" >}}
+
+{{< aicomments "/p/pedaling-forward/" >}}

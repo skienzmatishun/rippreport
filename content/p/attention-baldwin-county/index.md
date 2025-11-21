@@ -92,3 +92,5 @@ related_articles:
 Vote Jerry Carl July 14th for Congress
 
 "Lowtower" is ? **CATALYST** ?
+
+{{< aicomments "/p/attention-baldwin-county/" >}}

@@ -142,3 +142,5 @@ Trust me folks the Ripp Report will use the Court of public Opinion and if neces
 Council President again is front and center in another controversy. He did not follow up, dropped the ball, then blamed the Developer. Jay Robinson backed up Jack by saying he had 46 complaints. Hello! the Council had hundreds of complaints and only a hand full of supporters over the Fly Creek Apartments. That did not stop the entire council overriding the citizens for the developer. The Mayor stood with the citizens when it came to opposing the apartments.
 
 {{< socialpreview url="https://www.al.com/news/mobile/2019/05/boutique-hotel-at-iconic-fairhope-intersection-in-limbo.html" >}}
+
+{{< aicomments "/p/three-strikes/" >}}

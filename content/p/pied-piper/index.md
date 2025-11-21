@@ -218,3 +218,5 @@ If you think the driving force behind the bridge project is traffic, then you de
 The driving force is DEVELOPMENT.
 
 Follow the Pied Piper at your own peril.
+
+{{< aicomments "/p/pied-piper/" >}}

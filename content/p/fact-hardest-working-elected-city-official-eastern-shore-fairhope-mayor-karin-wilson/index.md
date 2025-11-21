@@ -159,3 +159,5 @@ The public beach in the city of Fairhope stood out for all the wrong reasons in 
 Source: [lagniappemobile.com/city-of-fairhope-responds-to-negative-water-quality-report](https://lagniappemobile.com/city-of-fairhope-responds-to-negative-water-quality-report)
 
 </div>
+
+{{< aicomments "/p/fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson/" >}}

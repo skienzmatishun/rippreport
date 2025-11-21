@@ -102,3 +102,5 @@ Moore is determined to bring down the whole State of Alabama and embarrass his o
 Moore’s next stage is Oak Hollow, Fairhope, Dec 5th. This will be a stage ripe for trouble as Mr. Moore continues his campaign of denial and fake news.
 
 Remember it is your constitutional right to peacefully protest the venue and make clear Roy Moore does not represent Alabama. Morals first, party second.
+
+{{< aicomments "/p/ayatollah-of-alabama/" >}}

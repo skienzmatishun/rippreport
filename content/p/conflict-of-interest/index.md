@@ -109,3 +109,5 @@ Are we to expect that if this repeal of Ordinance 1572 is proposed that Mr Avent
 Mr. Boone should resign from the Council. This would avoid any conflict of interest and enable him to continue with his business interests which he puts before the interests of Fairhope. Mr. Boone cannot be trusted.
 
 The citizens of Fairhope should raise holy hell with the rest of the Council and insist that they address the obvious conflict of interests and not just remain silent and look the other way as the previous Mayor did.
+
+{{< aicomments "/p/conflict-of-interest/" >}}

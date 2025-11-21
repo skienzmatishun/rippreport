@@ -137,3 +137,5 @@ You should wear a mask, even if you do not feel sick. This is because several st
 It is especially important to wear a mask when you are unable to stay at least 6 feet apart from others since COVID-19 spreads mainly among people who are in close contact with one another (within about 6 feet).
 
 ## RESPECT OTHERS WEAR A MASK
+
+{{< aicomments "/p/dollars-and-lives/" >}}

@@ -118,3 +118,5 @@ Please vote in the primary and think carefully who you want as Alabama’s next 
 ## Special Election | Alabama | Swamp Drainers PAC
 
 Source: [Link No longer Exists](https://www.swampdrainersusa.com/?utm_campaign=LutherStrange)
+
+{{< aicomments "/p/countdown/" >}}

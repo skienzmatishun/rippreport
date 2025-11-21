@@ -136,3 +136,5 @@ This is about micro managing city employees and the 2020 election. Fairhope bett
 Watch for yourself how the council follows Jack:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qe8z" frameborder="0" allowfullscreen></iframe>
+
+{{< aicomments "/p/dog-and-pony-show-2/" >}}

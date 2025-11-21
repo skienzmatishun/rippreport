@@ -118,3 +118,5 @@ Mr. Burrell is also currently involved in a Federal lawsuit involving his action
 {{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
 
 Tonight is a regularly scheduled City Council meeting, beginning at 6 pm. Please plan to attend, support the Mayor. As a citizen you can choose to have a moral compass or Fairhope will return to the criminal enterprise that it was prior to Mayor Wilson.
+
+{{< aicomments "/p/fairhope-has-lost-its-moral-compass/" >}}

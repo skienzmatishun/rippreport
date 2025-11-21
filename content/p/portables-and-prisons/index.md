@@ -130,3 +130,5 @@ The tribe admits the state was played, that they plan to expand their empire and
 Alabama is going to lose BILLIONS, with the political lottery, and at the same time will ensure Poarch Creek Indians a gaming monopoly.
 
 ## EDUCATION IS LAST AGAIN, THANK THE TAXMAN
+
+{{< aicomments "/p/portables-and-prisons/" >}}

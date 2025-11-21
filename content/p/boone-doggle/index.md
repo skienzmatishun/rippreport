@@ -106,3 +106,5 @@ This requires self discipline and in some cases opposing a fellow councilman or 
 Such as this
 
 <iframe src="http://bellatoral.com/wp-content/uploads/2013/05/Covenant-Amendment-3.pdf" style="height:1000px;width:100%;"></iframe>
+
+{{< aicomments "/p/boone-doggle/" >}}

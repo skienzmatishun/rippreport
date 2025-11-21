@@ -88,3 +88,5 @@ There will always be those standing in the rain denying they are all wet.
 NO MOORE
 
 THANK YOU PROTESTERS
+
+{{< aicomments "/p/protester-pride/" >}}

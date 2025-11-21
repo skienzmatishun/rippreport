@@ -122,3 +122,5 @@ Fairhope Council President Jack Burrell and Mr Kevin Boone want to have the Tria
 Mr. Burrell and Mr Boone are advocating the policy of the past and that is to not develop the Triangle. The owners were denied the right to develop it for over 25 years, and we, the taxpayers, paid millions in attorney fees only to wind up having to buy the property. WHY now? after funding for a $650,000 Comprehensive Plan has been approved, are Mr Burrell and Boone pushing to eliminate Fairhope’s most valuable land asset from the Comprehensive Plan? They are supporting the policies of the past administrations, which resulted in millions lost in legal fees, The Mayor’s position is clear, she feels it is a decision of the people which can be achieved through the Comprehensive plan and moving forward not backwards.
 
 IT AIN’T THE MAYOR
+
+{{< aicomments "/p/triangle-part-2-public-driven-vision/" >}}

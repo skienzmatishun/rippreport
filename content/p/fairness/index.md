@@ -109,3 +109,5 @@ Mayor Wilson has stayed the course from beginning until present, she has stood b
 FAIRNESS will not exist while Burrell, aka Beavis and Boone aka Butthead are steering a council more interested in keeping the developer happy than the citizens that elected them.
 
 {{< socialpreview url="https://rippreport.com/p/beavis-and-butthead/" >}}
+
+{{< aicomments "/p/fairness/" >}}

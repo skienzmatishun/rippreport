@@ -120,3 +120,5 @@ Boone and Burrell’s gift, is going to cost the taxpayers of Fairhope, FOR YEAR
 THIS AIN’T NO JOKE
 
 {{< socialpreview url="https://rippreport.com/p/fairhope-jester-and-fly-creek/" >}}
+
+{{< aicomments "/p/eagles-eye-catalyst-kant-corte/" >}}

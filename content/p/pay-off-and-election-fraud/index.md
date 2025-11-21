@@ -124,3 +124,5 @@ It is noted that the majority of the volunteers have served for a number of year
 Because of the issue of not being allowed to observe the final machine opening and tape certification, I could not testify in a court of law that final certification procedures were properly certified and secure.
 
 **WAKE UP FAIRHOPE. WE CAN DO BETTER THAN THIS. WE DESERVE BETTER THAN THIS!**
+
+{{< aicomments "/p/pay-off-and-election-fraud/" >}}

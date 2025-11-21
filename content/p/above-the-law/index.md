@@ -98,3 +98,5 @@ As consumers you have the strength to use every method possible to spread the wo
 Boycott Attorney Steven Patrick Johnson and his firm Brackin McGriff and Johnson
 
 HAVE A WONDERFUL WEDNESDAY
+
+{{< aicomments "/p/above-the-law/" >}}

@@ -106,3 +106,5 @@ POISON IVY got the message it only took 38 minutes after the meeting for her to 
 {{< socialpreview url="https://yellowhammernews.com/ivey-i-10-mobile-river-bridge-and-bayway-project-is-dead/" >}}
 
 Baldwin County citizens need to learn from this experience. Strength is in numbers not in a political party.
+
+{{< aicomments "/p/fingerprint/" >}}

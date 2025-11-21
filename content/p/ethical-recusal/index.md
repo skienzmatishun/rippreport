@@ -95,3 +95,5 @@ We recount the Lagniappe article "Nowhere Fast" related to "The Ethical Recusal"
 There is a push for a new Baldwin County Planning District 8 outside of Fairhope and North of Point Clear, signatures are being collected as required. The Sheriff cant get no help (meaning the Baldwin County Sheriff Huey Mack).
 
 And Gulf Shores is not only advocating for a new bridge but also spending $9 Million of BP money on a "mosquito buffet" aka nature park in the wetlands behind the high school. Genius. And SARS-COV-2 isn't over 45,936,524 Infected in the USA with 745,565 Deaths.
+
+{{< aicomments "/p/ethical-recusal/" >}}

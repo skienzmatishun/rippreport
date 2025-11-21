@@ -122,3 +122,5 @@ The council has refused to answer to any accountability, transparency is a black
 {{< socialpreview url="https://rippreport.com/p/fairhope-jester/" >}}
 
 Mr. Jack Burrell should immediately step down from the position of President of the Fairhope City Council, as well as his board position with the Fairhope Airport Authority. These are the actions of a Catalyst mindset, elect Catalyst candidates and you will get more of the same.
+
+{{< aicomments "/p/police-report/" >}}

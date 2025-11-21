@@ -162,3 +162,5 @@ Last but not least is Canon 7: Judge Snedeker and Judge Norton are supporters of
 BACKSTORY PODCAST:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C26QSW7rBaI" frameborder="0" allowfullscreen></iframe>
+
+{{< aicomments "/p/canons-no-powder/" >}}

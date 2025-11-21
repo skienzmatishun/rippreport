@@ -137,3 +137,5 @@ This post should prove to you that Alabama deserves the title of: THE MOST POLIT
 ETHICS in Alabama is a LICENSE TO STEAL
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Corruption will not be tolerated in this state, not on my watch. As your Attorney General, I have taken a stand to cut corruption in the government. I'm committed to continuing to make Alabama safe and restoring our integrity. Join me today!</p>— Steve Marshall (@SteveMarshallAL) <a href="https://twitter.com/SteveMarshallAL/status/974291635315052544?ref_src=twsrc%5Etfw">March 15, 2018</a></blockquote>
+
+{{< aicomments "/p/license-to-steal/" >}}

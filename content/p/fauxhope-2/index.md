@@ -131,3 +131,5 @@ The one common denominator in all the stories above is Jack Burrell and the do n
 
 Fairhope’s quality of life has diminished greatly in the last few years. Fairhope will be FAUXHOPE until the good ole boy “Catalyst” council and Mayor are replaced with public servants.
 
+
+{{< aicomments "/p/fauxhope-2/" >}}

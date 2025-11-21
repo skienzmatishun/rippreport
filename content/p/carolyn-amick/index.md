@@ -104,3 +104,5 @@ Carolyn would not want anyone to feel sorry for her. Her life was rich in so man
 She has requested that she be cremated with no service. We will take a little break as a family to absorb her loss and intend to have a celebration of life. We will keep you posted.
 
 When you think of Carolyn SMILE. Love Ya CA
+
+{{< aicomments "/p/carolyn-amick/" >}}

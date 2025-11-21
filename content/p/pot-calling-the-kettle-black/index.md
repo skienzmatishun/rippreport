@@ -118,3 +118,5 @@ The media should be ashamed but they have no shame.
 {{< socialpreview url="https://rippreport.com/p/where-is-the-media/" >}}
 
 Lagniappe is the only publication who has the balls for investigative journalism and publishing the story regardless the stature of the individual. Alabama will not solve any of it’s problems without getting serious about prosecution of political corruption.
+
+{{< aicomments "/p/pot-calling-the-kettle-black/" >}}

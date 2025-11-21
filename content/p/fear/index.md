@@ -120,3 +120,5 @@ VOTING YES moves Fairhope forward, not backwards. VOTING YES means that Fairhope
 {{< socialpreview url="https://rippreport.com/p/vote-yes-on-nov-6th/" >}}
 
 ## VOTE NOV. 6th, VOTE YES
+
+{{< aicomments "/p/fear/" >}}

@@ -107,3 +107,5 @@ Look for Councilman Jay Robinson to take the lead in the opposition, word is Cou
 {{< socialpreview url="https://rippreport.com/p/catalyst-panic-and-confusion/" >}}
 
 Let’s see how accurate the crystal ball is.
+
+{{< aicomments "/p/crystal-ball/" >}}

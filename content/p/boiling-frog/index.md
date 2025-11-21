@@ -108,3 +108,5 @@ The gateway to Fairhope, Parker Road, is going to be malfunction junction and th
 {{< socialpreview url="https://thefairhopetimes.blogspot.com/2019/01/hwy-98-adaptive-traffic-signal-project.html" >}}
 
 ## PLEASE REMEMBER FAIRHOPE VOTERS: IT WAS THE FAIRHOPE, CATALYST, CITY COUNCIL WHO APPROVED THE APARTMENTS
+
+{{< aicomments "/p/boiling-frog/" >}}

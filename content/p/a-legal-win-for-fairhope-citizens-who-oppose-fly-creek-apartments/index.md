@@ -110,3 +110,5 @@ Please remember the developer Leaf River Group has one year to be under construc
 **ELECT A NEW MAYOR < APPOINT A NEW PLANNING AND ZONING BOARD < PROBLEM SOLVED, NO APARTMENTS. REMEMBER FLY CREEK.**
 
 **WE WISH THE DEFENDANTS AND ESPECIALLY THE MAYOR AND BOSOM BUDDY ARTHUR CORTE A WONDERFUL WEDNESDAY**
+
+{{< aicomments "/p/a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments/" >}}

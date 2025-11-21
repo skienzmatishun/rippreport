@@ -122,3 +122,5 @@ Let’s see if the City Council and BCEDA are truthful with the citizens that fi
 Ask Yourself why has the City Council not allowed public participation related to the TWO projects?
 
 Beware of the pop up target.
+
+{{< aicomments "/p/pop-up-target/" >}}

@@ -134,3 +134,5 @@ Fauxhope citizens can rest easy because the municipal attorney said no city fund
 Have ya noticed one thing in common with all three municipalities? The Judge, Municipal Attorney and Mayors are all involved up to their necks. So don’t blame the police or citizens that complain. Who is at fault is who you elected.
 
 Don’t worry the insurance company will pay.
+
+{{< aicomments "/p/threesome/" >}}

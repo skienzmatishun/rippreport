@@ -122,3 +122,5 @@ The same “Catalyst” Council and Council President even took the extreme move
 These small town municipalities have counted on the citizens NOT participating. The table is shifting and the good ole boy mentality is eroding with each new resident to Baldwin County.
 
 ## REMEMBER YOU VOTED THEM IN SO YOU CAN VOTE THEM OUT
+
+{{< aicomments "/p/citizens-fighting-back/" >}}

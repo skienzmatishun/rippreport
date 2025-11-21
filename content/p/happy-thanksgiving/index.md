@@ -50,3 +50,5 @@ related_articles:
   rank: 10
 ---
 Enjoy your time with your family and friends.
+
+{{< aicomments "/p/happy-thanksgiving/" >}}

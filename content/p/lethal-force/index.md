@@ -119,3 +119,5 @@ The County Commission better get involved before they have to start writing mult
 
 Something has to give! Baldwin County citizens, ALL citizens, deserve better.
 
+
+{{< aicomments "/p/lethal-force/" >}}

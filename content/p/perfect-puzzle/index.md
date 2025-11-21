@@ -135,3 +135,5 @@ You cannot have accountability when all the parties are aiding and abetting each
 Thank You Lagniappe for being the only journalists in Alabama willing to expose the corruption.
 
 THE MEDIA SHOULD NEVER BE PART OF THE PUZZLE!
+
+{{< aicomments "/p/perfect-puzzle/" >}}

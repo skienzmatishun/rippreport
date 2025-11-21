@@ -128,3 +128,5 @@ The City now claims the "Land Use Plan" is insignificant and has no bearing on r
 So the question is: Why did the City stop using the "Land Use Plan" criteria when making Site Plan recommendations? If the "Land Use Plan" requirements were an important consideration in 2014, 2015, and 2016, what caused the "City Staff" to no longer include it? This question has NOT been fully answered and deserves to be.
 
 {{< socialpreview url="https://rippreport.com/p/victory/" >}}
+
+{{< aicomments "/p/dirty-little-secrets/" >}}

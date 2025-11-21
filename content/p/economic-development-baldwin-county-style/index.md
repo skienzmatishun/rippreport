@@ -110,3 +110,5 @@ Council President Jack Burrell, come fly with me, explained that it happened on 
 Fairhope taxpayers pay for the airport; however, the airport authority has the title to the land? Mr. Burrell has also fought the mayor on any appointments the mayor has suggested for the airport authority board. Keep your eyes on the airport. Jack has his own economic development plan, called the 1% plan.
 
 ECONOMIC DEVELOPMENT THE BALDWIN COUNTY WAY.
+
+{{< aicomments "/p/economic-development-baldwin-county-style/" >}}

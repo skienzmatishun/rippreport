@@ -162,3 +162,5 @@ Thank You Tim Cant and Jack Burrell who did absolutely nothing as far as sewer i
 Mayor Sullivan and Council have to complete the work. At the rate they are going it is going to take their entire term, plus one year, to complete the projects Mayor Wilson left on the plate.
 
 This Council and Mayor with their pro development, at all costs, is changing the quality of life in Fairhope and in just a few years FAUXHOPE will just be another small town swallowed up by urban sprawl. Traffic is a good indicator of poor planning, remember that.
+
+{{< aicomments "/p/fauxhope/" >}}

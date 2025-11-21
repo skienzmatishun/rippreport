@@ -120,3 +120,5 @@ They better be ready for COMBAT.
 The Ripp Report, Baldwin County Legal Eagle, and Backstory Podcast is going to do everything possible to expose these crooks for what they are. Fairhope needs public servant candidates for City Council. Please consider running for office or support new candidates. Fairhope fate is on the line.
 
 Well it is time to go check into the hospital, it may take me a while to recover but I will be ready for COMBAT in 2020, will you?
+
+{{< aicomments "/p/combat/" >}}

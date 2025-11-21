@@ -101,3 +101,5 @@ CALL CHRIS, ASK HIM TO PLEASE EXPLAIN: IF YOU CANNOT GET AN ANSWER CALL LAGNIAPP
 LET’S SEE WHO IS DOING THERE JOB
 
 The balance of this page is reserved for Mr.Elliott’s response:
+
+{{< aicomments "/p/ask-chris-elliott-catalyst-red-flags/" >}}

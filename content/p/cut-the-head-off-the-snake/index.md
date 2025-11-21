@@ -116,3 +116,5 @@ Please, we need change, VOTE and encourage friends, family and neighbors to VOTE
  
 
 **WHEN IN DOUBT WHO TO VOTE FOR     VOTE THE INCUMBANT OUT**
+
+{{< aicomments "/p/cut-the-head-off-the-snake/" >}}

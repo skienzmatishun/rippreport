@@ -96,3 +96,5 @@ Fairhope being run as a Criminal Enterprise?
 WATCH UNTIL MINUTE 2:07–9:03
 
 https://youtu.be/3ZMpLW8xzec?t=127
+
+{{< aicomments "/p/criminal-enterprise/" >}}

@@ -106,3 +106,5 @@ The Republicans in Washington are freaking out as well as President Trump. Moore
 <iframe loading='lazy' width='560' height='315' src='https://www.msnbc.com/msnbc/embedded-video/mmvo42520133936' scrolling='no' frameborder='0' allowfullscreen></iframe>
 
 Then add in the Alabama Republican Party members who have had enough of promises for decades from goat hill and the Swamp. The Republican tolerance for political corruption has held Alabama hostage to any progress. They see reality, Judge Moore may have strong convictions however his beliefs, and statements, are not in step with Washington, or the country, and will be a deficit not an asset. This will only hold Alabama back further! What will the voters decide?
+
+{{< aicomments "/p/blood-in-the-water/" >}}

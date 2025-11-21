@@ -110,3 +110,5 @@ Remember we are in Baldwin County the home of confidential agreements where crim
 What is CRAZY is that Alabama is number one in political corruption and Baldwin County is one of the most corrupt counties in Alabama. That is a statistically a fact.
 
 Pay a little more attention to those that wish to use the word CRAZY. The bit dog barks first.
+
+{{< aicomments "/p/crazy/" >}}

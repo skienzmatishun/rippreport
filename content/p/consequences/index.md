@@ -122,3 +122,5 @@ Randy Davis did not have a police record. The Council President of Fairhope has 
 {{< socialpreview url="https://rippreport.com/p/police-report/" >}}
 
 Let’s hope Randy is not the last to be indicted, there are far more deserving corrupt elected officials in Fairhope.
+
+{{< aicomments "/p/consequences/" >}}

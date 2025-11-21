@@ -105,3 +105,5 @@ Do not be surprised if Mr Burt drops out for health reasons or maybe decides to 
 Do not underestimate Catalyst, they will do whatever is necessary to insure that they have a commissioner’s seat in their pocket.
 
 Pay Attention the games are about to begin.
+
+{{< aicomments "/p/the-pot-and-the-kettle-are-black/" >}}

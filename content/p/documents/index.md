@@ -106,3 +106,5 @@ Councilman Brown’s defense rests entirely on him calling others CRAZY?
 {{< socialpreview url="https://rippreport.com/p/crazy/" >}}
 
 Show us some DOCUMENTS, Down Home Brown
+
+{{< aicomments "/p/documents/" >}}

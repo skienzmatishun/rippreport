@@ -118,3 +118,5 @@ Please for the sake of Baldwin County vote NO for Scully and Catalyst and suppor
 > [Brian Dasinger for District Judge](https://www.facebook.com/dasinger4judge/)
 
 BEWARE BALDWIN COUNTY< CATALYST WANTS TO COOK YA< WELL DONE>
+
+{{< aicomments "/p/cooking-for-the-judge/" >}}

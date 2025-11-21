@@ -148,3 +148,5 @@ The Ripp Report in the next month will be reminding citizens of Baldwin County o
 {{< socialpreview url="https://www.alreporter.com/pittman-renews-million-dollar-contract-with-fairhope/" >}}
 
 Pittman and the Fairhope City Council and CATALYST all back Bill “lowtower” for the First Congressional seat runoff July14 2020. Birds of a feather flock together, be sure they do not poop on you.
+
+{{< aicomments "/p/4-20/" >}}

@@ -110,3 +110,5 @@ This article is full of important information about the mega site and was publis
 {{< socialpreview url="https://www.lagniappemobile.com/news/baldwin-county-seeking-improvements-to-south-alabama-mega-site/article_08838719-e893-5f9e-8347-d66306a161d6.html" >}}
 
 Baldwin County Economic Development Alliance is known for the smoke they generate, problem is there is little fire. How long will the County Commission be blinded by the smoke? Seven years going on 8 and the alliance always sounds like Mel Fisher, the famous treasure hunter, who said “ Today is the day”. He said that for 30 years before he found the treasure. How long do the citizens of Baldwin County wait for the smoke to clear?
+
+{{< aicomments "/p/for-the-record-mega-money/" >}}

@@ -92,3 +92,5 @@ related_articles:
 Veterans Day is November 11th.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9avZjJbYkus" frameborder="0" allowfullscreen></iframe>
+
+{{< aicomments "/p/veterans-day-in-alabama/" >}}

@@ -129,3 +129,5 @@ PLEASE LIKE OUR FACEBOOK PAGE AND FOLLOW USE ON THE DOT COM SITE
 [Sign the Petition](https://chng.it/pv4xJVYLPR)!
 
 SHARE SHARE SHARE SHARE SHARE SHARE
+
+{{< aicomments "/p/deal-with-the-devil/" >}}

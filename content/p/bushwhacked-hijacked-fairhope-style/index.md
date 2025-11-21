@@ -127,3 +127,5 @@ Only 24% voted in the mid term, 76% were asleep.
 If 76% remain asleep in Fairhope they will lose their quality of life, property values will go down and corruption will be the new norm.
 
 ## PLEASE ATTEND FAIRHOPE CITY COUNCIL MEETING JUNE 11, SUPPORT THE MAYOR
+
+{{< aicomments "/p/bushwhacked-hijacked-fairhope-style/" >}}

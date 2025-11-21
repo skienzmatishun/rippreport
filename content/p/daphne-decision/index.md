@@ -152,3 +152,5 @@ Catalyst is a political cancer found in Baldwin County. It hand picks political 
 Please Read: [rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/](https://rippreport.com/catalyst-birds-of-the-same-feather/)
 
 ## BEWARE DAPHNE, CATALYST, IS A POLITICAL CANCER AND THEY WANT CONTROL OF BALDWIN COUNTY.
+
+{{< aicomments "/p/daphne-decision/" >}}

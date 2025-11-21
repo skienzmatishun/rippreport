@@ -109,3 +109,5 @@ In the mean time you may wish to read a past post that is going to affect everyo
 Source: [rippreport.com/2019/01/18/boiling-frog/](https://rippreport.com/boiling-frog/)
 
 </div>
+
+{{< aicomments "/p/vacation-time/" >}}

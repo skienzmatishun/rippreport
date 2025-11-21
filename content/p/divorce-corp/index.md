@@ -100,3 +100,5 @@ Let’s not leave out the most infamous Judge in Baldwin County and mentor to Ju
 Please contact the Ripp Report if you have a complaint about the Baldwin County Family Court, Judge Thomason, Judge Bracken, Attorney Steven Johnson or any other Attorney you feel misrepresented you.
 
 The Ripp Report is a non-profit consumer group, we are not attorneys nor do we give legal advice. We give consumer advice and on occasion provide financial assistance. Their are no fees attached to our services. Your name and information will remain anonymous, unless you wish to file formal complaint.
+
+{{< aicomments "/p/divorce-corp/" >}}

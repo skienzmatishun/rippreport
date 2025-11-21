@@ -125,3 +125,5 @@ A vote for Tucker Dorsey is a vote for Baldwin County Sewer and Clarence Burke. 
 One thing Elliott and Dorsey did accomplished was the mega-site, paid for on the backs of the taxpayers. A good ole boy deal that made Catalyst proud, 35 million for a cow pasture with a gate to no where. Elliott and Dorsey wanted to use BP money to repair county infrastructure because they spent the county reserves for a good ole boy deal, the Catalyst way.
 
 {{< socialpreview url="https://rippreport.com/p/cattle-gate-mega-site/" >}}
+
+{{< aicomments "/p/elliotttuckercatalyst-selling-your-soul/" >}}

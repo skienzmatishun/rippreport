@@ -112,3 +112,5 @@ The defeat of Tim Kant is a good example; this will have a profound effect on th
 The only thing that can turn the tide for the worst is the citizenry turning a blind eye on an opportunity to change things for the better.
 
 EXPOSURE...
+
+{{< aicomments "/p/exposure/" >}}

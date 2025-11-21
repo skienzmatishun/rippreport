@@ -102,3 +102,5 @@ A basic political ethic is that no elected official can use his elected office f
 {{< socialpreview url="https://www.alreporter.com/2019/06/05/opinion-alabama-supreme-courts-solution-to-public-corruption-legalize-it/" >}}
 
 If Mike Hubbard does not go to Jail, Alabama will maintain the U.S. Title as the Most Political Corrupt State and Education will share the title.
+
+{{< aicomments "/p/alabama-first-in-political-corruption/" >}}

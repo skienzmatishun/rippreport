@@ -135,3 +135,5 @@ Below you will find some of the supporting documents.
 Ask the Mayor and City Council to explain to the citizens of Columbia. Why taxpayer dollars are being misappropriated? And ask for an independent investigation of the police chief and his questionable actions.
 
 Do nothing and nothing will change.
+
+{{< aicomments "/p/columbia-questions-and-documents/" >}}

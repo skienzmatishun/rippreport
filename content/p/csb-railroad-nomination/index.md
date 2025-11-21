@@ -139,3 +139,5 @@ The Fairhope Mayor Pledged to “embrace development”, with that comes special
 Jack will continue to do so, as long as the citizens of Fauxhope remain living in an alternative reality.
 
 In the next 6 months do not be surprised to see some key employees of Fairhope dismissed, fired or retired. They are in the way of special interests, CSB.
+
+{{< aicomments "/p/csb-railroad-nomination/" >}}

@@ -98,3 +98,5 @@ Next Tuesday is more important than most think. Alabama will be sending the worl
 It is a fact that straight ticket voting results in many a bad candidate being elected, please do not straight ticket vote.
 
 VOTE VOTE VOTE VOTE
+
+{{< aicomments "/p/from-the-tropics/" >}}

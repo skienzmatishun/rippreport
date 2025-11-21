@@ -92,3 +92,5 @@ related_articles:
   rank: 10
 ---
 {{< socialpreview url="https://www.al.com/opinion/2019/05/karin-wilson-we-need-equal-representation.html" >}}
+
+{{< aicomments "/p/equal-representation/" >}}

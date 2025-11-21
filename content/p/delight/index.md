@@ -115,3 +115,5 @@ The lawsuit was filed in the U.S. District Court for the Southern District of Al
 Fairhope kills the geese, does not want medical marijuana, and will build an electric sub station in a neighborhood, against the wishes of the neighborhood, a good ole boy deal for sure. What about the waterfront project 2 years overdue? The K-1 center is being completely mismanaged, under the guise of economic development and Councilman Jack Burrell. The Mayor gets two payroll checks from the city and the Council enjoys 100% health care. Fairhope taxpayers are clueless.
 
 Maybe it is TAXPAYERS DELIGHT
+
+{{< aicomments "/p/delight/" >}}

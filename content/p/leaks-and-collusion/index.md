@@ -97,3 +97,5 @@ Most residents of Fairhope are viewed by the GOB’s as outsiders, not from here
 What irony that GOB’s own greed and corruption for unbridled development produced residents, that will now vote them out of office!
 
 {{< socialpreview url="https://rippreport.com/p/caught-trap-like-rat/" >}}
+
+{{< aicomments "/p/leaks-and-collusion/" >}}

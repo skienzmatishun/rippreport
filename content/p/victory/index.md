@@ -108,3 +108,5 @@ Let us all see what action the council takes now that they have to revisit the a
 https://cdn.rippreport.com/wp-content/uploads/2018/09/Fly-Creek.pdf
 
 Francis Paul Ripp President Fly Creek Watershed Preservation Association,Inc.
+
+{{< aicomments "/p/victory/" >}}

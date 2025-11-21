@@ -133,3 +133,5 @@ Sincerly
 Francis Paul Ripp
 
 General Council for The Court of Public Opinion.
+
+{{< aicomments "/p/court-of-public-opinion-2/" >}}

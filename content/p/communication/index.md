@@ -144,3 +144,5 @@ McSharry is a frequent flyer with the courts and Mr. McDowell has been to court 
 McSharry who owns McSharrys bar and restaurant, features a J. Burrell sandwich on the menu, his connection to McSharry is obvious. McSharry keeps going to court and each time it seems they only slap his hand. McDowell has not represented the citizens of the community when it comes to McSharry. You have heard the saying “if you see something say something”. Well this is the 5th or 6th run in with the law by Mr. McSharry, 3 in the last 18 months. All involved alcohol, harassment or assault. I guess if no one cares about Jack’s police record why should they be concerned about McSharry’s criminal past? It is just a bunch women who have been abused!
 
 The City Council hired Mr McDowell and they need to fire him, asap. The council will be held responsible for Mr. McDowell’s actions, and trust me there is much more to come.
+
+{{< aicomments "/p/communication/" >}}

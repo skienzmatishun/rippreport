@@ -127,3 +127,5 @@ a check for gallons used, without any record. Ask the Captain Jack just how he c
 Also ask him to explain the Police Report that he never revealed during the last election.
 
 {{< socialpreview url="https://rippreport.com/p/police-report/" >}}
+
+{{< aicomments "/p/captain-jack-at-the-controls/" >}}

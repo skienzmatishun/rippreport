@@ -120,3 +120,5 @@ CATALYST, The Good ole Boys and the Fairhope City Council are all one in the sam
 That is a total of 566 apartments, 77 homes and 16 commercial units. Just these three projects.
 
 Watch podcast #6 today on backstory podcast.
+
+{{< aicomments "/p/corridor-of-chaos/" >}}

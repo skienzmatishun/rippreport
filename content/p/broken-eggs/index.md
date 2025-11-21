@@ -124,3 +124,5 @@ Jack also has said the sewer spills are unavoidable and he and Boone said nothin
 {{< socialpreview url="https://rippreport.com/p/re-gift-gift/" >}}
 
 From your observation point you should see by now Jack is not a leader and has a poor track record as council president. The council is putting all it’s eggs in Burrell’s basket, if he falls all the eggs break.
+
+{{< aicomments "/p/broken-eggs/" >}}

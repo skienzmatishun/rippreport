@@ -153,3 +153,5 @@ Their has been no followup by the media and a blogger in Florida, alleged, that 
 The Ripp Report is focused on whether the judge interfered with a police investigation. We have requested a police report from ALEA.
 
 We are following the story however it is hard to see in the dark.
+
+{{< aicomments "/p/total-darkness/" >}}

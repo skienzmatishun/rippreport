@@ -154,3 +154,5 @@ The Baldwin County planning department is trying to put brakes on a runaway trai
 Please attend these citizen driven meeting or shut up about problems that face all of Baldwin county.
 
 [![](https://cdn.rippreport.com/71d4985f-271135783_288864413286064_5157243368581731532_n.jpg)](https://www.facebook.com/photo/?fbid=288864423286063&set=a.227735429398963)
+
+{{< aicomments "/p/development-chaos/" >}}

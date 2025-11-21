@@ -98,3 +98,5 @@ Fairhope Airport Authority takes the cake. Smoke, mirrors and enough BS to fill 
 It sure as hell is not intimidating the Ripp Report. It only encourages us that we are knocking on the door of corruption and we will continue knocking.
 
 Both of these projects are the result of the citizens being asleep and politicians crafting not so clever schemes that eventually come to light after millions have been lost or elected officials are replaced, or both. To prevent this from happening, the community must be engaged with its local government and remind elected officials that they work for us. Attend town hall meetings, council work sessions, council meetings or committee meetings. Let the Mayor and Council know how you feel about issues in your community.
+
+{{< aicomments "/p/all-smoke-and-mirrors/" >}}

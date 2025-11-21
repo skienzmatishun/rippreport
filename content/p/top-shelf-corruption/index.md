@@ -132,3 +132,5 @@ Needless to say, all of this is made worse by the fact that the State Bar is run
 Ask yourself WHERE THE HELL IS THE PRESS?
 
 
+
+{{< aicomments "/p/top-shelf-corruption/" >}}

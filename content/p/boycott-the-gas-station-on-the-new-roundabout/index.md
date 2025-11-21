@@ -111,3 +111,5 @@ The entire purpose of the roundabout is to slow traffic in a safe and efficient 
 Someone in government dropped the ball. Whether or not a payoff was involved is suspect, but it certainly would explain the stupidity of it all, as greed is what motivates the good ole boys…as it is certainly not “the citizens…the citizens…the citizens” (Jack “Come Fly With Me” Burrell).
 
 BOYCOTT THE IGNORANCE and NATIONAL EMBARRASSMENT OF A GAS STATION ON A ROUNDABOUT AND BLOW YOUR HORN AT THOSE WHO SLOW DOWN TRAFFIC AND CANNOT WAIT TO DRIVE TWO BLOCKS!
+
+{{< aicomments "/p/boycott-the-gas-station-on-the-new-roundabout/" >}}

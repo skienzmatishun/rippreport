@@ -92,3 +92,5 @@ The major obstacle Mayor Wilson faces is cooperation from the council, however t
 It is hard for some to accept the fact that Fairhope is becoming a level playing field and business as usual stopped with the last election. Mayor Wilson is honest and will not sell her soul or betray Fairhope citizens.
 
 Fairhope is changing for the better, get involved with city government contact your council and tell them to do their job and let the “Hardest Working Elected official- on the Eastern Shore” do her job.
+
+{{< aicomments "/p/hardest-working-elected-official-eastern-shore/" >}}

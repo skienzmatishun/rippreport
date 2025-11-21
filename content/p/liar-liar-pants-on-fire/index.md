@@ -121,3 +121,5 @@ This Facebook post says it best.
 {{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/senator-chris-elliott-introduces-bill-to-crack-down-on-violent-crimes-against-law-enforcement,75903" >}}
 
 {{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/ha/from-great-to-grotesque-a-tale-of-two-bills/article_83b29e91-48d1-56b3-a10e-3341b823a1d6.html" >}}
+
+{{< aicomments "/p/liar-liar-pants-on-fire/" >}}

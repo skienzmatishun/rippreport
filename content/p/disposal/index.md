@@ -139,3 +139,5 @@ Last but certainly not least is the Police Report Mr. Burrell conveniently hid b
 {{< socialpreview url="https://rippreport.com/p/police-report/" >}}
 
 DISPOSE of the Fairhope City Council President Burrell. NOW
+
+{{< aicomments "/p/disposal/" >}}

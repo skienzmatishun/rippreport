@@ -107,3 +107,5 @@ Mayor Kant—Goodbye! Francis Paul Ripp
  
 
 * * *
+
+{{< aicomments "/p/exit-and-enter/" >}}

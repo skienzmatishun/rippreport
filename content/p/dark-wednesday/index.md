@@ -102,3 +102,5 @@ Source: [Link No Longer Exists](https://www.usatoday.com/story/news/health/coron
 Alabama is one of three states who’s Covid-19 cases are up by 50%.
 
 Be safe! The life you save may be your own.
+
+{{< aicomments "/p/dark-wednesday/" >}}

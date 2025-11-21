@@ -141,3 +141,5 @@ How can a GREEN CARD holder have such influence? Maybe his friend Council Presid
 The VICTIM, Paula DiNardi, is an AMERICAN CITIZEN and she does not export dollars to another country.
 
 AMERICAN CITIZEN
+
+{{< aicomments "/p/american-citizen/" >}}

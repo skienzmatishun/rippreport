@@ -146,3 +146,5 @@ SAH, Strengthen Alabama Homes director Brian Powell said:
 “I hope funding is available to help the people that won’t get it this year because of this,” he said. “There are at least 200 people or more that won’t receive these benefits this year. This is really a sad case of economics when you are not putting money into a program that is doing a lot of good to help a lot of people.”
 
 Elliott does not deserve another term as a State Senator. Stay tuned, another Elliott story will soon break.
+
+{{< aicomments "/p/tiny-steps/" >}}

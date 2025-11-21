@@ -133,3 +133,5 @@ Baldwin County State Senators all have the same infectious disease, CORRUPTION.
 Baldwin County will never escape the rampant corruption unless one of two things occur. First we vote them out of office. Second the FBI busts someone’s ass and scares the rest of them half ass straight.
 
 ## DON’T HOLD YOUR BREATH
+
+{{< aicomments "/p/legal-corruption/" >}}

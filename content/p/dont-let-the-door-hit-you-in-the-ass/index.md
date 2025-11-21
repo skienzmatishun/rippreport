@@ -132,3 +132,5 @@ VOTE for the candidate not the party. The alternative to Elliott is Jason Fisher
 [https://www.facebook.com/jason.fisher.3367](https://www.facebook.com/jason.fisher.3367)
 
 ## GOOD BYE PITTMAN DON’T LET THE DOOR HIT YOU IN THE ASS< YOU WILL NOT BE MISSED.
+
+{{< aicomments "/p/dont-let-the-door-hit-you-in-the-ass/" >}}

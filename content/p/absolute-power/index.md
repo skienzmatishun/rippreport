@@ -130,3 +130,5 @@ Sherry’s biggest problem will be the three B’s. They will feel empowered and
 Sherry Sullivan is the new Mayor of Fairhope I wish her well and sincerely hope the City Council treats her with respect that a Woman and Mayor deserve. It has been absent the last four years.
 
 The Ripp Report followed the Cant administration for ten years and the Wilson Administration for four. We fully intend to do to cover Fairhope and Baldwin County for years to come. I know that is a disappointment to some and that encourages me to continue exposing corruption in a target rich environment of BALDWIN COUNTY.
+
+{{< aicomments "/p/absolute-power/" >}}

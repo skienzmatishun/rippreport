@@ -110,3 +110,5 @@ Francis Paul Ripp
  
 
 https://cdn.rippreport.com/wp-content/uploads/2016/07/ripp1-1.pdf
+
+{{< aicomments "/p/demand-the-truth/" >}}

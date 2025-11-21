@@ -96,3 +96,5 @@ Tripp Pittman is such a lousy candidate it would take all the paper from a Calif
 That gives you 8 Republicans and 8 Democrats to choose from, with about 90 days until the primary.
 
 Mr. Mo Brooks, first elected to Congress in 2011, is leading in popularity and will definitely throw a monkey wrench into the race.
+
+{{< aicomments "/p/poison-water-alabama-senate-special-election/" >}}

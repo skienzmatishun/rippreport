@@ -124,3 +124,5 @@ Mayor Karin Wilson
 City of Fairhope, Office: 251.990.0110, Cell: 251.422.0669, Karin.Wilson@FairhopeAL.gov, www.mayorkarinwilson.com 2019 State of the City, Future Fairhope: Moving Forward Together
 
 ## ON FIRST EVER SELF-SUSTAINING BUDGET!
+
+{{< aicomments "/p/transparency/" >}}

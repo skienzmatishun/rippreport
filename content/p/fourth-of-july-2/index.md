@@ -9,3 +9,5 @@ authors:
 ---
 
 Have a Happy Fourth of July!
+
+{{< aicomments "/p/fourth-of-july-2/" >}}

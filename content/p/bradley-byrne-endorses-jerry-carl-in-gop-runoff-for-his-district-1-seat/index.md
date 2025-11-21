@@ -89,3 +89,5 @@ PLEASE support Mr CARL his opponent is CATALYST. A vote for CATALYST is a vote a
 {{< socialpreview url="https://rippreport.com/p/a-decade-of-corruption/" >}}
 
 **VOTE JULY 14th FIRST CONGRESSIONAL DISTRICT JERRY CARL**
+
+{{< aicomments "/p/bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat/" >}}

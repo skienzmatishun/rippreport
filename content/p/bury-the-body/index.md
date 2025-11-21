@@ -98,3 +98,5 @@ The below documents represent what The Ripp Report has been able to obtain so fa
 https://cdn.rippreport.com/wp-content/uploads/2018/10/Emergency-Petition.pdf
 
 Fairhope cut the head off the snake, now we need to get rid of the body.
+
+{{< aicomments "/p/bury-the-body/" >}}

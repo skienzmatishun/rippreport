@@ -119,3 +119,5 @@ Investigate this:
 {{< socialpreview url="https://rippreport.com/p/investigations/" >}}
 
 CHUCKY WHAT CHEESE YOU PRINT!
+
+{{< aicomments "/p/airport-diversion/" >}}

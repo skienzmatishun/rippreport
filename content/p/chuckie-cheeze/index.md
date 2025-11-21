@@ -143,3 +143,5 @@ Why did you sit on your ass and witness the Fairhope City Council President Jack
 {{< socialpreview url="https://rippreport.com/p/the-chucky-cheeze-and-jack-burrell-show/" >}}
 
 Chuckee as far as journalism goes you are a disgrace, however you have your Catalyst followers. It is up to the citizens to disseminate your writings and my bet is they will see you as Chuckee Cheese.
+
+{{< aicomments "/p/chuckie-cheeze/" >}}

@@ -155,3 +155,5 @@ Fairhope has had one City Council President in office for over 7 years, Jack Bur
 
 Burrell ,Boone and Brown, who have all used their office for personal gain, should not be trusted to make a 2.6 million dollar purchase, using tax money, without community involvement.
 
+
+{{< aicomments "/p/down-home-fairhope-jester/" >}}

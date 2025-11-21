@@ -148,3 +148,5 @@ This is a WORLDWIDE PANDEMIC.
 Thank you Mayor and Councilman Conyers for being pro-active and putting citizens before politics.
 
 It is better to be pissed off than pissed on!
+
+{{< aicomments "/p/pissed-on-or-pissed-off/" >}}

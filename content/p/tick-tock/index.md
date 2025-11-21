@@ -118,3 +118,5 @@ Matt needs to read The Ripp Report and research the controversy surrounding the 
 Mr. Bowers you are a business man and make a living selling automobiles. You could not ask for worse advertising than pissing off thousands of potential customers. I encourage you to proceed with caution, do not be misled by Fairhope Flowers. “local politics” in Fairhope is a blood sport.
 
 The City Council should step in and mitigated a resolution, that is fair to Mr. Bowers and the community. that saves the clock and patio. Remember it was the council that rejected the boutique Hotel concept at the K-1 location, that provided parking and many other amenities. Mr Bowers project depends on City parking and needs variances to proceed. His project would destroy a TOURIST LOCATION and the SOUL of downtown Fairhope.
+
+{{< aicomments "/p/tick-tock/" >}}
