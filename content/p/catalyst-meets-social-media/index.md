@@ -103,7 +103,6 @@ Catalyst is reeling after getting stung by the People’s Choice. They lost thei
 
 {{< socialpreview url="https://rippreport.com/p/ask-chris-elliott-catalyst-red-flags/" >}}
 
-</div>
 Elliott now has to run for the third time for State Senate Seat 32, against a Democrat. It ain’t going to be easy, he has burnt to many bridges,or promised to build them, and has a closet full of baggage. Their is a rumor that he may even have some very serious issues, can you say indictment, coming his way, not counting his real estate deals.
 
 Sheriff Hoss Mack and Eddie Tyler, the present superintendent of schools are also married to Elliott and now are seeking a divorce, it may be to late. They now have to dig a deeper hole for the three of them.
