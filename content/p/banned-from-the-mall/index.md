@@ -106,3 +106,5 @@ However the republican “leaders” of the state have decided that it is more i
 In the coming weeks Roy Moore will drag Alabama and it’s citizens through the mud and if he gets to Washington they will bury him in the swamp. Alabama had better rally to do everything possible to prevent Roy Moore from ever becoming a US Senator.
 
 {{< socialpreview url="https://www.al.com/opinion/index.ssf/2017/11/roy_moore_bad_mall_santa.html" >}}
+
+{{< aicomments "pbanned-from-the-mall" >}}

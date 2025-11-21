@@ -172,3 +172,5 @@ This is in your face corruption with ?CATALYST fingerprints all over it.
 Be aware folks the Fairhope City Council is 100% ?CATALYST. For those of you who do not know who ?CATALYST is, just understand that they do not represent the Citizens of Fairhope or Baldwin County.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/" >}}
+
+{{< aicomments "pnail-in-the-coffin" >}}

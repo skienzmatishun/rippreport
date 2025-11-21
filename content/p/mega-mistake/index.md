@@ -126,3 +126,5 @@ A special meeting July 25th has been called by the Baldwin County Commission to 
 Any transfer of the mega-mistake property should be fully vetted by the public, not a few commissioners.
 
 Stay Tuned More To Come
+
+{{< aicomments "pmega-mistake" >}}

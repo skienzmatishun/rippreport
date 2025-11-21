@@ -126,3 +126,5 @@ The citizens of Bay Minette have had enough and formed the Bay Minette Justice L
 The city of Bay Minette has refused to inform the public who the officer was that shot and killed Mr. French. It has also been reported that the officer has been reinstated and is currently working. How can he be reinstated if the investigation is on going?
 
 Please support the BMJL community, this is a Baldwin County problem not just Bay Minette.
+
+{{< aicomments "pbiased-investigation" >}}

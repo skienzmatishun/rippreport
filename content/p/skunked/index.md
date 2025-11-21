@@ -113,3 +113,5 @@ Another interesting fact is that a lot of the organizers, led by the Skunk are f
 Beware of Skunk Mail and CATALYST, they are one in the same.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/" >}}
+
+{{< aicomments "pskunked" >}}

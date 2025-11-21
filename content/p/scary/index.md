@@ -115,3 +115,5 @@ Fairhope, look at qualifications they count.
 SCARY sherry CATALYST and the 3 B’s is the last thing Fairhope needs.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/" >}}
+
+{{< aicomments "pscary" >}}

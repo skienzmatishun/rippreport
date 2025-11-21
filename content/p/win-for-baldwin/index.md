@@ -87,3 +87,5 @@ It appears the citizens of Baldwin County may be waking up. They rejected the ca
 CATALYST aka Scott Boone Consulting never saw this coming. They were confident that the CATALYST candidates would win. They forgot that Matt was a Marine!
 
 Thank You Baldwin County, congratulations and good luck to Matt McKenzie
+
+{{< aicomments "pwin-for-baldwin" >}}

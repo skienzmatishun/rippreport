@@ -78,3 +78,5 @@ H Bryant Ayers: “There is one certain outcome of the Alabama Senate race if Ro
 Read the last paragraph again, it’s not fake news, it’s reality.
 
 {{< socialpreview url="https://www.annistonstar.com/columnists/h_brandt_ayers/h-brandt-ayers-roy-moore-will-shame-alabama/article_ab4eead2-bb67-11e7-9d92-bb3986757312.html" >}}
+
+{{< aicomments "pits-no-joke" >}}

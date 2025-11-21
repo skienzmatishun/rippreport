@@ -104,3 +104,5 @@ A political sequence of events has resulted in State Senator Pittman as a candid
 {{< socialpreview url="https://www.nytimes.com/2016/01/12/us/alabama-governors-mansion-bp.html" >}}
 
 Folks I know drugs are illegal but if the Luv Gov. appoints Pittman, then someone’s doing acid. We be Trippin!
+
+{{< aicomments "pgreen-acres-on-acid" >}}

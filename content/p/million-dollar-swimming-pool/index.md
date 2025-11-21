@@ -124,3 +124,5 @@ Boone has Catalyst tattooed on his ass, and his son Scott,”baby” Boone is th
 Prospective home buyers do your homework, read the facts and stay clear of Bellaton subdivision and D. R. Horton and CATALYST bellatonpoolfacts@gmail.com.
 
 A vote for Elliott or Dorsey is a vote for Catalyst WARNING: STAY OUT OF THE POOL
+
+{{< aicomments "pmillion-dollar-swimming-pool" >}}

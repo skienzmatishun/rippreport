@@ -135,3 +135,5 @@ The last laugh is the CATALYST pick for Mayor of Fairhope in 2020. Sherry Sulliv
 The laugh is on us for electing Chris Elliott, The TAX MAN. We will not be laughing long if CATALYST is able to elect Jack and Sherry.
 
 ## KEEP LAUGHING BUT BEWARE CATALYST DOES NOT HAVE THE LAST LAUGH
+
+{{< aicomments "plaugh-out-loud-baldwin" >}}

@@ -199,3 +199,5 @@ Councilmen Jay Robinson who sided with Mr. Burrell and Mr. Boone seems to have a
 Strange what a little money does to the soul and how “good people” turn out to be not so good. Fairhope citizens need to stay involved with your community and support the Mayor because the council is doing a poor job representing the "citizens citizens citizens".
 
 A BIT DOG BARKS FIRST THESE TWO ARE HOWLING HAVE A WONDERFUL WEDNESDAY
+
+{{< aicomments "pbit-dogs-bark-first" >}}

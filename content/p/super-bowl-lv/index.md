@@ -115,3 +115,5 @@ How can the same millions of fans, or voters, watch a football game and accept t
 Another question is what are you teaching your children sportsmanship or Insurrection?
 
 Enjoy the game may the best team win and the losing team be gracious.
+
+{{< aicomments "psuper-bowl-lv" >}}

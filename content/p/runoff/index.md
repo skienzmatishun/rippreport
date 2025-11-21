@@ -107,3 +107,5 @@ Backwoods Media LLC Ad
 Source: [rippreport.com/2020/02/28/backwoods-media-ad/](https://rippreport.com/backwoods-media-ad/)
 
 </div>
+
+{{< aicomments "prunoff" >}}

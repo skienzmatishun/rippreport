@@ -138,3 +138,5 @@ Sheriff Hoss Mack and D.A. Wilters were involved in the Murray Lawrence case. Th
 The Mayor of Bay Minette, who has a pending ethics charge, and his “yes sir” council have been following the lead of the county commission by refusing to answer any questions or show any compassion or sympathy. These same people profess to be Christians! Is this how Christians and neighbors act in their own community?
 
 How many people need to be killed or wrongfully incarcerated before the U.S. Justice Dept. steps in?
+
+{{< aicomments "pwrongful-conviction" >}}

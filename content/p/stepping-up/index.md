@@ -143,3 +143,5 @@ The newly elected State Senator, for District 32, is Chris Elliott, aka The Tax 
 
 Baldwin County cannot wait for a check to be mailed from Montgomery! They need to go to Montgomery and collect the check, or it will be lost in the mail.
 
+
+{{< aicomments "pstepping-up" >}}

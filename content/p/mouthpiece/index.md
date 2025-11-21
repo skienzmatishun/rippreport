@@ -127,3 +127,5 @@ I hope you read the above and understand Burrell is a consummate liar. He is the
 Sleep tight Baldwin County, Jack Burrell is speaking for YOU.
 
 EVERY POLITICIAN WHO LIED TO US ABOUT NO TOLLS SHOULD BE VOTED OUT OF OFFICE
+
+{{< aicomments "pmouthpiece" >}}

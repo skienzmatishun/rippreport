@@ -143,3 +143,5 @@ In Washington doors close if you are from Alabama, they do not open, thanks to o
 {{< socialpreview url="https://rippreport.com/p/pied-piper/" >}}
 
 ## You get what ya vote for.
+
+{{< aicomments "pi-10-toll-bridge-state" >}}

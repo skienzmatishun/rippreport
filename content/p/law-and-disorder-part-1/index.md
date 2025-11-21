@@ -178,3 +178,5 @@ https://rippreport.com/police-report/
 The Police Chief, City Attorney and the City Council need to make a public statement where each one of them stands on this issue.
 
 Part two on Wonderful Wednesday. Don’t miss it!
+
+{{< aicomments "plaw-and-disorder-part-1" >}}

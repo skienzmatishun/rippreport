@@ -114,3 +114,5 @@ Fairhope has a chance to break the cycle of at large council’s, that are often
 {{< socialpreview url="https://rippreport.com/p/crystal-ball/" >}}
 
 Please vote Nov. 6th for, a change of government in Fairhope. No Change, means just that NO CHANGE.
+
+{{< aicomments "praising-eyebrows" >}}

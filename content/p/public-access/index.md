@@ -118,3 +118,5 @@ PLEASE TAKE JUST A MINUTE OR TWO AND SIGN THE PETITION. LET’S SEND A CLEAR MES
 {{< socialpreview url="https://petitions.moveon.org/sign/save-public-water-accesses" >}}
 
 KICK DORSEY, ELLIOTT AND CATALYST TO THE CURB JUNE 5th.
+
+{{< aicomments "ppublic-access" >}}

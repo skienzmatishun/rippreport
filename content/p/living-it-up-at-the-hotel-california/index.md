@@ -89,3 +89,5 @@ Per the city’s by-laws, Karin will be able to appoint a new planning commissio
 Francis P. Ripp
 
 The P stands for Persistence! Don’t ever let anyone tell you that you can’t beat City Hall! Or change the status quo we,”the people” did it in Fairhope, Alabama!
+
+{{< aicomments "pliving-it-up-at-the-hotel-california" >}}

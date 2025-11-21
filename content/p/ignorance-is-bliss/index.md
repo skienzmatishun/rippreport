@@ -124,3 +124,5 @@ If you were duped then you will be active in combating corruption, if you were w
 {{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}
 
 Ignorance is bliss.
+
+{{< aicomments "pignorance-is-bliss" >}}

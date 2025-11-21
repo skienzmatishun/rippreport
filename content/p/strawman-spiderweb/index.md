@@ -148,3 +148,5 @@ My compliments to “boots” Bass and her daughter Karen Bass for outstanding r
 The Ripp Report will follow this story along with Lagniappe.
 
 Baldwin County needs more people with guts to stand up and expose CATALYST and the blatant corruption within our Judicial system.
+
+{{< aicomments "pstrawman-spiderweb" >}}

@@ -94,3 +94,5 @@ Baldwin County provides almost 35% of Alabama’s income and is the fastest grow
 So if you wonder why Alabama is number one in corruption, 46th in education and the least desirable state to live in, LOOK IN THE MIRROR.
 
 {{< socialpreview url="https://www.wkrg.com/news/cnbc-labels-alabama-as-the-worst-state-to-live/" >}}
+
+{{< aicomments "plook-in-the-mirror" >}}

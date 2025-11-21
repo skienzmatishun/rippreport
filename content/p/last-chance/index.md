@@ -121,3 +121,5 @@ Matt McKenzie is the candidate that has no baggage, is not Catalyst, and will wo
 MATT IS THE BEST CHOICE
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-eat-their-own/" >}}
+
+{{< aicomments "plast-chance" >}}

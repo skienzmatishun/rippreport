@@ -102,3 +102,5 @@ This is a far more complicated issue them some may think. Critics say there shou
 The council should not have voted on this without a lot more public participation, a full council and the Mayor, oh wait only the council knew it was on the agenda and it happen to be on the night of the Alabama Bowl game! Hello.
 
 This is a very poor decision that best be handled immediately by a council that has no leadership.
+
+{{< aicomments "pnew-year-new-problems" >}}

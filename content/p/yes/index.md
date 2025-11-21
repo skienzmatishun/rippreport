@@ -156,3 +156,5 @@ Looking ahead, we have created our promotional strategy for the four weeks remai
 Why spend money again? There are two reasons. Firstly, the opposition has had more time to prepare and put its own messaging out to the voters, and we must overcome that. Secondly, we have to present a more complicated set of facts than before, because the AG Opinion forces us to explain the District plan plus our own original message about the Council-Manager system. We are working on "content" right now, and we must have our fact-based arguments in a clear, concise format when we execute the meetings, social media advertising, and mailers we are planning. None of this can be left to the last minute, but getting out our complete message depends heavily on successful fundraising over the next 5-10 days. {From Fresh Start Fairhope}
 
 {{< socialpreview url="https://rippreport.com/p/hell-yea/" >}}
+
+{{< aicomments "pyes" >}}

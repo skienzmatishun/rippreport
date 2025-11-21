@@ -88,3 +88,5 @@ related_articles:
   category_score: 0
   rank: 10
 ---
+
+{{< aicomments "pbelize-vacation-another-world" >}}

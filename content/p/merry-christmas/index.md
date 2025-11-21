@@ -9,3 +9,5 @@ authors:
 alttags: "Two bald eagles perch near a small Christmas tree decorated with patriotic ornaments; festive holiday greeting"
 ---
 Have a Merry Christmas!
+
+{{< aicomments "pmerry-christmas" >}}

@@ -105,3 +105,5 @@ The apartments will soon be completed and another 48 units have been approved on
 Please remember this when the 2020 Fairhope Municipal Elections are held Aug. 25th. It is in your best interest to vote this council out. Replace the 5 Catalyst Council members with women, young candidates and minorities.
 
 QUALIFICATIONS for Fairhope City Council, July 7 to 21, 2020 Step up Candidates. Get rid of the good ole boys, once and for all, Fairhope deserves better.
+
+{{< aicomments "pmalfunction-junction" >}}

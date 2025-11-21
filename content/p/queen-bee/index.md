@@ -139,3 +139,5 @@ Pay close attention how the Queen and her worker bee’s justify their actions, 
 That is what you get when you elect greedy corrupt politicians. The next four years are going to drag Fairhope backwards, your property values are going to flat line and start dropping. Schools will be overwhelmed and your elected officials will become deaf to any public outcry involving corruption.
 
 Keep that KY handy because the Queen Bee, the three B’s and Scott Boone are just warming up.
+
+{{< aicomments "pqueen-bee" >}}

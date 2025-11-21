@@ -148,3 +148,5 @@ Here is the Ripp Report Pledge:
 > I am going to tell everyone, who will listen, the truth. I am going to expose corruption, CATALYST/ Scott Boone, the good ole boys, backroom deals and the most nasty corrupt politicians to ever be elected to office. I am going to send a message to women, VOTE OUT the BULLIES OF WOMEN, Burrell Boone and Brown. I am going to expose those who trample on Free Speech, like the BP paddle board guy with “good Vibes”. I am going to document complaints and I will never F-----g give up until the good ole boys, the status quo, are shoved out the door.
 
 If you are looking for “Good vibes”, then get on the paddle board and put your head in the sea, I hope you can hold your breath for a very long time. If you want raw truth, as ugly as it is, then stay tuned to the Ripp Report.
+
+{{< aicomments "poil-slick" >}}

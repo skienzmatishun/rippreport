@@ -110,3 +110,5 @@ The defendants represented that the not only would they not use red soil (clay a
 Fly Creek remains today filled with tons of red mud placed their during construction. The Detention pond has failed and a lawsuit was settled and a lawsuit is pending. The Fly Creek Basin is still being filled with mud from the original damage and requires annual dredging. The tree ordinance was violated to the tune on almost 1 million in damage, assessed by the Fairhope Tree Committee.
 
 If this project is allowed more lawsuits will follow and Fly Creek will sustain further damage as well as require annual dredging.
+
+{{< aicomments "pballs" >}}

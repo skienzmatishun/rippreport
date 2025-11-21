@@ -95,3 +95,5 @@ Mobile Bay Magazine this week profiles the most endangered species in South Alab
 
 Russian Air Raid Sirens, a Corrections Officer is missing and presumed abducted by the convicted murdered she was transporting in Florence Alabama; an Alabama Public Health Officer was killed this week by a pack of dogs; and Raines goes to a garden party, no joke. We take a trip back to the Keys and Alligator Reef Light House 24.8518° N, 80.6189° W. And finally, The State of Alabama has lost a great public servant and yes they do exist. State Representative Steve McMillan has died. He served Baldwin County in the Legislature since 1980. Godspeed old friend.
 
+
+{{< aicomments "phomeland-securitys-disinformation-governance-board" >}}

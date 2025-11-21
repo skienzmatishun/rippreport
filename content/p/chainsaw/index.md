@@ -112,3 +112,5 @@ Please sign the petition that supports the Zundel’s Road, public access to Mob
 {{< socialpreview url="https://petitions.moveon.org/sign/save-public-water-accesses?source=c.em.cp" >}}
 
 A vote is stronger than a petition, Please unite and show Elliott, Dorsey and Catalyst the door, June 5 Primary election.
+
+{{< aicomments "pchainsaw" >}}

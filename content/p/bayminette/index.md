@@ -168,3 +168,5 @@ Mayor Bob Wills is laughing all the way to the bank it is an early Christmas for
 If this is what Baldwin County Delegation calls ethical representation of it’s citizens then we are all in the hog farm.
 
 WAKE UP BALDWIN COUNTY
+
+{{< aicomments "pbayminette" >}}

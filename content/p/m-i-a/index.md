@@ -140,3 +140,5 @@ OCTOBER 6th Spanish Fort and Daphne have runoff elections for Mayor. Spanish For
 In Daphne you have Scott Boone Consulting, aka Catalyst, supporting Steve Carey. Carey is the developers dream and they have money on it. Fairhope is 100% Catalyst and headed for the swamp. Daphne use your heads and vote for Robin LeJune or you will join Fairhope in the swamp.
 
 PS The President of the United States has Covid-19, that is not fake news and neither is Covid-19. Wear a mask and social distance.
+
+{{< aicomments "pm-i-a" >}}

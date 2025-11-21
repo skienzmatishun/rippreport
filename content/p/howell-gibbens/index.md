@@ -143,3 +143,5 @@ The Ripp Report ‘s long range prediction is that if Mr. Brown loses the counci
 Brown exemplifies a CATALYST/Scott Boone loyalist, CATALYST has cost Baldwin County Millions and their good ole boy’s club needs to end.
 
 ## VOTE HOWELL GIBBENS
+
+{{< aicomments "phowell-gibbens" >}}

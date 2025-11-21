@@ -119,3 +119,5 @@ CATALYST and Quid quo pro are synonymous.
 So here we go again the Mayor out front defending the citizens and the Quid quo pro group, CATALYST, assuring everyone what the Mayor is saying is “CRAZY”. Wake up Fairhope.
 
 {{< socialpreview url="https://rippreport.com/p/crazy/" >}}
+
+{{< aicomments "pquid-quo-pro" >}}

@@ -146,3 +146,5 @@ A vote for Councilman Brown is a vote for corruption. Mr. Brown has used his off
 If NO candidates challenge Brown or Burrell, Fairhope will be stung again by the B’s.
 
 ## Beware of the B-STING
+
+{{< aicomments "psting" >}}

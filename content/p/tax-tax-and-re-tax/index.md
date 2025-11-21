@@ -124,3 +124,5 @@ These are the same micromanaging Christian conservatives who pound their chest e
 {{< socialpreview url="https://thefairhopetimes.blogspot.com/2019/02/special-school-tax-will-need-councils.html" >}}
 
 Teachers need to demand that the Baldwin County School Board address the basic needs of schools. Our teachers are suppose to TEACH not fund-raise.
+
+{{< aicomments "ptax-tax-and-re-tax" >}}

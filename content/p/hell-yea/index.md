@@ -147,3 +147,5 @@ THE OCTOBER 2 ELECTION GIVES THE COMMUNITY OF FAIRHOPE THE OPPORTUNITY TO SEND A
 {{< socialpreview url="https://thefairhopetimes.blogspot.com/2018/09/opinion-dont-deny-citizens-timely-vote.html" >}}
 
 THE ELECTION SHOULD GO FORWARD AND ANY ATTEMPT BY THE COUNCIL TO INTERFERE WITH A FAIR ELECTION, WILL BE THEIR OWN DEMISE.
+
+{{< aicomments "phell-yea" >}}

@@ -126,3 +126,5 @@ Well things did not go as planned. Fairhope had it’s first fair election super
 The icing on the cake is now the council is bashing social media and the negative response it is receiving in the court of public opinion. We know they cannot be talking about the Ripp Report because we have a 5000 dollar reward if you prove we are lying. Fairhope just had it’s first social media election where every candidate utilized the Internet, Facebook and other social media outlets and now all of a sudden they don’t like it.
 
 WELL LET THEM HEAR FROM YA! USE SOCIAL MEDIA
+
+{{< aicomments "plistening-not-reading" >}}

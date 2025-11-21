@@ -114,3 +114,5 @@ Renaissance Woman
 There will be a Celebration of Life in October at Eastern Shore Art Center. Please stay tuned.
 
 .size-full {padding:2rem;}
+
+{{< aicomments "pobituary" >}}

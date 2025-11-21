@@ -137,3 +137,5 @@ As a native Louisianian who lived ten years in Alabama, I must say that Gallion'
 I applaud Tommy Gallion for his courage. The book finishes with a fine essay on why every American should be weary of the corrupt forces fighting sitting President, Donald J. Trump, and that we must all try and be more vigilant in fighting corruption at every level of government. Hopefully he will live to see the changes he so desperately hopes to see for not only his pellagra-ridden home state, but also for the embattled United States of America, a country still worth fighting for.
 
 Christopher E. Warner
+
+{{< aicomments "preading-in-the-rain" >}}

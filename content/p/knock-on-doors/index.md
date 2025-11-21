@@ -123,3 +123,5 @@ North Baldwin is an excellent location for large scale manufacturing but if you 
 The Baldwin County Commission, State Senator and Representatives and Mayors should look for some sales people who knock on doors. There should be a specific marketing approach that would target large and small scale manufacturing in North Baldwin. This could include some sort of incentive to independent sales people that normally would not operate in that market. The more people knocking on doors the better.
 
 Stop waiting for the phone to ring, KNOCK ON DOORS
+
+{{< aicomments "pknock-on-doors" >}}

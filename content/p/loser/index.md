@@ -122,3 +122,5 @@ Today The Ripp Report is going to pay all of their attorney fees, the company Am
 Burrell says he won, what he won was not having to apologize or being accountable. He won by proving an “at Large” Council is responsible to no one. He won by not having to apologize to Veterans for his disrespect. He won for CATALYST and the good ole boys. He won for those wishing to go back in time not forward with good government. That is what Jack calls a win!
 
 You are a LOSER, Burrell, and more and more people are coming to that conclusion everyday.
+
+{{< aicomments "ploser" >}}

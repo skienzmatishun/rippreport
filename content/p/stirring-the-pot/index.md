@@ -86,3 +86,5 @@ It’s alright for “come fly with me” Jack to hire an attorney, read the let
 {{< socialpreview url="https://rippreport.com/p/jack-box-airport/" >}}
 
 THINK ABOUT IT ! SEE YA FREAKY FRIDAY
+
+{{< aicomments "pstirring-the-pot" >}}

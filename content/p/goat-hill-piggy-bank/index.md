@@ -117,3 +117,5 @@ Politicians walk, while we chain and cuff underage kids for drinking.
 Orange Beach has the most corrupt municipal judge in Baldwin County, now he is going to judge kids drinking. Gulf Shores and Orange Beach operate more like dictatorships and listen only to the good ole boys and developers. I am not supporting underage drinking but it is hypocritical of elected officials to arrest kids, chain them up for public humiliation, ignore political corruption and tax it’s citizens without any representation.
 
 Ask yourself what is more egregious, kids drinking? Or our elected officials taxing us without representation.
+
+{{< aicomments "pgoat-hill-piggy-bank" >}}

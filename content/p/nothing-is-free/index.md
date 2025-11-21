@@ -142,3 +142,5 @@ Why should the Grand be allowed to have full city services? Without paying for i
 Come on Senator Elliott you got the ball rolling, don’t worry about Captain Jack that ball is going to flatten him OUT in 2020.
 
 P.S. Sign me up for annexation.
+
+{{< aicomments "pnothing-is-free" >}}

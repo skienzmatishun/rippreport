@@ -147,3 +147,5 @@ It appears that 3 of 5 questions on the bid sheet do not appear to be accurate. 
 The original complaint centered on Mr. Jack Burrell the elected official. After reviewing Mr. Hix’s and the Authorities comments in Lagniappe and considering his personal attorney is investigating the Ripp Report, we feel compelled to file an ethics complaint against Mr. Ray Hix.
 
 https://cdn.rippreport.com/wp-content/uploads/2017/03/ethics-complaint-1.pdf
+
+{{< aicomments "pinvestigating-the-investigators" >}}

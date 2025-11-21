@@ -105,3 +105,5 @@ Gulf Shores, just like Fairhope underestimated the citizens frustration and the 
 https://cdn.rippreport.com/2019-5-13-Complaint.pdf
 
 To change planning and zoning rules, regulations, and official members of the P&Z Board, you vote out the Mayor, that’s what happened in Fairhope. That is what could happen in Gulf Shores in 2020.
+
+{{< aicomments "pgulf-shores-lawsuit-2020" >}}

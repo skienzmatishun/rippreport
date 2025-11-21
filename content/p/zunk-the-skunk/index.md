@@ -159,3 +159,5 @@ Fairhope’s needs to replace the self serving B’s, they are the problem.
 ## PLEASE SIGN THE APPROVED PETITION, NOT THE ONE THAT STINKS
 
 ## THIS IS VERY IMPORTANT TO THE FAIRHOPE COMMUNITY
+
+{{< aicomments "pzunk-the-skunk" >}}

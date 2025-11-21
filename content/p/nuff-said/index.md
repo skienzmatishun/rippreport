@@ -86,3 +86,5 @@ What is far more important than that is the council’s lack of accountability a
 {{< socialpreview url="https://rippreport.com/p/fairhope-voters-important-notice/" >}}
 
 VERY IMPORTANT
+
+{{< aicomments "pnuff-said" >}}

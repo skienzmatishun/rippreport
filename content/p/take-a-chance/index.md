@@ -129,3 +129,5 @@ So before you attend, beware, the very people NOT protecting others by wearing a
 DO NOT “TAKE A CHANCE”
 
 You can drive by in the safety of your car, the lights will be in place until 2021.
+
+{{< aicomments "ptake-a-chance" >}}

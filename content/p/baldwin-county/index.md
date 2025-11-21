@@ -155,3 +155,5 @@ Now he wishes to use the video footage as a defense of the Sheriff’s departmen
 Currently four separate incidents involving BCSO have resulted in loss of life.
 
 WHERE ARE THE VIDEO’S?
+
+{{< aicomments "pbaldwin-county" >}}

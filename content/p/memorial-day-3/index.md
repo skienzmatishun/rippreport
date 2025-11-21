@@ -48,3 +48,5 @@ related_articles:
   rank: 10
 ---
 In honor of our heroes.
+
+{{< aicomments "pmemorial-day-3" >}}

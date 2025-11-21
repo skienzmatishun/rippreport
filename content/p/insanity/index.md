@@ -104,3 +104,5 @@ Chris is taking the Kay Ivy approach for the general election, hide and count on
 October 11th, tomorrow night, Jason Fisher will be at the Fairhope Castle for a campaign event. Their will be food, drink, drones and the candidate. Please come and listen to Jason Fisher running for State Senate Seat 32.
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2018/10/42503661_1696287730500746_2562634254823456768_n.jpg)
+
+{{< aicomments "pinsanity" >}}

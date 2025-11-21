@@ -211,3 +211,5 @@ What a joke.
 Parker Road and Hwy. 98 are already congested, get ready folks for 1200 more cars a day exiting Parker Road.
 
 ## PLEASE CHECK OUT BACKSTORY PODCAST FACEBOOK & PODCAST SOURCES
+
+{{< aicomments "pfairhope-council-asleep-at-the-wheel" >}}

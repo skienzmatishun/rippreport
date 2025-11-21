@@ -145,3 +145,5 @@ He copped the guilty plea in city court after he was exposed.
 We also know for a fact he is unwilling to answer a simple yes or no question about whether or not he was in a bar that night.
 
 Stay Tuned for the next revelation about Mr Elliott and his general contracting career.
+
+{{< aicomments "pweasel-contractor" >}}

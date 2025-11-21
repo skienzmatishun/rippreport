@@ -150,3 +150,5 @@ Please sign the petition, 100% of the money donated on the petition page goes to
 You can read the entire transcript we welcome comments:
 
 [Court Transcripts](https://1drv.ms/u/s!AjkiMTnxOg5Whs8_OXITUR9ssyxHzw?e=HW1V3s)
+
+{{< aicomments "pinnocent" >}}

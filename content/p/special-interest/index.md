@@ -117,3 +117,5 @@ Two more independent citizen groups are being formed in support of the YES vote
 Don’t be fooled by deliberate confusion, fear or intimidation, Fairhope deserves better.
 
 VOTE YES
+
+{{< aicomments "pspecial-interest" >}}

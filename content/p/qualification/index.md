@@ -90,3 +90,5 @@ The Alabama Attorney General needs to have a commitment to exposing and prosecut
 Alabama is first in political corruption, until that changes we will remain last in every thing else.
 
 {{< socialpreview url="https://web.archive.org/web/20190115064654/http://uselections.com/al/al.htm" >}}
+
+{{< aicomments "pqualification" >}}

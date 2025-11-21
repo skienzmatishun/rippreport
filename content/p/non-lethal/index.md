@@ -128,3 +128,5 @@ Baldwin County Police Forces should be required to turn over all body cam videos
 Baldwin County Sheriff’s Department should be required to hand over any cases to an unbiased and unrelated police agency, to investigate cases where a loss of life by the hands of sheriff officers, or police officers, are involved. The current policy has these cases investigated by the sheriff’s department selecting, related police departments or his selected agency, formed by him, investigating themselves. The current policy depends on police immunity not on police accountability.
 
 Lagniappe articles are sometimes secured with a paywall, BEHIND THE SCENES, by Gabriel Tynes was published January 19 2021
+
+{{< aicomments "pnon-lethal" >}}

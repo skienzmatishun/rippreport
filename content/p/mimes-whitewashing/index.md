@@ -101,3 +101,5 @@ Employees are beginning to come forward with information that may shed a lot of 
 "Mr. LLC,” Boone and Councilman Brown were outraged by any attempt to mediation and preempted any lawsuit by saying they did not like to be threatened by a lawsuit. The lawsuit was not a threat it was the next step if the council continued to interfere with the duties of the mayor, Brown and Boone used it as an excuse to pass gas on TV.
 
 Twice the Ripp Report approached the council in an effort to resolve planning and zoning issues. Both times, different council’s, the council instructed me to sue the city. I did— twice, and won. The cost to the city over— 300,000 dollars. Boone and Brown need to start doing their jobs and stop blowing hot air and challenging the mayor to sue the city when they are responsible for obstructing the mayor from doing her job. This council will be known for it’s whitewashing of complaints and refusal to audit any major issues.
+
+{{< aicomments "pmimes-whitewashing" >}}

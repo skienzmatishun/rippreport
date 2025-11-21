@@ -109,3 +109,5 @@ A civil case will be filed against Regions Bank, which will involve the trustees
 Mr Albritton is the Executive Director of the Ethics Commission. His actions as a trustee, which he has admitted to in Lagniappe articles, should require him to resign from the Ethics Commission, immediately.
 
 Stay tuned, this story is far from over. The civil case will expose just how many of Mr. Albritton’s law partners and friends were on the “self serving”, money train.
+
+{{< aicomments "pwrit-of-mandamus-update" >}}

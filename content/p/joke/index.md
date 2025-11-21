@@ -98,3 +98,5 @@ Where did all the money go, 5 to 6 million, and who benefited? GOB’S
 The soccer fields were negotiated for construction under Mr Boone and Mr Burrell’s last term in office, remember that.
 
 WHO WANTS TO HEAD THE COMMITTEE? THE FINAL REPORT WILL BE PRESENTED TO THE MAYOR, CITY COUNCIL and MADE PUBLIC
+
+{{< aicomments "pjoke" >}}

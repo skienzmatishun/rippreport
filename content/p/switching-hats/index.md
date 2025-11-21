@@ -105,3 +105,5 @@ This is just like Fly Creek Apartments the developers come back again and again 
 It’s money, greed, and a select few, who we do not know yet, that are manipulating the system and Mr. Turner is their sales agent. He is head of Single Tax yet this project is the exact opposite of what Single Tax is about. He is head of Planning and Zoning and this project has not been approved. How many hats can he and Jack wear?
 
 The citizens who live in this area and those in Magnolia Beach Condo’s had better be paying attention. This project will add 20 to 30% more water in the watershed that already has serious problems. Get ready Burrell and Turner are not done yet.
+
+{{< aicomments "pswitching-hats" >}}

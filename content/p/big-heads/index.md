@@ -135,3 +135,5 @@ Then there is Mr. Lee Turner the master of conflicts of interest wearing three h
 WARNING when Mr Turner takes to the podium Thursday night be prepared for another sewage spill.
 
 Oh by the way the Mayor stands on the side of the citizens, IT AIN’T THE MAYOR.
+
+{{< aicomments "pbig-heads" >}}

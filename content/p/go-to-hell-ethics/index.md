@@ -118,3 +118,5 @@ The Alabama Ethics Commission was created by the Alabama Legislature in 1973 by 
 
 CONFLICT OF INTEREST The Ethics Law defines a “conflict of interest” as, “A conflict on the part of a public official or public employee between his or her private interests and the official responsibilities inherent in an office of public trust”. Ala. Code § 36-25-1(8).
 
+
+{{< aicomments "pgo-to-hell-ethics" >}}

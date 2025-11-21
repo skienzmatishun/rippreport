@@ -138,3 +138,5 @@ The First Congressional District needs Jerry Carl, the last thing we need is CAT
 Baldwin County please agree with the rest of the First Congressional District and reject CATALYST candidates.
 
 Please listen and like BACKSTORY PODCAST
+
+{{< aicomments "pvirus-vs-catalyst" >}}

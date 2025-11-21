@@ -114,3 +114,5 @@ Fairhope if you allow Jack Burrell to continue with this counterproductive plan 
 This is a simple case of a small minority ignoring the vast majority for their own personal gain.
 
 IT’S WAR GOOD VS. EVIL MINORITY VS. MAJORITY
+
+{{< aicomments "pgob-coup" >}}

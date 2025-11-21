@@ -158,3 +158,5 @@ ADEM the Department of Environmental Management, aka, the Department of Environm
 A special thanks to [Mobile Baykeeper](https://rippreport.com/tag/mobile-baykeeper/) and all the non-profits and citizens that have voiced their concerns about the dangers of the existing coal ash ponds. It should be mentioned that elected politicians have done little.
 
 They need that Alabama Power contribution money for the next election.
+
+{{< aicomments "ps-o-s" >}}

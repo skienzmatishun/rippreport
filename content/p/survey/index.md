@@ -124,3 +124,5 @@ Source: [www.surveymonkey.com/r/FairhopeWaterfrontSurvey](https://www.surveymonk
 </div>
 
 Be sure to listen to Backstory Podcast #21, Face book
+
+{{< aicomments "psurvey" >}}

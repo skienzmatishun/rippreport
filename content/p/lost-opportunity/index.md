@@ -110,3 +110,5 @@ Now we need 2.6 million not 9000 dollars a year for a farming lease.
 {{< socialpreview url="https://rippreport.com/p/catalyst-colors/" >}}
 
 This CATALYST council has been the worst Fairhope has ever seen. Please remember Aug 25th is the municipal election and vote the CATALYST council OUT.
+
+{{< aicomments "plost-opportunity" >}}

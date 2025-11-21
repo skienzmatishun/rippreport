@@ -92,3 +92,5 @@ related_articles:
 {{< socialpreview url="https://rippreport.com/p/victory/" >}}
 
 ASK THE CITY COUNCIL WHY THEY DID NOTHING
+
+{{< aicomments "pre-run-doing-nothing" >}}

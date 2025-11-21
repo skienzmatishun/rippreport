@@ -114,3 +114,5 @@ The Mayor is the reason we do not have a Performing Arts center. No fact checkin
 The truth is Fairhope does not have a Performing arts center because of the Mayor.
 
 In the mid 90’s the Dyas family offered the land for FREE in the triangle for a Performing Arts Center. The first estimated costs were 4 million, 2 million less than our soccer complex. Around 2005 the subject came up again, and again — the Dyas family offered the land for a Performing Arts Center. The Dyas family also pledged free land for a fire station. Mayor Kant rejected all offers except Mr. Cortes, who needed the fire station next to his proposed apartments on a dead end street.
+
+{{< aicomments "pyou-show-me-yours-and-i-will-show-you-mine-letter-that-is" >}}

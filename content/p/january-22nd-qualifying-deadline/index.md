@@ -95,3 +95,5 @@ And yes it's that time of year again Baldwin County, qualifying deadlines loom f
 The unpopular Mobile Bay Bridge project $2.1B will have some impacts as well. The MPO which is comprised of elected officials from County and City governments will have to defend this position to the voters. And just in time for his 5th term, the Baldwin County Commission again bends to the Sheriff's will and is spending $65M to build a new jail in Bay Minette.
 
 And we give the Donald Trump/Maga Mo Brooks led January 6th attempt to usurp the good works of our government their due.
+
+{{< aicomments "pjanuary-22nd-qualifying-deadline" >}}

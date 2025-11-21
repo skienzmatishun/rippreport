@@ -112,3 +112,5 @@ The dark horse in the race is Randy Brinson and his best qualification is he is 
 {{< socialpreview url="http://www.al.com/news/index.ssf/2017/06/christian_coalition_president.html" >}}
 
 The Ripp Report will be following the Senate race and we hope to inform the rest of Alabama just how damn bad Sen. Pittman has been for Baldwin County and how sending him to the swamp would be the worst decision they ever made.
+
+{{< aicomments "pscratch-my-back-i-scratch-yours" >}}

@@ -100,3 +100,5 @@ What they did not count on is the Court of Public Opinion and that they are acco
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/lawsuit-alleges-fairhope-council-president-denied-citizen-s-free-speech/article_0e9f0952-4287-5dd2-a569-77bb3e49975d.html" >}}
 
 {{< socialpreview url="https://rippreport.com/p/see-ya-in-court-jack/" >}}
+
+{{< aicomments "prepeat" >}}

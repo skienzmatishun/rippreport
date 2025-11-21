@@ -38,3 +38,5 @@ As a concerned citizen I hope people will accept the dangers of covid and the fa
 As a resident of Alabama I recognize the fact that our state is dead last in almost every category except political corruption, where we are number one. Baldwin County is the most corrupt county in Alabama and will remain so as long as it’s citizens have their heads in the sand.
 
 OORAH
+
+{{< aicomments "psemper-fi-veterans-day" >}}

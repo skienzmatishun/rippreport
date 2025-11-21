@@ -117,3 +117,5 @@ https://www.facebook.com/callaghanforcommission/
 He will kick off his campaign Nov. 16th in Fairhope.
 
 More candidates will announce soon so there will be a choice, say goodbye incumbents.
+
+{{< aicomments "psay-goodbye-incumbents" >}}

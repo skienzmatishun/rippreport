@@ -73,3 +73,5 @@ related_articles:
   recency_score: 13.459574801503088
   rank: 10
 ---
+
+{{< aicomments "pvote-jerry-carl-today" >}}

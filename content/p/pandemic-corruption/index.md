@@ -108,3 +108,5 @@ The City Council of Fairhope is supporting disgruntled and fired employees in th
 ALABAMA is the most corrupt state in the United States and will remain so until the voters wake up and stop straight ticket voting and educate themselves on the candidates. Corruption has become acceptable.
 
 ALABAMA NUMBER ONE
+
+{{< aicomments "ppandemic-corruption" >}}

@@ -144,3 +144,5 @@ The estimated population of Baldwin County was 212,000 in 2017. The Train is bri
 If you think traffic is bad now, just wait, there is a Runaway Train heading your way.
 
 Somebody definitely needs a PLAN.
+
+{{< aicomments "prun-away-train" >}}

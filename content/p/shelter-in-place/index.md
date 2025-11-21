@@ -124,3 +124,5 @@ SHELTER IN PLACE
 JUST ANNOUNCED ALABAMA WILL ORDER “Shelter in Place” Saturday. FINALLY, now
 
 Cooperate. The life you save may be your own.
+
+{{< aicomments "pshelter-in-place" >}}

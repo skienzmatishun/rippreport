@@ -120,3 +120,5 @@ The Mega Site purchase, 34 million plus lost interest and lost opportunity, prob
 {{< socialpreview url="https://rippreport.com/p/cattle-gate-mega-site/" >}}
 
 The BCEDA is promoting the mega-site as being “shovel ready.” Guess what you need the shovel for!
+
+{{< aicomments "pshovel-ready" >}}

@@ -119,3 +119,5 @@ Next weeks council meeting has been rescheduled for Thursday, not the regular sc
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMayorKarinWilson%2Fposts%2F2050138161899223&amp;width=500" width="500" height="344" frameborder="0" scrolling="no"></iframe>
 
  BEND OVER FAIRHOPE
+
+{{< aicomments "pbend-over-fairhope" >}}

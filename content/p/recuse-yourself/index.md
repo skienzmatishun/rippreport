@@ -103,3 +103,5 @@ Mr. Boone deserves a full investigation into his business interest and his multi
 It should be noted that some of the conflicts of interest Mr. Boone has, date back prior to him being elected. He never exposed the fact that he had business interests with Preble-Rish or with Angelo Corte.
 
 Just how many votes has Mr. Boone cast for his self interest?
+
+{{< aicomments "precuse-yourself" >}}

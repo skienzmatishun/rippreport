@@ -130,3 +130,5 @@ Only in Alabama can you receive a Press award for a bogus story. That was not en
 “Pursuit of the Truth” Chuckee does not know what the truth is.
 
 Maybe the whole thing was a HALLUCINATION!
+
+{{< aicomments "phallucinations" >}}

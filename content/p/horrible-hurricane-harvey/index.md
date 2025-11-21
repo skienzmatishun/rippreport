@@ -96,3 +96,5 @@ had a very interesting comment which we have heard once before:
 > “I saw Robert Jester and Cucky Cheez at Lulu’s. Jack was with them with a bunch of paperwork. Drinks were served. Wednesday last week.”
 
 Well Well Well What could they be discussing?????? or leaking???????
+
+{{< aicomments "phorrible-hurricane-harvey" >}}

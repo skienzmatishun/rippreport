@@ -113,3 +113,5 @@ Write a letter call the TV and Radio stations and ask why they are not covering 
 <iframe style="height: 900px; width: 700px;" src="https://cdn.rippreport.com/4e2819af-skm_c55821071409060-min.pdf" width="700px" height="900px"></iframe>
 
  [Download](https://cdn.rippreport.com/4e2819af-skm_c55821071409060-min.pdf)
+
+{{< aicomments "pself-dealing-self-stealing" >}}

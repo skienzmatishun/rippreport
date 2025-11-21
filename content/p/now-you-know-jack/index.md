@@ -116,3 +116,5 @@ Mr. Burrell approved Airport funds to hire an attorney to investigate The Ripp R
 {{< socialpreview url="https://rippreport.com/p/jack-box-airport/" >}}
 
 So NOW you know the real Jack
+
+{{< aicomments "pnow-you-know-jack" >}}

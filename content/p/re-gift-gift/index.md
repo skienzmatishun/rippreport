@@ -110,3 +110,5 @@ This “gift” is compliments of Tim Kant ,Corte and the last City Council. Ple
 Whatever else let’s be fair:
 
 {{< socialpreview url="https://rippreport.com/p/fairness/" >}}
+
+{{< aicomments "pre-gift-gift" >}}

@@ -164,3 +164,5 @@ Wake up Fairhope, Marble Mouth, the council and the great Negotiator, are costin
 They have NO PLAN and they ALL need to be kicked out of office.
 
 ## CLEAN SWEEP
+
+{{< aicomments "pmarble-mouth" >}}

@@ -106,3 +106,5 @@ District two needs someone that does not have so much baggage, is independent an
 [https://facebook.com/mattmckenzie4bcc](https://facebook.com/mattmckenzie4bcc)
 
 VOTE MAY 24th FOR MATT McKENZIE DISTRICT TWO COUNTY COMMISSION
+
+{{< aicomments "ptalking-heads" >}}

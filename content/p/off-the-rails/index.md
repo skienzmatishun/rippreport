@@ -106,3 +106,5 @@ This council has slowed down infrastructure projects and misused city funds. The
 Think about this, three councilmen Boone Brown and Burrell, without any community involvement or public participation paid 2.75 million for land for recreation. They have no money for development so their solution is to lease the 2.75 million in land for farming??????? This is the same three councilmen who have ignored the sewer infrastructure for years. If it were not for city staff and the mayor, who obtained BP funds, nothing would have been done. This is the first time in 20 plus years where sewer infrastructure is being seriously addressed, WITHOUT THE HELP OF THE COUNCIL.
 
 Recreation land for farming or repair the sewer infrastructure.
+
+{{< aicomments "poff-the-rails" >}}

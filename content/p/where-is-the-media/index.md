@@ -143,3 +143,5 @@ The below articles have followed the original story, however the major Alabama n
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flagniappemobile%2Fposts%2F10159384608002317&amp;show_text=true&amp;width=500" width="500" height="629" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 Please contact the media in your area and ask why they are not covering the obvious corruption and ethic’s violations, involving Regions Bank and Director of Ethics Tom Albritton.
+
+{{< aicomments "pwhere-is-the-media" >}}

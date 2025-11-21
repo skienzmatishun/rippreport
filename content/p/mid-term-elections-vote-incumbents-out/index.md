@@ -80,3 +80,5 @@ A vote for Tucker Dorsey is a vote for Clarence Burke, Baldwin County Sewer, and
 The Ripp Report encourages everyone to check out all the candidates. You should know the candidates and their political affiliation and their qualifications. By political affiliation I mean are they independent candidates or Catalyst candidates? Big difference, Catalyst candidates are all cut from the same mold. The good ole boy club and if you think they believe in fair play, get your wallet out.
 
 VOTE INCUMBENTS OUT
+
+{{< aicomments "pmid-term-elections-vote-incumbents-out" >}}

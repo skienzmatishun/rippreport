@@ -131,3 +131,5 @@ Don’t be blind, know your candidates and make an intelligent decision to vote 
 Jason Fisher is a far better candidate than Chris Elliott. See ya at LULU’s
 
 OPEN YOUR EYES
+
+{{< aicomments "popen-your-eyes" >}}

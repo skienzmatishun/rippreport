@@ -127,3 +127,5 @@ Watch this short video then ask yourself what the hell is going on?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ggLAWUi0qM" frameborder="0" allowfullscreen></iframe>
 
 The Ripp Report does not personally know any of the Weeks Family but would be proud to meet them. I look forward to eating at their Creole Restaurant.
+
+{{< aicomments "pbattle-of-weeks-family" >}}

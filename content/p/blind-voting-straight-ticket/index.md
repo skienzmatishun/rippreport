@@ -88,3 +88,5 @@ Republican or Democratic, straight ticket voting encourages corruption, by just 
 {{< socialpreview url="https://www.al.com/election/2018/11/elections-2018-how-to-vote-a-straight-party-ticket-in-alabama.html" >}}
 
 Alabama elected a Governor that did not even have to debate. All she had to do was wait for the blind to cast their vote. We will remain dead last as long as we put party before candidate.
+
+{{< aicomments "pblind-voting-straight-ticket" >}}

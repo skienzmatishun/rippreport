@@ -133,3 +133,5 @@ The same City Attorney has also threatened the Mayor of Fairhope with legal acti
 Maybe it is all about billable hours, not tax dollars.
 
 I’m Back
+
+{{< aicomments "im-back" >}}

@@ -100,3 +100,5 @@ It is easy to see that people with special interests, Catalyst connections, or a
 {{< socialpreview url="https://rippreport.com/p/special-interest/" >}}
 
 The budget NOT being passed is deliberate, meant to obstruct the Mayor and City Supervisors and you are paying with your tax dollars, for the obstruction. Catalyst is running the Council.
+
+{{< aicomments "pcatalyst" >}}

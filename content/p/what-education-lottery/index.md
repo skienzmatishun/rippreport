@@ -124,3 +124,5 @@ Maybe the answer is just to make corruption legal.
 I hope those who voted for the TAX MAN know now what a terrible decision that was.
 
 ALABAMA number one in political corruption and damn proud of it.
+
+{{< aicomments "pwhat-education-lottery" >}}

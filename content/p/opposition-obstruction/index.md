@@ -96,3 +96,5 @@ These are examples of what Mr. Boone never told anyone I guess he will thank us 
 A special council meeting was called by Mr Burrell on a Thursday, only 3 days after the regular meeting to discuss Fairhope Airport Authority business another example of transparency.
 
 The council needs to provide barf bags at the council meetings.
+
+{{< aicomments "popposition-obstruction" >}}

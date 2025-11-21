@@ -163,3 +163,5 @@ However, since the election, Jack and the Mayor have been making statements that
 Pay Attention Fairhope Jackass Jack is the worst negotiator ever and if Mayor Sullivan does not separate herself from him, he will take her down while he pisses away $6.2 million.
 
 {{< socialpreview url="https://rippreport.com/p/alabama-ethics-a-political-tool/" >}}
+
+{{< aicomments "pjackass-jack" >}}

@@ -178,3 +178,5 @@ https://cdn.rippreport.com/wp-content/uploads/2017/07/Satterwhite.pdf
 Now is the time for the Jester or Mr Brown to step up and push back. We anxiously await their reply and denials. One thing is for sure the other comments on the Ripp Reports are free to speculate on the Jester’s identity. If Mr. Brown is the Jester, his comments reflect his mindset, that mindset is not that of a councilperson. A councilperson who calls his constituents carpetbaggers and Yankees insisting they go home if they do not agree with him and his good ole boys.
 
 FAIRHOPE DOES NOT NEED JESTER 666 !
+
+{{< aicomments "phate" >}}

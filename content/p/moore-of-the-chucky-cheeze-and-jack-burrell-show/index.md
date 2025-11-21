@@ -114,3 +114,5 @@ Kant is gone, not to return, Pittman is leaving, thank God, and Jack is now the 
 Sorry I could not deliver on the Christmas surprise before Christmas, but Wonderful Wednesday will be worth it.
 
 MERRY CHRISTMAS
+
+{{< aicomments "pmoore-of-the-chucky-cheeze-and-jack-burrell-show" >}}

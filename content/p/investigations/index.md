@@ -110,3 +110,5 @@ The airport gets millions of dollars and education gets thousands while the airp
 Listed are only 6 items that represent over 50 million dollars and the busy bees want to look at a trumped up bias claim, that they think will deflect attention away from the bees.
 
 Look on the bright side bees do not live long and these busy bees will end up stinging themselves.
+
+{{< aicomments "pinvestigations" >}}

@@ -118,3 +118,5 @@ I would like to advise the new Delegation that State Senator Chris Elliott is we
 PLEASE: Take a minute and call or write the county commission and your legislative representative. Let them know that you do not want your tax dollars going into Bob “GREEDY” Wills pocket. Let the preacher know as well.
 
 THIS IS WHY ALABAMA IS THE MOST POLITICAL CORRUPT STATE IN THE UNITED STATES.
+
+{{< aicomments "psunday-sermon" >}}

@@ -136,3 +136,5 @@ Source: [thefairhopetimes.blogspot.com/](https://thefairhopetimes.blogspot.com/)
 [https://www.facebook.com/BaldwinCountyLegalEagle/](https://www.facebook.com/BaldwinCountyLegalEagle/)
 
 Please pay attention and read the facts, before, you are misled by gossip, half truths or outright fiction.
+
+{{< aicomments "plagniappe" >}}

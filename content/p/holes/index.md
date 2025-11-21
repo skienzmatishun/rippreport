@@ -93,3 +93,5 @@ How damn stupid does all this sound? Well, I will tell ya one more thing that is
 This Beavis and Butthead plan could only be dreamed up by GUILTY people and this city council has yet to accomplish anything, except dig another hole in Fairhope.
 
 Next election they will be in the hole, looking up.
+
+{{< aicomments "pholes" >}}

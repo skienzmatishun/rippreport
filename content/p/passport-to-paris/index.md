@@ -133,3 +133,5 @@ Source: [rippreport.com/2018/06/29/catalyst-does-baldwin-county/](https://rippre
 Chris Elliott and Fairhope City Councilman Burrell are very much alike, if their lips are moving they are lying.
 
 Be sure to get a free Lagniappe to read the complete story.
+
+{{< aicomments "ppassport-to-paris" >}}

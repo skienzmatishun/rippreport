@@ -89,10 +89,6 @@ Our website includes integrations with the following third-party services:
 - **Rumble**: Embedded content from Rumble may collect usage data as governed by their Privacy Policy.
 - **YouTube**: Embedded content from YouTube operates under Google’s Privacy Policy.
 
-### 1.3 Cactus Chat
-
-The Ripp Report uses Cactus Chat, which connects to a Matrix server to enable real-time communication. Messages and interactions are processed through decentralized Matrix servers. If you are not logged in as a registered user, you get registered as a guest account with the homeserver on initial visit. The access token is stored in your local storage for use on other posts on this site. We do not have any access to this information.
-
 ## 2. How We Use Your Information
 
 The Ripp Report does not access or process your personal information directly. Any incidental data collected is processed by third-party services.

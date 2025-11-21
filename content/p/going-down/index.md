@@ -110,3 +110,5 @@ To add insult to injury the three B’s are spending 2.65 million on recreation 
 Please follow us on Backstory Podcast where Baldwin County issues are discussed and political corruption is exposed. Tomorrow podcast #7 around noon.
 
 {{< socialpreview url="https://rippreport.com/p/backstory-podcast-6/" >}}
+
+{{< aicomments "pgoing-down" >}}

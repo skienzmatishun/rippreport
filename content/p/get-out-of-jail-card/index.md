@@ -152,3 +152,5 @@ Not one single case of anyone, with the Get Out of Jail card has ever been held 
 Baldwin County has the dubious reputation as being the most corrupt county in Alabama. Alabama is the most corrupt state in the United States.
 
 Apply for your Get Out of Jail Card with your local District Attorney or Sheriff. Applicants without “connections” need not apply.
+
+{{< aicomments "pget-out-of-jail-card" >}}

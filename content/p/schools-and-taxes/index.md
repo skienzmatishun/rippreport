@@ -95,3 +95,5 @@ BCBOE teachers are posting their Amazon Wish Lists on FB. However, the BCBOE is 
 The next time the TAX MAN, “Chris Elliott”, is crying in his milk for more tax for schools, tell him they are well funded and no new tax is necessary.
 
 Thank you CGA
+
+{{< aicomments "pschools-and-taxes" >}}

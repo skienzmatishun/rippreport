@@ -90,3 +90,5 @@ related_articles:
   rank: 10
 ---
 No FREAKY FRIDAY today, gone fishing.
+
+{{< aicomments "pgone-fishing" >}}

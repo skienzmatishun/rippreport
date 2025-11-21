@@ -106,3 +106,5 @@ Let’s see how Chuckee and Jack spin the Constitution of the United States.
 
 HAPPY NEW YEAR
 
+
+{{< aicomments "psee-ya-in-court-jack" >}}

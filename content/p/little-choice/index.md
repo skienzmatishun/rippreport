@@ -126,3 +126,5 @@ The only other person who is active in the race on the republican side is Dr. Ra
 Are you not tired of the same old BS from career politicians or politicians that use their office for personal gain, like Pittman? Well your alternative may be Mr Brinson. He may not be well known and certainly is not a career politician but would be a breath of fresh air compared to the above.
 
 Please vote in the primary and think carefully who you want as Alabama’s next US Senator. Be careful you do not send a swamp rat to the swamp.
+
+{{< aicomments "plittle-choice" >}}

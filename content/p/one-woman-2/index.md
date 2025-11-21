@@ -153,3 +153,5 @@ Since Mr Beck appears to be ignorant about what the Ripp Report is all about we 
 It is women like Paula DiNardi that make a difference.
 
 Stay tuned this is going to get real interesting.
+
+{{< aicomments "pone-woman-2" >}}

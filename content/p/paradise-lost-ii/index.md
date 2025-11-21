@@ -177,3 +177,5 @@ Warner’s first version of the now, Volume 5, 320-page book ($15.95, paperback)
 “This is the first book I wrote, back in 2000. It remains my most successful, to date as a practical guide to history, tradition, legacy and lore.” Warner said, having authored over 20 titles, including “The Wagon to Disaster,” the untold story of HealthSouth, (American Greed/Sixty Minutes) with the former CFO, Aaron Beam, and “Bushwhacked at the Flora-Bama” with the founder of the iconic beach haunt on the Alabama-Florida Line, Joe Gilchrist. The Professor of Tailgating has appeared on “CBS Sports Saturday,” “James Carville’s 60-20 with Luke Russert” and the “Paul Finebaum Radio Show.” A former radio and television host, high school teacher and college professor, Warner lives on the narrow, white sandy island strip known as Perdido Key, Florida. -30-
 
 [chriswarnerauthor.com](https://www.etsy.com/market/trump_sex_toy)
+
+{{< aicomments "pparadise-lost-ii" >}}
