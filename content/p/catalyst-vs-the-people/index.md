@@ -89,7 +89,7 @@ related_articles:
   category_score: 0
   rank: 10
 ---
-[Read today's FREAKY FRIDAY]/(https://cdn.rippreport.com/wp-content/uploads/2018/05/catalystvsthepeople.pdf)
+[Read today's FREAKY FRIDAY](https://cdn.rippreport.com/wp-content/uploads/2018/05/catalystvsthepeople.pdf)
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-sheriff/" >}}
 
