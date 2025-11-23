@@ -33,3 +33,4 @@ bsp_transcript_generator/*
 migrate_comments/*
 migration_reports/*
 restore_archived_comments/*
+comment_moderation/*
