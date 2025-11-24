@@ -12,8 +12,88 @@ categories:
 - bayminette
 authors:
 - admin
+related_articles:
+- slug: heart-of-dixie-podcast
+  title: HEART OF DIXIE PODCAST
+  score: 82.22362358093228
+  llm_score: 90
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 76.40754961626209
+  llm_score: 85
+  recency_score: 81.64907250570349
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 70.29526829813445
+  llm_score: 70
+  recency_score: 26.919243937873805
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 66.57234077666108
+  llm_score: 70
+  recency_score: 77.72021504829691
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 60.64807083289235
+  llm_score: 60
+  recency_score: 4.212460413800172
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: cover-up
+  title: COVER UP
+  score: 55.67078051231671
+  llm_score: 70
+  recency_score: 6.86007333005856
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 54.636953683882055
+  llm_score: 70
+  recency_score: 0.14019894523325707
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: communication
+  title: COMMUNICATION
+  score: 54.632566627238155
+  llm_score: 70
+  recency_score: 0.11168307704791358
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: one-woman
+  title: ONE WOMAN
+  score: 42.32856378619535
+  llm_score: 50
+  recency_score: 0.1356646102697576
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: jester-clone-clown
+  title: The Jester The Clone and the Clown
+  score: 42.311247896040484
+  llm_score: 50
+  recency_score: 0.023111324263077763
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 [BY GRANT McLAUGHLIN - Lagniappe](https://www.lagniappemobile.com)
 
 A never before heard recording of a fight between a Bay Minette attorney and city councilman in September has been released, painting a new picture of the events that local police, the former mayor and the attorney have offered [diverging takes on](https://www.lagniappemobile.com/news/bay-minette-lawyer-tells-his-side-of-arrest-story/article_703c57d9-0e62-48b1-8219-2273b5302734.html).

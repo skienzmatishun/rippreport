@@ -31,14 +31,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 61.139215695149005
-  llm_score: 75
-  recency_score: 22.404902018468416
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: I-SEE-YOU
   title: I SEE YOU
   score: 58.97784430456424
@@ -46,7 +38,7 @@ related_articles:
   recency_score: 8.355987979667463
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
   score: 58.929469713389686
@@ -54,7 +46,7 @@ related_articles:
   recency_score: 8.041553137032842
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: fauxhope
   title: FAUXHOPE
   score: 57.93667135452485
@@ -62,7 +54,7 @@ related_articles:
   recency_score: 1.588363804411422
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: double-red-flags-faux-hope
   title: DOUBLE RED FLAGS - FAUX HOPE
   score: 57.879131204092346
@@ -70,7 +62,7 @@ related_articles:
   recency_score: 1.214352826600136
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
   score: 57.727337234959364
@@ -78,7 +70,7 @@ related_articles:
   recency_score: 0.22769202723574633
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
   score: 57.700199149626314
@@ -86,12 +78,20 @@ related_articles:
   recency_score: 0.051294472570959884
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: elephant-in-a-volkswagen
   title: ELEPHANT IN A VOLKSWAGEN
   score: 57.69859406082687
   llm_score: 75
   recency_score: 0.04086139537457567
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 54.985369541302845
+  llm_score: 65
+  recency_score: 22.404902018468416
   length_score: 100
   category_score: 0
   rank: 10

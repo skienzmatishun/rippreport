@@ -14,30 +14,22 @@ tags:
 - BCSO
 - Bay Minette
 related_articles:
+- slug: audio-of-bay-minette-attorney-councilman-fight-offers-new-details
+  title: LAGNIAPPE - AUDIO OF BAY MINETTE ATTORNEY, COUNCILMAN FIGHT OFFERS NEW DETAILS
+  score: 82.22362358093228
+  llm_score: 90
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 66.8054778065569
-  llm_score: 70
+  score: 76.03624703732612
+  llm_score: 85
   recency_score: 4.235605742619744
   length_score: 100
   category_score: 100
-  rank: 1
-- slug: blind-and-deaf
-  title: BLIND AND DEAF
-  score: 63.852040160990136
-  llm_score: 85
-  recency_score: 0.03826104643576236
-  length_score: 100
-  category_score: 0
   rank: 2
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 59.891659160310375
-  llm_score: 75
-  recency_score: 14.295784542017314
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: cover-up
   title: COVER UP
   score: 58.75350245324557
@@ -45,7 +37,7 @@ related_articles:
   recency_score: 6.897765946096069
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: the-law-enforcement-narrative
   title: The (Law Enforcement) Narrative
   score: 58.33683716336489
@@ -53,15 +45,7 @@ related_articles:
   recency_score: 4.189441561871679
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: press-release
-  title: PRESS RELEASE
-  score: 58.03179095908181
-  llm_score: 75
-  recency_score: 2.2066412340316854
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 4
 - slug: a-slap-on-the-wrist
   title: A SLAP ON THE WRIST
   score: 57.837905680086415
@@ -69,7 +53,7 @@ related_articles:
   recency_score: 0.9463869205615951
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: one-woman-2
   title: ONE WOMAN
   score: 57.713995271873166
@@ -77,20 +61,36 @@ related_articles:
   recency_score: 0.14096926717550023
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: one-woman
+  title: ONE WOMAN
+  score: 57.71329384897634
+  llm_score: 75
+  recency_score: 0.1364100183461363
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: blind-and-deaf
+  title: BLIND AND DEAF
+  score: 57.69819400714398
+  llm_score: 75
+  recency_score: 0.03826104643576236
+  length_score: 100
+  category_score: 0
   rank: 8
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 53.737813006464215
+  llm_score: 65
+  recency_score: 14.295784542017314
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: silence-the-eagle
   title: SILENCE THE EAGLE
   score: 53.156659587195655
   llm_score: 65
   recency_score: 10.518287316771712
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: one-woman
-  title: ONE WOMAN
-  score: 51.55944769513018
-  llm_score: 65
-  recency_score: 0.1364100183461363
   length_score: 100
   category_score: 0
   rank: 10
