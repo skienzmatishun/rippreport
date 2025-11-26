@@ -9,28 +9,20 @@ authors:
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 93.02584078747059
-  llm_score: 90
+  score: 89.9489177105475
+  llm_score: 85
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 100
   rank: 1
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 92.13640775104827
-  llm_score: 90
+  score: 89.05948467412519
+  llm_score: 85
   recency_score: 88.88665038181365
   length_score: 100
   category_score: 100
   rank: 2
-- slug: rule-32
-  title: RULE 32
-  score: 80.70716819180632
-  llm_score: 89
-  recency_score: 18.596593246741016
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
   score: 80.147079803671
@@ -38,15 +30,15 @@ related_articles:
   recency_score: 30.95601872386148
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: no-justice
-  title: NO JUSTICE
-  score: 72.44949142736789
-  llm_score: 75
-  recency_score: 20.921694277891152
+  rank: 3
+- slug: rule-32
+  title: RULE 32
+  score: 78.24562973026785
+  llm_score: 85
+  recency_score: 18.596593246741016
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 4
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 71.53846153846155
@@ -54,6 +46,14 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: no-justice
+  title: NO JUSTICE
+  score: 66.29564527352173
+  llm_score: 65
+  recency_score: 20.921694277891152
+  length_score: 100
+  category_score: 100
   rank: 6
 - slug: earful
   title: EARFUL
@@ -63,19 +63,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 64.34162386730026
-  llm_score: 85
-  recency_score: 3.2205551374516284
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
   score: 59.23076923076924
   llm_score: 65
   recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 58.18777771345411
+  llm_score: 75
+  recency_score: 3.2205551374516284
   length_score: 100
   category_score: 0
   rank: 9

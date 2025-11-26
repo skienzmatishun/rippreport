@@ -17,14 +17,6 @@ authors:
 - admin
 alttags: A skull sits atop scales of justice, symbolizing a flawed legal system lacking accountability and transparency within law ...
 related_articles:
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 80.0566151119704
-  llm_score: 85
-  recency_score: 30.367998227807558
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
   score: 74.34485243215433
@@ -32,12 +24,20 @@ related_articles:
   recency_score: 33.241540809002984
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 1
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
   score: 73.9672093190281
   llm_score: 75
   recency_score: 30.7868605736826
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 73.90276895812426
+  llm_score: 75
+  recency_score: 30.367998227807558
   length_score: 100
   category_score: 100
   rank: 3
@@ -73,14 +73,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 7
-- slug: justified
-  title: JUSTIFIED
-  score: 72.47651037789362
-  llm_score: 85
-  recency_score: 56.097317456308396
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: rumors
   title: RUMORS
   score: 70.01584546152861
@@ -88,6 +80,14 @@ related_articles:
   recency_score: 5.102995499935887
   length_score: 100
   category_score: 100
+  rank: 8
+- slug: justified
+  title: JUSTIFIED
+  score: 66.32266422404746
+  llm_score: 75
+  recency_score: 56.097317456308396
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption

@@ -25,67 +25,67 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 2
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 75.70075747992557
-  llm_score: 85
-  recency_score: 2.0549236195161336
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 75.39597613406688
-  llm_score: 85
-  recency_score: 0.07384487143466474
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 71.45435573277297
-  llm_score: 75
+  score: 77.60820188661911
+  llm_score: 85
   recency_score: 14.453312263024177
   length_score: 100
   category_score: 100
-  rank: 5
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 64.1719685307315
-  llm_score: 85
-  recency_score: 2.117795449754721
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 64.04028239224311
-  llm_score: 85
-  recency_score: 1.2618355495801652
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 63.8483794480578
-  llm_score: 85
-  recency_score: 0.014466412375585717
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: priorities
-  title: Priorities
-  score: 58.24214170564951
+  rank: 3
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 69.54691132607942
   llm_score: 75
-  recency_score: 3.573921086721709
+  recency_score: 2.0549236195161336
   length_score: 100
-  category_score: 0
-  rank: 9
+  category_score: 100
+  rank: 4
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 69.24212998022072
+  llm_score: 75
+  recency_score: 0.07384487143466474
+  length_score: 100
+  category_score: 100
+  rank: 5
 - slug: happy-days
   title: HAPPY DAYS
   score: 58.152449282539536
   llm_score: 75
   recency_score: 2.990920336506884
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 58.11152254442203
+  llm_score: 75
+  recency_score: 2.7248965387430797
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 58.01812237688536
+  llm_score: 75
+  recency_score: 2.117795449754721
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 57.88643623839696
+  llm_score: 75
+  recency_score: 1.2618355495801652
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 57.694533294211645
+  llm_score: 75
+  recency_score: 0.014466412375585717
   length_score: 100
   category_score: 0
   rank: 10

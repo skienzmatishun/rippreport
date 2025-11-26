@@ -14,14 +14,6 @@ authors:
 - admin
 alttags: 'Graphic promoting two key questions for Fairhope city council election: mayor salary vs. engineer hire, and district repre...'
 related_articles:
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 79.10483856939815
-  llm_score: 85
-  recency_score: 99.18145070108791
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
   score: 77.86240319246455
@@ -29,44 +21,52 @@ related_articles:
   recency_score: 91.10562075101957
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 70.77787215799938
-  llm_score: 85
-  recency_score: 45.05616902699594
+  rank: 1
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 72.950992415552
+  llm_score: 75
+  recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 65.85538385947929
-  llm_score: 85
+  score: 59.701537705633136
+  llm_score: 75
   recency_score: 13.05999508661529
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 59.323860807628655
+  llm_score: 75
+  recency_score: 10.605095249586157
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: no-qualifications
-  title: NO QUALIFICATIONS
-  score: 64.0687828775067
-  llm_score: 85
-  recency_score: 1.4470887037935367
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 58.470179850307076
+  llm_score: 65
+  recency_score: 45.05616902699594
   length_score: 100
   category_score: 0
   rank: 5
-- slug: skunked
-  title: SKUNKED
-  score: 63.86025988143777
-  llm_score: 85
-  recency_score: 0.09168922934541576
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 57.91493672366056
+  llm_score: 75
+  recency_score: 1.4470887037935367
   length_score: 100
   category_score: 0
   rank: 6
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 63.847764660291
-  llm_score: 85
-  recency_score: 0.010470291891376842
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 57.701308260174265
+  llm_score: 75
+  recency_score: 0.058503691132646064
   length_score: 100
   category_score: 0
   rank: 7
@@ -86,11 +86,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backseat-quarterbacks
-  title: BACKSEAT QUARTERBACKS
-  score: 51.547462106328105
-  llm_score: 65
-  recency_score: 0.058503691132646064
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 57.693918506444845
+  llm_score: 75
+  recency_score: 0.010470291891376842
   length_score: 100
   category_score: 0
   rank: 10

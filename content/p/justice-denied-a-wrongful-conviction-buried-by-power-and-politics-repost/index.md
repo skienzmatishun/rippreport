@@ -24,22 +24,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
-- slug: no-justice
-  title: NO JUSTICE
-  score: 81.32255280719093
-  llm_score: 90
-  recency_score: 18.596593246741016
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: rule-32
   title: RULE 32
-  score: 81.0045982803321
-  llm_score: 90
+  score: 84.08152135725518
+  llm_score: 95
   recency_score: 16.529888822158654
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 2
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
   score: 79.967868829002
@@ -47,15 +39,7 @@ related_articles:
   recency_score: 29.79114738851293
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 79.61781048233962
-  llm_score: 85
-  recency_score: 27.51576813520753
-  length_score: 100
-  category_score: 100
-  rank: 5
+  rank: 3
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
   score: 77.69230769230771
@@ -63,35 +47,51 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 77.69230769230771
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 73.46396432849347
+  llm_score: 75
+  recency_score: 27.51576813520753
+  length_score: 100
+  category_score: 100
   rank: 6
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 76.15689174531873
-  llm_score: 85
+  score: 71.84919943762642
+  llm_score: 78
   recency_score: 5.0197963445716995
   length_score: 100
   category_score: 100
   rank: 7
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
+- slug: innocent
+  title: INNOCENT
+  score: 70.4900698566832
+  llm_score: 95
+  recency_score: 3.1854540684407837
   length_score: 100
   category_score: 0
   rank: 8
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 68.80244580810952
-  llm_score: 89
+  score: 66.34090734657106
+  llm_score: 85
   recency_score: 16.215897752711804
   length_score: 100
   category_score: 0
   rank: 9
 - slug: deal-with-the-devil
   title: DEAL WITH THE DEVIL
-  score: 64.28656055159696
-  llm_score: 85
+  score: 58.13271439775081
+  llm_score: 75
   recency_score: 2.862643585380166
   length_score: 100
   category_score: 0

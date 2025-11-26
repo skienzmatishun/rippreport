@@ -16,33 +16,33 @@ tags:
 related_articles:
 - slug: audio-of-bay-minette-attorney-councilman-fight-offers-new-details
   title: LAGNIAPPE - AUDIO OF BAY MINETTE ATTORNEY, COUNCILMAN FIGHT OFFERS NEW DETAILS
-  score: 82.22362358093228
-  llm_score: 90
+  score: 79.14670050400919
+  llm_score: 85
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 1
+- slug: former-summerdale-police-chief-kevin-brock
+  title: Heart of Dixie Podcast Thanksgiving Special - Former Summerdale Police Chief Kevin Brock
+  score: 72.86761183276546
+  llm_score: 75
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 76.03624703732612
-  llm_score: 85
+  score: 69.88240088347997
+  llm_score: 75
   recency_score: 4.235605742619744
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 3
 - slug: cover-up
   title: COVER UP
   score: 58.75350245324557
   llm_score: 75
   recency_score: 6.897765946096069
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 58.33683716336489
-  llm_score: 75
-  recency_score: 4.189441561871679
   length_score: 100
   category_score: 0
   rank: 4

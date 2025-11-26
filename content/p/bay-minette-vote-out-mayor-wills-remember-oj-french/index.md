@@ -17,14 +17,6 @@ authors:
 - admin
 alttags: Campaign ad for Joshua Brown, candidate for mayor, featuring a portrait against a blue background with stars at the bottom
 related_articles:
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 81.13810387745146
-  llm_score: 85
-  recency_score: 37.39767520343444
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
   score: 80.71324467586827
@@ -32,6 +24,14 @@ related_articles:
   recency_score: 34.63609039314372
   length_score: 100
   category_score: 100
+  rank: 1
+- slug: justified
+  title: JUSTIFIED
+  score: 79.70939561190343
+  llm_score: 95
+  recency_score: 63.11107147737226
+  length_score: 100
+  category_score: 0
   rank: 2
 - slug: rumors
   title: RUMORS
@@ -41,30 +41,22 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 3
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 76.18708872242131
-  llm_score: 85
-  recency_score: 5.216076695738494
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 74.98425772360531
+  llm_score: 75
+  recency_score: 37.39767520343444
   length_score: 100
   category_score: 100
   rank: 4
-- slug: justified
-  title: JUSTIFIED
-  score: 73.55554945805729
-  llm_score: 85
-  recency_score: 63.11107147737226
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 70.03324256857516
+  llm_score: 75
+  recency_score: 5.216076695738494
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
-- slug: cover-up
-  title: COVER UP
-  score: 68.28101950761076
-  llm_score: 90
-  recency_score: 8.82662679946983
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
   score: 64.93384032120585
@@ -72,28 +64,36 @@ related_articles:
   recency_score: 7.069962087837917
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: cover-up
+  title: COVER UP
+  score: 59.05025027684153
+  llm_score: 75
+  recency_score: 8.82662679946983
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: bayminette
   title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 64.87584449895536
-  llm_score: 85
+  score: 58.721998345109206
+  llm_score: 75
   recency_score: 6.69298924320973
   length_score: 100
   category_score: 0
   rank: 8
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 63.9663432054928
-  llm_score: 85
-  recency_score: 0.7812308357030797
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: threesome
   title: THREESOME
   score: 58.16007576557338
   llm_score: 75
   recency_score: 3.0404924762268615
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 57.812497051646645
+  llm_score: 75
+  recency_score: 0.7812308357030797
   length_score: 100
   category_score: 0
   rank: 10

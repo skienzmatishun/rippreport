@@ -1,5 +1,5 @@
 ---
-title:  Heart of Dixie Podcast Thanksgiving Special - Former Summerdale Police Chief Kevin Brock 
+title: Heart of Dixie Podcast Thanksgiving Special - Former Summerdale Police Chief Kevin Brock
 date: 2025-11-26
 youtube: b95pK074f3o
 thumbnail: img/former-summerdale-police-chief-kevin-brock.png
@@ -15,83 +15,83 @@ tags:
 - BCSO
 - Bay Minette
 related_articles:
-- slug: audio-of-bay-minette-attorney-councilman-fight-offers-new-details
-  title: LAGNIAPPE - AUDIO OF BAY MINETTE ATTORNEY, COUNCILMAN FIGHT OFFERS NEW DETAILS
-  score: 82.22362358093228
-  llm_score: 90
-  recency_score: 99.45355327605971
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 76.03624703732612
-  llm_score: 85
-  recency_score: 4.235605742619744
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 72.842015503221
+  llm_score: 75
+  recency_score: 23.473100770936487
   length_score: 100
   category_score: 100
-  rank: 2
-- slug: cover-up
-  title: COVER UP
-  score: 58.75350245324557
-  llm_score: 75
-  recency_score: 6.897765946096069
+  rank: 1
+- slug: justified
+  title: JUSTIFIED
+  score: 71.33054793006043
+  llm_score: 85
+  recency_score: 48.648561545392695
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 70.58886733938884
+  llm_score: 70
+  recency_score: 28.827637706027392
+  length_score: 100
+  category_score: 100
   rank: 3
-- slug: the-law-enforcement-narrative
+- slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative
-  score: 58.33683716336489
+  score: 70.15088224540614
   llm_score: 75
-  recency_score: 4.189441561871679
+  recency_score: 80.98073459513984
   length_score: 100
   category_score: 0
   rank: 4
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 57.837905680086415
-  llm_score: 75
-  recency_score: 0.9463869205615951
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 70.0852023225231
+  llm_score: 70
+  recency_score: 25.553815096400097
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 57.713995271873166
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 69.89320116289225
   llm_score: 75
-  recency_score: 0.14096926717550023
+  recency_score: 4.305807558799547
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 6
-- slug: one-woman
-  title: ONE WOMAN
-  score: 57.71329384897634
-  llm_score: 75
-  recency_score: 0.1364100183461363
+- slug: heart-of-dixie-podcast
+  title: HEART OF DIXIE PODCAST
+  score: 69.79068875584238
+  llm_score: 70
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 7
-- slug: blind-and-deaf
-  title: BLIND AND DEAF
-  score: 57.69819400714398
-  llm_score: 75
-  recency_score: 0.03826104643576236
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 63.4658470102858
+  llm_score: 60
+  recency_score: 22.528005566857594
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 8
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 53.737813006464215
-  llm_score: 65
-  recency_score: 14.295784542017314
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 59.83222089636709
+  llm_score: 75
+  recency_score: 13.909435826385996
   length_score: 100
   category_score: 0
   rank: 9
 - slug: silence-the-eagle
   title: SILENCE THE EAGLE
-  score: 53.156659587195655
-  llm_score: 65
-  recency_score: 10.518287316771712
+  score: 56.21156670607193
+  llm_score: 70
+  recency_score: 10.375183589467447
   length_score: 100
   category_score: 0
   rank: 10

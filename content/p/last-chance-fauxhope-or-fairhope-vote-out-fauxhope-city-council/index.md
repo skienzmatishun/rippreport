@@ -21,8 +21,8 @@ alttags: Fairhope city flag with clock tower design, overlaid with lightning bol
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 85.30054665785535
-  llm_score: 95
+  score: 79.14670050400919
+  llm_score: 85
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
@@ -35,22 +35,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 71.23824006698531
-  llm_score: 90
-  recency_score: 28.048560435404436
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fairhope-musical-chairs
-  title: FAUXHOPE MUSICAL CHAIRS
-  score: 70.35275748952017
-  llm_score: 95
-  recency_score: 2.292923681881036
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: fauxhope-2
   title: FAUXHOPE
   score: 64.50136588357796
@@ -58,7 +42,7 @@ related_articles:
   recency_score: 4.258878243256627
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
   score: 64.26079964454098
@@ -66,15 +50,15 @@ related_articles:
   recency_score: 2.695197689516261
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: no-qualifications
-  title: NO QUALIFICATIONS
-  score: 64.0669605491314
+  rank: 4
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 64.19891133567401
   llm_score: 85
-  recency_score: 1.4352435693539982
+  recency_score: 2.292923681881036
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
 - slug: no-radar
   title: NO RADAR
   score: 64.03922158316277
@@ -82,7 +66,7 @@ related_articles:
   recency_score: 1.2549402905579714
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: dog-and-pony-show-2
   title: DOG AND PONY SHOW
   score: 63.87452102711849
@@ -90,12 +74,28 @@ related_articles:
   recency_score: 0.1843866762700733
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: self-incrimination
   title: SELF INCRIMINATION
   score: 63.85039087811135
   llm_score: 85
   recency_score: 0.02754070772367199
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 62.007470836216086
+  llm_score: 75
+  recency_score: 28.048560435404436
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 57.91311439528525
+  llm_score: 75
+  recency_score: 1.4352435693539982
   length_score: 100
   category_score: 0
   rank: 10

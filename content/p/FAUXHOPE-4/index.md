@@ -15,6 +15,14 @@ categories:
 authors:
 - admin
 related_articles:
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 69.33781629008563
+  llm_score: 85
+  recency_score: 35.69580588555647
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: round-house-blockheads
   title: ROUND HOUSE SQUARE HEADS
   score: 65.3846153846154
@@ -22,15 +30,15 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 63.18397013623947
+  rank: 2
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 61.139215695149005
   llm_score: 75
-  recency_score: 35.69580588555647
+  recency_score: 22.404902018468416
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 3
 - slug: I-SEE-YOU
   title: I SEE YOU
   score: 58.97784430456424
@@ -38,7 +46,7 @@ related_articles:
   recency_score: 8.355987979667463
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
   score: 58.929469713389686
@@ -46,20 +54,12 @@ related_articles:
   recency_score: 8.041553137032842
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 5
 - slug: fauxhope
   title: FAUXHOPE
   score: 57.93667135452485
   llm_score: 75
   recency_score: 1.588363804411422
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 57.879131204092346
-  llm_score: 75
-  recency_score: 1.214352826600136
   length_score: 100
   category_score: 0
   rank: 6
@@ -87,11 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 54.985369541302845
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 51.725285050246185
   llm_score: 65
-  recency_score: 22.404902018468416
+  recency_score: 1.214352826600136
   length_score: 100
   category_score: 0
   rank: 10

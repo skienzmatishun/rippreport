@@ -24,36 +24,20 @@ alttags: Railway tracks diverging, symbolizing choices in Baldwin County politic
 related_articles:
 - slug: good-ole-boys-lose-front-teeth
   title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 82.22362358093228
-  llm_score: 90
+  score: 79.14670050400919
+  llm_score: 85
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 1
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF
-  score: 78.47259218265259
-  llm_score: 90
+  score: 75.39566910572952
+  llm_score: 85
   recency_score: 0.07184918724182528
   length_score: 100
   category_score: 100
   rank: 2
-- slug: cooking-for-the-judge
-  title: COOKING FOR THE JUDGE
-  score: 78.47206029057718
-  llm_score: 90
-  recency_score: 0.06839188875158306
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 70.09975998227398
-  llm_score: 95
-  recency_score: 0.6484398847808431
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: catalyst-stacking-the-deck
   title: CATALYST STACKING THE DECK
   score: 70.08940513174392
@@ -61,23 +45,31 @@ related_articles:
   recency_score: 0.5811333563354107
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 67.50867292621633
-  llm_score: 90
-  recency_score: 3.806374020406067
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 3
 - slug: catalyst-birds-of-the-same-feather
   title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 66.93274201427323
-  llm_score: 90
+  score: 70.00966509119631
+  llm_score: 95
   recency_score: 0.06282309277594886
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 4
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 64.43174984929325
+  llm_score: 85
+  recency_score: 3.806374020406067
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 63.945913828427834
+  llm_score: 85
+  recency_score: 0.6484398847808431
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: catalyst-players
   title: CATALYST PLAYERS
   score: 63.92432740805219
@@ -85,7 +77,7 @@ related_articles:
   recency_score: 0.508128152339147
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
   score: 63.85808889619338
@@ -93,12 +85,20 @@ related_articles:
   recency_score: 0.07757782525687204
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 63.85488721060612
+  llm_score: 85
+  recency_score: 0.05676686893971495
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: catalyst-meets-social-media
-  title: CATALYST MEETS SOCIAL MEDIA
-  score: 54.62802647752408
-  llm_score: 70
-  recency_score: 0.08217210390646663
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 57.69447314652023
+  llm_score: 75
+  recency_score: 0.014075452381422847
   length_score: 100
   category_score: 0
   rank: 10
