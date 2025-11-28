@@ -7,54 +7,30 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: he-must-go
-  title: He Must Go
-  score: 71.9051795324712
-  llm_score: 85
-  recency_score: 52.383666961062694
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 63.72694218944936
+  llm_score: 65
+  recency_score: 79.22512423142078
   length_score: 100
   category_score: 0
   rank: 1
-- slug: january-22nd-qualifying-deadline
-  title: January 22nd Qualifying Deadline
-  score: 67.78135288548998
-  llm_score: 75
-  recency_score: 65.57879375568477
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 40.301483821041465
+  llm_score: 25
+  recency_score: 86.95964483676948
   length_score: 100
   category_score: 0
   rank: 2
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 67.22456074411839
-  llm_score: 50
-  recency_score: 86.95964483676948
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: backstory-podcast-no-93-delta-hits-baldwin-county
   title: Delta hits Baldwin County
-  score: 66.7137656789193
-  llm_score: 65
+  score: 26.71376567891929
+  llm_score: 0
   recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 62.710096058411565
-  llm_score: 60
-  recency_score: 92.61562437967505
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 51.49937955879193
-  llm_score: 50
-  recency_score: 59.74596713214747
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 3
 - slug: backstory-podcast-no-92-a-vintage-year
   title: A Vintage Year
   score: 26.303647630011348
@@ -62,7 +38,23 @@ related_articles:
   recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 4
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 25.787019135334628
+  llm_score: 0
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 24.704429808566893
+  llm_score: 5
+  recency_score: 65.57879375568477
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: black-cloud
   title: BLACK CLOUD
   score: 24.519698385159323
@@ -70,20 +62,28 @@ related_articles:
   recency_score: 84.37803950353559
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 23.726942189449353
-  llm_score: 0
-  recency_score: 79.22512423142078
-  length_score: 100
-  category_score: 0
-  rank: 9
+  rank: 7
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
   score: 21.993318372256688
   llm_score: 0
   recency_score: 67.95656941966844
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 20.73014878956115
+  llm_score: 0
+  recency_score: 59.74596713214747
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: he-must-go
+  title: He Must Go
+  score: 19.597487224778877
+  llm_score: 0
+  recency_score: 52.383666961062694
   length_score: 100
   category_score: 0
   rank: 10

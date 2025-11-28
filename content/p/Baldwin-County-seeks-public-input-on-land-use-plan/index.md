@@ -10,8 +10,8 @@ alttags: Baldwin County seeks public input on land use planning; megaphone graph
 related_articles:
 - slug: development-chaos
   title: DEVELOPMENT CHAOS
-  score: 72.86761183276546
-  llm_score: 75
+  score: 66.7137656789193
+  llm_score: 65
   recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
@@ -32,14 +32,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: gold-mine-for-sale
-  title: GOLD MINE FOR SALE
-  score: 58.93626728985763
-  llm_score: 75
-  recency_score: 8.08573738407453
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: community-engagement
   title: COMMUNITY ENGAGEMENT
   score: 58.62528750352004
@@ -47,15 +39,15 @@ related_articles:
   recency_score: 6.0643687728801865
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: shovel-ready
-  title: SHOVEL READY
-  score: 58.462471123111456
+  rank: 4
+- slug: run-away-train
+  title: RUN AWAY TRAIN
+  score: 58.40755626570974
   llm_score: 75
-  recency_score: 5.006062300224381
+  recency_score: 4.649115727113186
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
   score: 58.24820042168564
@@ -63,15 +55,7 @@ related_articles:
   recency_score: 3.6133027409565597
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: food-for-thought
-  title: FOOD FOR THOUGHT
-  score: 58.11730472720092
-  llm_score: 75
-  recency_score: 2.76248072680588
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 6
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
   score: 58.045065181827866
@@ -79,12 +63,28 @@ related_articles:
   recency_score: 2.292923681881036
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: run-away-train
-  title: RUN AWAY TRAIN
-  score: 52.253710111863576
+  rank: 7
+- slug: gold-star-2
+  title: GOLD STAR
+  score: 52.41446484315563
   llm_score: 65
-  recency_score: 4.649115727113186
+  recency_score: 5.694021480511523
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 52.308624969265296
+  llm_score: 65
+  recency_score: 5.006062300224381
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: food-for-thought
+  title: FOOD FOR THOUGHT
+  score: 51.96345857335476
+  llm_score: 65
+  recency_score: 2.76248072680588
   length_score: 100
   category_score: 0
   rank: 10

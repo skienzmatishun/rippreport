@@ -11,30 +11,38 @@ authors:
 - admin
 alttags: Herd of elephants walks past an Welcome to Alabama sign, symbolizing overlooked issues despite their prominence
 related_articles:
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 80.25222721738083
-  llm_score: 87
-  recency_score: 98.63947691297537
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 84.84631328411679
+  llm_score: 95
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 1
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 78.69246713027063
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 79.02145798661161
   llm_score: 85
-  recency_score: 96.50103634675902
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 2
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
-  score: 76.23092866873218
-  llm_score: 81
+  score: 78.69246713027063
+  llm_score: 85
   recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 3
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 75.69078079555382
+  llm_score: 95
+  recency_score: 36.990075171099754
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
   score: 75.5759834070762
@@ -42,52 +50,44 @@ related_articles:
   recency_score: 76.2438921459952
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 70.4664198648775
-  llm_score: 82
-  recency_score: 55.031729121703655
-  length_score: 100
-  category_score: 0
   rank: 5
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 68.92155002632305
-  llm_score: 84
-  recency_score: 36.990075171099754
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 72.90843339628796
+  llm_score: 95
+  recency_score: 18.90481707587172
   length_score: 100
   category_score: 0
   rank: 6
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 67.88098446237292
-  llm_score: 82
-  recency_score: 38.22639900542388
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 72.31257371103135
+  llm_score: 85
+  recency_score: 55.031729121703655
   length_score: 100
   category_score: 0
   rank: 7
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 66.96729779141367
-  llm_score: 81
+  score: 69.42883625295212
+  llm_score: 85
   recency_score: 36.28743564418876
   length_score: 100
   category_score: 0
   rank: 8
-- slug: POSTER-BOY-of-CORRUPTION
-  title: POSTER BOY OF CORRUPTION
-  score: 64.90843339628796
-  llm_score: 82
-  recency_score: 18.90481707587172
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 67.1999079212843
+  llm_score: 85
+  recency_score: 21.799401488347854
   length_score: 100
   category_score: 0
   rank: 9
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 64.12298484436121
-  llm_score: 80
-  recency_score: 21.799401488347854
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 63.573292154680615
+  llm_score: 75
+  recency_score: 38.22639900542388
   length_score: 100
   category_score: 0
   rank: 10

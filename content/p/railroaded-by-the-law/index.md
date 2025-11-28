@@ -8,82 +8,82 @@ authors:
 - admin
 alttags: Man in Hawaiian shirt stands before a beach backdrop, featured in an article about Baldwin County corruption investigations
 related_articles:
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 80.0
-  llm_score: 80
-  recency_score: 50
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: no-justice
-  title: NO JUSTICE
-  score: 78.76923076923077
-  llm_score: 78
-  recency_score: 50
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 77.53846153846155
-  llm_score: 76
-  recency_score: 50
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 75.6923076923077
-  llm_score: 73
-  recency_score: 50
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 75.6923076923077
-  llm_score: 73
-  recency_score: 50
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 73.56637703093661
-  llm_score: 76
-  recency_score: 99.18145070108791
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: advocates
   title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 73.0769230769231
-  llm_score: 75
+  score: 79.23076923076924
+  llm_score: 85
   recency_score: 100.0
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 1
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 72.950992415552
+  llm_score: 75
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 72.63453848615156
-  llm_score: 76
+  score: 72.01915387076694
+  llm_score: 75
   recency_score: 93.12450015998506
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 3
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 67.23076923076924
-  llm_score: 78
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: no-justice
+  title: NO JUSTICE
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
 - slug: deaf-ears
   title: DEAF EARS
-  score: 64.76923076923077
-  llm_score: 74
+  score: 59.23076923076924
+  llm_score: 65
   recency_score: 50
   length_score: 100
   category_score: 0

@@ -11,60 +11,36 @@ alttags: Councilman Jack Burrell depicted with a long nose, suggesting insinceri
 related_articles:
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 69.56967751136439
-  llm_score: 74
+  score: 70.185062126749
+  llm_score: 75
   recency_score: 81.20290382386844
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 66.38311160069645
-  llm_score: 79
-  recency_score: 40.49022540452686
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: catalyst-liar
-  title: CATALYST LIAR
-  score: 63.37715397790496
-  llm_score: 83
-  recency_score: 4.951500856382183
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 62.544230586503986
-  llm_score: 77
-  recency_score: 23.53749881227582
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: no-qualifications
-  title: NO QUALIFICATIONS
-  score: 61.637726336309925
-  llm_score: 78
-  recency_score: 13.645221186014394
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 60.71391386801119
-  llm_score: 77
-  recency_score: 11.640440142072652
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: off-the-rails
   title: OFF THE RAILS
-  score: 59.45077302229653
-  llm_score: 77
+  score: 64.37384994537345
+  llm_score: 85
   recency_score: 3.4300246449273972
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 2
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 61.31346135573476
+  llm_score: 75
+  recency_score: 23.53749881227582
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 59.79157249015608
+  llm_score: 75
+  recency_score: 13.645221186014394
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
   score: 59.310505741041815
@@ -72,20 +48,44 @@ related_articles:
   recency_score: 10.518287316771712
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: dog-and-pony-show-2
-  title: DOG AND PONY SHOW
-  score: 57.96200160834473
+  rank: 5
+- slug: catalyst-liar
+  title: CATALYST LIAR
+  score: 58.45407705482804
   llm_score: 75
-  recency_score: 1.7530104542406209
+  recency_score: 4.951500856382183
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
 - slug: people-power-2
   title: PEOPLE POWER
   score: 57.77134266219751
   llm_score: 75
   recency_score: 0.5137273042837044
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 57.76772698531183
+  llm_score: 65
+  recency_score: 40.49022540452686
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 57.3077346263293
+  llm_score: 65
+  recency_score: 37.500275071140365
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 53.3292984833958
+  llm_score: 65
+  recency_score: 11.640440142072652
   length_score: 100
   category_score: 0
   rank: 10

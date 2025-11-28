@@ -9,19 +9,19 @@ authors:
 rumble: v5755ut
 alttags: Podcast cover art featuring a vintage photo of an Indigenous man and text referencing silence over falsehoods, related to ...
 related_articles:
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 61.073740461664904
-  llm_score: 75
-  recency_score: 21.979313000821772
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
   score: 59.23076923076924
   llm_score: 65
   recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: he-must-go
+  title: He Must Go
+  score: 59.1706217018343
+  llm_score: 75
+  recency_score: 9.609041061922857
   length_score: 100
   category_score: 0
   rank: 2
@@ -33,59 +33,59 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 55.04979948592337
-  llm_score: 70
-  recency_score: 2.82369665850184
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: backstory-153
   title: No Boomers
-  score: 52.824251134039336
-  llm_score: 60
+  score: 55.90117421096241
+  llm_score: 65
   recency_score: 28.357632371255608
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: the-lie-of-the-century
   title: The Lie of The Century
-  score: 50.41099824382853
-  llm_score: 50
+  score: 47.33407516690546
+  llm_score: 45
   recency_score: 52.671488584885374
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: the-180
+  title: THE 180
+  score: 44.484716173007314
+  llm_score: 30
+  recency_score: 94.15065512454748
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: he-must-go
-  title: He Must Go
-  score: 49.939852471065066
-  llm_score: 60
-  recency_score: 9.609041061922857
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 48.70998193285987
-  llm_score: 50
-  recency_score: 41.61488256358909
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: alien-indictment
   title: Alien Indictment
-  score: 34.881354796687
-  llm_score: 30
+  score: 44.11212402745623
+  llm_score: 45
   recency_score: 31.72880617846543
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: stephen-nodine
+  title: STEPHEN NODINE
+  score: 42.61220200012644
+  llm_score: 45
+  recency_score: 21.979313000821772
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: pure-kafka
+  title: PURE KAFKA
+  score: 39.479212702090635
+  llm_score: 35
+  recency_score: 41.61488256358909
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: the-180
-  title: THE 180
-  score: 26.023177711468847
-  llm_score: 0
-  recency_score: 94.15065512454748
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 33.511337947461826
+  llm_score: 35
+  recency_score: 2.82369665850184
   length_score: 100
   category_score: 0
   rank: 10

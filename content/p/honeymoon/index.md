@@ -28,54 +28,62 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 64.52971837619306
+- slug: fairhope-musical-chairs
+  title: FAUXHOPE MUSICAL CHAIRS
+  score: 65.34255421188206
   llm_score: 75
-  recency_score: 44.44316944525482
+  recency_score: 49.72660237723329
   length_score: 100
   category_score: 0
   rank: 2
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫
-  score: 61.77738483219179
-  llm_score: 75
+  score: 55.62353867834563
+  llm_score: 65
   recency_score: 26.55300140924655
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-musical-chairs
-  title: FAUXHOPE MUSICAL CHAIRS
-  score: 56.11178498111283
-  llm_score: 60
-  recency_score: 49.72660237723329
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 55.250013846082865
+  llm_score: 65
+  recency_score: 24.12508999953858
   length_score: 100
   category_score: 0
   rank: 4
 - slug: down-home-fairhope-jester
   title: “DOWN HOME” FAIRHOPE JESTER
-  score: 51.97518950547449
-  llm_score: 60
+  score: 55.05211258239756
+  llm_score: 65
   recency_score: 22.8387317855841
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fairhopes-blast-from-the-past
-  title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 40.27466228964053
-  llm_score: 45
-  recency_score: 6.785304882663376
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 54.67376078511728
+  llm_score: 60
+  recency_score: 40.37944510326223
   length_score: 100
   category_score: 0
   rank: 6
-- slug: quid-quo-pro
-  title: QUID QUO PRO
-  score: 30.634629230698245
-  llm_score: 25
-  recency_score: 24.12508999953858
+- slug: fairhopes-blast-from-the-past
+  title: FAIRHOPE’S  BLAST FROM THE PAST
+  score: 52.58235459733284
+  llm_score: 65
+  recency_score: 6.785304882663376
   length_score: 100
   category_score: 0
   rank: 7
+- slug: documents
+  title: DOCUMENTS
+  score: 45.93878054284848
+  llm_score: 50
+  recency_score: 23.60207352851503
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: csb-railroad-nomination
   title: CSB / RAILROAD- NOMINATION
   score: 26.630840726595785
@@ -83,20 +91,12 @@ related_articles:
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 23.461189758781494
-  llm_score: 5
-  recency_score: 57.49773343207967
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 17.750683862040344
+  score: 20.384266681858414
   llm_score: 0
-  recency_score: 40.37944510326223
+  recency_score: 57.49773343207967
   length_score: 100
   category_score: 0
   rank: 10

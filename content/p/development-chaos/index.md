@@ -8,11 +8,11 @@ authors:
 - admin
 alttags: Rapid development in Bay Minette, Alabama, strains infrastructure as Baldwin County communities face building moratoriums
 related_articles:
-- slug: stinky-business
-  title: STINKY BUSINESS
-  score: 74.59140495332304
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 72.35909238478675
   llm_score: 85
-  recency_score: 69.84413219659965
+  recency_score: 55.33410050111382
   length_score: 100
   category_score: 0
   rank: 1
@@ -24,38 +24,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: stinking-ticking-time-bomb
-  title: STINKING TICKING TIME BOMB
-  score: 66.2052462309406
+- slug: stinky-business
+  title: STINKY BUSINESS
+  score: 68.43755879947688
   llm_score: 75
-  recency_score: 55.33410050111382
+  recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 3
-- slug: mouthpiece
-  title: MOUTHPIECE
-  score: 66.02069118585678
-  llm_score: 75
-  recency_score: 54.13449270806896
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 65.34485807268867
+  llm_score: 85
+  recency_score: 9.741577472476289
   length_score: 100
   category_score: 0
   rank: 4
-- slug: going-down
-  title: GOING DOWN
-  score: 65.50474866432661
-  llm_score: 85
-  recency_score: 10.780866318122923
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: priorities
-  title: Priorities
-  score: 63.26829109938389
-  llm_score: 65
-  recency_score: 76.2438921459952
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: saturday-apology
   title: SATURDAY APOLOGY
   score: 59.42522512465339
@@ -63,15 +47,15 @@ related_articles:
   recency_score: 11.263963310246938
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 59.19101191884252
+  rank: 5
+- slug: going-down
+  title: GOING DOWN
+  score: 59.350902510480466
   llm_score: 75
-  recency_score: 9.741577472476289
+  recency_score: 10.780866318122923
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: shovel-ready
   title: SHOVEL READY
   score: 58.47309389972366
@@ -79,12 +63,28 @@ related_articles:
   recency_score: 5.075110348203666
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: run-away-train
   title: RUN AWAY TRAIN
   score: 58.41742160793913
   llm_score: 75
   recency_score: 4.713240451604244
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: citizens-fighting-back
+  title: CITIZENS FIGHTING BACK
+  score: 58.25586778688157
+  llm_score: 75
+  recency_score: 3.663140614730139
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: food-for-thought
+  title: FOOD FOR THOUGHT
+  score: 51.95767639057587
+  llm_score: 65
+  recency_score: 2.7248965387430797
   length_score: 100
   category_score: 0
   rank: 10

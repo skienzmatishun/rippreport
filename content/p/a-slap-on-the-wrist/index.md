@@ -18,11 +18,11 @@ authors:
 - admin
 alttags: A person’s face superimposed onto the Notre Dame Fighting Irish leprechaun mascot, likely referencing political corruption...
 related_articles:
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 63.83682254460155
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 64.2904798615411
   llm_score: 75
-  recency_score: 39.93934653990996
+  recency_score: 42.88811910001705
   length_score: 100
   category_score: 0
   rank: 1
@@ -34,14 +34,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 63.59532332795745
-  llm_score: 60
-  recency_score: 98.36960163172333
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
   score: 61.63444946786039
@@ -49,7 +41,7 @@ related_articles:
   recency_score: 25.623921541092447
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
   score: 60.159870689521014
@@ -57,15 +49,7 @@ related_articles:
   recency_score: 16.039159481886507
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 55.05971063077187
-  llm_score: 60
-  recency_score: 42.88811910001705
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 4
 - slug: one-woman-2
   title: ONE WOMAN
   score: 53.8300802299574
@@ -73,27 +57,43 @@ related_articles:
   recency_score: 14.895521494723079
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 45.133784866418985
+  llm_score: 30
+  recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 42.29836100614
+  llm_score: 40
+  recency_score: 39.93934653990996
+  length_score: 100
+  category_score: 0
   rank: 7
 - slug: fairhope-2020
   title: FAIRHOPE 2020
-  score: 44.561948485434904
-  llm_score: 50
+  score: 38.40810233158874
+  llm_score: 40
   recency_score: 14.652665155326813
   length_score: 100
   category_score: 0
   rank: 8
 - slug: one-woman
   title: ONE WOMAN
-  score: 41.44827205257314
-  llm_score: 45
+  score: 13.755964360265434
+  llm_score: 0
   recency_score: 14.41376834172532
   length_score: 100
   category_score: 0
   rank: 9
 - slug: barstool
   title: BARSTOOL
-  score: 25.35722695099438
-  llm_score: 20
+  score: 13.049534643302074
+  llm_score: 0
   recency_score: 9.821975181463475
   length_score: 100
   category_score: 0

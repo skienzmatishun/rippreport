@@ -30,6 +30,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 64.62402600415324
+  llm_score: 75
+  recency_score: 45.05616902699594
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: bull
   title: BULL SITTING Fairhope
   score: 59.701537705633136
@@ -37,20 +45,12 @@ related_articles:
   recency_score: 13.05999508661529
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: all-mouth
   title: ALL MOUTH
-  score: 59.323860807628655
-  llm_score: 75
+  score: 58.09309157685942
+  llm_score: 73
   recency_score: 10.605095249586157
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 58.470179850307076
-  llm_score: 65
-  recency_score: 45.05616902699594
   length_score: 100
   category_score: 0
   rank: 5

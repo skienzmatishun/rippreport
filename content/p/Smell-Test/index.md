@@ -13,83 +13,83 @@ authors:
 - ripp-report
 alttags: Baldwin election signs featuring Carrie Sier and Andrea Lindsey; an eagle wearing a blindfold suggests questionable practices
 related_articles:
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 53.45964145189182
-  llm_score: 68
-  recency_score: 0.4876694372967864
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: end-the-good-ole-boy-culture-in-baldwin-county
-  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 52.458355846280284
-  llm_score: 61
-  recency_score: 21.979313000821772
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: catalyst-is-drowning
-  title: CATALYST IS DROWNING
-  score: 52.21104894766179
-  llm_score: 66
-  recency_score: 0.37181815980154354
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: snakes-in-the-schools
-  title: SNAKES IN THE SCHOOLS
-  score: 51.591585609320816
-  llm_score: 65
-  recency_score: 0.34530646058523073
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 49.73888545762117
-  llm_score: 62
-  recency_score: 0.30275547453758156
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 49.53455023850961
-  llm_score: 61
-  recency_score: 2.9745765503123778
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: elliotttuckercatalyst-selling-your-soul
-  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
-  score: 49.126124266845295
-  llm_score: 61
-  recency_score: 0.3198077344943682
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: catalyst-the-three-bs-and-chuckee-cheeze
-  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 49.11665755111679
-  llm_score: 61
-  recency_score: 0.25827408225904297
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: catalyst-birds-of-the-same-feather
   title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 48.50551204340584
-  llm_score: 60
+  score: 63.89012742802122
+  llm_score: 85
   recency_score: 0.28582828213784484
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 1
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 63.88588832034756
+  llm_score: 85
+  recency_score: 0.25827408225904297
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 58.14993485389423
+  llm_score: 75
+  recency_score: 2.9745765503123778
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 57.76733375958413
+  llm_score: 75
+  recency_score: 0.4876694372967864
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 57.74951048612333
+  llm_score: 75
+  recency_score: 0.37181815980154354
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 57.746608980246386
+  llm_score: 75
+  recency_score: 0.35295837160138505
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 57.74543176316698
+  llm_score: 75
+  recency_score: 0.34530646058523073
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 57.73888545762118
+  llm_score: 75
+  recency_score: 0.30275547453758156
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: catalyst-skunk
   title: CATALYST SKUNK
-  score: 48.50362607267352
-  llm_score: 60
+  score: 57.73439530344275
+  llm_score: 75
   recency_score: 0.2735694723777712
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: elliotttuckercatalyst-selling-your-soul
+  title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+  score: 51.587662728383755
+  llm_score: 65
+  recency_score: 0.3198077344943682
   length_score: 100
   category_score: 0
   rank: 10

@@ -7,20 +7,20 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: obituary
-  title: OBITUARY
-  score: 69.84744094784428
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 62.58705440048763
   llm_score: 75
-  recency_score: 79.0083661609877
+  recency_score: 31.81585360316948
   length_score: 100
   category_score: 0
   rank: 1
-- slug: this-is-the-new-logo-for-fairhope
-  title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 67.99478740257528
-  llm_score: 100
-  recency_score: 35.40361811673922
-  length_score: 8.75
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 60.832634625012844
+  llm_score: 75
+  recency_score: 20.412125062583367
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: the-jester
@@ -31,22 +31,30 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 56.43320824664147
-  llm_score: 65
-  recency_score: 31.81585360316948
+- slug: carolyn-amick
+  title: CAROLYN AMICK
+  score: 54.8114221898649
+  llm_score: 60
+  recency_score: 41.27424423412174
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 45.44801924039745
-  llm_score: 50
-  recency_score: 20.412125062583367
+- slug: take-a-chance
+  title: “TAKE A CHANCE”
+  score: 45.460034677619525
+  llm_score: 45
+  recency_score: 40.49022540452686
   length_score: 100
   category_score: 0
   rank: 5
+- slug: obituary
+  title: OBITUARY
+  score: 45.232056332459656
+  llm_score: 35
+  recency_score: 79.0083661609877
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: fairhope-change-of-government
   title: FAIRHOPE - CHANGE OF GOVERNMENT
   score: 40.015845461528606
@@ -54,21 +62,13 @@ related_articles:
   recency_score: 5.102995499935887
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: carolyn-amick
-  title: CAROLYN AMICK
-  score: 17.88834526678796
-  llm_score: 0
-  recency_score: 41.27424423412174
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: take-a-chance
-  title: “TAKE A CHANCE”
-  score: 17.767726985311825
-  llm_score: 0
-  recency_score: 40.49022540452686
-  length_score: 100
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 34.14863355642143
+  llm_score: 45
+  recency_score: 35.40361811673922
+  length_score: 8.75
   category_score: 0
   rank: 8
 - slug: im-back-2

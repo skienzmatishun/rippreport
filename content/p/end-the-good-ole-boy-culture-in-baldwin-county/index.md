@@ -30,27 +30,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 75.39566910572952
-  llm_score: 85
-  recency_score: 0.07184918724182528
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: catalyst-stacking-the-deck
-  title: CATALYST STACKING THE DECK
-  score: 70.08940513174392
+- slug: catalyst-attack
+  title: CATALYST ATTACK
+  score: 70.09975998227398
   llm_score: 95
-  recency_score: 0.5811333563354107
+  recency_score: 0.6484398847808431
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: catalyst-birds-of-the-same-feather
   title: CATALYST  “BIRDS OF THE SAME FEATHER”
   score: 70.00966509119631
   llm_score: 95
   recency_score: 0.06282309277594886
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-the-three-bs-and-chuckee-cheeze
+  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+  score: 70.00873336445227
+  llm_score: 95
+  recency_score: 0.05676686893971495
   length_score: 100
   category_score: 0
   rank: 4
@@ -62,11 +62,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-attack
-  title: CATALYST ATTACK
-  score: 63.945913828427834
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 63.93555897789777
   llm_score: 85
-  recency_score: 0.6484398847808431
+  recency_score: 0.5811333563354107
   length_score: 100
   category_score: 0
   rank: 6
@@ -86,11 +86,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-the-three-bs-and-chuckee-cheeze
-  title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
-  score: 63.85488721060612
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 63.857207567267984
   llm_score: 85
-  recency_score: 0.05676686893971495
+  recency_score: 0.07184918724182528
   length_score: 100
   category_score: 0
   rank: 9

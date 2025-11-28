@@ -21,38 +21,46 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 62.47778780784918
-  llm_score: 60
-  recency_score: 91.10562075101957
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 66.2755039235154
+  llm_score: 75
+  recency_score: 55.79077550285001
   length_score: 100
   category_score: 0
   rank: 1
-- slug: 4-20
-  title: 4-20
-  score: 57.71673737666927
-  llm_score: 65
-  recency_score: 40.15879294835018
+- slug: backstory-podcast-no-81-tan-rested-ready
+  title: Tan Rested & Ready
+  score: 52.83091264504339
+  llm_score: 45
+  recency_score: 88.40093219278197
   length_score: 100
   category_score: 0
   rank: 2
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 57.04473469274617
-  llm_score: 60
-  recency_score: 55.79077550285001
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 52.76254914148746
+  llm_score: 50
+  recency_score: 67.95656941966844
   length_score: 100
   category_score: 0
   rank: 3
 - slug: no-98-ethical-abortion
   title: No 98 - Ethical Abortion
-  score: 24.298215550005118
-  llm_score: 5
+  score: 36.60590785769743
+  llm_score: 25
   recency_score: 62.93840107503325
   length_score: 100
   category_score: 0
   rank: 4
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 25.554710884772245
+  llm_score: 0
+  recency_score: 91.10562075101957
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: backstory-podcast-no-92-a-vintage-year
   title: A Vintage Year
   score: 22.43192067211973
@@ -60,7 +68,7 @@ related_articles:
   recency_score: 70.80748436877823
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 6
 - slug: backstory-podcast-no-93-delta-hits-baldwin-county
   title: Delta hits Baldwin County
   score: 22.13752102355891
@@ -68,28 +76,20 @@ related_articles:
   recency_score: 68.8938866531329
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 21.993318372256688
-  llm_score: 0
-  recency_score: 67.95656941966844
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 19.821334853252928
-  llm_score: 0
-  recency_score: 53.838676546144015
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 21.47155361587125
+  llm_score: 5
+  recency_score: 44.565098503163114
   length_score: 100
   category_score: 0
   rank: 8
-- slug: january-22nd-qualifying-deadline
-  title: January 22nd Qualifying Deadline
-  score: 18.39463053894817
+- slug: 4-20
+  title: 4-20
+  score: 17.71673737666926
   llm_score: 0
-  recency_score: 44.565098503163114
+  recency_score: 40.15879294835018
   length_score: 100
   category_score: 0
   rank: 9

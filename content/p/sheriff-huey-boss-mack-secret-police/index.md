@@ -15,68 +15,68 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: cameras
-  title: CAMERAS
-  score: 75.49426132497257
-  llm_score: 75
-  recency_score: 40.71269861232158
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: sheriff-huey-boss-mack-secret-police-2
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 71.0463069860173
-  llm_score: 75
+  score: 65.66169160140191
+  llm_score: 85
   recency_score: 11.800995409112343
   length_score: 100
-  category_score: 100
-  rank: 2
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 60.882493738074906
+  category_score: 0
+  rank: 1
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 65.28846728390893
   llm_score: 65
-  recency_score: 60.73620929748681
+  recency_score: 89.37503734540803
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: cameras
+  title: CAMERAS
+  score: 63.95579978651103
+  llm_score: 75
+  recency_score: 40.71269861232158
   length_score: 100
   category_score: 0
   rank: 3
 - slug: comment-are-you-surprised-at-all
   title: 'Comment: Are You Surprised at all??????'
-  score: 57.87658942708252
-  llm_score: 75
+  score: 51.72274327323636
+  llm_score: 65
   recency_score: 1.1978312760363046
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 51.61971834480947
-  llm_score: 75
-  recency_score: 12.465669241261498
-  length_score: 30.75
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 44.91393132171891
+  llm_score: 60
+  recency_score: 29.065553591172854
+  length_score: 30.5
   category_score: 0
   rank: 5
-- slug: equal-representation
-  title: EQUAL REPRESENTATION
-  score: 50.77715599033201
-  llm_score: 75
-  recency_score: 9.426513937157974
-  length_score: 27.500000000000004
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 43.222949838262195
+  llm_score: 50
+  recency_score: 5.949173948704226
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: this-is-the-new-logo-for-fairhope
-  title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 46.265747444138825
-  llm_score: 65
-  recency_score: 34.164858386902274
-  length_score: 8.75
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 40.6865340345149
+  llm_score: 30
+  recency_score: 69.4624712243468
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 25.28846728390893
-  llm_score: 0
-  recency_score: 89.37503734540803
-  length_score: 100
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 27.804208982600354
+  llm_score: 35
+  recency_score: 34.164858386902274
+  length_score: 8.75
   category_score: 0
   rank: 8
 - slug: homeland-securitys-disinformation-governance-board
@@ -89,10 +89,10 @@ related_articles:
   rank: 9
 - slug: vote
   title: VOTE
-  score: 1.406291797674467
-  llm_score: 0
+  score: 9.545714874597547
+  llm_score: 25
   recency_score: 4.031793369768071
-  length_score: 19.0
+  length_score: 26.75
   category_score: 0
   rank: 10
 ---

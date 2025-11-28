@@ -8,6 +8,14 @@ authors:
 - admin
 alttags: City of Fairhope, Alabama seal depicting buildings and a For Sale sign, highlighting concerns about municipal spending a...
 related_articles:
+- slug: fauxhope-roller-coaster
+  title: FAUXHOPE ROLLER-COASTER
+  score: 72.7405621925736
+  llm_score: 85
+  recency_score: 57.813654251728394
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: moratorium-party
   title: MORATORIUM PARTY
   score: 69.8141847900801
@@ -15,76 +23,68 @@ related_articles:
   recency_score: 78.79220113552056
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: fauxhope-roller-coaster
-  title: FAUXHOPE ROLLER-COASTER
-  score: 66.58671603872746
-  llm_score: 75
-  recency_score: 57.813654251728394
-  length_score: 100
-  category_score: 0
   rank: 2
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 62.521326265797605
-  llm_score: 70
-  recency_score: 51.388620727684355
+- slug: fried-chicken-and-watermelon
+  title: FRIED CHICKEN AND WATERMELON
+  score: 62.21154420698587
+  llm_score: 60
+  recency_score: 89.37503734540803
   length_score: 100
   category_score: 0
   rank: 3
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 60.73106970821483
-  llm_score: 75
-  recency_score: 19.751953103396314
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 58.37688016841482
-  llm_score: 75
-  recency_score: 4.449721094696223
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 52.6411503493639
-  llm_score: 65
+  score: 58.79499650321006
+  llm_score: 75
   recency_score: 7.167477270865283
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 56.36748011195145
+  llm_score: 60
+  recency_score: 51.388620727684355
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 51.5003004774456
+  llm_score: 60
+  recency_score: 19.751953103396314
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: got-fleas
-  title: GOT FLEAS
-  score: 51.80659445288509
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 48.9421180792064
   llm_score: 50
-  recency_score: 61.74286394375304
+  recency_score: 43.12376751484153
   length_score: 100
   category_score: 0
   rank: 7
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 34.167593600791974
-  llm_score: 35
+  score: 43.39836283156121
+  llm_score: 50
   recency_score: 7.089358405147809
   length_score: 100
   category_score: 0
   rank: 8
-- slug: pied-piper
-  title: PIED PIPER
-  score: 22.857868626460096
-  llm_score: 0
-  recency_score: 73.57614607199059
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 39.91534170687635
+  llm_score: 45
+  recency_score: 4.449721094696223
   length_score: 100
   category_score: 0
   rank: 9
-- slug: howling-rains-passing-gas
-  title: HOWLING RAINS PASSING GAS
-  score: 18.17288730997562
-  llm_score: 0
-  recency_score: 43.12376751484153
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 39.49890214519279
+  llm_score: 30
+  recency_score: 61.74286394375304
   length_score: 100
   category_score: 0
   rank: 10

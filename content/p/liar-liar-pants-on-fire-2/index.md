@@ -7,30 +7,14 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 58.19875721411726
-  llm_score: 75
-  recency_score: 3.2919218917620787
+- slug: fairness
+  title: FAIRNESS
+  score: 64.02942857942618
+  llm_score: 85
+  recency_score: 1.1912857662700727
   length_score: 100
   category_score: 0
   rank: 1
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 57.78623236917079
-  llm_score: 75
-  recency_score: 0.6105103996100243
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 57.769629234764075
-  llm_score: 75
-  recency_score: 0.5025900259663989
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: fly-creek-mud
   title: FLY CREEK MUD
   score: 54.439995591404845
@@ -38,52 +22,68 @@ related_articles:
   recency_score: 38.85997134413138
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: fairness
-  title: FAIRNESS
-  score: 51.72173627173387
+  rank: 2
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 51.615783080917915
   llm_score: 65
-  recency_score: 1.1912857662700727
+  recency_score: 0.5025900259663989
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 48.64182508655006
-  llm_score: 60
-  recency_score: 1.1718630625752924
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 48.53739125401906
-  llm_score: 60
-  recency_score: 0.49304315112384334
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: fly-creek-a-drainage-ditch
-  title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 39.49461635575906
-  llm_score: 45
-  recency_score: 1.7150063124338188
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 3
 - slug: eagles-eye-catalyst-kant-corte
   title: EAGLES EYE - CATALYST-KANT-CORTE
-  score: 36.678658675019214
-  llm_score: 40
+  score: 48.98635098271153
+  llm_score: 60
   recency_score: 3.4112813876248462
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 4
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 48.967987983348024
+  llm_score: 60
+  recency_score: 3.2919218917620787
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 48.72538558652829
+  llm_score: 60
+  recency_score: 1.7150063124338188
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 48.55546313840156
+  llm_score: 60
+  recency_score: 0.6105103996100243
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 11.618806450485978
-  llm_score: 0
+  score: 48.54188337356292
+  llm_score: 60
   recency_score: 0.522241928158863
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 33.152775869403676
+  llm_score: 35
+  recency_score: 0.49304315112384334
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 11.718748163473121
+  llm_score: 0
+  recency_score: 1.1718630625752924
   length_score: 100
   category_score: 0
   rank: 10

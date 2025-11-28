@@ -20,58 +20,58 @@ authors:
 - admin
 alttags: Icons representing healthcare, gambling, medical marijuana, and wellness amidst a downward trend, reflecting Alabama legis...
 related_articles:
-- slug: alabama-off-the-rails
-  title: ALABAMA OFF THE RAILS
-  score: 58.06595602527728
-  llm_score: 75
-  recency_score: 2.4287141643022077
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 58.03086214087466
-  llm_score: 75
-  recency_score: 2.200603915685177
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 54.158333735337216
-  llm_score: 75
-  recency_score: 28.59166927969179
-  length_score: 31.25
-  category_score: 0
-  rank: 3
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 48.81045122104928
-  llm_score: 60
-  recency_score: 2.2679329368202343
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: insanity-2
   title: INSANITY
-  score: 45.066682938259476
-  llm_score: 35
+  score: 54.29745216902871
+  llm_score: 50
   recency_score: 77.93343909868652
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 51.88737429797235
+  llm_score: 65
+  recency_score: 2.2679329368202343
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 51.8770159870285
+  llm_score: 65
+  recency_score: 2.200603915685177
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 50.465271268958965
+  llm_score: 60
+  recency_score: 13.024263248233176
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 47.581410658414136
+  llm_score: 60
+  recency_score: 28.59166927969179
+  length_score: 54.25
+  category_score: 0
   rank: 5
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 40.6623743088615
-  llm_score: 40
-  recency_score: 29.305433007599714
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 42.01545611121117
+  llm_score: 25
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 6
 - slug: offensive
   title: Offensive
-  score: 31.998250641741194
-  llm_score: 30
+  score: 35.07517371866427
+  llm_score: 35
   recency_score: 12.988629171317715
   length_score: 100
   category_score: 0
@@ -84,19 +84,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 28.926809730497418
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 27.2967252560465
   llm_score: 25
-  recency_score: 13.024263248233176
+  recency_score: 2.4287141643022077
   length_score: 100
   category_score: 0
   rank: 9
-- slug: weasel-contractor
-  title: WEASEL CONTRACTOR
-  score: 26.630840726595785
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 16.04698969347688
   llm_score: 0
-  recency_score: 98.10046472287257
+  recency_score: 29.305433007599714
   length_score: 100
   category_score: 0
   rank: 10

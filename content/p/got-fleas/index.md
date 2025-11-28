@@ -15,43 +15,43 @@ authors:
 - admin
 alttags: Howling wolf silhouette against a moon, symbolizing public outcry over Fairhope Waterfront Project decisions
 related_articles:
-- slug: invitation
-  title: INVITATION
-  score: 70.98995294427537
-  llm_score: 85
-  recency_score: 46.434694137789805
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 70.49693181472482
+  llm_score: 75
+  recency_score: 83.23005679571122
   length_score: 100
   category_score: 0
   rank: 1
-- slug: truth
-  title: TRUTH
-  score: 65.34255421188206
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 68.43755879947688
   llm_score: 75
-  recency_score: 49.72660237723329
+  recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 2
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 59.32833694505903
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 67.19120983750048
   llm_score: 75
-  recency_score: 10.634190142883599
+  recency_score: 61.74286394375304
   length_score: 100
   category_score: 0
   rank: 3
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 58.90083018334871
-  llm_score: 65
-  recency_score: 47.85539619176654
+- slug: fairhope-waterfront
+  title: FAIRHOPE WATERFRONT
+  score: 64.87535833534707
+  llm_score: 75
+  recency_score: 46.6898291797559
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-waterfront
-  title: FAIRHOPE WATERFRONT
-  score: 58.72151218150092
-  llm_score: 65
-  recency_score: 46.6898291797559
+- slug: invitation
+  title: INVITATION
+  score: 64.83610679042921
+  llm_score: 75
+  recency_score: 46.434694137789805
   length_score: 100
   category_score: 0
   rank: 5
@@ -63,14 +63,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 57.960440606731254
-  llm_score: 60
-  recency_score: 61.74286394375304
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
   score: 55.48886517573125
@@ -78,20 +70,28 @@ related_articles:
   recency_score: 45.67762364225301
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 53.17449079121287
+  llm_score: 65
+  recency_score: 10.634190142883599
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 24.34308566087865
-  llm_score: 0
-  recency_score: 83.23005679571122
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 43.51621479873332
+  llm_score: 40
+  recency_score: 47.85539619176654
   length_score: 100
   category_score: 0
   rank: 9
-- slug: howling-rains-passing-gas
-  title: HOWLING RAINS PASSING GAS
-  score: 22.283712645630715
+- slug: truth
+  title: TRUTH
+  score: 19.188708058035893
   llm_score: 0
-  recency_score: 69.84413219659965
+  recency_score: 49.72660237723329
   length_score: 100
   category_score: 0
   rank: 10

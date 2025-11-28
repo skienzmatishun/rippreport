@@ -15,12 +15,28 @@ authors:
 related_articles:
 - slug: liars-bridge
   title: LIARS BRIDGE
-  score: 67.03633989192106
-  llm_score: 75
+  score: 73.19018604576722
+  llm_score: 85
   recency_score: 60.73620929748681
   length_score: 100
   category_score: 0
   rank: 1
+- slug: no-mo-bridge
+  title: NO MO BRIDGE
+  score: 72.45289792607208
+  llm_score: 85
+  recency_score: 55.94383651946845
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 67.83678706065913
+  llm_score: 75
+  recency_score: 65.93911589428427
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: mouthpiece
   title: MOUTHPIECE
   score: 66.48977522329234
@@ -28,15 +44,7 @@ related_articles:
   recency_score: 57.18353895140014
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: no-mo-bridge
-  title: NO MO BRIDGE
-  score: 66.29905177222592
-  llm_score: 75
-  recency_score: 55.94383651946845
-  length_score: 100
-  category_score: 0
-  rank: 3
+  rank: 4
 - slug: i-10-toll-bridge-state
   title: I-10 Toll Bridge State
   score: 65.86249060338235
@@ -44,20 +52,12 @@ related_articles:
   recency_score: 53.10618892198522
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 5
 - slug: pied-piper
   title: PIED PIPER
   score: 65.70729509678065
   llm_score: 75
   recency_score: 52.09741812907417
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 61.68294090681297
-  llm_score: 65
-  recency_score: 65.93911589428427
   length_score: 100
   category_score: 0
   rank: 6
@@ -87,8 +87,8 @@ related_articles:
   rank: 9
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX
-  score: 40.07612149823088
-  llm_score: 45
+  score: 52.38381380592319
+  llm_score: 65
   recency_score: 5.494789738500692
   length_score: 100
   category_score: 0

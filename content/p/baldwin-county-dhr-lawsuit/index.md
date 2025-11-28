@@ -22,20 +22,12 @@ related_articles:
   rank: 1
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 77.0935091220369
+  score: 65.55504758357537
   llm_score: 75
   recency_score: 51.107809293239825
   length_score: 100
-  category_score: 100
-  rank: 2
-- slug: exposure
-  title: EXPOSURE
-  score: 70.00338449761354
-  llm_score: 95
-  recency_score: 0.02199923448795886
-  length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
   score: 64.25853382615973
@@ -43,7 +35,7 @@ related_articles:
   recency_score: 2.6804698700381855
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
   score: 64.23869058593654
@@ -51,15 +43,7 @@ related_articles:
   recency_score: 2.5514888085874565
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 64.02350108097303
-  llm_score: 85
-  recency_score: 1.152757026324628
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 4
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
   score: 63.864503605114486
@@ -67,28 +51,44 @@ related_articles:
   recency_score: 0.11927343324406557
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 63.854331434309756
-  llm_score: 85
-  recency_score: 0.05315432301332231
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 5
 - slug: divorce-corp
   title: DIVORCE CORP
-  score: 57.700177558785306
-  llm_score: 75
+  score: 63.85402371263146
+  llm_score: 85
   recency_score: 0.051154132104394186
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: exposure
+  title: EXPOSURE
+  score: 63.84953834376739
+  llm_score: 85
+  recency_score: 0.02199923448795886
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 60.90222354092819
+  llm_score: 75
+  recency_score: 20.864453016033117
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 57.86965492712688
+  llm_score: 75
+  recency_score: 1.152757026324628
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 55.27963391792519
-  llm_score: 70
-  recency_score: 4.317620466513645
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 57.7004852804636
+  llm_score: 75
+  recency_score: 0.05315432301332231
   length_score: 100
   category_score: 0
   rank: 10

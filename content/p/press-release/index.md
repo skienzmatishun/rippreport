@@ -9,14 +9,6 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 80.1840823853234
-  llm_score: 75
-  recency_score: 71.19653550460211
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
   score: 73.26730279443281
@@ -24,12 +16,20 @@ related_articles:
   recency_score: 61.23746816381321
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: bsp118
   title: The Smokey and The Bandit Run
   score: 71.51786273032691
   llm_score: 75
   recency_score: 89.86610774712484
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 68.64562084686187
+  llm_score: 75
+  recency_score: 71.19653550460211
   length_score: 100
   category_score: 0
   rank: 3
@@ -51,20 +51,12 @@ related_articles:
   rank: 5
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
-  llm_score: 75
+  score: 59.23076923076924
+  llm_score: 65
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 59.82052741076834
-  llm_score: 75
-  recency_score: 13.83342816999413
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: no-guardrails
   title: NO GUARDRAILS
   score: 58.32806819110848
@@ -72,7 +64,7 @@ related_articles:
   recency_score: 4.13244324220501
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
   score: 58.03459273086521
@@ -80,11 +72,19 @@ related_articles:
   recency_score: 2.224852750623742
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 53.66668125692218
+  llm_score: 65
+  recency_score: 13.83342816999413
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR
-  score: 57.871609146963216
-  llm_score: 75
+  score: 51.717762993117056
+  llm_score: 65
   recency_score: 1.1654594552607842
   length_score: 100
   category_score: 0

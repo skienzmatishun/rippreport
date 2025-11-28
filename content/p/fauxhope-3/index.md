@@ -14,81 +14,81 @@ authors:
 related_articles:
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 75.85878609196975
-  llm_score: 89
+  score: 73.39724763043128
+  llm_score: 85
   recency_score: 62.08210959780326
   length_score: 100
   category_score: 0
   rank: 1
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 74.45938937267742
-  llm_score: 95
-  recency_score: 28.986030922403184
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 73.50249278382164
-  llm_score: 85
-  recency_score: 62.766203094840556
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 71.72484619080895
-  llm_score: 90
+  score: 68.64792311388587
+  llm_score: 85
   recency_score: 31.21150024025806
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 70.86883278578507
-  llm_score: 95
-  recency_score: 5.647413107602894
+  rank: 2
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 68.30554321883127
+  llm_score: 85
+  recency_score: 28.986030922403184
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
 - slug: I-SEE-YOU
   title: I SEE YOU
-  score: 70.52444291094135
-  llm_score: 90
+  score: 67.44751983401827
+  llm_score: 85
   recency_score: 23.408878921118657
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 67.34864662997548
+  llm_score: 75
+  recency_score: 62.766203094840556
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 64.71498663193891
+  llm_score: 85
+  recency_score: 5.647413107602894
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 67.31200085643964
-  llm_score: 85
-  recency_score: 22.528005566857594
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 64.53072632226097
-  llm_score: 85
-  recency_score: 4.449721094696223
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 63.84972897065273
-  llm_score: 85
-  recency_score: 0.02323830924263325
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: all-mouth
   title: ALL MOUTH
   score: 61.31346135573476
   llm_score: 75
   recency_score: 23.53749881227582
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 61.15815470259349
+  llm_score: 75
+  recency_score: 22.528005566857594
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 58.37688016841482
+  llm_score: 75
+  recency_score: 4.449721094696223
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 57.695882816806574
+  llm_score: 75
+  recency_score: 0.02323830924263325
   length_score: 100
   category_score: 0
   rank: 10

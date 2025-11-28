@@ -15,30 +15,54 @@ authors:
 - admin
 alttags: Chris Elliott’s face emerging from a ballot box, symbolizing his election as State Senator in Baldwin County amid politica...
 related_articles:
-- slug: hair-on-fire
-  title: HAIR ON FIRE
-  score: 59.75169621476063
-  llm_score: 75
-  recency_score: 13.386025395943985
+- slug: catalyst-is-drowning
+  title: CATALYST IS DROWNING
+  score: 49.37429186910192
+  llm_score: 60
+  recency_score: 5.932897149162394
   length_score: 100
   category_score: 0
   rank: 1
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 58.464584053011045
-  llm_score: 75
+  score: 49.23381482224181
+  llm_score: 60
   recency_score: 5.0197963445716995
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-meets-social-media
-  title: CATALYST MEETS SOCIAL MEDIA
-  score: 30.917768523593985
-  llm_score: 30
-  recency_score: 5.965495403360867
+- slug: hair-on-fire
+  title: HAIR ON FIRE
+  score: 44.36708083014524
+  llm_score: 50
+  recency_score: 13.386025395943985
   length_score: 100
   category_score: 0
   rank: 3
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 44.10344238245707
+  llm_score: 50
+  recency_score: 11.672375485970868
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 43.05090799998169
+  llm_score: 50
+  recency_score: 4.830901999880929
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 30.866455679784885
+  llm_score: 30
+  recency_score: 5.6319619186017045
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: dont-let-the-door-hit-you-in-the-ass
   title: DON’T LET THE DOOR HIT YOU IN THE ASS
   score: 28.094273033654865
@@ -46,15 +70,7 @@ related_articles:
   recency_score: 7.612774718756618
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 24.589369538443222
-  llm_score: 20
-  recency_score: 4.830901999880929
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 7
 - slug: elliott-history-lesson
   title: ELLIOTT HISTORY LESSON
   score: 13.295280903870935
@@ -62,36 +78,20 @@ related_articles:
   recency_score: 11.419325875161082
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: catalyst-is-drowning
-  title: CATALYST IS DROWNING
-  score: 12.451214946024983
-  llm_score: 0
-  recency_score: 5.932897149162394
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: peoples-choice
-  title: PEOPLE'S CHOICE
-  score: 12.43879672518748
-  llm_score: 0
-  recency_score: 5.8521787137186125
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: catalyst-candidate-elliott-panic-mode
-  title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
-  score: 12.43633342936168
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 12.456230062055518
   llm_score: 0
-  recency_score: 5.836167290850916
+  recency_score: 5.965495403360867
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 12.404917218246416
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 12.428983905293588
   llm_score: 0
-  recency_score: 5.6319619186017045
+  recency_score: 5.78839538440832
   length_score: 100
   category_score: 0
   rank: 10

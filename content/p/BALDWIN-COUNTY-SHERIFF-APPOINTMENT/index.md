@@ -1,22 +1,101 @@
 ---
-title: "BALDWIN COUNTY SHERIFF APPOINTMENT"
+title: BALDWIN COUNTY SHERIFF APPOINTMENT
 date: 2024-07-27
-thumbnail: "img/baldwin-county-sheriff-appointment.jpg"
+thumbnail: img/baldwin-county-sheriff-appointment.jpg
 tags:
-  - Hoss Mack
-  - BCSO
-  - OJ French
-  - Peyton Little
-  - Anthony Lowery
-  - Jonathan Victor
-  - Robert Yates
+- Hoss Mack
+- BCSO
+- OJ French
+- Peyton Little
+- Anthony Lowery
+- Jonathan Victor
+- Robert Yates
 categories:
-  - bcso
+- bcso
 authors:
-  - admin
+- admin
+related_articles:
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 78.77404007552455
+  llm_score: 85
+  recency_score: 97.03126049090956
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 78.45041308073715
+  llm_score: 85
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 77.90085652735348
+  llm_score: 85
+  recency_score: 91.35556742779755
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 72.86761183276546
+  llm_score: 75
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 71.4046937464925
+  llm_score: 75
+  recency_score: 89.13050935220119
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 66.88399494340732
+  llm_score: 75
+  recency_score: 59.74596713214747
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: justified
+  title: JUSTIFIED
+  score: 66.02069118585678
+  llm_score: 75
+  recency_score: 54.13449270806896
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: rumors
+  title: RUMORS
+  score: 60.277516716854095
+  llm_score: 75
+  recency_score: 16.8038586595515
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 16.210461265816548
+  llm_score: 0
+  recency_score: 30.367998227807558
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
-
 Sheriff Hoss Mack has one foot out the door and is hoping to slide his second choice, Anthony Lowery in as his “suggested” replacement. Lowery has professed in the past that he did not want the job. He has to know that a ton of crap out of the Hoss Boss closet, is going to expose some very embarrassing incidents involving BCSO. I do hope Lowery reads all the comments on the Ripp Report. If you think that what we printed is revealing, then please consider all the fill-in-the-blanks comments that we did not print. Names, Dates and evidence that match up to the many many allegations in the comments.
 
 

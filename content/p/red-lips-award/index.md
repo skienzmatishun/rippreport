@@ -22,14 +22,6 @@ authors:
 - ripp-report
 alttags: Red lips sculpture on a stand, referencing corruption & criticism of Alabama’s leadership regarding mental health and vete...
 related_articles:
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 81.07400960557023
-  llm_score: 95
-  recency_score: 71.98106243620636
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: war
   title: WAR
   score: 78.8560612226499
@@ -37,7 +29,7 @@ related_articles:
   recency_score: 97.56439794722424
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
   score: 78.77404007552455
@@ -45,7 +37,7 @@ related_articles:
   recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
   score: 78.45041308073715
@@ -53,44 +45,52 @@ related_articles:
   recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 65.28846200931795
+  rank: 3
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 74.92016345172406
   llm_score: 85
-  recency_score: 9.375003060566598
+  recency_score: 71.98106243620636
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 63.8554044139398
+  llm_score: 85
+  recency_score: 0.06012869060860698
   length_score: 100
   category_score: 0
   rank: 5
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 64.93086443667609
-  llm_score: 85
-  recency_score: 7.050618838394492
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 59.1346158554718
+  llm_score: 75
+  recency_score: 9.375003060566598
   length_score: 100
   category_score: 0
   rank: 6
 - slug: alabama-ugly
   title: ALABAMA UGLY
-  score: 64.32037379125592
-  llm_score: 85
+  score: 58.166527637409764
+  llm_score: 75
   recency_score: 3.0824296431633904
   length_score: 100
   category_score: 0
   rank: 7
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 64.24519657202792
-  llm_score: 85
-  recency_score: 2.5937777181814097
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
   score: 58.099077147479335
   llm_score: 75
   recency_score: 2.644001458615577
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 58.09135041818177
+  llm_score: 75
+  recency_score: 2.5937777181814097
   length_score: 100
   category_score: 0
   rank: 9

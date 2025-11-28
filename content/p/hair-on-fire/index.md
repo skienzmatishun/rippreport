@@ -13,81 +13,81 @@ authors:
 related_articles:
 - slug: elliott-history-lesson
   title: ELLIOTT HISTORY LESSON
-  score: 70.20120241634314
-  llm_score: 74
+  score: 70.81658703172775
+  llm_score: 75
   recency_score: 85.30781570623031
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-sheriff
-  title: CATALYST SHERIFF
-  score: 67.49203466940978
-  llm_score: 72
-  recency_score: 0.6982253511634711
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 60.275068325714514
-  llm_score: 70
-  recency_score: 36.787944117144235
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: weasel-contractor
   title: WEASEL CONTRACTOR
-  score: 58.520926983991394
-  llm_score: 73
+  score: 59.75169621476063
+  llm_score: 75
   recency_score: 13.386025395943985
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 57.9326872533634
+  llm_score: 75
+  recency_score: 1.5624671468620013
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 56.57752243887908
-  llm_score: 73
+  score: 57.80829166964831
+  llm_score: 75
   recency_score: 0.7538958527139179
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-sheriff
+  title: CATALYST SHERIFF
+  score: 57.79972697710209
+  llm_score: 75
+  recency_score: 0.6982253511634711
   length_score: 100
   category_score: 0
   rank: 5
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
-  score: 56.56491557130909
-  llm_score: 73
+  score: 57.79568480207833
+  llm_score: 75
   recency_score: 0.6719512135090356
   length_score: 100
   category_score: 0
   rank: 6
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 56.08653340720955
-  llm_score: 72
-  recency_score: 1.5624671468620013
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 57.7917947336242
+  llm_score: 75
+  recency_score: 0.6466657685572273
   length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-is-drowning
-  title: CATALYST IS DROWNING
-  score: 54.73756601832341
-  llm_score: 70
-  recency_score: 0.7941791191021144
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 57.7857191208511
+  llm_score: 75
+  recency_score: 0.6071742855320404
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-sold-to-the-highest-bidder
-  title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 54.73459016556533
-  llm_score: 70
-  recency_score: 0.7748360761745469
+- slug: talking-heads
+  title: TALKING HEADS
+  score: 55.35199140263759
+  llm_score: 62
+  recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 54.71487165670112
-  llm_score: 70
-  recency_score: 0.6466657685572273
+- slug: catalyst-sold-to-the-highest-bidder
+  title: CATALYST - SOLD TO THE HIGHEST BIDDER
+  score: 51.65766708864225
+  llm_score: 65
+  recency_score: 0.7748360761745469
   length_score: 100
   category_score: 0
   rank: 10

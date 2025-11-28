@@ -20,13 +20,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: police-report
-  title: POLICE REPORT
-  score: 75.78585064743844
-  llm_score: 85
-  recency_score: 2.6080292083498433
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 72.53862097642448
+  llm_score: 75
+  recency_score: 96.50103634675902
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 2
 - slug: double-red-flags-faux-hope
   title: DOUBLE RED FLAGS - FAUX HOPE
@@ -36,6 +36,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
+- slug: no-radar
+  title: NO RADAR
+  score: 71.00955183213131
+  llm_score: 85
+  recency_score: 46.562086908853416
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 67.42834086122147
+  llm_score: 75
+  recency_score: 63.2842155979395
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: dog-and-pony-show-2
   title: DOG AND PONY SHOW
   score: 64.89866220481596
@@ -43,15 +59,7 @@ related_articles:
   recency_score: 6.841304331303704
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: no-radar
-  title: NO RADAR
-  score: 64.85570567828515
-  llm_score: 75
-  recency_score: 46.562086908853416
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 6
 - slug: captain-jack-at-the-controls
   title: CAPTAIN JACK AT THE CONTROLS
   score: 64.7489590867146
@@ -59,7 +67,7 @@ related_articles:
   recency_score: 5.868234063644852
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 7
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
   score: 64.26307791244253
@@ -67,20 +75,12 @@ related_articles:
   recency_score: 2.7100064308763563
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 8
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
   score: 64.26079964454098
   llm_score: 85
   recency_score: 2.695197689516261
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 61.27449470737532
-  llm_score: 65
-  recency_score: 63.2842155979395
   length_score: 100
   category_score: 0
   rank: 9

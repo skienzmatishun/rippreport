@@ -14,52 +14,36 @@ alttags: 'Mock product listings: City of Fauxhope logo & megaphone, highlighting
 related_articles:
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 79.0630911680524
-  llm_score: 85
+  score: 72.90924501420623
+  llm_score: 75
   recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 1
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 74.10612756611631
-  llm_score: 90
+  score: 64.87535833534707
+  llm_score: 75
   recency_score: 46.6898291797559
   length_score: 100
   category_score: 0
   rank: 2
 - slug: fauxhope-3
   title: FAUXHOPE
-  score: 73.39724763043128
-  llm_score: 85
+  score: 64.16647839966205
+  llm_score: 70
   recency_score: 62.08210959780326
   length_score: 100
   category_score: 0
   rank: 3
-- slug: people-power-2
-  title: PEOPLE POWER
-  score: 63.87611876715866
-  llm_score: 85
-  recency_score: 0.19477198653119254
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 58.79499650321006
+  llm_score: 75
+  recency_score: 7.167477270865283
   length_score: 100
   category_score: 0
   rank: 4
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 63.86496168932894
-  llm_score: 85
-  recency_score: 0.12225098063802377
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: self-incrimination
-  title: SELF INCRIMINATION
-  score: 63.86142636095867
-  llm_score: 85
-  recency_score: 0.0992713462312305
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: in-the-same-boat
   title: IN THE SAME BOAT
   score: 57.8253195602064
@@ -67,28 +51,44 @@ related_articles:
   recency_score: 0.8645771413415052
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 57.722272613312505
+  llm_score: 75
+  recency_score: 0.19477198653119254
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: new-year-new-problems
+  title: NEW YEAR NEW PROBLEMS
+  score: 57.719532728187005
+  llm_score: 75
+  recency_score: 0.17696273321544892
+  length_score: 100
+  category_score: 0
   rank: 7
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 57.71111553548279
+  llm_score: 75
+  recency_score: 0.12225098063802377
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 57.707580207112514
+  llm_score: 75
+  recency_score: 0.0992713462312305
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: cut-nose-off-spite-face
   title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
   score: 57.70544386715824
   llm_score: 75
   recency_score: 0.08538513652846078
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 57.698066395615356
-  llm_score: 75
-  recency_score: 0.03743157149971514
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 55.71807342628698
-  llm_score: 70
-  recency_score: 7.167477270865283
   length_score: 100
   category_score: 0
   rank: 10

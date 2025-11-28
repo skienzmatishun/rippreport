@@ -8,19 +8,19 @@ authors:
 - admin
 alttags: 'Limited representation: Two hands tied within circles, symbolizing potential deadlock for Baldwin County’s small commission'
 related_articles:
-- slug: shooting-yourself-in-the-foot
-  title: SHOOTING YOURSELF IN THE FOOT
-  score: 79.18867728610554
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 64.17465749504642
   llm_score: 85
-  recency_score: 99.72640235968593
+  recency_score: 2.13527371780164
   length_score: 100
   category_score: 0
   rank: 1
-- slug: last-chance
-  title: LAST CHANCE
-  score: 72.86761183276546
-  llm_score: 75
-  recency_score: 98.63947691297537
+- slug: flies-in-the-ointment
+  title: FLIES IN THE OINTMENT
+  score: 63.90335663996948
+  llm_score: 85
+  recency_score: 0.37181815980154354
   length_score: 100
   category_score: 0
   rank: 2
@@ -64,19 +64,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
+- slug: repeat
+  title: REPEAT
+  score: 57.88803839065605
+  llm_score: 75
+  recency_score: 1.2722495392642252
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
   score: 57.88643623839696
   llm_score: 75
   recency_score: 1.2618355495801652
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: flies-in-the-ointment
-  title: FLIES IN THE OINTMENT
-  score: 57.74951048612333
-  llm_score: 75
-  recency_score: 0.37181815980154354
   length_score: 100
   category_score: 0
   rank: 9

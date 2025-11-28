@@ -7,83 +7,83 @@ youtube: ZpyCDG50Lhk
 authors:
 - admin
 related_articles:
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 72.51230095799085
-  llm_score: 82
-  recency_score: 68.3299562269404
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 70.19575746802666
-  llm_score: 78
+  score: 74.50344977571896
+  llm_score: 85
   recency_score: 69.27242354217314
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 69.12046303720217
-  llm_score: 80
+  score: 72.19738611412525
+  llm_score: 85
   recency_score: 54.28300974181401
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 67.2015025616896
-  llm_score: 81
-  recency_score: 37.809766650982276
-  length_score: 100
-  category_score: 0
-  rank: 4
+  rank: 2
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 66.36606847742497
-  llm_score: 79
+  score: 70.05837616973267
+  llm_score: 85
   recency_score: 40.37944510326223
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
 - slug: POSTER-BOY-of-CORRUPTION
   title: POSTER BOY OF CORRUPTION
-  score: 65.04519026224007
-  llm_score: 78
+  score: 69.35288256993238
+  llm_score: 85
   recency_score: 35.79373670456037
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 62.43100189573751
-  llm_score: 78
-  recency_score: 18.801512322293714
+  rank: 4
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 68.20460865029854
+  llm_score: 75
+  recency_score: 68.3299562269404
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 62.36998492591823
-  llm_score: 77
-  recency_score: 22.404902018468416
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 5
 - slug: this-is-a-test
   title: THIS IS A TEST
-  score: 62.23904847636926
-  llm_score: 76
+  score: 67.7775100148308
+  llm_score: 85
   recency_score: 25.553815096400097
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 67.29306184899515
+  llm_score: 85
+  recency_score: 22.404902018468416
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 63.50919486938191
+  llm_score: 75
+  recency_score: 37.809766650982276
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: striking-oil
   title: STRIKING OIL
-  score: 61.37993896752655
-  llm_score: 76
+  score: 60.764554352141936
+  llm_score: 75
   recency_score: 19.9696032889225
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 60.58484804958366
+  llm_score: 75
+  recency_score: 18.801512322293714
   length_score: 100
   category_score: 0
   rank: 10

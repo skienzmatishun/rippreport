@@ -9,82 +9,82 @@ authors:
 related_articles:
 - slug: carolyn-amick
   title: CAROLYN AMICK
-  score: 54.49969579599747
-  llm_score: 57
+  score: 65.57661887292055
+  llm_score: 75
   recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
   rank: 1
-- slug: mia
-  title: M.I.A.
-  score: 52.483639113827245
-  llm_score: 62
-  recency_score: 18.143654239877034
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 64.31009300713528
+  llm_score: 85
+  recency_score: 3.015604546379232
   length_score: 100
   category_score: 0
   rank: 2
-- slug: notice
-  title: 'NOTICE:'
-  score: 48.64369244761793
-  llm_score: 58
-  recency_score: 13.496500909516493
-  length_score: 94.25
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 57.70783333696975
+  llm_score: 75
+  recency_score: 0.10091669030325356
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: m-i-a
-  title: M.I.A
-  score: 47.783376361040574
-  llm_score: 57
-  recency_score: 7.591946346763673
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: s-o-s
-  title: S.O.S
-  score: 47.483880182463764
-  llm_score: 55
-  recency_score: 13.645221186014394
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: southern-gothic
   title: SOUTHERN GOTHIC
-  score: 46.061161692319295
-  llm_score: 53
+  score: 53.44577707693468
+  llm_score: 65
   recency_score: 12.39755100007539
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: m-i-a
+  title: M.I.A
+  score: 52.706453284117494
+  llm_score: 65
+  recency_score: 7.591946346763673
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 51.55365059710954
+  llm_score: 65
+  recency_score: 0.09872888121193853
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 46.01552564466205
-  llm_score: 56
-  recency_score: 0.10091669030325356
+- slug: mia
+  title: M.I.A.
+  score: 51.25286988305802
+  llm_score: 60
+  recency_score: 18.143654239877034
   length_score: 100
   category_score: 0
   rank: 7
 - slug: im-back
   title: I'M BACK
-  score: 45.5243511745824
-  llm_score: 55
+  score: 48.60127425150548
+  llm_score: 60
   recency_score: 0.9082826347855467
   length_score: 100
   category_score: 0
   rank: 8
-- slug: saturday-apology
-  title: SATURDAY APOLOGY
-  score: 44.61778531482758
-  llm_score: 53
-  recency_score: 3.015604546379232
+- slug: s-o-s
+  title: S.O.S
+  score: 41.33003402861761
+  llm_score: 45
+  recency_score: 13.645221186014394
   length_score: 100
   category_score: 0
   rank: 9
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 44.16903521249415
-  llm_score: 53
-  recency_score: 0.09872888121193853
-  length_score: 100
+- slug: notice
+  title: 'NOTICE:'
+  score: 31.64369244761793
+  llm_score: 30
+  recency_score: 13.496500909516493
+  length_score: 96.25
   category_score: 0
   rank: 10
 ---

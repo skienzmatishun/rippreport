@@ -14,28 +14,52 @@ alttags: Political figure superimposed against a Mobile bridge backdrop, symboli
 related_articles:
 - slug: mouthpiece
   title: MOUTHPIECE
-  score: 73.40779309608423
-  llm_score: 77
+  score: 78.33087001916117
+  llm_score: 85
   recency_score: 94.15065512454748
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 70.01685066683008
-  llm_score: 72
-  recency_score: 92.10952933439548
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 72.53610206713766
+  llm_score: 95
+  recency_score: 16.48466343639469
   length_score: 100
   category_score: 0
   rank: 2
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 69.49787835345953
-  llm_score: 79
-  recency_score: 60.73620929748681
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 71.86300451298393
+  llm_score: 75
+  recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
   rank: 3
+- slug: pied-piper
+  title: PIED PIPER
+  score: 68.71415337130175
+  llm_score: 85
+  recency_score: 31.641996913461323
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 67.03633989192106
+  llm_score: 75
+  recency_score: 60.73620929748681
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: i-10-toll-bridge-state
+  title: I-10 Toll Bridge State
+  score: 62.65456708516551
+  llm_score: 75
+  recency_score: 32.254686053575696
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: fingerprint
   title: FINGERPRINT
   score: 58.52387735019447
@@ -43,51 +67,27 @@ related_articles:
   recency_score: 5.405202776263941
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: pied-piper
-  title: PIED PIPER
-  score: 58.25261490976329
-  llm_score: 68
-  recency_score: 31.641996913461323
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: i-10-toll-bridge-state
-  title: I-10 Toll Bridge State
-  score: 57.11610554670397
-  llm_score: 66
-  recency_score: 32.254686053575696
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 7
 - slug: poison-ivy-bridge
   title: POISON IVY BRIDGE
-  score: 55.41785795319055
-  llm_score: 70
+  score: 58.49478103011363
+  llm_score: 75
   recency_score: 5.216076695738494
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 55.30533283636843
-  llm_score: 67
-  recency_score: 16.48466343639469
   length_score: 100
   category_score: 0
   rank: 8
 - slug: taxes-tolls-and-schools
   title: TAXES, TOLLS AND SCHOOLS
-  score: 52.277615952948594
-  llm_score: 65
+  score: 58.431462106794754
+  llm_score: 75
   recency_score: 4.804503694165815
   length_score: 100
   category_score: 0
   rank: 9
 - slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
   title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
-  score: 51.190563261455026
-  llm_score: 64
+  score: 57.9597940306858
+  llm_score: 75
   recency_score: 1.7386611994575782
   length_score: 100
   category_score: 0

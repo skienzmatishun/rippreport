@@ -8,30 +8,22 @@ thumbnail: /img/alabama-blackhole.png
 authors:
 - admin
 related_articles:
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 77.13256057441464
-  llm_score: 87
-  recency_score: 78.36164373369505
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 76.39633016492165
-  llm_score: 87
-  recency_score: 73.57614607199059
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: elephants-in-alabama
   title: Elephants in Alabama
-  score: 75.5759834070762
-  llm_score: 85
+  score: 78.65290648399927
+  llm_score: 90
   recency_score: 76.2438921459952
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 1
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 75.9017913436454
+  llm_score: 85
+  recency_score: 78.36164373369505
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
   score: 75.41639636783121
@@ -39,39 +31,15 @@ related_articles:
   recency_score: 75.2065763909028
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 75.16556093415241
+  llm_score: 85
+  recency_score: 73.57614607199059
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 71.8773343104886
-  llm_score: 91
-  recency_score: 28.202673018175854
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 70.75213403050482
-  llm_score: 87
-  recency_score: 36.88887119828122
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 68.63713996263937
-  llm_score: 86
-  recency_score: 27.14140975715586
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: POSTER-BOY-of-CORRUPTION
-  title: POSTER BOY OF CORRUPTION
-  score: 68.27618290639283
-  llm_score: 86
-  recency_score: 24.795188891553348
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
   score: 68.1495108055248
@@ -79,12 +47,44 @@ related_articles:
   recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
   score: 68.10260819924657
   llm_score: 85
   recency_score: 27.666953295102704
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 67.66079829100822
+  llm_score: 85
+  recency_score: 24.795188891553348
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 63.36751864588943
+  llm_score: 75
+  recency_score: 36.88887119828122
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 62.03118046433476
+  llm_score: 75
+  recency_score: 28.202673018175854
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 61.86790919340861
+  llm_score: 75
+  recency_score: 27.14140975715586
   length_score: 100
   category_score: 0
   rank: 10

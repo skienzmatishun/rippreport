@@ -22,14 +22,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 57.79455808730111
-  llm_score: 75
-  recency_score: 0.6646275674571428
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: three-strikes
   title: THREE STRIKES
   score: 57.7225199152516
@@ -37,7 +29,7 @@ related_articles:
   recency_score: 0.19637944913529695
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: switching-hats
   title: SWITCHING HATS
   score: 57.69798804712734
@@ -45,7 +37,7 @@ related_articles:
   recency_score: 0.03692230632762536
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: game-on
   title: GAME ON
   score: 57.69402798277187
@@ -53,7 +45,7 @@ related_articles:
   recency_score: 0.011181888017074006
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: there-are-more-of-us-than-them
   title: THERE ARE MORE OF US THAN THEM
   score: 57.69390970420376
@@ -61,12 +53,20 @@ related_articles:
   recency_score: 0.010413077324349426
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: m-i-a
   title: M.I.A
   score: 51.65476371581502
   llm_score: 65
   recency_score: 0.7559641527975924
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 51.64071193345495
+  llm_score: 65
+  recency_score: 0.6646275674571428
   length_score: 100
   category_score: 0
   rank: 7
@@ -78,19 +78,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
+- slug: disposal
+  title: DISPOSAL
+  score: 51.56959812556867
+  llm_score: 65
+  recency_score: 0.20238781619630178
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: dirty-hands
   title: DIRTY HANDS
   score: 51.5663662213706
   llm_score: 65
   recency_score: 0.18138043890884648
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: disposal
-  title: DISPOSAL
-  score: 36.18498274095328
-  llm_score: 40
-  recency_score: 0.20238781619630178
   length_score: 100
   category_score: 0
   rank: 10

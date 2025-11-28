@@ -8,14 +8,6 @@ authors:
 - admin
 alttags: 'Lack of accountability in Baldwin County judicial ethics: a judge/developer facing approval conflicts'
 related_articles:
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 75.10370640495057
-  llm_score: 85
-  recency_score: 73.17409163217867
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
   score: 71.18112722801328
@@ -23,7 +15,7 @@ related_articles:
   recency_score: 87.6773269820862
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: black-cloud
   title: BLACK CLOUD
   score: 70.5320610770075
@@ -31,7 +23,23 @@ related_articles:
   recency_score: 83.45839700054867
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
+  score: 69.97385745080308
+  llm_score: 85
+  recency_score: 39.83007343021991
+  length_score: 100
+  category_score: 0
   rank: 3
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 68.94986025110443
+  llm_score: 75
+  recency_score: 73.17409163217867
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: boycott-mcsharrys
   title: BOYCOTT McSHARRY’S
   score: 65.07487486677881
@@ -39,15 +47,15 @@ related_articles:
   recency_score: 47.986686634062245
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: quarterback-sneak
-  title: QUARTERBACK SNEAK
-  score: 63.82001129695693
-  llm_score: 75
-  recency_score: 39.83007343021991
+  rank: 5
+- slug: double-down-and-i-call
+  title: DOUBLE DOWN AND I CALL
+  score: 63.95182176868174
+  llm_score: 85
+  recency_score: 0.6868414964312073
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 6
 - slug: judicial-trick
   title: JUDICIAL TRICK
   score: 60.632789618934865
@@ -55,7 +63,7 @@ related_articles:
   recency_score: 19.113132523076512
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 7
 - slug: watering-hole
   title: WATERING HOLE
   score: 59.50784544755576
@@ -63,7 +71,7 @@ related_articles:
   recency_score: 11.800995409112343
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 8
 - slug: catalyst-judges
   title: CATALYST JUDGES
   score: 58.13634909554388
@@ -71,20 +79,12 @@ related_articles:
   recency_score: 2.886269121035116
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
   score: 57.78344399017997
   llm_score: 75
   recency_score: 0.5923859361696956
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: double-down-and-i-call
-  title: DOUBLE DOWN AND I CALL
-  score: 51.644129460989426
-  llm_score: 65
-  recency_score: 0.6868414964312073
   length_score: 100
   category_score: 0
   rank: 10

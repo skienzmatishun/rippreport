@@ -10,12 +10,20 @@ authors:
 related_articles:
 - slug: war
   title: WAR
-  score: 81.89191754717756
-  llm_score: 90
+  score: 84.96884062410062
+  llm_score: 95
   recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
   rank: 1
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 80.3701939216784
+  llm_score: 95
+  recency_score: 97.03126049090956
+  length_score: 60.5
+  category_score: 0
+  rank: 2
 - slug: red-lips-award
   title: RED LIPS AWARD
   score: 78.45041308073715
@@ -23,7 +31,7 @@ related_articles:
   recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 3
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
   score: 78.01685066683008
@@ -31,23 +39,7 @@ related_articles:
   recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 74.18706242085727
-  llm_score: 85
-  recency_score: 67.21590573557219
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 73.98557853706302
-  llm_score: 85
-  recency_score: 97.03126049090956
-  length_score: 58.5
-  category_score: 0
-  rank: 5
 - slug: fire-albritton
   title: FIRE ALBRITTON
   score: 69.35803998387061
@@ -55,36 +47,44 @@ related_articles:
   recency_score: 75.82725989515886
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: press-release
-  title: PRESS RELEASE
-  score: 64.58126917555808
-  llm_score: 85
-  recency_score: 4.778249641127455
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 5
 - slug: offensive
   title: Offensive
-  score: 57.445216553749624
-  llm_score: 70
+  score: 66.67598578451886
+  llm_score: 85
   recency_score: 18.393907599372476
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 57.80002168003079
+  llm_score: 75
+  recency_score: 0.700140920200011
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: hair-on-fire
   title: HAIR ON FIRE
-  score: 45.0013560573314
-  llm_score: 50
+  score: 54.232125288100626
+  llm_score: 65
   recency_score: 17.508814372654022
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: press-release
+  title: PRESS RELEASE
+  score: 52.27357686786577
+  llm_score: 65
+  recency_score: 4.778249641127455
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 42.415406295415394
-  llm_score: 50
-  recency_score: 0.700140920200011
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 49.57167780547265
+  llm_score: 45
+  recency_score: 67.21590573557219
   length_score: 100
   category_score: 0
   rank: 10

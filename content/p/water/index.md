@@ -9,19 +9,19 @@ authors:
 - admin
 alttags: Fairhope Community Park sign; Baldwin County officials visible in inset, referencing local concerns about development and ...
 related_articles:
-- slug: january-22nd-qualifying-deadline
-  title: January 22nd Qualifying Deadline
-  score: 67.01077484031273
-  llm_score: 75
-  recency_score: 60.57003646203266
+- slug: bsp-128
+  title: Big News
+  score: 64.73485212190317
+  llm_score: 65
+  recency_score: 85.7765387923706
   length_score: 100
   category_score: 0
   rank: 1
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 64.93464039894211
-  llm_score: 75
-  recency_score: 47.075162593123636
+- slug: priorities
+  title: Priorities
+  score: 63.76038107289666
+  llm_score: 65
+  recency_score: 79.4424769738282
   length_score: 100
   category_score: 0
   rank: 2
@@ -41,11 +41,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: bsp-128
-  title: Big News
-  score: 61.65792904498011
-  llm_score: 60
-  recency_score: 85.7765387923706
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 60.856928686466574
+  llm_score: 65
+  recency_score: 60.57003646203266
   length_score: 100
   category_score: 0
   rank: 5
@@ -65,14 +65,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: repeat
-  title: REPEAT
-  score: 57.86158432338193
-  llm_score: 75
-  recency_score: 1.100298101982455
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: southern-gothic
   title: SOUTHERN GOTHIC
   score: 55.853624682369926
@@ -80,12 +72,20 @@ related_articles:
   recency_score: 28.048560435404436
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 53.11724672230271
+  llm_score: 65
+  recency_score: 10.262103694967568
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: priorities
-  title: Priorities
-  score: 51.45268876520435
-  llm_score: 45
-  recency_score: 79.4424769738282
+- slug: repeat
+  title: REPEAT
+  score: 51.70773816953577
+  llm_score: 65
+  recency_score: 1.100298101982455
   length_score: 100
   category_score: 0
   rank: 10

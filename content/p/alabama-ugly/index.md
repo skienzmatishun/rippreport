@@ -8,22 +8,30 @@ authors:
 - admin
 alttags: An ugly sweater design featuring the state of Alabama, symbolizing political corruption and lack of accountability in th...
 related_articles:
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 71.67020891114637
-  llm_score: 75
-  recency_score: 90.85635792245131
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 70.72113262635521
+  llm_score: 85
+  recency_score: 44.68736207130882
   length_score: 100
   category_score: 0
   rank: 1
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 64.41824134397062
-  llm_score: 75
+  score: 70.57208749781677
+  llm_score: 85
   recency_score: 43.718568735808944
   length_score: 100
   category_score: 0
   rank: 2
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 69.74794518979925
+  llm_score: 75
+  recency_score: 78.36164373369505
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: line-in-the-sand
   title: LINE IN THE SAND
   score: 64.147435722712
@@ -31,7 +39,15 @@ related_articles:
   recency_score: 41.958332197627975
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 62.750652122047015
+  llm_score: 75
+  recency_score: 32.87923879330549
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
   score: 61.65792904498011
@@ -39,15 +55,7 @@ related_articles:
   recency_score: 85.7765387923706
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 60.51717595903002
-  llm_score: 60
-  recency_score: 78.36164373369505
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 6
 - slug: TOP-TO-BOTTOM-CORRUPTION
   title: TOP TO BOTTOM CORRUPTION
   score: 60.08661517191105
@@ -55,36 +63,28 @@ related_articles:
   recency_score: 15.562998617421716
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 55.336517241739834
-  llm_score: 60
-  recency_score: 44.68736207130882
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 53.51988289127778
-  llm_score: 60
-  recency_score: 32.87923879330549
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 51.83856791092837
-  llm_score: 65
+  score: 57.99241406477453
+  llm_score: 75
   recency_score: 1.9506914210343174
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 49.87644947233838
-  llm_score: 60
+  score: 52.95337254926145
+  llm_score: 65
   recency_score: 9.196921570199363
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 50.25237540647273
+  llm_score: 60
+  recency_score: 11.640440142072652
   length_score: 100
   category_score: 0
   rank: 10

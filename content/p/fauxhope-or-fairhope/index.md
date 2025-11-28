@@ -19,8 +19,8 @@ alttags: Fairhope city clocks representing a challenge to the status quo in the 
 related_articles:
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 84.76518609154981
-  llm_score: 95
+  score: 78.61133993770366
+  llm_score: 85
   recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
@@ -33,14 +33,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 64.04953786100526
-  llm_score: 85
-  recency_score: 1.3219960965341453
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: special-interest
   title: SPECIAL INTEREST
   score: 63.865273414458606
@@ -48,15 +40,7 @@ related_articles:
   recency_score: 0.12427719398082719
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: bury-the-body
-  title: BURY THE BODY
-  score: 63.86400769628306
-  llm_score: 85
-  recency_score: 0.11605002583978188
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 3
 - slug: catalyst-panic-and-confusion
   title: CATALYST PANIC and CONFUSION
   score: 63.863764790530126
@@ -64,20 +48,36 @@ related_articles:
   recency_score: 0.11447113844573364
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 57.895691707159116
+  llm_score: 75
+  recency_score: 1.3219960965341453
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 57.71016154243691
+  llm_score: 75
+  recency_score: 0.11605002583978188
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: hell-yea
-  title: HELL YEA
-  score: 63.86366855610153
-  llm_score: 85
-  recency_score: 0.11384561465983976
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 57.71001539987184
+  llm_score: 75
+  recency_score: 0.11510009916688303
   length_score: 100
   category_score: 0
   rank: 7
-- slug: game-on
-  title: GAME ON
-  score: 63.848132109137104
-  llm_score: 85
-  recency_score: 0.012858709391078301
+- slug: hell-yea
+  title: HELL YEA
+  score: 57.70982240225538
+  llm_score: 75
+  recency_score: 0.11384561465983976
   length_score: 100
   category_score: 0
   rank: 8
@@ -89,11 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 35.00109465786341
-  llm_score: 95
-  recency_score: 0.014230552224265986
+- slug: game-on
+  title: GAME ON
+  score: 57.69428595529095
+  llm_score: 75
+  recency_score: 0.012858709391078301
   length_score: 100
   category_score: 0
   rank: 10

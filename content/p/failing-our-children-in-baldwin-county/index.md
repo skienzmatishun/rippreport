@@ -16,11 +16,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: exposure
-  title: EXPOSURE
-  score: 63.84966105990167
-  llm_score: 85
-  recency_score: 0.022796889360761432
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 58.17969957831404
+  llm_score: 75
+  recency_score: 3.168047259041166
   length_score: 100
   category_score: 0
   rank: 2
@@ -40,6 +40,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 57.87608523660465
+  llm_score: 75
+  recency_score: 1.1945540379301263
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
   score: 57.71132278235782
@@ -47,7 +55,7 @@ related_articles:
   recency_score: 0.12359808532571412
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 6
 - slug: divorce-corp
   title: DIVORCE CORP
   score: 57.70046290677537
@@ -55,7 +63,15 @@ related_articles:
   recency_score: 0.053008894039832936
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 7
+- slug: exposure
+  title: EXPOSURE
+  score: 57.69581490605552
+  llm_score: 75
+  recency_score: 0.022796889360761432
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: happy-days
   title: HAPPY DAYS
   score: 52.22679539236307
@@ -63,27 +79,11 @@ related_articles:
   recency_score: 4.474170050359933
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 48.94893034754481
-  llm_score: 60
-  recency_score: 3.168047259041166
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 42.49146985198926
-  llm_score: 50
-  recency_score: 1.1945540379301263
-  length_score: 100
-  category_score: 0
   rank: 9
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 36.16862472272473
-  llm_score: 40
+  score: 51.55324010734012
+  llm_score: 65
   recency_score: 0.0960606977107225
   length_score: 100
   category_score: 0

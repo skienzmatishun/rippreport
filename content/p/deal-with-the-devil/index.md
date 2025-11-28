@@ -7,14 +7,6 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 84.15801325202786
-  llm_score: 85
-  recency_score: 57.02708613818104
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: innocent
   title: INNOCENT
   score: 77.67170888417307
@@ -22,23 +14,7 @@ related_articles:
   recency_score: 89.86610774712484
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 75.90799203111445
-  llm_score: 85
-  recency_score: 3.401948202243831
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: no-justice
-  title: NO JUSTICE
-  score: 71.59898097579024
-  llm_score: 75
-  recency_score: 15.39337634263649
-  length_score: 100
-  category_score: 100
-  rank: 4
+  rank: 1
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
   score: 71.53846153846155
@@ -46,23 +22,7 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 70.8313304190996
-  llm_score: 75
-  recency_score: 10.403647724147305
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 70.70908324029584
-  llm_score: 75
-  recency_score: 9.609041061922857
-  length_score: 100
-  category_score: 100
-  rank: 7
+  rank: 2
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
   score: 66.56204853270893
@@ -70,7 +30,15 @@ related_articles:
   recency_score: 17.653315462607935
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 3
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 66.46570555972018
+  llm_score: 75
+  recency_score: 57.02708613818104
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
   score: 65.3846153846154
@@ -78,12 +46,44 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 64.36953049265291
+  llm_score: 85
+  recency_score: 3.401948202243831
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: no-justice
+  title: NO JUSTICE
+  score: 60.06051943732871
+  llm_score: 75
+  recency_score: 15.39337634263649
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 59.29286888063806
+  llm_score: 75
+  recency_score: 10.403647724147305
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
   score: 59.23076923076924
   llm_score: 65
   recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 59.1706217018343
+  llm_score: 75
+  recency_score: 9.609041061922857
   length_score: 100
   category_score: 0
   rank: 10

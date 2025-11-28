@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: YouTube video thumbnail from Backstory Podcast discussing legal issues surrounding McSharry’s Irish Pub owner Ronin McSharry
 related_articles:
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 65.52462962959085
-  llm_score: 63
-  recency_score: 98.91009259234048
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 73.37111606321332
+  llm_score: 85
+  recency_score: 61.91225441088648
   length_score: 100
   category_score: 0
   rank: 1
-- slug: bsp-128
-  title: Big News
-  score: 65.19371895633516
-  llm_score: 67
-  recency_score: 80.75917321617852
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: january-22nd-qualifying-deadline
-  title: January 22nd Qualifying Deadline
-  score: 59.08109017510479
-  llm_score: 63
-  recency_score: 57.02708613818104
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 56.83797270952145
-  llm_score: 65
-  recency_score: 34.44682261188939
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: barstool
   title: BARSTOOL
-  score: 56.23761661467913
-  llm_score: 72
+  score: 64.23761661467913
+  llm_score: 85
   recency_score: 2.5445079954142833
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 52.733647409867615
-  llm_score: 64
-  recency_score: 11.76870816413944
+  rank: 2
+- slug: bsp-128
+  title: Big News
+  score: 63.96294972556594
+  llm_score: 65
+  recency_score: 80.75917321617852
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 52.59994808425225
-  llm_score: 64
-  recency_score: 10.899662547639538
+  rank: 3
+- slug: s-o-s
+  title: S.O.S
+  score: 62.16393132171892
+  llm_score: 75
+  recency_score: 29.065553591172854
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 4
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 52.5018621069181
-  llm_score: 64
+  score: 59.27109287614887
+  llm_score: 75
   recency_score: 10.262103694967568
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
 - slug: watering-hole
   title: WATERING HOLE
-  score: 51.887239833328934
-  llm_score: 64
+  score: 58.65647060255971
+  llm_score: 75
   recency_score: 6.267058916638003
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 53.34903202525223
+  llm_score: 65
+  recency_score: 11.76870816413944
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 53.21533269963686
+  llm_score: 65
+  recency_score: 10.899662547639538
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: judicial-trick
   title: JUDICIAL TRICK
-  score: 51.869270194863766
-  llm_score: 63
+  score: 50.02311634870992
+  llm_score: 60
   recency_score: 10.150256266614415
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 44.530280401829145
+  llm_score: 45
+  recency_score: 34.44682261188939
   length_score: 100
   category_score: 0
   rank: 10

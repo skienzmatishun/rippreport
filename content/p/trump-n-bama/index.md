@@ -9,83 +9,83 @@ authors:
 rumble: v377p40
 alttags: Donald Trump speaks at an Alabama GOP dinner, endorsed by state congressmen, amid Space Command discussions
 related_articles:
-- slug: backstory-153
-  title: No Boomers
-  score: 63.3192500950982
-  llm_score: 66
-  recency_score: 72.57512561813819
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: tides-end
   title: Tide's End
-  score: 63.08184686208677
-  llm_score: 67
+  score: 61.85107763131754
+  llm_score: 65
   recency_score: 67.03200460356393
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 59.87151667490806
-  llm_score: 70
-  recency_score: 34.164858386902274
-  length_score: 100
-  category_score: 0
-  rank: 3
+  rank: 1
 - slug: stirring-the-pot-bsp
   title: Stirring The Pot
-  score: 57.637230294378675
-  llm_score: 67
+  score: 56.40646106360944
+  llm_score: 65
   recency_score: 31.641996913461323
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
 - slug: ki-yay-mother-yippee
   title: Ki Yay Mother Yippee
-  score: 57.28379146493589
-  llm_score: 68
+  score: 55.43763761878204
+  llm_score: 65
   recency_score: 25.34464452208322
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
 - slug: happy-days
   title: HAPPY DAYS
-  score: 56.08643203026169
-  llm_score: 67
+  score: 54.85566279949246
+  llm_score: 65
   recency_score: 21.56180819670091
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
 - slug: ethical-recusal
   title: Ethical Recusal
-  score: 55.27082858223451
-  llm_score: 67
+  score: 54.040059351465274
+  llm_score: 65
   recency_score: 16.26038578452423
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 53.99626600926278
-  llm_score: 67
-  recency_score: 7.975729060208014
+  rank: 5
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 53.717670521061905
+  llm_score: 60
+  recency_score: 34.164858386902274
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: backwoods-media-ad
   title: BACKWOODS MEDIA AD
-  score: 53.85366677140719
-  llm_score: 68
+  score: 52.007512925253344
+  llm_score: 65
   recency_score: 3.0488340141466597
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: alabama-moore-strange
   title: ALABAMA MOORE STRANGE
-  score: 52.81029329364505
-  llm_score: 67
+  score: 51.57952406287582
+  llm_score: 65
   recency_score: 0.2669064086927704
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: backstory-153
+  title: No Boomers
+  score: 50.39617317202127
+  llm_score: 45
+  recency_score: 72.57512561813819
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 37.38088139387816
+  llm_score: 40
+  recency_score: 7.975729060208014
   length_score: 100
   category_score: 0
   rank: 10

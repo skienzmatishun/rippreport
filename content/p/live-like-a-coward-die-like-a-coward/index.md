@@ -12,33 +12,33 @@ alttags: John McAfee portrait surrounded by flames, referencing a mock subscript
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 69.9209915165576
+  score: 58.38252997809607
   llm_score: 75
   recency_score: 4.486444857624386
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 62.441742121091984
-  llm_score: 75
+  score: 56.287895967245824
+  llm_score: 65
   recency_score: 30.871323787097815
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 42.25961309285616
-  llm_score: 30
-  recency_score: 4.687485103565025
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 43.15063936208928
+  llm_score: 51
+  recency_score: 1.4791558535802596
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 3
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 39.144996457512036
-  llm_score: 25
-  recency_score: 79.4424769738282
+- slug: barstool
+  title: BARSTOOL
+  score: 40.40840046866677
+  llm_score: 45
+  recency_score: 7.654603046333945
   length_score: 100
   category_score: 0
   rank: 4
@@ -50,13 +50,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 36.08435782789427
-  llm_score: 20
-  recency_score: 4.548325881312761
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 35.142182489136
+  llm_score: 30
+  recency_score: 33.42418617938393
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 6
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
@@ -66,27 +66,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: barstool
-  title: BARSTOOL
-  score: 34.25455431482061
-  llm_score: 35
-  recency_score: 7.654603046333945
+- slug: justified
+  title: JUSTIFIED
+  score: 30.37880202193208
+  llm_score: 30
+  recency_score: 2.4622131425584706
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 14.842947054396964
-  llm_score: 5
-  recency_score: 1.4791558535802596
+- slug: straw-man
+  title: STRAW MAN
+  score: 29.350408813447473
+  llm_score: 25
+  recency_score: 15.777657287408536
   length_score: 100
   category_score: 0
   rank: 9
-- slug: justified
-  title: JUSTIFIED
-  score: 11.91726356039361
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 12.259613092856158
   llm_score: 0
-  recency_score: 2.4622131425584706
+  recency_score: 4.687485103565025
   length_score: 100
   category_score: 0
   rank: 10

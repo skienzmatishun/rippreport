@@ -12,14 +12,6 @@ authors:
 - admin
 alttags: US postage stamp featuring an eagle head illustration, likely sent to Alabama Attorney General Steve Marshall regarding et...
 related_articles:
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 78.9385330342881
-  llm_score: 85
-  recency_score: 98.10046472287257
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: license-to-steal
   title: LICENSE TO STEAL
   score: 72.57935157720608
@@ -27,12 +19,20 @@ related_articles:
   recency_score: 96.76578525183945
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 72.4980018136055
+  llm_score: 75
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 69.70776380351887
+  llm_score: 70
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 3
@@ -52,43 +52,43 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 63.38308848786152
-  llm_score: 75
-  recency_score: 36.990075171099754
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 57.3077346263293
-  llm_score: 65
-  recency_score: 37.500275071140365
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: deaf-ears
   title: DEAF EARS
-  score: 49.70209461498305
-  llm_score: 60
+  score: 58.93286384575228
+  llm_score: 75
   recency_score: 8.063614997389708
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 56.15384615384617
+  llm_score: 60
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 54.15231925709228
+  llm_score: 60
+  recency_score: 36.990075171099754
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 44.805694121297805
-  llm_score: 30
-  recency_score: 96.23701178843567
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 52.800411233565534
+  llm_score: 60
+  recency_score: 28.202673018175854
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 34.33887277202706
-  llm_score: 30
-  recency_score: 28.202673018175854
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 45.00004231863699
+  llm_score: 45
+  recency_score: 37.500275071140365
   length_score: 100
   category_score: 0
   rank: 10

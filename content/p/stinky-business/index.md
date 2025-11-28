@@ -19,14 +19,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: shooting-yourself-in-the-foot
-  title: SHOOTING YOURSELF IN THE FOOT
-  score: 72.99285435016304
-  llm_score: 75
-  recency_score: 99.45355327605971
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: development-chaos
   title: DEVELOPMENT CHAOS
   score: 68.43755879947688
@@ -34,7 +26,7 @@ related_articles:
   recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: black-cloud
   title: BLACK CLOUD
   score: 66.04353996027909
@@ -42,7 +34,7 @@ related_articles:
   recency_score: 54.28300974181401
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
   score: 64.89291080737085
@@ -50,7 +42,7 @@ related_articles:
   recency_score: 6.803920247910508
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: happy-days
   title: HAPPY DAYS
   score: 63.332740550658414
@@ -58,7 +50,7 @@ related_articles:
   recency_score: 76.66281357927963
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: going-down
   title: GOING DOWN
   score: 58.85073884971824
@@ -66,7 +58,7 @@ related_articles:
   recency_score: 7.529802523168458
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: straw-man
   title: STRAW MAN
   score: 58.68054000915504
@@ -74,7 +66,7 @@ related_articles:
   recency_score: 6.423510059507628
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: mega-mistake
   title: MEGA-MISTAKE
   score: 58.59758976325275
@@ -82,11 +74,19 @@ related_articles:
   recency_score: 5.884333461142748
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 56.51433480315657
+  llm_score: 65
+  recency_score: 32.34317622051765
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: priorities
   title: Priorities
-  score: 50.24710766598629
-  llm_score: 40
+  score: 56.40095381983245
+  llm_score: 50
   recency_score: 91.60619982891085
   length_score: 100
   category_score: 0

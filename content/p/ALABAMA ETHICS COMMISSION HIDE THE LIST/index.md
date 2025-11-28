@@ -13,8 +13,8 @@ authors:
 related_articles:
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 81.3286418390848
-  llm_score: 90
+  score: 78.25171876216172
+  llm_score: 85
   recency_score: 93.63617195405108
   length_score: 100
   category_score: 0
@@ -27,22 +27,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 72.93766021701484
-  llm_score: 85
-  recency_score: 59.09479141059637
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 69.67987355678375
-  llm_score: 89
-  recency_score: 21.919178119094283
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
   score: 68.1495108055248
@@ -50,44 +34,60 @@ related_articles:
   recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 67.21833509524528
+  llm_score: 85
+  recency_score: 21.919178119094283
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
-  score: 64.55085958704133
-  llm_score: 81
+  score: 67.0123980485798
+  llm_score: 85
   recency_score: 20.580587315768575
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 66.78381406316869
+  llm_score: 75
+  recency_score: 59.09479141059637
   length_score: 100
   category_score: 0
   rank: 6
 - slug: this-is-a-test
   title: THIS IS A TEST
-  score: 63.58745980594463
-  llm_score: 82
+  score: 65.43361365209847
+  llm_score: 85
   recency_score: 10.318488738640012
   length_score: 100
   category_score: 0
   rank: 7
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 63.16799174565596
-  llm_score: 82
-  recency_score: 7.591946346763673
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: alabama-ugly
   title: ALABAMA UGLY
-  score: 62.799526395415306
-  llm_score: 81
+  score: 65.26106485695377
+  llm_score: 85
   recency_score: 9.196921570199363
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: striking-oil
   title: STRIKING OIL
-  score: 62.62517153805997
-  llm_score: 81
+  score: 65.08670999959843
+  llm_score: 85
   recency_score: 8.063614997389708
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 65.01414559180981
+  llm_score: 85
+  recency_score: 7.591946346763673
   length_score: 100
   category_score: 0
   rank: 10

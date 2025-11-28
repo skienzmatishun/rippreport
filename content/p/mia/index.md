@@ -11,17 +11,17 @@ alttags: Bald eagle in a cage with bandages, symbolizing restricted access to on
 related_articles:
 - slug: notice
   title: 'NOTICE:'
-  score: 77.70375297596482
-  llm_score: 90
+  score: 74.85759912981096
+  llm_score: 85
   recency_score: 74.38689434377122
-  length_score: 94.25
+  length_score: 96.25
   category_score: 0
   rank: 1
-- slug: delicately-censored
-  title: Delicately Censored
-  score: 62.5603072174556
-  llm_score: 75
-  recency_score: 31.641996913461323
+- slug: exposure-2
+  title: EXPOSURE
+  score: 63.882652948667925
+  llm_score: 85
+  recency_score: 0.23724416634139747
   length_score: 100
   category_score: 0
   rank: 2
@@ -33,22 +33,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: m-i-a
-  title: M.I.A
-  score: 57.90422407618983
-  llm_score: 75
-  recency_score: 1.3774564952337773
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: exposure-2
-  title: EXPOSURE
-  score: 57.72880679482177
-  llm_score: 75
-  recency_score: 0.23724416634139747
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: loser
   title: LOSER
   score: 57.7220273356617
@@ -56,15 +40,7 @@ related_articles:
   recency_score: 0.19317768180096426
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: im-back
-  title: I'M BACK
-  score: 57.71766087088868
-  llm_score: 75
-  recency_score: 0.1647956607763347
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 4
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
   score: 57.6951246115937
@@ -72,20 +48,44 @@ related_articles:
   recency_score: 0.01830997535894984
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 51.87794480523565
+  rank: 5
+- slug: delicately-censored
+  title: Delicately Censored
+  score: 56.40646106360944
   llm_score: 65
-  recency_score: 2.2066412340316854
+  recency_score: 31.641996913461323
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 52.02319008747405
+  llm_score: 65
+  recency_score: 3.150735568581256
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: m-i-a
+  title: M.I.A
+  score: 51.75037792234367
+  llm_score: 65
+  recency_score: 1.3774564952337773
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: im-back
+  title: I'M BACK
+  score: 51.56381471704252
+  llm_score: 65
+  recency_score: 0.1647956607763347
   length_score: 100
   category_score: 0
   rank: 9
-- slug: lagniappe
-  title: LAGNIAPPE
-  score: 51.60352543842876
-  llm_score: 65
-  recency_score: 0.4229153497868698
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 39.57025249754334
+  llm_score: 45
+  recency_score: 2.2066412340316854
   length_score: 100
   category_score: 0
   rank: 10

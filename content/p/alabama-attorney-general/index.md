@@ -10,83 +10,83 @@ authors:
 - admin
 alttags: Tom Albritton receives a large check from the Mabel Amos Scholarship Trust, referencing ethics and financial values
 related_articles:
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 81.3286418390848
-  llm_score: 90
-  recency_score: 93.63617195405108
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: POSTER-BOY-of-CORRUPTION
   title: POSTER BOY OF CORRUPTION
-  score: 79.64122540285521
-  llm_score: 87
+  score: 78.41045617208597
+  llm_score: 85
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 74.2052462309406
-  llm_score: 88
-  recency_score: 55.33410050111382
+  rank: 1
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 78.25171876216172
+  llm_score: 85
+  recency_score: 93.63617195405108
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: line-in-the-sand
   title: LINE IN THE SAND
-  score: 69.46527374069383
-  llm_score: 89
+  score: 73.15758143300152
+  llm_score: 95
   recency_score: 20.524279314509858
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 66.2052462309406
+  llm_score: 75
+  recency_score: 55.33410050111382
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 67.87565256842706
-  llm_score: 85
-  recency_score: 26.19174169477578
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 64.93981660552538
-  llm_score: 85
-  recency_score: 7.108807935914934
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 64.53403710331757
-  llm_score: 84
-  recency_score: 8.471241171564124
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 64.39237852379516
-  llm_score: 84
-  recency_score: 7.550460404668479
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: this-is-a-test
   title: THIS IS A TEST
-  score: 64.10182120898037
-  llm_score: 83
+  score: 65.33259043974961
+  llm_score: 85
   recency_score: 9.661837858372358
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 65.14942171870219
+  llm_score: 85
+  recency_score: 8.471241171564124
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 65.00776313917977
+  llm_score: 85
+  recency_score: 7.550460404668479
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 63.1364263489143
-  llm_score: 82
+  score: 64.98258019506814
+  llm_score: 85
   recency_score: 7.3867712679428434
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 61.721806414580904
+  llm_score: 75
+  recency_score: 26.19174169477578
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 58.78597045167923
+  llm_score: 75
+  recency_score: 7.108807935914934
   length_score: 100
   category_score: 0
   rank: 10

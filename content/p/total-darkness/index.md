@@ -17,8 +17,8 @@ alttags: Black void representing Alabama Attorney General Steve Marshall’s lac
 related_articles:
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 72.53862097642448
-  llm_score: 75
+  score: 78.69246713027063
+  llm_score: 85
   recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
@@ -31,22 +31,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 72.22029757376049
-  llm_score: 85
-  recency_score: 54.43193422944308
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: police-report
-  title: POLICE REPORT
-  score: 69.61796541758213
-  llm_score: 75
-  recency_score: 2.5167752142837743
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: no-radar
   title: NO RADAR
   score: 64.6050609864188
@@ -54,15 +38,39 @@ related_articles:
   recency_score: 44.932896411722155
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: jack-box-airport
+  title: JACK IN THE BOX - AIRPORT
+  score: 63.95386783387694
+  llm_score: 85
+  recency_score: 0.700140920200011
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 62.98952834299126
+  llm_score: 70
+  recency_score: 54.43193422944308
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: captain-jack-at-the-controls
-  title: CAPTAIN JACK AT THE CONTROLS
-  score: 58.563524105641676
+- slug: im-back
+  title: I'M BACK
+  score: 58.189137026789645
   llm_score: 75
-  recency_score: 5.66290668667081
+  recency_score: 3.229390674132577
   length_score: 100
   category_score: 0
   rank: 6
+- slug: police-report
+  title: POLICE REPORT
+  score: 58.079503879120594
+  llm_score: 75
+  recency_score: 2.5167752142837743
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: self-incrimination
   title: SELF INCRIMINATION
   score: 57.84401380890256
@@ -70,28 +78,20 @@ related_articles:
   recency_score: 0.986089757866536
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: jack-box-airport
-  title: JACK IN THE BOX - AIRPORT
-  score: 57.80002168003079
-  llm_score: 75
-  recency_score: 0.700140920200011
-  length_score: 100
-  category_score: 0
   rank: 8
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 57.79596841537056
-  llm_score: 75
+  score: 51.6421222615244
+  llm_score: 65
   recency_score: 0.6737946999085467
   length_score: 100
   category_score: 0
   rank: 9
-- slug: im-back
-  title: I'M BACK
-  score: 52.035290872943484
-  llm_score: 65
-  recency_score: 3.229390674132577
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 40.10198564410321
+  llm_score: 45
+  recency_score: 5.66290668667081
   length_score: 100
   category_score: 0
   rank: 10

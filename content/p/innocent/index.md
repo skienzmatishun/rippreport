@@ -12,70 +12,54 @@ authors:
 - admin
 alttags: Murray “Bubba” Lawrence, convicted of capital murder in Baldwin County, Alabama, in 2005
 related_articles:
-- slug: no-justice
-  title: NO JUSTICE
-  score: 71.86603607873927
-  llm_score: 75
-  recency_score: 17.129234511805123
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 77.69230769230771
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 77.67170888417307
+  llm_score: 85
+  recency_score: 89.86610774712484
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
   score: 71.53846153846155
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 71.51786273032691
-  llm_score: 75
-  recency_score: 89.86610774712484
+  rank: 3
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 67.40826827933961
+  llm_score: 85
+  recency_score: 23.153743815707337
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 71.01182020588679
-  llm_score: 75
+  score: 65.6272048212714
+  llm_score: 85
   recency_score: 11.57683133826407
   length_score: 100
-  category_score: 100
-  rank: 4
+  category_score: 0
+  rank: 5
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 70.87578763268606
-  llm_score: 75
+  score: 65.49117224807067
+  llm_score: 85
   recency_score: 10.692619612459277
   length_score: 100
-  category_score: 100
-  rank: 5
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 69.81316526373396
-  llm_score: 75
-  recency_score: 3.7855742142706434
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 69.72083908745245
-  llm_score: 75
-  recency_score: 3.1854540684407837
-  length_score: 100
-  category_score: 100
-  rank: 7
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
-  length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: earful
   title: EARFUL
   score: 65.3846153846154
@@ -83,12 +67,28 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 61.254422125493456
+  rank: 7
+- slug: no-justice
+  title: NO JUSTICE
+  score: 60.32757454027773
   llm_score: 75
-  recency_score: 23.153743815707337
+  recency_score: 17.129234511805123
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 58.79776216437552
+  llm_score: 76
+  recency_score: 3.1854540684407837
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 58.274703725272424
+  llm_score: 75
+  recency_score: 3.7855742142706434
   length_score: 100
   category_score: 0
   rank: 10

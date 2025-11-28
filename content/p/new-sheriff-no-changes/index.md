@@ -16,70 +16,14 @@ authors:
 - admin
 alttags: Baldwin County Sheriff Hoss Mack in uniform stands before an American flag, a focus of controversy detailed in this article
 related_articles:
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 92.71009605841155
-  llm_score: 90
-  recency_score: 92.61562437967505
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 92.5162411427381
-  llm_score: 90
+  score: 77.90085652735348
+  llm_score: 85
   recency_score: 91.35556742779755
   length_score: 100
-  category_score: 100
-  rank: 2
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 91.80334235391857
-  llm_score: 90
-  recency_score: 86.72172530047058
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 90.98856654922918
-  llm_score: 90
-  recency_score: 81.42568256998956
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 89.02207055443304
-  llm_score: 85
-  recency_score: 88.64345860381478
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 87.40726894238898
-  llm_score: 85
-  recency_score: 78.14724812552835
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 86.65254473984662
-  llm_score: 95
-  recency_score: 33.241540809002984
-  length_score: 100
-  category_score: 100
-  rank: 7
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 84.48933608660465
-  llm_score: 90
-  recency_score: 39.1806845629302
-  length_score: 100
-  category_score: 100
-  rank: 8
+  category_score: 0
+  rank: 1
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
   score: 77.42313062860494
@@ -87,12 +31,68 @@ related_articles:
   recency_score: 48.25034908593207
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 2
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 77.18795773853394
+  llm_score: 85
+  recency_score: 86.72172530047058
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 76.37318193384456
+  llm_score: 85
+  recency_score: 81.42568256998956
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: justified
   title: JUSTIFIED
-  score: 76.03952568262447
-  llm_score: 90
+  score: 72.9626026057014
+  llm_score: 85
   recency_score: 59.25691693705903
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 71.94086528918079
+  llm_score: 75
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 71.32976286212536
+  llm_score: 75
+  recency_score: 88.64345860381478
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 69.7149612500813
+  llm_score: 75
+  recency_score: 78.14724812552835
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 68.96023704753894
+  llm_score: 85
+  recency_score: 33.241540809002984
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 10

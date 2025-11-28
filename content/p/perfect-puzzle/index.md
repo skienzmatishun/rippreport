@@ -13,19 +13,19 @@ authors:
 - admin
 alttags: Alabama shaped as a puzzle filled with money, legal symbols, and accusations, illustrating state corruption concerns
 related_articles:
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 82.05563749749156
-  llm_score: 95
-  recency_score: 78.36164373369505
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
   score: 78.77339786741247
   llm_score: 95
   recency_score: 57.02708613818104
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 78.4664198648775
+  llm_score: 95
+  recency_score: 55.031729121703655
   length_score: 100
   category_score: 0
   rank: 2
@@ -37,6 +37,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 75.9017913436454
+  llm_score: 85
+  recency_score: 78.36164373369505
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
   score: 74.18706242085727
@@ -44,7 +52,7 @@ related_articles:
   recency_score: 67.21590573557219
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 5
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
   score: 73.99063321450528
@@ -52,7 +60,7 @@ related_articles:
   recency_score: 65.93911589428427
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 6
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
   score: 72.42935007736155
@@ -60,35 +68,27 @@ related_articles:
   recency_score: 55.79077550285001
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 72.31257371103135
-  llm_score: 85
-  recency_score: 55.031729121703655
-  length_score: 100
-  category_score: 0
   rank: 7
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 64.147435722712
-  llm_score: 75
+  score: 70.30128187655816
+  llm_score: 85
   recency_score: 41.958332197627975
   length_score: 100
   category_score: 0
   rank: 8
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 64.08132213256842
-  llm_score: 85
+  score: 70.23516828641458
+  llm_score: 95
   recency_score: 1.5285938616946646
   length_score: 100
   category_score: 0
   rank: 9
 - slug: no-guardrails
   title: NO GUARDRAILS
-  score: 58.4254117635171
-  llm_score: 75
+  score: 64.57925791736325
+  llm_score: 85
   recency_score: 4.7651764628610165
   length_score: 100
   category_score: 0

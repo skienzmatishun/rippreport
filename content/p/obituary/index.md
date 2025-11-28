@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Fran Neumann, a Daphne artist known for her sculpture & advertising work, wearing glasses and a white jacket
 related_articles:
-- slug: neumann
-  title: Frances J. Neumann Celebration  Of  Life
-  score: 76.00128710169042
-  llm_score: 85
-  recency_score: 79.0083661609877
+- slug: m-i-a
+  title: M.I.A
+  score: 64.68123380989019
+  llm_score: 75
+  recency_score: 45.42801976428615
   length_score: 100
   category_score: 0
   rank: 1
 - slug: take-a-chance
   title: “TAKE A CHANCE”
-  score: 65.57661887292055
-  llm_score: 75
+  score: 59.42277271907439
+  llm_score: 65
   recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
   rank: 2
 - slug: round-house-blockheads
   title: ROUND HOUSE SQUARE HEADS
-  score: 65.3846153846154
-  llm_score: 75
+  score: 59.23076923076924
+  llm_score: 65
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 3
-- slug: loss-of-a-friend
-  title: LOSS OF A FRIEND
-  score: 59.53793655034159
-  llm_score: 75
-  recency_score: 11.996587577220225
+- slug: carolyn-amick
+  title: CAROLYN AMICK
+  score: 53.47847784841159
+  llm_score: 60
+  recency_score: 32.61010601467527
   length_score: 100
   category_score: 0
   rank: 4
 - slug: dirty-hands
   title: DIRTY HANDS
-  score: 59.36917885348302
-  llm_score: 75
+  score: 50.13840962271379
+  llm_score: 60
   recency_score: 10.899662547639538
   length_score: 100
   category_score: 0
   rank: 5
-- slug: showing-your-true-colors
-  title: SHOWING YOUR TRUE COLORS
-  score: 57.808928942650226
-  llm_score: 75
-  recency_score: 0.7580381272263648
+- slug: loss-of-a-friend
+  title: LOSS OF A FRIEND
+  score: 44.1533211657262
+  llm_score: 50
+  recency_score: 11.996587577220225
   length_score: 100
   category_score: 0
   rank: 6
-- slug: im-back-2
-  title: I'M BACK
-  score: 51.03262069606322
-  llm_score: 60
-  recency_score: 16.712034524410825
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 40.1410253665477
+  llm_score: 45
+  recency_score: 5.916664882560024
   length_score: 100
   category_score: 0
   rank: 7
-- slug: m-i-a
-  title: M.I.A
-  score: 46.21969534835173
-  llm_score: 45
-  recency_score: 45.42801976428615
+- slug: im-back-2
+  title: I'M BACK
+  score: 38.7249283883709
+  llm_score: 40
+  recency_score: 16.712034524410825
   length_score: 100
   category_score: 0
   rank: 8
-- slug: carolyn-amick
-  title: CAROLYN AMICK
-  score: 41.17078554071928
-  llm_score: 40
-  recency_score: 32.61010601467527
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 30.260971435629664
+  llm_score: 30
+  recency_score: 1.6963143315927736
   length_score: 100
   category_score: 0
   rank: 9
-- slug: tale-of-two-cities
-  title: TALE OF TWO CITIES
-  score: 11.799432974091197
+- slug: neumann
+  title: Frances J. Neumann Celebration  Of  Life
+  score: 23.69359479399811
   llm_score: 0
-  recency_score: 1.6963143315927736
+  recency_score: 79.0083661609877
   length_score: 100
   category_score: 0
   rank: 10

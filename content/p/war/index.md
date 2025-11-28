@@ -17,30 +17,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 81.93298429957298
-  llm_score: 90
-  recency_score: 97.56439794722424
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 80.55406190149016
-  llm_score: 95
-  recency_score: 99.72640235968593
-  length_score: 58.5
-  category_score: 0
-  rank: 3
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
-  score: 78.41045617208597
-  llm_score: 85
+  score: 84.56430232593213
+  llm_score: 95
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 78.8560612226499
+  llm_score: 85
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: fire-albritton
   title: FIRE ALBRITTON
   score: 75.19661552948276
@@ -48,31 +40,23 @@ related_articles:
   recency_score: 73.7780009416378
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 74.63098497841324
+  llm_score: 85
+  recency_score: 99.72640235968593
+  length_score: 60.5
+  category_score: 0
   rank: 5
 - slug: hatians-eating-cats
   title: Haitians Eating Cats
-  score: 67.75374949591121
-  llm_score: 75
+  score: 61.599903342065055
+  llm_score: 65
   recency_score: 65.39937172342279
   length_score: 100
   category_score: 0
   rank: 6
-- slug: alabama-suicide
-  title: ALABAMA SUICIDE
-  score: 57.94072148901291
-  llm_score: 75
-  recency_score: 1.6146896785837832
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: no-guardrails
-  title: NO GUARDRAILS
-  score: 57.72186493364423
-  llm_score: 75
-  recency_score: 0.19212206868737905
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
   score: 57.70178919168717
@@ -80,11 +64,27 @@ related_articles:
   recency_score: 0.06162974596648724
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 51.78687533516675
+  llm_score: 65
+  recency_score: 1.6146896785837832
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 51.56801877979807
+  llm_score: 65
+  recency_score: 0.19212206868737905
+  length_score: 100
+  category_score: 0
   rank: 9
 - slug: trump-n-bama
   title: Trump N Bama
-  score: 54.97593888234327
-  llm_score: 65
+  score: 39.591323497727885
+  llm_score: 40
   recency_score: 22.343602735231208
   length_score: 100
   category_score: 0

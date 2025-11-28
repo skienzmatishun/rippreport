@@ -23,43 +23,43 @@ authors:
 - admin
 alttags: Jack Burrell depicted as the Pied Piper, playing a flute in front of Fairhope’s fountain; symbolizing costly decisions and...
 related_articles:
-- slug: howling-rains-passing-gas
-  title: HOWLING RAINS PASSING GAS
-  score: 66.70939560150946
-  llm_score: 75
-  recency_score: 58.61107140981138
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: no-qualifications
   title: NO QUALIFICATIONS
-  score: 63.55391764967272
-  llm_score: 60
+  score: 72.78468688044195
+  llm_score: 75
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 56.812770729509865
-  llm_score: 60
+  score: 66.04353996027909
+  llm_score: 75
   recency_score: 54.28300974181401
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: double-red-flags-faux-hope
   title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 54.03646335206704
-  llm_score: 45
+  score: 63.26723258283627
+  llm_score: 60
   recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 57.91862662382715
+  llm_score: 75
+  recency_score: 1.4710730548763988
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 52.34093487626747
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 56.82347337200925
   llm_score: 65
-  recency_score: 5.216076695738494
+  recency_score: 34.35257691806009
   length_score: 100
   category_score: 0
   rank: 5
@@ -71,11 +71,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 42.534011239211765
-  llm_score: 50
-  recency_score: 1.4710730548763988
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 38.187088722421315
+  llm_score: 42
+  recency_score: 5.216076695738494
   length_score: 100
   category_score: 0
   rank: 7
@@ -87,11 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 16.823473372009246
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 20.55554944766329
   llm_score: 0
-  recency_score: 34.35257691806009
+  recency_score: 58.61107140981138
   length_score: 100
   category_score: 0
   rank: 9

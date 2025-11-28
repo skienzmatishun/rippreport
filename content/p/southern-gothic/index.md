@@ -19,75 +19,75 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 66.85884670398326
-  llm_score: 75
-  recency_score: 59.582503575891096
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 66.63084072659579
-  llm_score: 65
-  recency_score: 98.10046472287257
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: straw-man
   title: STRAW MAN
-  score: 60.74776616091791
-  llm_score: 75
+  score: 66.90161231476407
+  llm_score: 85
   recency_score: 19.860480045966312
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 59.82636614433601
-  llm_score: 75
-  recency_score: 13.871379938184003
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: end-the-good-ole-boy-culture-in-baldwin-county
-  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 57.88118984466261
-  llm_score: 75
-  recency_score: 1.2277339903068436
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: barstool
-  title: BARSTOOL
-  score: 49.94390819968938
-  llm_score: 60
-  recency_score: 9.635403297980877
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 2
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
-  score: 33.760487606962286
-  llm_score: 25
+  score: 64.52971837619306
+  llm_score: 75
   recency_score: 44.44316944525482
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 3
 - slug: happy-days
   title: HAPPY DAYS
-  score: 18.029057216311664
-  llm_score: 0
+  score: 64.18290337015783
+  llm_score: 75
   recency_score: 42.18887190602582
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 4
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 57.62807747321403
+  llm_score: 60
+  recency_score: 59.582503575891096
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: watering-hole
   title: WATERING HOLE
-  score: 15.189500757821666
-  llm_score: 0
+  score: 55.189500757821676
+  llm_score: 65
   recency_score: 23.73175492584083
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 50.59559691356678
+  llm_score: 60
+  recency_score: 13.871379938184003
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 48.16930226505733
+  llm_score: 35
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: barstool
+  title: BARSTOOL
+  score: 13.020831276612443
+  llm_score: 0
+  recency_score: 9.635403297980877
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 11.727343690816438
+  llm_score: 0
+  recency_score: 1.2277339903068436
   length_score: 100
   category_score: 0
   rank: 10

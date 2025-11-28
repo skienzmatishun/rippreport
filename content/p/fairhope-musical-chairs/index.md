@@ -16,22 +16,30 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 64.19891133567401
-  llm_score: 85
-  recency_score: 2.292923681881036
+- slug: quarterback-sneak
+  title: QUARTERBACK SNEAK
+  score: 64.30858183146253
+  llm_score: 75
+  recency_score: 43.0057819045064
   length_score: 100
   category_score: 0
   rank: 2
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 59.36251660345406
-  llm_score: 55
-  recency_score: 90.85635792245131
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 59.821334853252935
+  llm_score: 65
+  recency_score: 53.838676546144015
   length_score: 100
   category_score: 0
   rank: 3
+- slug: disposal
+  title: DISPOSAL
+  score: 59.04653497797342
+  llm_score: 75
+  recency_score: 8.80247735682715
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: dog-and-pony-show-2
   title: DOG AND PONY SHOW
   score: 49.69870048262045
@@ -39,52 +47,44 @@ related_articles:
   recency_score: 8.041553137032842
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 42.69808404332019
-  llm_score: 50
-  recency_score: 2.537546281581227
-  length_score: 100
-  category_score: 0
   rank: 5
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 19.821334853252928
-  llm_score: 0
-  recency_score: 53.838676546144015
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 47.05482429576175
+  llm_score: 35
+  recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
   rank: 6
-- slug: quarterback-sneak
-  title: QUARTERBACK SNEAK
-  score: 18.154735677616372
-  llm_score: 0
-  recency_score: 43.0057819045064
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 42.49247961618276
+  llm_score: 50
+  recency_score: 1.201117505187898
   length_score: 100
   category_score: 0
   rank: 7
-- slug: disposal
-  title: DISPOSAL
-  score: 15.969611901050332
-  llm_score: 5
-  recency_score: 8.80247735682715
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 27.277772635698664
+  llm_score: 25
+  recency_score: 2.3055221320412933
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 14.938473562135679
-  llm_score: 0
-  recency_score: 22.100078153881906
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 15.005776351012496
+  llm_score: 5
+  recency_score: 2.537546281581227
   length_score: 100
   category_score: 0
   rank: 9
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 11.893157251083275
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 11.891219027981698
   llm_score: 0
-  recency_score: 2.3055221320412933
+  recency_score: 2.292923681881036
   length_score: 100
   category_score: 0
   rank: 10

@@ -15,19 +15,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: good-ole-boys-lose-front-teeth
-  title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 64.43335642168377
-  llm_score: 85
-  recency_score: 3.816816740944404
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: end-the-good-ole-boy-culture-in-baldwin-county
   title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
   score: 58.28273664752057
   llm_score: 75
   recency_score: 3.837788208883614
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: good-ole-boys-lose-front-teeth
+  title: GOOD OLE BOYS LOSE FRONT TEETH
+  score: 58.279510267837615
+  llm_score: 75
+  recency_score: 3.816816740944404
   length_score: 100
   category_score: 0
   rank: 3
@@ -47,14 +47,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-candidates
-  title: CATALYST CANDIDATES
-  score: 57.92555101036256
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 57.8227929528529
   llm_score: 75
-  recency_score: 1.5160815673565506
+  recency_score: 0.8481541935437437
   length_score: 100
   category_score: 0
   rank: 6
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 55.913143236860485
+  llm_score: 65
+  recency_score: 28.435431039593066
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: women-of-baldwin
   title: WOMEN OF BALDWIN
   score: 51.968141689146314
@@ -62,28 +70,20 @@ related_articles:
   recency_score: 2.792920979450993
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: covered-in-oil
-  title: COVERED IN OIL
-  score: 51.66894679900674
+  rank: 8
+- slug: scratch-my-back-i-scratch-yours
+  title: SCRATCH MY BACK, I SCRATCH YOURS
+  score: 51.66232817559567
   llm_score: 65
-  recency_score: 0.8481541935437437
+  recency_score: 0.8051331413717644
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: there-are-more-of-us-than-them
   title: THERE ARE MORE OF US THAN THEM
   score: 51.57997653793032
   llm_score: 65
   recency_score: 0.2698474965470202
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: scratch-my-back-i-scratch-yours
-  title: SCRATCH MY BACK, I SCRATCH YOURS
-  score: 39.354635867903355
-  llm_score: 45
-  recency_score: 0.8051331413717644
   length_score: 100
   category_score: 0
   rank: 10

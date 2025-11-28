@@ -16,14 +16,6 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 77.99708652864715
-  llm_score: 90
-  recency_score: 71.98106243620636
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: POSTER-BOY-of-CORRUPTION
   title: POSTER BOY OF CORRUPTION
   score: 71.92728932846137
@@ -31,7 +23,7 @@ related_articles:
   recency_score: 52.527380634998835
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
   score: 71.4964003657282
@@ -39,7 +31,7 @@ related_articles:
   recency_score: 49.72660237723329
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
   score: 71.00955183213131
@@ -47,31 +39,15 @@ related_articles:
   recency_score: 46.562086908853416
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 68.76631729787792
+  llm_score: 75
+  recency_score: 71.98106243620636
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 68.49323488700294
-  llm_score: 90
-  recency_score: 10.20602676551906
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 68.45080080366054
-  llm_score: 90
-  recency_score: 9.930205223793392
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 67.58188901760852
-  llm_score: 90
-  recency_score: 4.282278614455312
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
   score: 65.84988665357434
@@ -79,19 +55,43 @@ related_articles:
   recency_score: 13.024263248233176
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 64.41126005798857
+  rank: 5
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 65.41631181007986
   llm_score: 85
-  recency_score: 3.6731903769256515
+  recency_score: 10.20602676551906
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 65.37387772673746
+  llm_score: 85
+  recency_score: 9.930205223793392
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 64.50496594068544
+  llm_score: 85
+  recency_score: 4.282278614455312
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 64.40052566614153
+  llm_score: 85
+  recency_score: 3.6034168299198996
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 64.38999517785442
-  llm_score: 85
+  score: 58.23614902400826
+  llm_score: 75
   recency_score: 3.5349686560536235
   length_score: 100
   category_score: 0

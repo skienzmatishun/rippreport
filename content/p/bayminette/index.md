@@ -10,81 +10,81 @@ alttags: Pigs stand in front of a Bay Minette water tower and American flag, ref
 related_articles:
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
-  score: 76.56430232593213
-  llm_score: 82
+  score: 84.56430232593213
+  llm_score: 95
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
   rank: 1
 - slug: go-to-hell-ethics
   title: GO TO HELL ETHICS
-  score: 74.22114521298043
-  llm_score: 80
+  score: 77.29806828990351
+  llm_score: 85
   recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
   rank: 2
 - slug: cover-up
   title: COVER UP
-  score: 71.20419383002445
-  llm_score: 78
+  score: 75.51188613771676
+  llm_score: 85
   recency_score: 75.82725989515886
   length_score: 100
   category_score: 0
   rank: 3
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
-  score: 69.13983935382478
-  llm_score: 70
+  score: 72.21676243074786
+  llm_score: 75
   recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
   rank: 4
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 61.34131826704754
-  llm_score: 70
-  recency_score: 43.718568735808944
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 64.87584449895536
+  llm_score: 85
+  recency_score: 6.69298924320973
   length_score: 100
   category_score: 0
   rank: 5
-- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
-  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 59.33738296049382
-  llm_score: 76
-  recency_score: 6.69298924320973
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 64.41824134397062
+  llm_score: 75
+  recency_score: 43.718568735808944
   length_score: 100
   category_score: 0
   rank: 6
 - slug: green-acres-on-acid
   title: GREEN ACRES ON ACID
-  score: 55.26942986651596
-  llm_score: 71
+  score: 63.88481448190058
+  llm_score: 85
   recency_score: 0.25129413235364534
   length_score: 100
   category_score: 0
   rank: 7
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 55.00899827284608
-  llm_score: 70
-  recency_score: 2.5584887734994517
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 63.873906044837334
+  llm_score: 85
+  recency_score: 0.18038929144256055
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fire
-  title: FIRE
-  score: 54.646097582035644
-  llm_score: 70
-  recency_score: 0.1996342832316262
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 58.08592134976916
+  llm_score: 75
+  recency_score: 2.5584887734994517
   length_score: 100
   category_score: 0
   rank: 9
-- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
-  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
-  score: 54.6431368140681
-  llm_score: 70
-  recency_score: 0.18038929144256055
+- slug: fire
+  title: FIRE
+  score: 51.569174505112564
+  llm_score: 65
+  recency_score: 0.1996342832316262
   length_score: 100
   category_score: 0
   rank: 10

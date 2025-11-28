@@ -7,14 +7,22 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 62.52046024147146
+- slug: surrender
+  title: SURRENDER
+  score: 72.74339448711596
   llm_score: 75
-  recency_score: 31.3829915695644
+  recency_score: 97.83206416625366
   length_score: 100
   category_score: 0
   rank: 1
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 60.832634625012844
+  llm_score: 75
+  recency_score: 20.412125062583367
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: judicial-trick
   title: JUDICIAL TRICK
   score: 60.77298300710898
@@ -22,15 +30,23 @@ related_articles:
   recency_score: 20.024389546208226
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 59.27300744684015
-  llm_score: 65
-  recency_score: 50.274548404460894
+  rank: 3
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 59.44353716454838
+  llm_score: 70
+  recency_score: 31.3829915695644
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 58.863503802885646
+  llm_score: 75
+  recency_score: 7.612774718756618
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: boycott-mcsharry
   title: BOYCOTT McSHARRY
   score: 56.174922834822745
@@ -38,51 +54,35 @@ related_articles:
   recency_score: 50.13699842634772
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 54.91064278755297
-  llm_score: 65
-  recency_score: 21.919178119094283
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 54.67878847116668
-  llm_score: 65
-  recency_score: 20.412125062583367
-  length_score: 100
-  category_score: 0
   rank: 6
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 40.40196534134718
-  llm_score: 45
-  recency_score: 7.612774718756618
+- slug: barstool
+  title: BARSTOOL
+  score: 55.387660976087965
+  llm_score: 70
+  recency_score: 5.0197963445716995
   length_score: 100
   category_score: 0
   rank: 7
-- slug: surrender
-  title: SURRENDER
-  score: 26.589548333269796
-  llm_score: 0
-  recency_score: 97.83206416625366
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 51.8337197106299
+  llm_score: 60
+  recency_score: 21.919178119094283
   length_score: 100
   category_score: 0
   rank: 8
-- slug: barstool
-  title: BARSTOOL
-  score: 15.387660976087954
-  llm_score: 5
-  recency_score: 5.0197963445716995
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 46.96531513914784
+  llm_score: 45
+  recency_score: 50.274548404460894
   length_score: 100
   category_score: 0
   rank: 9
 - slug: american-citizen
   title: AMERICAN CITIZEN
-  score: 14.653083347075466
-  llm_score: 0
+  score: 39.268467962460086
+  llm_score: 40
   recency_score: 20.245041755990528
   length_score: 100
   category_score: 0

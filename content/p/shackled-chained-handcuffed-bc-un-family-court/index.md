@@ -7,14 +7,6 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 73.53935106223177
-  llm_score: 90
-  recency_score: 43.0057819045064
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
   score: 72.33663345662207
@@ -22,15 +14,7 @@ related_articles:
   recency_score: 95.18811746804333
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 71.18112722801328
-  llm_score: 75
-  recency_score: 87.6773269820862
-  length_score: 100
-  category_score: 0
-  rank: 3
+  rank: 1
 - slug: this-is-a-test
   title: THIS IS A TEST
   score: 70.67354453900549
@@ -38,31 +22,39 @@ related_articles:
   recency_score: 84.37803950353559
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 70.4624279853087
+  llm_score: 85
+  recency_score: 43.0057819045064
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 52.22303401456866
-  llm_score: 65
+  score: 58.37688016841482
+  llm_score: 75
   recency_score: 4.449721094696223
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 57.98590795118646
+  llm_score: 75
+  recency_score: 1.908401682711899
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 51.843541936764225
-  llm_score: 65
-  recency_score: 1.9830225889673994
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 55.79651184339789
+  llm_score: 50
+  recency_score: 87.6773269820862
   length_score: 100
   category_score: 0
   rank: 6
-- slug: exposure
-  title: EXPOSURE
-  score: 51.66472662546601
-  llm_score: 65
-  recency_score: 0.8207230655290094
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
   score: 51.663008759806466
@@ -70,20 +62,28 @@ related_articles:
   recency_score: 0.8095569387419504
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: catalyst-queen-remember-family-court
   title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 49.017431190916405
-  llm_score: 60
+  score: 12.09435426783947
+  llm_score: 0
   recency_score: 3.6133027409565597
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 11.843541936764215
+  llm_score: 0
+  recency_score: 1.9830225889673994
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: divorce-corp
-  title: DIVORCE CORP
-  score: 42.60129256657107
-  llm_score: 50
-  recency_score: 1.908401682711899
+- slug: exposure
+  title: EXPOSURE
+  score: 11.664726625466
+  llm_score: 0
+  recency_score: 0.8207230655290094
   length_score: 100
   category_score: 0
   rank: 10

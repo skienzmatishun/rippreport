@@ -8,67 +8,67 @@ authors:
 - admin
 alttags: 'Seal of Faux Hope, Alabama: a circular design featuring mountains, water, a screw, and text highlighting concerns about un...'
 related_articles:
-- slug: fairhope-council-asleep-at-the-wheel
-  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
-  score: 60.53768811879689
-  llm_score: 75
-  recency_score: 18.4949727721797
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: gold-mine-for-sale
-  title: GOLD MINE FOR SALE
-  score: 59.13857280268648
-  llm_score: 75
-  recency_score: 9.400723217462033
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: people-power-wake-up-gulf-shores
-  title: PEOPLE POWER - WAKE UP GULF SHORES
-  score: 58.411486193066416
-  llm_score: 75
-  recency_score: 4.674660254931597
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: tale-of-two-cities
-  title: TALE OF TWO CITIES
-  score: 57.879131204092346
-  llm_score: 75
-  recency_score: 1.214352826600136
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: howell-gibbens
-  title: HOWELL GIBBENS
-  score: 55.83004461473735
-  llm_score: 65
-  recency_score: 27.895289995792755
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: fried-chicken-and-watermelon
   title: FRIED CHICKEN AND WATERMELON
-  score: 50.91903224539597
-  llm_score: 40
+  score: 72.45749378385752
+  llm_score: 75
   recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 1
+- slug: howell-gibbens
+  title: HOWELL GIBBENS
+  score: 61.983890768583514
+  llm_score: 75
+  recency_score: 27.895289995792755
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 58.99200985470977
+  llm_score: 75
+  recency_score: 8.448064055613413
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: gulf-shores-shoot-the-messenger
   title: Gulf Shores - SHOOT THE MESSENGER
-  score: 49.449770778385805
-  llm_score: 60
+  score: 58.68054000915504
+  llm_score: 75
   recency_score: 6.423510059507628
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: people-power-wake-up-gulf-shores
+  title: PEOPLE POWER - WAKE UP GULF SHORES
+  score: 55.334563116143336
+  llm_score: 70
+  recency_score: 4.674660254931597
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 52.64587955402373
+  llm_score: 45
+  recency_score: 87.19821710115417
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: tale-of-two-cities
+  title: TALE OF TWO CITIES
+  score: 51.725285050246185
+  llm_score: 65
+  recency_score: 1.214352826600136
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: new-year-new-problems
-  title: NEW YEAR NEW PROBLEMS
-  score: 48.787353146116125
+- slug: fairhope-council-asleep-at-the-wheel
+  title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+  score: 51.30691888802766
   llm_score: 60
-  recency_score: 2.117795449754721
+  recency_score: 18.4949727721797
   length_score: 100
   category_score: 0
   rank: 8
@@ -80,11 +80,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 15.91508677778668
-  llm_score: 5
-  recency_score: 8.448064055613413
+- slug: new-year-new-problems
+  title: NEW YEAR NEW PROBLEMS
+  score: 42.633506992269965
+  llm_score: 50
+  recency_score: 2.117795449754721
   length_score: 100
   category_score: 0
   rank: 10

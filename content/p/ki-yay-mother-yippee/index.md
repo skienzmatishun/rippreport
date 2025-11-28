@@ -10,11 +10,11 @@ alttags: Man speaks at a podium with cameras present; inset shows individuals wa
 related_articles:
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY
-  score: 78.22318660022637
-  llm_score: 75
+  score: 72.83857121561098
+  llm_score: 85
   recency_score: 58.450712901471334
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
 - slug: black-cloud
   title: BLACK CLOUD
@@ -24,14 +24,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 65.1562246506089
+- slug: backstory-153
+  title: No Boomers
+  score: 63.06491441824909
   llm_score: 75
-  recency_score: 48.51546022895776
+  recency_score: 34.921943718618955
   length_score: 100
   category_score: 0
   rank: 3
+- slug: offensive
+  title: Offensive
+  score: 62.5603072174556
+  llm_score: 75
+  recency_score: 31.641996913461323
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: stealing-from-kids
   title: STEALING FROM KIDS
   score: 60.90222354092819
@@ -39,31 +47,15 @@ related_articles:
   recency_score: 20.864453016033117
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: look-in-the-mirror
-  title: LOOK IN THE MIRROR
-  score: 57.839510049481504
-  llm_score: 75
-  recency_score: 0.9568153216296585
-  length_score: 100
-  category_score: 0
   rank: 5
-- slug: backstory-153
-  title: No Boomers
-  score: 56.91106826440293
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 59.002378496762745
   llm_score: 65
-  recency_score: 34.921943718618955
+  recency_score: 48.51546022895776
   length_score: 100
   category_score: 0
   rank: 6
-- slug: offensive
-  title: Offensive
-  score: 56.40646106360944
-  llm_score: 65
-  recency_score: 31.641996913461323
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: trump-n-bama
   title: Trump N Bama
   score: 55.43763761878204
@@ -71,12 +63,20 @@ related_articles:
   recency_score: 25.34464452208322
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: hatians-eating-cats
   title: Haitians Eating Cats
   score: 52.870609524559015
   llm_score: 65
   recency_score: 8.658961909633518
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 52.77223871344698
+  llm_score: 65
+  recency_score: 8.019551637405318
   length_score: 100
   category_score: 0
   rank: 9

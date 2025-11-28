@@ -29,14 +29,38 @@ authors:
 - admin
 alttags: Dog wearing glasses in a lab setting, playfully illustrating lack of experience in Fairhope utility leadership
 related_articles:
-- slug: pied-piper
-  title: PIED PIPER
-  score: 72.78468688044195
+- slug: no-radar
+  title: NO RADAR
+  score: 71.14422213605737
   llm_score: 75
-  recency_score: 98.10046472287257
+  recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
   rank: 1
+- slug: pied-piper
+  title: PIED PIPER
+  score: 63.55391764967272
+  llm_score: 60
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 62.98599319997864
+  llm_score: 60
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: disposal
+  title: DISPOSAL
+  score: 59.85580096986339
+  llm_score: 75
+  recency_score: 14.062706304111916
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
   score: 59.73105920342797
@@ -44,7 +68,7 @@ related_articles:
   recency_score: 53.251884822281745
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 5
 - slug: self-incrimination
   title: SELF INCRIMINATION
   score: 57.987521135374735
@@ -52,15 +76,7 @@ related_articles:
   recency_score: 1.9188873799356607
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 57.91311439528525
-  llm_score: 75
-  recency_score: 1.4352435693539982
-  length_score: 100
-  category_score: 0
-  rank: 4
+  rank: 6
 - slug: fauxhope-2
   title: FAUXHOPE
   score: 53.64615963090758
@@ -68,44 +84,28 @@ related_articles:
   recency_score: 33.70003760089919
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: no-radar
-  title: NO RADAR
-  score: 46.528837520672745
-  llm_score: 35
-  recency_score: 87.43744388437275
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: disposal
-  title: DISPOSAL
-  score: 44.471185585247994
-  llm_score: 50
-  recency_score: 14.062706304111916
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 27.145096846653345
-  llm_score: 25
-  recency_score: 1.443129503246706
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 50.43801002151172
+  llm_score: 60
+  recency_score: 12.847065139826096
   length_score: 100
   category_score: 0
   rank: 8
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 26.062916276901703
-  llm_score: 0
-  recency_score: 94.40895579986105
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 48.682345164516015
+  llm_score: 60
+  recency_score: 1.4352435693539982
   length_score: 100
   category_score: 0
   rank: 9
-- slug: dog-and-pony-show-2
-  title: DOG AND PONY SHOW
-  score: 13.514933098434785
-  llm_score: 0
-  recency_score: 12.847065139826096
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 14.837404538961032
+  llm_score: 5
+  recency_score: 1.443129503246706
   length_score: 100
   category_score: 0
   rank: 10

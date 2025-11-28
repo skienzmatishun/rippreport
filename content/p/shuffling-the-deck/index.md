@@ -13,83 +13,83 @@ authors:
 - admin
 alttags: Playing cards scattered with a Sheriffs car on a Joker card, symbolizing controversy surrounding BCSO leadership
 related_articles:
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 93.06579769612176
-  llm_score: 90
-  recency_score: 94.92768502479139
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 85.05108679480827
+  llm_score: 95
+  recency_score: 97.83206416625366
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 92.86710337754633
-  llm_score: 90
-  recency_score: 93.63617195405108
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 92.3250236679477
-  llm_score: 90
-  recency_score: 90.11265384166002
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 89.82970171596716
-  llm_score: 85
+  score: 81.36816325442871
+  llm_score: 90
   recency_score: 93.89306115378648
   length_score: 100
-  category_score: 100
+  category_score: 0
+  rank: 2
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 78.45041308073715
+  llm_score: 85
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 78.25171876216172
+  llm_score: 85
+  recency_score: 93.63617195405108
+  length_score: 100
+  category_score: 0
   rank: 4
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 77.70963905256309
+  llm_score: 85
+  recency_score: 90.11265384166002
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 88.72641927699547
+  score: 77.18795773853394
   llm_score: 85
   recency_score: 86.72172530047058
   length_score: 100
-  category_score: 100
-  rank: 5
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 84.2818560255775
-  llm_score: 75
-  recency_score: 97.83206416625366
-  length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 6
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 72.40586665500945
+  llm_score: 85
+  recency_score: 55.63813325756129
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 82.33535074438974
+  score: 70.79688920592821
   llm_score: 85
   recency_score: 45.179779838533264
   length_score: 100
-  category_score: 100
-  rank: 7
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 82.09214704051827
-  llm_score: 85
-  recency_score: 43.598955763368686
-  length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 8
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 79.81963657015807
-  llm_score: 85
-  recency_score: 28.827637706027392
-  length_score: 100
-  category_score: 100
-  rank: 9
 - slug: bcso-no-clones
   title: BCSO - NO CLONES
-  score: 68.39189110160407
-  llm_score: 85
+  score: 62.23804494775792
+  llm_score: 75
   recency_score: 29.54729216042639
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 62.12732887785038
+  llm_score: 75
+  recency_score: 28.827637706027392
   length_score: 100
   category_score: 0
   rank: 10

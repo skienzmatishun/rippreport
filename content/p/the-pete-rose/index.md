@@ -8,30 +8,14 @@ authors:
 - admin
 rumble: v5f4bf1
 related_articles:
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
   score: 66.34415565975934
   llm_score: 65
   recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 1
-- slug: tides-end
-  title: Tide's End
-  score: 65.23847084176896
-  llm_score: 75
-  recency_score: 49.0500604714981
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: the-black-eyes-of-alabama
-  title: The Black Eyes of Alabama
-  score: 58.724823283402316
-  llm_score: 75
-  recency_score: 6.711351342114945
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative
   score: 57.58279632086507
@@ -39,15 +23,7 @@ related_articles:
   recency_score: 39.2881760856229
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 57.11338642899012
-  llm_score: 50
-  recency_score: 96.23701178843567
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 2
 - slug: offensive
   title: Offensive
   score: 55.590100308057096
@@ -55,23 +31,39 @@ related_articles:
   recency_score: 26.335652002371052
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: the-mcsharry-will-out
-  title: The McSharry Will Out
-  score: 53.28090047127223
-  llm_score: 65
-  recency_score: 11.325853063269467
+  rank: 3
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 54.03646335206704
+  llm_score: 45
+  recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 4
+- slug: the-slap
+  title: The Slap
+  score: 52.79957892926788
+  llm_score: 65
+  recency_score: 8.197263040241149
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: happy-days
   title: HAPPY DAYS
-  score: 49.55220898540737
-  llm_score: 60
+  score: 52.62913206233044
+  llm_score: 65
   recency_score: 7.089358405147809
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 52.570977129556155
+  llm_score: 65
+  recency_score: 6.711351342114945
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: trump-n-bama
   title: Trump N Bama
   score: 47.36603673743162
@@ -79,12 +71,20 @@ related_articles:
   recency_score: 32.87923879330549
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: tides-end
+  title: Tide's End
+  score: 46.77693238023049
+  llm_score: 45
+  recency_score: 49.0500604714981
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: the-slap
-  title: The Slap
-  score: 43.56880969849865
-  llm_score: 50
-  recency_score: 8.197263040241149
+- slug: the-mcsharry-will-out
+  title: The McSharry Will Out
+  score: 40.973208163579926
+  llm_score: 45
+  recency_score: 11.325853063269467
   length_score: 100
   category_score: 0
   rank: 10

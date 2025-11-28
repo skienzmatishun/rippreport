@@ -11,44 +11,36 @@ alttags: 'Hoss Macks rise: Silhouette against Alabama capitol building, highligh
 related_articles:
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 81.2655998469883
-  llm_score: 85
+  score: 75.88098446237291
+  llm_score: 95
   recency_score: 38.22639900542388
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 77.68882535601266
+  score: 66.15036381755112
   llm_score: 85
   recency_score: 14.977364814082216
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 2
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 77.60820188661911
+  score: 66.06974034815758
   llm_score: 85
   recency_score: 14.453312263024177
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 3
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 69.54691132607942
-  llm_score: 75
-  recency_score: 2.0549236195161336
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF
-  score: 69.24212998022072
-  llm_score: 75
+  score: 63.857514595605345
+  llm_score: 85
   recency_score: 0.07384487143466474
   length_score: 100
-  category_score: 100
-  rank: 5
+  category_score: 0
+  rank: 4
 - slug: happy-days
   title: HAPPY DAYS
   score: 58.152449282539536
@@ -56,15 +48,7 @@ related_articles:
   recency_score: 2.990920336506884
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: january-22nd-qualifying-deadline
-  title: January 22nd Qualifying Deadline
-  score: 58.11152254442203
-  llm_score: 75
-  recency_score: 2.7248965387430797
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 5
 - slug: black-cloud
   title: BLACK CLOUD
   score: 58.01812237688536
@@ -72,7 +56,15 @@ related_articles:
   recency_score: 2.117795449754721
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 58.008449787617884
+  llm_score: 75
+  recency_score: 2.0549236195161336
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: southern-gothic
   title: SOUTHERN GOTHIC
   score: 57.88643623839696
@@ -80,12 +72,20 @@ related_articles:
   recency_score: 1.2618355495801652
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: flies-in-the-ointment
   title: FLIES IN THE OINTMENT
   score: 57.694533294211645
   llm_score: 75
   recency_score: 0.014466412375585717
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 51.95767639057587
+  llm_score: 65
+  recency_score: 2.7248965387430797
   length_score: 100
   category_score: 0
   rank: 10

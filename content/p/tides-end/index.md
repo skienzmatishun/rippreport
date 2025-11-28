@@ -12,60 +12,36 @@ alttags: Judge Wilters, new Alabama football coach, appears on a podcast discuss
 related_articles:
 - slug: no-justice
   title: NO JUSTICE
-  score: 77.51262525634672
-  llm_score: 64
+  score: 72.74339448711596
+  llm_score: 75
   recency_score: 97.83206416625366
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 70.62614213783523
-  llm_score: 62
-  recency_score: 61.06992389592894
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 2
-- slug: the-murray-lawrence-jr-project
-  title: The Murray Lawrence Jr. Project
-  score: 63.787661277134
-  llm_score: 66
-  recency_score: 75.61979830137088
+- slug: innocent
+  title: INNOCENT
+  score: 60.385971441946786
+  llm_score: 75
+  recency_score: 17.508814372654022
   length_score: 100
   category_score: 0
   rank: 3
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 63.08184686208677
-  llm_score: 67
-  recency_score: 67.03200460356393
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 53.76204804046527
+  llm_score: 65
+  recency_score: 14.453312263024177
   length_score: 100
   category_score: 0
   rank: 4
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 59.23076923076924
-  llm_score: 65
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: backstory-153
-  title: No Boomers
-  score: 58.407471006983506
-  llm_score: 64
-  recency_score: 48.648561545392695
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 57.384615384615394
-  llm_score: 62
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: troubled-waters
   title: Troubled Waters
   score: 53.424989103593425
@@ -73,20 +49,44 @@ related_articles:
   recency_score: 12.262429173357202
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: the-murray-lawrence-jr-project
+  title: The Murray Lawrence Jr. Project
+  score: 50.86458435405707
+  llm_score: 45
+  recency_score: 75.61979830137088
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 49.54338532362523
+  llm_score: 45
+  recency_score: 67.03200460356393
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 48.62614213783523
+  llm_score: 45
+  recency_score: 61.06992389592894
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 52.53127880969604
-  llm_score: 63
-  recency_score: 14.453312263024177
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 46.923076923076934
+  llm_score: 45
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: january-22nd-qualifying-deadline
-  title: January 22nd Qualifying Deadline
-  score: 51.71811997789407
-  llm_score: 62
-  recency_score: 13.167779856311412
+- slug: backstory-153
+  title: No Boomers
+  score: 37.48439408390658
+  llm_score: 30
+  recency_score: 48.648561545392695
   length_score: 100
   category_score: 0
   rank: 10

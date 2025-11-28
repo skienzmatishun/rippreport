@@ -8,11 +8,11 @@ authors:
 - ripp-report
 alttags: Revolver cylinder graphic symbolizing Fairhope’s legal troubles and risky court proceedings described in the article
 related_articles:
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 70.98014314814615
-  llm_score: 95
-  recency_score: 6.370930462949982
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 79.23076923076924
+  llm_score: 85
+  recency_score: 100.0
   length_score: 100
   category_score: 0
   rank: 1
@@ -24,43 +24,43 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: the-good-the-bad-and-the-ugly-repost
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 70.00000000000001
-  llm_score: 70
-  recency_score: 100.0
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 64.82629699430001
+  llm_score: 85
+  recency_score: 6.370930462949982
   length_score: 100
   category_score: 0
   rank: 3
-- slug: chasing-your-tail
-  title: CHASING YOUR TAIL
-  score: 66.94305325053871
-  llm_score: 90
-  recency_score: 0.1298461285014998
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 63.86944264719784
+  llm_score: 85
+  recency_score: 0.15137720678588268
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fraud
-  title: FRAUD
-  score: 66.92485958835111
-  llm_score: 90
-  recency_score: 0.011587324282087415
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 63.86613017361563
+  llm_score: 85
+  recency_score: 0.1298461285014998
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-council-lawsuits
-  title: CATALYST COUNCIL LAWSUITS
-  score: 63.954459667489466
+- slug: fraud
+  title: FRAUD
+  score: 63.84793651142803
   llm_score: 85
-  recency_score: 0.7039878386814237
+  recency_score: 0.011587324282087415
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-lawsuits
-  title: FAIRHOPE LAWSUITS
-  score: 63.85259714786169
-  llm_score: 85
-  recency_score: 0.041881461100881215
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 60.877536590566386
+  llm_score: 80
+  recency_score: 0.7039878386814237
   length_score: 100
   category_score: 0
   rank: 7
@@ -72,19 +72,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 57.71559649335169
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 57.745286416962664
   llm_score: 75
-  recency_score: 0.15137720678588268
+  recency_score: 0.3443617102572178
   length_score: 100
   category_score: 0
   rank: 9
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 57.712726690549246
+- slug: fairhope-lawsuits
+  title: FAIRHOPE LAWSUITS
+  score: 57.69875099401553
   llm_score: 75
-  recency_score: 0.1327234885700072
+  recency_score: 0.041881461100881215
   length_score: 100
   category_score: 0
   rank: 10

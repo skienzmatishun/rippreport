@@ -24,22 +24,6 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: honeymoon
-  title: HONEYMOON
-  score: 70.20282756098601
-  llm_score: 95
-  recency_score: 1.3183791464089836
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: catalyst-stacking-the-deck
-  title: CATALYST STACKING THE DECK
-  score: 70.10366072306286
-  llm_score: 95
-  recency_score: 0.6737946999085467
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: catalyst-players
   title: CATALYST PLAYERS
   score: 70.09063828655823
@@ -47,60 +31,76 @@ related_articles:
   recency_score: 0.5891488626284136
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 1
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 64.52512275905725
+  llm_score: 85
+  recency_score: 4.413297933872045
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 67.3720112952914
-  llm_score: 90
+  score: 64.29508821836832
+  llm_score: 85
   recency_score: 2.9180734193940348
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: honeymoon
+  title: HONEYMOON
+  score: 64.04898140713985
+  llm_score: 85
+  recency_score: 1.3183791464089836
   length_score: 100
   category_score: 0
   rank: 4
 - slug: secret-society
   title: SECRET SOCIETY
-  score: 67.10635165634926
-  llm_score: 90
+  score: 64.02942857942618
+  llm_score: 85
   recency_score: 1.1912857662700727
   length_score: 100
   category_score: 0
   rank: 5
 - slug: catalyst-bullies
   title: CATALYST BULLIES
-  score: 67.03969817341945
-  llm_score: 90
+  score: 63.96277509649638
+  llm_score: 85
   recency_score: 0.7580381272263648
   length_score: 100
   category_score: 0
   rank: 6
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 67.0387435709924
-  llm_score: 90
+  score: 63.961820494069315
+  llm_score: 85
   recency_score: 0.7518332114504676
   length_score: 100
   category_score: 0
   rank: 7
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 63.85022028290019
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 63.94981456921671
   llm_score: 85
-  recency_score: 0.026431838851144984
+  recency_score: 0.6737946999085467
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bit-dogs-bark-first
-  title: BIT DOGS BARK FIRST
-  score: 63.84935788117408
-  llm_score: 85
-  recency_score: 0.020826227631410843
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: a-slap-on-the-wrist
   title: A SLAP ON THE WRIST
   score: 57.90714701477196
   llm_score: 75
   recency_score: 1.3964555960176444
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 57.696374129054036
+  llm_score: 75
+  recency_score: 0.026431838851144984
   length_score: 100
   category_score: 0
   rank: 10

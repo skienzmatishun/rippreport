@@ -23,81 +23,81 @@ alttags: Traffic stop footage shows a man in a car and an officer; related to th
 related_articles:
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 84.50106414416294
+  score: 72.9626026057014
   llm_score: 85
   recency_score: 59.25691693705903
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 84.01497191635515
-  llm_score: 85
-  recency_score: 56.097317456308396
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 83.82787132452349
+  score: 72.28940978606195
   llm_score: 85
   recency_score: 54.88116360940264
   length_score: 100
-  category_score: 100
-  rank: 3
+  category_score: 0
+  rank: 2
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 82.80774601322032
+  score: 71.26928447475879
   llm_score: 85
   recency_score: 48.25034908593207
   length_score: 100
-  category_score: 100
+  category_score: 0
+  rank: 3
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 66.32266422404746
+  llm_score: 75
+  recency_score: 56.097317456308396
+  length_score: 100
+  category_score: 0
   rank: 4
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 77.31190471307676
+  score: 65.77344317461522
   llm_score: 75
   recency_score: 52.527380634998835
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 5
 - slug: rumors
   title: RUMORS
-  score: 76.78410517549679
+  score: 65.24564363703526
   llm_score: 85
   recency_score: 9.096683640729124
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 6
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 76.74628346087476
+  score: 65.20782192241323
   llm_score: 85
   recency_score: 8.850842495685942
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 7
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 76.70585908271218
-  llm_score: 85
-  recency_score: 8.588084037629146
-  length_score: 100
-  category_score: 100
-  rank: 8
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 76.65614083810677
-  llm_score: 85
-  recency_score: 8.264915447693923
-  length_score: 100
-  category_score: 100
-  rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 68.24487219687568
-  llm_score: 85
+  score: 62.09102604302952
+  llm_score: 75
   recency_score: 28.59166927969179
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 59.0135513904045
+  llm_score: 75
+  recency_score: 8.588084037629146
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 58.96383314579908
+  llm_score: 75
+  recency_score: 8.264915447693923
   length_score: 100
   category_score: 0
   rank: 10

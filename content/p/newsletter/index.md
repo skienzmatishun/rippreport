@@ -8,6 +8,14 @@ authors:
 - ripp-report
 alttags: 'Baldwin County: An eagle delivers mail, symbolizing news and information from The Ripp Report consumer group'
 related_articles:
+- slug: exposure-2
+  title: EXPOSURE
+  score: 70.01992167270123
+  llm_score: 95
+  recency_score: 0.12949087255788053
+  length_score: 100
+  category_score: 0
+  rank: 1
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
   score: 70.00808846001682
@@ -15,7 +23,7 @@ related_articles:
   recency_score: 0.05257499010930886
   length_score: 100
   category_score: 0
-  rank: 1
+  rank: 2
 - slug: a-slap-on-the-wrist
   title: A SLAP ON THE WRIST
   score: 64.03144811539258
@@ -23,28 +31,20 @@ related_articles:
   recency_score: 1.2044127500516812
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 63.93729014402612
-  llm_score: 85
-  recency_score: 0.5923859361696956
-  length_score: 100
-  category_score: 0
   rank: 3
-- slug: exposure-2
-  title: EXPOSURE
-  score: 63.86607551885508
-  llm_score: 85
-  recency_score: 0.12949087255788053
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: fear
   title: FEAR
   score: 63.86300947963091
   llm_score: 85
   recency_score: 0.10956161760080699
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: corruption-is-legal-in-america
+  title: CORRUPTION IS LEGAL IN AMERICA
+  score: 63.85156086897218
+  llm_score: 85
+  recency_score: 0.03514564831905083
   length_score: 100
   category_score: 0
   rank: 5
@@ -64,19 +64,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 57.78344399017997
+  llm_score: 75
+  recency_score: 0.5923859361696956
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
   score: 57.7019199689298
   llm_score: 75
   recency_score: 0.06247979804359676
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: corruption-is-legal-in-america
-  title: CORRUPTION IS LEGAL IN AMERICA
-  score: 57.697714715126025
-  llm_score: 75
-  recency_score: 0.03514564831905083
   length_score: 100
   category_score: 0
   rank: 9

@@ -13,14 +13,38 @@ authors:
 - admin
 alttags: Illustration depicting a school building under an oil derrick, symbolizing hidden resources and potential ethical concerns...
 related_articles:
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 66.02317771146885
-  llm_score: 65
-  recency_score: 94.15065512454748
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 72.53862097642448
+  llm_score: 75
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 1
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 72.17702386531501
+  llm_score: 75
+  recency_score: 94.15065512454748
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 71.18112722801328
+  llm_score: 75
+  recency_score: 87.6773269820862
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 69.7149612500813
+  llm_score: 75
+  recency_score: 78.14724812552835
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: line-in-the-sand
   title: LINE IN THE SAND
   score: 63.351991402637594
@@ -28,23 +52,15 @@ related_articles:
   recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 63.30785174565525
-  llm_score: 60
-  recency_score: 96.50103634675902
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 59.79157249015608
+  rank: 5
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 62.12732887785038
   llm_score: 75
-  recency_score: 13.645221186014394
+  recency_score: 28.827637706027392
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 6
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
   score: 58.93286384575228
@@ -52,7 +68,7 @@ related_articles:
   recency_score: 8.063614997389708
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 7
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
   score: 58.853916985333626
@@ -60,36 +76,20 @@ related_articles:
   recency_score: 7.550460404668479
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 8
 - slug: POSTER-BOY-of-CORRUPTION
   title: POSTER BOY OF CORRUPTION
-  score: 52.63813341879726
-  llm_score: 65
+  score: 37.25351803418187
+  llm_score: 40
   recency_score: 7.147867222182147
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 43.665790416311914
-  llm_score: 45
-  recency_score: 28.827637706027392
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 38.94573048085052
-  llm_score: 25
-  recency_score: 78.14724812552835
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 25.02728107416711
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 13.637726336309907
   llm_score: 0
-  recency_score: 87.6773269820862
+  recency_score: 13.645221186014394
   length_score: 100
   category_score: 0
   rank: 10

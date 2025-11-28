@@ -7,14 +7,6 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 78.0557277256631
-  llm_score: 85
-  recency_score: 92.36223021681012
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
   score: 71.10741801556219
@@ -22,7 +14,7 @@ related_articles:
   recency_score: 87.19821710115417
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
   score: 71.07071459027225
@@ -30,7 +22,7 @@ related_articles:
   recency_score: 86.95964483676948
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
   score: 70.85259326250642
@@ -38,31 +30,7 @@ related_articles:
   recency_score: 85.54185620629158
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 70.60260899552978
-  llm_score: 75
-  recency_score: 83.91695847094347
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 70.19603757448029
-  llm_score: 85
-  recency_score: 41.27424423412174
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 64.4551969306573
-  llm_score: 75
-  recency_score: 43.95878004927231
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 3
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
   score: 62.66818095700273
@@ -70,20 +38,52 @@ related_articles:
   recency_score: 32.34317622051765
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 4
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 61.37183976476055
+  llm_score: 60
+  recency_score: 83.91695847094347
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 58.99557556485603
+  llm_score: 75
+  recency_score: 8.471241171564124
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 54.8114221898649
+  llm_score: 60
+  recency_score: 41.27424423412174
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: POSTER-BOY-of-CORRUPTION
   title: POSTER BOY OF CORRUPTION
-  score: 58.92608486729314
-  llm_score: 75
+  score: 43.54146948267775
+  llm_score: 50
   recency_score: 8.019551637405318
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 25.74803541797079
+  llm_score: 0
+  recency_score: 92.36223021681012
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 52.84172941100987
-  llm_score: 65
-  recency_score: 8.471241171564124
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 13.8937322679859
+  llm_score: 0
+  recency_score: 15.30925974190835
   length_score: 100
   category_score: 0
   rank: 10

@@ -9,81 +9,81 @@ authors:
 related_articles:
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 59.246225341980406
-  llm_score: 53
+  score: 72.78468688044195
+  llm_score: 75
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 1
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 52.60509376242285
-  llm_score: 52
-  recency_score: 58.93310945574846
+- slug: the-face-of-no
+  title: THE FACE OF NO
+  score: 64.13025844215932
+  llm_score: 85
+  recency_score: 1.8466798740354857
   length_score: 100
   category_score: 0
   rank: 2
 - slug: double-red-flags-faux-hope
   title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 48.711372544783465
-  llm_score: 54
+  score: 61.63444946786039
+  llm_score: 75
   recency_score: 25.623921541092447
   length_score: 100
   category_score: 0
   rank: 3
 - slug: howling-rains-passing-gas
   title: HOWLING RAINS PASSING GAS
-  score: 46.37743265584988
-  llm_score: 53
+  score: 59.91589419431143
+  llm_score: 75
   recency_score: 14.453312263024177
   length_score: 100
   category_score: 0
   rank: 4
 - slug: tick-tock
   title: TICK-TOCK
-  score: 46.35664458527408
-  llm_score: 56
+  score: 58.04895227758178
+  llm_score: 75
   recency_score: 2.318189804281508
   length_score: 100
   category_score: 0
   rank: 5
-- slug: free-speech
-  title: FREE SPEECH
-  score: 44.85937376584147
-  llm_score: 54
-  recency_score: 0.585929477969449
+- slug: big-head-gully-and-the-fruit-nuts
+  title: BIG HEAD GULLY AND THE FRUIT NUTS
+  score: 57.82864007450581
+  llm_score: 75
+  recency_score: 0.8861604842877041
   length_score: 100
   category_score: 0
   rank: 6
-- slug: the-face-of-no
-  title: THE FACE OF NO
-  score: 44.43795074985162
-  llm_score: 53
-  recency_score: 1.8466798740354857
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 44.431791544509494
-  llm_score: 53
-  recency_score: 1.8066450393116897
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: self-incrimination
   title: SELF INCRIMINATION
-  score: 44.2252620548969
-  llm_score: 53
+  score: 57.76372359335845
+  llm_score: 75
   recency_score: 0.464203356829811
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 44.184727872637815
-  llm_score: 53
+  score: 57.72318941109936
+  llm_score: 75
   recency_score: 0.20073117214574357
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 42.585637698355654
+  llm_score: 50
+  recency_score: 1.8066450393116897
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: free-speech
+  title: FREE SPEECH
+  score: 39.32091222737992
+  llm_score: 45
+  recency_score: 0.585929477969449
   length_score: 100
   category_score: 0
   rank: 10

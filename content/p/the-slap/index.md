@@ -11,17 +11,17 @@ alttags: Will Smith striking Chris Rock onstage at the 2022 Oscars, referenced i
 related_articles:
 - slug: the-black-eyes-of-alabama
   title: The Black Eyes of Alabama
-  score: 64.1343192781228
-  llm_score: 65
+  score: 70.28816543196896
+  llm_score: 75
   recency_score: 81.87307530779819
   length_score: 100
   category_score: 0
   rank: 1
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 55.13982752632596
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 66.67224640488053
   llm_score: 65
-  recency_score: 23.408878921118657
+  recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 2
@@ -33,14 +33,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 54.38384196495073
-  llm_score: 65
-  recency_score: 18.4949727721797
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: hatians-eating-cats
   title: Haitians Eating Cats
   score: 52.84889020553065
@@ -48,12 +40,20 @@ related_articles:
   recency_score: 8.517786335949154
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: the-pete-rose
   title: The Pete Rose
   score: 52.79957892926788
   llm_score: 65
   recency_score: 8.197263040241149
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: pure-kafka
+  title: PURE KAFKA
+  score: 45.909058295556726
+  llm_score: 50
+  recency_score: 23.408878921118657
   length_score: 100
   category_score: 0
   rank: 6
@@ -73,19 +73,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 33.835603977130724
+  llm_score: 30
+  recency_score: 24.93142585134965
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: the-180
   title: THE 180
   score: 31.41103984766181
   llm_score: 30
   recency_score: 9.17175900980176
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 26.672246404880518
-  llm_score: 0
-  recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 10

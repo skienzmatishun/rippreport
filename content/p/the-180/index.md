@@ -11,80 +11,80 @@ alttags: Kamala Harris on a Time magazine cover titled “Her Moment,” discuss
 related_articles:
 - slug: hatians-eating-cats
   title: Haitians Eating Cats
-  score: 71.97995595769126
-  llm_score: 75
+  score: 65.8261098038451
+  llm_score: 65
   recency_score: 92.86971372499306
   length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-155
-  title: What the hell is ESG?
-  score: 61.948762045400436
-  llm_score: 75
-  recency_score: 27.666953295102704
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 57.244854891576516
-  llm_score: 65
-  recency_score: 37.09155679524731
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: backstory-153
-  title: No Boomers
-  score: 55.645984100822766
-  llm_score: 65
-  recency_score: 26.69889665534791
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: offensive
-  title: Offensive
-  score: 52.9948386871229
-  llm_score: 60
-  recency_score: 29.466451466298754
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: what-the
   title: What the
-  score: 52.64860088239573
-  llm_score: 50
+  score: 61.87937011316496
+  llm_score: 65
   recency_score: 67.21590573557219
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 2
 - slug: the-lie-of-the-century
   title: The Lie of The Century
-  score: 49.93700793331091
-  llm_score: 50
+  score: 59.167777164080135
+  llm_score: 65
   recency_score: 49.59055156652082
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: offensive
+  title: Offensive
+  score: 56.071761764045974
+  llm_score: 65
+  recency_score: 29.466451466298754
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: backstory-155
+  title: What the hell is ESG?
+  score: 55.794915891554275
+  llm_score: 65
+  recency_score: 27.666953295102704
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 54.16793181465344
+  llm_score: 60
+  recency_score: 37.09155679524731
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 52.9728882559189
+  llm_score: 65
+  recency_score: 9.323773663472833
   length_score: 100
   category_score: 0
   rank: 7
 - slug: trump-n-bama
   title: Trump N Bama
-  score: 47.9673760180222
-  llm_score: 50
+  score: 44.89045294109913
+  llm_score: 45
   recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
   rank: 8
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 43.74211902514968
-  llm_score: 50
-  recency_score: 9.323773663472833
+- slug: backstory-153
+  title: No Boomers
+  score: 43.33829179313046
+  llm_score: 45
+  recency_score: 26.69889665534791
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alien-indictment
   title: Alien Indictment
-  score: 34.59582752003433
-  llm_score: 30
+  score: 37.67275059695741
+  llm_score: 35
   recency_score: 29.872878880223098
   length_score: 100
   category_score: 0

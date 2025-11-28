@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Bald eagle wearing a harness stands before Auburn University’s Samford Hall, related to reporting on local police incidents
 related_articles:
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 69.16784207494143
+  llm_score: 75
+  recency_score: 74.59097348711927
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: cover-up
+  title: COVER UP
+  score: 67.78135288548998
+  llm_score: 75
+  recency_score: 65.57879375568477
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 71.30785003490395
-  llm_score: 68
+  score: 64.07708080413472
+  llm_score: 75
   recency_score: 41.50102522687563
   length_score: 100
-  category_score: 100
-  rank: 1
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 70.50291813758275
-  llm_score: 67
-  recency_score: 40.26896789428779
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: rumors
-  title: RUMORS
-  score: 69.02365513511315
-  llm_score: 64
-  recency_score: 42.653758378235395
-  length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 3
 - slug: lee-county-no-justice-center
   title: LEE COUNTY NO-JUSTICE CENTER
-  score: 68.38426668185842
-  llm_score: 78
+  score: 60.38426668185842
+  llm_score: 65
   recency_score: 57.49773343207967
   length_score: 100
   category_score: 0
   rank: 4
-- slug: crazy
-  title: CRAZY
-  score: 63.38116878245495
-  llm_score: 65
-  recency_score: 1.9775970859570902
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 62.398611305710666
-  llm_score: 64
-  recency_score: 74.59097348711927
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 58.61538461538463
-  llm_score: 64
+  score: 59.23076923076924
+  llm_score: 65
   recency_score: 50
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 58.23466108695768
+  llm_score: 75
+  recency_score: 3.5252970652248186
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: crazy
+  title: CRAZY
+  score: 57.99655339783957
+  llm_score: 75
+  recency_score: 1.9775970859570902
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: justified
-  title: JUSTIFIED
-  score: 55.43489299260612
-  llm_score: 66
-  recency_score: 21.326804451939722
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 57.73368736835198
+  llm_score: 65
+  recency_score: 40.26896789428779
   length_score: 100
   category_score: 0
   rank: 8
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 53.722066313521374
-  llm_score: 64
-  recency_score: 18.193431037888864
+- slug: justified
+  title: JUSTIFIED
+  score: 54.8195083772215
+  llm_score: 65
+  recency_score: 21.326804451939722
   length_score: 100
   category_score: 0
   rank: 9
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 51.465430317726906
-  llm_score: 64
-  recency_score: 3.5252970652248186
+- slug: former-summerdale-police-chief-kevin-brock
+  title: Heart of Dixie Podcast Thanksgiving Special - Former Summerdale Police Chief Kevin Brock
+  score: 40.82695132145654
+  llm_score: 45
+  recency_score: 10.375183589467447
   length_score: 100
   category_score: 0
   rank: 10

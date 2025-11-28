@@ -8,11 +8,11 @@ authors:
 - admin
 alttags: Illustration of brown underwear symbolizing Alabama’s legal institutions protecting each other from accountability
 related_articles:
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 84.84631328411679
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 81.31940708799856
   llm_score: 95
-  recency_score: 96.50103634675902
+  recency_score: 73.57614607199059
   length_score: 100
   category_score: 0
   rank: 1
@@ -24,11 +24,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 78.77339786741247
-  llm_score: 95
-  recency_score: 57.02708613818104
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 78.69246713027063
+  llm_score: 85
+  recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 3
@@ -40,19 +40,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 75.16556093415241
-  llm_score: 85
-  recency_score: 73.57614607199059
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 76.87497878020136
+  llm_score: 95
+  recency_score: 44.68736207130882
   length_score: 100
   category_score: 0
   rank: 5
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 70.72113262635521
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 69.94037281520269
   llm_score: 85
-  recency_score: 44.68736207130882
+  recency_score: 39.61242329881746
   length_score: 100
   category_score: 0
   rank: 6
@@ -80,11 +80,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 63.78652666135655
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 60.49897606118083
   llm_score: 75
-  recency_score: 39.61242329881746
+  recency_score: 18.243344397675273
   length_score: 100
   category_score: 0
   rank: 10

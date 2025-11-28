@@ -12,33 +12,33 @@ alttags: The Guardian webpage announcing removal of a document related to Osama 
 related_articles:
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 74.21200607746702
-  llm_score: 62
+  score: 70.67354453900549
+  llm_score: 75
   recency_score: 84.37803950353559
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 69.55953821943812
-  llm_score: 63
-  recency_score: 50.13699842634772
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 2
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 62.330345865465915
-  llm_score: 63
-  recency_score: 78.14724812552835
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 63.97298356750134
+  llm_score: 75
+  recency_score: 40.82439318875856
   length_score: 100
   category_score: 0
   rank: 3
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 57.81913741365518
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 59.25184591174581
   llm_score: 65
-  recency_score: 40.82439318875856
+  recency_score: 50.13699842634772
   length_score: 100
   category_score: 0
   rank: 4
@@ -50,43 +50,43 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 57.384615384615394
-  llm_score: 62
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 57.033625959355234
-  llm_score: 63
-  recency_score: 43.718568735808944
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 52.73940649864701
-  llm_score: 62
-  recency_score: 19.806142241205503
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 51.266586581307806
-  llm_score: 63
+  score: 52.49735581207703
+  llm_score: 65
   recency_score: 6.232812778500628
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
 - slug: judicial-trick
   title: JUDICIAL TRICK
-  score: 50.112672653035276
-  llm_score: 62
+  score: 51.95882649918912
+  llm_score: 65
   recency_score: 2.7323722447292558
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 51.253422788542835
+  llm_score: 45
+  recency_score: 78.14724812552835
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 45.956702882432154
+  llm_score: 45
+  recency_score: 43.718568735808944
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 14.585560344800847
+  llm_score: 0
+  recency_score: 19.806142241205503
   length_score: 100
   category_score: 0
   rank: 10

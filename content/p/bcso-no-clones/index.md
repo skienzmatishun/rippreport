@@ -18,81 +18,81 @@ alttags: Sheriff candidates Lowery and Hoss Mack depicted in a grid within an ol
 related_articles:
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 84.24067660726527
+  score: 72.70221506880374
   llm_score: 75
   recency_score: 97.56439794722424
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 68.63478558647603
+  llm_score: 85
+  recency_score: 31.126106312094088
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 68.39189110160407
+  llm_score: 85
+  recency_score: 29.54729216042639
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 79.65274724576571
+  score: 68.11428570730418
   llm_score: 85
   recency_score: 27.742857097477103
   length_score: 100
-  category_score: 100
-  rank: 2
+  category_score: 0
+  rank: 4
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 77.43836946866598
+  score: 65.89990793020445
   llm_score: 85
   recency_score: 13.34940154632884
   length_score: 100
-  category_score: 100
-  rank: 3
+  category_score: 0
+  rank: 5
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 74.47252063700603
+  score: 62.93405909854449
   llm_score: 75
   recency_score: 34.071384140539074
   length_score: 100
-  category_score: 100
-  rank: 4
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 74.01940097109141
-  llm_score: 75
-  recency_score: 31.126106312094088
-  length_score: 100
-  category_score: 100
-  rank: 5
+  category_score: 0
+  rank: 6
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 73.87723896867162
+  score: 62.33877743021009
   llm_score: 75
   recency_score: 30.20205329636546
   length_score: 100
-  category_score: 100
-  rank: 6
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 73.77650648621946
-  llm_score: 75
-  recency_score: 29.54729216042639
-  length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 7
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
-  score: 73.32705370832447
+  score: 61.78859216986294
   llm_score: 75
   recency_score: 26.62584910410898
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 8
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 71.21266320589196
-  llm_score: 75
-  recency_score: 12.882310838297602
-  length_score: 100
-  category_score: 100
-  rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
   score: 60.221471044033706
   llm_score: 75
   recency_score: 16.439561786218995
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 59.67420166743042
+  llm_score: 75
+  recency_score: 12.882310838297602
   length_score: 100
   category_score: 0
   rank: 10

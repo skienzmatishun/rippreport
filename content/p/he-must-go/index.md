@@ -23,35 +23,35 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 52.12407742818842
-  llm_score: 50
-  recency_score: 63.80650328322465
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 62.67441030170197
+  llm_score: 70
+  recency_score: 52.383666961062694
   length_score: 100
   category_score: 0
   rank: 3
-- slug: january-22nd-qualifying-deadline
-  title: January 22nd Qualifying Deadline
-  score: 51.5198420007586
-  llm_score: 45
-  recency_score: 79.87897300493081
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 61.35484665895765
+  llm_score: 65
+  recency_score: 63.80650328322465
   length_score: 100
   category_score: 0
   rank: 4
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 44.220293716720725
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 47.932352511447235
   llm_score: 45
-  recency_score: 32.43190915868462
+  recency_score: 56.56029132440696
   length_score: 100
   category_score: 0
   rank: 5
-- slug: no-98-ethical-abortion
-  title: No 98 - Ethical Abortion
-  score: 41.77850635760108
-  llm_score: 35
-  recency_score: 56.56029132440696
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 42.28907276998937
+  llm_score: 30
+  recency_score: 79.87897300493081
   length_score: 100
   category_score: 0
   rank: 6
@@ -63,27 +63,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 38.05902568631735
-  llm_score: 30
-  recency_score: 52.383666961062694
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 38.55356046199424
+  llm_score: 35
+  recency_score: 35.59814300296249
   length_score: 100
   category_score: 0
   rank: 8
-- slug: backstory-podcast-no-92-a-vintage-year
-  title: A Vintage Year
-  score: 25.426853600686293
-  llm_score: 10
-  recency_score: 50.274548404460894
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 34.989524485951485
+  llm_score: 30
+  recency_score: 32.43190915868462
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 17.01509892353269
-  llm_score: 0
-  recency_score: 35.59814300296249
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 31.580699754532446
+  llm_score: 20
+  recency_score: 50.274548404460894
   length_score: 100
   category_score: 0
   rank: 10

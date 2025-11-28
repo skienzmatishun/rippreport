@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: ALDOT bridge construction over Pleasure Island in Alabama, central to a dispute detailed in this Bad Faith podcast episode
 related_articles:
-- slug: backstory-154
-  title: W.H.O. Calls The Plague
-  score: 42.91903224539597
-  llm_score: 27
-  recency_score: 95.97370959507373
+- slug: faux-tax-gas-tax
+  title: FAUX TAX, GAS TAX
+  score: 36.38265893279302
+  llm_score: 40
+  recency_score: 1.487283063154587
   length_score: 100
   category_score: 0
   rank: 1
-- slug: offensive
-  title: Offensive
-  score: 42.87863504466151
-  llm_score: 27
-  recency_score: 95.71112779029973
+- slug: scalped
+  title: Scalped
+  score: 32.940481926627164
+  llm_score: 30
+  recency_score: 19.113132523076512
   length_score: 100
   category_score: 0
   rank: 2
-- slug: not-a-hard-liquor
-  title: NOT A HARD LIQUOR
-  score: 40.74970389350742
-  llm_score: 27
-  recency_score: 81.87307530779819
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 32.940481926627164
+  llm_score: 30
+  recency_score: 19.113132523076512
   length_score: 100
   category_score: 0
   rank: 3
-- slug: the-180
-  title: THE 180
-  score: 33.108103541257826
-  llm_score: 28
-  recency_score: 28.202673018175854
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: scalped
-  title: Scalped
-  score: 32.325097311242544
-  llm_score: 29
-  recency_score: 19.113132523076512
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 31.70971269585793
-  llm_score: 28
-  recency_score: 19.113132523076512
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: the-pete-rose
-  title: The Pete Rose
-  score: 31.416330698830464
-  llm_score: 26
-  recency_score: 25.20614954239798
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 30.952575645350123
-  llm_score: 25
-  recency_score: 26.19174169477578
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: a-long-strange-day-jan-6-2021
   title: A long strange day Jan 6, 2021
-  score: 28.988694451870458
-  llm_score: 26
+  score: 28.373309836485845
+  llm_score: 25
   recency_score: 9.426513937157974
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 26.303647630011348
+  llm_score: 0
+  recency_score: 95.97370959507373
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: offensive
+  title: Offensive
+  score: 26.263250429276884
+  llm_score: 0
+  recency_score: 95.71112779029973
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: not-a-hard-liquor
+  title: NOT A HARD LIQUOR
+  score: 24.134319278122803
+  llm_score: 0
+  recency_score: 81.87307530779819
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-180
+  title: THE 180
+  score: 15.877334310488594
+  llm_score: 0
+  recency_score: 28.202673018175854
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: the-pete-rose
+  title: The Pete Rose
+  score: 15.416330698830459
+  llm_score: 0
+  recency_score: 25.20614954239798
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: faux-tax-gas-tax
-  title: FAUX TAX, GAS TAX
-  score: 28.38265893279302
-  llm_score: 27
-  recency_score: 1.487283063154587
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 12.596752895574333
+  llm_score: 0
+  recency_score: 6.878893821233162
   length_score: 100
   category_score: 0
   rank: 10

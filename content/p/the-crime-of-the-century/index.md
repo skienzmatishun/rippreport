@@ -10,67 +10,67 @@ authors:
 - admin
 alttags: President Biden and Vice President Harris featured in Backstory Podcast episode discussing current events and Alabama poli...
 related_articles:
-- slug: hanky-panky-at-the-po-po
-  title: Hanky Panky at the Po Po
-  score: 68.2828733147914
-  llm_score: 60
-  recency_score: 53.838676546144015
+- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
+  title: Assassins Drones and Political Corruption
+  score: 52.64587955402373
+  llm_score: 45
+  recency_score: 87.19821710115417
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: not-a-hard-liquor
-  title: NOT A HARD LIQUOR
-  score: 45.71703220487544
-  llm_score: 50
-  recency_score: 22.160709331690267
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: scalped
-  title: Scalped
-  score: 44.6042592345833
-  llm_score: 30
-  recency_score: 94.92768502479139
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: catalyst-first-christian-church-of-hypocrites-of-baldwin-county
   title: CATALYST FIRST CHRISTIAN CHURCH OF HYPOCRITES OF BALDWIN COUNTY
-  score: 42.32955887589853
-  llm_score: 50
+  score: 51.560328106667754
+  llm_score: 65
   recency_score: 0.1421326933403627
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 41.49120992090072
+  llm_score: 45
+  recency_score: 14.692864485854656
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: scalped
+  title: Scalped
+  score: 38.45041308073714
+  llm_score: 20
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: america-the-golden-door
-  title: AMERICA - THE GOLDEN DOOR
-  score: 42.32811130593385
-  llm_score: 50
-  recency_score: 0.1327234885700072
+- slug: hanky-panky-at-the-po-po
+  title: Hanky Panky at the Po Po
+  score: 38.282873314791395
+  llm_score: 30
+  recency_score: 53.838676546144015
   length_score: 100
   category_score: 0
   rank: 5
-- slug: protester-pride
-  title: PROTESTER PRIDE
-  score: 42.31962735773183
-  llm_score: 50
-  recency_score: 0.07757782525687204
+- slug: not-a-hard-liquor
+  title: NOT A HARD LIQUOR
+  score: 33.40933989718312
+  llm_score: 30
+  recency_score: 22.160709331690267
   length_score: 100
   category_score: 0
   rank: 6
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 39.49389447625105
-  llm_score: 45
-  recency_score: 1.7103140956317624
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 30.666071658882068
+  llm_score: 30
+  recency_score: 4.329465782733408
   length_score: 100
   category_score: 0
   rank: 7
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 38.41428684397764
-  llm_score: 40
-  recency_score: 14.692864485854656
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 30.263125245481817
+  llm_score: 30
+  recency_score: 1.7103140956317624
   length_score: 100
   category_score: 0
   rank: 8
@@ -82,11 +82,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
-  title: Assassins Drones and Political Corruption
-  score: 24.95357186171603
-  llm_score: 0
-  recency_score: 87.19821710115417
+- slug: america-the-golden-door
+  title: AMERICA - THE GOLDEN DOOR
+  score: 30.020418998241546
+  llm_score: 30
+  recency_score: 0.1327234885700072
   length_score: 100
   category_score: 0
   rank: 10

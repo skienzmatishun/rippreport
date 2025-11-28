@@ -11,81 +11,81 @@ alttags: Cartoon water droplet mascot labeled Crystal Clean, representing Baldwi
 related_articles:
 - slug: stinky-business
   title: STINKY BUSINESS
-  score: 77.26540372791091
-  llm_score: 87
+  score: 76.03463449714167
+  llm_score: 85
   recency_score: 79.22512423142078
   length_score: 100
   category_score: 0
   rank: 1
 - slug: priorities
   title: Priorities
-  score: 66.39617317202126
-  llm_score: 71
+  score: 68.85771163355973
+  llm_score: 75
   recency_score: 72.57512561813819
   length_score: 100
   category_score: 0
   rank: 2
-- slug: development-chaos
-  title: DEVELOPMENT CHAOS
-  score: 65.58986161555598
-  llm_score: 74
-  recency_score: 55.33410050111382
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: happy-days
   title: HAPPY DAYS
-  score: 63.34403219961337
-  llm_score: 69
+  score: 67.03633989192106
+  llm_score: 75
   recency_score: 60.73620929748681
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: baldwin-county-sewer-regulation-a-litmus-test
-  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
-  score: 62.213909887540616
-  llm_score: 81
-  recency_score: 5.390414269013892
+  rank: 3
+- slug: development-chaos
+  title: DEVELOPMENT CHAOS
+  score: 66.2052462309406
+  llm_score: 75
+  recency_score: 55.33410050111382
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: black-cloud
   title: BLACK CLOUD
-  score: 58.770120293001
-  llm_score: 66
+  score: 64.30858183146253
+  llm_score: 75
   recency_score: 43.0057819045064
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: straw-man
-  title: STRAW MAN
-  score: 57.24446674225582
-  llm_score: 73
-  recency_score: 5.089033824662729
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 56.09598792939885
-  llm_score: 66
-  recency_score: 25.623921541092447
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 5
 - slug: going-down
   title: GOING DOWN
-  score: 54.91776852359399
-  llm_score: 69
+  score: 58.610076215901685
+  llm_score: 75
   recency_score: 5.965495403360867
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
+- slug: baldwin-county-sewer-regulation-a-litmus-test
+  title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
+  score: 58.52160219523292
+  llm_score: 75
+  recency_score: 5.390414269013892
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: straw-man
+  title: STRAW MAN
+  score: 58.47523597302505
+  llm_score: 75
+  recency_score: 5.089033824662729
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: dear-congressman-bradley-byrne
   title: Dear Congressman Bradley Byrne
-  score: 52.18523971270927
-  llm_score: 66
+  score: 57.72370125117081
+  llm_score: 75
   recency_score: 0.20405813261015537
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 55.48060331401423
+  llm_score: 65
+  recency_score: 25.623921541092447
   length_score: 100
   category_score: 0
   rank: 10

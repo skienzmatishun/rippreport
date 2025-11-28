@@ -8,70 +8,38 @@ authors:
 - admin
 rumble: v39h1qo
 related_articles:
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 65.56637703093661
-  llm_score: 63
-  recency_score: 99.18145070108791
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: the-180
-  title: THE 180
-  score: 56.01408566080729
-  llm_score: 63
-  recency_score: 37.09155679524731
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 55.607203478752226
-  llm_score: 63
-  recency_score: 34.44682261188939
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 53.985098437070846
-  llm_score: 61
-  recency_score: 31.903139840960442
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: he-must-go
   title: He Must Go
-  score: 53.4447582363776
-  llm_score: 62
+  score: 55.29091208253145
+  llm_score: 65
   recency_score: 24.39092853645434
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 52.32879786339016
-  llm_score: 60
-  recency_score: 25.13718611203594
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 1
 - slug: bsp118
   title: The Smokey and The Bandit Run
-  score: 51.99449523200493
-  llm_score: 60
+  score: 55.071418308928
+  llm_score: 65
   recency_score: 22.96421900803196
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 2
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 54.489453954013534
+  llm_score: 45
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: backstory-podcast-no-93-delta-hits-baldwin-county
   title: Delta hits Baldwin County
-  score: 51.015850862372254
-  llm_score: 61
+  score: 53.477389323910714
+  llm_score: 65
   recency_score: 12.603030605419562
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 4
 - slug: star
   title: Special Guest State Auditor Jim Zeigler
   score: 50.69734244114247
@@ -79,12 +47,44 @@ related_articles:
   recency_score: 14.532725867425949
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 44.530280401829145
+  llm_score: 45
+  recency_score: 34.44682261188939
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 49.06314519783117
-  llm_score: 59
+  score: 40.447760582446556
+  llm_score: 45
   recency_score: 7.9104437859025545
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-180
+  title: THE 180
+  score: 35.706393353114976
+  llm_score: 30
+  recency_score: 37.09155679524731
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 34.908175360147766
+  llm_score: 30
+  recency_score: 31.903139840960442
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 33.86725940185169
+  llm_score: 30
+  recency_score: 25.13718611203594
   length_score: 100
   category_score: 0
   rank: 10

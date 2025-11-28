@@ -14,46 +14,14 @@ authors:
 - admin
 alttags: Book cover titled How to Become Sheriff for Dummies, highlighting Fear and Intimidation included! FREE! referencing ar...
 related_articles:
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 90.31250161398609
-  llm_score: 85
-  recency_score: 97.03126049090956
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 89.51654151317419
+  score: 77.97807997471266
   llm_score: 85
   recency_score: 91.85751983563217
   length_score: 100
-  category_score: 100
-  rank: 2
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 89.02207055443304
-  llm_score: 85
-  recency_score: 88.64345860381478
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: no-justice
-  title: NO JUSTICE
-  score: 84.98818757450572
-  llm_score: 85
-  recency_score: 62.42321923428709
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 80.83132586411374
-  llm_score: 85
-  recency_score: 35.40361811673922
-  length_score: 100
-  category_score: 100
-  rank: 5
+  category_score: 0
+  rank: 1
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
   score: 72.22029757376049
@@ -61,7 +29,7 @@ related_articles:
   recency_score: 54.43193422944308
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 2
 - slug: justified
   title: JUSTIFIED
   score: 71.92728932846137
@@ -69,28 +37,60 @@ related_articles:
   recency_score: 52.527380634998835
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 71.82307073105022
+  rank: 3
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 71.32976286212536
   llm_score: 75
-  recency_score: 16.84995975182637
+  recency_score: 88.64345860381478
   length_score: 100
-  category_score: 100
-  rank: 8
+  category_score: 0
+  rank: 4
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 69.2928643256522
+  llm_score: 85
+  recency_score: 35.40361811673922
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: no-justice
+  title: NO JUSTICE
+  score: 67.29587988219802
+  llm_score: 75
+  recency_score: 62.42321923428709
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 66.46634776783225
+  llm_score: 65
+  recency_score: 97.03126049090956
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
-  score: 71.53846153846155
-  llm_score: 85
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: deal-with-the-devil
   title: DEAL WITH THE DEVIL
   score: 65.32446785568045
   llm_score: 85
   recency_score: 9.609041061922857
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 60.28460919258869
+  llm_score: 75
+  recency_score: 16.84995975182637
   length_score: 100
   category_score: 0
   rank: 10

@@ -16,14 +16,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: last-chance
-  title: LAST CHANCE
-  score: 72.950992415552
-  llm_score: 75
-  recency_score: 99.18145070108791
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: catalyst-bullies
   title: CATALYST BULLIES
   score: 66.48865050262135
@@ -31,12 +23,20 @@ related_articles:
   recency_score: 17.176228267038702
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: catalyst-attack
   title: CATALYST ATTACK
   score: 66.46702036476606
   llm_score: 85
   recency_score: 17.035632370979314
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 66.19498061053923
+  llm_score: 85
+  recency_score: 15.267373968504938
   length_score: 100
   category_score: 0
   rank: 4
@@ -48,11 +48,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 65.88868525829436
+- slug: end-the-good-ole-boy-culture-in-baldwin-county
+  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+  score: 64.43174984929325
   llm_score: 85
-  recency_score: 13.276454178913294
+  recency_score: 3.806374020406067
   length_score: 100
   category_score: 0
   rank: 6
@@ -64,27 +64,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: catalyst-stacking-the-deck
-  title: CATALYST STACKING THE DECK
-  score: 60.04113445669309
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 60.06051943732871
   llm_score: 75
-  recency_score: 15.267373968504938
+  recency_score: 15.39337634263649
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 59.2368658264105
-  llm_score: 75
-  recency_score: 10.039627871668154
-  length_score: 100
-  category_score: 0
-  rank: 9
 - slug: catalyst-birds-of-the-same-feather
   title: CATALYST  “BIRDS OF THE SAME FEATHER”
   score: 57.946226281087604
   llm_score: 75
   recency_score: 1.6504708270693496
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 51.870585025845685
+  llm_score: 65
+  recency_score: 2.1588026679968904
   length_score: 100
   category_score: 0
   rank: 10

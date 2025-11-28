@@ -7,11 +7,11 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 71.9051795324712
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 75.10370640495057
   llm_score: 85
-  recency_score: 52.383666961062694
+  recency_score: 73.17409163217867
   length_score: 100
   category_score: 0
   rank: 1
@@ -23,14 +23,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 68.94986025110443
-  llm_score: 75
-  recency_score: 73.17409163217867
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: alabama-shuffle
   title: ALABAMA SHUFFLE
   score: 68.17584724293476
@@ -38,12 +30,20 @@ related_articles:
   recency_score: 68.14300707907584
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: license-to-steal
   title: LICENSE TO STEAL
   score: 66.02069118585678
   llm_score: 75
   recency_score: 54.13449270806896
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 65.75133337862505
+  llm_score: 75
+  recency_score: 52.383666961062694
   length_score: 100
   category_score: 0
   rank: 5
@@ -71,19 +71,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 57.85343893074059
+  llm_score: 75
+  recency_score: 1.0473530498137102
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: little-choice
   title: LITTLE CHOICE
   score: 57.85037818602408
   llm_score: 75
   recency_score: 1.0274582091564293
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: look-in-the-mirror
-  title: LOOK IN THE MIRROR
-  score: 42.46882354612519
-  llm_score: 50
-  recency_score: 1.0473530498137102
   length_score: 100
   category_score: 0
   rank: 10

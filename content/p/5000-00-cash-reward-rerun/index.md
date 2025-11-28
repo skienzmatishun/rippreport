@@ -11,14 +11,6 @@ tags:
 authors:
 - ripp-report
 related_articles:
-- slug: police-report
-  title: POLICE REPORT
-  score: 75.39600730208427
-  llm_score: 85
-  recency_score: 0.07404746354764352
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: 5000-00-cash-reward
   title: $5000.00 CASH REWARD
   score: 70.00315179648554
@@ -26,31 +18,15 @@ related_articles:
   recency_score: 0.020486677155934722
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: police-report
+  title: POLICE REPORT
+  score: 63.85754576362273
+  llm_score: 85
+  recency_score: 0.07404746354764352
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 64.2829556055972
-  llm_score: 85
-  recency_score: 2.839211436381685
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: bonus-money
-  title: BONUS MONEY
-  score: 63.852561938650595
-  llm_score: 85
-  recency_score: 0.041652601228757115
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: airport-diversion
-  title: AIRPORT DIVERSION
-  score: 63.85105302933526
-  llm_score: 85
-  recency_score: 0.031844690679118465
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: listening-not-reading
   title: LISTENING NOT READING
   score: 63.84957563813163
@@ -58,7 +34,7 @@ related_articles:
   recency_score: 0.022241647855521705
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 3
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
   score: 63.84932296015905
@@ -66,28 +42,52 @@ related_articles:
   recency_score: 0.020599241033720052
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 4
 - slug: caught-trap-like-rat
   title: CAUGHT IN A TRAP LIKE A RAT
-  score: 63.849262761720546
-  llm_score: 85
+  score: 60.772339684797466
+  llm_score: 80
   recency_score: 0.020207951183464034
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 63.84920370677262
-  llm_score: 85
-  recency_score: 0.019824094021949453
+  rank: 5
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 58.12910945175104
+  llm_score: 75
+  recency_score: 2.839211436381685
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
 - slug: no-radar
   title: NO RADAR
   score: 57.895691707159116
   llm_score: 75
   recency_score: 1.3219960965341453
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 57.69871578480444
+  llm_score: 75
+  recency_score: 0.041652601228757115
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: airport-diversion
+  title: AIRPORT DIVERSION
+  score: 57.69720687548911
+  llm_score: 75
+  recency_score: 0.031844690679118465
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 57.69535755292647
+  llm_score: 75
+  recency_score: 0.019824094021949453
   length_score: 100
   category_score: 0
   rank: 10

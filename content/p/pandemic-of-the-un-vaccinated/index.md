@@ -7,11 +7,11 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: dollars-and-lives
-  title: DOLLARS AND LIVES
-  score: 65.4268536006863
+- slug: jackass-jack
+  title: JACKASS JACK
+  score: 65.25917360836101
   llm_score: 75
-  recency_score: 50.274548404460894
+  recency_score: 49.18462845434644
   length_score: 100
   category_score: 0
   rank: 1
@@ -23,67 +23,67 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: the-fairhope-jester
-  title: THE FAIRHOPE JESTER
-  score: 61.68882298104007
-  llm_score: 75
-  recency_score: 25.977349376760323
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: self-incrimination
-  title: SELF INCRIMINATION
-  score: 57.93137370712699
-  llm_score: 75
-  recency_score: 1.5539290963253303
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: jackass-jack
-  title: JACKASS JACK
-  score: 56.02840437759178
-  llm_score: 60
-  recency_score: 49.18462845434644
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 54.86382808670603
-  llm_score: 60
-  recency_score: 41.61488256358909
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: catalyst-missing-in-action
-  title: CATALYST MISSING IN ACTION
-  score: 54.26251077255647
-  llm_score: 60
-  recency_score: 37.70632002161693
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: pissed-on-or-pissed-off
-  title: PISSED ON OR PISSED OFF
-  score: 52.48001257039105
-  llm_score: 60
-  recency_score: 26.120081707541715
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 49.43365865481714
-  llm_score: 60
+  score: 58.66442788558637
+  llm_score: 75
   recency_score: 6.318781256311327
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 3
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 57.9407511636291
+  llm_score: 65
+  recency_score: 41.61488256358909
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: cut-nose-off-spite-face
   title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 11.744086676929113
-  llm_score: 0
+  score: 57.89793283077528
+  llm_score: 75
   recency_score: 1.3365634000392395
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-missing-in-action
+  title: CATALYST MISSING IN ACTION
+  score: 57.33943384947954
+  llm_score: 65
+  recency_score: 37.70632002161693
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: the-fairhope-jester
+  title: THE FAIRHOPE JESTER
+  score: 52.458053750270835
+  llm_score: 60
+  recency_score: 25.977349376760323
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 48.70060447635775
+  llm_score: 60
+  recency_score: 1.5539290963253303
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: dollars-and-lives
+  title: DOLLARS AND LIVES
+  score: 46.96531513914784
+  llm_score: 45
+  recency_score: 50.274548404460894
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: pissed-on-or-pissed-off
+  title: PISSED ON OR PISSED OFF
+  score: 46.326166416544886
+  llm_score: 50
+  recency_score: 26.120081707541715
   length_score: 100
   category_score: 0
   rank: 10

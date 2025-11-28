@@ -16,30 +16,46 @@ authors:
 - admin
 alttags: Cartoon leprechaun raising a mug, possibly symbolizing unproductive or corrupt Fairhope council members discussed in the R...
 related_articles:
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 72.82609255872669
+- slug: mcsharry-madness
+  title: McSHARRY MADNESS
+  score: 65.4268536006863
   llm_score: 75
-  recency_score: 98.36960163172333
+  recency_score: 50.274548404460894
   length_score: 100
   category_score: 0
   rank: 1
-- slug: one-woman
-  title: ONE WOMAN
-  score: 59.9465638700503
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 64.39983934821058
   llm_score: 75
-  recency_score: 14.652665155326813
+  recency_score: 43.598955763368686
   length_score: 100
   category_score: 0
   rank: 2
-- slug: where-is-justice
-  title: WHERE IS JUSTICE?
-  score: 57.78481686609387
-  llm_score: 65
-  recency_score: 40.601309629610085
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 63.59532332795745
+  llm_score: 60
+  recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 3
+- slug: boycott-mcsharry
+  title: BOYCOTT McSHARRY
+  score: 61.57017685267663
+  llm_score: 75
+  recency_score: 25.20614954239798
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: mcsharrys-old-flower-handshake
+  title: McSHARRY’S OLD FLOWER HANDSHAKE
+  score: 60.11963958267825
+  llm_score: 75
+  recency_score: 15.777657287408536
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: judicial-trick
   title: JUDICIAL TRICK
   score: 57.66616514311077
@@ -47,7 +63,15 @@ related_articles:
   recency_score: 39.83007343021991
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 6
+- slug: one-woman
+  title: ONE WOMAN
+  score: 53.79271771620414
+  llm_score: 65
+  recency_score: 14.652665155326813
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: one-woman-2
   title: ONE WOMAN
   score: 50.791138920911315
@@ -55,44 +79,20 @@ related_articles:
   recency_score: 15.142402985923455
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 8
 - slug: barstool
   title: BARSTOOL
-  score: 40.766887177548874
-  llm_score: 45
+  score: 31.53611794677964
+  llm_score: 30
   recency_score: 9.984766654067629
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 38.581178044216706
-  llm_score: 40
-  recency_score: 15.777657287408536
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 33.6306085789798
-  llm_score: 25
-  recency_score: 43.598955763368686
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: mcsharry-madness
-  title: McSHARRY MADNESS
-  score: 31.580699754532446
-  llm_score: 20
-  recency_score: 50.274548404460894
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: boycott-mcsharry
-  title: BOYCOTT McSHARRY
-  score: 15.416330698830459
+- slug: where-is-justice
+  title: WHERE IS JUSTICE?
+  score: 17.784816866093863
   llm_score: 0
-  recency_score: 25.20614954239798
+  recency_score: 40.601309629610085
   length_score: 100
   category_score: 0
   rank: 10

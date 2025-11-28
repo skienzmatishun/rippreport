@@ -26,12 +26,20 @@ related_articles:
   rank: 2
 - slug: self-incrimination
   title: SELF INCRIMINATION
-  score: 57.9710156212881
-  llm_score: 75
+  score: 64.12486177513425
+  llm_score: 85
   recency_score: 1.811601538372569
   length_score: 100
   category_score: 0
   rank: 3
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 62.98599319997864
+  llm_score: 60
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
   score: 57.882748698181025
@@ -39,7 +47,7 @@ related_articles:
   recency_score: 1.2378665381765555
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 5
 - slug: fairhope-citizens-citizens-citizens
   title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
   score: 57.87210105736746
@@ -47,44 +55,36 @@ related_articles:
   recency_score: 1.1686568728883742
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 57.03012398239331
-  llm_score: 65
-  recency_score: 35.69580588555647
-  length_score: 100
-  category_score: 0
   rank: 6
-- slug: captain-jack-at-the-controls
-  title: CAPTAIN JACK AT THE CONTROLS
-  score: 56.21594580371498
-  llm_score: 70
-  recency_score: 10.403647724147305
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: you-dont-know-jack
   title: YOU DON’T KNOW JACK
-  score: 39.39101997282846
-  llm_score: 45
+  score: 57.85255843436693
+  llm_score: 75
   recency_score: 1.0416298233849144
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: captain-jack-at-the-controls
+  title: CAPTAIN JACK AT THE CONTROLS
+  score: 50.06209964986883
+  llm_score: 60
+  recency_score: 10.403647724147305
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 27.756927977773067
-  llm_score: 25
-  recency_score: 5.420031855524929
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 44.722431674701006
+  llm_score: 45
+  recency_score: 35.69580588555647
   length_score: 100
   category_score: 0
   rank: 9
-- slug: no-qualifications
-  title: NO QUALIFICATIONS
-  score: 26.062916276901703
-  llm_score: 0
-  recency_score: 94.40895579986105
+- slug: hi-jack-ed
+  title: Hi-JACK-ed
+  score: 27.099455049741433
+  llm_score: 25
+  recency_score: 1.1464578233192855
   length_score: 100
   category_score: 0
   rank: 10

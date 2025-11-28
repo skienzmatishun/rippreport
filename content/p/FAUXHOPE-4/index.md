@@ -15,14 +15,6 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 69.33781629008563
-  llm_score: 85
-  recency_score: 35.69580588555647
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: round-house-blockheads
   title: ROUND HOUSE SQUARE HEADS
   score: 65.3846153846154
@@ -30,20 +22,28 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 65.13169045841039
+  llm_score: 85
+  recency_score: 8.355987979667463
+  length_score: 100
+  category_score: 0
   rank: 2
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 63.18397013623947
+  llm_score: 75
+  recency_score: 35.69580588555647
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
   score: 61.139215695149005
   llm_score: 75
   recency_score: 22.404902018468416
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 58.97784430456424
-  llm_score: 75
-  recency_score: 8.355987979667463
   length_score: 100
   category_score: 0
   rank: 4
@@ -63,6 +63,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
+- slug: double-red-flags-faux-hope
+  title: DOUBLE RED FLAGS - FAUX HOPE
+  score: 57.879131204092346
+  llm_score: 75
+  recency_score: 1.214352826600136
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
   score: 57.727337234959364
@@ -70,7 +78,7 @@ related_articles:
   recency_score: 0.22769202723574633
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 8
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
   score: 57.700199149626314
@@ -78,20 +86,12 @@ related_articles:
   recency_score: 0.051294472570959884
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: elephant-in-a-volkswagen
   title: ELEPHANT IN A VOLKSWAGEN
   score: 57.69859406082687
   llm_score: 75
   recency_score: 0.04086139537457567
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: double-red-flags-faux-hope
-  title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 51.725285050246185
-  llm_score: 65
-  recency_score: 1.214352826600136
   length_score: 100
   category_score: 0
   rank: 10

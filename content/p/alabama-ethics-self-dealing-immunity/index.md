@@ -25,22 +25,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 71.67020891114637
-  llm_score: 75
-  recency_score: 90.85635792245131
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 64.44876284168362
-  llm_score: 65
-  recency_score: 83.91695847094347
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
   score: 63.36751864588943
@@ -48,7 +32,7 @@ related_articles:
   recency_score: 36.88887119828122
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
   score: 63.30785174565525
@@ -56,27 +40,43 @@ related_articles:
   recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 55.71406303956245
+  llm_score: 65
+  recency_score: 27.14140975715586
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 53.20867044960791
+  llm_score: 45
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 49.62953020719442
-  llm_score: 60
-  recency_score: 7.591946346763673
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 52.14107053399132
+  llm_score: 45
+  recency_score: 83.91695847094347
   length_score: 100
   category_score: 0
   rank: 7
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 37.25252457802399
-  llm_score: 35
-  recency_score: 27.14140975715586
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 49.49688674109498
+  llm_score: 60
+  recency_score: 6.729763817117284
   length_score: 100
   category_score: 0
   rank: 8
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 34.17058583629461
-  llm_score: 35
+  score: 43.40135506706385
+  llm_score: 50
   recency_score: 7.108807935914934
   length_score: 100
   category_score: 0

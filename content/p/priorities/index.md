@@ -7,14 +7,6 @@ authors:
 - admin
 alttags: Aerial view of Fort Morgan sewage treatment plant; public hearing scheduled over expansion proposal
 related_articles:
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 78.07657437416611
-  llm_score: 75
-  recency_score: 57.49773343207967
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: stinky-business
   title: STINKY BUSINESS
   score: 77.93941535829399
@@ -22,36 +14,44 @@ related_articles:
   recency_score: 91.60619982891085
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 70.75346678180895
+  llm_score: 95
+  recency_score: 4.897534081758149
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: stinking-ticking-time-bomb
-  title: STINKING TICKING TIME BOMB
-  score: 75.01155778740589
-  llm_score: 85
-  recency_score: 72.57512561813819
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 70.56728671580673
+  llm_score: 75
+  recency_score: 83.68736365274363
   length_score: 100
   category_score: 0
   rank: 3
-- slug: bsp-128
-  title: Big News
-  score: 65.78701913533463
-  llm_score: 65
-  recency_score: 92.61562437967505
+- slug: stinking-ticking-time-bomb
+  title: STINKING TICKING TIME BOMB
+  score: 68.85771163355973
+  llm_score: 75
+  recency_score: 72.57512561813819
   length_score: 100
   category_score: 0
   rank: 4
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 66.53811283570458
+  llm_score: 75
+  recency_score: 57.49773343207967
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: baldwin-county-sewer-regulation-a-litmus-test
   title: BALDWIN COUNTY SEWER REGULATION—A LITMUS TEST
   score: 64.98882428022053
   llm_score: 85
   recency_score: 7.427357821433388
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 64.41344056196057
-  llm_score: 65
-  recency_score: 83.68736365274363
   length_score: 100
   category_score: 0
   rank: 6
@@ -79,11 +79,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 58.445774474116654
-  llm_score: 75
-  recency_score: 4.897534081758149
+- slug: bsp-128
+  title: Big News
+  score: 53.47932682764233
+  llm_score: 45
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 10

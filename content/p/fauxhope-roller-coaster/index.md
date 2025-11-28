@@ -11,25 +11,25 @@ alttags: Man in a red boat waves enthusiastically near waterfront development de
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE
-  score: 66.58671603872746
-  llm_score: 75
+  score: 72.7405621925736
+  llm_score: 85
   recency_score: 57.813654251728394
   length_score: 100
   category_score: 0
   rank: 1
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 69.33781629008563
+  llm_score: 85
+  recency_score: 35.69580588555647
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: pied-piper
   title: PIED PIPER
   score: 64.23647056950882
   llm_score: 75
   recency_score: 42.537058701807275
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: got-fleas
-  title: GOT FLEAS
-  score: 63.18397013623947
-  llm_score: 75
-  recency_score: 35.69580588555647
   length_score: 100
   category_score: 0
   rank: 3
@@ -49,6 +49,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
+- slug: truth
+  title: TRUTH
+  score: 60.42312483970151
+  llm_score: 75
+  recency_score: 17.750311458059702
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT
   score: 60.25635550650826
@@ -56,7 +64,7 @@ related_articles:
   recency_score: 16.666310792303566
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 7
 - slug: invitation
   title: INVITATION
   score: 60.242344351227295
@@ -64,7 +72,7 @@ related_articles:
   recency_score: 16.575238282977313
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 8
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
   score: 60.20076859514981
@@ -72,20 +80,12 @@ related_articles:
   recency_score: 16.30499586847368
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
   score: 59.578835257439586
   llm_score: 75
   recency_score: 12.262429173357202
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: truth
-  title: TRUTH
-  score: 54.26927868585535
-  llm_score: 65
-  recency_score: 17.750311458059702
   length_score: 100
   category_score: 0
   rank: 10

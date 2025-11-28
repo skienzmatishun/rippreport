@@ -9,83 +9,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 71.34858234643686
-  llm_score: 73
-  recency_score: 96.76578525183945
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 75.01155778740589
+  llm_score: 85
+  recency_score: 72.57512561813819
   length_score: 100
   category_score: 0
   rank: 1
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 65.97602033793841
-  llm_score: 71
-  recency_score: 69.84413219659965
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 72.57935157720608
+  llm_score: 75
+  recency_score: 96.76578525183945
   length_score: 100
   category_score: 0
   rank: 2
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 65.78078855663665
-  llm_score: 70
-  recency_score: 72.57512561813819
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 68.43755879947688
+  llm_score: 75
+  recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 3
 - slug: round-house-blockheads
   title: ROUND HOUSE SQUARE HEADS
-  score: 61.69230769230771
-  llm_score: 69
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 4
 - slug: fauxhope-3
   title: FAUXHOPE
-  score: 61.42379785439628
-  llm_score: 73
+  score: 62.65456708516551
+  llm_score: 75
   recency_score: 32.254686053575696
   length_score: 100
   category_score: 0
   rank: 5
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 59.15520221117755
-  llm_score: 73
+  score: 60.385971441946786
+  llm_score: 75
   recency_score: 17.508814372654022
   length_score: 100
   category_score: 0
   rank: 6
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 58.293518623753265
-  llm_score: 72
+  score: 60.13967246990711
+  llm_score: 75
   recency_score: 15.90787105439613
   length_score: 100
   category_score: 0
   rank: 7
 - slug: fauxhope
   title: FAUXHOPE
-  score: 55.50701234414562
-  llm_score: 68
+  score: 59.814704651837936
+  llm_score: 75
   recency_score: 13.795580236946487
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 54.056579336328454
-  llm_score: 69
-  recency_score: 0.36776568613484334
+- slug: FAUXHOPE-4
+  title: FAUXHOPE
+  score: 59.46362617272002
+  llm_score: 75
+  recency_score: 11.51357012268003
   length_score: 100
   category_score: 0
   rank: 9
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 53.59364859716961
-  llm_score: 68
-  recency_score: 1.3587158816024008
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 57.74888702863615
+  llm_score: 75
+  recency_score: 0.36776568613484334
   length_score: 100
   category_score: 0
   rank: 10

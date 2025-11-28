@@ -7,11 +7,11 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 69.3900447163385
-  llm_score: 75
-  recency_score: 76.03529065620016
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 36.84763048805486
+  llm_score: 25
+  recency_score: 64.50959817235656
   length_score: 100
   category_score: 0
   rank: 1
@@ -39,11 +39,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 23.660338636233934
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 23.236198562492334
   llm_score: 0
-  recency_score: 78.79220113552056
+  recency_score: 76.03529065620016
   length_score: 100
   category_score: 0
   rank: 5
@@ -55,14 +55,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 21.463015103439474
-  llm_score: 0
-  recency_score: 64.50959817235656
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: january-22nd-qualifying-deadline
   title: January 22nd Qualifying Deadline
   score: 21.22129247308204
@@ -70,7 +62,7 @@ related_articles:
   recency_score: 62.93840107503325
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: he-must-go
   title: He Must Go
   score: 19.27300744684014
@@ -78,12 +70,20 @@ related_articles:
   recency_score: 50.274548404460894
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
   score: 15.179511600670555
   llm_score: 0
   recency_score: 23.666825404358608
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 12.140323065703827
+  llm_score: 0
+  recency_score: 3.9120999270748786
   length_score: 100
   category_score: 0
   rank: 10

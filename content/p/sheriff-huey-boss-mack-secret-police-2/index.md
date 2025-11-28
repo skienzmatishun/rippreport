@@ -9,84 +9,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 86.43092237063267
-  llm_score: 100
-  recency_score: 11.800995409112343
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 71.60191934592814
+  llm_score: 85
+  recency_score: 50.412475748532785
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
 - slug: cameras
   title: CAMERAS
-  score: 42.92092783421588
-  llm_score: 25
+  score: 68.30554321883127
+  llm_score: 85
   recency_score: 28.986030922403184
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 2
-- slug: homeland-securitys-disinformation-governance-board
-  title: Homeland Security’s Disinformation Governance Board
-  score: 24.674663717980625
-  llm_score: 16
-  recency_score: 21.385314166874046
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 65.66169160140191
+  llm_score: 85
+  recency_score: 11.800995409112343
   length_score: 100
   category_score: 0
   rank: 3
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 23.622637546772932
-  llm_score: 17
-  recency_score: 10.547144054024043
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 60.30600358196921
+  llm_score: 75
+  recency_score: 16.989023282799735
   length_score: 100
   category_score: 0
   rank: 4
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 22.487304195517737
-  llm_score: 16
-  recency_score: 7.167477270865283
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 59.314945239080636
+  llm_score: 75
+  recency_score: 10.547144054024043
   length_score: 100
   category_score: 0
   rank: 5
-- slug: comment-are-you-surprised-at-all
-  title: 'Comment: Are You Surprised at all??????'
-  score: 21.406362463675997
-  llm_score: 16
-  recency_score: 0.14135601389395616
+- slug: homeland-securitys-disinformation-governance-board
+  title: Homeland Security’s Disinformation Governance Board
+  score: 54.82850987182679
+  llm_score: 65
+  recency_score: 21.385314166874046
   length_score: 100
   category_score: 0
   rank: 6
-- slug: this-is-the-new-logo-for-fairhope
-  title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 16.785204133404775
-  llm_score: 17
-  recency_score: 34.541326867131026
-  length_score: 8.75
+- slug: comment-are-you-surprised-at-all
+  title: 'Comment: Are You Surprised at all??????'
+  score: 51.56020861752216
+  llm_score: 65
+  recency_score: 0.14135601389395616
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 15.466703546904064
-  llm_score: 19
-  recency_score: 1.4710730548763988
-  length_score: 30.75
+- slug: attention-baldwin-county
+  title: ATTENTION BALDWIN COUNTY
+  score: 50.20077302229653
+  llm_score: 75
+  recency_score: 3.4300246449273972
+  length_score: 30.5
   category_score: 0
   rank: 8
-- slug: equal-representation
-  title: EQUAL REPRESENTATION
-  score: 13.190372688763594
-  llm_score: 16
-  recency_score: 1.1124224769633473
-  length_score: 27.500000000000004
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 24.78520413340478
+  llm_score: 30
+  recency_score: 34.541326867131026
+  length_score: 8.75
   category_score: 0
   rank: 9
 - slug: vote
   title: VOTE
-  score: 6.9789070577285575
-  llm_score: 19
+  score: 15.426022442343946
+  llm_score: 45
   recency_score: 0.47579175047122596
-  length_score: 19.0
+  length_score: 26.75
   category_score: 0
   rank: 10
 ---

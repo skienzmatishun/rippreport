@@ -16,35 +16,35 @@ authors:
 - admin
 alttags: Alabama sheriff in uniform and cowboy hat; represents concerns over political corruption and white collar crime impacting ...
 related_articles:
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 71.3415684216451
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 72.6201939216784
   llm_score: 75
-  recency_score: 13.72019474069314
+  recency_score: 97.03126049090956
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 70.32272194733261
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
   llm_score: 75
-  recency_score: 82.09769265766185
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 2
 - slug: happy-days
   title: HAPPY DAYS
-  score: 68.26236840075836
-  llm_score: 75
+  score: 65.18544532383528
+  llm_score: 70
   recency_score: 68.70539460492927
   length_score: 100
   category_score: 0
   rank: 3
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 66.46634776783225
-  llm_score: 65
-  recency_score: 97.03126049090956
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 59.00273635937681
+  llm_score: 75
+  recency_score: 8.517786335949154
   length_score: 100
   category_score: 0
   rank: 4
@@ -56,19 +56,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fire
-  title: FIRE
-  score: 57.79455808730111
-  llm_score: 75
-  recency_score: 0.6646275674571428
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 50.57233765241434
+  llm_score: 60
+  recency_score: 13.72019474069314
   length_score: 100
   category_score: 0
   rank: 6
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 49.77196712860758
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 49.976757169008245
   llm_score: 60
-  recency_score: 8.517786335949154
+  recency_score: 9.848921598553503
   length_score: 100
   category_score: 0
   rank: 7
@@ -80,18 +80,18 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 48.590248439988784
-  llm_score: 60
-  recency_score: 0.836614859927013
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 40.35239046277639
+  llm_score: 40
+  recency_score: 27.29053800804651
   length_score: 100
   category_score: 0
   rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 31.714030236881932
-  llm_score: 30
+  score: 13.252491775343463
+  llm_score: 0
   recency_score: 11.141196539732507
   length_score: 100
   category_score: 0

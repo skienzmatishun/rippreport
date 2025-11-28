@@ -9,11 +9,11 @@ authors:
 - admin
 alttags: Diagram illustrating Alabama Port Authoritys proposed spoil disposal plan & timeline affecting wetlands habitat
 related_articles:
-- slug: total-darkness
-  title: TOTAL DARKNESS
-  score: 71.32976286212536
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 70.74486983723672
   llm_score: 75
-  recency_score: 88.64345860381478
+  recency_score: 84.8416539420386
   length_score: 100
   category_score: 0
   rank: 1
@@ -25,11 +25,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 64.59102368339056
+- slug: total-darkness
+  title: TOTAL DARKNESS
+  score: 65.1759167082792
   llm_score: 65
-  recency_score: 84.8416539420386
+  recency_score: 88.64345860381478
   length_score: 100
   category_score: 0
   rank: 3
@@ -49,19 +49,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: congratulations-fairhope
-  title: CONGRATULATIONS FAIRHOPE
-  score: 58.503623622536715
-  llm_score: 75
-  recency_score: 5.273553546488564
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: can-you-smell-it
   title: CAN YOU SMELL IT?
   score: 57.92555101036256
   llm_score: 75
   recency_score: 1.5160815673565506
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 57.753231037561015
+  llm_score: 75
+  recency_score: 0.39600174414651
   length_score: 100
   category_score: 0
   rank: 7
@@ -81,11 +81,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 51.599384883714855
-  llm_score: 65
-  recency_score: 0.39600174414651
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 40.04208516099825
+  llm_score: 45
+  recency_score: 5.273553546488564
   length_score: 100
   category_score: 0
   rank: 10

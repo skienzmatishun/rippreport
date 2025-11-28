@@ -16,81 +16,81 @@ alttags: New candidates taking root in Fauxhope elections, casting a ballot into
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 83.97790121883867
-  llm_score: 95
+  score: 77.82405506499252
+  llm_score: 85
   recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
   rank: 1
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 80.82459635862965
-  llm_score: 90
+  score: 71.59382712786042
+  llm_score: 75
   recency_score: 90.35987633109261
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 71.45459584424864
-  llm_score: 85
-  recency_score: 49.45487298761609
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 70.45888265369886
-  llm_score: 95
+  score: 64.3050364998527
+  llm_score: 85
   recency_score: 2.9827372490425272
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 70.42968015068477
-  llm_score: 95
+  score: 64.27583399683863
+  llm_score: 85
   recency_score: 2.792920979450993
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: bushwhacked-hijacked-fairhope-style
+  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
+  score: 63.858657923701394
+  llm_score: 85
+  recency_score: 0.08127650405896042
   length_score: 100
   category_score: 0
   rank: 5
 - slug: all-mouth
   title: ALL MOUTH
-  score: 65.63699079108811
-  llm_score: 85
+  score: 59.48314463724196
+  llm_score: 75
   recency_score: 11.640440142072652
   length_score: 100
   category_score: 0
   rank: 6
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 64.23654558178174
-  llm_score: 85
+  score: 58.08269942793559
+  llm_score: 75
   recency_score: 2.537546281581227
   length_score: 100
   category_score: 0
   rank: 7
-- slug: rotten
-  title: ROTTEN
-  score: 63.90641318335426
-  llm_score: 85
-  recency_score: 0.39168569180259616
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 57.93667135452485
+  llm_score: 75
+  recency_score: 1.588363804411422
   length_score: 100
   category_score: 0
   rank: 8
 - slug: dog-and-pony-show-2
   title: DOG AND PONY SHOW
-  score: 63.87754740501696
-  llm_score: 85
+  score: 57.72370125117081
+  llm_score: 75
   recency_score: 0.20405813261015537
   length_score: 100
   category_score: 0
   rank: 9
-- slug: bushwhacked-hijacked-fairhope-style
-  title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 57.70481176985524
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 57.70491496661066
   llm_score: 75
-  recency_score: 0.08127650405896042
+  recency_score: 0.0819472829691821
   length_score: 100
   category_score: 0
   rank: 10

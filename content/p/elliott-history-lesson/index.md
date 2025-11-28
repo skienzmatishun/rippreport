@@ -13,81 +13,81 @@ authors:
 related_articles:
 - slug: hair-on-fire
   title: HAIR ON FIRE
-  score: 70.20120241634314
-  llm_score: 74
+  score: 76.97043318557391
+  llm_score: 85
   recency_score: 85.30781570623031
   length_score: 100
   category_score: 0
   rank: 1
-- slug: weasel-contractor
-  title: WEASEL CONTRACTOR
-  score: 60.06451167310172
-  llm_score: 76
-  recency_score: 11.419325875161082
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 61.403859999929026
+  llm_score: 75
+  recency_score: 24.12508999953858
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 57.165111831208634
-  llm_score: 74
-  recency_score: 0.5732269028560665
+- slug: weasel-contractor
+  title: WEASEL CONTRACTOR
+  score: 59.44912705771711
+  llm_score: 75
+  recency_score: 11.419325875161082
   length_score: 100
   category_score: 0
   rank: 3
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 55.865398461467485
-  llm_score: 66
-  recency_score: 24.12508999953858
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 57.91311439528525
+  llm_score: 75
+  recency_score: 1.4352435693539982
   length_score: 100
   category_score: 0
   rank: 4
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
-  score: 55.33246088182899
-  llm_score: 71
+  score: 57.79399934336746
+  llm_score: 75
   recency_score: 0.6609957318883691
   length_score: 100
   category_score: 0
   rank: 5
-- slug: snakes-in-the-schools
-  title: SNAKES IN THE SCHOOLS
-  score: 54.09679836826596
-  llm_score: 69
-  recency_score: 0.6291893937286536
+- slug: catalyst-does-baldwin-county
+  title: CATALYST DOES BALDWIN COUNTY
+  score: 57.791251089946186
+  llm_score: 75
+  recency_score: 0.643132084650103
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-does-baldwin-county
-  title: CATALYST DOES BALDWIN COUNTY
-  score: 53.48355878225387
-  llm_score: 68
-  recency_score: 0.643132084650103
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 57.78910606057365
+  llm_score: 75
+  recency_score: 0.6291893937286536
   length_score: 100
   category_score: 0
   rank: 7
 - slug: elliotttuckercatalyst-selling-your-soul
   title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
-  score: 52.858881182389624
-  llm_score: 67
+  score: 57.78195810546655
+  llm_score: 75
   recency_score: 0.5827276855324844
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-top-dogs
-  title: CATALYST TOP DOGS
-  score: 52.854100991088636
-  llm_score: 67
-  recency_score: 0.5516564420760771
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 57.780496446593254
+  llm_score: 75
+  recency_score: 0.5732269028560665
   length_score: 100
   category_score: 0
   rank: 9
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 52.358908706787005
-  llm_score: 66
-  recency_score: 1.3329065941154306
+- slug: catalyst-top-dogs
+  title: CATALYST TOP DOGS
+  score: 57.77717791416556
+  llm_score: 75
+  recency_score: 0.5516564420760771
   length_score: 100
   category_score: 0
   rank: 10

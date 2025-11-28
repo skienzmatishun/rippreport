@@ -15,12 +15,28 @@ authors:
 related_articles:
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 79.64122540285521
-  llm_score: 87
+  score: 78.41045617208597
+  llm_score: 85
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
   rank: 1
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 78.08113548230752
+  llm_score: 95
+  recency_score: 52.527380634998835
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 78.05902568631734
+  llm_score: 95
+  recency_score: 52.383666961062694
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST
   score: 77.48360901597151
@@ -28,67 +44,51 @@ related_articles:
   recency_score: 88.64345860381478
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 70.69652009769214
-  llm_score: 83
-  recency_score: 52.527380634998835
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 70.05902568631736
-  llm_score: 82
-  recency_score: 52.383666961062694
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 68.27618290639283
-  llm_score: 86
-  recency_score: 24.795188891553348
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 71.23377717498545
+  llm_score: 95
+  recency_score: 8.019551637405318
   length_score: 100
   category_score: 0
   rank: 5
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 66.21998732035321
-  llm_score: 84
-  recency_score: 19.429917582295765
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 67.66079829100822
+  llm_score: 85
+  recency_score: 24.795188891553348
   length_score: 100
   category_score: 0
   rank: 6
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 64.90843339628796
-  llm_score: 82
-  recency_score: 18.90481707587172
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 66.83537193573783
+  llm_score: 85
+  recency_score: 19.429917582295765
   length_score: 100
   category_score: 0
   rank: 7
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 63.23377717498545
-  llm_score: 82
-  recency_score: 8.019551637405318
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 66.75458724244181
+  llm_score: 85
+  recency_score: 18.90481707587172
   length_score: 100
   category_score: 0
   rank: 8
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 63.0758316995883
-  llm_score: 82
+  score: 64.92198554574215
+  llm_score: 85
   recency_score: 6.992906047323852
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 63.03534827955652
-  llm_score: 82
+  score: 64.88150212571037
+  llm_score: 85
   recency_score: 6.729763817117284
   length_score: 100
   category_score: 0

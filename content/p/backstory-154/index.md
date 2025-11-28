@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: WHO official speaks at a podium about ending Covid-19 pandemic restrictions next week
 related_articles:
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 62.40119647247696
-  llm_score: 60
-  recency_score: 90.60777707110016
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 58.5501763187678
-  llm_score: 58
-  recency_score: 73.57614607199059
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: the-lie-of-the-century
   title: The Lie of The Century
-  score: 55.012502659815205
-  llm_score: 57
+  score: 59.935579582892125
+  llm_score: 65
   recency_score: 54.58126728879875
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 1
 - slug: bsp-131
   title: Welcome To The Party Pal
-  score: 54.27737529287015
-  llm_score: 58
+  score: 58.58506760056245
+  llm_score: 65
   recency_score: 45.8029394036559
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: the-180
-  title: THE 180
-  score: 52.01033100007883
-  llm_score: 59
-  recency_score: 27.067151500512303
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 2
 - slug: he-must-go
   title: He Must Go
-  score: 51.75756710452062
-  llm_score: 57
+  score: 56.68064402759754
+  llm_score: 65
   recency_score: 33.42418617938393
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 3
 - slug: hatians-eating-cats
   title: Haitians Eating Cats
-  score: 49.86725940185169
-  llm_score: 56
+  score: 55.40572094031323
+  llm_score: 65
   recency_score: 25.13718611203594
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: backstory-podcast-no-75-a-year-of-plague
+  title: A Year of Plague
+  score: 53.36898301441747
+  llm_score: 65
+  recency_score: 11.898389593713517
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 50.5501763187678
+  llm_score: 45
+  recency_score: 73.57614607199059
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alien-indictment
+  title: Alien Indictment
+  score: 50.09350416478465
+  llm_score: 40
+  recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
   rank: 7
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 49.513861799804225
-  llm_score: 59
+  score: 43.97540026134269
+  llm_score: 50
   recency_score: 10.840101698727413
   length_score: 100
   category_score: 0
   rank: 8
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 49.0638410654683
-  llm_score: 56
-  recency_score: 19.91496692554393
+- slug: the-180
+  title: THE 180
+  score: 37.241100230848055
+  llm_score: 35
+  recency_score: 27.067151500512303
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-no-75-a-year-of-plague
-  title: A Year of Plague
-  score: 49.06129070672517
-  llm_score: 58
-  recency_score: 11.898389593713517
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 33.0638410654683
+  llm_score: 30
+  recency_score: 19.91496692554393
   length_score: 100
   category_score: 0
   rank: 10

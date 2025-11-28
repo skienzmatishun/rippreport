@@ -59,11 +59,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: boycott-mcsharrys
-  title: BOYCOTT McSHARRY’S
-  score: 62.18225053143793
-  llm_score: 70
-  recency_score: 49.18462845434644
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 60.99138221572121
+  llm_score: 75
+  recency_score: 21.44398440218775
   length_score: 100
   category_score: 0
   rank: 7
@@ -75,19 +75,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: catalyst-justice
-  title: CATALYST JUSTICE
-  score: 57.91445913879813
-  llm_score: 70
-  recency_score: 21.44398440218775
+- slug: one-woman
+  title: ONE WOMAN
+  score: 58.80105521773955
+  llm_score: 75
+  recency_score: 7.206858915306978
   length_score: 100
   category_score: 0
   rank: 9
-- slug: one-woman
-  title: ONE WOMAN
-  score: 37.262593679278005
-  llm_score: 40
-  recency_score: 7.206858915306978
+- slug: boycott-mcsharrys
+  title: BOYCOTT McSHARRY’S
+  score: 56.02840437759178
+  llm_score: 60
+  recency_score: 49.18462845434644
   length_score: 100
   category_score: 0
   rank: 10

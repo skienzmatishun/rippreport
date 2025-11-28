@@ -18,52 +18,60 @@ related_articles:
   rank: 1
 - slug: the-180
   title: THE 180
-  score: 69.23089430346714
-  llm_score: 75
+  score: 63.07704814962098
+  llm_score: 65
   recency_score: 75.00081297253628
   length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
-  title: Assassins Drones and Political Corruption
-  score: 57.44147717411129
-  llm_score: 50
-  recency_score: 98.36960163172333
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: the-mug-shot
   title: The Mugshot
-  score: 46.587533713939315
-  llm_score: 50
+  score: 55.81830294470855
+  llm_score: 65
   recency_score: 27.818969140605503
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
+  title: Assassins Drones and Political Corruption
+  score: 54.36455409718822
+  llm_score: 45
+  recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: bsp118
-  title: The Smokey and The Bandit Run
-  score: 43.29052446141931
-  llm_score: 50
-  recency_score: 6.388408999225476
+- slug: catalyst-birds-of-the-same-feather
+  title: CATALYST  “BIRDS OF THE SAME FEATHER”
+  score: 51.55822014245053
+  llm_score: 65
+  recency_score: 0.1284309259284028
   length_score: 100
   category_score: 0
   rank: 5
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 42.497612271467375
-  llm_score: 50
+  score: 48.65145842531353
+  llm_score: 60
   recency_score: 1.234479764537867
   length_score: 100
   category_score: 0
   rank: 6
-- slug: catalyst-birds-of-the-same-feather
-  title: CATALYST  “BIRDS OF THE SAME FEATHER”
-  score: 42.327450911681304
-  llm_score: 50
-  recency_score: 0.1284309259284028
+- slug: bsp118
+  title: The Smokey and The Bandit Run
+  score: 40.213601384496236
+  llm_score: 45
+  recency_score: 6.388408999225476
   length_score: 100
   category_score: 0
   rank: 7
+- slug: insanity
+  title: INSANITY
+  score: 36.186200220673975
+  llm_score: 40
+  recency_score: 0.21030143438080218
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: star
   title: Special Guest State Auditor Jim Zeigler
   score: 30.62197761913047
@@ -71,20 +79,12 @@ related_articles:
   recency_score: 4.0428545243480185
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: virus-vs-catalyst
   title: VIRUS vs. CATALYST
   score: 30.13670640770375
   llm_score: 30
   recency_score: 0.8885916500743355
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: first-congressional-district
-  title: FIRST CONGRESSIONAL DISTRICT
-  score: 11.72073477295808
-  llm_score: 0
-  recency_score: 1.1847760242275227
   length_score: 100
   category_score: 0
   rank: 10

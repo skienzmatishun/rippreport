@@ -32,22 +32,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 73.71647501331027
-  llm_score: 85
-  recency_score: 64.15708758651667
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 72.81396817388097
-  llm_score: 85
-  recency_score: 58.29079313022616
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
   score: 72.31257371103135
@@ -55,7 +39,7 @@ related_articles:
   recency_score: 55.031729121703655
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
   score: 71.7304650267667
@@ -63,12 +47,28 @@ related_articles:
   recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 67.56262885946411
+  llm_score: 75
+  recency_score: 64.15708758651667
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 66.6601220200348
+  llm_score: 75
+  recency_score: 58.29079313022616
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: alabama-corruption-insurance
-  title: ALABAMA CORRUPTION INSURANCE
-  score: 68.59558827493814
-  llm_score: 85
-  recency_score: 30.871323787097815
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 65.99790492514212
+  llm_score: 75
+  recency_score: 53.986382013423686
   length_score: 100
   category_score: 0
   rank: 8

@@ -56,14 +56,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 63.86255395007771
-  llm_score: 85
-  recency_score: 0.10660067550503395
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
   score: 63.85802367750344
@@ -71,7 +63,7 @@ related_articles:
   recency_score: 0.07715390377225172
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: a-time-for-reflection-goobers-on-notice
   title: A Time for Reflection - Goobers on Notice
   score: 63.848664580661506
@@ -79,7 +71,7 @@ related_articles:
   recency_score: 0.016319774299694507
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: there-are-more-of-us-than-them
   title: THERE ARE MORE OF US THAN THEM
   score: 63.847738397603585
@@ -87,12 +79,20 @@ related_articles:
   recency_score: 0.01029958442322604
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: catalyst-players
   title: CATALYST PLAYERS
   score: 57.77005407733806
   llm_score: 75
   recency_score: 0.5053515026972712
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 57.70870779623156
+  llm_score: 75
+  recency_score: 0.10660067550503395
   length_score: 100
   category_score: 0
   rank: 9

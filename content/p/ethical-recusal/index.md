@@ -7,38 +7,62 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 58.88618186394032
-  llm_score: 75
-  recency_score: 7.760182115612004
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 29.060470946736388
-  llm_score: 5
-  recency_score: 93.89306115378648
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: january-22nd-qualifying-deadline
-  title: January 22nd Qualifying Deadline
-  score: 24.273115211848832
-  llm_score: 0
-  recency_score: 82.7752488770174
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
   title: Alabama's Ethical Decay and Delta
-  score: 23.726942189449353
-  llm_score: 0
+  score: 69.88078834329552
+  llm_score: 75
   recency_score: 79.22512423142078
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 53.90967758732433
+  llm_score: 50
+  recency_score: 75.41290431760807
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 52.73233571009416
+  llm_score: 65
+  recency_score: 7.760182115612004
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 43.09924781047017
+  llm_score: 50
+  recency_score: 5.1451107680560595
+  length_score: 100
+  category_score: 0
   rank: 4
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 39.657730596464226
+  llm_score: 25
+  recency_score: 82.7752488770174
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: s-o-s
+  title: S.O.S
+  score: 36.39599029614472
+  llm_score: 25
+  recency_score: 61.57393692494061
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 25.983547869813307
+  llm_score: 0
+  recency_score: 93.89306115378648
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: backstory-podcast-no-93-delta-hits-baldwin-county
   title: Delta hits Baldwin County
   score: 23.561115096235135
@@ -46,7 +70,7 @@ related_articles:
   recency_score: 78.14724812552835
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 8
 - slug: backstory-podcast-no-92-a-vintage-year
   title: A Vintage Year
   score: 23.236198562492334
@@ -54,35 +78,11 @@ related_articles:
   recency_score: 76.03529065620016
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 23.14044681809355
-  llm_score: 0
-  recency_score: 75.41290431760807
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: priorities
-  title: Priorities
-  score: 21.247857150364965
-  llm_score: 0
-  recency_score: 63.11107147737226
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: bsp-128
-  title: Big News
-  score: 20.53087890791867
-  llm_score: 0
-  recency_score: 58.450712901471334
-  length_score: 100
-  category_score: 0
   rank: 9
 - slug: green-acres-on-acid
   title: GREEN ACRES ON ACID
-  score: 11.655723563297197
-  llm_score: 0
+  score: 14.732646640220274
+  llm_score: 5
   recency_score: 0.7622031614317782
   length_score: 100
   category_score: 0

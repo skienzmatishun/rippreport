@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Baldwin County Sheriff’s Office badge; symbolizes lack of accountability and transparency in police investigations
 related_articles:
-- slug: rumors
-  title: RUMORS
-  score: 88.0629162769017
-  llm_score: 82
-  recency_score: 94.40895579986105
-  length_score: 100
-  category_score: 100
-  rank: 1
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 87.235578537063
-  llm_score: 80
+  score: 72.6201939216784
+  llm_score: 75
   recency_score: 97.03126049090956
   length_score: 100
-  category_score: 100
-  rank: 2
+  category_score: 0
+  rank: 1
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 85.88261719822088
-  llm_score: 78
+  score: 72.4980018136055
+  llm_score: 75
   recency_score: 96.23701178843567
   length_score: 100
-  category_score: 100
-  rank: 3
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 72.47562412234575
-  llm_score: 71
-  recency_score: 37.09155679524731
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 72.4600115647846
-  llm_score: 71
-  recency_score: 36.990075171099754
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 71.63823221296889
+  category_score: 0
+  rank: 2
+- slug: rumors
+  title: RUMORS
+  score: 72.21676243074786
   llm_score: 75
-  recency_score: 15.648509384297702
-  length_score: 100
-  category_score: 100
-  rank: 6
-- slug: non-lethal
-  title: NON-LETHAL
-  score: 71.07224665983425
-  llm_score: 73
-  recency_score: 19.9696032889225
-  length_score: 100
-  category_score: 100
-  rank: 7
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 69.83232193728315
-  llm_score: 70
-  recency_score: 98.91009259234048
+  recency_score: 94.40895579986105
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 3
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 69.53693464170766
+  llm_score: 85
+  recency_score: 36.990075171099754
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: cover-up
   title: COVER UP
-  score: 64.67776493637932
-  llm_score: 71
+  score: 67.13930339791779
+  llm_score: 75
   recency_score: 61.405472086465494
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 5
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 63.398701045422676
+  llm_score: 75
+  recency_score: 37.09155679524731
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: non-lethal
+  title: NON-LETHAL
+  score: 60.764554352141936
+  llm_score: 75
+  recency_score: 19.9696032889225
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 60.099770674507354
+  llm_score: 75
+  recency_score: 15.648509384297702
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: justified
   title: JUSTIFIED
-  score: 59.628936005789114
-  llm_score: 76
+  score: 59.0135513904045
+  llm_score: 75
   recency_score: 8.588084037629146
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 58.52615874700385
+  llm_score: 75
+  recency_score: 5.420031855524929
   length_score: 100
   category_score: 0
   rank: 10

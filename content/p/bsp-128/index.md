@@ -15,30 +15,46 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 58.56578825265432
-  llm_score: 65
-  recency_score: 45.67762364225301
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: dead-last
-  title: DEAD LAST
-  score: 57.895691707159116
-  llm_score: 75
-  recency_score: 1.3219960965341453
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: the-mcsharry-will-out
   title: The McSharry Will Out
-  score: 51.655257417873635
-  llm_score: 45
+  score: 63.96294972556594
+  llm_score: 65
   recency_score: 80.75917321617852
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 59.3251933480584
+  llm_score: 60
+  recency_score: 70.6137567623795
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: priorities
+  title: Priorities
+  score: 53.47932682764233
+  llm_score: 45
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
   rank: 4
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 53.22454625432958
+  llm_score: 65
+  recency_score: 10.959550653142209
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: dead-last
+  title: DEAD LAST
+  score: 51.741845553312956
+  llm_score: 65
+  recency_score: 1.3219960965341453
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: happy-days
   title: HAPPY DAYS
   score: 51.15501144213505
@@ -46,7 +62,7 @@ related_articles:
   recency_score: 77.50757437387774
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 7
 - slug: ethical-recusal
   title: Ethical Recusal
   score: 48.22318660022637
@@ -54,36 +70,20 @@ related_articles:
   recency_score: 58.450712901471334
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: january-22nd-qualifying-deadline
-  title: January 22nd Qualifying Deadline
-  score: 43.94057796344301
-  llm_score: 35
-  recency_score: 70.6137567623795
+  rank: 8
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 46.258095944962015
+  llm_score: 45
+  recency_score: 45.67762364225301
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 9
 - slug: trump-n-bama
   title: Trump N Bama
   score: 43.51061063701624
   llm_score: 45
   recency_score: 27.818969140605503
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 40.916853946637275
-  llm_score: 45
-  recency_score: 10.959550653142209
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: priorities
-  title: Priorities
-  score: 25.787019135334628
-  llm_score: 0
-  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 10

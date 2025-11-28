@@ -10,38 +10,22 @@ authors:
 rumble: v50etd5
 alttags: Handcuffs against a black background symbolize allegations against Captain Reid and potential cover-ups within the Sheriff...
 related_articles:
-- slug: crazy
-  title: CRAZY
-  score: 75.51726333518218
-  llm_score: 85
-  recency_score: 0.8622116786841
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 48.36272886610906
-  llm_score: 70
-  recency_score: 0.2327376297088158
-  length_score: 45.5
-  category_score: 0
-  rank: 2
-- slug: big-mules
-  title: Big Mules
-  score: 47.607203478752226
-  llm_score: 50
-  recency_score: 34.44682261188939
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
   title: Assassins Drones and Political Corruption
-  score: 45.65274829903894
-  llm_score: 40
+  score: 61.03736368365433
+  llm_score: 65
   recency_score: 61.74286394375304
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 1
+- slug: catalyst-virus
+  title: CATALYST VIRUS
+  score: 39.43866018818151
+  llm_score: 45
+  recency_score: 1.3512912231797278
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: scalped
   title: Scalped
   score: 38.725455922187756
@@ -49,44 +33,60 @@ related_articles:
   recency_score: 56.715463494220344
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: not-a-hard-liquor
-  title: NOT A HARD LIQUOR
-  score: 36.332510596283036
+  rank: 3
+- slug: big-mules
+  title: Big Mules
+  score: 35.29951117105991
   llm_score: 30
-  recency_score: 41.16131887583971
+  recency_score: 34.44682261188939
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
 - slug: backstory-154
   title: W.H.O. Calls The Plague
-  score: 28.82202711084887
-  llm_score: 20
+  score: 31.898950187771952
+  llm_score: 25
   recency_score: 32.34317622051765
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: wear-a-mask
+  title: WEAR A MASK
+  score: 30.295213443067027
+  llm_score: 30
+  recency_score: 1.9188873799356607
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: not-a-hard-liquor
+  title: NOT A HARD LIQUOR
+  score: 30.178664442436883
+  llm_score: 20
+  recency_score: 41.16131887583971
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: bsp-131
-  title: Welcome To The Party Pal
-  score: 13.817557754692515
-  llm_score: 0
-  recency_score: 14.814125405501343
+- slug: crazy
+  title: CRAZY
+  score: 30.132647950566792
+  llm_score: 30
+  recency_score: 0.8622116786841
   length_score: 100
   category_score: 0
   rank: 8
 - slug: no-98-ethical-abortion
   title: No 98 - Ethical Abortion
-  score: 12.47914127707934
-  llm_score: 0
+  score: 24.78683358477165
+  llm_score: 20
   recency_score: 6.114418301015702
   length_score: 100
   category_score: 0
   rank: 9
-- slug: wear-a-mask
-  title: WEAR A MASK
-  score: 11.833674981528564
+- slug: bsp-131
+  title: Welcome To The Party Pal
+  score: 13.817557754692515
   llm_score: 0
-  recency_score: 1.9188873799356607
+  recency_score: 14.814125405501343
   length_score: 100
   category_score: 0
   rank: 10

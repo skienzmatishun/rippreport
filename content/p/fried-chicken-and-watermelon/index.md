@@ -32,22 +32,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 59.66337167273139
-  llm_score: 75
-  recency_score: 12.811915872753922
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: quid-quo-pro
-  title: QUID QUO PRO
-  score: 59.59440486047424
-  llm_score: 75
-  recency_score: 12.36363159308245
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: disposal
   title: DISPOSAL
   score: 59.087968512144826
@@ -55,35 +39,51 @@ related_articles:
   recency_score: 9.071795328941251
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 59.04653497797342
-  llm_score: 75
-  recency_score: 8.80247735682715
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 4
 - slug: holes
   title: HOLES
-  score: 54.80272067420565
-  llm_score: 70
+  score: 57.87964375112873
+  llm_score: 75
   recency_score: 1.2176843823366823
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY
-  score: 54.21740585078676
-  llm_score: 65
+  score: 51.14048277386369
+  llm_score: 60
   recency_score: 17.413138030113867
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 50.43260244196215
+  llm_score: 60
+  recency_score: 12.811915872753922
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 50.36363562970501
+  llm_score: 60
+  recency_score: 12.36363159308245
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 35.571676577340284
+  llm_score: 35
+  recency_score: 16.215897752711804
   length_score: 100
   category_score: 0
   rank: 9
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 51.86155048521261
-  llm_score: 60
+  score: 27.24616586982799
+  llm_score: 20
   recency_score: 22.100078153881906
   length_score: 100
   category_score: 0

@@ -15,80 +15,80 @@ alttags: A single track in sand, symbolizing a trail of corruption stemming from
 related_articles:
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 77.13256057441464
-  llm_score: 87
+  score: 82.05563749749156
+  llm_score: 95
   recency_score: 78.36164373369505
   length_score: 100
   category_score: 0
   rank: 1
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 72.01408566080728
-  llm_score: 89
-  recency_score: 37.09155679524731
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 78.29124017750563
+  llm_score: 85
+  recency_score: 93.89306115378648
   length_score: 100
   category_score: 0
   rank: 2
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 70.91666649194278
-  llm_score: 86
-  recency_score: 41.958332197627975
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: this-is-a-test
   title: THIS IS A TEST
-  score: 70.47310193740365
-  llm_score: 84
+  score: 71.08848655278827
+  llm_score: 85
   recency_score: 47.075162593123636
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 70.30128187655816
+  llm_score: 85
+  recency_score: 41.958332197627975
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 69.67987355678375
-  llm_score: 89
-  recency_score: 21.919178119094283
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 69.55254719926883
+  llm_score: 85
+  recency_score: 37.09155679524731
   length_score: 100
   category_score: 0
   rank: 5
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 69.46527374069383
-  llm_score: 89
-  recency_score: 20.524279314509858
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 69.50583755648374
+  llm_score: 85
+  recency_score: 36.787944117144235
   length_score: 100
   category_score: 0
   rank: 6
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 68.55939852202212
-  llm_score: 84
+  score: 69.17478313740673
+  llm_score: 85
   recency_score: 34.63609039314372
   length_score: 100
   category_score: 0
   rank: 7
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 68.27506832571451
-  llm_score: 83
-  recency_score: 36.787944117144235
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 67.21833509524528
+  llm_score: 85
+  recency_score: 21.919178119094283
   length_score: 100
   category_score: 0
   rank: 8
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 67.86489422765662
-  llm_score: 82
-  recency_score: 38.121812479767996
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 67.00373527915538
+  llm_score: 85
+  recency_score: 20.524279314509858
   length_score: 100
   category_score: 0
   rank: 9
 - slug: POSTER-BOY-of-CORRUPTION
   title: POSTER BOY OF CORRUPTION
-  score: 66.21998732035321
-  llm_score: 84
+  score: 66.83537193573783
+  llm_score: 85
   recency_score: 19.429917582295765
   length_score: 100
   category_score: 0

@@ -7,14 +7,6 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 73.58218701506763
-  llm_score: 85
-  recency_score: 63.2842155979395
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: mouthpiece
   title: MOUTHPIECE
   score: 71.03411158468779
@@ -22,12 +14,20 @@ related_articles:
   recency_score: 86.72172530047058
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: no-qualifications
   title: NO QUALIFICATIONS
   score: 69.03077501552296
   llm_score: 85
   recency_score: 33.70003760089919
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 67.42834086122147
+  llm_score: 75
+  recency_score: 63.2842155979395
   length_score: 100
   category_score: 0
   rank: 3

@@ -18,81 +18,81 @@ alttags: Confused faces on phones arranged in a circle, symbolizing confusion su
 related_articles:
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 89.36251660345405
+  score: 77.82405506499252
   llm_score: 85
   recency_score: 90.85635792245131
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 88.0629162769017
-  llm_score: 82
-  recency_score: 94.40895579986105
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 85.43037908563909
-  llm_score: 77
+  score: 72.66114831640833
+  llm_score: 75
   recency_score: 97.29746405665401
   length_score: 100
-  category_score: 100
+  category_score: 0
+  rank: 2
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 72.21676243074786
+  llm_score: 75
+  recency_score: 94.40895579986105
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 77.31926742815037
-  llm_score: 84
-  recency_score: 16.575238282977313
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: non-lethal
-  title: NON-LETHAL
-  score: 70.285091375761
-  llm_score: 72
-  recency_score: 18.853093942446446
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 69.40046084614399
-  llm_score: 74
-  recency_score: 5.102995499935887
-  length_score: 100
-  category_score: 100
-  rank: 6
 - slug: cover-up
   title: COVER UP
-  score: 66.46799984602502
-  llm_score: 73
+  score: 67.69876907679426
+  llm_score: 75
   recency_score: 65.04199899916262
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 4
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 60.242344351227295
+  llm_score: 75
+  recency_score: 16.575238282977313
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: justified
   title: JUSTIFIED
-  score: 62.168720560112185
-  llm_score: 80
+  score: 59.09179748318911
+  llm_score: 75
   recency_score: 9.096683640729124
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 57.960156079164776
-  llm_score: 74
+  score: 58.575540694549396
+  llm_score: 75
   recency_score: 5.741014514570984
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative
-  score: 56.07150209845959
-  llm_score: 71
+  score: 58.53304055999806
+  llm_score: 75
   recency_score: 5.464763639987247
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 58.47738392306707
+  llm_score: 75
+  recency_score: 5.102995499935887
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: non-lethal
+  title: NON-LETHAL
+  score: 54.43893752960715
+  llm_score: 65
+  recency_score: 18.853093942446446
   length_score: 100
   category_score: 0
   rank: 10

@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 64.75277863904408
-  llm_score: 63
-  recency_score: 93.89306115378648
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 78.61133993770366
+  llm_score: 85
+  recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
   rank: 1
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 64.4574937838575
-  llm_score: 62
-  recency_score: 95.97370959507373
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 78.29124017750563
+  llm_score: 85
+  recency_score: 93.89306115378648
   length_score: 100
   category_score: 0
   rank: 2
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 61.747945189799246
-  llm_score: 62
+  score: 69.74794518979925
+  llm_score: 75
   recency_score: 78.36164373369505
   length_score: 100
   category_score: 0
   rank: 3
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 57.92991951722229
-  llm_score: 62
-  recency_score: 53.544476861944815
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 57.61225693064594
-  llm_score: 64
-  recency_score: 43.47967004919853
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: offensive
-  title: Offensive
-  score: 57.39591448431013
-  llm_score: 64
-  recency_score: 42.0734441480158
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 57.27749688833381
-  llm_score: 63
-  recency_score: 45.30372977416965
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 56.147435722712004
-  llm_score: 62
-  recency_score: 41.958332197627975
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 55.02093698356058
-  llm_score: 62
+  score: 69.17478313740673
+  llm_score: 85
   recency_score: 34.63609039314372
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 65.92991951722229
+  llm_score: 75
+  recency_score: 53.544476861944815
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 65.3846153846154
+  llm_score: 75
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 64.147435722712
+  llm_score: 75
+  recency_score: 41.958332197627975
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 58.508266119103034
+  llm_score: 65
+  recency_score: 45.30372977416965
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 58.227641546030554
+  llm_score: 65
+  recency_score: 43.47967004919853
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 52.523831079764385
-  llm_score: 61
-  recency_score: 22.404902018468416
+- slug: offensive
+  title: Offensive
+  score: 58.011299099694746
+  llm_score: 65
+  recency_score: 42.0734441480158
   length_score: 100
   category_score: 0
   rank: 10

@@ -9,81 +9,81 @@ authors:
 related_articles:
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 71.8575755158803
-  llm_score: 83
+  score: 66.93449859280338
+  llm_score: 75
   recency_score: 60.07424085322191
   length_score: 100
   category_score: 0
   rank: 1
 - slug: catalyst-council-lawsuits
   title: CATALYST COUNCIL LAWSUITS
-  score: 63.084615439010186
-  llm_score: 81
+  score: 65.54615390054865
+  llm_score: 85
   recency_score: 11.05000035356611
   length_score: 100
   category_score: 0
   rank: 2
 - slug: russian-roulette-fairhope-style-rerun
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 62.98014314814616
-  llm_score: 82
+  score: 64.82629699430001
+  llm_score: 85
   recency_score: 6.370930462949982
   length_score: 100
   category_score: 0
   rank: 3
-- slug: the-good-the-bad-and-the-ugly-repost
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 62.36475853276155
-  llm_score: 81
-  recency_score: 6.370930462949982
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 64.67772350404061
+  llm_score: 85
+  recency_score: 5.405202776263941
   length_score: 100
   category_score: 0
   rank: 4
-- slug: chasing-your-tail
-  title: CHASING YOUR TAIL
-  score: 62.31355431640546
-  llm_score: 82
-  recency_score: 2.038103056635405
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: russian-roulette-fairhope-style
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 62.30675666002185
-  llm_score: 82
+  score: 64.15291050617569
+  llm_score: 85
   recency_score: 1.9939182901419266
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 61.75016326148233
-  llm_score: 81
-  recency_score: 2.376061199635027
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 5
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 61.538835910141984
-  llm_score: 81
+  score: 64.00037437168044
+  llm_score: 85
   recency_score: 1.002433415922802
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 63.87061992623135
+  llm_score: 85
+  recency_score: 0.15902952050365238
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 58.672450840453855
+  llm_score: 75
+  recency_score: 6.370930462949982
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 59.56875664811058
-  llm_score: 78
-  recency_score: 0.19691821271864365
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 58.057855569174635
+  llm_score: 75
+  recency_score: 2.376061199635027
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 59.56292761853904
-  llm_score: 78
-  recency_score: 0.15902952050365238
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 58.00586200871315
+  llm_score: 75
+  recency_score: 2.038103056635405
   length_score: 100
   category_score: 0
   rank: 10

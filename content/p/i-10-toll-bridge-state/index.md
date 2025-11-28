@@ -19,22 +19,30 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fingerprint
-  title: FINGERPRINT
-  score: 60.27044364596575
-  llm_score: 75
-  recency_score: 16.757883698777256
+- slug: trolls-for-tolls
+  title: TROLLS FOR TOLLS
+  score: 66.47787521876697
+  llm_score: 76
+  recency_score: 53.10618892198522
   length_score: 100
   category_score: 0
   rank: 2
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 59.387656586668335
-  llm_score: 75
-  recency_score: 11.019767813344055
+- slug: alabama-moore-strange
+  title: ALABAMA MOORE STRANGE
+  score: 64.21877988610134
+  llm_score: 85
+  recency_score: 2.422069259658703
   length_score: 100
   category_score: 0
   rank: 3
+- slug: taxes-tolls-and-schools
+  title: TAXES, TOLLS AND SCHOOLS
+  score: 59.98392638380356
+  llm_score: 75
+  recency_score: 14.895521494723079
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX
   score: 59.28412266645977
@@ -42,52 +50,44 @@ related_articles:
   recency_score: 10.34679733198841
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: taxes-tolls-and-schools
-  title: TAXES, TOLLS AND SCHOOLS
-  score: 53.8300802299574
-  llm_score: 65
-  recency_score: 14.895521494723079
-  length_score: 100
-  category_score: 0
   rank: 5
-- slug: trolls-for-tolls
-  title: TROLLS FOR TOLLS
-  score: 47.400952141843895
-  llm_score: 45
-  recency_score: 53.10618892198522
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 53.233810432822175
+  llm_score: 65
+  recency_score: 11.019767813344055
   length_score: 100
   category_score: 0
   rank: 6
 - slug: portables-and-prisons
   title: PORTABLES AND PRISONS
-  score: 16.50708783588954
-  llm_score: 5
+  score: 50.3532416820434
+  llm_score: 60
   recency_score: 12.296070933282007
   length_score: 100
   category_score: 0
   rank: 7
+- slug: poison-ivy-bridge
+  title: POISON IVY BRIDGE
+  score: 38.641774067554564
+  llm_score: 40
+  recency_score: 16.171531439104648
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fingerprint
+  title: FINGERPRINT
+  score: 35.65505903058112
+  llm_score: 35
+  recency_score: 16.757883698777256
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: liars-bridge
   title: LIARS BRIDGE
   score: 16.50072093131934
   llm_score: 0
   recency_score: 32.254686053575696
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: alabama-moore-strange
-  title: ALABAMA MOORE STRANGE
-  score: 14.988010655332108
-  llm_score: 5
-  recency_score: 2.422069259658703
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: poison-ivy-bridge
-  title: POISON IVY BRIDGE
-  score: 14.026389452169946
-  llm_score: 0
-  recency_score: 16.171531439104648
   length_score: 100
   category_score: 0
   rank: 10

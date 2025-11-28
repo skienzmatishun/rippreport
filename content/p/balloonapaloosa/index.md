@@ -10,81 +10,81 @@ alttags: Chinese spy balloon illustration from Backstory Podcast episode, discus
 related_articles:
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 64.24388045728809
-  llm_score: 50
+  score: 61.93618814959577
+  llm_score: 65
   recency_score: 67.58522297237245
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 63.802378999110836
-  llm_score: 52
-  recency_score: 56.715463494220344
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 62.00646138448657
-  llm_score: 47
+  score: 61.5449229229481
+  llm_score: 65
   recency_score: 65.04199899916262
   length_score: 100
-  category_score: 100
+  category_score: 0
+  rank: 2
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 60.263917460649296
+  llm_score: 65
+  recency_score: 56.715463494220344
+  length_score: 100
+  category_score: 0
   rank: 3
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 58.282847671437956
+  llm_score: 65
+  recency_score: 43.83850986434665
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF
-  score: 53.36936121440714
-  llm_score: 49
+  score: 57.83089967594561
+  llm_score: 75
   recency_score: 0.9008478936463692
-  length_score: 100
-  category_score: 100
-  rank: 4
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 51.65757449318179
-  llm_score: 47
-  recency_score: 72.77423420568157
   length_score: 100
   category_score: 0
   rank: 5
-- slug: silence-the-eagle
-  title: SILENCE THE EAGLE
-  score: 49.62807747321403
-  llm_score: 47
-  recency_score: 59.582503575891096
+- slug: press-release
+  title: PRESS RELEASE
+  score: 56.95540864698216
+  llm_score: 65
+  recency_score: 35.21015620538397
   length_score: 100
   category_score: 0
   rank: 6
 - slug: homeland-securitys-disinformation-governance-board
   title: Homeland Security’s Disinformation Governance Board
-  score: 48.14286137948586
-  llm_score: 48
+  score: 55.527476764101245
+  llm_score: 60
   recency_score: 45.928598966657994
   length_score: 100
   category_score: 0
   rank: 7
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 47.821309209899496
-  llm_score: 48
-  recency_score: 43.83850986434665
+- slug: alien-indictment
+  title: Alien Indictment
+  score: 50.426805262412564
+  llm_score: 45
+  recency_score: 72.77423420568157
   length_score: 100
   category_score: 0
   rank: 8
-- slug: press-release
-  title: PRESS RELEASE
-  score: 46.4938701854437
-  llm_score: 48
-  recency_score: 35.21015620538397
+- slug: the-180
+  title: THE 180
+  score: 42.57534751388818
+  llm_score: 45
+  recency_score: 21.73975884027314
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-180
-  title: THE 180
-  score: 45.65227059081126
-  llm_score: 50
-  recency_score: 21.73975884027314
+- slug: heart-of-dixie-podcast
+  title: HEART OF DIXIE PODCAST
+  score: 40.19493214102124
+  llm_score: 45
+  recency_score: 6.267058916638003
   length_score: 100
   category_score: 0
   rank: 10

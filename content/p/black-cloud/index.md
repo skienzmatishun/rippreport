@@ -10,20 +10,12 @@ alttags: Lack of transparency symbolized by a dark cloud crossed out, reflecting
 related_articles:
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY
-  score: 74.92788622937071
-  llm_score: 60
+  score: 72.6201939216784
+  llm_score: 75
   recency_score: 97.03126049090956
   length_score: 100
-  category_score: 100
-  rank: 1
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 71.00955183213131
-  llm_score: 85
-  recency_score: 46.562086908853416
-  length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
   score: 70.70915833520768
@@ -31,7 +23,7 @@ related_articles:
   recency_score: 84.60952917884977
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
   score: 69.91422722674281
@@ -39,52 +31,60 @@ related_articles:
   recency_score: 79.4424769738282
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 68.58576682596589
-  llm_score: 75
-  recency_score: 70.80748436877823
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: legal-corruption
-  title: LEGAL CORRUPTION
-  score: 65.11767929964523
-  llm_score: 85
-  recency_score: 8.264915447693923
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 3
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 61.235719040085854
-  llm_score: 80
+  score: 58.15879596316278
+  llm_score: 75
   recency_score: 3.032173760557979
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: straw-man
-  title: STRAW MAN
-  score: 59.512826343627246
+  rank: 4
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 57.97025308297104
   llm_score: 75
-  recency_score: 11.833371233577015
+  recency_score: 1.8066450393116897
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 53.92319189595551
-  llm_score: 60
+  score: 47.76934574210936
+  llm_score: 50
   recency_score: 35.500747323710755
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 50.40240375071925
+  rank: 6
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 47.04730528750435
   llm_score: 40
-  recency_score: 92.61562437967505
+  recency_score: 70.80748436877823
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 46.923076923076934
+  llm_score: 45
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: straw-man
+  title: STRAW MAN
+  score: 44.12821095901186
+  llm_score: 50
+  recency_score: 11.833371233577015
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 28.194602376568298
+  llm_score: 25
+  recency_score: 8.264915447693923
   length_score: 100
   category_score: 0
   rank: 10

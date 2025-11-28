@@ -26,30 +26,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 66.48977522329234
-  llm_score: 75
-  recency_score: 57.18353895140014
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 65.1966759979215
+  llm_score: 85
+  recency_score: 8.77839398648969
   length_score: 100
   category_score: 0
   rank: 2
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 65.57661887292055
+- slug: rotten
+  title: ROTTEN
+  score: 62.441742121091984
   llm_score: 75
-  recency_score: 51.24802267398346
+  recency_score: 30.871323787097815
   length_score: 100
   category_score: 0
   rank: 3
-- slug: honeymoon
-  title: HONEYMOON
-  score: 63.76208511939382
-  llm_score: 60
-  recency_score: 99.45355327605971
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
   score: 59.50965130683853
@@ -57,44 +49,52 @@ related_articles:
   recency_score: 51.81273349445037
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: rotten
-  title: ROTTEN
-  score: 56.287895967245824
+  rank: 4
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 59.42277271907439
   llm_score: 65
-  recency_score: 30.871323787097815
+  recency_score: 51.24802267398346
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 49.77556226673175
-  llm_score: 60
+  score: 59.00633149750098
+  llm_score: 75
   recency_score: 8.541154733756285
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: fairhopes-blast-from-the-past
   title: FAIRHOPE’S  BLAST FROM THE PAST
-  score: 49.49972720098812
-  llm_score: 60
+  score: 58.73049643175735
+  llm_score: 75
   recency_score: 6.7482268064227
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: catalyst-candidates-⁠-excess-baggage
-  title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
-  score: 49.10774018489324
+  rank: 7
+- slug: honeymoon
+  title: HONEYMOON
+  score: 57.60823896554766
   llm_score: 50
-  recency_score: 44.200311201805995
+  recency_score: 99.45355327605971
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 23.412852146369254
+  llm_score: 5
+  recency_score: 57.18353895140014
   length_score: 100
   category_score: 0
   rank: 9
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 33.216276553066066
-  llm_score: 35
-  recency_score: 0.9057975949293908
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 11.856340673893369
+  llm_score: 0
+  recency_score: 2.0662143803069033
   length_score: 100
   category_score: 0
   rank: 10

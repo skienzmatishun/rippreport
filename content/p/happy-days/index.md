@@ -8,13 +8,13 @@ authors:
 - admin
 alttags: Smiling yellow emoji face representing the “happy days” posts discussed in the article
 related_articles:
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 85.95467609306606
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 70.33674952400398
   llm_score: 85
-  recency_score: 68.70539460492927
+  recency_score: 42.18887190602582
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
 - slug: black-cloud
   title: BLACK CLOUD
@@ -24,6 +24,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 68.26236840075836
+  llm_score: 75
+  recency_score: 68.70539460492927
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
   score: 67.95367640851508
@@ -31,15 +39,23 @@ related_articles:
   recency_score: 26.69889665534791
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 64.18290337015783
-  llm_score: 75
-  recency_score: 42.18887190602582
+  rank: 4
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 66.97788891847296
+  llm_score: 85
+  recency_score: 20.356277970074178
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 5
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 66.73078028126717
+  llm_score: 85
+  recency_score: 18.75007182823656
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
   score: 64.04295998520153
@@ -47,31 +63,7 @@ related_articles:
   recency_score: 1.2792399038099316
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 60.82404276462681
-  llm_score: 75
-  recency_score: 20.356277970074178
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 60.576934127421026
-  llm_score: 75
-  recency_score: 18.75007182823656
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: rotten
-  title: ROTTEN
-  score: 59.55827385375967
-  llm_score: 75
-  recency_score: 12.128780049437779
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: legal-corruption
   title: LEGAL CORRUPTION
   score: 58.59264287903365
@@ -79,12 +71,20 @@ related_articles:
   recency_score: 5.8521787137186125
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: green-acres-on-acid
   title: GREEN ACRES ON ACID
   score: 57.78073839089791
   llm_score: 75
   recency_score: 0.5747995408363309
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 57.7470571313962
+  llm_score: 75
+  recency_score: 0.3558713540751963
   length_score: 100
   category_score: 0
   rank: 10

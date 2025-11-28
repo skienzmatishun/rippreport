@@ -8,14 +8,6 @@ authors:
 - admin
 alttags: City of Fauxhope, Alabama seal featuring dollar signs over a landscape, referencing concerns about political influence and...
 related_articles:
-- slug: catalyst-eat-their-own
-  title: CATALYST - EAT THEIR OWN
-  score: 74.01846441619033
-  llm_score: 85
-  recency_score: 66.12001870523703
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
   score: 71.67020891114637
@@ -23,7 +15,7 @@ related_articles:
   recency_score: 90.85635792245131
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: fauxhope
   title: FAUXHOPE
   score: 69.8141847900801
@@ -31,15 +23,15 @@ related_articles:
   recency_score: 78.79220113552056
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: catalyst-bullies
-  title: CATALYST BULLIES
-  score: 67.84266913488622
-  llm_score: 85
-  recency_score: 25.977349376760323
+  rank: 2
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 67.86461826234417
+  llm_score: 75
+  recency_score: 66.12001870523703
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: catalyst-stacking-the-deck
   title: CATALYST STACKING THE DECK
   score: 67.39852241830512
@@ -47,15 +39,15 @@ related_articles:
   recency_score: 23.090395718983192
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 65.28058056361121
+  rank: 4
+- slug: fauxhope-crier
+  title: FAUXHOPE CRIER
+  score: 66.62984825077078
   llm_score: 85
-  recency_score: 9.323773663472833
+  recency_score: 18.094013630009982
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: fauxhope-3
   title: FAUXHOPE
   score: 64.71498663193891
@@ -63,7 +55,23 @@ related_articles:
   recency_score: 5.647413107602894
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 64.27583399683863
+  llm_score: 85
+  recency_score: 2.792920979450993
+  length_score: 100
+  category_score: 0
   rank: 7
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 61.68882298104007
+  llm_score: 75
+  recency_score: 25.977349376760323
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: howling-rains
   title: HOWLING RAINS
   score: 61.27399413371433
@@ -71,20 +79,12 @@ related_articles:
   recency_score: 23.280961869143056
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 60.47600209692463
-  llm_score: 75
-  recency_score: 18.094013630009982
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: catalyst-central
-  title: CATALYST CENTRAL
-  score: 60.028299369788066
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 59.126734409765064
   llm_score: 75
-  recency_score: 15.18394590362233
+  recency_score: 9.323773663472833
   length_score: 100
   category_score: 0
   rank: 10

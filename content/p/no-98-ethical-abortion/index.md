@@ -7,6 +7,22 @@ categories:
 authors:
 - admin
 related_articles:
+- slug: lets-talk-about-the-bama-loss
+  title: Let's Talk About The Bama Loss
+  score: 86.71437824674075
+  llm_score: 100
+  recency_score: 88.64345860381478
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 65.59316421966118
+  llm_score: 65
+  recency_score: 91.35556742779755
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: january-22nd-qualifying-deadline
   title: January 22nd Qualifying Deadline
   score: 62.43192067211974
@@ -14,47 +30,23 @@ related_articles:
   recency_score: 70.80748436877823
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 56.36239498889194
-  llm_score: 50
-  recency_score: 91.35556742779755
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
-  title: Alabama's Ethical Decay and Delta
-  score: 38.09471144302694
-  llm_score: 20
-  recency_score: 92.61562437967505
-  length_score: 100
-  category_score: 0
   rank: 3
 - slug: backstory-podcast-no-92-a-vintage-year
   title: A Vintage Year
-  score: 25.213330827971333
-  llm_score: 0
+  score: 40.59794621258673
+  llm_score: 25
   recency_score: 88.88665038181365
   length_score: 100
   category_score: 0
   rank: 4
-- slug: lets-talk-about-the-bama-loss
-  title: Let's Talk About The Bama Loss
-  score: 25.1759167082792
+- slug: backstory-podcast-no-94-alabamas-ethical-decay-and-delta
+  title: Alabama's Ethical Decay and Delta
+  score: 25.787019135334628
   llm_score: 0
-  recency_score: 88.64345860381478
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 5
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 24.698747108660246
-  llm_score: 0
-  recency_score: 85.54185620629158
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
   score: 24.298215550005118
@@ -62,7 +54,7 @@ related_articles:
   recency_score: 62.93840107503325
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: backstory-podcast-no-81-tan-rested-ready
   title: Tan Rested & Ready
   score: 22.491774693015714
@@ -70,7 +62,7 @@ related_articles:
   recency_score: 71.19653550460211
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
   score: 20.360064767719294
@@ -78,12 +70,20 @@ related_articles:
   recency_score: 57.34042099017541
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: he-must-go
   title: He Must Go
   score: 20.240044819139534
   llm_score: 0
   recency_score: 56.56029132440696
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 19.98171747836964
+  llm_score: 0
+  recency_score: 54.88116360940264
   length_score: 100
   category_score: 0
   rank: 10

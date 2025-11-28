@@ -12,14 +12,6 @@ authors:
 - admin
 alttags: Illustration depicts Alabama state shape with Ethics$ overlaid, crossed out by a net, symbolizing corruption within the ...
 related_articles:
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 73.92951633942948
-  llm_score: 80
-  recency_score: 85.54185620629158
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
   score: 72.78468688044195
@@ -27,7 +19,31 @@ related_articles:
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 70.85259326250642
+  llm_score: 75
+  recency_score: 85.54185620629158
+  length_score: 100
+  category_score: 0
   rank: 2
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 69.50583755648374
+  llm_score: 85
+  recency_score: 36.787944117144235
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 68.10260819924657
+  llm_score: 85
+  recency_score: 27.666953295102704
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
   score: 67.83678706065913
@@ -35,60 +51,44 @@ related_articles:
   recency_score: 65.93911589428427
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 63.47740867996748
-  llm_score: 75
-  recency_score: 37.60315641978851
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 63.351991402637594
-  llm_score: 75
-  recency_score: 36.787944117144235
-  length_score: 100
-  category_score: 0
   rank: 5
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 63.06579769612177
-  llm_score: 60
-  recency_score: 94.92768502479139
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 66.63084072659579
+  llm_score: 65
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 6
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 61.948762045400436
-  llm_score: 75
-  recency_score: 27.666953295102704
+- slug: where-is-the-media
+  title: WHERE IS THE MEDIA?
+  score: 62.710096058411565
+  llm_score: 60
+  recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 7
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 48.16930226505733
-  llm_score: 35
-  recency_score: 98.10046472287257
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 60.4004856030444
+  llm_score: 70
+  recency_score: 37.60315641978851
   length_score: 100
   category_score: 0
   rank: 8
 - slug: elephants-in-alabama
   title: Elephants in Alabama
-  score: 47.89037471449059
-  llm_score: 50
+  score: 54.044220868336744
+  llm_score: 60
   recency_score: 36.28743564418876
   length_score: 100
   category_score: 0
   rank: 9
-- slug: where-is-the-media
-  title: WHERE IS THE MEDIA?
-  score: 25.787019135334628
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 26.142720773044832
   llm_score: 0
-  recency_score: 92.61562437967505
+  recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
   rank: 10

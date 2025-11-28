@@ -8,14 +8,6 @@ authors:
 - admin
 alttags: South Alabama Mega Site graphic celebrating 10 years; shovel icon indicates land has been shovel ready since 2011
 related_articles:
-- slug: repeat
-  title: REPEAT
-  score: 64.28176052629051
-  llm_score: 85
-  recency_score: 2.8314434208882173
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: mega-mistake
   title: MEGA-MISTAKE
   score: 59.712577403283525
@@ -23,23 +15,15 @@ related_articles:
   recency_score: 13.13175312134279
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: shovel-ready
+  title: SHOVEL READY
+  score: 58.90929904398502
+  llm_score: 75
+  recency_score: 7.9104437859025545
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: catalyst-exit-door
-  title: CATALYST EXIT DOOR
-  score: 58.42340600807722
-  llm_score: 75
-  recency_score: 4.7521390525018266
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: cattle-gate-mega-site
-  title: CATTLE GATE MEGA-SITE
-  score: 58.19875721411726
-  llm_score: 75
-  recency_score: 3.2919218917620787
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: dead-last
   title: DEAD LAST
   score: 58.141242064522174
@@ -47,7 +31,15 @@ related_articles:
   recency_score: 2.9180734193940348
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 3
+- slug: all-smoke-and-mirrors
+  title: ALL SMOKE AND MIRRORS
+  score: 57.87210105736746
+  llm_score: 75
+  recency_score: 1.1686568728883742
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: for-the-record-mega-money
   title: FOR THE RECORD — MEGA-MONEY
   score: 53.63198279735906
@@ -55,35 +47,43 @@ related_articles:
   recency_score: 13.607888182833822
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: shovel-ready
-  title: SHOVEL READY
-  score: 52.75545289013886
+  rank: 5
+- slug: cattle-gate-mega-site
+  title: CATTLE GATE MEGA-SITE
+  score: 52.0449110602711
   llm_score: 65
-  recency_score: 7.9104437859025545
+  recency_score: 3.2919218917620787
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-exit-door
+  title: CATALYST EXIT DOOR
+  score: 49.19263677730799
+  llm_score: 60
+  recency_score: 4.7521390525018266
   length_score: 100
   category_score: 0
   rank: 7
-- slug: economic-development-baldwin-county-style
-  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
-  score: 42.53713283049549
-  llm_score: 50
-  recency_score: 1.4913633982206251
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 49.00836792492726
+  llm_score: 60
+  recency_score: 3.554391512027108
   length_score: 100
   category_score: 0
   rank: 8
-- slug: all-smoke-and-mirrors
-  title: ALL SMOKE AND MIRRORS
-  score: 42.487485672752065
-  llm_score: 50
-  recency_score: 1.1686568728883742
+- slug: economic-development-baldwin-county-style
+  title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
+  score: 48.69097898434165
+  llm_score: 60
+  recency_score: 1.4913633982206251
   length_score: 100
   category_score: 0
   rank: 9
 - slug: fire
   title: FIRE
-  score: 42.42788166703125
-  llm_score: 50
+  score: 14.73557397472355
+  llm_score: 5
   recency_score: 0.7812308357030797
   length_score: 100
   category_score: 0

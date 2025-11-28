@@ -17,38 +17,30 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 62.94843975183114
+- slug: cover-up
+  title: COVER UP
+  score: 61.1110010538576
   llm_score: 75
-  recency_score: 34.164858386902274
+  recency_score: 22.221506850074306
   length_score: 100
   category_score: 0
   rank: 2
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 58.49478103011363
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 58.825624805547456
   llm_score: 75
-  recency_score: 5.216076695738494
+  recency_score: 7.366561236058354
   length_score: 100
   category_score: 0
   rank: 3
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 57.36120621495452
-  llm_score: 70
-  recency_score: 17.84784039720432
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 56.79459359798498
+  llm_score: 65
+  recency_score: 34.164858386902274
   length_score: 100
   category_score: 0
   rank: 4
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 56.556249904565405
-  llm_score: 50
-  recency_score: 92.61562437967505
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: ki-yay-mother-yippee
   title: Ki Yay Mother Yippee
   score: 52.870609524559015
@@ -56,35 +48,43 @@ related_articles:
   recency_score: 8.658961909633518
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 52.671778651701295
+  rank: 5
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 52.34093487626747
   llm_score: 65
-  recency_score: 7.366561236058354
+  recency_score: 5.216076695738494
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: backwoods-media-ad
   title: BACKWOODS MEDIA AD
-  score: 48.62178920359769
-  llm_score: 60
+  score: 51.698712280520766
+  llm_score: 65
   recency_score: 1.0416298233849144
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 50.40240375071925
+  llm_score: 40
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: homeland-securitys-disinformation-governance-board
-  title: Homeland Security’s Disinformation Governance Board
-  score: 43.734280647344804
-  llm_score: 50
-  recency_score: 9.272824207741175
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 41.976590830339134
+  llm_score: 45
+  recency_score: 17.84784039720432
   length_score: 100
   category_score: 0
   rank: 9
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 30.419214852114322
-  llm_score: 30
+  score: 39.649984082883556
+  llm_score: 45
   recency_score: 2.7248965387430797
   length_score: 100
   category_score: 0

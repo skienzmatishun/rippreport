@@ -8,19 +8,19 @@ authors:
 - admin
 rumble: v5rjhyn
 related_articles:
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 70.4618986652748
-  llm_score: 75
-  recency_score: 83.00234132428609
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: stirring-the-pot-bsp
   title: Stirring The Pot
   score: 65.32619018413641
   llm_score: 65
   recency_score: 89.62023619688662
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 64.30805251142864
+  llm_score: 65
+  recency_score: 83.00234132428609
   length_score: 100
   category_score: 0
   rank: 2
@@ -32,11 +32,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 62.09102604302952
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 62.05502036480857
   llm_score: 75
-  recency_score: 28.59166927969179
+  recency_score: 28.357632371255608
   length_score: 100
   category_score: 0
   rank: 4
@@ -48,43 +48,43 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 58.33156137189827
-  llm_score: 75
-  recency_score: 4.155148917338647
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 52.86025681226029
+  llm_score: 60
+  recency_score: 28.59166927969179
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 54.74839648328332
-  llm_score: 70
-  recency_score: 0.8645771413415052
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 52.17771521805211
+  llm_score: 65
+  recency_score: 4.155148917338647
   length_score: 100
   category_score: 0
   rank: 7
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 52.64417555682677
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 51.88641968089558
   llm_score: 65
-  recency_score: 7.1871411193739325
+  recency_score: 2.2617279258211895
   length_score: 100
   category_score: 0
   rank: 8
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 46.67040498019318
-  llm_score: 50
-  recency_score: 28.357632371255608
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 51.67147340636024
+  llm_score: 65
+  recency_score: 0.8645771413415052
   length_score: 100
   category_score: 0
   rank: 9
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 43.27103506551096
-  llm_score: 51
-  recency_score: 2.2617279258211895
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 40.33648324913446
+  llm_score: 45
+  recency_score: 7.1871411193739325
   length_score: 100
   category_score: 0
   rank: 10

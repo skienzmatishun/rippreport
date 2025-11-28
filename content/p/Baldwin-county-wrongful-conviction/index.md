@@ -10,82 +10,82 @@ authors:
 - admin
 alttags: Baldwin County Courthouse, featured in a podcast about wrongful conviction and judicial system corruption
 related_articles:
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 81.23076923076924
-  llm_score: 82
-  recency_score: 50
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 85.30054665785535
+  llm_score: 95
+  recency_score: 99.45355327605971
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
 - slug: earful
   title: EARFUL
-  score: 79.80171196773843
-  llm_score: 87
+  score: 78.5709427369692
+  llm_score: 85
   recency_score: 95.71112779029973
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 76.92307692307693
-  llm_score: 75
-  recency_score: 50
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 76.3076923076923
-  llm_score: 74
+  score: 77.69230769230771
+  llm_score: 95
   recency_score: 50
   length_score: 100
-  category_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 72.13739402365947
+  llm_score: 75
+  recency_score: 93.89306115378648
+  length_score: 100
+  category_score: 0
   rank: 4
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 73.60823896554766
-  llm_score: 76
-  recency_score: 99.45355327605971
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 71.10483856939815
-  llm_score: 72
-  recency_score: 99.18145070108791
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 71.02145798661161
-  llm_score: 72
-  recency_score: 98.63947691297537
+- slug: innocent
+  title: INNOCENT
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 68.46153846153847
-  llm_score: 80
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: innocent
-  title: INNOCENT
-  score: 67.23076923076924
-  llm_score: 78
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 63.538461538461554
-  llm_score: 72
+  score: 71.53846153846155
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0

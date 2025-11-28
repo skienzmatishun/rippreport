@@ -13,52 +13,44 @@ alttags: Tunnel view with a “No U Turn” sign, symbolizing Fauxhope’s restr
 related_articles:
 - slug: I-SEE-YOU
   title: I SEE YOU
-  score: 75.57492489052858
-  llm_score: 80
+  score: 72.4980018136055
+  llm_score: 75
   recency_score: 96.23701178843567
   length_score: 100
   category_score: 0
   rank: 1
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 71.8575755158803
-  llm_score: 83
+  score: 66.93449859280338
+  llm_score: 75
   recency_score: 60.07424085322191
   length_score: 100
   category_score: 0
   rank: 2
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 67.52183633770048
-  llm_score: 82
-  recency_score: 35.89193619505306
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: the-good-the-bad-and-the-ugly-repost
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 62.40078388455173
-  llm_score: 80
-  recency_score: 10.605095249586157
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 62.09264680994996
-  llm_score: 82
+  score: 63.93880065610381
+  llm_score: 85
   recency_score: 0.6022042646746438
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 61.4028149417527
-  llm_score: 81
-  recency_score: 0.11829712139245786
+  rank: 3
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 63.86085165802695
+  llm_score: 85
+  recency_score: 0.09553577717508804
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 63.21414403000818
+  llm_score: 75
+  recency_score: 35.89193619505306
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫
   score: 61.231900603615266
@@ -66,28 +58,36 @@ related_articles:
   recency_score: 3.007353923499134
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 60.78392858110387
-  llm_score: 80
-  recency_score: 0.09553577717508804
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 6
 - slug: triangle-roaches
   title: TRIANGLE ROACHES
-  score: 60.653405312987374
-  llm_score: 79
+  score: 58.191866851448914
+  llm_score: 75
   recency_score: 3.247134534417837
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY
-  score: 60.373446265829045
-  llm_score: 79
+  score: 57.911907804290585
+  llm_score: 75
   recency_score: 1.4274007278886993
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 57.71050724944501
+  llm_score: 75
+  recency_score: 0.11829712139245786
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: the-good-the-bad-and-the-ugly-repost
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 50.09309157685942
+  llm_score: 60
+  recency_score: 10.605095249586157
   length_score: 100
   category_score: 0
   rank: 10

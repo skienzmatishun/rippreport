@@ -11,11 +11,11 @@ alttags: Political cartoon depicting officials in a boat overlooking people stru
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 81.65525741787363
+  score: 70.1167958794121
   llm_score: 75
   recency_score: 80.75917321617852
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 1
 - slug: hatians-eating-cats
   title: Haitians Eating Cats
@@ -25,30 +25,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 60.235367511101344
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 64.2904798615411
   llm_score: 75
-  recency_score: 16.529888822158654
+  recency_score: 42.88811910001705
   length_score: 100
   category_score: 0
   rank: 3
-- slug: priorities
-  title: Priorities
-  score: 58.94653374844694
+- slug: cover-up
+  title: COVER UP
+  score: 60.858551894733644
   llm_score: 75
-  recency_score: 8.152469364904984
+  recency_score: 20.580587315768575
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 58.92608486729314
-  llm_score: 75
-  recency_score: 8.019551637405318
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: happy-days
   title: HAPPY DAYS
   score: 58.74193641293641
@@ -56,23 +48,7 @@ related_articles:
   recency_score: 6.822586684086551
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: january-22nd-qualifying-deadline
-  title: January 22nd Qualifying Deadline
-  score: 58.64857845381747
-  llm_score: 75
-  recency_score: 6.215759949813457
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 58.48386319508556
-  llm_score: 75
-  recency_score: 5.1451107680560595
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 5
 - slug: trump-n-bama
   title: Trump N Bama
   score: 56.40646106360944
@@ -80,12 +56,36 @@ related_articles:
   recency_score: 31.641996913461323
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 54.081521357255184
+  llm_score: 65
+  recency_score: 16.529888822158654
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 52.49473229997131
+  llm_score: 65
+  recency_score: 6.215759949813457
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 52.3300170412394
+  llm_score: 65
+  recency_score: 5.1451107680560595
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 42.9262711504994
-  llm_score: 50
-  recency_score: 4.020762478246048
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 40.464546405754675
+  llm_score: 45
+  recency_score: 8.019551637405318
   length_score: 100
   category_score: 0
   rank: 10

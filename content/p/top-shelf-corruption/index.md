@@ -56,20 +56,12 @@ related_articles:
   rank: 5
 - slug: alabama-ugly
   title: ALABAMA UGLY
-  score: 70.57208749781677
-  llm_score: 85
+  score: 64.41824134397062
+  llm_score: 75
   recency_score: 43.718568735808944
   length_score: 100
   category_score: 0
   rank: 6
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 69.61542693402161
-  llm_score: 85
-  recency_score: 37.500275071140365
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
   score: 63.97735605688131
@@ -77,20 +69,28 @@ related_articles:
   recency_score: 0.8528143697284161
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 63.654407904539575
+  rank: 7
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 63.46158078017546
   llm_score: 75
-  recency_score: 38.75365137950711
+  recency_score: 37.500275071140365
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
   score: 63.351991402637594
   llm_score: 75
   recency_score: 36.787944117144235
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 17.500561750693404
+  llm_score: 0
+  recency_score: 38.75365137950711
   length_score: 100
   category_score: 0
   rank: 10

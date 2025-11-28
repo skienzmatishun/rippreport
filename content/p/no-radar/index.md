@@ -28,14 +28,30 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: police-report
-  title: POLICE REPORT
-  score: 70.09249019187754
-  llm_score: 75
-  recency_score: 5.601186247203939
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 71.00955183213131
+  llm_score: 85
+  recency_score: 46.562086908853416
   length_score: 100
-  category_score: 100
+  category_score: 0
   rank: 2
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 58.12672256284645
+  llm_score: 75
+  recency_score: 2.82369665850184
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 58.0299358638922
+  llm_score: 75
+  recency_score: 2.1945831152992037
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: caught-trap-like-rat
   title: CAUGHT IN A TRAP LIKE A RAT
   score: 57.92747597872227
@@ -43,7 +59,7 @@ related_articles:
   recency_score: 1.5285938616946646
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 5
 - slug: court-public-opinion-now-session
   title: COURT OF PUBLIC OPINION IS NOW IN SESSION
   score: 57.92300887416121
@@ -51,15 +67,7 @@ related_articles:
   recency_score: 1.4995576820477703
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: you-dont-know-jack
-  title: YOU DON’T KNOW JACK
-  score: 57.88643623839696
-  llm_score: 75
-  recency_score: 1.2618355495801652
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 6
 - slug: captain-jack-at-the-controls
   title: CAPTAIN JACK AT THE CONTROLS
   score: 50.40046624698764
@@ -67,36 +75,28 @@ related_articles:
   recency_score: 12.603030605419562
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: self-incrimination
-  title: SELF INCRIMINATION
-  score: 48.799166633122965
-  llm_score: 60
-  recency_score: 2.1945831152992037
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 34.08647490905438
-  llm_score: 25
-  recency_score: 46.562086908853416
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 48.87732183341988
+  llm_score: 60
+  recency_score: 2.7025919172291193
   length_score: 100
   category_score: 0
   rank: 8
-- slug: dog-and-pony-show-2
-  title: DOG AND PONY SHOW
-  score: 32.26044069013149
-  llm_score: 30
-  recency_score: 14.692864485854656
+- slug: you-dont-know-jack
+  title: YOU DON’T KNOW JACK
+  score: 48.65566700762773
+  llm_score: 60
+  recency_score: 1.2618355495801652
   length_score: 100
   category_score: 0
   rank: 9
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 11.954244910342942
-  llm_score: 0
-  recency_score: 2.7025919172291193
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 41.49120992090072
+  llm_score: 45
+  recency_score: 14.692864485854656
   length_score: 100
   category_score: 0
   rank: 10

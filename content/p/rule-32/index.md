@@ -13,83 +13,83 @@ authors:
 - admin
 alttags: Legal document filed as a Rule 32 petition seeking relief from conviction for Murray Lawrence, against backdrop of jail fe...
 related_articles:
-- slug: no-justice
-  title: NO JUSTICE
-  score: 87.82871544335595
-  llm_score: 83
-  recency_score: 88.88665038181365
-  length_score: 100
-  category_score: 100
-  rank: 1
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 77.24219090049569
-  llm_score: 73
-  recency_score: 60.07424085322191
-  length_score: 100
-  category_score: 100
-  rank: 2
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 74.69013979043906
-  llm_score: 70
-  recency_score: 55.48590863785381
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 73.40007149582657
-  llm_score: 76
+  score: 78.9385330342881
+  llm_score: 85
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 71.63754141580749
-  llm_score: 74
-  recency_score: 19.644019202748584
-  length_score: 100
-  category_score: 100
-  rank: 5
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 69.92767520340904
-  llm_score: 72
-  recency_score: 16.529888822158654
-  length_score: 100
-  category_score: 100
-  rank: 6
+  rank: 1
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 65.3846153846154
-  llm_score: 75
+  score: 77.69230769230771
+  llm_score: 95
   recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: no-justice
+  title: NO JUSTICE
+  score: 77.52102313566365
+  llm_score: 85
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 71.53846153846155
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 66.93449859280338
+  llm_score: 75
+  recency_score: 60.07424085322191
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 66.86831064657672
+  llm_score: 85
+  recency_score: 19.644019202748584
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 66.51045915504818
+  llm_score: 85
+  recency_score: 17.31798450781311
   length_score: 100
   category_score: 0
   rank: 7
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 62.923076923076934
-  llm_score: 71
-  recency_score: 50
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 66.38921366494749
+  llm_score: 85
+  recency_score: 16.529888822158654
   length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 62.30769230769232
-  llm_score: 70
-  recency_score: 50
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 66.2286013289006
+  llm_score: 75
+  recency_score: 55.48590863785381
   length_score: 100
   category_score: 0
   rank: 9
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 59.1258437704328
-  llm_score: 73
-  recency_score: 17.31798450781311
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 59.23076923076924
+  llm_score: 65
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 10

@@ -14,44 +14,28 @@ authors:
 related_articles:
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 72.59534057307587
-  llm_score: 76
+  score: 71.97995595769126
+  llm_score: 75
   recency_score: 92.86971372499306
   length_score: 100
   category_score: 0
   rank: 1
 - slug: I-SEE-YOU
   title: I SEE YOU
-  score: 71.69243276500559
-  llm_score: 79
+  score: 69.23089430346714
+  llm_score: 75
   recency_score: 75.00081297253628
   length_score: 100
   category_score: 0
   rank: 2
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 69.41208326489267
-  llm_score: 76
+  score: 68.79669864950806
+  llm_score: 75
   recency_score: 72.17854122180232
   length_score: 100
   category_score: 0
   rank: 3
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 68.6789083565551
-  llm_score: 74
-  recency_score: 75.41290431760807
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 66.80176926773203
-  llm_score: 82
-  recency_score: 31.21150024025806
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
   score: 65.34255421188206
@@ -59,20 +43,36 @@ related_articles:
   recency_score: 49.72660237723329
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 64.24410480054608
+  llm_score: 85
+  recency_score: 2.5866812035494737
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 62.49407696003972
+  llm_score: 75
+  recency_score: 31.21150024025806
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 62.32215594307848
-  llm_score: 78
-  recency_score: 18.094013630009982
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 62.389977683430736
+  llm_score: 75
+  recency_score: 30.53485494229968
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 61.774593068046116
-  llm_score: 74
-  recency_score: 30.53485494229968
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 60.47600209692463
+  llm_score: 75
+  recency_score: 18.094013630009982
   length_score: 100
   category_score: 0
   rank: 8
@@ -84,11 +84,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-- slug: off-the-rails
-  title: OFF THE RAILS
-  score: 57.474874031315316
-  llm_score: 74
-  recency_score: 2.5866812035494737
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 58.02625602943976
+  llm_score: 75
+  recency_score: 2.1706641913583127
   length_score: 100
   category_score: 0
   rank: 10

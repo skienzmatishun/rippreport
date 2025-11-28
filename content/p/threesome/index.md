@@ -16,6 +16,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 66.6222321285662
+  llm_score: 85
+  recency_score: 18.044508835680173
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT
   score: 65.40569206559196
@@ -23,15 +31,15 @@ related_articles:
   recency_score: 50.13699842634772
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: columbia-questions-and-documents
-  title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 62.441742121091984
-  llm_score: 75
-  recency_score: 30.871323787097815
+  rank: 3
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 63.898843070303556
+  llm_score: 85
+  recency_score: 0.3424799569730124
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
   score: 61.64526466485993
@@ -39,15 +47,15 @@ related_articles:
   recency_score: 25.694220321589416
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 60.46838597472004
+  rank: 5
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 59.04282984407535
   llm_score: 75
-  recency_score: 18.044508835680173
+  recency_score: 8.77839398648969
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 6
 - slug: shut-up-2
   title: SHUT UP
   score: 58.52615874700385
@@ -55,7 +63,7 @@ related_articles:
   recency_score: 5.420031855524929
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 7
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
   score: 58.16007576557338
@@ -63,20 +71,12 @@ related_articles:
   recency_score: 3.0404924762268615
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 8
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
   score: 57.752732349945575
   llm_score: 75
   recency_score: 0.392760274646119
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 57.7449969164574
-  llm_score: 75
-  recency_score: 0.3424799569730124
   length_score: 100
   category_score: 0
   rank: 9

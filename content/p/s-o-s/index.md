@@ -14,14 +14,46 @@ authors:
 - admin
 alttags: City of Fairhope, Alabama seal depicting a ship, rising sun, and flames, related to waterfront project discussions
 related_articles:
-- slug: got-fleas
-  title: GOT FLEAS
-  score: 71.6319657032462
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 69.29429297193971
   llm_score: 75
-  recency_score: 90.60777707110016
+  recency_score: 75.41290431760807
   length_score: 100
   category_score: 0
   rank: 1
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 68.17584724293476
+  llm_score: 75
+  recency_score: 68.14300707907584
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 67.42834086122147
+  llm_score: 75
+  recency_score: 63.2842155979395
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 65.47811954940003
+  llm_score: 65
+  recency_score: 90.60777707110016
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 64.36318626121964
+  llm_score: 75
+  recency_score: 43.36071069792758
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
   score: 64.05961221556136
@@ -29,68 +61,36 @@ related_articles:
   recency_score: 41.38747940114875
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 62.022001089088604
-  llm_score: 65
-  recency_score: 68.14300707907584
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: howling-rains-passing-gas
-  title: HOWLING RAINS PASSING GAS
-  score: 61.27449470737532
-  llm_score: 65
-  recency_score: 63.2842155979395
-  length_score: 100
-  category_score: 0
-  rank: 4
+  rank: 6
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 58.43552338459708
-  llm_score: 75
+  score: 52.28167723075092
+  llm_score: 65
   recency_score: 4.830901999880929
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 7
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 57.95185305807695
-  llm_score: 75
+  score: 51.79800690423079
+  llm_score: 65
   recency_score: 1.687044877500055
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 48.57285258712816
-  llm_score: 60
-  recency_score: 0.7235418163329606
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 8
 - slug: happy-days
   title: HAPPY DAYS
-  score: 46.37456832889075
-  llm_score: 45
+  score: 43.29764525196767
+  llm_score: 40
   recency_score: 46.434694137789805
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: howling-rains
-  title: HOWLING RAINS
-  score: 45.90164779968118
-  llm_score: 45
-  recency_score: 43.36071069792758
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: redneck-renovations
-  title: REDNECK RENOVATIONS
-  score: 23.14044681809355
-  llm_score: 0
-  recency_score: 75.41290431760807
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 36.26516027943585
+  llm_score: 40
+  recency_score: 0.7235418163329606
   length_score: 100
   category_score: 0
   rank: 10

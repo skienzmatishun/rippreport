@@ -17,11 +17,11 @@ authors:
 - admin
 alttags: Council denies knowledge of property purchase; graphic shows a speech bubble crossed out
 related_articles:
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 72.86761183276546
+- slug: honeymoon
+  title: HONEYMOON
+  score: 72.78468688044195
   llm_score: 75
-  recency_score: 98.63947691297537
+  recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
   rank: 1
@@ -33,19 +33,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-colors
-  title: 🚫 CATALYST COLORS 🚫
-  score: 67.85363350466798
-  llm_score: 85
-  recency_score: 26.048617780341775
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 66.7137656789193
+  llm_score: 65
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 3
-- slug: honey-bees
-  title: HONEY BEES
-  score: 61.403859999929026
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 61.333357754516726
   llm_score: 75
-  recency_score: 24.12508999953858
+  recency_score: 23.666825404358608
   length_score: 100
   category_score: 0
   rank: 4
@@ -57,6 +57,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 55.54594119697567
+  llm_score: 65
+  recency_score: 26.048617780341775
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: documents
   title: DOCUMENTS
   score: 55.100575971647295
@@ -64,35 +72,27 @@ related_articles:
   recency_score: 23.153743815707337
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: disposal
-  title: DISPOSAL
-  score: 54.21007632236291
-  llm_score: 65
-  recency_score: 17.365496095358843
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: dog-and-pony-show-2
-  title: DOG AND PONY SHOW
-  score: 50.90220730685649
-  llm_score: 60
-  recency_score: 15.864347494567099
+- slug: blind-leading-the-blind
+  title: BLIND LEADING THE BLIND
+  score: 39.64829696676189
+  llm_score: 40
+  recency_score: 22.713930283952266
   length_score: 100
   category_score: 0
   rank: 8
-- slug: honeymoon
-  title: HONEYMOON
-  score: 45.09237918813425
-  llm_score: 30
-  recency_score: 98.10046472287257
+- slug: honey-bees
+  title: HONEY BEES
+  score: 36.788475384544405
+  llm_score: 35
+  recency_score: 24.12508999953858
   length_score: 100
   category_score: 0
   rank: 9
 - slug: down-home-fairhope-jester
   title: “DOWN HOME” FAIRHOPE JESTER
-  score: 33.446908002841305
-  llm_score: 30
+  score: 14.985369541302834
+  llm_score: 0
   recency_score: 22.404902018468416
   length_score: 100
   category_score: 0

@@ -14,36 +14,12 @@ authors:
 related_articles:
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 79.18867728610554
-  llm_score: 85
+  score: 73.03483113225938
+  llm_score: 75
   recency_score: 99.72640235968593
   length_score: 100
   category_score: 0
   rank: 1
-- slug: self-dealing-self-stealing
-  title: SELF-DEALING-SELF-STEALING
-  score: 72.82609255872669
-  llm_score: 75
-  recency_score: 98.36960163172333
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: alabama-ethics-self-dealing-immunity
-  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 72.53862097642448
-  llm_score: 75
-  recency_score: 96.50103634675902
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: court-of-public-opinion-2
-  title: COURT OF PUBLIC OPINION
-  score: 71.07071459027225
-  llm_score: 75
-  recency_score: 86.95964483676948
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: this-is-a-test
   title: THIS IS A TEST
   score: 69.42213725323005
@@ -51,7 +27,7 @@ related_articles:
   recency_score: 76.2438921459952
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 2
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
   score: 69.29429297193971
@@ -59,35 +35,59 @@ related_articles:
   recency_score: 75.41290431760807
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 53.983374799238945
+  rank: 3
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 63.59532332795745
   llm_score: 60
-  recency_score: 35.89193619505306
+  recency_score: 98.36960163172333
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 63.30785174565525
+  llm_score: 60
+  recency_score: 96.50103634675902
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 62.019309410814266
+  llm_score: 75
+  recency_score: 28.125511170292626
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: court-of-public-opinion-2
+  title: COURT OF PUBLIC OPINION
+  score: 61.83994535950301
+  llm_score: 60
+  recency_score: 86.95964483676948
   length_score: 100
   category_score: 0
   rank: 7
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 44.35582736903109
-  llm_score: 50
-  recency_score: 13.312877898702032
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 58.76519594175217
+  llm_score: 75
+  recency_score: 6.973773621388993
   length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 15.865463256968098
-  llm_score: 0
-  recency_score: 28.125511170292626
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 50.50967352287725
+  llm_score: 60
+  recency_score: 13.312877898702032
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 12.671778651701285
-  llm_score: 0
+  score: 49.59485557477822
+  llm_score: 60
   recency_score: 7.366561236058354
   length_score: 100
   category_score: 0

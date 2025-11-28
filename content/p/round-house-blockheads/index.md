@@ -16,82 +16,82 @@ authors:
 - admin
 alttags: Montrose Hut facade features faces representing city officials debating its relocation, as discussed in the article
 related_articles:
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 64.15384615384616
-  llm_score: 73
+- slug: FAUXHOPE-4
+  title: FAUXHOPE
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-un-armed-robbery
-  title: FAIRHOPE UN-ARMED ROBBERY
-  score: 63.538461538461554
-  llm_score: 72
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 2
-- slug: catalyst-colors
-  title: 🚫 CATALYST COLORS 🚫
-  score: 62.923076923076934
-  llm_score: 71
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 3
-- slug: quid-quo-pro
-  title: QUID QUO PRO
-  score: 62.30769230769232
-  llm_score: 70
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 62.30769230769232
-  llm_score: 70
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 62.30769230769232
-  llm_score: 70
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 62.30769230769232
-  llm_score: 70
+- slug: marble-mouth
+  title: MARBLE MOUTH
+  score: 65.3846153846154
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: nail-in-the-coffin
-  title: NAIL IN THE COFFIN
-  score: 62.30769230769232
-  llm_score: 70
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 59.23076923076924
+  llm_score: 65
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 62.30769230769232
-  llm_score: 70
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 59.23076923076924
+  llm_score: 65
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: marble-mouth
-  title: MARBLE MOUTH
-  score: 62.30769230769232
-  llm_score: 70
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 19.230769230769234
+  llm_score: 0
   recency_score: 50
   length_score: 100
   category_score: 0
