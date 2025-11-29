@@ -5,7 +5,7 @@ similarity ordering by default */}} {{- $pageId := .Page.RelPermalink -}} {{-
 $defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
 .Params) 1 -}} {{- $pageId = index .Params 0 -}} {{- end -}} {{- if ge (len
 .Params) 2 -}} {{- $defaultOrdering = index .Params 1 -}} {{- end -}} {{- end
--}} {{- $pageId = strings.TrimPrefix "/" $pageId -}} {{- $pageId = strings.TrimSuffix "/" $pageId -}}
+-}}
 
 <!-- AI Comment System Container -->
 <div
