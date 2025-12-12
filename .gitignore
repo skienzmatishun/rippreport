@@ -34,3 +34,6 @@ migrate_comments/*
 migration_reports/*
 restore_archived_comments/*
 comment_moderation/*
+PROJECT_DETAILS.md
+documentation/*
+rust_comments/*
