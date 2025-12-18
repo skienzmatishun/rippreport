@@ -1343,7 +1343,7 @@ textarea {
 	padding: 10px 0;
 	border-bottom: 1px dotted #ebebeb;
 }
-.recent-comments-list {
+#recent-comments-list {
 	padding:1rem;
 	background:white;
 }
