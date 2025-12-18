@@ -73,12 +73,28 @@
   }
 
   /**
+   * Convert a URL slug to a readable title (fallback when pageTitle is not available)
+   * e.g., "p/my-article-slug" -> "My Article Slug"
+   */
+  function slugToTitle(pageId) {
+    if (!pageId) return 'Article';
+    // Remove leading path segments like "p/"
+    let slug = pageId.replace(/^p\//, '').replace(/\/$/, '');
+    // Replace hyphens with spaces and capitalize each word
+    return slug
+      .split('-')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ');
+  }
+
+  /**
    * Render a single comment item
    */
   function renderComment(comment) {
     const authorName = escapeHtml(comment.authorName || 'Anonymous');
     const content = escapeHtml(truncateText(comment.content, MAX_CONTENT_LENGTH));
-    const articleTitle = escapeHtml(comment.pageTitle || comment.pageId || 'Article');
+    // Use pageTitle if available, otherwise convert pageId slug to readable title
+    const articleTitle = escapeHtml(comment.pageTitle || slugToTitle(comment.pageId));
     const articleUrl = buildArticleUrl(comment.pageId);
     const timeAgo = formatRelativeTime(comment.createdAt);
 

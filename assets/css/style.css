@@ -1342,10 +1342,11 @@ textarea {
 .recent-comments__item {
 	padding: 10px 0;
 	border-bottom: 1px dotted #ebebeb;
-		background:white;
-	padding:1rem;
 }
-
+.recent-comments-list {
+	padding:1rem;
+	background:white;
+}
 .recent-comments__item:first-child {
 	padding-top: 0;
 }
