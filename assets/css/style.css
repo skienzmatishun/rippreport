@@ -1337,6 +1337,7 @@ textarea {
 /* Recent Comments Widget */
 .widget-recent-comments {
 	margin-bottom: 25px;
+	background:white;
 }
 
 .recent-comments__item {
