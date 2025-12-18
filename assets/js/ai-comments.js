@@ -589,6 +589,11 @@ class CommentSystem {
       content: formData.get("content").trim(),
     };
 
+    // Include page title if available (for latest comments display)
+    if (this.pageTitle) {
+      commentData.pageTitle = this.pageTitle;
+    }
+
     if (parentId) {
       commentData.parentId = parseInt(parentId);
     }
@@ -2412,6 +2417,11 @@ class CommentSystem {
       authorName: formData.get("authorName")?.trim() || "Anonymous",
       content: formData.get("content").trim(),
     };
+
+    // Include page title if available (for latest comments display)
+    if (this.pageTitle) {
+      commentData.pageTitle = this.pageTitle;
+    }
 
     if (parentId) {
       commentData.parentId = parseInt(parentId);

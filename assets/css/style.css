@@ -1337,13 +1337,13 @@ textarea {
 /* Recent Comments Widget */
 .widget-recent-comments {
 	margin-bottom: 25px;
-	background:white;
-	padding:1rem;
 }
 
 .recent-comments__item {
 	padding: 10px 0;
 	border-bottom: 1px dotted #ebebeb;
+		background:white;
+	padding:1rem;
 }
 
 .recent-comments__item:first-child {
