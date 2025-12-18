@@ -2,6 +2,7 @@
 permalink as ID {{< aicomments "custom-page-id" >}} - Uses custom page ID {{<
 aicomments "custom-page-id" "similarity" >}} - Uses custom page ID with AI
 similarity ordering by default */}} {{- $pageId := .Page.RelPermalink -}} {{-
+$pageTitle := .Page.Title -}} {{-
 $defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
 .Params) 1 -}} {{- $pageId = index .Params 0 -}} {{- end -}} {{- if ge (len
 .Params) 2 -}} {{- $defaultOrdering = index .Params 1 -}} {{- end -}} {{- end
@@ -11,6 +12,7 @@ $defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
 <div
   id="ai-comment-system"
   data-page-id="{{ lower $pageId }}"
+  data-page-title="{{ $pageTitle }}"
   data-default-ordering="{{ $defaultOrdering }}"
   class="ai-comments-container"
 ></div>
@@ -27,6 +29,7 @@ $defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
     // Get configuration from data attributes
     const container = document.getElementById("ai-comment-system");
     const pageId = container.dataset.pageId;
+    const pageTitle = container.dataset.pageTitle || "";
     const defaultOrdering =
       container.dataset.defaultOrdering || "chronological";
 
@@ -68,6 +71,7 @@ $defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
       window.commentSystem = new CommentSystem({
         container: "#ai-comment-system",
         pageId: pageId,
+        pageTitle: pageTitle,
         apiBase: "https://comments.rippreport.com/api",
         autoRefresh: false, // Disable auto-refresh to save API calls
         retryAttempts: 3,

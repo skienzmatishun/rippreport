@@ -1338,6 +1338,7 @@ textarea {
 .widget-recent-comments {
 	margin-bottom: 25px;
 	background:white;
+	padding:1rem;
 }
 
 .recent-comments__item {

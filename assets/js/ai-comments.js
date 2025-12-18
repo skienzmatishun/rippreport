@@ -207,6 +207,7 @@ class CommentAPIClient {
 class CommentSystem {
   constructor(options = {}) {
     this.pageId = options.pageId || window.location.pathname;
+    this.pageTitle = options.pageTitle || ""; // Store page title for new comments
     this.container = null;
     this.comments = [];
     this.orderingMode = "similarity"; // Default to 'similarity' (Relevant) mode
