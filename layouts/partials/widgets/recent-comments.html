@@ -1,0 +1,159 @@
+{{/* Recent Comments Widget - Displays latest comments across all pages */}}
+{{/* Requirements: 5.1, 5.2 */}}
+
+<div class="widget widget-recent-comments">
+  <h3 class="widget__title">Recent Comments</h3>
+  <div class="widget__content">
+    <div id="recent-comments-list" class="recent-comments">
+      <div class="recent-comments__loading">Loading comments...</div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const COMMENTS_API = 'https://comments.rippreport.com/api/comments/latest';
+  const COMMENT_LIMIT = 5;
+  const MAX_CONTENT_LENGTH = 80;
+
+  /**
+   * Truncate text to specified length with ellipsis
+   */
+  function truncateText(text, maxLength) {
+    if (!text) return '';
+    const cleaned = text.trim().replace(/\s+/g, ' ');
+    if (cleaned.length <= maxLength) return cleaned;
+    return cleaned.substring(0, maxLength).trim() + '...';
+  }
+
+  /**
+   * Escape HTML to prevent XSS
+   */
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  /**
+   * Format relative time (e.g., "2 hours ago")
+   */
+  function formatRelativeTime(dateString) {
+    const date = new Date(dateString);
+    const now = new Date();
+    const diffMs = now - date;
+    const diffSecs = Math.floor(diffMs / 1000);
+    const diffMins = Math.floor(diffSecs / 60);
+    const diffHours = Math.floor(diffMins / 60);
+    const diffDays = Math.floor(diffHours / 24);
+
+    if (diffDays > 30) {
+      return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+    } else if (diffDays > 0) {
+      return diffDays === 1 ? '1 day ago' : diffDays + ' days ago';
+    } else if (diffHours > 0) {
+      return diffHours === 1 ? '1 hour ago' : diffHours + ' hours ago';
+    } else if (diffMins > 0) {
+      return diffMins === 1 ? '1 min ago' : diffMins + ' mins ago';
+    } else {
+      return 'Just now';
+    }
+  }
+
+  /**
+   * Build article URL from pageId
+   */
+  function buildArticleUrl(pageId) {
+    if (!pageId) return '#';
+    // Ensure pageId starts and ends with slashes for proper URL
+    let path = pageId;
+    if (!path.startsWith('/')) path = '/' + path;
+    if (!path.endsWith('/')) path = path + '/';
+    return path;
+  }
+
+  /**
+   * Render a single comment item
+   */
+  function renderComment(comment) {
+    const authorName = escapeHtml(comment.authorName || 'Anonymous');
+    const content = escapeHtml(truncateText(comment.content, MAX_CONTENT_LENGTH));
+    const articleTitle = escapeHtml(comment.pageTitle || comment.pageId || 'Article');
+    const articleUrl = buildArticleUrl(comment.pageId);
+    const timeAgo = formatRelativeTime(comment.createdAt);
+
+    return `
+      <div class="recent-comments__item">
+        <div class="recent-comments__meta">
+          <span class="recent-comments__author">${authorName}</span>
+          <span class="recent-comments__time">${timeAgo}</span>
+        </div>
+        <p class="recent-comments__content">${content}</p>
+        <a href="${articleUrl}" class="recent-comments__link">
+          ${articleTitle}
+        </a>
+      </div>
+    `;
+  }
+
+  /**
+   * Render error state
+   */
+  function renderError() {
+    return '<div class="recent-comments__error">Comments unavailable</div>';
+  }
+
+  /**
+   * Render empty state
+   */
+  function renderEmpty() {
+    return '<div class="recent-comments__empty">No comments yet</div>';
+  }
+
+  /**
+   * Fetch and render recent comments
+   */
+  async function loadRecentComments() {
+    const container = document.getElementById('recent-comments-list');
+    if (!container) return;
+
+    try {
+      const response = await fetch(`${COMMENTS_API}?limit=${COMMENT_LIMIT}`, {
+        method: 'GET',
+        headers: {
+          'Accept': 'application/json'
+        }
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      const data = await response.json();
+
+      if (!data.success || !data.comments) {
+        throw new Error('Invalid response');
+      }
+
+      if (data.comments.length === 0) {
+        container.innerHTML = renderEmpty();
+        return;
+      }
+
+      const html = data.comments.map(renderComment).join('');
+      container.innerHTML = html;
+
+    } catch (error) {
+      console.error('Failed to load recent comments:', error);
+      container.innerHTML = renderError();
+    }
+  }
+
+  // Load comments when DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', loadRecentComments);
+  } else {
+    loadRecentComments();
+  }
+})();
+</script>
