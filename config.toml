@@ -34,13 +34,13 @@ disableKinds = ["taxonomy", "term"]
   home = "right"   # layout for home page
   list = "right"   # layout for list pages
   single = "right" # layout for single pages
-  widgets = ["subscribe", "recent-comments", "recent"]
+  widgets = ["subscribe", "recent", "recent-comments"]
 
 [Params.widgets.homepage]
-  widgets = ["subscribe", "recent-comments", "recent"]
+  widgets = ["subscribe", "recent", "recent-comments"]
 
 [Params.widgets.pages]
-  widgets = ["subscribe", "recent-comments", "recent"]
+  widgets = ["subscribe", "recent", "recent-comments"]
 
 [Params.widgets]
   recent_num = 12 # Number of articles in the "Recent articles" widget
