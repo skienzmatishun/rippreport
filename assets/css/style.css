@@ -1386,11 +1386,12 @@ textarea {
 	font-size: 12px;
 	font-size: .75rem;
 	font-weight: 700;
-	color: #173898;
+	color: #000000;
 	text-decoration: none;
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
+	text-transform: uppercase;
 }
 
 .recent-comments__link:hover {
