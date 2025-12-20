@@ -8,4 +8,4 @@ authors:
 - admin
 alttags: "Sign urging voters to vote YES Today! for District Zoning proposal, number 8 visible below the message"
 ---
-{{< aicomments "testing_something" > }}
+{{< aicomments "testing_something" >}}
