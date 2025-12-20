@@ -1,3 +1,6 @@
 [submodule "libusdt"]
 	path = themes/mainroad
 	url = https://github.com/vimux/mainroad.git
+[submodule "comment_moderation"]
+	path = comment_moderation
+	url = git@github.com:skienzmatishun/comment_moderation.git

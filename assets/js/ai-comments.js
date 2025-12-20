@@ -1900,13 +1900,22 @@ class CommentSystem {
     const threadClass = depth > 0 ? `thread-depth-${Math.min(depth, 4)}` : "";
     const isAnonymous =
       !comment.authorName || comment.authorName === "Anonymous";
+    const isAdmin = comment.authorName === "YOU";
+
+    // Determine author display
+    let authorDisplay;
+    if (isAdmin) {
+      authorDisplay = `<img src="/img/eagle-logo.svg" alt="Ripp Report" class="admin-avatar" style="height: 1.2em; vertical-align: middle;">`;
+    } else {
+      authorDisplay = this.escapeHtml(comment.authorName || "Anonymous");
+    }
 
     let html = `
       <div class="comment-thread">
-        <div class="comment ${threadClass}" data-comment-id="${comment.id}">
+        <div class="comment ${threadClass}${isAdmin ? ' admin-comment' : ''}" data-comment-id="${comment.id}">
           <div class="comment-header">
-            <div class="comment-author ${isAnonymous ? "anonymous" : ""}">
-              ${this.escapeHtml(comment.authorName || "Anonymous")}
+            <div class="comment-author ${isAnonymous ? "anonymous" : ""}${isAdmin ? " admin" : ""}">
+              ${authorDisplay}
             </div>
             <div class="comment-meta">
               <span class="comment-date">${this.formatDate(

@@ -162,6 +162,21 @@
   font-style: italic;
 }
 
+.comment-author.admin {
+  display: flex;
+  align-items: center;
+}
+
+.comment-author .admin-avatar {
+  height: 1.4em;
+  width: auto;
+}
+
+.comment.admin-comment {
+  background: linear-gradient(135deg, #f8f9ff 0%, #fff 100%);
+  border-left: 3px solid #55f;
+}
+
 .comment-meta {
   display: flex;
   align-items: center;
