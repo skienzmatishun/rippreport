@@ -168,9 +168,12 @@
 }
 
 .comment-author .admin-avatar {
-  height: 1.4em;
-  width: auto;
+  height: 4.2em;
+  background: black;
+  padding: 10px;
+  border-radius: 100%;
 }
+
 
 .comment.admin-comment {
   background: linear-gradient(135deg, #f8f9ff 0%, #fff 100%);
