@@ -936,25 +936,7 @@
     padding: 32px 12px 32px;
     margin: 0;
   }
-  .sib-form__declaration {
-    display: flex;
-    padding: 0 16px;
-    align-items: center;
-  }
-  .sib-form__declaration .declaration-block-icon {
-    display: flex;
-    padding: 0 16px 0 0;
-    margin: 0;
-  }
-  .sib-form__declaration .declaration-block-icon [class^="svgIcon"] {
-    width: 65px;
-    height: 65px;
-  }
-  .sib-form__declaration p {
-    line-height: 1.5em;
-    margin: 0;
-  }
-  .sib-form--blockPosition {
+    .sib-form--blockPosition {
     position: relative;
   }
   .sib-form ul,
@@ -971,46 +953,18 @@
   #sib-form {
     text-align: left;
   }
-  #sib-form .entry__choice label {
-    display: unset;
-  }
   
-  .sib-menu .entry__choice {
-    white-space: nowrap;
-    width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    padding: 0;
-    text-indent: 0;
-  }
   .sib-menu .input_replaced {
     opacity: 0;
     position: static;
     width: 0px;
     margin: 0;
   }
-  
-  #sib-other-container .entry__controls--other {
-    margin-left: 1.5em;
-  }
-  #sib-other-container .entry__choice--other {
-    width: 100%;
-  }
-  #sib-other-container #sib-other-reason {
-    width: 100%;
-    padding: 8px;
-    resize: vertical;
-    border: 1px solid #687484;
-  }
+    
   .input_display {
     line-height: 1.5rem;
   }
-  .entry__choice {
-    width: 100%;
-    margin-bottom: 3px;
-    word-wrap: break-all;
-    word-wrap: break-word;
-  }
+  
   .entry__label {
     margin-bottom: 10px;
     width: 100%;
@@ -1018,9 +972,7 @@
     word-break: break-word;
     word-wrap: break-word;
   }
-  .entry__label_optin {
-    display: inline;
-  }
+  
   .entry__label > * {
     float: left;
   }
@@ -1044,12 +996,6 @@
     margin-top: 6px;
     margin-bottom: 6px;
     background: rgba(0, 0, 0, 0);
-  }
-  .sib-entry_mcq .entry__controls {
-    display: block;
-    background: rgba(0, 0, 0, 0);
-    border: none;
-    outline: none;
   }
   .sib-form-block {
     padding: 0 16px;
@@ -1096,61 +1042,18 @@
     min-height: 40px;
     line-height: 23px;
   }
-  .sib-image-form-block {
-    padding: 2px;
-  }
-  .sib-image-form-block a {
-    display: block;
-    overflow: hidden;
-  }
-  .sib-image-form-block img {
-    max-width: 100%;
-  }
-  .sib-divider-form-block {
-    border: 0;
-    margin: 0;
-  }
+  
+  
   .form__label-row {
     display: flex;
     flex-direction: column;
     justify-content: stretch;
   }
-  .form__label-row--horizontal {
-    flex-direction: row;
-    align-items: flex-start;
-    margin: 10px 0;
-  }
-  .form__label-row--horizontal > *:first-child {
-    margin-right: 20px;
-  }
-  .form__label-row--horizontal > * {
-    width: 50%;
-    flex-grow: 1;
-  }
+
   .input {
     width: calc(100% - 1rem);
   }
-  
-  .input--select {
-    position: relative;
-    width: 100%;
-  }
-  .input--select::before,
-  .input--select::after {
-    content: "";
-    position: absolute;
-    right: 8px;
-  }
-  .input--select::before {
-    top: calc(50% - 12px);
-    border: 5px solid rgba(0, 0, 0, 0);
-    border-bottom-color: #343f4e;
-  }
-  .input--select::after {
-    top: calc(50% + 2px);
-    border: 5px solid rgba(0, 0, 0, 0);
-    border-top-color: #343f4e;
-  }
+    
   .input--hidden {
     display: none !important;
   }
@@ -1168,45 +1071,13 @@
   textarea.input {
     padding: calc(0.5rem - 1px);
   }
-  .sib-form-container a {
-    text-decoration: underline;
-    color: #2bb2fc;
-  }
+
   .form__entry {
     position: static;
     margin-left: 0;
     padding-left: 0;
   }
-  .sib-panel {
-    position: relative;
-    width: 100%;
-    margin: 24px 0;
-    padding: 10px 25px;
-    border-width: 1px;
-    border-style: solid;
-    border-radius: 3px;
-    color: #3c4858;
-    text-align: center;
-    box-shadow: none;
-  }
-  .sib-panel--active {
-    display: block;
-  }
-  .sib-panel--inactive {
-    display: none;
-  }
-  .sib-panel__text {
-    margin: 0;
-    font-weight: 600;
-    text-align: left;
-  }
-  .sib-panel__link {
-    padding: 0 5px;
-    color: #3c4858;
-    text-decoration: underline;
-    cursor: pointer;
-  }
-  
+    
   .sib-form-message-panel {
     margin: 0 0 1.25rem 0;
     width: 100%;
@@ -1263,22 +1134,6 @@
   }
   .sib-hide-loader-icon {
     display: none;
-  }
-  .sib-form ::-webkit-input-placeholder {
-    color: #c0ccda;
-    opacity: 1;
-  }
-  .sib-form ::-moz-placeholder {
-    color: #c0ccda;
-    opacity: 1;
-  }
-  .sib-form :-ms-input-placeholder {
-    color: #c0ccda;
-    opacity: 1;
-  }
-  .sib-form ::-ms-input-placeholder {
-    color: #c0ccda;
-    opacity: 1;
   }
   .sib-form ::placeholder {
     color: #c0ccda;
@@ -1384,7 +1239,6 @@
     font-weight: 400;
   }
   .sib-form .entry__field {
-    -webkit-align-items: center;
     align-items: center;
     background: #fff;
     border: 1px solid #c0ccda;
@@ -1402,7 +1256,6 @@
     display: inline-flex;
     margin: 0.25rem 0;
     max-width: 100%;
-    -webkit-align-items: center;
     align-items: center;
     overflow: hidden;
   }
@@ -1597,4 +1450,5 @@
       transform: rotate(1turn);
     }
   }
+
 </style>
