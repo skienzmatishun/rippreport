@@ -7,12 +7,11 @@
 
 	<div class="logo{{ with $logoMix }} logo--mixed{{ end }}">
 		<a class="logo__link" href="{{ "" | relLangURL }}"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
-			<span class="title-logo" style="position:relative;top:11px;">RIPP</span>
-			<div class="logo__item logo__imagebox">
+<div class="logo__item logo__imagebox">
 				<div class="logo__img" style="transform: scale(72%);">{{ partial "svg/eagle-logo.svg" (dict "id" "eagle") -}}
 				</div>
 			</div>
-			<span class="title-logo" style="position:relative;top:11px;">REPORT</span>
+			<span class="title-logo" style="position:relative;top:11px;">RIPP REPORT</span>
 		</a>
 	</div>
 	<div class="top-social"><a aria-label="Ripp Report Facebook Page" href="https://facebook.com/rippreport">{{ partial "svg/facebook.svg" (dict "id" "facebook") -}}</a>
