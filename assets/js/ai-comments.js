@@ -1940,7 +1940,7 @@ class CommentSystem {
             </button>
           </div>
         </div>
-    `;
+    `
 
     // Render replies - this is the critical part for showing nested replies
     if (
