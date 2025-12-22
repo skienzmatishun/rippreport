@@ -235,27 +235,6 @@ blockquote footer {
 	text-align: right;
 }
 
-sup,
-sub {
-	font-size: 10px;
-	font-size: .625rem;
-	font-style: normal;
-}
-
-sup {
-	vertical-align: super;
-}
-
-sub {
-	vertical-align: sub;
-}
-
-abbr[title] {
-	text-decoration: none;
-	cursor: help;
-	border-bottom: 1px dotted #000;
-}
-
 q {
 	font-style: italic;
 }
