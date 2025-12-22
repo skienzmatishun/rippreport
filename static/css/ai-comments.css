@@ -1267,7 +1267,104 @@
 .ai-status-indicator.error {
   background: #dc3545;
 }
-
+.ai-comments-container {
+        margin: 2rem 0;
+        font-family: inherit;
+        clear: both;
+    }
+    
+    /* Ensure comments blend well with your site's design */
+    .ai-comments-container .comment-system {
+        background: transparent;
+    }
+    
+    /* Match your site's color scheme */
+    .ai-comments-container .form-btn-primary {
+        background-color: #000 !important;
+        border-color: #000 !important;
+        color: #fff !important;
+        transition: all 0.2s ease;
+    }
+    
+    .ai-comments-container .form-btn-primary:hover {
+        background-color: #333 !important;
+        border-color: #333 !important;
+        color: #fff !important;
+        transform: translateY(-1px);
+    }
+    
+    /* Style the ordering buttons */
+    .ai-comments-container .ordering-button {
+        background: #f8f9fa;
+        border: 1px solid #dee2e6;
+        color: #495057;
+        transition: all 0.2s ease;
+    }
+    
+    .ai-comments-container .ordering-button.active {
+        background: #000 !important;
+        border-color: #000 !important;
+        color: #fff !important;
+    }
+    
+    .ai-comments-container .ordering-button:hover {
+        background: #e9ecef;
+        border-color: #adb5bd;
+    }
+    
+    .ai-comments-container .ordering-button.active:hover {
+        background: #333 !important;
+        border-color: #333 !important;
+        color: #fff !important;
+    }
+    
+    /* Ensure button text is always white on primary buttons */
+    .ai-comments-container .form-btn-primary .btn-text,
+    .ai-comments-container .form-btn-primary span {
+        color: #fff !important;
+    }
+    
+    /* Comment styling */
+    .ai-comments-container .comment {
+        
+        margin-bottom: 1rem;
+    }
+    
+    .ai-comments-container .comment.reply {
+        
+        margin-left: 2rem;
+    }
+    
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+        .ai-comments-container {
+            margin: 1rem 0;
+        }
+        
+        .ai-comments-container .comment-form {
+            padding: 1rem;
+        }
+        
+        .ai-comments-container .comment.reply {
+            margin-left: 1rem;
+        }
+        
+        .ai-comments-container .ordering-controls {
+            flex-direction: column;
+            gap: 10px;
+        }
+    }
+    
+    /* Loading and error states */
+    .ai-comments-loading, .ai-comments-error {
+        font-family: inherit;
+    }
+    
+    /* Notification styling */
+    .ai-comments-notification {
+        font-family: inherit;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
 @keyframes pulse {
   0% { opacity: 1; }
   50% { opacity: 0.5; }
