@@ -126,8 +126,6 @@
   .btn,
   .logo__link,
   .widget__title,
-  .top-social a:first-child,
-  .top-social a:last-child,
   .widget__link h3,
   .widget__summary {
     color: #fff;
@@ -226,18 +224,12 @@
     display: flex;
     gap: 8px;
     position: absolute;
-    top: 10px;
+    top: 0;
     right: 10px;
+    filter:invert(1);
+    font-size:30px;
   }
-
-  .top-social a:first-child,
-  .top-social a:last-child {
-    filter: invert(1);
-  }
-
-  .top-social a:first-child {
-    margin: -3px;
-  }
+ 
 
   .sidebar {
     flex: 1 0 31.66%;
