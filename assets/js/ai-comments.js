@@ -1900,12 +1900,16 @@ class CommentSystem {
     const threadClass = depth > 0 ? `thread-depth-${Math.min(depth, 4)}` : "";
     const isAnonymous =
       !comment.authorName || comment.authorName === "Anonymous";
-    const isAdmin = comment.authorName === "YOU";
+    // Check for admin authors: "YOU" (legacy), "Francis Ripp", or "Admin"
+    const adminAuthors = ["YOU", "Francis Ripp", "Admin"];
+    const isAdmin = adminAuthors.includes(comment.authorName);
 
     // Determine author display
     let authorDisplay;
     if (isAdmin) {
-      authorDisplay = `<img src="/img/eagle-logo.svg" alt="Ripp Report" class="admin-avatar" style="height: 1.2em; vertical-align: middle;">`;
+      // Show logo + name for admin authors
+      const displayName = comment.authorName === "YOU" ? "" : ` ${this.escapeHtml(comment.authorName)}`;
+      authorDisplay = `<img src="/img/eagle-logo.svg" alt="Ripp Report" class="admin-avatar" style="height: 1.2em; vertical-align: middle;">${displayName}`;
     } else {
       authorDisplay = this.escapeHtml(comment.authorName || "Anonymous");
     }
