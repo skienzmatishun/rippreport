@@ -2133,18 +2133,19 @@ class CommentSystem {
   }
 
   processCommentContentSync(content) {
-    // Check for link preview blocks BEFORE escaping HTML
-    // Link preview format: <div class="link-preview" data-url="..." data-title="..." data-description="..." data-image="...">...</div>
-    const linkPreviewRegex = /<div class="link-preview"([^>]*)>[\s\S]*?<\/div>/gi;
+    // Check for link preview markers BEFORE escaping HTML
+    // Format: [LINKPREVIEW:url|title|description|image]
+    const linkPreviewRegex = /\[LINKPREVIEW:([^\]]+)\]/g;
     const linkPreviews = [];
     let contentWithoutPreviews = content;
     
-    // Extract link preview blocks and replace with placeholders
+    // Extract link preview markers and replace with placeholders
     let match;
     let placeholderIndex = 0;
     while ((match = linkPreviewRegex.exec(content)) !== null) {
       const placeholder = `__LINK_PREVIEW_${placeholderIndex}__`;
-      linkPreviews.push({ placeholder, html: match[0], attributes: match[1] });
+      const data = match[1]; // The content between [LINKPREVIEW: and ]
+      linkPreviews.push({ placeholder, data });
       contentWithoutPreviews = contentWithoutPreviews.replace(match[0], placeholder);
       placeholderIndex++;
     }
@@ -2157,6 +2158,9 @@ class CommentSystem {
 
     // Replace URLs with clickable links
     processedContent = processedContent.replace(urlRegex, (url) => {
+      // Skip if this URL is part of a placeholder
+      if (url.includes('__LINK_PREVIEW_')) return url;
+      
       // Clean up the URL (remove trailing punctuation that might not be part of the URL)
       const cleanUrl = url.replace(/[.,;:!?]+$/, "");
       const trailingPunct = url.slice(cleanUrl.length);
@@ -2170,9 +2174,9 @@ class CommentSystem {
       return `<a href="${cleanUrl}" target="_blank" rel="noopener noreferrer" class="comment-link">${displayUrl}</a>${trailingPunct}`;
     });
     
-    // Restore link preview blocks with rendered preview cards
+    // Restore link preview markers with rendered preview cards
     for (const preview of linkPreviews) {
-      const renderedPreview = this.renderLinkPreviewCard(preview.attributes);
+      const renderedPreview = this.renderLinkPreviewFromData(preview.data);
       processedContent = processedContent.replace(preview.placeholder, renderedPreview);
     }
 
@@ -2180,21 +2184,18 @@ class CommentSystem {
   }
   
   /**
-   * Renders a link preview card from data attributes
-   * @param {string} attributes - The data attributes string from the link-preview div
+   * Renders a link preview card from pipe-separated data
+   * @param {string} data - Pipe-separated data: url|title|description|image
    * @returns {string} - HTML for the rendered preview card
    */
-  renderLinkPreviewCard(attributes) {
-    // Parse data attributes
-    const urlMatch = attributes.match(/data-url="([^"]*)"/);
-    const titleMatch = attributes.match(/data-title="([^"]*)"/);
-    const descMatch = attributes.match(/data-description="([^"]*)"/);
-    const imageMatch = attributes.match(/data-image="([^"]*)"/);
+  renderLinkPreviewFromData(data) {
+    // Split by pipe and decode special characters
+    const parts = data.split('|').map(part => this.decodeLinkPreviewField(part));
     
-    const url = urlMatch ? this.decodeHtmlEntities(urlMatch[1]) : '';
-    const title = titleMatch ? this.decodeHtmlEntities(titleMatch[1]) : 'Link';
-    const description = descMatch ? this.decodeHtmlEntities(descMatch[1]) : '';
-    const image = imageMatch ? this.decodeHtmlEntities(imageMatch[1]) : '';
+    const url = parts[0] || '';
+    const title = parts[1] || 'Link';
+    const description = parts[2] || '';
+    const image = parts[3] || '';
     
     // Extract domain for display
     let domain = '';
@@ -2229,14 +2230,15 @@ class CommentSystem {
   }
   
   /**
-   * Decodes HTML entities in a string
-   * @param {string} text - Text with HTML entities
-   * @returns {string} - Decoded text
+   * Decodes special characters in link preview fields
+   * @param {string} field - Encoded field
+   * @returns {string} - Decoded field
    */
-  decodeHtmlEntities(text) {
-    const textarea = document.createElement('textarea');
-    textarea.innerHTML = text;
-    return textarea.value;
+  decodeLinkPreviewField(field) {
+    return field
+      .replace(/\{\{PIPE\}\}/g, '|')
+      .replace(/\{\{LBRACKET\}\}/g, '[')
+      .replace(/\{\{RBRACKET\}\}/g, ']');
   }
 
   // Method to refresh comments (useful for after posting new comments)
