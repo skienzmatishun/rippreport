@@ -17,11 +17,31 @@
   const MAX_CONTENT_LENGTH = 80;
 
   /**
+   * Extract title from LINKPREVIEW marker
+   * Format: [LINKPREVIEW:url|title|description|image]
+   */
+  function extractLinkPreviewTitle(text) {
+    const match = text.match(/\[LINKPREVIEW:[^|]*\|([^|]*)\|[^\]]*\]/);
+    return match ? match[1] : null;
+  }
+
+  /**
+   * Process content to replace LINKPREVIEW markers with just the title
+   */
+  function processContent(text) {
+    if (!text) return '';
+    // Replace LINKPREVIEW markers with just "🔗 Title"
+    return text.replace(/\[LINKPREVIEW:[^|]*\|([^|]*)\|[^\]]*\]/g, '🔗 $1');
+  }
+
+  /**
    * Truncate text to specified length with ellipsis
    */
   function truncateText(text, maxLength) {
     if (!text) return '';
-    const cleaned = text.trim().replace(/\s+/g, ' ');
+    // First process any LINKPREVIEW markers
+    const processed = processContent(text);
+    const cleaned = processed.trim().replace(/\s+/g, ' ');
     if (cleaned.length <= maxLength) return cleaned;
     return cleaned.substring(0, maxLength).trim() + '...';
   }
