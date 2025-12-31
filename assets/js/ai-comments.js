@@ -2133,8 +2133,24 @@ class CommentSystem {
   }
 
   processCommentContentSync(content) {
-    // First escape HTML to prevent XSS
-    let processedContent = this.escapeHtml(content);
+    // Check for link preview blocks BEFORE escaping HTML
+    // Link preview format: <div class="link-preview" data-url="..." data-title="..." data-description="..." data-image="...">...</div>
+    const linkPreviewRegex = /<div class="link-preview"([^>]*)>[\s\S]*?<\/div>/gi;
+    const linkPreviews = [];
+    let contentWithoutPreviews = content;
+    
+    // Extract link preview blocks and replace with placeholders
+    let match;
+    let placeholderIndex = 0;
+    while ((match = linkPreviewRegex.exec(content)) !== null) {
+      const placeholder = `__LINK_PREVIEW_${placeholderIndex}__`;
+      linkPreviews.push({ placeholder, html: match[0], attributes: match[1] });
+      contentWithoutPreviews = contentWithoutPreviews.replace(match[0], placeholder);
+      placeholderIndex++;
+    }
+    
+    // Escape HTML for the rest of the content to prevent XSS
+    let processedContent = this.escapeHtml(contentWithoutPreviews);
 
     // URL regex pattern to match various URL formats
     const urlRegex = /(https?:\/\/[^\s<>"{}|\\^`[\]]+)/gi;
@@ -2153,8 +2169,74 @@ class CommentSystem {
 
       return `<a href="${cleanUrl}" target="_blank" rel="noopener noreferrer" class="comment-link">${displayUrl}</a>${trailingPunct}`;
     });
+    
+    // Restore link preview blocks with rendered preview cards
+    for (const preview of linkPreviews) {
+      const renderedPreview = this.renderLinkPreviewCard(preview.attributes);
+      processedContent = processedContent.replace(preview.placeholder, renderedPreview);
+    }
 
     return processedContent;
+  }
+  
+  /**
+   * Renders a link preview card from data attributes
+   * @param {string} attributes - The data attributes string from the link-preview div
+   * @returns {string} - HTML for the rendered preview card
+   */
+  renderLinkPreviewCard(attributes) {
+    // Parse data attributes
+    const urlMatch = attributes.match(/data-url="([^"]*)"/);
+    const titleMatch = attributes.match(/data-title="([^"]*)"/);
+    const descMatch = attributes.match(/data-description="([^"]*)"/);
+    const imageMatch = attributes.match(/data-image="([^"]*)"/);
+    
+    const url = urlMatch ? this.decodeHtmlEntities(urlMatch[1]) : '';
+    const title = titleMatch ? this.decodeHtmlEntities(titleMatch[1]) : 'Link';
+    const description = descMatch ? this.decodeHtmlEntities(descMatch[1]) : '';
+    const image = imageMatch ? this.decodeHtmlEntities(imageMatch[1]) : '';
+    
+    // Extract domain for display
+    let domain = '';
+    try {
+      domain = new URL(url).hostname;
+    } catch (e) {
+      domain = url;
+    }
+    
+    // Build the preview card HTML
+    const imageHtml = image ? `
+      <div class="link-preview-image">
+        <img src="https://images.rippreport.com/?url=${encodeURIComponent(image)}&w=300&h=158&q=85&f=webp" 
+             alt="${this.escapeHtml(title)}" 
+             loading="lazy"
+             onerror="this.parentElement.style.display='none'">
+      </div>
+    ` : '';
+    
+    return `
+      <div class="comment-link-preview">
+        <a href="${this.escapeHtml(url)}" target="_blank" rel="noopener noreferrer">
+          ${imageHtml}
+          <div class="link-preview-content">
+            <div class="link-preview-title">${this.escapeHtml(title)}</div>
+            <div class="link-preview-description">${this.escapeHtml(description)}</div>
+            <div class="link-preview-domain">${this.escapeHtml(domain)}</div>
+          </div>
+        </a>
+      </div>
+    `;
+  }
+  
+  /**
+   * Decodes HTML entities in a string
+   * @param {string} text - Text with HTML entities
+   * @returns {string} - Decoded text
+   */
+  decodeHtmlEntities(text) {
+    const textarea = document.createElement('textarea');
+    textarea.innerHTML = text;
+    return textarea.value;
   }
 
   // Method to refresh comments (useful for after posting new comments)

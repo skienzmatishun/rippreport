@@ -37,3 +37,5 @@ comment_moderation/*
 PROJECT_DETAILS.md
 documentation/*
 rust_comments/*
+link-preview/*
+link-cache/*
