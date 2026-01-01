@@ -1,5 +1,5 @@
 ---
-title: Heart of Dixie Podcast Thanksgiving Special - Former Summerdale Police Chief Kevin Brock
+title: Thanksgiving Special - Former Summerdale Police Chief Kevin Brock
 date: 2025-11-26
 youtube: b95pK074f3o
 thumbnail: img/former-summerdale-police-chief-kevin-brock.png
