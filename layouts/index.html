@@ -10,8 +10,9 @@
 		<article class="list__item post {{ if in $page.Params.categories "backstory-podcast" }}backstory__post{{ end }} {{ if in $page.Params.categories "bcso" }}bcso__post{{ end }} {{ if in $page.Params.categories "holiday" }}holiday{{ end }}{{ if in $page.Params.categories "repost" }}repost__article{{ end }}{{ if in $page.Params.categories "elections" }}elections__article{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__article{{ end }}">
 			{{ partial "post_thumbnail.html" (dict "class" "list" "page" $page "index" $index) }}
 			<header class="list__header {{ if in $page.Params.categories "backstory-podcast" }}backstory__list__header{{ end }}{{ if in $page.Params.categories "bcso" }}bcso__list__header{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__list__header{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__list__header{{ end }}{{ if in $page.Params.categories "dixie-podcast" }}dixie__list__header{{ end }}">
-				{{ if in $page.Params.categories "dixie-podcast" }}<img src="/img/heart-of-dixie-podcast-logo.png" alt="Heart of Dixie Podcast" class="dixie__logo">{{ end }}
+				
 				<h2 class="list__title post__title {{ if in $page.Params.categories "backstory-podcast" }}backstory__title{{ end }}{{ if in $page.Params.categories "bcso" }}bcso__title{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__title{{ end }}{{ if in $page.Params.categories "repost" }}repost__title{{ end }}{{ if in $page.Params.categories "elections" }}elections__title{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__title{{ end }}{{ if in $page.Params.categories "dixie-podcast" }}dixie__title{{ end }}">
+					{{ if in $page.Params.categories "dixie-podcast" }}<img src="/img/heart-of-dixie-podcast-logo.png" alt="Heart of Dixie Podcast" class="dixie__logo">{{ end }}
 					<a href="{{ $page.RelPermalink }}" rel="bookmark">
 						{{ $page.Title }}
 					</a>
