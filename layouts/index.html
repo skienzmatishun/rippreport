@@ -12,7 +12,7 @@
 			<header class="list__header {{ if in $page.Params.categories "backstory-podcast" }}backstory__list__header{{ end }}{{ if in $page.Params.categories "bcso" }}bcso__list__header{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__list__header{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__list__header{{ end }}{{ if in $page.Params.categories "dixie-podcast" }}dixie__list__header{{ end }}">
 				
 				<h2 class="list__title post__title {{ if in $page.Params.categories "backstory-podcast" }}backstory__title{{ end }}{{ if in $page.Params.categories "bcso" }}bcso__title{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__title{{ end }}{{ if in $page.Params.categories "repost" }}repost__title{{ end }}{{ if in $page.Params.categories "elections" }}elections__title{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__title{{ end }}{{ if in $page.Params.categories "dixie-podcast" }}dixie__title{{ end }}">
-					{{ if in $page.Params.categories "dixie-podcast" }}<img style="height:100px;" src="/img/heart-of-dixie-podcast-logo.png" alt="Heart of Dixie Podcast" class="dixie__logo">{{ end }}
+					{{ if in $page.Params.categories "dixie-podcast" }}<img style="height:100px;float:left;" src="/img/heart-of-dixie-podcast-logo.png" alt="Heart of Dixie Podcast" class="dixie__logo">{{ end }}
 					<a href="{{ $page.RelPermalink }}" rel="bookmark">
 						{{ $page.Title }}
 					</a>
