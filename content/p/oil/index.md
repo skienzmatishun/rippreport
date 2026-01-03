@@ -9,7 +9,87 @@ authors:
 tags:
 - Trump
 - Venezuela
-
+related_articles:
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 65.2836696078603
+  llm_score: 75
+  recency_score: 0.38110024519668756
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: backstory-155
+  title: What the hell is ESG?
+  score: 56.01554059219963
+  llm_score: 60
+  recency_score: 7.089358405147809
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 55.988811419808684
+  llm_score: 60
+  recency_score: 6.935665663899902
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 55.19810720838215
+  llm_score: 60
+  recency_score: 2.3891164481973193
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: backstory-podcast-no-92-a-vintage-year
+  title: A Vintage Year
+  score: 48.02877555743666
+  llm_score: 50
+  recency_score: 1.1654594552607842
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 47.95684055851313
+  llm_score: 50
+  recency_score: 0.7518332114504676
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 47.88403901096297
+  llm_score: 50
+  recency_score: 0.3332243130370608
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: he-must-go
+  title: He Must Go
+  score: 41.272728661614174
+  llm_score: 40
+  recency_score: 2.318189804281508
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: delicately-censored
+  title: Delicately Censored
+  score: 36.0108700396876
+  llm_score: 30
+  recency_score: 12.0625027282037
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: 4-20
+  title: 4-20
+  score: 13.101113638207842
+  llm_score: 0
+  recency_score: 0.3314034196950972
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
 This was submitted by a knowledgeable source:
 
