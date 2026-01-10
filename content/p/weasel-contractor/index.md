@@ -96,7 +96,7 @@ related_articles:
   category_score: 0
   rank: 10
 ---
-Baldwin County really made a mistake when they elected [Chris Elliott](https://rippreport.com/tag/elliott/) to replace [Tripp Boom Boom Pittman](https://rippreport.com/tag/pittman/) as State Senator.
+Baldwin County really made a mistake when they elected [Chris Elliott](https://www.google.com/search?q=site%3Arippreport.com+elliott) to replace [Tripp Boom Boom Pittman](https://www.google.com/search?q=site%3Arippreport.com+pittman) as State Senator.
 
 Those that know the history, know Elliott was one of the three general partners involved with the political machine in Baldwin County. First known as Stacy Elliott and Haygood then Catalyst, until that name became toxic and now Scott Boone Consulting.
 
@@ -128,7 +128,7 @@ Please remember he was first appointed by the Luv Gov., not elected, to the Stat
 
 {{< socialpreview url="https://rippreport.com/p/elliott-stacy-haygood-catalyst-who-is-in-the-picture/" >}}
 
-Who is in the picture? Let me give a few names: The [CATALYST](https://rippreport.com/tag/catalyst/) Queen [Michelle Thomasson](https://rippreport.com/tag/thomasson/), Chris Elliott, [Tucker Dorsey](https://rippreport.com/tag/tucker-dorsey/), [Lynn Stacy](https://rippreport.com/tag/lynn-stacy/), [Tim Can’t](https://rippreport.com/tag/kant/) and [Scott “baby” Boone](https://rippreport.com/tag/scott-boone/). OH I almost forgot, District Attorney Robert Wilters. Judge Wilters walked into the office without a vote being cast, while citizens sleep, thanks to CATALYST. WHO do you recognize?
+Who is in the picture? Let me give a few names: The [CATALYST](https://www.google.com/search?q=site%3Arippreport.com+catalyst) Queen [Michelle Thomasson](https://www.google.com/search?q=site%3Arippreport.com+thomasson), Chris Elliott, [Tucker Dorsey](https://www.google.com/search?q=site%3Arippreport.com+tucker+dorsey), [Lynn Stacy](https://www.google.com/search?q=site%3Arippreport.com+lynn-stacy), [Tim Can’t](https://www.google.com/search?q=site%3Arippreport.com+kant and [Scott “baby” Boone](https://www.google.com/search?q=site%3Arippreport.com+scott+boone). OH I almost forgot, District Attorney Robert Wilters. Judge Wilters walked into the office without a vote being cast, while citizens sleep, thanks to CATALYST. WHO do you recognize?
 
 {{< socialpreview url="https://www.lagniappemobile.com/opinion/columnists/dtt/who-s-chris-elliott-trying-to-fool/article_ee06d736-a8e8-54f0-afb1-e0ddde360a09.html" >}}
 
