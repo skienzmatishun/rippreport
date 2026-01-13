@@ -16,6 +16,15 @@
   const COMMENT_LIMIT = 5;
   const MAX_CONTENT_LENGTH = 80;
 
+  // Custom pageId mappings for shared comment threads
+  // Maps custom pageIds to their actual page URL and title
+  const CUSTOM_PAGE_MAPPINGS = {
+    'mlpr': {
+      url: '/p/justice-denied-a-wrongful-conviction-buried-by-power-and-politics/',
+      title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+    }
+  };
+
   /**
    * Extract title from LINKPREVIEW marker
    * Format: [LINKPREVIEW:url|title|description|image]
@@ -85,6 +94,10 @@
    */
   function buildArticleUrl(pageId) {
     if (!pageId) return '#';
+    // Check for custom pageId mapping first
+    if (CUSTOM_PAGE_MAPPINGS[pageId]) {
+      return CUSTOM_PAGE_MAPPINGS[pageId].url;
+    }
     // Ensure pageId starts and ends with slashes for proper URL
     let path = pageId;
     if (!path.startsWith('/')) path = '/' + path;
@@ -98,6 +111,10 @@
    */
   function slugToTitle(pageId) {
     if (!pageId) return 'Article';
+    // Check for custom pageId mapping first
+    if (CUSTOM_PAGE_MAPPINGS[pageId]) {
+      return CUSTOM_PAGE_MAPPINGS[pageId].title;
+    }
     // Remove leading path segments like "p/"
     let slug = pageId.replace(/^p\//, '').replace(/\/$/, '');
     // Replace hyphens with spaces and capitalize each word
