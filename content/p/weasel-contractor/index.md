@@ -13,7 +13,7 @@ tags:
 - tucker-dorsey
 authors:
 - admin
-alttags: Chris Elliott’s face emerging from a ballot box, symbolizing his election as State Senator in Baldwin County amid politica...
+alttags: Chris Elliott’s face emerging from a jack in the box
 related_articles:
 - slug: catalyst-is-drowning
   title: CATALYST IS DROWNING
