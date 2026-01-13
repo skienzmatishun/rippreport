@@ -118,6 +118,6 @@ Get involved and VOTE. This is the most important political race in Baldwin Coun
 
 Please support Matt McKenzie and attend his campaign kickoff reception Jan. 15 at Oak Hollow Farm
 
-<img src="https://rippreport.com/cdn-cgi/image/width=600,quality=85,format=auto/img/mckenzie-event.jpg">
+<img src="https://rippreport.com/cdn-cgi/image/width=500,quality=85,format=auto/img/mckenzie-event.jpg">
 
 {{< aicomments  >}}
