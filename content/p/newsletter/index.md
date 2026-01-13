@@ -8,83 +8,83 @@ authors:
 - ripp-report
 alttags: 'Baldwin County: An eagle delivers mail, symbolizing news and information from The Ripp Report consumer group'
 related_articles:
-- slug: exposure-2
-  title: EXPOSURE
-  score: 70.01992167270123
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 67.58583892593359
   llm_score: 95
-  recency_score: 0.12949087255788053
+  recency_score: 1.2044127500516812
   length_score: 100
   category_score: 0
   rank: 1
+- slug: fear
+  title: FEAR
+  score: 67.4236387581631
+  llm_score: 95
+  recency_score: 0.10956161760080699
+  length_score: 100
+  category_score: 0
+  rank: 2
 - slug: newsletter-the-ripp-report
   title: NEWSLETTER - THE RIPP REPORT
-  score: 70.00808846001682
+  score: 67.41519629483102
   llm_score: 95
   recency_score: 0.05257499010930886
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 64.03144811539258
-  llm_score: 85
-  recency_score: 1.2044127500516812
-  length_score: 100
-  category_score: 0
   rank: 3
-- slug: fear
-  title: FEAR
-  score: 63.86300947963091
-  llm_score: 85
-  recency_score: 0.10956161760080699
+- slug: exposure
+  title: EXPOSURE
+  score: 67.40960408185924
+  llm_score: 95
+  recency_score: 0.014827552549866676
   length_score: 100
   category_score: 0
   rank: 4
 - slug: corruption-is-legal-in-america
   title: CORRUPTION IS LEGAL IN AMERICA
-  score: 63.85156086897218
-  llm_score: 85
+  score: 64.44965120715838
+  llm_score: 90
   recency_score: 0.03514564831905083
   length_score: 100
   category_score: 0
   rank: 5
-- slug: exposure
-  title: EXPOSURE
-  score: 63.84843500808461
-  llm_score: 85
-  recency_score: 0.014827552549866676
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 64.44597869265252
+  llm_score: 90
+  recency_score: 0.010356175404449166
   length_score: 100
   category_score: 0
   rank: 6
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 63.847691356398656
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 61.56924236091403
   llm_score: 85
-  recency_score: 0.009993816591181603
+  recency_score: 0.5923859361696956
   length_score: 100
   category_score: 0
   rank: 7
-- slug: freaky-fairhope
-  title: FREAKY FAIRHOPE
-  score: 57.78344399017997
-  llm_score: 75
-  recency_score: 0.5923859361696956
+- slug: exposure-2
+  title: EXPOSURE
+  score: 61.50066531445302
+  llm_score: 85
+  recency_score: 0.12949087255788053
   length_score: 100
   category_score: 0
   rank: 8
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 57.7019199689298
-  llm_score: 75
+  score: 61.49073774785832
+  llm_score: 85
   recency_score: 0.06247979804359676
   length_score: 100
   category_score: 0
   rank: 9
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 57.693900950062236
-  llm_score: 75
-  recency_score: 0.010356175404449166
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 61.4829620469024
+  llm_score: 85
+  recency_score: 0.009993816591181603
   length_score: 100
   category_score: 0
   rank: 10

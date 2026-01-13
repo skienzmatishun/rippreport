@@ -26,81 +26,81 @@ alttags: A worn tube of Good Ole Boys toothpaste sits on a dirty sink, symbolizi
 related_articles:
 - slug: end-the-good-ole-boy-culture-in-baldwin-county
   title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 79.14670050400919
-  llm_score: 85
+  score: 79.1783041890459
+  llm_score: 90
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 1
 - slug: catalyst-eat-their-own
   title: CATALYST - EAT THEIR OWN
-  score: 64.42854987911858
-  llm_score: 85
+  score: 67.968233216929
+  llm_score: 95
   recency_score: 3.7855742142706434
   length_score: 100
   category_score: 0
   rank: 2
 - slug: catalyst-attack
   title: CATALYST ATTACK
-  score: 63.9453686932729
-  llm_score: 85
+  score: 67.50294763055908
+  llm_score: 95
   recency_score: 0.6448965062737357
   length_score: 100
   category_score: 0
   rank: 3
+- slug: catalyst-meets-social-media
+  title: CATALYST MEETS SOCIAL MEDIA
+  score: 64.45655156698322
+  llm_score: 90
+  recency_score: 0.08172307713667694
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: a-time-for-reflection-goobers-on-notice
+  title: A Time for Reflection - Goobers on Notice
+  score: 64.44686218878515
+  llm_score: 90
+  recency_score: 0.016319774299694507
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
-  score: 63.93854717661796
+  score: 61.57045283674321
   llm_score: 85
   recency_score: 0.6005566480166232
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 6
+- slug: catalyst-players
+  title: CATALYST PLAYERS
+  score: 61.556348370769975
+  llm_score: 85
+  recency_score: 0.5053515026972712
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 61.4972741741489
+  llm_score: 85
+  recency_score: 0.10660067550503395
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
-  score: 63.85802367750344
+  score: 61.492911689447745
   llm_score: 85
   recency_score: 0.07715390377225172
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: a-time-for-reflection-goobers-on-notice
-  title: A Time for Reflection - Goobers on Notice
-  score: 63.848664580661506
-  llm_score: 85
-  recency_score: 0.016319774299694507
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 9
 - slug: there-are-more-of-us-than-them
   title: THERE ARE MORE OF US THAN THEM
-  score: 63.847738397603585
+  score: 61.483007345840484
   llm_score: 85
   recency_score: 0.01029958442322604
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: catalyst-players
-  title: CATALYST PLAYERS
-  score: 57.77005407733806
-  llm_score: 75
-  recency_score: 0.5053515026972712
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: women-of-baldwin
-  title: WOMEN OF BALDWIN
-  score: 57.70870779623156
-  llm_score: 75
-  recency_score: 0.10660067550503395
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: catalyst-meets-social-media
-  title: CATALYST MEETS SOCIAL MEDIA
-  score: 57.70488047340566
-  llm_score: 75
-  recency_score: 0.08172307713667694
   length_score: 100
   category_score: 0
   rank: 10

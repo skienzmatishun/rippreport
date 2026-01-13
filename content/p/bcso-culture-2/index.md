@@ -13,12 +13,20 @@ authors:
 related_articles:
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 93.48670972684448
-  llm_score: 95
+  score: 87.56078380091856
+  llm_score: 85
   recency_score: 76.03529065620016
   length_score: 100
   category_score: 100
   rank: 1
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 85.96671143299628
+  llm_score: 95
+  recency_score: 25.27530217272481
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
   score: 83.68933872838858
@@ -26,20 +34,12 @@ related_articles:
   recency_score: 9.903036416622752
   length_score: 100
   category_score: 100
-  rank: 2
+  rank: 3
 - slug: lethal-force
   title: LETHAL FORCE
   score: 82.7444884541074
   llm_score: 95
   recency_score: 3.5252970652248186
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 80.04078550707035
-  llm_score: 85
-  recency_score: 25.27530217272481
   length_score: 100
   category_score: 100
   rank: 4

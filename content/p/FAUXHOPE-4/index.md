@@ -17,81 +17,81 @@ authors:
 related_articles:
 - slug: round-house-blockheads
   title: ROUND HOUSE SQUARE HEADS
-  score: 65.3846153846154
-  llm_score: 75
+  score: 68.8888888888889
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 1
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 65.13169045841039
-  llm_score: 85
-  recency_score: 8.355987979667463
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 67.76368918792126
+  llm_score: 90
+  recency_score: 22.404902018468416
   length_score: 100
   category_score: 0
   rank: 2
 - slug: fauxhope-3
   title: FAUXHOPE
-  score: 63.18397013623947
-  llm_score: 75
+  score: 66.76974902008244
+  llm_score: 85
   recency_score: 35.69580588555647
   length_score: 100
   category_score: 0
   rank: 3
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 61.139215695149005
-  llm_score: 75
-  recency_score: 22.404902018468416
+- slug: elephant-in-a-volkswagen
+  title: ELEPHANT IN A VOLKSWAGEN
+  score: 64.45049798449995
+  llm_score: 90
+  recency_score: 0.04086139537457567
   length_score: 100
   category_score: 0
   rank: 4
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 58.929469713389686
-  llm_score: 75
-  recency_score: 8.041553137032842
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 62.71940562661741
+  llm_score: 85
+  recency_score: 8.355987979667463
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 57.93667135452485
-  llm_score: 75
-  recency_score: 1.588363804411422
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 62.672822686967834
+  llm_score: 85
+  recency_score: 8.041553137032842
   length_score: 100
   category_score: 0
   rank: 6
 - slug: double-red-flags-faux-hope
   title: DOUBLE RED FLAGS - FAUX HOPE
-  score: 57.879131204092346
-  llm_score: 75
+  score: 61.661385603940765
+  llm_score: 85
   recency_score: 1.214352826600136
   length_score: 100
   category_score: 0
   rank: 7
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 57.727337234959364
-  llm_score: 75
+  score: 61.51521363366456
+  llm_score: 85
   recency_score: 0.22769202723574633
   length_score: 100
   category_score: 0
   rank: 8
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
-  score: 57.700199149626314
-  llm_score: 75
+  score: 61.489080662603115
+  llm_score: 85
   recency_score: 0.051294472570959884
   length_score: 100
   category_score: 0
   rank: 9
-- slug: elephant-in-a-volkswagen
-  title: ELEPHANT IN A VOLKSWAGEN
-  score: 57.69859406082687
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 55.790868711764666
   llm_score: 75
-  recency_score: 0.04086139537457567
+  recency_score: 1.588363804411422
   length_score: 100
   category_score: 0
   rank: 10

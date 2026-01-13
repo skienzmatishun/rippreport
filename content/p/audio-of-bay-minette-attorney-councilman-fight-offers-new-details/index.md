@@ -13,82 +13,82 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: heart-of-dixie-podcast
-  title: HEART OF DIXIE PODCAST
-  score: 79.14670050400919
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 80.28433243524057
   llm_score: 85
-  recency_score: 99.45355327605971
+  recency_score: 26.919243937873805
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: the-law-enforcement-narrative-2
-  title: The (Law Enforcement) Narrative
-  score: 76.40754961626209
-  llm_score: 85
-  recency_score: 81.64907250570349
+- slug: former-summerdale-police-chief-kevin-brock
+  title: Thanksgiving Special - Former Summerdale Police Chief Kevin Brock
+  score: 79.13799269645749
+  llm_score: 90
+  recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
   rank: 2
-- slug: former-summerdale-police-chief-kevin-brock
-  title: Heart of Dixie Podcast Thanksgiving Special - Former Summerdale Police Chief Kevin Brock
-  score: 69.87406933862891
-  llm_score: 70
-  recency_score: 99.18145070108791
+- slug: heart-of-dixie-podcast
+  title: HEART OF DIXIE PODCAST
+  score: 76.21534122608293
+  llm_score: 85
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 3
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 63.495417699738
-  llm_score: 65
+  score: 72.99558741456251
+  llm_score: 85
   recency_score: 77.72021504829691
   length_score: 100
   category_score: 0
   rank: 4
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 58.756806759672905
-  llm_score: 70
-  recency_score: 26.919243937873805
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: communication
-  title: COMMUNICATION
-  score: 57.709489704161236
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 70.99443857982226
   llm_score: 75
-  recency_score: 0.11168307704791358
+  recency_score: 4.212460413800172
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: the-law-enforcement-narrative-2
+  title: The (Law Enforcement) Narrative
+  score: 67.65171444528941
+  llm_score: 75
+  recency_score: 81.64907250570349
   length_score: 100
   category_score: 0
   rank: 6
 - slug: cover-up
   title: COVER UP
-  score: 55.67078051231671
-  llm_score: 70
+  score: 56.57186271556424
+  llm_score: 75
   recency_score: 6.86007333005856
   length_score: 100
   category_score: 0
   rank: 7
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 49.10960929443081
-  llm_score: 60
-  recency_score: 4.212460413800172
+- slug: one-woman
+  title: ONE WOMAN
+  score: 55.575654016336266
+  llm_score: 75
+  recency_score: 0.1356646102697576
   length_score: 100
   category_score: 0
   rank: 8
-- slug: one-woman
-  title: ONE WOMAN
-  score: 48.482409940041514
-  llm_score: 60
-  recency_score: 0.1356646102697576
+- slug: communication
+  title: COMMUNICATION
+  score: 55.5721011965997
+  llm_score: 75
+  recency_score: 0.11168307704791358
   length_score: 100
   category_score: 0
   rank: 9
 - slug: one-woman-2
   title: ONE WOMAN
-  score: 42.32926137618974
-  llm_score: 50
+  score: 49.65039984373827
+  llm_score: 65
   recency_score: 0.14019894523325707
   length_score: 100
   category_score: 0

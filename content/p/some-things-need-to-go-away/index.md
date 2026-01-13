@@ -14,7 +14,6 @@ tags:
 - Thomasson
 - Tucker-Dorsey
 ---
-
 {{< socialpreview url="https://rippreport.com/p/weasel-contractor/" >}}
 
 {{< aicomments >}}

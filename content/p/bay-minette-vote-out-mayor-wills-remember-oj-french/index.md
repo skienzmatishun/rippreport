@@ -17,82 +17,82 @@ authors:
 - admin
 alttags: Campaign ad for Joshua Brown, candidate for mayor, featuring a portrait against a blue background with stars at the bottom
 related_articles:
-- slug: justified
-  title: JUSTIFIED
-  score: 79.70939561190343
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 87.35349487305834
   llm_score: 95
-  recency_score: 63.11107147737226
+  recency_score: 34.63609039314372
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 70.26045988357075
-  llm_score: 75
-  recency_score: 6.69298924320973
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 84.79965558569401
+  llm_score: 90
+  recency_score: 37.39767520343444
   length_score: 100
   category_score: 100
   rank: 2
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 69.17478313740673
-  llm_score: 85
-  recency_score: 34.63609039314372
+- slug: rumors
+  title: RUMORS
+  score: 83.07274289104757
+  llm_score: 95
+  recency_score: 5.741014514570984
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 3
-- slug: eyes-on-you-👀
-  title: EYES ON YOU 👀
-  score: 64.93384032120585
-  llm_score: 85
-  recency_score: 7.069962087837917
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 64.64862718395977
-  llm_score: 85
+  score: 82.9949743252946
+  llm_score: 95
   recency_score: 5.216076695738494
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: justified
+  title: JUSTIFIED
+  score: 70.8312698484996
+  llm_score: 85
+  recency_score: 63.11107147737226
   length_score: 100
   category_score: 0
   rank: 5
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 63.44579618514378
-  llm_score: 75
-  recency_score: 37.39767520343444
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: cover-up
   title: COVER UP
-  score: 59.05025027684153
-  llm_score: 75
+  score: 68.71505582214368
+  llm_score: 95
   recency_score: 8.82662679946983
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 65.43599840640145
+  llm_score: 90
+  recency_score: 6.69298924320973
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: rumors
-  title: RUMORS
-  score: 58.575540694549396
-  llm_score: 75
-  recency_score: 5.741014514570984
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 62.52888327227229
+  llm_score: 85
+  recency_score: 7.069962087837917
   length_score: 100
   category_score: 0
   rank: 8
 - slug: threesome
   title: THREESOME
-  score: 58.16007576557338
-  llm_score: 75
+  score: 61.93192481129287
+  llm_score: 85
   recency_score: 3.0404924762268615
   length_score: 100
   category_score: 0
   rank: 9
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
-  score: 57.812497051646645
-  llm_score: 75
+  score: 61.59721938306713
+  llm_score: 85
   recency_score: 0.7812308357030797
   length_score: 100
   category_score: 0

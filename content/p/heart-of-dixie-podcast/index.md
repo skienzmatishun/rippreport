@@ -14,83 +14,83 @@ tags:
 - BCSO
 - Bay Minette
 related_articles:
-- slug: audio-of-bay-minette-attorney-councilman-fight-offers-new-details
-  title: LAGNIAPPE - AUDIO OF BAY MINETTE ATTORNEY, COUNCILMAN FIGHT OFFERS NEW DETAILS
-  score: 93.76208511939382
-  llm_score: 90
-  recency_score: 99.45355327605971
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 76.92379344335109
+  llm_score: 85
+  recency_score: 4.235605742619744
   length_score: 100
   category_score: 100
   rank: 1
-- slug: former-summerdale-police-chief-kevin-brock
-  title: Heart of Dixie Podcast Thanksgiving Special - Former Summerdale Police Chief Kevin Brock
-  score: 72.86761183276546
-  llm_score: 75
-  recency_score: 98.63947691297537
+- slug: audio-of-bay-minette-attorney-councilman-fight-offers-new-details
+  title: LAGNIAPPE - AUDIO OF BAY MINETTE ATTORNEY, COUNCILMAN FIGHT OFFERS NEW DETAILS
+  score: 76.21534122608293
+  llm_score: 85
+  recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 2
-- slug: cover-up
-  title: COVER UP
-  score: 58.75350245324557
-  llm_score: 75
-  recency_score: 6.897765946096069
+- slug: former-summerdale-police-chief-kevin-brock
+  title: Thanksgiving Special - Former Summerdale Police Chief Kevin Brock
+  score: 76.0947373204408
+  llm_score: 85
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 3
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 57.837905680086415
-  llm_score: 75
-  recency_score: 0.9463869205615951
+- slug: cover-up
+  title: COVER UP
+  score: 62.50337273275498
+  llm_score: 85
+  recency_score: 6.897765946096069
   length_score: 100
   category_score: 0
   rank: 4
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 57.713995271873166
-  llm_score: 75
-  recency_score: 0.14096926717550023
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 61.62168695119432
+  llm_score: 85
+  recency_score: 0.9463869205615951
   length_score: 100
   category_score: 0
   rank: 5
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 61.50236581735934
+  llm_score: 85
+  recency_score: 0.14096926717550023
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 57.67344956178035
+  llm_score: 75
+  recency_score: 14.295784542017314
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: silence-the-eagle
+  title: SILENCE THE EAGLE
+  score: 57.11382034322545
+  llm_score: 75
+  recency_score: 10.518287316771712
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: one-woman
   title: ONE WOMAN
-  score: 57.71329384897634
+  score: 55.5757644471624
   llm_score: 75
   recency_score: 0.1364100183461363
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 9
 - slug: blind-and-deaf
   title: BLIND AND DEAF
-  score: 57.69819400714398
+  score: 55.56122385873123
   llm_score: 75
   recency_score: 0.03826104643576236
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 53.737813006464215
-  llm_score: 65
-  recency_score: 14.295784542017314
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: silence-the-eagle
-  title: SILENCE THE EAGLE
-  score: 53.156659587195655
-  llm_score: 65
-  recency_score: 10.518287316771712
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 52.190093191172274
-  llm_score: 65
-  recency_score: 4.235605742619744
   length_score: 100
   category_score: 0
   rank: 10

@@ -21,81 +21,81 @@ alttags: Fairhope city flag with clock tower design, overlaid with lightning bol
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 79.14670050400919
-  llm_score: 85
+  score: 82.14126715200887
+  llm_score: 95
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
   rank: 1
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 77.74767328170657
-  llm_score: 85
+  score: 80.79405575275447
+  llm_score: 95
   recency_score: 90.35987633109261
   length_score: 100
   category_score: 0
   rank: 2
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 71.562749694134
+  llm_score: 95
+  recency_score: 28.048560435404436
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: no-radar
+  title: NO RADAR
+  score: 67.59332448749008
+  llm_score: 95
+  recency_score: 1.2549402905579714
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 67.41148751225536
+  llm_score: 95
+  recency_score: 0.02754070772367199
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 62.112426406408396
+  llm_score: 85
+  recency_score: 4.258878243256627
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 64.26079964454098
+  score: 61.88077002807649
   llm_score: 85
   recency_score: 2.695197689516261
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 7
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 64.19891133567401
+  score: 61.8211738787972
   llm_score: 85
   recency_score: 2.292923681881036
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 8
 - slug: no-qualifications
   title: NO QUALIFICATIONS
-  score: 64.0669605491314
+  score: 61.69411015842282
   llm_score: 85
   recency_score: 1.4352435693539982
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: no-radar
-  title: NO RADAR
-  score: 64.03922158316277
-  llm_score: 85
-  recency_score: 1.2549402905579714
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 9
 - slug: dog-and-pony-show-2
   title: DOG AND PONY SHOW
-  score: 63.87452102711849
+  score: 61.50879802611409
   llm_score: 85
   recency_score: 0.1843866762700733
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 62.007470836216086
-  llm_score: 75
-  recency_score: 28.048560435404436
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 58.34751972973181
-  llm_score: 75
-  recency_score: 4.258878243256627
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: self-incrimination
-  title: SELF INCRIMINATION
-  score: 57.696544724265195
-  llm_score: 75
-  recency_score: 0.02754070772367199
   length_score: 100
   category_score: 0
   rank: 10

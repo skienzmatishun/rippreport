@@ -18,81 +18,81 @@ authors:
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 86.02264356592472
-  llm_score: 100
+  score: 96.46624935977937
+  llm_score: 98
   recency_score: 84.14718317851063
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 86.63572553903896
+  llm_score: 95
+  recency_score: 29.79114738851293
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: no-justice
+  title: NO JUSTICE
+  score: 84.97727307359128
+  llm_score: 95
+  recency_score: 18.596593246741016
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: rule-32
+  title: RULE 32
+  score: 78.74516871439388
+  llm_score: 85
+  recency_score: 16.529888822158654
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 77.03996982882545
+  llm_score: 85
+  recency_score: 5.0197963445716995
+  length_score: 100
+  category_score: 100
+  rank: 5
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 77.69230769230771
+  score: 74.81481481481482
   llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: rule-32
-  title: RULE 32
-  score: 72.54305981879365
+  rank: 6
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 74.81481481481482
   llm_score: 95
-  recency_score: 16.529888822158654
+  recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 7
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 72.49475350041722
+  score: 69.80976263003139
   llm_score: 95
   recency_score: 16.215897752711804
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: innocent
-  title: INNOCENT
-  score: 70.4900698566832
-  llm_score: 95
-  recency_score: 3.1854540684407837
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 68.42940729054047
-  llm_score: 85
-  recency_score: 29.79114738851293
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 61.92550279003194
-  llm_score: 75
-  recency_score: 27.51576813520753
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 58.464584053011045
-  llm_score: 75
-  recency_score: 5.0197963445716995
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 67.83150275338966
+  llm_score: 95
+  recency_score: 2.862643585380166
   length_score: 100
   category_score: 0
   rank: 9
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 58.13271439775081
-  llm_score: 75
-  recency_score: 2.862643585380166
+- slug: innocent
+  title: INNOCENT
+  score: 61.953400602731975
+  llm_score: 85
+  recency_score: 3.1854540684407837
   length_score: 100
   category_score: 0
   rank: 10
