@@ -1,5 +1,5 @@
 ---
-title: SOME THINGS NEED TO GO AWAY
+title: CAMPAIGN KICKOFF RECEPTION FOR Matt McKenzie
 date: 2026-01-15
 thumbnail: img/mckenzie-event.jpg
 categories:
@@ -11,7 +11,6 @@ tags:
 - Matt McKenzie
 - Elections
 - BCSO
-
 ---
 
 
