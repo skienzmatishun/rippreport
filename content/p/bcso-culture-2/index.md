@@ -13,68 +13,60 @@ authors:
 related_articles:
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 87.56078380091856
-  llm_score: 85
+  score: 93.48670972684448
+  llm_score: 95
   recency_score: 76.03529065620016
   length_score: 100
   category_score: 100
   rank: 1
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 85.96671143299628
-  llm_score: 95
+  score: 83.00374847003332
+  llm_score: 90
   recency_score: 25.27530217272481
   length_score: 100
   category_score: 100
   rank: 2
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 83.68933872838858
-  llm_score: 95
-  recency_score: 9.903036416622752
-  length_score: 100
-  category_score: 100
-  rank: 3
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 82.7444884541074
-  llm_score: 95
-  recency_score: 3.5252970652248186
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 79.76427835868424
-  llm_score: 85
+  score: 82.72724132164723
+  llm_score: 90
   recency_score: 23.408878921118657
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 3
 - slug: shuffling-the-deck
   title: SHUFFLING THE DECK
-  score: 79.54358194356954
-  llm_score: 85
+  score: 76.58061898060657
+  llm_score: 80
   recency_score: 21.919178119094283
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 4
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 79.3452721949287
-  llm_score: 85
+  score: 76.38230923196573
+  llm_score: 80
   recency_score: 20.580587315768575
   length_score: 100
   category_score: 100
-  rank: 7
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 79.22251157087354
-  llm_score: 85
-  recency_score: 19.751953103396314
+  rank: 5
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 71.83748687653672
+  llm_score: 75
+  recency_score: 9.903036416622752
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 6
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 67.92967363929259
+  llm_score: 70
+  recency_score: 3.5252970652248186
+  length_score: 100
+  category_score: 100
+  rank: 7
 - slug: justified
   title: JUSTIFIED
   score: 67.80055679677562
@@ -82,6 +74,14 @@ related_articles:
   recency_score: 42.653758378235395
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 67.37065971902169
+  llm_score: 65
+  recency_score: 19.751953103396314
+  length_score: 100
+  category_score: 100
   rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption

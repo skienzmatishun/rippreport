@@ -18,60 +18,52 @@ authors:
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 96.46624935977937
-  llm_score: 98
+  score: 97.65143454496456
+  llm_score: 100
   recency_score: 84.14718317851063
   length_score: 100
   category_score: 100
   rank: 1
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 86.63572553903896
-  llm_score: 95
+  score: 80.70979961311303
+  llm_score: 85
   recency_score: 29.79114738851293
   length_score: 100
   category_score: 100
   rank: 2
 - slug: no-justice
   title: NO JUSTICE
-  score: 84.97727307359128
-  llm_score: 95
+  score: 76.08838418470239
+  llm_score: 80
   recency_score: 18.596593246741016
   length_score: 100
   category_score: 100
   rank: 3
-- slug: rule-32
-  title: RULE 32
-  score: 78.74516871439388
-  llm_score: 85
-  recency_score: 16.529888822158654
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 74.07700686586249
+  llm_score: 80
+  recency_score: 5.0197963445716995
   length_score: 100
   category_score: 100
   rank: 4
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 77.03996982882545
-  llm_score: 85
-  recency_score: 5.0197963445716995
+- slug: rule-32
+  title: RULE 32
+  score: 72.81924278846796
+  llm_score: 75
+  recency_score: 16.529888822158654
   length_score: 100
   category_score: 100
   rank: 5
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 74.81481481481482
-  llm_score: 95
+  score: 71.85185185185186
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 74.81481481481482
-  llm_score: 95
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
   score: 69.80976263003139
@@ -79,19 +71,27 @@ related_articles:
   recency_score: 16.215897752711804
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: deal-with-the-devil
   title: DEAL WITH THE DEVIL
-  score: 67.83150275338966
-  llm_score: 95
+  score: 64.8685397904267
+  llm_score: 90
   recency_score: 2.862643585380166
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 62.962962962962976
+  llm_score: 75
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
 - slug: innocent
   title: INNOCENT
-  score: 61.953400602731975
-  llm_score: 85
+  score: 56.02747467680605
+  llm_score: 75
   recency_score: 3.1854540684407837
   length_score: 100
   category_score: 0

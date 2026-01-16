@@ -19,43 +19,43 @@ tags:
 - Debbie Williams
 - WKRG
 related_articles:
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 80.56705743793
-  llm_score: 85
-  recency_score: 28.827637706027392
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 86.00797260687409
+  llm_score: 95
+  recency_score: 25.553815096400097
   length_score: 100
   category_score: 100
   rank: 1
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 80.08204668094817
-  llm_score: 85
-  recency_score: 25.553815096400097
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 82.86011963834068
+  llm_score: 95
+  recency_score: 4.305807558799547
   length_score: 100
   category_score: 100
   rank: 2
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 79.77379270680541
-  llm_score: 85
+  score: 82.73675566976837
+  llm_score: 90
   recency_score: 23.473100770936487
   length_score: 100
   category_score: 100
   rank: 3
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
-  score: 79.63377860249742
-  llm_score: 85
+  score: 82.5967415654604
+  llm_score: 90
   recency_score: 22.528005566857594
   length_score: 100
   category_score: 100
   rank: 4
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 76.93419371241475
-  llm_score: 85
-  recency_score: 4.305807558799547
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 77.60409447496704
+  llm_score: 80
+  recency_score: 28.827637706027392
   length_score: 100
   category_score: 100
   rank: 5
@@ -75,6 +75,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 69.468064566872
+  llm_score: 95
+  recency_score: 13.909435826385996
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: justified
   title: JUSTIFIED
   score: 68.68867578450262
@@ -82,19 +90,11 @@ related_articles:
   recency_score: 48.648561545392695
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 63.54213864094608
-  llm_score: 85
-  recency_score: 13.909435826385996
-  length_score: 100
-  category_score: 0
   rank: 9
 - slug: silence-the-eagle
   title: SILENCE THE EAGLE
-  score: 63.018545716958144
-  llm_score: 85
+  score: 54.12965682806926
+  llm_score: 70
   recency_score: 10.375183589467447
   length_score: 100
   category_score: 0

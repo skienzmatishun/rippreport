@@ -19,68 +19,60 @@ alttags: A skull sits atop scales of justice, symbolizing a flawed legal system 
 related_articles:
 - slug: bcso-culture-2
   title: BCSO CULTURE
-  score: 90.52374676388152
-  llm_score: 90
+  score: 93.48670972684448
+  llm_score: 95
   recency_score: 76.03529065620016
   length_score: 100
   category_score: 100
   rank: 1
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 87.14689493466713
-  llm_score: 95
+  score: 84.18393197170417
+  llm_score: 90
   recency_score: 33.241540809002984
   length_score: 100
   category_score: 100
   rank: 2
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 80.85731267758263
-  llm_score: 85
+  score: 83.82027564054559
+  llm_score: 90
   recency_score: 30.7868605736826
   length_score: 100
   category_score: 100
   rank: 3
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 80.79525899671225
-  llm_score: 85
+  score: 77.83229603374929
+  llm_score: 80
   recency_score: 30.367998227807558
   length_score: 100
   category_score: 100
   rank: 4
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 80.66169651352575
-  llm_score: 85
+  score: 77.69873355056279
+  llm_score: 80
   recency_score: 29.466451466298754
   length_score: 100
   category_score: 100
   rank: 5
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 80.56705743793
-  llm_score: 85
-  recency_score: 28.827637706027392
-  length_score: 100
-  category_score: 100
-  rank: 6
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 80.30624466674257
-  llm_score: 85
+  score: 74.38031874081665
+  llm_score: 75
   recency_score: 27.067151500512303
   length_score: 100
   category_score: 100
-  rank: 7
+  rank: 6
 - slug: rumors
   title: RUMORS
-  score: 77.05229562962015
-  llm_score: 85
+  score: 71.12636970369422
+  llm_score: 75
   recency_score: 5.102995499935887
   length_score: 100
   category_score: 100
-  rank: 8
+  rank: 7
 - slug: justified
   title: JUSTIFIED
   score: 69.79219517871236
@@ -88,11 +80,19 @@ related_articles:
   recency_score: 56.097317456308396
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 68.71520558607816
+  llm_score: 65
+  recency_score: 28.827637706027392
+  length_score: 100
+  category_score: 100
   rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 69.78357918250171
-  llm_score: 95
+  score: 54.9687643676869
+  llm_score: 70
   recency_score: 16.039159481886507
   length_score: 100
   category_score: 0
