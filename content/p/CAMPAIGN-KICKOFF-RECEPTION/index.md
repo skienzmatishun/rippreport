@@ -20,6 +20,30 @@ related_articles:
   length_score: 23.0
   category_score: 0
   rank: 1
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 93.48670972684448
+  llm_score: 95
+  recency_score: 76.03529065620016
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 83.00374847003332
+  llm_score: 90
+  recency_score: 25.27530217272481
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 82.72724132164723
+  llm_score: 90
+  recency_score: 23.408878921118657
+  length_score: 100
+  category_score: 100
+  rank: 4
 ---
 <img src="https://rippreport.com/cdn-cgi/image/width=500,quality=85,format=auto/img/mckenzie-kickoff.jpg">
 
