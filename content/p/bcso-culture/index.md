@@ -25,14 +25,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 1
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 84.18393197170417
-  llm_score: 90
-  recency_score: 33.241540809002984
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
   score: 83.82027564054559
@@ -40,11 +32,19 @@ related_articles:
   recency_score: 30.7868605736826
   length_score: 100
   category_score: 100
+  rank: 2
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 81.22096900874118
+  llm_score: 85
+  recency_score: 33.241540809002984
+  length_score: 100
+  category_score: 100
   rank: 3
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 77.83229603374929
-  llm_score: 80
+  score: 80.79525899671225
+  llm_score: 85
   recency_score: 30.367998227807558
   length_score: 100
   category_score: 100
@@ -57,6 +57,14 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 74.64113151200408
+  llm_score: 75
+  recency_score: 28.827637706027392
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
   score: 74.38031874081665
@@ -64,7 +72,7 @@ related_articles:
   recency_score: 27.067151500512303
   length_score: 100
   category_score: 100
-  rank: 6
+  rank: 7
 - slug: rumors
   title: RUMORS
   score: 71.12636970369422
@@ -72,22 +80,14 @@ related_articles:
   recency_score: 5.102995499935887
   length_score: 100
   category_score: 100
-  rank: 7
+  rank: 8
 - slug: justified
   title: JUSTIFIED
-  score: 69.79219517871236
-  llm_score: 85
+  score: 66.8292322157494
+  llm_score: 80
   recency_score: 56.097317456308396
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 68.71520558607816
-  llm_score: 65
-  recency_score: 28.827637706027392
-  length_score: 100
-  category_score: 100
   rank: 9
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption

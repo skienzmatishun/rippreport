@@ -31,6 +31,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
+- slug: round-house-blockheads
+  title: ROUND HOUSE SQUARE HEADS
+  score: 62.962962962962976
+  llm_score: 75
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
   score: 61.83776326199533
@@ -38,20 +46,12 @@ related_articles:
   recency_score: 22.404902018468416
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
 - slug: fauxhope
   title: FAUXHOPE
   score: 61.71679463769059
   llm_score: 85
   recency_score: 1.588363804411422
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: round-house-blockheads
-  title: ROUND HOUSE SQUARE HEADS
-  score: 60.000000000000014
-  llm_score: 70
-  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
@@ -71,27 +71,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 53.83051673772852
+  llm_score: 70
+  recency_score: 8.355987979667463
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 52.62632474477567
+  llm_score: 70
+  recency_score: 0.22769202723574633
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: elephant-in-a-volkswagen
   title: ELEPHANT IN A VOLKSWAGEN
   score: 52.59864613264809
   llm_score: 70
   recency_score: 0.04086139537457567
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 50.86755377476556
-  llm_score: 65
-  recency_score: 8.355987979667463
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 49.66336178181271
-  llm_score: 65
-  recency_score: 0.22769202723574633
   length_score: 100
   category_score: 0
   rank: 10

@@ -22,11 +22,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: former-summerdale-police-chief-kevin-brock
-  title: Thanksgiving Special - Former Summerdale Police Chief Kevin Brock
-  score: 70.16881139451488
-  llm_score: 75
-  recency_score: 98.63947691297537
+- slug: foot-in-his-mouth
+  title: FOOT IN HIS MOUTH
+  score: 65.23078751203413
+  llm_score: 70
+  recency_score: 85.30781570623031
   length_score: 100
   category_score: 0
   rank: 2
@@ -38,19 +38,19 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 3
-- slug: cover-up
-  title: COVER UP
-  score: 47.688557917940166
+- slug: former-summerdale-police-chief-kevin-brock
+  title: Thanksgiving Special - Former Summerdale Police Chief Kevin Brock
+  score: 61.27992250562599
   llm_score: 60
-  recency_score: 6.897765946096069
+  recency_score: 98.63947691297537
   length_score: 100
   category_score: 0
   rank: 4
-- slug: silence-the-eagle
-  title: SILENCE THE EAGLE
-  score: 42.29900552841063
-  llm_score: 50
-  recency_score: 10.518287316771712
+- slug: cover-up
+  title: COVER UP
+  score: 53.6144838438661
+  llm_score: 70
+  recency_score: 6.897765946096069
   length_score: 100
   category_score: 0
   rank: 5
@@ -62,35 +62,35 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 34.83569915069267
+  llm_score: 40
+  recency_score: 0.14096926717550023
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: one-woman
+  title: ONE WOMAN
+  score: 34.83502370642165
+  llm_score: 40
+  recency_score: 0.1364100183461363
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: silence-the-eagle
+  title: SILENCE THE EAGLE
+  score: 30.447153676558777
+  llm_score: 30
+  recency_score: 10.518287316771712
+  length_score: 100
+  category_score: 0
+  rank: 9
 - slug: a-slap-on-the-wrist
   title: A SLAP ON THE WRIST
   score: 29.029094358601718
   llm_score: 30
   recency_score: 0.9463869205615951
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: one-woman-2
-  title: ONE WOMAN
-  score: 28.909773224766745
-  llm_score: 30
-  recency_score: 0.14096926717550023
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: one-woman
-  title: ONE WOMAN
-  score: 28.909097780495728
-  llm_score: 30
-  recency_score: 0.1364100183461363
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: blind-and-deaf
-  title: BLIND AND DEAF
-  score: 22.968631266138633
-  llm_score: 20
-  recency_score: 0.03826104643576236
   length_score: 100
   category_score: 0
   rank: 10

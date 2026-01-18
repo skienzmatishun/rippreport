@@ -15,16 +15,16 @@ authors:
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 86.2102583611665
-  llm_score: 95
+  score: 83.24729539820353
+  llm_score: 90
   recency_score: 26.919243937873805
   length_score: 100
   category_score: 100
   rank: 1
 - slug: heart-of-dixie-podcast
   title: HEART OF DIXIE PODCAST
-  score: 79.1783041890459
-  llm_score: 90
+  score: 82.14126715200887
+  llm_score: 95
   recency_score: 99.45355327605971
   length_score: 100
   category_score: 0
@@ -37,14 +37,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 73.95740154278522
-  llm_score: 80
-  recency_score: 4.212460413800172
-  length_score: 100
-  category_score: 100
-  rank: 4
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative
   score: 73.57764037121534
@@ -52,7 +44,7 @@ related_articles:
   recency_score: 81.64907250570349
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
   score: 70.03262445159955
@@ -60,15 +52,31 @@ related_articles:
   recency_score: 77.72021504829691
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 68.0314756168593
+  llm_score: 70
+  recency_score: 4.212460413800172
+  length_score: 100
+  category_score: 100
   rank: 6
-- slug: cover-up
-  title: COVER UP
-  score: 62.49778864149016
-  llm_score: 85
-  recency_score: 6.86007333005856
+- slug: foot-in-his-mouth
+  title: FOOT IN HIS MOUTH
+  score: 62.337265006277136
+  llm_score: 65
+  recency_score: 85.7765387923706
   length_score: 100
   category_score: 0
   rank: 7
+- slug: cover-up
+  title: COVER UP
+  score: 56.57186271556424
+  llm_score: 75
+  recency_score: 6.86007333005856
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: communication
   title: COMMUNICATION
   score: 34.831360455858956
@@ -76,20 +84,12 @@ related_articles:
   recency_score: 0.11168307704791358
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: one-woman-2
   title: ONE WOMAN
-  score: 28.909659102997523
-  llm_score: 30
+  score: 31.872622065960485
+  llm_score: 35
   recency_score: 0.14019894523325707
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: one-woman
-  title: ONE WOMAN
-  score: 28.908987349669594
-  llm_score: 30
-  recency_score: 0.1356646102697576
   length_score: 100
   category_score: 0
   rank: 10

@@ -10,6 +10,38 @@ tags:
 - Trump
 - Venezuela
 related_articles:
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 31.90121841674624
+  llm_score: 35
+  recency_score: 0.3332243130370608
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: backstory-155
+  title: What the hell is ESG?
+  score: 29.939164208170048
+  llm_score: 30
+  recency_score: 7.089358405147809
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 29.242832066399608
+  llm_score: 30
+  recency_score: 2.3891164481973193
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 28.945348184473588
+  llm_score: 30
+  recency_score: 0.38110024519668756
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: 4-20
   title: 4-20
   score: 28.93798569180668
@@ -17,76 +49,44 @@ related_articles:
   recency_score: 0.3314034196950972
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: backstory-155
-  title: What the hell is ESG?
-  score: 24.013238282244124
-  llm_score: 20
-  recency_score: 7.089358405147809
-  length_score: 100
-  category_score: 0
-  rank: 2
+  rank: 5
 - slug: delicately-censored
   title: Delicately Censored
-  score: 18.824074478252403
-  llm_score: 10
+  score: 24.75000040417833
+  llm_score: 20
   recency_score: 12.0625027282037
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 6
 - slug: backstory-154
   title: W.H.O. Calls The Plague
-  score: 18.064543061318506
-  llm_score: 10
+  score: 23.990468987244434
+  llm_score: 20
   recency_score: 6.935665663899902
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 17.390980214547753
-  llm_score: 10
-  recency_score: 2.3891164481973193
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 7
 - slug: he-must-go
   title: He Must Go
-  score: 17.380472563597262
-  llm_score: 10
+  score: 23.30639848952319
+  llm_score: 20
   recency_score: 2.318189804281508
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 8
 - slug: backstory-podcast-no-92-a-vintage-year
   title: A Vintage Year
-  score: 17.209697697075676
-  llm_score: 10
+  score: 23.1356236230016
+  llm_score: 20
   recency_score: 1.1654594552607842
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 9
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 17.1484197350297
-  llm_score: 10
+  score: 23.07434566095563
+  llm_score: 20
   recency_score: 0.7518332114504676
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: a-decade-of-corruption
-  title: A DECADE OF CORRUPTION
-  score: 17.093496332621733
-  llm_score: 10
-  recency_score: 0.38110024519668756
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 17.08640360193142
-  llm_score: 10
-  recency_score: 0.3332243130370608
   length_score: 100
   category_score: 0
   rank: 10

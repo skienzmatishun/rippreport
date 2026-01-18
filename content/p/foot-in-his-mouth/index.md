@@ -12,8 +12,8 @@ alttags: A Chris Elliott puppet biting his foot.
 related_articles:
 - slug: hair-on-fire
   title: HAIR ON FIRE
-  score: 68.4292986586809
-  llm_score: 95
+  score: 65.46633569571794
+  llm_score: 90
   recency_score: 6.897765946096069
   length_score: 100
   category_score: 0
@@ -42,6 +42,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 4
+- slug: snakes-in-the-schools
+  title: SNAKES IN THE SCHOOLS
+  score: 61.48901845955932
+  llm_score: 85
+  recency_score: 0.05087460202534963
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-alabama-values
+  title: CATALYST - ALABAMA VALUES
+  score: 61.488348092145166
+  llm_score: 85
+  recency_score: 0.046349621979805564
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: elliott-history-lesson
   title: ELLIOTT HISTORY LESSON
   score: 59.71640553838142
@@ -49,23 +65,15 @@ related_articles:
   recency_score: 8.08573738407453
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: snakes-in-the-schools
-  title: SNAKES IN THE SCHOOLS
-  score: 58.526055496596356
-  llm_score: 80
-  recency_score: 0.05087460202534963
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: catalyst-alabama-values
-  title: CATALYST - ALABAMA VALUES
-  score: 58.525385129182204
-  llm_score: 80
-  recency_score: 0.046349621979805564
-  length_score: 100
-  category_score: 0
   rank: 7
+- slug: laugh-out-loud-baldwin
+  title: Laugh Out Loud Baldwin
+  score: 58.53448523359633
+  llm_score: 80
+  recency_score: 0.10777532677518592
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: nothing-is-free
   title: NOTHING IS FREE
   score: 55.569983059554005
@@ -73,20 +81,12 @@ related_articles:
   recency_score: 0.09738565198948891
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 9
 - slug: liar-liar-pants-on-fire
   title: LIAR LIAR PANTS ON FIRE
   score: 52.60978518901331
   llm_score: 70
   recency_score: 0.11605002583978188
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: laugh-out-loud-baldwin
-  title: Laugh Out Loud Baldwin
-  score: 52.608559307670404
-  llm_score: 70
-  recency_score: 0.10777532677518592
   length_score: 100
   category_score: 0
   rank: 10
