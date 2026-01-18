@@ -19,36 +19,28 @@ related_articles:
   rank: 1
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 87.1065840607057
-  llm_score: 95
+  score: 84.14362109774274
+  llm_score: 90
   recency_score: 32.96944240976332
   length_score: 100
   category_score: 100
   rank: 2
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 82.95779040183155
-  llm_score: 95
-  recency_score: 4.965085212362791
-  length_score: 100
-  category_score: 100
-  rank: 3
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 81.11420526431337
-  llm_score: 85
+  score: 78.15124230135041
+  llm_score: 80
   recency_score: 32.52088553411519
   length_score: 100
   category_score: 100
-  rank: 4
+  rank: 3
 - slug: rumors
   title: RUMORS
-  score: 80.06885387259072
-  llm_score: 90
+  score: 77.10589090962775
+  llm_score: 85
   recency_score: 5.464763639987247
   length_score: 100
   category_score: 100
-  rank: 5
+  rank: 4
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
   score: 77.08401132420707
@@ -56,36 +48,44 @@ related_articles:
   recency_score: 5.31707643839769
   length_score: 100
   category_score: 100
+  rank: 5
+- slug: justified
+  title: JUSTIFIED
+  score: 76.30729494121807
+  llm_score: 95
+  recency_score: 60.07424085322191
+  length_score: 100
+  category_score: 0
   rank: 6
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 77.06062611695444
-  llm_score: 85
+  score: 74.09766315399148
+  llm_score: 80
   recency_score: 5.159226289442438
   length_score: 100
   category_score: 100
   rank: 7
-- slug: justified
-  title: JUSTIFIED
-  score: 70.38136901529214
-  llm_score: 85
-  recency_score: 60.07424085322191
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 71.10593854997968
+  llm_score: 75
+  recency_score: 4.965085212362791
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 8
-- slug: cover-up
-  title: COVER UP
-  score: 62.726207390569655
-  llm_score: 85
-  recency_score: 8.401899886345134
+- slug: the-law-enforcement-narrative
+  title: The (Law Enforcement) Narrative
+  score: 65.20044377776829
+  llm_score: 90
+  recency_score: 5.102995499935887
   length_score: 100
   category_score: 0
   rank: 9
-- slug: the-law-enforcement-narrative
-  title: The (Law Enforcement) Narrative
-  score: 62.23748081480532
-  llm_score: 85
-  recency_score: 5.102995499935887
+- slug: cover-up
+  title: COVER UP
+  score: 56.80028146464373
+  llm_score: 75
+  recency_score: 8.401899886345134
   length_score: 100
   category_score: 0
   rank: 10
