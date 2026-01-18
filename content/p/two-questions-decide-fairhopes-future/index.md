@@ -14,82 +14,82 @@ authors:
 - admin
 alttags: 'Graphic promoting two key questions for Fairhope city council election: mayor salary vs. engineer hire, and district repre...'
 related_articles:
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 77.86240319246455
-  llm_score: 85
-  recency_score: 91.10562075101957
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 80.32317788164266
+  llm_score: 92
+  recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
   rank: 1
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 72.950992415552
-  llm_score: 75
-  recency_score: 99.18145070108791
+- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
+  title: PRETTY FLOWERS ROTTEN ROOTS
+  score: 76.75638825941031
+  llm_score: 88
+  recency_score: 91.10562075101957
   length_score: 100
   category_score: 0
   rank: 2
 - slug: fauxhope-3
   title: FAUXHOPE
-  score: 64.62402600415324
-  llm_score: 75
+  score: 71.11943244844386
+  llm_score: 90
   recency_score: 45.05616902699594
   length_score: 100
   category_score: 0
   rank: 3
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 59.701537705633136
-  llm_score: 75
+  score: 69.34222149431338
+  llm_score: 95
   recency_score: 13.05999508661529
   length_score: 100
   category_score: 0
   rank: 4
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 58.09309157685942
-  llm_score: 73
-  recency_score: 10.605095249586157
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: no-qualifications
   title: NO QUALIFICATIONS
-  score: 57.91493672366056
-  llm_score: 75
+  score: 61.69586499315461
+  llm_score: 85
   recency_score: 1.4470887037935367
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: backseat-quarterbacks
-  title: BACKSEAT QUARTERBACKS
-  score: 57.701308260174265
-  llm_score: 75
-  recency_score: 0.058503691132646064
+  rank: 5
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 58.90445855549426
+  llm_score: 78
+  recency_score: 10.605095249586157
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: hardest-working-elected-official-eastern-shore
   title: “Hardest Working Elected Official- Eastern Shore.”
-  score: 57.69702251980353
-  llm_score: 75
+  score: 58.52305872277376
+  llm_score: 80
   recency_score: 0.030646378722854063
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: game-on
   title: GAME ON
-  score: 57.694037434893566
+  score: 55.557221233601204
   llm_score: 75
   recency_score: 0.011243326808078654
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 52.601259806093736
+  llm_score: 70
+  recency_score: 0.058503691132646064
   length_score: 100
   category_score: 0
   rank: 9
 - slug: there-are-more-of-us-than-them
   title: THERE ARE MORE OF US THAN THEM
-  score: 57.693918506444845
-  llm_score: 75
+  score: 49.63118078398392
+  llm_score: 65
   recency_score: 0.010470291891376842
   length_score: 100
   category_score: 0

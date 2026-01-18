@@ -19,44 +19,36 @@ alttags: Campaign ad for Joshua Brown, candidate for mayor, featuring a portrait
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 87.35349487305834
-  llm_score: 95
+  score: 84.39053191009538
+  llm_score: 90
   recency_score: 34.63609039314372
   length_score: 100
   category_score: 100
   rank: 1
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 84.79965558569401
-  llm_score: 90
-  recency_score: 37.39767520343444
-  length_score: 100
-  category_score: 100
-  rank: 2
 - slug: rumors
   title: RUMORS
-  score: 83.07274289104757
-  llm_score: 95
+  score: 74.18385400215868
+  llm_score: 80
   recency_score: 5.741014514570984
   length_score: 100
   category_score: 100
-  rank: 3
+  rank: 2
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 82.9949743252946
-  llm_score: 95
+  score: 71.14312247344276
+  llm_score: 75
   recency_score: 5.216076695738494
   length_score: 100
   category_score: 100
-  rank: 4
-- slug: justified
-  title: JUSTIFIED
-  score: 70.8312698484996
-  llm_score: 85
-  recency_score: 63.11107147737226
+  rank: 3
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 69.98484077087919
+  llm_score: 65
+  recency_score: 37.39767520343444
   length_score: 100
-  category_score: 0
-  rank: 5
+  category_score: 100
+  rank: 4
 - slug: cover-up
   title: COVER UP
   score: 68.71505582214368
@@ -64,15 +56,15 @@ related_articles:
   recency_score: 8.82662679946983
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: bayminette
-  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
-  score: 65.43599840640145
-  llm_score: 90
-  recency_score: 6.69298924320973
+  rank: 5
+- slug: justified
+  title: JUSTIFIED
+  score: 67.86830688553664
+  llm_score: 80
+  recency_score: 63.11107147737226
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
   score: 62.52888327227229
@@ -80,19 +72,27 @@ related_articles:
   recency_score: 7.069962087837917
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: bayminette
+  title: BAY MINETTE CHRISTMAS AND THE HOG FARM
+  score: 62.473035443438484
+  llm_score: 85
+  recency_score: 6.69298924320973
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: threesome
   title: THREESOME
-  score: 61.93192481129287
-  llm_score: 85
+  score: 44.154147033515095
+  llm_score: 55
   recency_score: 3.0404924762268615
   length_score: 100
   category_score: 0
   rank: 9
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
-  score: 61.59721938306713
-  llm_score: 85
+  score: 40.85647864232639
+  llm_score: 50
   recency_score: 0.7812308357030797
   length_score: 100
   category_score: 0

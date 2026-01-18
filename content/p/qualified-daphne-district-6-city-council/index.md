@@ -14,83 +14,83 @@ authors:
 - admin
 alttags: Campaign sign for Dr. Byrian Ramsey, advocating for “Lake Forest First” in City Council District 6
 related_articles:
-- slug: daphne-decision
-  title: DAPHNE DECISION
-  score: 63.86480773786049
-  llm_score: 85
-  recency_score: 0.12125029609309805
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 64.54290778777144
+  llm_score: 90
+  recency_score: 0.6646275674571428
   length_score: 100
   category_score: 0
   rank: 1
-- slug: three-strikes
-  title: THREE STRIKES
-  score: 57.7225199152516
-  llm_score: 75
-  recency_score: 0.19637944913529695
+- slug: disposal
+  title: DISPOSAL
+  score: 61.511464861658716
+  llm_score: 85
+  recency_score: 0.20238781619630178
   length_score: 100
   category_score: 0
   rank: 2
-- slug: switching-hats
-  title: SWITCHING HATS
-  score: 57.69798804712734
-  llm_score: 75
-  recency_score: 0.03692230632762536
+- slug: three-strikes
+  title: THREE STRIKES
+  score: 61.51057473320524
+  llm_score: 85
+  recency_score: 0.19637944913529695
   length_score: 100
   category_score: 0
   rank: 3
 - slug: game-on
   title: GAME ON
-  score: 57.69402798277187
-  llm_score: 75
+  score: 61.48313805748402
+  llm_score: 85
   recency_score: 0.011181888017074006
   length_score: 100
   category_score: 0
   rank: 4
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 57.69390970420376
-  llm_score: 75
-  recency_score: 0.010413077324349426
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: m-i-a
   title: M.I.A
-  score: 51.65476371581502
-  llm_score: 65
+  score: 58.63051320782187
+  llm_score: 80
   recency_score: 0.7559641527975924
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: dirty-hands
+  title: DIRTY HANDS
+  score: 58.54538969465317
+  llm_score: 80
+  recency_score: 0.18138043890884648
+  length_score: 100
+  category_score: 0
   rank: 6
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 51.64071193345495
-  llm_score: 65
-  recency_score: 0.6646275674571428
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 58.52398848982632
+  llm_score: 80
+  recency_score: 0.03692230632762536
   length_score: 100
   category_score: 0
   rank: 7
 - slug: howell-gibbens
   title: HOWELL GIBBENS
-  score: 51.63822152073552
-  llm_score: 65
+  score: 55.65162072367124
+  llm_score: 75
   recency_score: 0.6484398847808431
   length_score: 100
   category_score: 0
   rank: 8
-- slug: disposal
-  title: DISPOSAL
-  score: 51.56959812556867
-  llm_score: 65
-  recency_score: 0.20238781619630178
+- slug: daphne-decision
+  title: DAPHNE DECISION
+  score: 52.61055559942121
+  llm_score: 70
+  recency_score: 0.12125029609309805
   length_score: 100
   category_score: 0
   rank: 9
-- slug: dirty-hands
-  title: DIRTY HANDS
-  score: 51.5663662213706
-  llm_score: 65
-  recency_score: 0.18138043890884648
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 52.59413527071473
+  llm_score: 70
+  recency_score: 0.010413077324349426
   length_score: 100
   category_score: 0
   rank: 10

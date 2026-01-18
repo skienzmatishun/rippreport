@@ -9,81 +9,81 @@ authors:
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 78.41045617208597
-  llm_score: 85
+  score: 96.2471059434902
+  llm_score: 95
   recency_score: 94.66796511855877
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 77.52102313566365
-  llm_score: 85
+  score: 95.39061487137982
+  llm_score: 95
   recency_score: 88.88665038181365
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: wrongful-conviction-fairhope-baldwin-county
   title: Wrongful Conviction Fairhope, Baldwin County
-  score: 68.60861826520947
-  llm_score: 85
+  score: 83.84533610723875
+  llm_score: 90
   recency_score: 30.95601872386148
   length_score: 100
-  category_score: 0
-  rank: 4
+  category_score: 100
+  rank: 3
 - slug: rule-32
   title: RULE 32
-  score: 66.70716819180632
-  llm_score: 85
+  score: 76.08838418470239
+  llm_score: 80
   recency_score: 18.596593246741016
   length_score: 100
-  category_score: 0
-  rank: 5
-- slug: earful
-  title: EARFUL
-  score: 65.3846153846154
+  category_score: 100
+  rank: 4
+- slug: no-justice
+  title: NO JUSTICE
+  score: 73.46988063376166
   llm_score: 75
+  recency_score: 20.921694277891152
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 68.8888888888889
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 64.34162386730026
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 68.8888888888889
   llm_score: 85
-  recency_score: 3.2205551374516284
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 59.23076923076924
-  llm_score: 65
+- slug: earful
+  title: EARFUL
+  score: 65.92592592592594
+  llm_score: 80
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: no-justice
-  title: NO JUSTICE
-  score: 57.83410681198327
-  llm_score: 70
-  recency_score: 20.921694277891152
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 64.53882219215463
+  llm_score: 85
+  recency_score: 20.63704979704373
   length_score: 100
   category_score: 0
   rank: 9
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 54.71339227646828
-  llm_score: 65
-  recency_score: 20.63704979704373
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 58.99563779814099
+  llm_score: 80
+  recency_score: 3.2205551374516284
   length_score: 100
   category_score: 0
   rank: 10
