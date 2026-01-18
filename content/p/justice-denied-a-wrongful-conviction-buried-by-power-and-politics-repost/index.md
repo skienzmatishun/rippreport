@@ -26,16 +26,16 @@ related_articles:
   rank: 1
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 80.70979961311303
-  llm_score: 85
+  score: 83.672762576076
+  llm_score: 90
   recency_score: 29.79114738851293
   length_score: 100
   category_score: 100
   rank: 2
 - slug: no-justice
   title: NO JUSTICE
-  score: 76.08838418470239
-  llm_score: 80
+  score: 79.05134714766535
+  llm_score: 85
   recency_score: 18.596593246741016
   length_score: 100
   category_score: 100
@@ -48,14 +48,6 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 4
-- slug: rule-32
-  title: RULE 32
-  score: 72.81924278846796
-  llm_score: 75
-  recency_score: 16.529888822158654
-  length_score: 100
-  category_score: 100
-  rank: 5
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
   score: 71.85185185185186
@@ -63,6 +55,14 @@ related_articles:
   recency_score: 50
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: rule-32
+  title: RULE 32
+  score: 69.856279825505
+  llm_score: 70
+  recency_score: 16.529888822158654
+  length_score: 100
+  category_score: 100
   rank: 6
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
