@@ -15,83 +15,83 @@ authors:
 - admin
 alttags: Sheriff Mack portrait alongside Baldwin County Sheriff’s Office seal and Lady Justice statue, related to ongoing lawsuits ...
 related_articles:
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 78.09471144302694
+- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  title: BALDWIN COUNTY SHERIFF APPOINTMENT
+  score: 90.90955213525561
   llm_score: 85
-  recency_score: 92.61562437967505
+  recency_score: 98.63947691297537
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 77.37197972228952
+  score: 89.32116565850103
   llm_score: 85
   recency_score: 87.91786819488183
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 72.86761183276546
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 84.09120361180373
   llm_score: 75
-  recency_score: 98.63947691297537
+  recency_score: 92.61562437967505
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 3
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 83.82027564054559
+  llm_score: 90
+  recency_score: 30.7868605736826
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: rumors
+  title: RUMORS
+  score: 81.71485011599665
+  llm_score: 90
+  recency_score: 16.575238282977313
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 75.56439375124165
+  llm_score: 80
+  recency_score: 15.05965782088104
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: justified
   title: JUSTIFIED
-  score: 72.28940978606195
-  llm_score: 85
+  score: 75.53795016435596
+  llm_score: 95
   recency_score: 54.88116360940264
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 7
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 69.72570509397005
+  llm_score: 70
+  recency_score: 15.648509384297702
+  length_score: 100
+  category_score: 100
+  rank: 8
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 69.17478313740673
+  score: 66.61275413231759
   llm_score: 85
   recency_score: 34.63609039314372
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 9
 - slug: cover-up
   title: COVER UP
-  score: 67.76675391712095
-  llm_score: 85
+  score: 62.2939111794498
+  llm_score: 80
   recency_score: 25.48390046128612
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: rumors
-  title: RUMORS
-  score: 66.39619050507345
-  llm_score: 85
-  recency_score: 16.575238282977313
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 62.42874778056657
-  llm_score: 75
-  recency_score: 30.7868605736826
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 60.099770674507354
-  llm_score: 75
-  recency_score: 15.648509384297702
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 60.009178126289406
-  llm_score: 75
-  recency_score: 15.05965782088104
   length_score: 100
   category_score: 0
   rank: 10

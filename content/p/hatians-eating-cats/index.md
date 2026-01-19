@@ -11,80 +11,80 @@ alttags: Provocative illustration depicting a muscular figure labeled Haiti feed
 related_articles:
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 67.5086928128038
-  llm_score: 75
+  score: 73.89725974566292
+  llm_score: 90
   recency_score: 63.80650328322465
   length_score: 100
   category_score: 0
   rank: 1
-- slug: cover-up
-  title: COVER UP
-  score: 61.1110010538576
-  llm_score: 75
-  recency_score: 22.221506850074306
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 68.18015951047978
+  llm_score: 95
+  recency_score: 5.216076695738494
   length_score: 100
   category_score: 0
   rank: 2
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 58.825624805547456
-  llm_score: 75
-  recency_score: 7.366561236058354
+- slug: cover-up
+  title: COVER UP
+  score: 64.77355657038139
+  llm_score: 85
+  recency_score: 22.221506850074306
   length_score: 100
   category_score: 0
   rank: 3
 - slug: trump-n-bama
   title: Trump N Bama
-  score: 56.79459359798498
-  llm_score: 65
+  score: 60.617016057318864
+  llm_score: 75
   recency_score: 34.164858386902274
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 52.870609524559015
-  llm_score: 65
-  recency_score: 8.658961909633518
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 52.34093487626747
-  llm_score: 65
-  recency_score: 5.216076695738494
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 51.698712280520766
-  llm_score: 65
-  recency_score: 1.0416298233849144
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: stirring-the-pot-bsp
   title: Stirring The Pot
-  score: 50.40240375071925
-  llm_score: 40
+  score: 60.38749990810001
+  llm_score: 60
   recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 59.6098609238605
+  llm_score: 80
+  recency_score: 7.366561236058354
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 53.87540176439016
+  llm_score: 70
+  recency_score: 8.658961909633518
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
-  score: 41.976590830339134
-  llm_score: 45
+  score: 43.38486524403028
+  llm_score: 50
   recency_score: 17.84784039720432
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 34.969130344205176
+  llm_score: 40
+  recency_score: 1.0416298233849144
   length_score: 100
   category_score: 0
   rank: 9
 - slug: backstory-podcast-senate-impeachment
   title: SENATE IMPEACHMENT
-  score: 39.649984082883556
-  llm_score: 45
+  score: 29.292577264998975
+  llm_score: 30
   recency_score: 2.7248965387430797
   length_score: 100
   category_score: 0

@@ -17,80 +17,80 @@ alttags: Headshot of Tom Albritton, Alabama Ethics Commission Executive Director
 related_articles:
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 77.69230769230771
+  score: 74.81481481481482
   llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 1
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 67.32150934708271
-  llm_score: 85
-  recency_score: 22.589810756037526
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 62.75432137476916
+  llm_score: 80
+  recency_score: 28.59166927969179
   length_score: 100
   category_score: 0
   rank: 2
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 67.1999079212843
-  llm_score: 85
-  recency_score: 21.799401488347854
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: this-is-a-test
-  title: THIS IS A TEST
-  score: 65.46879139292679
-  llm_score: 85
-  recency_score: 10.547144054024043
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 65.08670999959843
+  score: 62.67609111072441
   llm_score: 85
   recency_score: 8.063614997389708
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: cover-up
-  title: COVER UP
-  score: 64.34493489486688
+  rank: 3
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 58.90219418607964
   llm_score: 75
-  recency_score: 43.242076816634636
+  recency_score: 22.589810756037526
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 53.82712980647855
+  llm_score: 70
+  recency_score: 8.333126193730163
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 52.85917059086636
+  llm_score: 65
+  recency_score: 21.799401488347854
   length_score: 100
   category_score: 0
   rank: 6
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 62.09102604302952
-  llm_score: 75
-  recency_score: 28.59166927969179
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
-  score: 61.000433168963966
-  llm_score: 75
+  score: 49.85226897752085
+  llm_score: 60
   recency_score: 21.50281559826569
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: this-is-a-test
+  title: THIS IS A TEST
+  score: 48.229206526522084
+  llm_score: 60
+  recency_score: 10.547144054024043
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 58.974327106727735
-  llm_score: 75
-  recency_score: 8.333126193730163
+- slug: cover-up
+  title: COVER UP
+  score: 44.184011380242175
+  llm_score: 45
+  recency_score: 43.242076816634636
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 57.739657447253194
-  llm_score: 75
+  score: 40.786336801058624
+  llm_score: 50
   recency_score: 0.3077734071456741
   length_score: 100
   category_score: 0

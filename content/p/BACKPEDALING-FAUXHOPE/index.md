@@ -16,81 +16,81 @@ alttags: Councilman Jack Burrell cycling through town after a public backlash ov
 related_articles:
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 72.90924501420623
-  llm_score: 75
+  score: 82.06075445812453
+  llm_score: 95
   recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 1
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 65.32446785568045
-  llm_score: 85
-  recency_score: 9.609041061922857
+- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
+  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
+  score: 73.34052747191178
+  llm_score: 98
+  recency_score: 28.048560435404436
   length_score: 100
   category_score: 0
   rank: 2
-- slug: no-radar
-  title: NO RADAR
-  score: 64.53448770005538
-  llm_score: 85
-  recency_score: 4.474170050359933
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 67.5638513933447
+  llm_score: 95
+  recency_score: 1.0559969050767497
   length_score: 100
   category_score: 0
   rank: 3
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 66.79880536223008
+  llm_score: 85
+  recency_score: 35.89193619505306
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 65.49471976372561
+  llm_score: 90
+  recency_score: 7.089358405147809
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫
-  score: 64.0122150079049
+  score: 61.64139222983434
   llm_score: 85
   recency_score: 1.0793975513817347
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: dog-and-pony-show-2
-  title: DOG AND PONY SHOW
-  score: 63.94728980651787
-  llm_score: 85
-  recency_score: 0.6573837423660799
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 63.21414403000818
-  llm_score: 75
-  recency_score: 35.89193619505306
-  length_score: 100
-  category_score: 0
   rank: 6
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 62.007470836216086
-  llm_score: 75
-  recency_score: 28.048560435404436
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 60.028299369788066
-  llm_score: 75
+  score: 60.767991985721835
+  llm_score: 80
   recency_score: 15.18394590362233
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: dog-and-pony-show-2
+  title: DOG AND PONY SHOW
+  score: 58.61590870257276
+  llm_score: 80
+  recency_score: 0.6573837423660799
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 58.7829782161766
+- slug: no-radar
+  title: NO RADAR
+  score: 56.218395563016294
   llm_score: 75
-  recency_score: 7.089358405147809
+  recency_score: 4.474170050359933
   length_score: 100
   category_score: 0
   rank: 9
-- slug: nail-in-the-coffin
-  title: NAIL IN THE COFFIN
-  score: 57.85476875462721
-  llm_score: 75
-  recency_score: 1.0559969050767497
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 54.01615423139599
+  llm_score: 70
+  recency_score: 9.609041061922857
   length_score: 100
   category_score: 0
   rank: 10

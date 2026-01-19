@@ -14,81 +14,81 @@ authors:
 related_articles:
 - slug: bull
   title: BULL SITTING Fairhope
-  score: 71.97995595769126
-  llm_score: 75
+  score: 78.20292055185084
+  llm_score: 90
   recency_score: 92.86971372499306
   length_score: 100
   category_score: 0
   rank: 1
 - slug: I-SEE-YOU
   title: I SEE YOU
-  score: 69.23089430346714
-  llm_score: 75
+  score: 72.59271303296835
+  llm_score: 85
   recency_score: 75.00081297253628
   length_score: 100
   category_score: 0
   rank: 2
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 68.79669864950806
-  llm_score: 75
+  score: 72.17459869952627
+  llm_score: 85
   recency_score: 72.17854122180232
   length_score: 100
   category_score: 0
   rank: 3
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 65.34255421188206
-  llm_score: 75
-  recency_score: 49.72660237723329
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: off-the-rails
-  title: OFF THE RAILS
-  score: 64.24410480054608
-  llm_score: 85
-  recency_score: 2.5866812035494737
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: fauxhope-3
   title: FAUXHOPE
-  score: 62.49407696003972
-  llm_score: 75
+  score: 72.03133336892714
+  llm_score: 95
   recency_score: 31.21150024025806
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 4
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 67.12503905629778
+  llm_score: 90
+  recency_score: 18.094013630009982
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: fauxhope-2
   title: FAUXHOPE
-  score: 62.389977683430736
-  llm_score: 75
+  score: 66.00516369515552
+  llm_score: 85
   recency_score: 30.53485494229968
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 65.88542257440494
+  llm_score: 80
+  recency_score: 49.72660237723329
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 60.47600209692463
-  llm_score: 75
-  recency_score: 18.094013630009982
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 61.80306136168272
+  llm_score: 85
+  recency_score: 2.1706641913583127
   length_score: 100
   category_score: 0
   rank: 8
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 60.221471044033706
-  llm_score: 75
+  score: 60.95400915351394
+  llm_score: 80
   recency_score: 16.439561786218995
   length_score: 100
   category_score: 0
   rank: 9
-- slug: catalyst-colors
-  title: 🚫 CATALYST COLORS 🚫
-  score: 58.02625602943976
-  llm_score: 75
-  recency_score: 2.1706641913583127
+- slug: off-the-rails
+  title: OFF THE RAILS
+  score: 58.901730548674
+  llm_score: 80
+  recency_score: 2.5866812035494737
   length_score: 100
   category_score: 0
   rank: 10

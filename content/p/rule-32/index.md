@@ -13,82 +13,82 @@ authors:
 - admin
 alttags: Legal document filed as a Rule 32 petition seeking relief from conviction for Murray Lawrence, against backdrop of jail fe...
 related_articles:
+- slug: no-justice
+  title: NO JUSTICE
+  score: 95.39061487137982
+  llm_score: 95
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 84.51643090931168
+  llm_score: 85
+  recency_score: 55.48590863785381
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 82.16948432633313
+  llm_score: 90
+  recency_score: 19.644019202748584
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 81.70813167735685
+  llm_score: 90
+  recency_score: 16.529888822158654
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 76.30729494121807
+  llm_score: 70
+  recency_score: 60.07424085322191
+  length_score: 100
+  category_score: 100
+  rank: 5
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 78.9385330342881
+  score: 76.0148836626478
   llm_score: 85
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
-  rank: 1
+  rank: 6
 - slug: 7432-days-in-jail
   title: 7432 DAYS IN JAIL
-  score: 77.69230769230771
-  llm_score: 95
+  score: 65.92592592592594
+  llm_score: 80
   recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: no-justice
-  title: NO JUSTICE
-  score: 77.52102313566365
-  llm_score: 85
-  recency_score: 88.88665038181365
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 66.93449859280338
-  llm_score: 75
-  recency_score: 60.07424085322191
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 66.86831064657672
-  llm_score: 85
-  recency_score: 19.644019202748584
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 66.51045915504818
-  llm_score: 85
-  recency_score: 17.31798450781311
   length_score: 100
   category_score: 0
   rank: 7
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 66.38921366494749
-  llm_score: 85
-  recency_score: 16.529888822158654
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 62.962962962962976
+  llm_score: 75
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 66.2286013289006
-  llm_score: 75
-  recency_score: 55.48590863785381
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 61.08414585300936
+  llm_score: 80
+  recency_score: 17.31798450781311
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 59.23076923076924
-  llm_score: 65
+  score: 54.074074074074076
+  llm_score: 60
   recency_score: 50
   length_score: 100
   category_score: 0

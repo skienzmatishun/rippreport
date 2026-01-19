@@ -12,86 +12,78 @@ authors:
 - admin
 alttags: Scales of justice against a dark background, symbolizing questions about fairness in the Murray Lawrence case investigation
 related_articles:
+- slug: rule-32
+  title: RULE 32
+  score: 95.39061487137982
+  llm_score: 95
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 88.50714359026477
+  llm_score: 90
+  recency_score: 62.42321923428709
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 85.49630787464918
+  llm_score: 95
+  recency_score: 22.100078153881906
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
-  score: 77.69230769230771
-  llm_score: 95
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 71.53846153846155
+  score: 68.8888888888889
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: rule-32
-  title: RULE 32
-  score: 71.3671769818175
-  llm_score: 75
-  recency_score: 88.88665038181365
+  rank: 4
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 68.8888888888889
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 5
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 71.10741801556219
+  score: 68.47380994091174
   llm_score: 75
   recency_score: 87.19821710115417
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 68.09003430344193
-  llm_score: 75
-  recency_score: 67.58522297237245
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 67.29587988219802
-  llm_score: 75
-  recency_score: 62.42321923428709
-  length_score: 100
-  category_score: 0
   rank: 6
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 67.24616586982799
-  llm_score: 85
-  recency_score: 22.100078153881906
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: innocent
   title: INNOCENT
-  score: 60.32757454027773
-  llm_score: 75
+  score: 64.01914585360076
+  llm_score: 85
   recency_score: 17.129234511805123
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: deal-with-the-devil
   title: DEAL WITH THE DEVIL
-  score: 53.90667328348255
-  llm_score: 65
+  score: 60.799018717427636
+  llm_score: 80
   recency_score: 15.39337634263649
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 43.846153846153854
-  llm_score: 40
+  score: 60.000000000000014
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 10
+  rank: 9
 ---
 The Baldwin County District Attorney Robert Wilters, was the presiding Judge in the Murray Lawrence case. Sheriff Hoss Mack was the lead investigator and David Whetstone was the prosecutor. They all signed a coroners report in relation to the exhumed body of Brandon Hastings. This report was recently found, however during the trial it was never provided to the defense. This was not an inadvertent mistake. Suppressing the report from the defense was willful and deliberate and deprived the defense of valuable information supporting the cause of death as suffocation, NOT gunshot.
 

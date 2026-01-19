@@ -17,83 +17,83 @@ authors:
 - admin
 alttags: Water dripping from a rusty faucet against a dark background, illustrating Fairhope’s ongoing water shortage and infrastru...
 related_articles:
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 61.1110010538576
-  llm_score: 75
-  recency_score: 22.221506850074306
+- slug: FAUXHOPE-4
+  title: FAUXHOPE
+  score: 67.66514945781826
+  llm_score: 90
+  recency_score: 21.73975884027314
   length_score: 100
   category_score: 0
   rank: 1
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 58.79499650321006
-  llm_score: 75
-  recency_score: 7.167477270865283
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 67.41389010283383
+  llm_score: 95
+  recency_score: 0.0437581941283173
   length_score: 100
   category_score: 0
   rank: 2
-- slug: chasing-your-tail
-  title: CHASING YOUR TAIL
-  score: 57.76198418620645
-  llm_score: 75
-  recency_score: 0.45289721034181013
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 66.9614926179407
+  llm_score: 85
+  recency_score: 36.990075171099754
   length_score: 100
   category_score: 0
   rank: 3
-- slug: eagles-eye-catalyst-kant-corte
-  title: EAGLES EYE - CATALYST-KANT-CORTE
-  score: 57.72992351047744
-  llm_score: 75
-  recency_score: 0.24450281810326882
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 65.50629292901709
+  llm_score: 90
+  recency_score: 7.167477270865283
   length_score: 100
   category_score: 0
   rank: 4
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 62.56389071121581
+  llm_score: 85
+  recency_score: 7.306262300706669
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 61.810593607418426
+  llm_score: 80
+  recency_score: 22.221506850074306
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 61.51770412120049
+  llm_score: 85
+  recency_score: 0.24450281810326882
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 58.52406393651848
+  llm_score: 80
+  recency_score: 0.03743157149971514
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 57.70522969517782
+  score: 55.56799896572679
   llm_score: 75
   recency_score: 0.08399301865574989
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 57.6990397221736
-  llm_score: 75
-  recency_score: 0.0437581941283173
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: political-intimidation
-  title: POLITICAL INTIMIDATION
-  score: 57.698066395615356
-  llm_score: 75
-  recency_score: 0.03743157149971514
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 57.22924233401536
-  llm_score: 65
-  recency_score: 36.990075171099754
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: FAUXHOPE-4
-  title: FAUXHOPE
-  score: 54.88303982158049
-  llm_score: 65
-  recency_score: 21.73975884027314
-  length_score: 100
-  category_score: 0
   rank: 9
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 40.35480958472411
-  llm_score: 45
-  recency_score: 7.306262300706669
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 52.6596884756062
+  llm_score: 70
+  recency_score: 0.45289721034181013
   length_score: 100
   category_score: 0
   rank: 10

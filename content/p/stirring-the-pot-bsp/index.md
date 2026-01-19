@@ -11,80 +11,80 @@ alttags: Political cartoon depicting officials in a boat overlooking people stru
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 70.1167958794121
-  llm_score: 75
+  score: 94.18654418017462
+  llm_score: 95
   recency_score: 80.75917321617852
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 65.78701913533463
-  llm_score: 65
-  recency_score: 92.61562437967505
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: bay-minette-vote-out-mayor-wills-remember-oj-french
   title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 64.2904798615411
-  llm_score: 75
+  score: 70.7982398666692
+  llm_score: 90
   recency_score: 42.88811910001705
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: cover-up
   title: COVER UP
-  score: 60.858551894733644
-  llm_score: 75
+  score: 67.49342034307683
+  llm_score: 90
   recency_score: 20.580587315768575
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 58.74193641293641
-  llm_score: 75
-  recency_score: 6.822586684086551
+  rank: 3
+- slug: january-22nd-qualifying-deadline
+  title: January 22nd Qualifying Deadline
+  score: 62.40233480737978
+  llm_score: 85
+  recency_score: 6.215759949813457
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: trump-n-bama
   title: Trump N Bama
-  score: 56.40646106360944
-  llm_score: 65
+  score: 57.28029583903132
+  llm_score: 70
   recency_score: 31.641996913461323
   length_score: 100
   category_score: 0
+  rank: 5
+- slug: ethical-recusal
+  title: Ethical Recusal
+  score: 56.317794187860166
+  llm_score: 75
+  recency_score: 5.1451107680560595
+  length_score: 100
+  category_score: 0
   rank: 6
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 54.46157398217409
+  llm_score: 50
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: bonum-est-faciet-2022
   title: Bonum Est Faciet 2022
-  score: 54.081521357255184
+  score: 52.07850204772722
   llm_score: 65
   recency_score: 16.529888822158654
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: january-22nd-qualifying-deadline
-  title: January 22nd Qualifying Deadline
-  score: 52.49473229997131
-  llm_score: 65
-  recency_score: 6.215759949813457
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: ethical-recusal
-  title: Ethical Recusal
-  score: 52.3300170412394
-  llm_score: 65
-  recency_score: 5.1451107680560595
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 47.67742024949431
+  llm_score: 60
+  recency_score: 6.822586684086551
   length_score: 100
   category_score: 0
   rank: 9
 - slug: ki-yay-mother-yippee
   title: Ki Yay Mother Yippee
-  score: 40.464546405754675
-  llm_score: 45
+  score: 44.89178542776376
+  llm_score: 55
   recency_score: 8.019551637405318
   length_score: 100
   category_score: 0

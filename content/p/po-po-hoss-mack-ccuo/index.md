@@ -12,83 +12,83 @@ authors:
 - admin
 alttags: Sheriff Mack partially obscured by a blanket, symbolizing alleged cover-ups within the Baldwin County Sheriff’s Office
 related_articles:
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 84.44508633135177
-  llm_score: 95
-  recency_score: 93.89306115378648
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 97.6085214571307
+  llm_score: 98
+  recency_score: 91.85751983563217
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
 - slug: hanky-panky-by-the-po-po
   title: Hanky Panky by the Po Po
-  score: 78.61133993770366
-  llm_score: 85
+  score: 96.44054956964058
+  llm_score: 95
   recency_score: 95.97370959507373
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 77.97807997471266
-  llm_score: 85
-  recency_score: 91.85751983563217
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 76.37318193384456
+  score: 88.35936038073919
   llm_score: 85
   recency_score: 81.42568256998956
   length_score: 100
-  category_score: 0
+  category_score: 100
+  rank: 3
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 87.24341646722763
+  llm_score: 80
+  recency_score: 93.89306115378648
+  length_score: 100
+  category_score: 100
   rank: 4
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 72.9626026057014
-  llm_score: 85
-  recency_score: 59.25691693705903
+- slug: bcso-culture-2
+  title: BCSO CULTURE
+  score: 82.30823515789166
+  llm_score: 90
+  recency_score: 20.580587315768575
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 71.4046937464925
-  llm_score: 75
-  recency_score: 89.13050935220119
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: justified
-  title: JUSTIFIED
-  score: 71.26928447475879
-  llm_score: 85
-  recency_score: 48.25034908593207
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 66.66824343111064
+  score: 79.01386404477319
   llm_score: 85
   recency_score: 18.34358230221904
   length_score: 100
+  category_score: 100
+  rank: 6
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 74.81481481481482
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 73.22324695363838
+  llm_score: 90
+  recency_score: 59.25691693705903
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
-  llm_score: 75
+  score: 68.8888888888889
+  llm_score: 85
   recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: justified
+  title: JUSTIFIED
+  score: 65.66671838310106
+  llm_score: 80
+  recency_score: 48.25034908593207
   length_score: 100
   category_score: 0
   rank: 10

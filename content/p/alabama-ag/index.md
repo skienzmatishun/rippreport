@@ -12,7 +12,7 @@ alttags: Letterbox with U.S. Mail marking, symbolizing complaints submitted to S
 related_articles:
 - slug: deaf-ears
   title: DEAF EARS
-  score: 77.69230769230771
+  score: 74.81481481481482
   llm_score: 95
   recency_score: 50
   length_score: 100
@@ -20,72 +20,72 @@ related_articles:
   rank: 1
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 71.53846153846155
-  llm_score: 85
+  score: 71.85185185185186
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 2
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 71.53846153846155
+  score: 68.8888888888889
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 3
-- slug: elephants-in-alabama
-  title: Elephants in Alabama
-  score: 71.53846153846155
-  llm_score: 85
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 65.92592592592594
+  llm_score: 80
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 4
 - slug: this-is-a-test
   title: THIS IS A TEST
-  score: 71.53846153846155
-  llm_score: 85
+  score: 62.962962962962976
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: cover-up
-  title: COVER UP
-  score: 71.53846153846155
-  llm_score: 85
+- slug: elephants-in-alabama
+  title: Elephants in Alabama
+  score: 60.000000000000014
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 65.3846153846154
-  llm_score: 75
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 57.03703703703705
+  llm_score: 65
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 65.3846153846154
-  llm_score: 75
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 54.074074074074076
+  llm_score: 60
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 65.3846153846154
-  llm_score: 75
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 51.111111111111114
+  llm_score: 55
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 65.3846153846154
-  llm_score: 75
+- slug: cover-up
+  title: COVER UP
+  score: 48.14814814814815
+  llm_score: 50
   recency_score: 50
   length_score: 100
   category_score: 0

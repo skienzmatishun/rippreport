@@ -9,84 +9,84 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
-  title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 71.60191934592814
-  llm_score: 85
-  recency_score: 50.412475748532785
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 83.97051783838702
+  llm_score: 95
+  recency_score: 11.800995409112343
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
 - slug: cameras
   title: CAMERAS
-  score: 68.30554321883127
+  score: 80.5905230996153
   llm_score: 85
   recency_score: 28.986030922403184
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 65.66169160140191
-  llm_score: 85
-  recency_score: 11.800995409112343
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 60.08105837837394
+  llm_score: 80
+  recency_score: 10.547144054024043
   length_score: 100
   category_score: 0
   rank: 3
 - slug: happy-days
   title: HAPPY DAYS
-  score: 60.30600358196921
+  score: 58.07244789374812
   llm_score: 75
   recency_score: 16.989023282799735
   length_score: 100
   category_score: 0
   rank: 4
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 59.314945239080636
-  llm_score: 75
-  recency_score: 10.547144054024043
+- slug: comment-are-you-surprised-at-all
+  title: 'Comment: Are You Surprised at all??????'
+  score: 52.6135342242806
+  llm_score: 70
+  recency_score: 0.14135601389395616
   length_score: 100
   category_score: 0
   rank: 5
 - slug: homeland-securitys-disinformation-governance-board
   title: Homeland Security’s Disinformation Governance Board
-  score: 54.82850987182679
-  llm_score: 65
+  score: 26.131157654351714
+  llm_score: 20
   recency_score: 21.385314166874046
   length_score: 100
   category_score: 0
   rank: 6
-- slug: comment-are-you-surprised-at-all
-  title: 'Comment: Are You Surprised at all??????'
-  score: 51.56020861752216
-  llm_score: 65
-  recency_score: 0.14135601389395616
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: attention-baldwin-county
   title: ATTENTION BALDWIN COUNTY
-  score: 50.20077302229653
-  llm_score: 75
+  score: 21.67481846591517
+  llm_score: 30
   recency_score: 3.4300246449273972
   length_score: 30.5
   category_score: 0
-  rank: 8
-- slug: this-is-the-new-logo-for-fairhope
-  title: THIS IS THE NEW LOGO FOR FAIRHOPE
-  score: 24.78520413340478
-  llm_score: 30
-  recency_score: 34.541326867131026
-  length_score: 8.75
+  rank: 7
+- slug: CAMPAIGN-KICKOFF-RECEPTION
+  title: CAMPAIGN KICKOFF RECEPTION FOR Matt McKenzie
+  score: 11.168789827890974
+  llm_score: 10
+  recency_score: 11.57683133826407
+  length_score: 31.75
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: vote
   title: VOTE
-  score: 15.426022442343946
-  llm_score: 45
+  score: 7.447280870405276
+  llm_score: 20
   recency_score: 0.47579175047122596
   length_score: 26.75
+  category_score: 0
+  rank: 9
+- slug: this-is-the-new-logo-for-fairhope
+  title: THIS IS THE NEW LOGO FOR FAIRHOPE
+  score: 6.08945583216756
+  llm_score: 0
+  recency_score: 34.541326867131026
+  length_score: 8.75
   category_score: 0
   rank: 10
 ---

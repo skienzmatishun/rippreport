@@ -10,84 +10,84 @@ authors:
 summary: A terror attack was stopped from reaching a larger crowd by traffic. A vet built a car bomb with AI, blowing up a Tesla. Leaders waste tax money on shady deals. Sheriffs hide their mistakes. Scholarships for students went to insiders. The governor’s health rumors stir worry. Teens with rifles fight in streets. A body found in a sunken car. Politicians let state pick police chiefs, ignoring locals. And finally, a festival and a demand to punish corrupt leaders. Alabama’s rules break like melting snow.
 alttags: New Baldwin County Courthouse rendering; million-dollar contract amid questions of public access and insider deals
 related_articles:
-- slug: mia
-  title: M.I.A.
-  score: 72.950992415552
-  llm_score: 75
-  recency_score: 99.18145070108791
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 56.70889770665204
-  llm_score: 65
-  recency_score: 33.60783509323819
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: ripp-report-podcast
-  title: RIPP REPORT PODCAST
-  score: 51.10045798317213
-  llm_score: 75
-  recency_score: 0.46547689061875125
-  length_score: 42.25
-  category_score: 0
-  rank: 3
-- slug: notice
-  title: 'NOTICE:'
-  score: 50.14853860640583
-  llm_score: 45
-  recency_score: 73.7780009416378
-  length_score: 96.25
-  category_score: 0
-  rank: 4
-- slug: fake-news-and-retaliation
-  title: FAKE NEWS AND RETALIATION
-  score: 39.23984408075675
-  llm_score: 45
-  recency_score: 0.0589865249188217
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: delicately-censored
   title: Delicately Censored
-  score: 37.985098437070846
-  llm_score: 35
+  score: 63.24490960606822
+  llm_score: 80
   recency_score: 31.903139840960442
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: catalyst-vs-the-people
-  title: CATALYST VS THE PEOPLE
-  score: 34.34723049621767
-  llm_score: 45
-  recency_score: 0.13199822541481712
-  length_score: 57.49999999999999
+  rank: 1
+- slug: notice
+  title: 'NOTICE:'
+  score: 63.1060001395019
+  llm_score: 70
+  recency_score: 73.7780009416378
+  length_score: 96.25
   category_score: 0
-  rank: 7
+  rank: 2
+- slug: mia
+  title: M.I.A.
+  score: 61.360214918679695
+  llm_score: 60
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: the-180
+  title: THE 180
+  score: 56.70676175545154
+  llm_score: 60
+  recency_score: 67.77064184929783
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: the-mug-shot
   title: The Mugshot
-  score: 33.86725940185169
-  llm_score: 30
+  score: 44.46476831289422
+  llm_score: 50
   recency_score: 25.13718611203594
   length_score: 100
   category_score: 0
-  rank: 8
-- slug: im-back-2
-  title: I'M BACK
-  score: 32.81436841444479
-  llm_score: 30
-  recency_score: 18.293394693891102
+  rank: 5
+- slug: fake-news-and-retaliation
+  title: FAKE NEWS AND RETALIATION
+  score: 40.74947948517316
+  llm_score: 50
+  recency_score: 0.0589865249188217
   length_score: 100
   category_score: 0
-  rank: 9
-- slug: the-180
-  title: THE 180
-  score: 31.19548336143044
-  llm_score: 15
-  recency_score: 67.77064184929783
+  rank: 6
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 39.7937533471464
+  llm_score: 40
+  recency_score: 33.60783509323819
   length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-vs-the-people
+  title: CATALYST VS THE PEOPLE
+  score: 36.038073811172566
+  llm_score: 50
+  recency_score: 0.13199822541481712
+  length_score: 57.49999999999999
+  category_score: 0
+  rank: 8
+- slug: ripp-report-podcast
+  title: RIPP REPORT PODCAST
+  score: 22.54118176157315
+  llm_score: 30
+  recency_score: 0.46547689061875125
+  length_score: 42.25
+  category_score: 0
+  rank: 9
+- slug: CAMPAIGN-KICKOFF-RECEPTION
+  title: CAMPAIGN KICKOFF RECEPTION FOR Matt McKenzie
+  score: 20.799913718772018
+  llm_score: 20
+  recency_score: 36.586917601711114
+  length_score: 31.75
   category_score: 0
   rank: 10
 ---

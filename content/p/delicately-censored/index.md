@@ -12,80 +12,80 @@ alttags: The Guardian webpage announcing removal of a document related to Osama 
 related_articles:
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 70.67354453900549
-  llm_score: 75
+  score: 96.5004502968201
+  llm_score: 98
   recency_score: 84.37803950353559
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 86.6869627298293
+  llm_score: 90
+  recency_score: 50.13699842634772
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
-  llm_score: 75
+  score: 74.81481481481482
+  llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: bonum-est-faciet-2022
-  title: Bonum Est Faciet 2022
-  score: 63.97298356750134
-  llm_score: 75
-  recency_score: 40.82439318875856
-  length_score: 100
-  category_score: 0
   rank: 3
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 59.25184591174581
-  llm_score: 65
-  recency_score: 50.13699842634772
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 61.88627736958953
+  llm_score: 85
+  recency_score: 2.7323722447292558
   length_score: 100
   category_score: 0
   rank: 4
 - slug: stirring-the-pot-bsp
   title: Stirring The Pot
-  score: 57.76772698531183
-  llm_score: 65
+  score: 52.66521857844843
+  llm_score: 60
   recency_score: 40.49022540452686
   length_score: 100
   category_score: 0
   rank: 5
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 52.49735581207703
-  llm_score: 65
-  recency_score: 6.232812778500628
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 52.318110833411616
+  llm_score: 50
+  recency_score: 78.14724812552835
   length_score: 100
   category_score: 0
   rank: 6
-- slug: judicial-trick
-  title: JUDICIAL TRICK
-  score: 51.95882649918912
-  llm_score: 65
-  recency_score: 2.7323722447292558
+- slug: bonum-est-faciet-2022
+  title: Bonum Est Faciet 2022
+  score: 49.75176195389017
+  llm_score: 55
+  recency_score: 40.82439318875856
   length_score: 100
   category_score: 0
   rank: 7
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 51.253422788542835
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 38.70115744866676
   llm_score: 45
-  recency_score: 78.14724812552835
+  recency_score: 6.232812778500628
   length_score: 100
   category_score: 0
   rank: 8
 - slug: hatians-eating-cats
   title: Haitians Eating Cats
-  score: 45.956702882432154
-  llm_score: 45
+  score: 35.365713886786516
+  llm_score: 30
   recency_score: 43.718568735808944
   length_score: 100
   category_score: 0
   rank: 9
 - slug: ki-yay-mother-yippee
   title: Ki Yay Mother Yippee
-  score: 14.585560344800847
-  llm_score: 0
+  score: 34.78609514684526
+  llm_score: 35
   recency_score: 19.806142241205503
   length_score: 100
   category_score: 0

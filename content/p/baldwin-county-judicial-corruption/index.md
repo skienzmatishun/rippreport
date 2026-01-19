@@ -10,82 +10,82 @@ authors:
 - admin
 alttags: Close-up portrait of a man, potentially related to concerns about Baldwin County Sheriff’s Office accountability
 related_articles:
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 77.42313062860494
-  llm_score: 95
-  recency_score: 48.25034908593207
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 88.50843470065826
+  llm_score: 92
+  recency_score: 54.43193422944308
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 88.03806176845319
+  llm_score: 90
+  recency_score: 59.25691693705903
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 86.80829907020171
+  llm_score: 95
+  recency_score: 30.95601872386148
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 72.96474986586873
+  score: 85.07716653750322
   llm_score: 95
   recency_score: 19.270874128146687
   length_score: 100
-  category_score: 0
-  rank: 2
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 72.9626026057014
-  llm_score: 85
-  recency_score: 59.25691693705903
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 72.22029757376049
-  llm_score: 85
-  recency_score: 54.43193422944308
-  length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 4
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 80.48153319791587
+  llm_score: 80
+  recency_score: 48.25034908593207
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 79.51746132500045
+  llm_score: 75
+  recency_score: 61.74286394375304
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
-  score: 71.53846153846155
+  score: 68.8888888888889
   llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 68.60861826520947
-  llm_score: 85
-  recency_score: 30.95601872386148
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: justified
-  title: JUSTIFIED
-  score: 68.24487219687568
-  llm_score: 85
-  recency_score: 28.59166927969179
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 67.19120983750048
-  llm_score: 75
-  recency_score: 61.74286394375304
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 64.09678747594192
+  llm_score: 85
+  recency_score: 17.653315462607935
   length_score: 100
   category_score: 0
   rank: 8
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 66.56204853270893
-  llm_score: 85
-  recency_score: 17.653315462607935
+- slug: justified
+  title: JUSTIFIED
+  score: 56.82839544884324
+  llm_score: 70
+  recency_score: 28.59166927969179
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
-  llm_score: 75
+  score: 54.074074074074076
+  llm_score: 60
   recency_score: 50
   length_score: 100
   category_score: 0

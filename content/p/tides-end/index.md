@@ -12,81 +12,81 @@ alttags: Judge Wilters, new Alabama football coach, appears on a podcast discuss
 related_articles:
 - slug: no-justice
   title: NO JUSTICE
-  score: 72.74339448711596
-  llm_score: 75
+  score: 93.75289839500056
+  llm_score: 90
   recency_score: 97.83206416625366
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 88.3066553919895
+  llm_score: 90
+  recency_score: 61.06992389592894
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
-- slug: innocent
-  title: INNOCENT
-  score: 60.385971441946786
-  llm_score: 75
-  recency_score: 17.508814372654022
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 53.76204804046527
-  llm_score: 65
-  recency_score: 14.453312263024177
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: troubled-waters
-  title: Troubled Waters
-  score: 53.424989103593425
-  llm_score: 65
-  recency_score: 12.262429173357202
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: the-murray-lawrence-jr-project
   title: The Murray Lawrence Jr. Project
-  score: 50.86458435405707
-  llm_score: 45
+  score: 78.610340489092
+  llm_score: 95
   recency_score: 75.61979830137088
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 49.54338532362523
-  llm_score: 45
-  recency_score: 67.03200460356393
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 48.62614213783523
-  llm_score: 45
-  recency_score: 61.06992389592894
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 46.923076923076934
-  llm_score: 45
+  rank: 3
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 71.85185185185186
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 4
+- slug: innocent
+  title: INNOCENT
+  score: 64.07537990705985
+  llm_score: 85
+  recency_score: 17.508814372654022
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 62.962962962962976
+  llm_score: 75
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: troubled-waters
+  title: Troubled Waters
+  score: 54.409248766423296
+  llm_score: 70
+  recency_score: 12.262429173357202
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 48.80789811304062
+  llm_score: 60
+  recency_score: 14.453312263024177
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: backstory-153
   title: No Boomers
-  score: 37.48439408390658
-  llm_score: 30
+  score: 47.94793504376189
+  llm_score: 50
   recency_score: 48.648561545392695
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 44.74548216349096
+  llm_score: 40
+  recency_score: 67.03200460356393
   length_score: 100
   category_score: 0
   rank: 10

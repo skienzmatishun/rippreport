@@ -7,83 +7,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 88.62845582468663
+  llm_score: 95
+  recency_score: 43.242076816634636
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: lee-county-no-justice-center
-  title: LEE COUNTY NO-JUSTICE CENTER
-  score: 66.3938909729857
-  llm_score: 75
-  recency_score: 56.56029132440696
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 66.02153441958629
-  llm_score: 85
+  score: 84.31703314478679
+  llm_score: 95
   recency_score: 14.139973727310823
   length_score: 100
-  category_score: 0
+  category_score: 100
+  rank: 2
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 83.98494660647609
+  llm_score: 95
+  recency_score: 11.898389593713517
+  length_score: 100
+  category_score: 100
   rank: 3
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 65.3846153846154
-  llm_score: 75
+  score: 71.85185185185186
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 4
-- slug: earful
-  title: EARFUL
-  score: 65.3846153846154
-  llm_score: 75
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 71.85185185185186
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 64.34493489486688
-  llm_score: 75
-  recency_score: 43.242076816634636
+- slug: innocent
+  title: INNOCENT
+  score: 71.37365105352087
+  llm_score: 95
+  recency_score: 26.772144611265798
   length_score: 100
   category_score: 0
   rank: 6
 - slug: deal-with-the-devil
   title: DEAL WITH THE DEVIL
-  score: 61.393705280396354
-  llm_score: 75
+  score: 70.97171619593722
+  llm_score: 95
   recency_score: 24.0590843225762
   length_score: 100
   category_score: 0
   rank: 7
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 59.522829168263634
-  llm_score: 75
-  recency_score: 11.898389593713517
+- slug: earful
+  title: EARFUL
+  score: 68.8888888888889
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: innocent
-  title: INNOCENT
-  score: 55.657253017117824
-  llm_score: 65
-  recency_score: 26.772144611265798
+- slug: justified
+  title: JUSTIFIED
+  score: 55.70060630817034
+  llm_score: 70
+  recency_score: 20.979092580149743
   length_score: 100
   category_score: 0
   rank: 9
-- slug: justified
-  title: JUSTIFIED
-  score: 54.76601424309997
-  llm_score: 65
-  recency_score: 20.979092580149743
+- slug: lee-county-no-justice-center
+  title: LEE COUNTY NO-JUSTICE CENTER
+  score: 49.12004315917141
+  llm_score: 50
+  recency_score: 56.56029132440696
   length_score: 100
   category_score: 0
   rank: 10

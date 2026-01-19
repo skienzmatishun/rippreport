@@ -11,82 +11,82 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 72.93766021701484
-  llm_score: 85
-  recency_score: 59.09479141059637
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 72.90245285855516
+  llm_score: 95
+  recency_score: 37.09155679524731
   length_score: 100
   category_score: 0
   rank: 1
 - slug: alabama-attorney-general
   title: ALABAMA ATTORNEY GENERAL
-  score: 72.35909238478675
-  llm_score: 85
+  score: 72.64208896312799
+  llm_score: 90
   recency_score: 55.33410050111382
   length_score: 100
   category_score: 0
   rank: 2
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 70.23626539416243
+  llm_score: 85
+  recency_score: 59.09479141059637
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: POSTER-BOY-of-CORRUPTION
   title: POSTER BOY OF CORRUPTION
-  score: 71.9051795324712
+  score: 69.24202473497226
   llm_score: 85
   recency_score: 52.383666961062694
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: alabama-black-hole
-  title: ALABAMA BLACK HOLE
-  score: 71.12827948980119
-  llm_score: 85
-  recency_score: 47.33381668370766
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 69.55254719926883
-  llm_score: 85
-  recency_score: 37.09155679524731
+- slug: alabamas-ethics-director-should-resign
+  title: Alabama's Ethics Director Should Resign
+  score: 68.64147499658377
+  llm_score: 80
+  recency_score: 68.3299562269404
   length_score: 100
   category_score: 0
   rank: 5
-- slug: dirty-underwear
-  title: DIRTY UNDERWEAR
-  score: 69.2040612468697
-  llm_score: 85
-  recency_score: 34.826398104653
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 65.53093580499373
+  llm_score: 80
+  recency_score: 47.33381668370766
   length_score: 100
   category_score: 0
   rank: 6
-- slug: alabamas-ethics-director-should-resign
-  title: Alabama's Ethics Director Should Resign
-  score: 68.20460865029854
+- slug: striking-oil
+  title: STRIKING OIL
+  score: 57.577069805335476
   llm_score: 75
-  recency_score: 68.3299562269404
+  recency_score: 13.645221186014394
   length_score: 100
   category_score: 0
   rank: 7
 - slug: alabama-ugly
   title: ALABAMA UGLY
-  score: 66.2404613257572
-  llm_score: 85
+  score: 54.89822201739582
+  llm_score: 70
   recency_score: 15.562998617421716
   length_score: 100
   category_score: 0
   rank: 8
-- slug: striking-oil
-  title: STRIKING OIL
-  score: 65.94541864400223
-  llm_score: 85
-  recency_score: 13.645221186014394
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 54.78909601550416
+  llm_score: 65
+  recency_score: 34.826398104653
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 65.8226254061271
-  llm_score: 85
+  score: 54.49586150219647
+  llm_score: 70
   recency_score: 12.847065139826096
   length_score: 100
   category_score: 0

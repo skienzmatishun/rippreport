@@ -11,83 +11,83 @@ authors:
 - admin
 alttags: Bodycam footage shows a police officer in uniform near a brick building, highlighting the article’s focus on law enforceme...
 related_articles:
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 75.70523642660095
-  llm_score: 85
-  recency_score: 77.0840367729061
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 68.55596257882763
-  llm_score: 75
+  score: 83.79463063146363
+  llm_score: 80
   recency_score: 70.6137567623795
   length_score: 100
-  category_score: 0
+  category_score: 100
+  rank: 1
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 82.34183235035806
+  llm_score: 90
+  recency_score: 20.807368364916808
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 79.83142946022653
+  llm_score: 85
+  recency_score: 23.862148856529085
+  length_score: 100
+  category_score: 100
   rank: 3
+- slug: bcso-culture-2
+  title: BCSO CULTURE
+  score: 78.64013970580308
+  llm_score: 85
+  recency_score: 15.820943014170737
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: biased-investigation
+  title: BIASED INVESTIGATION
+  score: 76.76351760232703
+  llm_score: 80
+  recency_score: 23.153743815707337
+  length_score: 100
+  category_score: 100
+  rank: 5
 - slug: silence-the-eagle
   title: SILENCE THE EAGLE
-  score: 66.53811283570458
-  llm_score: 75
+  score: 75.9255901380859
+  llm_score: 95
   recency_score: 57.49773343207967
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 65.93967510505136
-  llm_score: 85
-  recency_score: 13.607888182833822
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
 - slug: justified
   title: JUSTIFIED
-  score: 63.398701045422676
-  llm_score: 75
+  score: 69.9394898955922
+  llm_score: 90
   recency_score: 37.09155679524731
   length_score: 100
   category_score: 0
   rank: 7
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 61.36340751638911
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 62.962962962962976
   llm_score: 75
-  recency_score: 23.862148856529085
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 61.254422125493456
-  llm_score: 75
-  recency_score: 23.153743815707337
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 60.000000000000014
+  llm_score: 70
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 60.893441286910296
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 57.57153899004946
   llm_score: 75
-  recency_score: 20.807368364916808
+  recency_score: 13.607888182833822
   length_score: 100
   category_score: 0
   rank: 10

@@ -11,81 +11,81 @@ alttags: Bald eagle in a cage with bandages, symbolizing restricted access to on
 related_articles:
 - slug: notice
   title: 'NOTICE:'
-  score: 74.85759912981096
-  llm_score: 85
+  score: 78.0110213842624
+  llm_score: 95
   recency_score: 74.38689434377122
   length_score: 96.25
   category_score: 0
   rank: 1
-- slug: exposure-2
-  title: EXPOSURE
-  score: 63.882652948667925
-  llm_score: 85
-  recency_score: 0.23724416634139747
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: im-back-2
   title: I'M BACK
-  score: 60.48363911382725
-  llm_score: 75
+  score: 67.13239322072253
+  llm_score: 90
   recency_score: 18.143654239877034
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: exposure-2
+  title: EXPOSURE
+  score: 64.47959172834689
+  llm_score: 90
+  recency_score: 0.23724416634139747
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: loser
-  title: LOSER
-  score: 57.7220273356617
-  llm_score: 75
-  recency_score: 0.19317768180096426
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
-  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
-  score: 57.6951246115937
-  llm_score: 75
-  recency_score: 0.01830997535894984
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: delicately-censored
-  title: Delicately Censored
-  score: 56.40646106360944
-  llm_score: 65
-  recency_score: 31.641996913461323
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 52.02319008747405
-  llm_score: 65
+  score: 61.948257121271304
+  llm_score: 85
   recency_score: 3.150735568581256
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 4
+- slug: a-slap-on-the-wrist
+  title: A SLAP ON THE WRIST
+  score: 61.808391293930626
+  llm_score: 85
+  recency_score: 2.2066412340316854
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: m-i-a
   title: M.I.A
-  score: 51.75037792234367
-  llm_score: 65
+  score: 61.68554911040501
+  llm_score: 85
   recency_score: 1.3774564952337773
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
+- slug: loser
+  title: LOSER
+  score: 61.51010039730385
+  llm_score: 85
+  recency_score: 0.19317768180096426
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: im-back
   title: I'M BACK
-  score: 51.56381471704252
-  llm_score: 65
+  score: 61.505895653448356
+  llm_score: 85
   recency_score: 0.1647956607763347
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 58.52123110746059
+  llm_score: 80
+  recency_score: 0.01830997535894984
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: a-slap-on-the-wrist
-  title: A SLAP ON THE WRIST
-  score: 39.57025249754334
-  llm_score: 45
-  recency_score: 2.2066412340316854
+- slug: delicately-censored
+  title: Delicately Censored
+  score: 51.35436991310539
+  llm_score: 60
+  recency_score: 31.641996913461323
   length_score: 100
   category_score: 0
   rank: 10

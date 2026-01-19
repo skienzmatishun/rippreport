@@ -15,81 +15,81 @@ alttags: Handcuffs with faux fur lining, symbolizing alleged cover-ups and inter
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 78.61133993770366
-  llm_score: 85
+  score: 96.44054956964058
+  llm_score: 95
   recency_score: 95.97370959507373
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 77.70963905256309
-  llm_score: 85
-  recency_score: 90.11265384166002
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 77.40908758896722
-  llm_score: 85
+  score: 86.39393619678324
+  llm_score: 80
   recency_score: 88.15906932828686
   length_score: 100
-  category_score: 0
+  category_score: 100
+  rank: 2
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 82.09083444786319
+  llm_score: 90
+  recency_score: 19.113132523076512
+  length_score: 100
+  category_score: 100
   rank: 3
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 73.34505599134664
-  llm_score: 85
-  recency_score: 61.74286394375304
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 71.55953821943812
-  llm_score: 85
-  recency_score: 50.13699842634772
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: justified
-  title: JUSTIFIED
-  score: 70.97040767851414
-  llm_score: 85
-  recency_score: 46.30764991034176
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 69.7149612500813
+  score: 81.94774046304124
   llm_score: 75
   recency_score: 78.14724812552835
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: bcso-culture-2
+  title: BCSO CULTURE
+  score: 79.22251157087354
+  llm_score: 85
+  recency_score: 19.751953103396314
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 71.8721479150145
+  llm_score: 65
+  recency_score: 50.13699842634772
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 67.6656094731486
+  llm_score: 80
+  recency_score: 61.74286394375304
   length_score: 100
   category_score: 0
   rank: 7
 - slug: deaf-ears
   title: DEAF EARS
-  score: 62.28371264563072
-  llm_score: 65
+  score: 62.939871436533295
+  llm_score: 70
   recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 8
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 60.632789618934865
-  llm_score: 75
-  recency_score: 19.113132523076512
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 60.000000000000014
+  llm_score: 70
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 59.23076923076924
+- slug: justified
+  title: JUSTIFIED
+  score: 56.49002220893953
   llm_score: 65
-  recency_score: 50
+  recency_score: 46.30764991034176
   length_score: 100
   category_score: 0
   rank: 10

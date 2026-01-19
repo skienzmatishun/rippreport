@@ -18,80 +18,80 @@ alttags: Montrose Hut facade features faces representing city officials debating
 related_articles:
 - slug: FAUXHOPE-4
   title: FAUXHOPE
-  score: 65.3846153846154
-  llm_score: 75
+  score: 74.81481481481482
+  llm_score: 95
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 1
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 65.3846153846154
-  llm_score: 75
+- slug: fairhope-un-armed-robbery
+  title: FAIRHOPE UN-ARMED ROBBERY
+  score: 71.85185185185186
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-un-armed-robbery
-  title: FAIRHOPE UN-ARMED ROBBERY
-  score: 65.3846153846154
-  llm_score: 75
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 68.8888888888889
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 3
-- slug: catalyst-colors
-  title: 🚫 CATALYST COLORS 🚫
-  score: 65.3846153846154
-  llm_score: 75
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 68.8888888888889
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 65.3846153846154
-  llm_score: 75
+- slug: nail-in-the-coffin
+  title: NAIL IN THE COFFIN
+  score: 68.8888888888889
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: quid-quo-pro
-  title: QUID QUO PRO
-  score: 65.3846153846154
-  llm_score: 75
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 65.92592592592594
+  llm_score: 80
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
 - slug: marble-mouth
   title: MARBLE MOUTH
-  score: 65.3846153846154
-  llm_score: 75
+  score: 65.92592592592594
+  llm_score: 80
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 59.23076923076924
-  llm_score: 65
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 62.962962962962976
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: nail-in-the-coffin
-  title: NAIL IN THE COFFIN
-  score: 59.23076923076924
-  llm_score: 65
+- slug: quid-quo-pro
+  title: QUID QUO PRO
+  score: 62.962962962962976
+  llm_score: 75
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 19.230769230769234
-  llm_score: 0
+- slug: fairhope-state-of-the-city
+  title: FAIRHOPE STATE OF THE CITY
+  score: 60.000000000000014
+  llm_score: 70
   recency_score: 50
   length_score: 100
   category_score: 0

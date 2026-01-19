@@ -14,81 +14,81 @@ alttags: 'Mock product listings: City of Fauxhope logo & megaphone, highlighting
 related_articles:
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE
-  score: 72.90924501420623
-  llm_score: 75
+  score: 82.06075445812453
+  llm_score: 95
   recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
   rank: 1
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 64.87535833534707
-  llm_score: 75
-  recency_score: 46.6898291797559
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 73.64179401448938
+  llm_score: 90
+  recency_score: 62.08210959780326
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 64.16647839966205
-  llm_score: 70
-  recency_score: 62.08210959780326
+- slug: now-you-know-jack
+  title: NOW! YOU KNOW JACK
+  score: 64.46255570083527
+  llm_score: 90
+  recency_score: 0.12225098063802377
   length_score: 100
   category_score: 0
   rank: 3
 - slug: fauxhope
   title: FAUXHOPE
-  score: 58.79499650321006
-  llm_score: 75
+  score: 62.543329966054124
+  llm_score: 85
   recency_score: 7.167477270865283
   length_score: 100
   category_score: 0
   rank: 4
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 62.472567285889774
+  llm_score: 75
+  recency_score: 46.6898291797559
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: self-incrimination
+  title: SELF INCRIMINATION
+  score: 61.49618834758982
+  llm_score: 85
+  recency_score: 0.0992713462312305
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 58.54737362763426
+  llm_score: 80
+  recency_score: 0.19477198653119254
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: cut-nose-off-spite-face
+  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+  score: 58.53116816837459
+  llm_score: 80
+  recency_score: 0.08538513652846078
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: in-the-same-boat
   title: IN THE SAME BOAT
-  score: 57.8253195602064
+  score: 55.68364105797653
   llm_score: 75
   recency_score: 0.8645771413415052
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: people-power-2
-  title: PEOPLE POWER
-  score: 57.722272613312505
-  llm_score: 75
-  recency_score: 0.19477198653119254
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 9
 - slug: new-year-new-problems
   title: NEW YEAR NEW PROBLEMS
-  score: 57.719532728187005
-  llm_score: 75
+  score: 52.618809293809704
+  llm_score: 70
   recency_score: 0.17696273321544892
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: now-you-know-jack
-  title: NOW! YOU KNOW JACK
-  score: 57.71111553548279
-  llm_score: 75
-  recency_score: 0.12225098063802377
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: self-incrimination
-  title: SELF INCRIMINATION
-  score: 57.707580207112514
-  llm_score: 75
-  recency_score: 0.0992713462312305
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: cut-nose-off-spite-face
-  title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
-  score: 57.70544386715824
-  llm_score: 75
-  recency_score: 0.08538513652846078
   length_score: 100
   category_score: 0
   rank: 10

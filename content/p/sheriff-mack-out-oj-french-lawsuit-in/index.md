@@ -9,83 +9,83 @@ authors:
 rumble: v5755ut
 alttags: Podcast cover art featuring a vintage photo of an Indigenous man and text referencing silence over falsehoods, related to ...
 related_articles:
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 59.23076923076924
-  llm_score: 65
-  recency_score: 50
+- slug: alien-indictment
+  title: Alien Indictment
+  score: 57.29315647088378
+  llm_score: 70
+  recency_score: 31.72880617846543
   length_score: 100
   category_score: 0
   rank: 1
-- slug: he-must-go
-  title: He Must Go
-  score: 59.1706217018343
-  llm_score: 75
-  recency_score: 9.609041061922857
+- slug: backstory-153
+  title: No Boomers
+  score: 44.941871462408244
+  llm_score: 50
+  recency_score: 28.357632371255608
   length_score: 100
   category_score: 0
   rank: 2
-- slug: delicately-censored
-  title: Delicately Censored
-  score: 56.15381919718908
-  llm_score: 60
-  recency_score: 49.99982478172893
+- slug: stephen-nodine
+  title: STEPHEN NODINE
+  score: 43.99693525938101
+  llm_score: 50
+  recency_score: 21.979313000821772
   length_score: 100
   category_score: 0
   rank: 3
-- slug: backstory-153
-  title: No Boomers
-  score: 55.90117421096241
-  llm_score: 65
-  recency_score: 28.357632371255608
+- slug: the-180
+  title: THE 180
+  score: 42.83713409252556
+  llm_score: 30
+  recency_score: 94.15065512454748
   length_score: 100
   category_score: 0
   rank: 4
 - slug: the-lie-of-the-century
   title: The Lie of The Century
-  score: 47.33407516690546
-  llm_score: 45
+  score: 42.61799830887191
+  llm_score: 40
   recency_score: 52.671488584885374
   length_score: 100
   category_score: 0
   rank: 5
-- slug: the-180
-  title: THE 180
-  score: 44.484716173007314
-  llm_score: 30
-  recency_score: 94.15065512454748
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 42.22222222222223
+  llm_score: 40
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: alien-indictment
-  title: Alien Indictment
-  score: 44.11212402745623
-  llm_score: 45
-  recency_score: 31.72880617846543
+- slug: delicately-censored
+  title: Delicately Censored
+  score: 42.222196263959844
+  llm_score: 40
+  recency_score: 49.99982478172893
   length_score: 100
   category_score: 0
   rank: 7
-- slug: stephen-nodine
-  title: STEPHEN NODINE
-  score: 42.61220200012644
-  llm_score: 45
-  recency_score: 21.979313000821772
+- slug: a-long-strange-day-jan-6-2021
+  title: A long strange day Jan 6, 2021
+  score: 41.15906617162991
+  llm_score: 50
+  recency_score: 2.82369665850184
   length_score: 100
   category_score: 0
   rank: 8
 - slug: pure-kafka
   title: PURE KAFKA
-  score: 39.479212702090635
-  llm_score: 35
+  score: 40.9799826020132
+  llm_score: 40
   recency_score: 41.61488256358909
   length_score: 100
   category_score: 0
   rank: 9
-- slug: a-long-strange-day-jan-6-2021
-  title: A long strange day Jan 6, 2021
-  score: 33.511337947461826
-  llm_score: 35
-  recency_score: 2.82369665850184
+- slug: he-must-go
+  title: He Must Go
+  score: 36.23837645361821
+  llm_score: 40
+  recency_score: 9.609041061922857
   length_score: 100
   category_score: 0
   rank: 10

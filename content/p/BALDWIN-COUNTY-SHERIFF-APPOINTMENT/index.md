@@ -15,83 +15,83 @@ categories:
 authors:
 - admin
 related_articles:
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 95.75638035967373
+  llm_score: 95
+  recency_score: 91.35556742779755
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 93.8725150982186
+  llm_score: 90
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 93.32262000367282
+  llm_score: 90
+  recency_score: 94.92768502479139
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 78.77404007552455
+  score: 90.67129785050514
   llm_score: 85
   recency_score: 97.03126049090956
   length_score: 100
-  category_score: 0
-  rank: 1
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 78.45041308073715
-  llm_score: 85
-  recency_score: 94.92768502479139
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 77.90085652735348
-  llm_score: 85
-  recency_score: 91.35556742779755
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 72.86761183276546
-  llm_score: 75
-  recency_score: 98.63947691297537
-  length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 4
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 71.4046937464925
-  llm_score: 75
+  score: 89.50081620032611
+  llm_score: 85
   recency_score: 89.13050935220119
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 66.88399494340732
-  llm_score: 75
-  recency_score: 59.74596713214747
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 77.83229603374929
+  llm_score: 80
+  recency_score: 30.367998227807558
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 6
-- slug: justified
-  title: JUSTIFIED
-  score: 66.02069118585678
-  llm_score: 75
-  recency_score: 54.13449270806896
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: rumors
   title: RUMORS
-  score: 60.277516716854095
+  score: 72.85983091252615
   llm_score: 75
   recency_score: 16.8038586595515
   length_score: 100
+  category_score: 100
+  rank: 7
+- slug: justified
+  title: JUSTIFIED
+  score: 66.53844336415837
+  llm_score: 80
+  recency_score: 54.13449270806896
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 61.44384698254038
+  llm_score: 70
+  recency_score: 59.74596713214747
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: bcso-culture
-  title: BCSO CULTURE
-  score: 16.210461265816548
-  llm_score: 0
-  recency_score: 30.367998227807558
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 60.000000000000014
+  llm_score: 70
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 10

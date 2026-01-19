@@ -11,81 +11,81 @@ alttags: 'Podcast cover art: Alien Indictment, featuring a vintage photo resembl
 related_articles:
 - slug: trump-n-bama
   title: Trump N Bama
-  score: 64.03121597290284
-  llm_score: 65
+  score: 70.5485783442768
+  llm_score: 80
   recency_score: 81.20290382386844
   length_score: 100
   category_score: 0
   rank: 1
-- slug: what-the
-  title: What the
-  score: 58.375872222346906
-  llm_score: 65
-  recency_score: 44.44316944525482
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: the-180
   title: THE 180
-  score: 56.134289058495874
-  llm_score: 65
+  score: 68.87005613040343
+  llm_score: 90
   recency_score: 29.872878880223098
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 54.4310018957375
-  llm_score: 65
-  recency_score: 18.801512322293714
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: backstory-154
-  title: W.H.O. Calls The Plague
-  score: 53.17042724170773
-  llm_score: 45
-  recency_score: 90.60777707110016
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: offensive
-  title: Offensive
-  score: 48.252227217380835
-  llm_score: 35
-  recency_score: 98.63947691297537
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 44.03253849850125
-  llm_score: 45
-  recency_score: 31.21150024025806
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: he-must-go
-  title: He Must Go
-  score: 43.889986477114725
-  llm_score: 45
-  recency_score: 30.284912101245666
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 2
 - slug: backstory-153
   title: No Boomers
-  score: 43.7500057454474
-  llm_score: 30
+  score: 68.79630182894934
+  llm_score: 75
   recency_score: 89.37503734540803
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 3
+- slug: backstory-154
+  title: W.H.O. Calls The Plague
+  score: 63.05300401053337
+  llm_score: 65
+  recency_score: 90.60777707110016
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: offensive
+  title: Offensive
+  score: 61.27992250562599
+  llm_score: 60
+  recency_score: 98.63947691297537
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 57.21651855411231
+  llm_score: 70
+  recency_score: 31.21150024025806
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: hatians-eating-cats
   title: Haitians Eating Cats
-  score: 34.26813186115033
-  llm_score: 30
+  score: 50.776719569996615
+  llm_score: 60
   recency_score: 27.742857097477103
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: what-the
+  title: What the
+  score: 47.32491399188961
+  llm_score: 50
+  recency_score: 44.44316944525482
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 46.48911293663611
+  llm_score: 55
+  recency_score: 18.801512322293714
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: he-must-go
+  title: He Must Go
+  score: 42.26443142240677
+  llm_score: 45
+  recency_score: 30.284912101245666
   length_score: 100
   category_score: 0
   rank: 10

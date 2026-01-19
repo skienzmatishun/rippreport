@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: A brown bear protectively watches over a cub in tall grass, symbolizing maternal instinct and potential for complex situat...
 related_articles:
-- slug: baldwin-county-dhr-lawsuit
-  title: BALDWIN COUNTY DHR LAWSUIT
-  score: 60.42312483970151
-  llm_score: 75
-  recency_score: 17.750311458059702
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 60.01553441979496
-  llm_score: 75
+  score: 71.42236647832107
+  llm_score: 98
   recency_score: 15.100973728667121
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: american-citizen
-  title: AMERICAN CITIZEN
-  score: 58.30582316233377
-  llm_score: 75
-  recency_score: 3.9878505551694436
-  length_score: 100
-  category_score: 0
-  rank: 3
+  rank: 1
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 57.79568480207833
-  llm_score: 75
+  score: 64.54399277237172
+  llm_score: 90
   recency_score: 0.6719512135090356
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 63.277370515650084
+  llm_score: 88
+  recency_score: 0.12225098063802377
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: catalyst-queen-remember-family-court
   title: CATALYST QUEEN - REMEMBER FAMILY COURT
-  score: 57.77625290733064
-  llm_score: 75
+  score: 61.56231761446654
+  llm_score: 85
   recency_score: 0.5456438976490593
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
-  score: 57.73837780310671
-  llm_score: 75
+  score: 61.52584529188052
+  llm_score: 85
   recency_score: 0.2994557201935016
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: failing-our-children-in-baldwin-county
+  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
+  score: 58.280578903610746
+  llm_score: 75
+  recency_score: 18.393907599372476
   length_score: 100
   category_score: 0
   rank: 6
 - slug: divorce-corp
   title: DIVORCE CORP
-  score: 57.73664419026829
-  llm_score: 75
+  score: 49.67232403507316
+  llm_score: 65
   recency_score: 0.2881872367437651
   length_score: 100
   category_score: 0
   rank: 7
-- slug: baldwin-county-family-court-a-cottage-industry
-  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
-  score: 57.71111553548279
-  llm_score: 75
-  recency_score: 0.12225098063802377
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 48.796197423949934
+  llm_score: 60
+  recency_score: 14.374332611662021
   length_score: 100
   category_score: 0
   rank: 8
-- slug: failing-our-children-in-baldwin-county
-  title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 54.368293476826544
-  llm_score: 65
-  recency_score: 18.393907599372476
+- slug: american-citizen
+  title: AMERICAN CITIZEN
+  score: 41.331533415580665
+  llm_score: 50
+  recency_score: 3.9878505551694436
   length_score: 100
   category_score: 0
   rank: 9
-- slug: baldwin-county-un-family-court
-  title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 53.74989732487109
-  llm_score: 65
-  recency_score: 14.374332611662021
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 37.44449058637922
+  llm_score: 40
+  recency_score: 17.750311458059702
   length_score: 100
   category_score: 0
   rank: 10

@@ -8,82 +8,82 @@ authors:
 - admin
 alttags: Man in Hawaiian shirt stands before a beach backdrop, featured in an article about Baldwin County corruption investigations
 related_articles:
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 89.62962962962965
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: no-justice
+  title: NO JUSTICE
+  score: 89.62962962962965
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 2
 - slug: advocates
   title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 79.23076923076924
-  llm_score: 85
+  score: 84.00000000000001
+  llm_score: 98
   recency_score: 100.0
   length_score: 100
   category_score: 0
-  rank: 1
+  rank: 3
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 83.70370370370372
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 4
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 72.950992415552
-  llm_score: 75
+  score: 82.10095565942045
+  llm_score: 95
   recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 5
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 80.74074074074076
+  llm_score: 80
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 72.01915387076694
-  llm_score: 75
+  score: 72.31474076444223
+  llm_score: 80
   recency_score: 93.12450015998506
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 4
+  rank: 7
 - slug: baldwin-county-judicial-corruption
   title: Baldwin County Judicial Corruption
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: no-justice
-  title: NO JUSTICE
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 71.53846153846155
-  llm_score: 85
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 71.53846153846155
-  llm_score: 85
+  score: 71.85185185185186
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
 - slug: deal-with-the-devil
   title: DEAL WITH THE DEVIL
-  score: 65.3846153846154
-  llm_score: 75
+  score: 68.8888888888889
+  llm_score: 85
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 9
 - slug: deaf-ears
   title: DEAF EARS
-  score: 59.23076923076924
-  llm_score: 65
+  score: 65.92592592592594
+  llm_score: 80
   recency_score: 50
   length_score: 100
   category_score: 0

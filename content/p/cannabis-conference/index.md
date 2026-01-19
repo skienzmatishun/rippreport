@@ -8,83 +8,83 @@ authors:
 - admin
 alttags: Close-up view of cannabis buds and leaves, featured at Alabama’s first medical cannabis conference
 related_articles:
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 63.14604067740732
-  llm_score: 60
-  recency_score: 95.44926440314748
+- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
+  title: 'Special Legislative Alert: Alabama Medical Cannabis'
+  score: 65.99844585642543
+  llm_score: 90
+  recency_score: 10.489509530871569
   length_score: 100
   category_score: 0
   rank: 1
 - slug: alabama-off-the-rails
   title: ALABAMA OFF THE RAILS
-  score: 61.120380179290244
+  score: 58.856662394872075
   llm_score: 75
   recency_score: 22.28247116538646
   length_score: 100
   category_score: 0
   rank: 2
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 59.30607838936487
-  llm_score: 75
-  recency_score: 10.489509530871569
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 52.892906995111325
-  llm_score: 75
+  score: 56.85983636566275
+  llm_score: 85
   recency_score: 3.116395468223524
   length_score: 54.25
   category_score: 0
-  rank: 4
+  rank: 3
 - slug: offensive
   title: Offensive
-  score: 52.14107053399132
-  llm_score: 45
+  score: 53.17288273643608
+  llm_score: 50
   recency_score: 83.91695847094347
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: 4-20
   title: 4-20
-  score: 37.95127195545661
-  llm_score: 42
+  score: 53.1382618830323
+  llm_score: 70
   recency_score: 3.6832677104679425
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: tiny-steps
   title: TINY STEPS
-  score: 37.830717315021474
-  llm_score: 40
+  score: 48.2814314885392
+  llm_score: 60
   recency_score: 10.899662547639538
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 36.645260508608146
-  llm_score: 40
-  recency_score: 3.19419330595294
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 6
 - slug: bsp-128
   title: Big News
-  score: 34.48389145061434
-  llm_score: 30
+  score: 39.132636211702696
+  llm_score: 40
   recency_score: 29.145294428993168
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 37.103594726392224
+  llm_score: 20
+  recency_score: 95.44926440314748
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 33.201133594602595
-  llm_score: 30
+  score: 34.93442494295064
+  llm_score: 35
   recency_score: 20.807368364916808
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 29.362102711993032
+  llm_score: 30
+  recency_score: 3.19419330595294
   length_score: 100
   category_score: 0
   rank: 10

@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: 'Podcast artwork: stylized ear graphic representing the Verbal Lynching in Alabama podcast about Murray Lawrence Jr.s wr...'
 related_articles:
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 78.77404007552455
-  llm_score: 85
-  recency_score: 97.03126049090956
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 86.66666666666669
+  llm_score: 90
+  recency_score: 50
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 83.70370370370372
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 83.70370370370372
+  llm_score: 85
+  recency_score: 50
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 78.5709427369692
-  llm_score: 85
+  score: 81.58683374671108
+  llm_score: 95
   recency_score: 95.71112779029973
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 78.49047961046821
-  llm_score: 85
-  recency_score: 95.18811746804333
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: advocates
-  title: Advocates discover autopsy never included in Baldwin man’s murder trial
-  score: 78.45041308073715
-  llm_score: 85
-  recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
   rank: 4
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 77.69230769230771
-  llm_score: 95
+  score: 77.7777777777778
+  llm_score: 75
   recency_score: 50
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 71.53846153846155
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 75.85648303569032
   llm_score: 85
-  recency_score: 50
+  recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
   rank: 6
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 65.3846153846154
-  llm_score: 75
+- slug: innocent
+  title: INNOCENT
+  score: 71.85185185185186
+  llm_score: 90
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
 - slug: deal-with-the-devil
   title: DEAL WITH THE DEVIL
-  score: 65.3846153846154
-  llm_score: 75
+  score: 65.92592592592594
+  llm_score: 80
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: innocent
-  title: INNOCENT
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 63.69299037404318
+  llm_score: 65
+  recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
   rank: 9
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 60.768609995265685
+  llm_score: 60
+  recency_score: 95.18811746804333
   length_score: 100
   category_score: 0
   rank: 10

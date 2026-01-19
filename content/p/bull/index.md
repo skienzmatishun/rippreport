@@ -13,81 +13,81 @@ authors:
 related_articles:
 - slug: fauxhope-3
   title: FAUXHOPE
-  score: 68.30554321883127
-  llm_score: 85
+  score: 71.70163421072641
+  llm_score: 95
   recency_score: 28.986030922403184
   length_score: 100
   category_score: 0
   rank: 1
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 66.84357280327482
-  llm_score: 85
-  recency_score: 19.483223221286327
+- slug: two-questions-decide-fairhopes-future
+  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
+  score: 69.34222149431338
+  llm_score: 95
+  recency_score: 13.05999508661529
   length_score: 100
   category_score: 0
   rank: 2
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 64.71356616822251
+  llm_score: 90
+  recency_score: 1.8165716355019172
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 63.38951685826749
+  llm_score: 80
+  recency_score: 32.87923879330549
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: no-qualifications
   title: NO QUALIFICATIONS
-  score: 65.550817820959
+  score: 63.123009753516065
   llm_score: 85
   recency_score: 11.080315836233387
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 5
 - slug: howling-rains-passing-gas
   title: HOWLING RAINS PASSING GAS
-  score: 64.8646218242545
+  score: 62.46222842335617
   llm_score: 85
   recency_score: 6.620041857654132
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: there-are-more-of-us-than-them
-  title: THERE ARE MORE OF US THAN THEM
-  score: 63.85848780283954
-  llm_score: 85
-  recency_score: 0.0801707184569117
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 62.750652122047015
-  llm_score: 75
-  recency_score: 32.87923879330549
-  length_score: 100
-  category_score: 0
   rank: 6
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 59.701537705633136
-  llm_score: 75
-  recency_score: 13.05999508661529
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 61.404921958709096
+  llm_score: 80
+  recency_score: 19.483223221286327
   length_score: 100
   category_score: 0
   rank: 7
-- slug: nappi-award
-  title: NAPPI AWARD
-  score: 58.45199287182755
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 57.8298163597331
   llm_score: 75
-  recency_score: 4.937953666878992
+  recency_score: 15.35126042819837
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 57.9717802516157
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 55.56743269903066
   llm_score: 75
-  recency_score: 1.8165716355019172
+  recency_score: 0.0801707184569117
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 53.90019391203053
-  llm_score: 65
-  recency_score: 15.35126042819837
+- slug: nappi-award
+  title: NAPPI AWARD
+  score: 53.32414128398208
+  llm_score: 70
+  recency_score: 4.937953666878992
   length_score: 100
   category_score: 0
   rank: 10

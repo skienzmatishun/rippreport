@@ -9,83 +9,83 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: I-SEE-YOU
-  title: I SEE YOU
-  score: 75.01155778740589
-  llm_score: 85
-  recency_score: 72.57512561813819
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: fauxhope-crier
   title: FAUXHOPE CRIER
-  score: 72.57935157720608
-  llm_score: 75
+  score: 78.78011633360586
+  llm_score: 90
   recency_score: 96.76578525183945
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 68.43755879947688
-  llm_score: 75
-  recency_score: 69.84413219659965
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: round-house-blockheads
-  title: ROUND HOUSE SQUARE HEADS
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 62.65456708516551
-  llm_score: 75
-  recency_score: 32.254686053575696
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 1
 - slug: moratorium-party
   title: MORATORIUM PARTY
-  score: 60.385971441946786
-  llm_score: 75
+  score: 70.00130583298579
+  llm_score: 95
   recency_score: 17.508814372654022
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 2
+- slug: fauxhope-3
+  title: FAUXHOPE
+  score: 66.25995348941862
+  llm_score: 85
+  recency_score: 32.254686053575696
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 62.939871436533295
+  llm_score: 70
+  recency_score: 69.84413219659965
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 60.13967246990711
-  llm_score: 75
+  score: 60.87524015620684
+  llm_score: 80
   recency_score: 15.90787105439613
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: fauxhope
-  title: FAUXHOPE
-  score: 59.814704651837936
-  llm_score: 75
-  recency_score: 13.795580236946487
+  rank: 5
+- slug: I-SEE-YOU
+  title: I SEE YOU
+  score: 60.381500091576044
+  llm_score: 65
+  recency_score: 72.57512561813819
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: FAUXHOPE-4
   title: FAUXHOPE
-  score: 59.46362617272002
+  score: 57.261269647804454
   llm_score: 75
   recency_score: 11.51357012268003
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
+- slug: round-house-blockheads
+  title: ROUND HOUSE SQUARE HEADS
+  score: 48.14814814814815
+  llm_score: 50
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: bend-over-fairhope
   title: BEND OVER FAIRHOPE
-  score: 57.74888702863615
-  llm_score: 75
+  score: 46.72115047201998
+  llm_score: 60
   recency_score: 0.36776568613484334
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 45.74749336843652
+  llm_score: 55
+  recency_score: 13.795580236946487
   length_score: 100
   category_score: 0
   rank: 10

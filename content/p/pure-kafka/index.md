@@ -8,83 +8,83 @@ rumble: v3fo50k
 thumbnail: img/pure-kafka.jpg
 alttags: Stephen Nodine discusses legal rulings while a scene from Congo & Baldwin County logo are displayed in the podcast backdrop
 related_articles:
-- slug: delicately-censored
-  title: Delicately Censored
-  score: 64.34308566087866
-  llm_score: 65
-  recency_score: 83.23005679571122
+- slug: tides-end
+  title: Tide's End
+  score: 69.09509065989413
+  llm_score: 80
+  recency_score: 71.39186195428532
   length_score: 100
   category_score: 0
   rank: 1
-- slug: the-lie-of-the-century
-  title: The Lie of The Century
-  score: 63.69359479399812
-  llm_score: 65
-  recency_score: 79.0083661609877
+- slug: delicately-censored
+  title: Delicately Censored
+  score: 67.88593434010538
+  llm_score: 75
+  recency_score: 83.23005679571122
   length_score: 100
   category_score: 0
   rank: 2
-- slug: tides-end
-  title: Tide's End
-  score: 62.521824916043904
-  llm_score: 65
-  recency_score: 71.39186195428532
+- slug: backstory-153
+  title: No Boomers
+  score: 65.6508158635668
+  llm_score: 75
+  recency_score: 68.14300707907584
   length_score: 100
   category_score: 0
   rank: 3
 - slug: alabama-off-the-rails
   title: ALABAMA OFF THE RAILS
-  score: 61.5174175474652
-  llm_score: 75
+  score: 65.16492060126278
+  llm_score: 85
   recency_score: 24.863214058523702
   length_score: 100
   category_score: 0
   rank: 4
+- slug: the-slap
+  title: The Slap
+  score: 64.94946354386943
+  llm_score: 85
+  recency_score: 23.408878921118657
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 64.29753572755374
+  llm_score: 70
+  recency_score: 79.0083661609877
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: the-mug-shot
+  title: The Mugshot
+  score: 63.65451335089761
+  llm_score: 65
+  recency_score: 94.66796511855877
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 62.962962962962976
+  llm_score: 75
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: lee-county-no-justice-center
   title: LEE COUNTY NO-JUSTICE CENTER
-  score: 61.03736368365433
+  score: 58.77672058425972
   llm_score: 65
   recency_score: 61.74286394375304
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 59.23076923076924
-  llm_score: 65
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: the-slap
-  title: The Slap
-  score: 55.13982752632596
-  llm_score: 65
-  recency_score: 23.408878921118657
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 9
 - slug: the-black-eyes-of-alabama
   title: The Black Eyes of Alabama
-  score: 54.48701062581521
-  llm_score: 65
+  score: 49.50601023226649
+  llm_score: 60
   recency_score: 19.165569067798774
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: the-mug-shot
-  title: The Mugshot
-  score: 53.795071556701366
-  llm_score: 45
-  recency_score: 94.66796511855877
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: backstory-153
-  title: No Boomers
-  score: 22.022001089088594
-  llm_score: 0
-  recency_score: 68.14300707907584
   length_score: 100
   category_score: 0
   rank: 10

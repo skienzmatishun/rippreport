@@ -16,81 +16,81 @@ alttags: Book cover titled How to Become Sheriff for Dummies, highlighting Fear 
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 77.97807997471266
-  llm_score: 85
+  score: 95.83074367935293
+  llm_score: 95
   recency_score: 91.85751983563217
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 72.22029757376049
-  llm_score: 85
-  recency_score: 54.43193422944308
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: justified
-  title: JUSTIFIED
-  score: 71.92728932846137
-  llm_score: 85
-  recency_score: 52.527380634998835
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 71.32976286212536
-  llm_score: 75
-  recency_score: 88.64345860381478
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 69.2928643256522
-  llm_score: 85
-  recency_score: 35.40361811673922
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: no-justice
   title: NO JUSTICE
-  score: 67.29587988219802
-  llm_score: 75
+  score: 93.24788433100551
+  llm_score: 98
   recency_score: 62.42321923428709
   length_score: 100
-  category_score: 0
-  rank: 6
+  category_score: 100
+  rank: 2
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
-  score: 66.46634776783225
-  llm_score: 65
+  score: 90.67129785050514
+  llm_score: 85
   recency_score: 97.03126049090956
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 87.46720268396137
+  llm_score: 95
+  recency_score: 35.40361811673922
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 86.46569757093553
+  llm_score: 80
+  recency_score: 88.64345860381478
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 85.90369774101131
+  llm_score: 97
+  recency_score: 16.84995975182637
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 73.03703703703705
+  llm_score: 92
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 72.50843470065824
+  llm_score: 90
+  recency_score: 54.43193422944308
   length_score: 100
   category_score: 0
   rank: 8
 - slug: deal-with-the-devil
   title: DEAL WITH THE DEVIL
-  score: 65.32446785568045
-  llm_score: 85
+  score: 67.64578386102562
+  llm_score: 93
   recency_score: 9.609041061922857
   length_score: 100
   category_score: 0
   rank: 9
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 60.28460919258869
+- slug: justified
+  title: JUSTIFIED
+  score: 63.33738972370354
   llm_score: 75
-  recency_score: 16.84995975182637
+  recency_score: 52.527380634998835
   length_score: 100
   category_score: 0
   rank: 10

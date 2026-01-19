@@ -13,82 +13,82 @@ authors:
 - admin
 alttags: Murray Lawrence Jr., subject of a wrongful conviction case similar to Just Mercy, in black and white with blurred Alabama ...
 related_articles:
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 84.1036401881575
+  llm_score: 90
+  recency_score: 32.69957127006297
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
-  score: 78.0557277256631
-  llm_score: 85
+  score: 78.12773780989781
+  llm_score: 65
   recency_score: 92.36223021681012
   length_score: 100
-  category_score: 0
-  rank: 1
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 72.37680990817655
-  llm_score: 75
-  recency_score: 95.44926440314748
-  length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 71.53846153846155
-  llm_score: 85
+  score: 76.59259259259261
+  llm_score: 98
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 3
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 68.87685711847124
-  llm_score: 85
-  recency_score: 32.69957127006297
+- slug: earful
+  title: EARFUL
+  score: 74.81481481481482
+  llm_score: 95
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 4
-- slug: rule-32
-  title: RULE 32
-  score: 66.93449859280338
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 74.44678046447521
   llm_score: 75
-  recency_score: 60.07424085322191
+  recency_score: 27.51576813520753
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
-  score: 66.65282221502697
-  llm_score: 85
+  score: 70.1101250959519
+  llm_score: 70
   recency_score: 18.243344397675273
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 6
-- slug: earful
-  title: EARFUL
-  score: 65.3846153846154
-  llm_score: 75
+- slug: railroaded-by-the-law
+  title: RAILROADED BY THE LAW
+  score: 65.92592592592594
+  llm_score: 80
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 63.770261393058895
+  llm_score: 40
+  recency_score: 95.44926440314748
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 8
 - slug: deal-with-the-devil
   title: DEAL WITH THE DEVIL
-  score: 59.29286888063806
-  llm_score: 75
+  score: 63.02276262579961
+  llm_score: 85
   recency_score: 10.403647724147305
   length_score: 100
   category_score: 0
   rank: 9
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
-  score: 59.23076923076924
-  llm_score: 65
+  score: 48.14814814814815
+  llm_score: 50
   recency_score: 50
   length_score: 100
   category_score: 0

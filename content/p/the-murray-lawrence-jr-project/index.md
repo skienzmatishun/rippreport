@@ -13,81 +13,81 @@ alttags: Magazine cover featuring Murray Lawrence Jr., linked to a podcast episo
 related_articles:
 - slug: no-justice
   title: NO JUSTICE
-  score: 69.07390916870598
-  llm_score: 75
+  score: 87.25635697727242
+  llm_score: 85
   recency_score: 73.98040959658876
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: innocent
-  title: INNOCENT
-  score: 67.40826827933961
-  llm_score: 85
-  recency_score: 23.153743815707337
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 86.1008819663559
+  llm_score: 90
+  recency_score: 46.18095327290216
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 81.68144123546787
+  llm_score: 90
+  recency_score: 16.349728339408063
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 65.96274397768471
+  score: 78.33449420073342
   llm_score: 85
   recency_score: 13.757835854950565
   length_score: 100
-  category_score: 0
-  rank: 3
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 65.3846153846154
-  llm_score: 75
-  recency_score: 50
-  length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 4
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 64.79706973429265
-  llm_score: 75
-  recency_score: 46.18095327290216
+- slug: innocent
+  title: INNOCENT
+  score: 70.83759167640109
+  llm_score: 95
+  recency_score: 23.153743815707337
   length_score: 100
   category_score: 0
   rank: 5
-- slug: tides-end
-  title: Tide's End
-  score: 63.17227666174938
-  llm_score: 65
-  recency_score: 75.61979830137088
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 68.8888888888889
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 60.893441286910296
-  llm_score: 75
-  recency_score: 20.807368364916808
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 68.8888888888889
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 7
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 60.207650513755105
-  llm_score: 75
-  recency_score: 16.349728339408063
+- slug: earful
+  title: EARFUL
+  score: 65.92592592592594
+  llm_score: 80
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 8
-- slug: earful
-  title: EARFUL
-  score: 46.923076923076934
-  llm_score: 45
-  recency_score: 50
+- slug: deal-with-the-devil
+  title: DEAL WITH THE DEVIL
+  score: 64.56405457258028
+  llm_score: 85
+  recency_score: 20.807368364916808
   length_score: 100
   category_score: 0
   rank: 9
-- slug: 7432-days-in-jail
-  title: 7432 DAYS IN JAIL
-  score: 46.923076923076934
-  llm_score: 45
-  recency_score: 50
+- slug: tides-end
+  title: Tide's End
+  score: 57.86959974835125
+  llm_score: 60
+  recency_score: 75.61979830137088
   length_score: 100
   category_score: 0
   rank: 10

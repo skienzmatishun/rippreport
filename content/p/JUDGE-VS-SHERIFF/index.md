@@ -14,83 +14,83 @@ alttags: Sheriff Mack depicted holding a rifle next to scales of justice, symbol
 related_articles:
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 84.84631328411679
+  score: 96.51867205137171
   llm_score: 95
   recency_score: 96.50103634675902
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 1
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 76.33890828059516
-  llm_score: 85
-  recency_score: 81.20290382386844
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 71.55953821943812
-  llm_score: 85
-  recency_score: 50.13699842634772
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
-  score: 71.2489749645215
-  llm_score: 85
+  score: 86.38790181768738
+  llm_score: 90
   recency_score: 48.118337269389656
   length_score: 100
-  category_score: 0
-  rank: 4
+  category_score: 100
+  rank: 2
 - slug: new-sheriff-no-changes
   title: NEW SHERIFF - NO CHANGES
-  score: 69.87395147122004
+  score: 82.10084215747113
   llm_score: 85
   recency_score: 39.1806845629302
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 78.32891773936196
+  llm_score: 85
+  recency_score: 13.72019474069314
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 76.47450427020274
+  llm_score: 90
+  recency_score: 81.20290382386844
   length_score: 100
   category_score: 0
   rank: 5
 - slug: the-enforcer-hoss-macks-rise-to-statewide-power
   title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
-  score: 66.15036381755112
-  llm_score: 85
+  score: 75.55220219467886
+  llm_score: 80
   recency_score: 14.977364814082216
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 6
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 74.83511087797746
+  llm_score: 70
+  recency_score: 50.13699842634772
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: bcso-culture-2
+  title: BCSO CULTURE
+  score: 74.80044983949968
+  llm_score: 80
+  recency_score: 9.903036416622752
+  length_score: 100
+  category_score: 100
+  rank: 8
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF
-  score: 63.92200663863445
-  llm_score: 85
+  score: 70.4434138001665
+  llm_score: 75
   recency_score: 0.49304315112384334
   length_score: 100
-  category_score: 0
-  rank: 7
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 60.764554352141936
-  llm_score: 75
-  recency_score: 19.9696032889225
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 59.803106883183574
-  llm_score: 75
-  recency_score: 13.72019474069314
-  length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 9
 - slug: lethal-force
   title: LETHAL FORCE
-  score: 57.0150989235327
+  score: 69.7182434078463
   llm_score: 65
   recency_score: 35.59814300296249
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 10
 ---
 Get your popcorn ready! For latest controversy surrounding Sheriff “No Body Cam Available,” aka The Boss, Hoss Mack. This story has legs and I am sure we are going to hear some backstory involving the Baldwin County Sheriff Office, BCSO. This is the chicken shit intimidation tactics used quite often in Baldwin County, especially if ya upset the Boss or one of his buddies.

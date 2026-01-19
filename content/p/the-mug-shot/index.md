@@ -8,83 +8,83 @@ authors:
 - admin
 rumble: v39h1qo
 related_articles:
-- slug: he-must-go
-  title: He Must Go
-  score: 55.29091208253145
-  llm_score: 65
-  recency_score: 24.39092853645434
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 76.17502973349451
+  llm_score: 85
+  recency_score: 99.18145070108791
   length_score: 100
   category_score: 0
   rank: 1
+- slug: the-180
+  title: THE 180
+  score: 61.05060100670332
+  llm_score: 75
+  recency_score: 37.09155679524731
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: star
+  title: Special Guest State Auditor Jim Zeigler
+  score: 54.74558901739645
+  llm_score: 70
+  recency_score: 14.532725867425949
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: bsp118
   title: The Smokey and The Bandit Run
-  score: 55.071418308928
+  score: 53.03173614933808
   llm_score: 65
   recency_score: 22.96421900803196
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 54.489453954013534
-  llm_score: 45
-  recency_score: 99.18145070108791
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: backstory-podcast-no-93-delta-hits-baldwin-county
-  title: Delta hits Baldwin County
-  score: 53.477389323910714
-  llm_score: 65
-  recency_score: 12.603030605419562
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: star
-  title: Special Guest State Auditor Jim Zeigler
-  score: 50.69734244114247
+- slug: he-must-go
+  title: He Must Go
+  score: 50.280137560956206
   llm_score: 60
-  recency_score: 14.532725867425949
+  recency_score: 24.39092853645434
   length_score: 100
   category_score: 0
   rank: 5
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 44.530280401829145
-  llm_score: 45
-  recency_score: 34.44682261188939
+- slug: backstory-podcast-no-93-delta-hits-baldwin-county
+  title: Delta hits Baldwin County
+  score: 45.570819348951055
+  llm_score: 55
+  recency_score: 12.603030605419562
   length_score: 100
   category_score: 0
   rank: 6
-- slug: backstory-podcast-senate-impeachment
-  title: SENATE IMPEACHMENT
-  score: 40.447760582446556
-  llm_score: 45
-  recency_score: 7.9104437859025545
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: the-180
-  title: THE 180
-  score: 35.706393353114976
-  llm_score: 30
-  recency_score: 37.09155679524731
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: stirring-the-pot-bsp
   title: Stirring The Pot
-  score: 34.908175360147766
-  llm_score: 30
+  score: 45.46713182829044
+  llm_score: 50
   recency_score: 31.903139840960442
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
+- slug: backstory-podcast-senate-impeachment
+  title: SENATE IMPEACHMENT
+  score: 41.912658338652236
+  llm_score: 50
+  recency_score: 7.9104437859025545
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: ki-yay-mother-yippee
   title: Ki Yay Mother Yippee
-  score: 33.86725940185169
-  llm_score: 30
+  score: 41.50180534993126
+  llm_score: 45
   recency_score: 25.13718611203594
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 39.91804779435399
+  llm_score: 40
+  recency_score: 34.44682261188939
   length_score: 100
   category_score: 0
   rank: 10

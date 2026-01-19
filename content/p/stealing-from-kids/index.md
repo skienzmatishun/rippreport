@@ -16,81 +16,81 @@ alttags: Man in striped prisoner clothing holds money and a bag, symbolizing cor
 related_articles:
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 69.2928643256522
-  llm_score: 85
+  score: 72.65238786914657
+  llm_score: 95
   recency_score: 35.40361811673922
   length_score: 100
   category_score: 0
   rank: 1
-- slug: alabama-shuffle
-  title: ALABAMA SHUFFLE
-  score: 68.1495108055248
-  llm_score: 85
-  recency_score: 27.971820235911103
+- slug: alabama-ugly
+  title: ALABAMA UGLY
+  score: 69.13191705808485
+  llm_score: 95
+  recency_score: 11.640440142072652
   length_score: 100
   category_score: 0
   rank: 2
+- slug: line-in-the-sand
+  title: LINE IN THE SAND
+  score: 68.5544973477744
+  llm_score: 90
+  recency_score: 27.742857097477103
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 66.64515077028165
+  llm_score: 90
+  recency_score: 14.854767699401043
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: elephants-in-alabama
   title: Elephants in Alabama
-  score: 67.9989379096472
+  score: 65.4804587278084
   llm_score: 85
   recency_score: 26.993096412706674
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: top-shelf-corruption
-  title: TOP SHELF CORRUPTION
-  score: 67.94243832370908
-  llm_score: 85
-  recency_score: 26.62584910410898
-  length_score: 100
-  category_score: 0
-  rank: 4
+  rank: 5
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
-  score: 67.85363350466798
+  score: 65.34053596745804
   llm_score: 85
   recency_score: 26.048617780341775
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: letter-to-the-alabama-attorney-general
-  title: Letter to the Alabama Attorney General
-  score: 65.3822717929335
-  llm_score: 85
-  recency_score: 9.984766654067629
-  length_score: 100
-  category_score: 0
   rank: 6
-- slug: line-in-the-sand
-  title: LINE IN THE SAND
-  score: 61.96043955345803
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 59.50012579320134
   llm_score: 75
-  recency_score: 27.742857097477103
+  recency_score: 26.62584910410898
   length_score: 100
   category_score: 0
   rank: 7
-- slug: perfect-puzzle
-  title: PERFECT PUZZLE
-  score: 59.97765656913864
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 57.084220553872605
   llm_score: 75
-  recency_score: 14.854767699401043
+  recency_score: 10.318488738640012
   length_score: 100
   category_score: 0
   rank: 8
-- slug: alabama-ugly
-  title: ALABAMA UGLY
-  score: 59.48314463724196
-  llm_score: 75
-  recency_score: 11.640440142072652
+- slug: alabama-shuffle
+  title: ALABAMA SHUFFLE
+  score: 56.73656596087573
+  llm_score: 70
+  recency_score: 27.971820235911103
   length_score: 100
   category_score: 0
   rank: 9
-- slug: license-to-steal
-  title: LICENSE TO STEAL
-  score: 59.279767498252326
-  llm_score: 75
-  recency_score: 10.318488738640012
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 54.071817282084105
+  llm_score: 70
+  recency_score: 9.984766654067629
   length_score: 100
   category_score: 0
   rank: 10
