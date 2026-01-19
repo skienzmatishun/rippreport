@@ -21,83 +21,83 @@ authors:
 - ripp-report
 alttags: Traffic stop footage shows a man in a car and an officer; related to the O.J. French killing lawsuit
 related_articles:
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 72.9626026057014
-  llm_score: 85
-  recency_score: 59.25691693705903
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 72.28940978606195
-  llm_score: 85
+  score: 90.35276497917079
+  llm_score: 95
   recency_score: 54.88116360940264
   length_score: 100
-  category_score: 0
-  rank: 2
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 71.26928447475879
-  llm_score: 85
-  recency_score: 48.25034908593207
-  length_score: 100
-  category_score: 0
-  rank: 3
+  category_score: 100
+  rank: 1
 - slug: bcso-culture
   title: BCSO CULTURE
-  score: 66.32266422404746
-  llm_score: 75
+  score: 84.60700999352719
+  llm_score: 85
   recency_score: 56.097317456308396
   length_score: 100
-  category_score: 0
-  rank: 4
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 65.77344317461522
-  llm_score: 75
-  recency_score: 52.527380634998835
+  category_score: 100
+  rank: 2
+- slug: wrongful-conviction
+  title: WRONGFUL CONVICTION
+  score: 80.57049518454608
+  llm_score: 90
+  recency_score: 8.850842495685942
   length_score: 100
-  category_score: 0
+  category_score: 100
+  rank: 3
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 80.48369117743616
+  llm_score: 90
+  recency_score: 8.264915447693923
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 80.48153319791587
+  llm_score: 80
+  recency_score: 48.25034908593207
+  length_score: 100
+  category_score: 100
   rank: 5
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 79.1491728795643
+  llm_score: 75
+  recency_score: 59.25691693705903
+  length_score: 100
+  category_score: 100
+  rank: 6
 - slug: rumors
   title: RUMORS
-  score: 65.24564363703526
+  score: 77.64395313195988
   llm_score: 85
   recency_score: 9.096683640729124
   length_score: 100
-  category_score: 0
-  rank: 6
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 65.20782192241323
-  llm_score: 85
-  recency_score: 8.850842495685942
-  length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 7
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 62.09102604302952
-  llm_score: 75
-  recency_score: 28.59166927969179
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: biased-investigation
   title: BIASED INVESTIGATION
-  score: 59.0135513904045
-  llm_score: 75
+  score: 77.56860504261174
+  llm_score: 85
   recency_score: 8.588084037629146
   length_score: 100
-  category_score: 0
+  category_score: 100
+  rank: 8
+- slug: bcso-how-to-become-sheriff
+  title: BCSO - HOW TO BECOME SHERIFF
+  score: 75.1892415755554
+  llm_score: 70
+  recency_score: 52.527380634998835
+  length_score: 100
+  category_score: 100
   rank: 9
-- slug: lethal-force
-  title: LETHAL FORCE
-  score: 58.96383314579908
-  llm_score: 75
-  recency_score: 8.264915447693923
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 62.75432137476916
+  llm_score: 80
+  recency_score: 28.59166927969179
   length_score: 100
   category_score: 0
   rank: 10

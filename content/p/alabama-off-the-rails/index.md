@@ -12,81 +12,81 @@ alttags: Sign reading Relief with a cannabis leaf symbol hangs below an electron
 related_articles:
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 70.35958799024723
-  llm_score: 95
+  score: 61.82775139801585
+  llm_score: 85
   recency_score: 2.337321936606922
   length_score: 100
   category_score: 0
   rank: 1
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 65.90461316878529
-  llm_score: 65
-  recency_score: 93.37998559710435
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 63.955653108056275
-  llm_score: 85
-  recency_score: 0.7117452023656687
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: offensive
-  title: Offensive
-  score: 60.56904185756268
-  llm_score: 75
-  recency_score: 18.69877207415731
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
-  score: 58.67413998793945
-  llm_score: 85
+  score: 59.4639866550528
+  llm_score: 90
   recency_score: 0.6944099216063174
   length_score: 54.25
   category_score: 0
-  rank: 5
+  rank: 2
 - slug: tiny-steps
   title: TINY STEPS
-  score: 58.06595602527728
+  score: 55.91536506137811
   llm_score: 75
   recency_score: 2.4287141643022077
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 3
+- slug: 4-20
+  title: 4-20
+  score: 49.75121823193023
+  llm_score: 65
+  recency_score: 0.8207230655290094
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: offensive
+  title: Offensive
+  score: 43.51092919617146
+  llm_score: 50
+  recency_score: 18.69877207415731
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
-  score: 53.17042724170773
-  llm_score: 45
+  score: 39.34930030682966
+  llm_score: 25
   recency_score: 90.60777707110016
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 36.79703490327472
+  llm_score: 20
+  recency_score: 93.37998559710435
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: insanity-2
-  title: INSANITY
-  score: 51.82965853447965
-  llm_score: 65
-  recency_score: 1.892780474117634
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 34.92025854849862
+  llm_score: 40
+  recency_score: 0.7117452023656687
   length_score: 100
   category_score: 0
   rank: 8
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
-  score: 39.545183777956595
-  llm_score: 45
+  score: 32.15462141581005
+  llm_score: 35
   recency_score: 2.043694556717812
   length_score: 100
   category_score: 0
   rank: 9
-- slug: 4-20
-  title: 4-20
-  score: 30.12626508700447
+- slug: insanity-2
+  title: INSANITY
+  score: 29.169300810980396
   llm_score: 30
-  recency_score: 0.8207230655290094
+  recency_score: 1.892780474117634
   length_score: 100
   category_score: 0
   rank: 10

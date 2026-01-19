@@ -11,7 +11,7 @@ alttags: Alabama State Capitol building with Department of Veterans Affairs seal
 related_articles:
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 84.96884062410062
+  score: 81.82184652691171
   llm_score: 95
   recency_score: 97.29746405665401
   length_score: 100
@@ -19,72 +19,72 @@ related_articles:
   rank: 1
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
-  score: 84.56430232593213
-  llm_score: 95
+  score: 78.46932816571243
+  llm_score: 90
   recency_score: 94.66796511855877
   length_score: 100
   category_score: 0
   rank: 2
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 78.8560612226499
+  score: 75.93546636255175
   llm_score: 85
   recency_score: 97.56439794722424
   length_score: 100
   category_score: 0
   rank: 3
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 75.19661552948276
-  llm_score: 85
-  recency_score: 73.7780009416378
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: veterans-rally
   title: VETERANS RALLY
-  score: 74.63098497841324
-  llm_score: 85
+  score: 68.90391146069422
+  llm_score: 80
   recency_score: 99.72640235968593
   length_score: 60.5
   category_score: 0
+  rank: 4
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 66.48562976913153
+  llm_score: 75
+  recency_score: 73.7780009416378
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 61.599903342065055
-  llm_score: 65
-  recency_score: 65.39937172342279
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 46.6951291953611
+  llm_score: 60
+  recency_score: 0.19212206868737905
   length_score: 100
   category_score: 0
   rank: 6
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
-  score: 57.70178919168717
-  llm_score: 75
+  score: 40.74987107347652
+  llm_score: 50
   recency_score: 0.06162974596648724
   length_score: 100
   category_score: 0
   rank: 7
-- slug: alabama-suicide
-  title: ALABAMA SUICIDE
-  score: 51.78687533516675
-  llm_score: 65
-  recency_score: 1.6146896785837832
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 32.65175877384042
+  llm_score: 20
+  recency_score: 65.39937172342279
   length_score: 100
   category_score: 0
   rank: 8
-- slug: no-guardrails
-  title: NO GUARDRAILS
-  score: 51.56801877979807
-  llm_score: 65
-  recency_score: 0.19212206868737905
+- slug: alabama-suicide
+  title: ALABAMA SUICIDE
+  score: 29.128102174605004
+  llm_score: 30
+  recency_score: 1.6146896785837832
   length_score: 100
   category_score: 0
   rank: 9
 - slug: trump-n-bama
   title: Trump N Bama
-  score: 39.591323497727885
-  llm_score: 40
+  score: 23.3101633681824
+  llm_score: 15
   recency_score: 22.343602735231208
   length_score: 100
   category_score: 0

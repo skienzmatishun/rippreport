@@ -22,83 +22,83 @@ authors:
 - ripp-report
 alttags: Red lips sculpture on a stand, referencing corruption & criticism of Alabama’s leadership regarding mental health and vete...
 related_articles:
-- slug: war
-  title: WAR
-  score: 78.8560612226499
-  llm_score: 85
-  recency_score: 97.56439794722424
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
-  score: 78.77404007552455
-  llm_score: 85
+  score: 81.78240896161624
+  llm_score: 95
   recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 78.45041308073715
-  llm_score: 85
-  recency_score: 94.92768502479139
+  rank: 1
+- slug: war
+  title: WAR
+  score: 78.89842932551471
+  llm_score: 90
+  recency_score: 97.56439794722424
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: fire-albritton
   title: FIRE ALBRITTON
-  score: 74.92016345172406
-  llm_score: 85
+  score: 75.10830554610466
+  llm_score: 90
   recency_score: 71.98106243620636
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: pandemic-corruption
-  title: PANDEMIC CORRUPTION
-  score: 63.8554044139398
-  llm_score: 85
-  recency_score: 0.06012869060860698
+  rank: 3
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 69.6189162999691
+  llm_score: 75
+  recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
-  score: 59.1346158554718
-  llm_score: 75
+  score: 62.87037082378765
+  llm_score: 85
   recency_score: 9.375003060566598
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: alabama-ugly
   title: ALABAMA UGLY
-  score: 58.166527637409764
-  llm_score: 75
+  score: 61.938137724913105
+  llm_score: 85
   recency_score: 3.0824296431633904
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: letter-to-the-alabama-attorney-general
   title: Letter to the Alabama Attorney General
-  score: 58.099077147479335
-  llm_score: 75
+  score: 61.87318540127639
+  llm_score: 85
   recency_score: 2.644001458615577
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
-  score: 58.09135041818177
-  llm_score: 75
+  score: 58.902781884175035
+  llm_score: 80
   recency_score: 2.5937777181814097
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
-  score: 58.08377046083298
-  llm_score: 75
+  score: 58.89548266598731
+  llm_score: 80
   recency_score: 2.5445079954142833
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: pandemic-corruption
+  title: PANDEMIC CORRUPTION
+  score: 52.60150054675684
+  llm_score: 70
+  recency_score: 0.06012869060860698
   length_score: 100
   category_score: 0
   rank: 10

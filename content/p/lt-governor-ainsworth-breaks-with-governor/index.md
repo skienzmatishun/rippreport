@@ -10,80 +10,80 @@ authors:
 related_articles:
 - slug: war
   title: WAR
-  score: 84.96884062410062
-  llm_score: 95
+  score: 83.5996243046895
+  llm_score: 98
   recency_score: 97.29746405665401
   length_score: 100
   category_score: 0
   rank: 1
-- slug: veterans-rally
-  title: VETERANS RALLY
-  score: 80.3701939216784
+- slug: go-to-hell-veterans
+  title: GO TO HELL VETERANS
+  score: 81.05326360509564
   llm_score: 95
-  recency_score: 97.03126049090956
-  length_score: 60.5
+  recency_score: 92.10952933439548
+  length_score: 100
   category_score: 0
   rank: 2
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 78.45041308073715
-  llm_score: 85
+  score: 79.69299037404318
+  llm_score: 92
   recency_score: 94.92768502479139
   length_score: 100
   category_score: 0
   rank: 3
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 78.01685066683008
-  llm_score: 85
-  recency_score: 92.10952933439548
-  length_score: 100
+- slug: veterans-rally
+  title: VETERANS RALLY
+  score: 74.4305571097644
+  llm_score: 90
+  recency_score: 97.03126049090956
+  length_score: 60.5
   category_score: 0
   rank: 4
 - slug: fire-albritton
   title: FIRE ALBRITTON
-  score: 69.35803998387061
-  llm_score: 75
+  score: 63.82626072520873
+  llm_score: 70
   recency_score: 75.82725989515886
   length_score: 100
   category_score: 0
   rank: 5
-- slug: offensive
-  title: Offensive
-  score: 66.67598578451886
-  llm_score: 85
-  recency_score: 18.393907599372476
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: backwoods-media-ad
-  title: BACKWOODS MEDIA AD
-  score: 57.80002168003079
-  llm_score: 75
-  recency_score: 0.700140920200011
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: hair-on-fire
   title: HAIR ON FIRE
-  score: 54.232125288100626
-  llm_score: 65
+  score: 43.33463916631912
+  llm_score: 50
   recency_score: 17.508814372654022
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
 - slug: press-release
   title: PRESS RELEASE
-  score: 52.27357686786577
-  llm_score: 65
+  score: 41.44862957646333
+  llm_score: 50
   recency_score: 4.778249641127455
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: backwoods-media-ad
+  title: BACKWOODS MEDIA AD
+  score: 34.91853939558519
+  llm_score: 40
+  recency_score: 0.700140920200011
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: offensive
+  title: Offensive
+  score: 31.613912236944074
+  llm_score: 30
+  recency_score: 18.393907599372476
   length_score: 100
   category_score: 0
   rank: 9
 - slug: hatians-eating-cats
   title: Haitians Eating Cats
-  score: 49.57167780547265
-  llm_score: 45
+  score: 26.99494899786255
+  llm_score: 10
   recency_score: 67.21590573557219
   length_score: 100
   category_score: 0
