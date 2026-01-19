@@ -20,81 +20,81 @@ authors:
 related_articles:
 - slug: russian-roulette-fairhope-style-rerun
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 79.23076923076924
-  llm_score: 85
+  score: 82.22222222222223
+  llm_score: 95
   recency_score: 100.0
   length_score: 100
   category_score: 0
   rank: 1
 - slug: russian-roulette-fairhope-style
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 63.86569709965432
-  llm_score: 85
+  score: 67.42622683670416
+  llm_score: 95
   recency_score: 0.12703114775298338
   length_score: 100
   category_score: 0
   rank: 2
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 58.672450840453855
-  llm_score: 75
-  recency_score: 6.370930462949982
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: catalyst-council-lawsuits
   title: CATALYST COUNCIL LAWSUITS
-  score: 57.80061351364331
-  llm_score: 75
+  score: 64.54873893906392
+  llm_score: 90
   recency_score: 0.7039878386814237
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: fairhope-2020
-  title: FAIRHOPE 2020
-  score: 57.72098745614287
-  llm_score: 75
-  recency_score: 0.18641846492857508
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 3
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY
-  score: 57.71559649335169
-  llm_score: 75
+  score: 61.503907734338654
+  llm_score: 85
   recency_score: 0.15137720678588268
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: communication
-  title: COMMUNICATION
-  score: 57.71553277574158
-  llm_score: 75
-  recency_score: 0.15096304232014315
+  rank: 4
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 59.46236006858519
+  llm_score: 80
+  recency_score: 6.370930462949982
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: in-the-dark
-  title: IN THE DARK
-  score: 57.712726690549246
-  llm_score: 75
-  recency_score: 0.1327234885700072
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 5
 - slug: chasing-your-tail
   title: CHASING YOUR TAIL
-  score: 57.71228401976948
+  score: 55.57479201903727
   llm_score: 75
   recency_score: 0.1298461285014998
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 53.170014653782495
+  score: 51.20075485179055
   llm_score: 65
   recency_score: 10.605095249586157
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-2020
+  title: FAIRHOPE 2020
+  score: 49.657247179989426
+  llm_score: 65
+  recency_score: 0.18641846492857508
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: in-the-dark
+  title: IN THE DARK
+  score: 49.64929236867705
+  llm_score: 65
+  recency_score: 0.1327234885700072
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: communication
+  title: COMMUNICATION
+  score: 46.68903156182521
+  llm_score: 60
+  recency_score: 0.15096304232014315
   length_score: 100
   category_score: 0
   rank: 10

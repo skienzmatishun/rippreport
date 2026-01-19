@@ -14,83 +14,83 @@ authors:
 - admin
 alttags: New candidates taking root in Fauxhope elections, casting a ballot into a marked voting box
 related_articles:
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 77.82405506499252
-  llm_score: 85
-  recency_score: 90.85635792245131
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 71.59382712786042
-  llm_score: 75
+  score: 80.79405575275447
+  llm_score: 95
   recency_score: 90.35987633109261
   length_score: 100
   category_score: 0
+  rank: 1
+- slug: last-chance-fauxhope-or-fairhope
+  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+  score: 77.90464561814095
+  llm_score: 90
+  recency_score: 90.85635792245131
+  length_score: 100
+  category_score: 0
   rank: 2
-- slug: lego-rocket-scientist
-  title: LEGO ROCKET SCIENTIST
-  score: 64.3050364998527
+- slug: no-qualifications
+  title: NO QUALIFICATIONS
+  score: 61.71679463769059
   llm_score: 85
-  recency_score: 2.9827372490425272
+  recency_score: 1.588363804411422
   length_score: 100
   category_score: 0
   rank: 3
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 64.27583399683863
+- slug: fairhope-has-lost-its-moral-compass
+  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
+  score: 61.49362181969914
   llm_score: 85
-  recency_score: 2.792920979450993
+  recency_score: 0.0819472829691821
   length_score: 100
   category_score: 0
   rank: 4
 - slug: bushwhacked-hijacked-fairhope-style
   title: BUSHWHACKED & HIJACKED - FAIRHOPE STYLE
-  score: 63.858657923701394
+  score: 61.49352244504578
   llm_score: 85
   recency_score: 0.08127650405896042
   length_score: 100
   category_score: 0
   rank: 5
-- slug: all-mouth
-  title: ALL MOUTH
-  score: 59.48314463724196
-  llm_score: 75
-  recency_score: 11.640440142072652
+- slug: lego-rocket-scientist
+  title: LEGO ROCKET SCIENTIST
+  score: 58.96040551837668
+  llm_score: 80
+  recency_score: 2.9827372490425272
   length_score: 100
   category_score: 0
   rank: 6
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
-  score: 58.08269942793559
-  llm_score: 75
+  score: 58.89445130097501
+  llm_score: 80
   recency_score: 2.537546281581227
   length_score: 100
   category_score: 0
   rank: 7
-- slug: no-qualifications
-  title: NO QUALIFICATIONS
-  score: 57.93667135452485
-  llm_score: 75
-  recency_score: 1.588363804411422
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: dog-and-pony-show-2
   title: DOG AND PONY SHOW
-  score: 57.72370125117081
+  score: 55.58578639001633
   llm_score: 75
   recency_score: 0.20405813261015537
   length_score: 100
   category_score: 0
+  rank: 8
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 53.00635866362238
+  llm_score: 70
+  recency_score: 2.792920979450993
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 57.70491496661066
-  llm_score: 75
-  recency_score: 0.0819472829691821
+- slug: all-mouth
+  title: ALL MOUTH
+  score: 51.35413928030707
+  llm_score: 65
+  recency_score: 11.640440142072652
   length_score: 100
   category_score: 0
   rank: 10

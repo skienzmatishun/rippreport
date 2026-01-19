@@ -10,81 +10,81 @@ alttags: Concerned parent, child in distress, and Baldwin County DHR building re
 related_articles:
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
-  score: 84.84631328411679
+  score: 81.7038572365569
   llm_score: 95
   recency_score: 96.50103634675902
   length_score: 100
   category_score: 0
   rank: 1
-- slug: black-cloud
-  title: BLACK CLOUD
-  score: 58.17969957831404
-  llm_score: 75
-  recency_score: 3.168047259041166
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 58.11963986988564
-  llm_score: 75
+  score: 64.8559495043343
+  llm_score: 90
   recency_score: 2.7776591542565425
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 2
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 58.099077147479335
-  llm_score: 75
+  score: 61.87318540127639
+  llm_score: 85
   recency_score: 2.644001458615577
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 57.87608523660465
-  llm_score: 75
-  recency_score: 1.1945540379301263
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 3
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 57.71132278235782
-  llm_score: 75
+  score: 58.53682934597419
+  llm_score: 80
   recency_score: 0.12359808532571412
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: divorce-corp
-  title: DIVORCE CORP
-  score: 57.70046290677537
-  llm_score: 75
-  recency_score: 0.053008894039832936
-  length_score: 100
-  category_score: 0
-  rank: 7
+  rank: 4
 - slug: exposure
   title: EXPOSURE
-  score: 57.69581490605552
+  score: 55.5589328724979
   llm_score: 75
   recency_score: 0.022796889360761432
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 52.600445762079985
+  llm_score: 70
+  recency_score: 0.053008894039832936
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 50.098969964302405
+  llm_score: 65
+  recency_score: 3.168047259041166
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: happy-days
   title: HAPPY DAYS
-  score: 52.22679539236307
-  llm_score: 65
+  score: 41.40358074820148
+  llm_score: 50
   recency_score: 4.474170050359933
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 51.55324010734012
-  llm_score: 65
+  score: 37.79200899225344
+  llm_score: 45
   recency_score: 0.0960606977107225
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 34.99178578339706
+  llm_score: 40
+  recency_score: 1.1945540379301263
   length_score: 100
   category_score: 0
   rank: 10

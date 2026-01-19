@@ -14,7 +14,7 @@ alttags: Baldwin County Family Court Reform Project logo; highlights concerns ab
 related_articles:
 - slug: failing-our-children-in-baldwin-county
   title: FAILING OUR CHILDREN IN BALDWIN COUNTY
-  score: 84.84631328411679
+  score: 81.7038572365569
   llm_score: 95
   recency_score: 96.50103634675902
   length_score: 100
@@ -22,73 +22,73 @@ related_articles:
   rank: 1
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 65.55504758357537
+  score: 77.94189767307259
   llm_score: 75
   recency_score: 51.107809293239825
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 2
+- slug: boss-sheriff
+  title: BOSS SHERIFF
+  score: 70.49843748385678
+  llm_score: 70
+  recency_score: 20.864453016033117
+  length_score: 100
+  category_score: 100
+  rank: 3
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 64.25853382615973
-  llm_score: 85
+  score: 64.84155109185753
+  llm_score: 90
   recency_score: 2.6804698700381855
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 4
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 64.45231915896494
+  llm_score: 90
+  recency_score: 0.05315432301332231
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: baldwin-county-un-family-court
   title: BALDWIN COUNTY UN-FAMILY COURT
-  score: 64.23869058593654
+  score: 61.859479823494446
   llm_score: 85
   recency_score: 2.5514888085874565
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 6
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
-  score: 63.864503605114486
+  score: 61.49915161973987
   llm_score: 85
   recency_score: 0.11927343324406557
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 7
 - slug: divorce-corp
   title: DIVORCE CORP
-  score: 63.85402371263146
-  llm_score: 85
+  score: 58.52609690845992
+  llm_score: 80
   recency_score: 0.051154132104394186
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 8
 - slug: exposure
   title: EXPOSURE
-  score: 63.84953834376739
-  llm_score: 85
+  score: 52.59585173844267
+  llm_score: 70
   recency_score: 0.02199923448795886
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: boss-sheriff
-  title: BOSS SHERIFF
-  score: 60.90222354092819
-  llm_score: 75
-  recency_score: 20.864453016033117
-  length_score: 100
-  category_score: 0
-  rank: 8
+  rank: 9
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
-  score: 57.86965492712688
-  llm_score: 75
+  score: 46.83744548538143
+  llm_score: 60
   recency_score: 1.152757026324628
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: baldwin-county-family-court
-  title: BALDWIN COUNTY FAMILY COURT
-  score: 57.7004852804636
-  llm_score: 75
-  recency_score: 0.05315432301332231
   length_score: 100
   category_score: 0
   rank: 10

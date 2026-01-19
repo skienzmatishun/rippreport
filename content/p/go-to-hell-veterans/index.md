@@ -28,83 +28,83 @@ authors:
 - ripp-report
 alttags: Veterans in military uniform salute against a fiery red landscape, symbolizing cuts to Alabama veteran benefits approved b...
 related_articles:
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
-  score: 78.01685066683008
-  llm_score: 85
-  recency_score: 92.10952933439548
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: red-lips-award
   title: RED LIPS AWARD
-  score: 72.6201939216784
-  llm_score: 75
+  score: 81.78240896161624
+  llm_score: 95
   recency_score: 97.03126049090956
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: war
   title: WAR
-  score: 72.25661001823983
-  llm_score: 75
+  score: 75.50636520274945
+  llm_score: 85
   recency_score: 94.66796511855877
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: lt-governor-ainsworth-breaks-with-governor
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  score: 72.16437471620674
+  llm_score: 80
+  recency_score: 92.10952933439548
   length_score: 100
   category_score: 0
   rank: 3
 - slug: fire-albritton
   title: FIRE ALBRITTON
-  score: 68.43755879947688
-  llm_score: 75
+  score: 59.97690847357033
+  llm_score: 65
   recency_score: 69.84413219659965
   length_score: 100
   category_score: 0
   rank: 4
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 67.21726990936716
-  llm_score: 75
-  recency_score: 61.91225441088648
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: ki-yay-mother-yippee
-  title: Ki Yay Mother Yippee
-  score: 52.36322438874371
-  llm_score: 65
-  recency_score: 5.360958526834057
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: alabama-sec-of-state-the-only-one
-  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
-  score: 51.553526267176466
-  llm_score: 65
-  recency_score: 0.09792073664695441
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR
-  score: 51.546352995780154
-  llm_score: 65
+  score: 40.74833992186237
+  llm_score: 50
   recency_score: 0.051294472570959884
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
 - slug: offensive
   title: Offensive
-  score: 41.83731411015164
+  score: 40.2877839579238
   llm_score: 45
   recency_score: 16.942541715985588
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 6
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 35.60903089286431
+  llm_score: 40
+  recency_score: 5.360958526834057
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 35.09811176457578
+  llm_score: 25
+  recency_score: 61.91225441088648
+  length_score: 100
+  category_score: 0
+  rank: 8
 - slug: tiny-steps
   title: TINY STEPS
-  score: 33.41547752549003
+  score: 32.17786724676818
   llm_score: 35
   recency_score: 2.200603915685177
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 28.90339566468844
+  llm_score: 30
+  recency_score: 0.09792073664695441
   length_score: 100
   category_score: 0
   rank: 10

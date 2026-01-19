@@ -19,80 +19,80 @@ alttags: Fairhope city clocks representing a challenge to the status quo in the 
 related_articles:
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 78.61133993770366
-  llm_score: 85
+  score: 72.73684586593686
+  llm_score: 80
   recency_score: 95.97370959507373
   length_score: 100
   category_score: 0
   rank: 1
-- slug: crystal-ball
-  title: CRYSTAL BALL
-  score: 70.01795194796073
+- slug: bury-the-body
+  title: BURY THE BODY
+  score: 67.42460000382812
   llm_score: 95
-  recency_score: 0.11668766174462795
+  recency_score: 0.11605002583978188
   length_score: 100
   category_score: 0
   rank: 2
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 63.865273414458606
-  llm_score: 85
-  recency_score: 0.12427719398082719
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 64.4611724047673
+  llm_score: 90
+  recency_score: 0.11291373217919946
   length_score: 100
   category_score: 0
   rank: 3
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 61.49876854248069
+  llm_score: 85
+  recency_score: 0.11668766174462795
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: catalyst-panic-and-confusion
   title: CATALYST PANIC and CONFUSION
-  score: 63.863764790530126
+  score: 61.49844016865863
   llm_score: 85
   recency_score: 0.11447113844573364
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: selected-not-elected
-  title: SELECTED NOT ELECTED
-  score: 57.895691707159116
-  llm_score: 75
-  recency_score: 1.3219960965341453
-  length_score: 100
-  category_score: 0
   rank: 5
-- slug: bury-the-body
-  title: BURY THE BODY
-  score: 57.71016154243691
-  llm_score: 75
-  recency_score: 0.11605002583978188
+- slug: hell-yea
+  title: HELL YEA
+  score: 58.535384535505166
+  llm_score: 80
+  recency_score: 0.11384561465983976
   length_score: 100
   category_score: 0
   rank: 6
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 55.57396699170087
+  llm_score: 75
+  recency_score: 0.12427719398082719
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 57.71001539987184
+  score: 55.572607422098805
   llm_score: 75
   recency_score: 0.11510009916688303
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: hell-yea
-  title: HELL YEA
-  score: 57.70982240225538
-  llm_score: 75
-  recency_score: 0.11384561465983976
-  length_score: 100
-  category_score: 0
   rank: 8
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 57.709679035719894
-  llm_score: 75
-  recency_score: 0.11291373217919946
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 52.788443866153216
+  llm_score: 70
+  recency_score: 1.3219960965341453
   length_score: 100
   category_score: 0
   rank: 9
 - slug: game-on
   title: GAME ON
-  score: 57.69428595529095
-  llm_score: 75
+  score: 49.631534623613504
+  llm_score: 65
   recency_score: 0.012858709391078301
   length_score: 100
   category_score: 0
