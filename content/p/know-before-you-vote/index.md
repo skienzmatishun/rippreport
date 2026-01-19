@@ -11,81 +11,81 @@ alttags: 'YouTube video thumbnail: Watch This Before You Vote - Fairhope City Co
 related_articles:
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 85.13378486641899
+  score: 81.98068172321828
   llm_score: 95
   recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 1
-- slug: crystal-ball
-  title: CRYSTAL BALL
-  score: 63.86255395007771
-  llm_score: 85
-  recency_score: 0.10660067550503395
-  length_score: 100
-  category_score: 0
-  rank: 2
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 63.86202353549789
-  llm_score: 85
+  score: 64.45972636751648
+  llm_score: 90
   recency_score: 0.10315298073621133
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: fairhope-council-shows-its-colors
+  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+  score: 61.4970593109191
+  llm_score: 85
+  recency_score: 0.10515034870386371
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 62.188500620678035
-  llm_score: 75
-  recency_score: 29.2252540344071
+- slug: hell-yea
+  title: HELL YEA
+  score: 58.53392656403914
+  llm_score: 80
+  recency_score: 0.10400430726416052
   length_score: 100
   category_score: 0
   rank: 4
-- slug: ignorance-is-bliss
-  title: IGNORANCE IS BLISS
-  score: 57.71080889271455
-  llm_score: 75
-  recency_score: 0.12025780264449924
+- slug: FAIRHOPE-FREE-YEAR
+  title: FAIRHOPE FREE YEAR
+  score: 56.92225985694921
+  llm_score: 70
+  recency_score: 29.2252540344071
   length_score: 100
   category_score: 0
   rank: 5
 - slug: special-interest
   title: SPECIAL INTEREST
-  score: 57.70977448242225
+  score: 55.57237542751772
   llm_score: 75
   recency_score: 0.11353413574452939
   length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-change-of-government
-  title: FAIRHOPE - CHANGE OF GOVERNMENT
-  score: 57.709679035719894
-  llm_score: 75
-  recency_score: 0.11291373217919946
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 49.64542232229705
+  llm_score: 65
+  recency_score: 0.10660067550503395
   length_score: 100
   category_score: 0
   rank: 7
 - slug: bury-the-body
   title: BURY THE BODY
-  score: 57.70861817840095
-  llm_score: 75
+  score: 40.756447134756456
+  llm_score: 50
   recency_score: 0.10601815960603846
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-council-shows-its-colors
-  title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 57.70848466903138
-  llm_score: 75
-  recency_score: 0.10515034870386371
+- slug: fairhope-change-of-government
+  title: FAIRHOPE - CHANGE OF GOVERNMENT
+  score: 37.794505738100625
+  llm_score: 45
+  recency_score: 0.11291373217919946
   length_score: 100
   category_score: 0
   rank: 9
-- slug: hell-yea
-  title: HELL YEA
-  score: 57.708308354963734
-  llm_score: 75
-  recency_score: 0.10400430726416052
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 34.83263078557697
+  llm_score: 40
+  recency_score: 0.12025780264449924
   length_score: 100
   category_score: 0
   rank: 10

@@ -10,81 +10,81 @@ authors:
 related_articles:
 - slug: know-before-you-vote
   title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
-  score: 78.97993871257283
-  llm_score: 85
+  score: 83.75845950099607
+  llm_score: 98
   recency_score: 98.36960163172333
   length_score: 100
   category_score: 0
   rank: 1
-- slug: 100-voices
-  title: 100 VOICES
-  score: 63.87293500549242
-  llm_score: 85
-  recency_score: 0.17407753570064635
+- slug: fairhope-catalyst-a-dirty-little-secret
+  title: FAIRHOPE - CATALYST a Dirty Little Secret
+  score: 64.45947721129208
+  llm_score: 90
+  recency_score: 0.10147117622145942
   length_score: 100
   category_score: 0
   rank: 2
-- slug: crystal-ball
-  title: CRYSTAL BALL
-  score: 63.862286563050944
-  llm_score: 85
-  recency_score: 0.10486265983102791
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
-  score: 62.11519476453931
-  llm_score: 75
+  score: 62.777594958445256
+  llm_score: 80
   recency_score: 28.748765969505406
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: ignorance-is-bliss
-  title: IGNORANCE IS BLISS
-  score: 57.71050724944501
-  llm_score: 75
-  recency_score: 0.11829712139245786
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: special-interest
-  title: SPECIAL INTEREST
-  score: 57.709489704161236
-  llm_score: 75
-  recency_score: 0.11168307704791358
-  length_score: 100
-  category_score: 0
-  rank: 6
+  rank: 3
 - slug: bury-the-body
   title: BURY THE BODY
-  score: 57.708352252501825
-  llm_score: 75
+  score: 61.49693179870545
+  llm_score: 85
   recency_score: 0.10428964126174459
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 4
 - slug: fairhope-council-shows-its-colors
   title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
-  score: 57.70822091986684
-  llm_score: 75
+  score: 61.49680533024213
+  llm_score: 85
   recency_score: 0.10343597913435872
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 5
+- slug: crystal-ball
+  title: CRYSTAL BALL
+  score: 55.571090764419424
+  llm_score: 75
+  recency_score: 0.10486265983102791
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: hell-yea
   title: HELL YEA
-  score: 57.70804748042087
+  score: 55.57071238855343
   llm_score: 75
   recency_score: 0.10230862273558813
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: special-interest
+  title: SPECIAL INTEREST
+  score: 52.609138233636735
+  llm_score: 70
+  recency_score: 0.11168307704791358
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: ignorance-is-bliss
+  title: IGNORANCE IS BLISS
+  score: 46.68419216613222
+  llm_score: 60
+  recency_score: 0.11829712139245786
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 57.70791864249563
-  llm_score: 75
-  recency_score: 0.10147117622145942
+- slug: 100-voices
+  title: 100 VOICES
+  score: 40.76653000528899
+  llm_score: 50
+  recency_score: 0.17407753570064635
   length_score: 100
   category_score: 0
   rank: 10

@@ -11,83 +11,83 @@ tags:
 authors:
 - ripp-report
 related_articles:
+- slug: police-report
+  title: POLICE REPORT
+  score: 70.38134036497003
+  llm_score: 75
+  recency_score: 0.07404746354764352
+  length_score: 100
+  category_score: 100
+  rank: 1
 - slug: 5000-00-cash-reward
   title: $5000.00 CASH REWARD
-  score: 70.00315179648554
+  score: 67.41044247068977
   llm_score: 95
   recency_score: 0.020486677155934722
   length_score: 100
   category_score: 0
-  rank: 1
-- slug: police-report
-  title: POLICE REPORT
-  score: 63.85754576362273
-  llm_score: 85
-  recency_score: 0.07404746354764352
+  rank: 2
+- slug: caught-trap-like-rat
+  title: CAUGHT IN A TRAP LIKE A RAT
+  score: 64.44743821499016
+  llm_score: 90
+  recency_score: 0.020207951183464034
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 3
+- slug: court-public-opinion-now-session
+  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+  score: 64.44738134726252
+  llm_score: 90
+  recency_score: 0.019824094021949453
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: listening-not-reading
   title: LISTENING NOT READING
-  score: 63.84957563813163
+  score: 61.48477654042305
   llm_score: 85
   recency_score: 0.022241647855521705
   length_score: 100
   category_score: 0
-  rank: 3
+  rank: 5
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
-  score: 63.84932296015905
-  llm_score: 85
+  score: 58.52157025793093
+  llm_score: 80
   recency_score: 0.020599241033720052
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: caught-trap-like-rat
-  title: CAUGHT IN A TRAP LIKE A RAT
-  score: 60.772339684797466
-  llm_score: 80
-  recency_score: 0.020207951183464034
-  length_score: 100
-  category_score: 0
-  rank: 5
+  rank: 6
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
-  score: 58.12910945175104
+  score: 55.97617947205656
   llm_score: 75
   recency_score: 2.839211436381685
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 7
 - slug: no-radar
   title: NO RADAR
-  score: 57.895691707159116
-  llm_score: 75
+  score: 52.788443866153216
+  llm_score: 70
   recency_score: 1.3219960965341453
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: bonus-money
-  title: BONUS MONEY
-  score: 57.69871578480444
-  llm_score: 75
-  recency_score: 0.041652601228757115
   length_score: 100
   category_score: 0
   rank: 8
 - slug: airport-diversion
   title: AIRPORT DIVERSION
-  score: 57.69720687548911
-  llm_score: 75
+  score: 49.6343473615821
+  llm_score: 65
   recency_score: 0.031844690679118465
   length_score: 100
   category_score: 0
   rank: 9
-- slug: court-public-opinion-now-session
-  title: COURT OF PUBLIC OPINION IS NOW IN SESSION
-  score: 57.69535755292647
-  llm_score: 75
-  recency_score: 0.019824094021949453
+- slug: bonus-money
+  title: BONUS MONEY
+  score: 46.672837422404264
+  llm_score: 60
+  recency_score: 0.041652601228757115
   length_score: 100
   category_score: 0
   rank: 10

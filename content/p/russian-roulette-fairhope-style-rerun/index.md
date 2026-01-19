@@ -10,80 +10,80 @@ alttags: Revolver cylinder graphic symbolizing Fairhope’s legal troubles and r
 related_articles:
 - slug: the-good-the-bad-and-the-ugly-repost
   title: THE GOOD THE BAD AND THE UGLY
-  score: 79.23076923076924
-  llm_score: 85
+  score: 73.33333333333334
+  llm_score: 80
   recency_score: 100.0
   length_score: 100
   category_score: 0
   rank: 1
 - slug: russian-roulette-fairhope-style
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 70.01954325350047
+  score: 67.42622683670416
   llm_score: 95
   recency_score: 0.12703114775298338
   length_score: 100
   category_score: 0
   rank: 2
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 64.82629699430001
+- slug: catalyst-council-lawsuits
+  title: CATALYST COUNCIL LAWSUITS
+  score: 61.58577597610096
   llm_score: 85
-  recency_score: 6.370930462949982
+  recency_score: 0.7039878386814237
   length_score: 100
   category_score: 0
   rank: 3
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 63.86944264719784
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 61.532498031149224
   llm_score: 85
-  recency_score: 0.15137720678588268
+  recency_score: 0.3443617102572178
   length_score: 100
   category_score: 0
   rank: 4
-- slug: chasing-your-tail
-  title: CHASING YOUR TAIL
-  score: 63.86613017361563
-  llm_score: 85
-  recency_score: 0.1298461285014998
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: fraud
   title: FRAUD
-  score: 63.84793651142803
+  score: 61.48319812211587
   llm_score: 85
   recency_score: 0.011587324282087415
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: catalyst-council-lawsuits
-  title: CATALYST COUNCIL LAWSUITS
-  score: 60.877536590566386
+  rank: 5
+- slug: the-good-the-bad-and-the-ugly
+  title: THE GOOD THE BAD AND THE UGLY
+  score: 58.54094477137569
   llm_score: 80
-  recency_score: 0.7039878386814237
+  recency_score: 0.15137720678588268
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: chasing-your-tail
+  title: CHASING YOUR TAIL
+  score: 55.57479201903727
+  llm_score: 75
+  recency_score: 0.1298461285014998
   length_score: 100
   category_score: 0
   rank: 7
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 59.323860807628655
-  llm_score: 75
+  score: 54.16371781475351
+  llm_score: 70
   recency_score: 10.605095249586157
   length_score: 100
   category_score: 0
   rank: 8
-- slug: triangle-roaches
-  title: TRIANGLE ROACHES
-  score: 57.745286416962664
-  llm_score: 75
-  recency_score: 0.3443617102572178
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 53.53643414265927
+  llm_score: 70
+  recency_score: 6.370930462949982
   length_score: 100
   category_score: 0
   rank: 9
 - slug: fairhope-lawsuits
   title: FAIRHOPE LAWSUITS
-  score: 57.69875099401553
-  llm_score: 75
+  score: 49.635834290533474
+  llm_score: 65
   recency_score: 0.041881461100881215
   length_score: 100
   category_score: 0
