@@ -9,83 +9,83 @@ authors:
 - admin
 alttags: 'Hoss Macks rise: Silhouette against Alabama capitol building, highlighting his career built on suppression and statewide ...'
 related_articles:
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 75.88098446237291
-  llm_score: 95
-  recency_score: 38.22639900542388
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
-  score: 66.15036381755112
-  llm_score: 85
+  score: 84.44109108356776
+  llm_score: 95
   recency_score: 14.977364814082216
   length_score: 100
-  category_score: 0
+  category_score: 100
+  rank: 1
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 81.95946651932206
+  llm_score: 85
+  recency_score: 38.22639900542388
+  length_score: 100
+  category_score: 100
   rank: 2
 - slug: boss-sheriff
   title: BOSS SHERIFF
-  score: 66.06974034815758
-  llm_score: 85
+  score: 81.40049070563322
+  llm_score: 90
   recency_score: 14.453312263024177
   length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 3
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 76.60072942511351
+  llm_score: 85
+  recency_score: 2.0549236195161336
+  length_score: 100
+  category_score: 100
+  rank: 4
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF
-  score: 63.857514595605345
-  llm_score: 85
+  score: 73.34427331428662
+  llm_score: 80
   recency_score: 0.07384487143466474
   length_score: 100
-  category_score: 0
-  rank: 4
-- slug: happy-days
-  title: HAPPY DAYS
-  score: 58.152449282539536
-  llm_score: 75
-  recency_score: 2.990920336506884
-  length_score: 100
-  category_score: 0
+  category_score: 100
   rank: 5
 - slug: black-cloud
   title: BLACK CLOUD
-  score: 58.01812237688536
-  llm_score: 75
+  score: 58.832265992556266
+  llm_score: 80
   recency_score: 2.117795449754721
   length_score: 100
   category_score: 0
   rank: 6
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 58.008449787617884
-  llm_score: 75
-  recency_score: 2.0549236195161336
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: southern-gothic
-  title: SOUTHERN GOTHIC
-  score: 57.88643623839696
-  llm_score: 75
-  recency_score: 1.2618355495801652
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: flies-in-the-ointment
   title: FLIES IN THE OINTMENT
-  score: 57.694533294211645
+  score: 55.55769872775935
   llm_score: 75
   recency_score: 0.014466412375585717
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 7
 - slug: january-22nd-qualifying-deadline
   title: January 22nd Qualifying Deadline
-  score: 51.95767639057587
-  llm_score: 65
+  score: 52.996280968702685
+  llm_score: 70
   recency_score: 2.7248965387430797
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 52.779531192530406
+  llm_score: 70
+  recency_score: 1.2618355495801652
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 41.183840049852876
+  llm_score: 50
+  recency_score: 2.990920336506884
   length_score: 100
   category_score: 0
   rank: 10
