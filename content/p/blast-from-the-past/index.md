@@ -105,5 +105,6 @@ Much Much More coming on these subjects!
 
 {{< twitter id="1803608778689937632" >}}
 
+{{< socialpreview url="https://rippreport.com/p/hanky-panky-by-the-po-po/" >}}
 
 {{< aicomments "hpbtpp" >}}
