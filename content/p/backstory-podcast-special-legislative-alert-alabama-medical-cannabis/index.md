@@ -103,4 +103,4 @@ The bill would allow marijuana in forms such as pills, skin patches and creams b
 
 Chey Garrigan of the Alabama Cannabis Industry Association joins us for a spirited conversation about the players and the prospect of this Bill surviving the Senate.
 
-For more information please visit the ACIA at their website: [https://www.bamacannabis.org/](https://www.bamacannabis.org/)
+For more information please visit the ACIA at their website: [https://www.bamacannabis.org/] (https://web.archive.org/web/20250227115522/https://www.bamacannabis.org/) (Archive)

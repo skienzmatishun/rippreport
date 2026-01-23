@@ -74,9 +74,7 @@ related_articles:
   recency_score: 0.7580381272263648
   rank: 10
 ---
-It seems as if the public has gotten the attention of elected officials and environmental groups about the
-
-sewer systems of Fairhope, Daphne and Spanish Fort. It is hard to believe in 2017 that we still have regular sewer spills and that we still dump sewage into the bay.
+It seems as if the public has gotten the attention of elected officials and environmental groups about the sewer systems of Fairhope, Daphne and Spanish Fort. It is hard to believe in 2017 that we still have regular sewer spills and that we still dump sewage into the bay.
 
 {{< socialpreview url="https://web.archive.org/web/20210915025801/ttp://www.mobilebaykeeper.org/bay-blog/2017/9/25/mobile-baykeeper-awarded-87000-to-expand-watershed-program-into-fairhope" >}}
 
