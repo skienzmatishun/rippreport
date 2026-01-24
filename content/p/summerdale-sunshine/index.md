@@ -22,6 +22,87 @@ tags:
 - Donna Black Givens
 authors:
 - admin
+related_articles:
+- slug: bcso-culture
+  title: BCSO CULTURE
+  score: 93.48670972684448
+  llm_score: 95
+  recency_score: 76.03529065620016
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
+  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+  score: 85.69020428461019
+  llm_score: 95
+  recency_score: 23.408878921118657
+  length_score: 100
+  category_score: 100
+  rank: 2
+- slug: po-po-hoss-mack-ccuo
+  title: PO PO Hoss Mack CCUO
+  score: 83.49342034307685
+  llm_score: 92
+  recency_score: 20.580587315768575
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: new-sheriff-no-changes
+  title: NEW SHERIFF - NO CHANGES
+  score: 80.04078550707035
+  llm_score: 85
+  recency_score: 25.27530217272481
+  length_score: 100
+  category_score: 100
+  rank: 4
+- slug: lethal-force
+  title: LETHAL FORCE
+  score: 78.59634030595925
+  llm_score: 88
+  recency_score: 3.5252970652248186
+  length_score: 100
+  category_score: 100
+  rank: 5
+- slug: shuffling-the-deck
+  title: SHUFFLING THE DECK
+  score: 76.58061898060657
+  llm_score: 80
+  recency_score: 21.919178119094283
+  length_score: 100
+  category_score: 100
+  rank: 6
+- slug: hanky-panky-by-the-po-po
+  title: Hanky Panky by the Po Po
+  score: 76.25954860791057
+  llm_score: 80
+  recency_score: 19.751953103396314
+  length_score: 100
+  category_score: 100
+  rank: 7
+- slug: JUDGE-VS-SHERIFF
+  title: JUDGE VS. SHERIFF
+  score: 71.83748687653672
+  llm_score: 75
+  recency_score: 9.903036416622752
+  length_score: 100
+  category_score: 100
+  rank: 8
+- slug: justified
+  title: JUSTIFIED
+  score: 67.80055679677562
+  llm_score: 85
+  recency_score: 42.653758378235395
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: baldwin-county-judicial-corruption
+  title: Baldwin County Judicial Corruption
+  score: 66.251173560128
+  llm_score: 90
+  recency_score: 12.195421530863895
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
 
 Today the Summerdale candidate forum will feature the good ole boys, and women of Baldwin County, infighting and dividing alliances. It seems Catalyst has stained the name of Scott Boone Consulting aka Catalyst, and some of his loyalists are wanting a divorce. Scott Boone is Lowery’s campaign manager, which should come as no surprise.
