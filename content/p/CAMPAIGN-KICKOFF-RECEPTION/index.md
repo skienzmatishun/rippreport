@@ -12,6 +12,6 @@ tags:
 - Elections
 - BCSO
 ---
-<img src="https://rippreport.com/cdn-cgi/image/width=500,quality=85,format=auto/img/mckenzie-kickoff.jpg">
+<img style="float:left;padding:2rem" src="https://rippreport.com/cdn-cgi/image/width=500,quality=85,format=auto/img/mckenzie-kickoff.jpg">
 
 {{< aicomments >}}
