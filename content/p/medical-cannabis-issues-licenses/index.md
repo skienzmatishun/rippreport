@@ -8,6 +8,63 @@ tags:
 - medical-cannabis
 authors:
 - admin
+related_articles:
+- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
+  title: Medical Marijuana Bill
+  score: 63.138021463420856
+  llm_score: 85
+  recency_score: 29.70963951223547
+  length_score: 54.25
+  category_score: 0
+  rank: 1
+- slug: alabama-off-the-rails
+  title: ALABAMA OFF THE RAILS
+  score: 58.05189568255493
+  llm_score: 75
+  recency_score: 2.337321936606922
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: tiny-steps
+  title: TINY STEPS
+  score: 52.19030950591319
+  llm_score: 42
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: offensive
+  title: Offensive
+  score: 50.38459516719343
+  llm_score: 60
+  recency_score: 12.499868586757227
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: cannabis-conference
+  title: Inaugural Alabama Medical Cannabis Conference
+  score: 43.921463004749484
+  llm_score: 50
+  recency_score: 10.489509530871569
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: insanity-2
+  title: INSANITY
+  score: 48.6124207069446
+  llm_score: 40
+  recency_score: 80.98073459513984
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: red-lips-award
+  title: RED LIPS AWARD
+  score: 30.335783213501777
+  llm_score: 30
+  recency_score: 2.182590887761505
+  length_score: 100
+  category_score: 0
+  rank: 7
 ---
 
 Press Release:
