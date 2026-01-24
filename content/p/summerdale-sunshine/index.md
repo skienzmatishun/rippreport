@@ -63,11 +63,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 5
-- slug: shuffling-the-deck
-  title: SHUFFLING THE DECK
-  score: 76.58061898060657
-  llm_score: 80
-  recency_score: 21.919178119094283
+- slug: bcso-culture-2
+  title: BCSO CULTURE
+  score: 93.48670972684448
+  llm_score: 95
+  recency_score: 76.03529065620016
   length_score: 100
   category_score: 100
   rank: 6
