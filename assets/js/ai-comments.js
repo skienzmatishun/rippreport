@@ -1220,8 +1220,8 @@ class CommentSystem {
    */
   startSilentPolling() {
     let pollCount = 0;
-    const maxPolls = 3;
-    const pollInterval = 30000; // 30 seconds
+    const maxPolls = 2; // Reduced from 3 to 2 polls
+    const pollInterval = 45000; // Increased from 30 to 45 seconds
 
     const poll = async () => {
       pollCount++;
@@ -2274,10 +2274,11 @@ class CommentSystem {
       this.showNetworkStatus("offline");
     }
 
-    // Check connection health periodically
-    setInterval(() => {
-      this.checkConnectionHealth();
-    }, 30000); // Check every 30 seconds
+    // Check connection health periodically (disabled to reduce KV usage)
+    // Health checks are now only done on user interaction
+    // setInterval(() => {
+    //   this.checkConnectionHealth();
+    // }, 30000); // Check every 30 seconds
   }
 
   showNetworkStatus(status) {
@@ -2337,12 +2338,12 @@ class CommentSystem {
   setupAutoRefresh(autoRefresh = true) {
     if (!autoRefresh) return;
 
-    // Refresh comments every 2 minutes
+    // Refresh comments every 10 minutes (reduced from 2 minutes to save KV reads)
     this.updateInterval = setInterval(() => {
       if (this.isOnline && !this.isLoading) {
         this.refreshComments();
       }
-    }, 120000);
+    }, 600000); // 10 minutes
   }
 
   setupCacheControls() {
