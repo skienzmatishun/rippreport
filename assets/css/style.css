@@ -499,6 +499,7 @@ select {
 	width: 100%;
 	height: auto;
 	display: block;
+	object-fit: cover;
 }
 
 .list__footer-readmore {
