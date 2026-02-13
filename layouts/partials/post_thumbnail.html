@@ -93,12 +93,11 @@
                 {{- end }}
               >
               {{- if $showAnimation }}
-              {{- $baseName := strings.TrimSuffix ".webp" (path.Base $animatedSrc) }}
               {{- $basePath := strings.TrimSuffix ".webp" $animatedSrc }}
               <img
   class="thumbnail__animated"
   data-src="{{ $animatedSrc | absURL }}"
-  data-srcset="{{ $basePath }}_412.webp 412w, {{ $basePath }}_760.webp 760w, {{ $basePath }}_1200.webp 1200w"
+  data-srcset="{{ printf "%s_412.webp" $basePath | absURL }} 412w, {{ printf "%s_760.webp" $basePath | absURL }} 760w, {{ printf "%s_1200.webp" $basePath | absURL }} 1200w"
   sizes="(max-width: 480px) 412px, (max-width: 768px) 760px, 1200px"
   alt="{{ if $page.Params.alttags }}{{ $page.Params.alttags }} - animated{{ else }}{{ $page.Title }} - animated{{ end }}"
   loading="lazy" />

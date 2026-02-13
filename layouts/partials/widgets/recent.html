@@ -109,7 +109,7 @@
                 {{- if $animatedSrc }}
                   <img
                     class="widget__animated"
-                    data-src="{{ partial "image-url.html" (dict "path" $animatedSrc "width" 336 "onerror" "redirect" "bypass_cf" true) }}"
+                    data-src="{{ (partial "image-url.html" (dict "path" $animatedSrc "width" 336 "onerror" "redirect" "bypass_cf" true)) | absURL }}"
                     alt="{{ if $page.Params.alttags }}{{ $page.Params.alttags }} - Animated{{ else }}{{ $page.Title }} - Animated{{ end }}"
                     width="336px"
                     height="174px"
