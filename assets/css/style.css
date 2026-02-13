@@ -466,7 +466,7 @@ select {
 }
 
 /* Animated Thumbnails */
-.thumbnail__video {
+.thumbnail__video--with-animation {
 	position: relative;
 	display: inline-block;
 }
