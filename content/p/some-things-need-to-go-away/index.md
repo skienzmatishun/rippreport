@@ -2,6 +2,7 @@
 title: SOME THINGS NEED TO GO AWAY
 date: 2026-01-10
 thumbnail: img/some-things-need-to-go-away.png
+webp_animated: img/some-things-need-to-go-away.wepb
 categories:
 - citycouncil
 authors:
