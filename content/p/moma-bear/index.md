@@ -1,7 +1,7 @@
 ---
 title: MOTHER BEAR
 date: 2023-07-12
-thumbnail: img/moma-bear.jpg
+thumbnail: img/moma-bear.png
 categories:
 - family-court
 authors:
