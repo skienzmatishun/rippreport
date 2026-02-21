@@ -1,7 +1,7 @@
 ---
 title: INNOCENT
 date: 2022-04-22
-thumbnail: img/innocent.jpg
+thumbnail: img/innocent.png
 tags:
 - Murray Lawrence Jr
 - Hoss Mack

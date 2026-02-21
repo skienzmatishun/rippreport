@@ -1,7 +1,7 @@
 ---
 title: DEAL WITH THE DEVIL
 date: 2022-03-14
-thumbnail: img/innocent.jpg
+thumbnail: img/deal-with-the-devil.png
 categories:
 - Special-Report
 authors:
