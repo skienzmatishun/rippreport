@@ -1,7 +1,7 @@
 ---
 title: RUN AWAY TRAIN
 date: 2018-12-20
-thumbnail: img/run-away-train.jpg
+thumbnail: img/run-away-train.png
 categories:
 - citycouncil
 authors:
