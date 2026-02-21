@@ -6,7 +6,7 @@ tags:
 - Lee County
 - Auburn PD
 categories:
-- freaky-friday
+- bcso
 authors:
 - admin
 alttags: Bodycam footage shows a police officer in uniform near a brick building, highlighting the article’s focus on law enforceme...
