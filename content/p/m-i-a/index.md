@@ -2,6 +2,7 @@
 title: M.I.A
 date: 2020-10-05
 thumbnail: img/m-i-a.jpg
+webp_animated: img/m-i-a.webp
 categories:
 - monday-madness
 tags:
