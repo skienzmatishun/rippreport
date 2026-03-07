@@ -1,5 +1,5 @@
 ---
-title: 'FAUXHOPE - KNOW THE BACKSTORY'
+title: FAUXHOPE - KNOW THE BACKSTORY
 date: 2026-01-25
 thumbnail: img/fauxhope-know-the-backstory.png
 categories:
@@ -13,8 +13,88 @@ tags:
 - Infrastructure
 authors:
 - admin
+related_articles:
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 67.89509953952032
+  llm_score: 95
+  recency_score: 3.2919218917620787
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 67.41364615976914
+  llm_score: 95
+  recency_score: 0.042111578441675304
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 67.40835990106144
+  llm_score: 95
+  recency_score: 0.006429332164730867
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 56.93025776352741
+  llm_score: 77
+  recency_score: 1.2792399038099316
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 56.742961620728074
+  llm_score: 77
+  recency_score: 0.014990939914472303
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: wetlands
+  title: WETLANDS
+  score: 56.15184504045306
+  llm_score: 76
+  recency_score: 0.024954023058067983
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: can-you-smell-it
+  title: CAN YOU SMELL IT?
+  score: 56.151794743379746
+  llm_score: 76
+  recency_score: 0.024614517813221527
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 55.96932162658534
+  llm_score: 75
+  recency_score: 2.792920979450993
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 55.61003936090887
+  llm_score: 75
+  recency_score: 0.36776568613484334
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 55.558805784459494
+  llm_score: 75
+  recency_score: 0.021939045101512622
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 “The developer will do whatever the hell he wants, without any accountability”
 
 THIS IS THE BACKSTORY TO GENERIC REPORTING:

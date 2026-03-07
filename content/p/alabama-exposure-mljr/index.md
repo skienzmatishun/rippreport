@@ -91,7 +91,7 @@ related_articles:
   category_score: 0
   rank: 10
 ---
-A short but powerful read from Alabama Exposure and Accountability. The Framing of Murray Lawrence Sr.  
+A short but powerful read from Alabama Exposure and Accountability. The Framing of Murray Lawrence Jr.  
 
 If this story appeared in a novel, readers would reject it as implausible. They would insist no justice system could allow failures this extensive across law enforcement, prosecutors, defense counsel, the courts and the prison system.
 

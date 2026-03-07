@@ -1,149 +1,102 @@
-{{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-{{- $currentPost := . }}
-{{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
+{{- /* DEBUG: Main sections: {{ .Site.Params.mainSections }} */ -}}
+{{- $recent := where .Site.RegularPages "Section" "in" (.Site.Params.mainSections | default (slice "p" "post")) -}}
+{{- /* DEBUG: Recent count: {{ len $recent }} */ -}}
+{{- $currentPost := . -}}
+{{- $recent_num := .Site.Params.widgets.recent_num | default 10 -}}
 
-{{- $recentToShow := slice }}
-{{- $filteredRecent := slice }}
+{{- $filteredRecent := slice -}}
 
-{{- if .IsHome }}
-  {{- if .Paginator.HasPrev }}
-    {{- $recentToShow = $recent }}
-  {{- else }}
-    {{- $recentToShow = after 10 $recent }}
-  {{- end }}
-  {{- range $recentToShow }}
-    {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
-      {{- $filteredRecent = $filteredRecent | append . }}
-    {{- end }}
-  {{- end }}
-{{- else if and (ne .Kind "page") .Paginator }}
-  {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
-  {{- range $recentToShow }}
-    {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
-      {{- $filteredRecent = $filteredRecent | append . }}
-    {{- end }}
-  {{- end }}
-{{- else }}
-  {{- /* Check if current post is in holiday category */ -}}
-  {{- $isHoliday := in .Params.categories "holiday" }}
-  {{- if $isHoliday }}
-    {{- /* Show 10 most recent articles for holiday posts, excluding other holiday posts */ -}}
-    {{- $recentToShow = first 10 $recent }}
-    {{- range $recentToShow }}
-      {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
-        {{- $filteredRecent = $filteredRecent | append . }}
-      {{- end }}
-    {{- end }}
-  {{- else }}
-    {{- /* Check if we have related_articles from the generator */ -}}
-    {{- $relatedArticles := .Params.related_articles }}
-    {{- if $relatedArticles }}
-      {{- /* Use AI-generated related articles, sorted by rank, excluding llm_score of 0 */ -}}
-      {{- range $relatedArticles }}
-        {{- $llmScore := .llm_score | default 0 }}
-        {{- if ne $llmScore 0 }}
-          {{- $slug := .slug }}
-          {{- range $recent }}
-            {{- if eq .File.ContentBaseName $slug }}
-              {{- $filteredRecent = $filteredRecent | append . }}
-            {{- end }}
-          {{- end }}
-        {{- end }}
-      {{- end }}
-    {{- else }}
-      {{- /* Fallback to category-based filtering */ -}}
-      {{- $recentCategoryOverride := .Params.recent_category_override }}
-      {{- if $recentCategoryOverride }}
-        {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $recentCategoryOverride) }}
-      {{- else }}
-        {{- $currentCategories := .Params.categories | default slice }}
-        {{- if gt (len $currentCategories) 0 }}
-          {{- $firstCategory := index $currentCategories 0 }}
-          {{- $recentToShow = where $recent "Params.categories" "intersect" (slice $firstCategory) }}
-        {{- else }}
-          {{- $recentToShow = where $recent "Params.categories" "not in" (slice "holiday") }}
-        {{- end }}
-      {{- end }}
-      {{- range $recentToShow }}
-        {{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) }}
-          {{- $filteredRecent = $filteredRecent | append . }}
-        {{- end }}
-      {{- end }}
-    {{- end }}
-  {{- end }}
-{{- end }}
+{{- if .IsHome -}}
+{{- /* On home page, skip first 10 if on first page */ -}}
+{{- if .Paginator.HasPrev -}}
+{{- $filteredRecent = $recent -}}
+{{- else -}}
+{{- $filteredRecent = after 10 $recent -}}
+{{- end -}}
+{{- else -}}
+{{- /* On single/list pages */ -}}
+{{- $relatedArticles := .Params.related_articles -}}
+{{- if $relatedArticles -}}
+{{- range $relatedArticles -}}
+{{- $slug := .slug -}}
+{{- if ne (.llm_score | default 0) 0 -}}
+{{- range $recent -}}
+{{- if eq .File.ContentBaseName $slug -}}
+{{- $filteredRecent = $filteredRecent | append . -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
 
-{{- if gt (len $filteredRecent) 0 }}
-<div class="widget-recent widget">
-  <h3 class="widget__title">{{ if .IsHome }}More Posts{{ else }}Related{{ end }}</h3>
-  <div class="widget__content">
-    <ul class="widget__list">
-      {{- $seenTitles := slice }}
-      {{- $displayedCount := 0 }}
-      {{- range $index, $page := $filteredRecent }}
-        {{- if lt $displayedCount $recent_num }}
-          {{- $pageTitle := $page.Title }}
-          {{- if not (in $seenTitles $pageTitle) }}
-            {{- $seenTitles = $seenTitles | append $pageTitle }}
-            {{- $displayedCount = add $displayedCount 1 }}
-        <li class="widget__item {{ if in $page.Params.categories "dwtd" }}dwtd__widget__item{{ else if in $page.Params.categories "backstory-podcast" }}backstory__widget__item{{ else if in $page.Params.categories "bcso" }}bcso__widget__item{{ else if in $page.Params.categories "elections" }}elections__widget__item{{ else if in $page.Params.categories "repost" }}repost__widget__item{{ end }}">
-          <a class="widget__link{{ if in $page.Params.categories "bcso" }} bcso__widget__link{{ end }}{{ if in $page.Params.categories "alabama" }} alabama__widget__link{{ end }}" href="{{ $page.RelPermalink }}">
-            <h4>{{ $page.Title }}</h4>
-            {{- if $page.Params.thumbnail }}
-              {{- $gif := $page.Params.gif }}
-              {{- $webpAnimated := $page.Params.webp_animated }}
-              {{- $animatedSrc := $webpAnimated | default $gif }}
-              <div class="widget__thumbnail{{ if $animatedSrc }} widget__thumbnail--with-animation{{ end }}">
-                {{- $thumbnail := $page.Params.thumbnail }}
-                <img 
-                  width="336" 
-                  height="174" 
-                  {{- if gt $index 0 }} loading="lazy"{{ end }} 
-                  src="{{ partial "image-url.html" (dict "path" $thumbnail "width" 336 "quality" 85 "onerror" "redirect") }}" 
-                  srcset="{{ partial "image-url.html" (dict "path" $thumbnail "width" 250 "quality" 85 "onerror" "redirect") }} 250w,
-                          {{ partial "image-url.html" (dict "path" $thumbnail "width" 336 "quality" 85 "onerror" "redirect") }} 336w,
-                          {{ partial "image-url.html" (dict "path" $thumbnail "width" 450 "quality" 85 "onerror" "redirect") }} 450w"
-                  sizes="(max-width: 480px) 250px, (max-width: 768px) 336px, 450px"
-                  alt="{{ if $page.Params.alttags }}{{ $page.Params.alttags }}{{ else }}{{ $page.Title }}{{ end }}" 
-                  class="widget__thumbnail-image">
-                {{- if $animatedSrc }}
-                  <img
-                    class="widget__animated"
-                    data-src="{{ (partial "image-url.html" (dict "path" $animatedSrc "width" 336 "onerror" "redirect" "bypass_cf" true)) | absURL }}"
-                    alt="{{ if $page.Params.alttags }}{{ $page.Params.alttags }} - Animated{{ else }}{{ $page.Title }} - Animated{{ end }}"
-                    width="336px"
-                    height="174px"
-                  >
-                {{- end }}
-              </div>
-            {{- end }}
-            <p style="text-align:left;" class="widget__summary">
-              {{- $summary := $page.Summary -}}
-              {{- if not $summary -}}
-                {{- $summary = $page.Content -}}
-              {{- end -}}
-              {{- $cleanedSummary := $summary | plainify -}}
-              {{- $cleanedSummary = replaceRE `&rsquo;` "'" $cleanedSummary -}}
-              {{- $cleanedSummary = replaceRE `&ldquo;` "\"" $cleanedSummary -}}
-              {{- $cleanedSummary = replaceRE `&rdquo;` "\"" $cleanedSummary -}}
-              {{- $cleanedSummary = replaceRE `&lsquo;` "'" $cleanedSummary -}}
-              {{- $cleanedSummary = replaceRE `&hellip;` "..." $cleanedSummary -}}
-              {{- $cleanedSummary = replaceRE `&mdash;` "—" $cleanedSummary -}}
-              {{- $cleanedSummary = replaceRE `&ndash;` "–" $cleanedSummary -}}
-              {{- $cleanedSummary = replaceRE `&amp;` "&" $cleanedSummary -}}
-              {{- $cleanedSummary = replaceRE `&lt;` "<" $cleanedSummary -}}
-              {{- $cleanedSummary = replaceRE `&gt;` ">" $cleanedSummary -}}
-              {{- $cleanedSummary = replaceRE `&nbsp;` " " $cleanedSummary -}}
-              {{- $cleanedSummary = replaceRE `\s+` " " $cleanedSummary -}}
-              {{- $cleanedSummary = trim $cleanedSummary " " -}}
-              {{ $cleanedSummary | truncate 400 }}
-            </p>
-          </a>
-        </li>
-          {{- end }}
-        {{- end }}
-      {{- end }}
+{{- /* Fallback if no related articles found */ -}}
+{{- if eq (len $filteredRecent) 0 -}}
+{{- $filteredRecent = where $recent "Section" "in" (.Site.Params.mainSections | default (slice "p" "post")) -}}
+{{- end -}}
+{{- end -}}
+
+{{- /* Final filter: exclude current post and holiday posts */ -}}
+{{- $finalRecent := slice -}}
+{{- range $filteredRecent -}}
+{{- if and (ne . $currentPost) (not (in .Params.categories "holiday")) -}}
+{{- $finalRecent = $finalRecent | append . -}}
+{{- end -}}
+{{- end -}}
+
+{{- if gt (len $finalRecent) 0 -}}
+<div class='widget-recent widget'>
+  <h3 class='widget__title'>{{ if .IsHome }}More Posts{{ else }}Related{{ end }}</h3>
+  <div class='widget__content'>
+    <ul class='widget__list'>
+      {{- $shown := 0 -}}
+      {{- $seen := slice -}}
+
+      {{- $hooksData := dict -}}
+      {{- if eq .Kind "page" -}}
+      {{- $hooksFile := .Resources.GetMatch "sidebar-hooks.yaml" -}}
+      {{- if $hooksFile -}}
+      {{- $hooksData = $hooksFile.Content | transform.Unmarshal -}}
+      {{- end -}}
+      {{- end -}}
+
+      {{- range $index, $page := $finalRecent -}}
+      {{- if and (lt $shown $recent_num) (not (in $seen $page.Title)) -}}
+      {{- $shown = add $shown 1 -}}
+      {{- $seen = $seen | append $page.Title -}}
+      <li class='widget__item'>
+        <a class='widget__link' href='{{ $page.RelPermalink }}'>
+          <h4>{{ $page.Title | safeHTML }}</h4>
+          {{- if $page.Params.thumbnail -}}
+          <div class='widget__thumbnail'>
+            <img width='336' height='174' {{ if gt $shown 1 }}loading='lazy' {{ end }}
+              src='{{ partial "image-url.html" (dict "path" $page.Params.thumbnail "width" 336 "quality" 85 "onerror" "redirect") }}'
+              alt='{{ $page.Title | safeHTML }}' class='widget__thumbnail-image'>
+          </div>
+          {{- end -}}
+          <p style='text-align:left;' class='widget__summary'>
+            {{- $text := "" -}}
+            {{- if $hooksData.hooks -}}
+            {{- $entry := index $hooksData.hooks $page.File.ContentBaseName -}}
+            {{- if $entry -}}
+            {{- if eq (printf "%T" $entry) "string" -}}
+            {{- $text = $entry -}}
+            {{- else -}}
+            {{- $text = $entry.text -}}
+            {{- end -}}
+            {{- end -}}
+            {{- end -}}
+
+            {{- if $text -}}
+            {{ $text | safeHTML }}
+            {{- else -}}
+            {{ $page.Summary | plainify | truncate 400 | safeHTML }}
+            {{- end -}}
+          </p>
+        </a>
+      </li>
+      {{- end -}}
+      {{- end -}}
     </ul>
   </div>
 </div>
-{{- end }}
+{{- end -}}

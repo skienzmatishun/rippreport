@@ -107,6 +107,5 @@ Read the complaint and tell me who is crazy?
 }
 </style>
 
-{{< subscribe >}}
 
 {{< aicomments "ctlrrerun" >}}
