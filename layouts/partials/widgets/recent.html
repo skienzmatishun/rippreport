@@ -21,7 +21,9 @@
 {{- $slug := .slug -}}
 {{- if ne (.llm_score | default 0) 0 -}}
 {{- range $recent -}}
-{{- if eq .File.ContentBaseName $slug -}}
+{{- $actualSlug := .Slug | default (path.Base .File.Dir) -}}
+{{- if eq $actualSlug "index" -}}{{- $actualSlug = path.Base .File.Dir -}}{{- end -}}
+{{- if eq $actualSlug $slug -}}
 {{- $filteredRecent = $filteredRecent | append . -}}
 {{- end -}}
 {{- end -}}
@@ -76,7 +78,9 @@
           <p style='text-align:left;' class='widget__summary'>
             {{- $text := "" -}}
             {{- if $hooksData.hooks -}}
-            {{- $entry := index $hooksData.hooks $page.File.ContentBaseName -}}
+            {{- $pageSlug := $page.Slug | default (path.Base $page.File.Dir) -}}
+            {{- if eq $pageSlug "index" -}}{{- $pageSlug = path.Base $page.File.Dir -}}{{- end -}}
+            {{- $entry := index $hooksData.hooks $pageSlug -}}
             {{- if $entry -}}
             {{- if eq (printf "%T" $entry) "string" -}}
             {{- $text = $entry -}}
