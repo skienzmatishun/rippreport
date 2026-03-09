@@ -2,6 +2,7 @@
 title: Ki Yay Mother Yippee
 date: 2022-04-11
 youtube: xRQLqYt04wQ
+thumbnail: img/ki-yay-mother-yippee.png
 categories:
 - backstory-podcast
 authors:
