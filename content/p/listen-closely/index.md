@@ -5,7 +5,6 @@ categories:
 - bcso
 thumbnail: img/listen-closely.png
 tags:
-- BCSO
 - Prison
 - Alabama
 authors:
