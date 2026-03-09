@@ -9,9 +9,88 @@ tags:
 - Alabama
 authors:
 - admin
-
+related_articles:
+- slug: alabama-exposure-mljr
+  title: Alabama Exposure and Accountability - The Framing of Murray Lawrence Jr.
+  score: 90.43692805972557
+  llm_score: 85
+  recency_score: 95.44926440314748
+  length_score: 100
+  category_score: 100
+  rank: 1
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 61.49762413655271
+  llm_score: 85
+  recency_score: 0.10896292173073147
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 58.19244579659713
+  llm_score: 50
+  recency_score: 17.799009127030544
+  length_score: 100
+  category_score: 100
+  rank: 3
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 52.8888888888889
+  llm_score: 58
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: ki-yay-mother-yippee
+  title: Ki Yay Mother Yippee
+  score: 49.92583534371711
+  llm_score: 65
+  recency_score: 1.9993885700904033
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 36.2962962962963
+  llm_score: 30
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 30.646790500822185
+  llm_score: 30
+  recency_score: 11.86583588054974
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: the-lie-of-the-century
+  title: The Lie of The Century
+  score: 30.464324465612385
+  llm_score: 30
+  recency_score: 10.634190142883599
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: no-98-ethical-abortion
+  title: No 98 - Ethical Abortion
+  score: 29.051450031457634
+  llm_score: 30
+  recency_score: 1.0972877123390103
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: hatians-eating-cats
+  title: Haitians Eating Cats
+  score: 26.383762328738253
+  llm_score: 20
+  recency_score: 23.090395718983192
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vadQsrAHLSw?si=k-f3KTnq8o2P93Hw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # The Alabama Solution
