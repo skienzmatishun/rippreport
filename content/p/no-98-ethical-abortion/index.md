@@ -2,6 +2,7 @@
 title: No 98 - Ethical Abortion
 date: 2021-09-04
 youtube: EoKcyj-qdh8
+thumbnail: img/no-98-ethical-abortion.png
 categories:
 - backstory-podcast
 authors:
