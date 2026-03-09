@@ -1,331 +1,826 @@
 metadata:
-  generated_at: '2026-03-08T22:58:59.462080Z'
+  generated_at: '2026-03-09T14:05:32.630539Z'
   generator_version: 1.0.0
   post_slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  refined_by: gemini
-  refined_at: '2026-03-09T00:28:01.204644Z'
 hooks:
   last-chance-fauxhope-or-fairhope:
-    brief: |-
-      THE CONFLICT
-      - Main Article Title: "LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL".
+    brief: 'THE CONFLICT
+
+      - Main Article Title: "LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY
+      COUNCIL".
+
       - Widget Article Title: "LAST CHANCE - FAUXHOPE OR FAIRHOPE".
-      - Main Article Text: Accuses Councilman Jack Burrell of de facto Mayor status, conflicts of interest, and "Good Ole Boy Club".
-      - Widget Article Text: Contains identical 10-point accusation list against Jack Burrell regarding ethics, utilities, and project costs.
-      - Specific Amount Match: Both articles cite "500 dollars from Jade Consulting" (Main Point 5, Widget Point 5).
-      - Specific Amount Match: Both articles cite cost increase from "6.3 million" to "10 million" (Waterfront project).
-      - Specific Date Match: Both articles reference "covid election in 2020" (Main Point 2, Widget Point 2).
-      - Specific Date Match: Main Article metadata indicates "over 23 years" (Author tenure).
-      - Specific Date Match: Point 10 mentions "multiple times for multiple reasons" (Arrests).
+
+      - Main Article Text: Accuses Councilman Jack Burrell of de facto Mayor status,
+      conflicts of interest, and "Good Ole Boy Club".
+
+      - Widget Article Text: Contains identical 10-point accusation list against Jack
+      Burrell regarding ethics, utilities, and project costs.
+
+      - Specific Amount Match: Both articles cite "500 dollars from Jade Consulting"
+      (Main Point 5, Widget Point 5).
+
+      - Specific Amount Match: Both articles cite cost increase from "6.3 million"
+      to "10 million" (Waterfront project).
+
+      - Specific Date Match: Both articles reference "covid election in 2020" (Main
+      Point 2, Widget Point 2).
+
+      - Specific Date Match: Main Article metadata indicates "over 23 years" (Author
+      tenure).
+
+      - Specific Date Match: Point 10 mentions "multiple times for multiple reasons"
+      (Arrests).
+
 
       THE DISCOVERY
-      - Article 2 (Widget) uses raw HTML anchor tags `<a href="https://troyvickers.com/">` instead of the Main Article's CMS shortcode `{{< socialpreview url="..." >}}`.
-      - Widget Article contains embedded image links `<img loading="lazy" src="/cdn-cgi/image/width=750...">` (6 images) which are not present in the Main Article's content block.
-      - Text Discrepancy: Widget Point 10 reads "One of Jack's friends is Ronan McSherry" whereas Main Article Point 10 reads "One of the friends is Ronan McSherry".
-      - Text Discrepancy: Widget Article Title omits "VOTE OUT FAUXHOPE" phrasing compared to Main Article.
-      - Widget Content explicitly calls for "vote for Troy Vickers place 1" at the bottom (Main Article does not explicitly name Vickers in the call to action text, only links to site).
+
+      - Article 2 (Widget) uses raw HTML anchor tags `<a href="https://troyvickers.com/">`
+      instead of the Main Article''s CMS shortcode `{{< socialpreview url="..." >}}`.
+
+      - Widget Article contains embedded image links `<img loading="lazy" src="/cdn-cgi/image/width=750...">`
+      (6 images) which are not present in the Main Article''s content block.
+
+      - Text Discrepancy: Widget Point 10 reads "One of Jack''s friends is Ronan McSherry"
+      whereas Main Article Point 10 reads "One of the friends is Ronan McSherry".
+
+      - Text Discrepancy: Widget Article Title omits "VOTE OUT FAUXHOPE" phrasing
+      compared to Main Article.
+
+      - Widget Content explicitly calls for "vote for Troy Vickers place 1" at the
+      bottom (Main Article does not explicitly name Vickers in the call to action
+      text, only links to site).
+
 
       THE PIVOT
-      - Article 2 (Widget) transforms the Main Article's investigative content into direct campaign material for Troy Vickers (`troyvickers.com`).
-      - Both articles share the same source links (e.g., `https://troyvickers.com/`, Ripp Report article URLs).
-      - The Widget Article is technically a repurposed clone of the Main Article, evidenced by identical 1-point text but different image assets (Vickers photos vs Flag/Lightning).
-      - Meta Tag Discrepancy: Main Article metadata lists "Ronan McSharry" while Article 2 Body Text uses "Ronan McSherry".
-      - Vote Instruction Discrepancy: Main Article asks "Fauxhope keep Jack -- Fairhope -- vote Jack OUT"; Widget instructs "... vote for Troy Vickers place 1".
+
+      - Article 2 (Widget) transforms the Main Article''s investigative content into
+      direct campaign material for Troy Vickers (`troyvickers.com`).
+
+      - Both articles share the same source links (e.g., `https://troyvickers.com/`,
+      Ripp Report article URLs).
+
+      - The Widget Article is technically a repurposed clone of the Main Article,
+      evidenced by identical 1-point text but different image assets (Vickers photos
+      vs Flag/Lightning).
+
+      - Meta Tag Discrepancy: Main Article metadata lists "Ronan McSharry" while Article
+      2 Body Text uses "Ronan McSherry".
+
+      - Vote Instruction Discrepancy: Main Article asks "Fauxhope keep Jack -- Fairhope
+      -- vote Jack OUT"; Widget instructs "... vote for Troy Vickers place 1".
+
 
       KEY ENTITIES
+
       - Jack Burrell (Fairhope Councilman).
+
       - Mayor Wilson.
+
       - Troy Vickers (Candidate, Place 1).
+
       - Ronan McSharry / Ronan McSherry.
+
       - Jade Consulting.
+
       - Fairhope City Council / Baldwin County Government.
-      - Publix (Parker Road Project).
+
+      - Publix (Parker Road Project).'
     generated_at: '2026-03-08T22:58:59.462374Z'
-    text: Jack Burrell treats Fairhope like a private piggy bank while skipping out on ethics for his Jade Consulting buddies. We caught this "investigation" acting as a secret campaign clone for Troy Vickers, using a copied ten-point hit list to hide its real mission.
+    text: Jack Burrell treats Fairhope like a private piggy bank while skipping out
+      on ethics for his Jade Consulting buddies. We caught this "investigation" acting
+      as a secret campaign clone for Troy Vickers, using a copied ten-point hit list
+      to hide its real mission.
+    character_count: 259
   PRETTY-FLOWERS-ROTTEN-ROOTS:
-    brief: |-
-      THE CONFLICT: Main Article establishes the following past events and allegations against Jack Burrell and Fairhope City Council
+    brief: 'THE CONFLICT: Main Article establishes the following past events and allegations
+      against Jack Burrell and Fairhope City Council
+
       - Followed Fairhope politics for over 23 years
-      - Jack Burrell identified as Councilman Fauxhope's de facto Mayor and key player in "Good Ole Boy Club"
+
+      - Jack Burrell identified as Councilman Fauxhope''s de facto Mayor and key player
+      in "Good Ole Boy Club"
+
       - Accused of flip flopping, double talking, and lying in Baldwin County
-      - Council incumbents hold full family insurance plus pay for part-time job; police do not have same privilege
-      - Council failed to resolve library issue due to constituent mistrust; Districts proposed 3 times and killed every time
-      - Mayor Wilson (Prior Administration) employed a qualified utility engineer and refused 2nd paycheck; Jack Burrell orchestrated firing of engineer and hiring high school grad as Head of Utilities (reward for 2020 election win)
-      - Waterfront Project (Wilson Admin, 5 years ago): Original cost $6.3 million; Contractor replaced under Jack's guidance; Project ballooned to projected $10 million cost with no community meetings at time of increase
-      - Jack Burrell accepted $500 from Jade Consulting who has pending development project
-      - Freedom of Speech incident: Jack Burrell/Council refused public participation rights; Federal mediation resulted in Council losing and paying attorney fees
-      - Publix on Parker Road Project: Developer dumped mud in Fly Creek, bulldozed right of ways; 5 lawsuits filed; Environmental damage remains (mud still in Fly Creek)
-      - Ronan McSharry: Arrested multiple times for assaulting women; Council/Municipal Attorney remained silent/covered up wrong doing
-      - Current administration fails to finish infrastructure upgrades in 5 years; Jack did not want money for another water tank
-      - Recommendation: Vote OUT incumbent council and candidate Troy Vickers (Place 1)
 
-      THE DISCOVERY: Widget Article provides the following specific current election details
+      - Council incumbents hold full family insurance plus pay for part-time job;
+      police do not have same privilege
+
+      - Council failed to resolve library issue due to constituent mistrust; Districts
+      proposed 3 times and killed every time
+
+      - Mayor Wilson (Prior Administration) employed a qualified utility engineer
+      and refused 2nd paycheck; Jack Burrell orchestrated firing of engineer and hiring
+      high school grad as Head of Utilities (reward for 2020 election win)
+
+      - Waterfront Project (Wilson Admin, 5 years ago): Original cost $6.3 million;
+      Contractor replaced under Jack''s guidance; Project ballooned to projected $10
+      million cost with no community meetings at time of increase
+
+      - Jack Burrell accepted $500 from Jade Consulting who has pending development
+      project
+
+      - Freedom of Speech incident: Jack Burrell/Council refused public participation
+      rights; Federal mediation resulted in Council losing and paying attorney fees
+
+      - Publix on Parker Road Project: Developer dumped mud in Fly Creek, bulldozed
+      right of ways; 5 lawsuits filed; Environmental damage remains (mud still in
+      Fly Creek)
+
+      - Ronan McSharry: Arrested multiple times for assaulting women; Council/Municipal
+      Attorney remained silent/covered up wrong doing
+
+      - Current administration fails to finish infrastructure upgrades in 5 years;
+      Jack did not want money for another water tank
+
+      - Recommendation: Vote OUT incumbent council and candidate Troy Vickers (Place
+      1)
+
+
+      THE DISCOVERY: Widget Article provides the following specific current election
+      details
+
       - Municipal elections confirmed to be scheduled for Aug 26, 2025
-      - Five candidates have qualified for city council positions as a solid slate (New candidates)
-      - Incumbent Council (Status Quo) is united against challengers; supports unopposed Mayor who receives two paychecks
-      - Incumbent message is "Vote for all of us!"
-      - Status Quo accused challengers (New contenders) of being supported by "Mom's of Liberty"
-      - Ripp Report stance: Supports new council; Incumbents need to go
-      - New Candidate Slate consists of 5 candidates supporting one another
-      - Specific accusation against current Mayor (Mayor Sullivan): "Head of utilities job" and lack of engineering qualifications
-      - Article Title suggests voter choice between voting out "Fauxhope" (Corruption) vs Fairhope
 
-      THE PIVOT: The following facts from Article 2 validate the allegations in Article 1
-      - Confirms specific Election Day date (Aug 26, 2025) against the "Last Chance" warning in Article 1
-      - Confirms "Good Ole Boy Club/Status Quo" narrative; identifies Council members supported by developers and special interests group "Catalyst"
-      - Confirms Utility Double-Dip Corruption: Article 1 states Jack orchestrated Mayor as Head of Utilities; Article 2 identifies this as a "reward by the council to the Mayor" and claims current Mayor Sullivan has no qualifications
-      - Confirms Conflict: Both articles identify Jack Burrell as the primary target ("worst City Councilman", "de facto Mayor") and link him to specific corruption (Utilities, Waterfront, McSharry)
-      - Confirms Election Strategy: Article 1 calls for voting "FAUXHOPE" (Jack Burrell) out vs Fairhope; Article 2 provides the specific candidates required to shift control (New Slate of 5)
+      - Five candidates have qualified for city council positions as a solid slate
+      (New candidates)
+
+      - Incumbent Council (Status Quo) is united against challengers; supports unopposed
+      Mayor who receives two paychecks
+
+      - Incumbent message is "Vote for all of us!"
+
+      - Status Quo accused challengers (New contenders) of being supported by "Mom''s
+      of Liberty"
+
+      - Ripp Report stance: Supports new council; Incumbents need to go
+
+      - New Candidate Slate consists of 5 candidates supporting one another
+
+      - Specific accusation against current Mayor (Mayor Sullivan): "Head of utilities
+      job" and lack of engineering qualifications
+
+      - Article Title suggests voter choice between voting out "Fauxhope" (Corruption)
+      vs Fairhope
+
+
+      THE PIVOT: The following facts from Article 2 validate the allegations in Article
+      1
+
+      - Confirms specific Election Day date (Aug 26, 2025) against the "Last Chance"
+      warning in Article 1
+
+      - Confirms "Good Ole Boy Club/Status Quo" narrative; identifies Council members
+      supported by developers and special interests group "Catalyst"
+
+      - Confirms Utility Double-Dip Corruption: Article 1 states Jack orchestrated
+      Mayor as Head of Utilities; Article 2 identifies this as a "reward by the council
+      to the Mayor" and claims current Mayor Sullivan has no qualifications
+
+      - Confirms Conflict: Both articles identify Jack Burrell as the primary target
+      ("worst City Councilman", "de facto Mayor") and link him to specific corruption
+      (Utilities, Waterfront, McSharry)
+
+      - Confirms Election Strategy: Article 1 calls for voting "FAUXHOPE" (Jack Burrell)
+      out vs Fairhope; Article 2 provides the specific candidates required to shift
+      control (New Slate of 5)
+
 
       KEY ENTITIES:
+
       - Jack Burrell (Councilman, De facto Mayor)
+
       - Mayor Wilson (Prior Administration)
-      - Mayor Sullivan (Current Administration in Article 2; Head of Utilities per Art 1 allegations)
+
+      - Mayor Sullivan (Current Administration in Article 2; Head of Utilities per
+      Art 1 allegations)
+
       - Ronan McSharry (McSherry - Arrests, Assaults, Council Cover-up)
+
       - Troy Vickers (New Candidate Place 1 per Article 1)
+
       - Karen Wilson (Referenced in Article 2 as Prior Mayor who refused utility check)
+
       - Jade Consulting ($500 donation pending project)
+
       - Publix (Developer/Parker Road Project mud dumping)
-      - Fairhope City Council / Fauxhope (Location names used interchangeably for corruption context)
+
+      - Fairhope City Council / Fauxhope (Location names used interchangeably for
+      corruption context)
+
       - Catalyst (Special Interests supporting Incumbents per Article 2)
-      - Baldwin County (Jurisdiction for Jack Burrell's history)
-      - City Attorney / Municipal Judge / Municipal Utilities (Departments listed for accountability failure)
-      - Mom's of Liberty (Group accused challengers are supporting in Article 2; claimed false)
+
+      - Baldwin County (Jurisdiction for Jack Burrell''s history)
+
+      - City Attorney / Municipal Judge / Municipal Utilities (Departments listed
+      for accountability failure)
+
+      - Mom''s of Liberty (Group accused challengers are supporting in Article 2;
+      claimed false)
+
       - Fly Creek (Location of mud dumping at Publix project)
-      - Airport / Triangle / I-10 No toll (Projects mentioned in "refresher course" section of Article 2)
-      - Federal Court/Mediation (Jurisdiction for Freedom of Speech case per Art 1)
+
+      - Airport / Triangle / I-10 No toll (Projects mentioned in "refresher course"
+      section of Article 2)
+
+      - Federal Court/Mediation (Jurisdiction for Freedom of Speech case per Art 1)'
     generated_at: '2026-03-08T22:58:59.462400Z'
-    text: Burrell’s Good Ole Boy crew spent years ballooning the Waterfront project costs and rewarding Mayor Sullivan with extra utility paychecks. The upcoming 2025 election is the only way to stop this Catalyst group from selling our city to greedy developers.
+    text: Burrell’s Good Ole Boy crew spent years ballooning the Waterfront project
+      costs and rewarding Mayor Sullivan with extra utility paychecks. The upcoming
+      2025 election is the only way to stop this Catalyst group from selling our city
+      to greedy developers.
+    character_count: 253
   lego-rocket-scientist:
-    brief: |-
-      1. THE CONFLICT
+    brief: '1. THE CONFLICT
+
       - Jack Burrell serves as Fairhope City Council member and "de facto Mayor".
-      - Article 1 claims Burrell has held office for 23 years ("Good Ole Boy Club"), accusing him of flipping positions and double-dipping on Utilities salary.
-      - Article 1 cites Former Mayor Wilson for placing qualified engineer in charge of utilities (reversed by Burrell).
-      - Article 1 cites Waterfront Project cost ballooning from $6.3 million to $10 million over 5 years (Wilson Administration).
+
+      - Article 1 claims Burrell has held office for 23 years ("Good Ole Boy Club"),
+      accusing him of flipping positions and double-dipping on Utilities salary.
+
+      - Article 1 cites Former Mayor Wilson for placing qualified engineer in charge
+      of utilities (reversed by Burrell).
+
+      - Article 1 cites Waterfront Project cost ballooning from $6.3 million to $10
+      million over 5 years (Wilson Administration).
+
       - Article 1 claims Council refused to spend money on Water Tank, causing shortages.
+
       - Article 1 claims Burrell accepted $500 from Jade Consulting for pending development.
-      - Article 1 claims Burrell refused author's right to speak at City Council during scheduled public participation (Federal mediation resulted in loss).
-      - Article 1 claims Burrell supported Publix developer (Parker Road) violating Fly Creek, causing mud dumping and 5 lawsuits.
-      - Article 1 claims Burrell is "key council opponent for establishing Districts" which were killed by the Council over 3 administrations.
-      - Article 1 claims Burrell is "de facto Mayor" and insists if he wins, it will be his last term.
+
+      - Article 1 claims Burrell refused author''s right to speak at City Council
+      during scheduled public participation (Federal mediation resulted in loss).
+
+      - Article 1 claims Burrell supported Publix developer (Parker Road) violating
+      Fly Creek, causing mud dumping and 5 lawsuits.
+
+      - Article 1 claims Burrell is "key council opponent for establishing Districts"
+      which were killed by the Council over 3 administrations.
+
+      - Article 1 claims Burrell is "de facto Mayor" and insists if he wins, it will
+      be his last term.
+
 
       2. THE DISCOVERY
-      - Widget Article confirms Jack Burrell was President of the Fairhope Council for "almost 9 years" (Article 1 claims position should be 4 year with term limits).
-      - Article 2 states Burrell withdrew from Council Presidency in November to "slither to a council member status".
-      - Article 2 states Fairhope Airport Authority cancelled video online broadcasts of meetings since February (Article 1 claims Council "ghosts citizens complaints").
-      - Article 2 cites specific airport litigation: Continental Motors rescinded decision to terminate over 30 leases effective January 30 (Article 1 mentions Airport Authority generally).
-      - Article 2 confirms Burrell is "puppet for developers and special interest groups" via Catalyst (Scott Boone Consulting).
-      - Article 2 cites financial specifics Burrell incurred: $350,000 a year appropriation for Airport without gain; $2.65 million dollars on recreation land; Town clock cost six thousand dollars.
-      - Article 2 offers a $5,000 cash reward from Ripp Report/BCLE to anyone who can prove content about Burrell is false/fabricated (no one claimed it).
-      - Article 2 notes Burrell shifted stance on Bay Bridge from "NO TOLLS" to begging federal government for funds (Tolls/ALDOT).
+
+      - Widget Article confirms Jack Burrell was President of the Fairhope Council
+      for "almost 9 years" (Article 1 claims position should be 4 year with term limits).
+
+      - Article 2 states Burrell withdrew from Council Presidency in November to "slither
+      to a council member status".
+
+      - Article 2 states Fairhope Airport Authority cancelled video online broadcasts
+      of meetings since February (Article 1 claims Council "ghosts citizens complaints").
+
+      - Article 2 cites specific airport litigation: Continental Motors rescinded
+      decision to terminate over 30 leases effective January 30 (Article 1 mentions
+      Airport Authority generally).
+
+      - Article 2 confirms Burrell is "puppet for developers and special interest
+      groups" via Catalyst (Scott Boone Consulting).
+
+      - Article 2 cites financial specifics Burrell incurred: $350,000 a year appropriation
+      for Airport without gain; $2.65 million dollars on recreation land; Town clock
+      cost six thousand dollars.
+
+      - Article 2 offers a $5,000 cash reward from Ripp Report/BCLE to anyone who
+      can prove content about Burrell is false/fabricated (no one claimed it).
+
+      - Article 2 notes Burrell shifted stance on Bay Bridge from "NO TOLLS" to begging
+      federal government for funds (Tolls/ALDOT).
+
 
       3. THE PIVOT
-      - Widget Article provides verification of Tenure: Confirms 9-year Presidency tenure validates Article 1's criticism regarding term limits (Article 1 notes "4 year position", Art 2 says "9 years").
-      - Widget Article provides Financial Proof: Confirms $350,000/year Airport cost and recreation land spending validates Article 1's claim regarding "Millions in grants" left unfinished (Water Tank/Waterfront).
-      - Widget Article validates Transparency Claims: Burrell cancelling Airport Authority videos since Feb proves Article 1's claim that "Council just ghosts citizens complaints".
-      - Widget Article identifies Burrell as puppet of Scott Boone Consulting (Catalyst), connecting to Article 1's claim he is supported by "developer, engineer companies".
-      - Widget Article connects Municipal Judge Haymes Snedeker (Art 2 name) to Article 1's claim of Council "reinstating same municipal judge".
+
+      - Widget Article provides verification of Tenure: Confirms 9-year Presidency
+      tenure validates Article 1''s criticism regarding term limits (Article 1 notes
+      "4 year position", Art 2 says "9 years").
+
+      - Widget Article provides Financial Proof: Confirms $350,000/year Airport cost
+      and recreation land spending validates Article 1''s claim regarding "Millions
+      in grants" left unfinished (Water Tank/Waterfront).
+
+      - Widget Article validates Transparency Claims: Burrell cancelling Airport Authority
+      videos since Feb proves Article 1''s claim that "Council just ghosts citizens
+      complaints".
+
+      - Widget Article identifies Burrell as puppet of Scott Boone Consulting (Catalyst),
+      connecting to Article 1''s claim he is supported by "developer, engineer companies".
+
+      - Widget Article connects Municipal Judge Haymes Snedeker (Art 2 name) to Article
+      1''s claim of Council "reinstating same municipal judge".
+
       - Both articles cite the Ripp Report as the source of the anti-Burrell coverage.
 
+
       4. KEY ENTITIES
+
       - Jack Burrell (Councilman/Mayor figure)
+
       - Fairhope City Council
+
       - Former Mayor Wilson
+
       - Ronan McSharry (Art 1)
+
       - Haymes Snedeker (Municipal Judge - Art 2)
+
       - Scott Boone / Catalyst Consulting
+
       - Fairhope Airport Authority
+
       - Ripp Report
+
       - Jade Consulting
+
       - Continental Motors (Lease operator)
-      - Alan Lowery / Troy Vickers (Art 1 lists Vickers as 1st place preference)
+
+      - Alan Lowery / Troy Vickers (Art 1 lists Vickers as 1st place preference)'
     generated_at: '2026-03-08T22:58:59.462415Z'
-    text: Jack Burrell spent nine years as Council President despite term limits meant to stop this exact kind of power grab. He blew $350,000 a year on airport projects while leaving our actual water infrastructure to rot in the mud and ghosting citizen complaints.
+    text: Jack Burrell spent nine years as Council President despite term limits meant
+      to stop this exact kind of power grab. He blew $350,000 a year on airport projects
+      while leaving our actual water infrastructure to rot in the mud and ghosting
+      citizen complaints.
+    character_count: 256
   self-incrimination:
-    brief: |-
-      THE CONFLICT: Jack Burrell (Fairhope City Council President) accused of "flip flopping, double talking, lying" over 23 years of politics under his influence. Accused of being the "de facto Mayor". Prior Administration (Mayor Wilson) secured funds for Waterfront Project 5 years ago ($6.3 million). Council under Burrell ballooned projected cost to $10 million, replaced original contractor. Project not finished. Prior Mayor Wilson refused second check from city for Utilities role; Burrell orchestrated Mayor to receive second paycheck ("double dipping") as reward for winning 2020 election. Qualified utility engineer fired and replaced with high school graduate. Author claims Burrell accepted $500 from Jade Consulting (pending developer project). Jack and Council refused author's request to speak during public participation; Federal Court case resulted in City/Author losing and paying attorney fees. Ronan McSharry (Council Member) arrested multiple times for assaulting women; Council remained silent and covered up.
+    brief: 'THE CONFLICT: Jack Burrell (Fairhope City Council President) accused of
+      "flip flopping, double talking, lying" over 23 years of politics under his influence.
+      Accused of being the "de facto Mayor". Prior Administration (Mayor Wilson) secured
+      funds for Waterfront Project 5 years ago ($6.3 million). Council under Burrell
+      ballooned projected cost to $10 million, replaced original contractor. Project
+      not finished. Prior Mayor Wilson refused second check from city for Utilities
+      role; Burrell orchestrated Mayor to receive second paycheck ("double dipping")
+      as reward for winning 2020 election. Qualified utility engineer fired and replaced
+      with high school graduate. Author claims Burrell accepted $500 from Jade Consulting
+      (pending developer project). Jack and Council refused author''s request to speak
+      during public participation; Federal Court case resulted in City/Author losing
+      and paying attorney fees. Ronan McSharry (Council Member) arrested multiple
+      times for assaulting women; Council remained silent and covered up.
 
-      THE DISCOVERY: Mayor Karin Wilson posted a "confidential" letter to the Fairhope City Council on June 11th at 7:30pm. Letter outlines complaints regarding Personnel Claims and "monitoring/spying" (reviewing employee emails). Gulf Coast News published portions of the letter on June 12th without naming their source. Claim that Jack Burrell leaked the confidential letter to the press ("Jack's flying high these days"). Letter mentions Executive Session on Monday; reasons listed as "(a) to discuss litigation" and "(b) to discuss the lease of the marina". Claim Burrell (Airport Authority Liaison, Bid Committee Spokesman) supported hiring an attorney firm to represent Mr Ray Hick for ethics opinion.
 
-      THE PIVOT: Article 2 provides the specific timeline and method (June 11th post, June 12th GCN publication) for the leak that constitutes the "Self Incrimination" accusation, validating Article 1's claim of Burrell being an untrustworthy "flip flopping... lying politician." Article 2 details Burrell's specific legal maneuvering regarding the Airport Authority and Mr Ray Hick ethics opinion, which connects to Article 1's accusation that Burrell reinstates the same municipal judge and attorney. Both articles implicate Jack Burrell in governance conflicts; Article 2 adds new legal evidence of confidentiality breach and specific financial/legal interests.
+      THE DISCOVERY: Mayor Karin Wilson posted a "confidential" letter to the Fairhope
+      City Council on June 11th at 7:30pm. Letter outlines complaints regarding Personnel
+      Claims and "monitoring/spying" (reviewing employee emails). Gulf Coast News
+      published portions of the letter on June 12th without naming their source. Claim
+      that Jack Burrell leaked the confidential letter to the press ("Jack''s flying
+      high these days"). Letter mentions Executive Session on Monday; reasons listed
+      as "(a) to discuss litigation" and "(b) to discuss the lease of the marina".
+      Claim Burrell (Airport Authority Liaison, Bid Committee Spokesman) supported
+      hiring an attorney firm to represent Mr Ray Hick for ethics opinion.
 
-      KEY ENTITIES: Jack Burrell (Fairhope City Council President), Mayor Karin Wilson (Mayor of Fairhope, Alabama, post dated June 11th at 7:30pm), Ronan McSharry (Council Member, arrests for assaulting women), Jade Consulting ($500 payment), Ray Hick (Subject of Ethics Opinion, Airport Authority application), Gulf Coast News (Publication source on June 12th without naming source), Fairhope Schools, Marina Property (Lease exception to Executive Session).
+
+      THE PIVOT: Article 2 provides the specific timeline and method (June 11th post,
+      June 12th GCN publication) for the leak that constitutes the "Self Incrimination"
+      accusation, validating Article 1''s claim of Burrell being an untrustworthy
+      "flip flopping... lying politician." Article 2 details Burrell''s specific legal
+      maneuvering regarding the Airport Authority and Mr Ray Hick ethics opinion,
+      which connects to Article 1''s accusation that Burrell reinstates the same municipal
+      judge and attorney. Both articles implicate Jack Burrell in governance conflicts;
+      Article 2 adds new legal evidence of confidentiality breach and specific financial/legal
+      interests.
+
+
+      KEY ENTITIES: Jack Burrell (Fairhope City Council President), Mayor Karin Wilson
+      (Mayor of Fairhope, Alabama, post dated June 11th at 7:30pm), Ronan McSharry
+      (Council Member, arrests for assaulting women), Jade Consulting ($500 payment),
+      Ray Hick (Subject of Ethics Opinion, Airport Authority application), Gulf Coast
+      News (Publication source on June 12th without naming source), Fairhope Schools,
+      Marina Property (Lease exception to Executive Session).'
     generated_at: '2026-03-08T22:58:59.462420Z'
-    text: Burrell loves to play the victim even as he orchestrates double-dipping paychecks for his political allies. He finally got caught red-handed leaking confidential letters to the press to cover up his shady airport deals and legal maneuvering.
+    text: Burrell loves to play the victim even as he orchestrates double-dipping
+      paychecks for his political allies. He finally got caught red-handed leaking
+      confidential letters to the press to cover up his shady airport deals and legal
+      maneuvering.
+    character_count: 241
   BACKPEDALING-FAUXHOPE:
-    brief: |-
-      **THE CONFLICT**
-      - Jack Burrell accused of refusing author's right to speak during scheduled public participation (Fairhope City Council meeting).
-      - Burrell and Council lost Federal Court mediation/mediation case involving public participation denial. Author (Ripp) paid attorney fees; City/Attorney also ordered to pay fees.
-      - Accusation of Waterfront Project cost inflation: Started in Wilson Administration (5 years ago); initial cost $6.3 million; current projected cost cited by council as $10 million (Main Article).
-      - Accusation of Mayor double-dipping: Jack orchestrated current Mayor to be head of utilities (second paycheck). Prior Mayor Wilson hired qualified engineer for utilities who refused second check.
-      - Incumbent Council members have served 15 to 30 years in office (should be 4 year position with term limits).
-      - Alabama Legislature postponed municipal elections for 2024 due to presidential election.
+    brief: '**THE CONFLICT**
+
+      - Jack Burrell accused of refusing author''s right to speak during scheduled
+      public participation (Fairhope City Council meeting).
+
+      - Burrell and Council lost Federal Court mediation/mediation case involving
+      public participation denial. Author (Ripp) paid attorney fees; City/Attorney
+      also ordered to pay fees.
+
+      - Accusation of Waterfront Project cost inflation: Started in Wilson Administration
+      (5 years ago); initial cost $6.3 million; current projected cost cited by council
+      as $10 million (Main Article).
+
+      - Accusation of Mayor double-dipping: Jack orchestrated current Mayor to be
+      head of utilities (second paycheck). Prior Mayor Wilson hired qualified engineer
+      for utilities who refused second check.
+
+      - Incumbent Council members have served 15 to 30 years in office (should be
+      4 year position with term limits).
+
+      - Alabama Legislature postponed municipal elections for 2024 due to presidential
+      election.
+
 
       **THE DISCOVERY**
+
       - Legal Case Citation Confirmed: *FRANCIS PAUL RIPP, Plaintiff, v. JACK BURRELL*.
-      - Court Jurisdiction Confirmed: UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF ALABAMA SOUTHERN.
-      - Burrell’s Admitted Stance on Public Participation: "adamantly opposed to changing [public participation]" (contradicted by the need for change).
-      - Specific Waterfront Project Financials: City of Fairhope’s project identified as "6.2 million dollar waterfront project".
-      - Election Cycle Anomaly: No city council person, Mayor, or appointed officials elected/appointed for 5th year (2024 election postponed).
-      - Soccer Field Costs: Project started at 3.5 million estimated cost; approaching 6 million for sub-standard facility.
+
+      - Court Jurisdiction Confirmed: UNITED STATES DISTRICT COURT FOR THE SOUTHERN
+      DISTRICT OF ALABAMA SOUTHERN.
+
+      - Burrell’s Admitted Stance on Public Participation: "adamantly opposed to changing
+      [public participation]" (contradicted by the need for change).
+
+      - Specific Waterfront Project Financials: City of Fairhope’s project identified
+      as "6.2 million dollar waterfront project".
+
+      - Election Cycle Anomaly: No city council person, Mayor, or appointed officials
+      elected/appointed for 5th year (2024 election postponed).
+
+      - Soccer Field Costs: Project started at 3.5 million estimated cost; approaching
+      6 million for sub-standard facility.
+
 
       **THE PIVOT**
-      - Widget Article explicitly validates Main Article's claim regarding Ripp's lawsuit ("He got sued in federal court and handed his hat"). Main Article referenced "Federal mediation resulted in Jack... losing".
-      - Widget Article names the Plaintiff (Francis Paul Ripp) connecting Main Article's "yours truly" to the specific legal case title provided in link (ripp-v-burrell).
-      - Widget Article provides the 2024 Election Postponement explanation (Alabama Legislature decision), explaining how incumbents achieved the "15 to 30 years" tenure mentioned in Main Article.
-      - Waterfront Project costs align between articles: Main cites "$6.3 million to 10 million"; Widget cites "$6.2 million dollar waterfront project... became a political hot potato during the last municipal election".
+
+      - Widget Article explicitly validates Main Article''s claim regarding Ripp''s
+      lawsuit ("He got sued in federal court and handed his hat"). Main Article referenced
+      "Federal mediation resulted in Jack... losing".
+
+      - Widget Article names the Plaintiff (Francis Paul Ripp) connecting Main Article''s
+      "yours truly" to the specific legal case title provided in link (ripp-v-burrell).
+
+      - Widget Article provides the 2024 Election Postponement explanation (Alabama
+      Legislature decision), explaining how incumbents achieved the "15 to 30 years"
+      tenure mentioned in Main Article.
+
+      - Waterfront Project costs align between articles: Main cites "$6.3 million
+      to 10 million"; Widget cites "$6.2 million dollar waterfront project... became
+      a political hot potato during the last municipal election".
+
 
       **KEY ENTITIES**
+
       - Jack Burrell (Councilman).
+
       - Francis Paul Ripp (Author/Plaintiff in Federal Case).
-      - Mayor Wilson (Previous Administration - Secured Waterfront Funds/Qualified Engineer).
+
+      - Mayor Wilson (Previous Administration - Secured Waterfront Funds/Qualified
+      Engineer).
+
       - Mayor Sullivan (Current Mayor/Waterfront Spin).
+
       - Andrea Faust (Incumbent Council member).
+
       - Kevin Boone (Councilman/Developer candidate).
+
       - Ronan McSharry (Friend/Council member - Accused of Assault).
+
       - Mayor Wilson/Mayor Sullivan/Waterfront Project.
+
       - The City of Fairhope (Entity subject to claims).
+
       - Jade Consulting (Organization paid $500 to Burrell).
+
       - Baldwin County (Jurisdiction/Municipality context).
+
       - Alabama Legislature (Entity responsible for 2024 election postponement).
-      - United States District Court for the Southern District of Alabama (Court Venue).
+
+      - United States District Court for the Southern District of Alabama (Court Venue).'
     generated_at: '2026-03-08T22:58:59.462437Z'
-    text: Jack Burrell thinks he can silence citizens, but a federal judge just handed him his hat for trampling on the First Amendment. This court victory proves the Fauxhope council hides behind delayed elections to keep their twenty-year grip on power.
+    text: Jack Burrell thinks he can silence citizens, but a federal judge just handed
+      him his hat for trampling on the First Amendment. This court victory proves
+      the Fauxhope council hides behind delayed elections to keep their twenty-year
+      grip on power.
+    character_count: 245
   fairhope-musical-chairs:
-    brief: |-
-      THE CONFLICT
+    brief: 'THE CONFLICT
+
       - Author has followed Fairhope politics for over 23 years.
-      - Accusations state Jack Burrell is Councilman and de facto Mayor for extended period.
-      - Main Article identifies Past Mayor Wilson secured funds 5 years ago for Waterfront Project.
+
+      - Accusations state Jack Burrell is Councilman and de facto Mayor for extended
+      period.
+
+      - Main Article identifies Past Mayor Wilson secured funds 5 years ago for Waterfront
+      Project.
+
       - Waterfront costs ballooned from $6.3 million to $10 million under Council/Jack.
+
       - Main Article cites 2020 election where Jack orchestrated a "reward" for Mayor.
-      - Accusations state Past Council did not resolve Library Issue or listen to constituents.
-      - 5 lawsuits filed against Publix development on Parker Road (fly creek mud contamination).
+
+      - Accusations state Past Council did not resolve Library Issue or listen to
+      constituents.
+
+      - 5 lawsuits filed against Publix development on Parker Road (fly creek mud
+      contamination).
+
       - Council supports developers/engineer LLCs/Special interests.
 
+
       THE DISCOVERY
+
       - Jack Burrell held Council President seat for 9 years (Widget).
+
       - Current election occurring "tonight". Jack may lose position.
-      - Widget identifies current Council composition: Jimmy Conyers (Banker), Jay Robinson, Cory Martin.
-      - Estimated insurance/financials for Jay Robinson: Full family coverage plus pay (estimated $100,000 check).
+
+      - Widget identifies current Council composition: Jimmy Conyers (Banker), Jay
+      Robinson, Cory Martin.
+
+      - Estimated insurance/financials for Jay Robinson: Full family coverage plus
+      pay (estimated $100,000 check).
+
       - Widget names current Mayor as **Sullivan**.
+
       - Council members described as "rubber stamping" or appointed by leadership.
-      - Jay Robinson appointed to replace Robert Brown (who quit). Cory Martin replaces Jimmy Conyers after opposition drop out.
-      - Mayor Sullivan campaign supported by Developers, Municipal Judge and **Catalyst** (Scott Boone main instigator).
-      - Municipal Judge identified as **Haymes Snedeker**. Appointed by Burrell. Connected to developer plans (barb wire fence).
+
+      - Jay Robinson appointed to replace Robert Brown (who quit). Cory Martin replaces
+      Jimmy Conyers after opposition drop out.
+
+      - Mayor Sullivan campaign supported by Developers, Municipal Judge and **Catalyst**
+      (Scott Boone main instigator).
+
+      - Municipal Judge identified as **Haymes Snedeker**. Appointed by Burrell. Connected
+      to developer plans (barb wire fence).
+
 
       THE PIVOT
-      - Widget identifies specific Municipal Judge (Haymes Snedeker) which confirms Main's accusation that Burrell reinstates "same municipal judge".
-      - Widget identifies specific Developer Group (Catalyst/Scott Boone) confirming Main's accusation of Council support by "developers".
-      - Widget confirms financial corruption (Jay Robinson estimated $100k insurance) supporting Main's accusation of "incumbents enjoy full family insurance plus pay".
-      - Widget confirms conflict of interest (Mayor Sullivan joined hip with Developer son Scott Boone) matching Main's claim regarding Publix/Parker Road developer contributor.
-      - Widget confirms Burrell appointed specific Council members (Jay Robinson) supporting Main's claim that "council rubber stamps Jack".
+
+      - Widget identifies specific Municipal Judge (Haymes Snedeker) which confirms
+      Main''s accusation that Burrell reinstates "same municipal judge".
+
+      - Widget identifies specific Developer Group (Catalyst/Scott Boone) confirming
+      Main''s accusation of Council support by "developers".
+
+      - Widget confirms financial corruption (Jay Robinson estimated $100k insurance)
+      supporting Main''s accusation of "incumbents enjoy full family insurance plus
+      pay".
+
+      - Widget confirms conflict of interest (Mayor Sullivan joined hip with Developer
+      son Scott Boone) matching Main''s claim regarding Publix/Parker Road developer
+      contributor.
+
+      - Widget confirms Burrell appointed specific Council members (Jay Robinson)
+      supporting Main''s claim that "council rubber stamps Jack".
+
 
       KEY ENTITIES
+
       - Jack Burrell (Councilman/President).
+
       - Mayor Wilson / Mayor Sullivan.
+
       - Council Members: Jimmy Conyers, Jay Robinson, Cory Martin, Kevin Boone.
+
       - Scott Boone (Developer/Catalyst instigator).
+
       - Fairhope Municipal Judge: Haymes Snedeker.
-      - Organizations: Catalyst, Jade Consulting ($500 contribution), Fairhope City Council, Publix.
+
+      - Organizations: Catalyst, Jade Consulting ($500 contribution), Fairhope City
+      Council, Publix.
+
       - Projects: Waterfront (6.3M/10M), Fly Creek, Library/Districts issue.
-      - Infrastructure Grants: Millions in grants left by Mayor Wilson (5 years ago).
+
+      - Infrastructure Grants: Millions in grants left by Mayor Wilson (5 years ago).'
     generated_at: '2026-03-08T22:58:59.462443Z'
-    text: Burrell and his hand-picked council members like Jay Robinson enjoy $100,000 insurance perks while rubber-stamping every developer's dream. The Catalyst group and Judge Snedeker are the final pieces of the puzzle in this corrupt game of musical chairs.
+    text: Burrell and his hand-picked council members like Jay Robinson enjoy $100,000
+      insurance perks while rubber-stamping every developer's dream. The Catalyst
+      group and Judge Snedeker are the final pieces of the puzzle in this corrupt
+      game of musical chairs.
+    character_count: 252
   no-radar:
-    brief: |-
-      THE CONFLICT:
-      1. Jack Burrell has served as Council President for two terms (9 years total) and is beginning a third term.
-      2. Prior Mayor Wilson secured funds for the Waterfront Project 5 years ago; costs ballooned from $6.3 million to $10 million under current Council.
-      3. Former Mayor Wilson hired a qualified engineer for Utilities and refused a second paycheck from the city.
-      4. Current Council replaced qualified Utility Engineer with high school graduate after 2020 election win under Jack Burrell's guidance.
-      5. Mayor Wilson had no right to a second check; Jack orchestrated Mayor to be head of utilities (double dipping).
-      6. City Council refused right to public speech during scheduled public participation; Federal Court mediation involved.
-      7. Jack and Council lost Federal Court lawsuit on Freedom of Speech case; taxpayers paid attorney fees.
-      8. Ronan McSharry arrested multiple times for assaulting women; Council and Municipal Attorney covered up wrong doing.
-      9. Conflict of interest charges exist regarding Fairhope Art Center contract (former Councilman Brown) and Kevin Boone/SBC.
+    brief: 'THE CONFLICT:
+
+      1. Jack Burrell has served as Council President for two terms (9 years total)
+      and is beginning a third term.
+
+      2. Prior Mayor Wilson secured funds for the Waterfront Project 5 years ago;
+      costs ballooned from $6.3 million to $10 million under current Council.
+
+      3. Former Mayor Wilson hired a qualified engineer for Utilities and refused
+      a second paycheck from the city.
+
+      4. Current Council replaced qualified Utility Engineer with high school graduate
+      after 2020 election win under Jack Burrell''s guidance.
+
+      5. Mayor Wilson had no right to a second check; Jack orchestrated Mayor to be
+      head of utilities (double dipping).
+
+      6. City Council refused right to public speech during scheduled public participation;
+      Federal Court mediation involved.
+
+      7. Jack and Council lost Federal Court lawsuit on Freedom of Speech case; taxpayers
+      paid attorney fees.
+
+      8. Ronan McSharry arrested multiple times for assaulting women; Council and
+      Municipal Attorney covered up wrong doing.
+
+      9. Conflict of interest charges exist regarding Fairhope Art Center contract
+      (former Councilman Brown) and Kevin Boone/SBC.
+
       10. Jack accepted $500 donation from Jade Consulting (pending development project).
 
+
       THE DISCOVERY:
-      1. Ripp Report sued City of Fairhope in Federal Court for denying public speech access to Council meeting.
-      2. City lost the lawsuit; cost taxpayers thousands of dollars in fees (verified claim).
-      3. Jack Burrell deemed Fairhope Airport Authority a separate entity to avoid recording meetings for public access.
-      4. Former Mayor Wilson mandated Airports Authority online meetings for transparency; Burrell stopped recordings (since February).
-      5. Airport Authority sent RFP on September 21, 2015; Bids opened October 20, 2015 (3-week turnaround).
-      6. Robert Brown purchased "family" property on July 21, 2020; Council denies knowledge prior to record.
-      7. Municipal Judge Haymes Snedeker was sworn in by Council President Burrell at City Council meeting.
-      8. Kevin Boone is father of Scott Boone (conduit to SBC); City uses him for "Strawman" positions.
-      9. Council denies prior knowledge of Robert Brown's property purchase until publicly known on record.
+
+      1. Ripp Report sued City of Fairhope in Federal Court for denying public speech
+      access to Council meeting.
+
+      2. City lost the lawsuit; cost taxpayers thousands of dollars in fees (verified
+      claim).
+
+      3. Jack Burrell deemed Fairhope Airport Authority a separate entity to avoid
+      recording meetings for public access.
+
+      4. Former Mayor Wilson mandated Airports Authority online meetings for transparency;
+      Burrell stopped recordings (since February).
+
+      5. Airport Authority sent RFP on September 21, 2015; Bids opened October 20,
+      2015 (3-week turnaround).
+
+      6. Robert Brown purchased "family" property on July 21, 2020; Council denies
+      knowledge prior to record.
+
+      7. Municipal Judge Haymes Snedeker was sworn in by Council President Burrell
+      at City Council meeting.
+
+      8. Kevin Boone is father of Scott Boone (conduit to SBC); City uses him for
+      "Strawman" positions.
+
+      9. Council denies prior knowledge of Robert Brown''s property purchase until
+      publicly known on record.
+
 
       THE PIVOT:
-      1. Article 2 confirms Federal Court status of Freedom of Speech lawsuit mentioned in Article 1 (City lost).
-      2. Article 2 provides specific name of Municipal Judge (Haymes Snedeker) mentioned in Article 1.
-      3. Article 2 validates "Bid Rigging" accusation by providing specific dates (RFP sent Sept 21, 2015).
-      4. Article 2 validates Council manipulation regarding transparency (Airport recordings stopped) contradicting Wilson Administration standards cited in Article 1.
-      5. Article 2 corroborates specific financial transaction date (Brown Property Purchase July 21, 2020) referenced in Article 1 ethics charge.
-      6. Both articles cite same Federal Court victory for Ripp Report against Council President Burrell's denial of speech.
+
+      1. Article 2 confirms Federal Court status of Freedom of Speech lawsuit mentioned
+      in Article 1 (City lost).
+
+      2. Article 2 provides specific name of Municipal Judge (Haymes Snedeker) mentioned
+      in Article 1.
+
+      3. Article 2 validates "Bid Rigging" accusation by providing specific dates
+      (RFP sent Sept 21, 2015).
+
+      4. Article 2 validates Council manipulation regarding transparency (Airport
+      recordings stopped) contradicting Wilson Administration standards cited in Article
+      1.
+
+      5. Article 2 corroborates specific financial transaction date (Brown Property
+      Purchase July 21, 2020) referenced in Article 1 ethics charge.
+
+      6. Both articles cite same Federal Court victory for Ripp Report against Council
+      President Burrell''s denial of speech.
+
 
       KEY ENTITIES:
+
       1. Jack Burrell (Council President)
+
       2. Troy Vickers (Candidate for City Council)
+
       3. Mayor Wilson (Former)
+
       4. Kevin Boone (Councilman)
+
       5. Marcus McDowell (City Attorney)
+
       6. Haymes Snedeker (Municipal Judge)
+
       7. Ronan McSharry (Council Friend/Arrest Record)
+
       8. Robert Brown (City Council Nominee/Purchaser)
+
       9. Jade Consulting ($500 Donation Vendor)
-      10. The Ripp Report (Media/Organization challenging City Council)
+
+      10. The Ripp Report (Media/Organization challenging City Council)'
     generated_at: '2026-03-08T22:58:59.462456Z'
-    text: The Council lost a federal lawsuit for silencing the public, yet Burrell is still trying to kill transparency by ending airport meeting recordings. New dates for suspicious bid openings reveal how deep the Good Ole Boy club goes to protect their friends.
+    text: The Council lost a federal lawsuit for silencing the public, yet Burrell
+      is still trying to kill transparency by ending airport meeting recordings. New
+      dates for suspicious bid openings reveal how deep the Good Ole Boy club goes
+      to protect their friends.
+    character_count: 254
   no-qualifications:
-    brief: |-
-      THE CONFLICT: Jack Burrell (Councilman/Council President) has led Fairhope Council for over 23 years, accused of Good Ole Boy Club corruption. Opposed establishing Districts (killed in last three administrations). Orchestrated Mayor (Wilson) to be head of Utilities (second paycheck) replacing qualified engineer with high school graduate. Conflicts cited: Publix/Parker Road (5 lawsuits, mud in Fly Creek); Triangle lawsuit (city paid to cover loss); Waterfront project cost ballooned; Jack reinstated same municipal judge/attorney. Ronan McSharry (Council friend) arrested multiple times; Jack/Council remained silent to cover up. Main Article calls for Vote Out incumbents/Troy Vickers Place 1 in upcoming election.
+    brief: 'THE CONFLICT: Jack Burrell (Councilman/Council President) has led Fairhope
+      Council for over 23 years, accused of Good Ole Boy Club corruption. Opposed
+      establishing Districts (killed in last three administrations). Orchestrated
+      Mayor (Wilson) to be head of Utilities (second paycheck) replacing qualified
+      engineer with high school graduate. Conflicts cited: Publix/Parker Road (5 lawsuits,
+      mud in Fly Creek); Triangle lawsuit (city paid to cover loss); Waterfront project
+      cost ballooned; Jack reinstated same municipal judge/attorney. Ronan McSharry
+      (Council friend) arrested multiple times; Jack/Council remained silent to cover
+      up. Main Article calls for Vote Out incumbents/Troy Vickers Place 1 in upcoming
+      election.
 
-      THE DISCOVERY: Widget Article ("No Qualifications") reveals specific financial details on administration under Mayor Sullivan/Council President Burrell. Utility Director appointed is a high school graduate with absolutely no experience (matches Main "high school graduate" claim). Utility Director receives $25,000 utility salary plus second check as Mayor. Confirms K-1 Center purchased Sept 2018 (valued $6 million), deteriorating. Confirms Triangle lawsuit involved city raiding utility fund for $3 million to pay off loss. Clock deal confirmed: City paid half cost ($525,000) on $26x60 lot purchase for 26x60 lot. City meetings no longer recorded thanks to Jack Burrell (contrasts Main "refused... right to speak"). Hawthorne Glenn Subdivision: Burrell/Sullivan joined forces against citizen plans (electric substation) to save money/developers.
 
-      THE PIVOT: Article 2 acts as the 'smoking gun' for Article 1 by verifying specific dollar amounts (Utility Director double check salary, Clock deal purchase price $525k). Article 2 confirms the Utility Director position is specifically filled by "High School Sullivan" rather than a qualified engineer, matching Article 1's claim of replacing a qualified position with a high school graduate. Article 2 clarifies the timeline: Mayor Wilson transitioned to current Mayor Sullivan, yet Council President Jack Burrell remains the central operative across administrations. Article 2 provides the June 10th meeting notice regarding Hawthorne Glenn Subdivision, validating Main Article's urgency of an upcoming vote/outcry.
+      THE DISCOVERY: Widget Article ("No Qualifications") reveals specific financial
+      details on administration under Mayor Sullivan/Council President Burrell. Utility
+      Director appointed is a high school graduate with absolutely no experience (matches
+      Main "high school graduate" claim). Utility Director receives $25,000 utility
+      salary plus second check as Mayor. Confirms K-1 Center purchased Sept 2018 (valued
+      $6 million), deteriorating. Confirms Triangle lawsuit involved city raiding
+      utility fund for $3 million to pay off loss. Clock deal confirmed: City paid
+      half cost ($525,000) on $26x60 lot purchase for 26x60 lot. City meetings no
+      longer recorded thanks to Jack Burrell (contrasts Main "refused... right to
+      speak"). Hawthorne Glenn Subdivision: Burrell/Sullivan joined forces against
+      citizen plans (electric substation) to save money/developers.
 
-      KEY ENTITIES: Jack Burrell, Mayor Wilson, Mayor Sullivan, Utilities Director (Sullivan), Tim Kant, Kevin Boone, Andrea Faust, Ronan McSharry, Troy Vickers, Jade Consulting, Fairhope Single Tax Colony, Hawthorne Glenn residents, Public Employees (Police/Incumbents).
+
+      THE PIVOT: Article 2 acts as the ''smoking gun'' for Article 1 by verifying
+      specific dollar amounts (Utility Director double check salary, Clock deal purchase
+      price $525k). Article 2 confirms the Utility Director position is specifically
+      filled by "High School Sullivan" rather than a qualified engineer, matching
+      Article 1''s claim of replacing a qualified position with a high school graduate.
+      Article 2 clarifies the timeline: Mayor Wilson transitioned to current Mayor
+      Sullivan, yet Council President Jack Burrell remains the central operative across
+      administrations. Article 2 provides the June 10th meeting notice regarding Hawthorne
+      Glenn Subdivision, validating Main Article''s urgency of an upcoming vote/outcry.
+
+
+      KEY ENTITIES: Jack Burrell, Mayor Wilson, Mayor Sullivan, Utilities Director
+      (Sullivan), Tim Kant, Kevin Boone, Andrea Faust, Ronan McSharry, Troy Vickers,
+      Jade Consulting, Fairhope Single Tax Colony, Hawthorne Glenn residents, Public
+      Employees (Police/Incumbents).'
     generated_at: '2026-03-08T22:58:59.462460Z'
-    text: Jack Burrell fired a qualified engineer just to hand Mayor Sullivan a second utility paycheck she did not earn. We have the receipts on the $525,000 clock deal that proves this administration values vanity projects over actual city infrastructure.
+    text: Jack Burrell fired a qualified engineer just to hand Mayor Sullivan a second
+      utility paycheck she did not earn. We have the receipts on the $525,000 clock
+      deal that proves this administration values vanity projects over actual city
+      infrastructure.
+    character_count: 247
   dog-and-pony-show-2:
-    brief: |-
-      THE CONFLICT:
+    brief: 'THE CONFLICT:
+
       *   Jack Burrell identified as Councilman and de facto Mayor.
+
       *   2020 Election: Jack orchestrated Mayor to be head of utilities (double dipping).
+
       *   Utilities Qualified Engineer fired/replaced with High School graduate.
-      *   Waterfront Project: Cost ballooned from $6.3 million to $10 million (Wilson secured funds 5 years ago).
+
+      *   Waterfront Project: Cost ballooned from $6.3 million to $10 million (Wilson
+      secured funds 5 years ago).
+
       *   Jack Burrell accepted $500 from Jade Consulting.
-      *   Publix developer dumped tons of mud in Fly Creek / 5 lawsuits / environmental damage.
-      *   Jack Burrell claimed Freedom of Speech was denied; lost Federal Court case paying attorney fees.
-      *   Council President position held by same person for 7 years (according to Widget) / alleged "15 to 30 years" by Main.
+
+      *   Publix developer dumped tons of mud in Fly Creek / 5 lawsuits / environmental
+      damage.
+
+      *   Jack Burrell claimed Freedom of Speech was denied; lost Federal Court case
+      paying attorney fees.
+
+      *   Council President position held by same person for 7 years (according to
+      Widget) / alleged "15 to 30 years" by Main.
+
 
       THE DISCOVERY:
+
       *   Specific meeting held May 10 @ 3:30 PM described as "dog and pony show".
+
       *   Meeting used to eliminate public participation / bypass Council meetings.
+
       *   Project approval: Jack Burrell and Kevin Boone approved the Fly Creek Apartments.
-      *   Financial claim: Triangle lawsuit cost $3 million from utilities / Legal settlement was 11.25 million dollars (claimed as a lie).
+
+      *   Financial claim: Triangle lawsuit cost $3 million from utilities / Legal
+      settlement was 11.25 million dollars (claimed as a lie).
+
       *   Jack Burrell claims to be working as an engineer but cannot prove it.
 
+
       THE PIVOT:
-      *   Widget specifically names Kevin Boone as co-approver for Fly Creek Apartments, linking to Main's allegation of Publix dumping mud in Fly Creek.
-      *   Widget cites Special Meeting on May 10 @ 3:30 used to bypass public participation, matching Main's claim regarding Freedom of Speech denial and Federal Court loss.
-      *   Widget states Burrell claims to be Engineer but lacks proof, matching Main's claim that qualified utility engineer was fired for unqualified replacement.
-      *   Entity Tenure: Widget's claim (7 years President) corroborates Main's concern regarding lack of term limits/turnover.
-      *   Financial Alignment: Both articles cite mismanagement of utility funds (Main claims budget slush fund, Widget cites $3 million raid for lawsuit).
+
+      *   Widget specifically names Kevin Boone as co-approver for Fly Creek Apartments,
+      linking to Main''s allegation of Publix dumping mud in Fly Creek.
+
+      *   Widget cites Special Meeting on May 10 @ 3:30 used to bypass public participation,
+      matching Main''s claim regarding Freedom of Speech denial and Federal Court
+      loss.
+
+      *   Widget states Burrell claims to be Engineer but lacks proof, matching Main''s
+      claim that qualified utility engineer was fired for unqualified replacement.
+
+      *   Entity Tenure: Widget''s claim (7 years President) corroborates Main''s
+      concern regarding lack of term limits/turnover.
+
+      *   Financial Alignment: Both articles cite mismanagement of utility funds (Main
+      claims budget slush fund, Widget cites $3 million raid for lawsuit).
+
 
       KEY ENTITIES:
+
       *   Jack Burrell (Councilman, De facto Mayor, President)
+
       *   Kevin Boone (Councilman, Fly Creek Approver, Developer Connection)
+
       *   Mayor Wilson (Former Utility Head)
+
       *   Fly Creek Apartments / Fly Creek (Waterway location of mud/apartments)
+
       *   Publix (Developer/Mud Dumping)
+
       *   Triangle Lawsuit ($11.25m settlement, $3m utility fund cost)
+
       *   Waterfront Project ($6.3m / $10m costs)
+
       *   Jade Consulting ($500 donation source)
-      *   Ronan McSharry (Arrests, Cover-up victim)
+
+      *   Ronan McSharry (Arrests, Cover-up victim)'
     generated_at: '2026-03-08T22:58:59.462465Z'
-    text: Kevin Boone and Jack Burrell use secret afternoon meetings to bypass the public and approve muddy apartment projects in Fly Creek. Burrell claims he is an engineer to justify his utility meddling, but he cannot produce a single shred of proof to back it up.
+    text: Kevin Boone and Jack Burrell use secret afternoon meetings to bypass the
+      public and approve muddy apartment projects in Fly Creek. Burrell claims he
+      is an engineer to justify his utility meddling, but he cannot produce a single
+      shred of proof to back it up.
+    character_count: 257

@@ -7,7 +7,6 @@ categories:
 tags:
 - City Council
 - Karen Wilson
-- null
 authors:
 - admin
 related_articles:
@@ -115,7 +114,7 @@ Please if you are concerned about the future of Fairhope take a few minutes and 
 
 <a href=https://rippreport.com/p/state-of-the-city.pdf>The State of City</a>
 
-“The co-mingling of money is what put our utilities in the state they’re in today."
+"The co-mingling of money is what put our utilities in the state they’re in today."
 
 
 To put this in perspective, if we continued hiding City operating expenses in the Utility budget and transferring profits to pay government expenses, the City would have falsely reported massive surpluses each year.
@@ -126,8 +125,7 @@ place a strategic long-term plan to fully upgrade all utilities.”
 
 <a href=https://rippreport.com/p/budget.pdf>Budget Overview</a>
 
-“And in case anyone tries to tell you “it’s all City money”, know that is not true.  The City operates with tax dollars. The Utility Department operates with rate fees.  The money is not
-the same and going back to the old way of doing business should never happen again.
+>And in case anyone tries to tell you "it’s all City money", know that is not true.  The City operates with tax dollars. The Utility Department operates with rate fees.  The money is not the same and going back to the old way of doing business should never happen again.
 
 
 ### UTILITY INFRASTRUCTURE UPGRADES &amp; EMPLOYEE NEEDS
@@ -139,7 +137,7 @@ DECREASED! The net increase for both Utility &amp; City employees only went up a
 
 Population increases another 18% this term and the first two years were spent hiring back the deficit created from last term. Surprisingly, Council made the decision to de-fund the
 Assistant Superintendent positions in each Utility Departments when the Superintendents retired - Electric in mid-2017, Gas in late 2017 and Water &amp; Sewer in Feb of 2018. In 2019, we finally increased FT employees from 2012 by 7 employees.
-The value of free family insurance for elected officials this term will be a minimum of $374k.”
+The value of free family insurance for elected officials this term will be a minimum of $374k.
 
 <a href=https://rippreport.com/p/restore.pdf>RESTORE</a>
 
