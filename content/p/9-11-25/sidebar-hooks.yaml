@@ -1,0 +1,417 @@
+metadata:
+  generated_at: '2026-03-08T17:59:25.172122Z'
+  generator_version: 1.0.0
+  post_slug: 9-11-25
+hooks:
+  9-11-24:
+    brief: '1. THE CONFLICT: Date identified as September 11th (9/11). Main article
+      contains image with text "United We Stand Divided We Fall".
+
+      2. THE DISCOVERY: Widget article confirms physical location as New York City
+      and World Trade Center towers. Main Article title matches Widget Article title
+      ("9/11").
+
+      3. THE PIVOT: Widget article provides geographic specificity (New York City)
+      for the Main Article title date. Main Article includes external video embed
+      (bByePUvldwQ).
+
+      4. KEY ENTITIES: September 11th, World Trade Center towers, New York City, United
+      States flag.'
+    generated_at: '2026-03-08T17:59:25.172233Z'
+  9-11:
+    brief: 'THE CONFLICT:
+
+      - Main Article Title: 9/11 (Refers to September 11, 2001).
+
+      - Widget Article Title: 9-11 (Implies the same date but uses a dash separator).
+
+      - Main Article Image Context: American flag.
+
+      - Widget Article Image Context: Hand holding photo of New Orleans skyline engulfed
+      in smoke after Hurricane Katrina.
+
+
+      THE DISCOVERY:
+
+      - Both articles contain text "Never Forget" (Main explicit, Widget title/context
+      implied).
+
+      - Main Article Content includes YouTube video embed.
+
+      - Widget Image Context identifies event as Hurricane Katrina (not September
+      11).
+
+      - Historical Record: Hurricane Katrina struck in August 2005.
+
+
+      THE PIVOT:
+
+      - Widget Article creates a false date association by titling Hurricane Katrina
+      content "9-11".
+
+      - The separator difference (/ in Main Article vs - in Widget) suggests metadata
+      inconsistency between pages.
+
+      - Imagery mismatch (American Flag vs New Orleans Smoke) indicates two separate
+      tragedies under a confused header.
+
+
+      KEY ENTITIES:
+
+      - 9/11 (Main Article Title)
+
+      - 9-11 (Widget Article Title)
+
+      - Hurricane Katrina (Image Context Event)
+
+      - New Orleans skyline (Location in Image)
+
+      - American flag (Main Article Image Element)'
+    generated_at: '2026-03-08T17:59:25.172243Z'
+  memorial-day-2023:
+    brief: 'THE CONFLICT: Article 1 references the date "9/11". Image text reads "United
+      We Stand Divided We Fall". Video embed title includes ID bByePUvldwQ. Text states
+      "We will never forget."
+
+      THE DISCOVERY: Article 2 references date "MEMORIAL DAY". Image context shows
+      Bald eagle and blurred American flag. Text states "Remember those who died for
+      our country and freedom on this Memorial Day."
+
+      THE PIVOT: No factual evidence links Article 2 to the specific events in Article
+      1. Both share thematic elements (American flag, remembrance) but target different
+      dates and victim groups (terrorist victims vs military personnel).
+
+      KEY ENTITIES: Dates: 9/11, Memorial Day (May). Organizations: YouTube. Imagery
+      elements: American flag, Bald eagle. No specific human names or locations found
+      in provided text.'
+    generated_at: '2026-03-08T17:59:25.172249Z'
+  🇺🇸-veterans-day-🇺🇸:
+    brief: 'THE CONFLICT: No textual narrative conflict found in Main Article or Widget
+      Article; Main Article title "9/11" implies September 11, 2001; Widget Article
+      title "Veterans Day" implies November 11.
+
+
+      THE DISCOVERY: Main Article Body contains text "We will never forget" and YouTube
+      video embed ID `bByePUvldwQ`; Widget Article Body contains only YouTube video
+      embed ID `b5YVUBe390Y` with zero narrative text.
+
+
+      THE PIVOT: No evidentiary link established between the two articles via video
+      metadata; both articles utilize YouTube embeds (Main: `bByePUvldwQ`, Widget:
+      `b5YVUBe390Y`) suggesting content hosting on the same platform but no shared
+      investigative subject matter.
+
+
+      KEY ENTITIES: Title "9/11"; Title "Veterans Day"; YouTube Video ID `bByePUvldwQ`;
+      YouTube Video ID `b5YVUBe390Y`.'
+    generated_at: '2026-03-08T17:59:25.172257Z'
+  memorial-day-3:
+    brief: 'THE CONFLICT:
+
+      Article 1 Title: "9/11"
+
+      Image Context Text: "United We Stand Divided We Fall"
+
+      Article 1 Body Line 1: "We will never forget."
+
+      Video Embed Source: https://www.youtube.com/embed/bByePUvldwQ
+
+
+      THE DISCOVERY:
+
+      Article 2 Title: "Memorial Day"
+
+      Article 2 Body Line 1: "In honor of our heroes."
+
+
+      THE PIVOT:
+
+      Article 1 and Article 2 share identical shortcode syntax for comments (`{{<
+      aicomments ... >}}`)
+
+      Article 1 Shortcode Argument: "911-25-ai2" with parameter "similarity"
+
+      Article 2 Shortcode Argument: "/p/memorial-day-3/" with default parameter structure
+
+      Article 2 content does not explicitly name individuals, dates (other than title),
+      or events other than "Memorial Day" and "heroes".
+
+
+      KEY ENTITIES:
+
+      Article 1 Title (9/11)
+
+      Image Text ("United We Stand Divided We Fall")
+
+      YouTube Video ID (bByePUvldwQ)
+
+      Article 2 Title ("Memorial Day")
+
+      Shortcode Class (aicomments)'
+    generated_at: '2026-03-08T17:59:25.172267Z'
+  memorial-day-2:
+    brief: 'THE CONFLICT:
+
+      *   Main Article Title is "9/11" (Date Sept 11).
+
+      *   Widget Article Title is "MEMORIAL DAY".
+
+      *   Main Article Image Context mentions text "United We Stand Divided We Fall"
+      (Political/Unity rhetoric).
+
+      *   Widget Article asks "What is the meaning... What are we remembering?" (Focus
+      on definition).
+
+      *   Main Article Date Implied: September 11th.
+
+      *   Widget Article Date Implied: May (Last Monday in May per standard US calendar).
+
+
+      THE DISCOVERY:
+
+      *   Main Article Media Source: YouTube video (`youtube.com/embed/bByePUvldwQ`).
+
+      *   Widget Article Source: External website (`allabouthistory.org/memorial-day-meaning.htm`).
+
+      *   Main Article Content includes internal comment metadata tag (`911-25-ai2`).
+
+      *   Widget Article Content cites history without specific video evidence or
+      internal ID tags.
+
+
+      THE PIVOT:
+
+      *   Both articles fall under US Federal Holiday/Remembrance categorization.
+
+      *   Main Article (2025 implied by `-ai2`) focuses on a specific terrorist event
+      date.
+
+      *   Widget Article provides general historical definition for a monthly holiday
+      unrelated to the specific 9/11 date in this instance.
+
+      *   Thematic link: Both represent remembrance of US citizens (Terrorism victims
+      vs. Fallen Service members).
+
+
+      KEY ENTITIES:
+
+      *   9/11 (Main Title)
+
+      *   MEMORIAL DAY (Widget Title)
+
+      *   United We Stand Divided We Fall (Image Text)
+
+      *   bByePUvldwQ (Video ID)
+
+      *   allabouthistory.org (Source Domain)
+
+      *   911-25-ai2 (Comment Metadata ID)'
+    generated_at: '2026-03-08T17:59:25.172273Z'
+  memorial-day-2024:
+    brief: 'CONFLICT: Main Article Title 9/11 (September event). Widget Article Title
+      MEMORIAL DAY (Last Monday of May). No date overlap in text body.
+
+
+      DISCOVERY: Both articles theme remembrance/death of individuals to country.
+      Widget Article states Memorial Day honors those who died in service (distinguish
+      from 9/11 victims).
+
+
+      PIVOT: Article 2 does not resolve Article 1. No causal link or factual evidence
+      in text connects the date of Memorial Day to September 11 event.
+
+
+      KEY ENTITIES: Title 9/11, MEMORIAL DAY, YouTube Video ID bByePUvldwQ. No specific
+      human names or dollar amounts found in text.'
+    generated_at: '2026-03-08T17:59:25.172280Z'
+  semper-fi-veterans-day:
+    brief: 'THE CONFLICT:
+
+      - Article 1 Main Title: "9/11" (Date implication September 11).
+
+      - Article 2 Widget Title: "SEMPER FI / VETERANS DAY" (Date November 10th, November
+      11th).
+
+      - Article 2 Main Text Claims: "November 10th is the Marine Corp Birthday", "Nov
+      11st is Veterans Day".
+
+      - Article 2 Content Claims: "Alabama, number one in political corruption", "Judiciary
+      is corrupted from the municipal courts to the Alabama Supreme Court".
+
+      - Article 2 Content Claims: "As a citizen... I accept the Presidential results
+      and foresee Biden topping 300 in electoral votes".
+
+      - Article 1 Image Text: "United We Stand Divided We Fall".
+
+
+      THE DISCOVERY:
+
+      - Article 2 (Widget) explicitly identifies "United States", "Constitution",
+      and "Democracy".
+
+      - Article 2 (Widget) cites specific Veterans: "Freddie" (Vietnam), "Boogie"
+      (Vietnam 1968 Tet offensive/Khe Sahn), "John" (Iraq, multiple amputee), "Willy"
+      (Iraq).
+
+      - Article 1 (Main) identifies Video ID: `bByePUvldwQ` (YouTube).
+
+      - Article 2 (Widget) cites specific locations: "Alabama", "Fairhope", "Baldwin
+      County".
+
+      - Article 2 (Widget) cites specific topics: "biden", "covid-19", "election".
+
+      - Article 2 (Widget) claims AP news reports elections since 1848.
+
+
+      THE PIVOT:
+
+      - Connection Found: Shared Imagery of the US Flag (Article 1 Image Context:
+      "American flag"; Article 2 Widget Image Context: "US flag").
+
+      - Connection Found: Shared Theme of Political Division (Article 1 Image Text:
+      "Divided We Fall"; Article 2 Widget Text: "Are we so split down the middle",
+      "democracy is not easy, but it survives by citizens...").
+
+      - Connection Found: Shared Theme of National Unity/Remembrance (Article 1 Text:
+      "We will never forget"; Article 2 Widget Title includes Remembrance context).
+
+      - Direct Narrative Link: None identified in text bodies (9/11 Event Date does
+      not match Veterans Day Date; 9/11 specific victims/warriors names not in Widget
+      text).
+
+
+      KEY ENTITIES:
+
+      - Names: None listed in Main Article; "Freddie", "Boogie", "John", "Willy",
+      "Biden" listed in Widget Article.
+
+      - Locations: United States, Alabama, Fairhope, Baldwin County, Vietnam, Khe
+      Sahn (Khe Sanh), Iraq, World.
+
+      - Organizations: Marine Corp, United States Armed Services, Veterans Administration
+      (VA), Judiciary (Alabama Supreme Court, municipal courts), AP news.
+
+      - Dates: September 11 (9/11), November 10th, November 11th.
+
+      - Entities: American flag, US flag, Constitution, Democracy, Agent Orange.
+
+      - Video ID: bByePUvldwQ.'
+    generated_at: '2026-03-08T17:59:25.172286Z'
+  happy-july-4th:
+    brief: 'THE CONFLICT:
+
+      - Article 1 Title Date: 9/11 (September).
+
+      - Article 2 Title Date: JULY 4TH.
+
+      - Article 1 Image Text: "United We Stand Divided We Fall".
+
+      - Article 2 Image Context: American flag against blue sky.
+
+      - Date Discrepancy: Events separated by approximately 6 months (Sept vs July).
+
+
+      THE DISCOVERY:
+
+      - Article 1 embeds YouTube video (src ID: bByePUvldwQ).
+
+      - Article 2 Text cites "Constitution of the United States" Preamble.
+
+      - Article 2 quotes Statue of Liberty inscription ("Give me your tired, your
+      poor...").
+
+      - Article 2 references Oath of Enlistment text ("support and defend the Constitution").
+
+
+      THE PIVOT:
+
+      - Article 2 provides the foundational text ("Constitution", "Blessings of Liberty")
+      that defines the entity referenced in Article 1 ("United States").
+
+      - Article 2 Oath includes authority figure "President of the United States".
+      Article 1 event (9/11) references defense of that authority ("United We Stand").
+
+      - Article 2 asserts "standards... made America, AMERICA". Article 1 warns "Divided
+      We Fall" regarding those standards.
+
+
+      KEY ENTITIES:
+
+      - President of the United States.
+
+      - Constitution of the United States.
+
+      - Statue of Liberty (Gift from people of France).
+
+      - YouTube (Video platform).'
+    generated_at: '2026-03-08T17:59:25.172291Z'
+  50-years-ago:
+    brief: '1. THE CONFLICT
+
+      - Article 1 (Main): Title "9/11". Content limited to title and generic text
+      ("We will never forget."). Image: American flag, text "United We Stand Divided
+      We Fall".
+
+      - Article 2 (Widget): Title "50 YEARS AGO". Content: Vietnam War veteran returning
+      Nov. 11, 1968 ("Nam"). Location details: Dong Ha (7 miles from DMZ). Date of
+      return/fallout events: Nov 1968 (Veterans Day), Tet Offensive, Assassination
+      of Robert Kennedy and Martin Luther King.
+
+      - Legal Dispute: Fairhope City Council denied veteran author''s right of free
+      speech. Author cites lawsuit filed by The Ripp Report against Fairhope City
+      Council and City Attorney regarding constitutional rights.
+
+      - Location: Baldwin County (14 municipalities), Fairhope, Dong Ha, Vietnam War.
+
+
+      2. THE DISCOVERY
+
+      - Article 1 (Main) contains no specific names, dates of occurrence other than
+      title "9/11", or organization affiliations other than the implied public memorialization
+      of the September 11th attacks.
+
+      - Article 2 (Widget) establishes a specific legal battle: Fairhope City Council
+      vs The Ripp Report.
+
+      - Discovery points to: "Consumer Association" representation by The Ripp Report
+      (vs "Special Interest").
+
+      - No overlap in specific individuals or events between the 9/11 Memorial and
+      the Fairhope City Council Free Speech dispute.
+
+
+      3. THE PIVOT
+
+      - No factual bridge connects the subject matter of Article 1 (National September
+      11th Memorial) and Article 2 (Local November 11th/Fairhope Council Free Speech
+      Dispute).
+
+      - Connection relies solely on shared Branding (The Ripp Report) found in Widget
+      metadata (`https://rippreport.com`) and Main Article context (System Prompt
+      instruction).
+
+      - Both utilize American Flag imagery as a visual anchor for patriotism/remembrance,
+      but no narrative continuity exists regarding the 9/11 event or the specific
+      Fairhope lawsuit details.
+
+
+      4. KEY ENTITIES
+
+      - 9/11 (September 11th attacks).
+
+      - Fairhope City Council / City Attorney.
+
+      - The Ripp Report (Consumer Association, Website: `rippreport.com`, Internal
+      URL: `/p/loser/`).
+
+      - Vietnam Veteran (Author of Widget, Combat Engineer, US Marines).
+
+      - Locations: Fairhope, Baldwin County, Dong Ha.
+
+      - Names: Robert Kennedy, Martin Luther King Jr., Fairhope Community (collective).
+
+      - Organizations: United States Military / US Marines, Tet Offensive (related
+      event), Consumer Affairs non profit.
+
+      - Imagery: American Flag ("United We Stand Divided We Fall" vs Veterans Day).'
+    generated_at: '2026-03-08T17:59:25.172296Z'

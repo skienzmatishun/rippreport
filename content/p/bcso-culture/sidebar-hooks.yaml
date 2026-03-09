@@ -1,9 +1,7 @@
 metadata:
-  generated_at: '2026-03-07T13:21:31.077446Z'
+  generated_at: '2026-03-08T15:13:12.148040Z'
   generator_version: 1.0.0
   post_slug: bcso-culture
-  refined_by: gemini
-  refined_at: '2026-03-07T14:21:07.702502Z'
 hooks:
   bcso-culture-2:
     text: Anthony Lowery says this corrupt culture took years to build, but he forgets
@@ -101,6 +99,7 @@ hooks:
 
       Mayor Wills (Former Mayor, involved in French case)'
     generated_at: '2026-03-07T13:21:31.085863Z'
+    character_count: 258
   FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT:
     text: The Sheriff’s Office claims they investigate themselves fairly, but federal
       judges are starting to see through the charade. New court filings expose how
@@ -187,6 +186,7 @@ hooks:
 
       - Mayor Wills (Former Bay Minette Mayor)'
     generated_at: '2026-03-07T13:21:31.085868Z'
+    character_count: 262
   new-sheriff-no-changes:
     text: Governor Kay Ivey handed Anthony Lowery the keys to the department despite
       stacks of evidence showing his hand in the Murray Lawrence scandal. She ignored
@@ -298,6 +298,7 @@ hooks:
 
       *   Major Crimes Unit'
     generated_at: '2026-03-07T13:21:31.087561Z'
+    character_count: 262
   bcso-how-to-become-sheriff:
     text: Sheriff Lowery built his career on a conviction that had no physical evidence
       and a witness who was threatened with death. Secret documents found in 2023
@@ -397,6 +398,7 @@ hooks:
 
       - Baldwin County Sheriff''s Office (BCSO)'
     generated_at: '2026-03-07T13:21:31.087567Z'
+    character_count: 262
   shuffling-the-deck:
     text: Hoss Mack is running for the exit to dodge a federal investigation, but
       he is leaving his hand-picked successor to cover the tracks. Records show Lowery’s
@@ -496,6 +498,7 @@ hooks:
 
       *   Baldwin County Sheriff''s Office (BCSO)'
     generated_at: '2026-03-07T13:21:31.087568Z'
+    character_count: 243
   po-po-hoss-mack-ccuo:
     text: While the department claims they value the truth, a 2004 letter proves Wilters,
       Whetstone, and Mack knew they were railroading an innocent man. See how PR spinner
@@ -600,6 +603,7 @@ hooks:
 
       - May 17, 2004 (Letter Date)'
     generated_at: '2026-03-07T13:21:31.088629Z'
+    character_count: 255
   rumors:
     text: Hoss Mack took $600,000 from taxpayers for cameras, yet he fights every
       day to keep the footage hidden from the public. The Alabama Supreme Court just
@@ -697,6 +701,91 @@ hooks:
 
       - Justin Correa (Deputy mentioned in eviction complaint, son of Robert Correa)'
     generated_at: '2026-03-07T13:21:31.088640Z'
+    character_count: 271
   justified:
     text: The Major Crimes Unit always finds a way to clear their own friends, no
       matter how many bodies pile up in the morg
+    generated_at: '2026-03-08T13:45:19.772414Z'
+    character_count: 114
+  baldwin-county-judicial-corruption:
+    brief: '1. THE CONFLICT
+
+      - Anthony Lowery appointed Baldwin County Sheriff; bragged about department
+      "culture" taking years to develop.
+
+      - Claimed culture involves investigating themselves and finding themselves innocent
+      100% of the time.
+
+      - Lowery praised federal jury verdict clearing Deputy Lt. Matthew Hunady in
+      2017 fatal shooting of Johnathan Victor.
+
+      - Plaintiffs claimed Victor was unarmed, confused, and shot 4 times; Hunady
+      allegedly created hostility by rushing Victor out of vehicle.
+
+      - Murray Lawrence Jr. incarcerated for 20 years on wrongful conviction; Lowery
+      listed as lead investigator in case.
+
+      - Anonymous deputy claims Lowery hides and covers up issues; citizens do not
+      trust department.
+
+      - OJ French killed by police in Bay Minette ruled "justified shooting" by Baldwin
+      County Major Crimes Unit.
+
+
+      2. THE DISCOVERY
+
+      - New evidence discovered in Murray Lawrence Jr. murder trial case proves he
+      was innocent.
+
+      - Evidence withheld from defense suppressed "willfully rather than inadvertently".
+
+      - Signatures on evidence show involvement of Sheriff Hoss Mack, District Attorney
+      Robert Wilters, and Judge David Whetstone.
+
+      - Hoss Mack promised County Commission $600,000 worth of body and car cameras
+      were for public use.
+
+      - Sheriff Office did not release footage or released edited footage to citizens.
+
+      - Lawyers hired to right wrong; advocate notes totality of case calls into question
+      motive to convict for self-promotion.
+
+
+      3. THE PIVOT
+
+      - Article 1 identifies Lowery as lead investigator on Lawrence Jr. case and
+      names Mack, Wilters, Whetstone in hiding evidence.
+
+      - Article 2 provides specific mechanism of corruption: willful suppression of
+      exculpatory evidence by Mack, Wilters, Whetstone.
+
+      - Article 2 confirms "Rule 32" violation context in murder trial regarding suppressed
+      evidence.
+
+      - Article 1 alleges "Culture of lies, wrongful incarceration" substantiated
+      by Article 2''s finding of willful suppression.
+
+      - Lowery''s claim of immunity/culture connects to Article 2''s claim that Sheriff
+      uses Major Crimes Division to gloss over complaints.
+
+
+      4. KEY ENTITIES
+
+      - Anthony Lowery (Baldwin County Sheriff)
+
+      - Hoss Mack (Sheriff/Murder Case Signatory)
+
+      - Murray Lawrence Jr. (Defendant/Innocent Party)
+
+      - Matthew Hunady (Deputy Lt./Victor Shooter)
+
+      - Johnathan Victor (2017 Shooting Victim)
+
+      - Robert Wilters (District Attorney/Judge)
+
+      - David Whetstone (Prosecutor/Signatory)
+
+      - Steve Nodine (Defendant in alleged political hit piece)
+
+      - Matt McKenzie (Election Candidate recommendation)'
+    generated_at: '2026-03-08T13:45:19.772424Z'
