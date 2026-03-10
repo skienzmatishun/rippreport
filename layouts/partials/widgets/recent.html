@@ -73,6 +73,14 @@
             <img width='336' height='174' {{ if gt $shown 1 }}loading='lazy' {{ end }}
               src='{{ partial "image-url.html" (dict "path" $page.Params.thumbnail "width" 336 "quality" 85 "onerror" "redirect") }}'
               alt='{{ $page.Title | safeHTML }}' class='widget__thumbnail-image'>
+            {{- $webpAnimated := $page.Params.webp_animated -}}
+            {{- $gif := $page.Params.gif -}}
+            {{- $animatedSrc := $webpAnimated | default $gif -}}
+            {{- if $animatedSrc -}}
+            <img class="widget__animated"
+              data-src='{{ partial "image-url.html" (dict "path" $animatedSrc "bypass_cf" true) }}'
+              alt='{{ $page.Title | safeHTML }} - animated'>
+            {{- end -}}
           </div>
           {{- end -}}
           <p style='text-align:left;' class='widget__summary'>
