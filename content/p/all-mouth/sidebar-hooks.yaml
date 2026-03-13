@@ -2,651 +2,294 @@ metadata:
   generated_at: '2026-03-12T23:17:25.846038Z'
   generator_version: 1.0.0
   post_slug: all-mouth
+  refined_by: gemini
+  refined_at: '2026-03-13T18:57:42.249849Z'
 hooks:
   bull:
-    brief: 'CONFLICT:
-
-      - 2013: Councilman Jack Burrell leads charge to upgrade failing sewer plant
-      instead of building new $20M proposed project.
-
-      - 2015: Comprehensive upgrade completed at cost of $12M; Burrell cites this
-      as a low-cost benchmark in later defense against funding demands.
-
-      - 2016–2020: Karen Wilson serves as Mayor, explicitly noted for refusing dual
-      salary positions and neutering "good ole boy" connections.
-
-      - 2017–2018: City Council cuts infrastructure funding and operational support
-      despite Operations Director’s warning that technical expertise was required.
-
-      - 2018: Water & Sewer Superintendents retire in February; Assistant Superintendent
-      positions defunded.
-
-      - Current Term: Mayor Sullivan appointed to Utilities Superintendent position
-      (effectively double salary); Council votes for full family insurance package
-      ($17k/year).
-
-      - Current: Non-budgeted $2.65M land purchase near airport creates ongoing budget
-      deficit and approval delays.
-
+    brief: |-
+      CONFLICT:
+      - 2013: Councilman Jack Burrell leads charge to upgrade failing sewer plant instead of building new $20M proposed project.
+      - 2015: Comprehensive upgrade completed at cost of $12M; Burrell cites this as a low-cost benchmark in later defense against funding demands.
+      - 2016–2020: Karen Wilson serves as Mayor, explicitly noted for refusing dual salary positions and neutering "good ole boy" connections.
+      - 2017–2018: City Council cuts infrastructure funding and operational support despite Operations Director’s warning that technical expertise was required.
+      - 2018: Water & Sewer Superintendents retire in February; Assistant Superintendent positions defunded.
+      - Current Term: Mayor Sullivan appointed to Utilities Superintendent position (effectively double salary); Council votes for full family insurance package ($17k/year).
+      - Current: Non-budgeted $2.65M land purchase near airport creates ongoing budget deficit and approval delays.
 
       DISCOVERY:
-
-      - Confirmation of financial corruption: Articles confirm the "co-mingling" of
-      utility fees and tax dollars, contradicting previous reports that funds are
-      separated.
-
-      - Staffing impact: Full-time Utility Department employees decreased while population
-      grew 32% (Nov 2016 to present).
-
-      - Insurance value: Free family insurance for elected officials in current term
-      estimated at minimum $374k.
-
-      - Oversight cuts: Operations Director reports Council made deliberate decision
-      to de-fund Assistant Superintendent positions (Electric, Gas, Water/Sewer).
-
-      - Double salary reversal: Current administration explicitly reversed Karen Wilson’s
-      policy of forgoing $60k dual salary role; Mayor Sullivan now draws two salaries.
-
-      - Project failure: "Working Waterfront" project 3 years behind schedule; City
-      Council/City Attorney and Municipal Judge linked in governance structure.
-
+      - Confirmation of financial corruption: Articles confirm the "co-mingling" of utility fees and tax dollars, contradicting previous reports that funds are separated.
+      - Staffing impact: Full-time Utility Department employees decreased while population grew 32% (Nov 2016 to present).
+      - Insurance value: Free family insurance for elected officials in current term estimated at minimum $374k.
+      - Oversight cuts: Operations Director reports Council made deliberate decision to de-fund Assistant Superintendent positions (Electric, Gas, Water/Sewer).
+      - Double salary reversal: Current administration explicitly reversed Karen Wilson’s policy of forgoing $60k dual salary role; Mayor Sullivan now draws two salaries.
+      - Project failure: "Working Waterfront" project 3 years behind schedule; City Council/City Attorney and Municipal Judge linked in governance structure.
 
       PIVOT:
-
-      - Article 2 confirms the administrative corruption (double salaries, co-mingling
-      funds) that enables the infrastructure negligence complained of in Article 1.
-
-      - Proves Wilson’s exit was a direct response to the "good ole boy" return that
-      Article 1 identifies as Jack Burrell and Mayor Sullivan.
-
-      - Confirms sewer system failures are systemic (budget cuts, staffing reductions)
-      rather than operational luck.
-
-      - Connects the $2.65M airport land purchase (Article 1) to pattern of non-budgeted
-      spending undermining financial integrity.
-
+      - Article 2 confirms the administrative corruption (double salaries, co-mingling funds) that enables the infrastructure negligence complained of in Article 1.
+      - Proves Wilson’s exit was a direct response to the "good ole boy" return that Article 1 identifies as Jack Burrell and Mayor Sullivan.
+      - Confirms sewer system failures are systemic (budget cuts, staffing reductions) rather than operational luck.
+      - Connects the $2.65M airport land purchase (Article 1) to pattern of non-budgeted spending undermining financial integrity.
 
       ENTITIES:
-
       - Jack Burrell (Councilman)
-
       - Mayor Sullivan (Current Administration/Utilities Director)
-
       - Karen Wilson (Previous Mayor 2016–2020)
-
       - Utilities Superintendent / Mayor Sullivan (Dual role holder)
-
-      - City Council / Municipal Judge / City Attorney'
+      - City Council / Municipal Judge / City Attorney
     generated_at: '2026-03-12T23:17:25.847754Z'
+    text: Jack Burrell claims he saved the city money on sewer upgrades while infrastructure crumbled under his watch. This investigation proves Mayor Sullivan reversed Karen Wilson’s honest policy to pocket a double salary while the utility department starved for staff.
   off-the-rails:
-    brief: 'THE CONFLICT:
-
-      *   Fairhope City Council ignored sewer infrastructure for 20+ years, resulting
-      in repeated spills and system failures despite "upgrades."
-
-      *   Jack Burrell led a 2013 charge for sewer upgrades (approved $10M, ballooned
-      to $13M) yet system continues failing to keep up with demand.
-
-      *   Council is accused of prioritizing development and internal perks (council
-      insurance valued $17,000/year; Mayor Sullivan double-dipping salary/position)
-      over utilities.
-
-      *   Non-budgeted 2.65 million land purchase at airport (recreation/farming)
-      caused budget deficits, forcing consideration of police and employee cuts.
-
-      *   Alabama Public Health Department issued public notice on sewage spill at
-      Fairhope/Baldwin County site (Jan 10, 2020 reference).
-
+    brief: |-
+      THE CONFLICT:
+      *   Fairhope City Council ignored sewer infrastructure for 20+ years, resulting in repeated spills and system failures despite "upgrades."
+      *   Jack Burrell led a 2013 charge for sewer upgrades (approved $10M, ballooned to $13M) yet system continues failing to keep up with demand.
+      *   Council is accused of prioritizing development and internal perks (council insurance valued $17,000/year; Mayor Sullivan double-dipping salary/position) over utilities.
+      *   Non-budgeted 2.65 million land purchase at airport (recreation/farming) caused budget deficits, forcing consideration of police and employee cuts.
+      *   Alabama Public Health Department issued public notice on sewage spill at Fairhope/Baldwin County site (Jan 10, 2020 reference).
 
       THE DISCOVERY:
-
-      *   Widget Article (Jan 10, 2020) identifies Boone Brown and Burrell as part
-      of a trio of councilmen who "paid 2.75 million for land" without community involvement
-      or public participation.
-
-      *   Confirms Council ignored infrastructure while leasing non-budgeted land
-      for farming when sewer repairs were needed.
-
-      *   Establishes first serious sewer infrastructure attention in 20+ years happened
-      WITHOUT COUNCIL HELP, relying on staff and BP funds.
-
-      *   Exposes Mayor Sullivan utilized Utilities Superintendent role to "boost
-      salary over years" and access utility fund, contradicting professional oversight
-      claims.
-
+      *   Widget Article (Jan 10, 2020) identifies Boone Brown and Burrell as part of a trio of councilmen who "paid 2.75 million for land" without community involvement or public participation.
+      *   Confirms Council ignored infrastructure while leasing non-budgeted land for farming when sewer repairs were needed.
+      *   Establishes first serious sewer infrastructure attention in 20+ years happened WITHOUT COUNCIL HELP, relying on staff and BP funds.
+      *   Exposes Mayor Sullivan utilized Utilities Superintendent role to "boost salary over years" and access utility fund, contradicting professional oversight claims.
 
       THE PIVOT:
-
-      *   Article 2 proves Article 1’s claim of financial mismanagement by attaching
-      specific names (Boone Brown, Burrell) to the 2.75 million - 2.65 million land
-      scandal referenced in Article 1''s budget deficit discussion.
-
-      *   Validates "criminal enterprise" accusation: Article 2 shows the sewer spill/public
-      health notice occurred directly following years where Council refused to address
-      basic infrastructure while Burrell defended spending.
-
-      *   Confirms the disconnect: Council members pushing sewer upgrades (Burrell)
-      are simultaneously accused of blocking repairs via the land purchase and fund
-      neglect documented in Article 2.
-
+      *   Article 2 proves Article 1’s claim of financial mismanagement by attaching specific names (Boone Brown, Burrell) to the 2.75 million - 2.65 million land scandal referenced in Article 1's budget deficit discussion.
+      *   Validates "criminal enterprise" accusation: Article 2 shows the sewer spill/public health notice occurred directly following years where Council refused to address basic infrastructure while Burrell defended spending.
+      *   Confirms the disconnect: Council members pushing sewer upgrades (Burrell) are simultaneously accused of blocking repairs via the land purchase and fund neglect documented in Article 2.
 
       KEY ENTITIES:
-
       *   Jack Burrell (Councilman)
-
       *   Boone Brown (Councilman)
-
       *   Mayor Sullivan (Utilities Superintendent/City Council member)
-
       *   Fairhope City Council
-
       *   Alabama Public Health Department
-
       *   Baldwin County (Location of spill)
-
-      *   Airport Land / Church Street (Locations of infrastructure conflict)'
+      *   Airport Land / Church Street (Locations of infrastructure conflict)
     generated_at: '2026-03-12T23:17:25.847804Z'
+    text: The Fairhope Council ignored failing sewers for decades to prioritize their own perks and developer deals. Now we have the proof that Jack Burrell and Boone Brown blew millions on unbudgeted airport land while raw sewage spilled into our community.
   fauxhope-3:
-    brief: 'THE CONFLICT:
-
-      - 2013: Councilman Jack Burrell led the charge to approve sewer plant upgrades;
-      council approved $10M initially, final cost ballooned to $13M.
-
-      - 2015: A comprehensive upgrade of the wastewater treatment plant completed
-      for $12M.
-
-      - 2023: City Council faced a proposal to replace head works at wastewater treatment
-      plant (North end of Church Street); Burrell defended the $5M cost by comparing
-      it to 2015 costs.
-
-      - Ongoing: Non-budgeted $2.65 million land purchase at airport under management
-      of Council; led to budget delays and requirement for future cuts (police/employees)
-      despite prior infrastructure failures.
-
+    brief: |-
+      THE CONFLICT:
+      - 2013: Councilman Jack Burrell led the charge to approve sewer plant upgrades; council approved $10M initially, final cost ballooned to $13M.
+      - 2015: A comprehensive upgrade of the wastewater treatment plant completed for $12M.
+      - 2023: City Council faced a proposal to replace head works at wastewater treatment plant (North end of Church Street); Burrell defended the $5M cost by comparing it to 2015 costs.
+      - Ongoing: Non-budgeted $2.65 million land purchase at airport under management of Council; led to budget delays and requirement for future cuts (police/employees) despite prior infrastructure failures.
       - 2013: Mayor Wilson’s salary was noted as less than half the current administration.
 
-
       THE DISCOVERY:
-
-      - 2024: Alabama Legislature postponed municipal elections due to overlap with
-      presidential election.
-
-      - Current Term Status: No city councilperson, Mayor, appointed municipal judge,
-      or municipal attorney has been elected/appointed for their 5th year in office.
-
-      - Mayor Sullivan Remuneration: Confirmed holding full salary as both Mayor and
-      Utility Director (double-dipping).
-
-      - 2024 Oversight: Zero votes cast during the "free year" due to postponement;
-      council used time to make decisions without public accountability.
-
-      - Utility Director Qualifications: Mayor confirmed as having absolutely no experience
-      or professional training in utility management.
-
-      - Project Conflict: $10 million waterfront project construction company awarded
-      is identified as a political supporter of the Mayor and Council.
-
+      - 2024: Alabama Legislature postponed municipal elections due to overlap with presidential election.
+      - Current Term Status: No city councilperson, Mayor, appointed municipal judge, or municipal attorney has been elected/appointed for their 5th year in office.
+      - Mayor Sullivan Remuneration: Confirmed holding full salary as both Mayor and Utility Director (double-dipping).
+      - 2024 Oversight: Zero votes cast during the "free year" due to postponement; council used time to make decisions without public accountability.
+      - Utility Director Qualifications: Mayor confirmed as having absolutely no experience or professional training in utility management.
+      - Project Conflict: $10 million waterfront project construction company awarded is identified as a political supporter of the Mayor and Council.
 
       THE PIVOT:
-
-      - Article 2 validates Article 1’s claim of administrative failure by confirming
-      the election postponement loophole (postponed 2024) allowed this administration
-      to operate for a full year without voter accountability.
-
-      - Article 2’s specific confirmation that Mayor Sullivan holds two paid positions
-      (Mayor/Utility Director) with no utility qualifications corroborates Article
-      1’s allegation of salary manipulation.
-
-      - The "2024 Free Year" confirms the Council’s ability to ignore oversight mechanisms
-      during sewer/infrastructure disputes mentioned in Article 1 without immediate
-      public electoral backlash.
-
+      - Article 2 validates Article 1’s claim of administrative failure by confirming the election postponement loophole (postponed 2024) allowed this administration to operate for a full year without voter accountability.
+      - Article 2’s specific confirmation that Mayor Sullivan holds two paid positions (Mayor/Utility Director) with no utility qualifications corroborates Article 1’s allegation of salary manipulation.
+      - The "2024 Free Year" confirms the Council’s ability to ignore oversight mechanisms during sewer/infrastructure disputes mentioned in Article 1 without immediate public electoral backlash.
 
       KEY ENTITIES:
-
       - Jack Burrell (Councilman)
-
       - Mayor Sullivan / Current Mayor
-
       - Mayor Wilson (Previous)
-
       - City Council of Fauxhope/Fairhope
-
       - Alabama Legislature
-
-      - Utilities Superintendent/Utility Director Position'
+      - Utilities Superintendent/Utility Director Position
     generated_at: '2026-03-12T23:17:25.847866Z'
+    text: A shady election loophole allowed this administration to dodge the voters for an entire year while they played with your money. Records confirm Mayor Sullivan draws two fat paychecks despite having zero experience in the utility department she supposedly runs.
   no-qualifications:
-    brief: 'THE CONFLICT:
-
-      - Jack Burrell led sewer upgrade charges in 2013/2015 where cost ballooned from
-      $10M approved to $13M completed.
-
-      - Comprehensive 2015 wastewater plant upgrade cost $12 million but system still
-      failing demand in 2023.
-
-      - City purchased non-budgeted 114-acre airport land for recreation at $2.65
-      million; leased back to farmer for $9,000/year due to lack of funds.
-
-      - Mayor Sullivan took Utilities Director role while remaining Mayor, a position
-      previous Mayor Wilson refused to accept.
-
-      - City raided utility fund $3 million to pay Triangle lawsuit settlement after
-      losing the case in court.
-
-      - Burrell fought against city manager representation and district control to
-      maintain council dominance.
-
+    brief: |-
+      THE CONFLICT:
+      - Jack Burrell led sewer upgrade charges in 2013/2015 where cost ballooned from $10M approved to $13M completed.
+      - Comprehensive 2015 wastewater plant upgrade cost $12 million but system still failing demand in 2023.
+      - City purchased non-budgeted 114-acre airport land for recreation at $2.65 million; leased back to farmer for $9,000/year due to lack of funds.
+      - Mayor Sullivan took Utilities Director role while remaining Mayor, a position previous Mayor Wilson refused to accept.
+      - City raided utility fund $3 million to pay Triangle lawsuit settlement after losing the case in court.
+      - Burrell fought against city manager representation and district control to maintain council dominance.
 
       THE DISCOVERY:
-
-      - Confirms Burrell and Sullivan fired a qualified engineer to install Mayor
-      Sullivan in Utilities Director despite zero experience.
-
-      - Confirms dual compensation scheme: Sullivan receives $25,000 utility salary
-      plus full Mayoral salary (total over $100K).
-
-      - Confirms K-1 Center purchased Sept 2018 for $5M+; has deteriorated to point
-      of needing $100,000 temporary roof.
-
-      - Confirms Clock Corner lot deal: 26x60 lot priced at $525,000 total (City pays
-      half, Fairhope Single Tax Colony pays remaining $262,500).
-
-      - Confirms Hawthorne Glenn electrical substation plan moved into subdivision
-      after public outcry; saved $250,000 on land purchase vs. $1M dirt cost.
-
-      - Confirms airport/golf course appropriated annually at $330,000 while running
-      losses; city meetings no longer recorded.
-
+      - Confirms Burrell and Sullivan fired a qualified engineer to install Mayor Sullivan in Utilities Director despite zero experience.
+      - Confirms dual compensation scheme: Sullivan receives $25,000 utility salary plus full Mayoral salary (total over $100K).
+      - Confirms K-1 Center purchased Sept 2018 for $5M+; has deteriorated to point of needing $100,000 temporary roof.
+      - Confirms Clock Corner lot deal: 26x60 lot priced at $525,000 total (City pays half, Fairhope Single Tax Colony pays remaining $262,500).
+      - Confirms Hawthorne Glenn electrical substation plan moved into subdivision after public outcry; saved $250,000 on land purchase vs. $1M dirt cost.
+      - Confirms airport/golf course appropriated annually at $330,000 while running losses; city meetings no longer recorded.
 
       THE PIVOT:
-
-      - Article 2 proves "No Experience" isn''t just opinion; it was a deliberate
-      staffing decision by Burrell and Sullivan.
-
-      - Converts Article 1''s generic "corruption" claims into hard figures: $3M lawsuit
-      raid, $2.65M airport land, dual salaries.
-
-      - Links the sewer failures in Article 1 directly to the unqualified leadership
-      confirmed in Article 2.
-
+      - Article 2 proves "No Experience" isn't just opinion; it was a deliberate staffing decision by Burrell and Sullivan.
+      - Converts Article 1's generic "corruption" claims into hard figures: $3M lawsuit raid, $2.65M airport land, dual salaries.
+      - Links the sewer failures in Article 1 directly to the unqualified leadership confirmed in Article 2.
 
       KEY ENTITIES:
-
       - Jack Burrell (Council President)
-
       - Sherry Sullivan (Mayor/Utilities Director Candidate)
-
       - Mayor Wilson (Previous Mayor, refused dual salary position)
-
       - Tim Kant (Referenced in past administration corruption context)
-
       - Fairhope City Council
-
-      - Fairhope Single Tax Colony'
+      - Fairhope Single Tax Colony
     generated_at: '2026-03-12T23:17:25.847890Z'
+    text: Burrell and Sullivan fired a qualified engineer just to install an amateur Mayor into a high-paying utility role. This paper trail reveals how they raided three million dollars from your utility funds to cover up their legal blunders and property schemes.
   last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council:
-    brief: 'THE CONFLICT:
-
-      *   2013: Councilman Jack Burrell led charge to upgrade failing sewer plant;
-      budget approved for $10 million, finalized at $13 million.
-
-      *   2015: Comprehensive upgrade completed for $12 million, yet system continues
-      to fail demand.
-
-      *   2023: New proposal to replace head works at wastewater treatment plant (North
-      end Church Street) met with cool reception due to $5 million price tag; Burrell
-      claims high cost, despite 2015 upgrade.
-
-      *   City Council approved non-budgeted $2.65 million land purchase at airport,
-      causing budget deficits and delays in infrastructure spending.
-
-      *   Council members voted themselves full family insurance packages valued at
-      $17,000/year; Mayor received Utilities Superintendent title to reach salary
-      above $100K.
-
-      *   Publix on Parker Road project dumped mud in Fly Creek and bulldozed rights
-      of ways; 5 lawsuits filed against developers/council regarding environmental
-      damage.
-
+    brief: |-
+      THE CONFLICT:
+      *   2013: Councilman Jack Burrell led charge to upgrade failing sewer plant; budget approved for $10 million, finalized at $13 million.
+      *   2015: Comprehensive upgrade completed for $12 million, yet system continues to fail demand.
+      *   2023: New proposal to replace head works at wastewater treatment plant (North end Church Street) met with cool reception due to $5 million price tag; Burrell claims high cost, despite 2015 upgrade.
+      *   City Council approved non-budgeted $2.65 million land purchase at airport, causing budget deficits and delays in infrastructure spending.
+      *   Council members voted themselves full family insurance packages valued at $17,000/year; Mayor received Utilities Superintendent title to reach salary above $100K.
+      *   Publix on Parker Road project dumped mud in Fly Creek and bulldozed rights of ways; 5 lawsuits filed against developers/council regarding environmental damage.
 
       THE DISCOVERY:
-
-      *   Burrell orchestrated Mayor’s appointment to Utilities Superintendent role
-      as a reward for winning the 2020 "Covid election" (double-dipping salary).
-
-      *   Burrell and current council replaced a qualified utility engineer placed
-      by Mayor Wilson with an unqualified high school graduate.
-
-      *   Waterfront project originally community-approved for $6.3 million; inflated
-      to $10 million under Burrell’s leadership; project unfinished with no forensic
-      audit.
-
-      *   Mayor Wilson left millions in infrastructure grants unused; Burrell’s council
-      refused to spend funds on a necessary new water tank despite multiple shortages.
-
-      *   Councilman Burrell accepted $500 from Jade Consulting, a firm with pending
-      development projects.
-
-      *   City and Municipal Attorney covered up repeated criminal assaults by developer
-      Ronan McSharry; Burrell remained silent on victims.
-
+      *   Burrell orchestrated Mayor’s appointment to Utilities Superintendent role as a reward for winning the 2020 "Covid election" (double-dipping salary).
+      *   Burrell and current council replaced a qualified utility engineer placed by Mayor Wilson with an unqualified high school graduate.
+      *   Waterfront project originally community-approved for $6.3 million; inflated to $10 million under Burrell’s leadership; project unfinished with no forensic audit.
+      *   Mayor Wilson left millions in infrastructure grants unused; Burrell’s council refused to spend funds on a necessary new water tank despite multiple shortages.
+      *   Councilman Burrell accepted $500 from Jade Consulting, a firm with pending development projects.
+      *   City and Municipal Attorney covered up repeated criminal assaults by developer Ronan McSharry; Burrell remained silent on victims.
 
       THE PIVOT:
-
-      *   Main Article accuses Burrell of lying about sewer costs; Widget proves specific
-      projects were inflated (Waterfront $6.3m -> $10m) to match that narrative of
-      waste.
-
-      *   Main Article claims infrastructure neglect while ignoring ethics; Widget
-      reveals unethical funding (2.65 million airport land, Jade Consulting cash).
-
-      *   Main Article criticizes utility management; Widget confirms Burrell removed
-      professional engineer oversight to place political ally in charge.
-
+      *   Main Article accuses Burrell of lying about sewer costs; Widget proves specific projects were inflated (Waterfront $6.3m -> $10m) to match that narrative of waste.
+      *   Main Article claims infrastructure neglect while ignoring ethics; Widget reveals unethical funding (2.65 million airport land, Jade Consulting cash).
+      *   Main Article criticizes utility management; Widget confirms Burrell removed professional engineer oversight to place political ally in charge.
 
       KEY ENTITIES:
-
       *   Jack Burrell (Councilman)
-
       *   Mayor Sullivan
-
       *   Mayor Wilson
-
       *   Ronan McSharry
-
       *   Jade Consulting
-
       *   Andrea Faust (Current Council/Target)
-
       *   Kevin Boone
-
-      *   Publix'
+      *   Publix
     generated_at: '2026-03-12T23:17:25.847925Z'
+    text: Jack Burrell orchestrated a double-dipping salary scheme for Mayor Sullivan as a reward for his political survival. These records expose how they dumped professional engineers for political cronies while project costs ballooned to line the pockets of their donors.
   catalyst-liar:
-    brief: 'THE CONFLICT:
-
-      - Fairhope City Council under Jack Burrell claimed responsibility for sewer
-      system upgrades from 2013 to present.
-
-      - Main article alleges infrastructure still failing; costs ballooned from $10M
-      approved to $13M completed by 2015.
-
-      - Main article alleges Burrell is hiding financial mismanagement linked to a
-      $2.65 million non-budgeted land purchase at the airport.
-
-      - Main article alleges Mayor appointed to Utilities Superintendent position
-      ("double dipping" for above $100K salary).
-
-      - Main article alleges Council members ignored developing strain on utilities
-      to boost development deals.
-
+    brief: |-
+      THE CONFLICT:
+      - Fairhope City Council under Jack Burrell claimed responsibility for sewer system upgrades from 2013 to present.
+      - Main article alleges infrastructure still failing; costs ballooned from $10M approved to $13M completed by 2015.
+      - Main article alleges Burrell is hiding financial mismanagement linked to a $2.65 million non-budgeted land purchase at the airport.
+      - Main article alleges Mayor appointed to Utilities Superintendent position ("double dipping" for above $100K salary).
+      - Main article alleges Council members ignored developing strain on utilities to boost development deals.
 
       THE DISCOVERY:
-
-      - Widget article confirms Burrell took credit for sewer improvements he voted
-      against.
-
-      - Widget article exposes $2.65 million airport farmland deal: City went from
-      $1.2M surplus to $1.7M deficit immediately after purchase.
-
-      - Widget article confirms Council approved "full family insurance" valued at
-      $17,000/year.
-
+      - Widget article confirms Burrell took credit for sewer improvements he voted against.
+      - Widget article exposes $2.65 million airport farmland deal: City went from $1.2M surplus to $1.7M deficit immediately after purchase.
+      - Widget article confirms Council approved "full family insurance" valued at $17,000/year.
       - Widget article alleges airport bid rigging regarding the land and sewer projects.
-
-      - Widget article confirms Burrell had prior police record involving juveniles
-      not disclosed to voters.
-
+      - Widget article confirms Burrell had prior police record involving juveniles not disclosed to voters.
 
       THE PIVOT:
-
-      - Widget article proves the "2.65 million dollar land purchase" mentioned in
-      Main article caused actual fiscal distress (surplus -> deficit) not just "difficulty
-      approving budget."
-
-      - Widget article confirms the Main article’s accusation of collusion: Only 3
-      Council members ("the three B''s") wanted to purchase the land and lease it
-      back at $9,000/year.
-
-      - Widget article confirms Burrell is the primary focus ("worst of CATALYST")
-      for these alleged lies, linking him to election removal efforts (August 25th).
-
-      - Widget article confirms Burrell used "hard hat" imagery while facing sewer
-      neglect claims, validating Main''s accusation of performative concern.
-
+      - Widget article proves the "2.65 million dollar land purchase" mentioned in Main article caused actual fiscal distress (surplus -> deficit) not just "difficulty approving budget."
+      - Widget article confirms the Main article’s accusation of collusion: Only 3 Council members ("the three B's") wanted to purchase the land and lease it back at $9,000/year.
+      - Widget article confirms Burrell is the primary focus ("worst of CATALYST") for these alleged lies, linking him to election removal efforts (August 25th).
+      - Widget article confirms Burrell used "hard hat" imagery while facing sewer neglect claims, validating Main's accusation of performative concern.
 
       KEY ENTITIES:
-
       - Jack Burrell (Fairhope Council President/Councilman)
-
       - Fairhope City Council / "CATALYST" Group
-
-      - Carol Wilson (Mayor, referred to as Mayor Cant/Sullivan in text regarding
-      tenure/position)
-
-      - Fairhope Utilities Superintendent (Position held by Mayor to boost pay/access
-      funds)
-
+      - Carol Wilson (Mayor, referred to as Mayor Cant/Sullivan in text regarding tenure/position)
+      - Fairhope Utilities Superintendent (Position held by Mayor to boost pay/access funds)
       - 2.65 Million Dollar Recreational Land (Airport property leased out for farming)
-
       - CR 13 / Gayfer Road roundabout (Locations linked to sewer project confusion/signs)
-
-      - Mayor Cant (Previous Mayor, served under Burrell''s tenure as Council President)'
+      - Mayor Cant (Previous Mayor, served under Burrell's tenure as Council President)
     generated_at: '2026-03-12T23:17:25.847956Z'
+    text: Jack Burrell loves to pose in a hard hat for projects he actually voted against. We found the evidence that his secret airport land deal flipped a city surplus into a massive deficit while the Council voted themselves gold-plated insurance plans.
   people-power-2:
-    brief: 'THE CONFLICT:
-
-      - 2013: Councilman Jack Burrell led charge for sewer upgrade; pushed $20 million
-      proposal vs. approved $13 million in upgrades on failing plant.
-
-      - 2015: Comprehensive upgrade completed at $12 million; Burrell later cites
-      this low cost to argue against a current $5 million proposal.
-
-      - System failed: Infrastructure still failing to keep up with demand despite
-      spending; budget approvals delayed due to non-budgeted $2.65 million land purchase
-      at airport.
-
-      - 500,000 gallons of raw sewage overflowed into Big Head gully and Fly Creek
-      watershed.
-
-      - New $13 million sewer plant never processed the 500,000 gallons of raw sewage
-      overflow during crisis.
-
-      - Council is now forced to amend budgets while discussing police and infrastructure
-      cuts.
-
+    brief: |-
+      THE CONFLICT:
+      - 2013: Councilman Jack Burrell led charge for sewer upgrade; pushed $20 million proposal vs. approved $13 million in upgrades on failing plant.
+      - 2015: Comprehensive upgrade completed at $12 million; Burrell later cites this low cost to argue against a current $5 million proposal.
+      - System failed: Infrastructure still failing to keep up with demand despite spending; budget approvals delayed due to non-budgeted $2.65 million land purchase at airport.
+      - 500,000 gallons of raw sewage overflowed into Big Head gully and Fly Creek watershed.
+      - New $13 million sewer plant never processed the 500,000 gallons of raw sewage overflow during crisis.
+      - Council is now forced to amend budgets while discussing police and infrastructure cuts.
 
       THE DISCOVERY:
-
-      - During overflow crisis, Councilman Robinson stated "it is not the council’s
-      fault."
-
-      - Article 2 captures work session where Councilman Boone and Councilman Burrell
-      supported Robinson''s argument that council should "talk with staff."
-
-      - City Council obstructing Mayor Karin Wilson and her utilities staff despite
-      being informed of sewer problems.
-
-      - 2,276 citizen signatures on petition forced Single Tax to back off Tuberville
-      subdivision.
-
-      - Article 2 links Council obstruction to past corrupt mayors (Jim Nix, Tim Kant)
-      using sewer failures as a pattern.
-
+      - During overflow crisis, Councilman Robinson stated "it is not the council’s fault."
+      - Article 2 captures work session where Councilman Boone and Councilman Burrell supported Robinson's argument that council should "talk with staff."
+      - City Council obstructing Mayor Karin Wilson and her utilities staff despite being informed of sewer problems.
+      - 2,276 citizen signatures on petition forced Single Tax to back off Tuberville subdivision.
+      - Article 2 links Council obstruction to past corrupt mayors (Jim Nix, Tim Kant) using sewer failures as a pattern.
 
       THE PIVOT:
-
-      - Article 1 exposes Burrell’s history of managing the specific failing budget
-      ($20M/$5M/$13M sewer lies).
-
-      - Article 2 proves Burrell was present and defending the council during the
-      specific infrastructure collapse (500,000 gallon overflow).
-
-      - Article 2 confirms Burrell is still actively obstructing utility/infrastructure
-      accountability ("It ain’t the Mayor").
-
-      - Article 2 links Burrell and Robinson directly to obstruction of City Council
-      work session while Article 1 established they hold responsibility for the budget
-      failures.
-
+      - Article 1 exposes Burrell’s history of managing the specific failing budget ($20M/$5M/$13M sewer lies).
+      - Article 2 proves Burrell was present and defending the council during the specific infrastructure collapse (500,000 gallon overflow).
+      - Article 2 confirms Burrell is still actively obstructing utility/infrastructure accountability ("It ain’t the Mayor").
+      - Article 2 links Burrell and Robinson directly to obstruction of City Council work session while Article 1 established they hold responsibility for the budget failures.
 
       KEY ENTITIES:
-
       - Jack Burrell (Councilman)
-
       - Councilman Robinson
-
       - Councilman Boone
-
       - Mayor Karin Wilson
-
       - Sherry Sullivan (Former Utilities Superintendent)
-
-      - Jim Nix / Tim Kant'
+      - Jim Nix / Tim Kant
     generated_at: '2026-03-12T23:17:25.847960Z'
+    text: When five hundred thousand gallons of raw sewage flooded our gullies, the City Council shamelessly claimed it wasn’t their fault. These documents show Jack Burrell actively blocked utility staff from fixing the mess while he protected his corrupt political mentors.
   BACKPEDALING-FAUXHOPE:
-    brief: 'THE CONFLICT:
-
-      *   Councilman Jack Burrell pushed 10 million in sewer upgrades that ballooned
-      to 13 million; facility is still failing.
-
-      *   Burrell claims concern for taxpayer money while council ignored budget delays
-      caused by a non-budgeted 2.65 million land purchase at the airport (Catalyst
-      Colors proposal).
-
-      *   Mayor Sullivan appointed Utilities Superintendent role to double-dip salary
-      (over $100K) without utility management experience.
-
-      *   Council approved full-family insurance for members valued at $17,000/year;
-      2.65 million land purchase questioned due to questionable appraisal and lack
-      of development use for years.
-
-      *   Public infrastructure (soccer fields) estimated 3.5 million, now approaching
-      6 million; waterfront project spent 6.2 million into "hot potato."
-
-      *   Triangle recreation land deal classified as a "Legal Settlement" of 8.25
-      million, not purchase; involved guaranteed law fees that did not happen.
-
+    brief: |-
+      THE CONFLICT:
+      *   Councilman Jack Burrell pushed 10 million in sewer upgrades that ballooned to 13 million; facility is still failing.
+      *   Burrell claims concern for taxpayer money while council ignored budget delays caused by a non-budgeted 2.65 million land purchase at the airport (Catalyst Colors proposal).
+      *   Mayor Sullivan appointed Utilities Superintendent role to double-dip salary (over $100K) without utility management experience.
+      *   Council approved full-family insurance for members valued at $17,000/year; 2.65 million land purchase questioned due to questionable appraisal and lack of development use for years.
+      *   Public infrastructure (soccer fields) estimated 3.5 million, now approaching 6 million; waterfront project spent 6.2 million into "hot potato."
+      *   Triangle recreation land deal classified as a "Legal Settlement" of 8.25 million, not purchase; involved guaranteed law fees that did not happen.
 
       THE DISCOVERY:
-
-      *   City Council removed/modified public participation rules at meetings in
-      an attempt to limit transparency.
-
-      *   This move resulted in a lawsuit: FRANCIS PAUL RIPP v JACK BURRELL in U.S.
-      DISTRICT COURT FOR THE SOUTHERN DISTRICT OF ALABAMA.
-
-      *   Case forces admission: Burrell claimed he was "surprised to see the item
-      on here when I found out last week" regarding agenda items, though he was likely
-      aware to push a controversial public participation cut.
-
-      *   Council was forced to "eat crow" (reverse decision) due to public outcry
-      over free speech and lack of transparency.
-
-      *   Article confirms Burrell has been in legal trouble regarding how city information
-      is disclosed and decisions are revealed ("Ask Jack if he had to go to federal
-      court").
-
+      *   City Council removed/modified public participation rules at meetings in an attempt to limit transparency.
+      *   This move resulted in a lawsuit: FRANCIS PAUL RIPP v JACK BURRELL in U.S. DISTRICT COURT FOR THE SOUTHERN DISTRICT OF ALABAMA.
+      *   Case forces admission: Burrell claimed he was "surprised to see the item on here when I found out last week" regarding agenda items, though he was likely aware to push a controversial public participation cut.
+      *   Council was forced to "eat crow" (reverse decision) due to public outcry over free speech and lack of transparency.
+      *   Article confirms Burrell has been in legal trouble regarding how city information is disclosed and decisions are revealed ("Ask Jack if he had to go to federal court").
 
       THE PIVOT:
-
-      *   The Ripp v Burrell case is the "smoking gun" because it legally validates
-      the accusation that Burrell and Council operate without transparency or proper
-      accountability.
-
-      *   Article 2 proves the pattern in Article 1: just as Burrell lied about sewer
-      costs and the 2.65M land purchase, he now lies about procedural agenda items
-      to avoid scrutiny.
-
-      *   Federal court involvement confirms the "developer-elected" status (Article
-      2 claims 4 years behind decisions); shows city leadership operates in a way
-      requiring federal legal intervention.
-
-      *   Highlights the "free year" of unaccounted decisions due to 2024 election
-      postponement, aligning with claims in Article 1 about un-elected officials making
-      decisions.
-
+      *   The Ripp v Burrell case is the "smoking gun" because it legally validates the accusation that Burrell and Council operate without transparency or proper accountability.
+      *   Article 2 proves the pattern in Article 1: just as Burrell lied about sewer costs and the 2.65M land purchase, he now lies about procedural agenda items to avoid scrutiny.
+      *   Federal court involvement confirms the "developer-elected" status (Article 2 claims 4 years behind decisions); shows city leadership operates in a way requiring federal legal intervention.
+      *   Highlights the "free year" of unaccounted decisions due to 2024 election postponement, aligning with claims in Article 1 about un-elected officials making decisions.
 
       KEY ENTITIES:
-
       *   Jack Burrell (Councilman)
-
       *   Bob Boone / Brown (Catalyst Council/Proposed Land Purchase)
-
       *   Mayor Sullivan (Mayor; Utilities Superintendent appointee)
-
       *   Councilman Martin (Target of Burrell’s “under the bus” tactic)
-
       *   Francis Paul Ripp (Plaintiff, Ripp v Burrell)
-
       *   Cain O’rear (Attorney guaranteeing fee refund)
-
-      *   The Fairhope Times / Fauxhope Sewer Council (Reporting sources)'
+      *   The Fairhope Times / Fauxhope Sewer Council (Reporting sources)
     generated_at: '2026-03-12T23:17:25.847965Z'
+    text: Jack Burrell tried to silence the public by gutting meeting rules until a federal court stepped in to stop him. This legal smoking gun proves the Council lies about their secret agendas to hide the millions they waste on failing infrastructure and developer favors.
   PRETTY-FLOWERS-ROTTEN-ROOTS:
-    brief: 'THE CONFLICT:
-
-      - Jack Burrell led 2013 sewer upgrade project; initial council approval $10M,
-      final cost ballooned to $13M.
-
-      - Sewer system remained failing; strained by demand requiring potential new
-      plant on city-owned land south of airport.
-
-      - 2015: Comprehensive sewer plant upgrade completed at $12M; cost used by Burrell
-      to dismiss proposed $5M head works replacement.
-
-      - Mayor Sherry Sullivan appointed Head of Utilities (non-engineer) to manage
-      utility funds; accused of using position to boost salary/double dip.
-
-      - Previous mayor Karen Wilson refused second paycheck/Utility role; council
-      previously hired qualified engineer before firing for second choice.
-
-      - Non-budgeted $2.65M airport land purchase created budget approval delays,
-      past due for last 3 budgets, forcing discussions of staff cuts.
-
-      - City Council awarded themselves a full family insurance package valued at
-      $17,000/year.
-
+    brief: |-
+      THE CONFLICT:
+      - Jack Burrell led 2013 sewer upgrade project; initial council approval $10M, final cost ballooned to $13M.
+      - Sewer system remained failing; strained by demand requiring potential new plant on city-owned land south of airport.
+      - 2015: Comprehensive sewer plant upgrade completed at $12M; cost used by Burrell to dismiss proposed $5M head works replacement.
+      - Mayor Sherry Sullivan appointed Head of Utilities (non-engineer) to manage utility funds; accused of using position to boost salary/double dip.
+      - Previous mayor Karen Wilson refused second paycheck/Utility role; council previously hired qualified engineer before firing for second choice.
+      - Non-budgeted $2.65M airport land purchase created budget approval delays, past due for last 3 budgets, forcing discussions of staff cuts.
+      - City Council awarded themselves a full family insurance package valued at $17,000/year.
 
       THE DISCOVERY:
-
-      - New slate of 5 candidates qualified for city council positions, running as
-      a united team.
-
+      - New slate of 5 candidates qualified for city council positions, running as a united team.
       - Election date set for Aug 26, 2025.
-
-      - Challengers confirm incumbents are uniting (“Vote for all of us”) despite
-      past history of running independently.
-
-      - Challengers explicitly reference Mayor Sullivan’s dual salary/jobs role and
-      lack of utility engineering qualifications as key grievances.
-
-      - Challenger platform explicitly singles out Burrell as the “absolutely worst
-      City Councilman” needing removal.
-
+      - Challengers confirm incumbents are uniting (“Vote for all of us”) despite past history of running independently.
+      - Challengers explicitly reference Mayor Sullivan’s dual salary/jobs role and lack of utility engineering qualifications as key grievances.
+      - Challenger platform explicitly singles out Burrell as the “absolutely worst City Councilman” needing removal.
 
       THE PIVOT:
-
-      - Article 1 details the "corruption" (money, sewer failures); Article 2 proves
-      this is now a cohesive electoral threat (slate formation).
-
-      - Article 1 claims Burrell uses lies to mislead taxpayers; Article 2 confirms
-      opposition believes "If his lips are moving he is lying."
-
-      - The $2.65M airport land and Sullivan’s dual roles (cited in Article 1) are
-      now explicit campaign talking points for challengers in Article 2.
-
+      - Article 1 details the "corruption" (money, sewer failures); Article 2 proves this is now a cohesive electoral threat (slate formation).
+      - Article 1 claims Burrell uses lies to mislead taxpayers; Article 2 confirms opposition believes "If his lips are moving he is lying."
+      - The $2.65M airport land and Sullivan’s dual roles (cited in Article 1) are now explicit campaign talking points for challengers in Article 2.
 
       KEY ENTITIES:
-
       - Jack Burrell (Councilman)
-
       - Sherry Sullivan (Mayor / Utilities Head)
-
       - Karen Wilson (Former Mayor)
-
       - Fairhope City Council
-
-      - Fauxhope / Fairhope'
+      - Fauxhope / Fairhope
     generated_at: '2026-03-12T23:17:25.847968Z'
+    text: The stench of sewer failures and salary double-dipping has finally forced a new team of challengers to take a stand. New evidence shows why opponents call Jack Burrell the absolute worst councilman in history as they move to end his reign of financial lies.
