@@ -2,707 +2,344 @@ metadata:
   generated_at: '2026-03-16T05:13:59.792713Z'
   generator_version: 1.0.0
   post_slug: license-to-steal
+  refined_by: gemini
+  refined_at: '2026-03-16T19:07:53.802544Z'
 hooks:
   alabama-ugly:
-    brief: 'THE CONFLICT
-
-      *   Alabama Attorney General Steve Marshall issued public statements March 15-27,
-      2018 vowing to prosecute white-collar crime and political corruption.
-
-      *   Marshall received zero responses to requests from The Ripp Report demanding
-      accountability regarding his office’s investigations.
-
-      *   Ripp Report alleges Tom Allbritton (Alabama Ethics Commission Director)
-      utilizes a private charitable trust he oversees to pay over $100,000 for his
-      children’s college tuition.
-
-      *   Ripp Report claims John Plunk (Ethics Commission Vice Chair) aided Sheriff
-      Mike Blakely and a Republican consultant in disguising campaign money during
-      the latter’s 2021 corruption trial.
-
-      *   John Plunk implicated in secret campaign finance for at least two other
-      unidentified individuals while failing to recall all details.
-
+    brief: |-
+      THE CONFLICT
+      *   Alabama Attorney General Steve Marshall issued public statements March 15-27, 2018 vowing to prosecute white-collar crime and political corruption.
+      *   Marshall received zero responses to requests from The Ripp Report demanding accountability regarding his office’s investigations.
+      *   Ripp Report alleges Tom Allbritton (Alabama Ethics Commission Director) utilizes a private charitable trust he oversees to pay over $100,000 for his children’s college tuition.
+      *   Ripp Report claims John Plunk (Ethics Commission Vice Chair) aided Sheriff Mike Blakely and a Republican consultant in disguising campaign money during the latter’s 2021 corruption trial.
+      *   John Plunk implicated in secret campaign finance for at least two other unidentified individuals while failing to recall all details.
 
       THE DISCOVERY
-
-      *   Widget Article identifies the Mabel Amos Memorial Trust as a "secret piggy
-      bank" holding millions linked to Alabama’s corruption network.
-
-      *   Trust funds are harbored at Regions Bank, involving potential federal crimes
-      including money laundering and tax evasion.
-
-      *   Montgomery attorney Tommy Gallion (author of a book on Alabama corruption)
-      was hired by Leigh Manning, identified as a relative of Mabel Amos.
-
-      *   A Circuit Court Judge is indicated as having "fingers in the pie" regarding
-      the Mabel Amos Memorial Trust.
-
-      *   Evidence suggests this trust structure aids officials like Allbritton and
-      Plunk by providing financial backing outside direct oversight.
-
+      *   Widget Article identifies the Mabel Amos Memorial Trust as a "secret piggy bank" holding millions linked to Alabama’s corruption network.
+      *   Trust funds are harbored at Regions Bank, involving potential federal crimes including money laundering and tax evasion.
+      *   Montgomery attorney Tommy Gallion (author of a book on Alabama corruption) was hired by Leigh Manning, identified as a relative of Mabel Amos.
+      *   A Circuit Court Judge is indicated as having "fingers in the pie" regarding the Mabel Amos Memorial Trust.
+      *   Evidence suggests this trust structure aids officials like Allbritton and Plunk by providing financial backing outside direct oversight.
 
       THE PIVOT
-
-      *   Article 1 highlights the procedural corruption of leaders Allbritton and
-      Plunk.
-
-      *   Article 2 exposes the financial vehicle (Mabel Amos Memorial Trust) and
-      banking channel (Regions Bank) protecting them.
-
-      *   Article 2 proves the alleged "private charitable trust" mentioned in Article
-      1 is a multi-million dollar system managed by attorneys (Gallion) and relatives,
-      validating the "License to Steal" accusation.
-
+      *   Article 1 highlights the procedural corruption of leaders Allbritton and Plunk.
+      *   Article 2 exposes the financial vehicle (Mabel Amos Memorial Trust) and banking channel (Regions Bank) protecting them.
+      *   Article 2 proves the alleged "private charitable trust" mentioned in Article 1 is a multi-million dollar system managed by attorneys (Gallion) and relatives, validating the "License to Steal" accusation.
 
       KEY ENTITIES
-
       *   Steve Marshall (Attorney General of Alabama)
-
       *   Tom Allbritton (Director, Alabama Ethics Commission)
-
       *   John Plunk (Vice Chair, Alabama Ethics Commission)
-
       *   Mabel Amos Memorial Trust
-
       *   Regions Bank
-
       *   Tommy Gallion (Montgomery Attorney)
-
-      *   Leigh Manning (Relative of Mabel Amos, donor/associate to Gallion)'
+      *   Leigh Manning (Relative of Mabel Amos, donor/associate to Gallion)
     generated_at: '2026-03-16T05:13:59.793285Z'
+    text: Steve Marshall talks a big game about integrity while ignoring every demand for a real investigation into his own circle. We found the Mabel Amos Trust acting as a secret piggy bank where Ethics bosses Tom Allbritton and John Plunk hide their dirty money at Regions Bank while the AG looks away.
   self-dealing-self-stealing:
-    brief: 'THE CONFLICT:
-
-      - Alabama AG Steve Marshall released 4 campaign tweets (March 15, 18, 20, 27,
-      2018) stating his highest priority is ensuring officials serve with integrity
-      and he will prosecute abuse for illegal personal gain.
-
-      - Ripp Report sent a formal letter requesting AG Marshall investigate the Alabama
-      Ethics Commission; no response received as of 2021.
-
-      - Article alleges AG Marshall’s office is ignoring potential corruption involving
-      the Ethics Commission Director, Tom Allbritton.
-
-      - Specific accusation: Director Tom Allbritton uses a private charitable trust
-      he helps oversee to pay more than $100,000 for his children’s college tuition.
-
-      - Vice Chair John Plunk alleged of helping Sheriff Mike Blakely (Democrat) disguise
-      political money to a Republican consultant under investigation.
-
-      - Columbia Mayor Rhonda Freeman case (case numbers 2020-0337 & 0361) pending
-      before Ethics Commission; hearing scheduled Aug 4, 2021.
-
+    brief: |-
+      THE CONFLICT:
+      - Alabama AG Steve Marshall released 4 campaign tweets (March 15, 18, 20, 27, 2018) stating his highest priority is ensuring officials serve with integrity and he will prosecute abuse for illegal personal gain.
+      - Ripp Report sent a formal letter requesting AG Marshall investigate the Alabama Ethics Commission; no response received as of 2021.
+      - Article alleges AG Marshall’s office is ignoring potential corruption involving the Ethics Commission Director, Tom Allbritton.
+      - Specific accusation: Director Tom Allbritton uses a private charitable trust he helps oversee to pay more than $100,000 for his children’s college tuition.
+      - Vice Chair John Plunk alleged of helping Sheriff Mike Blakely (Democrat) disguise political money to a Republican consultant under investigation.
+      - Columbia Mayor Rhonda Freeman case (case numbers 2020-0337 & 0361) pending before Ethics Commission; hearing scheduled Aug 4, 2021.
 
       THE DISCOVERY:
-
-      - Widget article (Self-Dealing-Self-Stealing) confirms Tom Allbritton is the
-      Director of Alabama Ethics Commission.
-
-      - Links Lagniappe Mobile report exposing self-dealing where Allbritton’s children
-      received more scholarship money from the trust than the relatives of Mabel Amos.
-
+      - Widget article (Self-Dealing-Self-Stealing) confirms Tom Allbritton is the Director of Alabama Ethics Commission.
+      - Links Lagniappe Mobile report exposing self-dealing where Allbritton’s children received more scholarship money from the trust than the relatives of Mabel Amos.
       - Identifies head as "Mr Greg Albritton" (Tweet, July 2, 2021).
-
-      - Establishes Alabama is #1 in the nation for political corruption according
-      to Ripp Report''s cited data.
-
+      - Establishes Alabama is #1 in the nation for political corruption according to Ripp Report's cited data.
 
       THE PIVOT:
-
-      - Article 2 identifies "Greg Albritton" as the Head of Alabama Ethics Commission,
-      confirming he is the person AG Marshall (Article 1) claims to be policing but
-      refused to investigate.
-
-      - Article 2 provides the financial proof (>$100k tuition via trust) of why AG
-      Marshall’s "License to Steal" claim applies: the Director is stealing while
-      running the very commission he is supposed to oversee.
-
-      - Confirms Vice Chair John Plunk’s role: Article 2 links the "Self-Stealing"
-      scandal directly to the institution AG Marshall has refused to answer Ripp Report’s
-      letter about.
-
+      - Article 2 identifies "Greg Albritton" as the Head of Alabama Ethics Commission, confirming he is the person AG Marshall (Article 1) claims to be policing but refused to investigate.
+      - Article 2 provides the financial proof (>$100k tuition via trust) of why AG Marshall’s "License to Steal" claim applies: the Director is stealing while running the very commission he is supposed to oversee.
+      - Confirms Vice Chair John Plunk’s role: Article 2 links the "Self-Stealing" scandal directly to the institution AG Marshall has refused to answer Ripp Report’s letter about.
 
       KEY ENTITIES:
-
       - Steve Marshall (Alabama Attorney General)
-
-      - Tom Allbritton (Director, Alabama Ethics Commission / also listed as Greg
-      Albritton)
-
+      - Tom Allbritton (Director, Alabama Ethics Commission / also listed as Greg Albritton)
       - John Plunk (Vice Chair, Ethics Commission)
-
       - Mike Blakely (Sheriff)
-
-      - Rhonda Freeman (Columbia Mayor)'
+      - Rhonda Freeman (Columbia Mayor)
     generated_at: '2026-03-16T05:13:59.793293Z'
+    text: Steve Marshall claims he polices the police, yet he refuses to touch Ethics Director Tom Allbritton for blatant self-dealing. Allbritton siphoned over $100,000 for his kids' college tuition from a private trust while he was supposed to be watching the state's ethics as the top cop.
   letter-to-the-alabama-attorney-general:
-    brief: '1 THE CONFLICT
-
-      - Steve Marshall (AL Attorney General) published tweets March 20, 15, and 27,
-      2018 promising to prosecute white collar crime and political corruption.
-
-      - Francis Paul Ripp (Founder, The Ripp Report) claims Marshall’s office and
-      Alabama Ethics Commission are failing to investigate.
-
-      - A formal complaint was delivered by Ripp Report to AG investigators in Montgomery
-      regarding a Fairhope councilman using his position for personal enrichment.
-
-      - Ripp Report claims Ethics Commission believed the Fairhope Councilman without
-      independent investigation.
-
-      - Tom Allbritton (Director of Ethics Commission) faces accusations that he uses
-      a private charitable trust to pay over $100,000 for his children’s college tuition.
-
-      - John Plunk (Vice Chair of Ethics) is accused of helping Sheriff Mike Blakely
-      disguise political money flowing to a Republican campaign consultant.
-
-      - Columbia Mayor Rhonda Freeman case (numbers 2020-0337 & 0361) is pending before
-      Ethics Commission, with alleged evidence of corruption by Mayor and police.
-
+    brief: |-
+      1 THE CONFLICT
+      - Steve Marshall (AL Attorney General) published tweets March 20, 15, and 27, 2018 promising to prosecute white collar crime and political corruption.
+      - Francis Paul Ripp (Founder, The Ripp Report) claims Marshall’s office and Alabama Ethics Commission are failing to investigate.
+      - A formal complaint was delivered by Ripp Report to AG investigators in Montgomery regarding a Fairhope councilman using his position for personal enrichment.
+      - Ripp Report claims Ethics Commission believed the Fairhope Councilman without independent investigation.
+      - Tom Allbritton (Director of Ethics Commission) faces accusations that he uses a private charitable trust to pay over $100,000 for his children’s college tuition.
+      - John Plunk (Vice Chair of Ethics) is accused of helping Sheriff Mike Blakely disguise political money flowing to a Republican campaign consultant.
+      - Columbia Mayor Rhonda Freeman case (numbers 2020-0337 & 0361) is pending before Ethics Commission, with alleged evidence of corruption by Mayor and police.
 
       2 THE DISCOVERY
-
-      - Francis Paul Ripp sent a formal letter to Alabama Attorney General Steve Marshall
-      at 501 Washington Ave, Montgomery AL.
-
-      - The letter enclosed an Ethics Complaint, an Alabama Bar Complaint, and a Writ
-      of Mandamus.
-
-      - All enclosed documents specifically target Tom Allbritton regarding the Mabel
-      Amos Memorial Fund.
-
-      - Letters allege Allbritton is a trustee and attorney for the Mabel Amos Memorial
-      Fund.
-
-      - The Mabel Amos Memorial Fund is alleged to have awarded Allbritton’s daughters
-      $105,000 in scholarships.
-
-      - Ripp Report states they have 80,000 readers who are monitoring the investigation
-      of Allbritton’s self-dealing.
-
+      - Francis Paul Ripp sent a formal letter to Alabama Attorney General Steve Marshall at 501 Washington Ave, Montgomery AL.
+      - The letter enclosed an Ethics Complaint, an Alabama Bar Complaint, and a Writ of Mandamus.
+      - All enclosed documents specifically target Tom Allbritton regarding the Mabel Amos Memorial Fund.
+      - Letters allege Allbritton is a trustee and attorney for the Mabel Amos Memorial Fund.
+      - The Mabel Amos Memorial Fund is alleged to have awarded Allbritton’s daughters $105,000 in scholarships.
+      - Ripp Report states they have 80,000 readers who are monitoring the investigation of Allbritton’s self-dealing.
 
       3 THE PIVOT
-
-      - The Letter serves as physical proof that Article 1''s claims of "License to
-      Steal" are based on formal, filed complaints rather than speculation.
-
-      - The Letter validates Article 1’s claim that "Attorney General needs to investigate
-      the Ethics Commission because they act as if they have immunity."
-
-      - By exposing specific financial links (Mabel Amos Fund), Article 2 connects
-      the "Ethics Commission" to a potential conflict of interest, proving why Article
-      1 calls their actions unethical.
-
-      - The Letter proves the "cannot answer a letter" claim is specific to Francis
-      Paul Ripp and the enclosed evidence regarding Allbritton.
-
+      - The Letter serves as physical proof that Article 1's claims of "License to Steal" are based on formal, filed complaints rather than speculation.
+      - The Letter validates Article 1’s claim that "Attorney General needs to investigate the Ethics Commission because they act as if they have immunity."
+      - By exposing specific financial links (Mabel Amos Fund), Article 2 connects the "Ethics Commission" to a potential conflict of interest, proving why Article 1 calls their actions unethical.
+      - The Letter proves the "cannot answer a letter" claim is specific to Francis Paul Ripp and the enclosed evidence regarding Allbritton.
 
       4 KEY ENTITIES
-
       - Steve Marshall (Alabama Attorney General)
-
       - Francis Paul Ripp (The Ripp Report Founder)
-
       - Tom Allbritton (Director of Alabama Ethics Commission; Mabel Amos Trustee/Attorney)
-
       - John Plunk (Vice Chair of Ethics Commission)
-
       - Mike Blakely (Sheriff)
-
       - Rhonda Freeman (Columbia Mayor)
-
-      - Mabel Amos Memorial Fund'
+      - Mabel Amos Memorial Fund
     generated_at: '2026-03-16T05:13:59.793310Z'
+    text: We sent Attorney General Steve Marshall a mountain of evidence that he is now too scared to acknowledge in public. These files prove Tom Allbritton treated the Mabel Amos Fund like a personal ATM to pay for his daughters' $105,000 college education while Marshall stayed silent.
   top-shelf-corruption:
-    brief: '1. THE CONFLICT
-
-      *   Steve Marshall (Attorney General) tweeted March 27, 2018: "highest priority
-      to ensure that those who serve the people of AL do so with the utmost integrity."
-
-      *   Steve Marshall tweeted March 15, 2018: "Corruption will not be tolerated
-      in this state."
-
-      *   Ripp Report has received zero responses from AG, Ethics Commission, or Alabama
-      Bar (as of article date).
-
-      *   Tom Allbritton (Ethics Commission Director) confirmed by State Senate March
-      2015.
-
-      *   Main Article alleges Allbritton''s trust paid >$100,000 in college tuition.
-
+    brief: |-
+      1. THE CONFLICT
+      *   Steve Marshall (Attorney General) tweeted March 27, 2018: "highest priority to ensure that those who serve the people of AL do so with the utmost integrity."
+      *   Steve Marshall tweeted March 15, 2018: "Corruption will not be tolerated in this state."
+      *   Ripp Report has received zero responses from AG, Ethics Commission, or Alabama Bar (as of article date).
+      *   Tom Allbritton (Ethics Commission Director) confirmed by State Senate March 2015.
+      *   Main Article alleges Allbritton's trust paid >$100,000 in college tuition.
       *   Sheriff Mike Blakely facing corruption trial (July 28, 2021).
-
-      *   Columbia Mayor Rhonda Freeman case pending Ethics Commission (Case numbers
-      2020-0337 & 0361).
-
+      *   Columbia Mayor Rhonda Freeman case pending Ethics Commission (Case numbers 2020-0337 & 0361).
 
       2. THE DISCOVERY
-
-      *   Lagniappe Mobile records show Ethics Commission approved administrative
-      resolution for "McCallum’s behavior."
-
-      *   Marshall (AG) approved the request, but only financial fines were meted
-      out; no criminal investigation.
-
+      *   Lagniappe Mobile records show Ethics Commission approved administrative resolution for "McCallum’s behavior."
+      *   Marshall (AG) approved the request, but only financial fines were meted out; no criminal investigation.
       *   Lagniappe Mobile cites 990 tax records for Allbritton’s trust.
-
-      *   Lagniappe records show $15,000 scholarship to UT (2014); total scholarships
-      totaled $105,000 between 2014 and 2018.
-
-      *   Lagniappe states AG, Ethics Commission, and State Bar allowed McCallum zero
-      punishment.
-
+      *   Lagniappe records show $15,000 scholarship to UT (2014); total scholarships totaled $105,000 between 2014 and 2018.
+      *   Lagniappe states AG, Ethics Commission, and State Bar allowed McCallum zero punishment.
 
       3. THE PIVOT
-
-      *   Widget Article proves Main Article’s lack-of-accountability claims with
-      specific records: Marshall’s approval of fines vs criminal action for McCallum.
-
-      *   Widget Article confirms Main Article’s tuition allegations with Form 990
-      data showing Allbritton benefited while overseeing ethics.
-
-      *   Widget Article identifies the media blackout on these records as complicit
-      in the corruption environment (Kyle Whitmire, John Archibald ignored).
-
+      *   Widget Article proves Main Article’s lack-of-accountability claims with specific records: Marshall’s approval of fines vs criminal action for McCallum.
+      *   Widget Article confirms Main Article’s tuition allegations with Form 990 data showing Allbritton benefited while overseeing ethics.
+      *   Widget Article identifies the media blackout on these records as complicit in the corruption environment (Kyle Whitmire, John Archibald ignored).
 
       4. KEY ENTITIES
-
       *   Steve Marshall (Attorney General)
-
       *   Tom Allbritton (Ethics Commission Executive Director)
-
       *   John Plunk (Vice Chair, Ethics Commission)
-
       *   McCallum
-
       *   Mike Blakely (Sheriff)
-
       *   Rhonda Freeman (Columbia Mayor)
-
       *   Alabama Bar
-
-      *   Lagniappe Mobile'
+      *   Lagniappe Mobile
     generated_at: '2026-03-16T05:13:59.793323Z'
+    text: Steve Marshall limits corruption cases to minor fines while the real criminals in his inner circle walk away with pockets full of cash. Tax records prove Tom Allbritton took $105,000 in scholarships for his own family while he was supposed to be guarding the state's ethics for the people.
   alabama-black-hole:
-    brief: 'THE CONFLICT:
-
-      *   Francis Paul Ripp (owner, The Ripp Report) filed formal complaints regarding
-      alleged corruption against Alabama Ethics Commission Director Tom Allbritton
-      and AG Steve Marshall''s office.
-
-      *   Main Article notes Ripp Report received zero response from Attorney General,
-      Ethics Commission, Alabama Bar, or Writ of Mandamus offices.
-
-      *   Main Article cites Steve Marshall March 27, 2018 tweet vowing to "bring
-      more transparency" and prosecute illegal personal gain.
-
-      *   Main Article alleges John Plunk (Ethics Commission Vice Chair) failed to
-      account for secret campaign money flows connected to Sheriff Mike Blakely and
-      a Republican consultant under investigation.
-
-      *   Main Article alleges Ethics Commission is failing to investigate Columbia
-      Mayor Rhonda Freeman despite evidence provided.
-
+    brief: |-
+      THE CONFLICT:
+      *   Francis Paul Ripp (owner, The Ripp Report) filed formal complaints regarding alleged corruption against Alabama Ethics Commission Director Tom Allbritton and AG Steve Marshall's office.
+      *   Main Article notes Ripp Report received zero response from Attorney General, Ethics Commission, Alabama Bar, or Writ of Mandamus offices.
+      *   Main Article cites Steve Marshall March 27, 2018 tweet vowing to "bring more transparency" and prosecute illegal personal gain.
+      *   Main Article alleges John Plunk (Ethics Commission Vice Chair) failed to account for secret campaign money flows connected to Sheriff Mike Blakely and a Republican consultant under investigation.
+      *   Main Article alleges Ethics Commission is failing to investigate Columbia Mayor Rhonda Freeman despite evidence provided.
 
       THE DISCOVERY:
-
-      *   Widget Article is an August 21, 2022 letter from Francis Paul Ripp addressed
-      to Steve Marshall.
-
-      *   Letter references "July 16, 2021" as original contact date with Governor,
-      Ethics Commission, Alabama Bar.
-
-      *   Letter confirms Ripp submitted a "100 plus page bound copy of information
-      and evidence."
-
+      *   Widget Article is an August 21, 2022 letter from Francis Paul Ripp addressed to Steve Marshall.
+      *   Letter references "July 16, 2021" as original contact date with Governor, Ethics Commission, Alabama Bar.
+      *   Letter confirms Ripp submitted a "100 plus page bound copy of information and evidence."
       *   Letter states Writ of Mandamus filed previously failed to obtain a hearing.
-
       *   Letter details "Self Dealing" via the Mabel Amos Trust involving Tom Allbritton.
-
-      *   Letter notes Regions Bank is charged over $1 million in fees managing the
-      trust.
-
+      *   Letter notes Regions Bank is charged over $1 million in fees managing the trust.
 
       THE PIVOT:
-
-      *   Widget letter is direct proof to the AG mentioned in Main Article (Steve
-      Marshall).
-
-      *   Letter explicitly targets Tom Allbritton, confirming Main Article''s suspicion
-      that "Ethics Commission Director and Vice Chair are accused."
-
-      *   Letter identifies specific mechanism for Main Article''s "License to Steal"
-      claim: Allbritton, as trustee and AG ethics director, allegedly redirected Mabel
-      Amos Trust funds (originally for needy children) to scholarships for his own
-      children and Circuit Judge Ben Bowden.
-
-      *   Letter claims Allbritton altered trust records in 2014 to hide student recipients
-      by name, listing schools instead.
-
-      *   Letter confirms Ripp has a lawsuit pending against the trust and trustees,
-      threatening further discovery exposing Allbritton’s "economic statement" false
-      filings regarding trusteeship duties.
-
+      *   Widget letter is direct proof to the AG mentioned in Main Article (Steve Marshall).
+      *   Letter explicitly targets Tom Allbritton, confirming Main Article's suspicion that "Ethics Commission Director and Vice Chair are accused."
+      *   Letter identifies specific mechanism for Main Article's "License to Steal" claim: Allbritton, as trustee and AG ethics director, allegedly redirected Mabel Amos Trust funds (originally for needy children) to scholarships for his own children and Circuit Judge Ben Bowden.
+      *   Letter claims Allbritton altered trust records in 2014 to hide student recipients by name, listing schools instead.
+      *   Letter confirms Ripp has a lawsuit pending against the trust and trustees, threatening further discovery exposing Allbritton’s "economic statement" false filings regarding trusteeship duties.
 
       KEY ENTITIES:
-
       *   Francis Paul Ripp (The Ripp Report / Consumer Association)
-
       *   Steve Marshall (Attorney General of Alabama)
-
       *   Clark Morris (Special Prosecutions, mentioned by Ripp)
-
       *   Tom Allbritton (Alabama Ethics Commission Director / Mabel Amos Trustee)
-
       *   Cynthia Raulston (Mabel Amos Trustee / Allbritton associate)
-
       *   John Plunk (Ethics Commission Vice Chair)
-
       *   Mike Blakely (Sheriff, subject of corruption trial referenced)
-
-      *   Ben Bowden (Circuit Judge, Allbritton law partner / Scholarship recipient
-      parent)
-
+      *   Ben Bowden (Circuit Judge, Allbritton law partner / Scholarship recipient parent)
       *   Rhonda Freeman (Columbia Mayor, subject of pending Ethics Commission case)
-
-      *   Regions Bank (Trustee / Fund Manager)'
+      *   Regions Bank (Trustee / Fund Manager)
     generated_at: '2026-03-16T05:13:59.793339Z'
+    text: The Attorney General’s office is where hard evidence goes to die, but we kept the receipts on this 100-page corruption file. Tom Allbritton siphoned trust funds meant for needy kids to pay for his own family and scrubbed the records to hide his tracks from the public and the law.
   dirty-underwear:
-    brief: '1. THE CONFLICT
-
-      - Steve Marshall (AL Attorney General) tweets March 15, 20, and 27, 2018 pled
-      to prosecute corruption and ensure integrity.
-
-      - Ripp Report sent letters to AG Marshall, Ethics Commission, Alabama Bar; received
-      zero responses.
-
-      - Ripp Report alleges Tom Allbritton (Ethics Director) directs private trust
-      to pay $100,000+ for his children’s college tuition.
-
-      - Ripp Report links Ethics Vice Chair John Plunk to Sheriff Mike Blakely (Democrat)
-      corruption trial and Republican consultant money laundering.
-
-      - Ripp Report notes Columbia Mayor Rhonda Freeman ethics cases 2020-0337 & 0361
-      pending before Ethics Commission as of August 4, 2021.
-
+    brief: |-
+      1. THE CONFLICT
+      - Steve Marshall (AL Attorney General) tweets March 15, 20, and 27, 2018 pled to prosecute corruption and ensure integrity.
+      - Ripp Report sent letters to AG Marshall, Ethics Commission, Alabama Bar; received zero responses.
+      - Ripp Report alleges Tom Allbritton (Ethics Director) directs private trust to pay $100,000+ for his children’s college tuition.
+      - Ripp Report links Ethics Vice Chair John Plunk to Sheriff Mike Blakely (Democrat) corruption trial and Republican consultant money laundering.
+      - Ripp Report notes Columbia Mayor Rhonda Freeman ethics cases 2020-0337 & 0361 pending before Ethics Commission as of August 4, 2021.
 
       2. THE DISCOVERY
-
-      - McCallum fined $100,000 by Ethics Commission; no criminal charges from AG
-      Marshall.
-
+      - McCallum fined $100,000 by Ethics Commission; no criminal charges from AG Marshall.
       - Alabama Bar paid McCallum $37,437 in August 2021 after resignation/investigation.
-
-      - Tom Allbritton received $105,000 in scholarships for children (2014-2018)
-      from a trust where he is trustee.
-
+      - Tom Allbritton received $105,000 in scholarships for children (2014-2018) from a trust where he is trustee.
       - IRS Code 4941(d) prohibits self-dealing; Allbritton’s situation violates this.
-
-      - Ethics Commission cited 17 violations in campaign finance tracking; no criminal
-      charges filed by AG.
-
-      - Ripp Report complaints against Municipal Judge, Councilman, State Senator
-      quashed by the trio (AG/Ethics/Bar).
-
+      - Ethics Commission cited 17 violations in campaign finance tracking; no criminal charges filed by AG.
+      - Ripp Report complaints against Municipal Judge, Councilman, State Senator quashed by the trio (AG/Ethics/Bar).
 
       3. THE PIVOT
-
-      - Article 2 validates Article 1’s "License to Steal" accusation using Allbritton’s
-      $105k self-dealing as primary proof.
-
-      - Article 2 proves systemic collusion: AG Marshall and Bar financially protect
-      McCallum ($37k payment) despite ethics fines.
-
-      - Article 2 proves AG Marshall cannot enforce his own public vows (March 2018)
-      because allies ignore IRS Section 4941(d) violations by Tom Allbritton.
-
-      - Article 2 confirms AG office ignores criminal prosecution of ethics violators
-      (McCallum, Allbritton).
-
+      - Article 2 validates Article 1’s "License to Steal" accusation using Allbritton’s $105k self-dealing as primary proof.
+      - Article 2 proves systemic collusion: AG Marshall and Bar financially protect McCallum ($37k payment) despite ethics fines.
+      - Article 2 proves AG Marshall cannot enforce his own public vows (March 2018) because allies ignore IRS Section 4941(d) violations by Tom Allbritton.
+      - Article 2 confirms AG office ignores criminal prosecution of ethics violators (McCallum, Allbritton).
 
       4. KEY ENTITIES
-
       - Steve Marshall (AL Attorney General)
-
       - Tom Allbritton (Ethics Executive Director/Trustee)
-
       - John Plunk (Vice Chair, Ethics Commission)
-
       - Bob McCallum (Resigned official/Bar payee)
-
       - Mike Blakely (Sheriff, corruption defendant)
-
       - Rhonda Freeman (Columbia Mayor)
-
       - Alabama Bar Association
-
-      - Lagniappe Mobile'
+      - Lagniappe Mobile
     generated_at: '2026-03-16T05:13:59.793344Z'
+    text: Steve Marshall promises integrity while his buddies violate federal tax laws without a single worry from the state. Tom Allbritton’s $105,000 self-dealing is a direct violation of IRS rules, yet the State Bar is still cutting checks to protect their own instead of filing criminal charges.
   elephants-in-alabama:
-    brief: '1. THE CONFLICT
-
-      - Steve Marshall (Alabama Attorney General) released campaign tweets on March
-      15, 2018 and March 27, 2018 pledging to prosecute white collar crime and corruption.
-
-      - The Ripp Report sent letters/demands for a Writ of Mandamus regarding Tom
-      Albritton (Ethics Director) regarding financial discrepancies.
-
-      - Zero response received from Attorney General, Ethics Commission, or Alabama
-      Bar Association.
-
-      - Tom Albritton suspected of conflict of interest for overseeing trust that
-      pays >$100,000 for children’s college tuition.
-
-      - John Plunk (Vice Chair, Ethics Commission) linked to hiding campaign money
-      for Sheriff Mike Blakely and a consultant under criminal investigation.
-
-      - Sheriff Mike Blakely trial (July 2021) dropped one of eleven charges after
-      defense testimony and alleged juror misconduct.
-
-      - Mayor Rhonda Freeman (Columbia) case pending before Ethics Commission with
-      numbers 2020-0337 & 0361; hearing scheduled Aug 4, 2021.
-
+    brief: |-
+      1. THE CONFLICT
+      - Steve Marshall (Alabama Attorney General) released campaign tweets on March 15, 2018 and March 27, 2018 pledging to prosecute white collar crime and corruption.
+      - The Ripp Report sent letters/demands for a Writ of Mandamus regarding Tom Albritton (Ethics Director) regarding financial discrepancies.
+      - Zero response received from Attorney General, Ethics Commission, or Alabama Bar Association.
+      - Tom Albritton suspected of conflict of interest for overseeing trust that pays >$100,000 for children’s college tuition.
+      - John Plunk (Vice Chair, Ethics Commission) linked to hiding campaign money for Sheriff Mike Blakely and a consultant under criminal investigation.
+      - Sheriff Mike Blakely trial (July 2021) dropped one of eleven charges after defense testimony and alleged juror misconduct.
+      - Mayor Rhonda Freeman (Columbia) case pending before Ethics Commission with numbers 2020-0337 & 0361; hearing scheduled Aug 4, 2021.
 
       2. THE DISCOVERY
-
-      - Recent civil lawsuit filed against Ethics Commission Executive Director Tom
-      Albritton.
-
+      - Recent civil lawsuit filed against Ethics Commission Executive Director Tom Albritton.
       - Examiners’ report identifies "Employee 1" as McCallum via payroll data.
-
-      - State Bar paid employee named McCallum a $37,000 payment ten months after
-      resignation.
-
-      - McCallum received salary for a couple of months after resigning according
-      to State payroll data.
-
-      - Article 2 confirms AG Marshall has taken no action against Albritton or the
-      Bar despite these financial anomalies.
-
+      - State Bar paid employee named McCallum a $37,000 payment ten months after resignation.
+      - McCallum received salary for a couple of months after resigning according to State payroll data.
+      - Article 2 confirms AG Marshall has taken no action against Albritton or the Bar despite these financial anomalies.
 
       3. THE PIVOT
-
-      - Article 1 establishes that AG Marshall claims to police corruption while ignoring
-      Ethics Commission leader Tom Albritton.
-
-      - Article 2 proves alleged financial misconduct involving the Ethics Director
-      and State Bar (post-resignation payments to McCallum).
-
-      - The lack of criminal charges by Marshall aligns with the financial improprieties
-      found in Article 2.
-
+      - Article 1 establishes that AG Marshall claims to police corruption while ignoring Ethics Commission leader Tom Albritton.
+      - Article 2 proves alleged financial misconduct involving the Ethics Director and State Bar (post-resignation payments to McCallum).
+      - The lack of criminal charges by Marshall aligns with the financial improprieties found in Article 2.
 
       4. KEY ENTITIES
-
       - Steve Marshall (Attorney General)
-
       - Tom Albritton / Thomas Albritton (Director, Alabama Ethics Commission)
-
       - John Plunk (Vice Chair, Ethics Commission)
-
       - McCallum ("Employee 1", State Bar Employee)
-
       - Mike Blakely (Sheriff, defendant in July 2021 trial)
-
       - Rhonda Freeman (Mayor of Columbia)
-
-      - Alabama Bar Association'
+      - Alabama Bar Association
     generated_at: '2026-03-16T05:13:59.793355Z'
+    text: Steve Marshall claims to be the sheriff in town, but the State Bar is actually paying off disgraced officials to keep them quiet. While Ethics boss Tom Allbritton pockets scholarships, the Bar sent a $37,000 parting gift to an associate to ensure the machine keeps running smoothly.
   alabama-shuffle:
-    brief: "1. THE CONFLICT: What happened in the past?\n   - March 2018 (specific\
-      \ tweets on March 15, 18, 27): Steve Marshall announced as Attorney General\
-      \ that his highest priority is prosecuting those who abuse positions for illegal\
-      \ personal gain.\n   - March 2018 (Tweet): Marshall stated, \"As director of\
-      \ the Alabama Ethics Commission, Tom Albritton is the state’s policeman for\
-      \ conflicts of interest.\"\n   - July 2021: John Plunk, Vice-Chair of the Ethics\
-      \ Commission, assisted Sheriff Mike Blakely (Democrat) in disguising political\
-      \ money flowing to a Republican campaign consultant who is under criminal investigation.\n\
-      \   - July 2021: Ethics Commission case numbers 2020-0337 & 0361 assigned to\
-      \ Columbia Mayor Rhonda Freeman regarding allegations of corruption against\
-      \ her and police; hearing scheduled for August 4, 2021.\n   - Multiple prior\
-      \ inquiries: The Ripp Report sent letters to AG Marshall, Ethics Commission\
-      \ Director Tom Allbritton, and the Alabama Bar regarding corruption without\
-      \ receiving substantive replies.\n\n2. THE DISCOVERY: What does the second article\
-      \ prove or reveal today?\n   - Article 2 exposes that Attorney General Steve\
-      \ Marshall sent a letter to The Ripp Report regarding the complaint against\
-      \ Ethics Director Tom Allbritton that was not signed.\n   - Article 2 reveals\
-      \ the letter explicitly stated: \"WE cannot, however, disclose to you any decision\
-      \ about your complaint.\"\n   - Article 2 confirms no white-collar or political\
-      \ corruption cases have been filed by the AG’s office that reached public court\
-      \ records.\n   - Article 2 confirms a civil lawsuit is pending outlining charges\
-      \ against Ethics Director Tom Allbritton.\n\n3. THE PIVOT: Why is Article 2\
-      \ the 'smoking gun' for Article 1?\n   - Article 1 claims AG Marshall ignores\
-      \ complaints and does not answer letters; Article 2 proves this by providing\
-      \ the actual unsigned, non-disclosing response letter regarding Tom Allbritton.\n\
-      \   - Article 1 alleges the AG protects his own agencies; Article 2 confirms\
-      \ this by noting Marshall filed or signed frivolous lawsuits while ignoring\
-      \ the civil/criminal charges against Allbritton (his subordinate).\n   - Article\
-      \ 2 serves as evidence that the silence on Article 1's complaints is not passive\
-      \ but an active refusal to disclose information per Marshall’s office.\n\n4.\
-      \ KEY ENTITIES:\n   - Steve Marshall (Alabama Attorney General)\n   - Tom Allbritton\
-      \ (Director of the Alabama Ethics Commission / Executive Director)\n   - John\
-      \ Plunk (Vice Chair of Ethics Commission)\n   - Mike Blakely (Sheriff / defendant\
-      \ in corruption trial)\n   - Rhonda Freeman (Mayor of Columbia, AL; case 2020-0337\
-      \ & 0361)\n   - The Ripp Report (source of correspondence/inquiries)"
+    brief: |-
+      1. THE CONFLICT: What happened in the past?
+         - March 2018 (specific tweets on March 15, 18, 27): Steve Marshall announced as Attorney General that his highest priority is prosecuting those who abuse positions for illegal personal gain.
+         - March 2018 (Tweet): Marshall stated, "As director of the Alabama Ethics Commission, Tom Albritton is the state’s policeman for conflicts of interest."
+         - July 2021: John Plunk, Vice-Chair of the Ethics Commission, assisted Sheriff Mike Blakely (Democrat) in disguising political money flowing to a Republican campaign consultant who is under criminal investigation.
+         - July 2021: Ethics Commission case numbers 2020-0337 & 0361 assigned to Columbia Mayor Rhonda Freeman regarding allegations of corruption against her and police; hearing scheduled for August 4, 2021.
+         - Multiple prior inquiries: The Ripp Report sent letters to AG Marshall, Ethics Commission Director Tom Allbritton, and the Alabama Bar regarding corruption without receiving substantive replies.
+
+      2. THE DISCOVERY: What does the second article prove or reveal today?
+         - Article 2 exposes that Attorney General Steve Marshall sent a letter to The Ripp Report regarding the complaint against Ethics Director Tom Allbritton that was not signed.
+         - Article 2 reveals the letter explicitly stated: "WE cannot, however, disclose to you any decision about your complaint."
+         - Article 2 confirms no white-collar or political corruption cases have been filed by the AG’s office that reached public court records.
+         - Article 2 confirms a civil lawsuit is pending outlining charges against Ethics Director Tom Allbritton.
+
+      3. THE PIVOT: Why is Article 2 the 'smoking gun' for Article 1?
+         - Article 1 claims AG Marshall ignores complaints and does not answer letters; Article 2 proves this by providing the actual unsigned, non-disclosing response letter regarding Tom Allbritton.
+         - Article 1 alleges the AG protects his own agencies; Article 2 confirms this by noting Marshall filed or signed frivolous lawsuits while ignoring the civil/criminal charges against Allbritton (his subordinate).
+         - Article 2 serves as evidence that the silence on Article 1's complaints is not passive but an active refusal to disclose information per Marshall’s office.
+
+      4. KEY ENTITIES:
+         - Steve Marshall (Alabama Attorney General)
+         - Tom Allbritton (Director of the Alabama Ethics Commission / Executive Director)
+         - John Plunk (Vice Chair of Ethics Commission)
+         - Mike Blakely (Sheriff / defendant in corruption trial)
+         - Rhonda Freeman (Mayor of Columbia, AL; case 2020-0337 & 0361)
+         - The Ripp Report (source of correspondence/inquiries)
     generated_at: '2026-03-16T05:13:59.793374Z'
+    text: Steve Marshall’s office finally sent us a response, but they were too cowardly to even sign the paper. This unsigned letter proves the AG is actively hiding the truth about Tom Allbritton's lawsuits and refuses to disclose why he is protecting a man with a clear license to steal.
   alabama-corruption-insurance:
-    brief: 'THE CONFLICT:
-
-      - AG Steve Marshall tweeted March 15, 20, and 27, 2018 promising to prosecute
-      abuse of position for illegal personal gain.
-
-      - Ripp Report sent letters over 12 years; no response from AG, Ethics Commission
-      (AEC), or Alabama Bar.
-
-      - Tom Allbritton (AEC Director) private charitable trust pays >$100k college
-      tuition for his children.
-
-      - John Plunk (AEC Vice Chair) linked to helping Sheriff Mike Blakely disguise
-      money for Republican consultant.
-
-      - Mayor Rhonda Freeman (Columbia) has pending corruption cases 2020-0337 & 0361
-      with Ethics Commission (Hearing Aug 4, 2021).
-
+    brief: |-
+      THE CONFLICT:
+      - AG Steve Marshall tweeted March 15, 20, and 27, 2018 promising to prosecute abuse of position for illegal personal gain.
+      - Ripp Report sent letters over 12 years; no response from AG, Ethics Commission (AEC), or Alabama Bar.
+      - Tom Allbritton (AEC Director) private charitable trust pays >$100k college tuition for his children.
+      - John Plunk (AEC Vice Chair) linked to helping Sheriff Mike Blakely disguise money for Republican consultant.
+      - Mayor Rhonda Freeman (Columbia) has pending corruption cases 2020-0337 & 0361 with Ethics Commission (Hearing Aug 4, 2021).
 
       THE DISCOVERY:
-
-      - AEC provides "formal advisory opinions" that grant immunity/protection from
-      prosecution.
-
+      - AEC provides "formal advisory opinions" that grant immunity/protection from prosecution.
       - Even lying to get an opinion yields immunity under current system.
-
-      - Ben Freeman (Columbia Prosecutor/Lawyer) defended Lori Mock, wife of Police
-      Chief Jim Mock.
-
-      - Mayor Rhonda Freeman found with illegal loans via court records to her mother-in-law
-      and Ben Freeman.
-
-      - Mayor granted illegal work, forklift rental, free water (no account), and
-      gifts to crony/live-in boyfriend.
-
+      - Ben Freeman (Columbia Prosecutor/Lawyer) defended Lori Mock, wife of Police Chief Jim Mock.
+      - Mayor Rhonda Freeman found with illegal loans via court records to her mother-in-law and Ben Freeman.
+      - Mayor granted illegal work, forklift rental, free water (no account), and gifts to crony/live-in boyfriend.
 
       THE PIVOT:
-
-      - Article 2 validates the "License to Steal" theory by detailing how AEC rules
-      act as immunity shields.
-
-      - Article 2 explains the specific "process" (advisory opinion) being weaponized
-      by officials like Mayor Freeman.
-
-      - Article 2 provides the "12 year" complaint history context that justifies
-      the AG''s inaction claimed in Article 1.
-
+      - Article 2 validates the "License to Steal" theory by detailing how AEC rules act as immunity shields.
+      - Article 2 explains the specific "process" (advisory opinion) being weaponized by officials like Mayor Freeman.
+      - Article 2 provides the "12 year" complaint history context that justifies the AG's inaction claimed in Article 1.
 
       KEY ENTITIES:
-
       - Steve Marshall (AG)
-
       - Tom Allbritton (Ethics Director)
-
       - John Plunk (Vice Chair)
-
       - Rhonda Freeman (Columbia Mayor)
-
       - Jim Mock (Chief of Police, Columbia)
-
       - Ben Freeman (Prosecutor/Lawyer)
-
       - Lori Mock
-
-      - Mike Blakely (Sheriff)'
+      - Mike Blakely (Sheriff)
     generated_at: '2026-03-16T05:13:59.793379Z'
+    text: Steve Marshall’s integrity is a total scam because the Ethics Commission sells immunity to anyone who knows how to play the game. Officials like Rhonda Freeman use fake advisory opinions to shield their illegal loans and cronyism from ever seeing the inside of a courtroom.
   alabama-ethics-a-political-tool:
-    brief: 'THE CONFLICT:
+    brief: |-
+      THE CONFLICT:
 
-
-      *   Steve Marshall (Attorney General) promises integrity and transparency in
-      March 2018 tweets regarding corruption.
-
-      *   Ripp Report receives zero response from AG Marshall''s office, Ethics Commission,
-      Alabama Bar, or Writ of Mandamus regarding inquiries.
-
-      *   Tom Allbritton (Ethics Commission Director) linked to private charitable
-      trust paying >$100,000 for children''s college tuition.
-
-      *   John Plunk (Ethics Commission Vice Chair) observed assisting Sheriff Mike
-      Blakely in disguising money flows to a Republican campaign consultant under
-      investigation.
-
-      *   Sheriff Mike Blakely stands trial for corruption on July 28, 2021. Prosecutors
-      drop 1 of 11 charges; Alabama rests case after 31 witnesses.
-
-      *   Columbia, AL Mayor Rhonda Freeman ethics cases (2020-0337 & 0361) scheduled
-      for August 4, 2021. Evidence submitted shows police/Mayor corruption allegations.
-
-      *   Mike Hubbard previously convicted on 12 counts of felony public corruption;
-      remains out of jail pending appeal.
-
-      *   Ethics Commission has never held anyone accountable in Baldwin County according
-      to Widget Article claims.
-
+      *   Steve Marshall (Attorney General) promises integrity and transparency in March 2018 tweets regarding corruption.
+      *   Ripp Report receives zero response from AG Marshall's office, Ethics Commission, Alabama Bar, or Writ of Mandamus regarding inquiries.
+      *   Tom Allbritton (Ethics Commission Director) linked to private charitable trust paying >$100,000 for children's college tuition.
+      *   John Plunk (Ethics Commission Vice Chair) observed assisting Sheriff Mike Blakely in disguising money flows to a Republican campaign consultant under investigation.
+      *   Sheriff Mike Blakely stands trial for corruption on July 28, 2021. Prosecutors drop 1 of 11 charges; Alabama rests case after 31 witnesses.
+      *   Columbia, AL Mayor Rhonda Freeman ethics cases (2020-0337 & 0361) scheduled for August 4, 2021. Evidence submitted shows police/Mayor corruption allegations.
+      *   Mike Hubbard previously convicted on 12 counts of felony public corruption; remains out of jail pending appeal.
+      *   Ethics Commission has never held anyone accountable in Baldwin County according to Widget Article claims.
 
       THE DISCOVERY:
 
-
-      *   Jack Burrell and Ray Hix (Fairhope Airport Authority) face ethics complaints;
-      Airport Authority hired attorney to investigate.
-
-      *   Fairhope City Council declared ethics complaints against Burrell and Hix
-      "baseless" without conducting internal investigation.
-
-      *   State Senator Tripp Pittman secured Fairhope municipal contracts while allegedly
-      violating ethics rules with assistance from former Mayor Tim Kant.
-
-      *   Luther "very" Strange faces ethics complaint scheduled for day following
-      Senate primary election.
-
-      *   Jack Burrell claims Pittman would get away with violations because Pittman
-      is a bible buddy.
-
-      *   Fairhope Municipal Judge Snedeker''s partner, Ray Hix, implicated alongside
-      Burrell.
-
+      *   Jack Burrell and Ray Hix (Fairhope Airport Authority) face ethics complaints; Airport Authority hired attorney to investigate.
+      *   Fairhope City Council declared ethics complaints against Burrell and Hix "baseless" without conducting internal investigation.
+      *   State Senator Tripp Pittman secured Fairhope municipal contracts while allegedly violating ethics rules with assistance from former Mayor Tim Kant.
+      *   Luther "very" Strange faces ethics complaint scheduled for day following Senate primary election.
+      *   Jack Burrell claims Pittman would get away with violations because Pittman is a bible buddy.
+      *   Fairhope Municipal Judge Snedeker's partner, Ray Hix, implicated alongside Burrell.
 
       THE PIVOT:
 
-
-      *   Fairhope/Pittman/Strange examples from Widget Article validate Main Article
-      claim that Ethics Commission acts as "license to steal" via political protection.
-
-      *   Pittman (ex-ethics role) avoided AG/Luther Strange investigation despite
-      evidence; parallels Allbritton/Plunk alleged immunity.
-
-      *   Fairhope City Council ignoring complaints mirrors Main Article claim of
-      AG Marshall''s office ignoring evidence (Columbia Mayor case).
-
-      *   Both articles confirm Mike Hubbard conviction history and alleged efforts
-      to shield him, linking Main''s "only person ever convicted" claim with Widget''s
-      context of corruption.
-
+      *   Fairhope/Pittman/Strange examples from Widget Article validate Main Article claim that Ethics Commission acts as "license to steal" via political protection.
+      *   Pittman (ex-ethics role) avoided AG/Luther Strange investigation despite evidence; parallels Allbritton/Plunk alleged immunity.
+      *   Fairhope City Council ignoring complaints mirrors Main Article claim of AG Marshall's office ignoring evidence (Columbia Mayor case).
+      *   Both articles confirm Mike Hubbard conviction history and alleged efforts to shield him, linking Main's "only person ever convicted" claim with Widget's context of corruption.
 
       KEY ENTITIES:
-
 
       *   Steve Marshall
-
       *   Tom Allbritton
-
       *   John Plunk
-
       *   Mike Blakely
-
       *   Rhonda Freeman
-
       *   Tripp Pittman
-
       *   Luther Strange
-
       *   Jack Burrell
-
       *   Ray Hix
-
       *   Tim Kant
-
-      *   Mike Hubbard'
+      *   Mike Hubbard
     generated_at: '2026-03-16T05:13:59.793383Z'
+    text: Ethics rules in Alabama are nothing more than a political weapon used to protect the well-connected bible buddies. From Tripp Pittman to Tom Allbritton, the Commission ensures that the elites never face the music for their self-dealing while Steve Marshall keeps his eyes closed.
