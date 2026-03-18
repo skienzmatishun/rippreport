@@ -1,282 +1,609 @@
 metadata:
-  generated_at: '2026-03-13T12:22:44.349784Z'
+  generated_at: '2026-03-17T22:41:36.442951Z'
   generator_version: 1.0.0
   post_slug: bayminette
-  refined_by: gemini
-  refined_at: '2026-03-13T18:39:15.701843Z'
 hooks:
   eyes-on-you-👀:
-    brief: |-
-      THE CONFLICT:
-      - Bay Minette Mayor Bob Wills owns property at 125 D’Olive Street, Bay Minette.
-      - Baldwin County Legislative Delegation (BCLD) leased space from Wills for their offices.
-      - Vote held Nov. 16, 2022 by Baldwin County Commission to approve lease with delegation paying full cost.
-      - Commissioner Billie Jo Underwood requested study of proposal; Jeb Ball supported condition lease is no cost to county.
-      - Lease initially reported by Gulf Coast Media as $49,080/year; Lagniappe confirmed actual rate $245,400 over 5 years.
-      - Property currently occupied by delegation on Oak Street is county-owned and free-of-charge.
-      - Allegations state Wills has pending Ethics complaint and Alabama Bar complaint regarding past "self dealing."
-      - Article mentions O.J. French killing coverage, alleging Wills, Sen. Chris Elliott, and Sheriff Hoss Mack are "joined at the hip."
-
-      THE DISCOVERY:
-      - Extension of lease confirmed via Widget Article reveals long-term financial exposure.
-      - 3 distinct 5-year lease periods alleged for the property:
-          - First term: $245,000 total.
-          - Second extension: ~$283,000.
-          - Third extension: ~$339,000.
-      - Cumulative alleged total for Mayor Wills via lease: $867,000.
-      - State Rep. Matt Simpson (House Seat 96) identified as Spokesman/Chairman for the delegation.
-      - Simpson appointed Chairman of House Ethics & Campaign Finance Committee by Speaker Nathaniel Ledbetter (article dated Dec 2022).
-      - Ripp Report filed complaint with Attorney General; notified Speaker of House legal counsel.
-
-      THE PIVOT:
-      - Article 2 confirms specific lease duration (3 possible extensions totaling 15 years) transforming the initial "quarter million" deal into an $867,000 long-term contract.
-      - Article 2 identifies Matt Simpson’s new chairmanship of the House Ethics and Finance Committee, creating direct conflict for oversight.
-      - Article 2 explicitly details Wills’ addition of two lease extensions to sweeten personal financial gain.
-      - Article 2 connects the lease directly to pending ethics scrutiny: Wills (defendant) vs. Simpson (ethics chair/lease participant).
-      - Article 2 escalates the scope from local leasing to potential statewide corruption (Speaker Ledbetter, Ethics committee chair role).
-
-      KEY ENTITIES:
-      - Bob Wills / Robert A. Wills, Sr (Mayor Bay Minette / Property Owner)
-      - Matt Simpson (State Rep House Seat 96, Chairman BCLD, Chair House Ethics & Campaign Finance Committee)
-      - Billie Jo Underwood (Commissioner, Budget Committee Chairwoman)
-      - Jeb Ball (Commissioner)
-      - Nathaniel Ledbetter (Speaker of House)
-      - Baldwin County Legislative Delegation (BCLD)
-      - Baldwin County Commission
-      - 125 D’Olive Street, Bay Minette (Leased Property)
-      - O.J. French (Contextual Corruption Case)
-      - Sen. Chris Elliott / Sheriff Hoss Mack (Collaborating Entities in Allegations)
+    brief: "THE CONFLICT:\n- Bay Minette Mayor Bob Wills owns property at 125 D’Olive\
+      \ Street, Bay Minette.\n- Baldwin County Legislative Delegation (BCLD) leased\
+      \ space from Wills for their offices.\n- Vote held Nov. 16, 2022 by Baldwin\
+      \ County Commission to approve lease with delegation paying full cost.\n- Commissioner\
+      \ Billie Jo Underwood requested study of proposal; Jeb Ball supported condition\
+      \ lease is no cost to county.\n- Lease initially reported by Gulf Coast Media\
+      \ as $49,080/year; Lagniappe confirmed actual rate $245,400 over 5 years.\n\
+      - Property currently occupied by delegation on Oak Street is county-owned and\
+      \ free-of-charge.\n- Allegations state Wills has pending Ethics complaint and\
+      \ Alabama Bar complaint regarding past \"self dealing.\"\n- Article mentions\
+      \ O.J. French killing coverage, alleging Wills, Sen. Chris Elliott, and Sheriff\
+      \ Hoss Mack are \"joined at the hip.\"\n\nTHE DISCOVERY:\n- Extension of lease\
+      \ confirmed via Widget Article reveals long-term financial exposure.\n- 3 distinct\
+      \ 5-year lease periods alleged for the property:\n    - First term: $245,000\
+      \ total.\n    - Second extension: ~$283,000.\n    - Third extension: ~$339,000.\n\
+      - Cumulative alleged total for Mayor Wills via lease: $867,000.\n- State Rep.\
+      \ Matt Simpson (House Seat 96) identified as Spokesman/Chairman for the delegation.\n\
+      - Simpson appointed Chairman of House Ethics & Campaign Finance Committee by\
+      \ Speaker Nathaniel Ledbetter (article dated Dec 2022).\n- Ripp Report filed\
+      \ complaint with Attorney General; notified Speaker of House legal counsel.\n\
+      \nTHE PIVOT:\n- Article 2 confirms specific lease duration (3 possible extensions\
+      \ totaling 15 years) transforming the initial \"quarter million\" deal into\
+      \ an $867,000 long-term contract.\n- Article 2 identifies Matt Simpson’s new\
+      \ chairmanship of the House Ethics and Finance Committee, creating direct conflict\
+      \ for oversight.\n- Article 2 explicitly details Wills’ addition of two lease\
+      \ extensions to sweeten personal financial gain.\n- Article 2 connects the lease\
+      \ directly to pending ethics scrutiny: Wills (defendant) vs. Simpson (ethics\
+      \ chair/lease participant).\n- Article 2 escalates the scope from local leasing\
+      \ to potential statewide corruption (Speaker Ledbetter, Ethics committee chair\
+      \ role).\n\nKEY ENTITIES:\n- Bob Wills / Robert A. Wills, Sr (Mayor Bay Minette\
+      \ / Property Owner)\n- Matt Simpson (State Rep House Seat 96, Chairman BCLD,\
+      \ Chair House Ethics & Campaign Finance Committee)\n- Billie Jo Underwood (Commissioner,\
+      \ Budget Committee Chairwoman)\n- Jeb Ball (Commissioner)\n- Nathaniel Ledbetter\
+      \ (Speaker of House)\n- Baldwin County Legislative Delegation (BCLD)\n- Baldwin\
+      \ County Commission\n- 125 D’Olive Street, Bay Minette (Leased Property)\n-\
+      \ O.J. French (Contextual Corruption Case)\n- Sen. Chris Elliott / Sheriff Hoss\
+      \ Mack (Collaborating Entities in Allegations)"
     generated_at: '2026-03-13T12:22:44.350254Z'
-    text: Bay Minette Mayor Bob Wills just scored a massive payday by leasing his personal property to the county delegation. This document reveals the deal could balloon to $867,000 while State Rep. Matt Simpson sits as the Ethics Chairman supposed to watch over him.
+    text: Bay Minette Mayor Bob Wills just scored a massive payday by leasing his
+      personal property to the county delegation. This document reveals the deal could
+      balloon to $867,000 while State Rep. Matt Simpson sits as the Ethics Chairman
+      supposed to watch over him.
+    character_count: 258
   go-to-hell-ethics:
-    brief: |-
-      THE CONFLICT:
-      - Mayor Bob Wills (Robert A. Wills, Sr.) is facing pending ethics complaints and an Alabama Bar complaint for self-dealing using his office for personal gain.
-      - The Baldwin County Legislative Delegation entered a 5-year lease with Mayor Wills for the first floor, parking lot, and grounds of his building at 125 D’Olive Street in Bay Minette.
-      - Lease terms approved via Baldwin County Commission vote on Nov 16; Lagniappe reported the agreement to be $49,080/year ($245,400 total) vs. Gulf Coast Media reporting a vote on Nov 16 to have delegation pay full cost ($49,080/year).
+    brief: 'THE CONFLICT:
+
+      - Mayor Bob Wills (Robert A. Wills, Sr.) is facing pending ethics complaints
+      and an Alabama Bar complaint for self-dealing using his office for personal
+      gain.
+
+      - The Baldwin County Legislative Delegation entered a 5-year lease with Mayor
+      Wills for the first floor, parking lot, and grounds of his building at 125 D’Olive
+      Street in Bay Minette.
+
+      - Lease terms approved via Baldwin County Commission vote on Nov 16; Lagniappe
+      reported the agreement to be $49,080/year ($245,400 total) vs. Gulf Coast Media
+      reporting a vote on Nov 16 to have delegation pay full cost ($49,080/year).
+
       - Lease term set from Jan 1, 2023, to Dec 31, 2027.
-      - Budget Committee Chair Billie Jo Underwood noted lack of discussion regarding the five-year commitment and cost conditions prior to voting.
+
+      - Budget Committee Chair Billie Jo Underwood noted lack of discussion regarding
+      the five-year commitment and cost conditions prior to voting.
+
 
       THE DISCOVERY:
-      - A revised lease agreement approved Tuesday by the Baldwin County Commission reduced monthly rent from $4,090 to $1,750.
-      - Brad Hicks (Baldwin Commission Attorney) publicly stated he sees no ethics violation with the Mayor renting his building to the Delegation while simultaneously refusing to contact the Ethics Commission, Attorney General, or Speaker of the House for an official legal opinion.
-      - The revised deal maintains access to two offices, conference rooms, and parking lot on D’Olive Street through December 2027.
-      - Cliff McCollum (Delegation Director of Constituent Services) justified the lease by citing inadequate space at their current Oak Street location for five new legislators.
-      - Reporters from The Ripp Report state complaints with the Ethics Commission were already filed before this rent adjustment.
+
+      - A revised lease agreement approved Tuesday by the Baldwin County Commission
+      reduced monthly rent from $4,090 to $1,750.
+
+      - Brad Hicks (Baldwin Commission Attorney) publicly stated he sees no ethics
+      violation with the Mayor renting his building to the Delegation while simultaneously
+      refusing to contact the Ethics Commission, Attorney General, or Speaker of the
+      House for an official legal opinion.
+
+      - The revised deal maintains access to two offices, conference rooms, and parking
+      lot on D’Olive Street through December 2027.
+
+      - Cliff McCollum (Delegation Director of Constituent Services) justified the
+      lease by citing inadequate space at their current Oak Street location for five
+      new legislators.
+
+      - Reporters from The Ripp Report state complaints with the Ethics Commission
+      were already filed before this rent adjustment.
+
 
       THE PIVOT:
-      - Article 2 is the smoking gun because it shows the deal proceeded without official oversight despite pending complaints; Brad Hicks' declaration that his opinion overrides legal channels confirms the bypass.
-      - The reduction in rent from $4,090/month to $1,750/month occurred specifically after ethics complaints and scrutiny were filed (proving awareness of pressure).
-      - The lack of a formal Ethics Commission or AG opinion, highlighted by Hicks, validates the central conflict: public funds are being used to lease from a politician facing ethics complaints regarding exactly that conduct.
+
+      - Article 2 is the smoking gun because it shows the deal proceeded without official
+      oversight despite pending complaints; Brad Hicks'' declaration that his opinion
+      overrides legal channels confirms the bypass.
+
+      - The reduction in rent from $4,090/month to $1,750/month occurred specifically
+      after ethics complaints and scrutiny were filed (proving awareness of pressure).
+
+      - The lack of a formal Ethics Commission or AG opinion, highlighted by Hicks,
+      validates the central conflict: public funds are being used to lease from a
+      politician facing ethics complaints regarding exactly that conduct.
+
 
       KEY ENTITIES:
+
       - Mayor Bob Wills / Robert A. Wills, Sr. (125 D’Olive Street Owner)
+
       - Brad Hicks (Baldwin Commission Attorney)
+
       - Billie Jo Underwood (Commissioner / Budget Committee Chair)
+
       - Jeb Ball (Commissioner)
+
       - Cliff McCollum (Delegation Director of Constituent Services)
+
       - Baldwin County Commission
-      - The Ripp Report / Lagniappe Mobile
+
+      - The Ripp Report / Lagniappe Mobile'
     generated_at: '2026-03-13T12:22:44.350263Z'
-    text: Baldwin County officials think they can dodge ethics laws by simply lowering the rent after getting caught. Attorney Brad Hicks actually claims his private opinion overrides the State Ethics Commission just to protect Mayor Bob Wills’ shady $245,400 lease.
+    text: Baldwin County officials think they can dodge ethics laws by simply lowering
+      the rent after getting caught. Attorney Brad Hicks actually claims his private
+      opinion overrides the State Ethics Commission just to protect Mayor Bob Wills’
+      shady $245,400 lease.
+    character_count: 256
   cover-up:
-    brief: |-
-      CONFLICT:
+    brief: 'CONFLICT:
+
       - O.J. French Jr killed by Bay Minette police on August 20, 2021.
-      - Public rumors allege a cover-up of the death involving Bay Minette Police, Baldwin County Major Crimes Unit (BCMCU), and City officials.
-      - BC BMCU Chairman Bay Minette Police Chief Al Tolbert is tasked with investigating member officers.
-      - Mayor Bob Wills has an outstanding ethics complaint regarding office use and personal gain, plus a pending Alabama Bar complaint.
-      - Albritton (Executive Director of Ethics Commission) faces three lawsuits; AG Steve Marshall accused Albritton of fraud and self-dealing.
+
+      - Public rumors allege a cover-up of the death involving Bay Minette Police,
+      Baldwin County Major Crimes Unit (BCMCU), and City officials.
+
+      - BC BMCU Chairman Bay Minette Police Chief Al Tolbert is tasked with investigating
+      member officers.
+
+      - Mayor Bob Wills has an outstanding ethics complaint regarding office use and
+      personal gain, plus a pending Alabama Bar complaint.
+
+      - Albritton (Executive Director of Ethics Commission) faces three lawsuits;
+      AG Steve Marshall accused Albritton of fraud and self-dealing.
+
 
       DISCOVERY:
-      - Baldwin County Legislative Delegation entered a 5-year lease agreement on Nov. 16 for the building at 125 D’Olive Street, Bay Minette.
+
+      - Baldwin County Legislative Delegation entered a 5-year lease agreement on
+      Nov. 16 for the building at 125 D’Olive Street, Bay Minette.
+
       - The property is owned by Mayor Bob Wills (Robert A. Wills, Sr.).
+
       - Lease rate set at $49,080/year ($245,400 total for 5 years) paid by the Delegation.
-      - Wills added two additional 5-year lease extensions, increasing potential revenue to approximately $867,000.
-      - County Attorney Brad Hicks states he sees no ethics violation but declined to seek official opinion from the Ethics Commission or AG.
+
+      - Wills added two additional 5-year lease extensions, increasing potential revenue
+      to approximately $867,000.
+
+      - County Attorney Brad Hicks states he sees no ethics violation but declined
+      to seek official opinion from the Ethics Commission or AG.
+
 
       PIVOT:
-      - Article 2 confirms the "quarter million dollar deal" mentioned in Article 1 is not rumor but a specific lease (125 D’Olive Street).
-      - Financial gain for Wills via the lease contrasts with his denial of "cover-up" claims regarding O.J. French’s death.
-      - Wills’ pattern of pending ethics complaints and Alabama Bar actions (as detailed in Art 2) matches the "self-dealing" claims regarding the lease.
-      - Validates Wills’ financial motive vs. public duty conflicts; Albritton’s own legal trouble (fraud/self-dealing) calls into question the handling of Wills’ ethics complaints.
+
+      - Article 2 confirms the "quarter million dollar deal" mentioned in Article
+      1 is not rumor but a specific lease (125 D’Olive Street).
+
+      - Financial gain for Wills via the lease contrasts with his denial of "cover-up"
+      claims regarding O.J. French’s death.
+
+      - Wills’ pattern of pending ethics complaints and Alabama Bar actions (as detailed
+      in Art 2) matches the "self-dealing" claims regarding the lease.
+
+      - Validates Wills’ financial motive vs. public duty conflicts; Albritton’s own
+      legal trouble (fraud/self-dealing) calls into question the handling of Wills’
+      ethics complaints.
+
 
       KEY ENTITIES:
+
       - Bob Wills (Mayor, Bay Minette)
+
       - Robert A. Wills, Sr. (Property Owner, 125 D’Olive Street)
+
       - Tamara French (Sister of O.J. French)
+
       - O.J. French Jr
+
       - Al Tolbert (Bay Minette Police Chief, BCMCU Chairman)
+
       - Sheriff Huey Mack
+
       - Brad Kendrick (Robertsdale Police Chief)
+
       - David Carpenter (Daphne Police Chief)
+
       - Thurston Bullock (Foley Police Chief)
+
       - Edward Delmore (Gulf Shores Police Chief)
+
       - Jeb Ball (Baldwin County Commissioner)
+
       - Billie Jo Underwood (Commissioner, Budget Committee Chairwoman)
+
       - Steve Marshall (Alabama Attorney General)
-      - Mr. Albritton (Ethics Commission Executive Director)
+
+      - Mr. Albritton (Ethics Commission Executive Director)'
     generated_at: '2026-03-13T12:22:44.350277Z'
-    text: Mayor Bob Wills denies covering up the O.J. French killing while he pockets a nearly million-dollar lease from the county. This proof shows Wills used his office for personal gain while the state’s top ethics official faced his own fraud lawsuits.
+    text: Mayor Bob Wills denies covering up the O.J. French killing while he pockets
+      a nearly million-dollar lease from the county. This proof shows Wills used his
+      office for personal gain while the state’s top ethics official faced his own
+      fraud lawsuits.
+    character_count: 247
   bonum-est-faciet-2022:
-    brief: "THE CONFLICT: \n- Baldwin County Legislative Delegation leases office space at 125 D’Olive Street, Bay Minette.\n- Deal approved Tuesday, Nov 16 (2022) by Baldwin County Commission.\n- Lease term: Jan 1, 2023 – Dec 31, 2027 (five years).\n- Financial terms: $49,080/year or ~$4,090/month (approx. quarter million total).\n- Conflicted party: Mayor Bob Wills, Sr. of Bay Minette owns the building leased to the delegation/state offices.\n- Gulf Coast Media reported the lease agreement but, per Main Article, failed to disclose Mayor Wills’ ownership in the initial headline/scope.\n- Conflict involves public official renting from a citizen/landlord while overseeing local city affairs and infrastructure demands.\n\nTHE DISCOVERY: \n- Widget Article confirms Wills owns/is providing the rental space (\"Mayor of Bay Minette Robert A Bob Wills just so happens to have an available building\").\n- Widget Article links Alabama Ethics Commission Executive Director Tom Albritton as a Trustee\
-      \ of the Mable Amos Trust.\n- Widget Article states AG Steve Marshall is pursuing interest in the Mable Amos Trust lawsuit (\"State of Alabama has an interest\").\n- Widget Article identifies media partners (NPR, ECT, Yellow Hammer News) as part of Matrix LLC Network, implying a coordinated narrative suppression or framing.\n\nTHE PIVOT: \n- Article 2 serves as external validation of the conflict interest raised in Article 1 (Wills = Landlord).\n- Article 2 implicates the ethics oversight bodies mentioned in Article 1 (Ethics Commission, AG Marshall).\n- Widget reveals Tom Albritton holds a role in the Mable Amos Trust while serving as Ethics Commission Executive Director, suggesting potential systemic conflicts mirroring Wills’ alleged conduct.\n- Widget context implies AG Marshall’s inaction/interest is suspicious, reinforcing Article 1’s claim that officials are \"holding their nose\" and not enforcing laws.\n\nKEY ENTITIES:\n- Persons: Bob Wills, Sr. (Mayor), Robert A. Wills, Clifford\
-      \ \"Cliff\" McCollum (Dir of Constituent Services), Jeb Ball (Commissioner), Billie Jo Underwood (Budget Committee Chairwoman), Tom Albritton, Steve Marshall (AG).\n- Locations: 125 D’Olive Street, Bay Minette; Oak Street (current delegation office).\n- Organizations: Baldwin County Legislative Delegation, Baldwin County Commission, Alabama Ethics Commission, Mable Amos Trust, Gulf Coast Media, Lagniappe."
+    brief: "THE CONFLICT: \n- Baldwin County Legislative Delegation leases office\
+      \ space at 125 D’Olive Street, Bay Minette.\n- Deal approved Tuesday, Nov 16\
+      \ (2022) by Baldwin County Commission.\n- Lease term: Jan 1, 2023 – Dec 31,\
+      \ 2027 (five years).\n- Financial terms: $49,080/year or ~$4,090/month (approx.\
+      \ quarter million total).\n- Conflicted party: Mayor Bob Wills, Sr. of Bay Minette\
+      \ owns the building leased to the delegation/state offices.\n- Gulf Coast Media\
+      \ reported the lease agreement but, per Main Article, failed to disclose Mayor\
+      \ Wills’ ownership in the initial headline/scope.\n- Conflict involves public\
+      \ official renting from a citizen/landlord while overseeing local city affairs\
+      \ and infrastructure demands.\n\nTHE DISCOVERY: \n- Widget Article confirms\
+      \ Wills owns/is providing the rental space (\"Mayor of Bay Minette Robert A\
+      \ Bob Wills just so happens to have an available building\").\n- Widget Article\
+      \ links Alabama Ethics Commission Executive Director Tom Albritton as a Trustee\
+      \ of the Mable Amos Trust.\n- Widget Article states AG Steve Marshall is pursuing\
+      \ interest in the Mable Amos Trust lawsuit (\"State of Alabama has an interest\"\
+      ).\n- Widget Article identifies media partners (NPR, ECT, Yellow Hammer News)\
+      \ as part of Matrix LLC Network, implying a coordinated narrative suppression\
+      \ or framing.\n\nTHE PIVOT: \n- Article 2 serves as external validation of the\
+      \ conflict interest raised in Article 1 (Wills = Landlord).\n- Article 2 implicates\
+      \ the ethics oversight bodies mentioned in Article 1 (Ethics Commission, AG\
+      \ Marshall).\n- Widget reveals Tom Albritton holds a role in the Mable Amos\
+      \ Trust while serving as Ethics Commission Executive Director, suggesting potential\
+      \ systemic conflicts mirroring Wills’ alleged conduct.\n- Widget context implies\
+      \ AG Marshall’s inaction/interest is suspicious, reinforcing Article 1’s claim\
+      \ that officials are \"holding their nose\" and not enforcing laws.\n\nKEY ENTITIES:\n\
+      - Persons: Bob Wills, Sr. (Mayor), Robert A. Wills, Clifford \"Cliff\" McCollum\
+      \ (Dir of Constituent Services), Jeb Ball (Commissioner), Billie Jo Underwood\
+      \ (Budget Committee Chairwoman), Tom Albritton, Steve Marshall (AG).\n- Locations:\
+      \ 125 D’Olive Street, Bay Minette; Oak Street (current delegation office).\n\
+      - Organizations: Baldwin County Legislative Delegation, Baldwin County Commission,\
+      \ Alabama Ethics Commission, Mable Amos Trust, Gulf Coast Media, Lagniappe."
     generated_at: '2026-03-13T12:22:44.350282Z'
-    text: Mayor Bob Wills is playing landlord to the very politicians who should be investigating his blatant conflicts of interest. This file exposes how Ethics Director Tom Albritton and AG Steve Marshall are too tangled in their own trust scandals to lift a finger.
+    text: Mayor Bob Wills is playing landlord to the very politicians who should be
+      investigating his blatant conflicts of interest. This file exposes how Ethics
+      Director Tom Albritton and AG Steve Marshall are too tangled in their own trust
+      scandals to lift a finger.
+    character_count: 258
   bay-minette-vote-out-mayor-wills-remember-oj-french:
-    brief: |-
-      THE CONFLICT:
-      - Mayor Bob Wills of Bay Minette approved a $245,400, five-year lease deal for the Baldwin County Legislative Delegation.
-      - Deal details: 125 D’Olive Street (D'Olive Street location).
-      - Agreement date: Nov. 16, 2022 (Lease starts Jan. 1, 2023 through Dec. 31, 2027).
+    brief: 'THE CONFLICT:
+
+      - Mayor Bob Wills of Bay Minette approved a $245,400, five-year lease deal for
+      the Baldwin County Legislative Delegation.
+
+      - Deal details: 125 D’Olive Street (D''Olive Street location).
+
+      - Agreement date: Nov. 16, 2022 (Lease starts Jan. 1, 2023 through Dec. 31,
+      2027).
+
       - Wills personally owns the building leased to the delegation.
-      - Gulf Coast Media claimed deal was for $49,080/year initially; Lagniappe confirmed total value of $245,400 split ($49,080/year vs. total).
-      - Baldwin County Commission approved lease even though delegation agreed to pay entire cost while currently using county-owned building free of charge.
+
+      - Gulf Coast Media claimed deal was for $49,080/year initially; Lagniappe confirmed
+      total value of $245,400 split ($49,080/year vs. total).
+
+      - Baldwin County Commission approved lease even though delegation agreed to
+      pay entire cost while currently using county-owned building free of charge.
+
 
       THE DISCOVERY:
-      - A federal lawsuit has been filed on behalf of O.J. French and his family (Otis French Sr vs. City of Bay Minette, Alabama).
-      - Federal complaint details: Alleged lies by Wills and Sheriff Department regarding circumstances of O.J. French son’s death.
-      - Article 2 confirms that Wills lied to the family and community; he doubled down on initial statements.
-      - Chief Al Tolbert (Bay Minette) is listed as Chairman of the Baldwin County Major Crimes Unit (BCMCU).
-      - Article 2 alleges BCMCU has "no credibility" because it is investigating its own members with Tolbert as leader.
+
+      - A federal lawsuit has been filed on behalf of O.J. French and his family (Otis
+      French Sr vs. City of Bay Minette, Alabama).
+
+      - Federal complaint details: Alleged lies by Wills and Sheriff Department regarding
+      circumstances of O.J. French son’s death.
+
+      - Article 2 confirms that Wills lied to the family and community; he doubled
+      down on initial statements.
+
+      - Chief Al Tolbert (Bay Minette) is listed as Chairman of the Baldwin County
+      Major Crimes Unit (BCMCU).
+
+      - Article 2 alleges BCMCU has "no credibility" because it is investigating its
+      own members with Tolbert as leader.
+
 
       THE PIVOT:
-      - Article 2 is the 'smoking gun' because it validates the ethics and integrity concerns raised in Article 1 with concrete legal filings (Federal Lawsuit).
-      - Article 2 explicitly confirms the "ethics complaints" and "Alabama Bar complaint" mentioned in Article 1 by stating his reputation involves "questionable self serving deals" and complaints ignored by oversight bodies.
-      - Article 2 reveals Chief Tolbert’s direct role (BCMCU Chairman) which connects the "rumors" and lack of information in Article 1 to specific individuals, confirming Wills’ alleged cover-up tactics align with the financial conflict of interest in Article 1.
+
+      - Article 2 is the ''smoking gun'' because it validates the ethics and integrity
+      concerns raised in Article 1 with concrete legal filings (Federal Lawsuit).
+
+      - Article 2 explicitly confirms the "ethics complaints" and "Alabama Bar complaint"
+      mentioned in Article 1 by stating his reputation involves "questionable self
+      serving deals" and complaints ignored by oversight bodies.
+
+      - Article 2 reveals Chief Tolbert’s direct role (BCMCU Chairman) which connects
+      the "rumors" and lack of information in Article 1 to specific individuals, confirming
+      Wills’ alleged cover-up tactics align with the financial conflict of interest
+      in Article 1.
+
 
       KEY ENTITIES:
+
       - Bob Wills (Mayor of Bay Minette, Robert A. Wills, Sr.)
+
       - Joshua Brown (Candidate for Mayor)
+
       - O.J. French / Otis French Sr.
+
       - Al Tolbert (Chief of Bay Minette Police, BCMCU Chairman)
+
       - Baldwin County Major Crimes Unit (BCMCU)
+
       - Baldwin County Commission / City Council
-      - Gulf Coast Media vs. Lagniappe (Media reporting discrepancy)
+
+      - Gulf Coast Media vs. Lagniappe (Media reporting discrepancy)'
     generated_at: '2026-03-13T12:22:44.350296Z'
-    text: Mayor Bob Wills wants you to ignore his $245,000 rental scheme while a federal lawsuit accuses him of lying about a police killing. These documents prove Chief Al Tolbert is investigating his own department while Wills doubles down on his self-serving deceptions.
+    text: Mayor Bob Wills wants you to ignore his $245,000 rental scheme while a federal
+      lawsuit accuses him of lying about a police killing. These documents prove Chief
+      Al Tolbert is investigating his own department while Wills doubles down on his
+      self-serving deceptions.
+    character_count: 263
   green-acres-on-acid:
-    brief: |-
-      THE CONFLICT
-      - Bay Minette Mayor Bob Wills signed a lease agreement Nov 16 allowing Baldwin County Legislative Delegation to rent his property.
+    brief: 'THE CONFLICT
+
+      - Bay Minette Mayor Bob Wills signed a lease agreement Nov 16 allowing Baldwin
+      County Legislative Delegation to rent his property.
+
       - Property located at 125 D’Olive Street, Bay Minette.
-      - Lease value: $49,080/year proposed initially; confirmed total of $245,400 over five years ($4,090/month) per Lagniappe.
+
+      - Lease value: $49,080/year proposed initially; confirmed total of $245,400
+      over five years ($4,090/month) per Lagniappe.
+
       - Lease term: Jan 1, 2023 to Dec 31, 2027.
-      - Wills also serves as Mayor for the city housing vacant downtown buildings while profiting from county taxpayer-subsidized rental arrangement.
-      - Initial Gulf Coast Media report omitted Wills as property owner; Lagniappe confirmed ownership.
-      - Mayor Wills has an outstanding ethics complaint and Alabama Bar complaint pending.
+
+      - Wills also serves as Mayor for the city housing vacant downtown buildings
+      while profiting from county taxpayer-subsidized rental arrangement.
+
+      - Initial Gulf Coast Media report omitted Wills as property owner; Lagniappe
+      confirmed ownership.
+
+      - Mayor Wills has an outstanding ethics complaint and Alabama Bar complaint
+      pending.
+
 
       THE DISCOVERY
-      - Former Orange Beach Mayor Steve Russo convicted in 2006, but no subsequent FBI, Ethics, or Attorney General investigation led to trial in 10+ years.
-      - State Senator Tripp Pittman secured $750,000 in personal gain via BP contracts (Fairhope and Perdido Beach).
-      - Pittman awarded contracts without a general contractor’s license, violating felony law.
-      - Pittman’s company supplied defective oil boom; failed to recover anchors as required by contract (cut ropes, left debris).
-      - Ethics complaint filed against Pittman led to FBI investigation and Grand Jury.
-      - Investigation stalled; case remains inactive at Alabama Attorney General’s white collar crime division years later.
-      - Alabama Ethics Commission has failed to act on one complaint arising from Baldwin County.
+
+      - Former Orange Beach Mayor Steve Russo convicted in 2006, but no subsequent
+      FBI, Ethics, or Attorney General investigation led to trial in 10+ years.
+
+      - State Senator Tripp Pittman secured $750,000 in personal gain via BP contracts
+      (Fairhope and Perdido Beach).
+
+      - Pittman awarded contracts without a general contractor’s license, violating
+      felony law.
+
+      - Pittman’s company supplied defective oil boom; failed to recover anchors as
+      required by contract (cut ropes, left debris).
+
+      - Ethics complaint filed against Pittman led to FBI investigation and Grand
+      Jury.
+
+      - Investigation stalled; case remains inactive at Alabama Attorney General’s
+      white collar crime division years later.
+
+      - Alabama Ethics Commission has failed to act on one complaint arising from
+      Baldwin County.
+
 
       THE PIVOT
-      - Article 2 proves the local "corruption ecosystem" is active: officials (Pittman, Russo) previously utilized conflict of interest and contracts for personal gain.
-      - Article 2 proves oversight failures: FBI, Ethics Commission, and AG have shown historical inaction despite Pittman felony/license issues.
-      - Article 2 validates that a conflict-of-interest lease (Article 1 between Mayor and Delegation) is unlikely to trigger consequences because the investigative bodies are already compromised or inactive.
+
+      - Article 2 proves the local "corruption ecosystem" is active: officials (Pittman,
+      Russo) previously utilized conflict of interest and contracts for personal gain.
+
+      - Article 2 proves oversight failures: FBI, Ethics Commission, and AG have shown
+      historical inaction despite Pittman felony/license issues.
+
+      - Article 2 validates that a conflict-of-interest lease (Article 1 between Mayor
+      and Delegation) is unlikely to trigger consequences because the investigative
+      bodies are already compromised or inactive.
+
 
       KEY ENTITIES
+
       - Bob Wills (Bay Minette Mayor, Property Owner)
+
       - Tripp Pittman (State Senator)
+
       - Steve Russo (Former Orange Beach Mayor)
+
       - Baldwin County Commission
+
       - Alabama Ethics Commission
+
       - FBI
-      - Gulf Coast Media / Lagniappe
+
+      - Gulf Coast Media / Lagniappe'
     generated_at: '2026-03-13T12:22:44.350301Z'
-    text: Baldwin County’s corruption runs deep, from Mayor Bob Wills’ rental scams to Senator Tripp Pittman’s illegal BP contracts. This evidence shows how the AG and FBI let high-ranking thieves walk free, making Wills’ latest payday look like just another day at the office.
+    text: Baldwin County’s corruption runs deep, from Mayor Bob Wills’ rental scams
+      to Senator Tripp Pittman’s illegal BP contracts. This evidence shows how the
+      AG and FBI let high-ranking thieves walk free, making Wills’ latest payday look
+      like just another day at the office.
+    character_count: 267
   you-show-me-yours-and-i-will-show-you-mine-letter-that-is:
-    brief: |-
-      - Conflict: Bay Minette Mayor Bob Wills leased property at 125 D’Olive Street to Baldwin County Delegation’s legislative office for five years starting Jan 1, 2023. Mayor Wills owns the building used as his law office; he is simultaneously County Legislative Director and landlord for county-funded legislative delegation space. Lease cost $245,400 total ($4,9080 initially discussed/confirmed as $245k total). Voted by Baldwin County Commission Nov 16. Gulf Coast Media did not report Wills ownership; Lagniappe and Ripp Report identified it as mayor-owned.
-
-      - Discovery: Ripp Report (via Widget Article) identifies formal complaints filed against Fairhope Mayor Kant and Senator Pittman involving same Baldwin County Ethics Commission, Alabama Attorney General, and Bar Association. Ripp Report confirms Pittman lacked a general contractor license during previous projects and alleges improper bidding for debris removal contracts involving Pittman’s company. Ripp Report notes Ethics Commission "closed the file" without formal investigation despite FBI/Grand Jury prior involvement.
-
-      - Pivot: Article 2 is the procedural "smoking gun" because it confirms The Ripp Report’s standing to file legitimate ethical complaints using Baldwin County Ethics Commission and Special Prosecutor Matt Hart channels. Article 1 notes Wills is subject to an ethics complaint; Article 2 validates that The Ripp Report is using the exact same watchdog mechanisms (Ethics Commission, AG White Collar Division) to expose similar conflicts of interest in Baldwin County officials.
-
-      - Key Entities:
-          - Bob Wills (Mayor, Bay Minette)
-          - Pittman (Senator)
-          - Kant (Mayor, Fairhope)
-          - Baldwin County Ethics Commission
-          - Alabama Attorney General Special Prosecutor Matt Hart
-          - Cliff McCollum (Director of Constituent Services, Baldwin County Delegation)
+    brief: "- Conflict: Bay Minette Mayor Bob Wills leased property at 125 D’Olive\
+      \ Street to Baldwin County Delegation’s legislative office for five years starting\
+      \ Jan 1, 2023. Mayor Wills owns the building used as his law office; he is simultaneously\
+      \ County Legislative Director and landlord for county-funded legislative delegation\
+      \ space. Lease cost $245,400 total ($4,9080 initially discussed/confirmed as\
+      \ $245k total). Voted by Baldwin County Commission Nov 16. Gulf Coast Media\
+      \ did not report Wills ownership; Lagniappe and Ripp Report identified it as\
+      \ mayor-owned.\n\n- Discovery: Ripp Report (via Widget Article) identifies formal\
+      \ complaints filed against Fairhope Mayor Kant and Senator Pittman involving\
+      \ same Baldwin County Ethics Commission, Alabama Attorney General, and Bar Association.\
+      \ Ripp Report confirms Pittman lacked a general contractor license during previous\
+      \ projects and alleges improper bidding for debris removal contracts involving\
+      \ Pittman’s company. Ripp Report notes Ethics Commission \"closed the file\"\
+      \ without formal investigation despite FBI/Grand Jury prior involvement.\n\n\
+      - Pivot: Article 2 is the procedural \"smoking gun\" because it confirms The\
+      \ Ripp Report’s standing to file legitimate ethical complaints using Baldwin\
+      \ County Ethics Commission and Special Prosecutor Matt Hart channels. Article\
+      \ 1 notes Wills is subject to an ethics complaint; Article 2 validates that\
+      \ The Ripp Report is using the exact same watchdog mechanisms (Ethics Commission,\
+      \ AG White Collar Division) to expose similar conflicts of interest in Baldwin\
+      \ County officials.\n\n- Key Entities:\n    - Bob Wills (Mayor, Bay Minette)\n\
+      \    - Pittman (Senator)\n    - Kant (Mayor, Fairhope)\n    - Baldwin County\
+      \ Ethics Commission\n    - Alabama Attorney General Special Prosecutor Matt\
+      \ Hart\n    - Cliff McCollum (Director of Constituent Services, Baldwin County\
+      \ Delegation)"
     generated_at: '2026-03-13T12:22:44.350337Z'
-    text: Mayor Bob Wills thinks he is safe from ethics charges, but he is using the same playbook as every other crooked local boss. This breakdown proves the Ethics Commission keeps closing files on guys like Tripp Pittman while ignoring the obvious stench of Wills’ $245,400 deal.
+    text: Mayor Bob Wills thinks he is safe from ethics charges, but he is using the
+      same playbook as every other crooked local boss. This breakdown proves the Ethics
+      Commission keeps closing files on guys like Tripp Pittman while ignoring the
+      obvious stench of Wills’ $245,400 deal.
+    character_count: 273
   legal-corruption:
-    brief: |-
-      THE CONFLICT:
-      - Mayor Bob Wills (Bay Minette) personally owns the building at 125 D’Olive Street used as office space by Baldwin County Legislative Delegation.
-      - Agreement finalized Nov 16 (2022/2023) between Baldwin County Commission and Legislative Delegation.
+    brief: 'THE CONFLICT:
+
+      - Mayor Bob Wills (Bay Minette) personally owns the building at 125 D’Olive
+      Street used as office space by Baldwin County Legislative Delegation.
+
+      - Agreement finalized Nov 16 (2022/2023) between Baldwin County Commission and
+      Legislative Delegation.
+
       - Lease term: Jan 1, 2023 to Dec 31, 2027 (5 years).
+
       - Cost: $49,080 per year ($245,400 total).
-      - Financial arrangement: Legislative Delegation agrees to pay 100% of lease cost. Baldwin County Commission vote approves this arrangement where initially commission was expected to split cost, changed due to delegation willingness to pay full amount.
-      - Downtown Bay Minette context: Described in Main Article as "vacant, abandoned and disintegrated"; Wills lease selected over existing county-owned office on Oak Street.
+
+      - Financial arrangement: Legislative Delegation agrees to pay 100% of lease
+      cost. Baldwin County Commission vote approves this arrangement where initially
+      commission was expected to split cost, changed due to delegation willingness
+      to pay full amount.
+
+      - Downtown Bay Minette context: Described in Main Article as "vacant, abandoned
+      and disintegrated"; Wills lease selected over existing county-owned office on
+      Oak Street.
+
 
       THE DISCOVERY:
-      - Widget Article establishes Baldwin County officials operate within a framework of "inbred" corruption where accountability is absent.
-      - Cites Tripp Pittman (Former State Senator, BP fund trustee) awarded $750,000 in contracts from Fairhope with Mayor assistance; no one held accountable.
-      - Cites Chris Elliott (State Senator, former Commissioner) pushed gas tax without voter approval despite campaign promise against taxes.
-      - Cites Fairhope Councilman Burrell utilizing municipal judge’s private jet and overseeing bids for the judge.
+
+      - Widget Article establishes Baldwin County officials operate within a framework
+      of "inbred" corruption where accountability is absent.
+
+      - Cites Tripp Pittman (Former State Senator, BP fund trustee) awarded $750,000
+      in contracts from Fairhope with Mayor assistance; no one held accountable.
+
+      - Cites Chris Elliott (State Senator, former Commissioner) pushed gas tax without
+      voter approval despite campaign promise against taxes.
+
+      - Cites Fairhope Councilman Burrell utilizing municipal judge’s private jet
+      and overseeing bids for the judge.
+
       - Cites Fairhope Councilman Boone voting on LLCs in which he has partners.
-      - Confirms no ethical repercussions or investigations into similar conflicts of interest (private jets, dual roles, LLC ownership).
+
+      - Confirms no ethical repercussions or investigations into similar conflicts
+      of interest (private jets, dual roles, LLC ownership).
+
       - Notes 2019 Alabama Ethics Bill attempts to legalize such corruption.
 
+
       THE PIVOT:
-      - Widget Article serves as the "smoking gun" by confirming that the type of self-dealing and conflict of interest detailed in Article 1 (Mayor Wills leasing property to county) is the documented norm across Baldwin County government.
-      - Connects Mayor Wills (Article 1) to the broader network of corrupt officials named in Article 2 (Pittman, Elliott, Fairhope Councils) within the same jurisdiction.
-      - Validates Article 1’s accusation of “no one is held accountable” by providing specific examples (Pittman, Elliott, Fairhope officials) where similar unethical behavior occurred without consequence.
-      - Links the specific lease deal ($245,000) to the broader "Catalyst" style good-ole-boy deals described in Widget (CATALYST mega-site, BP funds mismanagement).
+
+      - Widget Article serves as the "smoking gun" by confirming that the type of
+      self-dealing and conflict of interest detailed in Article 1 (Mayor Wills leasing
+      property to county) is the documented norm across Baldwin County government.
+
+      - Connects Mayor Wills (Article 1) to the broader network of corrupt officials
+      named in Article 2 (Pittman, Elliott, Fairhope Councils) within the same jurisdiction.
+
+      - Validates Article 1’s accusation of “no one is held accountable” by providing
+      specific examples (Pittman, Elliott, Fairhope officials) where similar unethical
+      behavior occurred without consequence.
+
+      - Links the specific lease deal ($245,000) to the broader "Catalyst" style good-ole-boy
+      deals described in Widget (CATALYST mega-site, BP funds mismanagement).
+
 
       KEY ENTITIES:
+
       - Bob Wills (Mayor of Bay Minette / Robert A. Wills, Sr.)
+
       - Baldwin County Commission (Commissioners Billie Jo Underwood, Jeb Ball)
-      - Baldwin County Legislative Delegation (State Senators: includes Chris Elliott; Greg Albritton referenced in sidebar link)
+
+      - Baldwin County Legislative Delegation (State Senators: includes Chris Elliott;
+      Greg Albritton referenced in sidebar link)
+
       - Cliff McCollum (Director of Constituent Services, Legislative Delegation)
+
       - Tripp Pittman (Former State Senator / BP Fund Trustee)
+
       - Chris Elliott (State Senator)
+
       - Fairhope City Council: Burrell, Boone, Brown, Robinson, Conyers
+
       - Municipal Judge (Fairhope) / Airport Board Partner
-      - BCMCU (Baldwin County Major Crimes Unit)
+
+      - BCMCU (Baldwin County Major Crimes Unit)'
     generated_at: '2026-03-13T12:22:44.350342Z'
-    text: Mayor Bob Wills leasing his building to the county is just the latest move in a long game of inbred corruption across Baldwin County. This report links Wills to a network of officials like Chris Elliott who trade public trust for private jets and gas tax hikes.
+    text: Mayor Bob Wills leasing his building to the county is just the latest move
+      in a long game of inbred corruption across Baldwin County. This report links
+      Wills to a network of officials like Chris Elliott who trade public trust for
+      private jets and gas tax hikes.
+    character_count: 261
   fire:
-    brief: |-
-      THE CONFLICT:
-      - Baldwin County Legislative Delegation entered a 5-year lease agreement starting Jan. 1, 2023, for $4,090/month ($245,400 total) with Bob Wills Sr., who owns the building at 125 D’Olive St, Bay Minette.
-      - Vote occurred Nov. 16 during Baldwin County Commission meeting regarding delegation offices; delegation agreed to pay full lease cost, bypassing commission split cost proposal.
-      - Gulf Coast Media reported delegation moving into new Bay Minette office but omitted Wills was the property owner.
-      - Lagniappe confirmed Mayor Wills owns the building, citing lease agreement presented to Commission.
-      - Ethics complaints and Alabama Bar complaints remain active regarding Wills’ office use, ethics, and potential conflicts of interest.
-      - Commissioner Tucker Dorsey history includes 2010 firing of County Manager, EMA Director, and attorneys who attempted to block ethics charges against Sen. Pittman regarding a BP grant.
-      - Dorsey ignored warnings that Sen. Pittman received $750,000 in combined BP Boom deployment contracts while appointed "trustee" of funds.
+    brief: 'THE CONFLICT:
+
+      - Baldwin County Legislative Delegation entered a 5-year lease agreement starting
+      Jan. 1, 2023, for $4,090/month ($245,400 total) with Bob Wills Sr., who owns
+      the building at 125 D’Olive St, Bay Minette.
+
+      - Vote occurred Nov. 16 during Baldwin County Commission meeting regarding delegation
+      offices; delegation agreed to pay full lease cost, bypassing commission split
+      cost proposal.
+
+      - Gulf Coast Media reported delegation moving into new Bay Minette office but
+      omitted Wills was the property owner.
+
+      - Lagniappe confirmed Mayor Wills owns the building, citing lease agreement
+      presented to Commission.
+
+      - Ethics complaints and Alabama Bar complaints remain active regarding Wills’
+      office use, ethics, and potential conflicts of interest.
+
+      - Commissioner Tucker Dorsey history includes 2010 firing of County Manager,
+      EMA Director, and attorneys who attempted to block ethics charges against Sen.
+      Pittman regarding a BP grant.
+
+      - Dorsey ignored warnings that Sen. Pittman received $750,000 in combined BP
+      Boom deployment contracts while appointed "trustee" of funds.
+
       - Dorsey linked to "Mega Site" Mega Bust costing county over $50 million.
-      - Dorsey faced ethics scrutiny regarding Mobile Area Boy Scouts financial bleeding and business ties (referenced in Lagniappe’s "Too Many Connections").
+
+      - Dorsey faced ethics scrutiny regarding Mobile Area Boy Scouts financial bleeding
+      and business ties (referenced in Lagniappe’s "Too Many Connections").
+
 
       THE DISCOVERY:
-      - Lagniappe Mobile is identified as the investigative source exposing both the Wills lease detail (Main Article) and Dorsey’s corruption ties (Widget Article).
-      - Lagniappe confirmed the conflict of interest in Wills' lease that Gulf Coast Media omitted.
-      - Widget article cites Lagniappe "Too Many Connections" report as proof of existing corruption networks involving Commissioner Dorsey.
-      - Widget confirms an "existing ethics complaint" is being prepared against Dorsey based on the connections revealed.
+
+      - Lagniappe Mobile is identified as the investigative source exposing both the
+      Wills lease detail (Main Article) and Dorsey’s corruption ties (Widget Article).
+
+      - Lagniappe confirmed the conflict of interest in Wills'' lease that Gulf Coast
+      Media omitted.
+
+      - Widget article cites Lagniappe "Too Many Connections" report as proof of existing
+      corruption networks involving Commissioner Dorsey.
+
+      - Widget confirms an "existing ethics complaint" is being prepared against Dorsey
+      based on the connections revealed.
+
 
       THE PIVOT:
-      - Lagniappe serves as the primary intelligence bridge verifying facts in both articles simultaneously.
-      - The Widget article validates that Baldwin County leadership has a systemic pattern of avoiding ethics (BP contracts, Boy Scouts), bolstering credibility of Main Article’s claim that Wills’ lease is not an isolated incident but part of established leadership behavior.
-      - Main Article relies on Lagniappe to bypass official silence from BCMCU and County Commission regarding rumors about Wills, O.J. French, and the new jail.
+
+      - Lagniappe serves as the primary intelligence bridge verifying facts in both
+      articles simultaneously.
+
+      - The Widget article validates that Baldwin County leadership has a systemic
+      pattern of avoiding ethics (BP contracts, Boy Scouts), bolstering credibility
+      of Main Article’s claim that Wills’ lease is not an isolated incident but part
+      of established leadership behavior.
+
+      - Main Article relies on Lagniappe to bypass official silence from BCMCU and
+      County Commission regarding rumors about Wills, O.J. French, and the new jail.
+
 
       KEY ENTITIES:
+
       - Bob Wills Sr. (Bay Minette Mayor, Property Owner)
+
       - Tucker Dorsey (Baldwin County Commissioner)
+
       - Lagniappe Mobile (Investigative Source)
+
       - Baldwin County Commission
+
       - Gulf Coast Media
+
       - Sen. Pittman
+
       - O.J. French (Referenced)
-      - Tim Kant (Referenced in context of Dorsey comparison)
+
+      - Tim Kant (Referenced in context of Dorsey comparison)'
     generated_at: '2026-03-13T12:22:44.350347Z'
-    text: Commissioner Tucker Dorsey has a long history of firing anyone who tries to stop the county’s self-dealing elite. This investigation exposes the too many connections between Dorsey and Mayor Bob Wills, proving they will burn the budget to keep their personal pockets full.
+    text: Commissioner Tucker Dorsey has a long history of firing anyone who tries
+      to stop the county’s self-dealing elite. This investigation exposes the too
+      many connections between Dorsey and Mayor Bob Wills, proving they will burn
+      the budget to keep their personal pockets full.
+    character_count: 272

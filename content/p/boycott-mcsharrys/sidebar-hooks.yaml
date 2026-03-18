@@ -1,334 +1,779 @@
 metadata:
-  generated_at: '2026-03-17T00:25:18.732371Z'
+  generated_at: '2026-03-17T22:47:36.422397Z'
   generator_version: 1.0.0
   post_slug: boycott-mcsharrys
-  refined_by: gemini
-  refined_at: '2026-03-17T01:16:35.726037Z'
 hooks:
   mcsharry-madness:
-    brief: |-
-      1. THE CONFLICT
-      - Paula DiNardi alleged assault and intoxication involving Ronan McSharry, owner of McSharry’s bar in Fairhope.
-      - Police report recorded McSharry had a "strong odor of alcohol," slurred speech, and could not walk during the incident.
+    brief: '1. THE CONFLICT
+
+      - Paula DiNardi alleged assault and intoxication involving Ronan McSharry, owner
+      of McSharry’s bar in Fairhope.
+
+      - Police report recorded McSharry had a "strong odor of alcohol," slurred speech,
+      and could not walk during the incident.
+
       - Surveillance video captured McSharry knocking DiNardi off a bar stool.
-      - Ripp Report alleges Fairhope City Attorney Marcus McDowell represented DiNardi but refused to file the assault charge.
-      - Ripp Report alleges Circuit Judge Clark Stankowski intentionally dismissed the assault charge to shield McSharry.
-      - Municipal Judge Haymes Snedeker sentenced McSharry 180 days jail time for assault and intoxication (served during rehab).
-      - Fairhope City Council President Jack Burrell is identified as a friend of McSharry, with the bar menu honoring him (Jack’s Sandwich).
-      - Ripp Report claims McDowell and Council members used their positions to manipulate the case outcome.
+
+      - Ripp Report alleges Fairhope City Attorney Marcus McDowell represented DiNardi
+      but refused to file the assault charge.
+
+      - Ripp Report alleges Circuit Judge Clark Stankowski intentionally dismissed
+      the assault charge to shield McSharry.
+
+      - Municipal Judge Haymes Snedeker sentenced McSharry 180 days jail time for
+      assault and intoxication (served during rehab).
+
+      - Fairhope City Council President Jack Burrell is identified as a friend of
+      McSharry, with the bar menu honoring him (Jack’s Sandwich).
+
+      - Ripp Report claims McDowell and Council members used their positions to manipulate
+      the case outcome.
+
 
       2. THE DISCOVERY
-      - Widget confirms Ronan McSharry filed a third-party lawsuit against Little Whiskey Christmas Club (LWCC) for making him drunk and causing damages.
-      - Widget confirms Judge Clark Stankoski dismissed the serious assault charge, validating Ripp's claim of judicial misconduct.
-      - Widget confirms Fairhope City Attorney Marcus McDowell represented Paula DiNardi in the case involving McSharry.
-      - Widget confirms LWCC asserts a settlement offer was made between DiNardi and McSharry early on which DiNardi declined.
-      - Widget confirms defense attorney James Pittman is representing McSharry in these civil actions.
-      - Widget links the assault incident date directly to video evidence used in municipal court findings.
+
+      - Widget confirms Ronan McSharry filed a third-party lawsuit against Little
+      Whiskey Christmas Club (LWCC) for making him drunk and causing damages.
+
+      - Widget confirms Judge Clark Stankoski dismissed the serious assault charge,
+      validating Ripp''s claim of judicial misconduct.
+
+      - Widget confirms Fairhope City Attorney Marcus McDowell represented Paula DiNardi
+      in the case involving McSharry.
+
+      - Widget confirms LWCC asserts a settlement offer was made between DiNardi and
+      McSharry early on which DiNardi declined.
+
+      - Widget confirms defense attorney James Pittman is representing McSharry in
+      these civil actions.
+
+      - Widget links the assault incident date directly to video evidence used in
+      municipal court findings.
+
 
       3. THE PIVOT
-      - Widget Article provides documentary proof that McDowell represented DiNardi, substantiating Ripp’s claim of potential conflict in the criminal proceedings.
-      - Widget Article details McSharry’s active attempt to shift liability via LWCC lawsuit, confirming the "financial cost" strategy mentioned by Ripp.
-      - Widget Article validates the dismissal of assault charges by Stankowski despite video evidence, turning allegations of judicial corruption into a specific procedural failure.
+
+      - Widget Article provides documentary proof that McDowell represented DiNardi,
+      substantiating Ripp’s claim of potential conflict in the criminal proceedings.
+
+      - Widget Article details McSharry’s active attempt to shift liability via LWCC
+      lawsuit, confirming the "financial cost" strategy mentioned by Ripp.
+
+      - Widget Article validates the dismissal of assault charges by Stankowski despite
+      video evidence, turning allegations of judicial corruption into a specific procedural
+      failure.
+
 
       4. KEY ENTITIES
+
       - Ronan McSharry
+
       - Paula DiNardi
+
       - Marcus McDowell
+
       - Jack Burrell
+
       - Clark Stankowski / Stankoski
+
       - Haymes Snedeker
+
       - Little Whiskey Christmas Club (LWCC)
-      - James Pittman
+
+      - James Pittman'
     generated_at: '2026-03-17T00:25:18.733063Z'
-    text: Fairhope’s political machine protects its own while leaving victims like Paula DiNardi in the dirt. These documents prove City Attorney Marcus McDowell played both sides while Judge Stankowski killed the assault charges to save Ronan McSharry’s skin.
+    text: Fairhope’s political machine protects its own while leaving victims like
+      Paula DiNardi in the dirt. These documents prove City Attorney Marcus McDowell
+      played both sides while Judge Stankowski killed the assault charges to save
+      Ronan McSharry’s skin.
+    character_count: 250
   catalyst-justice:
-    brief: |-
-      1. THE CONFLICT
-      - Paula DiNardi was physically assaulted at McSharry’s bar, knocked off a bar stool.
-      - Ronan McSharry, owner of McSharry’s, is a repeat offender with alcohol-related assault history.
-      - Fairhope City Attorney Marcus McDowell repeatedly failed to file the assault charge against McSharry in the DiNardi case.
-      - McDowell only pursued an intoxication charge, leading to McSharry’s conviction and one-year unsupervised probation.
+    brief: '1. THE CONFLICT
+
+      - Paula DiNardi was physically assaulted at McSharry’s bar, knocked off a bar
+      stool.
+
+      - Ronan McSharry, owner of McSharry’s, is a repeat offender with alcohol-related
+      assault history.
+
+      - Fairhope City Attorney Marcus McDowell repeatedly failed to file the assault
+      charge against McSharry in the DiNardi case.
+
+      - McDowell only pursued an intoxication charge, leading to McSharry’s conviction
+      and one-year unsupervised probation.
+
       - DiNardi incurred approximately $10,000 in medical bills and lost her job.
-      - Former Fairhope City Council President Jack Burrell appointed a new councilperson without public participation.
-      - Judge Stankowski presided over the McSharry trial; a witness (author) asked to leave courtroom during potential attorney recall.
-      - McSharry’s bar has a sandwich on the menu named after Council President Jack Burrell.
+
+      - Former Fairhope City Council President Jack Burrell appointed a new councilperson
+      without public participation.
+
+      - Judge Stankowski presided over the McSharry trial; a witness (author) asked
+      to leave courtroom during potential attorney recall.
+
+      - McSharry’s bar has a sandwich on the menu named after Council President Jack
+      Burrell.
+
       - Prior to election, author noted Jack Burrell had an undisclosed police report.
 
+
       2. THE DISCOVERY
-      - Article 2 identifies "CATALYST" as the common denominator linking Ronan McSharry’s bar, Council members, Judges, and attorneys.
-      - Confirms McSharry’s was a “watering hole” for Catalyst, Judges, Attorneys, and Councilman Burrell.
-      - Connects current Fairhope officials to historical corruption cases: Sen Tripp Pittman, Chris Elliott, Mayor Cant, Councilman Robert Brown.
-      - Reveals Marcus McDowell was appointed by the City Council specifically to “cover their ass.”
-      - Exposes that Judge Stankowski is a municipal judge secured by council vote and has become the city’s largest developer.
-      - Accuses McDowell of exhibiting incompetence in DiNardi case to favor the offender (McSharry).
+
+      - Article 2 identifies "CATALYST" as the common denominator linking Ronan McSharry’s
+      bar, Council members, Judges, and attorneys.
+
+      - Confirms McSharry’s was a “watering hole” for Catalyst, Judges, Attorneys,
+      and Councilman Burrell.
+
+      - Connects current Fairhope officials to historical corruption cases: Sen Tripp
+      Pittman, Chris Elliott, Mayor Cant, Councilman Robert Brown.
+
+      - Reveals Marcus McDowell was appointed by the City Council specifically to
+      “cover their ass.”
+
+      - Exposes that Judge Stankowski is a municipal judge secured by council vote
+      and has become the city’s largest developer.
+
+      - Accuses McDowell of exhibiting incompetence in DiNardi case to favor the offender
+      (McSharry).
+
 
       3. THE PIVOT
-      - Article 2 turns McDowell’s negligence in the DiNardi/McSharry case from incompetence into evidence of coordinated political corruption.
-      - Confirms McSharry’s isn’t just a bar, but the location where "CATALYST" justice is negotiated.
-      - Links Jack Burrell’s alleged bid rigging, Tripp Pittman’s theft ($750k), and Chris Elliott’s DUI to the same protective group surrounding McSharry.
-      - Proves Article 1's claims of "Good Ole Boys" corruption are part of a documented organization (CATALYST) influencing Baldwin County judiciary and city council.
+
+      - Article 2 turns McDowell’s negligence in the DiNardi/McSharry case from incompetence
+      into evidence of coordinated political corruption.
+
+      - Confirms McSharry’s isn’t just a bar, but the location where "CATALYST" justice
+      is negotiated.
+
+      - Links Jack Burrell’s alleged bid rigging, Tripp Pittman’s theft ($750k), and
+      Chris Elliott’s DUI to the same protective group surrounding McSharry.
+
+      - Proves Article 1''s claims of "Good Ole Boys" corruption are part of a documented
+      organization (CATALYST) influencing Baldwin County judiciary and city council.
+
 
       4. KEY ENTITIES
+
       - Ronan McSharry (Bar Owner/Mayor/Councilman accused)
+
       - Paula DiNardi (Victim in assault case)
+
       - Marcus McDowell (Fairhope City Attorney/City Council appointee)
+
       - Jack Burrell (Former Fairhope City Council President)
+
       - Judge Stankowski (Municipal Court Judge/Presiding judge on McSharry case)
-      - CATALYST (Organization named as corrupt network/consulting firm via Scott Boone)
+
+      - CATALYST (Organization named as corrupt network/consulting firm via Scott
+      Boone)
+
       - Chris Elliott (Baldwin County Senator/DUI case reference)
+
       - Tripp Pittman (Sen/Former corrupt official reference)
-      - Robert Brown (Fairhope Councilman/Art Center deal reference)
+
+      - Robert Brown (Fairhope Councilman/Art Center deal reference)'
     generated_at: '2026-03-17T00:25:18.733479Z'
-    text: The fix is in at McSharry’s bar, where Fairhope’s Catalyst crew negotiates justice over cold drinks. You’ll see how Marcus McDowell and Jack Burrell use this watering hole to coordinate legal cover-ups for their preferred circle of criminals.
+    text: The fix is in at McSharry’s bar, where Fairhope’s Catalyst crew negotiates
+      justice over cold drinks. You’ll see how Marcus McDowell and Jack Burrell use
+      this watering hole to coordinate legal cover-ups for their preferred circle
+      of criminals.
+    character_count: 242
   a-slap-on-the-wrist:
-    brief: |-
-      THE CONFLICT:
+    brief: 'THE CONFLICT:
+
       - Ronan McSharry (McSharry’s owner) assaulted Paula DiNardi on video.
-      - Fairhope City Attorney Marcus McDowell allegedly failed to file assault charges against McSharry, reducing case to only public intoxication.
-      - Municipal Judge Stankowski sentenced McSharry (1 year unsupervised probation) for assault/intoxication, ignoring DiNardi’s report and McSharry's prior record.
-      - Jack Burrell (Fairhope City Council President) accused of controlling appointments and colluding with developers via Scott Boone Consulting (SBC).
-      - Allegation that political cabal used judicial appointments to control Baldwin County proceedings.
+
+      - Fairhope City Attorney Marcus McDowell allegedly failed to file assault charges
+      against McSharry, reducing case to only public intoxication.
+
+      - Municipal Judge Stankowski sentenced McSharry (1 year unsupervised probation)
+      for assault/intoxication, ignoring DiNardi’s report and McSharry''s prior record.
+
+      - Jack Burrell (Fairhope City Council President) accused of controlling appointments
+      and colluding with developers via Scott Boone Consulting (SBC).
+
+      - Allegation that political cabal used judicial appointments to control Baldwin
+      County proceedings.
+
 
       THE DISCOVERY:
+
       - Widget confirms at time of 2018 DiNardi assault, McSharry was already on probation.
-      - Prior 2017 incident: McSharry convicted of "breach of peace" for allegedly harassing artist Nall Hollis.
-      - 2017 Probation Terms: Court ordered McSharry to have “no distilled liquors” and avoid contact with Hollis.
-      - 2017 Jail Sentence: McSharry sentenced to 6 months jail (never served a day) for Nall case.
-      - Confirmed History: McSharry had two prior alcohol-related incidents settled out of court before DiNardi assault.
+
+      - Prior 2017 incident: McSharry convicted of "breach of peace" for allegedly
+      harassing artist Nall Hollis.
+
+      - 2017 Probation Terms: Court ordered McSharry to have “no distilled liquors”
+      and avoid contact with Hollis.
+
+      - 2017 Jail Sentence: McSharry sentenced to 6 months jail (never served a day)
+      for Nall case.
+
+      - Confirmed History: McSharry had two prior alcohol-related incidents settled
+      out of court before DiNardi assault.
+
       - McSharry has paid zero medical expenses to DiNardi; offered no apology.
 
+
       THE PIVOT:
-      - Article 2 confirms the "history of alcohol related crimes" asserted in Article 1 with specific dates (2017-2018).
-      - Proves Article 1’s claim that Judge Stankowski ignored a prior probation (2017 breach of peace/no liquor) when sentencing McSharry in 2018.
-      - Solidifies the link between Councilman Kevin Boone ("Strawman"), Scott Boone Consulting/SBC, and municipal officials (Snedeker).
-      - Validates claim that Fairhope Police "did their job" versus City Attorney/Judge malfeasance.
+
+      - Article 2 confirms the "history of alcohol related crimes" asserted in Article
+      1 with specific dates (2017-2018).
+
+      - Proves Article 1’s claim that Judge Stankowski ignored a prior probation (2017
+      breach of peace/no liquor) when sentencing McSharry in 2018.
+
+      - Solidifies the link between Councilman Kevin Boone ("Strawman"), Scott Boone
+      Consulting/SBC, and municipal officials (Snedeker).
+
+      - Validates claim that Fairhope Police "did their job" versus City Attorney/Judge
+      malfeasance.
+
 
       KEY ENTITIES:
+
       - Ronan McSharry (McSharry’s)
+
       - Paula DiNardi
+
       - Jack Burrell (Fairhope City Council President)
+
       - Marcus McDowell (City Attorney)
+
       - Judge Stankowski ("Judge STANKY")
+
       - Judge Haymes Snedeker (Fairhope Municipal)
+
       - Nall Hollis (Artist, Hollis Gallery owner)
+
       - Scott Boone Consulting / SBC (Consulting firm)
+
       - Catalyst (Previous consulting entity name)
-      - Kevin Boone (Councilman, labeled "Strawman")
+
+      - Kevin Boone (Councilman, labeled "Strawman")'
     generated_at: '2026-03-17T00:25:18.733488Z'
-    text: Ronan McSharry was already a violent offender on probation when he attacked Paula DiNardi on camera. This evidence reveals how Judge Stankowski ignored McSharry’s criminal history and the Nall Hollis case to hand out a pathetic slap on the wrist.
+    text: Ronan McSharry was already a violent offender on probation when he attacked
+      Paula DiNardi on camera. This evidence reveals how Judge Stankowski ignored
+      McSharry’s criminal history and the Nall Hollis case to hand out a pathetic
+      slap on the wrist.
+    character_count: 246
   boycott-mcsharry:
-    brief: |-
-      THE CONFLICT
-      - Ronan McSharry (McSharry’s bar owner) has 9 arrests in Fairhope involving alcohol and public disturbance.
-      - On March 19, 2017, McSharry pleaded guilty to breach of peace involving abusive gestures toward artist Nall Hollis; sentenced to 12 months probation with no contact and no liquor orders.
-      - In a DiNardi assault/intoxication case, City Attorney Marcus McDowell failed to file the assault charge initially.
-      - McSharry was on 6-month jail probation and prior arrest history at the time of DiNardi incident.
-      - Judge Stankowski sentenced McSharry to 1 year unsupervised probation, ignoring the assault charge and prior probation status.
-      - Fairhope City Council President Jack Burrell appointed a new councilperson without public participation, admitting he made the decision.
+    brief: 'THE CONFLICT
+
+      - Ronan McSharry (McSharry’s bar owner) has 9 arrests in Fairhope involving
+      alcohol and public disturbance.
+
+      - On March 19, 2017, McSharry pleaded guilty to breach of peace involving abusive
+      gestures toward artist Nall Hollis; sentenced to 12 months probation with no
+      contact and no liquor orders.
+
+      - In a DiNardi assault/intoxication case, City Attorney Marcus McDowell failed
+      to file the assault charge initially.
+
+      - McSharry was on 6-month jail probation and prior arrest history at the time
+      of DiNardi incident.
+
+      - Judge Stankowski sentenced McSharry to 1 year unsupervised probation, ignoring
+      the assault charge and prior probation status.
+
+      - Fairhope City Council President Jack Burrell appointed a new councilperson
+      without public participation, admitting he made the decision.
+
 
       THE DISCOVERY
-      - In DiNardi civil suit, Judge Stankoski allowed McSharry’s attorney (James Pittman) to subpoena protected communications between Lagniappe, Mayor Karin Wilson, Paul Ripp, and attorney Harry Still.
-      - This subpoena targeted state/federal shield laws protecting newspapers from communications disclosure requirements in that context.
-      - Widget text confirms DiNardi suffered physical injury (shove from stool), which was initially omitted from the criminal charging document.
+
+      - In DiNardi civil suit, Judge Stankoski allowed McSharry’s attorney (James
+      Pittman) to subpoena protected communications between Lagniappe, Mayor Karin
+      Wilson, Paul Ripp, and attorney Harry Still.
+
+      - This subpoena targeted state/federal shield laws protecting newspapers from
+      communications disclosure requirements in that context.
+
+      - Widget text confirms DiNardi suffered physical injury (shove from stool),
+      which was initially omitted from the criminal charging document.
+
 
       THE PIVOT
-      - Main Article claims Council/Attorney collusion to shield McSharry; Widget evidence of Stankowski bypassing shield laws proves systematic legal protection rather than innocent oversight.
-      - The subpoena abuse confirms the Main Article’s claim of a "stranglehold" where attorneys/judges manipulate proceedings to protect McSharry’s liquor license and business.
-      - The failure to prosecute assault in the DiNardi case is validated by Widget text showing McDowell’s role in voiding/ignoring charges to the detriment of victims.
+
+      - Main Article claims Council/Attorney collusion to shield McSharry; Widget
+      evidence of Stankowski bypassing shield laws proves systematic legal protection
+      rather than innocent oversight.
+
+      - The subpoena abuse confirms the Main Article’s claim of a "stranglehold" where
+      attorneys/judges manipulate proceedings to protect McSharry’s liquor license
+      and business.
+
+      - The failure to prosecute assault in the DiNardi case is validated by Widget
+      text showing McDowell’s role in voiding/ignoring charges to the detriment of
+      victims.
+
 
       KEY ENTITIES
+
       - Ronan McSharry (McSharry’s owner, liquor license holder)
+
       - Marcus McDowell (Fairhope City Attorney)
+
       - Jack Burrell (Council President)
+
       - Judge Clark Stankoski / Judge Stanky / Stankowski
+
       - Paul Ripp (Ripp Report, consumer advocate)
+
       - Paula DiNardi (victim/witness in DiNardi case)
+
       - Karin Wilson (Fairhope Mayor at the time of specific civil suit context)
-      - James Pittman (McSharry’s defense attorney)
+
+      - James Pittman (McSharry’s defense attorney)'
     generated_at: '2026-03-17T00:25:18.733496Z'
-    text: The "Good Ole Boys" in Fairhope don't just ignore the law; they weaponize it against anyone who dares to speak out. See the proof of how Judge Stankowski trampled over state shield laws to protect Ronan McSharry’s liquor license and silence his critics.
+    text: The "Good Ole Boys" in Fairhope don't just ignore the law; they weaponize
+      it against anyone who dares to speak out. See the proof of how Judge Stankowski
+      trampled over state shield laws to protect Ronan McSharry’s liquor license and
+      silence his critics.
+    character_count: 253
   mcsharrys-old-flower-handshake:
-    brief: |-
-      THE CONFLICT:
-      - Ronan McSharry (owner of McSharry’s bar) facing repeated assault and intoxication charges.
-      - Paula DiNardi assault/intoxication case: City Attorney Marcus McDowell allegedly failed to file an assault charge, leaving only intoxication; resulted in one year unsupervised probation.
-      - Fairhope City Council President Jack Burrell: Accused of making “council appointment” decisions without public participation and designated as a friend/associate of McSharry.
-      - Municipal Judge Stankowski: Handled the DiNardi case; later accused of judicial corruption and manipulation.
-      - Ripp Report Public Observer: Attempted to leave courtroom during DiNardi trial; asked to leave under Ala. R. Evid. 615 after attorneys claimed they “MAY” call them as a witness against McSharry.
+    brief: 'THE CONFLICT:
+
+      - Ronan McSharry (owner of McSharry’s bar) facing repeated assault and intoxication
+      charges.
+
+      - Paula DiNardi assault/intoxication case: City Attorney Marcus McDowell allegedly
+      failed to file an assault charge, leaving only intoxication; resulted in one
+      year unsupervised probation.
+
+      - Fairhope City Council President Jack Burrell: Accused of making “council appointment”
+      decisions without public participation and designated as a friend/associate
+      of McSharry.
+
+      - Municipal Judge Stankowski: Handled the DiNardi case; later accused of judicial
+      corruption and manipulation.
+
+      - Ripp Report Public Observer: Attempted to leave courtroom during DiNardi trial;
+      asked to leave under Ala. R. Evid. 615 after attorneys claimed they “MAY” call
+      them as a witness against McSharry.
+
 
       THE DISCOVERY:
-      - Jennifer Blackwood assault case: Municipal Judge Haymes Snedeker ruled after 6 hours he could not convict McSharry despite evidence.
-      - Marcus McDowell (City Attorney) and victim Jennifer Blackwood both represented in court; McDowell alleged to have deliberately failed to investigate domestic abuse claims.
-      - John Beck: Defense attorney for McSharry in Blackwood and recent incidents; accused of surveillance tactics (drone filming) targeting Ripp Report observers, Paula DiNardi, former Mayor Wilson, and attorney Harry Still.
-      - City Council’s handling of Little Whiskey vs McSharry’s: City removed ABC license for Little Whiskey over closing hours; Mayor Sullivan/Council refused to remove McSharry’s ABC license despite recorded beatings of women.
-      - Municipal Judge Haymes Snedeker: Ruled evidence was insufficient to convict despite 30+ news articles and multiple incidents.
+
+      - Jennifer Blackwood assault case: Municipal Judge Haymes Snedeker ruled after
+      6 hours he could not convict McSharry despite evidence.
+
+      - Marcus McDowell (City Attorney) and victim Jennifer Blackwood both represented
+      in court; McDowell alleged to have deliberately failed to investigate domestic
+      abuse claims.
+
+      - John Beck: Defense attorney for McSharry in Blackwood and recent incidents;
+      accused of surveillance tactics (drone filming) targeting Ripp Report observers,
+      Paula DiNardi, former Mayor Wilson, and attorney Harry Still.
+
+      - City Council’s handling of Little Whiskey vs McSharry’s: City removed ABC
+      license for Little Whiskey over closing hours; Mayor Sullivan/Council refused
+      to remove McSharry’s ABC license despite recorded beatings of women.
+
+      - Municipal Judge Haymes Snedeker: Ruled evidence was insufficient to convict
+      despite 30+ news articles and multiple incidents.
+
 
       THE PIVOT:
-      - Widget article confirms systemic pattern of non-prosecution and weak defense cited in Main Article.
-      - McDowell’s failure to pursue the DiNardi assault charge (Main) is linked directly to his performance and alleged inaction in the Blackwood case (Widget).
-      - Surveillance claims by Beck (Widget) implicate Ripp Report observers and critics mentioned in Main Article, linking legal representation tactics directly to the conflict.
-      - Shows multiple victims (DiNardi vs Blackwood) handled by same City Attorney and Council network.
+
+      - Widget article confirms systemic pattern of non-prosecution and weak defense
+      cited in Main Article.
+
+      - McDowell’s failure to pursue the DiNardi assault charge (Main) is linked directly
+      to his performance and alleged inaction in the Blackwood case (Widget).
+
+      - Surveillance claims by Beck (Widget) implicate Ripp Report observers and critics
+      mentioned in Main Article, linking legal representation tactics directly to
+      the conflict.
+
+      - Shows multiple victims (DiNardi vs Blackwood) handled by same City Attorney
+      and Council network.
+
 
       KEY ENTITIES:
+
       - Ronan McSharry (McSharry’s bar owner)
+
       - Marcus McDowell (City Attorney, Fairhope)
+
       - Jack Burrell (Fairhope City Council President/Mayor/Former Councilman)
+
       - Judge Stankowski
+
       - Judge Haymes Snedeker
+
       - Paula DiNardi
+
       - Jennifer Blackwood
+
       - John Beck (Defense Attorney for McSharry)
+
       - Mayor Sullivan
+
       - Little Whiskey bar
-      - Ripp Report (and specific observer/author)
+
+      - Ripp Report (and specific observer/author)'
     generated_at: '2026-03-17T00:25:18.733527Z'
-    text: Marcus McDowell has a nasty habit of "forgetting" to file assault charges when Ronan McSharry is the one swinging the punches. From the Blackwood case to the DiNardi assault, this timeline exposes a systemic pattern of rigged trials and creepy surveillance.
+    text: Marcus McDowell has a nasty habit of "forgetting" to file assault charges
+      when Ronan McSharry is the one swinging the punches. From the Blackwood case
+      to the DiNardi assault, this timeline exposes a systemic pattern of rigged trials
+      and creepy surveillance.
+    character_count: 257
   judicial-trick:
-    brief: |-
-      1. THE CONFLICT:
-      - Jack Burrell (Fairhope City Council President) appointed a council member without public participation, publicly stating he made the decision.
-      - November 22, 2018: Ronan McSharry (McSharry’s Bar Owner) shoved Paula DiNardi off a bar stool; assault captured on video.
-      - Marcus McDowell (Fairhope City Attorney) failed to file the assault charge, leaving McSharry with only an intoxication charge despite prior guilty pleas and record.
-      - Municipal Court Judge Snedeker accepted McSharry’s plea for 180 days jail, crediting time in rehab; no actual jail time served.
-      - Circuit Judge Clark Stankoski presided over the case; defense attorney John Beck and later James Pittman represented McSharry.
-      - A private observer (reporter/activist) was removed from the courtroom during trial under Ala. R. Evid. 615 at attorneys’ request to prevent them from testifying against McSharry regarding past alcohol-related incidents.
-      - Judge Stankoski linked to "Catalyst/Scott Boone consulting" influence over Baldwin County judiciary according to Main Article.
+    brief: '1. THE CONFLICT:
+
+      - Jack Burrell (Fairhope City Council President) appointed a council member
+      without public participation, publicly stating he made the decision.
+
+      - November 22, 2018: Ronan McSharry (McSharry’s Bar Owner) shoved Paula DiNardi
+      off a bar stool; assault captured on video.
+
+      - Marcus McDowell (Fairhope City Attorney) failed to file the assault charge,
+      leaving McSharry with only an intoxication charge despite prior guilty pleas
+      and record.
+
+      - Municipal Court Judge Snedeker accepted McSharry’s plea for 180 days jail,
+      crediting time in rehab; no actual jail time served.
+
+      - Circuit Judge Clark Stankoski presided over the case; defense attorney John
+      Beck and later James Pittman represented McSharry.
+
+      - A private observer (reporter/activist) was removed from the courtroom during
+      trial under Ala. R. Evid. 615 at attorneys’ request to prevent them from testifying
+      against McSharry regarding past alcohol-related incidents.
+
+      - Judge Stankoski linked to "Catalyst/Scott Boone consulting" influence over
+      Baldwin County judiciary according to Main Article.
+
 
       2. THE DISCOVERY:
-      - Widget confirms McDowell previously represented Jack Burrell in a council meeting dispute where public participation was denied.
-      - Widget confirms McDowell failed to amend the Fairhope charging document for over a year, omitting "did cause bodily harm."
-      - Widget confirms Judge Stankoski requested to hear the McSharry case specifically (not randomly assigned).
-      - Widget clarifies defense attorney James Pittman subpoenaed the Mayor, Lagniappe journalists, and Judge Stankoski; Stankoski partially granted it.
-      - Widget confirms the assault charge was dropped due to a procedural technicality: failure by Municipal attorney (McDowell) to amend the complaint from municipal court.
+
+      - Widget confirms McDowell previously represented Jack Burrell in a council
+      meeting dispute where public participation was denied.
+
+      - Widget confirms McDowell failed to amend the Fairhope charging document for
+      over a year, omitting "did cause bodily harm."
+
+      - Widget confirms Judge Stankoski requested to hear the McSharry case specifically
+      (not randomly assigned).
+
+      - Widget clarifies defense attorney James Pittman subpoenaed the Mayor, Lagniappe
+      journalists, and Judge Stankoski; Stankoski partially granted it.
+
+      - Widget confirms the assault charge was dropped due to a procedural technicality:
+      failure by Municipal attorney (McDowell) to amend the complaint from municipal
+      court.
+
 
       3. THE PIVOT:
-      - McDowell’s prior representation of Burrell proves a conflict of interest when he later served as the prosecutor who failed to file the assault charge properly.
-      - Stankoski’s request to hear the McSharry case and subsequent lenient handling validates accusations of "judicial trickery" and bias against the victim.
-      - The courtroom removal of a witness (Main Article) is substantiated by Stankoski’s later protective rulings on "shield law" in Widget Article, showing a pattern of protecting the accused/connected parties.
+
+      - McDowell’s prior representation of Burrell proves a conflict of interest when
+      he later served as the prosecutor who failed to file the assault charge properly.
+
+      - Stankoski’s request to hear the McSharry case and subsequent lenient handling
+      validates accusations of "judicial trickery" and bias against the victim.
+
+      - The courtroom removal of a witness (Main Article) is substantiated by Stankoski’s
+      later protective rulings on "shield law" in Widget Article, showing a pattern
+      of protecting the accused/connected parties.
+
 
       4. KEY ENTITIES:
+
       - Jack Burrell (Fairhope City Council President)
+
       - Ronan McSharry
+
       - Paula DiNardi
+
       - Marcus McDowell (Fairhope City Attorney)
+
       - Judge Clark Stankoski (Circuit Judge)
+
       - Municipal Judge Snedeker
+
       - James Pittman (Defense Attorney for McSharry)
-      - Scott Boone / Catalyst Consulting
+
+      - Scott Boone / Catalyst Consulting'
     generated_at: '2026-03-17T00:25:18.733534Z'
-    text: Forget random assignments; Judge Stankowski specifically requested the McSharry case to ensure the right outcome for his buddies. We have the smoking gun showing how Marcus McDowell used a clerical error to let a violent bar owner walk away from a clear assault.
+    text: Forget random assignments; Judge Stankowski specifically requested the McSharry
+      case to ensure the right outcome for his buddies. We have the smoking gun showing
+      how Marcus McDowell used a clerical error to let a violent bar owner walk away
+      from a clear assault.
+    character_count: 262
   one-woman:
-    brief: |-
-      THE CONFLICT:
-      - Ronan McSharry (owner of McSharry’s bar in Fairhope) committed an assault and alleged intoxication incident against Paula DiNardi.
+    brief: 'THE CONFLICT:
+
+      - Ronan McSharry (owner of McSharry’s bar in Fairhope) committed an assault
+      and alleged intoxication incident against Paula DiNardi.
+
       - Occurred in a public place on video.
+
       - McSharry has prior history of alcohol-related assaults.
-      - DiNardi was represented by City Attorney Marcus McDowell; McSharry represented by defense attorney John Beck.
-      - Case heard in Fairhope Municipal Court before Judge Stankowski (also referred to as STANKY/STANKOSKI).
+
+      - DiNardi was represented by City Attorney Marcus McDowell; McSharry represented
+      by defense attorney John Beck.
+
+      - Case heard in Fairhope Municipal Court before Judge Stankowski (also referred
+      to as STANKY/STANKOSKI).
+
       - DiNardi suffered medical damages reported over $6,000.00.
 
+
       THE DISCOVERY:
-      - Widget article confirms Judge Stankowski presided and sentenced McSharry to 180 days jail, with time served during rehab stay.
-      - Defense Attorney John Beck attempted to "settle the issue" with DiNardi through another attorney.
-      - Settlement offer was rejected by DiNardi; condition required her to remain silent and not show up for court.
-      - Widget confirms Beck asked DiNardi a series of questions about The Ripp Report (Paul Ripp) and its role in her case.
-      - Beck asked DiNardi questions regarding Mayor Wilson’s alleged involvement or connection to the Ripp Report during trial.
-      - City Attorney McDowell did not object to Beck’s irrelevant political questioning or attempt to rule on relevance.
-      - McSharry attempted to have charges dropped by buying DiNardi’s silence instead of facing full legal consequences.
-      - Mayor Wilson is targeted politically in this case (suspected use to defeat her in 2020).
+
+      - Widget article confirms Judge Stankowski presided and sentenced McSharry to
+      180 days jail, with time served during rehab stay.
+
+      - Defense Attorney John Beck attempted to "settle the issue" with DiNardi through
+      another attorney.
+
+      - Settlement offer was rejected by DiNardi; condition required her to remain
+      silent and not show up for court.
+
+      - Widget confirms Beck asked DiNardi a series of questions about The Ripp Report
+      (Paul Ripp) and its role in her case.
+
+      - Beck asked DiNardi questions regarding Mayor Wilson’s alleged involvement
+      or connection to the Ripp Report during trial.
+
+      - City Attorney McDowell did not object to Beck’s irrelevant political questioning
+      or attempt to rule on relevance.
+
+      - McSharry attempted to have charges dropped by buying DiNardi’s silence instead
+      of facing full legal consequences.
+
+      - Mayor Wilson is targeted politically in this case (suspected use to defeat
+      her in 2020).
+
 
       THE PIVOT:
-      - Widget proves the connection between Main's claims of political corruption and the actual courtroom behavior.
-      - Shows McDowell (City Attorney appointed/protected by Council) failing DiNardi by not stopping Beck.
-      - Shows Beck (Defense Attorney for accused McSharry) attempting to politicize a criminal assault case involving The Ripp Report and Mayor Wilson.
-      - Confirms Main’s claim that the City Attorney (McDowell) turned a blind eye to McSharry; shows him allowing irrelevant testimony against his client (DiNardi) which undermines her position.
-      - Confirms the "Good Ol' Boys" network between McSharry’s, Judge Stankowski, and Council President Jack Burrell via the "J Burrell Sandwich."
+
+      - Widget proves the connection between Main''s claims of political corruption
+      and the actual courtroom behavior.
+
+      - Shows McDowell (City Attorney appointed/protected by Council) failing DiNardi
+      by not stopping Beck.
+
+      - Shows Beck (Defense Attorney for accused McSharry) attempting to politicize
+      a criminal assault case involving The Ripp Report and Mayor Wilson.
+
+      - Confirms Main’s claim that the City Attorney (McDowell) turned a blind eye
+      to McSharry; shows him allowing irrelevant testimony against his client (DiNardi)
+      which undermines her position.
+
+      - Confirms the "Good Ol'' Boys" network between McSharry’s, Judge Stankowski,
+      and Council President Jack Burrell via the "J Burrell Sandwich."
+
 
       KEY ENTITIES:
+
       - Ronan McSharry
+
       - Paula DiNardi (Victim)
-      - Jack Burrell (Fairhope City Council President/Mayor’s friend, Council appointment power)
+
+      - Jack Burrell (Fairhope City Council President/Mayor’s friend, Council appointment
+      power)
+
       - Marcus McDowell (City Attorney/Prosecutor for DiNardi)
+
       - John Beck (Defense Attorney for McSharry)
+
       - Judge Stankowski / J. STANKY
+
       - Mayor Wilson (Fairhope Mayor)
-      - Paul Ripp / The Ripp Report (Non-profit consumer organization/Advocate for DiNardi)
+
+      - Paul Ripp / The Ripp Report (Non-profit consumer organization/Advocate for
+      DiNardi)
+
       - McSharry’s Bar
-      - Fairhope City Council (General entity - includes Conyers, Robinson, Boone, Brown)
+
+      - Fairhope City Council (General entity - includes Conyers, Robinson, Boone,
+      Brown)'
     generated_at: '2026-03-17T00:25:18.733544Z'
-    text: When Ronan McSharry’s money couldn't buy Paula DiNardi’s silence, the Fairhope legal team turned the courtroom into a political circus. Watch how John Beck and Marcus McDowell teamed up to attack the Ripp Report instead of prosecuting a recorded assault.
+    text: When Ronan McSharry’s money couldn't buy Paula DiNardi’s silence, the Fairhope
+      legal team turned the courtroom into a political circus. Watch how John Beck
+      and Marcus McDowell teamed up to attack the Ripp Report instead of prosecuting
+      a recorded assault.
+    character_count: 254
   one-woman-2:
-    brief: |-
-      1. THE CONFLICT
-      - Ronan McSharry, owner of McSharry’s bar in Fairhope, is accused by Paula DiNardi of assaulting her.
-      - Fairhope City Council President Jack Burrell made the decision to appoint a new councilperson without public participation, claiming "I made the decision."
-      - City Attorney Marcus McDowell allegedly failed to file assault charges against McSharry for the DiNardi incident, resulting in only an intoxication charge being filed.
-      - Municipal Judge Stankowski sentenced McSharry to 180 days in jail (time served during rehab) and unsupervised probation.
-      - The Ripp Report’s founder, Paul Ripp, was asked to leave the courtroom by defense counsel during trial due to fears he would testify about McSharry’s prior alcohol-related assaults.
-      - Fairhope City Council allegedly allowed corrupt judicial behavior to go unchecked due to political connections with Burrell and judges.
+    brief: '1. THE CONFLICT
+
+      - Ronan McSharry, owner of McSharry’s bar in Fairhope, is accused by Paula DiNardi
+      of assaulting her.
+
+      - Fairhope City Council President Jack Burrell made the decision to appoint
+      a new councilperson without public participation, claiming "I made the decision."
+
+      - City Attorney Marcus McDowell allegedly failed to file assault charges against
+      McSharry for the DiNardi incident, resulting in only an intoxication charge
+      being filed.
+
+      - Municipal Judge Stankowski sentenced McSharry to 180 days in jail (time served
+      during rehab) and unsupervised probation.
+
+      - The Ripp Report’s founder, Paul Ripp, was asked to leave the courtroom by
+      defense counsel during trial due to fears he would testify about McSharry’s
+      prior alcohol-related assaults.
+
+      - Fairhope City Council allegedly allowed corrupt judicial behavior to go unchecked
+      due to political connections with Burrell and judges.
+
 
       2. THE DISCOVERY
-      - McSharry was formally found guilty in Fairhope Municipal Court of public intoxication and assault.
-      - Defense attorney John Beck questioned victim Paula DiNardi about Paul Ripp and The Ripp Report’s involvement in the case during trial.
-      - Defense attorney John Beck questioned DiNardi about Mayor Wilson’s connection or involvement in the case.
-      - An attempted settlement was used where McSharry proposed DiNardi remain silent in exchange for dropped charges.
-      - City Attorney Marcus McDowell did not object to Beck’s political line of questioning and failed to ask for relevance regarding The Ripp Report.
-      - McDowell did not raise medical damages ($6,000+) or McSharry’s non-citizen status.
+
+      - McSharry was formally found guilty in Fairhope Municipal Court of public intoxication
+      and assault.
+
+      - Defense attorney John Beck questioned victim Paula DiNardi about Paul Ripp
+      and The Ripp Report’s involvement in the case during trial.
+
+      - Defense attorney John Beck questioned DiNardi about Mayor Wilson’s connection
+      or involvement in the case.
+
+      - An attempted settlement was used where McSharry proposed DiNardi remain silent
+      in exchange for dropped charges.
+
+      - City Attorney Marcus McDowell did not object to Beck’s political line of questioning
+      and failed to ask for relevance regarding The Ripp Report.
+
+      - McDowell did not raise medical damages ($6,000+) or McSharry’s non-citizen
+      status.
+
 
       3. THE PIVOT
-      - The guilty verdict confirms McSharry’s physical misconduct matches The Ripp Report's allegations.
-      - Defense attorney Beck questioning the victim about Paul Ripp and Mayor Wilson proves the case is being used as a political weapon, not just criminal prosecution.
-      - McDowell’s lack of objection to irrelevant/political evidence validates the claim that The Ripp Report and Mayor Wilson are targets in a larger political conflict.
-      - The link between McSharry, City Attorney McDowell, and Council President Burrell suggests coordinated legal handling.
+
+      - The guilty verdict confirms McSharry’s physical misconduct matches The Ripp
+      Report''s allegations.
+
+      - Defense attorney Beck questioning the victim about Paul Ripp and Mayor Wilson
+      proves the case is being used as a political weapon, not just criminal prosecution.
+
+      - McDowell’s lack of objection to irrelevant/political evidence validates the
+      claim that The Ripp Report and Mayor Wilson are targets in a larger political
+      conflict.
+
+      - The link between McSharry, City Attorney McDowell, and Council President Burrell
+      suggests coordinated legal handling.
+
 
       4. KEY ENTITIES
+
       - Ronan McSharry (McSharry’s Bar owner)
+
       - Paula DiNardi (Victim)
+
       - Jack Burrell (Fairhope City Council President)
+
       - Marcus McDowell (City Attorney)
+
       - John Beck (Defense Attorney for McSharry)
+
       - Paul Ripp (The Ripp Report/Plaintiff witness)
+
       - Judge Stankowski / Stankoski (Municipal Court Judge)
-      - Mayor Wilson (Fairhope Mayor)
+
+      - Mayor Wilson (Fairhope Mayor)'
     generated_at: '2026-03-17T00:25:18.733547Z'
-    text: A guilty verdict for public intoxication is just a distraction from the real crimes the City Council is hiding. These records show Marcus McDowell ignored $6,000 in medical bills while John Beck grilled the victim about her political ties to Mayor Wilson.
+    text: A guilty verdict for public intoxication is just a distraction from the
+      real crimes the City Council is hiding. These records show Marcus McDowell ignored
+      $6,000 in medical bills while John Beck grilled the victim about her political
+      ties to Mayor Wilson.
+    character_count: 255
   where-is-justice:
-    brief: |-
-      THE CONFLICT:
-      - Ronan McSharry (McSharry’s bar owner) assaulted Paula DiNardi on November 23, 2018.
-      - Assault occurred at Little Whiskey Christmas Club in Fairhope while DiNardi was operating the Tiki Bar at American Legion.
-      - Paula DiNardi’s assault captured on video; case handled by Fairhope City Attorney Marcus McDowell.
-      - Initially, McDowell failed to file assault charges; DiNardi pursued civil and criminal avenues.
-      - McSharry was previously on probation with a penalty of 180 days in jail for violating conditions related to a harassment conviction against Nall Hollis.
-      - McSharry had history of alcohol-related incidents resulting in assaults on women (cited by Main Article author).
-      - Fairhope City Council President Jack Burrell appointed council members without public participation (Main Article claim).
+    brief: 'THE CONFLICT:
+
+      - Ronan McSharry (McSharry’s bar owner) assaulted Paula DiNardi on November
+      23, 2018.
+
+      - Assault occurred at Little Whiskey Christmas Club in Fairhope while DiNardi
+      was operating the Tiki Bar at American Legion.
+
+      - Paula DiNardi’s assault captured on video; case handled by Fairhope City Attorney
+      Marcus McDowell.
+
+      - Initially, McDowell failed to file assault charges; DiNardi pursued civil
+      and criminal avenues.
+
+      - McSharry was previously on probation with a penalty of 180 days in jail for
+      violating conditions related to a harassment conviction against Nall Hollis.
+
+      - McSharry had history of alcohol-related incidents resulting in assaults on
+      women (cited by Main Article author).
+
+      - Fairhope City Council President Jack Burrell appointed council members without
+      public participation (Main Article claim).
+
 
       THE DISCOVERY:
-      - April 24, 2020: The Ripp Report published a letter from Francis “Paul” Ripp to Baldwin County District Attorney Hon. Robert Wilters.
-      - Letter requests investigation into dismissal of McSharry’s appeal and actions of Judge J. Clark Stankowski, Municipal Judge Snedeker, and City Attorney Marcus McDowell.
-      - Ripp alleges McSharry’s appeal denovo was dismissed by Judge Stankowski because the City is outside 365 days to amend charging document.
-      - Letter claims dismissal was orchestrated; assault evidence on video and public record supports grand jury referral.
-      - Ripp alleges Judge Stankowski ordered attorney Harry Still to turn over all communications with Lagniappe Newspaper to circumvent Alabama Source Shield Law.
-      - Case originally involved assault charge; McDowell conveniently failed to file, leaving McSharry with only intoxication charge.
-      - Municipal Court Judge Stankowski sentenced McSharry to 180 days jail (time served) but failed to address assault charge or McSharry’s probation history.
+
+      - April 24, 2020: The Ripp Report published a letter from Francis “Paul” Ripp
+      to Baldwin County District Attorney Hon. Robert Wilters.
+
+      - Letter requests investigation into dismissal of McSharry’s appeal and actions
+      of Judge J. Clark Stankowski, Municipal Judge Snedeker, and City Attorney Marcus
+      McDowell.
+
+      - Ripp alleges McSharry’s appeal denovo was dismissed by Judge Stankowski because
+      the City is outside 365 days to amend charging document.
+
+      - Letter claims dismissal was orchestrated; assault evidence on video and public
+      record supports grand jury referral.
+
+      - Ripp alleges Judge Stankowski ordered attorney Harry Still to turn over all
+      communications with Lagniappe Newspaper to circumvent Alabama Source Shield
+      Law.
+
+      - Case originally involved assault charge; McDowell conveniently failed to file,
+      leaving McSharry with only intoxication charge.
+
+      - Municipal Court Judge Stankowski sentenced McSharry to 180 days jail (time
+      served) but failed to address assault charge or McSharry’s probation history.
+
 
       THE PIVOT:
-      - Article 2 proves the specific legal window (365 days) used by Judge Stankowski to dismiss charges is a procedural maneuver in this context.
-      - Article 2 links the City Attorney (McDowell), who represented DiNardi, to procedural failures allowing McSharry’s release.
-      - Article 2 exposes legal retaliation against Ripp’s team (attorney Harry Still subpoenaed) for documenting misconduct in the McSharry case.
-      - Article 2 identifies motive: jealousy of DiNardi’s business success versus McSharry’s bar ("good ole boys" politics).
-      - Article 2 provides the timeline connection: Assault (Nov 23, 2018) -> Plea/Misconduct (March 26 plea date cited) -> Appeal Dismissal (Letter Date April 24, 2020).
+
+      - Article 2 proves the specific legal window (365 days) used by Judge Stankowski
+      to dismiss charges is a procedural maneuver in this context.
+
+      - Article 2 links the City Attorney (McDowell), who represented DiNardi, to
+      procedural failures allowing McSharry’s release.
+
+      - Article 2 exposes legal retaliation against Ripp’s team (attorney Harry Still
+      subpoenaed) for documenting misconduct in the McSharry case.
+
+      - Article 2 identifies motive: jealousy of DiNardi’s business success versus
+      McSharry’s bar ("good ole boys" politics).
+
+      - Article 2 provides the timeline connection: Assault (Nov 23, 2018) -> Plea/Misconduct
+      (March 26 plea date cited) -> Appeal Dismissal (Letter Date April 24, 2020).
+
 
       KEY ENTITIES:
+
       - Ronan McSharry (Defendant)
+
       - Paula DiNardi (Victim/Tiki Bar Owner)
+
       - Francis “Paul” Ripp (Investigator/The Ripp Report)
+
       - Jack Burrell (Fairhope City Council President)
+
       - Marcus McDowell (Fairhope City Attorney)
+
       - Judge J. Clark Stankowski / Judge Stankoski (Presiding Judge)
+
       - Harry Still (Attorney for DiNardi and Ripp)
+
       - Robert Wilters (Baldwin County District Attorney)
-      - Nall Hollis (Previous victim of McSharry harassment conviction referenced in text)
-      - American Legion (Location of DiNardi Tiki Bar)
+
+      - Nall Hollis (Previous victim of McSharry harassment conviction referenced
+      in text)
+
+      - American Legion (Location of DiNardi Tiki Bar)'
     generated_at: '2026-03-17T00:25:18.733549Z'
-    text: We caught Judge Stankowski and Marcus McDowell using a 365-day "procedural trick" to bury Ronan McSharry’s violent history for good. Read the formal demand sent to DA Robert Wilters that exposes the orchestrated dismissal of evidence and the targeting of Harry Still.
+    text: We caught Judge Stankowski and Marcus McDowell using a 365-day "procedural
+      trick" to bury Ronan McSharry’s violent history for good. Read the formal demand
+      sent to DA Robert Wilters that exposes the orchestrated dismissal of evidence
+      and the targeting of Harry Still.
+    character_count: 267
