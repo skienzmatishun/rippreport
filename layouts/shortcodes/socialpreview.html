@@ -26,8 +26,11 @@
 {{- $errorMessage := "" -}}
 
 {{- $result := try (resources.GetRemote $workerURL) -}}
-{{- if not $result -}}
-    {{- $errorMessage = printf "Error fetching preview data for %s" $url -}}
+{{- if $result.Err -}}
+    {{- $errorMessage = printf "Error fetching preview data for %s: %s" $url $result.Err -}}
+    {{- warnf $errorMessage -}}
+{{- else if not $result.Value -}}
+    {{- $errorMessage = printf "No resource returned for %s" $url -}}
     {{- warnf $errorMessage -}}
 {{- else -}}
     {{- with $result.Value.Content -}}
@@ -51,8 +54,11 @@
             {{- $newURL := printf "https://rippreport.com/p%s" $parsedURL.Path -}}
             {{- $newWorkerURL := printf "%s?q=%s" $workerBaseURL $newURL -}}
             {{- $newResult := try (resources.GetRemote $newWorkerURL) -}}
-            {{- if not $newResult -}}
-                {{- $errorMessage = printf "Error fetching fallback: %s" $newURL -}}
+            {{- if $newResult.Err -}}
+                {{- $errorMessage = printf "Error fetching fallback: %s - %s" $newURL $newResult.Err -}}
+                {{- warnf $errorMessage -}}
+            {{- else if not $newResult.Value -}}
+                {{- $errorMessage = printf "No resource returned for fallback: %s" $newURL -}}
                 {{- warnf $errorMessage -}}
             {{- else -}}
                 {{- with $newResult.Value.Content -}}

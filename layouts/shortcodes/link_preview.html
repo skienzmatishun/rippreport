@@ -1,5 +1,9 @@
 {{- $url := .Get "url" -}}
-{{- $json := getJSON (print "https://social.rippreport.com?q=" $url) -}}
+{{- $json := dict -}}
+{{- $res := resources.GetRemote (print "https://social.rippreport.com?q=" $url) -}}
+{{- if and $res (not $res.Err) -}}
+  {{- $json = $res.Content | unmarshal -}}
+{{- end -}}
 {{- if $json -}}
 <div class="social-preview">
     <a href="{{ $json.url }}">
