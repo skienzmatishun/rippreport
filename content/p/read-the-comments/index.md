@@ -104,9 +104,4 @@ Much Much More coming on these subjects!
 
 {{< twitter id="1803608778689937632" >}}
 
-<style>
-.cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:15 2024 UTC"]) {display:none;}
-.cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:12 2024 UTC"]) {display:none;}
-.cactus-comment:has(.cactus-comment-time[title="Sat Jun 08 23:06:27 2024 UTC"]) {display:none;}
-</style>
 {{< aicomments "hpbtpp" >}}
