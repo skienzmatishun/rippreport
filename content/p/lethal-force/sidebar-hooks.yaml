@@ -2,601 +2,346 @@ metadata:
   generated_at: '2026-03-13T21:43:24.353911Z'
   generator_version: 1.0.0
   post_slug: lethal-force
+  refined_by: gemini
+  refined_at: '2026-03-19T20:46:57.558308Z'
 hooks:
   rumors:
-    brief: 'THE CONFLICT
-
-      - OJ French, 32 years old, shot and killed by Bay Minette Police on August 20th
-      (this year) following a traffic stop for vehicle equipment violation.
-
-      - Joshua Brown, BMJL organizer, claims French was well-read, devoted to faith
-      and a musician publishing albums as "The Juice."
-
-      - Article claims this is the 8th life lost due to police action in Baldwin County
-      in recent escalation (7 lives cost previously), though Widget Article lists
-      9 total loss-of-life cases investigated by BCMCU.
-
+    brief: |-
+      THE CONFLICT
+      - OJ French, 32 years old, shot and killed by Bay Minette Police on August 20th (this year) following a traffic stop for vehicle equipment violation.
+      - Joshua Brown, BMJL organizer, claims French was well-read, devoted to faith and a musician publishing albums as "The Juice."
+      - Article claims this is the 8th life lost due to police action in Baldwin County in recent escalation (7 lives cost previously), though Widget Article lists 9 total loss-of-life cases investigated by BCMCU.
 
       THE DISCOVERY
-
-      - Alabama Supreme Court ruled against Lagniappe Mobile regarding law enforcement
-      files from Jonathan Victor fatal shooting, stating dash/body cam footage is
-      exempt under "investigative" nature.
-
-      - Article 2 states Sheriff Hoss Mack requested $600,000 in taxpayer money for
-      body/dash cameras promising transparency but refuses to share footage since.
-
-      - Article 2 identifies BCMCU investigated previous fatalities (prior to French)
-      with no police at fault found; video was withheld in those cases.
-
+      - Alabama Supreme Court ruled against Lagniappe Mobile regarding law enforcement files from Jonathan Victor fatal shooting, stating dash/body cam footage is exempt under "investigative" nature.
+      - Article 2 states Sheriff Hoss Mack requested $600,000 in taxpayer money for body/dash cameras promising transparency but refuses to share footage since.
+      - Article 2 identifies BCMCU investigated previous fatalities (prior to French) with no police at fault found; video was withheld in those cases.
 
       THE PIVOT
-
-      - Article 2 links OJ French''s case to Jonathan Victor precedent: both had diagnosed
-      mental health issues known to police; both resulted in BCMCU withholding footage.
-
-      - Jonathan Victor case (April 2021): Deputy Hunady shot victim four times from
-      7 yards while unarmed; Sheriff Mack’s office denied immunity but Judge William
-      Cassady eventually ruled in their favor (case on appeal).
-
-      - Alabama Supreme Court ruling creates legal shield allowing BCMCU/BCSO to withhold
-      video evidence for incidents like French''s under "investigative" exemption.
-
-      - Rumored details from Article 2 (French shot in back, officer Brandon Thompson
-      previously fired, footage never released) validate the Core conflict of excessive
-      force and lack of accountability raised in Article 1.
-
+      - Article 2 links OJ French's case to Jonathan Victor precedent: both had diagnosed mental health issues known to police; both resulted in BCMCU withholding footage.
+      - Jonathan Victor case (April 2021): Deputy Hunady shot victim four times from 7 yards while unarmed; Sheriff Mack’s office denied immunity but Judge William Cassady eventually ruled in their favor (case on appeal).
+      - Alabama Supreme Court ruling creates legal shield allowing BCMCU/BCSO to withhold video evidence for incidents like French's under "investigative" exemption.
+      - Rumored details from Article 2 (French shot in back, officer Brandon Thompson previously fired, footage never released) validate the Core conflict of excessive force and lack of accountability raised in Article 1.
 
       KEY ENTITIES
-
       - OJ French
-
       - Huey “Hoss” Mack (Sheriff, BCSO)
-
       - Al Tolbert (Bay Minette Police Chief, BCMCU Chairman)
-
       - Joshua Brown (BMJL organizer)
-
       - Rev. Sam White (French family speaker)
-
       - Jonathan Victor (Previous victim, April 2021)
-
       - Deputy Hunady (Shot Victor 4 times)
-
-      - Brandon Thompson (Rumored French shooter, previously fired by City of Bay
-      Minette and other forces)
-
-      - BCMCU (Baldwin County Major Crimes Unit)'
+      - Brandon Thompson (Rumored French shooter, previously fired by City of Bay Minette and other forces)
+      - BCMCU (Baldwin County Major Crimes Unit)
     generated_at: '2026-03-13T21:43:24.357599Z'
+    text: Baldwin County leaders love to talk about transparency while they hide the bodies of their victims. Sheriff Hoss Mack took $600,000 for cameras only to use a court-ordered legal shield to bury the video of OJ French being shot in the back by a previously fired officer.
   biased-investigation:
-    brief: 'CONFLICT:
-
+    brief: |-
+      CONFLICT:
       - OJ French killed by police in Bay Minette/Baldwin County.
-
-      - 8th individual in a string of fatal incidents spanning over 5 years by Baldwin
-      County entities.
-
-      - Alleged excessive force: Police reportedly fired 114 rounds into French’s
-      home; single-shot gun found on scene.
-
-      - Alleged circumstances involved eviction/civil dispute, not major criminal
-      felony (no bank robbers or drug dealers).
-
+      - 8th individual in a string of fatal incidents spanning over 5 years by Baldwin County entities.
+      - Alleged excessive force: Police reportedly fired 114 rounds into French’s home; single-shot gun found on scene.
+      - Alleged circumstances involved eviction/civil dispute, not major criminal felony (no bank robbers or drug dealers).
 
       DISCOVERY:
-
-      - MCU Lt. Andre Reid stated body camera footage unavailable for investigation
-      to “respect privacy.”
-
+      - MCU Lt. Andre Reid stated body camera footage unavailable for investigation to “respect privacy.”
       - Officer who shot French has not been named by City, Police Dept, or MCU.
-
-      - Reporter Scott Johnson contacted Bay Minette officials and Mayor Bob Wills;
-      most hung up or refused to answer.
-
-      - Alabama Supreme Court ruling cited (last summer) strips public right to sue
-      for police body cam footage.
-
-      - Allegation Officer involved has been reinstated and is currently working while
-      investigation ongoing.
-
+      - Reporter Scott Johnson contacted Bay Minette officials and Mayor Bob Wills; most hung up or refused to answer.
+      - Alabama Supreme Court ruling cited (last summer) strips public right to sue for police body cam footage.
+      - Allegation Officer involved has been reinstated and is currently working while investigation ongoing.
 
       PIVOT:
-
-      - Article 2 confirms Article 1’s claims of “smoke and mirrors” operations by
-      the Baldwin County Major Crimes Unit (MCU).
-
-      - Lt. Reid’s official statement on withholding footage provides the evidence
-      supporting Article 1’s accusation that MCU will not release video unless federal
-      authorities get involved.
-
-      - Information regarding the officer being reinstated while investigated validates
-      Article 1’s broader critique of internal bias and lack of accountability within
-      Baldwin County law enforcement.
-
+      - Article 2 confirms Article 1’s claims of “smoke and mirrors” operations by the Baldwin County Major Crimes Unit (MCU).
+      - Lt. Reid’s official statement on withholding footage provides the evidence supporting Article 1’s accusation that MCU will not release video unless federal authorities get involved.
+      - Information regarding the officer being reinstated while investigated validates Article 1’s broader critique of internal bias and lack of accountability within Baldwin County law enforcement.
 
       KEY ENTITIES:
-
       - OJ French
-
       - Huey “Hoss” Mack (Sheriff, Baldwin County Sheriff’s Office)
-
       - Bay Minette Justice League
-
       - Joshua Brown (Bay Minette Justice League Organizer)
-
       - MCU Lt. Andre Reid (Baldwin County Major Crimes Unit Lieutenant)
-
       - Scott Johnson (Lagniappe Reporter)
-
-      - Bay Minette Police Chief Al Tolbert (MCU Chairman)'
+      - Bay Minette Police Chief Al Tolbert (MCU Chairman)
     generated_at: '2026-03-13T21:43:24.357603Z'
+    text: The Major Crimes Unit claims they hide body cam footage to respect privacy, but we know it is just a cover-up. While Lt. Andre Reid plays word games, the unnamed officer who fired 114 rounds into OJ French’s home is already back on the street with a badge and a gun.
   JUDGE-VS-SHERIFF:
-    brief: 'THE CONFLICT:
-
-      - OJ French death incident identified as #8 in a string of 8 fatalities involving
-      Baldwin County police over past 5+ years.
-
-      - Joshua Brown (BMJL organizer) alleges police account of French’s death makes
-      no sense given his character; Brown cites French as "well read, devoted to faith,"
-      musician (artist name "The Juice").
-
-      - Baldwin County Major Crimes Unit (BCMCU) opened investigation into French
-      death.
-
-      - BCMCU composition: Bay Minette Chief Al Tolbert (chairman), Robertsdale Chief
-      Brad Kendrick, Sheriff Hoss Mack, Gulf Shores Chief Edward Delmore, Daphne Chief
-      David Carpenter, Foley Chief Thurston Bullock.
-
-      - Article 1 claims BCMCU fails to incriminate own officers; recommends FBI involvement
-      instead.
-
+    brief: |-
+      THE CONFLICT:
+      - OJ French death incident identified as #8 in a string of 8 fatalities involving Baldwin County police over past 5+ years.
+      - Joshua Brown (BMJL organizer) alleges police account of French’s death makes no sense given his character; Brown cites French as "well read, devoted to faith," musician (artist name "The Juice").
+      - Baldwin County Major Crimes Unit (BCMCU) opened investigation into French death.
+      - BCMCU composition: Bay Minette Chief Al Tolbert (chairman), Robertsdale Chief Brad Kendrick, Sheriff Hoss Mack, Gulf Shores Chief Edward Delmore, Daphne Chief David Carpenter, Foley Chief Thurston Bullock.
+      - Article 1 claims BCMCU fails to incriminate own officers; recommends FBI involvement instead.
 
       THE DISCOVERY:
-
-      - Sheriff Hoss Mack and District Attorney Robert Wilters pressured a judge to
-      reverse ruling on seized Camaro; DA requested reversal due to "Boss Hoss" dissatisfaction.
-
-      - Relationship between Wilters and Mack spans 30+ years; claims "Wilters will
-      do whatever the Boss wants."
-
-      - Boom Boom Pittman (State Senator) sponsored Senate Bill 312 ten years ago
-      to qualify Sheriff positions; enabled Mack to secure two terms by eliminating
-      competition.
-
-      - 2021 Ruling (Lagniappe v. Mack): Lagniappe Media sued Sheriff Mack for withholding
-      bodycam footage of Deputy Matt Hunady shooting unarmed motorist on I-10.
-
-      - Associate Justice Greg Shaw wrote majority decision: "Law enforcement investigative
-      reports and related investigative material are not public records." Chief Justice
-      Tom Parker dissented.
-
+      - Sheriff Hoss Mack and District Attorney Robert Wilters pressured a judge to reverse ruling on seized Camaro; DA requested reversal due to "Boss Hoss" dissatisfaction.
+      - Relationship between Wilters and Mack spans 30+ years; claims "Wilters will do whatever the Boss wants."
+      - Boom Boom Pittman (State Senator) sponsored Senate Bill 312 ten years ago to qualify Sheriff positions; enabled Mack to secure two terms by eliminating competition.
+      - 2021 Ruling (Lagniappe v. Mack): Lagniappe Media sued Sheriff Mack for withholding bodycam footage of Deputy Matt Hunady shooting unarmed motorist on I-10.
+      - Associate Justice Greg Shaw wrote majority decision: "Law enforcement investigative reports and related investigative material are not public records." Chief Justice Tom Parker dissented.
 
       THE PIVOT:
-
-      - Article 2 proves systemic legal mechanism (Lagniappe v. Mack ruling) used
-      to block public access to Hoss Mack’s internal evidence (video/records).
-
-      - Confirms Hoss Mack utilizes local judicial network (Wilters, Shaw, Pittman)
-      to ensure investigations remain internal and shielded.
-
-      - Validates Article 1’s claim that BCMCU/Mack-run investigations will never
-      admit fault or release footage unless federal pressure applied.
-
+      - Article 2 proves systemic legal mechanism (Lagniappe v. Mack ruling) used to block public access to Hoss Mack’s internal evidence (video/records).
+      - Confirms Hoss Mack utilizes local judicial network (Wilters, Shaw, Pittman) to ensure investigations remain internal and shielded.
+      - Validates Article 1’s claim that BCMCU/Mack-run investigations will never admit fault or release footage unless federal pressure applied.
 
       KEY ENTITIES:
-
       - OJ French
-
       - Hoss Mack (Sheriff Baldwin County)
-
       - Robert Wilters (District Attorney)
-
       - Boom Boom Pittman (Former Senator/State Rep)
-
       - Joshua Brown (BMJL Organizer)
-
       - Deputy Matt Hunady
-
       - Al Tolbert (BCMCU Chairman/Bay Minette Chief)
-
       - Greg Shaw (Associate Justice, majority Lagniappe decision)
-
-      - Tom Parker (Chief Justice, dissented Lagniappe decision)'
+      - Tom Parker (Chief Justice, dissented Lagniappe decision)
     generated_at: '2026-03-13T21:43:24.358176Z'
+    text: Sheriff Hoss Mack does not just run the jail; he owns the legal system from the DA’s office to the judge's bench. This investigation into OJ French is a rigged game where Robert Wilters and a network of cronies ensure the truth never sees the light of day.
   baldwin-county-judicial-corruption:
-    brief: 'THE CONFLICT
-
-      - OJ French identified as victim number 8 in a string of Baldwin County law
-      enforcement deaths; at least 7 prior lives lost.
-
-      - Bay Minette Justice League (BMJL) organizing protests at Bay Minette courthouse
-      square for transparency and justice.
-
-      - BMJL Organizer Joshua Brown states police narrative regarding French''s death
-      is false; notes victim was musician/artist "The Juice" with strong community
-      ties.
-
-      - Baldwin County Major Crimes Unit (BCMCU) named as investigating French''s
-      death.
-
-      - BMJL claims BCMCU is "smoke and mirrors," noting 5 years of incidents with
-      zero accountability within the system.
-
-      - Sheriff Huey "Hoss" Mack accused of manipulating BMCMU to avoid incriminating
-      his own officers.
-
+    brief: |-
+      THE CONFLICT
+      - OJ French identified as victim number 8 in a string of Baldwin County law enforcement deaths; at least 7 prior lives lost.
+      - Bay Minette Justice League (BMJL) organizing protests at Bay Minette courthouse square for transparency and justice.
+      - BMJL Organizer Joshua Brown states police narrative regarding French's death is false; notes victim was musician/artist "The Juice" with strong community ties.
+      - Baldwin County Major Crimes Unit (BCMCU) named as investigating French's death.
+      - BMJL claims BCMCU is "smoke and mirrors," noting 5 years of incidents with zero accountability within the system.
+      - Sheriff Huey "Hoss" Mack accused of manipulating BMCMU to avoid incriminating his own officers.
 
       THE DISCOVERY
-
-      - Article 2 exposes a documented 20-year history of systemic misconduct within
-      Baldwin County Sheriff''s Office.
-
-      - Case: Murray Lawrence incarcerated for 20 years; recent legal action reveals
-      new evidence of his innocence was suppressed.
-
-      - Sheriff Mack, District Attorney Robert Wilters, and Judge (signatories found)
-      willfully withheld evidence rather than leaving it inadvertent.
-
-      - Sheriff Mack previously promised County Commission $600,000 worth of body
-      and car cameras for public transparency.
-
-      - Sheriff’s office allegedly releases edited or no footage at all, using internal
-      Major Crimes Division to dismiss complaints without finding officers responsible.
-
-      - Multiple pending legal cases exist against Sheriff Mack for judicial misconduct
-      and suppression of evidence.
-
+      - Article 2 exposes a documented 20-year history of systemic misconduct within Baldwin County Sheriff's Office.
+      - Case: Murray Lawrence incarcerated for 20 years; recent legal action reveals new evidence of his innocence was suppressed.
+      - Sheriff Mack, District Attorney Robert Wilters, and Judge (signatories found) willfully withheld evidence rather than leaving it inadvertent.
+      - Sheriff Mack previously promised County Commission $600,000 worth of body and car cameras for public transparency.
+      - Sheriff’s office allegedly releases edited or no footage at all, using internal Major Crimes Division to dismiss complaints without finding officers responsible.
+      - Multiple pending legal cases exist against Sheriff Mack for judicial misconduct and suppression of evidence.
 
       THE PIVOT
-
-      - Murray Lawrence case serves as the "smoking gun" proving Sheriff Hoss Mack’s
-      pattern of evidence suppression matches OJ French concerns.
-
-      - Article 2 confirms the internal system (Mack, BCMCU) has proven history of
-      protecting officers through evidence tampering.
-
-      - Willful suppression in Lawrence case directly implicates Sheriff Mack and
-      Robert Wilters, linking them to the systemic failure BMJL reports.
-
-      - Proves "lack of accountability" is not random; it is tied to specific individuals
-      seeking self-promotion and immunity.
-
+      - Murray Lawrence case serves as the "smoking gun" proving Sheriff Hoss Mack’s pattern of evidence suppression matches OJ French concerns.
+      - Article 2 confirms the internal system (Mack, BCMCU) has proven history of protecting officers through evidence tampering.
+      - Willful suppression in Lawrence case directly implicates Sheriff Mack and Robert Wilters, linking them to the systemic failure BMJL reports.
+      - Proves "lack of accountability" is not random; it is tied to specific individuals seeking self-promotion and immunity.
 
       KEY ENTITIES
-
       - Huey "Hoss" Mack (Baldwin County Sheriff)
-
       - OJ French (Victim, #8)
-
       - Murray Lawrence (Case Defendant/Innocent Claimed after 20 years)
-
       - Robert Wilters (District Attorney)
-
       - Joshua Brown (BMJL Organizer)
-
       - David Whetstone (Prosecutor in Lawrence case)
-
       - Huey "Hoss" Mack (Sheriff implicated) - Note: duplicated name in source.
-
       - David Whetstone (Prosecutor implicated)
-
-      - Al Tolbert (Bay Minette Police Chief, BMCMU Chairman)'
+      - Al Tolbert (Bay Minette Police Chief, BMCMU Chairman)
     generated_at: '2026-03-13T21:43:24.358188Z'
+    text: The evidence suppression in the OJ French case is not a mistake; it is a decades-long habit for Sheriff Hoss Mack and Robert Wilters. The Murray Lawrence scandal proves these men will bury an innocent person for twenty years just to protect their own careers.
   new-sheriff-no-changes:
-    brief: 'THE CONFLICT
-
-      - Seven deaths attributed to police-related incidents spanning over five years;
-      OJ French identified as the eighth victim.
-
-      - OJ French described by Bay Minette Justice League organizer Joshua Brown as
-      well-read, faith-devoted, and a musician.
-
-      - Baldwin County Major Crimes Unit (BCMCU) investigated OJ French death; unit
-      claimed as "smoke and mirrors" with no accountability.
-
-      - Murray Lawrence wrongfully convicted; case ignored by Governor Kay Ivey during
-      appointments process.
-
-      - Steve Nodine wrongful conviction case involves same Prosecutor, Judge, and
-      Sheriff Hoss Mack as Lawrence.
-
-      - Hoss Mack served as Baldwin County Sheriff with no accountability or transparency
-      regarding police force and jail monetization.
-
+    brief: |-
+      THE CONFLICT
+      - Seven deaths attributed to police-related incidents spanning over five years; OJ French identified as the eighth victim.
+      - OJ French described by Bay Minette Justice League organizer Joshua Brown as well-read, faith-devoted, and a musician.
+      - Baldwin County Major Crimes Unit (BCMCU) investigated OJ French death; unit claimed as "smoke and mirrors" with no accountability.
+      - Murray Lawrence wrongfully convicted; case ignored by Governor Kay Ivey during appointments process.
+      - Steve Nodine wrongful conviction case involves same Prosecutor, Judge, and Sheriff Hoss Mack as Lawrence.
+      - Hoss Mack served as Baldwin County Sheriff with no accountability or transparency regarding police force and jail monetization.
 
       THE DISCOVERY
-
-      - Hoss Mack leaving office on August 31; Anthony Lowery appointed new Sheriff
-      by Governor Kay Ivey.
-
-      - Two specific wrongful death federal lawsuits filed against Baldwin County
-      Sheriff’s Office (BCSO) and BCMU.
-
-      - Governor Ivey ignored letters to appointment board and the two pending federal
-      lawsuits during her decision-making for the Sheriff position.
-
-      - BCMCU consists of six members including Bay Minette Chief Al Tolbert (Chairman),
-      Sheriff Hoss Mack, Robertsdale Chief Brad Kendrick, Gulf Shores Chief Edward
-      Delmore, Daphne Chief David Carpenter, and Foley Chief Thurston Bullock.
-
-      - Federal lawsuits explicitly mention the Baldwin County Major Crimes Unit;
-      BCMU has historically never found police responsible for misconduct under current
-      structure.
-
+      - Hoss Mack leaving office on August 31; Anthony Lowery appointed new Sheriff by Governor Kay Ivey.
+      - Two specific wrongful death federal lawsuits filed against Baldwin County Sheriff’s Office (BCSO) and BCMU.
+      - Governor Ivey ignored letters to appointment board and the two pending federal lawsuits during her decision-making for the Sheriff position.
+      - BCMCU consists of six members including Bay Minette Chief Al Tolbert (Chairman), Sheriff Hoss Mack, Robertsdale Chief Brad Kendrick, Gulf Shores Chief Edward Delmore, Daphne Chief David Carpenter, and Foley Chief Thurston Bullock.
+      - Federal lawsuits explicitly mention the Baldwin County Major Crimes Unit; BCMU has historically never found police responsible for misconduct under current structure.
 
       THE PIVOT
-
-      - Anthony Lowery appointed as "carbon copy" of Hoss Mack, ensuring continuity
-      of the same systemic issues (no video, self-investigation).
-
-      - Connects Hoss Mack''s 15-year tenure to the alleged "10 innocent lives lost"
-      in Baldwin County (BCSO related).
-
-      - Validates Main Article’s claim of bias: Mack is a member of BCMCU tasked with
-      reviewing his own officers'' actions.
-
-      - Proves Main Article’s assertion that accountability is lacking: Federal lawsuits
-      were ignored by the appointment board and Governor.
-
-      - Highlights risk for Lowery: Inherits issues including sexual misconduct between
-      officers (extra-marital affairs) and ongoing federal scrutiny.
-
+      - Anthony Lowery appointed as "carbon copy" of Hoss Mack, ensuring continuity of the same systemic issues (no video, self-investigation).
+      - Connects Hoss Mack's 15-year tenure to the alleged "10 innocent lives lost" in Baldwin County (BCSO related).
+      - Validates Main Article’s claim of bias: Mack is a member of BCMCU tasked with reviewing his own officers' actions.
+      - Proves Main Article’s assertion that accountability is lacking: Federal lawsuits were ignored by the appointment board and Governor.
+      - Highlights risk for Lowery: Inherits issues including sexual misconduct between officers (extra-marital affairs) and ongoing federal scrutiny.
 
       KEY ENTITIES
-
       - OJ French ("The Juice")
-
       - Hoss Mack (Sheriff, BCMCU Member/Chairman)
-
       - Anthony Lowery (Incoming Sheriff)
-
       - Kay Ivey (Governor of Alabama)
-
       - Joshua Brown (BMJL Organizer)
-
       - Al Tolbert (Bay Minette Police Chief, BCMCU Chairman)
-
       - Murray Lawrence (Wrongfully Convicted Citizen)
-
       - Steve Nodine (Righteous Acquittal/Suspended Case)
-
       - Bay Minette Justice League (BMJL)
-
       - Baldwin County Sheriff’s Office (BCSO)
-
-      - Baldwin County Major Crimes Unit (BCMCU)'
+      - Baldwin County Major Crimes Unit (BCMCU)
     generated_at: '2026-03-13T21:43:24.358195Z'
+    text: Governor Kay Ivey thinks she solved the problem by appointing Anthony Lowery, but he is just a carbon copy of the man he replaced. Lowery inherits a pile of federal lawsuits and a culture of silence that ensures the BCMCU remains a protection racket for bad cops.
   justified:
-    brief: "THE CONFLICT\n- OJ French (Bay Minette resident, rising musician/artist\
-      \ \"The Juice\") killed during a traffic stop.\n- Alleged 7 previous lives lost\
-      \ to Baldwin County Police in >5 years; French designated the 8th unarmed death.\n\
-      - Baldwin County Sheriff’s Office claims Baldwin County Major Crimes Unit (BCMCU)\
-      \ is investigating.\n- Article 1 cites: Joshua Brown, BMJL organizer; OJ French’s\
-      \ family.\n- Specific incident details from Article 2: Officer knew who he was\
-      \ stopping; Mayor Bob Willis claimed on city council French's family were \"\
-      OK\" with the shooting (Article 2 calls this a lie).\n- Article 1 highlights:\
-      \ Lack of transparency, BCMCU smoke and mirrors, requests for FBI involvement.\n\
-      \nTHE DISCOVERY\n- Article 2 confirms BCMCU is composed entirely of local officials\
-      \ (Self-police).\n- Lists BCMCU members: Bay Minette Police Chief Al Tolbert\
-      \ (Chairman), Robertsdale Chief Brad Kendrick, Sheriff Hoss Mack, Gulf Shores\
-      \ Chief Edward Delmore, Daphne Chief David Carpenter, Foley Chief Thurston Bullock.\n\
-      - Reveals 8 deaths ruled \"justified\" by BCMCU including:\n    - OJ French\
-      \ (Traffic stop).\n    - Johnathan Victor (Unarmed, killed by sheriff deputy\
-      \ with assault rifle).\n    - Five others burned to death in I-10 high-speed\
-      \ chase.\n- Confirms Federal lawsuits are now filed for OJ French and Johnathan\
-      \ Victor cases.\n- Details past collusion between DA Robert Wilters, Sheriff\
-      \ Mack, and former DA David Whetstone to convict Murray Lawrence of murder (20-year\
-      \ wrongful incarceration).\n- Claims Anthony Lowery, then-current sheriff/lead\
-      \ investigator, knew of hidden evidence and coroner's report in Lawrence case.\n\
-      \nTHE PIVOT\n- Article 2 is the 'smoking gun' because it names the specific\
-      \ officials in charge of OJ French’s case.\n- Connects OJ French’s death to\
-      \ Sheriff Mack and Al Tolbert who serve on the BCMCU (the unit reviewing his\
-      \ case).\n- Links the current investigation leadership to the Murray Lawrence\
-      \ wrongful conviction scandal (Wilters, Mack, Lowery).\n- Exposes that Mayor\
-      \ Bob Willis made public statements contradicting his stance on transparency,\
-      \ supporting the \"no accountability\" narrative in Article 1.\n\nKEY ENTITIES\n\
-      - OJ French (Victim)\n- Johnathan Victor (Unarmed victim case #14 in list, federal\
-      \ lawsuit pending)\n- Hoss Mack / Sheriff Huey \"Hoss\" Mack (BCSO, BCMCU member)\n\
-      - Al Tolbert / Bay Minette Police Chief (BCMCU Chairman)\n- Robert Wilters /\
-      \ Baldwin County District Attorney (\"Secret\" Grand Jury, Murray Lawrence case\
-      \ colluder)\n- David Whetstone / Former District Attorney (Murray Lawrence case)\n\
-      - Anthony Lowery (Lead investigator in Murray Lawrence case per Article 2, \"\
-      current sheriff\" per texts)\n- Mayor Bob Willis (Bob Wills - claimed to know\
-      \ French’s family; Article 2 calls his testimony a lie)\n- Murray Lawrence (Wrongfully\
-      \ convicted murder suspect, in jail 20 years per text)\n- Baldwin County Major\
-      \ Crimes Unit (BCMCU)\n- BMJL (Baldwin County Justice for our Lives - Group\
-      \ name referenced in Article 1)"
+    brief: |-
+      THE CONFLICT
+      - OJ French (Bay Minette resident, rising musician/artist "The Juice") killed during a traffic stop.
+      - Alleged 7 previous lives lost to Baldwin County Police in >5 years; French designated the 8th unarmed death.
+      - Baldwin County Sheriff’s Office claims Baldwin County Major Crimes Unit (BCMCU) is investigating.
+      - Article 1 cites: Joshua Brown, BMJL organizer; OJ French’s family.
+      - Specific incident details from Article 2: Officer knew who he was stopping; Mayor Bob Willis claimed on city council French's family were "OK" with the shooting (Article 2 calls this a lie).
+      - Article 1 highlights: Lack of transparency, BCMCU smoke and mirrors, requests for FBI involvement.
+
+      THE DISCOVERY
+      - Article 2 confirms BCMCU is composed entirely of local officials (Self-police).
+      - Lists BCMCU members: Bay Minette Police Chief Al Tolbert (Chairman), Robertsdale Chief Brad Kendrick, Sheriff Hoss Mack, Gulf Shores Chief Edward Delmore, Daphne Chief David Carpenter, Foley Chief Thurston Bullock.
+      - Reveals 8 deaths ruled "justified" by BCMCU including:
+          - OJ French (Traffic stop).
+          - Johnathan Victor (Unarmed, killed by sheriff deputy with assault rifle).
+          - Five others burned to death in I-10 high-speed chase.
+      - Confirms Federal lawsuits are now filed for OJ French and Johnathan Victor cases.
+      - Details past collusion between DA Robert Wilters, Sheriff Mack, and former DA David Whetstone to convict Murray Lawrence of murder (20-year wrongful incarceration).
+      - Claims Anthony Lowery, then-current sheriff/lead investigator, knew of hidden evidence and coroner's report in Lawrence case.
+
+      THE PIVOT
+      - Article 2 is the 'smoking gun' because it names the specific officials in charge of OJ French’s case.
+      - Connects OJ French’s death to Sheriff Mack and Al Tolbert who serve on the BCMCU (the unit reviewing his case).
+      - Links the current investigation leadership to the Murray Lawrence wrongful conviction scandal (Wilters, Mack, Lowery).
+      - Exposes that Mayor Bob Willis made public statements contradicting his stance on transparency, supporting the "no accountability" narrative in Article 1.
+
+      KEY ENTITIES
+      - OJ French (Victim)
+      - Johnathan Victor (Unarmed victim case #14 in list, federal lawsuit pending)
+      - Hoss Mack / Sheriff Huey "Hoss" Mack (BCSO, BCMCU member)
+      - Al Tolbert / Bay Minette Police Chief (BCMCU Chairman)
+      - Robert Wilters / Baldwin County District Attorney ("Secret" Grand Jury, Murray Lawrence case colluder)
+      - David Whetstone / Former District Attorney (Murray Lawrence case)
+      - Anthony Lowery (Lead investigator in Murray Lawrence case per Article 2, "current sheriff" per texts)
+      - Mayor Bob Willis (Bob Wills - claimed to know French’s family; Article 2 calls his testimony a lie)
+      - Murray Lawrence (Wrongfully convicted murder suspect, in jail 20 years per text)
+      - Baldwin County Major Crimes Unit (BCMCU)
+      - BMJL (Baldwin County Justice for our Lives - Group name referenced in Article 1)
     generated_at: '2026-03-13T21:43:24.358200Z'
+    text: The Baldwin County Major Crimes Unit has never met a police killing it could not justify. From the Murray Lawrence cover-up to the lies Mayor Bob Wills told about the French family, this unit exists to sign off on executions while Anthony Lowery keeps the secrets buried.
   boss-sheriff:
-    brief: "THE CONFLICT:\n    - Baldwin County Sheriff’s Office (BCSO) and local\
-      \ police accused of excessive force resulting in 8 deaths, including OJ French.\n\
-      \    - OJ French incident occurred at Bay Minette courthouse square during a\
-      \ demonstration; organizer Joshua Brown stated police narrative regarding French’s\
-      \ character does not align with known behavior (musician, faith-devoted).\n\
-      \    - Baldwin County Major Crimes Unit (BCMCU) claimed internal investigation\
-      \ was underway following French’s death.\n    - BCMCU accused of bias; described\
-      \ as police-run watchdog including Bay Minette Police Chief Al Tolbert (chairman),\
-      \ Robertsdale Police Chief Brad Kendrick, Sheriff Huey “Hoss” Mack, Gulf Shores\
-      \ Police Chief Edward Delmore, Daphne Police Chief David Carpenter, and Foley\
-      \ Police Chief Thurston Bullock.\n    - Claims of no accountability for BCSO\
-      \ actions over 5 years.\n\n    THE DISCOVERY:\n    - FBI notified regarding\
-      \ citizens’ concerns about Baldwin County Sheriff Office.\n    - Confirms pattern\
-      \ of behavior rather than isolated incident; stated “This is not new news.”\n\
-      \    - Highlights systemic corruption: DA takes orders from Sheriff Hoss Mack;\
-      \ most local Judges were appointed by Mack.\n    - Reference to previous Ripp\
-      \ Report content regarding “secret police” operations under Mack (link https://rippreport.com/p/sheriff-huey-boss-mack-secret-police-2/).\n\
-      \n    THE PIVOT:\n    - Article 1 exposes the internal investigation mechanism\
-      \ (BCMCU) is compromised and composed of peers to the accused officer.\n   \
-      \ - Article 2 serves as validation for fears in Article 1 by confirming the\
-      \ FBI was actually notified about this specific pattern and outlining how Sheriff\
-      \ Mack controls DA and Judiciary.\n    - Connects the OJ French death specifically\
-      \ to a broader, wider conspiracy of control within Baldwin County law enforcement.\n\
-      \n    KEY ENTITIES:\n    - Huey “Hoss” Mack (Baldwin County Sheriff)\n    -\
-      \ OJ French (Deceased)\n    - Joshua Brown (BMJL Organizer)\n    - Al Tolbert\
-      \ (Bay Minette Police Chief, BCMCU Chairman)\n    - Brad Kendrick (Robertsdale\
-      \ Police Chief, BCMCU Member)\n    - Edward Delmore (Gulf Shores Police Chief,\
-      \ BCMCU Member)\n    - David Carpenter (Daphne Police Chief, BCMCU Member)\n\
-      \    - Thurston Bullock (Foley Police Chief, BCMCU Member)\n    - Baldwin County\
-      \ Commission (Political body accused of protecting Mack)\n    - FBI"
+    brief: |-
+      THE CONFLICT:
+          - Baldwin County Sheriff’s Office (BCSO) and local police accused of excessive force resulting in 8 deaths, including OJ French.
+          - OJ French incident occurred at Bay Minette courthouse square during a demonstration; organizer Joshua Brown stated police narrative regarding French’s character does not align with known behavior (musician, faith-devoted).
+          - Baldwin County Major Crimes Unit (BCMCU) claimed internal investigation was underway following French’s death.
+          - BCMCU accused of bias; described as police-run watchdog including Bay Minette Police Chief Al Tolbert (chairman), Robertsdale Police Chief Brad Kendrick, Sheriff Huey “Hoss” Mack, Gulf Shores Police Chief Edward Delmore, Daphne Police Chief David Carpenter, and Foley Police Chief Thurston Bullock.
+          - Claims of no accountability for BCSO actions over 5 years.
+
+          THE DISCOVERY:
+          - FBI notified regarding citizens’ concerns about Baldwin County Sheriff Office.
+          - Confirms pattern of behavior rather than isolated incident; stated “This is not new news.”
+          - Highlights systemic corruption: DA takes orders from Sheriff Hoss Mack; most local Judges were appointed by Mack.
+          - Reference to previous Ripp Report content regarding “secret police” operations under Mack (link https://rippreport.com/p/sheriff-huey-boss-mack-secret-police-2/).
+
+          THE PIVOT:
+          - Article 1 exposes the internal investigation mechanism (BCMCU) is compromised and composed of peers to the accused officer.
+          - Article 2 serves as validation for fears in Article 1 by confirming the FBI was actually notified about this specific pattern and outlining how Sheriff Mack controls DA and Judiciary.
+          - Connects the OJ French death specifically to a broader, wider conspiracy of control within Baldwin County law enforcement.
+
+          KEY ENTITIES:
+          - Huey “Hoss” Mack (Baldwin County Sheriff)
+          - OJ French (Deceased)
+          - Joshua Brown (BMJL Organizer)
+          - Al Tolbert (Bay Minette Police Chief, BCMCU Chairman)
+          - Brad Kendrick (Robertsdale Police Chief, BCMCU Member)
+          - Edward Delmore (Gulf Shores Police Chief, BCMCU Member)
+          - David Carpenter (Daphne Police Chief, BCMCU Member)
+          - Thurston Bullock (Foley Police Chief, BCMCU Member)
+          - Baldwin County Commission (Political body accused of protecting Mack)
+          - FBI
     generated_at: '2026-03-13T21:43:24.358201Z'
+    text: Local officials claim they can police themselves, but the FBI is finally looking at the Boss Hoss empire. Sheriff Mack has spent years turning the DA and the judges into his personal puppets, making any internal review of the OJ French shooting a total sham.
   non-lethal:
-    brief: "THE CONFLICT:\n- OJ French deceased; identified as the 8th life lost in\
-      \ escalating string of incidents over >5 years in Baldwin County.\n- Johnathan\
-      \ Victor case: Unarmed man shot four times with Ruger AR-15 from 7 yards; case\
-      \ filed in federal court.\n- Major Crimes Unit (MCU) established to review officer\
-      \ actions; comprised entirely of internal leadership:\n  - Huey “Hoss” Mack\
-      \ (Baldwin County Sheriff’s Office)\n  - Al Tolbert (Bay Minette Police Chief,\
-      \ MCU Chairman)\n  - Brad Kendrick (Robertsdale Police Chief)\n  - Edward Delmore\
-      \ (Gulf Shores Police Chief)\n  - David Carpenter (Daphne Police Chief)\n  -\
-      \ Thurston Bullock (Foley Police Chief)\n- Allegation: MCU never indicts its\
-      \ own members; Sheriff Mack accused of refusing transparency regarding video\
-      \ footage.\n- Ongoing investigation: Baldwin County Major Crimes Unit officially\
-      \ conducting review of French incident (per press); organizers claim it will\
-      \ require federal intervention to see video.\n\nTHE DISCOVERY:\n- Bay Minette\
-      \ Police Grant (published Jan 19, 2021): Received ~$212,000 in grant funds for\
-      \ lethal/military equipment.\n- Equipment Purchased: AR-15 rifles, Humvee high\
-      \ water/off-road vehicle, drones, covert audio/video equipment.\n- No documented\
-      \ non-lethal weapon acquisition in contrast to military-grade hardware; no mandated\
-      \ crisis intervention teams.\n- Sheriff Mack deposition (May 2017): Admitted\
-      \ BCSO had no crisis intervention team and deputies were not trained in de-escalation\
-      \ techniques.\n- Evidence Retention: Sheriff’s Office refused to turn over body\
-      \ camera and vehicle footage for Johnathan Victor case.\n- External Action:\
-      \ Lagniappe (and Gabriel Tynes, Jan 19 2021) hired attorney and took legal action\
-      \ to acquire missing footage from Johnathan Victor case; issue remains in court.\n\
-      \nTHE PIVOT:\n- Article 2 validates the \"excessive force\" claim from Article\
-      \ 1 with specific hardware and testimony (AR-15 used vs. alleged lack of non-lethal\
-      \ options).\n- Article 2 proves the structural conflict: Sheriff Mack’s internal\
-      \ investigation unit (MCU) is staffed by peers who refuse transparency, documented\
-      \ in refusal to release Victor footage.\n- Article 2 connects the lack of training\
-      \ (Sheriff Mack May 2017 deposition) directly to the lethal force used in the\
-      \ Victor shooting cited in Article 1.\n- Evidence of external litigation required\
-      \ (Lagniappe attorney) confirms the \"no transparency\" warning in Article 1.\n\
-      \nKEY ENTITIES:\n- Huey “Hoss” Mack (Baldwin County Sheriff’s Office)\n- OJ\
-      \ French (Deceased, victim)\n- Johnathan Victor (Victim/Unarmed Shooting Case)\n\
-      - Joshua Brown (BMJL organizer, French family supporter)\n- Al Tolbert (Bay\
-      \ Minette Police Chief/MCU Chairman)\n- Gabriel Tynes (Legal/Publicity for Lagniappe)\n\
-      - BCSO/Baldwin County Sheriff’s Office\n- Major Crimes Unit (MCU)\n- Lagniappe\
-      \ Mobile / The Ripp Report"
-    generated_at: '2026-03-13T21:43:24.358203Z'
-  FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT:
-    brief: 'THE CONFLICT:
-
-      - O.J. French was murdered by Bay Minette police officer Brandon Thompson.
-
-      - Main article cites 7 previous lives lost to Baldwin County officers prior
-      to French; author claims French is number 8.
-
-      - Sheriff Hoss Mack controls the investigation through the Baldwin County Major
-      Crimes Unit (BCMCU).
-
-      - Allegations state BCMCU withholds video footage and lacks accountability;
-      Joshua Brown states police account makes no sense given French’s character.
-
-      - Claims of excessive force and lack of transparency regarding camera footage
-      from Main Article and Jonathan Victor case (April 2021).
-
+    brief: |-
+      THE CONFLICT:
+      - OJ French deceased; identified as the 8th life lost in escalating string of incidents over >5 years in Baldwin County.
+      - Johnathan Victor case: Unarmed man shot four times with Ruger AR-15 from 7 yards; case filed in federal court.
+      - Major Crimes Unit (MCU) established to review officer actions; comprised entirely of internal leadership:
+        - Huey “Hoss” Mack (Baldwin County Sheriff’s Office)
+        - Al Tolbert (Bay Minette Police Chief, MCU Chairman)
+        - Brad Kendrick (Robertsdale Police Chief)
+        - Edward Delmore (Gulf Shores Police Chief)
+        - David Carpenter (Daphne Police Chief)
+        - Thurston Bullock (Foley Police Chief)
+      - Allegation: MCU never indicts its own members; Sheriff Mack accused of refusing transparency regarding video footage.
+      - Ongoing investigation: Baldwin County Major Crimes Unit officially conducting review of French incident (per press); organizers claim it will require federal intervention to see video.
 
       THE DISCOVERY:
-
-      - Federal Civil Rights Lawsuit filed in U.S. District Court for Southern District
-      of Alabama against BCSO and BCMCU members.
-
-      - Second article confirms French is the 10th loss of life where BCMCU investigated
-      themselves; first 8 resulted in "no police at fault" findings.
-
-      - Documents reveal BCMCU structure: Al Tolbert (chairman), Hoss Mack, Brad Kendrick,
-      Edward Delmore, David Carpenter, Thurston Bullock.
-
-      - Confirms Sheriff Hoss Mack is trying to leave Baldwin County; seeking Anthony
-      Lowery as replacement.
-
-      - Evidence shows Jonathan Victor case (April 2021): Deputy Hunady shot unarmed
-      victim four times from 7 yards; judge denied Mack and Hunady qualified immunity
-      but Sheriff provided untrue facts to court.
-
+      - Bay Minette Police Grant (published Jan 19, 2021): Received ~$212,000 in grant funds for lethal/military equipment.
+      - Equipment Purchased: AR-15 rifles, Humvee high water/off-road vehicle, drones, covert audio/video equipment.
+      - No documented non-lethal weapon acquisition in contrast to military-grade hardware; no mandated crisis intervention teams.
+      - Sheriff Mack deposition (May 2017): Admitted BCSO had no crisis intervention team and deputies were not trained in de-escalation techniques.
+      - Evidence Retention: Sheriff’s Office refused to turn over body camera and vehicle footage for Johnathan Victor case.
+      - External Action: Lagniappe (and Gabriel Tynes, Jan 19 2021) hired attorney and took legal action to acquire missing footage from Johnathan Victor case; issue remains in court.
 
       THE PIVOT:
-
-      - The federal lawsuit proves the Main Article’s claim that internal investigations
-      (BCMCU) are ineffective and lack credibility.
-
-      - Lawsuit exposes self-policing structure: Bay Minette Chief Al Tolbert chairs
-      the unit investigating Baldwin County officers.
-
-      - Confirms County Commission failed to act despite warnings of possible federal
-      lawsuits involving Sheriff Mack and BCMCU.
-
-      - Federal court filings provide the "smoking gun" evidence (videos, facts) to
-      validate community complaints about withheld footage and cover-ups.
-
+      - Article 2 validates the "excessive force" claim from Article 1 with specific hardware and testimony (AR-15 used vs. alleged lack of non-lethal options).
+      - Article 2 proves the structural conflict: Sheriff Mack’s internal investigation unit (MCU) is staffed by peers who refuse transparency, documented in refusal to release Victor footage.
+      - Article 2 connects the lack of training (Sheriff Mack May 2017 deposition) directly to the lethal force used in the Victor shooting cited in Article 1.
+      - Evidence of external litigation required (Lagniappe attorney) confirms the "no transparency" warning in Article 1.
 
       KEY ENTITIES:
+      - Huey “Hoss” Mack (Baldwin County Sheriff’s Office)
+      - OJ French (Deceased, victim)
+      - Johnathan Victor (Victim/Unarmed Shooting Case)
+      - Joshua Brown (BMJL organizer, French family supporter)
+      - Al Tolbert (Bay Minette Police Chief/MCU Chairman)
+      - Gabriel Tynes (Legal/Publicity for Lagniappe)
+      - BCSO/Baldwin County Sheriff’s Office
+      - Major Crimes Unit (MCU)
+      - Lagniappe Mobile / The Ripp Report
+    generated_at: '2026-03-13T21:43:24.358203Z'
+    text: Baldwin County spent thousands on military rifles and high-water vehicles but not a dime on saving lives. Sheriff Hoss Mack admitted his deputies have no de-escalation training, proving that the killing of OJ French was the inevitable result of a department built for war.
+  FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT:
+    brief: |-
+      THE CONFLICT:
+      - O.J. French was murdered by Bay Minette police officer Brandon Thompson.
+      - Main article cites 7 previous lives lost to Baldwin County officers prior to French; author claims French is number 8.
+      - Sheriff Hoss Mack controls the investigation through the Baldwin County Major Crimes Unit (BCMCU).
+      - Allegations state BCMCU withholds video footage and lacks accountability; Joshua Brown states police account makes no sense given French’s character.
+      - Claims of excessive force and lack of transparency regarding camera footage from Main Article and Jonathan Victor case (April 2021).
 
+      THE DISCOVERY:
+      - Federal Civil Rights Lawsuit filed in U.S. District Court for Southern District of Alabama against BCSO and BCMCU members.
+      - Second article confirms French is the 10th loss of life where BCMCU investigated themselves; first 8 resulted in "no police at fault" findings.
+      - Documents reveal BCMCU structure: Al Tolbert (chairman), Hoss Mack, Brad Kendrick, Edward Delmore, David Carpenter, Thurston Bullock.
+      - Confirms Sheriff Hoss Mack is trying to leave Baldwin County; seeking Anthony Lowery as replacement.
+      - Evidence shows Jonathan Victor case (April 2021): Deputy Hunady shot unarmed victim four times from 7 yards; judge denied Mack and Hunady qualified immunity but Sheriff provided untrue facts to court.
+
+      THE PIVOT:
+      - The federal lawsuit proves the Main Article’s claim that internal investigations (BCMCU) are ineffective and lack credibility.
+      - Lawsuit exposes self-policing structure: Bay Minette Chief Al Tolbert chairs the unit investigating Baldwin County officers.
+      - Confirms County Commission failed to act despite warnings of possible federal lawsuits involving Sheriff Mack and BCMCU.
+      - Federal court filings provide the "smoking gun" evidence (videos, facts) to validate community complaints about withheld footage and cover-ups.
+
+      KEY ENTITIES:
       - O.J. French
-
       - Brandon Thompson
-
       - Huey “Hoss” Mack
-
       - Al Tolbert
-
       - Anthony Lowery
-
       - Jonathan Victor
-
-      - Deputy Hunady'
+      - Deputy Hunady
     generated_at: '2026-03-13T21:43:24.358207Z'
+    text: A federal civil rights lawsuit just pulled the mask off the BCMCU’s perfect record of clearing themselves of any wrongdoing. While Al Tolbert and Hoss Mack pretend to investigate their own men, the courts are finally seeing the trail of ten bodies and the mountain of hidden facts.
   bay-minette-vote-out-mayor-wills-remember-oj-french:
-    brief: '1. THE CONFLICT:
-
-      - O.J. French (musician, artist name "The Juice") died following a police interaction;
-      designated as victim #8 in a string of at least 7 previous deaths involving
-      Baldwin County law enforcement.
-
-      - Sheriff Hoss Mack (Baldwin County Sheriff’s Office/BCSO) controls regional
-      policing; claims in Article 1 allege no accountability or transparency.
-
+    brief: |-
+      1. THE CONFLICT:
+      - O.J. French (musician, artist name "The Juice") died following a police interaction; designated as victim #8 in a string of at least 7 previous deaths involving Baldwin County law enforcement.
+      - Sheriff Hoss Mack (Baldwin County Sheriff’s Office/BCSO) controls regional policing; claims in Article 1 allege no accountability or transparency.
 
       2. THE DISCOVERY:
-
-      - Article 2 confirms a federal lawsuit filed on behalf of O.J. French and his
-      family against the City of Bay Minette and Sheriff Department (Complaint PDF
-      referenced: Otis French Sr. vs. City of Bay Minette).
-
-      - Article 2 accuses Mayor Bob Wills of lying to O.J. French’s family, falsely
-      claiming the family was okay with the death circumstances, then doubling down
-      on that statement.
-
-      - Article 2 cites Al Tolbert as Chairman of BCMCU, confirming local police leadership
-      is inextricably tied to the internal investigation body.
-
+      - Article 2 confirms a federal lawsuit filed on behalf of O.J. French and his family against the City of Bay Minette and Sheriff Department (Complaint PDF referenced: Otis French Sr. vs. City of Bay Minette).
+      - Article 2 accuses Mayor Bob Wills of lying to O.J. French’s family, falsely claiming the family was okay with the death circumstances, then doubling down on that statement.
+      - Article 2 cites Al Tolbert as Chairman of BCMCU, confirming local police leadership is inextricably tied to the internal investigation body.
 
       3. THE PIVOT:
-
-      - Article 2 uses O.J. French’s death as the specific moral and political catalyst
-      for Joshua Brown’s mayoral campaign against Mayor Wills.
-
-      - Connects the internal investigation (BCMCU) to political corruption: Article
-      2 calls BCMCU a "kangaroo court" with no credibility because Tolbert (police
-      chief) investigates the unit.
-
-      - Confirms citizens are forced to federal court because local courts/County
-      Commission are compromised by Sheriff Hoss Mack.
-
+      - Article 2 uses O.J. French’s death as the specific moral and political catalyst for Joshua Brown’s mayoral campaign against Mayor Wills.
+      - Connects the internal investigation (BCMCU) to political corruption: Article 2 calls BCMCU a "kangaroo court" with no credibility because Tolbert (police chief) investigates the unit.
+      - Confirms citizens are forced to federal court because local courts/County Commission are compromised by Sheriff Hoss Mack.
 
       4. KEY ENTITIES:
-
       - O.J. French (Deceased)
-
       - Joshua Brown (Candidate, BMJL Organizer)
-
       - Bob Wills (Bay Minette Mayor)
-
       - Hoss Mack (Baldwin County Sheriff, BCSO)
-
       - Al Tolbert (Bay Minette Police Chief, BCMCU Chairman)
-
       - Otis French Sr. (Family member, Lead on lawsuit)
-
-      - BCMCU (Baldwin County Major Crimes Unit)'
+      - BCMCU (Baldwin County Major Crimes Unit)
     generated_at: '2026-03-13T21:43:24.358208Z'
+    text: Mayor Bob Wills stood in public and lied about the grieving family of OJ French to save his own political skin. This is not just a failure of leadership; it is a kangaroo court run by Al Tolbert that forces citizens to beg federal judges for the justice they cannot get at home.
