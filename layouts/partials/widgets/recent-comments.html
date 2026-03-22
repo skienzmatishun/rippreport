@@ -11,143 +11,147 @@
 </div>
 
 <script>
-(function() {
-  const COMMENTS_API = 'https://comments.rippreport.com/api/comments/latest';
-  const COMMENT_LIMIT = 5;
-  const MAX_CONTENT_LENGTH = 80;
+  (function () {
+    const COMMENTS_API = 'https://comments.rippreport.com/api/comments/latest';
+    const COMMENT_LIMIT = 5;
+    const MAX_CONTENT_LENGTH = 80;
 
-  // Custom pageId mappings for shared comment threads
-  // Maps custom pageIds to their actual page URL and title
-  const CUSTOM_PAGE_MAPPINGS = {
-    'mlpr': {
-      url: '/p/justice-denied-a-wrongful-conviction-buried-by-power-and-politics/',
-      title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-    },
-    'hpbtpp': {
-      url: '/p/blast-from-the-past/',
-      title: 'BLAST FROM THE PAST'
-    },
-    'lcfhofh3': {
-      url: '/p/end-the-good-ole-boy-culture-in-baldwin-county/',
-      title: 'END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY'
-    },
-    'alabama-exposure-mljr': {
-      url: '/p/alabama-exposure-mljr/',
-      title: 'Alabama Exposure and Accountability - The Framing of Murray Lawrence Jr.'
+    // Custom pageId mappings for shared comment threads
+    // Maps custom pageIds to their actual page URL and title
+    const CUSTOM_PAGE_MAPPINGS = {
+      'mlpr': {
+        url: '/p/justice-denied-a-wrongful-conviction-buried-by-power-and-politics/',
+        title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+      },
+      'hpbtpp': {
+        url: '/p/blast-from-the-past/',
+        title: 'BLAST FROM THE PAST'
+      },
+      'lcfhofh3': {
+        url: '/p/end-the-good-ole-boy-culture-in-baldwin-county/',
+        title: 'END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY'
+      },
+      'alabama-exposure-mljr': {
+        url: '/p/alabama-exposure-mljr/',
+        title: 'Alabama Exposure and Accountability - The Framing of Murray Lawrence Jr.'
+      },
+      'brownbayminette': {
+        url: '/p/bay-minette-vote-out-mayor-wills-remember-oj-french/',
+        title: 'BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH'
+      }
+    };
+
+    /**
+     * Extract title from LINKPREVIEW marker
+     * Format: [LINKPREVIEW:url|title|description|image]
+     */
+    function extractLinkPreviewTitle(text) {
+      const match = text.match(/\[LINKPREVIEW:[^|]*\|([^|]*)\|[^\]]*\]/);
+      return match ? match[1] : null;
     }
-  };
 
-  /**
-   * Extract title from LINKPREVIEW marker
-   * Format: [LINKPREVIEW:url|title|description|image]
-   */
-  function extractLinkPreviewTitle(text) {
-    const match = text.match(/\[LINKPREVIEW:[^|]*\|([^|]*)\|[^\]]*\]/);
-    return match ? match[1] : null;
-  }
-
-  /**
-   * Process content to replace LINKPREVIEW markers with just the title
-   */
-  function processContent(text) {
-    if (!text) return '';
-    // Replace LINKPREVIEW markers with just "🔗 Title"
-    return text.replace(/\[LINKPREVIEW:[^|]*\|([^|]*)\|[^\]]*\]/g, '🔗 $1');
-  }
-
-  /**
-   * Truncate text to specified length with ellipsis
-   */
-  function truncateText(text, maxLength) {
-    if (!text) return '';
-    // First process any LINKPREVIEW markers
-    const processed = processContent(text);
-    const cleaned = processed.trim().replace(/\s+/g, ' ');
-    if (cleaned.length <= maxLength) return cleaned;
-    return cleaned.substring(0, maxLength).trim() + '...';
-  }
-
-  /**
-   * Escape HTML to prevent XSS
-   */
-  function escapeHtml(text) {
-    const div = document.createElement('div');
-    div.textContent = text;
-    return div.innerHTML;
-  }
-
-  /**
-   * Format relative time (e.g., "2 hours ago")
-   */
-  function formatRelativeTime(dateString) {
-    const date = new Date(dateString);
-    const now = new Date();
-    const diffMs = now - date;
-    const diffSecs = Math.floor(diffMs / 1000);
-    const diffMins = Math.floor(diffSecs / 60);
-    const diffHours = Math.floor(diffMins / 60);
-    const diffDays = Math.floor(diffHours / 24);
-
-    if (diffDays > 30) {
-      return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-    } else if (diffDays > 0) {
-      return diffDays === 1 ? '1 day ago' : diffDays + ' days ago';
-    } else if (diffHours > 0) {
-      return diffHours === 1 ? '1 hour ago' : diffHours + ' hours ago';
-    } else if (diffMins > 0) {
-      return diffMins === 1 ? '1 min ago' : diffMins + ' mins ago';
-    } else {
-      return 'Just now';
+    /**
+     * Process content to replace LINKPREVIEW markers with just the title
+     */
+    function processContent(text) {
+      if (!text) return '';
+      // Replace LINKPREVIEW markers with just "🔗 Title"
+      return text.replace(/\[LINKPREVIEW:[^|]*\|([^|]*)\|[^\]]*\]/g, '🔗 $1');
     }
-  }
 
-  /**
-   * Build article URL from pageId
-   */
-  function buildArticleUrl(pageId) {
-    if (!pageId) return '#';
-    // Check for custom pageId mapping first
-    if (CUSTOM_PAGE_MAPPINGS[pageId]) {
-      return CUSTOM_PAGE_MAPPINGS[pageId].url;
+    /**
+     * Truncate text to specified length with ellipsis
+     */
+    function truncateText(text, maxLength) {
+      if (!text) return '';
+      // First process any LINKPREVIEW markers
+      const processed = processContent(text);
+      const cleaned = processed.trim().replace(/\s+/g, ' ');
+      if (cleaned.length <= maxLength) return cleaned;
+      return cleaned.substring(0, maxLength).trim() + '...';
     }
-    // Ensure pageId starts and ends with slashes for proper URL
-    let path = pageId;
-    if (!path.startsWith('/')) path = '/' + path;
-    if (!path.endsWith('/')) path = path + '/';
-    return path;
-  }
 
-  /**
-   * Convert a URL slug to a readable title (fallback when pageTitle is not available)
-   * e.g., "p/my-article-slug" -> "My Article Slug"
-   */
-  function slugToTitle(pageId) {
-    if (!pageId) return 'Article';
-    // Check for custom pageId mapping first
-    if (CUSTOM_PAGE_MAPPINGS[pageId]) {
-      return CUSTOM_PAGE_MAPPINGS[pageId].title;
+    /**
+     * Escape HTML to prevent XSS
+     */
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
     }
-    // Remove leading path segments like "p/"
-    let slug = pageId.replace(/^p\//, '').replace(/\/$/, '');
-    // Replace hyphens with spaces and capitalize each word
-    return slug
-      .split('-')
-      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-      .join(' ');
-  }
 
-  /**
-   * Render a single comment item
-   */
-  function renderComment(comment) {
-    const authorName = escapeHtml(comment.authorName || 'Anonymous');
-    const content = escapeHtml(truncateText(comment.content, MAX_CONTENT_LENGTH));
-    // Use pageTitle if available, otherwise convert pageId slug to readable title
-    const articleTitle = escapeHtml(comment.pageTitle || slugToTitle(comment.pageId));
-    const articleUrl = buildArticleUrl(comment.pageId);
-    const timeAgo = formatRelativeTime(comment.createdAt);
+    /**
+     * Format relative time (e.g., "2 hours ago")
+     */
+    function formatRelativeTime(dateString) {
+      const date = new Date(dateString);
+      const now = new Date();
+      const diffMs = now - date;
+      const diffSecs = Math.floor(diffMs / 1000);
+      const diffMins = Math.floor(diffSecs / 60);
+      const diffHours = Math.floor(diffMins / 60);
+      const diffDays = Math.floor(diffHours / 24);
 
-    return `
+      if (diffDays > 30) {
+        return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+      } else if (diffDays > 0) {
+        return diffDays === 1 ? '1 day ago' : diffDays + ' days ago';
+      } else if (diffHours > 0) {
+        return diffHours === 1 ? '1 hour ago' : diffHours + ' hours ago';
+      } else if (diffMins > 0) {
+        return diffMins === 1 ? '1 min ago' : diffMins + ' mins ago';
+      } else {
+        return 'Just now';
+      }
+    }
+
+    /**
+     * Build article URL from pageId
+     */
+    function buildArticleUrl(pageId) {
+      if (!pageId) return '#';
+      // Check for custom pageId mapping first
+      if (CUSTOM_PAGE_MAPPINGS[pageId]) {
+        return CUSTOM_PAGE_MAPPINGS[pageId].url;
+      }
+      // Ensure pageId starts and ends with slashes for proper URL
+      let path = pageId;
+      if (!path.startsWith('/')) path = '/' + path;
+      if (!path.endsWith('/')) path = path + '/';
+      return path;
+    }
+
+    /**
+     * Convert a URL slug to a readable title (fallback when pageTitle is not available)
+     * e.g., "p/my-article-slug" -> "My Article Slug"
+     */
+    function slugToTitle(pageId) {
+      if (!pageId) return 'Article';
+      // Check for custom pageId mapping first
+      if (CUSTOM_PAGE_MAPPINGS[pageId]) {
+        return CUSTOM_PAGE_MAPPINGS[pageId].title;
+      }
+      // Remove leading path segments like "p/"
+      let slug = pageId.replace(/^p\//, '').replace(/\/$/, '');
+      // Replace hyphens with spaces and capitalize each word
+      return slug
+        .split('-')
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ');
+    }
+
+    /**
+     * Render a single comment item
+     */
+    function renderComment(comment) {
+      const authorName = escapeHtml(comment.authorName || 'Anonymous');
+      const content = escapeHtml(truncateText(comment.content, MAX_CONTENT_LENGTH));
+      // Use pageTitle if available, otherwise convert pageId slug to readable title
+      const articleTitle = escapeHtml(comment.pageTitle || slugToTitle(comment.pageId));
+      const articleUrl = buildArticleUrl(comment.pageId);
+      const timeAgo = formatRelativeTime(comment.createdAt);
+
+      return `
       <div class="recent-comments__item">
         <div class="recent-comments__meta">
           <span class="recent-comments__author">${authorName}</span>
@@ -159,66 +163,66 @@
         </a>
       </div>
     `;
-  }
-
-  /**
-   * Render error state
-   */
-  function renderError() {
-    return '<div class="recent-comments__error">Comments unavailable</div>';
-  }
-
-  /**
-   * Render empty state
-   */
-  function renderEmpty() {
-    return '<div class="recent-comments__empty">No comments yet</div>';
-  }
-
-  /**
-   * Fetch and render recent comments
-   */
-  async function loadRecentComments() {
-    const container = document.getElementById('recent-comments-list');
-    if (!container) return;
-
-    try {
-      const response = await fetch(`${COMMENTS_API}?limit=${COMMENT_LIMIT}`, {
-        method: 'GET',
-        headers: {
-          'Accept': 'application/json'
-        }
-      });
-
-      if (!response.ok) {
-        throw new Error(`HTTP ${response.status}`);
-      }
-
-      const data = await response.json();
-
-      if (!data.success || !data.comments) {
-        throw new Error('Invalid response');
-      }
-
-      if (data.comments.length === 0) {
-        container.innerHTML = renderEmpty();
-        return;
-      }
-
-      const html = data.comments.map(renderComment).join('');
-      container.innerHTML = html;
-
-    } catch (error) {
-      console.error('Failed to load recent comments:', error);
-      container.innerHTML = renderError();
     }
-  }
 
-  // Load comments when DOM is ready
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', loadRecentComments);
-  } else {
-    loadRecentComments();
-  }
-})();
+    /**
+     * Render error state
+     */
+    function renderError() {
+      return '<div class="recent-comments__error">Comments unavailable</div>';
+    }
+
+    /**
+     * Render empty state
+     */
+    function renderEmpty() {
+      return '<div class="recent-comments__empty">No comments yet</div>';
+    }
+
+    /**
+     * Fetch and render recent comments
+     */
+    async function loadRecentComments() {
+      const container = document.getElementById('recent-comments-list');
+      if (!container) return;
+
+      try {
+        const response = await fetch(`${COMMENTS_API}?limit=${COMMENT_LIMIT}`, {
+          method: 'GET',
+          headers: {
+            'Accept': 'application/json'
+          }
+        });
+
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+
+        const data = await response.json();
+
+        if (!data.success || !data.comments) {
+          throw new Error('Invalid response');
+        }
+
+        if (data.comments.length === 0) {
+          container.innerHTML = renderEmpty();
+          return;
+        }
+
+        const html = data.comments.map(renderComment).join('');
+        container.innerHTML = html;
+
+      } catch (error) {
+        console.error('Failed to load recent comments:', error);
+        container.innerHTML = renderError();
+      }
+    }
+
+    // Load comments when DOM is ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadRecentComments);
+    } else {
+      loadRecentComments();
+    }
+  })();
 </script>
