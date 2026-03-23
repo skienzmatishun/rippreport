@@ -28,8 +28,8 @@ Lowery was appointed by Governor Ivy, who suffers with Biden Syndrome, that may 
 Sad that deputies trying to do right are victims of BCSO culture
 
 
+<img style="float:left;padding:2rem" src="https://rippreport.com/cdn-cgi/image/width=500,quality=85,format=auto/img/resignation.png">
 
 <img style="float:left;padding:2rem" src="https://rippreport.com/cdn-cgi/image/width=500,quality=85,format=auto/img/matt-mckenzie.png">
-<img style="float:left;padding:2rem" src="https://rippreport.com/cdn-cgi/image/width=500,quality=85,format=auto/img/resignation.png">
 
 {{< aicomments >}}
