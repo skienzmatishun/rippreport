@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-date: 2015-01-01
+date: 2000-01-01
 thumbnail: img/privacy-policy.jpg
 categories:
 - privacy
