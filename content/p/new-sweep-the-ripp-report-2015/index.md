@@ -1,29 +1,31 @@
 ---
 title: "NEW SWEEP The Ripp Report 2015"
-date: 2015-02-08
+date: 2015-01-16
 description: "NEW SWEEP The Ripp Report 2015"
 thumbnail: "image.jpg"
 tags: ["archive", "historical"]
 ---
 
-LOCATION LOCATION TOTALLY LOCO LOCATIONS
+I saw the Fox news team this morning at Parker Road and High ridge Road for what appeared to be a groundbreaking for the Fairhope Fire station. I know you are aware of the controversy surrounding the location. The location favors the land owner and not the city.
 
-The city of Fairhope has ignored its Comprehensive Plan, Master Plan, violated its own ordinances, recorded wrong plat maps, omitted public participation and made horrible decisions on the location of major venues in Fairhope.
+I understand the pressure of developing stories for Fox News and if this story is a simple "kiss the baby" or filler news with no substance or investigative reporting, then the PUBLIC will see this in your reporting tonight.
 
-Planning and zoning has been a black hole in our city finances, their decisions are made without any accountability, and they have no enforcement powers. This is the nuumber one financial problem the city has faced for the last ten years.
+If you are concerned about the PUBLIC and Taxpayer and your viewers as being honest, then I hope you will consider the following: Read the complaint letter, The Ripp Report #28, read Lagniappe, Jan, 8, 15 Dale Liesch Proposed Fairhope townhome development shelved, to start.
 
-Combine this problems with eliminating the Finance Committee as well as the Environmental and Tree Committee and you have the perfect storm for making horrible decisions affecting the city for years to come, and resulting in millions of dollars wasted.
+Now consider this: The location violates the city of Fairhope's Comprehensive Plan, a plan the city clearly favors except for the city. Comprehensive Plan page48 5.4 neighborhoods Form and Function. "Cul-de-sacs or dead end streets should be avoided, except where topographic constraints or important natural features prevent connections impractical. However, local streets should discourage through traffic either through narrow cross sections, offset or "T" intersections, or other traffic-calming devices. Calming devices will be required at the intersection, as the fire department is expected to respond to the fire.
 
-Who’s responsible? The Mayor. He continues to make decisions based on the good ole boy network primarily benefiting Arthur Corte and we are paying dearly.
+On Oct. 28, 14 at Fairhope Public Library, the general public were invited to participate in a discussion and explanation by the city of Fairhope's Comprehensive plan, approximately 150 people showed up. This is sponsored by the city of Fairhope and a guest lecturer, during the discussion the speaker stressed the importance of the city's responsibility to adapting jurisdictions county or municipalities. That the city should not develop these areas if it is in jeopardy people living outside of Fairhope, clearly this is not compliant to the comprehensive plan. The fire station location is located on a county road facing county residents, who will have property values as well as their quality of life negatively affected. Steve did you interview them?
 
-LOCATION: The Publix shopping Center:
-The Publix store “this is the first Publix store built where volumes of red clay had to be trucked in to elevate the property to accommodate a shopping center.” Over 200 people protested the store location, The Environmentl Committee, now disbanded, said it was a bad location and would most likely cause damage to the wetlands and Fly Creek, which is exactly what happened and continues to happen. The Woodlains sub-division was adamant that NO connectivity between them and Publix, no trail sidewalk, bridge of golf cart trail. The assessed damage to trees, determined by the now disbanded Tree Committee was $95 000.00. Our Mayor gave the land owner a pass on having to pay the fines accessed by the Tree Committee. This Good Ole boy deal is going to cost millions, the Corp of Engineers estimated the cost to clean out Fly Creek alone is over 2 million.
+There are three entrances within 30 feet of one another and all within 100 feet of the intersection of Parker rd. and Highway 98, the fire truck will have to navigate just to get to the light, approaching the intersection from a dead end. SEVEN people have lost their lives at this intersection, the most dangerous in Fairhope.
 
-LOCATION: A fire Station on a dead end street:
-Fire station on a dead end road, this goes against common sense, ignoring many other reasons, such as safety: again the city ignores the obvious and allows the Mayor to promote yet another situation without researching any alternate locations. This is done without any public participation.
-The Fire department secured a loan from Community Bankfor $500,000.00 to build the station. The fire department is a nonprofit, what security did they have for a loan? Are they depending on Public donations or the assurance of our city council that they will donate? So you see they want your Money but do not want your input on a location that is the Mayor’s decision and only benefits the developer: Arthur Corte.
+Baldwin County road engineers as well as Aldad had not been informed about this project, until I inquired about it.
 
-LOCATION: Soccer Fields
-In every case Location is determined by ownership and how the good ole boys can cash in. Long before a soccer field was discussed, Oct 2009, the sitting city council was talked into buying the property, in a down economy and no immediate need The property, on Manley road was one of two parcels available. The city choose to buy the worst possible parcel that has a 22 foot drop in elevation on the hwy 13 side running east to west. No intelligent person would ever consider it appropriate for a soccer field.
+No other alternative location was ever discussed or considered by the city, no public participation, no public meetings, and no traffic studies.
 
-Mike Ford put together this purchase, insisting his being on the city council was not a conflict of interest and that he “wouldn’t receive a penny.” He claimed the same thing when he sold the county property to extend the satellite courthouse. A real estate agent that works for free and just happens to be on the council, how convenient is that? continued on page below
+In 2009 when the city was under a different city council and police chief, Volunteer fireman questioned the safety of the location. Remember they are volunteers and must first respond to the station prior to responding to the fire, they will make 4 trips through the intersection for each fire or emergency call. In 2009 The location was never put on the ground.
+
+The development plot map and you will see the fire station as part of the proposed apartment complex, this is a selling point by the land owner to the potential developers of HIS property.
+
+Also consider that the owner of the property, violated numerous conditions outlined by planning and zoning in the first phase of the Publix Shopping Center construction, The Tree Committee estimated approximately $950.000. worth of damage that was illegally filled with red clay storm water runoff from the construction site. Proper BMPs (Best Management Practices) were not followed or properly installed.
+
+The fire department is funded by taxpayers and accepts public donations, however local citizens were given totally eliminated from any public participation regarding the location of new station. So we give them the money and are expected to remain silent still I hope you will ask each council person to explain. Don't bother with the Mayor; this is his good ole boy deal with the land owner.
