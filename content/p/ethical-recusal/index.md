@@ -2,6 +2,7 @@
 title: Ethical Recusal
 date: 2021-10-31
 youtube: Gj1hdAb3nIc
+thumbnail: img/ethical-recusal.jpg
 categories:
 - backstory-podcast
 authors:
