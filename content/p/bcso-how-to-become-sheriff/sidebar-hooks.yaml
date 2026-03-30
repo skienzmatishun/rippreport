@@ -1,5 +1,5 @@
 metadata:
-  generated_at: '2026-03-18T23:58:02.071825Z'
+  generated_at: '2026-03-28T04:24:14.477957Z'
   generator_version: 1.0.0
   post_slug: bcso-how-to-become-sheriff
 hooks:
@@ -735,3 +735,29 @@ hooks:
       about the hidden coroner’s report for years while Robert Wilters and Hoss Mack
       colluded to keep an innocent man in a cage.
     character_count: 275
+  no-justice:
+    brief: "- THE CONFLICT: Sheriff Hoss Mack, promoted to BCSO in 2003 and later\
+      \ elected, led a flawed investigation resulting in the wrongful conviction of\
+      \ Murray Lawrence Jr. In 2003/2004, Mack hired Anthony Lowery (no field experience)\
+      \ and Dean McGowan to investigate the capital murder of Brandon Hastings, producing\
+      \ no valid evidence. Despite exculpatory findings—including a 2013 exhumed autopsy\
+      \ confirming suffocation, not gunshot—the prosecution and Mack suppressed the\
+      \ evidence. Lowery and Wilters concealed the second autopsy report from defense,\
+      \ violated discovery orders, and participated in a cover-up that preserved Lawrence’s\
+      \ 20-year wrongful incarceration.  \n- THE DISCOVERY: The Widget article confirms\
+      \ via a suppressed 2013 coroners report that Brandon Hastings died from asphyxiation,\
+      \ not gunshot, contradicting the prosecution’s narrative. It reveals that the\
+      \ lead investigators—Mack, Wilters, and lower-level officers—concealed this\
+      \ report from defense counsel, enabling a wrongful conviction. The report underscores\
+      \ systemic failure and active obstruction by those entrusted with justice. \
+      \ \n- THE PIVOT: The second autopsy, recently uncovered and never disclosed\
+      \ during trial, is the “smoking gun” because it definitively proves Hastings’\
+      \ death was caused by suffocation, not a gunshot, and contradicts every key\
+      \ claim used to justify Mack’s prosecution. This evidence exposes deliberate\
+      \ suppression by Mack, Wilters, and Lowery—key figures in a false conviction—and\
+      \ proves Lawrence was innocent.  \n- KEY ENTITIES: Hoss Mack, Anthony Lowery,\
+      \ Dean McGowan, Robert Wilters (District Attorney and Judge), Willy Huntley\
+      \ (defense attorney questioning eyewitnesses), the unnamed last witness Debra\
+      \ Fudge, the Baldwin County District Attorney office (Robert Wilters), and Lt.\
+      \ Hoss Mack Sr. (Mack’s father and coroner with conflicts of interest)."
+    generated_at: '2026-03-28T04:24:14.478041Z'
