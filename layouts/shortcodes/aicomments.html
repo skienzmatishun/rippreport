@@ -3,7 +3,7 @@ permalink as ID {{< aicomments "custom-page-id" >}} - Uses custom page ID {{<
 aicomments "custom-page-id" "similarity" >}} - Uses custom page ID with AI
 similarity ordering by default */}} {{- $pageId := .Page.RelPermalink -}} {{-
 $pageTitle := .Page.Title -}} {{-
-$defaultOrdering := "chronological" -}} {{- if .Params -}} {{- if ge (len
+$defaultOrdering := "similarity" -}} {{- if .Params -}} {{- if ge (len
 .Params) 1 -}} {{- $pageId = index .Params 0 -}} {{- end -}} {{- if ge (len
 .Params) 2 -}} {{- $defaultOrdering = index .Params 1 -}} {{- end -}} {{- end
 -}} {{- $pageId = strings.TrimPrefix "/" $pageId -}} {{- $pageId = strings.TrimSuffix "/" $pageId -}}
