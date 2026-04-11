@@ -54,6 +54,7 @@ disableKinds = ["taxonomy", "term"]
   [security.funcs]
     getenv = ['^HUGO_', '^CI$', '^YOUTUBE_API_KEY$']
   [security.http]
+    methods = ['(?i)GET|POST']
     urls = ['.*']
 
 [markup]
