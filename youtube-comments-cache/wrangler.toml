@@ -1,0 +1,16 @@
+name = "youtube-comments-cache"
+main = "src/index.js"
+workers_dev = true
+compatibility_date = "2024-07-23"
+
+[[routes]]
+pattern = "youtube-comments.rippreport.com"
+zone_name = "rippreport.com"
+custom_domain = true
+
+[[kv_namespaces]]
+binding = "youtube_comments"
+id = "09c33ac4f4824965b98ad4111a9bae14"
+
+[vars]
+# YOUTUBE_API_KEY will be set as a secret via wrangler secret put
