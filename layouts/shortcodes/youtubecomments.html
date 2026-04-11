@@ -16,7 +16,7 @@
 {{/* Configuration */}}
 {{- $maxResults := .Get "maxResults" | default "20" -}}
 {{- $order := .Get "order" | default "relevance" -}}
-{{- $workerBaseURL := "https://youtube-comments.rippreport.com" -}}
+{{- $workerBaseURL := "https://youtube-comments-cache.rdunphy.workers.dev" -}}
 
 {{/* Build worker URL */}}
 {{- $workerURL := printf "%s?videoId=%s&maxResults=%s&order=%s" $workerBaseURL $videoId $maxResults $order -}}
