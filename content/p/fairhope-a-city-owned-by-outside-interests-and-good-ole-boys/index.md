@@ -11,7 +11,7 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: Fairhope waterfront at sunset; a pier symbolizes concerns over city decisions favoring outside interests and local officials
+alttags: Fairhope waterfront at sunset
 related_articles:
 - slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
   title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
