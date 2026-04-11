@@ -18,58 +18,80 @@ async function handleRequest(request) {
   // Create cache key
   const kvKey = `${videoId}_${maxResults}_${order}`
   
-  // Try to get from KV cache
+  // Try to get from KV cache first
   let data = await youtube_comments.get(kvKey, { type: 'json' })
 
-  if (!data) {
-    // Fetch from YouTube API
-    const apiKey = YOUTUBE_API_KEY
-    
-    if (!apiKey) {
-      return new Response(JSON.stringify({ error: 'YouTube API key not configured' }), {
-        status: 500,
-        headers: { 'Content-Type': 'application/json' }
-      })
-    }
-
-    const apiUrl = `https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=${videoId}&maxResults=${maxResults}&order=${order}&key=${apiKey}`
-    
-    try {
-      const response = await fetch(apiUrl)
-      
-      if (!response.ok) {
-        const errorData = await response.json()
-        return new Response(JSON.stringify({ 
-          error: 'YouTube API error',
-          details: errorData 
-        }), {
-          status: response.status,
-          headers: { 'Content-Type': 'application/json' }
-        })
+  if (data) {
+    // Return cached data
+    return new Response(JSON.stringify(data), {
+      headers: { 
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*',
+        'Cache-Control': 'public, max-age=86400',
+        'X-Cache': 'HIT'
       }
-      
-      data = await response.json()
-
-      // Store in KV cache with 24 hour expiration
-      await youtube_comments.put(kvKey, JSON.stringify(data), {
-        expirationTtl: 86400 // 24 hours
-      })
-    } catch (error) {
-      return new Response(JSON.stringify({ 
-        error: 'Failed to fetch from YouTube API',
-        message: error.message 
-      }), {
-        status: 500,
-        headers: { 'Content-Type': 'application/json' }
-      })
-    }
+    })
   }
 
-  return new Response(JSON.stringify(data), {
-    headers: { 
-      'Content-Type': 'application/json',
-      'Access-Control-Allow-Origin': '*',
-      'Cache-Control': 'public, max-age=3600'
+  // Not in cache, fetch from YouTube API
+  const apiKey = YOUTUBE_API_KEY
+  
+  if (!apiKey) {
+    return new Response(JSON.stringify({ error: 'YouTube API key not configured' }), {
+      status: 500,
+      headers: { 'Content-Type': 'application/json' }
+    })
+  }
+
+  const apiUrl = `https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=${videoId}&maxResults=${maxResults}&order=${order}&key=${apiKey}`
+  
+  try {
+    const response = await fetch(apiUrl)
+    
+    if (!response.ok) {
+      const errorData = await response.json()
+      
+      // Cache error responses for 1 hour to avoid hammering the API
+      const errorResponse = { 
+        error: 'YouTube API error',
+        details: errorData 
+      }
+      
+      await youtube_comments.put(kvKey, JSON.stringify(errorResponse), {
+        expirationTtl: 3600 // 1 hour for errors
+      })
+      
+      return new Response(JSON.stringify(errorResponse), {
+        status: response.status,
+        headers: { 
+          'Content-Type': 'application/json',
+          'X-Cache': 'MISS'
+        }
+      })
     }
-  })
+    
+    data = await response.json()
+
+    // Store in KV cache
+    // Cache permanently (no expiration) - comments on old videos rarely change
+    // KV will keep data indefinitely unless manually deleted
+    await youtube_comments.put(kvKey, JSON.stringify(data))
+    
+    return new Response(JSON.stringify(data), {
+      headers: { 
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*',
+        'Cache-Control': 'public, max-age=86400',
+        'X-Cache': 'MISS'
+      }
+    })
+  } catch (error) {
+    return new Response(JSON.stringify({ 
+      error: 'Failed to fetch from YouTube API',
+      message: error.message 
+    }), {
+      status: 500,
+      headers: { 'Content-Type': 'application/json' }
+    })
+  }
 }

@@ -3,7 +3,7 @@ title: SOME THINGS NEVER CHANGE
 date: 2026-04-11
 thumbnail: img/some-things-never-change.png
 categories:
-- city council
+- repost
 tags:
 - burrell
 - catalyst
