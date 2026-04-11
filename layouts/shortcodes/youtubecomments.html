@@ -18,40 +18,55 @@
 {{- $maxResults := .Get "maxResults" | default "20" -}}
 {{- $order := .Get "order" | default "relevance" -}}
 
-{{/* Check if API key is available */}}
-{{- if not $apiKey -}}
-  <div class="youtube-comments-error" style="margin: 1em 0; padding: 10px; border: 1px dashed #ccc; background: #f9f9f9;">
-    <p style="margin: 0;">YouTube comments unavailable (API key not configured)</p>
+{{/* Try to load cached comments from data file first */}}
+{{- $cacheFile := printf "youtube_comments/%s.json" $videoId -}}
+{{- $cachedData := index site.Data.youtube_comments $videoId -}}
+
+{{/* If no API key and no cache, show message */}}
+{{- if and (not $apiKey) (not $cachedData) -}}
+  <div class="youtube-comments-info" style="margin: 1em 0; padding: 15px; background: #f0f0f0; border-left: 4px solid #ff0000; border-radius: 4px;">
+    <p style="margin: 0; display: flex; align-items: center; gap: 8px;">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="#ff0000" style="flex-shrink: 0;">
+        <path d="M21.582,6.186c-0.23-0.86-0.908-1.538-1.768-1.768C18.254,4,12,4,12,4S5.746,4,4.186,4.418 c-0.86,0.23-1.538,0.908-1.768,1.768C2,7.746,2,12,2,12s0,4.254,0.418,5.814c0.23,0.86,0.908,1.538,1.768,1.768 C5.746,20,12,20,12,20s6.254,0,7.814-0.418c0.861-0.23,1.538-0.908,1.768-1.768C22,16.254,22,12,22,12S22,7.746,21.582,6.186z M10,15.464V8.536L16,12L10,15.464z"/>
+      </svg>
+      <a href="https://www.youtube.com/watch?v={{ $videoId }}" target="_blank" rel="noopener noreferrer" style="color: #000; text-decoration: none; font-weight: 500;">
+        View comments on YouTube
+      </a>
+    </p>
   </div>
   {{- return -}}
 {{- end -}}
 
-{{/* Build API URL */}}
-{{- $apiURL := printf "https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=%s&maxResults=%s&order=%s&key=%s" $videoId $maxResults $order $apiKey -}}
+{{/* Use cached data if available, otherwise fetch from API */}}
+{{- $json := $cachedData -}}
 
-{{/* Fetch comments from YouTube API */}}
-{{- $result := try (resources.GetRemote $apiURL) -}}
-{{- $json := "" -}}
-{{- $errorMessage := "" -}}
+{{- if and (not $json) $apiKey -}}
+  {{/* Build API URL */}}
+  {{- $apiURL := printf "https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=%s&maxResults=%s&order=%s&key=%s" $videoId $maxResults $order $apiKey -}}
 
-{{- if $result.Err -}}
-    {{- $errorMessage = printf "Error fetching YouTube comments: %s" $result.Err -}}
-    {{- warnf $errorMessage -}}
-{{- else if not $result.Value -}}
-    {{- $errorMessage = "No response from YouTube API" -}}
-    {{- warnf $errorMessage -}}
-{{- else -}}
-    {{- with $result.Value.Content -}}
-        {{- $json = . | unmarshal -}}
-        {{- if not (reflect.IsMap $json) -}}
-            {{- $errorMessage = "Invalid JSON from YouTube API" -}}
-            {{- warnf $errorMessage -}}
-            {{- $json = "" -}}
-        {{- end -}}
-    {{- else -}}
-        {{- $errorMessage = "Empty response from YouTube API" -}}
-        {{- warnf $errorMessage -}}
-    {{- end -}}
+  {{/* Fetch comments from YouTube API */}}
+  {{- $result := try (resources.GetRemote $apiURL) -}}
+  {{- $errorMessage := "" -}}
+
+  {{- if $result.Err -}}
+      {{- $errorMessage = printf "Error fetching YouTube comments: %s" $result.Err -}}
+      {{- warnf $errorMessage -}}
+  {{- else if not $result.Value -}}
+      {{- $errorMessage = "No response from YouTube API" -}}
+      {{- warnf $errorMessage -}}
+  {{- else -}}
+      {{- with $result.Value.Content -}}
+          {{- $json = . | unmarshal -}}
+          {{- if not (reflect.IsMap $json) -}}
+              {{- $errorMessage = "Invalid JSON from YouTube API" -}}
+              {{- warnf $errorMessage -}}
+              {{- $json = "" -}}
+          {{- end -}}
+      {{- else -}}
+          {{- $errorMessage = "Empty response from YouTube API" -}}
+          {{- warnf $errorMessage -}}
+      {{- end -}}
+  {{- end -}}
 {{- end -}}
 
 {{/* Render comments */}}
@@ -115,10 +130,14 @@
         </div>
     {{- end -}}
 {{- else -}}
-    <div class="youtube-comments-error" style="margin: 1em 0; padding: 10px; border: 1px dashed #ccc; background: #f9f9f9;">
-        <p style="margin: 0;">Could not load YouTube comments</p>
-        {{- if $errorMessage -}}
-        <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #777;">{{ $errorMessage }}</p>
-        {{- end -}}
+    <div class="youtube-comments-info" style="margin: 1em 0; padding: 15px; background: #f0f0f0; border-left: 4px solid #ff0000; border-radius: 4px;">
+        <p style="margin: 0; display: flex; align-items: center; gap: 8px;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="#ff0000" style="flex-shrink: 0;">
+                <path d="M21.582,6.186c-0.23-0.86-0.908-1.538-1.768-1.768C18.254,4,12,4,12,4S5.746,4,4.186,4.418 c-0.86,0.23-1.538,0.908-1.768,1.768C2,7.746,2,12,2,12s0,4.254,0.418,5.814c0.23,0.86,0.908,1.538,1.768,1.768 C5.746,20,12,20,12,20s6.254,0,7.814-0.418c0.861-0.23,1.538-0.908,1.768-1.768C22,16.254,22,12,22,12S22,7.746,21.582,6.186z M10,15.464V8.536L16,12L10,15.464z"/>
+            </svg>
+            <a href="https://www.youtube.com/watch?v={{ $videoId }}" target="_blank" rel="noopener noreferrer" style="color: #000; text-decoration: none; font-weight: 500;">
+                View comments on YouTube
+            </a>
+        </p>
     </div>
 {{- end -}}
