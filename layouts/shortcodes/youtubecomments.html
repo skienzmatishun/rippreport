@@ -1,0 +1,124 @@
+{{/* ========================================================================== */}}
+{{/* =                    YouTube Comments Shortcode                          = */}}
+{{/* ========================================================================== */}}
+
+{{/* Get video ID from front matter or shortcode parameter */}}
+{{- $videoId := .Get "videoId" | default .Page.Params.youtube -}}
+
+{{/* Check if we have a video ID */}}
+{{- if not $videoId -}}
+  <p style="color: red; border: 1px solid red; padding: 10px; margin: 1em 0; font-weight: bold;">
+    Error: No YouTube video ID found. Add 'youtube' to front matter or pass 'videoId' parameter.
+  </p>
+  {{- return -}}
+{{- end -}}
+
+{{/* Configuration */}}
+{{- $apiKey := getenv "YOUTUBE_API_KEY" -}}
+{{- $maxResults := .Get "maxResults" | default "20" -}}
+{{- $order := .Get "order" | default "relevance" -}}
+
+{{/* Check if API key is available */}}
+{{- if not $apiKey -}}
+  <div class="youtube-comments-error" style="margin: 1em 0; padding: 10px; border: 1px dashed #ccc; background: #f9f9f9;">
+    <p style="margin: 0;">YouTube comments unavailable (API key not configured)</p>
+  </div>
+  {{- return -}}
+{{- end -}}
+
+{{/* Build API URL */}}
+{{- $apiURL := printf "https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=%s&maxResults=%s&order=%s&key=%s" $videoId $maxResults $order $apiKey -}}
+
+{{/* Fetch comments from YouTube API */}}
+{{- $result := try (resources.GetRemote $apiURL) -}}
+{{- $json := "" -}}
+{{- $errorMessage := "" -}}
+
+{{- if $result.Err -}}
+    {{- $errorMessage = printf "Error fetching YouTube comments: %s" $result.Err -}}
+    {{- warnf $errorMessage -}}
+{{- else if not $result.Value -}}
+    {{- $errorMessage = "No response from YouTube API" -}}
+    {{- warnf $errorMessage -}}
+{{- else -}}
+    {{- with $result.Value.Content -}}
+        {{- $json = . | unmarshal -}}
+        {{- if not (reflect.IsMap $json) -}}
+            {{- $errorMessage = "Invalid JSON from YouTube API" -}}
+            {{- warnf $errorMessage -}}
+            {{- $json = "" -}}
+        {{- end -}}
+    {{- else -}}
+        {{- $errorMessage = "Empty response from YouTube API" -}}
+        {{- warnf $errorMessage -}}
+    {{- end -}}
+{{- end -}}
+
+{{/* Render comments */}}
+{{- if and (reflect.IsMap $json) (isset $json "items") -}}
+    {{- $items := $json.items -}}
+    {{- if gt (len $items) 0 -}}
+        <div class="youtube-comments-section">
+            <h3 class="youtube-comments-header">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle; margin-right: 8px;">
+                    <path d="M21.582,6.186c-0.23-0.86-0.908-1.538-1.768-1.768C18.254,4,12,4,12,4S5.746,4,4.186,4.418 c-0.86,0.23-1.538,0.908-1.768,1.768C2,7.746,2,12,2,12s0,4.254,0.418,5.814c0.23,0.86,0.908,1.538,1.768,1.768 C5.746,20,12,20,12,20s6.254,0,7.814-0.418c0.861-0.23,1.538-0.908,1.768-1.768C22,16.254,22,12,22,12S22,7.746,21.582,6.186z M10,15.464V8.536L16,12L10,15.464z"/>
+                </svg>
+                YouTube Comments ({{ len $items }})
+            </h3>
+            <div class="youtube-comments-list">
+                {{- range $items -}}
+                    {{- $snippet := .snippet.topLevelComment.snippet -}}
+                    {{- $authorName := $snippet.authorDisplayName -}}
+                    {{- $authorAvatar := $snippet.authorProfileImageUrl -}}
+                    {{- $authorChannel := $snippet.authorChannelUrl -}}
+                    {{- $commentText := $snippet.textDisplay -}}
+                    {{- $likeCount := $snippet.likeCount -}}
+                    {{- $publishedAt := $snippet.publishedAt -}}
+                    {{- $updatedAt := $snippet.updatedAt -}}
+                    
+                    {{/* Parse and format date */}}
+                    {{- $date := time.AsTime $publishedAt -}}
+                    {{- $formattedDate := $date.Format "January 2, 2006" -}}
+                    
+                    <div class="youtube-comment">
+                        <div class="youtube-comment-avatar">
+                            <a href="{{ $authorChannel }}" target="_blank" rel="noopener noreferrer">
+                                <img src="{{ $authorAvatar }}" alt="{{ $authorName }}" width="40" height="40" loading="lazy">
+                            </a>
+                        </div>
+                        <div class="youtube-comment-content">
+                            <div class="youtube-comment-header">
+                                <a href="{{ $authorChannel }}" class="youtube-comment-author" target="_blank" rel="noopener noreferrer">
+                                    {{ $authorName }}
+                                </a>
+                                <span class="youtube-comment-date">{{ $formattedDate }}</span>
+                            </div>
+                            <div class="youtube-comment-text">
+                                {{ $commentText | safeHTML }}
+                            </div>
+                            {{- if gt $likeCount 0 -}}
+                                <div class="youtube-comment-likes">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle; margin-right: 4px;">
+                                        <path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z"/>
+                                    </svg>
+                                    {{ $likeCount }}
+                                </div>
+                            {{- end -}}
+                        </div>
+                    </div>
+                {{- end -}}
+            </div>
+        </div>
+    {{- else -}}
+        <div class="youtube-comments-empty" style="margin: 1em 0; padding: 10px; background: #f9f9f9; border-radius: 4px;">
+            <p style="margin: 0;">No comments found for this video.</p>
+        </div>
+    {{- end -}}
+{{- else -}}
+    <div class="youtube-comments-error" style="margin: 1em 0; padding: 10px; border: 1px dashed #ccc; background: #f9f9f9;">
+        <p style="margin: 0;">Could not load YouTube comments</p>
+        {{- if $errorMessage -}}
+        <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #777;">{{ $errorMessage }}</p>
+        {{- end -}}
+    </div>
+{{- end -}}
