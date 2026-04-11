@@ -107,3 +107,5 @@ The Alabama Legislature is in session passing the largest General Fund Budget in
 India is in crisis and has a shortage of oxygen of all things. One Billion people living on top of each other.
 
 Fairhope pier plan details, Art Fest this weekend, Sheriff mayhem lawsuits, gaming flip-flop by the Taxman Elliott examined, coal ash apathy in the area of Mitigation on the part of State EMA, and a lot more so please sit back and enjoy.
+
+{{< youtubecomments >}}

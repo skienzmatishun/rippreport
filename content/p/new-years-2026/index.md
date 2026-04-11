@@ -98,4 +98,6 @@ related_articles:
 ---
 Today we are joined by Podcaster/Activist Whitney Scapecci and Professor/Economist/Political Figure Dr. John Sophocleus to discuss the Year that was 2025.
 
+{{< youtubecomments >}}
+
 {{< aicomments >}}

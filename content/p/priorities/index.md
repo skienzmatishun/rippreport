@@ -97,4 +97,6 @@ Baldwin County Sewer Service (unregulated by the Alabama Public Service Commissi
 
 The Brooks, Britt, Durant race is as farcical as it is destructive to the Alabama Republican Party. And thanks to the "Citizen's United" SCOTUS decision some years ago, a product of the Military Industrial Complex can buy a Senate Seat in Alabama. Donkey murder, Tesla Twitter, no Siegleman's at Alabama Law Day, and SHOCKER: Examiners Of Public Accounts investigation into the Brookside Alabama Police Department shows multiple irregularities. And on the bright side, it is Easter, Passover and Ramadan so please exercise your religion as you please tomorrow. The weather has turned (88 degrees today)and the State of Alabama is going to allow us to begin harvesting the Red Snapper on May 27th. And a good read well worth your time appeared this week in [The Atlantic](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/) happy reading and Happy Easter.
 
+{{< youtubecomments >}}
+
 {{< aicomments "/p/priorities/" >}}

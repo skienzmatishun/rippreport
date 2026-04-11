@@ -102,3 +102,4 @@ There are 31 illegal casinos operating in Alabama at this moment. There was anot
 The Mobile Maritime Museum will be home to a bitcoin mine, no joke, located in a shipping container, stop snickering, at least they can help pay back the $60M that monstrosity costs. The Lagniappe Mobile Newspaper this week detailed reports of the Clotilda, impediments to green energy, and a Public Hearing May 19th related to the expansion of Baldwin County Sewer Service Fort Morgan Plant. And the people of District 15 who shouted down the Bertolla rezoning last week should plan to attend the Baldwin County Commission Meeting this week to ensure the decision is not overridden, as they are prone to do. And lastly, for your viewing pleasure, the Baldwin County Commission Meeting wherein they repealed the Comprehensive Plan.
 
 A history lesson.
+{{< youtubecomments >}}

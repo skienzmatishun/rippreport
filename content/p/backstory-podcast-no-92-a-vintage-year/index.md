@@ -113,3 +113,5 @@ Our thoughts are with the Jacksonville, Florida dive community who saw the Coast
 And there is always mayhem in Fairhope. Hope you enjoy and add us on Spotify, Google Podcasts, or Soundcloud for audio only. Capt Rushin is out after a knee surgery.
 
 He should be in good shape as they used the impenetrable material surrounding his brain instead of cadaver ligaments.
+
+{{< youtubecomments >}}

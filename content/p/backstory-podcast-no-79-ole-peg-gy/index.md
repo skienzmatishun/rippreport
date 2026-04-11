@@ -110,3 +110,5 @@ A lawsuit has been filed against the Sheriff of Baldwin County related to a fier
 The Fairhope pier project and the current state of the place.
 
 And not only did Medical Cannabis die in the Senate, there is a bill afoot to make Delta 8 THC illegal in Alabama, even though it is not on the Federal Schedule. Explanation: “‘Cause it’s Alabama!” Yee-haw.
+
+{{< youtubecomments >}}

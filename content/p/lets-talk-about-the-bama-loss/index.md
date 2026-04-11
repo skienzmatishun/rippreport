@@ -101,3 +101,4 @@ The Governor signed into law a bill that would allow for the use of $400 Million
 Baldwin Planning District 8 Fairhope/Point Clear news. Chis Elliott, Tucker "whatever your real name may be" Dorsey, Spanish Fort Mayor "Slappin" Mike McMillan, Anti-Farmers Federation Senate Candidate Mo Brooks, The de facto Governor Jo Bonner bucking for the USA president job and a whole cast of characters go round.
 
 And to drive home the power of the podcast we start with Dr. Sanjay Gupta on the JRE.
+{{< youtubecomments >}}

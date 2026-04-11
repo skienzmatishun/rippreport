@@ -111,28 +111,4 @@ Any representations made about McSharry’s Irish Pub hosting Black Spring Break
 
 We hope that you will act to intervene if you ever witness the public display of violence against anyone, but especially a 100 pound female. The Proposition that we put to you when we began covering this case: “The epitome of a coward who hid behind his pals to avoid justice”, would be the hypothetical that we proposed; Why not read the articles for yourself, watch the video, and come to a conclusion.
 
- 
-
-[https://www.forbes.com/sites/joewalsh/fbi-director-says-atlanta-shooting-does-not-appear-racially-motivated/](https://web.archive.org/web/20250201155217/https://www.forbes.com/sites/joewalsh/2021/03/18/fbi-director-says-atlanta-shooting-does-not-appear-racially-motivated/)
-
-https://lagniappemobile.com/ags-office-sues-mawss-for-sewer-overflows/
-
-https://lagniappemobile.com/judicial-power-run-amok-in-baldwin/
-
-https://lagniappemobile.com/ags-office-sues-mawss-for-sewer-overflows/
-
-[https://abcnews.go.com/Politics/anti-asian-hate-hearing-emotional-voice/story](https://abcnews.go.com/Politics/anti-asian-hate-hearing-emotional-voice/story)
-
-[https://web.archive.org/web/20210422134344/https://casetext.com/rule/alabama-court-rules/alabama-rules-of-evidence/article-vi-witnesses/rule-615-exclusion-of-witnesses](https://web.archive.org/web/20210422134344/https://casetext.com/rule/alabama-court-rules/alabama-rules-of-evidence/article-vi-witnesses/rule-615-exclusion-of-witnesses)
-
-[https://www.politico.com/news/anthony-fauci-rand-paul-feud-477146](https://www.politico.com/news/2021/03/19/anthony-fauci-rand-paul-feud-477146)
-
-https://rippreport.com/bar-stool-continued/
-
-https://lagniappemobile.com/medical-marijuana-bill-set-to-move-out-of-one-committee/
-
-https://lagniappemobile.com/medical-marijuana-bill-set-to-move-out-of-one-committee/
-
-[https://www.cnn.com/us/robert-durst-trial-resume-may/index.html](https://www.cnn.com/2021/03/17/us/robert-durst-trial-resume-may/index.html)
-
-[https://slate.com/culture/2021/03/justice-league-snyder-cut-vs-whedon-original-breakdown.html](https://slate.com/culture/2021/03/justice-league-snyder-cut-vs-whedon-original-breakdown.html)
+{{< youtubecomments >}}

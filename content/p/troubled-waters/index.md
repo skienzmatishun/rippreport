@@ -97,3 +97,4 @@ Additional Police malfeasance in Fairhope related to a No Bond Warrant for a Har
 Top Marks for Filmmaker Journalist Ben Raines and Mobile Baykeeper for keeping up the good fight.
 
 50 Million infected so far in the USA with SARS-COV-2 with 800,000 deaths.
+{{< youtubecomments >}}

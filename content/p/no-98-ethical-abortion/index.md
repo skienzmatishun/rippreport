@@ -96,3 +96,4 @@ The Peacock Network has a new documentary series Monster in the Shadows: Inside 
 The Supreme Court of the Untied States in a 5-4 decision let stand a Texas abortion law that punishes participants- down to any facilitators of an abortion- after a fetal heartbeat is detected (approx. 6 weeks). Opinions are split. Apple withholds "child protection features" amid privacy concerns.
 
 And we ask the question: What does the Federal Trade Commission do? And the Country takes notice of Hurricane Ida (NOLA to NYC). The Alabama Ethics Commission and the General Counsel of the Alabama State Bar responded this week to Mr. Ripp's complaints against The Executive Director of the Alabama Ethics Commission Tom Albritton for his role in the Mable Amos Scholarship Trust and the apparent benefits to his family. And the Lagniappe Mobile Newspaper had several articles this week that you should check out.
+{{< youtubecomments >}}

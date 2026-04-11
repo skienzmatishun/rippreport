@@ -105,3 +105,5 @@ And AG Marshall and your Mee Maw want the Supreme Court to overturn Roe v. Wade 
 Mobile has some great plans for the old Civic Center, the problem is the WILL. And our old pal Tim James steps back into the fray calling out Gov Ivey for scalding the unvaccinated.
 
 In other news another Bridge onto Pleasure Island is in the works, no word on how much the bridge will cost nor the previously discussed prohibitions in the Foley Beach Express Contact that prohibit such a bridge being constructed. Details.
+
+{{< youtubecomments >}}

@@ -81,3 +81,4 @@ related_articles:
   category_score: 0
   rank: 10
 ---
+{{< youtubecomments >}}

@@ -97,3 +97,5 @@ And Governor Ivey now says the election was stolen from former President Donald 
 The Fairhope City Council this week released a sketch of the problem solving tram to allow the Fairhope pier project to be accessible to the handicapped. The "sketch" is reminiscent of the "Crichton leprechaun".
 
 The war rages in Ukraine with war crimes decried by the press and other observers. With Mo Brooks losing the Trump endorsement it looked like a fair fight but this week a speech from 2011 surfaced that is sure to derail Mr. Durant's purchasing of a Senate seat with money and celebrity. Yes, it almost happened again. And "The Trafficker" from Florida takes some shots at the Sec Def.
+
+{{< youtubecomments >}}

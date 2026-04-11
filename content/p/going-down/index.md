@@ -111,4 +111,6 @@ Please follow us on Backstory Podcast where Baldwin County issues are discussed 
 
 {{< socialpreview url="https://rippreport.com/p/backstory-podcast-6/" >}}
 
+{{< youtubecomments >}}
+
 {{< aicomments "/p/going-down/" >}}

@@ -99,3 +99,5 @@ Steve Russo-Frank Burt-Tim James , you get the picture. The Taxman Elliott's Pol
 The Lagniappe skewers the UA Board again over ghost employees and golden parachutes.
 
 And we get a nebulous response to the Writ of Mandamus filed against the Alabama Ethics Commission in Montgomery County Circuit Court (Our Writ and their 12(b) response will be posted later today). And10 term Limestone County Sheriff Mike Blakley was convicted of corruption this week, as an aside.
+
+{{< youtubecomments >}}

@@ -99,3 +99,5 @@ Absentee voting, Bass Pro Shops shooter; Baldwin County’s new proposed zoning 
 Weeks Bay Foundation sheds skin to become “SALT”... watch out Fairhope Triangle; Municipal runoff elections; a Tennessee lawyer wanted for rape kills himself in Mobile; and we explore the trifecta of Nick Saban-The Houston Texans Game- and BLM, And finally, the house is on the market, message received.
 
 Go check out Operation BBQ Relief and their good works, they are activated and working in Lake Charles in the wake of Hurricane Laura.
+
+{{< youtubecomments >}}

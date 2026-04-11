@@ -121,3 +121,5 @@ Governor Cuomo now has a sixth woman accusing him of inappropriate sexual activi
 The Ripp Report and Lagniappe were replete with quality stories from the Fairhope Council appointment without Citizen Input; revelations in the Johnathan Victor police officer involved shooting, mandatory diversity training at the University of South Alabama (as a parlay related to the BS picture of a nimrod staff member in Confederate Uniform).
 
 The public intoxication appeal from Fairhope Municipal Court will be heard by Judge Clarke Stankoski on Tuesday (2018 incident). The Assault Charges related to the injuries sustained by Paula DiNardi were dismissed because the original pleading/charging document was defective (or sabotaged or worse).
+
+{{< youtubecomments >}}
