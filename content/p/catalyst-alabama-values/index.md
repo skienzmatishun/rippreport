@@ -2,6 +2,7 @@
 title: CATALYST - ALABAMA VALUES
 date: 2018-05-18
 thumbnail: img/catalyst-alabama-values.jpg
+summary: "Chris Elliott was appointed to the Baldwin County Commission by Governor Robert, boobie grabber, Bentley. There is a lot of irony in that appointment and it is not Alabama values."
 categories:
 - freaky-friday
 tags:
