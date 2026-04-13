@@ -2,6 +2,7 @@
 title: Let's Talk About The Bama Loss
 date: 2021-10-18
 youtube: 21cQc9nHddY
+thumbnail: img/lets-talk-about-the-bama-loss.jpg
 categories:
 - backstory-podcast
 authors:

@@ -2,6 +2,7 @@
 title: Alabama's Ethical Decay and Delta
 date: 2021-08-07
 youtube: 3Me-IZCU-o0
+thumbnail: img/alabamas-ethical-decay-and-delta.jpg
 categories:
 - backstory-podcast
 authors:
