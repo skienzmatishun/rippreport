@@ -4,6 +4,7 @@ date: 2022-01-08
 youtube: -1maB8qyziM
 categories:
 - backstory-podcast
+thumbnail: img/january_22nd_qualifying_deadline.jpg
 authors:
 - admin
 related_articles:
