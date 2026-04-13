@@ -2,6 +2,7 @@
 title: BACKSTORY PODCAST 16 - THE JACK WILSON COMPLEX
 date: 2020-01-05
 youtube: NQPx65Idp_8
+thumbnail: img/the-jack-wilson-complex.jpg
 categories:
 - backstory-podcast
 authors:

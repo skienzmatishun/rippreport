@@ -2,6 +2,7 @@
 title: 'BACKSTORY PODCAST #7'
 date: 2019-10-19
 youtube: HgDzN6pDwgc
+thumbnail: img/backstory-7.jpg
 categories:
 - podcast
 authors:

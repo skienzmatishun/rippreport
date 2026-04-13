@@ -2,8 +2,8 @@
 title: 'BACKSTORY PODCAST #12'
 date: 2019-11-24
 youtube: gNrqpUxZvLw
+thumbnail: img/backstory-podcast-12.jpg
 categories:
-- freaky-friday
 - podcast
 authors:
 - admin
