@@ -4,6 +4,7 @@ date: 2022-03-31
 youtube: k7zFLkkpXHQ
 categories:
 - backstory-podcast
+thumbnail: img/he-must-go.jpg
 authors:
 - admin
 related_articles:
