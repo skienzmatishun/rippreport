@@ -3,6 +3,8 @@ title: Primary Election May 24th
 date: 2022-05-23
 categories:
 - backstory-podcast
+youtube: 1Pb41jaYTkI
+thumbnail: img/primary-election-may-24th
 authors:
 - admin
 alttags: Screenshot shows a social media post about Tim James For Governor alongside a man speaking into a microphone

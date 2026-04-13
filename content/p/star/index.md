@@ -2,6 +2,7 @@
 title: Special Guest State Auditor Jim Zeigler
 date: 2021-09-23
 youtube: gJB31uJz7lE
+thumbnail: img/star.jpg
 categories:
 - backstory-podcast
 authors:

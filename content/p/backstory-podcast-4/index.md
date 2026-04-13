@@ -2,8 +2,8 @@
 title: 'BACKSTORY PODCAST #4'
 date: 2019-09-27
 youtube: sLChEXaha2s
+thumbnail: img/backstory-podcast-4.jpg
 categories:
-- freaky-friday
 - podcast
 authors:
 - admin
