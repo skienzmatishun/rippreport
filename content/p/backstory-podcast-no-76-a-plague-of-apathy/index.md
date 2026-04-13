@@ -2,6 +2,7 @@
 title: Backstory Podcast No. 76 A Plague of Apathy
 date: 2021-03-21
 youtube: XcGclWOqLSs
+thumbnail: img/a-plague-of-apathy.jpg
 categories:
 - backstory-podcast
 tags:

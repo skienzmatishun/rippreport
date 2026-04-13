@@ -2,6 +2,7 @@
 title: Tan Rested & Ready
 date: 2021-05-03
 youtube: aRsdPzQ0kpc
+thumbnail: img/tan-rested-and-ready.jpg
 categories:
 - backstory-podcast
 tags:

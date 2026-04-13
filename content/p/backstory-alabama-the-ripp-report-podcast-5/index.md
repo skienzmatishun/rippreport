@@ -2,6 +2,7 @@
 title: 'BACKSTORY PODCAST #5'
 date: 2019-10-05
 youtube: FeCUHIaKv3M
+thumbnail: img/backstory-podcast-5.jpg
 categories:
 - freaky-friday
 authors:

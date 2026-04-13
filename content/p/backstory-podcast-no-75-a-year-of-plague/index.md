@@ -2,7 +2,7 @@
 title: A Year of Plague
 date: 2021-03-19
 youtube: Di-bGbcEBM4
-thumbnail: img/backstory-podcast.jpg
+thumbnail: img/a-year-of-the-plague.jpg
 categories:
 - backstory-podcast
 tags:

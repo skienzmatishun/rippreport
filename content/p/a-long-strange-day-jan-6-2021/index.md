@@ -2,6 +2,7 @@
 title: A long strange day Jan 6, 2021
 date: 2021-01-08
 youtube: wdNSu9AN9yM
+thumbnail: img/a-long-strange-day.jpg
 categories:
 - backstory-podcast
 tags:
