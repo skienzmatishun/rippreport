@@ -4,6 +4,7 @@ date: 2020-09-12
 categories:
 - backstory-podcast
 youtube: d6FYUlEFneo
+thumbnail: img/9-11-remembered.jpg
 tags:
 - alabama-correctional-facilities
 - backstory-podcast
