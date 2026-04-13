@@ -2,6 +2,7 @@
 title: A Vintage Year
 date: 2021-07-23
 youtube: mBEOAwxxRSA
+thumbnail: img/a-vintage-year.jpg
 categories:
 - backstory-podcast
 authors:

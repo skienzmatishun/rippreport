@@ -2,6 +2,7 @@
 title: The Smokey and The Bandit Run
 date: 2022-03-09
 youtube: KXxEGDFOCqc
+thumbnail: img/the-smoky-and-the-bandit-run.jpg
 categories:
 - backstory-podcast
 authors:
