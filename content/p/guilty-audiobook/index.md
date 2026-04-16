@@ -110,7 +110,7 @@ Lowery and Haygood are candidates seeking election who are guilty of lying, frau
 
 Lowery and Haygood do not qualify to run for any office.
 
-<img src="https://rippreport.com/cdn-cgi/image/width=500,quality=85,format=auto/img/giles.png">
+<img src="https://rippreport.com/cdn-cgi/image/width=500,quality=85,format=auto/img/giles.png" >
 
 Click on [audio book and listen to a story](https://drive.google.com/file/d/185tQDvZLG8PHY4-vtx8pgeZ6PLtYmJht/view?usp=drive_link) that shows you just how corrupt Baldwin county is.
 

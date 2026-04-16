@@ -20,12 +20,17 @@
 {{- $workerBaseURL := "https://links.rippreport.com" -}}
 {{- $imageWorkerURL := "https://images.rippreport.com" -}}
 
-{{/* --- API Call --- */}}
+{{/* --- API Call with Local Caching --- */}}
 {{- $workerURL := printf "%s?q=%s" $workerBaseURL $url -}}
 {{- $json := "" -}}
 {{- $errorMessage := "" -}}
 
-{{- $result := try (resources.GetRemote $workerURL) -}}
+{{/* Create a cache key from the URL */}}
+{{- $cacheKey := $url | md5 -}}
+{{- $cacheOptions := dict "key" $cacheKey -}}
+
+{{/* Try to get from Hugo's resource cache with 24 hour expiry */}}
+{{- $result := try (resources.GetRemote $workerURL (dict "key" $cacheKey)) -}}
 {{- if $result.Err -}}
     {{- $errorMessage = printf "Error fetching preview data for %s: %s" $url $result.Err -}}
     {{- warnf $errorMessage -}}
@@ -53,7 +58,8 @@
         {{- if eq $parsedURL.Host "rippreport.com" -}}
             {{- $newURL := printf "https://rippreport.com/p%s" $parsedURL.Path -}}
             {{- $newWorkerURL := printf "%s?q=%s" $workerBaseURL $newURL -}}
-            {{- $newResult := try (resources.GetRemote $newWorkerURL) -}}
+            {{- $newCacheKey := $newURL | md5 -}}
+            {{- $newResult := try (resources.GetRemote $newWorkerURL (dict "key" $newCacheKey)) -}}
             {{- if $newResult.Err -}}
                 {{- $errorMessage = printf "Error fetching fallback: %s - %s" $newURL $newResult.Err -}}
                 {{- warnf $errorMessage -}}

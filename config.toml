@@ -110,3 +110,9 @@ disableKinds = ["taxonomy", "term"]
     endLevel = 3
     ordered = false
     startLevel = 2
+
+# Cache configuration for remote resources (link previews)
+[caches]
+  [caches.getresource]
+    dir = ":resourceDir/_gen"
+    maxAge = "168h"  # Cache for 7 days
