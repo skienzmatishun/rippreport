@@ -114,7 +114,25 @@ Lowery and Haygood do not qualify to run for any office.
 
 Click on [audio book and listen to a story](https://drive.google.com/file/d/185tQDvZLG8PHY4-vtx8pgeZ6PLtYmJht/view?usp=drive_link) that shows you just how corrupt Baldwin county is.
 
-{{< socialpreview url="https://www.justiceformurraylawrencejr.com" >}}
+<div class="social-preview" data-source="www.justiceformurraylawrencejr.com">
+    <a href="https://www.justiceformurraylawrencejr.com" rel="noopener noreferrer" target="_blank">
+        <img
+            loading="lazy"
+            src="https://rippreport.com/cdn-cgi/image/width=306,quality=85,format=auto,onerror=redirect/img/baldwin-county-judicial-corruption.png"
+            alt="Justice for Murray Lawrence Jr."
+            width="306"
+            height="161"
+            style="object-fit: cover; background-color: #eee;"
+        >
+        <h2>
+            Justice for Murray Lawrence Jr.
+            <br>
+            <span class="source-url">www.justiceformurraylawrencejr.com</span>
+        </h2>
+        <p>Wrongfully Convicted in Baldwin County Alabama. Read the book or listen to the audiobook here.</p>
+        <span class="read_more">Read More</span>
+    </a>
+</div>
 
 Others responsible parties that were involved in the wrongful conviction are:
 
