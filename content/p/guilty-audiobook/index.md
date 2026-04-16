@@ -1,6 +1,6 @@
 ---
 title: GUILTY - HEAR THE AUDIOBOOK
-date: 2025-04-16
+date: 2026-04-16
 thumbnail: img/guilty-hear-the-audiobook.png
 categories:
 - dwtd
@@ -15,7 +15,15 @@ tags:
 - Maxwell-Tillman
 authors:
 - ripp-report
-alttags: Fairhope waterfront at sunset
+related_articles:
+- slug: oust-elliott
+  title: OUST ELLIOTT
+  score: 89.42286099149356
+  llm_score: 85
+  recency_score: 99.18145070108791
+  length_score: 100
+  category_score: 0
+  rank: 1
 ---
 It is a story that is hard to believe and you need to listen carefully before you vote.
 
