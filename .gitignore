@@ -44,3 +44,4 @@ ripp_investigative_ledger.yaml
 .cursor/*
 youtube-comments-cache/*
 youtube-comments/*
+data/frontpage-hooks.yaml
