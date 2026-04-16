@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640736e3fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XC%2BAiHsC%2BtOFMaCfo%2FsWUGIEMmIFKcX13lVnYBKnbC55p9kfTpB7YcpCfcxyPTsKiEeTcKpRUlMd5raeu1c%2BbvNr7YcxRuj13JjmEV70XPOp1xe2HTlEM6cA9YsMAhNLlDKYpe9s%2F8i3UneOgkxo4Zj6Jg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=100
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: dd2f173d07f1a072bf6837bd5521f72f
+X-Etags-2: dd2f173d07f1a072bf6837bd5521f72f
+
+{"title":"CONFLICT OF INTEREST - Ripp Report","description":"The question is: How can a city council approve the largest development in Fairhope when the Municipal Judge is the developer, that the same council …","url":"https://rippreport.com/p/conflict-on-interest/","image":"https://rippreport.com/img/conflict-of-interest.jpg","charset":"utf-8"}

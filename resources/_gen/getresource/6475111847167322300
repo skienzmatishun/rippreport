@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a968e0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CkOBlJ6CrVzHcZY4kpUJSvU2D%2FpcQfEjvGDmkEypvgkG%2F5pm%2BKcMINUwEYWTswBfDvGxLhZMLBZCvtPRzJt%2FBWjND9Rmyxca5zzGZT4gfODSV1LX5oVzzzBye4S3dii2C21iAUHhY%2FDOxup4UF8ZWdXOGg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f3059d53b1082ea2e698e4b7e1d07a9a
+X-Etags-2: f3059d53b1082ea2e698e4b7e1d07a9a
+
+{"title":"Christian Coalition president Brinson runs for Senate: 'I'm like Donald Trump, a self-made man' - al.com","description":"\"I can't continue to try to use my influence by proxy for another legislator.\"","url":"https://www.al.com/news/2017/06/christian_coalition_president.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_impact%2Fphoto%2Frandy-brinson-640ff4a70b522b40.jpg?auth=8cfddee81413f44fccbc2db0ccab3fb672a0e2eb4072b3e5fcb8f0138dbe4d72&width=1280&quality=90","charset":"utf-8"}

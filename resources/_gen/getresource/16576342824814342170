@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bad89aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2gDbB2oQkzO3NfmvGO0g8fFSatTDEhsIVWyJDrcpN2rdbGwbwqgBT93iPHn3BYRMk73Fw3yZy2CDYDTfyTfh6VGQOn9NFx5ZxPH0KbV1%2B3x%2F1ykLjgHIIhBNYD1u27ds1APNi81PJBpe5k8PN0MWjoEfpA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ae3fc846453e71c1e700819dbb909598
+X-Etags-2: ae3fc846453e71c1e700819dbb909598
+
+{"title":"The $675,000 Sins of Senator Trip Pittman-R are Irrefutable and Actionable","description":"\"He who passively accepts evil is as much involved in it as he who helps to perpetrate it\" Martin Luther King  Dr. Christopher Warner encaps...","url":"https://web.archive.org/web/20170613020856/http://alabamacorruption.blogspot.com/2011/03/675000-sins-of-senator-trip-pittman-r.html","image":"https://web.archive.org/web/20170613020856im_/https://lh6.googleusercontent.com/proxy/PujUC8ajX3vunkTETcd7EHWJwrjacHbjz6jh3DdtUZk5mwfgtogi7C8inGfoeL8Im4upTcGsDoMXXtUblTIaHK327dDYzUs=w1200-h630-p-k-no-nu","charset":"utf-8"}

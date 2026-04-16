@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64030bd11a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xqqxcBpLPDXthf61D6wA1AJTYd5Kjzpw1bmBlwFMIt7k0ruiO833jv3ToPcCoc1sdwCXb2iNKM523vMaccps4b5hCrdIQR1Mtgfezl0KCLIIzYzSHES9o8g%2FLoJqpjd7C2rdWbYB4f07h3oJMlZUn3vTxw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0b4b6973dae164b78c7b63c0e4a5108f
+X-Etags-2: 0b4b6973dae164b78c7b63c0e4a5108f
+
+{"title":"Baldwin deputy tied to trafficking sting","description":"A sheriff's deputy is being investigated by the Baldwin County Sheriff’s Office after possibly being identified in a human trafficking operation in Spanish Fort.","url":"https://www.lagniappemobile.com/news/baldwin-deputy-tied-to-trafficking-sting/article_af654693-faf3-4122-be79-aac797822ef2.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/0/9a/09ab01ff-a18f-5fec-ba23-76f03d648482/6334492367a6f.image.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405ebeb8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=b2%2FpiCF3OhLcideGU8PCo094o8S48rJIZ7ETDw2wGzMssUKxXMXgWKjCPETrR71SD6O5cgkOZdOtz6ft6%2BrB5lY2Zj2sS1ECsF%2FOhZbjJNMCcKFPoeAV6scyL5RB7ZrAPoK28ANEh1io7OkOVT2bab6C%2FQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=96
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5b412f7e433a8f2b1b45aee71e90e422
+X-Etags-2: 5b412f7e433a8f2b1b45aee71e90e422
+
+{"title":"SLAP IN THE FACE","description":"Baldwin County citizens have just been slapped in the face. Want to know why Alabama is number one in corruption and the butt of jokes? It is because the judicial system stinks and people with power or money, WALK.\n“Slappin Mike” McMillian the newly elected Mayor of Spanish Fort, WALKED, NOT GUILTY. Forget the video, it was a figment of our imagination. Slappin Mike joins the Sean Connery Club. The Attorneys and Judge just slapped us in the face.","url":"https://rippreport.com/p/slap-in-the-face/","image":"https://rippreport.com//img/slap-in-the-face.png","charset":"utf-8"}

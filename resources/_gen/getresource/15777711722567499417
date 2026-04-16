@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64054d908a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FjT8N5jSsQ1dKYPYQoKuhRO57o0eXaTAA8aYakRpFwGfhKCQPI5AcA4dWSeYbNPV7GeSU9C8nPODiQntRgIQKrsyyskpslTIUWDRpb01g9JPHVpnKWrDSXMZoOZovvyBJ2DginNO3%2BVgSod1bFdKCGJqig%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=88
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ba2c175349a4f42a089a708579205458
+X-Etags-2: ba2c175349a4f42a089a708579205458
+
+{"title":"Apartment complex causes controversy - Gulf Coast Media","description":"A development in Gulf Shores has caused many residents to complain and protest its passing to the City Council.  The proposed development would bring a 206-apartment complex near the downtown area  &hellip;","url":"https://gulfcoastmedia.com/stories/apartment-complex-causes-controversy,65007","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1481728190_20c2.jpg","charset":"UTF-8"}

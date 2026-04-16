@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d1f9bea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=j3ud1GAPtWNjmSeOwpFyHzMc6s7nDIK5V5SMK8FH339TSBrRC2xFvVw7X%2BgmIySi6ciXfWT9BbnGmSazhXzLiB05AvZJkKyn%2FT3xerbGHxUOl5jqsDqCiP7PUwBHGlFe%2F0bePxg0ZHB3npsuglXqYsITdg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b95b2d06a102bef4ef255e0711951315
+X-Etags-2: b95b2d06a102bef4ef255e0711951315
+
+{"title":"FACT and FICTION A B C - Ripp Report","description":"Hard to tell what the truth is these days but some information leaking out, if true, will set Fairhope’s hair on fire.\nA. Jack Burrell denied, on WACO …","url":"https://rippreport.com/p/fact-and-fiction-a-b-c/","image":"https://rippreport.com/img/fact-and-fiction-abc.jpg","charset":"utf-8"}

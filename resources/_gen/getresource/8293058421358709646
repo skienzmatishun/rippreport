@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406d0a44a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Ir4PBBY2WJSo6xZI2ruo2S82WcKTFwW3DFP3JmFpU%2Fn%2Byk4wtj%2B6pIzUxc7RzJOUeXhsGuoWRdvYIoMNhCBZ9Q9qr8jgyLbJw8Mppto2lj%2F5OpUbUgKFPYXUE%2FF87q2MeMm%2BQnhKBJeTphHoF96BV89szg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 65716d59746f440a5cb641054c9eaf8e
+X-Etags-2: 65716d59746f440a5cb641054c9eaf8e
+
+{"title":"South Alabama dangled its own megasite to Toyota and Mazda, but came up short","description":"The South Alabama megasite was in the running for the Toyota and Mazda plant that wound up landing in Limestone County. Coastal Alabama officials now say they feel that their megasite is next in line to land a large-scale developer. ","url":"https://www.al.com/news/mobile/2018/01/south_alabama_dangled_its_own.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Fivey-jan10jpg-82c26f2465199e38.jpg?auth=aa07f0ab6a8acdea7f25559e59a59cad77b5b760c3a40da68f0757b272c9a0c6&width=1280&quality=90","charset":"utf-8"}

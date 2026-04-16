@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a30c00a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=x9d7SrtAKzBZ0Tej2Kzhvx%2BNMx59mT7schsud23d33jrSe4SmmDXQyoGzIsWpbnXNE2SPuRXqNirLkn1anPk%2BPghe4dIwGvFIToR7ixx57IL3vUdSLoWk4V2IgePbgdWhXRWWSkh4KUMvMfNfgCyw9V6rQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4b1ee5611935416f8b828ac648a90feb
+X-Etags-2: 4b1ee5611935416f8b828ac648a90feb
+
+{"title":"Board approves electrical substation in Fairhope residential area","description":"The Fairhope Board of Zoning Adjustments approved a special exception to allow a public utility in a residential area Thursday, against the opposition of residents of the neighboring Hawthorne Glenn","url":"https://www.lagniappemobile.com/news/board-approves-electrical-substation-in-fairhope-residential-area/article_b263f558-6169-5bde-a72b-df7e9093d2d1.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/9/22/92273405-bd4b-5e78-9754-45eae8816ab9/631a2b3d96bed.image.jpg?crop=1300%2C683%2C0%2C89&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

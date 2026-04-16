@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640841b73a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=z2O1uoROmnVcUXCuQ9%2BJ25iHUfNufMhd56rdasw%2BWV9QEcPsKZlR9mLsGvcUL4O65Lv4hrWyiitopbFlAqmoSLs0W%2B21rXOg%2BN3VBIRTQLVXYr9nbaxToardBfUBRYFT8%2FFnFepO8RzwIbZMHaRY71QteQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 00e871f0f9e18ce0e758bb508a0f11fc
+X-Etags-2: 00e871f0f9e18ce0e758bb508a0f11fc
+
+{"title":"“TAKE A CHANCE” - Ripp Report","description":"1701 Covid deaths in one day, 250,000 total U.S. deaths, 11 million cases so far in the United States. One person is dying every 50 seconds. …","url":"https://rippreport.com/p/take-a-chance/","image":"https://rippreport.com/img/take-a-chance.jpg","charset":"utf-8"}

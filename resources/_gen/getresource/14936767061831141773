@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a4b977a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=l2YiwitJz2NA6Pkm60Nw6P%2FSvjh82X%2BWTr5oZutLOunbVO7OKedIkZrWyBeBDS0jjcprQLIXTLBwkinbB8JxHUH9xrhhGnTA0wv3r9Jx%2FQFaLtfDSUQ8ldrqRGAy%2BnTsjWerJi0%2Bbsk7dxkciAXPM1rClw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=88
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 96e41954dd5615088ee403ad972e13ad
+X-Etags-2: 96e41954dd5615088ee403ad972e13ad
+
+{"title":"Sting - Ripp Report","description":"Please vote today. JERRY CARL. Mr. Carl’s opposition is CATALYST and CATALYST home base is Fairhope.\nJERRY CARL for the First Congressional District. …","url":"https://rippreport.com/p/sting/","image":"https://rippreport.com/img/sting.jpg","charset":"utf-8"}

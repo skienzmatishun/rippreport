@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c1be5aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OLI02WAZfQINs230FTbmrzz7s9nlzMoqNu9Gm9rPqUlUVEAAHsSE1JRNTwi50UGTWPmkTz%2B6Yrb0dnNkd4UC%2FTxZRWo4utl7s%2BGsguFqLOXKtz7mN2i8On1MsC1%2BgF68MdfJeqWTkuxQUmO%2BJ6ATDmmlcg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 02b7d0d08368fbc579b82bb02df5ad44
+X-Etags-2: 02b7d0d08368fbc579b82bb02df5ad44
+
+{"title":"Letter to the Editor:  Fairhope’s historic Municipal Pier park saved from radical changes by new administration - Gulf Coast Media","description":"At the start of their new terms, Fairhope’s top two elected officials agree that former Mayor Karin Wilson’s plan to bulldoze the historic park at the Municipal Pier is dead. In  …","url":"https://gulfcoastmedia.com/stories/fairhopes-historic-municipal-pier-park-saved-from-radical-changes-by-new-administration,100288","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20201117-132834-20200505-210614-Pier%20plan.png.jpg","charset":"UTF-8"}

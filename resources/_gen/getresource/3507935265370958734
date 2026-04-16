@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405dbb99a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7IiytLt%2FSocql89fQv%2F%2FGWCNLk0ENUS7YzCZP%2BQ5E092r8yaJD1M8hYPY16f9zd%2Fo2j0z4hGnem6n7vHzIwU78y8D04pSzUCSdCSQ7x8vM%2BiIpwrQCYgkc7uS0h11jJYckobxWrNeuy0iTu0A9%2B%2FrasPvA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4e8e8cbd2d91dc99d181c3107b812089
+X-Etags-2: 4e8e8cbd2d91dc99d181c3107b812089
+
+{"title":"Alabama next to last on list of best states","description":"Alabama has a not-so-enviable place on the list of best states.","url":"https://www.al.com/news/2019/05/alabama-next-to-last-in-us-news-ranking-of-best-and-worst-states.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FEKBIKHOV6FF4RBDBBZE7VXRZFQ.JPG?auth=a3e0f8021ef64076335d1a34d4a51782f15336fb8c9a6f029e2474fcc679d83f&width=1280&quality=90","charset":"utf-8"}

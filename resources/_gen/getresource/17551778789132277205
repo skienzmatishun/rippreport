@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640654a6fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nwiV7pemG4xBU5gULnw1%2FuSr8lgP0mPbp3W19HhxoSY1cSpr04XyxnxwLit6WdF8fXeyULn5pBJOFB6Hls%2B64khqZ9K09Tw%2FF%2BeFQJ%2FeBZ1JTlSEik0Qq0How6W7lXdvxoA%2FMYoe2umlZ0bajT5UWfvE4A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=94
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 39311e64ae7f66740a329b5bf600b83f
+X-Etags-2: 39311e64ae7f66740a329b5bf600b83f
+
+{"title":"Birmingham Young Republicans censure Roy Moore, pull endorsement - al.com","description":"The group said it believes in innocent until proven guilty but not \"electability until proven guilty.\"","url":"https://www.al.com/news/2017/11/birmingham_young_republicans_c.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_impact%2Fphoto%2Froy-moore-8eea4dd3af06fe65.jpg?auth=10df0197c6bb8234d9338ba567a17727f420dc7b593d113e561391da0fa2890e&width=1280&quality=90","charset":"utf-8"}

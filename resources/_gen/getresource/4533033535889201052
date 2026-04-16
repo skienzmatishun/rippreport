@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a749a9a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1VM6YkZWBt5Ri6SBKCV9sNvwZ5TCShU8Q0XxG1QojzFOodisP7l9x6GofMzRGgFoGy7XkxJvLkHycven3FIEp%2BaGneIFn%2FXeskGKNy8tHqzdMubtCHqC87JVPggOCr8gX6CW4KFxehyvWsGHtDHmHnnVzg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5f36eb9ca19c97889d2efc483cc9ff1b
+X-Etags-2: 5f36eb9ca19c97889d2efc483cc9ff1b
+
+{"title":"Can a Democrat win in Baldwin County?","description":"In Alabama State House District 94, a Democratic challenger is hoping to pull an Election Day upset in defeating longtime Republican incumbent state Rep. Joe Faust.","url":"https://www.al.com/election/2018/10/can-a-democrat-win-in-baldwin-county-in-state-house-race-one-hopeful-sees-path-to-victory.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FYP46JW3DHFGLBCGWI6IHUXQAQQ.jpg?auth=ab7507aa61b8cdf1c821972c111a2567f2ff69146e9e4c23ee29b307ffa8b91d&width=1280&quality=90","charset":"utf-8"}

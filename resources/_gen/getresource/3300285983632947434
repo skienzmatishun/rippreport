@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640798985a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GCnR4LDBCKNkSpQ8art2j8z%2FITOckK5iAia3f422DGhcN0OAFULUMs1I5rHsxT%2BGuzbC0NPp%2F7GlKOnYZICPPab%2BA1wlzh0Z9SAn2wV3Ra6aNTuYpchi3y4yJUIES2WOHxdParKejUENIvTmlNirMIj%2Fkw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ba87b51bf564c789620644c69cd6c30b
+X-Etags-2: ba87b51bf564c789620644c69cd6c30b
+
+{"title":"LOST OPPORTUNITY - Ripp Report","description":"The Mayor of Fairhope is cutting the city budget to compensate for the anticipated loss of municipal income due to COVD-19.\nThe staff, police, fire …","url":"https://rippreport.com/p/lost-opportunity/","image":"https://rippreport.com/img/lost-opportunity.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640669e7da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=H0Cnhow39ubpWdvIpaGBEjN%2FEp3tXSjZjoh1KdaJON6g6DZtCuGLPd8MKlev98waDl2dWFJWlk%2Bf3SKOylMVvTicDcYvEvwPEgrkw5xdSb3kDvipQmnK6HuS7eV%2FP2pd0RpsV1yB6takyHm3lSvXDJaQ7Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 06ea571a014f21dd32911108ebecb104
+X-Etags-2: 06ea571a014f21dd32911108ebecb104
+
+{"title":"PEDALING FORWARD - Ripp Report","description":"Fairhope City Council has been pedaling backwards their whole term. They now have a chance to pedal forward, putting Fairhope on the map, when it …","url":"https://rippreport.com/p/pedaling-forward/","image":"https://rippreport.com/img/pedaling-forwards.jpg","charset":"utf-8"}

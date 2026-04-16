@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64029bfeaa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hoc3wIHxvjvIAFEfWuK3gn4C2ha6Zwxtpx0FCNUok%2BF%2BRrTv7a7VZf8XqdeMLCMToER7fXJaaeceP8jGUEZi728dj3yWKJ1tagzT3hwoYAHzkUY6rq00wXt3xRXC4NkzuC0BCSYFvcJBAifUMgf412KVZw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=139
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 45446447441ea33f89a96ff9f8264141
+X-Etags-2: 45446447441ea33f89a96ff9f8264141
+
+{"title":"Experts: DA's maneuverings suggest autopsy in Stephen Nodine case could damage prosecution","description":"Baldwin County District Attorney Judy Newcomb&#8217;s decision to hire a pair of outside forensics investigators suggests that the state&#8217;s official autopsy is damaging to the murder case against former Mobile County Commissioner Stephen Nodine, according to legal experts. ","url":"https://www.al.com/live/2010/12/experts_das_maneuverings_indic.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Flive%2Fphoto%2Fnodine-metro-jailjpg-c8a24d2239bb60bd.jpg?auth=64731758624dd82f7a690cf695d315dbc9f6c48eb927ef30150b31a49a10b11b&width=1280&quality=90","charset":"utf-8"}

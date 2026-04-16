@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bc8df7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6rY0Z4G6mNVhZA7%2B41c56Ap7XmWbluSuezpFi7OkSgW%2B2P7fIcJH9qYoQa%2Fftbma82A2CNYjfhrjQ3z9VG8o8FMIpRIBLnB9UDPPh7IfKL%2Fs6laXUI498g6J3gjUzx2h3uEHs9fLa9Dw3pzcPOm%2BXpwT%2Bw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 519d58702085daa503983e46bb1d5258
+X-Etags-2: 519d58702085daa503983e46bb1d5258
+
+{"title":"Spanish Fort video posted showing mayor allegedly slapping city employee","description":"Click here to view this video from .","url":"https://web.archive.org/web/20201025133536/https://www.fox10tv.com/spanish-fort-video-posted-showing-mayor-allegedly-slapping-city-employee/video_f467d08c-2535-587a-b4d6-3366e5ab4f9c.html","image":"https://web.archive.org/web/20201025133536im_/https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/f/46/f467d08c-2535-587a-b4d6-3366e5ab4f9c/5f2bfbf1b0b98.image.jpg?resize=1120%2C630","charset":"utf-8"}

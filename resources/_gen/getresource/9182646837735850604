@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64029bfeda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=t2VODivXyI8n28Wbya%2FOsGcCfOnOxv0PC9IZ5yCG%2B5yIzok3%2BtKaB0BzQ5pgPobmX3urwiq%2BupQrruHDBoKBjQVpzwNgOiz7Y4c1IlueVxsnCawkMyBIezzMdSKlJpIg8K%2BNAIQtarU225jquvUs5KV0Dg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b0a84a748e281a811ffab660222c5000
+X-Etags-2: b0a84a748e281a811ffab660222c5000
+
+{"title":"Fairhope councilman accuses Mayor Wilson of violating state law - Gulf Coast Media","description":"In an interview with WABF 1480 AM radio on July 9, Fairhope City Councilman Kevin Boone said he had turned over evidence to the Baldwin County District Attorney’s office that he believed proved  …","url":"https://gulfcoastmedia.com/stories/fairhope-councilman-accuses-mayor-wilson-of-violating-state-law,64372","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1488563012_5ac1.jpg","charset":"UTF-8"}

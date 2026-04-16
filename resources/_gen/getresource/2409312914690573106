@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408838d4a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6AhLb94hrjT5Z%2Fev0AbrYVXz%2B2ovVDBJQ09K8Q03r3Z879U%2FliCc5A6Zwed1I2TT%2FTTbH2j3T9qG4SId11zpeTEnbK6QM5UL8l7%2Fb%2FpFuTcqdfntrqxSbFvuUAPDSkqiH3wdQsN4abKOGfvq4cfAYDCvjg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ee43bd19dbb0d08d48e74f24518c7270
+X-Etags-2: ee43bd19dbb0d08d48e74f24518c7270
+
+{"title":"Roy Moore pulls his gun out in front of the crowd at campaign rally","description":"Moore and Strange's run-off election is Tuesday. The successful candidate will continue to the general election to determine who will serve...","url":"https://web.archive.org/web/20170927184120/http://www.washingtonexaminer.com/roy-moore-pulls-his-gun-out-in-front-of-the-crowd-at-campaign-rally/article/2635602","image":"https://web.archive.org/web/20170927184120im_/http://cdn.washingtonexaminer.biz/cache/1060x600-165a36d219235e17f7ff249f03b540b1.jpg","charset":"utf-8"}

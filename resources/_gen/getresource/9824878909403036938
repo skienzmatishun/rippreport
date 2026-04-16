@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640668e3ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PhVavBSFaGIprZiO6HHE%2F%2Fatebh1oF4PMbIYej3Egxl33nE3VXLAEJOcpqQBpbQ%2FGHMAc4x7xh2siFpyreUnZib44ZfH7FqdsOqTBXKM1HUIvxqEnLXoKMBSe5CJ4ZodxoHgDEVQnY%2F9Pt2ALDdTPEPZww%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 71f0ed4828a70c0c885556f64eb9d10e
+X-Etags-2: 71f0ed4828a70c0c885556f64eb9d10e
+
+{"title":"The incarceration lottery: Alabama gambling bill gives nothing to education","description":"It takes in less than half than any other state and gives the state's largest campaign donor a machine gambling monopoly.","url":"https://www.al.com/news/2019/04/the-incarceration-lottery-alabama-gambling-bill-gives-nothing-to-education.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FRWGPES3SVRE2JJEFWUFH3EKEOY.jpg?auth=fb6b7b1ad46e29ba96422093c3d3357d8ae0ccd26d5935bf6d67ff5071676736&width=1280&quality=90","charset":"utf-8"}

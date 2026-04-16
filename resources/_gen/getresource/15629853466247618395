@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64048fd63a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yWGfaOzEcdDACC%2BfS88%2F3N4XMLxDnaZAlRmOukld5arj3XqWF8dDQQyYEuPIJ6%2F%2BEysGPjyIIb7Lu%2BTHmZOZPFKK6aenQFb3tUy7roHe7Bt6QNByowTdjet80OI1Yb%2Bs06OEBsqw2gswdJ87WxZaGx8Y5w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=88
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 04fd3204e7b7383bc65865dd52d6b33a
+X-Etags-2: 04fd3204e7b7383bc65865dd52d6b33a
+
+{"title":"Alabama Ethics Commission revelations go 'Boom!'","description":"\"They haven't been corrupted by it. They're a part of it.\"","url":"https://www.al.com/opinion/2017/08/alabama_ethics_commission_reve.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fopinion%2Fphoto%2Fethics1jpg-062bf67abfeaf011.jpg?auth=32be21b96e1dfe9514a0faf65c69d34ff0896925f6bb4bb1e858eeb10325eb97&width=1280&quality=90","charset":"utf-8"}

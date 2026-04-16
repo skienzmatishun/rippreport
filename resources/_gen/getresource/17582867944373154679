@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640643f18a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZtpdnzBv3kC6hxV%2BNqMpc6LlSAEzbegTmeqwGSjlPd6DEuKB2PmrOssjN8RomaUouT78bH6Hv8QOi%2Fz8pMNVBz7506VAluss6uVcs0DnFJck0MsiSY9CiXYVhHgmabJB45kd2xv84UCQBxcT4Q3IcwJs1w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2f9b104f254210e7c1766a4f645b8af5
+X-Etags-2: 2f9b104f254210e7c1766a4f645b8af5
+
+{"title":"Fox News host on Roy Moore: 'I'd kick his head in if it was one of my daughters'","description":"Fox News host Brian Kilmeade said the alleged behavior by Alabama Senate candidate Roy Moore was \"obscene\" and he'd take dramatic action if a 30-year-old man attempted to date one of his daughters.","url":"https://www.al.com/news/2017/11/fox_news_host_on_roy_moore_id.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_impact%2Fphoto%2Fbrian-kilmeadejpg-f742b9841fce9b7c.jpg?auth=7898d5ce7232071a323a2e03d0ce379262f80be006e853285c965886e08842e3&width=1280&quality=90","charset":"utf-8"}

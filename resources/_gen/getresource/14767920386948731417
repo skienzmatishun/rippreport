@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a38dbda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zi9UTZKukvaAVotZCMB67kFoUqYo67FwIOs6yofCqeKD6hNUNCdQMJDb%2Fr2YLeBVIGkO6jYD1eY%2FSKt0MA7CTWPwUxHIzAnqNwEZct%2FzzpNealCYRHgLRMMTb%2FL3gTX8Qw3kHDsedDQ3TjA5NnlJeuCfpw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=88
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f8ead99812699f2ebea5d66cef3bb29d
+X-Etags-2: f8ead99812699f2ebea5d66cef3bb29d
+
+{"title":"CATALYST STACKING THE DECK - Ripp Report","description":"Get ready Fairhope, CATALYST is now working under the Scott Boone Consulting banner. CATALYST can be best described as:\n“Intricate web of multiple …","url":"https://rippreport.com/p/catalyst-stacking-the-deck/","image":"https://rippreport.com/img/catalyst-stacking-the-deck.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64091cec2a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Sil%2Fh7YofOd%2BxWaRPU3%2BQ5r1oFaziVcZdGYvDIAg68308cTCjZjaXOsW40TEC5ilymh53qIc41DjOf2RFk%2Bk06RqQHDedhznv01%2F5Ex2t6Hczykhz8F0AiQfR4iecbbJLjlBUDFUw2s55yRhHZrb6QM52Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7a49f8163ad6716d224d336b3ae7df4c
+X-Etags-2: 7a49f8163ad6716d224d336b3ae7df4c
+
+{"title":"Roll of the dice: Senator files Alabama lottery, gambling bill","description":"The lottery and gambling bill mirrors a comprehensive bill filed last year, but has just 12 days to pass the Alabama Legislature.","url":"https://www.montgomeryadvertiser.com/story/news/2022/03/04/alabama-senator-files-lottery-gambling-bill/9365483002/","image":"https://www.montgomeryadvertiser.com/gcdn/presto/2022/03/03/PMOY/9e3f015e-f61f-4096-a511-88aa11d2067a-Greg_Albritton_March_3_2022.jpg?crop=4031,2267,x0,y115&width=3200&height=1800&format=pjpg&auto=webp","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c07a43a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rrGaZqmP4UNWx%2FoG7M0atwCXkWsGqtmh6KptTtH1Hvlu5OHyh2KVm5sUHOcRgSfPZZPDNqtHXRfJISQfqsURLBMAp4t8r6HmZAEiuhMD5WtNN8k3O8otpqPQb0C%2BPazfkH4vE8t4tCCOGg%2FqdLHF1GaVHg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=91
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ec16438e012d79fe7fabad6563e49e13
+X-Etags-2: ec16438e012d79fe7fabad6563e49e13
+
+{"title":"Alabama Governor’s Use of Oil Spill Funds for Mansion Draws Criticism (Published 2016)","description":"Gov. Robert Bentley defended the spending of as much as $1.8 million from BP to rehabilitate a long-damaged governor’s residence on the Gulf Coast.","url":"https://www.nytimes.com/2016/01/12/us/alabama-governors-mansion-bp.html","image":"https://static01.nyt.com/images/2016/01/10/us/00mansion-web01/00mansion-web01-facebookJumbo.jpg?year=2016&h=549&w=1050&s=634a80e6000ae924cc440896e897572b5ca003b7cede0472dc4491f0cdc9e865&k=ZQJBKqZ0VN","charset":"utf-8"}

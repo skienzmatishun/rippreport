@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64091ff52a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8xknHY2Gtfbo3PUwDZggwMh5VNfX2Ltz3Eu97ESapPZ0%2BUeF988ZUnrovQ%2BAbnKLaRiql3hPnhX6NaKNrxU2LTMS46tuTZUGNnyyUSZ2vXonQcn2istM8ANZ9Kpf758sOxPX68IQcp%2F0QXeabr6z%2BGy4gg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bd7843e1866c8ba528126cb3a06226c6
+X-Etags-2: bd7843e1866c8ba528126cb3a06226c6
+
+{"title":"Why Baldwin County is Alabama's king of growth","description":"Baldwin County added 3,000 residents last year and it's growth continues to elate and worry local leaders. ","url":"https://www.al.com/news/mobile/2016/04/why_baldwin_county_is_alabamas.html","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640af0bd7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vqH9JjOAcbY0ane%2F1%2B4uKtJej4PodzT2NMNs9t4M6FMjHbmpMF8BXR1To82A5cnMW2GBX4CFdW9x8cULBZw%2BDFkLxXz76oPbs8N63gCvEUockyefQBZhy5i3v71JqLFAOiSRmpc%2BOKq4ip9kU5eub8ji1w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 12b0857403d6661ff6618c96bd0e6b69
+X-Etags-2: 12b0857403d6661ff6618c96bd0e6b69
+
+{"title":"HALLUCINATIONS - Ripp Report","description":"I had major surgery June 20th and it took a full week of some serious pain medication to come back to earth. In fact it took 8 days to totally rid …","url":"https://rippreport.com/p/hallucinations/","image":"https://rippreport.com/img/hallucinations.png","charset":"utf-8"}

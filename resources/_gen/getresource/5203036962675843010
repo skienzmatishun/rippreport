@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640ce6eb7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zCyKEnZx4QhUrz1%2B3LIinZO4lZiz26K144Ndu0RVE68htSjFrzBoWzUKrXM2Od7aGw4cN53taA%2BGiD7813t2T9hxfoJdbzXUtzf6STH0PqNo6uQR80%2BrFmZRyYElHH4C20DW1jigxhooAskazYni7qgt6w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 660ac1e7030bd6cddb22e6363a0e0d9c
+X-Etags-2: 660ac1e7030bd6cddb22e6363a0e0d9c
+
+{"title":"Baldwin County hurricane debris cleanup expected to take months","description":"Over the last few days, a major part of Hurricane Sally recovery efforts has been focused on clearing away thousands of trees that were uprooted and tossed onto roads, homes and power lines. Crews in Loxley and Robertsdale said they have made a lot of progress in tree debris cleanup. &ldquo;The block I live on, I couldn&rsquo;t even get out the next day and leave the house because there was nowhere to go without climbing through trees,&rdquo; Loxley Volunteer Fire Department Deputy Chief Ed Vaughn said.","url":"https://mynbc15.com/news/local/baldwin-county-hurricane-debris-cleanup-expected-to-take-months","image":"https://mynbc15.com/resources/media/7de2432f-d38d-41b3-b749-4dffcdc1d564-large16x9_poster_872cab49d66a436bbc652c8125694ee0.png?1600831157672","charset":"utf-8"}

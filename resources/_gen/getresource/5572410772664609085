@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640700beca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JDrpwFcWPb0%2FHIH7gDt5QhZy%2Fgv4aOKMvgX2I6vvCWKC6Tnel3XWKSkHJo%2BDZVOLss4l5RfJr9TZQnD%2FCHeOQ3FLNwTv5MiT8jyKlxHEneBJ4bXTSy6qgeokB%2FbAOisxsRRkjPLXRMdH21UyHqXnpblc6A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=110
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 22af9c5b2753b934360071189e808331
+X-Etags-2: 22af9c5b2753b934360071189e808331
+
+{"title":"TRANSPARENCY - Ripp Report","description":"The Fairhope City Council has not approved a single Fairhope City Budget, on time, in the last 3 years. Their only accomplishment, so far, has been to …","url":"https://rippreport.com/p/transparency/","image":"https://rippreport.com/img/transparency.jpg","charset":"utf-8"}

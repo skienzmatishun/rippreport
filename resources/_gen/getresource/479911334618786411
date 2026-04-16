@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408c7e75a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=r%2BNjg2m8LkQIkYZRIOFxvogxe2CRvA1a28uv7KTuJgVczC%2FNOF0KOCWhlzdojrTsijaK6Nn%2FhK3uYBm3OGtDR50HI%2F%2FYNzn4kzZqtYyjFi9rf80NhxCz1F%2FmLOsIv29vgLOOMeuo%2BJ9D23bqD6CIegxTcw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 52a0463bba389eaaadf1e8daad033eb1
+X-Etags-2: 52a0463bba389eaaadf1e8daad033eb1
+
+{"title":"Jeb Ball seeks election to Commission District 1 - Gulf Coast Media","description":"James E. “Jeb” Ball, Program Director for Baldwin Substance Abuse Services, Inc. in Bay Minette, has announced his candidacy for Baldwin County Commissioner, District 1.  A lifelong resident  …","url":"https://gulfcoastmedia.com/stories/ball-seeks-election-to-commission-district-1,51284","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1499908030_ee25.jpg","charset":"utf-8"}

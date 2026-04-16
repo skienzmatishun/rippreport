@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404eceb0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2z16BEoJluAYMT9kYX79yM9ubTXCSvavw5aENT7IiHaR29QEOpwxw1rAqFIyI5qeY5fPQ6c91QV2ErJhoQUkjzUtrzEEVvPdM4hdHROHYsg3iBJS1ubUTfPjSkkJJMPrf80ww60QDmSg2T4Kt8OP737dgQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=88
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 66138e776578e5c921bd1a3f6353e7da
+X-Etags-2: 66138e776578e5c921bd1a3f6353e7da
+
+{"title":"CATALYST SKUNK - Ripp Report","description":"County Commission place three has three candidates trying to run over the skunk of the County Commission, Tucker Dorsey. Democrat Heather Brown and …","url":"https://rippreport.com/p/catalyst-skunk/","image":"https://rippreport.com/img/catalyst-skunk.jpg","charset":"utf-8"}

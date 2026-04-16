@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64075ddc9a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DUKwB%2F%2FqKTvOo5FKYCJclysy90PEoMQ1z0yg6vyziXJVAY8x5Bp%2F0G5L5bwsHb1%2BXwNtSuLGF0Qb7lbDxbJO%2FQYUR5IX3tinye0eAcsHDsdnKl3wKPUvDnSAK4kXtN7%2Bj5%2BjyJ1tafJcnSP6aLfoy2hwXw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0ffb648d8d72dca1e57e20b7e4c35100
+X-Etags-2: 0ffb648d8d72dca1e57e20b7e4c35100
+
+{"title":"Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill","description":"February 11, 2025 – MONTGOMERY, AL – Alabama Lieutenant Governor Will Ainsworth shocked many Republican legislators by releasing a statement opposing the Governor's takeover of the Department of Veterans Affairs bill – Senate Bill 67. SB67 is sponsored by State Senator Andrew Jones (R-Centre) who is carrying the bill at the request of Alabama...","url":"https://www.alabamagazette.com/story/2025/02/07/news/span-classbrnwsbreaking-news-spanlt-governor-ainsworth-breaks-with-governor-opposes-the-veterans-power-grab-bill/5488.html","image":"https://www.alabamagazette.com/home/cms_data/dfault/photos/stories/id/8/8/5488/s_top","charset":"utf-8"}

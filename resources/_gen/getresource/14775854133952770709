@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ff53d28a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:12 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jg3uwmZTTp%2BSz5VSFRYSRFiv48YPPlVHcLmWQ9pawU62%2Bm4hqLbAlmsA6rvdtREtNN%2B3qBRW1CHx8mtD0WcHUi6cegS2V3QhAzekJWbIiOpBiTmgaItA80qi9Zkm1t%2FommZJskgv1oaEwnkAumVHqtVYxg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=69
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 38bbe3d3f4e1dac985420c54e184e4b5
+X-Etags-2: 38bbe3d3f4e1dac985420c54e184e4b5
+
+{"title":"FAIRHOPE “CITIZENS CITIZENS CITIZENS” - Ripp Report","description":"FAIRHOPE “CITIZENS CITIZENS CITIZENS”\nWAKE UP!\nMayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the …","url":"https://rippreport.com/p/fairhope-citizens-citizens-citizens/","image":"https://rippreport.com/img/fairhope-citizens-citizens-citizens.jpg","charset":"utf-8"}

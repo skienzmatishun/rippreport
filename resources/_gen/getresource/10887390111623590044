@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64053cdbaa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lemz7y%2FQ2hFO1fVUz7KWiTx5kf8oEpsPHJLwLsXmy6TYelFQLtyV3Ry7ySVyn%2F7vOJpVEYshCyeuR8QvBmdzYf2gpF9YLF2iuexTzFdU81I4w%2B0EqUuH2CbXcyFT%2FNgUFyGBJsiI1bZkkIbGzovzEJ5Cvw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=153
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9c7a465bec1aad9625f485b3ff45d7c3
+X-Etags-2: 9c7a465bec1aad9625f485b3ff45d7c3
+
+{"title":"Sensationalized Headlines and Innuendos","description":"Dear Citizens, Questions have been raised regarding invoicing for IT services as well as about surveillancing of city employees. I wish to answer those questions to the extent I am allowed without …","url":"https://web.archive.org/web/20190930015818/http://mayorkarinwilson.com/sensationalized-headlines-and-innuendos/","image":"https://web.archive.org/web/20190930015818im_/https://s0.wp.com/i/blank.jpg","charset":"utf-8"}

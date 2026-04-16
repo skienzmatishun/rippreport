@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a498f7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Yma%2BY8CnC63c5a1VmbKgX5N5N6LcFtnqyuo5InbrJ3xyAZNK3J66n%2Bimf0JPKPC03cyEcXQZnPC2LzQK%2FvCwh7ZjYvAMdrNeNDhHjMYlHhKSzk4Ikg9NwavvUS0xVn5GjrhoFVHoZ3ASLgSKaCn5k1wvfQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=99
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cff19e1e21f7a5b2961cb5b1d3f30078
+X-Etags-2: cff19e1e21f7a5b2961cb5b1d3f30078
+
+{"title":"Blakeley State Park Blog | INCIDENT OF WAR A LETTER TO PRESIDENT HARDING FROM CHARLES HALL OF BLAKELEY, ALABAMA","url":"https://www.blakeleypark.com/Blog/Blog-Detail/incident-of-war-a-letter-to-president-harding-from-charles-hall-of-blakeley-alabama","image":"https://www.blakeleypark.com/Portals/blakeley/blogimages/290.jpg?ver=2020-07-23-123243-067","charset":"utf-8"}

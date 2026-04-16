@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a14e8aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Xstf8NF%2BskimCDjYgMYHqkWU0E%2FwkwsikgBgM97W1aUemjO033rDD4gfE3RnHddA2Zga5iOYw0zwgmjMW%2BGi0vBZ4ICiBMX0%2BL2FGF09hRelnxbUL39mHZ6qTwZm5WGKzEHYUrO1Hltq2woWEW6bilh9cQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 638cd0aee026196d3143f4f1fdfa4d6e
+X-Etags-2: 638cd0aee026196d3143f4f1fdfa4d6e
+
+{"title":"Airport Attorney Objects To Private Meeting","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2022/02/airport-attorney-objects-to-private.html","image":"https://blogger.googleusercontent.com/img/a/AVvXsEisRxwJy62dL0FxeOT7I_9vv4XX0GNedD_GuRXfDZ0BCk-Iu0ub-xYA1RGj1T34V3Il7CBtSIqWbruStLXsJQ4F21izpX-LLfUxXfV8Q7YEap6nNYM9qK__Ckc82iubfiXBG26DgEWtkC5GXqWch1sjwuy7hALKFQHVzcZdVn0wNb65DVXF0Pn_J6lv=w1200-h630-p-k-no-nu","charset":"UTF-8"}

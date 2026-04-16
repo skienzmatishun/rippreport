@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407a8ca4a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1ynXBufqAe3xcktfjCQsNT301RCDcNawo9IPdpidC3a34yb0OKpHFWkuFMTx9kiq0G4tGPRlXM4jcY%2BTRHM3vm%2B1LNkvTAFxps5cr2rZ%2BklC%2FAZESgI6sjAf5mI7gY52c3YGR47R7J9hJvL1sT4tXSKRpA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=88
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 217b09194e8569e8548fdd13c515b51e
+X-Etags-2: 217b09194e8569e8548fdd13c515b51e
+
+{"title":"THE FAIRHOPE JESTER - Ripp Report","description":"Wake up Fairhope, and Baldwin County, pay attention to what your local municipal government is telling you during the corona virus pandemic.\nFairhope …","url":"https://rippreport.com/p/the-fairhope-jester/","image":"https://rippreport.com/img/the-jester.jpg","charset":"utf-8"}

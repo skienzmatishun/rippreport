@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640cf4990a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=eblZI6E2XTXQNta07fzYruKaK04VpSA72jLOovQWcv1gvYSHtAXd5bgYiyzc7W4CyBhghDR8N4MFZzfZuIdSwvjOSSY%2By41vn0%2B2CT8MsrNjDPNLTE7flqsSDistzqxuvLupGXuVNVuhV8k4lhHCoZIcOQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cfd6459b0e73bcf7d21dafabdb4700ed
+X-Etags-2: cfd6459b0e73bcf7d21dafabdb4700ed
+
+{"title":"Tracking software installed on 7 Fairhope employees' computers - Gulf Coast Media","description":"Software that tracks employee computer usage and key strokes was placed on the computers of at least seven City of Fairhope employees, allegedly at the direction of Mayor Karin Wilson. Those  …","url":"https://gulfcoastmedia.com/the-courier/stories/tracking-software-installed-on-7-fairhope-employees-computers,50355","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1470163322_577e.jpg","charset":"utf-8"}

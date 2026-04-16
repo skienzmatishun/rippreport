@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64062ba9fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9eMwCwqOTCgmQy%2FSS6JGaAhsHl0lVZmRNwwsGC0GILvUcC7gc7g0PWT3n3ZDBbPew7ILundCp16DW40iLzTO7iMc8JAxrch2yuI%2FAN2FjTGYjlH7%2BiyK916x0nb6qaBesOZMl67yX97THxtMOy5E8KKxow%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=69
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 02acff706371248a2b48dd32fd4a0f52
+X-Etags-2: 02acff706371248a2b48dd32fd4a0f52
+
+{"title":"Latest Wastewater Treatment Upgrade Proposal Expensive","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2023/02/latest-wastewater-treatment-upgrade.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtixBJLUOCo5lYpKgkFq4KwODudpgo1ElAg_WeBicLQc6SbXuFQS4wa3ll_UG5bVcK7kshNd-5Y9zRvDfganIpBQQzBLXoR9FoxQ7QqiS-9XPT4y-zjc_krxz7ENH9W9jLGCnA0wqnAx2NyP7obapNZ5HhF4e4cLPulokd_tu9seF-gvJR9laIHneQ/w1200-h630-p-k-no-nu/headworks%20copy.jpeg","charset":"utf-8"}

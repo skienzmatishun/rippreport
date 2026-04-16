@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b7ffd1a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bqN0Plpxav%2F8rnlImIRtcdF9ZvLtCDA%2FCOpNrrOxALDsGQiegOV9C21eSTFSyWdi6aAy%2Fe%2BOdO8iUO4hJ99trw%2BbbNAtOPSKO4KqEOaPsnrIEaFl88%2FDa9T8vAJo6Qnv8swzwC%2BXpjW0%2FcGEKMv7wZ0rqw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4d1429b24554bd2693052e42f98d6c63
+X-Etags-2: 4d1429b24554bd2693052e42f98d6c63
+
+{"title":"Baldwin County Commissioner charged with DUI in Fairhope","description":"Baldwin County Commissioner Chris Elliott was charged with driving under the influence after leaving an event Friday in Fairhope.","url":"https://www.al.com/news/mobile/2016/05/baldwin_county_commissioner_ch.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Fchris-elliott-galleryjpg-f1ffd85e6c65faaa.jpg?auth=38b6e9615d0b35e5acf80e2d97cdf5b32d9e5cdd13cf24b3cd80008a125cf436&width=1280&quality=90","charset":"utf-8"}

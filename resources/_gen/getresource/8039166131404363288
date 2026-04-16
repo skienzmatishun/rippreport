@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640653a5ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zXyefX5MMtA3np5LKuprM7dmk2hx3zxhiwbXy7gxIlV6TBUxJypVWc6cbEoarOOLnyfcRG47iofD%2BrrCjsnqjWXoYaLaxHt26GpFV6Kp9vuzL6jLEJyeOMzWdU55hySwHs6fZS20m%2BJqMtGSMnxup5oebA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 476d9c1c8851e2375e557c5e3783b5b4
+X-Etags-2: 476d9c1c8851e2375e557c5e3783b5b4
+
+{"title":"COVER UP - Ripp Report","description":"The Ripp Report received a copy of a letter from Mayor Bob Wills to Tamara French, O.J.’s older sister, in reference to Mr. O.J. French who was killed …","url":"https://rippreport.com/p/cover-up/","image":"https://rippreport.com/img/bob-wills.jpg","charset":"utf-8"}

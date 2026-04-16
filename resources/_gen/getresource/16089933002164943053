@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640518f11a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zvIvqdpFnrZTcK4%2ByLAidHgoDFDRNApyX0pbvRUGluTBiuMQH8IA8lys%2B03iDKYDz65Pt6SA%2B6DpooFlJKGBGQHpNeCCsR2HwtnpJPCo6YoiauDJAHKnrSK5FQCCjDkBaN68Q1fZtL0IGkeWQh%2F1292zKg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=91
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4e7da8545ee0658ce6f6300765f2142a
+X-Etags-2: 4e7da8545ee0658ce6f6300765f2142a
+
+{"title":"CATALYST JUDGES - Ripp Report","description":"Alabama has a proud legal system ripe with attorneys who plan a career as a judge. In Baldwin and Mobile Counties, there is a specified gateway to the …","url":"https://rippreport.com/p/catalyst-judges/","image":"https://rippreport.com/img/catalyst-judges.jpg","charset":"utf-8"}

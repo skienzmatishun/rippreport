@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a4fa2ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=p4ISyABBSk%2B42Lj4d8NIcry12emoQcu6yqk2hl6juQzDEFjvXJUS1AvAu1oV98grsRFIls8fIyxyAyY9HbLmLJU0aseB6mUA9mONtQlhQQyWpOvqKeOjZfuBEzPzy9Dz2JxxbSjWjMbi%2BlA5t71U9FgJPw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=100
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6844adb6b5c978bb31806cd282d35168
+X-Etags-2: 6844adb6b5c978bb31806cd282d35168
+
+{"title":"Opinion | And the band plays on ….","description":"“Transparency” is a rather fluid concept in Alabama, writes columnist Rob Holbert.","url":"https://www.lagniappemobile.com/opinion/and-the-band-plays-on/article_792fbeac-5727-11ee-aaae-1fd2590b9fde.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/6/a2/6a2d06ca-5944-11ee-a2ae-0bfbe5b023d7/650d8a1adf21e.image.jpg?crop=750%2C394%2C0%2C53&resize=750%2C394&order=crop%2Cresize","charset":"utf-8"}

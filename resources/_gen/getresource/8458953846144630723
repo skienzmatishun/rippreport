@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c8fd57a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uFZbOUm0r9ssdNS1pCVWqHHiCAaXR3XEllkRwXxZ9bW12mJV1YLgW8s%2Fk9tw9gVyTxNaLUo35%2FNSh%2FTbPb8DbL63X93OEtSy6NYpdjiPZtghv008vizl2Z8gQjTTmMlGc4g1U%2F1NZmmoO0OMbzyuiSOZpA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9f15a485b928dbbe0a8c85e584220dff
+X-Etags-2: 9f15a485b928dbbe0a8c85e584220dff
+
+{"title":"$90 monthly pass highlights latest toll plan for I-10 Mobile River Bridge project","description":"The Alabama Department of Transportation, as part of its financing package for the new I-10 Mobile River Bridge and Bayway project, is pitching a frequent user toll plan that is a $90 monthly pass.","url":"https://www.al.com/news/mobile/2019/07/90-monthly-pass-highlights-latest-toll-plan-for-i-10-mobile-river-bridge-project.html","image":"https://www.al.com/resizer/v2/DL4ZICEHQJGUPMQBKUZA2F4Y7M.png?auth=3afe18464fc7fb62247f6e8ff26caa71dfd2c60ff2ca260bcec93a2f94d91015&width=1280&quality=90","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404c7811a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=v9heULV1yf%2B4dKGUZ%2BuByBJoxSLUIbJXNhgbTlPphhdPsTBR9TE32lbis8KX32nWpIlRDpS%2Bmq9%2FdAS3QEY4R5ivyso2tjTd0LbFoL%2FB5L%2B9LL2hHRY3j6y7DYbfGq2kMk%2FfzKcldeVqpI2kdEnRdGf87g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9c90c60ddf1bfbc96651db4836297bda
+X-Etags-2: 9c90c60ddf1bfbc96651db4836297bda
+
+{"title":"FLYING HIGH - Ripp Report","description":"Well after a few weeks rest from Chucky Cheese and his creative articles, gleamed from information provided by Mr Jack Burrell, Catalyst and Robert …","url":"https://rippreport.com/p/flying-high/","image":"https://rippreport.com/img/flying-high.jpg","charset":"utf-8"}

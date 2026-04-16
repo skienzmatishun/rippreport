@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640594e3aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oGIgsptLNiS%2B2tCUAuPVXRSDdi%2BFIzucyCBeOQeXuMqwMODjutN9uLRV0kTJkzlkvQtywrbbY52UXspv%2F%2F0gMNE5R5vMHFkklyHb4uWZuAAAWmCFOesoWy0965FyRuK65pfYa3GFS3HKGcx0cjERkEr5xw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4f15ef71ba4a142f52cee8aca23f0133
+X-Etags-2: 4f15ef71ba4a142f52cee8aca23f0133
+
+{"title":"GRINDER PUMPS - Ripp Report","description":"Grinder pumps exist all over Baldwin County and a large percentage of them are installed unnecessarily.\nDevelopers love them because it saves them …","url":"https://rippreport.com/p/grinder-pumps/","image":"https://rippreport.com/img/grinder-pumps.jpg","charset":"utf-8"}

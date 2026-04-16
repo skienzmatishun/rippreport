@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405afb30a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4ijkbdDcSozGp1O26Y3nQipF0g7Fecm%2BmjCAQBRNWE%2B77pjJT8wIVNO1l2MCd8f74NLXRllPQNWV%2FK7DLw49kC%2Bh4i9qfW06uwX0AqC%2FylSrXE999%2BxpmMVF5aAmTDzzeJo468sKtwN2I0UYWAtNrxpIvg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=89
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 1da67a59f5bc08d934ef4131bcda0e96
+X-Etags-2: 1da67a59f5bc08d934ef4131bcda0e96
+
+{"title":"Airport Authority Selects New Leadership","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2015/08/airport-authority-selects-new-leadership.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAsK5vJFvA640yeBj7PxM26k8WFm2Skhc2HzDQJXo816kz4dJnT0agIK3KbyYjIAhDuCKZWgUSNcKffY-9SQIIFmvO8dbZQPw8JRp_OaFaKrD4MP1eE2LdLvQFH7GMaGKpwnbCunl_FOQ/w1200-h630-p-k-no-nu/airport+august.jpg","charset":"utf-8"}

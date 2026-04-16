@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a10ddea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VpGy9Ej2KzIeaqhcO5aJ2MKgWck1Xha1UO6Rdy5aaEhDqA%2FhNI4OlcFeU6pQyTABRBc9E2L8estP7kjtcNyorKsE9Io8IWm%2FOAu%2BpWPnIyQ7hghCZDCFHRGyd4%2BM1VbU8MmVRVlrnzmaQaDrAGQHNI2Bnw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5f2620c2eeda319d1f965e301155d7e0
+X-Etags-2: 5f2620c2eeda319d1f965e301155d7e0
+
+{"title":"Island resident questioned on the murder of Gregory Faull - The San Pedro Sun","description":"FBI brought in Amy Herbert for questioning on the November 2012 murder of Gregory Faull. In a wrongful death lawsuit against John McAfee, Herbert, his former girlfriend, was named as a possible agent in Faull's killing.","url":"https://www.sanpedrosun.com/crime-and-violence/2016/02/12/fbi-arrests-amy-herbert-for-murder-of-gregory-faull/","image":"https://cdn.sanpedrosun.com/wp-content/uploads/2012/11/Greg-Faull.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640859864a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=J9CxpMeYfIdVc5fWiN8i19nnhsWPibFKWhd3OHjU%2Bjw5F8o6SKpS6%2BUkyQ7DqPdiiqveeeSPlsmyuid7njSexBkHfOPvqfIBbINlL4QfDdF2W2LDq4wAWvDa%2F8bIYKGH%2BAQaAbIlRaxWj9Uz37nr3aY6fA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a73c6f5aeddc5adc12c04c4c9277297a
+X-Etags-2: a73c6f5aeddc5adc12c04c4c9277297a
+
+{"title":"City Council Place Five Campaign Contributions","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2016/08/city-council-place-five-campaign.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2_HQGFPosL8qXRSzXNrYslRrk-VzA2RcOoQ03iYKZGpmzfuyPFWOGSQWhJ_VToWK8DnRYOE35YxACNQNHzEOfomn3H-WUoecibVt_pozjXgxPqsbFPOSLlivc6Ia6MbG19kXAiXmoHN0/w1200-h630-p-k-no-nu/IMG_0283.JPG","charset":"utf-8"}

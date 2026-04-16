@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640afff07a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jzv9OoYyH60%2F6%2B3vzYJ0O8H6X%2BnjkNaBNngKZDoTqS2hKaRoCNy%2BLVWwOaCxJizngv3FKpz3R%2Fulotyltef1WjbTgvkkfBeLc%2FilcS%2BNO%2FCSNwSWPSFHbbEgUCua4WUBofQ1zYUvOe3WnWAAFbsd%2FlUClg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=99
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c99e92cdbcdfa12c72e43e3c1efb6734
+X-Etags-2: c99e92cdbcdfa12c72e43e3c1efb6734
+
+{"title":"Dorsey says votes have nothing to do with business relationships","description":"Baldwin County Commissioner Tucker Dorsey says the labyrinth of business entities surrounding him and his part-time employer are simply a method of reducing liabilities or the vestiges of old property","url":"https://www.lagniappemobile.com/news/local/dorsey-says-votes-have-nothing-to-do-with-business-relationships/article_aa9681d6-63ff-59df-b181-684140ea1818.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/3/63/363f47dd-87fb-566e-a485-0acab2fa41b6/630eb8f90c7c5.image.jpg?crop=225%2C225%2C37%2C0&resize=200%2C200&order=crop%2Cresize","charset":"utf-8"}

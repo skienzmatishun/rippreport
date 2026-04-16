@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407acd68a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=r83qZBptA3O6K1qc%2FzObyOpseJS6C5fmO8OpMeFKsNwVMtD8BPeuJ6TPrPGtdqhgmNWQWZFCjN5BihdoYVwfRn2hO7yTlaimuqO9v7B3IyMVSX9w4VF7v3XxZEjQsUSumeju9ubibUYNTCIKtjlQgfn3Mg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 63dba89faa453fef332fa7ba9849e4dc
+X-Etags-2: 63dba89faa453fef332fa7ba9849e4dc
+
+{"title":"Gas tax hike could fuel ship channel enlargement in Mobile ","description":"Within Alabama Gov. Kay Ivey's Rebuild Alabama plan is a dedication of state funds for a nearly $400 million ship channel widening.","url":"https://www.al.com/news/2019/03/gas-tax-hike-could-fuel-ship-channel-enlargement-in-mobile.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FXTZNE5UJ2VGZFNWRK6QGSVLVZE.JPG?auth=d362e4ee96bbad6ebc293dd3887c98071a48ae91d372341e46a597c773673461&width=1280&quality=90","charset":"utf-8"}

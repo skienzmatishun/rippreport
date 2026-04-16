@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ff8cff0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:13 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7bfm7Z%2Fg58iqcSUk6MO%2BMvxO9ZQOUHiUeRRMMfKO6XrOQl4l19sV6LJ60Cg4QbomPHN9En0mKvaG1aVXs7VBmyOp9QSNlY1%2FSA8%2FrxSL7PI%2FsoAWApqIxpH4bWl3jSp2QubnQXHn6rkcko3feInFzsHnzQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 32585f93782b7e84297e07e2654d2074
+X-Etags-2: 32585f93782b7e84297e07e2654d2074
+
+{"title":"ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE? - Ripp Report","description":"This telling photo is the core group of Elliott Stacy and Haygood, from a few years ago, a political group that represents the “machine”, they are the …","url":"https://rippreport.com/p/elliott-stacy-haygood-catalyst-who-is-in-the-picture/","image":"https://rippreport.com/img/elliott-stacy-haygood-catalyst-who-is-in-the-picture.jpg","charset":"utf-8"}

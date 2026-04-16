@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64099f814a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NgZjcD6zI6dtMz4ST9VgGC3wc1G6X11g2hyQyrDtEJ5NR%2F9%2FCjnQz7wa2WOPt7o5n3yruGDZROnjZoSxH3%2BCuMvtUyByuRzc5hQnKIGPNj%2BLHicWQPSLVzH0POhPAqjo8orokU9lJUPiSiebYINCxnWZYA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8aa635f39c1a26ce258452f22cb3e86d
+X-Etags-2: 8aa635f39c1a26ce258452f22cb3e86d
+
+{"title":"GET OUT OF JAIL CARD - Ripp Report","description":"Here are “some examples” of how a Baldwin County, Get Out of Jail Card, has helped, mostly politicians, AVOID any transparency or accountability.\n“I …","url":"https://rippreport.com/p/get-out-of-jail-card/","image":"https://rippreport.com//img/get-out-of-jail-card.jpg","charset":"utf-8"}

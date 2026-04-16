@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64094bfbfa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LA32fEEN1AKnRjAUXRsbSJ7Fmp9qXKwVIRLDI15i4rajj2wm0slozzpWRky1GBWlnVK0Tu6YM%2FCi6FGNjWYEvFBu83R7iQJvW1i%2BamuM7szrQtodbVeo%2FFv4NZEXY5OWN2UKh49zz7kiZI4znRINN%2F0ilA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=71
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 01d453f065332ff458e1191e4acfe3f4
+X-Etags-2: 01d453f065332ff458e1191e4acfe3f4
+
+{"title":"OPPOSITION / OBSTRUCTION - Ripp Report","description":"Fairhope should now begin to see the writing on the wall. The Fairhope City Council is voting as a unit and the council president, Jack Burrell, is …","url":"https://rippreport.com/p/opposition-obstruction/","image":"https://rippreport.com/img/opposition-obstruction.jpg","charset":"utf-8"}

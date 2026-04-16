@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c31a38a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zE72Po%2F35LOtnvJ%2BTT2SVCTSNhiGyhf8ZLelsJNHSXW3Ye4zwhDFjXkf%2BOrRdOaD3Y4VQLU0KzI6u9slTU0wCuJDT7Zbu07WSb0svY2gnQJFsYeLk39m3qzc2uXIvnf%2B7A5ZDSGI1vz%2BM2RZD3CZGu%2B3dQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f96d53b35e5ed0107a3c13ac22917bf9
+X-Etags-2: f96d53b35e5ed0107a3c13ac22917bf9
+
+{"title":"BIG News for the Future of Mobile Bay!","description":"The City of Fairhope is proud to support bipartisan legislation Water Quality Grant Program Bill introduced this week by  Senator Doug Jones to create a new water quality grant program to increase …","url":"https://web.archive.org/web/20200809195606/http://mayorkarinwilson.com/great-news-for-the-future-of-mobile-bay/","image":"https://web.archive.org/web/20200809195606im_/http://mayorkarinwilson.com/wp-content/uploads/2019/11/FUTURE-HEALTH-OF-MOBILE-BAY-6.jpg","charset":"utf-8"}

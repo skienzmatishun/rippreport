@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c5cadda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=i07zkWHTHUIaAnmE0LA30qCUKu%2FmoG2%2FYQ2NrHNe%2FLOP6dHfIgTPsX7%2B5a9yI3yMbCx2Qj1OtFKVJbKyQpQV28J9HyXKM5BdkJddy2xoJSSuL8eQbKuCQz75PN%2BFGYG4vrioytbO1o6grWbOb3FZpCGzPQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=96
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 502ab9873ba34a61726456c989be5351
+X-Etags-2: 502ab9873ba34a61726456c989be5351
+
+{"title":"INVITATION - Ripp Report","description":"Fairhope Mayor Wilson is inviting the citizens of Fairhope, again, to participate in the next upcoming presentation of the Waterfront project.\n“Wilson …","url":"https://rippreport.com/p/invitation/","image":"https://rippreport.com/img/invitation.png","charset":"utf-8"}

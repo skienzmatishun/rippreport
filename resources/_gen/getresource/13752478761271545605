@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d73a9ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:49 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YYlZTnK9jIcu1aIEQdOoJqYceX4nVSDUAeyjIeZGM1xwV6ZyZ%2BdfdySc%2F5H3g6BRR9cbgDxylNYNcnmYIUr1uuwXg3CAjKz5xfI%2FFcFbCV%2B2xAerP%2BlNPw%2FM2xbI7u7OjIM8H8X79IqGW5yPggu01GkrTg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 425f7c1d4f0150785c92b0dc9fa60119
+X-Etags-2: 425f7c1d4f0150785c92b0dc9fa60119
+
+{"title":"Fairhope Mayor Sherry Sullivan: I-10 Mobile River truck bridge proposal 'a starting point' - Expects new bridge will have 'a small toll' - Yellowhammer News","description":"While traffic is at a standstill on Interstate 10 between the Wallace Tunnel and Spanish Fort, there has been some slight movement on a new I-10 bridge between the points on opposite sides of the Mobile Bay. One proposal that has been offered by officials is a route that would include a truck bridge. During […]","url":"https://yellowhammernews.com/fairhope-mayor-sherry-sullivan-i-10-mobile-river-truck-bridge-proposal-a-starting-point-expects-new-bridge-will-have-a-small-toll/","image":"https://yellowhammernews.com/wp-content/uploads/2021/06/Sullivan.jpg","charset":"utf-8"}

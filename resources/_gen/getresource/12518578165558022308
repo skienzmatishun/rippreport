@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640537ceaa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QYkIiFX1nC4pLHdW6k%2BfTdAZ7S95yFoChrzGiAdHA1KHRW67S0xPChuf7e7yTduAEcX4hKWoRHw3r6BOILe2waiCzt%2FO00%2FWAJbz%2Fivv32VuFhE8g1zPmsn%2B5WxK%2Fw%2F9t3hcRn0nV%2BfQPkkCwjE16Z7nKg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 40bf5cb3289abb824c54cfebc64a313a
+X-Etags-2: 40bf5cb3289abb824c54cfebc64a313a
+
+{"title":"Opinion | Politicians didn't corrupt Alabama's government. You did.","description":"Would it have been so bad to elect a few Democrats in Alabama last year? Before you answer -- before your tribalism shines through and you pull on the","url":"https://www.alreporter.com/2019/04/30/opinion-politicians-didnt-corrupt-alabamas-government-you-did/","image":"https://www.alreporter.com/wp-content/uploads/2019/04/AdobeStock_46159533-e1556107435185.jpeg","charset":"utf-8"}

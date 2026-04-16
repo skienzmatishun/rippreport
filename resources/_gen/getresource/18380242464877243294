@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64055fc5aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=EUkMuCwZS5vVr5WMN7XF7AX6fG7yzlOTdIJX99StJMe270gNdZ%2BXRg83vEi5h5dXVzq736sxgf6CQRFQCMMSbS0Ts9CWLt5RBFt29YJ57Wr3eaZouyWm9gOmG%2FtwNat2AQUxDVd%2BZHKjzaYNDaMAYBHGkw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=95
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b0389ac7d156330620cfe91af09c3d9a
+X-Etags-2: b0389ac7d156330620cfe91af09c3d9a
+
+{"title":"State senator says his bill improves Alabama ethics law (it doesn’t)","description":"Greg Albritton says this isn't about freebies for lawmakers (it is)","url":"https://www.al.com/news/2019/04/state-senator-says-his-bill-improves-alabama-ethics-law-it-doesnt.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FPYEBT6BZEJGGLC2SNSDMUN5BUQ.jpg?auth=177da5dbeb4a71ce42d6b9e0f7e6be66dce2d3ae92beacee17f37bffbac1e701&width=1280&quality=90","charset":"utf-8"}

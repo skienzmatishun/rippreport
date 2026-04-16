@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406d2ab3a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9Cc3lc%2FKR98RjQKlT8hRUwD35g7YERGUKjghIku%2BmMElc%2FDStyVDoINy4dSw5idXcaUe3cEQW9o6IVTHJeCkivxEGgYzIq9lddWgWDKTbQCbfEd3v05zhyqowPw0TVCThn7i4rt2%2FE%2B%2Bk0Q%2FnK9OYKwe6A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4851edf69a875e12e314002add415455
+X-Etags-2: 4851edf69a875e12e314002add415455
+
+{"title":"Chief of staff for Mobile Mayor Sandy Stimpson resigns","description":"Mobile Mayor Sandy Stimpson has announced that he has accepted the resignation of his Chief of Staff Colby Cooper. \n\nCooper sent out a tweet Thursday afternoon confirming the announcement as well.","url":"https://www.al.com/news/mobile/2016/12/colby_cooper_of_mobile_mayor_s.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Fcolby-cooperjpg-a22291dc8ac33153.jpg?auth=89b8abf0e77965e16fca3a070188ad36f9f3db4c4df96115e59bb2c2516c377b&width=1280&quality=90","charset":"utf-8"}

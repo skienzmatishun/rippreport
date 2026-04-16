@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d7cbf8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:49 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DU2owKX%2BCa2MIi6KR1iBXfCMVGAHY3eYvkKLD6H9VkFwYqC3XfdIeVm3x9ORWH%2BIc0551wo%2BzvY2yKakAUJstfKaSZQTjE6IbS26bm%2BfedR%2Bk7uS9C8vi4KglqTfEf1s7QRHwconZBNeEU5j4%2BBEIQz%2F%2BQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=92
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ff6912975dcb269176ad052897ffc72f
+X-Etags-2: ff6912975dcb269176ad052897ffc72f
+
+{"title":"CATALYST BULLIES - Ripp Report","description":"Fairhope pay attention: The last four years, Mayor Karin Wilson has been standing up to bullies with special interests that do not align with citizens …","url":"https://rippreport.com/p/catalyst-bullies/","image":"https://rippreport.com/img/catalyst-bullies.png","charset":"utf-8"}

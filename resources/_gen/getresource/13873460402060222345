@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408b5b05a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4CHW%2Bo6bANxoS8XSZIGYr%2FAH%2Fi9sxi9KGoHNiDY0FzTq6ZijI3LDJn2xUI%2F1c%2BDKh3JW2eazZx%2BwXoPzpVWftjIioRk29WPxCkl%2FQ0Nfzod8kmVlbBs8qoXj2tBgr4U2bBKwz1KI%2Fp%2B516Ss7hZbakqJeA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0cdcb52b24eb7141cb0ee3adb3b0d25d
+X-Etags-2: 0cdcb52b24eb7141cb0ee3adb3b0d25d
+
+{"title":"NO RADAR - Ripp Report","description":"One thing you can say about Fairhope City Council, is that they are consistent. Council President Jack Burrell, who has stained the seat as President …","url":"https://rippreport.com/p/no-radar/","image":"https://rippreport.com/img/no-radar.png","charset":"utf-8"}

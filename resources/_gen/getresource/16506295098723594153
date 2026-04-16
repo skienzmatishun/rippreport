@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64083999aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Bgj%2FFVGHEPDByVjMkBvd%2B1pqU8Nsyl61BBT9StbUMSz4%2B8Ii44Clu6EWLkKec1Ksg%2BoZEWCm4zvlCRWcaXtBpcM2VaTKsM1nLP4hoOYb5ICLlH459cOva%2FR5OlJV2JAqhzSeBNFy2VPuqP%2BonQCRkobEaw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 012ee31bf4509425dbac58cfe7e09292
+X-Etags-2: 012ee31bf4509425dbac58cfe7e09292
+
+{"title":"\n      Justice For Murray Lawrence Fundraiser \n    ","url":"https://www.spotfund.com/story/f2814173-6d70-4515-9b20-1a6900b30f97","charset":"utf-8"}

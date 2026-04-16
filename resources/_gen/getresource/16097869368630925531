@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407daeada8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=U%2BQDQhIRoGX2WGOL7T8p%2BLH8biL4GKm3ByR1MnXNdZZj5IEZpEmdctN7G7MwMlfiFggIorFZM5ELYOhnPH%2F4TRvPJZBzqLLOqKBd3jsbGRnJ0SmK%2BvdtQoXaOK5FFNCH6POxA7C8hptY8MIbcGf9JwKSyw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=69
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4511d5bac2db9a4d368a26c5f9d0f42b
+X-Etags-2: 4511d5bac2db9a4d368a26c5f9d0f42b
+
+{"title":"Giant boat ramp project triggers political brawl","description":"Ahead of the June 5 primaries, politicians in Orange Beach and Baldwin County are butting heads over a potential $10 million beach ramp project. Some of the politicians are squaring off against each other next month. ","url":"https://www.al.com/news/mobile/2018/05/fake_fraud_flat_out_lie_giant.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Fboatramppng-150f9b4c9e719648.png?auth=9dfaa2d6d7c9cfb0eb9736d7c5a718f95e740c07a20bb3a2769df7df6dae4623&width=1280&quality=90","charset":"utf-8"}

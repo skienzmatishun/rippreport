@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640447847a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cHMGRTqiEDmiQYnjonZbu59dwlbVRStnhoYEARrmXYsZTi%2BOcJfpZe%2BIjTt2LkHUfkluGjG9yMLCFYg8sk8rHBIDEDBmrs%2BVBFTm08mgd7p4q%2FKuEaz01famv0BepEBcsZRH8qgyvFudD7JHxo5N%2FgmYVw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9db048a8153cbaf3d1071ff7fd44ac98
+X-Etags-2: 9db048a8153cbaf3d1071ff7fd44ac98
+
+{"title":"Rep. Randy Davis ends candidacy for Baldwin County Probate Judge - Gulf Coast Media","description":"State Rep. Randy Davis (R-Daphne) announced on Friday that he is ending his candidacy for the office of Baldwin County Probate Judge and will, instead, consider other options to continue his  &hellip;","url":"https://gulfcoastmedia.com/stories/rep-randy-davis-ends-candidacy-for-baldwin-county-probate-judge,55417","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1468594333_911b.jpg","charset":"utf-8"}

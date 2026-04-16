@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405c7fcba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BaGMlxmc0xMb6lmWN%2F2c2HwAw16MJwX6jxydYO6BFq9vbsos4M%2Fc5w%2BDFQ5pcC9gvkGevsokN2vaM87X6bf6l0lwvBPE1nVi9klDSx%2BGyMACeXUQELImmhLyZPmJzS2gO6%2F%2Fjv22lWEoTuPUGrZd%2F6NLYg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5e446100fda41854bf76049caf84cba7
+X-Etags-2: 5e446100fda41854bf76049caf84cba7
+
+{"title":"Alabama prison horrors show need for federal interventions to safeguard inmates","description":"When local officials fail to protect constitutional rights, the federal government must. Barr needs to return to consent decrees Sessions avoided.","url":"https://www.usatoday.com/story/opinion/policing/spotlight/2019/04/11/alabama-prison-horrors-need-federal-solution/3439193002/","image":"https://www.usatoday.com/gcdn/presto/2019/04/11/USAT/87575d37-2f66-4f1b-b1e1-b45e5132388d-AP_Alabama_Prisons.JPG?crop=5183,2915,x0,y0&width=3200&height=1800&format=pjpg&auto=webp","charset":"utf-8"}

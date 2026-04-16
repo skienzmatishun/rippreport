@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64005de6ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:15 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fUDeIp3qQj8yy7qJyCJW%2Bv8bR4EKLzjOnLO3uVZpC4g0UxwqzKdzfntE%2BCnWvzLXDcLizatNp8kxu0mr0S5afjiDzAM0eRrXChac6M8MMvc19mOLbUXJsZt3%2F0owqXqg%2BcCyr%2FLEvxZ%2BRxZ25RIBEyApCw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=101
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9c58e4a45f66208802d8a1aca2d0938b
+X-Etags-2: 9c58e4a45f66208802d8a1aca2d0938b
+
+{"title":"Who’s Chris Elliott trying to fool?","description":"In terms of sheer political theater, watching Baldwin County Commissioner Chris “I Have Sinned” Elliott trying to fool voters into believing he hasn’t attempted to use political clout to keep","url":"https://www.lagniappemobile.com/opinion/columnists/dtt/who-s-chris-elliott-trying-to-fool/article_ee06d736-a8e8-54f0-afb1-e0ddde360a09.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/b/53/b5395e7e-804e-531f-b153-0d3ba858fef7/630ebc0bdf119.image.jpg?crop=1625%2C853%2C0%2C1&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

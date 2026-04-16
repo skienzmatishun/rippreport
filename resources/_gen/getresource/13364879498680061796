@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640643f1fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9EXQjoWdcxuAXaXCowX4RfqdS6glgTknqWoUpknn5sS5zEUgmouqtGtnQiCb%2B7sLh2FiNEtc%2BC3fetFHV9NZWbyO5zYzYO3mUZw6kNdx0lRfcFDrA%2Bbc8F3Vcrjwc4huft3HfPDfolc43%2BU0x35sHsUZzQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 583ff5f03315173b0ddb1b9f66f34015
+X-Etags-2: 583ff5f03315173b0ddb1b9f66f34015
+
+{"title":"Archibald: It's the end of an era in corruption fighting","description":"Matt Hart, who has prosecuted many of Alabama's biggest corruption cases, is unemployed.","url":"https://www.al.com/news/2018/11/the-end-of-an-era-alabamas-top-corruption-fighter-is-out.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FD5PVDDNGFJHIRC55X4ZTQ7K4BY.jpg?auth=70d17c51078580752b597be684cde8c857f10db636d976850a8957a6fe6cb230&width=1280&quality=90","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405eff8ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WQYeeWF9OKINk2aGqzdJ3B%2FtGIzDlQExyhUzZ7QE1N5PqnMlpI14pMl0VxGqsWYAguHQjfnNKLqhWMnEwHU6U70wyh%2FaJ4uXTxjP29Go9v0cLju4puK1ypB0Aiatolq1%2FYXEE8k1V856YWgH2psjgMCMmA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5ee711eb298936f8870c9a3bdda90998
+X-Etags-2: 5ee711eb298936f8870c9a3bdda90998
+
+{"title":"WHERE IS THE MEDIA?","description":"Alabama is the most corrupt state in the United States and the Alabama Ethics Commission Director, Tom Albritton, is doing his best for Alabama to remain the most corrupt. The Alabama Ethics Commission resembles a criminal enterprise.\nIf you are news media, why are you not reporting the actions of the Ethics Commission’s Director?\nOr the actions of Regions Bank?\nPlease read the first article, by Rob Holbert, Editor of Lagniappe, who broke the story.","url":"https://rippreport.com/p/where-is-the-media/","image":"https://rippreport.com/img/where-is-the-media.png","charset":"utf-8"}

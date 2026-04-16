@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405a799fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=onBDpXd2zO%2BnDtZrdl7G3w9OQkiV%2BrBbxvsuyWBBmbYMMEiZ9TidczHQGLYpeBbloP1ERjjVrbNKLskCKYeLLD7GmGHWws7NC1IpMnwpUGctFdDSCFZYpVhjqmnElYZacMJYFOE0vEymTwx7MswqMgGrhw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 162010c68623fb003effa5ffbe5d7597
+X-Etags-2: 162010c68623fb003effa5ffbe5d7597
+
+{"title":"Baldwin County Sheriff Forum Recap: Lowery vs. McKenzie","description":"By Whitney Scapecchi | Southern Freedom Press ","url":"https://watchsfs.com/f/baldwin-county-sheriff-forum-recap-lowery-vs-mckenzie","image":"https://img1.wsimg.com/isteam/ip/8576b4a5-5cf6-4b99-8c2e-5aadda70e017/4BBCD2B6-F1B7-4331-9582-9AEE238F837B.png","charset":"utf-8"}

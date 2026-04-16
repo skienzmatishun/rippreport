@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d27b76a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lvsVtFv%2Fex2IOk0b91pBJZxf2AkzlP4o2eSgeHmanEnfsdr9f%2B3ztW6ijaf4lC1qrr7r%2FT3JCgJGWcYSsflsgi6e3UYU9Blbt9JXLRsNnf6ELIZBgAkvUhp7j%2BhxVw7mjagKtbjV86UQKEhbGSaPtPWXlw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 580d614cd3a11b973b24c7f869cad93a
+X-Etags-2: 580d614cd3a11b973b24c7f869cad93a
+
+{"title":"CATALYST CANDIDATES - Ripp Report","description":"Qualifications for Mid Term elections are over and now it is a race to the primary June 9 2018.\nQUALIFICATION Mid Term Elections are upon us, …","url":"https://rippreport.com/p/catalyst-candidates/","image":"https://rippreport.com/img/catalyst.jpg","charset":"utf-8"}

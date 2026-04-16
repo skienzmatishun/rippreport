@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bdb945a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=agKi4WBrmqGcaa2lh6aFqMnJ0CM5B58DqX%2BPWZJcokc4I6JDkqEagd%2FFHTOUvdaA42UH2uCjQnb8yd8bGPpPAzYJFjmJY5AdHI8bihFh1n5tUvOyFi54DfnVWrDlOn6ixtH2b82LunkYaaPbQmR%2FhcIqag%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=143
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 08d6ed1ec00d5f539842ff888d853448
+X-Etags-2: 08d6ed1ec00d5f539842ff888d853448
+
+{"title":"MPOs unanimously vote to advance I-10 Mobile River Bridge/Bayway Project","description":"MPOs vote on new I-10 Mobile River Bridge/ Bayway Project.","url":"https://mynbc15.com/news/local/mpos-vote-on-new-i-10-mobile-river-bridge-bayway-project","image":"https://mynbc15.com/resources/media/41dbeef2-35fa-44c4-9101-631f3efc3a4d-large16x9_poster_d9192866778141078f3e718ddc753461.png?1658941919540","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6402cc9aea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WR%2BmBM5Abj8l8bjv5au3cFnnuQRyFKYWKOE4zeBRMaauovoYE2Oio7iXqDBO5vmBL5YSiEGDalNOeaykiajaVpYGl2GLDCPSYfhlmwsSNU%2Ftxxs%2BomKAVQnooJcHAnNPSrgWEXo2rmBFZhYbIZNJlwjyoA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a8d53178de2c6d879f037021322325b5
+X-Etags-2: a8d53178de2c6d879f037021322325b5
+
+{"title":"RAILROADED BY THE LAW - Ripp Report","description":"For years the Ripp Report has been exposing the corruption in Baldwin County and a Sheriff’s Department, that investigates themselves. I hope you have …","url":"https://rippreport.com/p/railroaded-by-the-law/","image":"https://rippreport.com/img/railroaded-by-the-law.jpg","charset":"utf-8"}

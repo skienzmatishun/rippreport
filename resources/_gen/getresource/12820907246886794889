@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640be7b83a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0nMtUN6Kf7j2al7ma1KMwCONqnygcH%2FBbnoPd8E1yC%2BWWYuPrVcPiZnQfcOCqPdL5VOr5i9hClLscAc3nm8zSM6cq4XP%2Br56dDTXJ5OtFrmxjq97sTqldQbCSjxS%2B2oM%2BcRQUvhqBQGzJF%2BnqqBpjQX3GQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b78b8a4433bfb916ba692eb0ce34f573
+X-Etags-2: b78b8a4433bfb916ba692eb0ce34f573
+
+{"title":"Fly Creek Apartments Approved","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2017/09/fly-creek-apartments-approved.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqeTn4k6lqapmgKKQbleuCH-JPoxnbj2RV_Z7Jq1XNtluZc3jBIZ9hmsRn7V75QdFBUInHF7G-hciJF68J8NNfH8xcjOCWDUQA1SlyCIJXuNykEyAR15TnusCc1lnon4Ze1wwoUQaAOG0/w1200-h630-p-k-no-nu/fullsizeoutput_bd.jpeg","charset":"utf-8"}

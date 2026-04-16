@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640570f9ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HJXPR3jjKmvzS56W35GLbqt7KKEmLj2RrAsZbFEnud3GKDrJflW7zx9xiyM12bPTHQGWBpPUzZW4e4Ffe8BuIdhxiV1a8LuEQ8UiMsiyPnBhk7N9hCFT%2BILW1ywj%2B8pKsjixIhfVKCw2zpH54pHTMFMZgg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 62a1b8b3effb6c80f045275cacd36765
+X-Etags-2: 62a1b8b3effb6c80f045275cacd36765
+
+{"title":"Facebookにログイン","description":"Facebookにログインして、友達や家族と写真や近況をシェアしましょう。","url":"https://www.facebook.com/login/web/","charset":"utf-8"}

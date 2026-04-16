@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640694e6aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TcoKXheErltYT7T1N6B7FQQS7nutZMshDM6Io%2FkEdls0Fe5dbV5Fg9kvIEBNfHgnLdqGUq3vr5La7S2kBB%2B6dTnhmlAFwAF9T9vfkfO2E7mbnP7GZCNtl3tBUIEDHC2wamGIJ06wzKKzzcPbSVxtgq7G1w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=99
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5f173457ea7bd501d91fceaf29138ffa
+X-Etags-2: 5f173457ea7bd501d91fceaf29138ffa
+
+{"title":"DOCUMENTS - Ripp Report","description":"Fairhope City Councilman Robert Brown has been defending his contract with the Eastern Shore Art Center since the publication of:\nBLIND LEADING THE …","url":"https://rippreport.com/p/documents/","image":"https://rippreport.com/img/documents.png","charset":"utf-8"}

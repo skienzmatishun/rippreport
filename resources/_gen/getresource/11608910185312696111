@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a15eb4a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=O%2FNhOnwnKbgOSJdyPI5sGeNp1gI4xNdBvznXgdCUyHkGwdMqDGHspVaxY0EHcvhacn2FWMPVMMhwH1%2F2JeIrE69z6FmBq2WvLhzxuiTCr%2BXzSc8q%2BTtj7thFLo21G2n3mGrEvBh4S3%2Batn3f5gPISqVBNg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: fb407ce8c240be0030ee00b69ead727c
+X-Etags-2: fb407ce8c240be0030ee00b69ead727c
+
+{"title":"YOUR RIGHTS YOUR MONEY","description":"Corrupt politicians and elected officials in Alabama have been emboldened by the Alabama Supreme Court and the Ethics Commission’s recent rulings. While citizens of Alabama are distracted by national politics, their own state, keeps sinking deeper into the sewer of corruption.\nTake all the crime in Baldwin County and the money stolen as a result of crime, add it together and it does not even come close to the amount of money that white collar crime and political corruption costs TAXPAYERS of Baldwin County, every year.","url":"https://rippreport.com/p/your-rights-your-money/","image":"https://rippreport.com/img/your-rights-your-money.jpg","charset":"utf-8"}

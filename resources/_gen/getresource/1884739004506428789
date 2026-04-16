@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640508c20a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ecsT8UfAmtsMO4RvilODTjUT3GMGiA%2FroYYw4HOBhNTOcQA9Q6kioj35ceI0C0ThtmFHlWI%2FzYPnIlodKbQ2rioiZeqIlLHiO5YNm5wBapkjueKNhsZ20FIMUnaoQQdZP4mjW%2F2kX%2BtOmOhxRk9POdjjrw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=92
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3af195cd53b2b5b2cba1d535dc2660f3
+X-Etags-2: 3af195cd53b2b5b2cba1d535dc2660f3
+
+{"title":"SCARY - Ripp Report","description":"Some really weird and scary things are going on in Fairhope. After the https://rippreport.com/ published the Oil “Slick”, seems the BP “good Vibes” …","url":"https://rippreport.com/p/scary/","image":"https://rippreport.com/img/scary.png","charset":"utf-8"}

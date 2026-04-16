@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b10a0ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LiTqAR0GJfy6kE4ls6XzQUsaSwlcb23S%2Byr2eUvYwe0AihOpKeXKhhH78lJ3RzmEakYQ%2FJnqPzzfRSVFx8q0aUxCKjEADwjG%2FuSe%2Fq4UMKOFxRc1Oaki%2BYTEsrYoFBnY7ctNdh%2FoZQwBotvH%2BsOePeVgow%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=116
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f6bbc2f8339ec624481ec55a85d183c3
+X-Etags-2: f6bbc2f8339ec624481ec55a85d183c3
+
+{"title":"Can Baldwin Commissioner Dorsey avoid ethics issues?","description":"As he sought his first elected office in 2010, Baldwin County Commissioner Tucker Dorsey faced tough accusations from his rival that ties to the county’s biggest developers and one of","url":"https://www.lagniappemobile.com/news/local/can-baldwin-commissioner-dorsey-avoid-ethics-issues/article_9d123964-8191-5442-8247-4d0bc0ff0eb9.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/3/63/363f47dd-87fb-566e-a485-0acab2fa41b6/630eb8f90c7c5.image.jpg?crop=225%2C225%2C37%2C0&resize=200%2C200&order=crop%2Cresize","charset":"utf-8"}

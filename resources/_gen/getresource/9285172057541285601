@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b7bf1ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BfKC0zZVKPARYlnF3RqctE5J%2B4UDCnVtohsHsUF5UEs8bowFT8PgUFIN7Eb17KPrsfF%2FPEXxe1fXjs3PjhorGV6rxRrIe0v8j5ymvnFhPmiYCh7%2BpC3tywgJhICyW%2BykG2ICqwz%2FnmSiX%2FrnuzQD1JVVlA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cfe6089b208e8f81aef97c45db9a977f
+X-Etags-2: cfe6089b208e8f81aef97c45db9a977f
+
+{"title":"Alabama Code Title 36. Public Officers and Employees | FindLaw","description":"Browse all sections of Alabama Code Title 36. Public Officers and Employees in Findlaw's database","url":"https://codes.findlaw.com/al/title-36-public-officers-and-employees/","image":"https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png","charset":"UTF-8"}

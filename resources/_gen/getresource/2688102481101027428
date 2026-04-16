@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640402baca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:24 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6L9aNuM8lKZIR%2BVqNTJpfrWZjTrFuegq7Fxetkemg8T4nGTDOEvd6B0D8sI6LzMz93n8FxbYSV5m9uJtg%2BXOMLKPJ6DjwbjQtDx%2FZq0iIScKR0ysY4PPL6rvWbmF%2BL6dhGeIRUd0tPoHw5Y%2BN5dLjOVN1g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 42d64dadf6dbfb964f0f68fb3af39acb
+X-Etags-2: 42d64dadf6dbfb964f0f68fb3af39acb
+
+{"title":"SHUT UP","description":"Every Fairhope City council meeting begins with a prayer and the pledge of allegiance. What irony, when the council president then explains to attending citizens that their right to speak is a privilege— not a right. The council president then explained that the 3 minute limit on public participation was at his discretion. This is how our previous Mayor handled critics, complaints or investigations— absolutely no transparency. Make no mistake, as an American, it is your right.","url":"https://rippreport.com/p/shut-up/","image":"https://rippreport.com/img/shut-up.jpg","charset":"utf-8"}

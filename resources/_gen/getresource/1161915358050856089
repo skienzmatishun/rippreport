@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c9d8afa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zmxWafblSn6d0ekrJEhhhhsG7vFzbuF7tKuwBOEGeAIzzD7l42i1z6scjfqMfu%2BFbkEpK83G8%2Fwzm4WQeknCQWrsiDzIPfKCITI2OTHkn8qve0Li3RxcOzsRXXe6c9GD1FLTzd%2BFV3rG2DyEMAJlflTofw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f1be544bfe25fa2a7ab598c751ad41c5
+X-Etags-2: f1be544bfe25fa2a7ab598c751ad41c5
+
+{"title":"New Alabama law raises gas tax to improve transportation infrastructure","description":"The Rebuild Alabama Act includes plans for an indexed 10-cent fuel tax hike ","url":"https://www.roadsbridges.com/funding/news/10651695/new-alabama-law-raises-gas-tax-to-improve-transportation-infrastructure","image":"https://img.roadsbridges.com/files/base/ebm/roadsbridges/image/2022/06/1654795606798-d1fvhsexqai_auo.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630","charset":"utf-8"}

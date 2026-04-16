@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bd0f47a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5pM1LYr4zSOcmUECmEKC1VPR0opaClplabOWIT8B7BtUflbGHTrLbZiaJ8lxY%2FjCDExBRna4U3NsRt2ZXwVM7fIULQJPCg4QZhu%2BEW6Jpfo4%2BuM0myZ%2Bq145xw7l44HChmN49LvG4Lnw3WiXzr558acdIg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 22cc846f81bc8366a6e35cdc1268dc63
+X-Etags-2: 22cc846f81bc8366a6e35cdc1268dc63
+
+{"title":"Jason Fisher | State Senate | District 32 | Alabama","description":"Jason Fisher is a longtime resident of the Gulf Coast of Alabama running to become State Senator for District 32 in Baldwin County, Alabama.","url":"https://web.archive.org/web/20180814112601/https://fisherforsenate.com/","image":"https://web.archive.org/web/20180814112601im_/https://fisherforsenate.com/wp-content/uploads/2017/06/jason-fisher-pic-Facebook-share.jpg","charset":"utf-8"}

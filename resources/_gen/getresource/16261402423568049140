@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408d79aca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lNUoTM9yA1QGfICWdeHb%2BLUSBygPYu%2FfMbcfRekomPqGOkOr3H5Sgq90ztp6sffgO3Qvo5xf8Feh2CIq44mDMabGhGBwz5tTQ6nBb%2Bcod%2FVVdl%2BZ4zrLH0v91Gl99v6DZoLTng%2B0TsPU96dyEXGiEqtNlA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=125
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 503b01adfd2e3b9606155a8f068e8a5c
+X-Etags-2: 503b01adfd2e3b9606155a8f068e8a5c
+
+{"title":"Hwy 98 Adaptive Traffic Signal Project Completed","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2019/01/hwy-98-adaptive-traffic-signal-project.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjHWt__NKYSDg5u0SwtJ12lsdbt_KZ1sBn-wCM1WnbObAjaQ4gxvKqJ6o7Ek-PnDFF_dguvaBlFKrtzIc75cgub5aTIjEOqjU0pzySBClSCxUElpYzMvcHS27rWmwxxSibwngvzULf-ek/w1200-h630-p-k-no-nu/fullsizeoutput_338.jpeg","charset":"utf-8"}

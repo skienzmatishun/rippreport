@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408c0d0da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=goaiyVLfth7F5ebq1vM6l%2FyS9dbsnc5TchxH%2FYo92jfQN%2FK8gVseFdSqLqERSFpbFw1oFPJOITRP1Use%2FmSgBGB4XRouqakAbvBPLu6utTjEa2%2BI3SR8gtsPuQeOzjIWueAsT%2B1gq%2Fd1e52FwQPdK7HeHw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=89
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 70ed6442cb36a851839c7ae57f38a110
+X-Etags-2: 70ed6442cb36a851839c7ae57f38a110
+
+{"title":"Teacher Arrested at School Board Meeting After Questioning Superintendent Contract (Published 2018)","description":"An officer handcuffed Deyshia Hargrave after escorting her from a meeting. One school board member called the arrest a “disgrace.”","url":"https://www.nytimes.com/2018/01/09/us/teacher-arrested-louisiana.html","image":"https://static01.nyt.com/images/2018/01/10/us/10teacher_arrest/10teacher_arrest-facebookJumbo.jpg?year=2018&h=549&w=1050&s=e476ef2666a1ab057a776ed851f7107844fd7c8c5dd6af689fa38b316e1b2ee8&k=ZQJBKqZ0VN","charset":"utf-8"}

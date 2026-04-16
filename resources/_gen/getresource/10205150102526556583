@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409d7adda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yQVtKZ6B1gjuL3hbAuPVWxBQ9h9sOouuSYG%2BITMLy01k6nW7djbuO5OA8R%2FydD8OqBDlcwOvwpYiPsSYqhuO%2F%2FQqNmnDZ5mzIHMmxKKDI6LRIBJJ9qgppscjTc%2FVQzuKBzrY3cAZQkmWvCz%2FIsApE0rLCg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 74364e282382b05974b64f5017b042e5
+X-Etags-2: 74364e282382b05974b64f5017b042e5
+
+{"title":"CHASING YOUR TAIL","description":"Fairhope is being held back by a City Council that is chasing its tail. The Catalyst, at large council, was successful in derailing any change of government.\nIGNORANCE IS BLISS - Ripp Report I knew I could count on the Lagniappe to produce a comprehensive article about the recent referendum election in Fairhope. Well done. Fairhope voters …","url":"https://rippreport.com/p/chasing-your-tail/","image":"https://rippreport.com/img/chasing-your-tail.jpg","charset":"utf-8"}

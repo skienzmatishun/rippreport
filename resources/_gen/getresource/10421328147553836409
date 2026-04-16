@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406c1f4ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=V1bjKnAmMsxaIVrRkn0GJGrxLASQyvMXAGZqq2QjqIH7f5PMwWG25%2Bgew5iy2zqJTcb9%2Fl4hEAnJFEePH%2BK939pH0eWCy0rP96Xh0HlUHATPiw%2F4MHRcl8P31RUEia2DEARZdrrjnFe99e%2Fl%2BkEyzKg01A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f206956c381b6720a854e97a6c4a019f
+X-Etags-2: f206956c381b6720a854e97a6c4a019f
+
+{"title":"ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE - Ripp Report","description":"In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega …","url":"https://rippreport.com/p/economic-development-baldwin-county-style/","image":"https://rippreport.com/img/economic-development-baldwin-county-style.jpg","charset":"utf-8"}

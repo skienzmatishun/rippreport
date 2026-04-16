@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d37ef2a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SPCPrW4X%2F9TwfMZHQNKRzUo88LsgsOQ8Z%2B2GSurOAvSWNQeyj2Bp1QHuf0L7LC%2FwSFu3MVBav6anjCbl9eWpqqnCeZoDojwUwjGYTtb0jFBiT8qp3d%2F%2FK7Fz3sYr3YJ8KT8BsMy%2B84GZ20QYJWm8%2F89xfg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 1ee17e7b339580115cf01dd40af7c29e
+X-Etags-2: 1ee17e7b339580115cf01dd40af7c29e
+
+{"title":"Attorney general’s opinion: Fairhope petition and election are ‘valid’","description":"According to an advisory opinion released by the Alabama Office of Attorney General today, the election to create a council-manager form of government scheduled Tuesday in Fairhope will in effect","url":"https://www.lagniappemobile.com/news/local/attorney-general-s-opinion-fairhope-petition-and-election-are-valid/article_450beb79-9daa-5ff4-8b87-02f2513b053a.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/5/71/5712a17d-7c8d-5e53-a799-2058b4145258/630ea94a28574.image.jpg?crop=700%2C368%2C0%2C78&resize=700%2C368&order=crop%2Cresize","charset":"utf-8"}

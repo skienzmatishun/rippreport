@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640303b8aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WiDZBqPn4FT8KNJB%2BhUBmSUjv15zejdqPlcwqo7XusyUDCl3XAY33uMGdNJ8tCd4muz6zvyGr6Zn6RloqL8MTAWFFHiNLFoQMGIdKbH8wv%2FB%2BwqiZcIvCJ1sOJJNk6%2BE6Mv53o333rscZaAeqDSELnItnA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9d2064c88c6afd4dd6025cda007ca058
+X-Etags-2: 9d2064c88c6afd4dd6025cda007ca058
+
+{"title":"Fairhope Airport land remains in Airport Authority's hands - Gulf Coast Media","description":"After tense discussion during their last city council work session, Fairhope’s city leaders reached a deal involving the land and continued funding for the H.L. Callahan Airport. Earlier in  &hellip;","url":"https://gulfcoastmedia.com/stories/fairhope-airport-land-remains-in-airport-authoritys-hands,45365","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1468616510_8f1f.jpg","charset":"utf-8"}

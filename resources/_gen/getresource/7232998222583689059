@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64056ff6ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gCx8p6PDOrvN4pQ3QWU07JIiq9YxAg2QCINrYIfnrwIk5E%2BkF%2FVpCCt7qJpqgVonZB9re4y4aRtpYG%2BcBTJeAGn6wgCg01lLyYV3YbLTMSaSye0NbvbUcULMu3rxPRcl3KjsHpKQ5gH7Q4sHpWp5OjsjQA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=114
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b7ac9c470d0eb63d37660b572107abe2
+X-Etags-2: b7ac9c470d0eb63d37660b572107abe2
+
+{"title":"Graphic Video of O.J. French shooting by a Bay Minette police officer is released to internet","description":"March 9, 2025 – Body camera video of the last minutes of Otis French Jr. by Bay Minette police officer was released to Twitter. On August 22, 2023 – French, a 32-year-old Black man, was killed after the White Bay Minette police officer, Brandon Thompson, pulled him over near his home because a blinker light was out on his vehicle. Officer Thomp...","url":"https://www.alabamagazette.com/story/2025/02/07/news/span-classbrnwsbreaking-news-spangraphic-video-of-oj-french-shooting-by-a-bay-minette-police-officer-is-released-to-internet/5752.html","image":"https://www.alabamagazette.com/home/cms_data/dfault/photos/stories/id/5/2/5752/s_top","charset":"utf-8"}

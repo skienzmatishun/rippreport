@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640709dc2a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zjzdpoU0K7UiI1PcEDwpEpOeLGWLRNuQeDh2DA0HERl%2BC4ekLXVcRoswuFkZgjArqDfFv7bnMlZrCK7mSnDeoYDUbHxvzeDK7qYacL4giaSNpDa7CMCtYxZykC%2FYaaCh4ljSVWq2Xq9Vq9dY45TcHpEhqA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ca361fd0b8d9accaab52edbcd5518b8d
+X-Etags-2: ca361fd0b8d9accaab52edbcd5518b8d
+
+{"title":"Kay Ivey is petty and vindictive, ADVA edition","description":"The 2025 Alabama Legislature session highlights Gov. Kay Ivey’s push to restructure the Alabama Department of Veterans Affairs (ADVA), sparking controversy and opposition. Despite bipartisan resistance and veterans' distrust, Ivey leverages her political capital to bring the ADVA commissioner under her control, citing \"supreme executive authority.\" This move follows a dismissed ethics complaint and ongoing tensions with the State Board of Veterans Affairs. Explore the political dynamics, legislative battles, and implications for Alabama’s veterans as Ivey reshapes the ADVA.","url":"https://www.lagniappemobile.com/opinion/columnists/bb/kay-ivey-is-petty-and-vindictive-adva-edition/article_457bcd6a-f3bd-11ef-bb31-47e29b7f155c.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/b/6f/b6f6d6f2-7ac2-11ef-a0e4-ab10e8983d40/66f33a7513c88.image.jpg?crop=1196%2C628%2C1%2C0","charset":"utf-8"}

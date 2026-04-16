@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406b0c47a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=m492J362GY0ygOUSoYLr%2FwHP0pDLX%2B4ajyND9IxBzkQBP3NlL4Zw%2B3lJeQgZ8dN7rl2f9NRCP2FtasZfZ0wLFNnehjkuBgUMNLeWO7ji4cnnD13UJ4mXdLNp9a%2F3A1dbQnlhTcXKlPTU1qjCKMQOdn0fUg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 340fa606eb709e201f42af32a44e9b0d
+X-Etags-2: 340fa606eb709e201f42af32a44e9b0d
+
+{"title":"CATTLE GATE MEGA-SITE - Ripp Report","description":"The Ripp Report has written about the Baldwin County Mega-site numerous times. In May last year we had an update on it’s sales status, nothing new. …","url":"https://rippreport.com/p/cattle-gate-mega-site/","image":"https://rippreport.com/img/cattle-gate-mega-site.jpg","charset":"utf-8"}

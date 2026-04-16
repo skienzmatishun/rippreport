@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b5886fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FxAfcH76JXQ6vOb6gL9VJdE8RU8FuheWINcQ0dSy7iCrpdgFWYF9hKA3jgU8bJPfEWELsYBkKQ2QLMH5FS6aZ9mQptbvgbCAWwOXFjCVrpbd3D3HHvbzbwmaoE36u%2FYE0l1frz60u9CbhgMeay5p1KfsPA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=133
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 00782ae54f011cd5eb113670f08f576f
+X-Etags-2: 00782ae54f011cd5eb113670f08f576f
+
+{"title":"LEAKS AND COLLUSION - Ripp Report","description":"Fairhope City Hall has leaks of confidential city information and HR information coming from certain city employees to Gulf Coast News. …","url":"https://rippreport.com/p/leaks-and-collusion/","image":"https://rippreport.com/img/leaks-and-collusion.jpg","charset":"utf-8"}

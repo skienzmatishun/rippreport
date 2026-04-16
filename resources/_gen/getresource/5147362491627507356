@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640463d5ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aWnFEUKBkUk9u7j7oAcq0dmnH5Kh26LWvhv3yqHwgbBWB9imYobknXfdLcd%2BwY0CoLOUxAeIyhjWpa5RWIcO2HuxWMcDJzuH1mo4qcM3ILXkNt1fCNbS0sqmwwnSeiMm7qy3Lsvy6rO5lokqmKfVhpaUdg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 1e21c815c13610b1e1d54623d74172e3
+X-Etags-2: 1e21c815c13610b1e1d54623d74172e3
+
+{"title":"Who is The Baldwin Insider?","description":"Recent allegations from our favorite conspiracy theorist rabble-rouser Small Tipp seem to claim he knows who is behind this blog and what we’re out to do. And, just like usual, his claims are…","url":"https://thebaldwininsider.wordpress.com/2017/03/29/who-is-the-baldwin-insider/","image":"https://thebaldwininsider.wordpress.com/wp-content/uploads/2017/03/who_is_it.png","charset":"utf-8"}

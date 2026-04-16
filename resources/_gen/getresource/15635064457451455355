@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bd4804a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pLJ1cF89fSujtGpUECpcT%2FlI7BaQdurQW6U85U9VX1cnWQCeV7mKu0y7asS6ORsxj8BMtY%2B65Z6kqE1bCm2oPY9%2F2MW3I6N8CDPetA0qlisU4YsyyIi9ddi2%2BzPi%2B%2BQAJYMi4AwwgcgxDO6iqSaZ0NbiTQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 920dc74e1457ab029974d02e61139330
+X-Etags-2: 920dc74e1457ab029974d02e61139330
+
+{"title":"Continental Motors ditching Mobile for Fairhope (updated)","description":"Continental Motors Group Ltd., an AVIC International Holding Corp. company, recently announced its operating division, Southern Avionics and Interiors, will relocate to the H.L. “Sonny” Callahan Airport in Fairhope from","url":"https://www.lagniappemobile.com/opinion/editorials/continental-motors-ditching-mobile-for-fairhope-updated/article_91118dc9-15eb-5a5e-8db7-080a9f5f39af.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/2/b3/2b30d9db-73db-5033-8788-f9f54b1115a9/630ebc60cc24c.image.jpg?crop=1625%2C853%2C0%2C1&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407bb89ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DtBOh9LZiYT7KiNV7Ep2ePse%2BtecD%2F5qQhlmIl4b20sntKNVh%2FlIpKYzfjfNtcBuNhPJcTM3rH8eXgMY1UKTKyANQGIYKlo2LWlDkSv8y8iWYZTfrj9YVycdFacEE6uIjNwqEG7sVHDEJCdEegaeToZzyw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4339841b54eb1523e6bb4f9a088d0f73
+X-Etags-2: 4339841b54eb1523e6bb4f9a088d0f73
+
+{"title":"PISSED ON OR PISSED OFF - Ripp Report","description":"The current Fairhope City Council is the most corrupt and inept council to ever serve Fairhope. Yet people get riled up over a curfew meant to …","url":"https://rippreport.com/p/pissed-on-or-pissed-off/","image":"https://rippreport.com/img/pissed-on-or-pissed-off.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64019bbd0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:18 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1A%2Bwop21HovkfWgmV%2B7BffVgvXOjPskiIfPE3bHsn5Cqofc%2Fu0zomlIpr%2FOw5Kjn0kDDaSq7NBdgQJqfv36nFbIbwsyHG1IbKzqQ%2BrERwujmbcBduHs6u5h1%2Bznr8mJO%2FwZcXmjMoWaD%2F8B%2BxRpp67M9Ew%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 11e970e8d67e09a683eec81d86b2438e
+X-Etags-2: 11e970e8d67e09a683eec81d86b2438e
+
+{"title":"POLICE REPORT - Ripp Report","description":"A DOCUMENT FOR CATALYST\nA police report is a public document, it is not a Ripp Report, it is a police report. The Ripp Report has received several …","url":"https://rippreport.com/p/police-report/","image":"https://rippreport.com/img/police-report.jpg","charset":"utf-8"}

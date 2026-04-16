@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64053bd96a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=u52iMpsgJLhz38XYBPqZKNPh0EpFp5kcjU8Y%2BJiQW8OQmAvmFsl%2BW6ZkKekjBrtBS4SZl%2BUptH55bCB%2BfCFDPcRXsXkI8YqV5HJYLg9qYMqzaUn0NbqMDSkEvKRal%2Bd5EollxXryS8B4r97g0KSKm3vAxQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=71
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 49609f601b352f284cfc964c5e4f3521
+X-Etags-2: 49609f601b352f284cfc964c5e4f3521
+
+{"title":"DIVORCE CORP - Ripp Report","description":"Divorce corp. has many videos related to divorce, custody, visitation and money. Baldwin County fits perfectly into the picture portrayed by Divorce …","url":"https://rippreport.com/p/divorce-corp/","image":"https://rippreport.com/img/divorce-corp.jpg","charset":"utf-8"}

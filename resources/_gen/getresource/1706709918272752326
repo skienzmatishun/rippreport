@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404f1fb5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OHycOuHFlYo58DcTEf6E0DseWhjiDIfyydReMo7w3TJI9PIekU%2BzdgnpaP1TEFE%2BH%2F3ugzPFx2m02iYqfXNeHj%2FGeOXpfGYg1RgaxSmLyXe9c7mNZ5yuj4f4JSQlCqFv6ZPDUD1XLFZ1D6N08pBcXcYwTw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2a21dc5155c18ec0ff1d125e389378a4
+X-Etags-2: 2a21dc5155c18ec0ff1d125e389378a4
+
+{"status":403,"error":"[Error] https://www.wkrg.com/news/baldwin-county-judge-running-for-al-court-of-civil-appeals/ returned status code: 403!","message":"\nHi! This is a link-preview service on Cloudflare Workers.\n\nIf you are seeing this message, at least you connected to our endpoint successfully.\n\nCorrect usage is:\n\n    GET *?q=https://cloudflare.com\n\nThis should return JSON payload like this:\n\n    {\n      \"title\": \"Cloudflare - The Web Performance & Security Company\",\n      \"description\": \"Here at Cloudflare, we make the Internet work the way it should. Offering CDN, DNS, DDoS protection and security, find out how we can help your site.\",\n      \"url\": \"https://www.cloudflare.com/\",\n      \"image\": \"https://www.cloudflare.com/static/b30a57477bde900ba55c0b5f98c4e524/Cloudflare_default_OG_.png\"\n    }\n\nIn short, supply whatever public URL as a query parameter \"q\", then send GET request. That's all!\nIf the URL contains non-ASCII characters, url-encode them.\n\nSource code: https://github.com/ymtszw/link-preview\n\nThis service is EXTREMELY easy to self-host; i.e. deploy on your own Cloudflare account.\nIf you are going to throw many link-preview requests here, do consider it!\n"}

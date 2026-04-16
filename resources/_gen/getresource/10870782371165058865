@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640be3ad0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=V7sO50SpTLMbleTUvjHZnoFYskyGh6Rl%2BNsVaS7ZCzlZe9zfjLY6t6AT5XF30I0GvluJBPE65eASFilglAZGAh5EH6SrHc1DqTHebBHZa53J8rnWKxM6GRf00O1077dHLVZc8qnua2jqbzFiBXAW4q5tbQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9e92d5561ffcb79a14eb9e378343226b
+X-Etags-2: 9e92d5561ffcb79a14eb9e378343226b
+
+{"title":"Jay Robinson appointed to Fairhope City Council","description":"Two weeks after Robert Brown suddenly resigned, the Fairhope City Council was made whole again Monday night after the unanimous appointment of Jay Robinson. Brown resigned Feb. 22, just three","url":"https://www.lagniappemobile.com/news/jay-robinson-appointed-to-fairhope-city-council/article_42bf7c9e-721c-5cc5-8649-16deab5ec6ce.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/f/41/f4135785-b38c-563a-bb3d-f9fcc8180b73/631a367243eca.image.jpg?crop=1333%2C700%2C0%2C53&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

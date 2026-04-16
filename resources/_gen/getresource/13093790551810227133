@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408a2f68a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Vzbws2QsPyWlKfwmKbA7WsPMWiulqpXwGfL0KmUM1JbJwb%2BXyssv1%2B%2B3tukOFG0O8tYTc9T3%2BFz50mXCGm4CWVpxF%2BClcbFcNzFI5jxbD13H4pdhDW2HntjF4gnUBLYxp%2FS%2B4zsmP39dotAJuPheKeqvmA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f564334a67d777812f363b3cebcc74f5
+X-Etags-2: f564334a67d777812f363b3cebcc74f5
+
+{"title":"\n\tDistrict 1 Biography\n","description":"Baldwin County Commission","url":"https://web.archive.org/web/20201019075313/https://www.baldwincountyal.gov/Government/BC-commission/district-1-commission/biography-district-1","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64055bb99a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VnKPHybygEGNVSfnlsOwlfHSwYmIgasxV5yJpoXlv7CH6AjO45yixZuNC3rbtQth%2BPUt3qyA1OcuqEmgg1Nw0AtBS3uHxbEuVxTLsMS%2Ftd2u3U1xpvGdehxhEPXHm6Q5V8K0XdCrdm34dH8XU6FilO10SA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=143
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7243cb929e8623c68d8dd118b71ffa8e
+X-Etags-2: 7243cb929e8623c68d8dd118b71ffa8e
+
+{"title":"Proposed Alabama bill could make prosecuting government corruption harder","description":"A newly proposed state bill could make it more difficult for district attorneys to prosecute government corruption. Alabama State Representative Mike Ball proposed an ethics bill as a check and balance for prosecutors. The republican said he introduced the bill, AL HB179, as a tweak to the state&rsquo;s ethics reform of 2010.","url":"https://mynbc15.com/news/local/proposed-alabama-bill-could-make-prosecuting-government-corruption-harder","image":"https://mynbc15.com/resources/media/aa109f83-9589-493a-a96c-2407ef9aeee2-large16x9_ethicsbillproposed.JPG?1581985587983","charset":"utf-8"}

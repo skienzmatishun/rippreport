@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640e07d61a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:50 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TO2wINdlqm9sfEy5KhyXe0h5W0wW%2FWJ1MNL0XqDUABmrPrZXycE0EM1HFjx4SK%2BvDjA4fk57K%2BSY2%2FyeHn9o6UMXiMqf3SNoKoYIjkzMFojgfLmFgbQ8ocvLhlfbIArfYvzdkZ6yCU2l9RYr3Q07Lw3ztw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=97
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a3dd41016a1d62dfaad56ca2bd8fac00
+X-Etags-2: a3dd41016a1d62dfaad56ca2bd8fac00
+
+{"title":"Fairhope council subpoenas documents from Elias Technologies - Gulf Coast Media","description":"Fairhope&rsquo;s city council voted unanimously last week for a resolution that authorized the council to subpoena documents and records from Elias Technologies, following questions that have been  &hellip;","url":"https://gulfcoastmedia.com/the-courier/stories/fairhope-council-subpoenas-documents-from-elias-technologies,52305","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1470163322_577e.jpg","charset":"utf-8"}

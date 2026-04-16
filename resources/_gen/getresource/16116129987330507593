@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640317f92a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=haMHNRBmbl0xZV2h0g2n6ed7R3C3VJZ8frBJNCMlEdKfF9KNLrAqnEIBgVtoCHQGvnHxKTaWJgCCFKabo8xM6gO3%2Fz9lsmM%2F%2BsWVSJowHag7Ldvvfiua6tMLgQPPU%2BvFGRPh%2BUVMJaXWrCTa4IXpmshfSw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=100
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 60ca47524f55ac8449c388399aa18a05
+X-Etags-2: 60ca47524f55ac8449c388399aa18a05
+
+{"title":"TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE","description":"Two questions every voter should be asking in this city council election: Should the mayor take a second salary as utilities director or should that money fund a qualified engineer to oversee electric, gas, water and sewer? Do you support creating council districts so that citizens have a clear representative instead of five at-large seats that protect special interests?","url":"https://rippreport.com/p/two-questions-decide-fairhopes-future/","image":"https://rippreport.com/img/two-questions-decide-fairhopes-future.png","charset":"utf-8"}

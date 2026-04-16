@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64053ee27a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MpY6O6CBkZZBKz%2BqMUOBM6ylvj11tRUpmOE9umyv%2BTPluxL9Kbq%2FPncgFosh%2F7UOHYFYkE60Zq7nhiscTDRToJlh%2BeQrG3P2lqxLjoTF6RSNW2JQqAg62LABaXUI%2FdnZ%2F10ZIZmHB%2BK33Td3KJ%2BaZXI6Rg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e48bdc4dc19116418b0c848afc588e2d
+X-Etags-2: e48bdc4dc19116418b0c848afc588e2d
+
+{"title":"NAPPI AWARD - Ripp Report","description":"The Mayor of Fairhope has won four years in a row, The Nappi Award for the\nHARDEST WORKING ELECTED CITY OFFICIAL—EASTERN SHORE\nMAYOR KARIN WILSON …","url":"https://rippreport.com/p/nappi-award/","image":"https://rippreport.com/img/nappi-award.png","charset":"utf-8"}

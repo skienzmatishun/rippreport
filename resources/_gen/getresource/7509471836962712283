@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640854f68a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yjUvaRz7CxPR6KunRz%2Fc2Ln7ILOKv026%2B%2Bp4jPOKlGHREHvaKXUFojgLEnZo6%2Fb%2FPWAnuSf3DaRuSFFHoizSUpwLnFijy2Gkv1W6oHwMvGFr9T0JmvMtEjetXAxbtFdpt0NT%2BdYH4CF9Aeg33iYujup%2FYg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 026c8bc9e690b478cf6f785d2efc0039
+X-Etags-2: 026c8bc9e690b478cf6f785d2efc0039
+
+{"title":"ELEPHANT IN A VOLKSWAGEN - Ripp Report","description":"Some people will believe anything they are told without question. The last Fairhope City Council meeting is a perfect example, items 5 and 13, smell …","url":"https://rippreport.com/p/elephant-in-a-volkswagen/","image":"https://rippreport.com/img/elephant-in-a-volkswagen.jpg","charset":"utf-8"}

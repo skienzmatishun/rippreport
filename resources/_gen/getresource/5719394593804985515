@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408daa68a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9x%2B40w13ikNdYVGE%2F8p9zRUQhbje5zJiDbZOhPFpw2G4gBJpEoyCBj%2BbM6R73Z0jDKwaLkoIwAGKjUoTZ1Qxbzrc5a%2BydSYbBvLqRoTYI725ZWjFXXTHMaSIT3VqoDQGKSscQjsPMN7UNmpdT7YvccGkfw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=95
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3b1c09698cb4bbe7e6ac0e7ebd2136c3
+X-Etags-2: 3b1c09698cb4bbe7e6ac0e7ebd2136c3
+
+{"title":"Roy Moore's suspension upheld by Alabama Supreme Court; decision next week on Senate race","description":"The Alabama Court of the Judiciary on Sept. 30, 2016 suspended Moore for the remainder of his term as chief justice after finding him guilty of six charges of violation of the canons of judicial ethics.","url":"https://www.al.com/news/birmingham/2017/04/suspended_alabama_supreme_cour.html","charset":"utf-8"}

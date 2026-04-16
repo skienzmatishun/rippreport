@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408ccf7da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BbFbIoB0ZlE%2BQ6Rk%2B%2Bn51Os38Ypgu%2F1Y%2F12oMnyO4%2BOQ4161C%2FHMt%2Brf8AlaUNq8ZlnJOxKQDHDY7R0BIS5NVTz8Rn%2BdN8x8tIw3uW4sKF6F564K6zpcYFU%2FYGHOzYPYvQpbBhKkPehyJFkawDDar4cG1w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 837d4f3fdc8e07b3bb22fc2ead525359
+X-Etags-2: 837d4f3fdc8e07b3bb22fc2ead525359
+
+{"title":"DO YOUR JOB, PASS THE BUDGET - Ripp Report","description":"Sorry I did not get Freaky Friday published last week, It was a real freaky for me. I had a total reverse shoulder operation in Birmingham veteran …","url":"https://rippreport.com/p/do-your-job-pass-the-budget/","image":"https://rippreport.com/img/do-your-job-pass-the-budget.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64060ed33a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gHYWr2aA3Z9AdXzRSX%2FCfC0gPs3Hkpc3XneamwXRG5IbSNS0QbIx0jkG75ojRtip6RR9nLPUfW3zios%2BTC7pDGMWkSijj%2BJvqs0Fc%2FZjD8sni6bSJE6jo0%2Bu%2FqqcHbaORnlCTeFv%2BvTzAYnbTn3Lr2hB9A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: fb4474016dbb7b961dad671b7db51524
+X-Etags-2: fb4474016dbb7b961dad671b7db51524
+
+{"title":"We Can Criminalize Corruption by Passing This Law.","description":"The American Anti-Corruption Act makes it illegal to purchase political influence, and puts power back in the hands of the people.","url":"https://web.archive.org/web/20170316140316/http://anticorruptionact.org/whats-in-the-act/","image":"https://web.archive.org/web/20170316140316im_/http://anticorruptionact.org/wp-content/uploads/2016/05/AACA_Logo_Share.gif","charset":"utf-8"}

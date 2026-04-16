@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c10bf4a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TUs5LogswGxcUjl1VuIAP8qTK89DuhFLUzLqRSipuXAKGbwWG5yRF0xu2%2F4jSOdq3JZmnE5ezvkL%2FuRE1eesbsRIldM9CLKUfkniKdfyRQbnAnf0hDpAmyBQw4sBaZ1Cg5fe1c1q31ONFk5ZLOtoSrFgfA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=145
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 780adb8f9c5e9122760581b4fb84846b
+X-Etags-2: 780adb8f9c5e9122760581b4fb84846b
+
+{"title":"DOG AND PONY SHOW - Ripp Report","description":"Get ready Fairhope! The Catalyst Council has called a special meeting at a special time, that they hope is inconvenient for everyone. Today at 3:30, I …","url":"https://rippreport.com/p/dog-and-pony-show/","image":"https://rippreport.com/img/dog-and-pony-show.jpg","charset":"utf-8"}

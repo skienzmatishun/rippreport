@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404b3c56a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PsdvMIQx9qAywxyF5iPSdPSbesMRN2uPlk9ufFS4IxbHFICEvmor3sNud6ktTe5F6hrI0mO%2BpVyS9X1EW9LdLubQs8vB7yR%2FDogz70kGEKQSCNqUhvg%2FJiJ93Hl41XV4Ndo1YjY02breAR1lJbJcNLhUOQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=95
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cd71892522d2693a8de0037839910274
+X-Etags-2: cd71892522d2693a8de0037839910274
+
+{"title":"NOW! YOU KNOW JACK - Ripp Report","description":"Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, …","url":"https://rippreport.com/p/now-you-know-jack/","image":"https://rippreport.com/img/now-you-know-jack.jpg","charset":"utf-8"}

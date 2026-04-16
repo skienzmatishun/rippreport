@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640891b7ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pntnS3Y8uFf9GGEGw57kulKMMFOOv2yU7dRCD8tMYVWncIpqsEvf6qpsCLC2JtOnFHYMv%2F7GQ1qjCpaFkV9eZw5SebndFxMRczDo%2FpXr37zuw%2BRaFOUZJS6NpSkGgj6sK6yA2luZ8QPfulCWDo0iRE9ymg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7833f7b43e22d758f94670a3be72a9b4
+X-Etags-2: 7833f7b43e22d758f94670a3be72a9b4
+
+{"title":"Priorities - Doug Jones for U.S. Senate","description":"The most productive, innovative people I know are entrepreneurs who have had the courage to turn an idea in to a business that makes their community...","url":"https://web.archive.org/web/20171103160153/https://dougjonesforsenate.com/priorities/","image":"https://web.archive.org/web/20171103160153im_/http://dougjonesforsenate.com/wp-content/uploads/2015/12/logodj-1024x266.png","charset":"utf-8"}

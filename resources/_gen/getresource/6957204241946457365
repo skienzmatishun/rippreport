@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b22daca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gz1d11GTwx4iB5MLKhDGNK3WVlmfhzyALWsyFn7N2DRttUU5FVET80NLT%2BObhRjfPBxpxtyFz7TBD0I47O%2FBz5tWPrncUeCGFGnUHsrIoWMziMT8hKLoI3JwdUEcMTQlNty7uzry958A6ubGiLjx8a7xmA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f294b5c43a830cf6b9edd47a39a0d647
+X-Etags-2: f294b5c43a830cf6b9edd47a39a0d647
+
+{"title":"Save Public Water Accesses\n|\nMoveOn","description":"Zundel's Road going to Mobile Bay  in Point Clear, AL was blocked with a fence by the County Commission on April 24, 2018. My husband and I tore down the fence and deposited it in the Commissioner's office.  We  have stopped the Commission four times before but they continue to ignore the Alabama Supreme Court decision in (McPhillips v. Brodbeck) of 1971 that states you cannot block vehicular access on Zundel's Road.","url":"https://sign.moveon.org/petitions/save-public-water-accesses","image":"https://static.controlshift.app/organisations/petition_default_social_share_images/147/open_graph/050214_MoveOn_ButtonsXL_v3.gif?1569004303","charset":"utf-8"}

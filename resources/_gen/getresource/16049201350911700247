@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d2cc59a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YlNfZws2hdblxbMovbdnDGKdpem7xCnPZypSpMb7p8%2BgkElOj4rTlCQ7PGG7T6ql3d4YXznnz536tlR511OUM4dtG8%2Fmz0eYOsqCuLYxaJrM4ASTHZ4M%2FpMAyhw%2FwEFfNlSzTK2yK1wu1%2Bd1q6AXpHibAw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 73819bbc41b86850c4841b667939f638
+X-Etags-2: 73819bbc41b86850c4841b667939f638
+
+{"title":"WRIT OF MANDAMUS AND BAR COMPLAINT","description":"I hope you will continue to follow the story of Alabama’s “self-dealing”, Alabama Ethics Director, Tom Albritton. First you need to read the below article.\nSelf-dealing? — Ethics director’s kids’ tuition paid from trust he oversees Lagniappe | Posted by Rob Holbert | Jun 29, 2021\nAs director of the Alabama Ethics Commission, Tom Albritton is the state’s policeman for conflicts of interest and ethical breaches that can arise throughout all levels of government, but having a private charitable trust he helps oversee pay more than $100,000 for his kids’ college tuition is r…","url":"https://rippreport.com/p/writ-of-mandamus-and-bar-complaint/","image":"https://rippreport.com/img/writ-of-marandamus-and-bar-complaint.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a36d72a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=EvTFBw%2FTqfkpKeCuNYHGS%2FeqZ11dyT9DCoE0YVB1UtpYXIBrTCkGXTSKXpxvAL2h5uyJ0g1kI5qCOflKr8VXlaZoKnj5mXBBsdUSUySZjYegOlwfPol7RixBCCgQPtio3AZTTgN8GKgsqp3%2BiCL2MPb0Zw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=115
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 95528ed929db792731b668d78af6d382
+X-Etags-2: 95528ed929db792731b668d78af6d382
+
+{"title":"I QUIT AND WILL QUIT AGAIN - Ripp Report","description":"Publisher correction: With over 300 single publications, without a single correction, The Ripp Report must admit to an error in the:\nPEOPLE POWER …","url":"https://rippreport.com/p/i-quit-and-will-quit-again/","image":"https://rippreport.com/img/I-quit-and-will-quit-again.jpg","charset":"utf-8"}

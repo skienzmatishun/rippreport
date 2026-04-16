@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404cf9a2a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WoYOk13VmMFmHgadOjWlFIYlm3GkfRAOF7wWI5BtREoHqSUsCClKr13hoiEPRoYFNDj1irjSJsDoHBqvncBuCYWbRLGDPUmFkrQCdSqf%2F%2FrvMjZJWgTsKxZjC5WOH8IYLKyWJI1UeSwq77EYtYHQACOoIw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 900b53536635070bb9eba5a87ee88c90
+X-Etags-2: 900b53536635070bb9eba5a87ee88c90
+
+{"title":"City Wins Fly Creek PUD  Apartment Lawsuit","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2017/08/city-wins-fly-creek-pud-apartment.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz36CiCWJmB9B06UlXpy665Ju9yhCtnvw6lddeT1ADBoFDpOgtF9xoTMBQ0li7Q3uHB2MKpuyQtrzT-O56LN_K-vAFIu4Pwb8DQXLzAw7YkbzgQSAY4OqzsUW_9GzoWwpxJjr-wRwnfZ4/w1200-h630-p-k-no-nu/fly+creek+vedict.jpeg","charset":"utf-8"}

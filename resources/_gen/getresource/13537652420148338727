@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b9bd04a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=X8iYtg1VQDWGv48KNbbMau%2BROhhAWi3pEKYMMN3X6suX4SAUV4m0MZgppWlf9nzJKpK1pkW2P7yuyxsVHV28tBMoADRYaVLVzHDw9LtMMAazua5lQOi6V6EV0WHEUVveVjqe3fF89VUgJFxRK7MadSk2vQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=105
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 055130274d87679b0e251cc677f6e780
+X-Etags-2: 055130274d87679b0e251cc677f6e780
+
+{"title":"Ethics complaint names Sen. Trip Pittman, Commissioner Bob James - al.com","description":"BAY MINETTE, Alabama -- A Fairhope resident and a Silverhill businessman this week filed a 130-page ethics complaint against Sen. Trip Pittman, R-Montrose, and Baldwin County Commissioner Bob James, alleging the men violated state ethics laws in connection with BP PLC grants and other issues.","url":"https://www.al.com/live/2011/01/ethics_complaint_names_sen_tri.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Flive%2Fphoto%2Ftrip-pittmanjpg-52d6ae9ddb0de283.jpg?auth=efc53714268dd7084b06dc66cad778afd74a2c7ae3e2477763565634872b4ba0&width=1280&quality=90","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d0cdf5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6cv9Gfidi%2BwFmqQqLCfygJjh7zH%2FIwbiXaGXOe%2F7q%2B8hAkKwVdshmqOnenlH2aqlKr%2BC7e4sHiChfP%2Fo30XPpnVw8eOpxor3cfekbMiEepbwdRgGwqm0AhQq8yeMw47rBOAeSUF018O06XUXSoe6GS1vqg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 73962820f615aae2bc13fe29b5694ac3
+X-Etags-2: 73962820f615aae2bc13fe29b5694ac3
+
+{"title":"New Recreation Land Purchase Approved by Council","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2009/10/new-recreation-land-purchase-approved.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfCj_AD3sw1XGh_7RZPfEp3ay_OfYcy3ZJbgpTQ9pGm8Wv2uSWfpcu5FcnbafHP7jhyphenhyphenpO4SJ0rqOfABiAZvlXsljn98dO-IA7Oa69xf_t5Ih9m1HuNw_-0vgoF7oO129a2elMYo5rwtc/w1200-h630-p-k-no-nu/manley.jpg","charset":"utf-8"}

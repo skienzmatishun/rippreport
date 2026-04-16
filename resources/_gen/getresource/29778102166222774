@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d16fdfa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=icPqaqxX6vnvwKx%2FP01jN49csy1iF6RWB1sWQPEL2Wt3992vG4yQgfn2qovw5%2Fj2DA5U8IA8tOhCKDnZNMkYkqaiF3v5Ye49iF2YXaigLpIJPPfHhCKNeGlAwpg%2FEI7%2FooMMeGxBbM0GsW033RhTLEyLnA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=89
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2d5cc2f1143c18db79ee37ca5e458f0e
+X-Etags-2: 2d5cc2f1143c18db79ee37ca5e458f0e
+
+{"title":"John Lake to run for County Commission District 2 - Gulf Coast Media","description":"Longtime former Daphne City Councilman John Lake has announced his intent to run for County Commission District 2. Lake, a 43-year Daphne resident, has lived through two dramatic growth eras and  &hellip;","url":"https://gulfcoastmedia.com/stories/john-lake-to-run-for-county-commission-district-2,53995","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1507587832_dc48.jpg","charset":"UTF-8"}

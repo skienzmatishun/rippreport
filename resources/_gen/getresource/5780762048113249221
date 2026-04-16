@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409dbb99a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hE3ebqpCKH91Aub02etQ0hp6sXN4B4ZiOy0SVeeCvWj6O4vymiFDenDradcUGT2vBfLvJdQLPyf8KeH5PQ7feCcLFTtdz%2BwtCcKjuybY5VaElZtby866%2FVbKdVFETaq2spNWJNvHvve4hEAqyq3RSEvnrA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a88a222923c6525248a330f36b964ed2
+X-Etags-2: a88a222923c6525248a330f36b964ed2
+
+{"title":"News","description":"FOX10 News Mobile Alabama, your trusted source for news covering the Alabama, Pensacola Florida and Mississippi Gulf Coast","url":"https://www.fox10tv.com/news/","image":"https://gray-wala-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fwebpubcontent.gray.tv%2Fgray%2Farc-fusion-assets%2Fimages%2Ffallback-graphics%2Fwala.jpg%3Fd%3D451?auth=745156ecefdb7eb0245b8b4eeaa260ef570dced0153127f7a0f95fad9ef5fb00&width=1200&height=600&smart=true","charset":"utf-8"}

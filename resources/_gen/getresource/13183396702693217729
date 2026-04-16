@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640707d54a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Bd01uiLHZS%2Bnqs3ibY%2BCmiQKJfXtYvPKGH2n0cdfQm1yMrV2%2B6R2CQAEbs601yjkotGdHxhI7NdFedjj2NJO878S8XAwbig5sC3r8ujnSf4JwpLNd63rgguvooLQxMCQbhSrw1uR4Q7t%2FpR0llhUe%2FzKrw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e6498de98e5e5f1764cf5cc85a468120
+X-Etags-2: e6498de98e5e5f1764cf5cc85a468120
+
+{"title":"BIG HEAD GULLY AND THE FRUIT NUTS - Ripp Report","description":"FAIRHOPE WAKE UP THIS MUST BE STOPPED: PLEASE SIGN THE PETITION\nSave Big Head Gulley in Fairhope, AL Fairhope watershed known as Tatumville Gulley or …","url":"https://rippreport.com/p/big-head-gully-and-the-fruit-nuts/","image":"https://rippreport.com/img/big-head-gully-and-the-fruit-nuts.jpg","charset":"utf-8"}

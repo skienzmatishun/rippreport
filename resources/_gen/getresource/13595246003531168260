@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409ebe96a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3joQgpsXjaxB%2BHGEKQQGA%2BAF41dKeAifhjpH35F2QKSixWskvTMczbQihgkeqkB%2FHECWdqGOa7LK2kDgWFug%2B2meBdvfae8M%2BrnLvnmP%2FkMKYc1ylHKGTa1QxwcXAHJJgVAj9Jsx54W7Sz80UEYQimEhHw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8fdc1bbcadf26a83f1838e3472e566b9
+X-Etags-2: 8fdc1bbcadf26a83f1838e3472e566b9
+
+{"title":"Fairhope mayor retains own attorney, threatens suit against council, current city attorney - Gulf Coast Media","description":"An outside attorney retained by Fairhope Mayor Karin Wilson has threatened legal action against the city council and City Attorney Marion “Tut” Wynne if a written settlement can not be  …","url":"https://gulfcoastmedia.com/stories/fairhope-mayor-retains-own-attorney-threatens-suit-against-council-current-city-attorney,50581","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1488563012_5ac1.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c55948a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pppG1BpNV2CvorNe3seHiD1S0yVQelOv8Ftd8Uq5lIrNh%2B%2FlRTi%2F6CncjiiHosjG2AZ5ePViIxUB%2FBZcExNsMduzwrrhT6gUWgzeT%2BfO4aHXqniupzcpPg%2FIbIvIi%2F%2BLrv9g%2B24kXYanJWaPKqAAfcCXnA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d0024e262b94efaa375f25cb2efa448f
+X-Etags-2: d0024e262b94efaa375f25cb2efa448f
+
+{"title":"In the Face of 44% Growth, Please Support Collaborative Strategic Planning","description":"Our Founding Fathers established Fairhope with Vision and Planning.  They planned the “downtown” with wide streets surrounded by residential lots forming the heart of, and foundation fo…","url":"https://web.archive.org/web/20200815185228/https://mayorkarinwilson.com/in-the-face-of-44-growth-please-support-collaborative-strategic-planning/","image":"https://web.archive.org/web/20200815185228im_/http://mayorkarinwilson.com/wp-content/uploads/2019/06/girl-on-bench-bruce-larson-vision-1024x922.jpg","charset":"utf-8"}

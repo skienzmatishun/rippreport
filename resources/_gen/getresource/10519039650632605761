@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407a7c47a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QUnXtVrb%2F4J0vuc%2F7UbSHi0Y2cs4IyQrCp4txvN2v0NXykq889K4mGcis6yx2A5JVCr88OUKH21WQWJBQwbsvVKTzdKdPrF4FkvUrFmUXmin5H3RK6lCHAD0jEygWli%2FG%2B9ZC62M%2FYl0RLiZzo%2FOBk93uQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4aa1c3da21f0cf99823cad03bb2db7c1
+X-Etags-2: 4aa1c3da21f0cf99823cad03bb2db7c1
+
+{"title":"Gov. Kay Ivey appoints new Baldwin County Sheriff","description":"Current Baldwin County Sheriff Hoss Mack served in the position for 17 years.","url":"https://www.montgomeryadvertiser.com/story/news/politics/2024/08/27/alabama-governor-appoints-new-baldwin-county-sheriff/74956799007/","image":"https://www.montgomeryadvertiser.com/gcdn/authoring/authoring-images/2024/08/21/PMOY/74891389007-mascot-13.jpg?crop=3299,1856,x0,y0&width=3200&height=1801&format=pjpg&auto=webp","charset":"utf-8"}

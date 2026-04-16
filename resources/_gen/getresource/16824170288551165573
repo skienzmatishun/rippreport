@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409039b5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Yv%2F5IvAZOogifOVY1j5MBAt%2FB0BKpi9uQapNB3gr%2FzEoawQxUMoHiCWt98i6ZZkJJU1WgrLxNRTlcFe1Ssq3LAPnNWo2SUNJwZA0755NQXJIUyBZOadeRjLOmSQGh1ea9V%2F%2BoCUt%2FrtvldpPGsOyQjiT5A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d9ff481a7edf69272eca6bc638875bfc
+X-Etags-2: d9ff481a7edf69272eca6bc638875bfc
+
+{"title":"Daphne planning board OKs 19-building apartment complex - al.com","description":"Mobile-based Big Sandy LLC is developing the 20-acre site, southeast of the intersection of Johnson Road and the state highway, as Colonnade at Eastern Shore. Heritage Construction Company out of Madison, Miss. is handling the project engineered by Hutchinson, Moore & Rauch LLC of Daphne.","url":"https://www.al.com/live/2014/04/daphne_planning_board_oks_19-b.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Flive%2Fphoto%2Fcolonnade-at-eastern-shore-apartment-complex-site-plan-2265257a0971b9e9.jpg?auth=1d29085b3411a60fc5474f361b72585e8b2963fd64d6caa978a44c2b16e9f6e9&width=1280&quality=90","charset":"utf-8"}

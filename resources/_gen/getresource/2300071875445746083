@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407dbecba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=30ov2dD3Skv1B2a%2BlrQYi%2FNss%2Bdds%2BH7Zh96URFj6agLm7K4JP8M3hXkJnCj2dTgLXtQpML7iphrfwNcFtDa3B7x5RnF%2FWXQaPlNb1EyRvzmr2bfoYn8J9AJEHiXPNIi3mrlB%2Bn4RIz20jhdoGpu11KSuQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a3a4862bda1ee63788e29bacdd2cc259
+X-Etags-2: a3a4862bda1ee63788e29bacdd2cc259
+
+{"title":"GOING DOWN WITH THE SHIP - Ripp Report","description":"Be sure you read\nCity asking GulfQuest to cough up utility payments, as agreed According to Executive Director of Finance Paul Wesch, GulfQuest …","url":"https://rippreport.com/p/going-down-with-the-ship/","image":"https://rippreport.com/img/going-down-with-the-ship.jpg","charset":"utf-8"}

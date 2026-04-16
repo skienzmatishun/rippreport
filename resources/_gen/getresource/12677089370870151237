@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406a4a25a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=22g7kSwxEU0aYwRp1wptNdD1SHfuvTE8mXfzQie4CkxwG7dZl0JY9s2aBptxp33PPzc94rEh5rl9oDR7Ew8Gwfd9oC6rFzwaxICb0Gaa2PRX%2BCWmKl5bxAFLEKZnQpZAwGlAFlf5LYf0ryJivm8hUN2Q7w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5ec49ccd4b87880e0747292599c6e972
+X-Etags-2: 5ec49ccd4b87880e0747292599c6e972
+
+{"title":"ALL MOUTH","description":"Fauxhope mouthpiece and long term councilman Jack Burrell is crying in his milk and pretending to be concerned about the Fauxhope sewer. Don’t be fooled he is a professional B.S. artist.\nSewer Upgrades To Purify Discharge Into Bay thefairhopetimes.blogspot.com Community news and events for Fairhope and Baldwin County, Alabama.\nRead More The upgrade should meet the needs of the city for the next 15 years, then a new sewer plant may need to be constructed on city-owned land south of the airport.","url":"https://rippreport.com/p/all-mouth/","image":"https://rippreport.com/img/all-mouth.jpg","charset":"utf-8"}

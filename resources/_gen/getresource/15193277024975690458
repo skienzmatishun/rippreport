@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a3be57a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9nvdV7NWQ6cnGYNCxz394czHzs0KFxAIzq7Oj6kuw7bQy1H92dge0BGVDxcCa5gQCVFQt7BwRq678ocomiNRmZ1WPBX9ib%2BTFHzF1NQiIX7EK7CVhGNDh0VI9tPHjcWZRoWv7t%2F0url394X8fwXzopS1aw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=101
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2a274648892c460ba10afe8534b17dc4
+X-Etags-2: 2a274648892c460ba10afe8534b17dc4
+
+{"title":"Outgoing State Rep. Randy Davis indicted in bribery case","description":"The documents indicate the indictment stems from the alleged bribery scheme that led to indictments of State Rep. Jack Williams, R-Vestavia Hills, lobbyist Marty Connors, former chairman of the state Republican Party and Trina Health owner G. Ford Gilbert of California.","url":"https://www.al.com/news/2018/07/outgoing_state_rep_randy_davis.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_birmingham_impact%2Fphoto%2Frandy-davis-2jpeg-9868d09186446ea6.jpeg?auth=6619c226199fea6e5426b71901fdc989896c8fca442316bd60e35b8bbe6356cf&width=1280&quality=90","charset":"utf-8"}

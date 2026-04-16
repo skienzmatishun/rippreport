@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409e8de5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OjSTJGvQi3NdTnlbz7pDHlKcz555WUfz%2Bo3SPDIhZMv6KSW2lWx0j%2BC7P88P0TG9GmRk%2FpHvCrJlCTX%2B%2BQ3hAivGF54rugshQJ6ePpQJ29g%2B4xnj7rs9CQJ3SnoO7padTb%2Bi7o%2F5q23dK6SZk0Y9xvf%2BbQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=116
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 24b9369e3cc36b38078843416b028ab9
+X-Etags-2: 24b9369e3cc36b38078843416b028ab9
+
+{"title":"Justice for Murray Lawrence Jr -","description":"Wrongfully Convicted in Baldwin County Alabama.  Hear the audiotape or read the book here.","url":"https://justiceformurraylawrencejr.com/","image":"https://rippreport.com/cdn-cgi/image/width=336,quality=85,format=auto,onerror=redirect/img/baldwin-county-judicial-corruption.png","charset":"UTF-8"}

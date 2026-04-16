@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640563d4ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lsXrog%2B6Ee01IvnZsFzxYaTDtY3PcQBU8KliET83MTjT22owvrxOyI%2FeAMHUYyIAZhP9vQo6Lbsbw2gmikZhhhofNYOJ2O%2BkIu2EDCfMjotQURJxjL4TMCFivMppdJBcfWwXAKYP17Zjlp9N2XlmDiRipw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=98
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e06c701fb1d41d2f255553261ab40bee
+X-Etags-2: e06c701fb1d41d2f255553261ab40bee
+
+{"title":"HOWLING RAINS - Ripp Report","description":"Be sure to read the New York Times Article, the last link on this article.\nBaldwin County has seen its share of political commentary from Baldwin …","url":"https://rippreport.com/p/howling-rains/","image":"https://rippreport.com/img/howling-rains.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64098bbf5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rPg9Z6r9gcjNudJrJBp1nuFW5dCVzOYOqMw2EHNALPlgQezxUsKyuqyC2noAp0OvYW%2F1AHTYbnK49ppbNlxpsjaAthImSgrxVQHFwoYyRBjt1%2F8jXLlpLpwZRBZd8ItVMulDIiRQJFg8uKPWfUJQrWwaAA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 561ce9a2d203a94dc2f7c9daf6ea848c
+X-Etags-2: 561ce9a2d203a94dc2f7c9daf6ea848c
+
+{"title":"Baldwin County Corrections under review by feds for inmate abuse","description":"Investigations by federal agencies are pending on accusations of inmate abuse in Baldwin County Corrections Center, Sheriff Hoss Mack confirmed Monday afternoon. The family of Daniel Conner, 49, says he","url":"https://www.lagniappemobile.com/news/local/baldwin-county-corrections-under-review-by-feds-for-inmate-abuse/article_721ab83e-cf57-5ad0-96ff-ca7978dd0aed.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/c/f7/cf7ab08f-2077-5aef-b4d1-1e2a75130ef1/631a6cd767ba8.image.png?resize=1200%2C630","charset":"utf-8"}

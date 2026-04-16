@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406e3db7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=y%2B1Eub4DrWNx9bDQk%2Bu1iChS1ptFnM7P2wDLEPXsSf0ebNeSdQOIvmn6DNvNAo5Gr6E2AneBG6a%2F3vYd7wKsm6DqpxdkqnX%2F0fyZcc5HLcums57NaoszlGZkmFpaBAdF%2BTbkaxw5kdKtstPZNS3KFwyWSA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=70
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9c328e2576c277e7300027cc0c03c5c6
+X-Etags-2: 9c328e2576c277e7300027cc0c03c5c6
+
+{"title":"Colby Cooper - Team | Hix Snedeker","description":"Colby Cooper is COO of Hix Snedeker and has extensive experience in the private and public sectors.","url":"https://web.archive.org/web/20190110021820/http://hixsnedeker.com/team/Colby-Cooper","image":"https://web.archive.org/web/20190110021820im_/https://s3.amazonaws.com/andwcst-hix/20170517-RSQ-HixSnedeker3591-1_TONE-OG.jpg?versionId=ZWweZak.2PIqbg8LCTCxjbQ9luw61jwz","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a83c9ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=I7HqhkiGKAcg1ObrA%2FR62%2BuUxQ2R9EVOHPXXaAWVwj1DZDJGOo%2BB1IM7lCnpl7tRrYZL26S4qDugkvJPenD4KoMezqZq6MItvlaVbaTbFQUY5DR2nSBrh%2BYU8%2FpTjeApeK5de6r5RJ4aEuIAAi%2Fhoklb%2BQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b99b56b578bba849b36c96042678aa22
+X-Etags-2: b99b56b578bba849b36c96042678aa22
+
+{"title":"Man commits suicide by tying seat belt around neck and jumping from moving vehicle","description":"The Baldwin County Sheriff's Office says a 19-year-old man committed suicide by wrapping a seat belt around his neck and jumping from a moving vehicle. That man has been identified as Peyton Allen Little.Law enforcement officials were called to North Baldw","url":"https://mynbc15.com/news/local/man-commits-suicide-by-tying-seat-belt-around-neck-and-jumping-from-moving-vehicle","image":"https://mynbc15.com/resources/assets/wpmi/images/brand-icons/wpmi-16x9.jpg","charset":"utf-8"}

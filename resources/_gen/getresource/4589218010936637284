@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405e5d88a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VOBqTpzelaKWiaAe4xjzVQrU%2Bvs%2F%2BygNbGYIJa7jSZ0CmrzicJaeBfkobeRBRC1V4bU9oY%2F0ZrajwUINY3f9XP0GkHa0DsdzdHq9vkFMmxt59W1iE0q%2FwTgO7q5wjfTlCC7lJNzo3OHaRrHkIfzhFEdtzA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 58bca2753f2a584fc0be6d94eaffc9fd
+X-Etags-2: 58bca2753f2a584fc0be6d94eaffc9fd
+
+{"title":"Fairhope Airport Authority seeks applicants for hangar leases","description":"How does the Fairhope Airport Authority’s latest notice of availability for airport hangar leases differ from its last? To begin with, it was publicly advertised. For the past two weeks,","url":"https://www.lagniappemobile.com/news/fairhope-airport-authority-seeks-applicants-for-hangar-leases/article_2effa4af-12a2-5402-9cd9-bfbe51ab6d8d.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/3/e8/3e804c17-59e6-5366-92bb-f0ab6a43753e/630edb7f6e353.image.jpg?crop=1600%2C840%2C0%2C180&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

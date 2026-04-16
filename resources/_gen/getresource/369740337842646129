@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640740813a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zMEX5n3c2409lEJBdiwa%2Bs1%2FcqvemaDbbiqEWIFINCqtCouCREIpL0ut9JBWwbOg6AyNnX0Li88gdnl65g0OpUhvh8kGMt7E6H291ClLAvRDON1SuMh5h88qpW6f%2F5U1mYd0rz%2FNSOpXqL6x16cKiM3d4A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 44ce018fd142447568024a7650968bb8
+X-Etags-2: 44ce018fd142447568024a7650968bb8
+
+{"title":"Nearly 100 Baldwin County homeowners sue DR Horton Homes in mass action lawsuit","description":"Dozens of homeowners are taking action against construction company DR Horton. Attorneys for the homeowners say DR Horton homes built between 2015 and 2021 are at risk of not meeting the \"Gold Fortified\" standards set by insurance carriers. The lawsuit filed November 10th says these new homes have shown significant building code violations, everything from the use of substandard materials to improper foundation construction.","url":"https://mynbc15.com/news/local/baldwin-county-homeowners-go-after-dr-horton-homes-in-mass-action-lawsuit","image":"https://mynbc15.com/resources/media/e6955b00-9104-4648-b82d-f7fe48576190-large16x9_ScreenShot20211223at9.34.21AM.png?1640275207305","charset":"utf-8"}

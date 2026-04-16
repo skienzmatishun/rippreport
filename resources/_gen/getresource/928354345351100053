@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640448874a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HS3qQxVL%2FAQEfRP6W8zzUL3lj6mVNEzhYTVdJ8zSLpqJlQ9TeFPzilEw6Nr%2B3BhXgcftjbC166InkdTTeS1TYx0pGFPCylgA6kWpT6sLeA9jG41tN34QtXWWaG526mbAiU%2FPJ3Jg32Dn5a2SOtjdNH3Rdg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=103
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5d955b203d894e58324f3859bb924dde
+X-Etags-2: 5d955b203d894e58324f3859bb924dde
+
+{"title":"SECRET SOCIETY - Ripp Report","description":"From Wikipedia, the free encyclopedia: A secret society is a club or an organization whose activities, events, inner functioning, or membership are …","url":"https://rippreport.com/p/secret-society/","image":"https://rippreport.com/img/secret-society.png","charset":"utf-8"}

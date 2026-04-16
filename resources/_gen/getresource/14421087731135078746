@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64069c863a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7VHu6AnWGMW11Q4cWPJwW4InKXSR4POxEsvt4B3aS9UcdY8gRaaTsV9h93ZREamCXbjPPqTXCx72rjE1wRc02NGJJuGeZCfxmOYyrVFUMVO5JCkG5e%2Bamjg%2BZ0HaPyfg2kGOYAZcCD7r0YtOyYZCREylVQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=110
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 013e0354ad6567fb7e4854f3ffd354cd
+X-Etags-2: 013e0354ad6567fb7e4854f3ffd354cd
+
+{"title":"CHUCKEE CHEEZE - Ripp Report","description":"CHUCKEE CHEEZE what a sleaze! You have cost the City of Fairhope a lot of money with your one sided biased reporting. The one side is that of …","url":"https://rippreport.com/p/chuckee-cheeze/","image":"https://rippreport.com/img/chuckee-cheeze.jpg","charset":"utf-8"}

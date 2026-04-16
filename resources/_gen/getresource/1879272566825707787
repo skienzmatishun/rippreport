@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407bf950a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5IosdypFSGz6X%2FuGZf2SFmSI8eNIJD2uYM%2F8bc3cm2sEL0z3BgcTQF11vqy2qtqNuTbbedwFoUFbgRB9GT6oLl3b6jAI8QjWaf8b6%2BlbYI45ZgVWv4w75fEA2hEawZwwTF3Z%2BvNTjzA3jq3k6IYD97bn6g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ac38f041df6a865445b0a24b267e22f0
+X-Etags-2: ac38f041df6a865445b0a24b267e22f0
+
+{"title":"The Medicaid Civil War is over. Quit fighting, Kay Ivey.","description":"We're losing money and lives.","url":"https://www.al.com/news/2021/02/the-medicaid-civil-war-is-over-quit-fighting-kay-ivey.html","image":"https://www.al.com/resizer/v2/HCMVV4E6BJBD3CVLGOUPVJX22A.jpeg?auth=d97603c3c91ec3c324b531812a38f3cef372329d9812c01b1b25d4cea7986137&width=1280&quality=90","charset":"utf-8"}

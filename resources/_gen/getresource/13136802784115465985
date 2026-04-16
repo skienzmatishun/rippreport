@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640825d4fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KeLGUVQQ8xzvuePTTe54XUKeIW9ohie%2B%2Bso8pdBF%2BhVHJzmUsHbHT4XYRUhKC6G%2F07yZDD6V1lv9tcHskZcgxnQXxMc27g0z2u1I%2FqqV5VLeLutlukzXrsf9y%2FpJWMhJ9AueG7BmPlebKvzsK4Ze5FH%2B7A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7a4e538a862f1c6cee3cae16bdb7dfea
+X-Etags-2: 7a4e538a862f1c6cee3cae16bdb7dfea
+
+{"title":"Bill passes declaring economic developers not lobbyists","description":"Alabama legislators had exempted economic developers from requirements to register as lobbyists last year but the exemption expired April 1.","url":"https://www.al.com/news/2019/04/lawmakers-pass-bill-saying-economic-developers-are-not-lobbyists.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FRCQGSQZXVVHCREYKX6LHI45R2U.JPG?auth=30b818dd5cd520160a9533089e7d164d8ab5235933f203f2c2557063ab3cbf8f&width=1280&quality=90","charset":"utf-8"}

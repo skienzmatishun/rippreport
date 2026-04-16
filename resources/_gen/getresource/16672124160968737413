@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ffa0bffa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:13 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=84RWe8NVsl7GSwf7iND4KWft8OJZxJUKFKdzrPRoreDK74uYPKoShUQDOKvb%2Fcq7H%2FV5nSM2zPWsUgyPzmtP7l6%2FJTOrz2w2o8dHSWMx2%2BI51pAMs73Gb2CUzTOqBMmN6N95PkgRDYCdx2928hLoZE5t9g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: dbe174c61cff9f3f5756a2e113351edf
+X-Etags-2: dbe174c61cff9f3f5756a2e113351edf
+
+{"title":"POP UP TARGET - Ripp Report","description":"Jack Burrell is like a pop up target. He is involved in one controversy after the other. The newest “sketchy and secretive” project is the K-1 Center. …","url":"https://rippreport.com/p/pop-up-target/","image":"https://rippreport.com/img/pop-up-target.png","charset":"utf-8"}

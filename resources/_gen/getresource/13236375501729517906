@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64052eb03a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SEKM6WM3DpAzqDphr5bRuU99b23AfVi6hV4bUzKsXqb2%2F1sk898n8KRvaZhgPv8Nw36vNqPgd78CXiU4Ll6N9pITeuL4DZMYoJuV8MY%2B2qIrzNxwI9U1QUn3NEQl5EfaW9cjCzw26GWBsEwXpT19XjLdLA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=94
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 50e827ed7c7dca72e711ff867ee659c4
+X-Etags-2: 50e827ed7c7dca72e711ff867ee659c4
+
+{"title":"CATALYST ATTACK - Ripp Report","description":"If you live in Baldwin County, please share this post as much as possible. This is very IMPORTANT.\nThe Ripp Report, Baldwin County Legal Eagle, the …","url":"https://rippreport.com/p/catalyst-attack/","image":"https://rippreport.com/img/catalyst-attack.jpg","charset":"utf-8"}

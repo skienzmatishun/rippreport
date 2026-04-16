@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640604b07a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Lm3f%2FByUwq2js4OKbVxITz6vz2dAXNlKJKTvZlidjzfUjGtc%2BJakSAvTo3p8fS%2BW9gWp%2Bym11O7FEcAR657pYhj5%2Fl8q7jY3C3PfLob6zhHlODNSM35y%2BFx5RWoiSfZZ8VDTKMzK1J6BQHFDbWzstCkZtA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 291e7b461e9f6d7d452c397a4f0961ca
+X-Etags-2: 291e7b461e9f6d7d452c397a4f0961ca
+
+{"title":"Roy Moore tried to fit in with Senate Republicans for a day. It didn’t work.","description":"By the time he left the Capitol Tuesday, he was once again a lightning rod for controversy.","url":"https://www.washingtonpost.com/powerpost/roy-moore-tried-to-fit-in-with-senate-republicans-for-a-day-it-didnt-work/2017/10/31/a8981580-be63-11e7-959c-fe2b598d8c00_story.html","image":"https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJCZ6AF6REI6PF6ZXWVVUCVTQE.jpg&w=1440","charset":"utf-8"}

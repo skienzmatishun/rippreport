@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407a7c50a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1S10SELf6nAM%2FXbgPtZwzHVOHtvMXWX9f%2B0aY1WEd%2B%2BQDS0vEME35Ab%2BHEMSH4MLUSQF8GUlAuLILEYml4uh7%2FTAv6afvD56SODTx1Yuk%2FdfK%2B1NB9O6KbTMoI92CM1652WAY7NnVbQRBqY6%2BJyvFK7bBQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5e4756bc53040f026f6712867183a4e4
+X-Etags-2: 5e4756bc53040f026f6712867183a4e4
+
+{"title":"SHOOTING YOURSELF IN THE FOOT - Ripp Report","description":"The most important race in Baldwin County is District two. This commission seat is being sought after by three candidates, Steve Carney, Jonathan …","url":"https://rippreport.com/p/shooting-yourself-in-the-foot/","image":"https://rippreport.com/img/shooting-yourself-in-the-foot.jpg","charset":"utf-8"}

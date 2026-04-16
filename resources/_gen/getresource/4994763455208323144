@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640957a3ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gbf8mLYzbkExM1AUloTQL2fkkWpGKvG0JpHDQ%2FkkvB3q4UX7KtjvpKiKjFZYcRFsVbWj1xxyzCtnAAM3QSJEeSL0DZ%2BaoL9idAomcGg33vVH7pN1hBcYbKAdNnTqjyEyWEMqEoL8nSRQUyZMFlFfLyaW8g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: fee73ce83dc9b553f7e5c4ab459a5ecd
+X-Etags-2: fee73ce83dc9b553f7e5c4ab459a5ecd
+
+{"title":"CATALYST ASS WHOOPIN - Ripp Report","description":"Fairhope’s CATALYST group is licking their wounds after the election of Jerry Carl. What is important is the major shift in voting away from CATALYST …","url":"https://rippreport.com/p/catalyst-ass-whoopin/","image":"https://rippreport.com/img/catalyst-ass-whoopin.png","charset":"utf-8"}

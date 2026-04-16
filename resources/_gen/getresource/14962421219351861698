@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405fc9b0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Yj8a6Z7zUFfUeN3VfiOXNB566JeMa4aUla0LO9hSP2p43A04z8tR44S9qYvqQrZbZutvb0InyCU%2Ft%2BRs4EBL6Igkd46CkvDTO4ok6Q1k32SgUr0oUfFwDNRT75sWFh88Shbfpe3ApEXBuNmKrQloiJB8OA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: df84306ac0eb0642efddf4778d20532c
+X-Etags-2: df84306ac0eb0642efddf4778d20532c
+
+{"title":"Brad Bass wins Spanish Fort Mayor's race","url":"https://www.fox10tv.com/video/2025/08/27/brad-bass-wins-spanish-fort-mayors-race/","image":"https://gray-wala-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F08-27-2025%2Ft_d5f5f3a17ea34944a4ab7617e2706442_name_file_1280x720_2000_v3_1_.jpg?auth=747531c36e92b5ac569880d4801fb4ae4428c09b5226707fb03917cd4af63f02&width=1200&height=600&smart=true","charset":"utf-8"}

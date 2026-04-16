@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407efabca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fEUcAKZgNnTxOJdDWqXNDtrJb47lGgmErmZRWA0zqrJvO%2FIQax7c895idJWeQ5vadVzgUQwnZi9CJavsCOz1bVcmoIpbas28zIvuzcPRkixNMYk%2Fr2s6kYN8KTnfg6UVUTVvqDnj8zNl7Tne7WjxNxt3pw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=114
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: dad305d31347a91dd7b41b7fdf6ef824
+X-Etags-2: dad305d31347a91dd7b41b7fdf6ef824
+
+{"title":"FINGERPRINT - Ripp Report","description":"After a 4 and half hour meeting of the Eastern Shore Metropolitan Planning Organization, they voted to stand firm against Poison Ivy.\nIt was a sight …","url":"https://rippreport.com/p/fingerprint/","image":"https://rippreport.com/img/fingerprint.jpg","charset":"utf-8"}

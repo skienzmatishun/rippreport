@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640103e2ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:17 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gc4VtcC2O7rCfPA6QxPLasG44lJNSxV6sIE4tTuBFPKyB7ix6rXXCZ8j65VenoOH9x93eacSFq2SG0VZ%2BPcbLBEHNfDfY87LqtbZZ97lT6EUw1RlOL%2B%2FKaNa1K%2BLnUhd2slGRGuoAn7D2j4SWWYuumUStQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=96
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ba87cfc482fd1dab802df7923179b8da
+X-Etags-2: ba87cfc482fd1dab802df7923179b8da
+
+{"title":"Baldwin County Judicial Corruption - Ripp Report","description":"Citizens in Baldwin County have questioned the Sheriff&rsquo;s office for mishandling criminal cases and deaths, alleging a cover-up by the department …","url":"https://rippreport.com/p/baldwin-county-judicial-corruption/","image":"https://rippreport.com/img/baldwin-county-judicial-corruption.jpg","charset":"utf-8"}

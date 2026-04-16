@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640790811a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6e5Z1tlj8UsokOloYudS6KbnTvWqZtu%2BRPV59fWLi42EhJhd%2FqtU1Lhp%2FnhpLwl%2F%2FQMoE7bbHfjKGgSrO6WCPIevc3Fdv27IWPUIJoFLWe5OlLM6fUu4JD8Va14E8ReCTnC9yY1sFhrkD7H6wlHcminUfA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=104
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: eff483b1c070793e702b1f5f06013649
+X-Etags-2: eff483b1c070793e702b1f5f06013649
+
+{"title":"POSTER BOY OF CORRUPTION - Ripp Report","description":"Tom Albritton, the head of the Alabama Ethics Commission, is accused of unethical behavior related to a trust. Despite this, he remains in office with …","url":"https://rippreport.com/p/poster-boy-of-corruption/","image":"https://rippreport.com/img/stealing-from-kids.jpg","charset":"utf-8"}

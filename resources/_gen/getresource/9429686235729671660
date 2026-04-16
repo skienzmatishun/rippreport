@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406dbc40a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8Bf2R2bCPwuFAtU4uEiuJfUEqspbp87ZY%2F1HRq8vX9jVF3yn%2FF%2BNzkP5iWBAd3zbBwUr0vLsyWeGZ6biWLnvgRqQWuti3sSww%2B%2FSPAHeDBrgWkhP98AF2xk0YkUC0s7kstDO%2B6sQY%2FJglAcML%2F8M2XDn7g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=112
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5bd8023f4e1758ea47a18959ae32f851
+X-Etags-2: 5bd8023f4e1758ea47a18959ae32f851
+
+{"title":"DOLLARS AND LIVES - Ripp Report","description":"DOLLARS The City of Fairhope’s 6.2 million dollar waterfront project became a political hot potato during the last municipal election. Politicians put …","url":"https://rippreport.com/p/dollars-and-lives/","image":"https://rippreport.com/img/dollars-and-lives.jpg","charset":"utf-8"}

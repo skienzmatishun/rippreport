@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d4aa98a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uIJTMc9vmftg7X6xvO4RkAWCKy81uvDue1efPZdB32E5wiulVqqjRI5tCgXiFfJVO2DstWQ6JP1NN529xYYME5rj9BX7UmKSk%2BMJoxulAGzagtjtxCQ4NP3%2BQUUL%2FAjH5UaICRE8wOLHq0fTmLScf2mavQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=71
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b92aa49ad5497f12b9a5119998ad57fb
+X-Etags-2: b92aa49ad5497f12b9a5119998ad57fb
+
+{"title":"YouTube is not currently available on this device.","description":"To learn more, please visit the YouTube Help Center: https://www.youtube.com/help","url":"https://www.youtube.com/watch?v=9xp1XWmJ_Wo","image":"https://i.ytimg.com/vi/9xp1XWmJ_Wo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAs9YunhmCZvNCUXY_lxSowLVfvVA","charset":"utf-8"}

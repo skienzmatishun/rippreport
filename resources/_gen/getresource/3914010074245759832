@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b5b8efa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VhOywYaQBSsWP2luWW70%2BXEn38HIf0LawnUXfD%2BJIcXZ0BVI9xorsuTfTLX0ESmDq2Ucn6FKn7sT0%2Bbe25XvcbtY4Y06C%2Fi%2F1e4iqSRJ9eD7MJKjH5C7RIwxdEDAwf4CKE3Wf2HVKNtwREc9RrA13DkX4g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d72303fb485c9ba35e391d5191e11977
+X-Etags-2: d72303fb485c9ba35e391d5191e11977
+
+{"title":"ALABAMA CORRUPTION INSURANCE - Ripp Report","description":"Why is Alabama so corrupt?\nBecause all the Alabama government agencies or elected officials refuse to do their jobs.\nAlabama has all the mechanisms to …","url":"https://rippreport.com/p/alabama-corruption-insurance/","image":"https://rippreport.com/img/alabama-corruption-insurance.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409cb868a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=L4Y5MDAN7ZbX8UcarKVpSOJcJDRX%2BfBQTXJGhWpwY1b9qUDpKXQcruiOz6ehP1pJ2V0%2BNuiAcBIIz3iejM0fcAIZJDDNCCEW86kjqq8Wapr97UScq%2FkKvpkWoYBXH%2Bg2aO9FMksaAaK%2FTkq%2FaXUkCE%2F13Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9f078a94418d1776496f91e30c5e5512
+X-Etags-2: 9f078a94418d1776496f91e30c5e5512
+
+{"title":"Sheriff’s Deputy dies attempting water rescue on Fort Morgan Road - Gulf Coast Media","description":"GULF SHORES, Alabama — The Baldwin County Sheriff’s Office has confirmed that one of its deputies died Sunday while attempting a water rescue of a swimmer in distress on Fort Morgan  …","url":"https://gulfcoastmedia.com/stories/sheriffs-deputy-drowns-attempting-water-rescue-on-fort-morgan-road,107471","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20210607-104802-Deputy%20Bill%20Smith.jpg","charset":"utf-8"}

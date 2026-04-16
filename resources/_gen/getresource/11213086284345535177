@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64032bb0ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bqke7CgLtBbq3ptxO3a27vK7B8ZzO8Rr47rTmNHBLaU%2FWOniy5dW4jwHr%2B7H4XBf7%2F%2Fbls4FeqQ0wL05xf%2BUSmwQz7on057llta0jY7REay0CehtMrO%2Bp8NGFQIdbK%2Bu0Dc06%2FG3VnKkQvFU3tNa749PFg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 692af54ebdd1d547699d4b2c3b5b8325
+X-Etags-2: 692af54ebdd1d547699d4b2c3b5b8325
+
+{"title":"MONEY ON THE TABLE","description":"It is no secret that the Fairhope City Council is CATALYST through and through. It is also well documented that the council opposes, procrastinates or just refuses anything the Mayor may propose. Even projects that have been previously endorsed by the council, are delayed or canceled by the council.\nAfter 3 and half years, The Fairhope Waterfront Project is finally on the drawing board. This $6.2 million project has had a wealth of planning and public participation. In the work session, prior to the council meeting, a detailed, 48 min presentation was given to the council.","url":"https://rippreport.com/p/money-on-the-table/","image":"https://rippreport.com/img/money-on-the-table.jpg","charset":"utf-8"}

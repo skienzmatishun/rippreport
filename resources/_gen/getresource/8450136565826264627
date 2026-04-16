@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409809d1a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TFfB7KVmqCj%2FTlyp%2BE5mg7eNGvZrdFPBjPC8aQw%2FLMqH3bAAtJTU5q6BYrsdQt9zDx1bbBTGWvofSrLtrxYUOVJe74ajppqQn%2B0IFPwNh7bG%2FF86jNXBSBEAqf7qv8yK5x2KL8tLfyDzFZAsVufCkPj4og%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: dc4da443a4897d1e2d3d992152ceb12e
+X-Etags-2: dc4da443a4897d1e2d3d992152ceb12e
+
+{"title":"K-1 School Purchase Moving Ahead On Schedule","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2018/11/k-1-school-purchase-moving-ahead-on.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG-VrS0-kk619Lo_joZz333r0QjWKksCJ6iiDYagfiAfahyphenhyphendvumh4wJeAX21DxuOYYIpc1WpddSwms89Bh18SN5hiiFyGSvgmEtJRoB_2NsV9kCjz8SnL9FdOuElj8zN3YUBuZxz1krVg/w1200-h630-p-k-no-nu/k-1+tank.JPG","charset":"utf-8"}

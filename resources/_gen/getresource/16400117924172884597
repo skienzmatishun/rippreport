@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640df49e2a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:50 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nBSWvivMsc42mWl3aKrsdfBereQLpRrJB0LJ%2Brx1gfLQ6AWB%2BX8%2FGUsDz6J3Y9gfgQymOm1r63qjTc80C%2BEXzUxzeX8vq84GOth8hrq%2FMWMGe2ud9KV8CFWFzRlICjQIIa1ohyp36gKDh0bCpLQG9ULfJw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=96
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 35ae7b93984f24c8d0870d64cff9ce68
+X-Etags-2: 35ae7b93984f24c8d0870d64cff9ce68
+
+{"title":"LOOK IN THE MIRROR - Ripp Report","description":"Only 17% of the registered voters in the state, voted in the senate primary. Fairhope had only 14% vote.\nAlabama Senate special election results: Who …","url":"https://rippreport.com/p/look-in-the-mirror/","image":"https://rippreport.com/img/look-in-the-mirror.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407c4a60a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2BxTDXkL5MSlEjuLHKBmH7sqm1MFaKzUtWI3YZ8q6jfCU1PH3y2GGZ180OA6ZtZXjrBB686db%2FvmedpPhowOlkEYVS6OAMh%2Bsn9l5T2sfcKofkmNVlon6A6MNOgzP6jsatK64zSm3dc%2Fs20G4owinehxCA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=122
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 77014d4a059f213ac596b566afd51c3d
+X-Etags-2: 77014d4a059f213ac596b566afd51c3d
+
+{"title":"CATALYST - ALABAMA VALUES - Ripp Report","description":"Chris Elliott was appointed to the Baldwin County Commission by Governor Robert, boobie grabber, Bentley. There is a lot of irony in that appointment …","url":"https://rippreport.com/p/catalyst-alabama-values/","image":"https://rippreport.com/img/catalyst-alabama-values.jpg","charset":"utf-8"}

@@ -20,34 +20,44 @@
 {{- $workerBaseURL := "https://links.rippreport.com" -}}
 {{- $imageWorkerURL := "https://images.rippreport.com" -}}
 
-{{/* --- API Call with Local Caching --- */}}
-{{- $workerURL := printf "%s?q=%s" $workerBaseURL $url -}}
+{{/* --- API Call with Local Cache Fallback --- */}}
 {{- $json := "" -}}
 {{- $errorMessage := "" -}}
 
-{{/* Create a cache key from the URL */}}
+{{/* Try to load from local cache first */}}
 {{- $cacheKey := $url | md5 -}}
-{{- $cacheOptions := dict "key" $cacheKey -}}
+{{- $cacheFile := printf "link_previews/%s.json" $cacheKey -}}
+{{- $localCache := "" -}}
 
-{{/* Try to get from Hugo's resource cache with 24 hour expiry */}}
-{{- $result := try (resources.GetRemote $workerURL (dict "key" $cacheKey)) -}}
-{{- if $result.Err -}}
-    {{- $errorMessage = printf "Error fetching preview data for %s: %s" $url $result.Err -}}
-    {{- warnf $errorMessage -}}
-{{- else if not $result.Value -}}
-    {{- $errorMessage = printf "No resource returned for %s" $url -}}
-    {{- warnf $errorMessage -}}
+{{- with site.Data.link_previews -}}
+    {{- $localCache = index . $cacheKey -}}
+{{- end -}}
+
+{{- if $localCache -}}
+    {{/* Use local cached data */}}
+    {{- $json = $localCache -}}
 {{- else -}}
-    {{- with $result.Value.Content -}}
-        {{- $json = . | unmarshal -}}
-        {{- if not (reflect.IsMap $json) -}}
-            {{- $errorMessage = printf "Invalid JSON structure from worker for: %s" $url -}}
-            {{- warnf "%s Content: %s" $errorMessage . -}}
-            {{- $json = "" -}}
-        {{- end -}}
-    {{- else -}}
-        {{- $errorMessage = printf "Empty response for: %s" $url -}}
+    {{/* Fallback to remote fetch (for new links) */}}
+    {{- $workerURL := printf "%s?q=%s" $workerBaseURL $url -}}
+    {{- $result := try (resources.GetRemote $workerURL (dict "key" $cacheKey)) -}}
+    {{- if $result.Err -}}
+        {{- $errorMessage = printf "Error fetching preview data for %s: %s" $url $result.Err -}}
         {{- warnf $errorMessage -}}
+    {{- else if not $result.Value -}}
+        {{- $errorMessage = printf "No resource returned for %s" $url -}}
+        {{- warnf $errorMessage -}}
+    {{- else -}}
+        {{- with $result.Value.Content -}}
+            {{- $json = . | unmarshal -}}
+            {{- if not (reflect.IsMap $json) -}}
+                {{- $errorMessage = printf "Invalid JSON structure from worker for: %s" $url -}}
+                {{- warnf "%s Content: %s" $errorMessage . -}}
+                {{- $json = "" -}}
+            {{- end -}}
+        {{- else -}}
+            {{- $errorMessage = printf "Empty response for: %s" $url -}}
+            {{- warnf $errorMessage -}}
+        {{- end -}}
     {{- end -}}
 {{- end -}}
 

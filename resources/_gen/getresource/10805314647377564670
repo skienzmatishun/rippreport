@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64091be90a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DPeN6rG2p%2FwTqXRopx56Jq%2BKnvepgSaTUatgtx%2Bv19NJ87oGmEkXwO%2F92VfoW4ysgdL6eTPROvzkHJy5qBfLAFJJZL0e%2BB9PcENcMqHC%2BgAnEPUjyZu%2BxSik3%2BkO5gFhRbQSubPhyEdqN4sRTJySRMTGtw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7b166d362629d90c838bbd4a6bc3eba3
+X-Etags-2: 7b166d362629d90c838bbd4a6bc3eba3
+
+{"title":"CATALYST HELD BACK - Ripp Report","description":"Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters.\nElection Results web.archive.org Read More …","url":"https://rippreport.com/p/catalyst-held-back/","image":"https://rippreport.com/img/catalyst-held-back.jpg","charset":"utf-8"}

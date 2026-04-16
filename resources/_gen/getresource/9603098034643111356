@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404f380aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=scFX%2FTia%2B7Bbr1ILejE%2F08B1PHG293QOc3kXNfRnkDrcZcJ2Fx6Pf6OV%2FXn1ELCLCSBEaxPfnLTe1fM9HK2LT66dX9upJyFTIAMvWTeKXq4PryWLB5f11EAWie6iIscbqRnxsGDjVy7mgOEvgb6QD48c1Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=123
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a954254055f4341a4555367b00593aee
+X-Etags-2: a954254055f4341a4555367b00593aee
+
+{"title":"COVER STORY: Funding race is on for competing RESTORE Act projects","description":"An early review of the 94 projects thus far submitted for funding through 2012’s RESTORE Act indicates coastal Alabama could be fortified from the impacts of future development and potential","url":"https://www.lagniappemobile.com/news/cover-story-funding-race-is-on-for-competing-restore-act-projects/article_c1fcb0ce-338f-5521-969a-851f871e5aae.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/b/bd/bbdaf68c-f3c8-5646-97b3-dc7c28a1c516/62f51511a0531.image.jpg?crop=1170%2C614%2C0%2C383&resize=1170%2C614&order=crop%2Cresize","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b34990a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kwvm6nMdMKibNxv5ov3UxWpwxYSfSboLS3sSK34Y0fy3ghiNbaRBRGCCZsMhpK5%2Bzs6Hxbx2JoSA1uI6oX8XyTOYzkJ%2FwS%2B4pKePm%2FND5KoTON7y%2BjBFBELyBjSu%2BJ8aGvhqrJzkcejRiXH%2BjgEJvTc9tw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=94
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a8e132b4db90d095d48999fa06590f6c
+X-Etags-2: a8e132b4db90d095d48999fa06590f6c
+
+{"title":"FAUXHOPE - PARTY BEFORE COUNTRY OR CITY - Ripp Report","description":"“While the State of Alabama&rsquo;s total electorate ultimately denied Roy Moore from taking the oath of office as a United States Senator, the City …","url":"https://rippreport.com/p/fauxhope-party-before-country-or-city/","image":"https://rippreport.com/img/fauxhope-party-before-country-or-city.jpg","charset":"utf-8"}

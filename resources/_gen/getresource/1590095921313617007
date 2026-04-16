@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640849d0da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=N%2FdvWdPG6PSjjK0O14li4Y2o8tT1qN60fT5IODWWgEfbQjuuzZqStevM655FVeAY4p99Jw5d8xCIylaQ7Ap0xDV4DST%2BzbH2fr7AoY0SR8a5DH8Z9dknMHhnxGEVF67btKedN8zL4DZ0AZHXAFzbMRGUHA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0b202722d5c34a662187d9b2421f681d
+X-Etags-2: 0b202722d5c34a662187d9b2421f681d
+
+{"title":"Fairhope Infrastructure - Ripp Report","description":"In Fairhope, Alabama, there’s a water shortage, incomplete infrastructure projects, and an overloaded sewer system. Amidst legal battles and …","url":"https://rippreport.com/p/fairhope-infrastructure/","image":"https://rippreport.com/img/fairhope-infrastructure.jpg","charset":"utf-8"}

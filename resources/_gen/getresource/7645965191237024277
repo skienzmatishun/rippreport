@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640643f10a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=h6qJuMqVEANoQ8rbw55dU9Stcs32zQD%2FcFyoCO%2F0wq%2BMAkjbYruOPK%2FMuCXXswgh4rq%2Fv1x2fkYhia0sUUTsFCfS%2FFIGsa0cejPJoQV7P54eIR1WbFmnS8S1QxHs42%2FE6mcOFQ%2FJMQSmrNmuA5cdRG4IlA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: eec6bc7196bde447135f4a0a8ba24121
+X-Etags-2: eec6bc7196bde447135f4a0a8ba24121
+
+{"title":"FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT - Ripp Report","description":"The Lawsuit is included at the end of this post, read it and imagine it was your son!\nThe past is catching up with Sheriff Mack and his self …","url":"https://rippreport.com/p/federal-civil-rights-lawsuit-involves-bcso-and-major-crimes-unit/","image":"https://rippreport.com/img/federal-civil-rights-lawsuit-involves-bcso-and-major-crimes-unit.jpg","charset":"utf-8"}

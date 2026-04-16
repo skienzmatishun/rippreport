@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409eff69a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HzsGJjYp7yr0v6oIE%2B9LDnVq2xsg51ezwCBjOlrF6iinV1HJIOG6bN9qPsZ7HSooyKiFcB7mjNAW1WjjvZj3w2mmFXpiJddO5XNwqxOYXFu0dlbiGkUnOSIEqQc1BuOvbWOUwE5EbEP31Ui6xCGPcJLMuQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=99
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: caec21ec8d5bc1bcb9b068a0aa85c8e5
+X-Etags-2: caec21ec8d5bc1bcb9b068a0aa85c8e5
+
+{"title":"FAIRHOPE SEWER BACKSTORY - Ripp Report","description":"The Ripp Report is a consumer, citizen, group. The intent of the Ripp Report is to inform the public of current political events as well as consumer …","url":"https://rippreport.com/p/fairhope-sewer-backstory/","image":"https://rippreport.com/img/fairhope-sewer-backstory.jpg","charset":"utf-8"}

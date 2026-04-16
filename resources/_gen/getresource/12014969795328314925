@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405f78c6a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=J7wVXewUjBzqShQzZ4OXS2arO2SbthjYAzATGIbC7jikGgfol%2FDCdrmwhUVF48Fzi1Ce%2BLeJRcnQQB8%2BJI1TDC7EX%2FBeDAN5oc7W1rOTzI%2BVfWJViC%2BVBVujmM5J0pWcJffH6z2qmbWjNoQW0wForlb6mw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=94
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2b45ba101299a515638fec63799b31ce
+X-Etags-2: 2b45ba101299a515638fec63799b31ce
+
+{"title":"Senator's company awarded $639,000 while he supervised grants for boom work - al.com","description":"Of $1.15 million paid to Fairhope from BP grant funds overseen in part by state Sen. Trip Pittman for oil spill response work, the city awarded Pittmans company $639,000, according to city records reviewed by a Fairhope councilwoman.","url":"https://www.al.com/live/2010/11/senators_company_awarded_63900.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Flive%2Fphoto%2Ftrip-pittmanjpg-52d6ae9ddb0de283.jpg?auth=efc53714268dd7084b06dc66cad778afd74a2c7ae3e2477763565634872b4ba0&width=1280&quality=90","charset":"utf-8"}

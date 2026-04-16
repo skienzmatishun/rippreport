@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640901949a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nMJi4pi6Oj3h9EZSh7d%2FmuV2VVO1a6aEudVKDoj%2BF%2FVn1munMYDJomAm5JDfgQaIL8QH1RoZY9rFpT8ErL7cJqrUF7%2FLTBMp8gOll5nDinydpaL5e7PAVe1MbemxdXIryE3KlqBOgTD6WmERduFiRWVssg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=194
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cc08ef471a446814564ddf98b30ec440
+X-Etags-2: cc08ef471a446814564ddf98b30ec440
+
+{"title":"Famous Hermit's Hut Could Be Moved","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2023/11/famous-hermits-hut-could-be-moved.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY8iHwHPbPhhFxDbxo9J8-pRh7Z-dlJuz00xEJm-sxK0NCEN1xC8YdOPGU8vvVAWk3qJTL-d9nVTm8YRd0u1X16mK1TjKzroaUuxnPFwThz4PHgh8N8jxzkmXw9d3qIutlrd7L8MDj2gHf83-uITZBVXWL-YJP1iv4DS_klv8QQfAvRTIwwPke3Jn_i4E/w1200-h630-p-k-no-nu/hermit%20huse.jpeg","charset":"utf-8"}

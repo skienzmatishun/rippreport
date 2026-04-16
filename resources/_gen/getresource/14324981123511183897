@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b6ec98a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VvdOUFXp0mVQP5cmjC5HYl75VG7rJtFhxbcjL4xcDC%2BNdMRHsP2sohucuB8PBSPYyDOjPeWumong1viZsvRejDx3AnUCCsGam2M2h0%2BLp4YbtT4dP24H7G1Vj97SfbLuhO1r7QHbztKyinEoDFywo5oTuQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=71
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 702967175ce914f3b0fc9fc1528ba65b
+X-Etags-2: 702967175ce914f3b0fc9fc1528ba65b
+
+{"title":"CATALYST MISSING IN ACTION - Ripp Report","description":"Last night Spanish Fort played Fairhope in football. The stands were full, social distancing was all but impossible.\nWhen one of the High School …","url":"https://rippreport.com/p/catalyst-missing-in-action/","image":"https://rippreport.com/img/catalyst-missing-in-action.png","charset":"utf-8"}

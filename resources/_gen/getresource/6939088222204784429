@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64077fc50a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NFFAjC%2FUMGXjILCkzuiiUQqu23wAGS3lrL3N%2FB20%2FM2iLVQb3KCewMm0TYOVJB0XInwYAS79yqdBG9pINOtbIO%2FVgWbI10pKnfyxx%2Fs4qrrJGPomIStV%2Fm%2BAe0fYwtxmBcjcVU30hy2RFVmbJs5tndMfRw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f871b92ceb1dbe46b43ac232ec6512a1
+X-Etags-2: f871b92ceb1dbe46b43ac232ec6512a1
+
+{"title":"JD Crowe: Kay Ivey’s firing of veteran VA commissioner blows up in her face","description":"The Alabama guvnah lit an exploding cigar when she fired Alabama Department of Veteran Affairs Commissioner Kent Davis","url":"https://www.al.com/news/2024/10/kay-iveys-firing-of-veteran-va-commissioner-blows-up-in-her-face.html","image":"https://www.al.com/resizer/v2/4HHKQUZ5YBH7HOVQVJ5QLYPDEU.jpg?auth=486ca69c19e3432c523f73591b26716bb29dd0cf80fdc35053dfad1fcc743864&width=1280&quality=90","charset":"utf-8"}

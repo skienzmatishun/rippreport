@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640abfa44a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XqSIBU566fvdsHX8kU6hJMlxqJYgNZvj0JAYh3g8gF4ZS0vocOscp5OakaxH80t3DwP8rBoMuMiOBdpIjk%2F5Pzv4USGKtcL2ZKBXgIcgkbZAiMZEBIsKlsuNcKxu5v0Wbfgj5bW2i64IoxsjPFtDUDwAgg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e703b23868622266bd310506e5dde416
+X-Etags-2: e703b23868622266bd310506e5dde416
+
+{"title":"FAUX CANDIDATES - Ripp Report","description":"It is election time and CATALYST is at work stroking FAUX candidates that are willing to fall on the sword for CATALYST.\nFaux candidates are those …","url":"https://rippreport.com/p/faux-candidates/","image":"https://rippreport.com/img/faux-candidates.png","charset":"utf-8"}

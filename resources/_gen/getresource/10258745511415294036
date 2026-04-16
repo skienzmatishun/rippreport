@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640470f8ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0KsolMDDNYwlS50J2dX%2FTEbX2pVIqrFgc%2Biz2%2FKVRazj0L87wxuMOO8Q6ocO52zrLtE4f434SW%2Bcm6Y71hzzrcL53ncUq6bapMPNt7DHkDjr7LCCg4UO2JzSMaZxnk%2B%2BTsMtrQtlMSMbpgNyi%2B9mCnNigA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 91b8dc0dc065f55bce759cc73579aac5
+X-Etags-2: 91b8dc0dc065f55bce759cc73579aac5
+
+{"title":"ETHICS COMEDIANS - Ripp Report","description":"The Ripp Report is no longer operating as a non profit. It will operate as a cooperation in the future. The change allows The Ripp Report more …","url":"https://rippreport.com/p/ethics-comedians/","image":"https://rippreport.com/img/ethics-comedians.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b05ff9a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hJi%2FnLOJrhC8IPEEHy%2FNQBVCUUeEC85aWKlHUyt0KtImRFJrg88YuROvpLkpvRIBGbtyFyjULenoStGdsWdPHHC3JLIXxDOt9IatcxuAIKrP2bJSCxjwlgPya3EvR22e5VCQAXrOwXPnmTp5I1%2BZhF5o2A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bf1af6128a0210596cffbb185b2addb9
+X-Etags-2: bf1af6128a0210596cffbb185b2addb9
+
+{"title":"QUESTIONS FOR FAIRHOPE - Ripp Report","description":"TOP 10 QUESTIONS for Sherry Sullivan and the general public.\nBy now you all have heard these weak knee interviews of soft ball questions from Fairhope …","url":"https://rippreport.com/p/questions-for-fairhope/","image":"https://rippreport.com/img/questions-for-fairhope.jpg","charset":"utf-8"}

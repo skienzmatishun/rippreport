@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64087cf7ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rEvFY6ItV6MHgIBGFSaqppIbbYHx4yOisaNyNWrnBDFpE2USeJSFzIgrpB2CV%2F%2B7RKcV6yVYj3oCyPDD%2BsCM9kO3qmu5hB2wGaglUshdp6TB1gWVX021IbsWheqa%2FSJvmw14yTjRdjP56AmUCX%2BeR5FsIw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3f1fdd07824b1c3fa40f7b2654cb5058
+X-Etags-2: 3f1fdd07824b1c3fa40f7b2654cb5058
+
+{"title":"HELP - FAIRNESS IS KILLING US - Ripp Report","description":"The Fairhope City Council is using the Baldwin County Political Dictionary’s definition for &ldquo;Fairness&rdquo;. First, the council implements a …","url":"https://rippreport.com/p/help-fairness-killing-us/","image":"https://rippreport.com/img/help-fairness-is-killing-us.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404a7a31a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=u658EF%2BXNPWyK3r0PpbSwHlioQMrMs%2F76uzbP4axbm5T4fD0iHyCo7GDqSjmhwD8Tp5ZLP65XHg%2Bk3VTCK4ZM9yNlevEpWSgTkhPQYFC9nywVQgqfOBYKCqPE3kI%2BTyFOwrElS7CU9t6zK2jB%2FYEMrZjtw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ecb833f51e7563b5bba7d11cbf7918f0
+X-Etags-2: ecb833f51e7563b5bba7d11cbf7918f0
+
+{"title":"FAIRHOPE'S GOLDEN KEY - Ripp Report","description":"Tomorrow citizens of Fairhope will go to the polls, rain or shine. Most citizens do not understand some of the inner political workings of the city, …","url":"https://rippreport.com/p/fairhopes-golden-key/","image":"https://rippreport.com/img/fairhopes-golden-key.png","charset":"utf-8"}

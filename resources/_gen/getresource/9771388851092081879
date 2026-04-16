@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64076a82ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dfjE9s1pCS6dj%2B5OOehQcfVM3V%2B4j97TJif2eyRlrPmTPfm%2FjA0UmL9M0wtn8iSXx5dLtkGVzkNnh%2FFIcjTlD%2BRsC%2BCeuSc%2FlehGmgQUbnCh2BcgK6CJK26RiLjoYhLBciWKNal1dwwQ2RneECq82KzQNw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=70
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 093f47dac36db997a0d98cc46f342fec
+X-Etags-2: 093f47dac36db997a0d98cc46f342fec
+
+{"title":"The ugly showdown for a Senate seat in Baldwin County","description":"The battle between Dr. David Northcutt and Chris Elliott has gotten ugly as the allegations and accusations fly. The stakes are high as the winner of Tuesday's runoff will be an overwhelming favorite to win the Senate seat in this Republican stronghold come November. ","url":"https://www.al.com/news/mobile/2018/07/negative_personal_regrettable.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_impact%2Fphoto%2Fnorthcutt-elliottjpg-366d05d8c179906f.jpg?auth=ff4972b0256d6aeb26a57de15264a8b7b7c35c083ea089faf092e1848d0058ea&width=1280&quality=90","charset":"utf-8"}

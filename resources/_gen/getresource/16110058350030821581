@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64092b95ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3QZlI9f3ucZN%2BcZBX1R0vJBOPrCxmewhmv5qKy%2FvVJTefOY0E5wbu9MR0M9b6U%2Fv3uxFt1FWgTGUFtdstVrhJjaqA3HxJl9ye2A6LdubOPApFgrwlDTyUetNhD8e9qQIEK6ehVl72e8AJOhKSMWQuiwUIA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5006a8f53133939ea400feddcf55e40b
+X-Etags-2: 5006a8f53133939ea400feddcf55e40b
+
+{"title":"Fairhope council to find new location for Montrose 'hermit's' house","description":"The former home of Henry James Stuart, Montrose’s “hermit” for more than 20 years, could move to Fairhope if enough money is raised to cover the costs of relocating the","url":"https://www.lagniappemobile.com/news/baldwin_county/fairhope-council-to-find-new-location-for-montrose-hermits-house/article_cbfa84a8-8da2-11ee-a3ee-cb743b63a746.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/2/a3/2a365628-8da3-11ee-a732-df75d33aece6/656567233b71b.image.png?crop=957%2C502%2C0%2C6&resize=957%2C502&order=crop%2Cresize","charset":"utf-8"}

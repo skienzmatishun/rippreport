@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c93e55a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Dmr0fpGA9VcNSMvJrlegm42xOKK7J1ZmnPq5DOIiEuxvnW4qYL18w7GddyqFG8tSvvQpeEdohyBotBaLv7ie%2Fh1jz7EaomwOw%2BCllTVh%2BJDAy%2BSO2bl9QautCU%2F0Gg11YUthVFAAG1tR%2FmRXUFxca%2BFqsA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=104
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ced744f4101646344cfadd6e0196fe22
+X-Etags-2: ced744f4101646344cfadd6e0196fe22
+
+{"title":"Alabama Supreme Court to hear Mike Hubbard appeal","description":"Hubbard attorney Bill Baxley said the defense will be able to present arguments to the court that the actions of the former House speaker did not violate the state ethics law.","url":"https://www.al.com/news/2019/03/alabama-supreme-court-to-hear-mike-hubbard-appeal.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FOYFG4WIHGNB5XO634O4ALEVMB4.JPG?auth=e6bb5c744f08ce908b9ea04634076d43d50908b6f6ad42082653b5d1a309480f&width=1280&quality=90","charset":"utf-8"}

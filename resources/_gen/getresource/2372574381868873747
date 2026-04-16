@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640acbc84a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=epwmDlhNivlGL5Akch2LwDHS4%2BhoBEID%2FzpSh5T6kCrIKCqw97whykJJT7Vav6nDMO6upJdXxbIuMfhuiCsq6oQRwtoA6v6IQ%2BKj%2Fi%2Fknu8G811aW2SJmSoj0HNm1EoYigR%2B%2FpyXOhqJY8ojIzCD%2B6slbg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=99
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5fcd3e4e3516ff9fd0ff6beaceda2748
+X-Etags-2: 5fcd3e4e3516ff9fd0ff6beaceda2748
+
+{"title":"FLY ON THE WALL - Ripp Report","description":"Comment:\nI hope that everyone understands what is really at stake here!\nSherry says “ she knows how city government should be work, about how building …","url":"https://rippreport.com/p/fly-on-the-wall/","image":"https://rippreport.com/img/fly-on-the-wall.png","charset":"utf-8"}

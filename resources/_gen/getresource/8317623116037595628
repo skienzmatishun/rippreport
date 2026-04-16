@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64064b895a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wjEnbl7lDq2m0JfPysIcGfTqzz8fZp7aYN1LPM6PXfzND3zBUbPjblM4PZm%2BfuxGrZlE5w24nNdThemS3gQSIrBvbmmpc9OBf2U3IxyyOQr%2F%2FsmrHdi3rJkbxUX3e7VukEIJvdNLEoQ8FnMexd7ujjKEDg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 197059d77b04b82a68183081b712bf01
+X-Etags-2: 197059d77b04b82a68183081b712bf01
+
+{"title":"Former Fairhope public works director sues city, Mayor Karin Wilson - Gulf Coast Media","description":"Former Fairhope Public Works Director Jennifer Fidler has filed a lawsuit against the City of Fairhope and Mayor Karin Wilson in her capacity as mayor and as an individual. The lawsuit stems from her  …","url":"https://gulfcoastmedia.com/stories/former-fairhope-public-works-director-sues-city-mayor-karin-wilson,73996","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20190302-091933-636225699313270000.jpeg","charset":"utf-8"}

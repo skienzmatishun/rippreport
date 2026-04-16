@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640684b7ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=s8O6AXpRNVwfDCTADoSJgRqVD4ZCpl2geflUnIbvorJrrh5wnqsW086LdBmKPo4wlpdfOpqhXmYCdZP9%2BGCGqjyFvx%2BDr5ESmcrAeuI4B45LD%2FsQlIxYcteIxnuqO5RFqTrW7Zzqh4QDdLBx%2BovQcpdIKA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ecc1f0d56ee89d57c43bbe8563b06313
+X-Etags-2: ecc1f0d56ee89d57c43bbe8563b06313
+
+{"title":"TICK-TOCK","description":"The two most photographed places in Fairhope, are the Pier and the Downtown Clock. The Clock and adjoining patio are subjects of photography by tourists and locals daily. It is not only an iconic location, it is the soul of downtown. Change it and you have changed Fairhope. It is a TOURIST ATTRACTION.\nThe City of Fairhope should be embarrassed that the patio portion was not purchased years ago.\nCould not load preview for: https://www.","url":"https://rippreport.com/p/tick-tock/","image":"https://rippreport.com/img/tick-tock.jpg","charset":"utf-8"}

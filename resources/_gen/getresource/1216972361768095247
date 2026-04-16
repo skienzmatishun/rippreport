@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c5083da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fZiT9cOi91N3lvhxWjzae0VmDm93f7rb90C9xLsDGVk9qzxvQJGpWZKQbpjjgS1UtDyH5HhUmEI19b6Nek33bDGfreESqLYHVf7AxRPh9eI4yJqmee%2FgAdeif1B5lzwY2%2BzDK1lXOVPajtbK6uI4R2tzBg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e14dd320a18d358545749c1ccfd99e4a
+X-Etags-2: e14dd320a18d358545749c1ccfd99e4a
+
+{"title":"'Sleeping in cars’ issue is Fairhope fake snooze","description":"As far as I know, people sleeping in cars is not a problem in Fairhope. The people driving the City Council clown car? That's another story.","url":"https://www.al.com/news/2019/08/fairhopes-biggest-problem-the-city-council.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FLI3XHJ5NEZGK7GI7LZPCQGTHKE.jpg?auth=04630b87941cef3d49ebfa7c42dd29a10fcfe31b7c3d155643e2a4c5a9c08daa&width=1280&quality=90","charset":"utf-8"}

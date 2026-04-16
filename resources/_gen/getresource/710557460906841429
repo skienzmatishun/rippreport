@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405cd8fba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uNnsY22WHvr6xBVShN8je38i7y4OigV8oXa5rMNSwdg5YkpG1mlgTg6vZ7cxOXcA1Ffu0oUIoUCybWNdoCxO9uZpFYbXGUVd9PgyWuXVWuU0eYeetUYTWDbhSIJ1GnQxn9gKKs7i2LnAQXD1l7aTOSskpA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=94
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d668dce3c85316267a5a05b304ebabf3
+X-Etags-2: d668dce3c85316267a5a05b304ebabf3
+
+{"title":"Strange sold his soul in this race","description":"With the Republican runoff for the United States Senate less than a week away, it is evident Luther Strange is becoming exponentially more desperate each day. The current placeholder for","url":"https://www.lagniappemobile.com/opinion/columnists/dtt/strange-sold-his-soul-in-this-race/article_f1c79b7f-a579-55e0-8839-a58772049ccb.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/4/19/419c5d08-2621-550b-962e-c21f8f5d60bc/630ebf58c48e4.image.jpg?crop=770%2C404%2C0%2C52&resize=770%2C404&order=crop%2Cresize","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c96f2ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1gqf5z6bNCLG%2FJYLXYtlF9xKNTD5gn9syNBfGr3CNM1EhCgPWuhFMXuRT1EldeAvSx8zIvL12TUnt%2FWlmlQ0%2BiNYeFQatdMFo2G6bQ8n94BGpfd842osI%2BCJyQIkhbjCM%2FxWznC%2FLrc8EZnBrWlZ%2FyybQg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a08c7b5fc49db5a6b5351ee26c5b3d7c
+X-Etags-2: a08c7b5fc49db5a6b5351ee26c5b3d7c
+
+{"title":"Parties in Fairhope airport dispute agree to negotiate","description":"The Fairhope Airport Authority and Continental Aerospace Technologies have agreed to negotiate lease terms at the H.L. Sonny Callahan Airport, where Continental serves as the fixed-based operator (FBO) and as","url":"https://www.lagniappemobile.com/news/parties-in-fairhope-airport-dispute-agree-to-negotiate/article_2d500235-b298-5c9b-bbc6-c03fa5c1072d.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/3/e8/3e804c17-59e6-5366-92bb-f0ab6a43753e/630edb7f6e353.image.jpg?crop=1600%2C840%2C0%2C180&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

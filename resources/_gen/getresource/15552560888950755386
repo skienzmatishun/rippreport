@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640164918a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:18 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=P1J8ymCjjy5Iwii9uV3yFpZevCiUvT55GXwHGg56fnHbgX8JlwrZwyEgdpYFeU1sjTas9H0ivRt0zWIDDMr6gWBGcTl0RBPG0o3Zr2SDrQAml%2B0T69Ay39A3R9cCGUJqY%2FZQlOou1oI%2Bw5%2FoFjRiyzIZng%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 57d9a949266ffbd7e6c54d9667b9347e
+X-Etags-2: 57d9a949266ffbd7e6c54d9667b9347e
+
+{"title":"K-1 School Purchase Plan Falls Through","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2019/02/k-1-school-purchase-plan-falls-through.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXuOkq3uDmuHQE_sYl5-lTUDTCtM7gOM6LOaOWoFN2HSO83WL2n2BqpnI-vr9eby7tTi8VtHYf1xslUnjlSS3eumjOTKtCwY13rlGZLt-tZwoM3H6qTWx1OkxLiaCCWqyrsoQWpcNttBc/w1200-h630-p-k-no-nu/k1.jpeg","charset":"utf-8"}

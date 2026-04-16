@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640508c21a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dMplRG8jTnYD3D1pduRPuV2CsEB%2Fl1SMmjmxJmNqDvqoGwRiR%2BkMGUIZcxYru6%2BpdOsqiJ0nn0Tm%2B25ifjo32SvwHDj6Jxk4PDISmDy4qIRS0pfjJ4Lf%2B0udPlWLxxSpK5hbAyGfjomHUSKC1eJaaBvmxg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 90c6a262e29f42cd36c18f3e1b0975eb
+X-Etags-2: 90c6a262e29f42cd36c18f3e1b0975eb
+
+{"title":"CORRIDOR OF CHAOS - Ripp Report","description":"North is up &ldquo;KLUMP PUD&rdquo; ON HWY 181\nCity Judge&#39;s Project Up For Final Approval Community news and events for Fairhope and Baldwin …","url":"https://rippreport.com/p/corridor-of-chaos/","image":"https://rippreport.com/img/corridor-of-chaos.png","charset":"utf-8"}

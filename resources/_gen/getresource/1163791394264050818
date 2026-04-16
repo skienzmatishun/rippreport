@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64051bf93a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VVe%2BfKz%2FZuNnV4ehwpm6g3wZfr20cLwzWYqCi7fnOiVvs0wC4%2BxrMKIxMD5gWob65Mu7BKkmezgCkEy9mjAzKmsTlsCKykvEe%2FSiupB78Y0sJ05yoIHz3vHnQv0rxbUpImZ%2Bfjt9YL6hbVHC0f0nsNyMoQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=120
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 90f30a8ccea26237faf63c01b65410c2
+X-Etags-2: 90f30a8ccea26237faf63c01b65410c2
+
+{"title":"Senate bill would fix Alabama’s corruption problem — by making it legal ","description":"Ethics rewrite makes lobbyist gifts to lawmakers legal again.","url":"https://www.al.com/news/2019/04/senate-bill-would-fix-alabamas-corruption-problem-by-making-it-legal.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FOGKQ4LJXWNHETKCHISODQPXIHQ.jpg?auth=38deb2e272451c3afa1fddc5aef9d3a0452c71e89537d39b265e93fc026a3b19&width=1280&quality=90","charset":"utf-8"}

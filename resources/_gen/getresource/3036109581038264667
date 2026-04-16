@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6401c1b58a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:19 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FVCm77%2BFaPzM0tke0v%2BECqhwz03uer3xjHGTL17oMLXkE1UsbYmdsX9NhvjersyXsi9IwnXDnWoWHevSWXyP2mijJnSGiLMV5dGBOhQBqzhHK3EErm7Cz%2FuJykEyQwb3jaTlBHs8iOmXESnkbKQSt0tqiw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 099d11e8ee906511956c23c30a130b67
+X-Etags-2: 099d11e8ee906511956c23c30a130b67
+
+{"title":"JOB WITH BENEFITS - Ripp Report","description":"The Ripp Report recently changed it’s business status from a tax deductible non profit to a corporation. It is still a non profit, without any federal …","url":"https://rippreport.com/p/job-with-benefits/","image":"https://rippreport.com/img/job-with-benefits.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640527994a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BWy97N4lesl71geKlWHq7mOOnrGqG7YoQ4HfbkRviNYUiJLAUDNDorstRddDeiQpQKovtsGi604CSb2o3awp7UrvNj5ATxpoUbTz%2BVVIi4aiMTKZEaGbvSuyEYFocavTpO4xpOGJYl7Da1BkIOR1dI7qCw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b7190a7dc1099e617d4671e0db3d8f35
+X-Etags-2: b7190a7dc1099e617d4671e0db3d8f35
+
+{"title":"BARSTOOL - Ripp Report","description":"Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no …","url":"https://rippreport.com/p/barstool/","image":"https://rippreport.com/img/barstool.jpg","charset":"utf-8"}

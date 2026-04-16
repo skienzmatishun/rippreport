@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d71a2ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:49 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LmVE5R2QQoR0wy%2FnRqgcOwiyZosm1YLbYRLcTkGO0kLjr6B7SHZudLt1TWBm2pROzSD1k1MgMvKcEPahYQAbtqkqQjNb1Vsv2JyPm%2BLuY0GI2wjrkidIcgMH7CJxPq7%2BtNKsuKe2IQLXtIceCWuCqmso2w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bdffeae244021830e5c27dcd0c03e86b
+X-Etags-2: bdffeae244021830e5c27dcd0c03e86b
+
+{"title":"John Lake","description":"John Lake Facebook","url":"https://www.facebook.com/john.lake.5686322","image":"https://scontent-sin6-1.xx.fbcdn.net/v/t31.18172-1/27356331_973979772750937_2579098529053415971_o.jpg?stp=dst-jpg_s720x720&_nc_cat=107&ccb=1-7&_nc_sid=51aaad&_nc_ohc=LMjNBIFSclAQ7kNvgGRm4t3&_nc_ht=scontent-sin6-1.xx&oh=00_AYC4HY6sb6VfJAwr7elXuLLhcyRc-j8MF3B64Zd4od818w&oe=66DB83FB","charset":"utf-8"}

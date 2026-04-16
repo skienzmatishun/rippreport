@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405dfc49a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=G1eAeGbOQEtpoJa4vEvnnXyHEhxrXE6%2Ffdl1XGtU6aHFnrnzZyqJPCQCdhAzGmVsi4RsYCk%2B53JoU5KZQd7wOpX7OIw7lPDNPMPsnkKLxADnVl7JcMdt60cwi2iyha6Zp17js9yLkDY2Op40cCY2Ztl2EQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=92
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b3a4a1f81d5220877a7af8643364670f
+X-Etags-2: b3a4a1f81d5220877a7af8643364670f
+
+{"title":"LICENSE TO STEAL - Ripp Report","description":"The Alabama Attorney General has gone public numerous times saying he was going after white collar crime and political corruption.\nIt is my highest …","url":"https://rippreport.com/p/license-to-steal/","image":"https://rippreport.com/img/license-to-steal.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64082ef74a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hwXBRosTTSjhFuT5MJLNANZ3g9HSMWaSBXLGNDJzi9M4geztZfXys7h5vHP042syk%2FabHmSfDtJzJ%2BtDoarKmPIQ7ahFn7%2FdMgMz7cSzquOFONLLilD6UiEHrRq7uNyMak403VPIXSatmPAnGDnWy3O8qg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8148eba3642d83593e9a16a34382bb3c
+X-Etags-2: 8148eba3642d83593e9a16a34382bb3c
+
+{"title":"Tough battle ahead for Baldwin County business proposal","description":"A small business venture on family land is facing opposition in Baldwin County. The Weeks family, a family with a long history along Weeks Bay and the Magnolia Springs area, may be in for the fight of their lives. Right now it's 27 acres of land with not much on it other than a dream to continue a local legacy.","url":"https://mynbc15.com/news/local/tough-battle-ahead-for-baldwin-county-business-proposal","image":"https://utv44.com/resources/media/e1b5f653-bdc3-4ebe-a0ed-6e4c1ebfcaf0-large16x9_Zoning.PNG?1607127530926","charset":"utf-8"}

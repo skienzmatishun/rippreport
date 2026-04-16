@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640612df2a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PT%2Fy0py%2BJKFj0mvENANxn%2FO3kYx9hl8Qgij7CldoEKPOXavsdlLYSAyx2uWbDx2UD5W%2FzLtRg6%2BBxLfzqqh6phE9g5h72Z%2FBVaINeUx%2BWpXqYTstN%2FBuAj0caRP7BdHZsSvqbONSPE5Hz3wIWuZJ%2BB2MDg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b92532c87250026503aa3f1d94d3ff4c
+X-Etags-2: b92532c87250026503aa3f1d94d3ff4c
+
+{"title":"Roy Moore’s disruption of Washington has already begun, and more is on the way","description":"The GOP Senate nominee from Alabama visited Capitol Hill on Wednesday — but turned a cold shoulder to the Republican leaders who opposed his campaign.","url":"https://www.washingtonpost.com/powerpost/roy-moores-disruption-of-washington-has-already-begun-and-more-is-on-the-way/2017/10/04/638c77cc-a920-11e7-92d1-58c702d2d975_story.html","image":"https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/75EWQMVJGQI6PGUYA4KA2LXNAI.jpg&w=1440","charset":"utf-8"}

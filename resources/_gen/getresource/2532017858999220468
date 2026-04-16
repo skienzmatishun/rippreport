@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640844c26a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=U6YPi%2F3MLFhP8pvV8P%2FBXzxBPCLLRSYoC%2F42p7%2FAg98RrGN6yZiAVcw2SEecrG7bneKsuP9ojLDZj2Dg9qCfzEpM67VDba6uXOZJNmaHBfdJfctz69RVF6xa727ucfGykVIAyauiyrB6nSNtJg8mV6zkLA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 98e4d0c8473b4396c32ade87c34e0713
+X-Etags-2: 98e4d0c8473b4396c32ade87c34e0713
+
+{"title":"From great to grotesque, a tale of two bills","description":"Every now and again, my faith is restored in our lawmakers in Montgomery. They formulate a bill that seems to actually serve the public interest — one that does right","url":"https://www.lagniappemobile.com/opinion/columnists/ha/from-great-to-grotesque-a-tale-of-two-bills/article_83b29e91-48d1-56b3-a10e-3341b823a1d6.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/1/75/175296d7-d66b-5888-89b1-c500eac2ef4c/630ebc0af28fb.image.jpg?crop=1625%2C853%2C0%2C1&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

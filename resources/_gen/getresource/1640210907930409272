@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640be7ba0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MajBeQgTXDKOMhTw%2FSVl6EKIopFLOba2cqtxrlOs35aMOQIIeX0AfbPYtw6JuCakM0VTPnL1s1shjg3t7hbR2dPKodJ%2B7GJsrb%2FTca%2B6aY123Pl%2FYyjE00cJK70%2BitCbrdQr%2B8vyjRIo3rOG5YZDo9z1hQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=113
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b3d0b51858828460e9b4d7ae4b1ff696
+X-Etags-2: b3d0b51858828460e9b4d7ae4b1ff696
+
+{"title":"This Year's Travel Expenses For City Officials","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2016/07/this-years-travel-expenses-for-city.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz_fB55sZ5fvUn_-Es14Rzne8lPVSQ8h4CXMzZZkk9B8fxBjopSGVlCCRewrE7LbdDBqVBhwkEonZXxuC5Dzn5nL_G_EMalzzDfiov5ZVR2siWHepf0yFOsE_0yOB7AG94EKTsQB9VoGE/w1200-h630-p-k-no-nu/council.jpg","charset":"utf-8"}

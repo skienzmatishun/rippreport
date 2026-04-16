@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64083897da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=D672zgBYqB2KdV28zJz11jTk2pFaNNrP2F86sk6sYFAwsm136OdpgBJd7YiOSJ88mxf03Haxsok8JaZQZ0xg0fDwcVMGp1Ay1hQv%2FoDmeIPng%2FWenFppDvNT1dNA8O1ttSek3IN6BhidGSwBem0uWGfnmQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=131
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 41166a0e487c3033c3c92b8c26690967
+X-Etags-2: 41166a0e487c3033c3c92b8c26690967
+
+{"title":"Trial begins over alleged fraudulent pool mortgage at Bellaton","description":"It’s a lot for the jury to consider. Specifically, Lot A1 in Daphne’s 221-lot Bellaton subdivision off State Highway 181. There, as developers were converting agricultural land to residential use","url":"https://www.lagniappemobile.com/news/trial-begins-over-alleged-fraudulent-pool-mortgage-at-bellaton/article_8736727e-0a11-58d8-a96b-04e70df66ae9.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/f/18/f1835fa5-02f4-5985-b5d9-6acaaf32e2ec/630ed1acee945.image.jpg?crop=1000%2C525%2C0%2C112&resize=1000%2C525&order=crop%2Cresize","charset":"utf-8"}

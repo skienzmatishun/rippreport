@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d59df5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XlGUxgW0cytv8XqrfOn9cKD4XvXX2fzz4ZD6EjGw6IguIJY%2Fp7aynsiUpxSd0445LoRmzDE7W7wLmPQhXTZ3ZsjmS16a58GddWCu%2FB7AEh53HBiTwFg1A%2BSH5pryrER2IuAYxqHMGtlLSwqXJphPrnHTHQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c8f320acd515ab8f7c20562aae46d91f
+X-Etags-2: c8f320acd515ab8f7c20562aae46d91f
+
+{"title":"Trip Pittman running for U.S. Senate","description":"Pittman has been in the Alabama State Senate since 2007. He announced his intention to run for U.S. Senate on the final day of qualifying. He's the only lawmaker from the south end of the state who is running for the U.S. Senate seat. ","url":"https://www.al.com/news/mobile/2017/05/alabama_state_senator_trip_pit.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Ftrip-1jpg-c93e1be5a8e82098.jpg?auth=0026cdfba78939e7cb01c0338e11b2a802807bea0a3d25c2ecb13bb490766bef&width=1280&quality=90","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640cb3d24a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VpCCYzKtVNYXOFp27Jp4RpsKvW%2B3TsepQy0933qlcxNX13xZ0v8ieEg1x5dpcUOFXpKS7x%2BF%2FhnbxiguN9nT2M7c7k1GJMTuPyGAR7ZXM7fpWLdcKR9zyQ%2FbFbTJ86zEllSpoNT9cw89oJqUvYmcb2OzWg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=125
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6a0b536d83b384bd7bdb3623a695be5f
+X-Etags-2: 6a0b536d83b384bd7bdb3623a695be5f
+
+{"title":"Facing budget deficits, Boy Scouts prepare land sale","description":"In an effort to stem the tide of substantial losses in revenue and contributions, the Mobile Area Council of the Boy Scouts of America is preparing to sell approximately 230","url":"https://www.lagniappemobile.com/news/local/facing-budget-deficits-boy-scouts-prepare-land-sale/article_074a7022-ff23-5c5d-9d61-2570f832f9a0.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/custom/image/80d93692-f634-11ec-8535-7f6b4382bc0d.png","charset":"utf-8"}

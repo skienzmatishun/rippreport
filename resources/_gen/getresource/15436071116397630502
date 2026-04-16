@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64047b9bda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lX9s%2Be4mzVAG7Wuqae%2BymURVQiERjJGmePCaHvq8BiPhqhu5ZtwTs%2Bz0uQEm6Qo5n1oO46X4Kv2414TQ%2FH5%2F97Ye6TfpASy%2BYOO14NLW5BitHT4G7PLkNtMv7eHd6QpRHpqqc%2FubqXBl9MabpTpNxFt58g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 275977be9be03a8ccd08a9216d3b9e7a
+X-Etags-2: 275977be9be03a8ccd08a9216d3b9e7a
+
+{"title":"'Fearless' Fairhope mayor battles City Council bull","description":"That \"Fearless Girl\" reminds me Fairhope's new mayor, Karin Wilson, as she takes on the good ol' boy politics of this charming Alabama town.","url":"https://www.al.com/opinion/2017/03/fairhope_mayor_battles_city_co.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fopinion%2Fphoto%2F3-29fairhopegirlbulljpg-57513a22423de5ef.jpg?auth=3df950852b819498fc6e4956f3633982ca524b55c74f1e0fb70a75887e0df5d3&width=1280&quality=90","charset":"utf-8"}

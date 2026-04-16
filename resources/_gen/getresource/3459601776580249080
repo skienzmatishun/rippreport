@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d33e0da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XJSJKfkhncqQR20%2FocECnjStO7ZGh5zxq7jj6Jq9QhXL%2BgpEj36P9kVw6sOYXacFxQt9bEx85RqudAtgMz%2FfzP4%2BrfSZkcMZYFBynQxRVxfBPmzs343TOj9tAOOpM4MFsioeLYSrpvLGDfIGXML47JIptA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ceb4083a73d07df33f575bfa6542ac51
+X-Etags-2: ceb4083a73d07df33f575bfa6542ac51
+
+{"title":"Federal Grant Money Sought To Purchase Old K-1 School Property","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2018/08/federal-grant-money-sought-to-purchase.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfcgJVEZdw91XZ-USM4SrE_nwbqZuq8fT7uuIMOPRYi9DzV0A69BJC-J4uwHQJI7LPU5RL7VeuELM9YeuRHK3InaFpetx8qb9KUDMWSr3vLpu7zJSKSfSwOmOZaQDM2uqlWZcP8yYOEY/w1200-h630-p-k-no-nu/fullsizeoutput_fd.jpeg","charset":"utf-8"}

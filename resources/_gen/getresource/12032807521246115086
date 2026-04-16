@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640517ef0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KereYdAR%2BXVYRA8OZZxZw1c%2FrhEZvqZk1iUMHl%2FP27xIp2P4AsyOKhTHKEvrTjNkBKlle05Ntq0Z9RhMbmz6DxbS2RHN%2BwTY2yR4mR4bSbrKCbF7vxNrM0IJGajBI%2FrUmzbMsjnykl8BCz%2FleweC3vaChg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2aa17ea1ac3cfa0e20967de8dfe5588c
+X-Etags-2: 2aa17ea1ac3cfa0e20967de8dfe5588c
+
+{"title":"Judge tosses out McSharry’s assault charge","description":"Baldwin County Circuit Court Judge Clark Stankoski dismissed an assault charge against Fairhope restaurant owner Ronan McSharry March 26, one which McSharry pleaded guilty to in municipal court last April.","url":"https://www.lagniappemobile.com/news/judge-tosses-out-mcsharry-s-assault-charge/article_c6cecbd1-3f16-506e-a04e-633f16946248.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/6/91/6914bbcf-addf-577b-837c-a83fd6498e39/631a17e408493.image.jpg?crop=1000%2C525%2C0%2C112&resize=1000%2C525&order=crop%2Cresize","charset":"utf-8"}

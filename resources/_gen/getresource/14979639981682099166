@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640590d68a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LNFTvI6HFLxKWSyvRUWHD5GilRJatFh8i%2FcP2cANW5TSIjMKPiilJ8zJBkbWFb26PzFf8d22gMEr%2BeBe5G9zbGUyXVIDcP6dUDQmCX9I2uBrknZg%2BAT4WTM2ueFrctFY%2FqAbhcfHBlJNTRjMYRKxv%2FiFQw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=107
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2c2e65640701d71be83c5017e82f1d62
+X-Etags-2: 2c2e65640701d71be83c5017e82f1d62
+
+{"title":"TOP SHELF CORRUPTION - Ripp Report","description":"Read these articles and you will see why Alabama is head over heels, above any state, when it comes to political corruption. What makes it worse is …","url":"https://rippreport.com/p/top-shelf-corruption/","image":"https://rippreport.com/img/top-shelf-corruption.jpg","charset":"utf-8"}

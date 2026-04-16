@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64066ef75a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4E5QtaWxuQWDwfh8VABCs%2Biy%2B0hqY7S027tJhNJ7Z4QSVpCyR%2BrqDwT7UCXIKwew5P26mSYPAnem0gWAcqf1W6EU8%2Fsw3A4Bjho9IXrcvOIICE%2B9Z5gb%2FWWZA0nNENIDAvW%2FnIcSfyG%2BI2gCFYkRz8PHsQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=96
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 40f711768bb5c367b191f887441df00a
+X-Etags-2: 40f711768bb5c367b191f887441df00a
+
+{"title":"Maids of Jubilee Mardi Gras Parade - Fairhope - Alabama.travel","description":"Enjoy the beautiful colorful floats, manned by masked riders in costumes. Lady Marshals will be on horseback. Lots of \"throws\" and treats for everyone. come and Enjoy!","url":"https://web.archive.org/web/20190306162353/https://alabama.travel/upcoming-events/maids-of-jubilee-mardi-gras-parade","charset":"utf-8"}

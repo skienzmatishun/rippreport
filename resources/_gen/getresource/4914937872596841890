@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405fc9bfa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fTr7C%2FR1P62kj5RHCRPAS%2FUdlQQxurt7kEAL8EBoWvMmfnIIyUU38F5uxoE%2Fz5XH9Kfyretw%2FTGZCy3ya8%2Bt8g7k8WTWIZo736TRDZDEzcsgKGVW%2F2qXTIghquLb0VWglIN8vnj7kAO8L6Wct9K%2FNSqWOw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=89
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 84ee742aeb8f8916c79bce39c558618a
+X-Etags-2: 84ee742aeb8f8916c79bce39c558618a
+
+{"title":"Alabama Senate special election results: Who will succeed Jeff Sessions?","description":"Voting results from the Alabama special election between Roy Moore and Doug Jones to determine who get Jeff Sessions's Senate seat.","url":"https://web.archive.org/web/20180130190321/https://www.washingtonpost.com/special-election-results/alabama/","image":"https://web.archive.org/web/20180130190321im_/https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/graphics/2017/politics/alabama-votes/img/2300-results-page-promo-v2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517","charset":"utf-8"}

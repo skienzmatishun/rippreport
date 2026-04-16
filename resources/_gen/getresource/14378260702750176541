@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640db4e78a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:49 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iIQ%2BZTl31SepE9BfxMfX%2BCieQ6OxD7anX2D67DiI9c1Si0dUOcblN0fTb3RzEiGp83h4k1GiDhY8HqZ%2FYuayQNYJ9N6bYe9bK%2BSU13lNxJTzgq4VDhE3qWmxRaURkuzHMYWVtNn%2FEe90xeNtUGD2bot2Dw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8e84793529232a2808f7d1ea6faf561f
+X-Etags-2: 8e84793529232a2808f7d1ea6faf561f
+
+{"title":"Dueling lottery bills: A simple breakdown of what they do","description":"There are currently two lottery bills in the Alabama Legislature: SB220, sponsored by Sen. Greg Albritton, and SB130, sponsored by Sen. Jim McClendon.","url":"https://www.alreporter.com/2019/04/19/dueling-lottery-bills-a-simple-breakdown-of-what-they-do/","image":"https://www.alreporter.com/wp-content/uploads/2018/09/AdobeStock_71194380-e1615386219657-1024x576.jpeg","charset":"utf-8"}

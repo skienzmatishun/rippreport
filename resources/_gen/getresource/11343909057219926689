@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a978f3a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pwoQgLpVIyFqDKj5yo2feUCXmBEztTIymM%2BiOR51Vy5vPBmXnM4a4GTzTqH8x4t7kjCYFM46XaH%2B%2BfmjFITTNciqgKp7y1WRtoLtoz%2BFJuC3BqkxZtUcCkuLzAMiZ%2Bpid%2Bu2rzy1zqb9qLWmAULt03XjUg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8d3694c78ba9f5e876b67ce9dbf55e3c
+X-Etags-2: 8d3694c78ba9f5e876b67ce9dbf55e3c
+
+{"title":"Updated: Ground Breaking Set For New Fire Station","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2015/01/ground-breaking-set-for-new-fire-station.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs2sIVWADrqlOugjsu376J7iNUiGdo4QJ-qJeszlvUiraWMw1xwJzLt4Zi-KMdu6IrxECh_diiPiWO7hGVqR5DgJRzMMmDSABPtGYyVY4lv8mV_9SSOrk_W5pcU1sf-jlCOAdj7Vcrmx4/w1200-h630-p-k-no-nu/parker+station.JPG","charset":"UTF-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64005de73a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:15 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YkD0tNgfc784y8BkcLS0kVkWkeZrPJJRoG8VIi%2FJ5JwMJaRtZG3aj%2B3ZmxkUW1P7P%2FfCEBYteNmI5HWELZLo9DPxpgecQqmD8JQzqWPr3JGqauQyOPgvm7FEr6V23ixo66EfPXenCbNNcMINqHlbBC8pqQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5da0c063388806e1283819a0e7bbdd66
+X-Etags-2: 5da0c063388806e1283819a0e7bbdd66
+
+{"title":"Fairhope Airport Authority - FLYING WITHOUT A COMPASS - Ripp Report","description":"These are two articles that were covered by The Fairhope Times one year ago. These were not written by the Ripp Report. They are important because …","url":"https://rippreport.com/p/fairhope-airport-authority-flying-without-a-compass/","image":"https://rippreport.com/img/fairhope-airport-flying-without-a-compass.jpg","charset":"utf-8"}

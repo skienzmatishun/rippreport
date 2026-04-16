@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405dec36a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vQFNTDdVzwMagxnfgyUFA44uNd1kj1pbi1oQ93bwoSo5FvIklwgrWY5HSp5W4hMppxa4mrIrNxkd1waIUGBUPe5kMTJExMU5r4O401%2BmTkjpUB7RRl65uatztHSoxTaAviT9nd2goZ1AJI2tKoZOsDogoA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=95
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 09250dee5321d72df05fda437ea8b786
+X-Etags-2: 09250dee5321d72df05fda437ea8b786
+
+{"title":"HB317: The ethics bill that just won't die","description":"It’s the bad ethics bill that just won’t die. For most of the 2018 Legislative session, HB317 — a bill that would implant a broad exception into Alabama’s","url":"https://www.alreporter.com/2018/03/21/hb317-the-ethics-bill-that-just-wont-die/","image":"https://www.alreporter.com/wp-content/uploads/2018/03/AdobeStock_36030982-e1521333736858.jpeg","charset":"utf-8"}

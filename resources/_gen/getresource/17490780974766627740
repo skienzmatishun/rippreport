@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406bdea3a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6rPgnWfwBvDLQJYyskLqglKuQxzrq3dRcHx5%2BzK4gSUWGIATkn%2BV9IfIcWDrf3C8O2cq0VTRRnuHk%2Fvps9f8ddORaEnjSneb%2BcZMDTX4RqvtF1gDtuN8e7et1g2q3Usr2tH6cGS8Tz15vCRlRE5A8oX%2BUA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 45e4618ab2c3ccd9fcaac2c39a008a45
+X-Etags-2: 45e4618ab2c3ccd9fcaac2c39a008a45
+
+{"title":"Alabama primary runoff election delayed as COVID-19 precaution","description":"Gov. Kay Ivey is using powers granted to her under the Alabama Emergency Management Act of 1955 to postpone the state’s upcoming primary runoff elections.","url":"https://www.wsfa.com/2020/03/18/alabama-primary-runoff-election-delayed-covid-precaution/","image":"https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/NMPM5JLVFZDPPHRLI7MXD6DSUY.jpg?auth=1c4f283251fe0c4ed78fe6e54185d4f435897556869ef4789d29a508d8cf843a&width=1200&height=600&smart=true","charset":"utf-8"}

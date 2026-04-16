@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640570fb7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HjiDzZT1%2BCQUBnlBfQcq5Cyu5U%2Fsuzfejdg1L2BoDWxIgkSm5CytEppBRxJvQYThWjaxjxKA7L2hsI4dHU1N58kC%2BJ1dqvi%2FWYUKTLCk4aobz%2BC71zt0cFts1DyWkPNuxiwNVhTAF6dEs6aI6iLpbCoINg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b4a41b90a77ebfcbedc972f0b5fab984
+X-Etags-2: b4a41b90a77ebfcbedc972f0b5fab984
+
+{"title":"FAIRHOPE — NO HOPE — FAUXHOPE - Ripp Report","description":"Sorry about no FREAKY FRIDAY, but after 6 weeks confinement and absolutely beautiful weather, I had to have a “beach fix” on Friday and it took all …","url":"https://rippreport.com/p/fairhope-no-hope-fauxhope/","image":"https://rippreport.com/img/fairhope-no-hope-fauxhope.png","charset":"utf-8"}

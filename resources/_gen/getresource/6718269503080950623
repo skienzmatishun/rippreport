@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64016390ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:18 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HMTFjVYd%2BoYC85FlayJM2ROU4moRJfZfg5Fh2BT8cZLYzCddSX0WEdT%2FHTVk15Kkd6UV914v5W%2FtTtFILWw49JrZLCHUj8Ac3AcdXBTOM4eIhZNv4wFVj7gAEYfQEzkRxC%2BYkWXF1sJvDsJ4TtJYBZue%2Fg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 06e98a0836f8109e33bf711af95eb459
+X-Etags-2: 06e98a0836f8109e33bf711af95eb459
+
+{"title":"Gas tax amendment means more money for Baldwin County - Gulf Coast Media","description":"With the state legislature recently passing its first gas tax increase since 1992, the breakdown of how that additional revenue will be distributed across the state has been a topic of concern, but a  &hellip;","url":"https://gulfcoastmedia.com/stories/gas-tax-amendment-means-more-money-for-baldwin-county,74734","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20190320-162847-Senator%20Elliott.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64013485da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:17 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yYN8%2BEObzNL8bivmSsXwXQvrdpDHG2MlcH2K9eBHaWmNB8wm2Whbf%2FpqK%2FChsCV%2BQhv4eJcGKJv0maNQGX12L5s0VZNh%2BUAbTLF%2Fs3scOgpCw75cbKT6V783T92ZvklxNbltMlGFUE%2FhRZzXN3A9IOhMKQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b4dffec23bcd44645cd27e587439a3ef
+X-Etags-2: b4dffec23bcd44645cd27e587439a3ef
+
+{"title":"RULE 32 - Ripp Report","description":"Murray Lawrence was wrongly convicted and has been in jail for over 20 years. New evidence suggests his innocence, and a legal filing has been …","url":"https://rippreport.com/p/rule-32/","image":"https://rippreport.com/img/rule-32.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404afbb8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bj3uChSzaLx%2Friycdtsxtldd4UoSIsXnCHAUGzoemh%2BIJvFIrHYO5PJEXxRDfEul0tzBqXqME8raTnUrejJeyCSWzWN2zhSYlc5WKI6Z9vL%2FVbcODAjB09iavkCMWiC1YrwQFb5xauy%2BnmNT2Gk1qRRMDA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9e5cdeec775dbcb4b15d74139b7c2704
+X-Etags-2: 9e5cdeec775dbcb4b15d74139b7c2704
+
+{"title":"CATALYST QUEEN - REMEMBER FAMILY COURT - Ripp Report","description":"Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a …","url":"https://rippreport.com/p/catalyst-queen-remember-family-court/","image":"https://rippreport.com/img/catalyst-queen-remember-family-court.jpg","charset":"utf-8"}

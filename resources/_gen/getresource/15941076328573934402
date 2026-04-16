@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640baf914a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=j4GAAYK7yoCdOtkeNssw%2BVM9qFlsgud6zmyNIyo8XNmaPufHrw6N0W%2FQ4CCBxEWscSbxkb95hnIXvLkXuZzgujHgh%2Bkirf8cbW1Ry3zzYPo06KDWV%2F2pQnUDIN2Ii2qea5tlvayIKfQ2Rgv5dE%2FxnyR4ZA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=99
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 61857ae48568dbf05ca9638e75640596
+X-Etags-2: 61857ae48568dbf05ca9638e75640596
+
+{"title":"Rep. Randy Davis, Marty Connors claim misconduct by federal prosecutors","description":"Rep. Randy Davis, R-Daphne and former state Republican Party Chairman Marty Connors face federal charges of taking part in a bribery scheme to benefit clinics providing a insulin treatment that was not covered by insurance.","url":"https://www.al.com/news/2018/09/rep_randy_davis_marty_connors.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_impact%2Fphoto%2Frandy-davisjpg-8b9569dd805b1c61.jpg?auth=5972c236892bbfbbd55390cd5132a6d6b31eced366ac33d3d905ab3d65381457&width=1280&quality=90","charset":"utf-8"}

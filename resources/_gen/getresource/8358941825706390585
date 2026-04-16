@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640abc96ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=irIjBa0%2FqvFmOhajSCkvu6UkHwSm4MN8h3kzCHYiwHP1QyVlly90LF2exvPnmp4jt1ehvCY3F4hIPh1ltGa0dHObGeqcKvCLO8QedSk8HNn1t4VZxztxPWnLe0Y0rpqrd1dOiNGL3%2FcC4uWQ4p4Tj7ldew%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=89
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6201719f1d8074d508c9a61518895d88
+X-Etags-2: 6201719f1d8074d508c9a61518895d88
+
+{"title":"State reinvests money from Amazon sale to purchase land for Bryan County megasite","description":"Gov. Brian Kemp announced the partnership between the State of Georgia and the Savannah Joint Development Authority in purchase of Bryan County megasite.","url":"https://www.savannahnow.com/story/news/2021/05/25/kemp-announces-creation-largest-megasite-georgia-history-bryan-county-economic-development-amazon/7436754002/","image":"https://www.savannahnow.com/gcdn/presto/2021/05/25/NSMN/cff8687b-a1db-4d0b-9df3-4a2ed142339a-bryan_county_mega_site.jpg?crop=937,528,x0,y98&width=937&height=528&format=pjpg&auto=webp","charset":"utf-8"}

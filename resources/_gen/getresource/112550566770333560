@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b44caba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=W1xYWwE%2Bxf0pL8wum445757TeUaK4SFNAlDKFvA9Y5DA7mEU2xmI41vRTtefn6%2B5KxuXx9PYSNLfYWy%2FXGzomuvltlmYYgt5KLtyiBvFj%2F%2FN2JGOzr1byFG9n5ym7%2FLxPCVWB8e9zoX9dQMyKED0Nt%2BK2A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2b7a18c851e60634952d2a8983293113
+X-Etags-2: 2b7a18c851e60634952d2a8983293113
+
+{"title":"\"The spark that lit the flame\": Women taking action in Alabama","description":"In the CBSN Originals documentary, \"Grassroots in Alabama: An Emerging Women's Movement,\" we meet three women working to change politics from the ground up","url":"https://www.cbsnews.com/news/cbsn-originals-grassroots-in-alabama-emerging-womens-movement-preview/","image":"https://assets1.cbsnewsstatic.com/hub/i/r/2018/03/22/a3458e15-de7a-4a11-a17c-62e48ab68adb/thumbnail/1200x630/1721250a0965ed57d61ed61317f86c1c/women-heather-3.jpg?v=d7dedd293aad546f97f947149642d369","charset":"utf-8"}

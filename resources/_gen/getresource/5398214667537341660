@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407afdfba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hicdpoNVuOoRKZcQ%2B9K41dQE%2FSmJ%2F1UgrVHFpwXMmUKpkWEL3a6oWuSpxwmul3Y7jrGeJajoc8zi2VzoMHs4xc%2Bb2THdlymyQx3tuqJB51SRPiMEDtlpI2MZ%2BP3siDV5bdiJEou3PkINSVt3xIyx9hMdOw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cda8dc49fa783e8b90760780390ce933
+X-Etags-2: cda8dc49fa783e8b90760780390ce933
+
+{"title":"Proposed Sewer Line Threatens Fish River & Weeks Bay — Mobile Baykeeper","description":"If the two sides can come to an agreement this will be a WIN for residents living along Fish River, citizens of Alabama who enjoy fishing, boating, and swimming in the Fish River and Weeks Bay, and the unbelievably beautiful local environment. If not, the sewage line under the river will be a perman","url":"https://web.archive.org/web/20210915105940/https://www.mobilebaykeeper.org/bay-blog/2017/3/20/fish-river","image":"https://web.archive.org/web/20210915105940im_/http://static1.squarespace.com/static/54d3a0eae4b000d5abdf81c0/54d97adfe4b0853cc2b19756/58d030fa3a04118cb2900801/1498415914076/IMG1620103599.jpg?format=1500w","charset":"utf-8"}

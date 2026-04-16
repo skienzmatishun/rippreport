@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c6ce16a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=onYtXsRYAFXlbwksiKNblNAknrYyVfjFx9o0TXhYjF2DrIp%2ByLWHnMGzeNBkv%2B1YY7mcwFD9Fd1AzjiUzqJfdkqyCZIbRYadrqj%2F1PxA26puTpkSzWtT4XUfgvPROG90kHCX5ZxIGo2t2EEjV6jgmOWjHg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 033579613a9914796aaa9727176d5273
+X-Etags-2: 033579613a9914796aaa9727176d5273
+
+{"title":"What is wrong with Fairhope? ","description":"The fastest growing city in Alabama's fastest growing county has generated plenty of headlines in the past six months, but none of it positive from city hall. Most of the attention has been on the ongoing bickering between the new mayor and the city council. The attention might swell in the coming weeks after a claim of harassment surfaced last week involving the mayor.","url":"https://www.al.com/news/mobile/2017/05/what_is_wrong_with_fairhope_fa.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Ffairhopejpg-6ff25b2f6c1f94ee.jpg?auth=fb436ad64ceff6110e5fe97c657a8bbe91d83a80259b66a1342a5e80e6f88931&width=1280&quality=90","charset":"utf-8"}

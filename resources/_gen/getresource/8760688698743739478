@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64059f823a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ryufXiRo0qkU5OvdTpkhkYas%2FfIjMgdOQJ%2BrDfMU4ko3k1yv2uAHL6xjJiaRveqVtp8YrF1%2BmxMkGtPHIyRJ6TCQYif63qbPcv4OuGY4ioKrM97qUJeDWwIjwlwBAKoISbpe4VenGVLRdeTqdj4LN3ObXQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f5f3097010b2a26c2319578f1f008d76
+X-Etags-2: f5f3097010b2a26c2319578f1f008d76
+
+{"title":"YOU DON’T KNOW JACK","description":"I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by longer serving members. However, the newer members are usually kept in the dark as to the backstory involving long-term issues concerning the city. Another observation was the utter lack of transparency and accountability. I give our previous Mayor full credit for using the aforementioned tactics.","url":"https://rippreport.com/p/you-dont-know-jack/","image":"https://rippreport.com/img/you-dont-know-jack.jpg","charset":"utf-8"}

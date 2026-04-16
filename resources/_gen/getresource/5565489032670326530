@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407e3859a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wWbbCmoDxU10hZ4U8Vvx6LTnXcSQubV1242HQ2jf31%2Fv4a%2FenxOUEQCzSPHt%2B91qLMtK26MoUj0cRZQf%2BXLkAKfIkm00OEiSihxhf%2BIN5VTpA9iNktCimSZB5JP7IpTqr55LyCIQEWAM0kly1aqlrtK9zA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=107
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0701d3ba63ee3741dcc3b0b6b925a5ec
+X-Etags-2: 0701d3ba63ee3741dcc3b0b6b925a5ec
+
+{"title":"Frank Burt explains penny tax vote - Gulf Coast Media","description":"Last week, Baldwin County Commissioner Frank Burt met with leaders of the Common Sense Campaign from across the county, all of whom wanted to hear Burt’s explanation as to why he voted to continue  &hellip;","url":"https://gulfcoastmedia.com/baldwin-times/stories/frank-burt-explains-penny-tax-vote,45581","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1484153918_e5bf.jpg","charset":"UTF-8"}

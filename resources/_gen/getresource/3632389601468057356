@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d4caffa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OHg3KGdVrS4DqO17Sy1diUoTQyG9S6a1m7RNV%2Bm%2Fe0s784dhKOPCmkFXWbnl8ChAKVU%2Bqgq50iNvl6mvQX4KQk1QB6vm%2B6oQe%2B5Wnfw6152amcZibhkUbxTeFpxw23%2BwYgIX46S3SyMOZZNYd5o0UWohEQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=110
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: dedb98ef7d49636e6d800526b4984c46
+X-Etags-2: dedb98ef7d49636e6d800526b4984c46
+
+{"title":"2019 Alabama Elections, Candidates, Races and Voting","description":"Directory of Alabama elections. Alabama candidates for Governor, state reps and Congress (Senators / House of Representatives). AL primary and election races. Voting info. AL political parties. AL state election office.","url":"https://web.archive.org/web/20190115064654/http://uselections.com/al/al.htm","charset":"utf-8"}

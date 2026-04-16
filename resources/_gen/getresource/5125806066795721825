@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ff33f15a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:12 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jdYRvCe8xiMJ4zZ948HCIO5C0RKMvflq13BgwuYiySiV0k4fHCW2YsFDQq1eHsXTMJlo2W8Bnql6WoF8pIs20hBDMge1s4XyFPxFBvscHJsUg4ZaEMQ8%2FtdDbHhsaKNmv2pI7%2BaYo%2F0HGyojVW%2BRpj2srg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=109
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b085646a62d29b5483a95b844a88fe0c
+X-Etags-2: b085646a62d29b5483a95b844a88fe0c
+
+{"title":"Deepwater Horizon disaster + 10: Alabama work goes on","description":"To a great extent, work funded by billions in penalties and settlements is just getting started.","url":"https://www.al.com/news/mobile/2020/04/10-years-after-deepwater-horizon-disaster-along-alabamas-gulf-coast-questions-and-work-go-on.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FOAE5ZW2FCZAZXIEE4YMGTTDQBY.jpg?auth=fa5eec0530db8aafbdbf5474029582d4f1ebaef7f037b7da3baede5a6c267b3c&width=1280&quality=90","charset":"utf-8"}

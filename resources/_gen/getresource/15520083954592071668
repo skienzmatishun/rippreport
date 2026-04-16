@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409809c1a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mnQ9qvGmksU8is8jZPww3fVOhtuYzKuzVWr0VnGVfW9OajNR5wKA2A%2FaHizDHBuAQqa%2Fw2K94w4%2FMFz2djeaxROsC34CxjV%2BCUxSu6djXSvXqYq%2F88M3XkzuZD88wruR5ZgXkLIKkD8lT%2BvQLUqrJiriqA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bbd676b47c586210821ab3e63b872ca6
+X-Etags-2: bbd676b47c586210821ab3e63b872ca6
+
+{"title":"Lawsuit challenges funding for Alabama's new Gulf State Park lodge","description":"Former State Conservation Commissioner Charles Grimsley filed the lawsuit.","url":"https://www.al.com/news/2016/04/lawsuit_challenges_funding_sou.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_impact%2Fphoto%2Fgulf-state-park-lodge-ivan-damage-joe-songerjpg-11a5376c1706ee90.jpg?auth=f1396736b2895f7306cd815b5ea343a0e42ae8bebd32449f743d89122aa15f73&width=1280&quality=90","charset":"utf-8"}

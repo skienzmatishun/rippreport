@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d63fb5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BhrIGe1uMVkWgzkOXtEG32CM0ec71GXwUOa1lSfZ3PhjHp4%2FOjcewgsCr4cflrRRe5OqJEI6ekgo4z%2FEhEPVbA7pDp8KDdJnNCZtsH3OE5Nsu3ahTh3Cn6qebs3j0%2FTsDFZ1T5rDuHxYZZRI5fVzeuWP9Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=70
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: fc9afa1ee705b4755aa022303353bb6e
+X-Etags-2: fc9afa1ee705b4755aa022303353bb6e
+
+{"title":"PIED PIPER - Ripp Report","description":"Fairhope City Council President and Eastern Shore, MPO, Metropolitan Planning Organization, Chairman Jack Burrell considers himself a genius. He is …","url":"https://rippreport.com/p/pied-piper/","image":"https://rippreport.com/img/pied-piper.jpg","charset":"utf-8"}

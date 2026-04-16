@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404dfc65a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KCNsNOHW2wx1VdQPnDO3LqhR75iOCclRKBP%2F6lsXHt7giUilU9iOFacCmTP8VdwP6Z%2F2hiegr8pmt6GU14Vs961eEAqYlRHvevKEzEBV2YlClenag%2ByQp6mvqNN%2FTRHs%2FNUB4mYFqM4aerXzKOIGciOqCQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 06c0ec7f37af7e0960a64e91ce69bf60
+X-Etags-2: 06c0ec7f37af7e0960a64e91ce69bf60
+
+{"title":"SUNDAY SERMON - Ripp Report","description":"Everyone is in church today, including the members of the Baldwin County Legislative Delegation. They all profess to be God fearing Christians, this …","url":"https://rippreport.com/p/sunday-sermon/","image":"https://rippreport.com/img/sermon.jpg","charset":"utf-8"}

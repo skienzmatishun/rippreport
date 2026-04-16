@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a37da3a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Eng%2BPmgtrCyA0SfpbLTg7vEKieK2URg9RjV9SVkaBol4FRQ0uengGRpZl4zE%2ByrAwOfQax3b1ph4u2o2E4AarKlFyz4LvVK0P46IrzkDEzoXz%2FG447aM1vSxHzrd2Cf0j9v1%2BXreilusmpNLMB2QlYHcbA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b154a7a1e13bcf730b025ce9b301881e
+X-Etags-2: b154a7a1e13bcf730b025ce9b301881e
+
+{"title":"Alabama Supreme Court Chief Justice decries ruling against media seeking police files","description":"The Alabama Supreme Court on Friday ruled against a Mobile media outlet seeking law enforcement files related to a fatal police shooting.","url":"https://www.montgomeryadvertiser.com/story/news/2021/09/24/alabama-supreme-court-ruled-against-media-seeking-police-records/5850859001/","image":"https://www.montgomeryadvertiser.com/gcdn/-mm-/126ae7791a5ea34fd7a2223f551bdd0e97cc192c/c=0-0-400-226/local/-/media/2015/10/13/Montgomery/Montgomery/635803499108812169-Tom-Parker-Jan-11-2013-Gallman.jpg?width=400&height=226&fit=crop&format=pjpg&auto=webp","charset":"utf-8"}

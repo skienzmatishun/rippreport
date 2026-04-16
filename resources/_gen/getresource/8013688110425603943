@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a63e33a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MthKBPrKMT654hAKfqomZ0l8gBd6x%2FgW%2FnBMbjhPuJg3DWuiJHkKSNeuUmNlRh5e76uqHPhe3FjPNk9RQcNuFMvnt2lND%2FUT7mI1EgKJwaJ%2F%2B2VYR0ddUtE3jraUT0Aimqw3Z1kB3cpaU4xe6ux0CHwFVA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 16d15b299733c951b968289c2448cbe6
+X-Etags-2: 16d15b299733c951b968289c2448cbe6
+
+{"title":"FAUXHOPE CRIER - Ripp Report","description":"Fauxhope has a new City Council Crier, Councilman Cory Martin. This is no surprise the balance of the council hides from the public and rarely return …","url":"https://rippreport.com/p/fauxhope-crier/","image":"https://rippreport.com/img/town-crier.jpg","charset":"utf-8"}

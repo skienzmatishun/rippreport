@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d0cdf3a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fBE114vs8qD5%2BM9Kz%2Ff887cyUXBgSYnjiYSN9nWbn2DrZaM%2F5c63tj56vyvRa4OUMWX7cUZ36g%2BFXHrDWD5rTv4AtOhVCVmltgeHTSEy80q7iAhcbDfaUfxEhCQR76NnVLberBIOqgZK4Eg%2F4%2F6f2aM5yQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=148
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c990eb4ff26f85d4e3bbf8017e414be1
+X-Etags-2: c990eb4ff26f85d4e3bbf8017e414be1
+
+{"title":"Fairhope Arts & Crafts Festival likely canceled due to coronavirus","description":"Citing concerns over the global coronavirus pandemic, the Fairhope City Council voted to enter an agreement to postpone the Fairhope Arts &amp; Crafts Festival next weekend. The 68-year-old event draws","url":"https://www.lagniappemobile.com/news/fairhope-arts-crafts-festival-likely-canceled-due-to-coronavirus/article_7ccc391f-1125-51fc-b647-4e5316a67863.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/8/c0/8c0f72a0-fd08-57a7-8a17-047a46532dfc/630edb8eee630.image.jpg?crop=1055%2C554%2C62%2C0&resize=1055%2C554&order=crop%2Cresize","charset":"utf-8"}

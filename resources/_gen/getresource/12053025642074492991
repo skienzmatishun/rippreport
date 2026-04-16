@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640607be7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yFQuw0FFeRr57cQlYh986aF1CB0ZZzXj9o2dj7zuM9QpuSMy1SgdLzUjW4bEF6Je2kYjBNzunLC1tep7AmKOb590jHEUd9tNXO4pL7Uk4tSZvAko2M3gHRvuRmmfQvALZKS0mANPh7nU%2F1I5FYv3dLHJaQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f92bbaaa6c81f3974c1066efa6e1407b
+X-Etags-2: f92bbaaa6c81f3974c1066efa6e1407b
+
+{"title":"Elephants in Alabama - Ripp Report","description":"If a herd of elephants were to roam loose in Alabama, most news sources could not find them. Probably the biggest story, political story, is the …","url":"https://rippreport.com/p/elephants-in-alabama/","image":"https://rippreport.com/img/elephants-in-alabama.jpg","charset":"utf-8"}

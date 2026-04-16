@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b44c83a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lRTUzwrzN9knm8s1JIsEbMuP%2FmjyqD6aR4fK1eLGyJDT3DkZNzLaF4BsJwaq1%2FE%2F2UtmvCLZKchw%2BTx7OAiaDLPY63jM%2F9sNqzgVGiCG0zM2p13vbBElnuNpexf415qNPsvK%2FZx9ZWdguFgXi70CMYKvnw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 244c92d966e4a45cd85e2c1b7197915d
+X-Etags-2: 244c92d966e4a45cd85e2c1b7197915d
+
+{"title":"Baldwin legislative delegation leases office from Bay Minette mayor","description":"Baldwin County’s state legislators have decided to use taxpayer money to rent office space in Bay Minette Mayor Bob Wills’ law office, according to a lease agreement presented to the","url":"https://www.lagniappemobile.com/news/baldwin-legislative-delegation-leases-office-from-bay-minette-mayor/article_dba61d4a-7016-11ed-9552-674a32a1cff5.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/a/a6/aa6ebe3e-7017-11ed-94bc-8fc329e010e9/63865626f1d72.image.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

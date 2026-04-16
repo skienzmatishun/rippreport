@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64012ef55a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:17 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2Fn%2FBcYcPXYm5nRr5gRFBtQuf8KqrDKNtDo5ERYyEqNgvWKj2oj7u56LosKxNKkVsbJ9NEpQZTIRRY8O5pJSaWiRnXBeCKDjPwSVfaZskbLNdTyGJNoyDOQW6J%2F6uFA2j7V2ps1RMIk60keghSp0Z14r1pw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9a48c33f74706dad404b82872db83005
+X-Etags-2: 9a48c33f74706dad404b82872db83005
+
+{"title":"Fairhope council votes to purchase K-1 Center property - Gulf Coast Media","description":"In a special called meeting last week, the Fairhope City Council voted unanimously to purchase the old K-1 Center and two other properties from the Baldwin County Board of Education at a cost of $4  &hellip;","url":"https://gulfcoastmedia.com/stories/fairhope-council-votes-to-purchase-k-1-center-property,67061","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1470163322_577e.jpg","charset":"utf-8"}

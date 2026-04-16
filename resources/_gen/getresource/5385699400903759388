@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64092fa0ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=V7pS9Lu2xjV10Ow3PKbK4hUAtu%2BWCsWJxMvrqqAubsk5GsuNzZtXA3ad3YOfXo5HB7%2BxOrJZNDvCvyobePGQPYl%2B%2BHfojcwcwqFglTTHuQu8xLnH79mvsKQ4UpPYcbd3mEsNkTjOJMAhJKlA78zI0wmWAw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8038d9ba9aba7e4c50cd9b9d9127f6c7
+X-Etags-2: 8038d9ba9aba7e4c50cd9b9d9127f6c7
+
+{"title":"Bill Text: AL HB203 | 2020 | Regular Session | Enrolled | LegiScan","description":"2020 AL HB203 (Text) Baldwin Co., Barnwell Landmark District, annexation of property in district prohibited by local law, exception, const. amend.","url":"https://legiscan.com/AL/text/HB203/id/2183150","image":"https://acme.legiscan.com/images/legiscan_opengraph_200x200.png","charset":"utf-8"}

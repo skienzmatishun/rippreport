@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64060ed3ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mWsb7s7evHJMvvWPOXM1nSsh1tAL20vWpmRy8FXZdG%2BJ2%2BU2VK3moIyTQG1Z6s1Cq2HoKVzse0RFaf4OB%2B6GLxHLTln%2BWawrE7XUJcWdPVMZ%2BBnE8TWdrwRjAlCEcM0TNLtME%2Fic4%2FYUnR%2Bj%2FDM82zlcGw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0aa5415d4bd8296a495a14257c503d8a
+X-Etags-2: 0aa5415d4bd8296a495a14257c503d8a
+
+{"title":"‘Railroaded’ — Family learns Amos oil strike produced millions","description":"Leigh Manning is livid. The grandniece of former Alabama Secretary of State Mabel Amos is incredulous that her own daughter has been denied college money from a multimillion-dollar charitable trust","url":"https://www.lagniappemobile.com/news/local/railroaded-family-learns-amos-oil-strike-produced-millions/article_6d09cba5-46d9-5870-821b-3be06924e9dd.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/d/07/d07ca65f-baad-58a1-a9e2-0a4ac653d18d/631a3d80c0bff.image.png?crop=241%2C241%2C0%2C7&resize=200%2C200&order=crop%2Cresize","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640849d12a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VsIsmibkyOeOfZjLmj02vIjSx4SgGrJrM4UWTzo4RK7DSDRsN9r6pkZ5pi3C6zj5Gm2gDVa30r24fPKo82okmktZ8798kgwItfM4oOpkKPkHfgf38UtJkeiz3qKQBjHILppF1%2B%2FXxxtJB%2FHK%2BGftXGyS1g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e6e139a7abdd01f54b239a2e35974aa5
+X-Etags-2: e6e139a7abdd01f54b239a2e35974aa5
+
+{"title":"Political battle brewing in Baldwin over planning","description":"Some Democrats running in Baldwin County this year are questioning the commitment from county and city leaders toward planning for future growth and infrastructure needs. But Baldwin County officials say that planning structures are in place, such as the Metropolitan Planning Organization that includes the Eastern Shore. ","url":"https://www.al.com/news/2018/09/post_191.html","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64051cfc8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZH3aRkSALGuuXXXeoTzhVmHQSZeTiUj5BEo4rzO5g34IB3hi3HHmWA6ZQ57IFwlB4ZqOmz9WAQbJJdxIYHTeuwNRHfmx%2Fqr67VcBXMyKF5EVZRQqAgMNL81CgqrVZoxlWVo%2BTEkQ0%2BSv%2FV%2FKyly%2FbXUUlg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=70
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 38588d1072b757cd6c0cd2a54f74dfb1
+X-Etags-2: 38588d1072b757cd6c0cd2a54f74dfb1
+
+{"title":"Roy Moore's sexual assault allegations cloud Alabama special Senate election","description":"Before Roy Moore’s sexual assault allegations came to light, the Republican senate candidate was already a polarizing figure.","url":"https://web.archive.org/web/20181111230902/https://www.foxnews.com/politics/roy-moores-sexual-assault-allegations-cloud-alabama-special-senate-election","image":"https://web.archive.org/web/20181111230902im_/https://static.foxnews.com/foxnews.com/content/uploads/2018/09/moore-jones-split.jpg","charset":"utf-8"}

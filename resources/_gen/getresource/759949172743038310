@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64061af65a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xou%2FdDG315LUm7aPjyixXF1Nn%2FWBRmpwpnuiK0Y5gCvkSiI%2FLX1zj20kYMKHBtjX3HgxoytT%2B1JqsZRLQTTJTT5PZJXNDeACSwhg2vaTItP%2FYso8qDwazH2Wv8ZH93dW8RW%2B1UvoH86b%2BBGGjmSRMcstPw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0029f86d81c44d019b4e3913e4a5359c
+X-Etags-2: 0029f86d81c44d019b4e3913e4a5359c
+
+{"title":"Sewer Upgrades To Purify Discharge Into Bay","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2013/09/sewer-upgrades-to-purify-discharge-into.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipGpHTwHNR8zGcf5oH1pDrYgLsGVBiCdapyaC4CJh9W52al6KccX3H2T-9ZBaK0d2lQUJ976vzwbex-sXFwuTAbP9Fp9EU11LgOo8XpyBMyQb5DfQ7kcK5Lht-Qm8I958xaQcT_ffNHpQ/w1200-h630-p-k-no-nu/sewer+plant.jpg","charset":"UTF-8"}

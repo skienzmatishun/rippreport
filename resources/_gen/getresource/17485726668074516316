@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407abd37a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VOlkkN0UjytnNvPcKT6KipJYAexP0WGrJyqe%2BZu01YyhIvLIvXaGoxFWiufe6VbGSIyNw0SWPZkDUVcIUZUd9HMiivxcybQCEubCmHYAWEHf6vWYYcUHEkMZD4De57%2F2flXFymZoDn67y9%2FVPW6abB1LNA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=117
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b1bbd38c3e7ce3b345678f2e07cab282
+X-Etags-2: b1bbd38c3e7ce3b345678f2e07cab282
+
+{"title":"STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY","description":"Heads up, sounds like two different authorities are checking out Fairhope. The Ripp Report is waiting on tips to the Rippster in the hopes of finding out who’s in hot water. Something tells me that the next couple of weeks leading up to the primary election June 5, is going to be very interesting. Stay Tuned.\nThe State Senate Seat for District 32 is one of the more important races of this mid-term.","url":"https://rippreport.com/p/state-senate-seat-district-32-bombs-away/","image":"https://rippreport.com/img/state-senate-seat-district-32-bombs-away.jpg","charset":"utf-8"}

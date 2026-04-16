@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64089ee99a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YCr6zP%2FV6YhBvWT%2FAA6yJwpZru0%2FNYcQgeybbkF8Ybpd0BfeS1LGl4tzREQ4Qwj9YpV6bq%2BP%2FTjG6XgsADBCftPC0PFiuWAjdV5yBX%2F2j%2B5iSfQE%2Fa0ctH2As2iVWpI10mK3Ey5XDKiXVS5yN7%2FusqdmOg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=69
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2af5e9183b96f755f24be78b20bc2606
+X-Etags-2: 2af5e9183b96f755f24be78b20bc2606
+
+{"title":"A tale of two cities","description":"By Lynn Oldshue “A century later, Fairhope is still a draw for writers seeking a peaceful retreat, for art lovers … and for many other vacationers, no shortage of whom","url":"https://www.lagniappemobile.com/news/a-tale-of-two-cities/article_ca1afbd4-f99d-5ecc-8db5-fc384178e004.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/d/0a/d0a3c163-e0fc-581b-9427-066528466b67/631a2aa2b14e5.image.png?crop=403%2C403%2C66%2C0&resize=200%2C200&order=crop%2Cresize","charset":"utf-8"}

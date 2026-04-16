@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d59de3a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2FH8CFnde1%2F2mxvsYW0bnsayouKUe1UNkw3eTJIcVx%2BalTzFree1xUijnSxdIZy57yAUhRqHHky%2BbXO2rjtjbnCyEKCQrAaqysyRDu10oDZs1d8B9M%2BxWGDfonurPEC8Pso0XYlpufyHmkNc2c0ulR35UQg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=97
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b8e8d4009762d241af9788a108eedf53
+X-Etags-2: b8e8d4009762d241af9788a108eedf53
+
+{"title":"Fairhope rejects changing form of government in contentious election","description":"FAIRHOPE, Ala. (WALA) - In lines that took some Fairhope voters more than an hour, residents struck down a referendum to change the city's form of government Tuesday.","url":"https://web.archive.org/web/20181107120453/https://www.fox10tv.com/news/fairhope-rejects-changing-form-of-government-in-contentious-election/article_c2fd646e-e245-11e8-a23b-6fb9d887bc0b.html","image":"https://web.archive.org/web/20181107120453im_/https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/0/9f/09f82658-e249-11e8-82ed-8343de7781e8/5be26ff39a174.image.jpg?resize=950%2C532","charset":"utf-8"}

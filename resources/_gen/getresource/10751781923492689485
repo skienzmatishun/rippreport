@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d04c9ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PVRtcRelalm0HOUB73w0fy2b16HSzDovs7t8m%2BCQ0yVwl8YCeu2jpsJdDoOMfUVDsfYim69Z6BmVhcTYhwDy25wY%2FG0pZkp0NpVXiMrgZiiB4%2FXg1F%2BfV%2F%2F6I8ySiPsmbxCEEsHC92VCsrdKJlsLMR29DQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: abc9db527e20d139d40d70512e0cd310
+X-Etags-2: abc9db527e20d139d40d70512e0cd310
+
+{"title":"Fairhope discusses revisions to drastic park proposal","description":"You can stop making furious phone calls, quit sending passionate emails and cease writing lengthy letters to the editor. Call off the dogs: Fairhope will not be making drastic changes","url":"https://www.lagniappemobile.com/news/fairhope-discusses-revisions-to-drastic-park-proposal/article_f6e510e9-00e3-54c1-a4e3-b9513ead991b.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/f/62/f62eb106-7d1c-5fd8-beba-725f3d20af0f/631a34138b928.image.jpg?crop=1300%2C683%2C0%2C24&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

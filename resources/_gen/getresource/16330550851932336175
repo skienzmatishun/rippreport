@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640806fc9a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0PtlotugZk7oyNPbsqEhhTtC60NfCi4E%2FAALwDs0dnK7kEMFQit30dStJYfiV8I0FpFUUnszNNmONsaGWRLX91wDwbY4TJFLJ%2B7RlJO1ZGjLoc5TeAZD3ojI0ErE%2FzMcUF8WbUs13DwUjUqGAetOAt7hfQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f6bdced4bce3513a13ada78863adb4e0
+X-Etags-2: f6bdced4bce3513a13ada78863adb4e0
+
+{"title":"Appointments - Office of the Governor of Alabama","description":"Thank you for your interest in being considered for a gubernatorial appointment by Governor Kay Ivey. The Appointments Office supports Governor Ivey in meeting her major obligation to appoint qualified, representative, and appropriate people to positions on regulatory and licensing … Continued","url":"https://governor.alabama.gov/administration/appointments/","image":null,"charset":"UTF-8"}

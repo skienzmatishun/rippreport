@@ -1,5 +1,4 @@
 public/
-resources/_gen/
 comment_cloudflare_worker/
 cloudflare_comments/
 .kiro/*

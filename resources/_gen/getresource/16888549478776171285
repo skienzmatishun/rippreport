@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64029bfeca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FgWVSt5x5gWmc%2BOvRitFX5uUBZVTOFTA51JMyJ9sHd1ccAe6ePEtPrZAHOFB%2F%2FqcJ54NKyUn%2BRguMpbiSkFpWPtPbKxPYdrzY7Ns%2BoMQlyuF3y5jZHlMKZgDh2O11Z1aBH2ujbH%2FVnFJNseX9JbndLF8%2BA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=165
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8955e830c9b18e2d9a5dec5ee032b689
+X-Etags-2: 8955e830c9b18e2d9a5dec5ee032b689
+
+{"title":"Fairhope attempts to settle claim with former employee Sherry Sullivan - Gulf Coast Media","description":"At its Oct. 23 meeting, the Fairhope City Council voted to instruct attorney Matt McDonald to negotiate a settlement with former Fairhope Community Affairs Director Sherry Sullivan.   The council  &hellip;","url":"https://gulfcoastmedia.com/stories/fairhope-attempts-to-settle-claim-with-former-employee-sherry-sullivan,55135","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1510599369_57db.jpg","charset":"utf-8"}

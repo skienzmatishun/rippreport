@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409a38bba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WDyFyvfjCj1UmbBttP0tbimVY4uv5%2FJO1IKguS6kqAi6sCcn6OGmdD%2BQHaC4AE12Uf2Tk7zDJR3boCr2wPrNIEGI3W%2F5%2FBpc0YksEM8bwpN2MIlFlnzuqPDrOOgRWskHQAW9UPYd%2BIEbCwiIzvsDo7rIPQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4d9e0a516b267369ddc8146f90a963b5
+X-Etags-2: 4d9e0a516b267369ddc8146f90a963b5
+
+{"title":"Court Rules Public Officials Can’t Block Critics on Facebook | ACLU","url":"https://www.aclu.org/news/free-speech/court-rules-public-officials-cant-block-critics-facebook","image":"https://assets.aclu.org/live/uploads/2019/09/web18-fb-gdpr-1160x768-scaled.jpg","charset":"utf-8"}

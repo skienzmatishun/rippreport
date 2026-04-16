@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a749b0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tYpf%2FyBEEkhPma1jcLYE1%2B7OWd%2Bfre2Pr1TARHzsmh32BhBipZHxwfGiwPCIpnUWHrWLZXdL5Hl7c7jRJO1EdUVT02SRSSgsbozTcCn8ASERcnNfpvTxmFivFD6GCxyCLIY19xu4Fwh2bQvHlVKFHu0a1A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: fe81e967428da4f5d5c344b9ef4c2094
+X-Etags-2: fe81e967428da4f5d5c344b9ef4c2094
+
+{"title":"Fairhope seeking historic preservation ordinance, tax incentives","description":"Fairhope could soon have new policies for maintaining historic homes and buildings after city councilors discussed the first draft of a preservation ordinance in a Monday night work session.","url":"https://www.lagniappemobile.com/news/fairhope-seeking-historic-preservation-ordinance-tax-incentives/article_c55fa8f4-5336-11ee-9459-376d90edb04a.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/4/22/422894de-200d-11ee-bb59-8bdeebff4311/64ad8c81df2bc.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

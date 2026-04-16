@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c298aba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=j8%2FBp8yyBVFv11uE3qZXQdr24Xt2b%2FGZpCmT9hXjEILTOY3mfJf%2BT3QbPQgKBQ%2Fc98PFFOgS0%2F6gg0tAAmFypleX2KxWTiKfz%2BrMU7WYH5Kcn5ifiW2iG7%2BOrfnmq6J9pu4c4OIXjGpFj%2FnJUJl6cHMr0g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=104
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9b2762e654fb1c14740e91ff11db7983
+X-Etags-2: 9b2762e654fb1c14740e91ff11db7983
+
+{"title":"Fairhope Special Meeting - Ripp Report","description":"Jack Burrell is calling a special meeting on Friday the 29th at 8:00 am. …","url":"https://rippreport.com/p/fairhope-special-meeting/","image":"https://rippreport.com/img/fairhope-special-meeting.jpg","charset":"utf-8"}

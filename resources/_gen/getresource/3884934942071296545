@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64053cdc6a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kMhtGmdRmQF226UP%2B3aRS1R%2BWf5zoahDbuUaQu5VlF20CjV0TZlXlsaHTpiidwFU2l90EFlqnidxSOe02HBv5uJCflF8aThiInfu8Q%2BMJuEqiqpzccU3TeiRDSnpgru%2FClnEtexMKt3OScVXofbvrHvJsg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9e4d06c6cd38dbc4dc6ed3a22c27126b
+X-Etags-2: 9e4d06c6cd38dbc4dc6ed3a22c27126b
+
+{"title":"Legalize it: 7 ways a new ‘ethics’ bill would make Alabama more corrupt","description":"Gifts from lobbyists? Legal. Bribes under $5,000? Misdemeanors. And that's just the start.","url":"https://www.al.com/news/2019/04/legalize-it-7-ways-a-new-ethics-bill-would-make-alabama-more-corrupt.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FGIANGKQZWJANNBNY274J5CUFGI.JPG?auth=0c52a4904286dfd2aad7a951dd6deed5b8b0a8ff4cfac6d1a707215ab3b7b45c&width=1280&quality=90","charset":"utf-8"}

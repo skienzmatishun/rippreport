@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ff12888a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:12 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kvGrC%2F%2BqV%2FZRSj6WN1qZM6CMzjVdzWiBmeC4J4VmJMTLZ6lF44H2Wo8sN5NMeQIEm1NvS%2FXkjMv15Enq3LJ%2B92jcCg%2BBCsg2kqIZVqnqpKGUxXl4EnlhQdChxTceR4AqcGcom0N0iGWgRMdUR1QeyQWUQw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=91
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 805ebc8b1890e1cc35bab154eb312be8
+X-Etags-2: 805ebc8b1890e1cc35bab154eb312be8
+
+{"title":"Justice for Murray Lawrence Jr.","description":"","url":"https://www.justiceformurraylawrencejr.com","charset":"utf-8"}

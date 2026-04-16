@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405299d4a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wjW90pgNVPZcpafNzDnxfsCfxekmC3x%2BQFyYRC6xaGbJHavEB%2FYGEs1y53B9khVSLty%2FnKf60Hhd%2BkxEMyQ7o4F3VAEpWkGXtS7YD7tyiP8YctzqFS47czqHRonXe0ZSEa3mE7yBEdsajlQ5jduYPzHyJQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 24397fa372fa0279b6bce043ca14cf28
+X-Etags-2: 24397fa372fa0279b6bce043ca14cf28
+
+{"title":"Sheriff Lowery praises defense verdict","description":"Baldwin County Sheriff Anthony Lowery on Friday lauded a federal jury’s decision clearing Deputy Lt. Matthew Hunady of wrongdoing in the 2017 fatal shooting of Jonathan Victor.","url":"https://www.lagniappemobile.com/news/baldwin_county/sheriff-lowery-praises-defense-verdict/article_9d467150-3eb5-4772-a319-a66e9632bbbf.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/1/11/1117b4b9-ebcf-4d7e-9574-91cd6e520477/68c475b3974bd.image.jpg?crop=1568%2C823%2C90%2C161&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

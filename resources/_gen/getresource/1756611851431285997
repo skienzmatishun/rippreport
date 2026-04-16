@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bd4826a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ooxXNaPKNK5hvgIHDJahiwjBKcFMZ0JJdaEs6XW0iA9%2FSkcC28i8%2F%2FcXsqgIlG1xYrm8Smq627ZYOwRqH58CtQbxP1i8lDIT2JsgDFgfhF9zoNdveGvQG5O0d0tz6fitQXlGShT8ZGchuhsGpsgdZ0DXAg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 66d58125b5210af2ed023670975b8304
+X-Etags-2: 66d58125b5210af2ed023670975b8304
+
+{"title":"HORRIBLE HURRICANE HARVEY - Ripp Report","description":"Get down on your knees and pray for the folks in Texas and Louisiana. Thousands of people lost everything and many more thousands will be affected by …","url":"https://rippreport.com/p/horrible-hurricane-harvey/","image":"https://rippreport.com/img/horrible-hurricane-harvey.jpg","charset":"utf-8"}

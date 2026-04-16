@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640633c44a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zlLU2gTX10tBr9SU1u6B81IA84iJo48eHBfTZ85dib%2Bc7t5OfiklqnIF5LKREFwnlSpJqiBUXDnYwP6sE0HKsRbNAtSVzg6doNZo%2BhlVe6Td7y5tOUkI28ECXzvRGVQ0gz6CBVitS86M%2FkeTS%2B59FtMwVg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=71
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 32710e465d81b2523ec241489e0be67e
+X-Etags-2: 32710e465d81b2523ec241489e0be67e
+
+{"title":"Baldwin approves permanent extension of penny tax","description":"The commission, with unanimous approval Tuesday, approved a permanent extension of a tax that was set to expire in 2018. The tax provides $40 million in funding for the Baldwin County School System, among the largest in the state. ","url":"https://www.al.com/news/mobile/2017/01/baldwin_county_commission_appr_2.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Feddietyler-jan3jpg-3eecc82b6da809c7.jpg?auth=46095816da63fd9cd017712a51563bc1d8a8cc7509b84da59bd2186adcc8c11d&width=1280&quality=90","charset":"utf-8"}

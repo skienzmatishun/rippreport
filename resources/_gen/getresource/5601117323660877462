@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406b7d8da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ALCh0XBDR%2B9csGkrHtI6ntz36VT9q%2F5Iiitu0rjxqOzlRdqtzNH8gtBPQGpBPFeVqFJDY%2BoCalVSVZV3rOECcdbnqIeUEq7aJ5Cw3JbjEgr43cvcpYzop1XsJAfADs27awpjhQ2QGKy8a4wOjpsFn9HE0Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 68d07269cddb357c0c420781b70c3e0b
+X-Etags-2: 68d07269cddb357c0c420781b70c3e0b
+
+{"title":"LEGO ROCKET SCIENTIST - Ripp Report","description":"The good ole boys in Fairhope won the last election and were successful in electing a Mayor and Council that were willing to embrace development and …","url":"https://rippreport.com/p/lego-rocket-scientist/","image":"https://rippreport.com/img/lego-rocket-scientist.jpg","charset":"utf-8"}

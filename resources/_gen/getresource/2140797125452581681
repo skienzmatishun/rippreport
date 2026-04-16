@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640446834a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XNba457C2Ecxd%2Bd1InjeDcaPg2EGNlqOdw%2B6GMIillQzxKhVUpBc0RG1BrGgIPxgtF%2FQ%2B90mKt%2FL0crb4DDHK%2BYzHHTcTLFibLLiy4hQ9NuxwmvsFdQj899ENmx8OHi3toEf%2Fc3aVQTAhd2iMGo7rYddMQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d1a2ecf8e66ee84d0bf4b0f27de587cb
+X-Etags-2: d1a2ecf8e66ee84d0bf4b0f27de587cb
+
+{"title":"BOYCOTT McSHARRY - Ripp Report","description":"He has done it again. The Ripp Report has predicted numerous times that Ronan McSharry would continue his intoxication fueled assaults on women. The …","url":"https://rippreport.com/p/boycott-mcsharry/","image":"https://rippreport.com/img/boycott-mcsharrys.png","charset":"utf-8"}

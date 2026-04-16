@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640583b23a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xkBVn%2BVNgRzXK5EL6D%2FyCzwIJlxmHItuCVNBZU35kxUlyANvndxbit91ndLsgOnvTwKwRLBigzNnFBAwzboZOm7zr%2F1EuUMMZqXjDjmjuyub43I%2BQGW54NGpfGNZZGlM1K2D0rS4Wdz1GBMFo6FGQ5waHg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 10f6f85f16e45f22680193e45755042b
+X-Etags-2: 10f6f85f16e45f22680193e45755042b
+
+{"title":"More Changes Coming To Planning Commission?","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2019/02/changes-coming-to-planning-commission.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMnAEVOCQ0lGsQykpceEZDnTToPB2LzFsYeRpnB40urlviyr7lhYkaAHIcFlyf_jevjGX6zBt7FEXPLiX0etAchTPXlPTgRUXNih5OvpYmiHWBLAF_iHUtUVsTtT2RiE5nh5JGKqVuo7o/w1200-h630-p-k-no-nu/turner.jpeg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404c9861a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Qq3Ou%2BEOfWiTIyOd9jAEcQzUZ%2Bqk1eNswPUdAam7DeP79GibH%2Fe%2FaTYfEaUv0AEzv9yWUsaFZFor45k%2BFGzQfsGsypMglTIkqUqhuEByh33N7klgSIDs%2BoL%2Bpi58nibyy7kGJlIqAIFskF3jBJj1he%2FuJg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a5c4be34274ffa1b85112077ff76b29f
+X-Etags-2: a5c4be34274ffa1b85112077ff76b29f
+
+{"title":"AG Marshall accepts PAC-to-PAC money despite state ban","description":"Campaign claims loophole that could scuttle PAC-to-PAC ban","url":"https://www.al.com/news/2018/06/political_money_laundering_ag.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_impact%2Fphoto%2Fsteve-marshall-61111fcf11e690a1.jpg?auth=cda70ab55e62b1811f3380b8f1477a93b587ec324b6873593bcf83b6bb64a0da&width=1280&quality=90","charset":"utf-8"}

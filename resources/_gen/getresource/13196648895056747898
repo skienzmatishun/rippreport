@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406cc993a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=q%2FWYED41SWDtTqQO%2FOhd1H%2Fa5hZlmxTNF%2FmeNdAK8mrTeG8T6ivauBz23oylMK0URM5pxfUcpAuNnczOKnVLmQHCZ4XrYj9%2FhsR3ecNn7ZZGVHEtw4J4ljm22fnJ2IIZnA5UUDCg0FOO7HfOScwexytFOg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7fa2b4414a1ac7a044dc874ba91581d4
+X-Etags-2: 7fa2b4414a1ac7a044dc874ba91581d4
+
+{"title":"Siegelman says race was stolen","description":"MONTGOMERY | Former Gov. Don Siegelman says the 2002 governor's race was stolen from him by someone who manipulated a Baldwin County vote-count computer,","url":"https://web.archive.org/web/20200811140858/https://www.tuscaloosanews.com/article/20050703/News/606113203","image":"https://web.archive.org/web/20200811140858im_/https://www.tuscaloosanews.com/Global/images/head/nameplate/tuscaloosanews_logo.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640815a7ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=G5EzK83wnjeunpifBtBc2gKPR2iVZPtQi5CsQf1miZfKcKHc1dRQjujCgW6DVu6lWxQBFAIaUa6XVI14EcKX5gIm%2FRHfJgq89NX31WzE4lLfWcvawWJEfI4fc%2FHnA4IZdvpGy6Ms7YuN9KTIDQ01SX9bVg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 622b578b20610971b11cb56d92881468
+X-Etags-2: 622b578b20610971b11cb56d92881468
+
+{"title":"LEGAL CORRUPTION - Ripp Report","description":"Kyle Whitmire of Al.com has written a series of articles that most people in Alabama will not read. The sad truth is corruption is inbred in Alabama …","url":"https://rippreport.com/p/legal-corruption/","image":"https://rippreport.com/img/legal-corruption.jpg","charset":"utf-8"}

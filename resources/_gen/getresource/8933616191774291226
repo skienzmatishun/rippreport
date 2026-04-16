@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408b1a16a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2FJ%2B9DK7M5myNHSk%2Beye%2FfHfTbbEYO3YXZi%2Bja56YMUUczVEq%2BQtyoJm6WO%2BiYJYxDcMwZNbFB1jHDMxfUYJpNgJ1STCCYNg2DJVeLxvijk%2B1TYguSZ94uOrAMbOpaDBvmRXSnfVIpjZ%2BDpzvGYMunU3Muw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: afffc872523258032f1de4b21489bc83
+X-Etags-2: afffc872523258032f1de4b21489bc83
+
+{"title":"CRIMINAL ENTERPRISE - Ripp Report","description":"Fairhope being run as a Criminal Enterprise?\nCRIMINAL ENTERPRISE WATCH UNTIL MINUTE 2:07–9:03\nhttps://youtu.be/3ZMpLW8xzec?t=127","url":"https://rippreport.com/p/criminal-enterprise/","image":"https://rippreport.com/img/criminal-enterprise.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64097b8dea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7EWEzufBsmmEOitVDdekUlEBvsrduBAoXupOD9vmnODaWn57JwC5T8tm72mWHD%2F9O%2B559sdAyYjdhQUSHY8yKMTU5XTtUAUeGVWU5SyR5PJj%2BlWeYUKi5e%2BoWTtHEROD5%2BJOSgRXtlpBXBPoQDXkYJgP0A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 174c30aa78cbacf73444419a7ea9be5a
+X-Etags-2: 174c30aa78cbacf73444419a7ea9be5a
+
+{"title":"Burke, DeLaney implicated in new civil lawsuit","description":"A Baldwin County property owners association (POA) recently filed a lawsuit against the developers and financiers of their subdivision, claiming its more than 200 homeowners were wrongfully encumbered with a","url":"https://www.lagniappemobile.com/news/burke-delaney-implicated-in-new-civil-lawsuit/article_8078d5b1-2ebe-547e-b26d-02679e3a828e.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/f/18/f1835fa5-02f4-5985-b5d9-6acaaf32e2ec/630ed1acee945.image.jpg?crop=1000%2C525%2C0%2C112&resize=1000%2C525&order=crop%2Cresize","charset":"utf-8"}

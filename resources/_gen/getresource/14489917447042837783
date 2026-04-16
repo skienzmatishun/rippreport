@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64062caf5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8119k3YdsVmU6KvkHmhPV6lOrsQv9audWfcFhPagw7iz14J3BfV02S2aPiA1MkS6OOgcCG0ltvWevLngEj2iMwPFGUXMizlmyE706EayoF23ipRwk%2BpvaBB%2BfMOqX8U8HMRfKpD0EDDttZZ0KIDyU%2FYm1A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8ef94f72d92cfd888926ffe747ef0783
+X-Etags-2: 8ef94f72d92cfd888926ffe747ef0783
+
+{"title":"Lawmakers approve bill to allow yoga in Alabama public schools","description":"The state Board of Education banned yoga from schools in 1993 because of its connections to Hinduism.","url":"https://www.al.com/news/2021/05/lawmakers-approve-bill-to-allow-yoga-in-alabama-public-schools.html","image":"https://www.al.com/resizer/v2/AKMCNM4FSFEWLJG6WOCV4TUTLY.jpg?auth=b538376206419ae083995d46e29fb9366c4f039becea0a22850d4028dc85beb5&width=1280&quality=90","charset":"utf-8"}

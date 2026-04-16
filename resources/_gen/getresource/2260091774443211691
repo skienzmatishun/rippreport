@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64087cf9ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=76TTTvYU3s8K9SY%2BuDC7vuRbi6OlqLf38FdFgXQ8QrIB56LTr4zF3vLd7W6rSMbfFq16q8ixWt392kCo7%2BX9qRc06ESv1A5o9jLORQdfSMk73ZJYnf5zYu%2BwJFMoHrDdL1XetUW%2BhZY9tgN%2BUlOPwX3REw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=112
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8a49d9225a68cbb74ab5cc3ecc1a1c71
+X-Etags-2: 8a49d9225a68cbb74ab5cc3ecc1a1c71
+
+{"title":"Fairhope endorses deal to purchase schoolhouse","description":"The schoolhouse was built in 1925, but has sat mostly empty since 2011. The Fairhope City Council, on Wednesday, unanimously supported a proposal to purchase the school building from the Baldwin County School System with the hopes of transforming it into a multi-faceted educational center. ","url":"https://www.al.com/news/2018/09/part_of_our_history_fairhope_e.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_impact%2Fphoto%2Fk5-centerjpeg-2cf68c680a5f12b6.jpeg?auth=b556cdbc1305da87de60552ac723e5c6dee4e8a99d14e09e42c8f149c788caa2&width=1280&quality=90","charset":"utf-8"}

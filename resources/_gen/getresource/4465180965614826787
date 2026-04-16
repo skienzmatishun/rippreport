@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bf2df0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mhzu0y6jsnVXcr2olQOIRoPzkvSTEkUGWG2TjR%2BsTvDYQyhXcpbN3shEHl1T7qYOgTBr8CdX5RBgwrCMvgc0ZF9PkHYbekBbTKWbY4M6rQwmCy5fqzQpvX8d2axBeXubsX1j00qJM9U0PKu57xT8WhJCtQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b6a7c19db80e669530432a9ea70bfa59
+X-Etags-2: b6a7c19db80e669530432a9ea70bfa59
+
+{"title":"I QUIT - Ripp Report","description":"The Fairhope City Council that served during the last cycle, 2016/2020 was the least productive of any council in recent memory. Most of the council,3 …","url":"https://rippreport.com/p/i-quit/","image":"https://rippreport.com/img/i-quit.jpg","charset":"utf-8"}

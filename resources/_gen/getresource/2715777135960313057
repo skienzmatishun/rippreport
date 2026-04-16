@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bac86fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ekbfvYA0Rpx4EvuzhAMxU7TZRgmWPtIPfcoPfiJ9v9vxkEFSUvxbdVbpA%2B2zkCBaqeeR7RHlv6CrJIrkPz5AlYE6YmCu6gEIFR30chsIA%2BdzuO7vgRkxywgNba4HEqs%2BPIbaaVr78IYpsoksks8oZdF1SA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9feb1590c70f5fcaf1e06f5603fd1ecb
+X-Etags-2: 9feb1590c70f5fcaf1e06f5603fd1ecb
+
+{"title":"U.S. Chamber endorses Jerry Carl in AL-1","description":"The U.S. Chamber of Commerce today endorsed Jerry Carl in the race for Congress in Alabama's 1st District. ","url":"https://aldailynews.com/u-s-chamber-endorses-jerry-carl-in-al-1/","image":"https://aldailynews.com/wp-content/uploads/EaPXkF5XYAE-u7r.jpg","charset":"utf-8"}

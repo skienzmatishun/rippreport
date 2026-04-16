@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b7bf44a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GylqYPD6ARbTSsNTX3eNMB%2Bbvu2Q5yPRbPzbeRSRSbjj4z8RRSfqJgerbAtmm7BghH7dZ6WPCcuE%2FXJxG2TMfaZDouww1J3Efk2YE9TueGZuA0WB5iXLd7GYE5DhKsAmHTRzsux%2F8t%2Fo9XfkULhBMKiwiA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ca73f99b07d60b11d888033507ded2b7
+X-Etags-2: ca73f99b07d60b11d888033507ded2b7
+
+{"title":"Coastal Alabama water: Center stage in courts and Congress","description":"Legislation introduced by U.S. Sen. Doug Jones would establish grants to set up databases so counties can share information to pinpoint the causes for polluted waterways. Meanwhile, Daphne Utilities is paying up in court for past waterway violations.","url":"https://www.al.com/news/2019/11/coastal-alabama-water-center-stage-in-courts-and-congress.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FEAARRTQZWNANPPENFAM7NRKEII.jpg?auth=477a3477d37115ddcc91c1e20ca650a6f66616a61bebf8ab8ff2d58ef399f312&width=1280&quality=90","charset":"utf-8"}

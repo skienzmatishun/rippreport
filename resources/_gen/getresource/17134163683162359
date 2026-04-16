@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64074fb09a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0ySVKnRBTRByGi8lXocaDg%2FW7lLpd2VV8sh%2BGWehce6ZOvdB%2FB1lTmSvWxHoZS577I%2FzAUsRDPj7OUUG41HLmRWJot3VQyEVMl%2FnIrRAtmagdTA1KRHfqf1UGDHsG94eUAYb6O%2BhbnNZGmdUoWiBOPbNaw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7d84d61c8143ac7f50b7d39a06bd7309
+X-Etags-2: 7d84d61c8143ac7f50b7d39a06bd7309
+
+{"title":"Veterans to rally at State House in opposition to putting ADVA under…","description":"Hundreds of veterans are expected to rally on Tuesday in Montgomery in opposition to legislation putting the Alabama Department of Veterans Affairs (ADVA)…","url":"https://1819news.com/news/item/veterans-to-rally-at-state-house-in-opposition-to-putting-adva-under-governors-control","image":"https://al-news.transforms.svdcdn.com/production/images/alabama-political-news-state-house-2.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1714702118&s=0b916598e6daefce90694599c6bd098e","charset":"utf-8"}

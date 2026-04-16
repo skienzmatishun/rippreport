@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bf7f33a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fiH83qxC%2BG3KY9WZsaAdrpCbj1q91vIomhiG6t4oM7V9dz4gCATtYf1zWc8IQxAh6I8T7xpMPLnZxX9wgnu%2FM138yDvaawPamcr%2FVz3DUVKr8DwW3Yso7wEcE44Fwf5fjCMbTP2VSDF%2FWUoWfuxxdoej%2BA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e05e099bd6848021c3aa54fb170103d0
+X-Etags-2: e05e099bd6848021c3aa54fb170103d0
+
+{"title":"Former Orange Beach Mayor Convicted","description":"A federal court jury in Mobile has convicted former Orange Beach Mayor Steve Russo and two others. The jury reached a verdict Friday afternoon. It found Russo, City Attorney Larry Sutley and developer","url":"https://www.wsfa.com/story/5360017/former-orange-beach-mayor-convicted/","image":"https://www.wsfa.com/pf/resources/images/logo-icons/wsfa.svg?d=422","charset":"utf-8"}

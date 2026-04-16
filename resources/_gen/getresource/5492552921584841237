@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404cb8caa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cX03qbSmDewPCxmTWzgsVpfh%2FH%2B7hqJ3DSybMrNdW9uSIRBSSP481KF9LjGp%2Br%2FMKdI5ZmXBwZHsNewX4ikTznHb1FvmisdgrEgUYN4%2F9pAID7jVnuqIot00rTh0Qs38ex5E20EwwxMSw5ziIDWfJ4hD0Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=89
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ba3885dafb8dad9188478f24a71b2316
+X-Etags-2: ba3885dafb8dad9188478f24a71b2316
+
+{"title":"Politics continue to overrule ethics","description":"By Bill Britt Alabama Political Reporter The State Legislature begins its four-day sprint to the finish this Tuesday. To-date, 1025 bills were introduced","url":"https://www.alreporter.com/2017/05/15/politics-continue-overrule-ethics/","image":"https://www.alreporter.com/wp-content/uploads/2018/03/Social-Media-Card.png","charset":"utf-8"}

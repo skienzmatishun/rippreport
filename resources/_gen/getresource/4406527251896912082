@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640021bbaa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:14 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PpCIW1gxlpv4EPXhyWvGcgwgsBIe5avi08MFb%2B%2FoPAmMULLbyFm0f%2B3hoAyy4gvEIpuhIdzCJkgVNMsq8sr26uEWKnYQUW50I9RwnpGlSP64k0bcdtNxc0CCcOOexUvhm18lSqt6n3mnTTUH8%2BlhnV0npQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9ebd866b47b38cade811e4e6beda3f7c
+X-Etags-2: 9ebd866b47b38cade811e4e6beda3f7c
+
+{"title":"LOSER - Ripp Report","description":"The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court …","url":"https://rippreport.com/p/loser/","image":"https://rippreport.com/img/loser.jpg","charset":"utf-8"}

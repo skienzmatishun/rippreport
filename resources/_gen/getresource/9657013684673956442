@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640665da8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lm3ark680xFrSv8VpNQQQkQYTyU6bG5EA%2BhHc1VCObxo1YdBqkCqWrWEyQw9G%2FbK%2By3MhwP%2FDQ0r9wm7NB2Ur3ml3F4dRpaFYmgadiEuBbQVX8sUPRM5D0lINmVijNS%2FtIjYzEeE%2BGM3tjbhxwNo6hisPg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=89
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 18d308f3d9fde14cb2ba515e136bf8c5
+X-Etags-2: 18d308f3d9fde14cb2ba515e136bf8c5
+
+{"title":"Alabama Republican Party standing behind Roy Moore  ","description":"Some national Republican leaders have called on Moore to withdraw from the Senate race, but Alabama officials have been supportive of Moore, said they are withholding judgment or said nothing.","url":"https://www.al.com/news/2017/11/alabama_republican_leaders_sta.html","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d3f877a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=F0kYbznpQfYuz%2BeblD0k%2FxpLcYfEGQy4kaSiKWiMs0wj0YtnuhacQUj%2BRBWT0wU%2FvNsAFyzxdZ262skm9jaaLz%2B8Us7RvPvRIgVbxq2R%2BmmQnTVhmgZFM3qA%2B4ccsxZc2uFgdWJvgfGR2Pf1wswFGHnJ3Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 11886c4e3c5342cadd6940cbb6b2cb73
+X-Etags-2: 11886c4e3c5342cadd6940cbb6b2cb73
+
+{"title":"Brooks says bridge funding local issue - Gulf Coast Media","description":"FAIRHOPE – A Republican candidate in the race to replace U.S. Sen. Richard Shelby said he would support local efforts to build a new Mobile River bridge and Bayway, but that funding should be at the state and local level, not federal.","url":"https://gulfcoastmedia.com/the-courier/stories/brooks-says-bridge-funding-local-issue,107847","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20210617-220237-Mo%20Brooks%20%28002%29.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640aa8c86a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CppSnKtsie%2BAH7bA1jRULTmcymobOvHa8fm1goCUG0qlVmGXdscrtD%2FzkBeHESIoEPtsS%2BcWH%2B18rn3azEeVsfStxDRxXtGqZMgPiInjPQGwfyKr63nJnQEVN24V4%2Fv4r1Ry0C77PzN7fJ7qKYlelQzdLA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 1fc66bc308c4608fc9a8ce981491b4e0
+X-Etags-2: 1fc66bc308c4608fc9a8ce981491b4e0
+
+{"title":"FLY CREEK - A DRAINAGE DITCH ? - Ripp Report","description":"The Fly Creek Apartments was the subject of a six day trial in Bay Minette. I spent 6 days observing the trial, listening to evidence and legal …","url":"https://rippreport.com/p/fly-creek-a-drainage-ditch/","image":"https://rippreport.com/fly-creek-a-drainage-ditch.jpg","charset":"utf-8"}

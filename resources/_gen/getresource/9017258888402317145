@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406beedda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cQDyW8Y4miFF8lk7QJ%2BDmJVdttELyrhLbozNzuaeBQ2PvJpWNt6by91mwKDcg8HKiIxZuGAeIMjc4x4vnJoGQd8UXbbFxok3rbSz%2FoRCxuVQPpsOjkY2DmYUPfIy97pc1Seg2AHqYQPTD8WAWQv5gXDgFQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=116
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cb1c6b511470b2be0800eefdf072dcb3
+X-Etags-2: cb1c6b511470b2be0800eefdf072dcb3
+
+{"title":"A Mobile government curiosity: Where is Colby Cooper?","description":"Cooper, the chief of staff to Mayor Sandy Stimpson, hasn't been at a Mobile City Council meeting since he requested the City Council to be voted out of office in early March. ","url":"https://www.al.com/news/mobile/2016/04/a_mobile_government_curiosity.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Fcooper1jpg-f7ab88fa6fe721f3.jpg?auth=f934ca97fa67fc8bd94aa7767ed8dbf3e813609dc16ffd7057a7e674a6a6017d&width=1280&quality=90","charset":"utf-8"}

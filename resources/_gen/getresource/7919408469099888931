@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ff93931a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:13 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IPM52AaunBtnipCpscSKIDJ%2FLkU%2BoIF6Jkok2iqO%2FlHt4eN6kRaTeNaRHopT1R4eHZoQdYZj1P19NmFxDIE4ZjaXCpRBL%2BFmnRYZWjGw57C6BiT9o5sC7pLdvGK%2Fkhr17wfkmGiP0fBlhgH3InVQHJ4Fkw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7861aace1df65ebfb7bd0df7dd1bf389
+X-Etags-2: 7861aace1df65ebfb7bd0df7dd1bf389
+
+{"title":"Hi-JACK-ed - Ripp Report","description":"The Ripp Report closes out 2016 with congratulations to John Sharp Al.com.\nSparks fly in Fairhope: New mayor, council president dispute airport …","url":"https://rippreport.com/p/hi-jack-ed/","image":"https://rippreport.com/img/hi-jack-ed.jpg","charset":"utf-8"}

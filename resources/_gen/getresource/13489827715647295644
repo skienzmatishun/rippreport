@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64051bf8ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vAXBcg3a5ybpsWbnc6nhn1CIOABjzKcMhqQiMn445Wi5jLGKKt6C3DdIOgLzPue9uYNsXkm4xIlD5ZXt9xJAU4431XEoal7TPg5k7KNb7wZhAZ2X%2FWVN1WySPNoqr26ajIHCjsJOklPLh2iAJ7VMxfUSJw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=98
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d0ec151ed8b32cacc6e0ccc070b3a998
+X-Etags-2: d0ec151ed8b32cacc6e0ccc070b3a998
+
+{"title":"Vision & Planning: $650,000 Fairhope Area Community-based Comprehensive Land Use Plan","description":"The City of Fairhope will begin the Fairhope Area Community-based Comprehensive Land Use Plan, a 2-year project, with $650,000 RESTORE Act funding by the end of this year. It will serve as a guide …","url":"https://web.archive.org/web/20180827213355/http://mayorkarinwilson.com/vision-planning-650000-fairhope-area-community-based-comprehensive-land-use-plan/","image":"https://web.archive.org/web/20180827213355im_/http://mayorkarinwilson.com/wp-content/uploads/2018/03/google-map-fairhope-844x1024.jpeg","charset":"utf-8"}

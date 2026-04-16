@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406cb941a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wq%2BCAfOROAxZWTsGrVIepkjo5BWFiwCH4ovYfKCAkEGE5mYRSINWUze%2FGaF55L5B%2BmNgQX%2Ba0JMemFO92z05Ri3hwDV%2B6AnWT7HgNQXWUbz4iYISCVTuokI5zUozvKAA3LFob8LHTn7jBO2KaqLhRSa64Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b5c8a12db324aeb41de1a3d83ddea6aa
+X-Etags-2: b5c8a12db324aeb41de1a3d83ddea6aa
+
+{"title":"BROKEN EGGS - Ripp Report","description":"Fairhope City Council is as dysfunctional as a square bowling ball. Led by Council President Jack Burrell who has been president for going on 7 years. …","url":"https://rippreport.com/p/broken-eggs/","image":"https://rippreport.com/img/broken-eggs.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640931a8da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=S6As3NnUZirf5NVDuuVel9H93YEUYdn%2FPehdT3duO3pY8i3Oc6tuni%2F9v8iO4mixh9LadLWRKOnqKAi1JvzjebTnM753BxiE6JPZZVpAnb0UjfDJFLK5VkgDeLP8EU8mtPAj8NgJpTOH08tSGT%2B1Pk2RXw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=88
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 1c9a8228c4c74e034e5d2cc5ea06de0d
+X-Etags-2: 1c9a8228c4c74e034e5d2cc5ea06de0d
+
+{"title":"HAPPY DAYS ARE HERE AGAIN - Ripp Report","description":"Fairhope’s mayor extended an olive branch to the city council and they accepted it. The last city council meeting was civil, polite and cordial among …","url":"https://rippreport.com/p/happy-days-are-here-again/","image":"https://rippreport.com/img/happy-days-are-here-again.jpg","charset":"utf-8"}

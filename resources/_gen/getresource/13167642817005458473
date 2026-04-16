@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407d3d60a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=J%2BzWKa5xlrikEsLeBhEw%2BXAiDuSPwo%2BlDGFsHAIt5To53Mg%2Fx8rHW78LenopIgoLA6tWT9Em3EBEWxD1UuyO5Lk3EfEynsbcumLac76ya8qm0O%2BG1fN2kkTXibEb1XltsvGl%2Bmp03Y%2FNlk2xrJgROihL2Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=69
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a0411d03c8f94c4cfd75f236d629862d
+X-Etags-2: a0411d03c8f94c4cfd75f236d629862d
+
+{"title":"BCA backs Kay Ivey's gas tax, infrastructure improvement plan","description":"The Business Council of Alabama (BCA) on Wednesday praised Governor Kay Ivey’s newly unveiled plan to raise the state’s gas tax 10-cents to pay for infrastructure improvements. Dubbed, the Rebuild …","url":"https://altoday.com/archives/28768-bca-backs-kay-iveys-gas-tax-infrastructure-improvement-plan","image":"https://altoday.com/wp-content/uploads/2018/05/BCA.png","charset":"UTF-8"}

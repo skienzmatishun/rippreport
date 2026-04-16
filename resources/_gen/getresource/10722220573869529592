@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640843c11a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8lVyEZ6Th%2Fr2UkmvR9I8LBXEsREb2uwsoklzMLOTqFcsP%2FpyytvrMtz5oVFCtydIcXqb4TNgeVOtlWTknEnzTwz4CkXL3JX0zQROdGLrr1JlWCtbFL8rgl1B25AoSe%2F8hMR3rTuNdv7%2ByGndOwWkI%2B4EYw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 54d9608ca47013bfa662bd3afb15e610
+X-Etags-2: 54d9608ca47013bfa662bd3afb15e610
+
+{"title":"CAMERAS - Ripp Report","description":"Let me make one thing perfectly clear, I am pro police. Police are a necessary. Police are responsible to the public, they work for the public. What …","url":"https://rippreport.com/p/cameras/","image":"https://rippreport.com//img/cameras.jpg","charset":"utf-8"}

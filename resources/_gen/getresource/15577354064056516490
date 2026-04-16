@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64037dacaa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:23 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OjoXxHNf%2F3e9sWrTb1q%2BdHCNL%2B78hxH4LIY0RSeA0LU%2FKwvXAhfmanittPkTYoMkzSngwjbCACGy%2FV61OVcB%2FSbieiVB3whDjYQukFC3AorwefQVgA1FdYlW7dYZ3gqpLcDPc2eKH%2F3OspG4ZZH6WkBBBA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ae9b11fb0e2d997bce5ffe8be113b016
+X-Etags-2: ae9b11fb0e2d997bce5ffe8be113b016
+
+{"title":"FREE SPEECH - Ripp Report","description":"Hard to believe a week later we are expecting another hurricane, IRMA, headed towards the United States. Landfall is expected in the Miami area and …","url":"https://rippreport.com/p/free-speech/","image":"https://rippreport.com/img/free-speech.jpg","charset":"utf-8"}

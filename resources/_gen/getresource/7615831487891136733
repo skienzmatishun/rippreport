@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64060fd46a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=F2fswbEH4eVqnALyah8rQXAENvTZ5xuzYk2wsnjhmyMLfibG0TAaDt2qvyTu5AzxR%2FqkTpBX6KdCXQv04nWV%2BnDM%2BjOTfoG5Hib%2F%2FQlTSzAZmL6W1T3QDgj%2BeYPMVKc3U%2B%2BaPJ8cGbFjlvjDAIFqLbbtIA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7f63e7ba2b1aa9a63ab334e44ca892e6
+X-Etags-2: 7f63e7ba2b1aa9a63ab334e44ca892e6
+
+{"title":"Montgomery County Circuit Judge Greg Griffin on Mabel Amos Trust Fund lawsuit allegations: ‘It stinks to high heaven’","description":"Board members of the scandal-plagued Mabel Amos Trust Fund, Regions Bank, and the Alabama Attorney’s General Office are nearing a legal settlement after…","url":"https://1819news.com/news/item/montgomery-county-circuit-judge-greg-griffin-on-mabel-amos-trust-fund-lawsuit-allegations-it-stinks-to-high-heaven","image":"https://al-news.transforms.svdcdn.com/production/images/GriffinAmos1.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1698991480&s=7244a6ce1feb2b5654ce656f151955e1","charset":"UTF-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ffffd7ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:14 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PzB5wKPOZJA2rB6KiTfHGYK7qA9%2Fdo9S7dBMSahBx0IFI8sozBQROHr%2F1SykwZrenQdoHgAbpt3iHHF1c1oduaa4NZxqDd2kTicOoVn%2BQhKMvm7eCpuMkNDjib49pNvVxoOaDPjoJSzuTViv3Pl85taCdg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 66c6dd6bb2d7424127e30a4f88ca77ae
+X-Etags-2: 66c6dd6bb2d7424127e30a4f88ca77ae
+
+{"title":"PO PO Hoss Mack CCUO - Ripp Report","description":"The good sheriff deputies at the Baldwin County Sheriff Office are fed up with their CCUO, Chief Cover up officer, Sheriff Mack. Mack has a colorful …","url":"https://rippreport.com/p/po-po-hoss-mack-ccuo/","image":"https://rippreport.com/img/po-po-hoss-mack-ccuo.jpg","charset":"utf-8"}

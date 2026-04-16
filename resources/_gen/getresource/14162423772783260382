@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a28a73a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HDMM5ILKq2ZC18wb%2FxdepH%2BCZXQrcYZGE2msnpmmrHyGHXJRj6oat0XuE2OhIY4yeJOJb%2FVEcynIlgxnmeQ5XmC1zdi5FifJRioLYIt7ROikHEAqjulaoSVl808b9wFVK3YtncjFoFUh%2FKq3KMLlk8hQ9g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: aaf358f4701b30fee847198b6c2ca7cd
+X-Etags-2: aaf358f4701b30fee847198b6c2ca7cd
+
+{"title":"Judge rules Baldwin County Sheriff’s Office improperly seized man’s Camaro","description":"This is the story of a Chevrolet Camaro. A very well-traveled 1968 Camaro. Baldwin County resident Thomas Hadley, who has owned the vehicle since 2016, got a surprise visit from the Alabama Department of Revenue last month after the Vehicle Identification Number of a car registered in Tennessee matched the number on file for Hadley’s Camaro. The investigation uncovered records of a car reported stolen from Montgomery County, Kansas, two decades ago.","url":"https://www.fox10tv.com/2023/09/13/judge-rules-baldwin-county-sheriffs-office-improperly-seized-mans-camaro/","image":"https://gray-wala-prod.cdn.arcpublishing.com/resizer/v2/D7MRGQE53ZAURBWYXJ7KSFF6JE.jpg?auth=15635f74a9d7e0d7f344c6ae7f477ac1b69d361482ce42b4acdc75d4371512e8&width=1200&height=600&smart=true","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6402ca94ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NyvJpB2L4wYAiHVKTDrGCsgd0VmilrczzS7g0uDC7HGx%2BjLbxwMAwdmb2fQA6azcX4H5jOhuYrezQr8fQfVEWDKM9Oz%2BsOSwrlNaZEh2DvLm5ly7ZLp5m1bQ4D%2FKVqkuMoaUgc7E7BGTLHas0gMXJRZN%2Fg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4d6b3ff9001f1097e8cc4d1a38132349
+X-Etags-2: 4d6b3ff9001f1097e8cc4d1a38132349
+
+{"title":"Will there be an election Oct. 2 in Fairhope? ","description":"The Fairhope City Council, during a special meeting on Wednesday, voted to file an injunction to postpone an Oct. 2 special election to determine whether to change the structure of city government. Proponents of a change to council-manager believe the council is trying to stop the election from happening. The council says there are too many unanswered questions with what the voters are trying to decide. ","url":"https://www.al.com/news/mobile/2018/09/in_fairhope_a_perplexing_quest.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Ffairhope-clock-sept21jpg-dfb0b3aedc2b97a2.jpg?auth=73016c10879383a403ec0df41542b06adabe83ef1de6ac36fb7190d6afcfd2bb&width=1280&quality=90","charset":"utf-8"}

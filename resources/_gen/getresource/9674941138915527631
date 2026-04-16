@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405ffa57a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=J6jMPKfmDFW32Xe2EU8u2CgJxLHcB26NDG%2BzOPvDL8XmwwiNAXZvvJCLxM7XZOR1bsvpPhJQFywPxIFNIzrZKasDgF48W7bP0%2BZRSS2p7Tgg2WSD62Mnm3u7GEUJ%2FsuZJWA7P9M9SzyI3%2ByaW636UmyZ8A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a9917b5854115a238f329e41bf81aac6
+X-Etags-2: a9917b5854115a238f329e41bf81aac6
+
+{"title":"BLACK CLOUD - Ripp Report","description":"The most favorite words of a politician or elected official in Baldwin County are Transparency and Accountability, The most lacking quality of life …","url":"https://rippreport.com/p/black-cloud/","image":"https://rippreport.com/img/black-cloud.png","charset":"utf-8"}

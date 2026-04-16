@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640908ab7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BpmdQVuDi9m8kz8YocBwMu%2BOo3IVu1n%2BDHzp6AP1nTIuXtw%2F14IWKtjVmqchDdPMKQ75IDwtxR5l2whjZ1GOyYokR9cpjx%2FhKv9IIAQwQW0t6ZhZejwKrUKA90VkEK12pW2dH3W2ezkNlEMJUoWvN46Mrw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3e19ab34f65727d25f534dd2f820ddf8
+X-Etags-2: 3e19ab34f65727d25f534dd2f820ddf8
+
+{"title":"FAKE NEWS AND RETALIATION - Ripp Report","description":"First let me announce that no longer will the Ripp Report accept comments from Jester 666 and the Truth teller, most likely one in the same. Their …","url":"https://rippreport.com/p/fake-news-and-retaliation/","image":"https://rippreport.com/img/fake-news-and-retaliation.png","charset":"utf-8"}

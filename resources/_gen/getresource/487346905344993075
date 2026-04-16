@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64098bbdea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AgRxNx5IjH4%2FkfAlbmJXmteaY6u5tTYgXYBYkyFglsxd5zDA7BVLn1ENkvVwSiOQ9Co%2F8R93xv1d1eL1Xpg%2Bkvk18IeATFfb6rRfpDSNhyCANd4zHCHZ4D1WnJm8PsHftlPSsPbW0wuTQayH3FR3Gn86aA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: aab5365ccde58140b31a0c8a85b108d6
+X-Etags-2: aab5365ccde58140b31a0c8a85b108d6
+
+{"title":"Plan to add lanes to I-10 Bayway raises safety concerns","description":"Part of the latest I-10 Mobile River Bridge and Bayway project calls for adding a third lane on both sides of the Bayway on Interstate 10 connecting Mobile and Baldwin counties.","url":"https://www.al.com/news/mobile/2021/07/plan-to-add-lanes-to-i-10-bayway-raises-safety-concerns.html","image":"https://www.al.com/resizer/v2/SQ2HGDONAJGWBFGLE46PWVCHVI.JPG?auth=d365c512f64cfdbf6ca4ca7c87ccd729322baa0530f6944c48bcf238e91764cb&width=1280&quality=90","charset":"utf-8"}

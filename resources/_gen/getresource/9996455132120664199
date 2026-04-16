@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64061f84fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=c%2FSbXhVg53Ru7NLfmAV5DwZ6c%2BHhthiiYs18rQa5gFEj8SIJ%2F9xvZI9A1ln71yzHsel4K97Zv%2FGnnc1TtbvxzT5pgrs1qXdS1Q4XPEUVEshZPpMXcatxgzHp6%2F0lyhOXx82u%2BFMZojTDhhPu0hAiJ5xBLw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5a11c0c7fddaa35ca56294ce29ed7746
+X-Etags-2: 5a11c0c7fddaa35ca56294ce29ed7746
+
+{"title":"GO TO HELL ETHICS - Ripp Report","description":"The Baldwin Commission Attorney, Brad Hicks, says he see’s no ethics violation with Mayor Bob Wills renting his building, and possibly sharing office …","url":"https://rippreport.com/p/go-to-hell-ethics/","image":"https://rippreport.com/img/scale-flames.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640919e37a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vjUOshvIvj5Hndc57%2FHcXxstVRNzZr8OQ%2FZZ00RS6v624znTHnPkk%2FyqbitIfpunmNT1yDHlFWG6o5M0aKfd6tCh1iaMIGXlUCFoxCEgA1upwUt430IxFBJZf6NTnGqzayIZvzI28NUlvl5JbmQcb%2BS63g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=92
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: db8e01b74d4273e47f4ccb741ef4b15f
+X-Etags-2: db8e01b74d4273e47f4ccb741ef4b15f
+
+{"title":"FAIRNESS - Ripp Report","description":"For the 10th time citizens packed the city council chambers to discuss the Fly Creek Apartments and again their comments fell on deaf ears. Four …","url":"https://rippreport.com/p/fairness/","image":"https://rippreport.com/img/fairness.jpg","charset":"utf-8"}

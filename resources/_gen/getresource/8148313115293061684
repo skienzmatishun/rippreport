@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c46e16a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LHJqgRN6VoEEBr19e%2BcgI0O9I7d4xSK%2FGD%2BzIcU7ch4raU0GDT%2F7w1H1DXt76jqDSd62JGvSuC7E4GSXHfyhKRO2SqGR924vYL1iBlc6bZhWKiKWUaI4uuk7xa1wvov%2FICdWJASO5FlXm3dd1ADi6r3JVA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: adb18347634b1aadcc511ce5056f1efc
+X-Etags-2: adb18347634b1aadcc511ce5056f1efc
+
+{"title":"Poll shows lack of support for toll I-10 bridge, but officials unsurprised by results","description":"Former congressional candidate Dean Young criticized Alabama Gov. Kay Ivey and a poll from last month which showed support for the I-10 project.","url":"https://www.al.com/news/2022/01/poll-shows-lack-of-support-for-toll-i-10-bridge-but-officials-unsurprised-by-results.html","image":"https://www.al.com/resizer/v2/45236JTK6ND23F4CFGYUBSGVJ4.jpg?auth=eebf516e5546b442106386535b41838eb76da5afe433b9e04a5d108c2d5d61d9&width=1280&quality=90","charset":"utf-8"}

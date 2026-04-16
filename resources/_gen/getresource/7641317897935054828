@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64045ec90a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7w5%2BwXu4fLlu757ujSqow51WjFJqQ7%2B5wQ3o%2FHS3ZSfX3uQ1gD53w2jtLHR8FWCA8tJRPWHnEnGHBeUdfZZgicW5SxufgVOBiSU4zRr2Dw74IEbsToIuXLpeJZhU7LabKCC4VYdJoSPQ68et2yPlbrUSlg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3f591998c05b63ec6f431c68698e797b
+X-Etags-2: 3f591998c05b63ec6f431c68698e797b
+
+{"title":"Alabama Supreme Court rules mayors have power to hire and fire municipal employees - al.com","description":"In Alabama, mayors alone have the power to hire and fire municipal employees, according to a state Supreme Court ruling in a Birmingham-area case that apparently also resolves the key dispute underpinning long-standing mayor-council power struggles in Fairhope and Daphne.","url":"https://www.al.com/live/2011/06/alabama_supreme_court_mayors_d.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Flive%2Fphoto%2Fcourt-icon-efb69d6b615a4cd4.jpg?auth=d42a78e04e1793036a1d16a81ac56e6336f195b8cf411a6b360e9c56273a10f7&width=1280&quality=90","charset":"utf-8"}

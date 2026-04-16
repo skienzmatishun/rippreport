@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640dc4948a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:49 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BgX%2B4O8P8Hyg1aBeGsS90vJAD5ZiMEz4K3O5G%2FgEkmsg2WV%2FbgGHvbPI%2Ftr6T2OqmJF%2BihpE4MVHiuHdgeBBXVCX9Glig%2BuWh9%2BaPo3f6SHd77%2B2T%2BIZz3ll%2FQfsdkpV8HyMhG9Tv8Kgt2jEn%2FC59nWSSw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2ad97ac5a9bc1006054099dcfc302365
+X-Etags-2: 2ad97ac5a9bc1006054099dcfc302365
+
+{"title":"Lottery bill passes AL Senate committee","description":"The lottery bill passes out of the Senate Tourism committee 6-5 on Tuesday.","url":"https://www.wbrc.com/2019/04/22/lawmakers-could-vote-lottery-bill-this-week/","image":"https://gray-wbrc-prod.cdn.arcpublishing.com/resizer/v2/6DJ3QBC4SRC2DHCOTW5LJHQTYI.jpg?auth=3c538387f816121df42963e0a6e4bc0adb2739098c48313d88d689345f86c39c&width=1200&height=600&smart=true","charset":"utf-8"}

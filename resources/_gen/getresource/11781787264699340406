@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c81a8aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1QoNpcLq1VamBMO9SmXq%2BXo1BKBVvgQdidsbkaEjAyOEFTMdUtkko8R4pECmaGZJUP6jQk3Dwd8Uw8PKkFxXyXnagq%2BiJFRQ0RnSOEb8ZLwChUS4QKLLLT0oSBfscN96VijG0Cz%2FOJPpEr1UmZOLXE2dVw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 58548b5c32e9dbb7ff1ca1aceb2d51cf
+X-Etags-2: 58548b5c32e9dbb7ff1ca1aceb2d51cf
+
+{"title":"FIRST EVER SELF-SUSTAINING BUDGET!","description":"For the first time in Fairhope history, the 2020 City Budget proposal requires zero dollars of utility profits to balance. The City is finally self-sustaining financially and can run independently …","url":"https://web.archive.org/web/20200815203446/https://mayorkarinwilson.com/first-ever-self-sustaining-budget/","image":"https://web.archive.org/web/20200815203446im_/https://mayorkarinwilson.com/wp-content/uploads/2019/09/time.jpg","charset":"utf-8"}

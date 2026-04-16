@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b54fdca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=C8DUmUzW48o5ePK%2BG0gjxW8YrDKoRHRmY4MwHF9zGHEnLxAlF8bqtEp0EP0Wpo%2Fvmm1vjhpLq2VamVh7M8CeH4rElg9DFuUhdfjKIrv9BRz7ROo7URCjv9QylsgRHOw7iB4y7vgXjV4%2FJ4Dk4TwptrkIQw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=104
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b41fa6327f37a98889a79253f4b59e26
+X-Etags-2: b41fa6327f37a98889a79253f4b59e26
+
+{"title":"Baldwin County Commission District 3 candidates discuss issues","description":"Incumbent Tucker Dorsey and Will McDaniel are vying the Baldwin County Commission District 3 seat.","url":"https://www.al.com/live/2014/03/post_378.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Flive%2Fphoto%2Ftucker-dorsey-will-mcdanieljpg-067a62277cce5237.jpg?auth=bbe5cab797b93aaf009ee098625c1cb7637952122a59a50878f0eafd6f52a7b6&width=1280&quality=90","charset":"utf-8"}

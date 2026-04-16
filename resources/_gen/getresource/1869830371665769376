@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d05caca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ACgvILnJ2XRTiyRLv3j5wq33dXCWKcRzhtQDVEeqFZx8wWW2mz6N7KJ7SXTVEKiz7ffOyf8T%2B83IVJg8CtilN6qMsime9mgboQfCvr9LXgBAck7BMofKXiSQnw6rrsQTUGP525cSatR9lgfADuGEq4SPyA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 71455a997404870275eaef7b6e837955
+X-Etags-2: 71455a997404870275eaef7b6e837955
+
+{"title":"THIS IS A TEST - Ripp Report","description":"The Ripp Report is a consumer organization first, we also maintain a blog site, Face Book sites and a Podcast production. The Ripp Report is a not for …","url":"https://rippreport.com/p/this-is-a-test/","image":"https://rippreport.com/img/this-is-a-test.jpg","charset":"utf-8"}

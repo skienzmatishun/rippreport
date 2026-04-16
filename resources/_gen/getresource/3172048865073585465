@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ff1183ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:12 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7NCSV%2Fvjh6OndVft6i4eSrZe5kWV3Jd9IquggKOovWITU%2F3DBdfvHWnX04w1yI7d0jF3h5CBwPjFY1%2BCAPCebND%2FWsbCL%2BB6%2FE%2B%2B%2BY6ybkuFxoJrQF291dvGLO%2BH%2FZrQ9KX1s%2BPmdO5D3C4J5zEl8vYVAw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=0,cfWorker;dur=101
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: acffb427bc2a26ce6522dc7f9ad9ffe7
+X-Etags-2: acffb427bc2a26ce6522dc7f9ad9ffe7
+
+{"title":"Veterans Day - Wikipedia","description":null,"url":"https://en.wikipedia.org/wiki/Veterans_Day","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/World_War_I_veteran_Joseph_Ambrose%2C_86%2C_at_the_dedication_day_parade_for_the_Vietnam_Veterans_Memorial_in_1982.jpg/1200px-World_War_I_veteran_Joseph_Ambrose%2C_86%2C_at_the_dedication_day_parade_for_the_Vietnam_Veterans_Memorial_in_1982.jpg","charset":"UTF-8"}

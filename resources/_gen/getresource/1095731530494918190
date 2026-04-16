@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64077dbd2a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=17u2I50NS0qLNj5PZ0PLpyeZYNa3S6k4iUrcJMM6nneeszK5rJZIhSWJ8AEdaezljHXZhtHhix2MtoJ7lFlS3gzLfAFzu%2FQDxJvOc%2Bf3AhRftHx9lA4TU0UhGGTBB0LqW%2BfS7Q%2BKGqN71phSbAGDyA5qaA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 61ed993eea81d542c3d8b3195ad36622
+X-Etags-2: 61ed993eea81d542c3d8b3195ad36622
+
+{"title":"Chris Elliott appointed to Baldwin County Commission seat","description":"Chris Elliott  will complete the term of former Baldwin County Commissioner Bob James.","url":"https://www.al.com/news/mobile/2014/07/chris_elliott_appointed_to_bal.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Fchris-elliottjpg-5a5e33bdd657358e.jpg?auth=5f05c0ef816373fa5c6907223a4f4364720492cf245c320237d723eec42dbe81&width=1280&quality=90","charset":"utf-8"}

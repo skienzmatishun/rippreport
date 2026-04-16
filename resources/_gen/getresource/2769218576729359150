@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d50ba9a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hNJCrSSH%2FERYdIBYCv7f73pG200QQZ7fWkHiIZnDUi8%2BXZfm1OCOyjkShNP8ynoarrfIc1s%2BmszC0aVGUbfbjkfsYVXTyVFKO5KwXWdp7uljVXJgvHSQWTwZ39Pbwi4DYk8fS5XJlTWcbh0gMSIahzEkvw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: aa840ee6b9b933778fbd9a7d6dc04cc1
+X-Etags-2: aa840ee6b9b933778fbd9a7d6dc04cc1
+
+{"title":"I-10 Toll Bridge State - Ripp Report","description":"Alabama is known to be last in almost every category. Be it obesity, drugs, education, prisons and much more. Alabama has no lottery and is not even …","url":"https://rippreport.com/p/i-10-toll-bridge-state/","image":"https://rippreport.com/img/i-10-toll-state.png","charset":"utf-8"}

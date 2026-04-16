@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64099fff9a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xOsDUOZ%2FUSTe0gRcpCBSg2pzyxIkqQ%2FD7xIfxOugCPytRPIbldmMMnFdvIWPMYO51jeTEWvShbm1SeS1z9BYq3WXEkZEUZZfLO5inixDzZRtUD%2BUVxrt4xQcdQWb%2FigeEksQIh%2F5hAqsJc%2FOKqaEZohPOQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=98
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 34894a7c25af5ab6fde1764b2cb7f974
+X-Etags-2: 34894a7c25af5ab6fde1764b2cb7f974
+
+{"title":"Claim alleges assault by Fairhope mayor on city HR director - Gulf Coast Media","description":"Editor’s note: The following article may contain language that could be seen as offensive to some readers, but there is a relevant reason for doing so. Reader discretion is advised.A claim has  …","url":"https://gulfcoastmedia.com/stories/claim-alleges-assault-by-fairhope-mayor-on-city-hr-director,49966","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1495470784_f6c4.jpg","charset":"utf-8"}

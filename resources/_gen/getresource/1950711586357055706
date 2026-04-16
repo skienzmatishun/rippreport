@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640aefba2a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xfJo5uFUOAXqHTTsnONReUijofJfUsrA0UmVLpb2Xg66fX9N3cvv1SKjd5RAEg9rhPmmWLjbcTZ7%2FK%2FXwU3avj89SB4doZo6ZzLMVcr70M2CyOizF0aeNZqcvtXbDsvfpbcP%2BbKoz19c9zYy4q1yTg9i8g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: eefc817888eaeb63f35b8c2dd12a7a65
+X-Etags-2: eefc817888eaeb63f35b8c2dd12a7a65
+
+{"title":"FAIRHOPE VOTERS GUIDE - Ripp Report","description":"DEAR NEW FAIRHOPE VOTERS: This municipal elections can be won by the young voters that have not voted before and those of you who have moved to …","url":"https://rippreport.com/p/fairhope-voters-guide/","image":"https://rippreport.com/img/fairhope-voters-guide.png","charset":"utf-8"}

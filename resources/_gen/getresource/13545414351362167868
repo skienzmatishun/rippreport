@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d08d4ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YMEWCT3kMazGn4lKTYXgJ7BR6t8ZSy2Fv9asybbTkxBeBKHx8XB5YYkpSHn6tLZC5%2BNpRNhpG4v3exM3qYBbNzjXFc28jyk%2FERb1rifkkJoTg1PWDjAMlGlu4amX5BGOLJu7NiIiV5f1BFJEY1aBcKnVLQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bf64a7ef66f30c40fd929256af7d6569
+X-Etags-2: bf64a7ef66f30c40fd929256af7d6569
+
+{"title":"Developer pulls boutique hotel proposal from Fairhope zoning board agenda","description":"A property owner and developer interested in constructing a four-story boutique hotel at the corner of Fairhope Avenue and Section Street in the heart of downtown Fairhope has put the","url":"https://www.lagniappemobile.com/news/local/developer-pulls-boutique-hotel-proposal-from-fairhope-zoning-board-agenda/article_96128ad9-bd6f-5ce3-abf3-f31d8ecdbe2f.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/c/f7/cf757d1e-ba17-5b45-a6b8-72ab065240be/630ed9102b648.image.jpg?crop=1644%2C863%2C78%2C0&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

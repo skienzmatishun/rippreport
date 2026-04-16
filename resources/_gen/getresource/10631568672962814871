@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640694e63a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uhx%2FVFkyBZOYOPan%2FRUaZFZw2E4hvroMCE%2BB8AT6kW7v68oxji%2B2hOikifRTWIdXhx7SXJQ3zVPrKuSdtrmABldufQHnFsj%2BIF0F2UTFtnE82EGaLycB%2BkRdTuD0wfUOo5P4rrKwef6Y1m2p1AWJt1m25A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d0f4296e7c382019e1440ae958324804
+X-Etags-2: d0f4296e7c382019e1440ae958324804
+
+{"title":"RUSSIAN ROULETTE - FAIRHOPE STYLE - Ripp Report","description":"Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head …","url":"https://rippreport.com/p/russian-roulette-fairhope-style/","image":"https://rippreport.com/img/russian-roulette-fairhope-style.png","charset":"utf-8"}

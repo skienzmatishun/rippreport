@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640dadd3ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:49 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0z3rBvsVKtdTcNnkUaDmsYz04f5uR35htRZ4pM%2FJpKVYSxxtfys85u3yj9Fs7E4KqW2CNmbOXYvZMcQVZTuzFU5gcN%2BtkDHVoLGlwhbj6LixeVvvP9m2LcF%2F8wa8%2FAMlZpPRWnsDeMM8WFrCkL%2FCPPxzoQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 23e43ea622e9b47cc1186a62b6be812b
+X-Etags-2: 23e43ea622e9b47cc1186a62b6be812b
+
+{"title":"Stories in Rhyme - Documentary about the Frank Brown Songwriters' Festival ","description":"The public is invited to a free Special Screening of “Stories in Rhyme - The Songwriters of the Flora-Bama Lounge” at 6 p.m. Wednesday, October 23rd at the Gulf State Park Conservation Hall. Doors open at 5:45 p.m.","url":"https://web.archive.org/web/20191019140705/https://obawebsite.com/oba-news/2019/stories-in-rhyme-documentary-about-the-frank-brown-songwriters-festival","image":"https://web.archive.org/web/20191019140705im_/https://obawebsite.com/images/M_images/2019/news/Stories_in_Ryhme_Frank_Brown_Songwriters_fest_documentary.png","charset":"utf-8"}

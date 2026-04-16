@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a1bfe9a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7IuwzchRCGLo5oVzC2VzQT73mwa%2F96qoJfrqsLWhTs%2FcykeCEIDK3WTgUZCX9fGIrz6cf454olsMCk%2BJYvvJgWg3yq5QTsXf4EsQMxLTIGD9%2F7DM7SoWO1w41zQvQNM2hba5JZj6orcGRPWZheRkqdYCnA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 58fea4367f4e6d00367dca23657b2c7d
+X-Etags-2: 58fea4367f4e6d00367dca23657b2c7d
+
+{"title":"NO QUALIFICATIONS - Ripp Report","description":"Only in Fairhope can someone with a high school education become the utility director with absolutely no experience at the job. Mayor Sullivan gets a …","url":"https://rippreport.com/p/no-qualifications/","image":"https://rippreport.com/img/no-qualifications.jpg","charset":"utf-8"}

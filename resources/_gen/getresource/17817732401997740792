@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408a783ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=51oTUHME6mrVasMxcFW8jZhYW%2BeV7Ewe9soq7klC8GsEf3Lc7vWc0h4Q6jYQ%2F27zASybvE652D9cVfC6I11Kynk%2BiVpvpO3taKLiWi8istHk4E6duu%2FGJLuboXjFQs9IY3E17Jz7nHILN%2BIJ7DtMNovXrw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bcff90d8dcc110683f314f6b1339427f
+X-Etags-2: bcff90d8dcc110683f314f6b1339427f
+
+{"title":"68 Ventures proposes walkable, mixed-use village that keeps Fairhope charm","description":"The development will be located at Fairhope Ave and Hwy 181.","url":"https://www.al.com/news/mobile/2024/04/68-ventures-proposes-walkable-mixed-use-village-that-keeps-fairhope-charm.html","image":"https://www.al.com/resizer/v2/AQQLR4ODERFQZGI2ITLTPBTEFU.JPEG?auth=9e7a651190981359292da53736ad85c3a7511fb3e9da3e64dc804eb353345332&width=1280&quality=90","charset":"utf-8"}

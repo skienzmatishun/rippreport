@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b73db1a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=I941sAshIgvptQ4PZ4%2Fd1t%2B%2FWbrD01Q8UomYRvKV2qeIA5ZvOWcDNpDmobqdhQHz%2B7J8%2BXGGOc5DYBNRdGjHrAhIS1umv468hpAnZYcq4ZA9%2FLeW4bTNKsS8yPUQycS8rIngRUSNp5LOmfL%2FHfU03p9hMQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a4ae8d6126c301d28b8bee67f83efae9
+X-Etags-2: a4ae8d6126c301d28b8bee67f83efae9
+
+{"title":"Karin Wilson: We need equal representation","description":"Men and women are different. We think differently, make decisions differently and ultimately complement one another. Constituents will be underserved until there’s equal representation at the table making the decisions that impact us all.","url":"https://www.al.com/opinion/2019/05/karin-wilson-we-need-equal-representation.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FXV33MJOKDVCLRLKCT43N2SVD3I.png?auth=4cb451ea25ed023297ff3e693eafc9fa9669cd48b4dd06a8ff2d8814dfe80868&width=1280&quality=90","charset":"utf-8"}

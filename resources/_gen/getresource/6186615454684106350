@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a73992a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JL0%2FWERqpG2%2B5ZIKq4TwqVNfslQ0IOoSFTFONFQM3Qnuz7GXqvePI6jYN1pAunXwpsV7oqbq2pRyOe%2F%2Bj6nFtrMAMrb3%2BxCqhqOJaeL93cxKScn3kUXVz0kg4bEQTn4Y8oA5gdTKKmvgYKTTVVTpcmVN2Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c34a66984bc13b7efe4865f05ce0da50
+X-Etags-2: c34a66984bc13b7efe4865f05ce0da50
+
+{"title":"TALKING HEADS - Ripp Report","description":"Baldwin County needs more representation on the county commission. People will say “just more talking heads.” The population of the county is topping …","url":"https://rippreport.com/p/talking-heads/","image":"https://rippreport.com/img/talking-heads.png","charset":"utf-8"}

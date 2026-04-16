@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a13e4fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nxmt3LNwagpMrVyPq%2FOYXuwDbsMSTys%2B51jQFWvJIo2osZ2PVaNoANDheS2ERFjsYr2KPUdS4K9j4qsCx6lSe014iwlWVGwBvTjQt%2FxcLQsFu8Pri9u8%2Fyt1yVv2nyMFlc5QWhWqlOEr8TA7MFk0pd2TRA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=96
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6991ec7367c1cdcf339a5586d885d6e1
+X-Etags-2: 6991ec7367c1cdcf339a5586d885d6e1
+
+{"title":"CONGRESSIONAL CATALYST - Ripp Report","description":"Alabama’s first congressional district has 5 Republican candidates running to fill Bradley Bryrne’s seat. Only one is CATALYST. GUESS.\nRepublican …","url":"https://rippreport.com/p/congressional-catalyst/","image":"https://rippreport.com/img/congressional-catalyst.jpg","charset":"utf-8"}

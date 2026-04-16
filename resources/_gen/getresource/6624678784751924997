@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640ad5e6fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uxeaxx9mHjIfE%2BIXLWB%2F%2Fvh9GNw%2BX43%2FRuFJGNsjB1%2FtvMVJNSrkL3JF%2FL85FH3Otu3PSqbSQl9%2Fbh8VqOZUoM9rl2mP7iRE6%2FlamekCyEpykdB3R%2BZ8WkAYD7apO459W1ordD7fDme0fGgCrEarUmHtaQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 552ab6c1baace9ff0493339b63ac5146
+X-Etags-2: 552ab6c1baace9ff0493339b63ac5146
+
+{"title":"DOUBLE RED FLAGS - FAUX HOPE - Ripp Report","description":"DOUBLE RED FLAGS at the beach this weekend. Rip-currents rough seas and high water.\nThe same can be said about Faux-Hope. Red flags are going up …","url":"https://rippreport.com/p/double-red-flags-faux-hope/","image":"https://rippreport.com/img/double-red-flags-faux-hope.png","charset":"utf-8"}

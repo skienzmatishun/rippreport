@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640448876a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ELsT2hxj4EUtFrFih9j%2B7fNB8SQpAr3f9vz31v%2FvtMWmMicCJYTYXc3ij082yYxi7SzHQSBkl%2FOP9XU6m7j4lKlbISBdP7jkpGn%2FoLBLqxgU31dM6Xpl4qsn8bmUhqvWdxhvmggqnUE3iF4tRd7yQeME4g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=92
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 37e1f1ea3172efe8c03c05953b2de72a
+X-Etags-2: 37e1f1ea3172efe8c03c05953b2de72a
+
+{"title":"HONEYMOON - Ripp Report","description":"Catalyst/Scott Boone Consulting, CSB, and “acting” Mayor Burrell along with the “actual” mayor are going through their honeymoon, and I mean honey. …","url":"https://rippreport.com/p/honeymoon/","image":"https://rippreport.com/img/honeymoon.png","charset":"utf-8"}

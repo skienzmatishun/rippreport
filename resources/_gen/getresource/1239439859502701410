@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640af6d24a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=z5LLi%2BwScwjVCysgOCtH4TaHWzGxpDExdsQrQTIRQBABg19PxZxH4QJYWtQxyscjXX7eOvlxXHLH%2BFxHsRIiJAEqRcdIpREQNriv%2FJzGHnCOXwx%2F5Ac4D2y4tibJkS6pLTizKyqpwyTtEBIqP91oXkxSbQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 25e72cead8b37f949eca99b8f68cf788
+X-Etags-2: 25e72cead8b37f949eca99b8f68cf788
+
+{"title":"Fairhope Civic Center roof needs $1 million fix - Gulf Coast Media","description":"FAIRHOPE — A replacement for the Fairhope Civic Center and City Hall complex is planned for the next five to 10 years, but repairs for the current building's roof, estimated at $1 million, will  …","url":"https://gulfcoastmedia.com/stories/fairhope-civic-center-roof-needs-1-million-fix,129798","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20220816-084356-FairhopeCivicCenter_62071_tn.jpg","charset":"UTF-8"}

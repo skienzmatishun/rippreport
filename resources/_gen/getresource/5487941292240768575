@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bd6885a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=sgGWRKV6E972dXBZC0d%2BpolJJksb%2FZoo7jN6zz8nZ55dHc0inzFTXnCZFJPKXMOaXWfzRwPhEsK2pXxCc2qD9yyW98HRxtcbFEDZBbJF2r%2FMUZJfCGMAcM7P7xQOg1qStMWcvSPdNe%2FeY0rpidknBqYdKg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=67
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 919185567d6e9d63666f86908500b917
+X-Etags-2: 919185567d6e9d63666f86908500b917
+
+{"title":"Russo, codefendants ordered to pay bank $850,000 tied to loans for beach house forfeited in 2006 corruption case - al.com","description":"BAY MINETTE, Ala. -- Former Orange Beach Mayor Steve Russo, former City Attorney Larry Sutley and real estate developer Jim Brown have been ordered to pay Vision Bank more than $850,000 related to a Gulf Shores beach house the trio borrowed $2 million to build before being convicted in a federal bribery case. ","url":"https://www.al.com/live/2010/05/russo_codefendants_ordered_to.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Flive%2Fphoto%2Famerican-hot-housejpg-58ba4501e28270d9.jpg?auth=b30c42464814cc8bb1f050ee98f7693c67935c23202f55d7601611b60d9e1255&width=1280&quality=90","charset":"utf-8"}

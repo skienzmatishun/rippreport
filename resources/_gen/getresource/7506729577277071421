@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6402e7ea7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2lXHGJXFq1E3Kwj%2FfyU7AJA8fU8vTGaaBh9TRuDIMGQy8aHFcvevwTlNH2E0dga%2F4MpO615AuRMOo7SA5T0Bq0w1XpizIPsjd%2BN0VGMb4fG1BUzODgIrTyqCPs53DiZEMIIRZk%2FgBG%2Fn8tdBTqsQ0eDgXw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d44e3e8421094206efac19161acd6b05
+X-Etags-2: d44e3e8421094206efac19161acd6b05
+
+{"title":"READ THE COMMENTS","description":"It seems the Baldwin County Sheriff’s Department has internal hanky panky problems. One of the top officers in the Sheriff’s Department has been having a little extra curricular activity with a subordinate female employee, who is married to a fellow officer. No official action by the sheriff has been taken, in fact, looks like it’s covered up from the public. Why should we care? Because the Sheriff’s Department is well known for cover ups. The problem is that fellow officers are now wondering how this situation is not public and severe action has not been taken against the senior officer. The Ripp Report has had 3 different people call us giving us dates, names and ranks of the individuals involved. Let’s see how Sheriff Hoss Mack is going to spin this sordid story.","url":"https://rippreport.com/p/read-the-comments/","image":"https://rippreport.com/img/read-the-comments.png","charset":"utf-8"}

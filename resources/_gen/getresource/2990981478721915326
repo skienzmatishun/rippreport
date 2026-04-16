@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405b9d36a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bOdnLZgdBkNQczK5j%2FKGMsNSKfbC6gO3lSnYd%2BUWQ6wVwdbC%2FQbEgPmSs0EWJdDh1lNkxMZOkAlnNhxdSRlJeGkwDpF80S1F89xH%2FLuVYuQTRBaz6zhVsE01IW1p57s47HqhBEuEJJc%2B9xlzUDaIxUAc%2BA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e20f487a3336488c4c253cbf7e07587f
+X-Etags-2: e20f487a3336488c4c253cbf7e07587f
+
+{"title":"PAY OFF AND ELECTION FRAUD","description":"KANT KONFIDENTIAL: SEALED COURT CASE KEPT FROM THE PUBLIC\nWhy did a judge suddenly seal a case against the City of Fairhope after details of the case were made public?\nThe case is a land dispute involving a street where the several major supporters of Mayor Tim Kant live including his Campaign Chairman.\nCould it be because the article revealed that Kant had accepted money from an interested party in the suit, Bobby Faust? And he had loan documents to prove it?","url":"https://rippreport.com/p/pay-off-and-election-fraud/","image":"https://rippreport.com/img/pay-off-and-election-fraud.jpg","charset":"utf-8"}

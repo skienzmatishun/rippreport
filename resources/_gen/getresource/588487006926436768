@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a218dda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UuGgdQeRI%2BvLGeN83wVROl4BJH1LTb3HZFqiVs7vodcLauS15BvBzjRPvxwNa7pC4iIy1YH1HepHS0KFD929OwAdg4ZUew0ZiBElpAVrUjVp10PXvCcIA9z8BQjJ%2BcX1ml1qZDsJDVF%2Bs%2F3CWLmpGgeHug%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=139
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5e83eb71d6faf73a34c0703be24bf68b
+X-Etags-2: 5e83eb71d6faf73a34c0703be24bf68b
+
+{"title":"BIASED INVESTIGATION - Ripp Report","description":"When police officers are fired from one department and rehired by another neighboring department, you can be guaranteed problems will follow the …","url":"https://rippreport.com/p/biased-investigation/","image":"https://rippreport.com/img/biased-investigation.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64078cee3a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4oi6o5FPmvxqU4ZNGhqnbCDct9jcJQg0MnJCTlwwU%2BbOEE2ohix0K5R1R3aeoCSUdNhf3D0fO0G30Dev9s6rFlpQgcBiBjsuNT1LcLh3HUZjxhgmn9lwYD%2F9ZJOk3QvXv0JX%2F5%2FQWs4K0jzn2swnOL8gTQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 33915978bcf320b0e29609f5afd8c645
+X-Etags-2: 33915978bcf320b0e29609f5afd8c645
+
+{"title":"CATALYST TOP DOGS - Ripp Report","description":"Catalyst is fully supporting Tucker Dorsey for Baldwin County commission and also is hoping Chris Elliott fills the State Senate Race. These Catalyst …","url":"https://rippreport.com/p/catalyst-top-dogs/","image":"https://rippreport.com/img/catalyst-top-dogs.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404b8d54a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=EACSsxu4M3xzjxETibPx9R1NFceusaFPjSYcsjMJjvy1UWxodks2NBaZLGAcC%2FRYgfQSzpVXWlG8lm3cu69wm6aUF2CsxerrPUkQ13OJ6wIcLF89eNUj%2Fevrqxim%2FIiyWYu9NJYH9iGt8s%2Fgx%2Fxa%2F0wfTA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 47c620c07cc8d83cbc0d459127b84ead
+X-Etags-2: 47c620c07cc8d83cbc0d459127b84ead
+
+{"title":"Baldwin's state legislators to move offices in Bay Minette - Gulf Coast Media","description":"BAY MINETTE — The Baldwin County Legislative Delegation will move into a new Bay Minette office following an agreement Tuesday, Nov. 16, with the Baldwin County Commission.Commissioners voted  …","url":"https://gulfcoastmedia.com/stories/baldwins-state-legislators-to-move-offices-in-bay-minette,139885","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1504820498_f838.jpg","charset":"UTF-8"}

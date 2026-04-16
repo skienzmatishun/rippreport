@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c07a37a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=K5ckNz1bWZMeGg%2FuxvKK4wyNyGJuFYbUy7PWH6LS8qF5KRzJ87RlH13okpsFiML2lSx4N3RWUl32bi6jAELQrS6H3Xju9UdU7VmoXbzYzFUM%2Fy9yju1uq2Xse6UulHHS%2Ffb6vIGhtNdXAvhvId%2BZqSR1fQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a7a4cf903491e7cc52b93a16678c16c9
+X-Etags-2: a7a4cf903491e7cc52b93a16678c16c9
+
+{"title":"LETTER TO THE EDITOR: Fairhope Mayor Karin Wilson should resign from office - Gulf Coast Media","description":"As a retired Federal law enforcement executive with more than 27 years experience in investigating white collar crime and government malfeasance, I would say that the disclosures contained in the  &hellip;","url":"https://gulfcoastmedia.com/stories/letter-to-the-editor-fairhope-mayor-karin-wilson-should-resign-from-office,52965","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1470163322_577e.jpg","charset":"UTF-8"}

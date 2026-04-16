@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d1d931a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9DHlvAsHSvGGSgUZPa30AK58pPONeQsHNHyYhLbeugGMZAx8q3K9wt60ZYsYUDYbPVp5AWppbaix85lLDobgIRGf8jZSxDjMXNODIKuZCxolRsVPjP7tq37WvCEg86Nqn7Gz7RwtJyd3dpYYO%2FAZAjuEMQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=88
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b2dbc44219a7a22f236eebff7eaa07c1
+X-Etags-2: b2dbc44219a7a22f236eebff7eaa07c1
+
+{"title":"SHOVEL READY","description":"Here we go again, a lot of hot air and no results. Baldwin County Economic Development Alliance, BCEDA, sounds important doesn’t it? The CEO Lee Lawson sure can blow smoke when it comes to the mega site or when he is recruited by politicians that want a “third party” to back up one of their schemes.\nThe Ripp Report was present when Mr. Lawson was asked by the Fairhope City Council to render support for the Fairhope Airport and K-1 School.","url":"https://rippreport.com/p/shovel-ready/","image":"https://rippreport.com/img/shovel-ready.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640475898a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=H01bGqPfCngYpXlulbbLV0g6N7u9OMwcCO9iNoh9a7q4X9EdArdyzL%2FG1tP9e19SaGP6%2FMVE6RY68cpLvCwQOumcRcO2Xl25hfrLhHBCBgKcVP44mnTwvW5zED74eAcp2MxZCEHY3UUGY47aoaZSF73cTg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cac3d53c2abbaa58720bfc4a483f229f
+X-Etags-2: cac3d53c2abbaa58720bfc4a483f229f
+
+{"title":"MSN","url":"https://www.msn.com/en-us/news/crime/after-councilman-was-stomped-on-sidewalk-alabama-bill-would-make-assaulting-politicians-a-felony/ar-AA1UhQly","charset":"utf-8"}

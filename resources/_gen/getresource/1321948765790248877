@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409d7adfa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LlDLOcRAbQIPmpEUUmnoEvpJ0sUuID4d7JW3x1OjgX75GMPfUksw2d14F41k%2FWXSxYr6Yvd8ylDY2zqsWAAkZqhXcqkfWQfKDQW1VzQcv2enm9a5GURhrV%2F1zpZPwMFuQXVnqChJHU0pJKGhjn8W9edGXw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9f85777b452060f872d9360ff1aa48f0
+X-Etags-2: 9f85777b452060f872d9360ff1aa48f0
+
+{"title":"Teen strangles himself with seat belt","description":"Authorities say a 19-year-old killed himself while riding in his girlfriend's car.It happened around 12:30 Wednesday morning on County Road 47 and Melvin Stewart Road. According to the Baldwin County Sheriff's Office (BCSO), Peyton Little threatened to ki","url":"https://weartv.com/news/local/teen-commits-suicide-in-girlfriends-car","image":"https://weartv.com/resources/assets/wear/images/brand-icons/wear-16x9.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d28b98a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GWBv7kT7DrHc7d3eZOKOhs7j791fCTDaDv256uy8qAFR74FgeA7s5Qumf8wPRI%2BqKBRfY8GWz5Xy5tpeVhWLlpCDWaJppbm%2BFL7Z7LZsUsMG4qMsPqQksf0JTUYxZJbv3JZp6%2FU6XL2W6uRdar7IceH2Dg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=96
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 21088a997d260aaa22fcbca093ef3dc2
+X-Etags-2: 21088a997d260aaa22fcbca093ef3dc2
+
+{"title":"LAW and DisORDER Part 1 - Ripp Report","description":"The Fairhope City Council has had blinders on when it comes to accountability and transparency. Leadership by the Council President is non-existent. …","url":"https://rippreport.com/p/law-and-disorder-part-1/","image":"https://rippreport.com/img/law-and-disorder.jpg","charset":"utf-8"}

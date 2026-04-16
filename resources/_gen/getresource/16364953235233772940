@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640cc1fbfa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NUajqDWMdZKuUz65k%2FQZzmzwLKe7PVFpRqeZ7pBxY0p1AUryoQieGPuHKSjPFVaIq9TISj820m1hkkGOjv3DkUBxRRbQTR65r1K7GaFfXB7it3UiblpZE1EqljgB1Y%2BBT9qOnqxC0E%2F%2BEgSCaxegC8%2Bc2A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=88
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5143a8310f83332c51cd5ed0b85481c4
+X-Etags-2: 5143a8310f83332c51cd5ed0b85481c4
+
+{"title":"Trip Pittman: Reflecting on 11 years of representing Baldwin County in the Alabama Legislature - Yellowhammer News","description":"For the past 11 years, I have served the citizens of Alabama, representing Baldwin County and the Gulf Coast area in the Alabama State Senate. As a firm believer in the value of term limits and the idea of citizen-legislators, I have decided to not seek re-election and to allow others to step forward and serve. If the […]","url":"https://yellowhammernews.com/reflecting-on-11-years-of-representing-baldwin-county-in-the-alabama-legislature/","image":"https://yellowhammernews.com/wp-content/uploads/2018/01/Sen-Trip-Pittman-1.jpg","charset":"utf-8"}

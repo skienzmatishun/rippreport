@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406acb8ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=w07j%2FhPfUBc61aDWRp9ipUfLwFOu7DbLIao0nCIEHgVq%2BU%2BsyVRr0VtfaYUstEC%2FBANDzqO7J2NnFnxewF00XhdsdTkoqmFCv6uVKlU%2FEQ4d3A25yAR9Dm6wFQnGAwGdxzsYOX473DBynprG%2Fnma8rDEhQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=89
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a37dd906fb5358b0d04f72d08789b740
+X-Etags-2: a37dd906fb5358b0d04f72d08789b740
+
+{"title":"Senate bill sets new standards for Baldwin sheriff candidates","description":"Senate Bill 312 is awaiting Gov. Robert Bentley's signature.","url":"https://www.al.com/live/2013/05/senate_bill_sets_new_standards.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Flive%2Fphoto%2Fbaldwin-county-sheriff-huey-hoss-mackjpg-72c01f971da85ced.jpg?auth=780596aff3cbcbf44172314a6409671bd610171ddc6c1416b4c90b2eabbca6a7&width=1280&quality=90","charset":"utf-8"}

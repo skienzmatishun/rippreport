@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407d3d4aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3kJYxfvALe65MjQtOxJNS8uqEc9TXCFnLImx%2BQpLsLaw4bHOK4udTs1Y97N5mGokOkH5OxGlpGlsdPM%2FEv99sDhxdkhwOHFMN%2BbhkaxxQV%2BkVPX5VeEyFXcImPybDl3zaPyeJ4l5rkRLTk8ohsECtNgqoA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=71
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7b95eb3a2ed23f4b9b3739774e61018d
+X-Etags-2: 7b95eb3a2ed23f4b9b3739774e61018d
+
+{"title":"Judge blisters Hoss and Hunady in Victor death","description":"During the 10 minutes he spent on the side of I-10 before he shot Jonathan Victor to death, Baldwin County Sheriff’s Deputy Matt Hunady never once asked anyone on the","url":"https://www.lagniappemobile.com/opinion/columnists/dtt/judge-blisters-hoss-and-hunady-in-victor-death/article_db98a31b-48ee-5131-b110-d653827648d0.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/6/12/612efa5c-26cc-522a-a4ee-ca6ae0da8aa2/631a204bf30b3.image.jpg?crop=992%2C521%2C54%2C0&resize=992%2C521&order=crop%2Cresize","charset":"utf-8"}

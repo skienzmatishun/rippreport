@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640969db8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6Xl8WHjVj%2BWvSIkKtTY9BcrOqZvTCgMvX8aUtH5SoTfXrE2xQH4zCdivmgSCZfSIHHiLTjIPP5yC1dYrJpTa3zPfwHB7p%2BqqmaMEJ4np8EvsvI8EJHlRMvp6IiB3tFufh15eyRIrrL4BtubojvowcroU5w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 86fb5e2b0598ce4942994cc4a7501a61
+X-Etags-2: 86fb5e2b0598ce4942994cc4a7501a61
+
+{"title":"Why Fairhope isn't hosting a special election today","description":"A special election was planned for today on a vote to change Fairhope's form of city government from mayor-council to council-manager. The election was postponed on Friday. ","url":"https://www.al.com/news/2018/10/why_fairhope_isnt_hosting_a_sp.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fexpo.advance.net%2Fimg%2F204dfbb0a8%2Fwidth2048%2Fbb1_jayrobinson1.JPG?auth=72c30c80d96dfbb43718eb213b2cb687f4ffe231690a694a0a9ee17e21dec802&width=1280&quality=90","charset":"utf-8"}

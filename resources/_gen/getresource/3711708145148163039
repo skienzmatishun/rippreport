@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64012ff61a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:17 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=y1n1SZ766D45%2FteyX%2F88JHXBNK9PsU9ihPci%2Bss97PzEUozJ%2FXO%2B6YAu05f9%2Fw8vTXSXJUgFFOdqmQmW25izk3E1JzaCLu68dQDbN2FpXeJqz%2FxVzRAI8zN7x%2F37F1lbrmFrDkBf2oBD%2BAJlfSwlmhINaw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=88
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: dd4af332393fda4e122f6b1392336fea
+X-Etags-2: dd4af332393fda4e122f6b1392336fea
+
+{"title":"JACK IN THE BOX - AIRPORT - Ripp Report","description":"The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The …","url":"https://rippreport.com/p/jack-box-airport/","image":"https://rippreport.com/img/jack-in-the-box-airport.jpg","charset":"utf-8"}

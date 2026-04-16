@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a63e2fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PYbbzFneyGi1AIjawyQR4SwZr2scOHaMebbqicDelab9kvwPjn7qN2CKZhdvhf2wvyNazKK4bbY6qkE6ej1u4uQ0r7WpGA%2B8jxaXheLtU%2F92SLMUyx8WueKitHi4qxtIua3PMVS6wUOpRBIq69Lv0ujU4Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 40025a86eb034c3cf2ae35e3a85f7da0
+X-Etags-2: 40025a86eb034c3cf2ae35e3a85f7da0
+
+{"title":"Davis indictment 'hits closer to home' in south Alabama","description":"Rep. Randy Davis faces federal charges of conspiracy and bribery, and his indictment on Wednesday, prompted \"surprise\" among some Baldwin County officials. Three people are running for the House District 96 seat that Davis occupies, and they all three had varying views about the corruption allegations. ","url":"https://www.al.com/news/2018/07/rep_randy_davis_indictment_hit.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_impact%2Fphoto%2Frandydavis-photo1jpg-917e06d645b27690.jpg?auth=af526ed8ce6065914f94edee3695ee1a0c63565928e94d58c93f97f3645ef4a9&width=1280&quality=90","charset":"utf-8"}

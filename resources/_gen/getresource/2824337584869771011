@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406c7894a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UH2Quhsc62yaK%2B%2FNfHrWTYJCc%2BCYiPl1T4ra5KZlcrqZeqQ0a%2B3HJrFvmEpgQ%2F%2BKEZQnALdjH%2FHKgwFwo14qg%2F9%2FREmWvsk7e2DKrr7Zhx6GlC3XGF1ryogWQ5W9pbYi2lsl1%2BIhKHswcitE9aUr3TjndQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b4d986b32f70b3c4105804c326997f26
+X-Etags-2: b4d986b32f70b3c4105804c326997f26
+
+{"title":"BACKPEDALING FAUXHOPE","description":"The backwards backpedaling Fauxhope City Council had to eat crow when it came to eliminating public participation at council meetings. Of course the matter of free speech and public participation was front and center when they denied yours truly the right to speak. The public outcry was resounding and the council got the message loud and clear. Councilman Jack Burrell threw Councilman Martin under the bus. Jack said he was surprised to see the item on the agenda.","url":"https://rippreport.com/p/backpedaling-fauxhope/","image":"https://rippreport.com/img/backpedaling-fauxhope.jpg","charset":"utf-8"}

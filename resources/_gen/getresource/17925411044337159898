@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b80825a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cZe4YzWEf6pRD39p0ueXgF7ObQxz%2FC9pnZKvfoiN0fCdJd%2FeoJIV0hY1YRif3jPU46jXBWvlCtLM2CgW0gZq2EzI7pRC4aYdHnloPhX%2BUKyqW1eOo%2FOM3ZGoKsifAIHgDBoyxEzKs2ZNbg2RIqNuVEDSoQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: aca04b1b4461326b76b485dcf0df8b00
+X-Etags-2: aca04b1b4461326b76b485dcf0df8b00
+
+{"title":"Fairhope plans ADA bluff access - Gulf Coast Media","description":"FAIRHOPE – Plans for Fairhope’s Working Waterfront improvements will include a ramp or some other type of access for handicapped visitors from the bluff to South Beach, city officials said Monday, Sept. 13.","url":"https://gulfcoastmedia.com/the-courier/stories/fairhope-plans-ada-bluff-access,113651","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20210919-210323-South%20Stairs%202.JPG","charset":"utf-8"}

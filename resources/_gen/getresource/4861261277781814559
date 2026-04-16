@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409fc9fca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kYwV96WjIuaha5%2FoIKqQsbcdcUj4mdF0MXrz9p7RyHtqq5xuT42Z0%2FfX%2FwiBz3WFB%2FV%2F7qq8Rg7pGHDpcEpGr%2Fn0e9s9W52jb7CcCQy26CwdpOq6kqTOd%2BVGDa16%2FyudhnuqyqSRbyoI9%2B6KzKihB0sF4g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=119
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 25ae614a855e558ee99a5266fd6f8f87
+X-Etags-2: 25ae614a855e558ee99a5266fd6f8f87
+
+{"title":"Now John McAfee faces $5m lawsuit over air crash death of businessman in Arizona after dramatic escape to U.S.","description":"One of the reasons the renegade set up his eccentric life in Belize in 2007 was to avoid the wrongful death case over the killing of Robert Gilson, 61. His family hold McAfee responsible the horrific crash of the married father-of-three who was taking lessons in 'aerotrekking' - a sport that involves flying a trike at speeds of 75mph.","url":"https://www.dailymail.co.uk/news/article-2247689/Now-John-McAfee-faces-5m-lawsuit-death-businessman-Arizona-dramatic-escape-U-S.html","image":"https://i.dailymail.co.uk/i/pix/2012/12/13/article-0-167C7F33000005DC-730_1024x615_large.jpg","charset":"utf-8"}

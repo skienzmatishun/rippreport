@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ffe8972a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:14 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Y%2FXAtDtpFDDGRrv5QN%2BpypoE%2BXY%2Bgkoj%2FHkIkgwqWqzm4veAHc915KMnHYz2UC085UML7%2BqTqA1H6O5aW4v3KtnX1CTs7pQNcC9vwfa2J8iHVNoAttNxmXFC9rT5eNzA%2FPdDSwyPYjUlJcmlmU%2Buo4TnTg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4751190d87eb541a14fcec884ea9252a
+X-Etags-2: 4751190d87eb541a14fcec884ea9252a
+
+{"title":"SOME THINGS NEVER CHANGE","description":"Published March 3rd 2022\nBaldwin County is full of laughs lately. Politics can cause mental damage and in Baldwin County we need an insane asylum for a few of them.\nFirst we have the “TAX MAN” Chris Elliott, he prefers the title State Senator, saying he has solved the School separation lawsuit between Gulf Shores and Baldwin County Superintendent Eddie Tyler. The reason there is a lawsuit is that Mr Tyler went back on his published promise to abide by the decision of the State Board of Education. Elliott is also talking down development in public while his record supports all the development his CATALYST friends can get their hands on. Elliott was covering for Tyler, his partner on the penny tax, that no one got to vote on.","url":"https://rippreport.com/p/some-things-never-change/","image":"https://rippreport.com/img/some-things-never-change.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406cb956a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NHCIRyvoMXEIdKUihi2Fj2ptp0V5M2UMLkXhG0rQ%2BQDXaAjGrPnDKtf1Kxi9vvR6qv5C3KVnXQ%2FBfdGbWKhx5kWvjLNW8o79OESIqY%2B2WEQVRyg6%2BW6gsCdTPTHgTZ9Be%2BYwkHfHetufNPbEtXU0CCGlyw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 1cc98635c3fa6b70b9ef40037173ac98
+X-Etags-2: 1cc98635c3fa6b70b9ef40037173ac98
+
+{"title":"Baldwin County Commission considers 2021 budget; approves body cam contract","description":"The Baldwin County Commission’s proposed 2021 budget is coming in $40 million lighter than last year, but not because revenues have decreased. Budget Director Ron Cink told the commission Monday","url":"https://www.lagniappemobile.com/news/baldwin-county-commission-considers-2021-budget-approves-body-cam-contract/article_a4251d12-e891-523e-a4fa-ebb6d4916ff1.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/9/fb/9fb82590-231e-5d44-b293-f5cb7541f6c0/630ed7b29143f.image.jpg?crop=241%2C241%2C289%2C0&resize=200%2C200&order=crop%2Cresize","charset":"utf-8"}

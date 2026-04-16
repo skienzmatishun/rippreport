@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640483b04a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oHyFORvt0b5P36gY3NsewZRNf2l3ioYo6n546OLV1SpY6YjwGBoi6PG6FkRRQ94EH1O2jCe94skEAGCvWECAg4qqjfgIKC5NxGID13yUr4P%2FK7PWvD3TkpVbz8DiQJXknybBns86ELUzXF0lrvfV2nCNxQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 43d8d6c2f703ad8a32006290338bbb3d
+X-Etags-2: 43d8d6c2f703ad8a32006290338bbb3d
+
+{"title":"BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY - Ripp Report","description":"For years we have been critical of the family court, especially the rulings of District Judge Michelle Thomason. Complaints lit Facebook up like a …","url":"https://rippreport.com/p/baldwin-county-family-court-a-cottage-industry/","image":"https://rippreport.com/img/baldwin-county-family-court-a-cottage-industry.jpg","charset":"utf-8"}

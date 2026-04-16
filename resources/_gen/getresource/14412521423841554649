@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640707d68a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4iCAjGiYeTe5Gz5mu4PqxtSw%2Bwa5s7mJS6uwnjE9LANrINoXODk4O%2FSf4I0ri7QDz9SVqrS2AuLq4Wde0kaOweGI4HKSvM3XE%2FefDsvToqXRs0bH3NX3RGmMxsk6k8nc6SmjDsJcVCBL9dJf37RCHNGGcQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d03c6a0f3140321818039bf96099e289
+X-Etags-2: d03c6a0f3140321818039bf96099e289
+
+{"title":"PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE","description":"ALABAMA BEWARE OF THE CATALYST QUEEN\nAlabama Beware, the absolute worst Family Court Judge in the state is Michelle Thomasson of Baldwin County. We the citizens of Baldwin County beg you to help us remove this judge from the bench. No words could express the amount of damage this so called judge has inflicted on hundreds of families and children.\nMore complaints have been filed against her than all the Judges in Baldwin County.","url":"https://rippreport.com/p/public-service-announcement-alabama-court-of-civil-appeals-judge-place-one/","image":"https://rippreport.com/img/public-service-announcement-alabama-court-of-civil-appeals-judge-place-one.jpg","charset":"utf-8"}

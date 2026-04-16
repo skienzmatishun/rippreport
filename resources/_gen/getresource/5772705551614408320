@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404b4c75a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uoPkMhIyUhYFrgovJ8ee8Q5Tqf%2BeQ%2BGzq8wyCZBcOpkKQlBog9jK625aFNqbk8acuHKYzJNPizZjsoTrgFivXmUqLONkSv1uUSVSVRkSWDjWYOUXzVNzGUKYC5JHPEUEp8rK%2FxB3F49olgeN3Pyhw3KAaQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ff5304027a8d7e6227b712cfcf38fa75
+X-Etags-2: ff5304027a8d7e6227b712cfcf38fa75
+
+{"title":"WEASEL CONTRACTOR - Ripp Report","description":"Baldwin County really made a mistake when they elected Chris Elliott to replace Tripp Boom Boom Pittman as State Senator.\nThose that know the history, …","url":"https://rippreport.com/p/weasel-contractor/","image":"https://rippreport.com/img/weasel-contractor.jpg","charset":"utf-8"}

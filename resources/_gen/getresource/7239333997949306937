@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64056ff70a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=sQ7GSET0cr%2B4jix0no3aEexOlHq%2FEu7bV4lGBc7dGu6IvY%2BleRbI4IAKlO0QXlf8Y7EZNgnzLYsnZie%2BTASnyWcHxqKMbj7WheEnxnOdv1MlmNCDDrQ66hpKTvS02koUxo4ryUPelFZ%2F5j3bdL2FhdxUug%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e08e8b989249a04c4ecffd15305910b8
+X-Etags-2: e08e8b989249a04c4ecffd15305910b8
+
+{"title":"Alabama's largest newspapers used Sunday's front page to tell voters, 'Stand for decency, reject Roy Moore'","description":"Alabama's largest and most influential newspapers disavowed Roy Moore and threw their support behind the Senate candidate's Democratic opponent, Doug Jones.","url":"https://www.businessinsider.com/alabama-newspapers-reject-roy-moore-2017-11","image":"https://i.insider.com/5a11d7b83dbef4a7748b6944?width=1200&format=jpeg","charset":"utf-8"}

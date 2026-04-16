@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640ca8b0ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AwWGYqiaxzN1jV8oDmxR0hM4p%2BbfdHPbO%2F7xvyQKxdulwHl7P%2B7goTDmtEtBQFl4dPZhaa5xNPuphV0zhS52xNu9riSKSSkgVs9s0Ipz7eCk2tV9Ot6ZW1bT2oS8bvmQgQUWQph3aV5FX9A4lJiQCqb%2BMg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 41b6727a095ce4e065a1e6836b1c183b
+X-Etags-2: 41b6727a095ce4e065a1e6836b1c183b
+
+{"title":"PEDALING BACKWARDS - Ripp Report","description":"The Fairhope City Council is in full re-election mode, for 2020, and are trying desperately to accomplish anything they can claim for a victory. So …","url":"https://rippreport.com/p/pedaling-backwards/","image":"https://rippreport.com/img/pedaling-backwards.jpg","charset":"utf-8"}

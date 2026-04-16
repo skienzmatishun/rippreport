@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404aaacea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QVJf5g9RDkJFoBqvB5HPDzpirTqRMfBHC2BklJuQwpXxwRFa0HSTqtTK6rYPcuFeOGtGPApgox6CHWSMQS5u9brptP9wv%2F%2B0EYbTh%2FrOrQjnwzI7pFS%2FO9FOqxRUGz5zkvFITVpsEWmX0ghss9zmTy%2FLGQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=126
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 59167e21e31688c6c89cf783489d3aa3
+X-Etags-2: 59167e21e31688c6c89cf783489d3aa3
+
+{"title":"RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE - Ripp Report","description":"BEAVIS AND BUTTHEAD invade Fairhope\nEveryone in Fairhope, Alabama is now aware of the rude conduct of the two councilmen who were elected with little …","url":"https://rippreport.com/p/beavis-and-butthead/","image":"https://rippreport.com/img/rude-crude-and-sociably-unacceptable.jpg","charset":"utf-8"}

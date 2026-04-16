@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c62c3ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dKhPyMbv%2B3PFmlJZM%2BppoV%2Ftj1FTZx%2FN20xWj4DWo%2BknlJa0foG9knJp%2FjjTXhGzwYs40QsU%2FOg%2BcBUNGsoJWA%2FaBfoX1NNmS5L7gW2slCZe4ipro2pVNpWP9b89Rij3104RNXCYdSG6B2fllQEzl8veBw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 77f0ba2811c1639356f443819ea124ab
+X-Etags-2: 77f0ba2811c1639356f443819ea124ab
+
+{"title":"Whitmire: Alabama deserves a better AG than Steve Marshall","description":"Who might run unopposed","url":"https://www.al.com/news/2021/06/whitmire-alabama-deserves-a-better-ag-than-steve-marshall.html","image":"https://www.al.com/resizer/v2/OT2HRK2ISBDGFGS67RRRELTGRE.JPG?auth=20a1b1a39fadb199b371381ca012d7d7f451d339c6a2c96a70d31b7ad87a1e8d&width=1280&quality=90","charset":"utf-8"}

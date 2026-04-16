@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408dbab5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=j1ikWf5li2E%2Fw%2BUQOAXnMB%2FPzsMU0XIQ4h9rmtNBSolb8id6SwPT%2Fw4t5YV%2BuD5BruZQDbO1X2u7N%2Bhd18ZjisQc8yurkIjqc08z6md0JTnmtuEOidklG5jNQ0dREtP0yEfOqZgZ5tAF5NJ4yMA9aSoHYw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 52cbfffa8d31e46e7ab9e1a7592fe48b
+X-Etags-2: 52cbfffa8d31e46e7ab9e1a7592fe48b
+
+{"title":"VOTE SMART - Ripp Report","description":"How do you select the best candidate for the job? In Baldwin County the first thing you do is eliminate the Catalyst candidate. Many years ago Lynn …","url":"https://rippreport.com/p/vote-smart/","image":"https://rippreport.com/img/vote-smart.jpg","charset":"utf-8"}

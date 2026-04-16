@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640631bfda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Ra5jsCLp1SSEqoufVqXRFGC44cNebI6KFNya8bCHpuYZKUoRFdQQ%2BtnTXIQI8R6Xz9qCcm6lxLqjH2ZWyQaD1Ss4%2FhXPFnW%2FPe14TVnmVG25%2Bm%2FscUSrXeiqbbVHceyMZnr0oBWy48HN%2BFN1IRKqsNNSIg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=99
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c7152c4f1af23fba2d48298c075cab9b
+X-Etags-2: c7152c4f1af23fba2d48298c075cab9b
+
+{"title":"Alabama corruption in three words: Rat fires Cat","description":"Matt 'Cat' Hart, Alabama's top corruption fighter, has been forced out by Attorney General, Steve 'Rat' Marshall.","url":"https://www.al.com/news/2018/11/alabama-corruption-in-three-words-rat-fires-cat.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FGF74IJNQC5B3PPPFIG4PO2CIAM.jpg?auth=fab5608b080001648d4f5a4353fe63af930388c05b1cda62cb882c56c45ee229&width=1280&quality=90","charset":"utf-8"}

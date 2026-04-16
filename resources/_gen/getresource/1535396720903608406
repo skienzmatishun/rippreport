@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405c3f31a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AQCgNAu7eSAF0LTsuV8%2FNL7Gd7ofWn%2FZzXate4QHjHMzK%2B10029vCRYAYw4vmIXtHo9N4xtrZSDp9CeyFxvSGQAo7rpFcYEeS0VF61%2FVytNvDnYZJCMWsUu9l9Fdq98IXAppJ7MJ%2FQxcKqmN2fOs4HLT1g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=94
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 1537cec4b5018d5daf601695215bde3d
+X-Etags-2: 1537cec4b5018d5daf601695215bde3d
+
+{"title":"Fairhope Financial Advisory Committee at standstill - Gulf Coast Media","description":"Fairhope&rsquo;s Financial Advisory Committee is currently at a standstill, as FAC Chairman Chuck Zunk said recent actions taken by Mayor Karin Wilson could make it difficult, if not impossible, for  &hellip;","url":"https://gulfcoastmedia.com/the-courier/stories/fairhope-financial-advisory-committee-at-standstill,62466","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1470163322_577e.jpg","charset":"utf-8"}

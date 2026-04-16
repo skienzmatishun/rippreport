@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64066cf27a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Za9a%2FFlF7VGcbesyiGMMEki%2BfUipWWhJvbldV2YY56RaO3BzVCHEJppfaQSknGumS08a3xQZyDqhyWMIG1ON7nrD64F6e15Hts6mcE1%2BShyQ%2FQ6VwffIQXSbSktzxXMRTw7ppHfJRjCRZXVKWv4MrGVSDg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d409e9ab18d0d79236a9ae3d9aeeea90
+X-Etags-2: d409e9ab18d0d79236a9ae3d9aeeea90
+
+{"title":"FOX10 News DHR investigation reveals staffing and salary shortfalls statewide","description":"State and local legislators, along with law enforcement in Baldwin County met this week with Department of Human Resources (DHR) officials.","url":"https://www.fox10tv.com/2024/08/09/fox10-news-dhr-investigation-reveals-staffing-salary-shortfalls-statewide/","image":"https://gray-wala-prod.gtv-cdn.com/resizer/v2/OUQYNYNUJZHTBHA5UC23V62GEI.jpg?auth=a16d3f5549268d95481aee4de1a50d9cc63389baf598a2eceaa9d823cd45252c&width=1200&height=600&smart=true","charset":"utf-8"}

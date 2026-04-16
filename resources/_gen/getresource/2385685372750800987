@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b48d58a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AeiWQFSfc1Q6CQ2BhhkH9Q10tJ6ZNAbK09bYgvJSh4FzTTuEd5waD62zbIA%2FdFMNQ3sjc%2B3Li2ra%2BNuq%2FqufJpxVEzyDK0oJxRGIv4mCF5Nzei0HtMjbbRIpdiArktbKCPuSNhTI66oStBoBy6xaLhBMLA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7dcb21258b453b5fe50d8c54458396cd
+X-Etags-2: 7dcb21258b453b5fe50d8c54458396cd
+
+{"title":"LISTENING NOT READING - Ripp Report","description":"The Fairhope City Council needs to do more reading of facts than listening to unsubstantiated statements by Council President Burrell. One thing needs …","url":"https://rippreport.com/p/listening-not-reading/","image":"https://rippreport.com/img/listening-not-reading.png","charset":"utf-8"}

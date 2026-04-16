@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407b8806a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=m5EFd8ilewbseikZjiPl8xm5OPRFqvgkAsuX9blzBxGWZr6tqIvVQk6IkiC1JLw%2Bf7HfWqn6GgCmd%2BwOy3i8hE5IhJ4lI5ybKkCsuEw2nPX6aMNTi2oD3anbdclP%2BdiNt1i422nkTSikJbKw1KXR6TakSA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 1efccdc78244d8881fb774c1acf212d2
+X-Etags-2: 1efccdc78244d8881fb774c1acf212d2
+
+{"title":"LAST CHANCE - Ripp Report","description":"Tomorrow a very few people in Baldwin County will vote in the primary election. Everyone is encouraged to vote. In the primary all party affiliations …","url":"https://rippreport.com/p/last-chance/","image":"https://rippreport.com/img/last-chance.png","charset":"utf-8"}

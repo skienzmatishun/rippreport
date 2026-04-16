@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407eca2da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Lt%2FWGf4rn8cJB3NxrC%2B%2FuMSrI1tISK%2F4eDwVZUSQQpBpBQzPv3Dn%2BUwVR1dDPoXDIH%2BDNVLviMynkve608jo450%2FEVY9A6hJMsCV5FKffykFQKikIWnaLNqt35WUtnYhTcGex7AVxL5jH7uKnQpLNbyilg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=157
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b0d6b39b81e459f5e2d95be1f18c2d3f
+X-Etags-2: b0d6b39b81e459f5e2d95be1f18c2d3f
+
+{"title":"HELLO CAN YOU HEAR ME NOW - Ripp Report","description":"Jimmy Conyers steamed rolled incumbent Diana Brewer for a Fairhope City Council seat with 66% of the vote. Diana now joins Tim Kant, as the second …","url":"https://rippreport.com/p/hello-can-you-hear-me-now/","image":"https://rippreport.com/img/hello-can-you-hear-me-now.png","charset":"utf-8"}

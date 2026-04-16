@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406f9a6da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5q0hkbAuopmUQ3H%2FgCA0LcqR1Ksaa3UF%2BFKxH6muLDoVSzg%2Fm66fkrzCLt0TtPhQNv%2FjKD%2B9Lqse6mtrUOZjbwDuB8sJtrw20IWcwYzfmvgX2Jnrrzysf7%2BbAJ7%2BCQRmA%2BcJvNsMG%2F6Q1eScyKAWeVvXcQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=89
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2005e66fac43fe1688e599e909e52c58
+X-Etags-2: 2005e66fac43fe1688e599e909e52c58
+
+{"title":"RED LIPS AWARD","description":"Alabama is number one in the United States when it comes to political corruption, by far. The Department of Mental Health run by Kimberly Boswell ranks “In 2024, Mental Health America ranked Alabama 50th out of 51 states for access to mental health care.” The veteran suicide rate is higher than the national Veteran average and significantly higher than the national civilian average. Let that soak in!\nAlabama Veterans are now under siege by our Biden syndrome Governor who cannot make a 3 minute speech without reading every word and exiting the podium as soon as possible.","url":"https://rippreport.com/p/red-lips-award/","image":"https://rippreport.com/img/red-lips-award.png","charset":"utf-8"}

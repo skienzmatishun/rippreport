@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64093ccc9a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aUN4lidzbKzCIsR7RSpD%2BjGNfvyBEc4ORgKzQ7DfEFckGapF8lAHKUcVXmzJM0frJDIyTdQ8ZI0wNkx%2FzszyJvkjbKWj1Imc74%2BB2u7xWOm6qhtxF45JOmnRnrFd7YvkQNqUEzBjC%2F4vyaaTslas9LaNIw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7e9705df996d79380b023a720263886d
+X-Etags-2: 7e9705df996d79380b023a720263886d
+
+{"title":"Lewis House  Demolition Begins","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2022/11/lewis-house-demolition-begins.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwz371yAqFJAk4TkA7tRCfX0rd1bs25YYMs3051C-CfBmf1ls1s195T1uSq73GhCsPZqiW72qjmD4lGVGEeFWMZzHq-Lb5yFpVuXFAur5fzWQ6ozxLPN-h1uj2t3wS_p0OTzanz7z6AcISKcrF-VaDQIaaKwCL05kdQdBXeStMFuAzF9H556oMo6F/w1200-h630-p-k-no-nu/demo.jpeg","charset":"UTF-8"}

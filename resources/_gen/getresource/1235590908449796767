@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640402baea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:24 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=s5yZ%2FEsMGC8zVULNGtUCke4nAdEnms%2BTrIYAKTpMaSpZEp0Wnd%2BsteLKDEx42X0POkkAIOVvuBYeoLngbDtY7iWi6nm5f3h8M%2FKQ5ou%2BMLB8p8XhAEchYCFSa64%2F4InXOqvH5ULWT46pWSRI5tT4b069Gw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d4d8800e669b2827fba6c1dc3732dd3e
+X-Etags-2: d4d8800e669b2827fba6c1dc3732dd3e
+
+{"title":"BOONE-DOGGLE - Ripp Report","description":"Well if you read the wonderful Wednesday this week,\nBIT DOGS BARK FIRST Well folks if you were watching football this last Monday night and have no …","url":"https://rippreport.com/p/boone-doggle/","image":"https://rippreport.com/img/boone-doggle.jpg","charset":"utf-8"}

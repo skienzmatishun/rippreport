@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b7ffd6a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bMUYw1%2Fg9QZf%2B85f5%2Fz31DIC5ZANpwhBVhajBl4EunEb%2BnXzioERr4Y5CuPenjUs7L4I16TxreycPNk74%2BR2cc8%2FFySWVGdRw725Wj8IBmo1ZdLN4xb3wX%2BDlmflVg7P6bTICxlNV7n38KE3yDwlYXrr6w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=89
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c06585d0fa8d5166ee1bc6792bc3f3e2
+X-Etags-2: c06585d0fa8d5166ee1bc6792bc3f3e2
+
+{"title":"THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED","description":"It is no secret that I have spent 10 years trying to unseat the Mayor of Fairhope. It is expected after an election to be gracious and heap accolades on the departing Mayor, I will reserve my comments until Nov. 7th. The transition period between now and Nov. 7th will be telling. I hope it is civil with no surprises or forced through agendas that may impact the city negatively.","url":"https://rippreport.com/p/the-eagle-has-landed-and-the-court-of-public-opinion-has-voted/","image":"https://rippreport.com/img/the-eagle-has-landed-and-the-court-of-public-opinion-has-voted.jpg","charset":"utf-8"}

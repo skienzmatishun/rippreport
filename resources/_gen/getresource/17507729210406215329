@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640ac2ae0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kcjJmbj1cCo1BcUQcRGKZ8i5Kv%2F6Uct0gBy44ERfr%2BOnXnR2RbbFJsDk6JxWtubXCF2oKRbIw%2Ft5UY5MPOize8lEdyNS5JsAGaWlGUNepxOkg1YVDbKrsjabyWKEPuYwkHPLQPNFskKvlI%2Fl%2F601zc7Sfg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4596bfb1027286194d45842eb65def00
+X-Etags-2: 4596bfb1027286194d45842eb65def00
+
+{"title":"HAIR ON FIRE - Ripp Report","description":"DUI, Tax man and rouge State Senator Chris Elliott has lost more than his hair. He is again carrying the water for Sheriff Hoss Mack. Oh, by the way …","url":"https://rippreport.com/p/hair-on-fire/","image":"https://rippreport.com/img/chris-fire.jpg","charset":"utf-8"}

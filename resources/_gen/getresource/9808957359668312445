@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64036ffeaa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:23 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=T1zcnJx01faAcRH1CZHE0dzHRhVhpOgAATURT0TRJaoa4xwijBsL%2BGFZdBELoUD1%2F85%2BupLkjjz73Kwv1yJwHpIOM1QQ67aND68Wnhz%2FSeJYUfUWYHQvP2VPAT2mznNS1lfrtrRjNcNcPNpLM535oLqzxA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a0d506da73aa20b1b58458af915b05e3
+X-Etags-2: a0d506da73aa20b1b58458af915b05e3
+
+{"title":"LIAR LIAR PANTS ON FIRE","description":"The Fly Creek apartments, aka, Fairhope Village Apartments at Publix was one of the most blatant acts of corruption in Fairhope. Over 5 lawsuits, resulting from polluting Fly Creek, drainage issues and multiple violations, has cost taxpayers hundreds of thousands of dollars.\nMany public meetings were held some with attendance of 250 to 300 people opposing the project being built on the banks of fly Creek. It was one of the reasons Tim Can’t lost his re-election bid and the council was exposed for back door meetings with developers.","url":"https://rippreport.com/p/liar-liar-pants-on-fire-2/","image":"https://rippreport.com/img/liar-liar-pants-on-fire.jpg","charset":"utf-8"}

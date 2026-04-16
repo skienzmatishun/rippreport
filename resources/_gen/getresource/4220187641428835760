@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a99969a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=G4plAIBUsDAnnjdmtV2tE9wJrJ%2BHkAZDFvqHJ%2Bd5I5HZ4YktQ9Kl0tzaq0P8KwgSNVCFPeataaUaIJYgiEYabNyRtkX%2Bz08Zy153qVSzRi6RoVC3fVGblMOa%2FFwLlZt8hi0Ik89uDYhQGOS%2BZvTWJdRI2Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5a7f958c32a07c38fdd8106075db6888
+X-Etags-2: 5a7f958c32a07c38fdd8106075db6888
+
+{"title":" Pine Forest Park Proposed For City's 'Triangle'","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2019/12/pine-forest-park-propsed-for-dyas.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm5y96Z4sb4tgU6uCeQ9NZ7Knnu8gIJH6LWmRg3Y2Q88LfxYowL4L0OV6ItCuNm6UTUkg4MCB_BnscIim5LaJGzpMREUIHAQQL2MYcsgW5ufc363OUTCO5oJTIK8x_xklf3kSZB8zYQvo/w1200-h630-p-k-no-nu/IMG_4284.JPG","charset":"utf-8"}

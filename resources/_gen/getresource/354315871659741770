@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640103e2ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:17 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HxNCs2jxSVDa93VMImYES1KMEuwTT%2FQ3qOUsGMLAwU%2BowERWxItNkCSjKbY0Abf2WIQTdL9oB%2FxChDZ1VZHO5alNE5a2fYN8vLnF8%2BIXt0Dj8JF9JJYDwQY0HakxSiDp3bPTmCCn07RwtVsg%2BPuzFGmmNQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cdb4e989637ff55ee9d9e5fd67164c3d
+X-Etags-2: cdb4e989637ff55ee9d9e5fd67164c3d
+
+{"title":"Gulf Shores, Baldwin County reach agreement on city-county school split","description":"The agreement was announced Thursday during a joint press conference in Robertsdale. It essentially allows Gulf Shores to move ahead with its city school on June 1.","url":"https://www.al.com/education/2019/03/gulf-shores-baldwin-county-reach-agreement-on-city-school-split.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2F7NZABSU4GRAHDNKQ6XIXCW57K4.png?auth=85a2572443da3f05396c2cd64a490c29b47f72a724e054397a2e3fa8c97ef46f&width=1280&quality=90","charset":"utf-8"}

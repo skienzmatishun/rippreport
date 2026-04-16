@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64032fbc7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hf8hnkIzpdz6LkeNNq%2BEuo7L0I3D6OH5wzdaQ6r8orhYeLfIGuJDmXpNPXePqccrPG3nW16WnhgUjPOOyWQtekOk42B%2BfBqouFC%2BLubC0Nt9J692EnsWzf%2FjS1b5pLTlrs942QwSeSpJcjoQRKxWS4i5ew%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b41385c43ff53ba89550c7b5aa1b729f
+X-Etags-2: b41385c43ff53ba89550c7b5aa1b729f
+
+{"title":"Funding Sought Again For New Fly Creek Bridge ","description":"Community news and events in Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2026/01/funding-sought-again-for-new-fly-creek.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQjI9ahZwd5jpi-Sigph8RbBTUyOBcSHj2kSlstMWZIAqx1W9W4Gj8U0-lCSrJqGCV9ZVEflqnxPAYV_pQ8yXXuwJTSXWaBivv11mHSlkHeRYZHxfBpaNiN2FmDAaLXC9P3l2fbaOZMWE5Jcaj_9U3gPNeUdxS8-s-GJObjIpxqfK4tqoPxoktmfNWcyk/w1200-h630-p-k-no-nu/DSCF9355.JPG","charset":"utf-8"}

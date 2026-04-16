@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409fb9bfa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=i0stCTYAVs%2F8N6hmu3JG6mWQV6ZC3PbfmESnOqRxV3snDNWnQvW4XzDMtkSi9XInEn8vOAIAa3jHDfM1HDPSz8wSDgt98gL298qfzhUQVaOJQ%2BzdoLCx6MFf5G3Bk17TGB6umogyP6862b0Oj2W0zHG6%2Fg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=95
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d3046d6a1e1ad91c1988bb4cc13b72e6
+X-Etags-2: d3046d6a1e1ad91c1988bb4cc13b72e6
+
+{"title":"CAUGHT IN A TRAP LIKE A RAT - Ripp Report","description":"Fairhope tossed out the Mayor of 16 years and ever since the sounds of rat traps are going off all over Fairhope. It is not uncommon for the new …","url":"https://rippreport.com/p/caught-trap-like-rat/","image":"https://rippreport.com/img/caught-in-a-trap-like-a-rat.jpg","charset":"utf-8"}

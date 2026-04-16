@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c07a30a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DoBdnOH%2FlpcR%2BhqUBbnBinbVnGcA0HFG54k9t9DJvtZl4nGpGAnCGzdTHqTFNGadyfeZAAk8xZDcUC6nzpxtoUzQescyIVF3frcpKsKHSA2iS%2BL5KKx9%2BUXxyaYYZ5pGC6WugRa1YaZ0MQV4pfV1RDw8pg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=94
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cf785b2172eacface331d8ea7e7e68c6
+X-Etags-2: cf785b2172eacface331d8ea7e7e68c6
+
+{"title":"Fairhope City Council to consider vacant seat Monday","description":"The Fairhope City Council may be poised to appoint former councilman Jay Robinson to the Place 4 seat vacated by Robert Brown Feb. 22, just over three months after Brown","url":"https://www.lagniappemobile.com/news/fairhope-city-council-to-consider-vacant-seat-monday/article_04eb3f4e-6ca2-5000-bd89-b099ac102ad5.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/9/23/923a4566-ecb5-5658-93eb-f1d06cb6d23f/631a313a2feae.image.jpg?crop=1300%2C683%2C0%2C3&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

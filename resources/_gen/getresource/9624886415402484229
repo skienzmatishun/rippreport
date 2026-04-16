@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640990d0ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=z90FzJPi2cayt8DL%2Bve320%2F85rIoPgTmBqMb88dKja0WKkyOx0nRZC3FcIxrHxao2Nw2CONzQcK0LU1SCLwNdm3rT9f9p3gUWH205SspGm0Yeu4rrS3ul5wjAQCgiFV7NkHjasmqtZWtlx3TgfBon%2F4xrw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 380df325610ed44a7b94325231cf595a
+X-Etags-2: 380df325610ed44a7b94325231cf595a
+
+{"title":"Senators strip coastal roads from BP bill, add funds for Medicaid","description":"BP is scheduled to pay the state $1 billion over 18 years to compensate for economic damages from the 2010 Deepwater Horizon oil spill.\n","url":"https://www.al.com/news/birmingham/2016/09/plan_for_alabamas_1_billion_bp.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_birmingham_impact%2Fphoto%2Fstate-house-mug-by-juliejpg-b48b085bf017e872.jpg?auth=b52e6973f1b86f927948171f0bfe8cd155ebb3a7e34fdcf849b0c4b43301d0bd&width=1280&quality=90","charset":"utf-8"}

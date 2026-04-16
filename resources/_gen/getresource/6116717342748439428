@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640465ddaa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rJxbWqkm5rfI6yjpXz5Z4CReyA9YOwfCN1ynjcM%2FvwZ1RXeh0CARJ%2F%2B5qzOuod1I8Q1zl22D1k4vXRqX0bNQqnIdR4eaRyMLHnLDtWKZNExbYymp6P9pfwLIgXbOzfi5PWQLdNQEVCu59ANPy8ro84laRg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 34232745533592fa296874c9f84299e3
+X-Etags-2: 34232745533592fa296874c9f84299e3
+
+{"title":"Coal Ash — Mobile Baykeeper","description":"Show up to the Public Hearing on March 30th!","url":"https://web.archive.org/web/20220616153020/https://www.mobilebaykeeper.org/coalash","image":"https://web.archive.org/web/20220616153020im_/http://static1.squarespace.com/static/54d3a0eae4b000d5abdf81c0/t/5e44135fffa0b840f3a733d6/1581519716857/Coal+Ash+Social+Image.png?format=1500w","charset":"utf-8"}

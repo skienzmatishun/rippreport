@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64012ef49a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:17 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JcWKdro9Ne3gam1kw60YKq1p7B0EJwEuDOaOmHhc%2BwiIpkZz56ftg8LUMkEUUCYFKb%2BODW2laFZWDIZAVpMWREcJ0CCwz%2FbmSrK3uWiRSyZgcj8%2FrxlpavLEzsztLOKTL0%2FdusIvhqusU5cz9HzcvO1E0w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e14826daad8e58933f4c75c2c282d4ea
+X-Etags-2: e14826daad8e58933f4c75c2c282d4ea
+
+{"title":"GOAT HILL PIGGY-BANK - Ripp Report","description":"Baldwin County is the piggy-Bank for Goat Hill supported by the same elected officials, we elected, to represent us. The Tax Man Chris Elliott, as a …","url":"https://rippreport.com/p/goat-hill-piggy-bank/","image":"https://rippreport.com/img/goat-hill-piggy-bank.jpg","charset":"utf-8"}

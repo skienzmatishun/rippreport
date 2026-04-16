@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408b4ac4a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BgxGQORrKtHCR6sb1g1wtmujEHJe5PpQd4P%2BVK2q4oEFTg9P3hf7%2B%2FV6LfsQNIBSMtLaRgN07yLhvNTMDMQ1woDxZzgrscSRlH3TS5wgesSmXGanCvZUmlshJc0jWmkyX8zzM1QBAIhm5pPOqZs9T8vKBA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ad72d46c4e8492d73201c3f788074479
+X-Etags-2: ad72d46c4e8492d73201c3f788074479
+
+{"title":"\n\tDistrict 1 - Honorable Frank Burt, Jr. (R) Office of Vice Chairman\n","description":"Baldwin County Commission, Alabama","url":"https://web.archive.org/web/20180722013355/http://baldwincountyal.gov/Government/BC-commission/district-1-commission","charset":"utf-8"}

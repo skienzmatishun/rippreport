@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404a7a27a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2Fzkq8%2BLV6QlLcE0N5uGbpwmOpAPxE0Jd9D1etemBjJlZ6S%2FqxISx70mpeBSxJRxyZ7l733GRVdJXljUNTSy6YpdF6dmlM0eMKgiEywQzlZgi9MMzfWztRKep1f4pUy1R8AdwMy1sQHJjeqsUTLFqKFhssA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=69
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 51cc253e8729949227dd474353de5a97
+X-Etags-2: 51cc253e8729949227dd474353de5a97
+
+{"title":"CATALYST - SOLD TO THE HIGHEST BIDDER - Ripp Report","description":"All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones, you know the Democrat. Elliott has sold his soul and is in panic …","url":"https://rippreport.com/p/catalyst-sold-to-the-highest-bidder/","image":"https://rippreport.com/img/catalyst-sold-to-the-highest-bidder.jpg","charset":"utf-8"}

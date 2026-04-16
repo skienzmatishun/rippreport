@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640593e00a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1HIaBWTovUXkoiL%2BPck30pKOZelbwv5FAkLJkmOwfSP%2BXLfTojpSYsCXYwbIRIEeDQ6k4YKutBlR0N08zRQky%2FnzbhXtcHjAfUfEiEP0Z%2F0nwk%2F0spZLav7H4JvZlVewxBvY67J5IszNeKE1f61P1j1yeQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=2,cfOrigin;dur=0,cfWorker;dur=94
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3b0b19a366f549de3ad9f4c8865f50d8
+X-Etags-2: 3b0b19a366f549de3ad9f4c8865f50d8
+
+{"title":"Wrongful death cases involving BCSO continue","description":"A federal judge has dismissed Baldwin County as one of several defendants in a lawsuit resulting from a deadly 2018 eviction in Fairhope, but claims remain against Sheriff Huey “Hoss”","url":"https://www.lagniappemobile.com/news/wrongful-death-cases-involving-bcso-continue/article_7ef6258c-70d7-5d1b-9a01-395b0f35ea12.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/d/dd/ddd981db-9aee-531a-974f-f00124236187/631a444bbe7e3.image.png?crop=868%2C456%2C0%2C31","charset":"utf-8"}

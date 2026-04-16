@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b2bf42a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YufNMlWnNxxvJH9Sut6UukAvdPd1C%2FJTqz3PnFTCZtMqKbS8f1SYTgWtBVENfXXMpFFgK58NLoZkpE%2BNwX%2FpFy4il%2Bm7J8Yc74AFkphP3LYNX1nmUN1YF5ZwLw8LVvVKJbXs9IEsw%2Bj%2BJjVA8QdIPLr0IQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f81e08ba55d6393091269ba3af3ed4bb
+X-Etags-2: f81e08ba55d6393091269ba3af3ed4bb
+
+{"title":"Fairhope council president in quarantine after positive COVID-19 test","description":"Fairhope City Council president Jack Burrell acknowledged tonight that he and two other members of his household have tested positive for COVID-19, leading him to quarantine for the past two","url":"https://www.lagniappemobile.com/news/fairhope-council-president-in-quarantine-after-positive-covid-19-test/article_ea9210d4-a290-5370-8c31-3cab1935cebd.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/5/7c/57cc8fb8-4c03-5d3a-839a-cff89d153ad0/630ecb118dabb.image.jpg?crop=1769%2C929%2C0%2C121&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

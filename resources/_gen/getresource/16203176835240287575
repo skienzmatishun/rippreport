@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405fea31a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kFXYPw8qO4dq3YJdgk7xpoTRbXyCWGSFFIGZiioRCCNYtEhxvy1AGeIu1jrfFNBkAnU8gzJbdMuEABkJXolEinkGwXUwMgaHsqzLBPDCTTBuTDNfrACWV3B1fEDe8pjAFENxl%2F10v1J9ip22OaM1j22s1Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4f40697bdcdc132811553ba2e38de86f
+X-Etags-2: 4f40697bdcdc132811553ba2e38de86f
+
+{"title":"FAIRHOPE JESTER AND FLY CREEK - Ripp Report","description":"The Fairhope Jester supports the Kant-Corte Apartments on Fly Creek, at the same time he is building his own home on Fly Creek. Surely you jest! The …","url":"https://rippreport.com/p/fairhope-jester-and-fly-creek/","image":"https://rippreport.com/img/fairhope-jester-and-fly-creek.jpg","charset":"utf-8"}

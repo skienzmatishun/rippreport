@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64093ed22a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6wGLr6U97m3umyAqagNYpGEZm16nDCP%2FNStzM0CBuAvgNWog3g4pn0ktDru0CLqarNKlTNECjMVX71qYysF5bmaUMJKAahH6HTZRGDEd1KtptvGXkJVhc3peatAGW%2Bh8qxn6lyUQBPvtpVsH%2BpmD14LLPg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=89
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 1b16f791947f6e0c839a54f9709b423f
+X-Etags-2: 1b16f791947f6e0c839a54f9709b423f
+
+{"title":"Ethics complaint filed against Fairhope Councilman Robert Brown - Gulf Coast Media","description":"Local blogger Francis Paul Ripp, who writes The Ripp Report blog, has filed a complaint with the Alabama Ethics Commission against Fairhope Councilman Robert Brown regarding his private business  &hellip;","url":"https://gulfcoastmedia.com/stories/ethics-complaint-filed-against-fairhope-councilman-robert-brown,58187","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1520289808_7b60.jpg","charset":"utf-8"}

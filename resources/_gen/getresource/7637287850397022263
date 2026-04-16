@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640aa5bd7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=z4xRdLcCziYqQjlOfcErPofi0NgYWJkQdZa6a5NsDOOShHWMBKI8FFnJ6SFUWHAG%2FDfodwTNPjaEPlCQCZREhPD3fKhdAQ09u5QZhp0XCL22xQKhFyqNqJdPqibRonogBupxzBK6SnqBK39W2XFFgRpIwQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ce4e1c9d570f5a72e03b5d565489454e
+X-Etags-2: ce4e1c9d570f5a72e03b5d565489454e
+
+{"title":"CATALYST LIAR - Ripp Report","description":"Not only is Council Burrell a bald faced liar, he thinks a hard hat works better than a face mask. This is what you get with CATALYST. Jack Burrell …","url":"https://rippreport.com/p/catalyst-liar/","image":"https://rippreport.com/img/catalyst-liar.jpg","charset":"utf-8"}

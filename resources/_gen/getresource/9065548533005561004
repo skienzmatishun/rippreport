@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b46d0da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vxgwzJVXZO4NwQfAhsOtltlPjtsNxBuDf681ht589LBOdgK33JUg8ujnEkSzKozmD0uP4LuZGR%2BOPk6sTNKg2eolprAIq%2B3HncCxAA426NIPB%2Bb%2FDhbGjTmFMMxlpUkhitE2lAQDZmnH5tBOCBt9AZ7qMw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 62402652f125947c401717c48d61a894
+X-Etags-2: 62402652f125947c401717c48d61a894
+
+{"title":"JACKASS JACK - Ripp Report","description":"The Mayor of Fairhope and the City Council got hammered by the public, medical professionals and first responders over the city’s decision to have a …","url":"https://rippreport.com/p/jackass-jack/","image":"https://rippreport.com/img/jackass-jack.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d38f26a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vvc9AsiMQr3nLIQKvqprMiBTPSxMQPskRP%2FdXRto%2B0DPnaG4U3dcfHCgA%2FgUM0IjpPYFgOfFHYd3fFnOj4nUKmV5IAmYbrecFyJfWYOh7bth6uzYxyYyqubIZ9m0NtDGB6eC7IS%2B3a0LbYKAvifRZrqYaA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c8645a775b89582bb417009e216eb135
+X-Etags-2: c8645a775b89582bb417009e216eb135
+
+{"title":"Op Ed: Positive change always met with stubborn opposition - Gulf Coast Media","description":"&ldquo;Plus &ccedil;a change, plus c&rsquo;est la m&ecirc;me chose.&rdquo; (The more things change, the more they stay the same.) That quotation from Jean-Baptiste Alphonse Karr in 1848 should always  &hellip;","url":"https://gulfcoastmedia.com/stories/op-ed-positive-change-always-met-with-stubborn-opposition,95207","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20200717-083212-637238363355700000.jpg","charset":"UTF-8"}

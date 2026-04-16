@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64081fc49a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2vbZmJRbSCbC2FzmsTusgIDPqc1BNFhjSANp%2BlEsK2vyzupdsPAySTYO6gpfLHdgyrQxi2TEKgpseTsiQ1g6pCxNuM5lTKJVuZK7G4UNmv%2FZ3%2F%2Bc1Iz9eC3LGRXF4FTbASG0FbszlxEGAWsf2rVvDoZnPg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 52f9ea3f50e35a1097ea7237e705ef7f
+X-Etags-2: 52f9ea3f50e35a1097ea7237e705ef7f
+
+{"title":"Baldwin Container Co, LLC in Robertsdale AL - Company Profile","description":"View company leaders and background information for Baldwin Container Co, LLC. Search our database of over 100 million company and executive profiles.","url":"https://www.corporationwiki.com/Alabama/Robertsdale/baldwin-container-co-llc/26691761.aspx","image":"https://cdn.corporationwiki.com/profiles/graph/26691761.png","charset":"utf-8"}

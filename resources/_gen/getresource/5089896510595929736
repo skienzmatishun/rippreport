@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64065bbd1a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uI0tAvJGBfXimoMew44aH1rEBAOWZQ5X3fgazs%2FZmeiSuycs2Q3svL8Yg%2Fwq6zvh79UpRAOrtvk6j86BTOl89j6pwM7QAK417YeGk3Nrd%2FJBmec02P8W7h6tMrlgp06Eg%2BZ1%2BY%2F828ALwYEk6wdk3xSuog%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=127
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 163540c611682f1b0a3ce98b5014aa67
+X-Etags-2: 163540c611682f1b0a3ce98b5014aa67
+
+{"title":"Fairhope mayor responds to wrongful termination lawsuit","description":"According to a court filing earlier this month, Fairhope Mayor Karin Wilson is denying allegations by former Public Works Director Jennifer Fidler of wrongful termination, civil conspiracy, slander and other","url":"https://www.lagniappemobile.com/news/fairhope-mayor-responds-to-wrongful-termination-lawsuit/article_f9826c1c-0f7e-52d9-a8ae-e52a964f0cc8.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/5/05/5054314d-1a18-5ce9-8dd8-b664c834ab01/630ecadf91035.image.jpg?crop=1300%2C683%2C0%2C89&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

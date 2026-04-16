@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640aafe4da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=C5BCAezdgV7SUulXdG2NcUbMjALibSk4MLZdtDgW31%2FslLuyt9pxbQySW8gMTNwElLpTqk3XcHXaT5OfKjCff18N1%2B4450%2FgjWJX7birIohkTlY1%2BnVWCnqWywx2TxFWgiXHUh%2ByKbhV1Spk8tMKUcUkZg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cbbe03be63075c1ac74f8c63603c06ff
+X-Etags-2: cbbe03be63075c1ac74f8c63603c06ff
+
+{"title":"A historian calls Republican threats to defund Alabama Archives “fascist”","description":"“Restricting marginalized history is textbook fascism,” historian Maigen Sullivan told APR.","url":"https://www.alreporter.com/2023/07/10/a-historian-calls-republican-threats-to-defund-alabama-archives-fascist/","image":"https://www.alreporter.com/wp-content/uploads/2023/07/Screenshot-2023-07-10-at-8.59.38-AM-e1688994035724-1024x575.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407caba7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=b3mOCdnmF5VLeDdJRoV%2Fum1SLu1Y4FDE%2FvLNP7y49uro2E59aOgC4NxtWn1vM3Sxqwp9J3AzDc3ZhKX%2BTyvV3uIut76qEETzWdegdNBfjvy5vSRhx4lSWP31EAZiBdsO%2FiTkZcw3TL7vFJ2zVmNDpzZgGw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b18e60b46b53239f79605ff6a7853b83
+X-Etags-2: b18e60b46b53239f79605ff6a7853b83
+
+{"title":"Bay Minette Justice League | Bay Minette AL","description":"Bay Minette Justice League、Bay Minette, Alabama - 「いいね！」718件 · 105人が話題にしています - In light of the death of Otis \"OJ\" French, Jr. at the hands of Bay Minette Police Department, we concerned citizens of...","url":"https://www.facebook.com/bayminettejusticeleague","image":"https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-1/307170049_113222244864921_5889484361397113846_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6de708&_nc_ohc=aPoad2F4B-4Q7kNvgEOCxYi&_nc_ht=scontent-fra3-1.xx&oh=00_AYBE3qpGIlPO4MYpUg4-75ECv5M62P3hg2qNK8O19FgU1g&oe=66D7CE42","charset":"utf-8"}

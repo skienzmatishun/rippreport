@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408fd893a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DFNhNAqW2RASMBiKCQ6PkuOXcO%2Fs2ZZ8NpDbZsxm5d4A7pVd2WB0VF7H1m4hba4JcBWvk6tCP4FM8s5kNI86le8Gb1b8QmGApQHmFcXCheLQ9wkNrA6FVNchwvlwA%2FjQGu7xubc1TQpwC%2BH%2BIvJ8p2dKYw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9721fa15245777931f3e7fa6e65b4f91
+X-Etags-2: 9721fa15245777931f3e7fa6e65b4f91
+
+{"title":"Proposal Made To Purchase 'Clock Corner'","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2019/12/proposal-made-to-purchase-clock-corner.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwUJavKCP_nByTW90gVOZ19p0CC48fe47DXlSwOka_yXhtU251OLCMF1lFVDRNuneQ52nmwjcMkIIPeUHlSvzq7N_Dtfp9XHqn9YSCcN97h1RTfzLfwxDC9gDWt9L8HPMhx9CleKS82Es/w1200-h630-p-k-no-nu/DSCF1048.JPG","charset":"UTF-8"}

@@ -1,0 +1,15 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=86400
+Cf-Ray: 9ed640758d34b143-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Kc%2B3UmsD%2FQTehS2PZ9PTaMU%2F6vsGuKy6TUHFEUhaBebAhEHnjEJzt4RJNsfRbLxELDltAmiYi73jD4ynX%2B%2BrSFYxGx9xjHVMCexLwrm0QIFEVxcCMQSbduVos2p%2Bq6BAsuiKagGw2G%2FihVCqnmSd0dNmWdwBFZLnPLmc7%2B1rag7atDlhyhiHkBQ%3D"}]}
+Server: cloudflare
+X-Cache: HIT
+X-Etags-1: b1a2a4f00f04566bdd284ba565057443
+X-Etags-2: b1a2a4f00f04566bdd284ba565057443
+
+{"error":"YouTube API error","details":{"error":{"code":404,"message":"The video identified by the <code><a href=\"/youtube/v3/docs/commentThreads/list#videoId\">videoId</a></code> parameter could not be found.","errors":[{"message":"The video identified by the <code><a href=\"/youtube/v3/docs/commentThreads/list#videoId\">videoId</a></code> parameter could not be found.","domain":"youtube.commentThread","reason":"videoNotFound","location":"videoId","locationType":"parameter"}]}}}

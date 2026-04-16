@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64045cc2da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=L9Zt2tVXLZ2%2FCPu9bsI0kpgPrkd1Dde%2By0e%2Fg3SKb%2BRTjWPOmN4SYNvSJ6l6lUpYsRDIL1S4EftI49vCRFNyAiwzGpytl0gjIjO6DH4JwD0mBNown47AoFofcBxG0nYrF5gCsSUAm%2F4D5KvEdW4N7RF52g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5d4004cda9db801a7027a123c047b3e9
+X-Etags-2: 5d4004cda9db801a7027a123c047b3e9
+
+{"title":"Troy Vickers for City Council","url":"https://troyvickers.com/","image":"https://img1.wsimg.com/isteam/ip/4bdc531e-6878-4f7c-a119-27fdf4bb1934/Troy%20Vickers%20_%20Campaign%20Session_180.jpg","charset":"utf-8"}

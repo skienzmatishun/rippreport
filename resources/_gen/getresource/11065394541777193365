@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a81c2aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=p4wS6ARVq82H5D3kmlM9yXmulzbF3PR8BGnwRvEJVROl5ZL1e8zFMxRMa%2B5exsgW3NajyOPXpxym902GkK%2FJhr%2FTkA98jNpicFpKQRv0ft5shHhrSoZoa1cjWgbSdqO9DAv%2BtHDYm3zHPeGyImReoC1JEg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=98
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0b8664c55049063e0d508c95660fcfbf
+X-Etags-2: 0b8664c55049063e0d508c95660fcfbf
+
+{"title":"CATALYST SHIT CREEK - Ripp Report","description":"The Ripp Report has written about CATALYST for years. We have filed numerous complaints with the Attorney General involving political corruption and …","url":"https://rippreport.com/p/catalyst-shit-creek/","image":"https://rippreport.com/img/catalyst-shit-creek.jpg","charset":"utf-8"}

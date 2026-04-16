@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640843bfda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IMXv61W%2FpH8P%2BrYHOQHwh4ZSVIOF5cCdAKUaQnxmJxGX9Zmh4x%2B18NxyUb%2F1K%2BZ4%2FLs1uMYrXsBtL7%2FHU16c8yJ0RZvWt%2BYomdkEF59whwz8J%2BnXW6c0%2B7HNTPeqv5PyhBe1Sq6fAGJH94TN6a1%2B%2F0aUbA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bd7b86d9669ecefab904e96985b37a45
+X-Etags-2: bd7b86d9669ecefab904e96985b37a45
+
+{"title":"Video cameras were off the night Chris Elliott was arrested for DUI","description":"Despite the involvement of three police officers with multiple cameras in the arrest of Baldwin County Commission Chairman Chris Elliott for driving under the influence, no police video of the","url":"https://www.lagniappemobile.com/news/local/video-cameras-were-off-the-night-chris-elliott-was-arrested-for-dui/article_d49a7980-be1b-516b-98b2-4651b71b6aec.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/custom/image/80d93692-f634-11ec-8535-7f6b4382bc0d.png","charset":"utf-8"}

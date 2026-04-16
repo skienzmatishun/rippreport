@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407abd36a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QI3pPYAUTP1hsjgpAw76pgFsgXXVLrV0Z2gxbTppfPmq92fpHe%2Bpl%2BIcSiJBZ%2FhzH66DZMoTf6gnX67gD88qtTgqcjdf%2BFKdjpPQfNqn5ukvVPWfh1wM3I8%2FsWheXT2DoJzv66geiUz7iu2pm5yCZc18lg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b202f9afc74bfe2b5a4abacae24fdbd5
+X-Etags-2: b202f9afc74bfe2b5a4abacae24fdbd5
+
+{"title":"Thaw your frozen heart, Kay Ivey. Expand Medicaid","description":"Throw politics on the fire and come in out of the cold, Governor Ivey.","url":"https://www.al.com/news/2021/02/thaw-your-frozen-heart-kay-ivey-expand-medicaid.html","image":"https://www.al.com/resizer/v2/JG5IDOUA5NAXDEDQ52SEA3FSRY.jpg?auth=dfb93562ca21efb71c211b28fff5a37771121f3c6f3e9a04b66f64e214b9ee71&width=1280&quality=90","charset":"utf-8"}

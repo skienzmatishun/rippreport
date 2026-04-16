@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640491dbda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KUtnlK9FXA06Z%2FAStNJUmrYjX9436HeglSeAshL0Veyd4KdTm2c%2F40c%2B4jzLMX%2FLpkoTgvjPWHgSvu9ugufDn%2BkrbDfun5c61dEbzgV7jGFSpvmh%2FLVvAQSB3TGS0TzRRtshqaPhHhhxFAY1U11wgFT7bg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7b3aad8db57506c6801dd93a3c44a058
+X-Etags-2: 7b3aad8db57506c6801dd93a3c44a058
+
+{"title":"Justice Denied: A Wrongful Conviction Buried by Power and Politics","description":"FOR IMMEDIATE RELEASE\nJustice Denied: A Wrongful Conviction Buried by Power and Politics I am speaking out because the truth in this case was never hidden. It was suppressed. Murray Lawrence Jr has spent more than 20 years in prison for a murder he did not commit. The reason he is still there is because the four men who built the case against him, despite a lack of evidence, now hold higher office today. Court records and the Innocence Project findings show that key exculpatory evidence was suppressed during the trial.","url":"https://rippreport.com/p/justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost/","image":"https://rippreport.com/img/justice-denied-a-wrongful-conviction-buried-by-power-and-politics.png","charset":"utf-8"}

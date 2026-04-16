@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64037080da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:23 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1rnhHZtycxFGrQ%2BjKnfdFzlrCauwNAF7V4NtjDKtCYpBR%2Fta3UrtS0TMt54MPymZ87XvHBOSGcTEMksmly%2BPefUa3bPNlF3tA22Inh7cj9fqLymz5%2BE2IK1HstFbQLDUL%2F8WsNFNBicrPdesz8A06o092A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=95
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d94478d368c41e0a4ad738508cb5b6d1
+X-Etags-2: d94478d368c41e0a4ad738508cb5b6d1
+
+{"title":"FLY CREEK MUD","description":"Fly Creek residents are now seeing more mud coming into the creek due to infrastructure failures. The Publix project started the damage by dumping tons of mud into the creek. Then came the fly creek apartments that no one wanted except Mayor Kant, Jack Burrell and the City Council. Now all the predictions are coming true AGAIN.\nHighway 98 shoulder on the south side over fly creek has caved in, dumping tons of dirt into the creek.","url":"https://rippreport.com/p/fly-creek-mud/","image":"https://rippreport.com//img/fly-creek-mud.jpg","charset":"utf-8"}

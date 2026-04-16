@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64088fb42a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZH%2BUqeD0OuMeDzFAk3QDQC%2BgA2zz4WXYPdpQSkPPPi89xJn8LtoSkJQ31juaslM%2BVok2aS5TJXu4Q%2B%2FbBATxTYHJmfLmBYkIR0V8UlBwP6Gh79q4xCmWGV2O1lPGoH80Rkwb5a7ll7hdr1deCYT80ssJ0A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: fe194938a70397ef764cb268baceebfe
+X-Etags-2: fe194938a70397ef764cb268baceebfe
+
+{"title":"QUALIFICATION - Ripp Report","description":"Mid Term Elections are upon us, qualification closes 5:00 PM Feb. 9th. Then it is game on for many important positions in Baldwin County. Statewide …","url":"https://rippreport.com/p/qualification/","image":"https://rippreport.com/img/qualification.png","charset":"utf-8"}

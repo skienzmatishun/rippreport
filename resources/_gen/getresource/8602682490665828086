@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640717831a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1C5OQmlcCy2sb7264ZTFCRlC2PKTvoTapHA5hTUQ76FElwIBbG3PNhlx1RUGfjrssG73uwyRFhyaoZOI2YQBjAN21vW4XMxxu7%2B8m1nXGu5tZ3tP6bOGyexzHBWnLHlwhv4RC2fJX1nAZeHhq4CRVpwm3Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b2be1e00b399ec0e20794380065ac889
+X-Etags-2: b2be1e00b399ec0e20794380065ac889
+
+{"title":"CATALYST AKA SCOTT BOONE CONSULTING - Ripp Report","description":"Some people new to Baldwin County politics want to know what the hell is CATALYST. CATALYST was the name of the good ole boys until it became so …","url":"https://rippreport.com/p/catalyst-aka-scott-boone-consulting/","image":"https://rippreport.com/img/catalyst-aka-scott-boone-consulting.jpg","charset":"utf-8"}

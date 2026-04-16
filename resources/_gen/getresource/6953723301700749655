@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c6fedea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=41ExQN9MJ7doxX62J0nWs7RsYtLUhgceALJyXCcplYa5VxXmzTJ%2FBy3Yi03uKoU8UEg%2B7SS7G%2BbGJBHvVzvlhxAoFPAXdLBo1P4Ds93EOZlnE1qf5zptXvH0njQWoZVn7z9rQj7Sgblo7l1eMXcXZO4FEg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ea652a1996146c3b5574bfed9169d581
+X-Etags-2: ea652a1996146c3b5574bfed9169d581
+
+{"title":"Alabama homeless veterans: AF vet's suicide attempt","description":"Air Force veteran tells his story of struggles with PTSD, suicide attempt.","url":"https://www.al.com/news/2019/09/alabamas-homeless-veterans-ptsd-suicide-i-didnt-care-about-my-life-or-anyone-elses.html","image":"https://www.al.com/resizer/v2/CC2LOOZOX5HKPADW6YOEWQW6A4.jpg?auth=36fc916977039adba8353c478055dd8c780ff79e8f0ad24e2b1cda0074d6466e&width=1280&quality=90","charset":"utf-8"}

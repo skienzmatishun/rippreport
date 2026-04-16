@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640cb3d2aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OYfqtY3OsJ3z99cI2Q6A9Qo2ingGmvw5UNcC78f6GQkADc60kTsYGzott7Z8qYxxJyqUikabyavWc90tfA9LFWNpAhLTeuZa1nPGlQTvZMU8AtXQk41lGZbnVWBlI4E0OkfPY4YN8%2FCC5M6sl3kKk%2FsIvg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 25d2a142ec44c7882271a2501c36e8e4
+X-Etags-2: 25d2a142ec44c7882271a2501c36e8e4
+
+{"title":"It's reigning cat vs dogs in Fairhope politics","description":"In the charming town of Fairhope, cats and dogs get along better than its elected leaders.","url":"https://www.al.com/opinion/2017/05/its_reigning_cat_vs_dogs_in_fa.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fopinion%2Fphoto%2F5-9fhopecatdawgs2jpg-2a4230b21bf7d17c.jpg?auth=867f5de82a03b7a5defb54f606afe567bc732e8e4544fbbf310acb2dfdb3627b&width=1280&quality=90","charset":"utf-8"}

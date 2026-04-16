@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409aeb06a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cgEroBLULdmfA%2B0%2Fo8kUvG3EAHBxnby5fLk1gWktJNM0Jbj6InI2AH5aD%2BbNK1iboRD4jJAbQyYaqUKp6Bt4A0h6ic8FW3K%2F0Pkbk1sQHI5B6h9ojE3SuRv6nT726tt2taiGQCEIKeVyqxpsA8AKi2l%2BLQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 1dd20d68303271dfabd0d20049b89c92
+X-Etags-2: 1dd20d68303271dfabd0d20049b89c92
+
+{"title":"Mobile Baykeeper Awarded $87,000 Grant to Expand Watershed Program into Fairhope — Mobile Baykeeper","description":"Funding will enable Baykeeper to expand watershed education and monitoring program into Baldwin County at Fairhope High School.&nbsp;","url":"https://web.archive.org/web/20210915025801/https://www.mobilebaykeeper.org/bay-blog/2017/9/25/mobile-baykeeper-awarded-87000-to-expand-watershed-program-into-fairhope","image":"https://web.archive.org/web/20210915025801im_/http://static1.squarespace.com/static/54d3a0eae4b000d5abdf81c0/54d97adfe4b0853cc2b19756/59c9671480bd5e1a6ea6e64d/1602892323048/Group+Photo+2.JPG?format=1500w","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409c9ffca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=senm7ZkcFZKEIgyMubeS8qlVTAe6nimQlLsv2uK4d4PHbBhAI1DVSxOApLd2jB9D32ovX%2FhO3QPFujLbiIeo1Mbub9stFIQYNbwjj9hIJaMf6DHTGyVd6XR4a8fFH82uxp8P8XAYSE1%2FjLlcCB%2FH1pETbg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 366893e68a018a64cfd8b49ddd5f6c17
+X-Etags-2: 366893e68a018a64cfd8b49ddd5f6c17
+
+{"title":"Authority explains how board member won hangar lease bid","description":"When the Fairhope Airport Authority posted an overview and timeline regarding a controversial hangar lease awarded to a board member, the link to supporting documents did not work for a","url":"https://www.lagniappemobile.com/news/local/authority-explains-how-board-member-won-hangar-lease-bid/article_90e13020-222b-5f57-acdf-bc7704f4b7c3.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/custom/image/80d93692-f634-11ec-8535-7f6b4382bc0d.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64053cda6a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Ta8WSsBtPBOKawnbe7B4NtYN0snyIj6P%2BJnHyhecmTeOqhfZoFo4hBMe1FCN2Ze58NYVYaq2yS1nHQDquOpVCzUvwA5iXH8eFtEn6%2FZekUlaZXTYAT4P6xBkWM8%2F51Xh0DAollZsFBNt7K4wizVNKqeIXw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: dd749bebb0f5b0561f9c6c9bbe0d9239
+X-Etags-2: dd749bebb0f5b0561f9c6c9bbe0d9239
+
+{"title":"Fairhope Standard:  Gravity Fed VS Low Pressure Sewer System","description":"At the November 27th Council meeting, a citizen spoke to gravity fed sewer system vs low pressure sewer system which is what is being installed in new developments despite the City having a standar…","url":"https://web.archive.org/web/20200823044740/http://www.mayorkarinwilson.com/fairhope-standard-gravity-fed-vs-low-pressure-sewer-system/","image":"https://web.archive.org/web/20200823044740im_/https://s0.wp.com/i/blank.jpg","charset":"utf-8"}

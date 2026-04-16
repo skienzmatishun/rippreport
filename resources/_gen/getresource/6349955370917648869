@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409b1b89a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XratvEsuCL6YltQvD%2FQpLQ%2B6OwFk48PlKed%2BN%2FNCyti7Ltj9P9KCZXNWyQpWFpXgHoXpMqSDFuV8TGJ%2BbbL0jTDeHrdvLLZpGR97Iqlv6swEitUeX7w5x1bas0qXWWjj1%2BfBjtA9bmnJY4FD0RQQGQaJZw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 59f05c90c56a376f10b4753515011fa7
+X-Etags-2: 59f05c90c56a376f10b4753515011fa7
+
+{"status":422,"error":"[Failed to preview] TypeError: Fetch API cannot load: https//rippreport.com/p/loser/","message":"\nHi! This is a link-preview service on Cloudflare Workers.\n\nIf you are seeing this message, at least you connected to our endpoint successfully.\n\nCorrect usage is:\n\n    GET *?q=https://cloudflare.com\n\nThis should return JSON payload like this:\n\n    {\n      \"title\": \"Cloudflare - The Web Performance & Security Company\",\n      \"description\": \"Here at Cloudflare, we make the Internet work the way it should. Offering CDN, DNS, DDoS protection and security, find out how we can help your site.\",\n      \"url\": \"https://www.cloudflare.com/\",\n      \"image\": \"https://www.cloudflare.com/static/b30a57477bde900ba55c0b5f98c4e524/Cloudflare_default_OG_.png\"\n    }\n\nIn short, supply whatever public URL as a query parameter \"q\", then send GET request. That's all!\nIf the URL contains non-ASCII characters, url-encode them.\n\nSource code: https://github.com/ymtszw/link-preview\n\nThis service is EXTREMELY easy to self-host; i.e. deploy on your own Cloudflare account.\nIf you are going to throw many link-preview requests here, do consider it!\n"}

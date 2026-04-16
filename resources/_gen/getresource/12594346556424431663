@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c83b23a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7jbI9jO1m%2BNr3EqiXPk3nXR4ThogU3rGol8%2FJbIBko%2BbIcyXOPexent7Omt7wV4JsZXYfHliL%2FoABu0ew2w2Dm7XIA4y0Aqp7lyflZDytbdc9T7mtbn5GEz5LCea7NEycpMhhvbcgaYoAfKpu9ajZ%2BPoZw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=131
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a3ce0f765a8ce45cca33e749c4ede0c8
+X-Etags-2: a3ce0f765a8ce45cca33e749c4ede0c8
+
+{"title":"Fairhope dispute brews over conservation issues","description":"The 108-acre Dyas Triangle property in the northern portion of the city is the subject of a possible conservation easement, which has been disputed for several weeks in Fairhope. The council opted to hold off on the plan Monday.","url":"https://www.al.com/news/mobile/2019/06/in-fast-growing-fairhope-dispute-brews-over-conservation-issues.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2F4KOVA5TXHZDZTLPCMYPKDTQYFI.JPG?auth=3acfaf7c31ddd50d9505c7e2a0b0f1cbe2bf8d5102099a7c1b6b0789a05706b2&width=1280&quality=90","charset":"utf-8"}

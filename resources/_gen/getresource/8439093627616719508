@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64054b8b0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2FBFAilhGyndg4vEe9aQ8wA3SXNxo7rCbTi%2BMYQ7rd4%2B4SSEw3d8FikeR7Jb1qK%2BRW%2Bd%2BNADrhUd7imsoh%2BF4%2BoNcj8xafd8eZz5Ft1gq2EEZ1FHEOLwWqpgXHEFYrbf5OFQazPiPTVN5MTpurcNSXtFooA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e9fdb2071a16f90396ebe6d6f330cba4
+X-Etags-2: e9fdb2071a16f90396ebe6d6f330cba4
+
+{"title":"Home | Alabama Secretary of State","url":"https://sos.alabama.gov","charset":"utf-8"}

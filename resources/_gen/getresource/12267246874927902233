@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407c9b5aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YsM3jXb2TmSwWpeW%2FFwL7sKPL0nqLePGx9OK%2BYQjthJfrnK%2B0euTP6u89GcwkxjAlqnUAEq4NhQB5A%2BXyGsaoR5f46ZDLSLekYX28crsHZbnN%2FWe1Zuqphp7geZej4WX4YvJtoOJ8HhX%2B3wDzp0WvsnSjw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cc0df6b9dacf075d152ae89b371066b7
+X-Etags-2: cc0df6b9dacf075d152ae89b371066b7
+
+{"title":"“Hardest Working Elected Official- Eastern Shore.” - Ripp Report","description":"Complete List — 2017 Nappie Award Winners Thanks a Million (and a half)! 1,593,808 total votes were cast in the 2017 Nappie Awards! Oops, you guys did …","url":"https://rippreport.com/p/hardest-working-elected-official-eastern-shore/","image":"https://rippreport.com/img/hardest-working-elected-official-eastern-shore.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640cf7a1ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QbkWA6bJJ8Nc5B%2FDtvucoQaURcLZOvxHykkgIkRs%2FNRWkpt68O3raOdyNuv%2FXdE60Oh%2BSvSLIkmBAyBCNq4odMCj5XSLZMlHANJ9yDsZIi0b%2FomXyKK%2Fxe0GEffCbbnj1ZgUSgI9QUPUH8YOBZZWvxcstQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=95
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2a9d3fbb82f16adee002a9b4f0967f63
+X-Etags-2: 2a9d3fbb82f16adee002a9b4f0967f63
+
+{"title":"Daphne residents elect Robin LeJeune as new mayor in runoff","description":"Councilman Robin LeJeune handily defeated Steve Carey in the Daphne mayoral runoff. He and many others were expecting this to be a much closer race. Instead, LeJeune walked away with 63% of the vote. He celebrated that with supporters Tuesday night in Old Towne Daphne. He credits the victory in part to voters being turned off by negative attacks this last week. His focus now, he says, is empowering employees to continue moving the city forward.","url":"https://mynbc15.com/news/local/daphne-residents-voting-for-new-mayor-in-runoff","image":"https://mynbc15.com/resources/media/4517f3c9-42af-41d1-bf2e-9998d8d53fe0-large16x9_5PVDAPHNEMAYOR.transfer_frame_163.png?1602020637633","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640797953a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=W8%2FGkJbRaljwI7odknpCSms3NvMhYXly%2FL3c7qwg6K7OamXIuFkQv%2BbKsrB8UKjj7akVyiFCx88s3yU1OZDCHImPNE3c8WK%2FknOGBD9J%2Fd0xw9vJIYKXfSON0BsdKMXp7H82hyoG1Fl9yA8KcXZ8RSnIYA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=101
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 474759f6e35877555f55ecbd6bbcf343
+X-Etags-2: 474759f6e35877555f55ecbd6bbcf343
+
+{"title":"Ivey calls special session to consider Alabama gas tax increase","description":"The special session begins on Wednesday.","url":"https://www.al.com/news/2019/03/ivey-calls-special-session-to-consider-alabama-gas-tax-increase.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2F4TDFADUUDFC7NJIZ66RMZBAA4Y.JPG?auth=f8aafb430a762e678edc0d0500d9d0b4df87d6974ccc5784eef4f91a6f5eae4a&width=1280&quality=90","charset":"utf-8"}

@@ -1,0 +1,15 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=86400
+Cf-Ray: 9ed64072fbc7b143-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YeiN50cw33uYUHujCCOLsCdOv3MxWMqWfK00Fn4vtF85PQ0y2FnKFB9M59JPGRhZR9TUnA%2BffHF2iIK4atOmhSM7njYlhY7c1QcKU9987vvj%2Fb%2B53i%2F%2FIOB%2BSAJTxGnAMjJiQVDjyktKFLtRPTad6eMP4r7lXMikEdjjdaA%2Bo2oXVCppLFK42fk%3D"}]}
+Server: cloudflare
+X-Cache: HIT
+X-Etags-1: 9f70462f462a11e7781df1825bca93f3
+X-Etags-2: 9f70462f462a11e7781df1825bca93f3
+
+{"kind":"youtube#commentThreadListResponse","etag":"nk84tDoVuEZ05t9DCPFWpDUziZc","pageInfo":{"totalResults":1,"resultsPerPage":20},"items":[{"kind":"youtube#commentThread","etag":"X4dYfxxonRCrX6sBI8YG0PzPY1g","id":"Ugzam4J_9sevlIr_a9V4AaABAg","snippet":{"channelId":"UCSvF6PajyuctL49EWzMN9wg","videoId":"NQPx65Idp_8","topLevelComment":{"kind":"youtube#comment","etag":"kPx2zcI0I7eSUlC3UC7piCj_53k","id":"Ugzam4J_9sevlIr_a9V4AaABAg","snippet":{"channelId":"UCSvF6PajyuctL49EWzMN9wg","videoId":"NQPx65Idp_8","textDisplay":"Equal Rights Amendment was put to the States for ratification in 1972.","textOriginal":"Equal Rights Amendment was put to the States for ratification in 1972.","authorDisplayName":"@harrystill6344","authorProfileImageUrl":"https://yt3.ggpht.com/ytc/AIdro_n6Nt-zIl-7LbLEDFjUU4BqSZYlYDpGNXvXE65aehe-U-1a=s48-c-k-c0x00ffffff-no-rj","authorChannelUrl":"http://www.youtube.com/@harrystill6344","authorChannelId":{"value":"UCgq4lwPtHPyXmVxn_AfSe4g"},"canRate":true,"viewerRating":"none","likeCount":0,"publishedAt":"2020-01-04T08:00:46Z","updatedAt":"2020-01-04T08:00:59Z"}},"canReply":true,"totalReplyCount":0,"isPublic":true}}]}

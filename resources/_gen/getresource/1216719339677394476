@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408efe0ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=f9jQp0wOVrpQARHdJQSOWqT3H%2F%2FxkO6s5hSklQdudz8nnqDkufmBsWyQvKIz%2BGvLaOi2Y%2FDh%2FmraXvc7sJfoBlZtskDeZpfGYosiPTvPZT%2F2Tru3iJyOTEvYLkbS%2ByCCM7EonGeKkxzZG7n%2FlWgaLmtLjg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 402d1667585aa94d89009fc59bfcb04b
+X-Etags-2: 402d1667585aa94d89009fc59bfcb04b
+
+{"title":"BACKSTORY PODCAST 6 - Ripp Report","description":"https://www.youtube.com/embed?listType=playlist&amp;list=UUSvF6PajyuctL49EWzMN9wg&amp;layout=gallery","url":"https://rippreport.com/p/backstory-podcast-6/","image":"https://rippreport.com/%!s(<nil>)","charset":"utf-8"}

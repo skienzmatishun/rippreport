@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64072cc2da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=eaOD9sn3%2FWFIrWEwt6Pfof7Bry44nqjVUveJJR%2B0Fs3GtKAhmrZlKrC9UbrAUsXtlZL%2B7OYG13AV%2F7EXO4We1LkA4j2HnhQDxdP6bU%2FPrPlHe3UwTyt%2BRBzd82bxE9FqsUl3iPrfItJsDkSnLBg14vWFsQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ca7ae4265d4c7353441a9d49b9b42232
+X-Etags-2: ca7ae4265d4c7353441a9d49b9b42232
+
+{"title":"Graphic video shows officer-involved shooting of Otis French, Jr. in…","description":"***WARNING: Graphic video contains images of blood, violence and death*** | Alabama News","url":"https://1819news.com/news/item/graphic-video-shows-officer-involved-shooting-of-otis-french-jr-in-bay-minette","image":"https://al-news.transforms.svdcdn.com/production/images/Screenshot-2025-03-07-at-7.49.41-PM.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1741398680&s=dc27f94711c4a6e9bb38573ca615dc71","charset":"utf-8"}

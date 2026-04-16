@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407def71a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MSj34VcFlwtJiRw91B%2F5FXLyS%2BHwoHXImxEIjGUdZ5vOKvgXHdEQ1Zgsg6QKv8w6N7e5SYu4581c26%2FlawdL6mQxJJd%2FdfBXZBAj%2FlUufUXWkFPUzIto8QM5PO1zp3ljDAexlySwKoq90nNqSr93pz%2BLAA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bb960fe8b6e8a63e8f2e0aaec2bd59d8
+X-Etags-2: bb960fe8b6e8a63e8f2e0aaec2bd59d8
+
+{"title":"Both sides seek rehearing in Victor qualified immunity case","description":"An attorney for a Baldwin County deputy argues while it “could be relatively easy” for a jury to find his client liable for shooting and killing an unarmed motorist in","url":"https://www.lagniappemobile.com/news/both-sides-seek-rehearing-in-victor-qualified-immunity-case/article_4b8498d8-13d3-11ef-b233-4bb60e2f9120.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/f/87/f8755c29-3082-52e7-97ad-cb09a9589a56/631a34ec2f431.image.jpg?crop=1288%2C676%2C22%2C0&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

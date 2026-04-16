@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640693e4da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iCKyD80fUWR2gn5NNotBPyKF3Rv2MpGL%2FbQwunqnbw1DlzmAqpASGR3PDg4PsXDVw0L0vC416AWr1RnZhL8892sYgS%2FD9v2eCoJqpJmvNHmc%2B35A56sBWueBtnP63sXnKV35MbHoYc2fdldBwX7f5VU4eQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e17ef75429f17e50a430cc34ccb48d35
+X-Etags-2: e17ef75429f17e50a430cc34ccb48d35
+
+{"title":"SNAKES IN THE SCHOOLS","description":"Political campaigns are always dirty, however when the politician uses veterans or schools as a political tool, he reaches the bottom of the political barrel. Chris Elliott has pulled Baldwin County Superintendent Eddie Tyler into the Barrel. It is interesting that Jonathan Gray works for both. How can a school board consultant be drawing a pay check from the school system while he is lining his pockets with Elliott Campaign money?","url":"https://rippreport.com/p/snakes-in-the-schools/","image":"https://rippreport.com/img/snakes-in-the-schools.jpg","charset":"utf-8"}

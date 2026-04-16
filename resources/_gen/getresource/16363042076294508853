@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640460cc8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2fXxxdsLMDVRHaiVke5iYFlmJjaJWpEbR7CREjeb98UUKkxIMlU2fdWzNiCKLcqYN29zdmyL5UeD1Qrl3%2FilZJF%2B1cDQMpwAjqLabZNcHmPuKlJW4TqOexQ3Kds3mLiUfXNwFOyLLCrsPEVD1zoINBFE9A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e8af9ad79b0c2d036e247ae5bdac9200
+X-Etags-2: e8af9ad79b0c2d036e247ae5bdac9200
+
+{"title":"END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY","description":"The only way to effectively dismantle the good ole boy system is vote them out. Years ago a gentleman by the name of Lynn Stacy was the go to guy to get elected, to anything in Baldwin County. Stacy then added two cohorts and formed Stacy, Elliot and Haygood.","url":"https://rippreport.com/p/end-the-good-ole-boy-culture-in-baldwin-county/","image":"https://rippreport.com/img/end-the-good-ole-boy-culture-in-baldwin-county.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c4bee9a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8ldwcYdhLcDFFGmg1MQPk1VY11cyQRFR0V5TWd9KIaGzBheI9gK4AP2VG16R4%2Ba69XJH%2F8T8g53xVeyH%2BtOB%2FsISsLif73gVZBDpW8916AdFQImsgrJUzI%2F0ASICTSOnLl5V0HCr6ah%2BD0uaSi%2BObt7XVA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ff4a093e5ba0fb44ea70a19d80d2ac25
+X-Etags-2: ff4a093e5ba0fb44ea70a19d80d2ac25
+
+{"title":"Dan (Byron Daniel) Merrill - Gulf Coast Media","description":"Dan (Byron Daniel) Merrill, 73, of Daphne, died March 5, 2014. He was born on Sept. 15, 1940. Growing up in Dozier, Ala., a town he loved all his life, he was a 1958 graduate of Dozier High School. Dan served four years in the U.S. Marine  &hellip;","url":"https://gulfcoastmedia.com/stories/second-claim-filed-with-city-of-fairhope,5016","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1468538054_77bb.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ff5ef38a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:13 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=s8%2FJhsB3VHYeUUJxJntyaUL2sWOeJoRxIgYDt48qoN4Vdv%2Bdyk6drQI9D1KSTg%2FHDiVoeryd1UbL9QSpB3xUISk%2FtHgSt62mZm%2BpiTbufyQzRb4YpGRTVcS4pzsiGef583z%2Fiho77B3ptCaGcAy4Mwkc9g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=98
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c961bc7487a9096c4487caccd72eb18b
+X-Etags-2: c961bc7487a9096c4487caccd72eb18b
+
+{"title":"Hanky Panky by the Po Po - Ripp Report","description":"It seems the Baldwin County Sheriff&rsquo;s Department has internal hanky panky problems. One of the top officers in the Sheriff&rsquo;s Department …","url":"https://rippreport.com/p/hanky-panky-by-the-po-po/","image":"https://rippreport.com/img/hanky-panky-by-the-po-po.jpg","charset":"utf-8"}

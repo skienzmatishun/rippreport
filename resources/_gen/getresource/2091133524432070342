@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640afbe53a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PZR%2BJm%2BMctEgTbf0b3Y80ayNdiJFpC3prYg5e73eghVG7UQI7l%2F%2Fs5xVotdwX68rRyx130bgW43nSMmi8sNj09fyiyhuUWcTgXa0vdfxXEST7jtdJcslw1hN46eGr8p9hlgDJgQlUtkWq9FLcexDSW7PGA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ba1ad80c700a6bc483fd5359b39c5ac4
+X-Etags-2: ba1ad80c700a6bc483fd5359b39c5ac4
+
+{"title":"FAUXHOPE TUNNEL - Ripp Report","description":"Fauxhope elected a council and mayor that represent the godfathers of the Fairhope good ole boys. This council and mayor are back to Mayor Can’t days. …","url":"https://rippreport.com/p/fauxhope-tunnel/","image":"https://rippreport.com/img/fauxhope-tunnel.jpg","charset":"utf-8"}

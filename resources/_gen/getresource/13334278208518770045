@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640978868a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2F96phjdpr6dNksOedFtbK6Yl2uzktCCS8CzvUG94fX2doVYMYJlubRLhG5qPiq94UTGgsxKUnLJJM7F9eV%2FbSLWnpX5mdSGhzmRZ3V4vbTE03f9ssXUxG8D6YiDH9VpfMe8yV6hxV%2BUgMOV5zHzkZEyBCg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a89506d0d84e3fd0def09916a63a9281
+X-Etags-2: a89506d0d84e3fd0def09916a63a9281
+
+{"title":"STRIKING OIL - Ripp Report","description":"Tom Albritton and Regions Bank struck oil in Conecuh County. The population of the county is around 12,000. I guess Tom and the Bank saw no need to …","url":"https://rippreport.com/p/striking-oil/","image":"https://rippreport.com/img/striking-oil.png","charset":"utf-8"}

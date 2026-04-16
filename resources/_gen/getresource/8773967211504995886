@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a27a5ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DvCuLRj%2BCMK5FTQQ36TdpqraSPmgPFfC5QjvcLJj2mrCMrqtO7N%2BcQrKDTNnRQXwkPAXDTX1eTOCF%2FGPThkNFGfqBgDXOwZdjCBCd05HHsa0kf5vWtIttwVRhglaeub%2BhVCIsQ3PzzSZ805TffHoWk2p%2Fw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6512e19d9669d573813df372197a4e3c
+X-Etags-2: 6512e19d9669d573813df372197a4e3c
+
+{"title":"Investigating the Investigators - Ripp Report","description":"“The appropriation from city coffers to the airport is more than we spend on all 5 of our public schools and is 21% of our debt and accommodates less …","url":"https://rippreport.com/p/investigating-the-investigators/","image":"https://rippreport.com/img/investigating-the-investigators.jpg","charset":"utf-8"}

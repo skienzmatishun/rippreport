@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b5c93da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6QujDLpCh89dNjlWmde6hb0g6y1hClWZZyXrC7Lspq7sonJ%2FrHw5Qj3nEWoZZ18rn2HvetSSbZEd85WO689%2B7KH%2BvUy%2BaX38VHsvHOip41uwIMwIqL9zSV7wohRE5%2BfGetzUWfip%2BfKHD4r9mfSPfDaXZA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e844ea39863d49b1f9f7177e7c229f30
+X-Etags-2: e844ea39863d49b1f9f7177e7c229f30
+
+{"title":"Unrest continues in Gulf Shores over apartment complex","description":"The planning commission met in executive session on Friday as residents near a proposed 206-unit apartment complex continued to criticize the project, the city and its developer. ","url":"https://www.al.com/news/2018/08/out_of_order_unrest_continues.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_impact%2Fphoto%2Fgs-save-neighborhoodjpeg-50c2c3ef46eb1c82.jpeg?auth=fe3a0a94e1b96e4401536e9a4a46578333cac411df10447ab784919824c4d903&width=1280&quality=90","charset":"utf-8"}

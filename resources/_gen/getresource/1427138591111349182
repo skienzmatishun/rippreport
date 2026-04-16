@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640ba2e8fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OJkBGysSfPFLMRqugjYMDKafGM8t6XKKpzAoqBp0UMlsYGT7nJFxNxzAbxgxyfpTJe2Ln%2FCK8As3Z9McQ%2F944jeguPVvrHShuWGJ0EFQD46eNPKZgqWJHL8lhY4ExxglPI9MIfWVyamL8QpEfC83KEa8kg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=138
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cb915eab41671699cf2b9d9ab491a4ef
+X-Etags-2: cb915eab41671699cf2b9d9ab491a4ef
+
+{"title":"Video of Spanish Fort Mayor allegedly slapping magistrate surfaces on social media","description":"Wednesday night, a video surfaced on social media showing the moments an ex-Spanish Fort city worker claims she was slapped by the mayor at city hall.  The surveillance video shows Mayor Mike McMillan walk up to the computer at the front desk. He appears to point at it and then turns to City Magistrate Lyndsey Cooper. The video only shows the back of her head. McMillan then raises his hand, moves it toward Cooper's face, and Cooper's head turns.","url":"https://mynbc15.com/news/local/video-of-spanish-fort-mayor-allegedly-slapping-magistrate-surfaces-on-social-media","image":"https://mynbc15.com/resources/media/fe241f68-cba5-4fa1-aba6-6de1cb5e5cfc-large16x9_surveillance.jpg?1596721808145","charset":"utf-8"}

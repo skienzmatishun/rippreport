@@ -1,0 +1,15 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=86400
+Cf-Ray: 9ed6402b8cbcb143-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jbI8FjJonk9cvn7sy3tS7BIQ%2B8KJ0hiS0tlCmCcsuoa9j%2Bp1E5ilSRWi3MwNk2Qm4pg%2FZMk9g20jbpLiOKSIHIwpigSp%2BTowGY2AAEci6kmPRvyZ2XX9NcvB2k%2BpdoTr8%2BgH0ZYFDOpsTDG3gFRwLsTtw23%2F8ahHRw37Ndk2RFJiwYetbG5zcjg%3D"}]}
+Server: cloudflare
+X-Cache: HIT
+X-Etags-1: 1d60b5e613339bc6725954779fa77c8a
+X-Etags-2: 1d60b5e613339bc6725954779fa77c8a
+
+{"kind":"youtube#commentThreadListResponse","etag":"Zz2-4R8IP46X7KCXgAyjAAacyWw","pageInfo":{"totalResults":2,"resultsPerPage":20},"items":[{"kind":"youtube#commentThread","etag":"J5dxlr4V7-fvhHX3H92xLUwr9YI","id":"Ugx-CdODi70lOC1Ef254AaABAg","snippet":{"channelId":"UCjn78nMjSRO3M2X6jCsER0g","videoId":"UMsNeaUQb1A","topLevelComment":{"kind":"youtube#comment","etag":"kaSHfMXbm_dCb1TRAgTPrxNTnQs","id":"Ugx-CdODi70lOC1Ef254AaABAg","snippet":{"channelId":"UCjn78nMjSRO3M2X6jCsER0g","videoId":"UMsNeaUQb1A","textDisplay":"You even managed to slip Gerturde in-- bravo!","textOriginal":"You even managed to slip Gerturde in-- bravo!","authorDisplayName":"@HelloRetro_LA","authorProfileImageUrl":"https://yt3.ggpht.com/ytc/AIdro_lYt91gUXMy5Ed7ab8neruvz0PihSUy1HXJluRYcjMjcVal=s48-c-k-c0x00ffffff-no-rj","authorChannelUrl":"http://www.youtube.com/@HelloRetro_LA","authorChannelId":{"value":"UCoxupf_HCt2nFcNbpouze1Q"},"canRate":true,"viewerRating":"none","likeCount":0,"publishedAt":"2026-04-12T23:09:13Z","updatedAt":"2026-04-12T23:09:13Z"}},"canReply":true,"totalReplyCount":0,"isPublic":true}},{"kind":"youtube#commentThread","etag":"qw72goAJ3DcBa0tEwXZ0tDEIXlE","id":"UgxVtDg5f-S6M4WqJA94AaABAg","snippet":{"channelId":"UCjn78nMjSRO3M2X6jCsER0g","videoId":"UMsNeaUQb1A","topLevelComment":{"kind":"youtube#comment","etag":"PQ29ZRC4_ZosOZuRU0WdN-5GKko","id":"UgxVtDg5f-S6M4WqJA94AaABAg","snippet":{"channelId":"UCjn78nMjSRO3M2X6jCsER0g","videoId":"UMsNeaUQb1A","textDisplay":"<a href=\"https://www.youtube.com/watch?v=pGkvAy_wnZ4\">https://youtu.be/pGkvAy_wnZ4?si=ZN3DnXYF7PaiYb4w</a>","textOriginal":"https://youtu.be/pGkvAy_wnZ4?si=ZN3DnXYF7PaiYb4w","authorDisplayName":"@harrystill6344","authorProfileImageUrl":"https://yt3.ggpht.com/ytc/AIdro_n6Nt-zIl-7LbLEDFjUU4BqSZYlYDpGNXvXE65aehe-U-1a=s48-c-k-c0x00ffffff-no-rj","authorChannelUrl":"http://www.youtube.com/@harrystill6344","authorChannelId":{"value":"UCgq4lwPtHPyXmVxn_AfSe4g"},"canRate":true,"viewerRating":"none","likeCount":0,"publishedAt":"2026-04-11T13:28:49Z","updatedAt":"2026-04-11T13:28:49Z"}},"canReply":true,"totalReplyCount":0,"isPublic":true}}]}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640758ce4a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qfPItZ%2BirD%2BcqAoTz8smRYaJD2Y9rBSijf28YoO5F51COgBynsXPPYT6rbthbs2g7AStakGEWtvDNZQODc8ewAexR1fllhbzImMYXkWqg%2FfqRMtN7%2FrPNSc223GwX%2FTR09xvEk2L1QeEpeteCNsu3EHz7A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 888312158d1ad657e018dd7f39b9b4a2
+X-Etags-2: 888312158d1ad657e018dd7f39b9b4a2
+
+{"title":"CATALYST DOES BALDWIN COUNTY - Ripp Report","description":"One of the architects of Catalyst, Chris Elliott, is now going down and dirty on his run off for the State Senate Seat 32. Elliott gave up his County …","url":"https://rippreport.com/p/catalyst-does-baldwin-county/","image":"https://rippreport.com/img/catalyst-does-baldwin-county.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408d38daa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0nz2malQSa%2FReJmcZtcVQCVdQmbrhtY%2FBzBjLJXEfIE9lY0v9Sxb0EU5d227YUwfcNO%2FcXOZzDFeRXj2uQoZaCjspTVzg8S5FOOrxW0U8lYnXaTWV%2BcX1jLzSowMD7z4%2B%2FmkeDQcg0H5cjMRW4budJyzRw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f5c6717646ed416ef9cccd108b561357
+X-Etags-2: f5c6717646ed416ef9cccd108b561357
+
+{"title":"QUEEN BEE - Ripp Report","description":"Fairhope you made the biggest mistake voters could make, you let the bees eat the honey. Only 15% of the registered voters decided who would become …","url":"https://rippreport.com/p/queen-bee/","image":"https://rippreport.com/img/queen-bee.jpg","charset":"utf-8"}

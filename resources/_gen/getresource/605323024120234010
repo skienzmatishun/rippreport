@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64054b8a8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6LYmzsTz%2Ft9gBGaTMDcrXDnWacZ%2B7oz1dynLXMAwaCBq61pkhj7snbV1sJBo%2FoutuUskIRrVV8IgHS8qSSIfkCcuAocMRpbvgyjQTUYptKEAmAwf2C%2FMtRY9L5HPHwn4VPZmlCdk95wocJrj1eAggq%2Bo0g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a2a98179981f0de10cc79eb4e66d01cd
+X-Etags-2: a2a98179981f0de10cc79eb4e66d01cd
+
+{"title":"Alabama leads the nation in political corruption, new study shows - Yellowhammer News","description":"  Alabama tops the country in public corruption, according to a new study examining perceptions of wrongdoing across the country. The report by Illinois State University’s Institute for Corruption Studies ranks Alabama as the most corrupt state in the union for 2017 when it comes to what researchers call “legal corruption” — conduct by public […]","url":"https://yellowhammernews.com/alabama-leads-nation-political-corruption-new-study-shows/","image":"https://yellowhammernews.com/wp-content/uploads/2018/01/Mike-Hubbard-Robert-Bentley-Don-Siegelman-Larry-Langford.jpg","charset":"utf-8"}

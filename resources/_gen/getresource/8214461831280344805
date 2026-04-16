@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b0c94ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UtnSYL9HzXezKA8jz6YWW%2Bo8Ghw%2F%2BlpdyVik3HzyRL8mBQ%2Bk%2BWX14NOx9ED2sEQpOxF8gKG3b%2F4SlzZn2WmUMPG4%2BEt9bFPTih%2FwEIAz7cPFSyVaX1vpzbMcYM%2Bd1DF66xC%2BjiS66DgdIo445natzIJhxw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=96
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bacab007ec22aa3076559e664ef80111
+X-Etags-2: bacab007ec22aa3076559e664ef80111
+
+{"title":"PEOPLE POWER - Ripp Report","description":"Congratulations Fairhope citizens your 2276 signatures on a petition convinced the Fairhope Single Tax to back off the proposed Tuberville …","url":"https://rippreport.com/p/people-power-2/","image":"https://rippreport.com/img/people-power.png","charset":"utf-8"}

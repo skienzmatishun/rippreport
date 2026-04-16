@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d7cc04a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:49 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zkI3MXI2dIrFlIMxo%2Faddz%2BUCt068fS4T3BGdS5XTRmId2HU%2BjG%2B1hcVryS9T659ZYdITgYkv3P2aJ5P9funucCc8eHrqXa9KBhKZ7RKw35tmjkKTH1PBr5elFdjN19FrGGX0AgvdlfE8Yuzgk4u%2B4fyxQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 96fdb44059bb254cb907ca4b7e226b21
+X-Etags-2: 96fdb44059bb254cb907ca4b7e226b21
+
+{"title":"Even When He Was a Coach, Tommy Tuberville Was the Worst Kind of Politician","description":"What do Tuberville’s college football coaching career and Alabama Senate campaign have in common?","url":"https://www.theringer.com/2020/11/3/21547185/tommy-tuberville-alabama-senate-election-campaign","image":"https://cdn.vox-cdn.com/thumbor/70ss-vCWno8Ssei3PH_TwB-vytY=/0x135:3000x1706/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22009197/TommyTuberville_AP_Ringer.jpg","charset":"utf-8"}

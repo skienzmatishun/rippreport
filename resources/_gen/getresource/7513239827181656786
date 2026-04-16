@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c07a34a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UnaGCj448bpeS8YPcHf0YQMPL0LqotXT5ft4X31zMslJjZ1%2FWgrobxi%2F2VeFDNRLeg5ZUYTZKoPYKO3qLUEcLehUPvE1mCZevYTmXTigHUGfutY2MZv6N3JhKzUg9GYcn5AIToXRZh2Uxlk4CSkJZrTztw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 78c19b76638af31e7fa764985dc6a565
+X-Etags-2: 78c19b76638af31e7fa764985dc6a565
+
+{"title":"Fairhope budget battle continues - Gulf Coast Media","description":"The city of Fairhope is already several months in to Fiscal Year 2018, but has yet to pass a budget - a point Mayor Karin Wilson continually mentioned during a special called Fairhope City Council  &hellip;","url":"https://gulfcoastmedia.com/stories/fairhope-budget-battle-continues,56283","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1470163322_577e.jpg","charset":"UTF-8"}

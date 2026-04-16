@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640850ea7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0iVAWe7%2BacSfyjH7ebrn1x%2BlCI34G7U0rb3ArlvqE65%2FZJ5maxeEhDC7VwjjPgSLck8pT%2BIz9Oezmr5X0IFQ6CdZsf5AS95IrorVvmZnAbyUW0FiyAvTCUWz04wLMWHawHX4WRHgdfGiBHz4YnkQjLBr%2Fg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0bfccc7578b681d48332cc688ff941ab
+X-Etags-2: 0bfccc7578b681d48332cc688ff941ab
+
+{"title":"STINKY BUSINESS - Ripp Report","description":"Baldwin County Sewer is the only, private, unregulated sewer utility in Alabama. The County commission has refused to tackle the issue of BCSS being …","url":"https://rippreport.com/p/stinky-business/","image":"https://rippreport.com/img/stinky-business.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c3dc75a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FUh%2FNyNVLm5yfjUaSlEknb5Csj7nQHiVCi6c9YNMC1IkGzn75V%2FiMRcxpsDqjXFp%2FHMsi3TzxMEmGp9%2FeDReMeg%2FYJiSJkCHbOMa02iKJC7h9shlapa4VI3dcIMzdlW%2BPCKN1JiLEeQo06BpFFu4oBTVbQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=94
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: fbc5743341a9d51927becdc443335583
+X-Etags-2: fbc5743341a9d51927becdc443335583
+
+{"title":"DIRTY HANDS - Ripp Report","description":"When it comes to dirty hands, Baldwin County cannot be beat. Our new State Senator the TAX MAN, Elliott, hands are as dirty as they can get. The …","url":"https://rippreport.com/p/dirty-hands/","image":"https://rippreport.com/img/dirty-hands.jpg","charset":"utf-8"}

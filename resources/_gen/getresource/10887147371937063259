@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64044683fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=p9V5NErt3Z%2B2lRmh7G9KFO0mwzSwr7IKxzDodVIltKGPGtq%2FdmDMYZSwuluhcez7EpAfZk8jzOA3EYF1aBOSvoozP0ngskkHdpqSQmryhSC9zWotxodS3zCwEsXI136cG8qmMbSMfzG3fT1Fp7sgItKtSQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: aea6ce3beaf3aaed2ddc507c05dc5c3b
+X-Etags-2: aea6ce3beaf3aaed2ddc507c05dc5c3b
+
+{"title":"CONFLICT OF INTEREST - Ripp Report","description":"Dear Fairhope City Council:\nRecently several articles have been written in reference to Councilman Kevin Boone and the business connections he has …","url":"https://rippreport.com/p/conflict-of-interest/","image":"https://rippreport.com/img/conflict-of-interest.jpg","charset":"utf-8"}

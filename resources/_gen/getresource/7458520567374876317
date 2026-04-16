@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640890b66a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yQpTUtapPzitKcw8ST6Y2LF2qu3nEFKRtGpZh8pvmc%2BSp7eqmCFbW8HuKxDneE3nmez73UMM83U4BpJmgCU6Cw7o%2F3M8F%2FQUBPNDk3AFobJPMrukcGBf%2BV%2BfNBHAJl7U8%2FSlr69XsjW7Eb%2BbMovK3iubzQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e6c351b251a3ac09e1db995694030245
+X-Etags-2: e6c351b251a3ac09e1db995694030245
+
+{"title":"City Judge's Project Up For Final Approval","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2019/10/city-judges-project-up-for-final.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdm4Ew532ySB_vWgEf82LeHzvgO90eHVwQKRntkymV1AMh_oS46PmEfwDGAlk2h_QVj2Hz5Kat6rH5XgnwsX_vroDb2V3fgbxhs9v8gSvHp0DYR31pce2imHyaFxzVx4GzQ9XHcYbIoYA/w1200-h630-p-k-no-nu/klump2.jpeg","charset":"utf-8"}

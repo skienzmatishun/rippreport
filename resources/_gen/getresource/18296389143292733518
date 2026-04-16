@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64052ca7ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vU5zc6OSYHqiOJ0mFm74dLFlNCYmLzNpv%2FKf2%2FyyGJfMJ%2BeZtkP2%2BYyTevTb4ITfqZEneayJXk16oyR%2BEj43PQNYeAFElMwhV0oib9QceDLhkgqiw4sQpXrwLHi6ZIJn4UTfR4W0KE2bMLpdHqshuwTyyg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: de19089547ccc9d5986d040151a961ca
+X-Etags-2: de19089547ccc9d5986d040151a961ca
+
+{"title":"Mayor’s statement about IT invoices contradicted by multiple sources - Gulf Coast Media","description":"A statement sent by Fairhope Mayor Karin Wilson last week about a set of invoices submitted to the city by IT company Elias Technologies has come into question by current and former city leaders,  …","url":"https://gulfcoastmedia.com/the-courier/stories/mayors-statement-about-it-invoices-contradicted-by-multiple-sources,51321","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1498850118_42b9.jpg","charset":"UTF-8"}

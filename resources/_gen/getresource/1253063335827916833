@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640ae2963a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XWrxuevn%2FleKx4nNzFumiY6jeuCKKcxT09gxMiGV6RCakfCfh01tz5x0ydiIb9AweSLV%2BbTy8LgBuAhWMilkz7VNSPHXArKeD4GgYNTTR%2B%2BSc6e3M82OliKK90C1aaYzXQYrLU65yRvtRh35m2W9oG3jug%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=92
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cd3a5d129b64418f1355b78a3670d265
+X-Etags-2: cd3a5d129b64418f1355b78a3670d265
+
+{"title":"SUNDAY SERMON","description":"Everyone is in church today, including the members of the Baldwin County Legislative Delegation. They all profess to be God fearing Christians, this is a must to be elected in Alabama. This is a new delegation with some newly elected members. You would think the delegation members would be anxious to put the best foot forward after being elected by their constituents.\nInstead they live up to Alabama’s title of being the most political corrupt state in the United States.","url":"https://rippreport.com/p/sunday-sermon/","image":"https://rippreport.com/img/sermon.jpg","charset":"utf-8"}

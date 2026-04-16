@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64060ccb8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ABqc%2BEefvSwAWvP0P6bWY8WTMA54lPFWIlfFuuwiejfRjdpHTqS2GZlr02s%2Bg4AsP1jcHeB7jMLFvsOOB%2FGVNcdZulvZPJBdmK6QDDlsfgHcsvIKZ34%2Bmv8jnruciOZOfAoRxqyLMKo2M1kaOofpRrPgyQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=97
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8e4bc598a5525b92c91b9eb9a767f48b
+X-Etags-2: 8e4bc598a5525b92c91b9eb9a767f48b
+
+{"title":"MUNICIPAL ELECTIONS 2025: Baldwin bus driver, retired Delta man Farris seeking new face for Summerdale leadership - Gulf Coast Media","description":"For the first time in at least 17 years, the residents of Summerdale will vote for their mayor.   Municipal elections in Alabama do not include a write-in option on ballots, so when a race is not  …","url":"https://www.gulfcoastmedia.com/stories/baldwin-bus-driver-retired-delta-man-farris-seeking-new-face-for-summerdale-leadership-municipal-elections-2025,274568","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20250709-140137-6ad-20250708-101040-bca-Voters%20Guide%20logo.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640714f97a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qf8kgcfgmxpVvFCyYA9PpCXlnxEXIHiQYKMSTxb9%2Fb0wwsSWegGF2MlrRwwVYSpPXGHFDlASTQzx704yQ3GMjNksNl3EyEvb5TwTHM9cJW54G76awPrf9YIm5LTnhd6N8T6W%2B7vR9l8nJfWQkT8nlSWJjg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=97
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bb3e1cf00522aba5203764b84ff5015b
+X-Etags-2: bb3e1cf00522aba5203764b84ff5015b
+
+{"title":"RIPP REPORT PODCAST - Ripp Report","description":" ","url":"https://rippreport.com/p/ripp-report-podcast/","image":"https://rippreport.com/img/ripp-report-podcast.gif","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a01b0ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MsvVGwTomjzGYwR6HWeQo7lteKMcwfLGvdFOGlBxRrqsrLOlv%2BjJ5wb0eVHSVDePxOf0OjXbC3iHkUOUkYvJfYoC39EE9OPDst7iKRTn60%2FNOfG5joeHJZzwPGG6T5CGjin9gXe2gKcylBkC%2FvoyKYuDkQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=91
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7c0c5905b60874403ece5e96dfad37fb
+X-Etags-2: 7c0c5905b60874403ece5e96dfad37fb
+
+{"title":"Fairhope mayor brings dispute with Baykeeper into limelight","description":"To be fair, maybe Mobile Baykeeper Executive Director Casi Callaway could have toned down the rhetoric in a July 30 news release about a viral video purporting to show untreated","url":"https://www.lagniappemobile.com/news/fairhope-mayor-brings-dispute-with-baykeeper-into-limelight/article_0cfeb7a2-076d-51ce-91a2-42bbeefcb27d.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/5/05/5054314d-1a18-5ce9-8dd8-b664c834ab01/630ecadf91035.image.jpg?crop=1300%2C683%2C0%2C89&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

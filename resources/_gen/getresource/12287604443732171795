@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404eff5da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6fSXw9yhTCkrBOl1Ak6Xr3VimKTd%2FDdc4xJxGc3W0P6%2BmfOWx%2BmFTbx%2B3dWSsiRZfboYH3w4nbVW0fhc0EkCSAo2TYvGqDa%2B6Ge5Q2qabid8C%2Bun7rD4DdaMFO4VQd988pu%2BeHQgiitDlywE5KMPKnDWhA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=154
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 13b1a334947d1532fbd72f059d909e29
+X-Etags-2: 13b1a334947d1532fbd72f059d909e29
+
+{"title":"Alabama Rep. Micky Hammon pleads guilty to mail fraud","description":"Hammon, a Republican from Decatur, devised a scheme to use campaign funds for personal expenses, the U.S. Attorney's office said.","url":"https://www.al.com/news/birmingham/2017/09/alabama_state_rep_micky_hammon.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_birmingham_impact%2Fphoto%2Fmicky-hammon-mugjpeg-2aec4bfa1c7d5577.jpeg?auth=93207888b1003ccd50079ae3e13505ae11fde999d9c778b05f539f89685f9135&width=1280&quality=90","charset":"utf-8"}

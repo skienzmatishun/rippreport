@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d48a48a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=P1tNb0LS4nyZE83puxZOqFBtrh4W1qjzLIjaNKrXwC30G2gXxq7piIyDpvaloRSrFyQxLxmULuks%2Fjh%2BJC20Frv2zHMugNCM1Cfpl8jXhA%2BCOalElgQ%2Ftv5kERz0IDitMHoFB%2F8Q6trw5jx1KGW0Jk8rIg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f36fda2c036c12e531cae0013e42babb
+X-Etags-2: f36fda2c036c12e531cae0013e42babb
+
+{"title":"Campaign callouts","description":"With a special election to permanently fill Jeff Sessions’ U.S. Senate seat set for later this year, Alabamians need to get acquainted with the state politicians that could be running","url":"https://www.lagniappemobile.com/archives/campaign-callouts/article_bec12438-89d3-5432-87c5-83d05531c040.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/1/a5/1a53ffce-812a-5772-a77e-1e033d3762af/630ebc0a6dc2d.image.jpg?crop=1625%2C853%2C0%2C1&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

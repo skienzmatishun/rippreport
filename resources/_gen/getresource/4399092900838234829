@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640dd4c37a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:50 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MySEbFPTb5zkJY7qNOgA5rca7yEg0mUV7A1YP54K72pPZc4dJ6pqH9lpJCB75U27mMhOr%2BtGRT%2BNcl2aDDu3X33uJX2SJhM8DO%2FV9%2B3%2B1g5o6nzdx3IpEtEonp%2FxZscb%2FcUCRX3NjKO481jSM3iijkvHZw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c3f760bba8591e02d0d2481a38d20650
+X-Etags-2: c3f760bba8591e02d0d2481a38d20650
+
+{"title":"Five Republicans who may approve a pro-Indian lottery received over $100,000 from the tribe","description":"The Senate Tourism and Marketing committee will vote Tuesday on a bill that, if approved, would give the Poarch Band of Creek Indians a complete monopoly","url":"https://www.alreporter.com/2019/04/22/five-republicans-who-may-approve-a-pro-indian-lottery-received-over-100000-from-the-tribe/","image":"https://www.alreporter.com/wp-content/uploads/2019/04/AdobeStock_224219615-e1555761411318.jpeg","charset":"utf-8"}

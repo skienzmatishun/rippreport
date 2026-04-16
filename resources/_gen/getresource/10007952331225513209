@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640cecfe7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pt1m5%2FNF9ANGwyqv2JKUeEalTr7nrSFV2Bj44QZNbFrfmTeWNs1N%2Bmg1C5Cv17G%2FWizFwjFxwycK6%2BbUlrfBIAoxDkanHwK5El3P4EjDq7J%2FPZ0d0HZN3C7b%2BHWkJFKnzdMR3j1x93gBSJSnkqlOgmO%2Btw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 36aa868a8d6f9e71cee707f42bf24974
+X-Etags-2: 36aa868a8d6f9e71cee707f42bf24974
+
+{"title":"Coastal Alabama officials solidify plans to advance I-10 project","description":"The Eastern Shore Metropolitan Planning Organization became the second MPO in two weeks to vote in support of a truck bridge project over the Mobile River. But Eastern Shore MPO officials also made it known that they want to pursue federal funding for a project that is likely to include tolling.","url":"https://www.al.com/news/2021/06/coastal-alabama-officials-solidify-plans-to-advance-i-10-truck-bridge-project.html","image":"https://www.al.com/resizer/v2/Q6VAWQJPTNE5RDPYQ7XZASWZ74.jpg?auth=52ea206a43ef68cbdc350c2a1a2cc8209de88a2777687ed4628b1bf738f3406d&width=1280&quality=90","charset":"utf-8"}

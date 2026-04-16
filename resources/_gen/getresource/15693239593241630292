@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640907a66a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Y%2BU1R8feNNYQzfjTRVof9dNsFmoxg8nsWhbr0PAqkGwR6JiV3Fh%2BJGlk5ly7WvfZgWQpkoo5WyMKx7MUVzT88AP2FFMNezqOBAO0lZEDglAbp%2FXnsT2iOMsynnx%2Bv4E8J%2BO6Y3TnTqDpqDYsCQYQo%2BpxIg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ddf65fcb6a2d86c3250d814b3748fd0a
+X-Etags-2: ddf65fcb6a2d86c3250d814b3748fd0a
+
+{"title":"Brinson asks governor to call Ethics Commission meeting","description":"By Josh Moon Alabama Political Reporter U.S. Senate candidate Randy Brinson on Monday called for Gov. Kay Ivey to require the Alabama Ethics Commission to","url":"https://www.alreporter.com/2017/08/01/brinson-asks-governor-call-ethics-commission-meeting/","image":"https://www.alreporter.com/wp-content/uploads/2017/06/BrinsonPort.jpg","charset":"utf-8"}

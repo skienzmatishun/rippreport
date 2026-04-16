@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409dec46a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3vTc3m3EKl%2F3uEyJxz2si4cMU8TbRPIaHnqRATasLajjapd5izFEleuLfatsHi2opLBwGTMqn1oB%2BONoybSOQCD%2Fn3yuPEkeYSxXZvvkleSCFa6bOxlPXzUv7A%2F4yvPTagmHZFlP6skqqE2Yw2cbkx4J1Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2975512b411767639e2dd35a69f8ad1e
+X-Etags-2: 2975512b411767639e2dd35a69f8ad1e
+
+{"title":"Sewer System Upgrade Timeline – Most Critical Updates Will be Completed by 2022","description":"Update July 27, 2020 The following timeline demonstrates the work accomplished this term in fully updating our Sewer System: an objective started the day I took office. Investment in Utility Infras…","url":"https://web.archive.org/web/20200804165655/http://www.mayorkarinwilson.com/timeline-for-sewer-system-upgrades-water-quality-initiatives/","image":"https://web.archive.org/web/20200804165655im_/http://mayorkarinwilson.com/wp-content/uploads/2019/08/Innovative-Communities-by-Design-300x270.jpg","charset":"utf-8"}

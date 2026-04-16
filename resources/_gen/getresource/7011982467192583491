@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406a4a29a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=a5NhXm2qTm068JCB3QTK1%2FKMR1B4SUWElZSzxWu4HPFGkFAGyuMW3QY4XG8kGkBlHVU%2B7%2FVCi5AtVZurtVVBjezbd0CpesoF7nZDQMjV3MmNDwlfU%2FrZGzu3W8w3Rl4mMfKw8lzis574Qtfb2DmHm8YluA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ae7d6903cb290f02e7caf01979aefc35
+X-Etags-2: ae7d6903cb290f02e7caf01979aefc35
+
+{"title":"BIG HEADS - Ripp Report","description":"Notice: CITY OF FAIRHOPE CITY COUNCIL AGENDA THURSDAY, 15 FEBRUARY 2018 - 6:00 P.M. - CITY COUNCIL CHAMBER\n5. Final Adoption - An Ordinance Directing …","url":"https://rippreport.com/p/big-heads/","image":"https://rippreport.com/img/big-heads.png","charset":"utf-8"}

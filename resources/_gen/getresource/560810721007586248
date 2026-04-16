@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404b9d7ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5OIaMgE0Rb1kmOWLULVmXXLHrIOk5KT%2BoIFOIwl12Te%2Fk03RTHUFFDhRpVVBdGNcTBAncBsoluT1%2F59t7sYT3jGqs6Qysx7t9rphK%2FrcyTISkYh%2B1vxjRpRdGfTU6%2FLXdEx1l5YT%2FPb4tXr2k3ULkghwBA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d5d5ec39ecbc98bee46b02963e297e55
+X-Etags-2: d5d5ec39ecbc98bee46b02963e297e55
+
+{"title":"SCRATCH MY BACK, I SCRATCH YOURS - Ripp Report","description":"SENATE RACE:\nBefore we get into the ugliness of the Senate race, let me address the ugliness of some comments we have been receiving. Some comments …","url":"https://rippreport.com/p/scratch-my-back-i-scratch-yours/","image":"https://rippreport.com/img/scratch-my-back-i-scratch-yours.jpg","charset":"utf-8"}

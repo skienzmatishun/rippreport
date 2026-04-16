@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409a797ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1hmO%2FhisT5pWnJ%2Fy0HHiCfIpjeGXaVdjBiOi5jcKHsRDqrYSmt8EehATn%2B75tw7rCjhw6kZS8htqw8Y0yKCL28hraiKK7s5oRZwwfMofWA1VohHueeoznbukjE2a7NCn4zMG0qH0Ph4KKwOLvnSySIB8HA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 23c88fd767102d4146c0227f96fe6b82
+X-Etags-2: 23c88fd767102d4146c0227f96fe6b82
+
+{"title":"Wrongful death lawsuit filed in fatal BCSO vehicle pursuit","description":"The personal representatives of two of the victims of a high-speed chase that killed five people on Interstate 10 two years ago have filed a wrongful death lawsuit against Baldwin","url":"https://www.lagniappemobile.com/news/wrongful-death-lawsuit-filed-in-fatal-bcso-vehicle-pursuit/article_68273cf1-4c54-5915-9adf-2d1e15f04575.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/c/a0/ca0ef0a2-956a-5a6d-86cc-228de0ea3faa/630edbe15ae27.image.jpg?crop=1100%2C578%2C0%2C123&resize=1100%2C578&order=crop%2Cresize","charset":"utf-8"}

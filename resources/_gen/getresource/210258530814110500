@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bb0962a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=03%2BCckmVaqmDZj%2FEb8IJhnI0PHavVfb6Ogf%2FnMYIaOqbZ5HIrsIwiG4tKzvt%2F23oHIqHa1LIarcjZ0fokOill2x41sZ6Z3T7U%2FpUXYMz8c6EzRqiA5T%2FYIaR2SkdAg7kOfvs0AoTt%2FV3QWmpPwmmsxtwYw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 857a3a523f59bcd13eabffdfb9a2c9d3
+X-Etags-2: 857a3a523f59bcd13eabffdfb9a2c9d3
+
+{"title":"Daphne lawyers settle $10.2 million judgment from failed Gulf Shores project","description":"Haymes Snedeker and Ray Hix Jr., partners in a Daphne law firm, have agreed to settle a multimillion-dollar civil judgment arising from a failed Gulf Shores land deal. ","url":"https://www.al.com/live/2012/02/daphne_lawyers_settle_102_mill.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Flive%2Fphoto%2Fsnedeker-mugjpg-277fcca61689404f.jpg?auth=8a35eddbd257aa1a1d8c56fc4fd3377f7bc1a81f28dedf007c4f027207fcc617&width=1280&quality=90","charset":"utf-8"}

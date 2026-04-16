@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640777ac2a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jI8IRwabIRha8uKC%2BCH53e5g1xcQXH4fQKEXyWKnLDXPfP65Too3%2FdwzZhmS34%2BLAyMsnjl1gsdHx0TORscTWbasd93UYqW1cqv2YPUfD7bVAkHcPdO4X3QV6wlPH7RAGKQbccm%2F7BK4aRaW9fB6oGQrNQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2d89007ceaa7fb54cd63c168c97f6ef5
+X-Etags-2: 2d89007ceaa7fb54cd63c168c97f6ef5
+
+{"title":"City of Fairhope agrees to purchase former K1 Center from school board","description":"The Fairhope City Council voted today to enter into a purchase agreement with the Baldwin County Board of Education for three parcels of property — including the landmark former K1","url":"https://www.lagniappemobile.com/news/local/city-of-fairhope-agrees-to-purchase-former-k1-center-from-school-board/article_a1ba8fea-6694-5b60-9c15-f0c1453d50ed.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/4/74/474ea69f-ea24-5f44-b570-358ce75d4063/630ed4080cd17.image.jpg?crop=1000%2C525%2C0%2C112&resize=1000%2C525&order=crop%2Cresize","charset":"utf-8"}

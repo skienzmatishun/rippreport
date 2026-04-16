@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409b7cd0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rArobnrB53GIMAdkyZaeJ3%2Fm9o5OL4NjMd6GkcM%2FuZVdc%2FDw4Sr7074KYC%2FEuVpobnP%2BNgtLQhN9Y69%2B9ePuaqetnhH0tNOaTosAP36jNHsoQcXnHpJ8mqNG6sSez2u3O7CTU7tfB%2B%2BCBr%2FEUIEVdFe73w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c0368dbd5747f03e651637355ecaada3
+X-Etags-2: c0368dbd5747f03e651637355ecaada3
+
+{"title":"Fairhope Airport Authority to accept $2.9 Million in grant funding - Gulf Coast Media","description":"FAIRHOPE -- The Fairhope City Council accepted a resolution at last week’s council meeting for the Fairhope Airport Authority to accept $2.9 million in grant funding for the construction of an  &hellip;","url":"https://gulfcoastmedia.com/stories/fairhope-airport-authority-to-accept-29-million-in-grant-funding,41800](www.gulfcoastnewstoday.com/stories/fairhope-airport-authority-to-accept-29-million-in-grant-funding,41800","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1468616510_8f1f.jpg","charset":"utf-8"}

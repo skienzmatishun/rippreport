@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408d38e6a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QwGzcPQiQ3z7geT2RyCrSDxo9bU4xnqOM8lZ3wDJRXRVXkK%2FEpeKd4BOXOCRbxcfAu%2BBp0Mufi6tbb2Wb1cJDkePkXIa7XM2Bng1ikZHXI%2B3YwoPbMwsNAWjPDyOj8%2Bhi5g0M5YQohpMkfebqe3nViZasA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ef3294fe967a0ca8485379bc1efdfea6
+X-Etags-2: ef3294fe967a0ca8485379bc1efdfea6
+
+{"title":"Fairhope councilman comes out against change of government referendum - Gulf Coast Media","description":"In a post on his Robert Brown For Our Hometown Facebook page on Oct. 25, Fairhope Councilman Robert Brown laid out his case for why he was voting no in the city&rsquo;s upcoming change of government  &hellip;","url":"https://gulfcoastmedia.com/stories/fairhope-councilman-comes-out-against-change-of-government-referendum,69165","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1470163322_577e.jpg","charset":"utf-8"}

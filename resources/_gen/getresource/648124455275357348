@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640869b8ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Qq1S6pg3MNY0qkEfth50JUkbdDutDmL2c0hW6aBzOwYaaqTu4OHMm8RINrVxtlKv%2BLIZMu5MOY7yuedmxU6Wn3u2lpiQZIs3UpELG7Dz%2BLYv0L3XMRzcVq7CCnvQrKhBbuGxQcO00ed8rCfgQk2Ys9sOQQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 874fcf415e56d80aba6c1057417546da
+X-Etags-2: 874fcf415e56d80aba6c1057417546da
+
+{"title":"Fairhope's broken relationship between mayor, council erupts once again","description":"The Fairhope City Council unanimously approved a budget over Mayor Karin Wilson's objections. They also overrode her veto that would have halted an apartment complex project. ","url":"https://www.al.com/news/mobile/2017/04/fairhopes_broken_relationship.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Fkarinwilson-april24jpg-630f9a530ba3d1ac.jpg?auth=65799be38b84e60563e83a09b031fdfb9842694f67f3c5010a4c21188237c206&width=1280&quality=90","charset":"utf-8"}

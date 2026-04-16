@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640669e83a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mdeNjIHosmCjTU5hbXsnbrdVwdFvvqOfNmL1yBV5PyHp%2BF0keu688ljkDZr7YPilYpqnYCgJhmGobpW9tCaz54Swb73TdvGWO%2BvWts2sadiuyhLy8TiiNi%2BQxQXKjF1EtdxwnXRYtpsb9bvrt5wpkJsg%2FA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 41f3ed1fb13bd2de86dbbac9189bd629
+X-Etags-2: 41f3ed1fb13bd2de86dbbac9189bd629
+
+{"title":"Fairhope council endorses new plan for $3.5 million soccer complex","description":"On Monday, a pared-down, redesigned plan was given the green light by the council. Under the new layout, the complex will have 9 fields instead of 10, but will still include two championship fields.","url":"https://www.al.com/news/mobile/2015/01/fairhope_council_endorses_new.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Ffairhope-soccer-complex-discussed-by-john-avant-d03f0de54bc3b851.jpg?auth=cfc01abc5b1f23fc6b09a49cd5ae30a806a634effb48ec48a3043a0bf6282c83&width=1280&quality=90","charset":"utf-8"}

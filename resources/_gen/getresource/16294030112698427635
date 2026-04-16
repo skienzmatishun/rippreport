@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408b7b93a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WIA19wjRKkkNZm2Mc0JfExoTEiolhQR2oQ1eXZcN6%2B0PLiRhCn0PXLQuTiGQQna7gwbv4PeKXSPo32NietXZPmuqdUAsReg6GMeKFD34wkgZgjT6b%2BPBVnphNVXDZUy7fUnV0UassT9O%2Fg3ytAuOlNgbcQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0c1da9c084200041941ae97db580a50f
+X-Etags-2: 0c1da9c084200041941ae97db580a50f
+
+{"title":"68 Ventures’ bold plan: Proposed Village Park development in Fairhope to offer mix of housing, businesses and green spaces - Gulf Coast Media","description":"A large parcel of land just outside of downtown Fairhope has a new owner with a new vision for a village-style mixed-use development combining commercial, residential and green space called Village  …","url":"https://gulfcoastmedia.com/stories/68-ventures-bold-plan-proposed-village-park-development-in-fairhope-to-offer-mix-of-housing,213105","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20240422-212457-Masterplan_Park.jpg","charset":"UTF-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640665d8ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rNH4QP2oN4OpGHRxNZviip3PonYtqMo9gzMovxquWILyLNrkRdyaNJHbcQDm03gKNRa2wAzhJAjR%2BNCckw6ogZl1EV%2BFJVIvQR%2FYhEx7ugw6ReLl1%2Bf6LSc0Gb0FfOeA4OH5V4obbk%2Fkf4549%2FQq%2BLVWkA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 13d7ad4ddaba4a96cf5622c265db5c6f
+X-Etags-2: 13d7ad4ddaba4a96cf5622c265db5c6f
+
+{"title":"YOU WIN SOME YOU LOSE SOME","description":"SKUNKED What started out to be a “Fresh Start for Fairhope” has turned into a political PAC raising money and preparing for the 2020 Fairhope Municipal elections. All their talk and advertising promotes a change of Government for Fairhope, this part of the equation most agree on. A Council Mayor form of government also has a green light. The sticking point is the City Council being At Large or Districts Here is where you got to be careful around skunk’s, they can take a good thing and make it smell.","url":"https://rippreport.com/p/you-win-some-you-lose-some/","image":"https://rippreport.com/img/you-win-some-you-lose-some.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406ef838a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8WnMj1NZ1h5rbFelEDZCMKBC8KsrITsQArRIlp3kHJtJGcykBT2gq7pAnhm2KYn3D2aOObQ5YY%2BFLM8WPfcuFVRaEllmzNKQL6lziE%2FGl8kcBHRHugE8aebfaZQ3p%2BznVIlRBCbfnMKJ3hlHQ3GKKqxbCw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=71
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 12031e317a870bf03e74f3e6694b034a
+X-Etags-2: 12031e317a870bf03e74f3e6694b034a
+
+{"title":"SAY GOODBYE INCUMBENTS - Ripp Report","description":"Here is a picture of the four Baldwin County Commissioners that need to be put to pasture. The perfect pasture would be that 35 million dollar plus …","url":"https://rippreport.com/p/say-goodbye-incumbents/","image":"https://rippreport.com/img/say-goodbye-incumbents.png","charset":"utf-8"}

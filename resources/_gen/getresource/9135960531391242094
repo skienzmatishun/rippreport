@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640402baaa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:24 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YExyEyttpJW59ZEL1RtJzI6TR%2FmESONE1OgDlhdYWhLJlqb1BMrUMXBlG5dfMKnvETVEyrkkexDbVmlIX%2F6rdCjaZUbek2y%2BNN7xxekCmrvsXC9OPbFYHD4xeo%2BkyqItu8cVtz1OTYIyasfX1hZymPVCjA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a9d1bc78d1e95f923010df4256e179d3
+X-Etags-2: a9d1bc78d1e95f923010df4256e179d3
+
+{"title":"Archibald: Forget how it happened; the future is clear ","description":"Terrorists broke into the U.S. Capitol today, under the banner of the Confederate flag and the colors – perhaps even the blessing -- of Donald Trump himself.","url":"https://www.al.com/opinion/2021/01/forget-how-it-happened-the-future-is-clear.html","image":"https://www.al.com/resizer/v2/CKZKWVHPIZDNVEBSAO7R5GMR3M.jpg?auth=9e0502d8f3a99d07e8fb276cf8408ec951fb28a3dc0605d12f7b34e93fea590c&width=1280&quality=90","charset":"utf-8"}

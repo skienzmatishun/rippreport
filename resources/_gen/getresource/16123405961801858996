@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640be5b2fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hH7tSNLQoKjzMoUgN%2BnZyPtycCMwq7RqNHTvDgAMR%2FF%2BdL%2F80Age40kQWs6jyEXkoL8Dcrw94abB0H3QKD%2BEalIcrHDkLUAUmcV6VPhnhhVJdFXeWXOiDqiirm7e9kbt%2ByYaF%2F07RXXYA%2FvMwzEkIoGEQA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=100
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: febd48e65d2fe761a3e19686126e1173
+X-Etags-2: febd48e65d2fe761a3e19686126e1173
+
+{"title":"AIRPORT DIVERSION - Ripp Report","description":"Jack, come fly with me, has more passengers. The Courier, editor “Chucky Cheese” is working hard for free flights. He has signed on with the pilot, …","url":"https://rippreport.com/p/airport-diversion/","image":"https://rippreport.com/img/airport-diversion.jpg","charset":"utf-8"}

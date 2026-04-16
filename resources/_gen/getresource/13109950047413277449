@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405ddc01a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Nj2wEkW8nQgBfQDk5SFo25h3ym9p9Z6bcF2%2BnuiK5G82Vx5wcavIrDz62kxxZU80Vcv4Hpr5btM4%2Bd9JmvpEJ4%2Bs9DDRb%2BRZ8RtbifHtApC9kQ6h2%2BLMkEGfy9JYYNI4bCH0zwH7vedHzL50sZ3C%2FU3Dug%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9eb3bff8962bc245e24e32982d2e91f1
+X-Etags-2: 9eb3bff8962bc245e24e32982d2e91f1
+
+{"title":"BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH","description":"Of all the Mayors in Baldwin County. Mayor Bob Wills is the most disgusting. Every voter in Bay Minette should remember O. J. French , every voter white, black or brown. Mayor Wills lied to the family and to the community. He said the family was OK with the circumstances surrounding the death of their son. Think about that! An outright lie that Wills later doubled down on. Wills supported the kangaroo court of the Sheriff Department. The Baldwin County Major Crimes Unit who investigates themselves.","url":"https://rippreport.com/p/bay-minette-vote-out-mayor-wills-remember-oj-french/","image":"https://rippreport.com/img/vote-out-mayor-wills-remember-oj-french.png","charset":"utf-8"}

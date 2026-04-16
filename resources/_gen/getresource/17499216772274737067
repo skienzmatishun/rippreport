@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a83cc5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2B%2BjcuhhzCPDT7l31yEGDOK2Yp2QPMCVHEXTDLtm35J7xVTKhjHAYlWq%2F2AnMz2RNIb2CEr0%2BbrAC9OVnTTz%2BauxcGPTzhURRSbLnoHwyTcyTBuUE%2FvEVAVGapcJp3C3OtyiJpl432YuH7ipqkPIElZ1qxg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=0,cfWorker;dur=96
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 29bb75ff86ebd7d63048b6933010bf7a
+X-Etags-2: 29bb75ff86ebd7d63048b6933010bf7a
+
+{"title":"Page No Longer Exists","description":null,"url":"https://baldwincountyal.gov/page_no_longer_exists","image":null,"charset":"utf-8"}

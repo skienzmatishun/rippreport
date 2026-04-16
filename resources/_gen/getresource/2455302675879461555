@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640317f95a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NycyZsmmAlykqwEF6Hzul5xcipkssh9TZnkfyHxZRBcOinFDfOAeHsLVwa%2Fq0k%2F7VZkbGvKh%2BTNd27UL4Y01tK6bsPBB6AvC67kWdRu4P5yl78%2FbGtGi8uqdbyLgCLDo84gPzgDQHPEvQfPjEWvNnYQt0g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=108
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 624f81c4255c3ade3d815d6c02ce575e
+X-Etags-2: 624f81c4255c3ade3d815d6c02ce575e
+
+{"title":"SKUNKED","description":"What started out to be a “Fresh Start for Fairhope” has turned into a political PAC raising money and preparing for the 2020 Fairhope Municipal elections. All their talk and advertising promotes a change of Government for Fairhope, this part of the equation most agree on. A Council Mayor form of government also has a green light. The sticking point is the City Council being At Large or Districts\nHere is where you got to be careful around skunk’s, they can take a good thing and make it smell.","url":"https://rippreport.com/p/skunked/","image":"https://rippreport.com/img/skunked.jpg","charset":"utf-8"}

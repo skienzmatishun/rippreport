@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64049afafa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=c73UNoFGUtPgMtqm8q2XzX5HppgxEX55rvVYBWTQsVIUk4GG1p6e5QhWL10bcqLxZurI%2FlMExmkWqHomzebeBvInHGZ85cXkI3wctmBWp3psAwfdvrPYVSPyswc9jAGQx5%2FhVSOwvn%2FdsKh359%2FQbKvi6w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 799ad84b2afd091c4790c0bfba990b9b
+X-Etags-2: 799ad84b2afd091c4790c0bfba990b9b
+
+{"title":"ALABAMA CONFIDENTIAL: Go On Take the BP Money and Run--Alabama State Senator Pittman Facing Ethics Charges","description":"  Which one's the tractor?  *Updated Monday PM   \"Follow the money. Follow the Boom.\"  Alabama's recent ethics \"reforms\" are about to be put...","url":"https://alabamacorruption.blogspot.com/2011/01/go-on-take-bp-money-and-run-alabama.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDxN6-He_yonsOUVSYuls87yQi2Rdyop8DmjjB3JObcuayAQSSOIRblp4LlpIb4LE73omyW1p59ygFgrhH2SXWimqQgyl9y5S28rz77jc_tdJQPU8upTGycO7qDKIoT-J5m-jlojJNA64/w1200-h630-p-k-no-nu/Pittman.jpeg","charset":"UTF-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64092585aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Yk1TDo2JMMystKhadx955DWOxADnTspJdRKR7tks%2B56%2F4XqKr8pa5%2FGFvQ7T2di5KUIb7BKUSs9INVgROteWD2R9hsBBxeek6lGCtEL0wbQMrci8eeU%2FqrfSv3H8AdZWX7lkrwnGQui0O0pibCJZIF4m2A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 54c22e339402ddcbfa9f8da9f7f3578a
+X-Etags-2: 54c22e339402ddcbfa9f8da9f7f3578a
+
+{"title":"Local blogger settles lawsuit against Fairhope council - Gulf Coast Media","description":"Local blogger Paul Ripp&rsquo;s lawsuit against Fairhope City Council President Jack Burrell and the rest of the city council has been settled, according to a recent blog post by Ripp and documents  &hellip;","url":"https://gulfcoastmedia.com/the-courier/stories/local-blogger-settles-lawsuit-against-fairhope-council,68855","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1470163322_577e.jpg","charset":"utf-8"}

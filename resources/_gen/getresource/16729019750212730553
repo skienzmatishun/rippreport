@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409bcdc2a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dSBu%2FSimZvnPxhLiwgkFvcrO4RJ3hqpkeMKceNR24WbIMpp%2BJyNo6fbnF4y1uELtXr47S4OPf3c1xv2LtNiTaYv%2F8UFfT8dJWfarSJqNq8Hpzyx2Wcygvi1y0a64hHEv%2Fd7YdesfS1VgVXQ7k%2BDSsQ3GtQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6b6ade1241ebdd9ff7662ab623dbafd5
+X-Etags-2: 6b6ade1241ebdd9ff7662ab623dbafd5
+
+{"title":"CAN YOU SMELL IT? - Ripp Report","description":"For years I have witnessed authorities and non-profit environmental groups ignore obvious environmental issues while publicly professing their …","url":"https://rippreport.com/p/can-you-smell-it/","image":"https://rippreport.com/img/can-you-smell-it.jpg","charset":"utf-8"}

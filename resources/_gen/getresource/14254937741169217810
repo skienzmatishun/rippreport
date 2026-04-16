@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640ab887da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BzBuQbQPQEimjcVQF4AQYbgExEcD61d6T7pEJIyhn1ZVpXWtT6n6lqGpz8%2BtREBi2zhh6Leha4D4wxj2A2hRL0cpH6sjPLCPyucs6NDtJeD13zwcad7cbK6WBkcL819gYPhmZb4Pgl5m2N33KhPpDCa%2B4A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: dc5b86d4e7297a167a53e577869f846b
+X-Etags-2: dc5b86d4e7297a167a53e577869f846b
+
+{"title":"State to fine Shoppes at Fairhope Village/Publix developer $11,000","description":"State environmental regulators have issued a proposed $11,000 fine against the developer of the Shoppes at Fairhope Village, a shopping center along U.S. 98 where the Eastern Shore's first Publix Super Market opened this month, for alleged muddy runoff violations.  ","url":"https://www.al.com/live/2009/07/state_to_fine_shopping_center.html","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64060ccbfa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=n5X7NNsFWB5vFXLicSPqOPqip%2ByvPHQLzr2cONpoGTeMLdRXe9%2B7TRqxpYbLp%2BcqLHNnpwt9gLbc%2BR8WwPYKskvLLSD4myZL3B3FLcYjowPb60I0nDU2jRDVABYmpN%2BA2m0VAsWf76zQOaLlZhE1q1F1jg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e5682bfd728efbd8cddbf28097bff7d8
+X-Etags-2: e5682bfd728efbd8cddbf28097bff7d8
+
+{"title":"Alabama House Speaker Mike Hubbard convicted on 12 counts","description":"Hubbard faces up to 20 years in prison for each ethics count. ","url":"https://www.al.com/news/2016/06/house_speaker_mike_hubbard_con.html","charset":"utf-8"}

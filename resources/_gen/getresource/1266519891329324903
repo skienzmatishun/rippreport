@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64054b8aba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=t%2BH%2B3%2BKpQ9jx%2FhBpGR3mR5FLttzfmrvkzfxL5uzBI%2BiX86ciBFNS7iyeMsd5EAcWScn1KN6WygrSryeXdwDqhgxKR9j90ZbWDbtC0ejNAZe9DAkWtqHJNoVsKPo1UA6HjAemdFCUgUV5tMRHloQxrYpAaw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 642ef1de057ee1f16434a99d9db173be
+X-Etags-2: 642ef1de057ee1f16434a99d9db173be
+
+{"title":"BCSO - NO CLONES","description":"Lowery is a clone of Hoss Mack and the last thing Baldwin County needs is a clone Sheriff. Pay attention this race can break the mold of the good ole boys. Hoss Mack’s record is the same as Lowery’s, they are joined at the hip, or close to it. Lowery likes it under Hoss’s umbrella however he has rightfully inherited Hoss’s horrible record. Before election time you will see the onion peeled back involving Mack and Lowery and it ain’t “perty”.","url":"https://rippreport.com/p/bcso-no-clones/","image":"https://rippreport.com/img/bcso-no-clones.png","charset":"utf-8"}

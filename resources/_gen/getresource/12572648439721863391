@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640869b91a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9G%2FKKo796PRurdRkRPrFGaU6YkfxiSbesHGetOGU52QtadrOwWv%2Bjx%2FMOEfUHAdHVZq%2BSNj3PFerA%2FrTcuuG8ro4QePDIGYTXY9k9%2FEyZzHhF6gSwpcAY9SVswwgdaI7YXIiFgKfmp%2BTR81HodA42nc3zw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2c0cee0e0b8ed8986f92a1355eeadf6d
+X-Etags-2: 2c0cee0e0b8ed8986f92a1355eeadf6d
+
+{"title":"Comment: Are You Surprised at all?????? - Ripp Report","description":"FAIRNESS IS THE DEFINITION OF ANYBODY THAT WE GIVE ANY OF OUR TRUST TO!!!!!!!\nLet me simply explain to all of you that have actually shown an interest …","url":"https://rippreport.com/p/comment-are-you-surprised-at-all/","image":"https://rippreport.com/img/comment-are-you-surprised-at-all.jpg","charset":"utf-8"}

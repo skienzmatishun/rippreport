@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64098bbd9a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nLXAx%2F4LLGYqzRp6isRBb59iWnuXYAC5ZivMBElldzICM2fzuhjs8EVV6SRVT3jIudxFVgpYqLZKsexOxLMY%2ByMYJWz7YHgdzksohkqK3%2BeWvppaO2vtut9ZEGgVtryKxAdlfySU3mHixIjcwDbHCUzldg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b90dad90c6bf3c4c2ca3b824f2644b69
+X-Etags-2: b90dad90c6bf3c4c2ca3b824f2644b69
+
+{"title":"FAIRHOPE COUNCIL SHOWS IT'S COLORS - Ripp Report","description":"The present Fairhope City Council is going to try and pull every dirty trick they can to derail the Oct. 2nd election. The City Attorney is carrying …","url":"https://rippreport.com/p/fairhope-council-shows-its-colors/","image":"https://rippreport.com/img/fairhope-council-showing-its-colors.jpg","charset":"utf-8"}

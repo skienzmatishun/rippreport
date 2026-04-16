@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64093fd7ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AIdLD%2FS9LAkX%2By7Ee7HfGySMjt8lrqxG4q7PBkgUDmCBgzQZux4DXWLNa8pZfdAUzUYBLqoc%2BAQFWgQYJl%2FDwEKMIPnqSVimYQfnTnyxh6BEXv%2BJVZ3Z7nF2%2Fh3G1%2BQcZsAj4jJGaR059jrVlPstF7OR5Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 59ae87c680d67a796d21d38c5ec69dc3
+X-Etags-2: 59ae87c680d67a796d21d38c5ec69dc3
+
+{"title":"FAIRHOPE VOTERS IMPORTANT NOTICE - Ripp Report","description":"Fairhope voters, we did it once and now we have to do it again. And that is show our mayor support and remind the city council the majority won the …","url":"https://rippreport.com/p/fairhope-voters-important-notice/","image":"https://rippreport.com/img/fairhope-voters-important-notice.png","charset":"utf-8"}

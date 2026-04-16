@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6407c19d7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bULPDLmhaTMJfWzd%2FguHHTqiuzozrbEIG17LMdGpiADDJ1oAq8PMlUvGc%2FsaNjgEGfgPIm9CrkDWvIeT8E6RVfO5hcxhBjoHpoluopXo3PMOPn52bYtyjqeXXOb8iUr1van4uuehi%2Bur9BVaUZPCoUYUZw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 44f8253644d72899b58310e6ee649af8
+X-Etags-2: 44f8253644d72899b58310e6ee649af8
+
+{"title":"Opinion | The state of this state is, as usual, weird","description":"It feels wrong to call it a “special” session. Maybe “other” session. Or “equally idiotic” session. But whatever you call it, there will be a special","url":"https://www.alreporter.com/2019/03/06/opinion-the-state-of-this-state-is-as-usual-weird/","image":"https://www.alreporter.com/wp-content/uploads/2019/03/DSC_4187-e1551876435661.jpg","charset":"utf-8"}

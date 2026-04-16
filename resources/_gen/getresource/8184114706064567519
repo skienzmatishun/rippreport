@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64087cf90a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kNtNDuoRANw6urBD0IEbfYTsVdCrAfWyyldm6CNFMUdNQh2YnA4F6YtcJuQ%2F1DVUHtjcr42Enk2Fn6c9M4fpv%2BzGj%2BuHMlauoIn8oKRl2%2FEH3wqfm7NOqewJOR%2FW%2FKATMDP4qSvNH%2FrLODw2nX3WrcZpmw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=101
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b9dcdbf1ea064388294dff6243b13fcc
+X-Etags-2: b9dcdbf1ea064388294dff6243b13fcc
+
+{"title":"Wilson vetoes Fly Creek extension, council overrides","description":"Despite a last-minute curveball thrown by Mayor Karin Wilson, the Fairhope City Council voted Monday to override her veto of an extension of time given to the property owner and","url":"https://www.lagniappemobile.com/news/local/wilson-vetoes-fly-creek-extension-council-overrides/article_674e6484-c669-5a2f-b1b1-a3fbf28a7e9f.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/custom/image/80d93692-f634-11ec-8535-7f6b4382bc0d.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640baa835a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=i80D1YOXyd927Y1I9CiS73es3xy79lp1GP%2BuZL1o%2BrNB43%2BXqAAIdrcBqGdVsfxnCAevGDfZ0r3cD3Ajn5bb7frQRt7Uukeup36lKjHazDv7iVFSeoJGydFX4UMvACg1HP5GJLgB6TXqra%2FdvLrgUaEBzg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=120
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7148e5c4ab98ca836c573e1349968eee
+X-Etags-2: 7148e5c4ab98ca836c573e1349968eee
+
+{"title":"Alabama moves almost all city elections to 2025","description":"With turnout low, Alabama lawmakers are looking for a way to boost municipal elections. The Legislature, this spring, approved legislation that moves almost all elections to 2025. That means local officials elected in 2020, will get to serve one additional year or a five-year term.","url":"https://www.al.com/politics/2021/09/alabama-moves-almost-all-city-elections-to-2025-suffering-from-election-fatigue.html","image":"https://www.al.com/resizer/v2/35Z4Z7GOCNCW5PGN7CKFBOCYPY.JPG?auth=e8fff05bf8a9a2a6e9918cc6fc8d9b64e8e169205c58f31fa4e2b8a4415c1971&width=1280&quality=90","charset":"utf-8"}

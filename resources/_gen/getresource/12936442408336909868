@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64044886da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cEr4%2FoCZbKbDkHEgz12v4kpTa%2BlqAQAemBkJ1todR%2FBs7D%2F2qufIbj%2FbdqXNkpfKtbffKbqK4XMicm00kbGMoDocjHQXElbXnoNVRF6MdP7k1B%2FlzLrymecOl%2Fdo56Cai5SDRyFySfgFsNrFGhOAmIpyag%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bfb0babbad3c3dd2dfa9327cdb787fa3
+X-Etags-2: bfb0babbad3c3dd2dfa9327cdb787fa3
+
+{"title":"CATALYST JUSTICE - Ripp Report","description":"How many people remember Sen Tripp Pittman and his theft of BP money to the tune of $750,000 dollars?\nHow many people remember our new Senator, Chris …","url":"https://rippreport.com/p/catalyst-justice/","image":"https://rippreport.com/img/catalyst-justice.png","charset":"utf-8"}

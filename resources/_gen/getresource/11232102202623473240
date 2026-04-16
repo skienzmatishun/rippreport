@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640402ba1a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:24 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yumuVOljBOk9TpQc62A%2F7Z2esPXHmnRiUpUKbD7pnpLS%2FdIRdV%2FRelyCwQ0JBYMNLG7pGLBNmPQN4p92l%2F5znOKPWirTY%2BLdQj%2FBv%2FrQRv4U8g48sU%2F1WM7mjazcefBNjE%2Bux1Z0wtpS5d5OcyCwUcP9KQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 576e2f153d083206087047ccdde64c5e
+X-Etags-2: 576e2f153d083206087047ccdde64c5e
+
+{"title":"Controversial Fairhope Apartment Project Gets Extension","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2016/06/controversial-fairhope-apartment.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc0MoXGEkQpEYoDPufbGSsoy2AUnMbX49UbzdTIZTbVnlKcxsOKi2K5vdV-Ybf5MFuj30vh6pzLJTO2dcuRlJpcWQaRSDxeC5H651g2iNgFENlHCfE83oPvzM1AuuDQPJaNnyFi_iiDSU/w1200-h630-p-k-no-nu/fly+creek+extension+180+days+to+record+plat+0+01+03-30.jpg","charset":"utf-8"}

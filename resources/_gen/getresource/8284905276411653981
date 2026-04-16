@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64066cf25a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wybzV6WjiIRjTiK7eUlUv6Dj7Faa5p7nyxq%2B6XaZdGbBTXp0rzPDPj8GQMobhW7NCOZPabCeEfXDkbSB8GMk9ctk50cmAvr0W4CSkQ3%2Baq%2B90XE0wv7rstrtmfoj6xFkmdR9aF76bKUuf%2B2OFGrw83uxvA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 49c92d20dfa71bee0abd23df103b8fb4
+X-Etags-2: 49c92d20dfa71bee0abd23df103b8fb4
+
+{"title":"HOW THE PENDULUM SWINGS - Ripp Report","description":"Well, Wonderful Wednesday had some very interesting commentary.\nHAPPY DAYS ARE HERE AGAIN Fairhope’s mayor extended an olive branch to the city …","url":"https://rippreport.com/p/how-the-pendulum-swings/","image":"https://rippreport.com/img/how-the-pendulum-swings.png","charset":"utf-8"}

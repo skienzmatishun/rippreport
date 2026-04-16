@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640103e28a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:17 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=H6rlmkaSz91zXOuA%2BsUGR%2FVDRe6lszd7dSkwwm6%2B%2FCIfgxAgyUI5q94oGJS3ke5pWWQVHY%2BLDpppEzSHAl%2BubHkdcbUZHlstqYHnnLKEO7iXLAfvE2cgYUm%2Bk4z9I9SNdnqVGC5FMSlskuGyNxhwVov0RA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=96
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 74e1f737e935e12a4077e0168c3406ce
+X-Etags-2: 74e1f737e935e12a4077e0168c3406ce
+
+{"title":"JACK ASS - Ripp Report","description":"Well folks, as they often say, “You can’t make this stuff up!”\nMonday night’s city council meeting showed the true colors of council president “come …","url":"https://rippreport.com/p/jack-ass/","image":"https://rippreport.com/img/jack-ass.jpg","charset":"utf-8"}

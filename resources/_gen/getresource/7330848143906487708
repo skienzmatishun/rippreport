@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640594e25a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HUIcqxsLm%2BjfP7u442nlf2LKDf5Brr13Rbjru4IZZFF6epNagbTS9PMlzmHJOO8RjAz7Q5V%2BZP%2BwKH%2BKsXVGoIHDKMQQ0sL2QU7G8hLJ2CXUJ2J0CinHAHwhmXz5ngp2L5RUE8Vv1OoDrrhMaDKLQ1QtXg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=97
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3d638de3cd4aac0d154f0507b781c254
+X-Etags-2: 3d638de3cd4aac0d154f0507b781c254
+
+{"title":"SHOWING YOUR TRUE COLORS","description":"Mayor Kant, after receiving the official news that he lost his re-election bid, promised a smooth transition from his administration to the new administration, which takes over Nov. 7th. The Mayor, like much of the community, is slowly coming out of shock; and he’s still taking orders from his good ole boy club and a remora-like gaggle of entitled attorneys.\nThe Mayor’s first transition move was his announcement of a Performing Arts Center:","url":"https://rippreport.com/p/showing-your-true-colors/","image":"https://rippreport.com/img/showing-your-true-colors.jpg","charset":"utf-8"}

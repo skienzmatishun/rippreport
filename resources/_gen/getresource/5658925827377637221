@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6402b1c79a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BsUyymBnc70N4ZmO%2F3XVsN9BC25FBuWNVQgdCtyj0j32YbmneLTi9jG0d5HHdATDSRac%2FAk%2B7QX2r7YsKCNzzzXeUx53oK0qCO%2FOPviZ90D66bdoPBo4a6kPDdTEYjmNMlFL1IGMqtphU1iKGdf%2F8wj5SA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4ff0feeb29ccd9eb8a68dab559814b2c
+X-Etags-2: 4ff0feeb29ccd9eb8a68dab559814b2c
+
+{"title":"FRAUD - Ripp Report","description":"Webster’s Dictionary&rsquo;s definition of fraud reads: &ldquo;Deceit; trickery; cheating, intentional deception to cause a person to give up property …","url":"https://rippreport.com/p/fraud/","image":"https://rippreport.com/img/fraud.jpg","charset":"utf-8"}

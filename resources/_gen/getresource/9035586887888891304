@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c16d6ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mbq%2FjR7ZotDoB4FDDbZQO4EKzQ3v6JLt7po2w2cB4f9qwczz5nIEtKxPF3Ncs%2F7TwPCquau6mX%2BV1ziAZbeC9bCmU36xotWpCWvKhFRjtcf4SwDGUWXYrlFPsHVnUdr7GO1zLPqCjf0iOfMscfk%2FL02NVw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=94
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 864825bc73a49612327d137a0252a120
+X-Etags-2: 864825bc73a49612327d137a0252a120
+
+{"title":"Adventures in post-breakup dating - Gulf Coast Media","description":"I submit to you, dear readers, that breakups are not actually the worst thing in the world. Having been through one rather recently, I can agree that it has been painful and depressing. It  &hellip;","url":"https://gulfcoastmedia.com/stories/adventures-in-post-breakup-dating,52029","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1470424799_8a52.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640680a91a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LxlfsdzECV459d9wYIS65Mf7c5dXTVOtYQ1pN1h1nTFpSOBWhXpktWZW0ufT4pycVMDDjCvN924QSmQVdm4zLb%2BiSQhGq83zhErs9IgLmldsvclSkK3L0Fp9MME71LP2tDW1a8k0Ag8c%2BVjQmiB1o%2FXqkQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 300742f53aaa9c924d416f72b52fdb97
+X-Etags-2: 300742f53aaa9c924d416f72b52fdb97
+
+{"title":"Update on Baldwin County DHR staffing following controversy","description":"FOX10 News has received new information about the Baldwin County Department of Human Resources.","url":"https://www.fox10tv.com/video/2024/07/20/update-baldwin-county-dhr-staffing-following-controversy/","image":"https://gray-wala-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F07-20-2024%2Ft_48e0a6da7bb8455e970a39012abc4a12_name_file_1280x720_2000_v3_1_.jpg?auth=f56a049e5f5608b9c8a4644902075dfd86bf37c3f416d5133f8e275abe122d36&width=1200&height=600&smart=true","charset":"utf-8"}

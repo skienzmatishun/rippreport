@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404d19daa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZYPXpRdsE1fh9zU5OjkEU8hzZ227m4JZKEplDwZMRIUsq9r0EcotA470TpaWQs5JBOlJXtazeE0fkOtvKYLwy8esGXRNtlcv7BgpNaYYOdzodbYcLMl3%2FSRGljyrnQzyJZtqss%2BCHk8pxEVjKWwY7%2Bj0ng%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e3ac86f835985f9757d535a3e2f35be7
+X-Etags-2: e3ac86f835985f9757d535a3e2f35be7
+
+{"title":"Alabama goes all in on ignition controls for drunken drivers, but do they work?","description":"Taking effect this month, a revised law provides for people convicted of driving under the influence of alcohol to install ignition interlock devices that prevent their vehicles from starting if they have a blood-alcohol content of .02 or more. ","url":"https://www.al.com/news/2014/07/alabama_goes_all_in_on_ignitio.html","charset":"utf-8"}

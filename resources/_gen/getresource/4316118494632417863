@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bc3d17a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Cw6%2B3ZvXeKeHvKclbGapfSlQxHwJLrBg5MzzxE%2B2Oio5kJN5IvzW3GRl%2BB5oJ0Rxhj8X%2B4BiKo%2Bg%2BBJCLH%2B9H6sGBEiVTgbCWNl%2FzVHaUMMhxd3oHJEnI0aaEj5pPCyQMV9VhhMqc7GMBT7bYG0m82ITCA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f7d6043cb16ad463cf525dccf1526a5f
+X-Etags-2: f7d6043cb16ad463cf525dccf1526a5f
+
+{"title":"Sparks fly in Fairhope: New mayor, council president dispute airport finances, personnel changes","description":"Mayor Karin Wilson and Council President Jack Burrell dispute the future of the city's airport and hiring decisions. ","url":"https://www.al.com/news/mobile/2016/12/sparks_fly_in_fairhope_new_may.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Fwilson-burrelljpg-aa2019e52fd89e99.jpg?auth=3cae87d3d1531c31866e76b3a248b9eecf32cc35f5b117b779bcafd0dba6a534&width=1280&quality=90","charset":"utf-8"}

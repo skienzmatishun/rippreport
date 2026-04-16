@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640abfa27a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=l3yW9aRkt61jEaMvjJlt6P8bVHM%2FOtUuVO5m4JJnFCW%2FztZm5paypHTT5G47O%2FI0wNiDFT%2FwFRjEBDlgJB%2B07sSqwgHWI7Zx8bcfgoLk2yBR7T%2Fyg98eVXgoyI9YHxywsp31%2Fmk2RSAhhWGiszKqCrn0ZQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=91
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3f856ed6e09fa08f3ee73a7ab1535c74
+X-Etags-2: 3f856ed6e09fa08f3ee73a7ab1535c74
+
+{"title":"Fairhope Working Waterfront plan nearing completion - Gulf Coast Media","description":"FAIRHOPE — The Fairhope City Council should vote in April on final plans for the Working Waterfront that include a lift to bring passengers up the bluff but few other major changes, planners and city officials said.","url":"https://gulfcoastmedia.com/stories/fairhope-working-waterfront-plan-nearing-completion,122266","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20220322-101817-lift.jpeg","charset":"UTF-8"}

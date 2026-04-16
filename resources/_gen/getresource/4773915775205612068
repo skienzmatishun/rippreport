@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640518f09a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jSJbKQ%2FjV2IM9Ir29pd1xWO5AIn%2B2rtxyDIsxa6bYzUhq2zuqxPWgWqua5hF4Vb%2BrMUgFjE0Iqylib8xSu7ToLlFGOEW8Zkm372CtrUF0bMIH8RyHj6JdoUlMTM%2FNhXvcgZVGlnIBLXkKSOwvEAzjtSvAA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d95a24fe6a35171924575425cf2b5a48
+X-Etags-2: d95a24fe6a35171924575425cf2b5a48
+
+{"title":"CAPTAIN JACK - Ripp Report","description":"Fairhope Airport Authority recently held a special meeting, Jan 8th to discuss a “notice of availability”.\nThe notice covers many issues and the final …","url":"https://rippreport.com/p/captain-jack/","image":"https://rippreport.com/img/captain-jack.jpg","charset":"utf-8"}

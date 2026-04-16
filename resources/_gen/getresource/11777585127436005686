@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640638d4da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aM5X7mYeo8vHtptXe%2BCVIucijPEdX6tbBGq9kZ7hs%2F61hVFnGFmIzs6sAPhZBoM1xrUxWcN8uBqCwe9IiP%2FsHKkDLPAEyayQ8dLv%2BhT1Tr9GGldVRr6VuQlNzVJH%2B14VYzfQYgw1Tnm3UEhf09krRiLSDA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cdf67c9b249627d77fe9068bce3be100
+X-Etags-2: cdf67c9b249627d77fe9068bce3be100
+
+{"title":"PANDORA'S BOX - Ripp Report","description":"Today the phrase &ldquo;to open Pandora&rsquo;s box&rdquo; means to perform an action that may seem small or innocent, but that turns out to have …","url":"https://rippreport.com/p/pandoras-box/","image":"https://rippreport.com/img/pandoras-box.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64088fb3fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yTnHiy8%2FwwDPNLmhRZwSl%2BZIZ7WkVQotTdGH6hqW2skKBb2FXFBRtw5zJhqjrbK4Sj2fQAmoMbjlePEqCD38I2VJuAadqPAtmVflOg34pIpywOO9VBb8i2EaflHskSsPx7BYI1MCyMw0k%2BiMl4zM%2Fbf7jg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 042d5944903ba4305dfc6f19b799770f
+X-Etags-2: 042d5944903ba4305dfc6f19b799770f
+
+{"title":"NUFF SAID - Ripp Report","description":"The Ripp Report has been reporting on the Airport scandal since Nov. 2016,\nYOU DON’T KNOW JACK I have followed four Fairhope city councils and one …","url":"https://rippreport.com/p/nuff-said/","image":"https://rippreport.com/%!s(<nil>)","charset":"utf-8"}

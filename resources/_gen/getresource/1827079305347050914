@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640990d28a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QJ%2FAQrFEyurutKE3BQf%2FcVGyMel0p5be7%2FQpaAeMGvkryx3%2BjmdPAJDr506eqFsxfe3Ea9MxrBFGGDVoWLKJvafEmfTyHAOR9E7nAwQyh%2FgZs%2FBDo590BgOiU6tECP0EUCCHKl1S%2BlSFQ%2F7RBcP3JhJApA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a2188347e21e7adc930716b4a500fbfc
+X-Etags-2: a2188347e21e7adc930716b4a500fbfc
+
+{"title":"Updated: New Fairhope Entertainment District For Alcohol Proposed","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2017/12/new-fairhope-entertainment-district-for.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2APr8niZ0A6P7WZ9K3_ZnuvNrJiCaHRpdfhlQmBGvskjCJ-xw6h30C3ZvMI2E9NQaZtJ4P6fTWivIcjFKiFR_yKasR7ey3HePbqro2WWAp7zNU-FqNj1IxvTwhQEUeiClzBDJ7oy0Jkk/w1200-h630-p-k-no-nu/fullsizeoutput_126.jpeg","charset":"utf-8"}

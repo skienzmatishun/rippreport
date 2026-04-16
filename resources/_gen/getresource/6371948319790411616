@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404dcbdda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wC0WulxFDk%2Fb7ZXEgtxwqOv8GR1G6meDIRWtTi52Lp031BV%2B8PNv7ciQKp0D%2Fz52hLrlYnlh7MWS02xH3J7hwZJGHUGtGk7zEb6FoWW3WedSkULuBiv3dVkH3lCp53td18KNlr12SAru58EvQ35%2FwI7Tkg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 284b263ba916c942d70745e018262170
+X-Etags-2: 284b263ba916c942d70745e018262170
+
+{"title":"CATALYST LAST STAND - Ripp Report","description":"Two of 5 council seats had no opposition, Place 3, Jimmy Conyers, the best one of the last council will serve 4 more years. Place 2, Cory Martin, the …","url":"https://rippreport.com/p/catalyst-last-stand/","image":"https://rippreport.com/img/catalyst-last-stand.png","charset":"utf-8"}

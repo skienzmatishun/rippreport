@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d8bebca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:49 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=x22pi4xFSll6Ed5Txrgi6kPqMnFL7Vj1oNlqebIIX0UeW6ZfamXBDuUEttlQ0oJpNGpyUbLSmZzfh3ynF%2B3qM06WQougyw7D08HgpdeTD4m5wvyEhqp9XWH1IXUKUQoWe7eFm4gOZYbIIcxInTkg%2FrafuA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: aa4bc399c28813e4a6bc0ac45c1b21fb
+X-Etags-2: aa4bc399c28813e4a6bc0ac45c1b21fb
+
+{"title":"Legal Schnauzer: Tales of intrigue from Tommy Gallion: An intrepid attorney, with deep Southern roots, shines a bright light in the darkest corners of Alabama politics","description":"     Shadow Government, Southern Style: A Saga of Political Corruption From D.C. to Dixie  (2020), by Thomas T. Gallion III; available from ...","url":"https://legalschnauzer.blogspot.com/2020/07/tales-of-intrigue-from-tommy-gallion.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy1BwOvTU_WPkwOHi3dYZKX3TtxcSrnLNN4gexB54bzcuzg_tNDAX7P8KaPsWHludkrXVyljQF8sxRJkKtK1QGTktPJCdEi_WMH3961JKlnNlGiXh3hwUGGHgI1lczGflG2RMf7oS9N08/w1200-h630-p-k-no-nu/Shadow+Government.jpg","charset":"UTF-8"}

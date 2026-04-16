@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64096eec5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UBm4cXyBZy%2BV1Tmy39pTXVL1RypAb7m4N1yj3mhMj9EYEK7KFA4JVIuUP2eLvaCW9R6pQG7J9M3fD6yYUVHvJv%2FuFoeOt4RSm0OYEmlGAPSomhkXYffzLheJJuNVpOBoAic62WUcmJ2jjnX8GcI3SDdFdw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c224b952cb12fec2cd5e957b82410416
+X-Etags-2: c224b952cb12fec2cd5e957b82410416
+
+{"title":"IGNORANCE IS BLISS - Ripp Report","description":"I knew I could count on the Lagniappe to produce a comprehensive article about the recent referendum election in Fairhope. Well done.\nFairhope voters …","url":"https://rippreport.com/p/ignorance-is-bliss/","image":"https://rippreport.com/img/ignorance-is-bliss.jpg","charset":"utf-8"}

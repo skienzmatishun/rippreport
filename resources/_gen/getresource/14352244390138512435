@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640607bdea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3ZlCH%2BkfVfE1aJdrqEHOp9BgBbqYCtMFOjBKEYjEWykklbwwNcE7%2B8%2FXWljQZQg8jdeGjKVux%2FCdiGEfYkzyrCVO2WAgYqA%2BM%2BEDYTgrJLTj%2B6WuK8PcMHjGIEZ0txvXuMA7erQGts1RLlsp6w74urGW5Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 24eba34fd62ab2cddd15074fc166ad8b
+X-Etags-2: 24eba34fd62ab2cddd15074fc166ad8b
+
+{"title":"JUDICIAL TRICK - Ripp Report","description":"Baldwin County has had a reputation of judicial malfeasance, trickery and out right corruption. Citizens read about it in Lagniappe or on line however …","url":"https://rippreport.com/p/judicial-trick/","image":"https://rippreport.com/img/judicial-trick.png","charset":"utf-8"}

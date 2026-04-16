@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a59c0ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=02iQ7aJ%2BW4oNIioyV9U6TF0I8xBcXQian881X8lWbewcEpVvN9wT0uxdS9IUiXvZNuFtcqb%2BHaTkHxlyyUjNdpweMgW2BgzNoE%2BJran4mhfYzwgizfGxTL7B0VF3%2FLMdId2zyOnZnPDhCA1B1L5grKfaOw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=126
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 91fce91c1d7c8e64d684a617fe196cf3
+X-Etags-2: 91fce91c1d7c8e64d684a617fe196cf3
+
+{"title":"FAIRHOPE’S BLAST FROM THE PAST - Ripp Report","description":"The Fairhope’s political Zoo is alive and well. Their is a full blown blast from the past party going on. The party goers are former City Council …","url":"https://rippreport.com/p/fairhopes-blast-from-the-past/","image":"https://rippreport.com/img/fairhopes-blast-from-the-past.png","charset":"utf-8"}

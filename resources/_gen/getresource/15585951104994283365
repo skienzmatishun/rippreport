@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64033be68a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CGTOUPBly5TWttJjqmgKSfZ7KH3Et%2FCWOmEif1pTM5fHVfKStkuN65ZImnT5TyAfebUmuOBYgKtgm9RReBIb7jIIsNeUEk0F%2B9x%2FwLKunWZWXBDk8Z0UGk2keBZpSBZiz%2Fv5bCyslGVz7TT9tvr5wnOw2w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3dd0981cd0b8a20621ee30019b521fb0
+X-Etags-2: 3dd0981cd0b8a20621ee30019b521fb0
+
+{"title":"SEE YA IN COURT JACK - Ripp Report","description":"PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION\nDecember 29, 2017 CONTACT: Francis P. Ripp\nLocal Political Activist, Consumer Advocate, &amp; …","url":"https://rippreport.com/p/see-ya-in-court-jack/","image":"https://rippreport.com/img/see-ya-in-court-jack.jpg","charset":"utf-8"}

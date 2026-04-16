@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640581ad8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8QKC47nMnqPtjT2xdWRydJnuonh0bGWwQsnbHjcSQXCkP5Fxlak4ooHJ9OQNCij%2FvDscJLQpDwshVCpnFa58JwPYeFDttOGA8LdbGZXpWMjtbre2QuUYO6X58uXR73xmOVFFUFQdfNYDLstRGSrZM%2BbHPQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=101
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bdb92259588853fdfe173402bf9e6439
+X-Etags-2: bdb92259588853fdfe173402bf9e6439
+
+{"title":"Baldwin County Family Court Reform Project","description":"Baldwin County Family Court Reform Project - 「いいね！」33件 · 28人が話題にしています - Exposing corruption in Baldwin County’s family court system. Sharing real stories, verified facts, and demanding reform to...","url":"https://www.facebook.com/familycourtreformproject","image":"https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/486535630_1313408353687345_3081316570978619081_n.jpg?cstp=mx231x214&ctp=s231x214&_nc_cat=109&ccb=1-7&_nc_sid=3ab345&_nc_ohc=Grrz7km8S4YQ7kNvwEXnYl4&_nc_oc=AdkRlm_ETzx-orfLFjGoeEtIYpylgEXY7vgX8uTiU8PL3AuDlbIjvi07PKQjbeWydl8&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=DY189iUPZfs4HqvkmQj64g&oh=00_AYEezZl40gtwwHX2EGWcvpPj1GWNYxaaEGRKDeCoBoVyNQ&oe=67F4B579","charset":"utf-8"}

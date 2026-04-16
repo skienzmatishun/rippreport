@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d3cfe0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bPWc7ZjLLO7Ep72XSCGULzAjuHQkDxALT5Vz1ZQesph%2FZTsaFqsJVu0DY6aS8qoDUkwx1mzKZT2vY9iXdoBbog1p0UVKhCvNUu39UnEg%2FnZO9IlbU%2FuAleAs7fI8nQIh74Vli0Mf5Lf0r1WzqtWWcKn9zw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8cff2fbb6639eb45f5842cb5d0ce18ec
+X-Etags-2: 8cff2fbb6639eb45f5842cb5d0ce18ec
+
+{"title":"Fairhope house party bust: Police release names of over 30 arrested  - al.com","description":"According to Fairhope police, about 4:30 p.m. officers responded to a party at a residence on Mary Ann Beach Road/Baldwin County 27, just south of U.S. 98 near Weeks Bay. About 60 people were at the party, \"openly possessing and consuming alcoholic beverages,\" according to Fairhope police spokesman Sgt. Craig Sawyer.","url":"https://www.al.com/live/2014/05/fairhope_house_party_bust_poli.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Flive%2Fphoto%2Ffairhope-policejpg-869554ee123ea0d9.jpg?auth=e1eb0f30040c7106118312adf0eae6480352859970c9affbfa12d1a7cbf90732&width=1280&quality=90","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64051f82da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QimJHMdTtXxiFzcqpxbQJNzDCjIk3f9g6ss2Np77mxuOXMlMGRYWndpqCV%2FZuMsZQurHVrFRhzNkrBEXinsz%2BGUSzp%2FI9N0atMkzPzMq0l%2FaNaZjdlcVVpCgYsklThFUY5U92MQc5KKpi5Q0VhJzF4hX4A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 17ddb7ad781ca88b5fbe502780a24b3c
+X-Etags-2: 17ddb7ad781ca88b5fbe502780a24b3c
+
+{"title":"EARFUL - Ripp Report","description":"The narrative of the wrongful conviction of Murray Lawrence Jr., A Verbal Lynching in Alabama, has been recorded for a podcast. For further …","url":"https://rippreport.com/p/earful/","image":"https://rippreport.com/img/earful.png","charset":"utf-8"}

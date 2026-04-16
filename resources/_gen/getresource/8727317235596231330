@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404f78e0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rygPjA4YSwQiohSaN8lROWoZJKqsx%2BBjfG2JeifsP2r6%2FYFx6XODbKGJlsSsKwUsB49qHW1P1dQhb6JnFLJ25%2FJkQ39c5VUFN0CVZuhD%2FurdRIpLDCNxY6dZywUQEnye%2FjkEtq%2FwbLZk3i6Gd%2FGVbVGSMg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cb8c095f69a8cf56ba371f6491b78c9c
+X-Etags-2: cb8c095f69a8cf56ba371f6491b78c9c
+
+{"title":"WRIT OF MANDAMUS: UPDATE","description":"The Ripp Report is a consumer organization first. We also maintain a blog site, Facebook pages and a Podcast production. The Ripp Report is a not for profit. We expose political corruption and file appropriate complaints.\nOn Monday the 25th of November, Judge Johnny Hardwick, Circuit Judge, Montgomery County, will hear a STATUS REVIEW on all pending motions, relative to the Writ of Mandamus, I, Francis Paul Ripp, filed October 18th.","url":"https://rippreport.com/p/writ-of-mandamus-update/","image":"https://rippreport.com/img/writ-of-mandamus-update.jpg","charset":"utf-8"}

@@ -1,0 +1,15 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=86400
+Cf-Ray: 9ed64031dc6db143-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lsQkLSC5tPOCgagfX6C2ClCcPdheB%2BRVOMVEApQFE%2Banu4PMYmNsYUQ2UT8BxwYb8IMCOcw8MoxRAN67uUjFOeEs1vFVKL1yZQN5VC%2BJRqv3%2FesXLltfJi1sYeZJheMn6v39ACvLx9UKS%2F5U0BmUb1UCecNmmMJmQeCyVy0P9%2BNZH%2BGQketl2wI%3D"}]}
+Server: cloudflare
+X-Cache: HIT
+X-Etags-1: 7070995f80d9d1d05309e81a2211ebcf
+X-Etags-2: 7070995f80d9d1d05309e81a2211ebcf
+
+{"kind":"youtube#commentThreadListResponse","etag":"BfYqlOH80o86tMF3v9Z3qeBbl3Q","pageInfo":{"totalResults":1,"resultsPerPage":20},"items":[{"kind":"youtube#commentThread","etag":"_WZzVKU8HO28vi8uoazLArMojPw","id":"UgzCCZzhB1n35jyUqJ14AaABAg","snippet":{"channelId":"UCjn78nMjSRO3M2X6jCsER0g","videoId":"DDOXqwJwLbE","topLevelComment":{"kind":"youtube#comment","etag":"dfq-HcntSOKuQfy6R_J4YdCl8iA","id":"UgzCCZzhB1n35jyUqJ14AaABAg","snippet":{"channelId":"UCjn78nMjSRO3M2X6jCsER0g","videoId":"DDOXqwJwLbE","textDisplay":"Baldwin County is so disgustingly corrupt. It makes me sick. These good ole boy LEO can run around and do and say as they please without any accountability. Baldwin County DHR as well.<br>I was born and raised here, my family founded the town of Bon Secour. I have seen some of the most outrageous corruption first hand, even as a little girl growing up here in southern Baldwin County and it absolutely just makes me sick. <br>Judges, Attorneys, police officers, DHR, school board, etc. I personally have seen it all.","textOriginal":"Baldwin County is so disgustingly corrupt. It makes me sick. These good ole boy LEO can run around and do and say as they please without any accountability. Baldwin County DHR as well.\nI was born and raised here, my family founded the town of Bon Secour. I have seen some of the most outrageous corruption first hand, even as a little girl growing up here in southern Baldwin County and it absolutely just makes me sick. \nJudges, Attorneys, police officers, DHR, school board, etc. I personally have seen it all.","authorDisplayName":"@whitneykayjuvenal","authorProfileImageUrl":"https://yt3.ggpht.com/leUkR61dLIOM3CnvzioK24bjCzxZM51mFFB_cwOIzNz6smm7MiK7va_62pPnMggz9lJKlhgsN_I=s48-c-k-c0x00ffffff-no-rj","authorChannelUrl":"http://www.youtube.com/@whitneykayjuvenal","authorChannelId":{"value":"UCx0tnYHvnp3AMu5Ap_PS5fg"},"canRate":true,"viewerRating":"none","likeCount":3,"publishedAt":"2026-01-26T09:59:59Z","updatedAt":"2026-01-26T09:59:59Z"}},"canReply":true,"totalReplyCount":2,"isPublic":true}}]}

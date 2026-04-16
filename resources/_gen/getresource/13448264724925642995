@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640402b9ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:24 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KMQhp09J23ASd%2FhztZ7avykctocLrGce0LnFRiTsqlzLMtGocZPUptBCvS%2BOiHjIjXNFU5sM1T49jfeMALX8nVW22lnplW81HiSVPK%2BsFYTvPJV40kAJzsd8Qmq3WwzJY2SEowio1kEp%2FiOkcgqoyoc%2Bcw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c7f92704baa407e554d2c954498ca02a
+X-Etags-2: c7f92704baa407e554d2c954498ca02a
+
+{"title":"SELECTED NOT ELECTED - Ripp Report","description":"The Fairhope Mayor and acting Mayor Burrell are moving at lightning speed to replace Robert Brown’s seat on the City Council, before any citizens can …","url":"https://rippreport.com/p/selected-not-elected/","image":"https://rippreport.com/img/selected-not-elected.png","charset":"utf-8"}

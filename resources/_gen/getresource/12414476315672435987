@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64096eebda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IZ3iXhWQjjHDiliXPJX7OJD5fClzKOoIdQnJia8nHXFAxNMjgSanP93ZCMM8UeLpxnGHZ1up8bRqP5JKd%2BHP1OkewNHZ26nuN571xbKefrYz6iouacx2Lc0fdcCb4NudnY%2B18Tm%2BZzr1A05joS53IVejkw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=71
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f7b2359d850bcb63c8381f7c7263f494
+X-Etags-2: f7b2359d850bcb63c8381f7c7263f494
+
+{"title":"Alabama renovates abandoned governor's mansion with BP money","description":"BP grant money left over from the 2010 Gulf oil spill is being used to repair and renovate a beachfront governor's mansion","url":"https://www.cbsnews.com/news/alabama-renovates-abandoned-governors-mansion-with-bp-money/","image":"https://assets3.cbsnewsstatic.com/hub/i/r/2015/12/21/46eb6826-81db-490b-ad55-0ae2c2254800/thumbnail/1200x630/c3923cce37b5a691f4d0344137e05ec4/ap962627108064.jpg?v=33116e4d892fab6878b5c06299369826","charset":"utf-8"}

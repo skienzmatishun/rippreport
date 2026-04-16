@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405b8d09a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=v31Ui%2FP%2B2Nfox6p4%2BA%2B06vC9pLJ6514%2BQaOLcN78Cw5M7yF7uXUleo5u5NdRqz71MF2rNM19GzCTF%2FVG%2FaNUR6lKzWj%2BX0YqcYEVvMm5rXDZv9ZZ5E7E%2Byb3kh6oHsQwZD%2F4PfqUxsn7b7w6%2FJ6Pc32ZAQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 72eb9eda95a1ef2b1530984d0242badd
+X-Etags-2: 72eb9eda95a1ef2b1530984d0242badd
+
+{"title":"Supreme Court stops special master in Mabel Amos case","description":"On Dec. 18, the Alabama Supreme Court agreed to a request from the state’s attorney general and stopped a court-ordered audit of the Mabel Amos Memorial Fund (MAMF), which has","url":"https://www.lagniappemobile.com/news/supreme-court-stops-special-master-in-mabel-amos-case/article_3513b1ae-9ec8-11ee-b6b1-6bd4ab21716c.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/7/de/7de5d5ba-b887-11ed-904b-e7ccf302c8cf/63ffddab8d77f.image.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

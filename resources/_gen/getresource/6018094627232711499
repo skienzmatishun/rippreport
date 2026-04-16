@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640828dfba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nGZn9lTsn%2FP2jTUCC3TNBVOCASo3jsUbprck3gHS%2FD30zGpEbs%2FB49i21eFfV1TFsUHNbPXn%2FWuJhwS4eLiiWbuiOSRESZnGsquJPeJ%2F1GHx5G8Z9VIWf7laP6Hu8meGzzep6Uo7SggRTzWEUpx3RpIB0Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0969224d46a5ed90c4a3cc283963e599
+X-Etags-2: 0969224d46a5ed90c4a3cc283963e599
+
+{"title":"In Gulf Shores, environmental battle rages over sewer plant","description":"Baldwin County Sewer Service, a private utility operator, had two permits denied for their sewer plant in Fort Morgan. But there are looming environmental concerns primarily with a sludge pond that was built in 2021.","url":"https://www.al.com/news/2022/08/sludge-pond-and-polluted-lagoon-in-gulf-shores-environmental-battle-rages-over-sewer-plant.html","image":"https://www.al.com/resizer/v2/NAOGKD4PRFHAJA4MS646GNTH6E.jpg?auth=5d01033793821e8aa8d5a9a0478f5d863d95a83d84418e71e191f2bed108b480&width=1280&quality=90","charset":"utf-8"}

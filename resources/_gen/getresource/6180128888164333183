@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406d8b92a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fwSC4LZk9FJQ0N4DRYjS1AXrS8itbXx8erVqrQNxWxiCrf2Z1m58qDpmUM5E%2B0Nyg%2BS%2F3%2FgS9zcV528eyiTa8lS7WzgQfWYxX3JMDl8%2FYVyoJXoRpiuklnIe3KGz7h8M2OVkhBu7FmVNnX%2F0oDFH3UNT1Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5211cec92b10edf2c0fc0a34426559b9
+X-Etags-2: 5211cec92b10edf2c0fc0a34426559b9
+
+{"title":"Library Repair Saga Continues","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2018/05/library-repair-saga-continues.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0vldbEGr7zNO5WRbtUk3WU0TjERrpF-IivXdcfnoc4LqjFGkluoqxAeRWcplw73UYamiXMgpI7mpOHoJTFTApgKzeNXwoG7p7wYfJ0o1QgYN-HfBeXEwW180iYdnlpyfywBI4TO3HMrA/w1200-h630-p-k-no-nu/library.jpg","charset":"utf-8"}

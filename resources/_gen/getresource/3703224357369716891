@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64055fc5ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=H8EmGH%2F0B3DVNTLN5QnX%2BsledxE3PVezLgg%2FZTKq3CKOroRbgQK0h6%2BUt2hSjOypkGUhKqNDh7u%2FiroWtIk4dQmlAJ%2FHPHF04Ot%2Fu0L75BIHf8mLKWNCFS%2B%2FjMdTk%2BhCvBNwJ2OXf1B6WA8tTblEMgewUg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d22de5e0350704686d3b2f13d7fbbd71
+X-Etags-2: d22de5e0350704686d3b2f13d7fbbd71
+
+{"title":"How much is enough? New apartments rile up one of Alabama's fast-growing beach cities ","description":"A 209-unit apartment complex on Regency Road in Gulf Shores has residents upset, claiming they were not given proper notification about it. Gulf Shores city officials aren't expected to vote on the project, which has the residents also upset.  ","url":"https://www.al.com/news/mobile/2018/08/how_much_is_enough_new_apartme.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Fregency1jpeg-e01659c6d0cd81c3.jpeg?auth=788ba1126578bb18f7f2535250c6fc8f8152e0c365117be97940b4b27913eac1&width=1280&quality=90","charset":"utf-8"}

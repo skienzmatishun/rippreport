@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6402dac50a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zA4RbNobz35IcQn8%2F7ntQUzJdA%2FOTmYbjqmgFhARb2OqFAdJzeTcmiqkNaDUYEVecG%2FJ33thElxQ6M6juppIjx6YoID5t9t%2FyaKfzM3tlLdAru5vcwx28lBJoXziZE05B5Qu9aKHcofDrqNkvyPsgyDs7A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e30bd6aecad25cd83597a5a82015103b
+X-Etags-2: e30bd6aecad25cd83597a5a82015103b
+
+{"title":"Fairhope Council President, Mayor clash over airport land deal","description":"Fairhope Mayor Karin Wilson has failed in her attempt to gain control of much of H.L. “Sonny” Callahan Airport land for the city. Following a discussion marked by sharp personal","url":"https://www.lagniappemobile.com/news/local/fairhope-council-president-mayor-clash-over-airport-land-deal/article_99540473-7208-57ca-ab2d-f262d5ff5949.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/0/80/080deaa0-6bfc-587b-b27e-4b602cadd31a/630ebe1218de8.image.jpg?crop=1639%2C860%2C0%2C202&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

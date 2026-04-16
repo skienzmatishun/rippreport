@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64064f98aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QT1NTvUBKDaXrGqYKgbbx2%2BYaBi%2F29qXyyYQnhbXj5kvnIJevgExwhlsVdbfkQEkbgkfoHxhjmxdQF6rwc%2BXLp5ZzVSJvYnSDg8cJRNQywhkew7Dj6rZb9%2FqA812K7pOJAO%2BRpzGZ6DqrTgH5r0DPdlKsA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=92
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e6e8f117e447a75361d6dce01dda9ae7
+X-Etags-2: e6e8f117e447a75361d6dce01dda9ae7
+
+{"title":"🚫 CATALYST COLORS 🚫 - Ripp Report","description":"Incredible, only three Fairhope City Councilmen, the 3 B’s, Burrell, Brown and Boone, approved and purchased, 2.65 million in land for recreation, …","url":"https://rippreport.com/p/catalyst-colors/","image":"https://rippreport.com/img/catalyst-colors.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408efe18a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=S1Cyr7kCnuUre0rlNN%2B3ZtU9I5suXaUtHJdoSPLd8Ntyu0iRQy3nOTYHG4gyImk6iJuVdM3ozT4CWwBo6kvBrDRcDZhBxwuxDCYRjy1xEl2utsF0CejWtVe%2B8WU7BN9YLGuRQdbxOEe2Ey%2FGFCyyrz62iw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=115
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b863db9cac1963181b6e58cd53b473f9
+X-Etags-2: b863db9cac1963181b6e58cd53b473f9
+
+{"title":"Alabama Ethics Commission dismisses complaints involving Fairhope Airport Authority - Gulf Coast Media","description":"The Alabama Ethics Commission sent out letters earlier this month dismissing multiple complaints filed against Fairhope Aiport Authority member Ray Hix, Fairhope Municipal Judge Haymes Snedeker and  …","url":"https://gulfcoastmedia.com/the-courier/stories/alabama-ethics-commission-dismisses-complaints-involving-fairhope-airport-authority,54546","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1468613238_f58c.jpg","charset":"utf-8"}

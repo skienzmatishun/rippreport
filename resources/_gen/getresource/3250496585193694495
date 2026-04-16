@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409b4c18a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CtSdaNcm6x3xB9E%2Bjdqxeq4DMgo7%2FAkuZw578g4aBtmh2BJSxcn6AvZH4L3qiyGp22niPm1PsR1MsqPQro6ToZBYqDgUMz%2BPqD1uN7o8QsTZ%2F0evA%2BmqPllZL1Aeb%2FUXSfkkb4d550Y04Jd4X9Ep1YU6MA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b028103a0a42776677d9987de0e6182f
+X-Etags-2: b028103a0a42776677d9987de0e6182f
+
+{"title":"'Very confused': Uncertainty abounds ahead of election","description":"Fairhope voters are scheduled to decide during a special Oct. 2 election whether to change its form of city government from mayor-council to council-manager. During a candidates forum on Tuesday, uncertainty about what the switch might mean dominated a Common Sense Campaign tea party forum. ","url":"https://www.al.com/news/2018/09/very_confused_in_fairhope_unce.html","charset":"utf-8"}

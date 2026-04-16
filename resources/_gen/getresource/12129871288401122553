@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640857826a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NF8OPKeSL9bXH5Q7xVae6gnSbtz6bZI5rcAOapnSaHAmu26B9sZh1RpdTLY6HMM3MDOHLBZCVzOriAC6fZlicXJktBXQDwmA5BvHn%2BBbyzE1o1hOGEJoAjfjGFCIU3sSP57gcJY9n8%2BwRG5kuzsR5yg%2FRg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e0672a8a7beb33e143598d33d633de92
+X-Etags-2: e0672a8a7beb33e143598d33d633de92
+
+{"title":"Public Portal • CivicClerk","description":"CivicClerk events and agendas for citizens","url":"https://fairhopeal.portal.civicclerk.com/event/150/files/agenda/644","image":null,"charset":"ISO-8859-1"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640764f34a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2%2FGr1jCH8NbEZi%2F7pPAKIZmMrQbHHrS%2F3VMciALoAg1lwhK%2B7A0pVI8P8QgHwJFjOV7h3nLrg1fvMiprFD8J8C2MB1KFHdTVXBXrMCLn3QdnR1hlVHmhMBNAPDh3Tl6PbNpeiGT8dEJIrqu%2BoCHld9IjQA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 17b9f93d9d40ace85e8d9fa1e0d47f71
+X-Etags-2: 17b9f93d9d40ace85e8d9fa1e0d47f71
+
+{"title":"RSA sues Baldwin County over Point Clear planning district","description":"The Retirement Systems of Alabama (RSA), the state employees’ pension fund with more than $44 billion in assets, has filed a lawsuit against the Baldwin County Commission for adopting the","url":"https://www.lagniappemobile.com/news/rsa-sues-baldwin-county-over-point-clear-planning-district/article_54d5a28c-9a72-5fb1-8b08-c9432d4583a4.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/5/d5/5d55f385-3fbd-53e4-b779-4416dcae13db/631a2d2a26683.image.jpg?crop=1300%2C683%2C0%2C151&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

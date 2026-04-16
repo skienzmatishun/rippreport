@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640828dd6a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2a%2Fii1Q26OCh8lyER1szj1tQxGzoTpkmqWXDgcBD3S4oUdxv%2FctIJCJwKXiGgdFplRE8lQ%2Bul6H7t%2Fcyn%2FZU3jWtaNgWdkF3U9LSfE9C%2FIU8%2FJRr12FSZwshlUsx5sEd7s%2FNATkFHVDxJaQG1ux9XNJ%2FHg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 65fda2ea2d82c205827e5e977fc5472a
+X-Etags-2: 65fda2ea2d82c205827e5e977fc5472a
+
+{"title":"Judge’s ruling would compel Lagniappe to provide communications with sources","description":"In a move that appears to be unprecedented, a Baldwin County Circuit Court judge has ordered Lagniappe reporters to turn over private communications with protected sources at the request of","url":"https://www.lagniappemobile.com/news/local/judge-s-ruling-would-compel-lagniappe-to-provide-communications-with-sources/article_30d795fc-c78f-5ee1-b74c-56d6ba4bbafa.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/7/3e/73e0c422-7ad9-55c5-81ac-05bde72590d3/631a216e8fdfa.image.png?crop=480%2C480%2C0%2C59&resize=200%2C200&order=crop%2Cresize","charset":"utf-8"}

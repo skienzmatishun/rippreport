@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640775a2da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qA8RVziZFptP7OHFNKHsc5Bdtw6R1BtofvJLb4usV17sfNr1PZLxZRMCZq%2BKEygvmihXFSxrCPlOwbT%2BCzNDm0WxwlSQIfYEVI5LxA4UuzSeftqFan5AOMsZLHkUxDLuzs%2FzI5aIYBZXPLdlkpmr8G7cDw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e4d37cbe9324a80fedb5c295b6d24303
+X-Etags-2: e4d37cbe9324a80fedb5c295b6d24303
+
+{"title":"Stakeholders ask for more time to evaluate Port Authority’s ‘wetlands’ project","description":"The city of Spanish Fort is asking for more time to evaluate a controversial plan by the Alabama State Port Authority (ASPA) to create 1,200 acres of wetlands in Upper","url":"https://www.lagniappemobile.com/news/stakeholders-ask-for-more-time-to-evaluate-port-authority-s-wetlands-project/article_a695f7c4-5d11-5bac-8a59-1af89c1f8d3b.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/e/43/e43e75d4-c475-5d3d-b825-41fdc74cefca/631a406ccf531.image.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize","charset":"utf-8"}

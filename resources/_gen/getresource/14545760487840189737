@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408c1d4da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BnjkFfSfuBZrsUJIsv6BTI7BIQZrOKggZ7qmznRC3t7wDfTQm11Z%2BGfwfKrUTZBF4e629SWZKjJSK8D2IMjxcdy94EbsgZX8HJ9usUap%2B7RdMIgBqKoztgkX6yjL5aXriEQTDtgwq7F0xdhQyAOKnUqWjg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d143128eeba81a7bc37d988f2789b60e
+X-Etags-2: d143128eeba81a7bc37d988f2789b60e
+
+{"title":"City of Fairhope faces lawsuit from development company","description":"Last week, 68 Ventures, a development company based in Daphne, sued the city of Fairhope in federal court over denial of two subdivisions in Fairhope earlier this year.","url":"https://www.al.com/news/mobile/2022/11/city-of-fairhope-faces-lawsuit-from-development-company.html","image":"https://www.al.com/resizer/v2/EZEK2GQMC5F7TMGMXPK4ZBBUFI.jpg?auth=4f495d8001eb10a4bf2a3082c4b821e1629e118703bbc338c07ed701085c374b&width=1280&quality=90","charset":"utf-8"}

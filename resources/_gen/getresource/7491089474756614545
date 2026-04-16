@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408eedf0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=snvL6oGDRKTTQnFZyFGClWsOvS934sz2DlrDxnNj%2FqCFF6UpCgnOs2xLD1zkLNNjRq4WYgCAJ0erWZHbiHQ94jTf%2FEjH6Qr7j9jRRE29PFFqPk2ogZO53nWH0IaZTJ5yqgMuryDKskF7YJdyQ5Yt6ZD9KQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=118
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 19f8beb81dccff9475790225bc61a476
+X-Etags-2: 19f8beb81dccff9475790225bc61a476
+
+{"title":"Pittman holds back autism bill, threatening session","description":"Chairman refuses to report bill out after approval; supporters warn they'll filibuster or move to adjourn","url":"https://www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2017/05/10/autism-bill-passes-senate-committee-after-large-changes/101514376/","image":"https://www.montgomeryadvertiser.com/gcdn/-mm-/ac40f7db40cb1bc2c39e536c47d36bda2443c2c8/c=53-1372-1689-2296/local/-/media/Montgomery/Montgomery/2014/04/05//1396731877012-autism13.jpg?width=1636&height=924&fit=crop&format=pjpg&auto=webp","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64053bd99a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YZMjNrg67K%2FzVuk8IUnqZYiZzJ%2BH2VxpI5mvhMyHj2J0cZeypgMwIUUH%2BuTbMeh2bdYk2E5pco1Pt4GNYRh%2F9wKmCrkS9%2BH%2BH7PNHNPtGKlyPurSrCiEUwHoeniyRCjiYJnjWlHlKREQF%2F%2Fk2AoYYqyQqw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 123ecfa294c77285ab8e25dfe4639f91
+X-Etags-2: 123ecfa294c77285ab8e25dfe4639f91
+
+{"title":"New AL law to help economic developers raises ethics questions","description":"Alabama Gov. Kay Ivey recently signed HB 317 into the law and has defended it ever since.","url":"https://www.wsfa.com/story/37914583/new-al-law-to-help-economic-developers-raises-ethics-questions/","image":"https://www.wsfa.com/pf/resources/images/logo-icons/wsfa.svg?d=422","charset":"utf-8"}

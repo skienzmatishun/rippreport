@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640720a12a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Fb2y5KlRfD%2BegH1DWMqbEVG42IV4F37kWg6FAnJB5kIYFhrDP6Gj27Ca0Ey8tPgm0pUlt%2BGhIm9TCNy3gk7pXoq3eoNtUc6xDovkIEFMVIVLrLFECxw48vWxxZWL02u%2Fx0ZOpJyLgWvvbDQdyDmzLi3Afg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 68f0af76a73c48bfcddd7b947fcaead8
+X-Etags-2: 68f0af76a73c48bfcddd7b947fcaead8
+
+{"title":"FAIRHOPE PETITION - Ripp Report","description":"If you live in Fairhope this petition is of great importance to you and your family. All the petition is asking of the City Council is not to dispose …","url":"https://rippreport.com/p/fairhope-petition/","image":"https://rippreport.com/img/fairhope-petition.png","charset":"utf-8"}

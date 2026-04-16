@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64061f869a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=F9PVE2D7OBOnxdLqfBgZIdNgU9WNpc%2BK4Vjiy4QvBgOCQApANgPUBxmeM0hRHVq2PAgM59dKaPCg0WIbs2Z8x0oKAJcQHbRWmTpBZmmWrgUJhclq1mBnD6s9xpMabDSxBQ9U7EGL3n%2BMF0qn4aJu1wX0Tg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8bc7405b9435893115651801f6cbafb4
+X-Etags-2: 8bc7405b9435893115651801f6cbafb4
+
+{"title":"TOP TO BOTTOM CORRUPTION - Ripp Report","description":"Here is an update on the ETHICS, Alabama Ethics. Alabama is hopelessly corrupt from top to bottom. An absent Governor, a Bar Association in the septic …","url":"https://rippreport.com/p/top-to-bottom-corruption/","image":"https://rippreport.com/img/top-to-down-corruption.jpg","charset":"utf-8"}

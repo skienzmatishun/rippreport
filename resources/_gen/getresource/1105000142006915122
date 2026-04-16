@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640618f0da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Elt7eoM0mTvyBJ9wsWm7o%2F7M6Ps7mxGB7UhiBkEtaPRClUOKzbf61wI9f40CBwEbb0fy73bV25BqybeJm0iqPQ8Z6YL46gTkKYEoT%2F1c4KwuXlXTOAvrF4K92IzC4PSTwG2w7LSy6FgPknYW8Xsm%2F7Afaw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=94
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 251f309c432021fb04608bd01a05fe81
+X-Etags-2: 251f309c432021fb04608bd01a05fe81
+
+{"title":"CATALYST PARTY - Ripp Report","description":"The last Fairhope’s City Council meeting was only 30 minutes, maybe the shortest meeting on record. A short meeting, however some very interesting …","url":"https://rippreport.com/p/catalyst-party/","image":"https://rippreport.com/img/catalyst-party.png","charset":"utf-8"}

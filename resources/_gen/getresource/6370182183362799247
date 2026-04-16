@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640643f2ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MA5SSlbmbnwsZL%2BsNkqYpgYrhS%2BfbyPUesbr%2Bgz4QNLMsl%2BDNuGshKPLeE6KrjqG1Ewf38LSL4XQTa5iXdz7CbZiP6zCAphxO9kDn20gUljAynm2qsUHt0xCIiDcnZYrevIw84uSeZ5j9JAClY5lVonsWg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 426617d72ae67ebb496ac746f7158642
+X-Etags-2: 426617d72ae67ebb496ac746f7158642
+
+{"title":"WHAT EDUCATION LOTTERY? - Ripp Report","description":"Alabama is going to give the lottery away to the highest bidder, the Poach Creek Indians. You sure cannot blame the Poach Creek Indians for …","url":"https://rippreport.com/p/what-education-lottery/","image":"https://rippreport.com/img/what-education-lottery.jpg","charset":"utf-8"}

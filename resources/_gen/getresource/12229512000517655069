@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640631bf8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BcV9yEk167PO4M712PO%2BDPF4WEKnWJovCYXcUnOATh%2BDxG%2FnWfmR8KSrxd9Fk8c3onG6T7GAI%2BYRm27Qc3oqtNM7dwI0G7pVZYW5ksC2tAuSDhIOwFkz7unoTXDISTAZiYOzzKB7TqqkWZro3jzsqrfJUQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7aabb66db4365a48438e650aaabc1d6a
+X-Etags-2: 7aabb66db4365a48438e650aaabc1d6a
+
+{"title":"Top Attorney - Thomas T. Gallion, III","description":"Montgomery, AL WW/Press/November 4, 2016 –Thomas T. Gallion III, Senior Member with Haskell Slaughter & Gallion, LLC, was selected for inclusion into the ","url":"https://whoswhopr.com/2016/11/top-attorney-thomas-t-gallion-iii/","image":"https://whoswhopr.com/wp-content/uploads/2019/06/qtq80-WF5udh-1024x683.jpeg","charset":"utf-8"}

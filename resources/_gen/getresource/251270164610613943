@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64050bcb1a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rpdyzOx2sXaxBTeX%2BltuQ9xlryfPIsyiIWzwFrDVfdAwLO9Qswd6dBdvnrNDFF6F4pBgxWsKi2vL9ifnjpgjwE1SQXn%2BPdBzORBe5DLebJI7K0CRerHQu6l3ERTnSmwkJfbCgpCYH%2BFpa8SChoAI1lk63g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 97bbc75c4692e19b502ac774eafde1df
+X-Etags-2: 97bbc75c4692e19b502ac774eafde1df
+
+{"title":"U.S. Senate: The Oath We Take","description":"Homepage Feature: The Oath We Take","url":"https://web.archive.org/web/20180926155628/ttp://www.senate.gov/artandhistory/history/common/generic/Feature_Homepage_TheOathWeTake.htm","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406f9a60a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=B6xk%2Bv1e7zlfAHmicYfVOq%2FWm9S375X%2F0htSfT3QQ%2BZCVWVsFxry6wF6dY6NOLhVIIeYjKOlZQwI3MowK%2BxnfdbDp4Hj5z7D6sd2eu%2FM5DtNwC1nL8xqXg8HU9a9E8v4npKesx7jUnDz5yPQHRY8QSs%2F3A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=70
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 352f6df9ed75e343faf20726249c99f7
+X-Etags-2: 352f6df9ed75e343faf20726249c99f7
+
+{"title":"FAIRHOPE’S “TRIANGLE” MEGA-SITE - Ripp Report","description":"Baldwin County Commissioners have their Mega “dump” Site.\nDEAD LAST Mid term elections will again bring up all the advantages of the Baldwin County …","url":"https://rippreport.com/p/fairhopes-triangle-mega-site/","image":"https://rippreport.com/img/fairhopes-triangle-mega-site.png","charset":"utf-8"}

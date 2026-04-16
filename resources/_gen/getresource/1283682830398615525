@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d03c46a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wXmQcqTXnM0XLBJmbkfAUacE1KKsSSzXfMylDvxMTr7m%2BLK0I5XWEv47S9hqqHF0PJj5zZ6%2BSDX%2F8igUUvYVb3pxO7LqV2JQndvGlRg84NdKwu7s5gxvabjoQ81E5NwcckEBU%2FQW7icOx5iBPfYUq7MXXA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: fc3a66654bcbe5ad877cb056725f83a8
+X-Etags-2: fc3a66654bcbe5ad877cb056725f83a8
+
+{"title":"Daphne city councilman resigns: \"I'm not about giving up, but I think I gave out\"","description":"A Daphne city councilman has resigned after a project he supported failed in a close vote.Joe Davis has served on Daphne City Council for some two years after he was appointed to fill an empty seat...","url":"https://web.archive.org/web/20160125002342/http://www.fox10tv.com/story/30093890/daphne-city-councilman-resigns-im-not-about-giving-up-but-i-think-i-gave-out","image":"https://web.archive.org/web/20160125002342im_/http://wala.images.worldnow.com/images/8857801_G.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406abb51a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TcGFEDXXME2b%2FxoV5bXbf5%2FoXWQWkDMXjp3iIRvT0NihnWc3pPpEJC8FymlIJ2XIg1GneKEqEzgyxqWF8g7RcvYOD4rmiQ8XnXngrPD8oGGpUecrWwSCQParTjhYWQQGwLDsMT9L2RG7OmGEtJm69vymuA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: fe878c8862197ff21b11013c250663f2
+X-Etags-2: fe878c8862197ff21b11013c250663f2
+
+{"title":"Conditional settlement reached in property lawsuit involving Baldwin politicos","description":"BY ERIC MANN A lawsuit against the city of Fairhope that was conditionally settled on the eve of trial last week hints at infighting and maneuvering within a prominent Baldwin","url":"https://www.lagniappemobile.com/news/local/conditional-settlement-reached-in-property-lawsuit-involving-baldwin-politicos/article_a5c74345-2cd5-5294-b2cf-6d6807f02f8b.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/a/cb/acb28951-a87f-59e5-ab62-fa260c10fd76/630eb132929fb.image.jpg?crop=950%2C499%2C0%2C469&resize=950%2C499&order=crop%2Cresize","charset":"utf-8"}

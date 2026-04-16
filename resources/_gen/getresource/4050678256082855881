@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ff11849a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:12 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LrzzDljmkEuQsXNvWAI93%2Fda4vdEvSWedP%2B19O%2BQSo5Ky%2FqJEguJ6%2FM3PXLLjWHFY5fRaTnXl0br851Ake%2FOP92bqa4AcbdlNukFpHVhrpn%2BHPE6v0I4Cu%2B45juWk4E4hJJ7zP8KftfplAFov7cJDkZ5jw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=109
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 592c9f3d5716554ba6c42bd0b3898fbf
+X-Etags-2: 592c9f3d5716554ba6c42bd0b3898fbf
+
+{"title":"??? WHO’S ON FIRST ???","description":"Open Letter to Fairhope Airport Authority\nAttention Josh Myrick, Attorney\nJoe McEnerney, Chairman\nJack Burrell, City Council\nDear Sirs;\nThank you for providing the Ripp Report with the information we requested. The summary outlined in this letter contains information from your documents: A. Request for Advisory Opinion from the Alabama Ethics Commission, Dennis R. Bailey. B. Notice of Request for Bids for Airport Ground Lease. C.Ground Lease and Operating Agreement, Dec 17th 2015.","url":"https://rippreport.com/p/whos-on-first/","image":"https://rippreport.com/img/whos-on-first.jpg","charset":"utf-8"}

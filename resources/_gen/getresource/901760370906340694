@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640553a1ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Dnu7mKhs76V9yYe8gEv6%2FMNqsaPQmDh134mPlmqC8f1qlH02KZRpLUOCZ9Oi3IkAz%2B3SADn6Gt%2B7d2F6Ux2FV1xo2BmwnMuiflj9bZXCw0zUJ7sA9A9Ha7m7OyOZSroMv8Hv%2FLuQ6B9o9vdPRJM0k6ckUA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2b9758f0b3c181309a490c5a58d045d5
+X-Etags-2: 2b9758f0b3c181309a490c5a58d045d5
+
+{"title":"INVESTIGATIONS - Ripp Report","description":"The Fairhope City Council should be recognized for it’s political spin. City council members, Burrell, Boone and Brown, the busy bees, scurried to …","url":"https://rippreport.com/p/investigations/","image":"https://rippreport.com/img/investigations.jpg","charset":"utf-8"}

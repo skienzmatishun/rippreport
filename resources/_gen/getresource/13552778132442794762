@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a2db76a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TkE1hrQEOOaT%2B1xpC78xC6ql0f1gyTLHbzcx2LpJb9ThwZlvJgfG6T3L2jkG8yO%2FDmfhYIFrUK9gxq9rUoYZWxF4sOdrYGRdczX%2Fdy3u9ZFRIUFS6mX4ByiFjyEi3ICiTp8TLpWUAdDdXgkOi%2FRqP454dg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 1ec333ec6191cb488a358528b74c3dcb
+X-Etags-2: 1ec333ec6191cb488a358528b74c3dcb
+
+{"title":"State Sen. Trip Pittman says farewell","description":"For the past 11 years I have served the citizens of Alabama, representing Baldwin County and the Gulf Coast area in the Alabama State Senate. As a firm believer in","url":"https://www.lagniappemobile.com/opinion/letters_to_editor/state-sen-trip-pittman-says-farewell/article_82d8ed23-f0fa-5dde-9ee6-e3c20068c743.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/custom/image/80d93692-f634-11ec-8535-7f6b4382bc0d.png","charset":"utf-8"}

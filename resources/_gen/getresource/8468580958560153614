@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404dec42a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=H%2F1JmfaHNkpCam3okLHTF8F9eGOrs3GIBE%2BtZnsa5r1p1tdyGGwAGQd5xAqzNZT2biSZLRRdS2xhIqVhHUqut4BtRfxVWK5wU4lA5AHCLtWI%2B8EK3xSFD364hg1q1GXvVxVRW8KvxjvRJ0O0EnEcp3%2FakQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=139
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5e8cb05d1948b6aaa138995a8cf884e2
+X-Etags-2: 5e8cb05d1948b6aaa138995a8cf884e2
+
+{"title":"Noncompliance and ethics violations —  Lawsuit and Examiners’ report allege issues at State Bar","description":"When Alabama State Bar Executive Director Phillip McCallum resigned on Oct. 23, 2020, a little over a month before he would be found guilty of 17 violations of state ethics","url":"https://www.lagniappemobile.com/news/local/noncompliance-and-ethics-violations-lawsuit-and-examiners-report-allege-issues-at-state-bar/article_4582380f-cc7e-506b-adbd-a10d1ab4530a.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/c/ea/cea26d19-2a03-5b66-8aee-430c38d156e3/631a6a2b44665.image.png?crop=439%2C439%2C0%2C86&resize=200%2C200&order=crop%2Cresize","charset":"utf-8"}

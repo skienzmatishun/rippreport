@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64045cc43a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BwWQDxfR8Y5Ybd3Q7IA%2Ba3k4wB3YoVbL9kOk8vm95MmLAcsftAy0C5Vsdyd7NzjobkaekoGxZXWp%2FOFIaOJ7%2B8gsfkek9oLqyraoiCWQTkrVx0NTQF095Lj5OMkyZvpoydefT9IC%2Bupj0w3YYFJywBRZbA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=95
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cdf8aabcb38b3be2405b65493bf7553a
+X-Etags-2: cdf8aabcb38b3be2405b65493bf7553a
+
+{"title":"STRAWMAN SPIDERWEB - Ripp Report","description":"Many people watched the bully council in their last meeting where Councilman Boone flipped out at the end of the meeting. What many people did not …","url":"https://rippreport.com/p/strawman-spiderweb/","image":"https://rippreport.com/img/strawman-spiderweb.png","charset":"utf-8"}

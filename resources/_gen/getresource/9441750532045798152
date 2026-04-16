@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404498b3a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kXO%2FSNCeJe%2B1txBQgNJBcBkTT2iBzOhfYwwAxAdtCgcwQX7UZGXCMMrHw5aBBCRgk8gGxhQqbMihNUKf3cMer6nnjtGGks9YB2%2F62Gu1yAH3rQT9qhmb54o%2F0haq8R0InuYGIn%2B%2BW6gssnwG9%2BJVpfTCMQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ae7761afd0f6e9d88101a1926e9191ca
+X-Etags-2: ae7761afd0f6e9d88101a1926e9191ca
+
+{"title":"A ‘Developing’ Dilemma","description":"Have you heard Baldwin County is growing? Maybe you have. We’re only the fastest growing county in the state, one of the fastest in the region and the nation. No big deal, right? People want …","url":"https://thebaldwininsider.wordpress.com/2017/03/31/a-developing-dilemma/","image":"https://thebaldwininsider.wordpress.com/wp-content/uploads/2017/03/growth.jpg","charset":"utf-8"}

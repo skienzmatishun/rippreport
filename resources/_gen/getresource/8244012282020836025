@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640402b9ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:24 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vDiJY57v1TWJLSq2gdpyoMiOyeFAWv4D4sgS17iZKQQtW1TEPF51D6Pls5lgcbbsUoXFH2nPNWl91VsiqTu8kT6JdhNJxHwMxhZvxv0pWLMb0NKFkX0zB7neq91w0JB%2FN7CrBa9fkkk4yXy1GakgbsUWEw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 998df8d79e8497e206e7f632b75bb2c6
+X-Etags-2: 998df8d79e8497e206e7f632b75bb2c6
+
+{"title":"THE FAIRHOPE JESTER - Ripp Report","description":"The Public Doctrine: Our government is a democracy which means the &ldquo;people rule.&rdquo; At this time in our democracy it seems there are less …","url":"https://rippreport.com/p/fairhope-jester/","image":"https://rippreport.com/img/the-jester.jpg","charset":"utf-8"}

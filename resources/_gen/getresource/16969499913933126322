@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640652a38a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZBVioghYn0nDNAEP8sXfGY%2FXIJdmHu%2FePiQGxO0%2Fbeqp961UcF3SEuhQ%2FLTq1rsmeAh63K9EJMvQ4h6gg7zjQZhU2JOgWGS%2FalS%2Flxij6x6t3Yi7PH5rDKZiBpVh9Kt9mbLqrF%2FwsGjLZm4oGhw1ski4Eg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=135
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bc08bac5dd9187d94a0405a289db595b
+X-Etags-2: bc08bac5dd9187d94a0405a289db595b
+
+{"title":"Grant director discusses status of fortified roof program","description":"The director of Alabama’s Strengthen Alabama Homes program said a backlog in applications will be eliminated this year regardless of the Legislature’s failure to pass a bill seeking additional funding.","url":"https://www.lagniappemobile.com/news/grant-director-discusses-status-of-fortified-roof-program/article_75d8dc8a-fc21-5c63-a562-ca04e3d2bd42.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/4/3e/43e24220-4f77-5300-88f2-549138e702c7/631a3b16ecc96.image.jpg?crop=1726%2C906%2C0%2C147&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

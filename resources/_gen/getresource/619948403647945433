@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ff5ff5ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:13 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iZtU72mUxHH6Eke%2FbjGBXnpfvrdaY7N%2BR8siN3ZzzSujy4WkVdAQfiD0jU7uigw1S%2Bp831m%2BnugJslXuWMAj0bc1fZBV4YXTBNCHfPT4yxhkajfy3oYeRUWKLQQI67TYqc8HsRSZOdJiv0A1FIMZ0gErFg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 875818d1f880af0041692336679ce0d4
+X-Etags-2: 875818d1f880af0041692336679ce0d4
+
+{"title":"Alabama House approves division of money from BP Oil settlement - Yellowhammer News","description":"MONTGOMERY, Ala. — On Friday, the Alabama House of Representatives passed a bill that will establish the distribution of funds the state received as a result of the 2010 BP oil spill. The bill, which passed 82-12, is seen as a compromise and could potentially prevent cuts to the state’s medicaid program next year. According […]","url":"https://yellowhammernews.com/alabama-house-approves-division-money-bp-oil-settlement/","image":"https://yellowhammernews.com/wp-content/uploads/2015/10/yh_10515.jpg","charset":"utf-8"}

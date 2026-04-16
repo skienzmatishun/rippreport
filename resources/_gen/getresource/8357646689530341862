@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406a39e3a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=99lHD38nrP93G0l747%2FRiOtO3ghfmdBhdQZM4%2FED3D0J1gsxjUnCTqNSrUDQ%2FQpS%2FtB8r5Q%2FuGr8U00s9zUj1%2F3yNLKnhpohQ48umpl46iEg%2BQbLTG6wQsz97uO6qrUpi6m4e5WUVKod5yZ6QJ9TPk%2FVsw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=105
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 802ca18dcd6a7329ea2ffcae3da07df6
+X-Etags-2: 802ca18dcd6a7329ea2ffcae3da07df6
+
+{"title":"GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY - Ripp Report","description":"Make no mistake Orange Beach and Gulf Shores are committed to unbridled development. Chris Elliott and Tucker Dorsey,\nFully support maximum …","url":"https://rippreport.com/p/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county/","image":"https://rippreport.com/img/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county.jpg","charset":"utf-8"}

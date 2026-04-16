@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c08a57a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vm15S6vP1L%2FIefOZaYI%2BfI3nU%2B2buvIQwUZNsJ0ASW8QvZEsou3okaGorZOqRAXUAuPWSbgVk8PDdNHQYkjNsquCTXh%2FRUqFetRIa50xG%2Fz7dJ8DqYTGnt7cFFnaptgITOGDNz51q%2BXTb8PnZ1wfxZSXpQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4ad599bf543addd5243e079466d93cca
+X-Etags-2: 4ad599bf543addd5243e079466d93cca
+
+{"title":"DOG AND PONY SHOW - Ripp Report","description":"Jack uses &lsquo;special meetings&rsquo; to eliminate public participation and by passing council meetings. Monday night is a council meeting however …","url":"https://rippreport.com/p/dog-and-pony-show-2/","image":"https://rippreport.com/img/dog-and-pony-show-follow-up.jpg","charset":"utf-8"}

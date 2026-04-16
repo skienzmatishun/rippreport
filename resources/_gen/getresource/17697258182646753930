@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64034c947a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:23 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2glEdysM9J1ahGVR4u7u0DsFMeazL2%2FDp7mGiB%2F6SFtUQ0kaYae6JwvPDukY95%2FGU39OFnHeXflB7pITFa1n9Tkhz9veqz5Uw2%2Fwj4b9%2BAgn%2Bv1sMB4m0brNWWeTDN02Rr%2B40O3Q%2BpGRHrNQ9tYuE2EDAg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=92
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 267420353fb4159e88820f581c65d2ea
+X-Etags-2: 267420353fb4159e88820f581c65d2ea
+
+{"title":"PRETTY FLOWERS ROTTEN ROOTS","description":"Fauxhope municipal elections have started off with a bang. Five candidates have qualified for city council positions, and support one another in a solid slate. A very smart move. Who would want to be a minority councilman facing a well entrenched cabal of good ole boys, developers, politicians, lawyers, judges and let’s not leave out the District Attorney’s Office.\nThe new contenders, running as a solid slate of 5, have caused panic among the current council, who are supported by the developers and special interests, aka Catalyst. In the past 4 election cycles the council has members ran independent of one another, or so they professed. This election is different. The incumbents are united and their message is clear, vote for all of us!","url":"https://rippreport.com/p/pretty-flowers-rotten-roots/","image":"https://rippreport.com/img/pretty-flowers-rotten-roots.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408c9ef1a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cI5JdQpb4l7sUplp9Tzi3BAUERTrEGCuSsJbLuB2Ln8zOEgmKEPsbhjd7mP0%2FCwrfk2tkNgcdqL4di%2Bw9yUKjIwKm8V2%2B1%2FZyZ6vNT09ag%2Fi9DU55XqU7ubv9NaJhT%2BVyHALtj1bOkMPIB5HzIqlTQCdUw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4164b5c86913eca34bb868bffc9950b7
+X-Etags-2: 4164b5c86913eca34bb868bffc9950b7
+
+{"title":"Exclusive: A Behind The Scenes Look At Luther Strange's Senate Appointment - Yellowhammer News","description":"When Alabama rang in the New Year last January, Luther Strange was its Attorney General. At the time, his office was investigating Robert Bentley for crimes the former governor committed in his zeal to hide his affair with Rebekah Mason. Before Bentley resigned, he appointed Strange to fill Jeff Sessions’ seat in the U.S. Senate. […]","url":"https://yellowhammernews.com/exclusive-a-behind-the-scenes-look-at-luther-stranges-senate-appointment-lhuff/","image":"https://yellowhammernews.com/wp-content/uploads/2013/11/YH-Luther-Strange.png","charset":"utf-8"}

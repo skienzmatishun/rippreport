@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640830fd4a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Fs5wYbc58PVNbZytvq6jIK52Hk1FhaExRKfJzexjqBYZc6oapp76szHEvfjWd8z1ISjb6DOHp0FqT2Jvy6NGtSEBDVBDbqJVtL1B6vLxXKt9B92PVDF7u9QbXMqkB4U0D0dxi1hDCJ8CWQV%2BPA1NvhaCeg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b36e0cf56d0646a185e80971b9176c60
+X-Etags-2: b36e0cf56d0646a185e80971b9176c60
+
+{"title":"Fairhope council passes resolutions involving signing authority - Gulf Coast Media","description":"In a special called meeting held Dec. 29, the Fairhope City Council unanimously voted on two resolutions involving the ability to sign resolutions for the city, despite protests from Mayor Karin  &hellip;","url":"https://gulfcoastmedia.com/stories/fairhope-council-passes-resolutions-involving-signing-authority,56579","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1470163322_577e.jpg","charset":"UTF-8"}

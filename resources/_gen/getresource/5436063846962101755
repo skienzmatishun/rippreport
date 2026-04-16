@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640730d23a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4Dbtpp3RqRK1FR7SzYfUWpcVRju%2FSywPXDKmQQirzzdwV7oujoaUtL5zQzeg4tWzNTu%2FjYp4ZuwFI%2B5%2FyHyBBfL%2BchP1bP7FS4Y4k4CKjvHgiyhqZPPF5UzC45R7Mtrf7AWdPgqgrA%2FvdpK9xi5sUd1Ygw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=71
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 74d3776b4c7b62210a8d2249bd050aee
+X-Etags-2: 74d3776b4c7b62210a8d2249bd050aee
+
+{"title":"Fairhope unveils design for $6.2 million pier project","description":"The Fairhope City Council got its first peek at a conceptual plan to redesign the space surrounding its landmark pier and parks around its public beaches Monday. As part of","url":"https://www.lagniappemobile.com/news/fairhope-unveils-design-for-6-2-million-pier-project/article_cacbc89c-b062-5ce8-abc0-d1322012ac61.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/0/70/070bd70e-e985-5596-9d23-49b3a19ea0e1/631a2a72a9c10.image.png?crop=1300%2C683%2C0%2C24&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

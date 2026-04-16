@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640725afaa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CeZf5pMgl0bUcLBSsOAcPOt4noApncMm%2FdZgrjVqqwiypoNZsNbVdCjv606EIRZDGKd%2BORZqRCsKsgzYtW9IfpaEu6eOIMgd%2FuoRCVzZxgiRyQnoWMsemUtQm3Dd%2B%2FHtDJIe%2FzwNtlfU9OhfogoQ1nyR4w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5bec1e2e9fd0cfc8472063fa9d86f96d
+X-Etags-2: 5bec1e2e9fd0cfc8472063fa9d86f96d
+
+{"title":"ALABAMA SUICIDE - Ripp Report","description":"January 6th will go down in history for several reasons:\nGeorgia elects two Democrats as Senators and the balance of power in Washington shifts from …","url":"https://rippreport.com/p/alabama-suicide/","image":"https://rippreport.com/img/alabama-suicide.png","charset":"utf-8"}

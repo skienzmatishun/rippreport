@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b3db2fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=L5YSwHRi1bqIi4k67Ep2GZxP4XqVbg9Cs%2FAzJZlIePwZFAe3nFeg%2Bm%2Fo0XaaEJIFvsFg133VsLHmioVme4WrCKObUSXyyjf7JlkCVskeFJDTf%2Bb70LPLrdKgkdQmlvLVLqMwttc9ljZM3kCARPLiwt0kWQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 14c9ec3090aace667cc7d8aa6d96fdcc
+X-Etags-2: 14c9ec3090aace667cc7d8aa6d96fdcc
+
+{"title":"PEOPLE POWER - WAKE UP GULF SHORES - Ripp Report","description":"BREAKING NEWS&hellip;.. Gulf Shores City Council to Hear Appeal of Planning Commission&rsquo;s Decision to Approve Regency Place Apartments Site Plan …","url":"https://rippreport.com/p/people-power-wake-up-gulf-shores/","image":"https://rippreport.com/img/people-power-wake-up-gulf-shores.jpg","charset":"utf-8"}

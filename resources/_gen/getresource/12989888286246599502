@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b48d8ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9b6ti59nCVox6U66vBu8diIpB7cCfnGHA97OKpSmY47BTRtUHhLPJEe2ciFGOuB3Vscyw0nQ%2BokvUuDmJB4%2Fj7VhBz%2FBRo2U2R3FuI5X7vQjTzavhEMj34o%2BsxWIKh7hVKfZhLOQZzJXLaBK0FdnsNtjjg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 11fe0bc826e6af39a31ef86712e3cbce
+X-Etags-2: 11fe0bc826e6af39a31ef86712e3cbce
+
+{"title":"BP CATASTROPHE/ ALABAMA DISGRACE - Ripp Report","description":"The BP oil spill was an accident that claimed eleven lives and adversely affected millions. BP has had to pay BILLIONS of dollars in damages spread …","url":"https://rippreport.com/p/bp-catastrophe-alabama-disgrace/","image":"https://rippreport.com/img/bp-catastrophe-alabama-disgrace.jpg","charset":"utf-8"}

@@ -1,0 +1,15 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=86400
+Cf-Ray: 9ed6406fa8f9b143-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jM72HFg6OpTQ0LjsFJsL1cYMG%2BSry3Fusrx7oDZVvMBjUd7NhFXUJWNwUXi0%2FX2gr5vl1vTnyK%2B24eGxl9EGP9t0ujIkEvNRZqOi7i3m0XTqfGjI0PiFQ8NypeNZEu%2BBW9J2OW25UGoYe5BMVy6PbqlMzACZEHSZTpm%2FX5Nfsh84uwWzukCrplg%3D"}]}
+Server: cloudflare
+X-Cache: HIT
+X-Etags-1: 28c9833f57414cafaa3844e5125bc9a8
+X-Etags-2: 28c9833f57414cafaa3844e5125bc9a8
+
+{"kind":"youtube#commentThreadListResponse","etag":"K-H2AsGLRkunCvxsKa1wegN2roU","pageInfo":{"totalResults":1,"resultsPerPage":20},"items":[{"kind":"youtube#commentThread","etag":"7MGa0GLgwxJ6Uzp7OKFSWlkgkYQ","id":"UgzVkIC6eXczn6BFa6J4AaABAg","snippet":{"channelId":"UCSvF6PajyuctL49EWzMN9wg","videoId":"FeCUHIaKv3M","topLevelComment":{"kind":"youtube#comment","etag":"y5WkKXrNjhXETXGyPpuviQbvMxc","id":"UgzVkIC6eXczn6BFa6J4AaABAg","snippet":{"channelId":"UCSvF6PajyuctL49EWzMN9wg","videoId":"FeCUHIaKv3M","textDisplay":"When speaking about sewer regulations and the discharge of effluent, I meant to say that the discharge as &quot;Surface Water&quot; was exempt under Act 2009-773, instead I used the phrase &quot;Ground Water&quot; which was incorrect.  When they began to discharge into the ground, they touched the &quot;Tar Baby&quot; and PSC must regulate them from that moment forward.  At least that is my opinion on the matter.","textOriginal":"When speaking about sewer regulations and the discharge of effluent, I meant to say that the discharge as \"Surface Water\" was exempt under Act 2009-773, instead I used the phrase \"Ground Water\" which was incorrect.  When they began to discharge into the ground, they touched the \"Tar Baby\" and PSC must regulate them from that moment forward.  At least that is my opinion on the matter.","authorDisplayName":"@harrystill6344","authorProfileImageUrl":"https://yt3.ggpht.com/ytc/AIdro_n6Nt-zIl-7LbLEDFjUU4BqSZYlYDpGNXvXE65aehe-U-1a=s48-c-k-c0x00ffffff-no-rj","authorChannelUrl":"http://www.youtube.com/@harrystill6344","authorChannelId":{"value":"UCgq4lwPtHPyXmVxn_AfSe4g"},"canRate":true,"viewerRating":"none","likeCount":0,"publishedAt":"2019-10-05T13:06:38Z","updatedAt":"2019-10-05T13:06:38Z"}},"canReply":true,"totalReplyCount":0,"isPublic":true}}]}

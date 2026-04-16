@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64092381ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ujcHxbqAbFGz8X2wjLGbERcV5fV89kaqDTcUm9giCZrNRrtmnBU2T6ExxDmeXCr2A%2BJa86MOjE7lLCcjVPlW4TMlpN%2F597Nh3%2Bvpz%2Bbnq451zLH2plxG7eDwK9rHZoQEiSi%2Bv4ctGYi1B8FU5nUBgIZAvQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=102
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f5e407789875eccba6a0c3fde80ca627
+X-Etags-2: f5e407789875eccba6a0c3fde80ca627
+
+{"title":"Voters elect new mayors in Fairhope, elsewhere","description":"The city of Fairhope will have its first new mayor in 16 years, after challenger Karin Wilson defeated four-term incumbent Tim Kant by earning 3,523 votes of 6,589 ballots cast,","url":"https://www.lagniappemobile.com/news/local/voters-elect-new-mayors-in-fairhope-elsewhere/article_55a1ea9d-8ec9-5af5-84c3-4ba59926468f.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/c/75/c7551133-7fd3-5f18-a5b1-2a3d9f4a116f/630eba152a3cc.image.jpg?crop=960%2C504%2C0%2C228&resize=960%2C504&order=crop%2Cresize","charset":"utf-8"}

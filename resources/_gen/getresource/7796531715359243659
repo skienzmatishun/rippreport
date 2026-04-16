@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64067b999a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VtuWeuiIG9zl6Is6WHQwPb%2BTcyY37k12wZMllGLiGLjwWSfXQp6ryXsbEMXCJNa9YEyhQgmi0hKBpG4S3624K8eTdHircRCrMFZpA4rGDYNLfRoguoTo%2B%2FhCGSMvjIMHrtyNxygN6JsEz6EbiTL9jWQ84Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=94
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f910ea647a2d583f356331da5ea0a845
+X-Etags-2: f910ea647a2d583f356331da5ea0a845
+
+{"title":"Special School Tax Will Need Council's Blessing (Updated)","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2019/02/special-school-tax-will-need-councils.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWML5D-MEoXeAseIsZwjI4t9AtGu0CnXFTQyJGwypwSWq2dk4q_yMcxHdnbmskj02t8WJ7svEis1dPXZWIdnx2dEIv8ugGFwg1Ty53PNoBcz5S7MEIsGqv-NrSlFqNIgc28CIovikhB84/w1200-h630-p-k-no-nu/cole.jpeg","charset":"utf-8"}

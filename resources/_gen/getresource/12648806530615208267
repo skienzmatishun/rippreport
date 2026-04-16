@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640cf69d6a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xdMecXDN7dadGSVgBH7HZn4%2BmPJI6uIITajyl6h%2FhAFos03kPuk4BYYLHa%2BglVCA7LmkQy0Nh7oQT51yKbXTOG555NdUWVDEvdh1s%2B6QHr%2ByRCNrBzwosxctRk2nXKKEKlxd4Fhgi%2BXx8K3P1LR6JglZxA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a0063017d35fa266a372164ba969dcb4
+X-Etags-2: a0063017d35fa266a372164ba969dcb4
+
+{"status":530,"error":"[Error] https://www.thefairhopetimes.com/2019/01/councilman-proposes-lowering-building.html returned status code: 530!","message":"\nHi! This is a link-preview service on Cloudflare Workers.\n\nIf you are seeing this message, at least you connected to our endpoint successfully.\n\nCorrect usage is:\n\n    GET *?q=https://cloudflare.com\n\nThis should return JSON payload like this:\n\n    {\n      \"title\": \"Cloudflare - The Web Performance & Security Company\",\n      \"description\": \"Here at Cloudflare, we make the Internet work the way it should. Offering CDN, DNS, DDoS protection and security, find out how we can help your site.\",\n      \"url\": \"https://www.cloudflare.com/\",\n      \"image\": \"https://www.cloudflare.com/static/b30a57477bde900ba55c0b5f98c4e524/Cloudflare_default_OG_.png\"\n    }\n\nIn short, supply whatever public URL as a query parameter \"q\", then send GET request. That's all!\nIf the URL contains non-ASCII characters, url-encode them.\n\nSource code: https://github.com/ymtszw/link-preview\n\nThis service is EXTREMELY easy to self-host; i.e. deploy on your own Cloudflare account.\nIf you are going to throw many link-preview requests here, do consider it!\n"}

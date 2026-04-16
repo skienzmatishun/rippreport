@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409f8912a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oLhM%2BmMT%2FPG%2B90%2BBjL46t74oCDYLK1wvPJ12n3gdVp8WBOFmJBy53Ppx754rp%2FSIO5HCu4RU2eV2jXW62SRqga%2Frayn9aTA5TV%2FTfl%2FqyFY8jDztLwNt7tWB%2FbYn%2BTr1eD9fS5XQevFd1ez3k8k%2BVZ7JtQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a7ecfcdcf7e3305c19e8fab64e5e0eb4
+X-Etags-2: a7ecfcdcf7e3305c19e8fab64e5e0eb4
+
+{"title":"Grant sought for K-1 Center - Gulf Coast Media","description":"FAIRHOPE – City Council members will vote in June to seek a $3.5 million grant to renovate the Fairhope K-1 Center.","url":"https://gulfcoastmedia.com/stories/grant-sought-for-k-1-center,107342","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20210601-083652-K-1%20Front.JPG","charset":"UTF-8"}

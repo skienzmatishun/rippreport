@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64079794da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kx%2BjwzuDgDormqnwu%2FpNF7IxX5xatPhv6EEDPBA2aOfV2YDoJbMwQzVDocni5GIFX%2FA8FF5ZRv54CjfKDHxz5yqslb%2FIXA4YjY3AcpTvHoP1kH%2B6Ae32AF1o1GKEDzkd4l8LfGGNiDZZOLXaNBJEKGRe3A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: df00b43dfb6683890855f19b15860804
+X-Etags-2: df00b43dfb6683890855f19b15860804
+
+{"title":"Medical marijuana bill heads to first vote in Alabama Legislature","description":"MONTGOMERY, Ala. (AP) &mdash; A medical marijuana bill is headed to its first vote in the Alabama Legislature as advocates hope to gain legislative traction after years of setbacks in Montgomery. The Senate Judiciary Committee will hold a public hearing on the legislation Wednesday and could vote the same day. The bill by Republican Sen.","url":"https://mynbc15.com/news/local/medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature","image":"https://mynbc15.com/resources/assets/wpmi/images/brand-icons/wpmi-16x9.jpg","charset":"utf-8"}

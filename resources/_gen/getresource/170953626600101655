@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640ab7846a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:42 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hUJr5QzDaz0G0e0cHkMk63NtRmeOWu7VyIE0XATCQW1HoU5AIioAU3uBTbU9xPS2vfAVTJ0oos53ZPD7Z1q0RBpciRWVkxpWzZ8AAy%2BG1X8VRPIBSzmauBmgv75V7XAugUQDAMWr%2BfCCFRo6AX7ctlhMYw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9f21c68e8b5eedad11bfa41e02c6dc0d
+X-Etags-2: 9f21c68e8b5eedad11bfa41e02c6dc0d
+
+{"title":"CATALYST CENTRAL - Ripp Report","description":"In the last Fairhope municipal election the Ripp Report supported most of the City Council, even Jack Burell. The focus of the election was to elect a …","url":"https://rippreport.com/p/catalyst-central/","image":"https://rippreport.com/img/catalyst-central.jpg","charset":"utf-8"}

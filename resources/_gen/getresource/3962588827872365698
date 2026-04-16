@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a61da2a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WqnYA7NSmP65USWz%2FmulqGNkfObV3Z%2BtimvRjYasSWcrRMpRE806dXKJ9irxU0T862gv3ITquIzo8MZgoAbaKg2IU7lXTvgPXayBjaOEHB%2Fugqgan5xupMkuKmjDpsqGhfK2YDn6PzUqih7kDGdNTjYltA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=92
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6bcbf28394392a0b1a645cc0f83faed2
+X-Etags-2: 6bcbf28394392a0b1a645cc0f83faed2
+
+{"title":"A battle in Fairhope: Can Jennifer Fidler present ‘a strong challenge’ to five-term Rep. Joe Faust?","description":"Fidler, a former public works director in Fairhope is challenging longtime state lawmaker Joe Faust in a House District that represents one of the fastest-growing areas in Alabama. Growth, land preservation, and environmental concerns are the biggest issues in the district.","url":"https://www.al.com/news/2022/05/a-battle-in-fairhope-can-jennifer-fidler-present-a-strong-challenge-to-five-term-rep-joe-faust.html","image":"https://www.al.com/resizer/v2/CXMCILVFGVGTHKR7CCS4YZY2C4.jpg?auth=14fd4b3a6fd080dd60f7cc8ed9f0f052e54bc2dc0ee8f9fc06e5c37270d17db5&width=1280&quality=90","charset":"utf-8"}

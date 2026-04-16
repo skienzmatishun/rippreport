@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640569e76a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Uuy7USzHaaiM0IjkJXT7gnAIclyytv5AwGLhGOgPwNL9oGBNmqLJEfBpqBQ%2FuQL1iH2tSDTr0ZeKFMT%2Fk2n16VH3ZlSlWPR1u19zcGERbLWAZGEqWElagu2Wx4KFT%2F9%2BWnVoXe%2FvaSJYEnym7iN1mNjmDQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 019b53d4add146086698cea0a513dcc8
+X-Etags-2: 019b53d4add146086698cea0a513dcc8
+
+{"title":"$5000.00 CASH REWARD - Ripp Report","description":"The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack …","url":"https://rippreport.com/p/5000-00-cash-reward/","image":"https://rippreport.com/img/5000-00-cash-reward.jpg","charset":"utf-8"}

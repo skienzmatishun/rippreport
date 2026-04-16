@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409b1b75a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rFP6lRfGEd%2F%2BYM%2ByuJ1vao2dS1w6cnf0sBC94iyaFpkKjFMD8CB%2B9JxmLwUn%2BiW6Cy9%2Bq0uTXMGIKgpfN5UTNzDFQqoT0LWWII8NQEp4phTjfzof%2FY7tkAHRM8vg3gkd%2BbmXnhmEHzae11lL9OkaQFB8vw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 91f077cdb28a1e9f95030b6c219e64b0
+X-Etags-2: 91f077cdb28a1e9f95030b6c219e64b0
+
+{"title":"Lagniappe vs. Mack - Lagniappe Mobile","description":"A compilation of stories about the May 12, 2017 shooting of Jonathan Victor by a deputy of the Baldwin County Sheriff's Office. The stories led to a 2021 Alabama Supreme Court decision which severely restricted public access to records related to law enforcement investigations.","url":"http://web.archive.org/web/20211102002617/https://lagniappemobile.com/serial/lagniappe-vs-mack/","image":"http://web.archive.org/web/20211102002617im_/https://lagniappemobile.com/wp-content/uploads/2021/01/Victor-shooting-1.jpg","charset":"UTF-8"}

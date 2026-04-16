@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405cd8f5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VMszkVCeGZjBEVgQt%2F%2FI1J%2B1eRTeWEPcXbXFz9sQlH1qvAPs79q78DOVFPNoyYxAkvHzP%2FaZFVuGQBiZMEml8FCPWPDRMf8qFcQcMuNeYRJHrg6PePNvj1CS6MozhSv0ySYGOkPUjWb%2B1MZEXbURng0y3g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=103
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2f2959f20c7c01d74c6269e58910ca49
+X-Etags-2: 2f2959f20c7c01d74c6269e58910ca49
+
+{"title":"New Plan For 'Dyas Triangle' Property Emerges","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2016/05/new-plan-for-dyas-triangle-property.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6E1OMbFcHtzngMpxKXMyeOl36dhOCjLAqt3VevtMa-jyd_yZfL202XAQ3lXR8g3hZMxG-LEtr4VUJ_UWTQwtvEnBbZuuc3Cr8oO2aEi3wmMiMmhJ4x1Qo5FCKTCpTAph6zvDqt3lNBy4/w1200-h630-p-k-no-nu/legacy+3.tiff","charset":"utf-8"}

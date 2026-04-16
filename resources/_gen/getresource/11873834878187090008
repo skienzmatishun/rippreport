@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64071783ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2k4A8mqbM4Of4Kv8ACf5NBjiK02%2BAiVEtq9eu03oAPuTmdPrCDQzKcPgBGSny82qfxBHdF%2FeO5ZtnsJN4DOniIu9f3abzOqO%2BYF7MGaPi%2FLT96ABxHpEFiswM0wDJimfnqSokX0Lggr5CDJnFOsN8dDRDA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a5be66f4e225f3e0efa58dbe6ad5467e
+X-Etags-2: a5be66f4e225f3e0efa58dbe6ad5467e
+
+{"title":"High court rules against Fairhope in development suit","description":"Alabama’s Supreme Court ruled against the city of Fairhope last Friday in a lawsuit accusing city leaders of targeting a property owner by adopting multiple city ordinances that have delayed","url":"https://www.lagniappemobile.com/news/local/high-court-rules-against-fairhope-in-development-suit/article_0359e24f-bb4b-5694-b723-da8df9e9f5cb.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/2/94/2940456c-074e-53d1-841c-d823ebe6886b/630eaf8bce7f6.image.jpg?crop=625%2C328%2C0%2C169&resize=625%2C328&order=crop%2Cresize","charset":"utf-8"}

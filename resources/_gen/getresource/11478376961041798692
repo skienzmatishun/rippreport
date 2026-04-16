@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404c883ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=RILf%2FJIo7vg5WuXGxGNV64auY0ghSBLcuwRebAQWk3QFKdJPvo%2FdfDO2VE61tFi0a1x4tVXh9Bf%2BpYJbHVks0YvCK2t0LUzTLOrA%2BM1HzBJOBT2H6oJMItyl1BkNTVLijEYLGiZa2UU4rhYX2L7A%2FmQkPw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c5355661be0a1975a62df1e9afa954f6
+X-Etags-2: c5355661be0a1975a62df1e9afa954f6
+
+{"title":"WOMEN STAND TOGETHER","description":"Paula DiNardi\nHi everyone…I want to say thank you to all of you who have reached out to me with love & support throughout the past 21 months. I will only post about what is already public record. As most of you know, I was assaulted on Thanksgiving night in 2018 by a local businessman. I was led to believe justice would be served, & it was for just a minute…the city judge found the assailant guilty of assault & public intoxication.","url":"https://rippreport.com/p/women-stand-together/","image":"https://rippreport.com/img/women-stand-together.png","charset":"utf-8"}

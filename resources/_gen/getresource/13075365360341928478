@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64074799ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oUpvD%2F83kyNT%2FVwyZkMpy7K8P7pNfx%2BWV5r7%2F5vcrsBxVQwIDAZaGkUsLHIfneViQPmzZ9L18RHZkv59uvQ99dDnPgzCCZJ1cxaA2e4VGNcwFx2lAhNlTGk%2BqKSx1dss5Rw9oCw7sAIue4aDy9zgwAvYGg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=95
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 478f6ec826578559dc0bdfd41d927f14
+X-Etags-2: 478f6ec826578559dc0bdfd41d927f14
+
+{"title":"ASK CHRIS ELLIOTT - CATALYST RED FLAGS - Ripp Report","description":"ASK CHRIS! Public records from the Probate office, record, Mr. Elliott, and his wife, purchased property, from Christopher G Stradtman Jan 3, 2018, in …","url":"https://rippreport.com/p/ask-chris-elliott-catalyst-red-flags/","image":"https://rippreport.com/img/ask-chris-elliott-red-flags.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64097886aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=H4WrXkcg63DbJMKfWyXt61Dyb3wa3QOC4ZiNy3Y%2FvqWyfNjp1cqF3DiPh19pW6r6%2FSDaX1RpNOaSUP2cvo2KzDoyzKB1%2F1sgqKslS410V58Hnqg7hxquvhn4lzHOXSFks643k4k3sdIypdpOhp4OMzdDYA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cd4ebdfa01e5321a718279211a732c7e
+X-Etags-2: cd4ebdfa01e5321a718279211a732c7e
+
+{"title":"BURY THE BODY - Ripp Report","description":"Last week, I knew that the Fairhope City Council was going to do what ever was necessary to stop the Oct. 2 2018 vote, to change the Government in …","url":"https://rippreport.com/p/bury-the-body/","image":"https://rippreport.com/img/bury-the-body.jpg","charset":"utf-8"}

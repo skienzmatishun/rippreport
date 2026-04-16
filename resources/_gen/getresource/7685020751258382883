@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640788e10a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ijpFVPt81B%2B1y4IyjLFIf52vcEd3D3kMZgvmXGKPoc%2BUzrOvZZLWTlgKoZvC7GvfiDTRvGdrmd8bCyUP%2FyFqOZHYFS3TuO%2BZgww86iVyLZCJg2%2BGLFvfZDjUnWbggGa9dzrC8mMDexcoEm5kPB1tazJjjg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d8b9f23971335b7ea1591906463c7784
+X-Etags-2: d8b9f23971335b7ea1591906463c7784
+
+{"title":"Old Fuel Tanks To Be Removed From Clock Corner","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2020/04/old-fuel-tanks-to-removed-from-clock.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVFOHEkvbmbRT3R1hOySfvrIdcDZwN1Wpd5P4jss2I0Lj1DjL_PGtL_WOGy9DDoh2i2V2WOu1PpBdI5dHtMWF3_P-ge7Z4fCXHaN3zKmQsIUPTViRoM0ZcolqoX6gvY-LBXolX-GQLlk/w1200-h630-p-k-no-nu/fullsizeoutput_622.jpeg","charset":"utf-8"}

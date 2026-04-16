@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a9588ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:41 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Y8XO%2BJXeY4mc2Pevov4yjkmi2rk1LfAKNCBPUrM4wpyRzWMPyZNap63B8TlrGG4AJDa2QUsdNP2Fuf6AkphJTZ9rTEEihEb%2F5NYxgmhVcwcimGuEsd2ox8xyCwKe%2B3C2ROx3Pb%2BN80xAA6iOjI9O3w%2F78w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bd17f8660665108c0a5543cb6af5433a
+X-Etags-2: bd17f8660665108c0a5543cb6af5433a
+
+{"title":"Alabama Public Television Presents | America's Amazon | PBS","description":"An overview of the Mobile-Tensaw watershed, one of the most biodiverse in the country","url":"https://www.pbs.org/video/alabama-public-television-presents-americas-amazon/","image":"https://image.pbs.org/video-assets/WBIQ/alabama-public-television-presents/206006/images/mezzanine_761.jpg?focalcrop=1200x630x50x10&format=auto","charset":"utf-8"}

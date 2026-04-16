@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bbfc5aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3KqffrIQ68dMaz4vtkjvH5YsZWysYmDfU2tWJ8vy9jj4%2B6pMP%2Br%2BjHvFH60b5WGj7GpyxfJJ04wR5LRH4lnSoeBitXPsY1d6BsPj6D8Ud%2FHAqnutx5zco7bStO%2BUHyqmWlP6ooAvT40hsMxutBRrtJiGRA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6065334b41d1de2c3a807c46faa687ea
+X-Etags-2: 6065334b41d1de2c3a807c46faa687ea
+
+{"title":"Fairhope acquires 12 acres from Walmart - Gulf Coast Media","description":"FAIRHOPE – A 12-acre parcel on the perimeter of the Walmart shopping center in Fairhope will become municipal property.","url":"https://gulfcoastmedia.com/stories/fairhope-acquires-12-acres-from-walmart,112255","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20210831-102821-Walmart%20property%201.JPG","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64097b8dba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fotHm7gX7dbwK%2FjlOrGYsP2rMpPUApZ0VBR3JD2Lo4quAFobBdfiIlEviXUQQFkXG1qeha8XMS5saOoouhvdk5wXW%2BXOv3DFcIP43UWE82S130zu6LPIKAHIq6chj7V36LL6j3eSCdN9UhJT4E20gGdOfg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=77
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cae15241182ff7489e5f52a12ea91ada
+X-Etags-2: cae15241182ff7489e5f52a12ea91ada
+
+{"title":"Baldwin County sheriff's deputies to get body cameras","description":"In the wake of recent police-related shootings, body camera technology has evolved. Now deputies with the Baldwin County Sheriff's Office are wearing the latest technology. They're being introduced this week.Body cameras that are set up to capture every de","url":"https://mynbc15.com/news/local/baldwin-county-sheriffs-deputies-to-get-body-cameras","image":"https://mynbc15.com/resources/media/14c7cbe2-3f17-40db-984f-b56fc207df3e-large16x9_Capture.JPG?1473895297043","charset":"utf-8"}

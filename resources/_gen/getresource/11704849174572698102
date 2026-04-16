@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640805f77a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TZyoHZrjxCSsr4aOYX3tVfN6erw133iXZDUqK%2FTCsCpA7mSI3zMiytsLAE7JtyKHlUPr9zY6a9ZV6iOvFpG%2FTnIOG2cfNQ3u9Ue6cDskYeE8KJJ93DRv4PhQiVao4fy1RDRetg6f1%2FZXGs3e5grHXv%2B0UA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=88
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7198256b4a6bf9a7852c4471f262e990
+X-Etags-2: 7198256b4a6bf9a7852c4471f262e990
+
+{"title":"Boutique hotel at ‘iconic’ Fairhope intersection in limbo","description":"The three-story, 31-room boutique hotel at the corner of Section Street and Fairhope Avenue would be several feet away from the city's iconic street clock. To some council members, the location is unacceptable.","url":"https://www.al.com/news/mobile/2019/05/boutique-hotel-at-iconic-fairhope-intersection-in-limbo.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Farc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com%2Fpublic%2FDS2ZBL73LRC27KRTP4CHFFGWXM.jpg?auth=93308a475942763da2bacbec94a09f06b21549c9e7537f4aae91cb6132172217&width=1280&quality=90","charset":"utf-8"}

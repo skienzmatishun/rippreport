@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640736e45a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MkQLLX9ZdrZix%2FY49B9FTTwBW3NxKWpvoMDMUetE6mNnDQ0rOl2yAopTQK33kF43%2F9h69zCQNIWNbV5UAh28gfdG6kCaXc0Zk%2FLtMb%2FSuFP6wRAT3Qg0IFfWDYzqppYnx0i%2FIhIJpeM5jbiPWxMjUI%2Bpgw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c3b1ffa37845255edcc7724c367fc0a6
+X-Etags-2: c3b1ffa37845255edcc7724c367fc0a6
+
+{"title":"QUID QUO PRO - Ripp Report","description":"Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council …","url":"https://rippreport.com/p/quid-quo-pro/","image":"https://rippreport.com/img/quid-quo-pro.jpg","charset":"utf-8"}

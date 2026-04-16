@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408a5fcda8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tgw5t%2BzJVPt9wBhG9KTcbGRe2Gqzn21FjOHpbvyr8RkDclDB3kWRIFcoGKgs0RTTlYGGyKwdJ%2BgvAJ9vHxssh0jvrCewSfNyaDwiiUtI6ZbLKXMigzbc%2BQiYSydrdFcHIYB0DOfPSRrFuDPctSV9fCSGTQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3a51028110a54e1fb91bd6e9790b96f0
+X-Etags-2: 3a51028110a54e1fb91bd6e9790b96f0
+
+{"title":"“DOWN HOME” FAIRHOPE JESTER - Ripp Report","description":"The last Fairhope City Council meeting should prove to everyone that this “Catalyst” Council is not going to listen to their constituents, they are …","url":"https://rippreport.com/p/down-home-fairhope-jester/","image":"https://rippreport.com/img/down-home-jester.jpg","charset":"utf-8"}

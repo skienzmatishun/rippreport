@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640de4ef4a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:50 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yTxt3c34GvoagtImXOXQLoeLjg%2Fw1bQ5grnW6mbHAdnTpQd3Vk239nZ6g3jgZtAxxQA%2FY%2FoiH2Eo6ZmU6WydpNj2ydebh5tlI3HbzQZshvKfCk%2B3KzfyrbRjwojJSTtDWPytglFKh0vjjEkkFknpg632Tw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=121
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e9c1894156e8da7d694d88c20c20af84
+X-Etags-2: e9c1894156e8da7d694d88c20c20af84
+
+{"title":"LIAR LIAR PANTS ON FIRE - Ripp Report","description":"Baldwin County legislators are having a field day under, puppet Governor, Poison Ivy. Goat Hill is throwing one bill after another in the pot of …","url":"https://rippreport.com/p/liar-liar-pants-on-fire/","image":"https://rippreport.com/img/pants-on-fire.jpg","charset":"utf-8"}

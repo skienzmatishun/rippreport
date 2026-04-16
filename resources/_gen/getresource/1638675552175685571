@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64061f85ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=A2tBVIn25oX2I4GRk5%2B1Z8TQoYf976GM8gprZfrV8B7OPdnie2B6gEQJh8tN0njcxSvyzxtatRkM51CsurwCiPh2lP478j1bZyEuKg0MXT95RNSdjODo5jL%2FpRJv4O1gicfTqSEZw59TDM6nHztCvtSqmQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=79
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ff4f7319f543e00b460ce8bf7ff9aed8
+X-Etags-2: ff4f7319f543e00b460ce8bf7ff9aed8
+
+{"title":"Letter to the Alabama Attorney General - Ripp Report","description":"Alabama Attorney General 501 Washington ave. Montgomery Alabama 36104\nAlabama Attorney General Attention Mr Steve Marshall\nDear Sir:\nDuring the last …","url":"https://rippreport.com/p/letter-to-the-alabama-attorney-general/","image":"https://rippreport.com/img/letter-to-the-alabama-attorney-general.png","charset":"utf-8"}

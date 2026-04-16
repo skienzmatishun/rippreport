@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c36b46a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5OaFTif5XEfo7kd%2FfqwOmQpWhAIvyshMRESbUaJhvQ0JlDivFAsbMoxkQRSElw18%2BDKVCqdFAXiCnSgIdmv5L%2FFV1T5rQ9YBByQpnPthL2awvzXg0198ytgTQn5hzUOrxpbPx539wv4TVaq1BnuTi6%2Bcpg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=73
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c3ebd97fac31941ed2d69b43608f60f8
+X-Etags-2: c3ebd97fac31941ed2d69b43608f60f8
+
+{"title":"Fairhope Mayor Tim Kant says Alabama court decision means he'll be active in all personnel issues - al.com","description":"FAIRHOPE, Alabama -- In no unclear terms, the mayor told the City Council on Monday what he had already told employees and department heads last week: that from now on he will take an active role in every single municipal personnel issue from hiring and firing to any disciplinary action.","url":"https://www.al.com/live/2011/07/fairhope_mayor_i_cant_delegate.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Flive%2Fphoto%2Fkantjpg-ab425675fa5fbe49.jpg?auth=f36b7b93043ca1a0688658210285f82f6445fea490f62705e059745274d7b762&width=1280&quality=90","charset":"utf-8"}

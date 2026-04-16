@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640003e4fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:14 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nsA3kGiJPpJIrJ9G5jw0rL7I8jX3duSM%2FaoqsqPUkKIUfbaCkUK49EVi7L4eL6G5ZT1sg8%2FS0E2DmhsV0vyPHjpx7qoP29zhGg1HZwOWXdAHk3DiYbEVtprSQg%2B%2FOX%2BNqpx9FsrkU6OlzbDEXEML7oVgMA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4463a40a08e80245b156cb16e073b8f3
+X-Etags-2: 4463a40a08e80245b156cb16e073b8f3
+
+{"title":"CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE - Ripp Report","description":"Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth …","url":"https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/","image":"https://rippreport.com/img/catalyst-the-three-bees-and-chucky-cheeze.png","charset":"utf-8"}

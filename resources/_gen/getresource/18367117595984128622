@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c80a5ca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2Fqbe%2B70tCyQb17FrwxAPRnTW4XPO%2FLFUZvYbQIzi1HqPJmJLvJoiCcAOXVyPoe%2BCWNwbYY4dW4blisYrGbaMBsqCSr67azPx2cDMj4JQth7E5aL7Nm0UHywD7ulypagL5El%2FKLzeTWb08LazUOftg7tS3A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d3499ee44b87ba023b7064ec4fb9ee17
+X-Etags-2: d3499ee44b87ba023b7064ec4fb9ee17
+
+{"title":"FAUX TAX, GAS TAX - Ripp Report","description":"Governor Kay Ivey is a puppet on a string. In a recent article she announces a special session for a gas tax. In one paragraph she talks about money …","url":"https://rippreport.com/p/faux-tax-gas-tax/","image":"https://rippreport.com/img/faux-tax-gas-tax.png","charset":"utf-8"}

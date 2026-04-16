@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ff5ff6da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:13 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=RHiqwJVdcXInjDUm%2FTWoyukgKob5tGtvte2AQnJnwCCiwOQQ9%2FBp9CfcFLlwl7z5cifxR4i%2BJM4pH3JNcwKgpiSMroPPwWVKJC1ZbOr4omxXkhfIMrLcaaZ9%2B96N1r4wYzEb9zvLJ%2BO21gFHS24SD7v2gw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=128
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: de8e8811c5f2bcf0a40111340aace1b6
+X-Etags-2: de8e8811c5f2bcf0a40111340aace1b6
+
+{"title":"Semper fidelis - Wikipedia","description":null,"url":"https://en.wikipedia.org/wiki/Semper_fidelis","image":null,"charset":"UTF-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405a38d6a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0%2Bg0jQ00d5hKpdfeIEGqsRep5DDAyLJBLbz%2Fl7xqmIH7VGzDLX0u9FKql%2FVZTt40J11Gs82XXOnpQ115l7f3BfTFhi%2BlMxaRCyB9gQK8Bo8TsVe4iYBCDZzcgz0KlcIVzdSRc8s1V2d%2BTqTDpbUd5yqlTQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=85
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6f80255c25eee6dd4c8f9a05b913675a
+X-Etags-2: 6f80255c25eee6dd4c8f9a05b913675a
+
+{"title":"\"Dyas Triangle\" Phony Lawsuit Conspiracy Alleged","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2011/01/dyas-triangle-phony-lawsuit-conspiracy.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtEqFfSKX71eM8zpAQMibh79En2QRRFxjKKq_3wEfsnnn485gNIenNYWm9BNpQJCicM4Y3ifutZ2BGd0tKOCeUzfhdwxG8wFFIMjVkE78vrxhAbx2CSUoCgea-MqzcoWhm89cM_ae7xak/w1200-h630-p-k-no-nu/IMG_0686.JPG","charset":"utf-8"}

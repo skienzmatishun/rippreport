@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c83b29a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PmT03TiJD5abwPKwRz0S88zAfoEha1buX%2Fm8awQnz42aoX1xahtHsBxJ3qj1%2B7%2FUvLc6%2FScMJ4vddRgBEug1xlGCM%2FBSl11AtP6BqjPRiDuhC5Yyh9U3VAueRsorWMakjyQidGejDDhoWJQKaBoqpJuAlA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=82
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 42a0c55b6921078e5405ceaf853c5cf0
+X-Etags-2: 42a0c55b6921078e5405ceaf853c5cf0
+
+{"title":"Alabama county officials refuse to lower flags to honor Orlando shooting victims claiming ‘it doesn’t meet the test’","description":"Flags across the country were lowered this week to mourn the 49 people who who were massacred in Orlando on Sunday in the worst mass shooting in U.S. history — except in one Alabama county wh…","url":"https://www.nydailynews.com/2016/06/16/alabama-county-officials-refuse-to-lower-flags-to-honor-orlando-shooting-victims-claiming-it-doesnt-meet-the-test/","image":"https://www.nydailynews.com/wp-content/uploads/migration/2016/06/16/2XK6QRV5MMQUEAZF3CGBWU2YMQ.jpg?w=1024&h=670","charset":"utf-8"}

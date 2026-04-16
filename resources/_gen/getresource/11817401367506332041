@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640859859a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FV4O1iJKW3jmjv3n82PEDSKkWwGUuwBT6QboqeZICYapSalaGnRvdQdqQwh6E4D4QfPiXUQbF2cyQd7UoBH%2FYW1%2FcN9j3Pl4pkOTBg0hKF5CTt5HKdcjDGbs4mLWl0hZe1bXI0KxnhoXui40rY1kMehwQQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7e060120fc5fb08e93e59dba0899eb44
+X-Etags-2: 7e060120fc5fb08e93e59dba0899eb44
+
+{"title":"Baldwin Co. home sales surging, bringing millions in extra revenue","description":"Home sales are surging as the growth in Baldwin County continues.A new report shows the amount of people buying houses in the county is up nearly half from last year and is bringing in millions of dollars in extra revenue.Realtors tell LOCAL 15 the numbers","url":"https://web.archive.org/web/20170426094455/http://local15tv.com/news/local/baldwin-co-home-sales-surging-bringing-millions-in-extra-revenue","image":"https://web.archive.org/web/20170426094455im_/http://static-14.sinclairstoryline.com/resources/media/1c980598-6ace-4350-826f-f3c3309dd5a9-large16x9_poster_7fee8a1d60bd4ff3995ba00f593b19a0.png?1493173017016","charset":"utf-8"}

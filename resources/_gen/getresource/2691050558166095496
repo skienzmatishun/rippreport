@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404488a6a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qt1vL%2FARAFYmG1nsXUpLUnZdT9mdrZW4YIYoAlrCQTuSoBlkQKB1cmmdc2apw%2Bc1ND%2FKdlnKvrWHhy3vcBEy%2B%2BQHVM%2BXZI9BxcO9u7Fxi%2FtXWqV3x1VBK9rAsv%2BLZKqRTUn6R2vDHjV6eEwLUSt4BvznBA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=99
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4b21bc5dcc27114037d49fe85b221ca1
+X-Etags-2: 4b21bc5dcc27114037d49fe85b221ca1
+
+{"title":"Commercialization of North Greeno Road Continues","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2018/01/commercialization-of-north-greeno-road.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHb6k_zydPdpVo3cs2Qfp60HsNDyINitV7A7xveE4FghaOoDGjN6RfYXa8UFrVMcrMRIyg1zPjLDEtJHoBUfJq6wgS5QbTB9-uYascj8BOutHGAwniubOStgExm76dyM-LG7cVrVUtZes/w1200-h630-p-k-no-nu/green+rezone.JPG","charset":"UTF-8"}

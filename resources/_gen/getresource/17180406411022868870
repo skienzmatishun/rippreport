@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408d185fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KjbKNalhg0fNaoc6%2FPoNCM%2B1jTbMQw3uOKAlm5DlnZUdcg6H%2BYbCRYCk5yOH2y%2Ba2j%2FnRCStF%2Frgn3zfzt5EeWdg%2BNBeWV4yg%2FW3Mvt2zFhf0hloh8VaMp3VtGXQZRutr2loO%2B8xsFhOywBjnuOj3lqhcA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6229137b3a754af19c223e73d1daf85d
+X-Etags-2: 6229137b3a754af19c223e73d1daf85d
+
+{"title":"Company sues Fairhope over development denial - Gulf Coast Media","description":"DAPHNE — The company 68 Ventures filed a federal court lawsuit against the city of Fairhope and the Fairhope Planning Commission for denial of due process, denial of equal protection and  …","url":"https://gulfcoastmedia.com/stories/company-sues-fairhope-over-development-denial,138148","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20221102-175013-Gavel.jpg","charset":"UTF-8"}

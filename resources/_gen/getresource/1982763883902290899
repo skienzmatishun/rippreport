@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c84b55a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2FSpnsUgxpYhfzJV3G4x6CQIwVBnaT%2BXTBlcPbfgholh9yhKI1Im5zPN0myUVhA6RB6JW6%2FiTCJ8lHcD%2B%2BNtT2DhBHg278XOHSfZBMBq%2F%2F3G6hZ2nTkKELM1c7i0xuQEANXky0z%2BXOr1m3zgMPScrAJfy0w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e73c79f1f6e4cdb033e2c9dd7a1b5e15
+X-Etags-2: e73c79f1f6e4cdb033e2c9dd7a1b5e15
+
+{"title":" Airport Authority Votes To Extend Lease Termination Discussions","description":"Community news and events for Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2022/01/airport-authority-votes-to-extend-lease.html","image":"https://blogger.googleusercontent.com/img/a/AVvXsEjHp59TZUZB9b1NssbZp048zXaNx25c70UbtM_2I1MyjfCBLj1FuJ6ZzwHYDL4TanssbltB3dxbUj18XIJkZSrvcgurXZ5BsQkn7sPE_ArH2NPIQk_ZatMjO_MUCYXOTVw8D-iGkKOVgZQaS2U9sumRz0et9_i6JwIZd2MiJiMO7SWU0vB9KAKbxhYD=w1200-h630-p-k-no-nu","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d48a27a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Eh6ODBxT5d5PkaVTJ%2FYJc77cDfTyhmZhhrE7rZbxZjwNkJGPNjUxqWtGzn%2FHdg%2FGIyme%2B9xONKYEqDiYEx%2FxfB4Cn2G4Ws2DZRek5QsBjOQYpxW7niBgcT%2FITbsMbfywtgOATb7AXOxGxhFJ3tqEVYtJwQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bf6b326ffa5175e0ffd082c8a58398ca
+X-Etags-2: bf6b326ffa5175e0ffd082c8a58398ca
+
+{"title":"Fairhope council votes to file injunction against Oct. 2 referendum","description":"Four Fairhope city councilors effectively undermined the intent of more than 1,000 residents last night by voting at a special-called meeting to file an injunction that could delay or even","url":"https://www.lagniappemobile.com/news/local/fairhope-council-votes-to-file-injunction-against-oct-2-referendum/article_de1f6975-1610-5c7f-a52e-8f44c9c2dca0.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/6/52/652f041a-2dbf-578a-b31d-e0e75d05bb3f/630ed15c384e2.image.jpg?crop=375%2C375%2C0%2C45&resize=200%2C200&order=crop%2Cresize","charset":"utf-8"}

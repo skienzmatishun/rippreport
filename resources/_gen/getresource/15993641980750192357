@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640689c6aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=sA8XrDCYyLFaQ0nIvSgvdGIlJMoxLztkbbmDid3pmbQYAANZoWUR3moyNvivPPcZuQmXeDkB37M6DxxRXmGP%2B%2B5sYZBvlAyJ2yOWZr6umUU7icfbsGUkSkuODji8Ytp3AjEn%2Fubnq4CuDuYL5uAewAO56Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=90
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8ecaa24f213341c4f2475ade9b448515
+X-Etags-2: 8ecaa24f213341c4f2475ade9b448515
+
+{"title":"Cliff's Notes for the COVID-19 CARE ACT and What It Means for You • The Havok Journal","description":"Cliff 's Notes for the COVID-19 CARE ACT by Jeremy Ferranti If you're an American and have a job, this impacts you. If you're a small business owner and Here are my cliff notes for the 880 page COVID-19 CARE ACT. That's 2300 pages of this garbage since last Thursday. 1400+ pages in Pelosi's Proposed House Bill and now this 880 page Presidential approved one... That's enough for me!","url":"https://havokjournal.com/nation/cliff-notes-for-the-covid-19-care-act/","image":"https://havokjournal.com/wp-content/uploads/2020/03/vladimir-solomyani-rKPiuXLq29A-unsplash-scaled.jpg","charset":"UTF-8"}

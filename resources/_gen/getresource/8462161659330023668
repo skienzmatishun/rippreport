@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bc0c91a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pWPebiUlBPmTvKr1v9qzaWKW7AfLrQH29den6V7VM2NoW6wJSZ9fDMwnrErjCpAlrc%2Bq70Lo4RwSoJ%2FeWU8NIMJX1Tz0afeGG%2FdR7GGZpoykaJUqDE73mGdOQNp%2Fe%2BiujeE39SYfOf9ohLYdDN6lfdyahw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=128
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4bbf56423532dbf0a293c77b9c37d042
+X-Etags-2: 4bbf56423532dbf0a293c77b9c37d042
+
+{"title":"Randy Davis' federal trial on bribery charges postponed - Gulf Coast Media","description":"Former Alabama House Rep. Randy Davis of Daphne might see his upcoming federal trial on bribery charges either postponed or eliminated completely following a pleading from a co-defendent. On Jan.  &hellip;","url":"https://gulfcoastmedia.com/the-courier/stories/randy-davis-federal-trial-on-bribery-charges-postponed,72089","image":"https://beta.creativecirclecdn.com/gulfcoast/original/20180725-150044-Randy%20Davis.jpg","charset":"utf-8"}

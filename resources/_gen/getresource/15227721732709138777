@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64034c95fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:23 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lDnPOEWEk9tMhN6qCeqLKVmlU9MTlhuZ27cVj7YY4gClRpN5rfUC8oS8TtvGiIreXEi5EcYNsRE7gz0wvoJvMQ0Q4EC9wznnzsQfNTHkaijUZUm%2FUG%2BhtJAqfPGlUoHxxR%2BV12I2OFFUbmM3DzlObgjMSw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=72
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ae52a4c9a386347a1889049887cf5756
+X-Etags-2: ae52a4c9a386347a1889049887cf5756
+
+{"title":"Fairhope reopening public participation on proposed park project","description":"Fairhope Mayor Karin Wilson is pumping the brakes on a $6.2 million proposal to redesign and rehabilitate parklands around the city’s municipal pier, citing concerns from citizens who were unfamiliar","url":"https://www.lagniappemobile.com/news/fairhope-reopening-public-participation-on-proposed-park-project/article_2bcb077e-4e3c-5ddf-8a66-0c5109cb61d3.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/c/7f/c7f95c52-b02a-5dfb-bc8c-3531c921cb6d/631a2c7306f3c.image.png?crop=837%2C439%2C0%2C17&resize=837%2C439&order=crop%2Cresize","charset":"utf-8"}

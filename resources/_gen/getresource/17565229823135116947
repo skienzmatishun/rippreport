@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64082ae88a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vRPxtR%2F8Bo28%2B1kT7h3z80oVciOz5ZsdKH4P7sVdJzRZDimqTi77rrJ9%2Fz3%2BEKe5QIBlROGJgNoUC5gx%2FC8UYSS9Bq0s6HxoLppTPEzmvYQfppnDkpVLnhSL6Auv1bkeo9Y3LEDE%2FUQbauNfLr%2FaApnsrw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c762610007e01622ee2607ec343f6dac
+X-Etags-2: c762610007e01622ee2607ec343f6dac
+
+{"title":"Baldwin County Sheriff's Office investigating possible mishandling of evidence by deputy who served on FBI task force","description":"The Baldwin County Sheriff’s Office is involved in a countywide investigation over the possible mishandling of evidence. | Alabama News","url":"https://1819news.com/news/item/baldwin-county-sheriffs-office-investigating-possible-mishandling-of-evidence-by-fbi-task-force","image":"https://al-news.transforms.svdcdn.com/production/images/alabama-politicals-news-evidence.jpeg?w=1200&h=630&q=82&auto=format&fit=crop&crop=focalpoint&fp-x=0.6658&fp-y=0.3325&dm=1718314888&s=191cfd092e6bc362d1e2f99f1eb7beef","charset":"UTF-8"}

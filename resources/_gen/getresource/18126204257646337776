@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640350a0fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:23 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xAJwXDGxFzwj2gZZsSy8khxxgb%2FZIYfWe2xouPxdHKo7wdqstK%2BwklSJ%2FLhYqlJXfjK3bdxIIoFlz2iafy3qOplCQPJ4BNXBkW9%2BDY2Gs%2FIA7dYGZ07JPIwxMlLex3TpfyBbW1A9KjggFaRE3e58uZmb8g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9ffae682e68afc5037c78fab5bc692e1
+X-Etags-2: 9ffae682e68afc5037c78fab5bc692e1
+
+{"title":"New Fly Creek Bridge Grant Sought","description":"TO REPLACE FAILED BOX CULVERTS The city council voted to apply again for a $20 million federal ‘Better Utilizing Investments to Leverage Development’ (BUILD) grant to replace the failed…","url":"https://fairhopetimes.wordpress.com/2026/01/22/new-fly-creek-bridge-grant-sought/","image":"https://fairhopetimes.wordpress.com/wp-content/uploads/2026/01/dual-braidge.jpeg","charset":"utf-8"}

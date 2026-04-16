@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64082ffaca8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cNkO7JER5scTb8MDLQQZHaGDtFgItfmuz8mXPHXa3Z2D9j7NCCHs3Br7c23vffc0YNeqDHVSx%2Ft6JOXZW3L38looJg39k97Teb7Av3dWG9rBSe%2FC7sSf9JjGgqEnlxNm6NwcHR3G8di7NKW%2B5bLV7Bi6PA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=105
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 97c0d3ee264a2eabcf95c6566c2d9291
+X-Etags-2: 97c0d3ee264a2eabcf95c6566c2d9291
+
+{"title":"13040 Underwood Rd  Summerdale, AL 36580 Businesses","description":"Discover the businesses found at 13040 Underwood Rd  Summerdale, AL 36580. We have found 4 companies and 5 people at this address.","url":"https://www.corporationwiki.com/Alabama/Summerdale/13040-Underwood-Rd-Summerdale-AL-36580-a42817393.aspx","image":"https://cdn.corporationwiki.com/public/images/corporationwiki-icon-fb.png","charset":"utf-8"}

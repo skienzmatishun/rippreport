@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64094cffea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=c9VyibzwcWEsbMNpMpk0xY7wG9aDIAHlxbvm250Pv1KvcF6kwWPsB5uexZsPSD5RjXx3tNg7XXW2QR3ScsQZm3DxaLc%2BSLxnolLqUnTq1uOTuoOP7levpry1gHDQ1suQsKbjdMbSbXX9D1V1gVjEudtWqw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=88
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6c9bc7d9c52404b6ec92448eb13dc15a
+X-Etags-2: 6c9bc7d9c52404b6ec92448eb13dc15a
+
+{"title":"ROUND AND ROUND WE GO - Ripp Report","description":"Baldwin County has recently been introduced to the traffic intersection known as a roundabout.” The modern roundabout is a beautiful thing. Traffic …","url":"https://rippreport.com/p/round-and-round-we-go/","image":"https://rippreport.com/img/round-and-round-we-go.png","charset":"utf-8"}

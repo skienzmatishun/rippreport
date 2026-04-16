@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640494ea1a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4BWTTZtWqGeElLwSNt4kE41QBtxNafk11HpbLniBBjLWyBPDe%2B3%2FgkvrT4bNhK%2BqHM%2FBwsKXAFL83vtN7traQ%2FehvbNDpZl5OcogIU5aEVW9niQh2O93rg4O9qo5%2BxSiDeUuBYwwmRR6kS8luBlWsqm0RA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3058d9f6ba0fb0d97bf75a6b36cdfa19
+X-Etags-2: 3058d9f6ba0fb0d97bf75a6b36cdfa19
+
+{"title":"PRESS RELEASE - Ripp Report","description":"I’m Harry Still and I want to restore your faith in Alabama justice by serving as your Attorney General.\nI am a practical Republican not a Washington …","url":"https://rippreport.com/p/press-release/","image":"https://rippreport.com/%!s(<nil>)","charset":"utf-8"}

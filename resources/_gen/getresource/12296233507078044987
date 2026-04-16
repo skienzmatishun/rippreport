@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640a3be54a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fNrC2Rnd2BzBEuO6oEiemOp3%2BMk6rNP35vm%2Fylu04%2B5sYOkG1vYqBOd%2BqpFoAx5FjQDrP5Mnd70ZEVDdYlgGStM4%2BfFRWi5LIQ61T7vdhyCQbYZ2o%2FZ3rDjHsAx5wf1g2IpNFUuTLUow1Y7nVhrvi7Aluw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b014c7f68e11d122cc6c11ad7a6c8d34
+X-Etags-2: b014c7f68e11d122cc6c11ad7a6c8d34
+
+{"title":"Baldwin DA’s Office asks judge to reverse his ruling ordering Sheriff’s Office to return Camaro","description":"Baldwin County District Attorney Robert Wilters and Sheriff Hoss Mack have asked a judge to change his ruling compelling the Sheriff’s Office to return a car that deputies seized earlier this month.","url":"https://www.fox10tv.com/2023/09/15/baldwin-das-office-asks-judge-reverse-his-ruling-ordering-sheriffs-office-return-camaro/","image":"https://gray-wala-prod.cdn.arcpublishing.com/resizer/v2/ITDHGY56QNC5FGOCFFO5QBUFVM.jpg?auth=4f54d99e68c325ce75aa4fe297fff4ca93605aa8361594f46e2f36a0c94cc636&width=1200&height=600&smart=true","charset":"utf-8"}

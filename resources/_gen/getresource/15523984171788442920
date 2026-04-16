@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405cd8f8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5NUO6I4LlOAL1dvQDaHfVLxexyXmfsaU2vp2%2BuZSw848qJuherQ05vnSzRR5tobocnkH4woxTAfBHBDm1xRVEE6oWxUqqnfDGesH0f%2ByD%2F1ZAUzeeWlvScRzJ2UdOrm3XP9Rocrt8%2BYaOYNcLucfnzuBJw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=97
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ba95ba0ba0ba742fcd1b13d7edcd1a47
+X-Etags-2: ba95ba0ba0ba742fcd1b13d7edcd1a47
+
+{"title":"Fighting corruption in Alabama is painful; just ask this guy","description":"It's about to get worse.","url":"https://www.al.com/opinion/2018/03/fighting_corruption_in_alabama.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fopinion%2Fphoto%2Fvanjpg-1fc16e6b32cd06cb.jpg?auth=27e8c2585f8aa4f3914606afae3d825315b0041a5bdf007542e66e822f2f239e&width=1280&quality=90","charset":"utf-8"}

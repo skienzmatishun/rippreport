@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b7fff7a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=RN1ZywjzLYbhg%2BdVGdlQBjrozEviR7FArXQOYd2wSwa8%2BeZHm%2Fy8r2vL876LyFTST%2B9c%2FOFFzPnWA%2BODlcvdpbbLjyQpijaH1zmDu%2BmxUtHbZ%2FgzfWpdBAhwrcAkbS4qCafC%2BIhbm3%2FNGio6vUw2dpr2cA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8f98635443cf59f322a3532280d504db
+X-Etags-2: 8f98635443cf59f322a3532280d504db
+
+{"title":"BLIND LEADING THE BLIND - Ripp Report","description":"In Fairhope Transparency is being promoted by a Jester. His followers do not care about facts only the Jester spin. The Jester, Boone and Burrell are …","url":"https://rippreport.com/p/blind-leading-the-blind/","image":"https://rippreport.com/img/blind-leading-the-blind.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640690da1a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NBsxDV6OPrk3XkerWt8Z0XkQBFzPUMMmbYVMlzpgMaqEtsvE1ZLwevC5AyGdhPDftVxMbtgQGNbuGrFGh%2FT86qOOKZmUr2qytuO6yPMtw5vSMWcnsFEkvooCH9lWFSV67qZ7CbLfYdgqz%2BlV8H%2BPV%2F8zvg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 16d3b03591a943063eef745c9ef2fda8
+X-Etags-2: 16d3b03591a943063eef745c9ef2fda8
+
+{"title":"About Us - Baldwin County Alabama Economic Development Alliance | BCEDA","description":"The Baldwin County Economic Development Alliance is a partnership of local public and private professionals, leaders, and officials. Providing opportunities for businesses in Baldwin County.","url":"https://baldwineda.com/about-us/","image":"https://baldwineda.com/wp-content/uploads/2015/12/BCEDA-logo-long.jpg","charset":"UTF-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64099dfa1a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zpswXdhP0dN9YTF6VxGfA6pd2lvUxR6NJjRHSgjzbDJh2uvMRaTG8Ft0Paxr%2FazTrcs8wRPn61FN%2FR5qvArVa2nSC2eqbrzKRH99suTAgYviLs3XhSOABy%2BCL%2FvFPScH3ozm5l2Sm6HMxHiEw9rBBtdyJw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=130
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4e9f22dff22b6c5e14a23a851a8f3f6a
+X-Etags-2: 4e9f22dff22b6c5e14a23a851a8f3f6a
+
+{"title":"Alabama lawmaker testifies in sheriff’s corruption trial","description":"State prosecutors dropped one of the charges against Sheriff Mike Blakely and the judge removed a juror because of misconduct.","url":"https://www.al.com/news/2021/07/alabama-lawmaker-testifies-for-defense-in-sheriffs-corruption-trial.html","image":"https://www.al.com/resizer/v2/XH6EF2G5ENBL3D4RF7OXWQ572U.jpg?auth=287b781f2cf7db4ac64a3429af9523e1d2595321a6ab278e0a92cf498a7c088e&width=1280&quality=90","charset":"utf-8"}

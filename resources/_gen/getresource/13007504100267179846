@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6409eff6da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ubFYESzcQo%2FmVE1NRPb7zL3uObpoO5G0Rn8hk47CH3JNzFqwUr78dDll72HxYiA7vLAGbt7ZVw3EYG1Yim9%2FFTla0h0EeF8fu99ZEkzmnb4r5EWxsSQu2TI51OFxJOass9onljK6giH9nWkCv9y%2BunEAxA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0ebc83f3f423bcf78b6049d625acf2ea
+X-Etags-2: 0ebc83f3f423bcf78b6049d625acf2ea
+
+{"title":"Settlement reached in alleged \"slapping\" incident involving Spanish Fort mayor","description":"A settlement has been reached in a federal lawsuit filed by a former Spanish Fort city employee against Mayor Mike McMillian. Lyndsey Cooper filed suit against McMillian after he allegedly slapped her. McMillian denied the claim. After the mayor was found not guilty in county court in October of 2020 Cooper filed a civil case against the mayor and the city clerk in federal court.","url":"https://mynbc15.com/news/local/settlement-reached-in-alleged-slapping-incident-involving-spanish-fort-mayor","image":"https://mynbc15.com/resources/media/89add487-35df-472a-a1b9-e94f305becf8-large16x9_Capture.PNG?1645663503739","charset":"utf-8"}

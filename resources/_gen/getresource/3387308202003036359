@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640768fbfa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=r6gShVDAajcFRyzLY1MgUeHY3rlwhXDtLUupp%2FyAx8QSbIfI77aG2rTL8wQSrVL1Hd9shstC4ALx01oNE0wIrC7t1JytwAIM9YwEMM4MrBKcxU2JoUE4tZm%2BC%2ByyRYcjcyTP%2FqTknhsgTu4FLQkRQbUbSg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 621e6a77ced07da4ecf1a76e10c862eb
+X-Etags-2: 621e6a77ced07da4ecf1a76e10c862eb
+
+{"title":"Fairhope soccer complex set to open in spring of 2016","description":"Years of planning and reeling in costs came together Monday night with the Fairhope City Council's approval of bids, totaling $2.42 million, for a new soccer complex on Manley Road.","url":"https://www.al.com/news/mobile/2015/04/fairhope_soccer_complex_constr.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Ffairhope-soccer-complex-5933cd1ad3805fbb.jpg?auth=599f3b5048abb6f3945f2eebb8ac2567945598be97c4bab04e6f04640f121a17&width=1280&quality=90","charset":"utf-8"}

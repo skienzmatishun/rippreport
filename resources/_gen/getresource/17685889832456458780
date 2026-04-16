@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64005de75a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:15 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=g5sD8IVFDblnYtP3wkXcIsZPUOGjIdNovmk4dJQWo%2B1wwt1iVVQH6hFqXijbYm6sWA%2FzpRMEO6UlTww2JMhSSG%2FMthmid9ol8sXd%2BYHP9oIrqv%2FPwkzitX27d4ns6%2F80aERzk9vP85vJWcSBknFy00O21A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=81
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a1cad02c5f11e8e806ae6d789c1e2506
+X-Etags-2: a1cad02c5f11e8e806ae6d789c1e2506
+
+{"title":"Advocates discover autopsy never included in Baldwin man’s murder trial - Ripp Report","description":"Criminal rights advocates have unearthed a second autopsy of a 2003 murder that was never revealed during the trial of Murray “Bubba” Lawrence Jr., …","url":"https://rippreport.com/p/advocates/","image":"https://rippreport.com/img/advocates.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64067a97ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2FtojIPU8lc4JIBshYlEAqWo5bcugBfEnKaoWJDFlneIyoN%2FURuDg3s%2F9gpjUBKomZsewpa%2Fn1jwDY04sF5kmxTe3v8pwlPOGOwKmFHJlZvUzan9I65GGjdCTyrSnarHfvVGaaw0CN%2FbHGFYeP4aLT0QzgA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3fc7cf6031f4dda8e41ef19c94d6948d
+X-Etags-2: 3fc7cf6031f4dda8e41ef19c94d6948d
+
+{"title":"Disaster assistance | U.S. Small Business Administration","url":"https://www.sba.gov/funding-programs/disaster-assistance","image":"https://www.sba.gov/themes/custom/sba/dist/img/social/SBASEOImage.jpg","charset":"utf-8"}

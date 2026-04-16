@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640803e9da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jZ9j2KGmcLKNAPb%2BFtRiqJrpc2imi3YwUiMqdNBfc1PxXkjlAwCxRn0PWHTzU3Mx1k5bhm1AoKcxAZKSf5KSbHyrSVtGLGE0kI93x6Zp%2Fe89HSpxf2wD4t7q8tcqRtsg9KqgUyaHuZmJPeD%2BVuRtn10fKw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 26e337cd97f0b2cee8ebb768176d9f02
+X-Etags-2: 26e337cd97f0b2cee8ebb768176d9f02
+
+{"title":"A SLAP ON THE WRIST - Ripp Report","description":"The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court …","url":"https://rippreport.com/p/a-slap-on-the-wrist/","image":"https://rippreport.com/img/a-slap-on-the-wrist.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64077fc59a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rK5VbJNiud0A14Zj5rwh482Y77eoTM7ryn9db02guPNE%2F08tl7LZEWrGvIDzrZCIIoStbzleOlznQ50KQVkogaP2W262JD3pbDYRjGKVnxNHDYfJlS5sNWNdHjOcn2Wy3%2BMk81IeQVoFORoMz6enusAtuw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: cf4ed0fd473f3015a67e2ef79497fd59
+X-Etags-2: cf4ed0fd473f3015a67e2ef79497fd59
+
+{"title":"404page | Alabama Department of Public Health (ADPH)","url":"https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html","charset":"utf-8"}

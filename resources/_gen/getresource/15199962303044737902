@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6405ebeaba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2KsIglw1vDpPXzFXA6AbUJUIkBYzCfeImYZBeCnjFtqEHOSheoqJe8dQ4xgUZcJ9%2FHDiwCJup%2BEJh6qIc0qBbDcRu8o3R%2FYApErTjEoNy3bxktlu5%2FktPBipmpUrrxEvgAlGkG9CNNnVlrdYVKgX21DBCA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 54de1e193583d287d25c3dafb0760a3c
+X-Etags-2: 54de1e193583d287d25c3dafb0760a3c
+
+{"title":"Opinion | Stop telling people that Alabama is better than this. It's not.","description":"This is who we are. We are the state that just told rape victims they have to carry their rape babies to term. We are the state that just told pre-teen","url":"https://www.alreporter.com/2019/05/15/opinion-stop-telling-people-that-alabama-is-better-than-this-its-not/","image":"https://www.alreporter.com/wp-content/uploads/2019/05/AdobeStock_119590014-e1614259900253-1024x576.jpeg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640d80ccfa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:49 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MjlYaTPAK65gDDVqEclfm3sRWfmg5v5fL9f7mphLndrQtJODNPHkRwZNU%2FF5B4cXkp44%2FzG0iJ%2BED8jLLy2Q%2FlKEYqJbmo2%2BgkmGlBW9pNAFbgga1GqrP%2Bf3UHCLjAlTxxmBX02EKVUDWyHtDRkesIwgsg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=100
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6fed951a27a80f9e364e3644daeda871
+X-Etags-2: 6fed951a27a80f9e364e3644daeda871
+
+{"title":"Billie Jo Underwood for County Commission District 3 | Baldwin County, Alabama","description":"Billie Jo Underwood for County Commission District 3 which includes areas in and around Loxley, Robertsdale, Silverhill, and Summerdale, Alabama in Baldwin County.","url":"https://web.archive.org/web/20180805144029/http://billiejounderwood.com/","charset":"utf-8"}

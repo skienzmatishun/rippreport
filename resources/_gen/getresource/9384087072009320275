@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640817ae0a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=T%2Bi2TmukGvL7qINiTC5JQJcym4PAUDRn5waPjKeL4dQTe3%2B6mv5sLR0ZXsqzA5cGuCc5GYaQe5UtJs6y6kkXC2eAii8g23XYiJ1dYLUd2omjZ51sluq0J5XSjLYNJu1LT65sq%2FTxez9y7UVc81mkut8KtQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b83cb176dddf4828ce732bb0c716d844
+X-Etags-2: b83cb176dddf4828ce732bb0c716d844
+
+{"title":"BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT - Ripp Report","description":"In Fairhope, a conservation easement involving city property has become an issue for the entire county, all 14 municipalities. A conservation easement …","url":"https://rippreport.com/p/baldwin-county-municipal-alert-municipal-conservation-easement/","image":"https://rippreport.com/img/baldwin-county-municipal-alert.png","charset":"utf-8"}

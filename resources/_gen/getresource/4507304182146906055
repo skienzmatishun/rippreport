@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed63ff4bbc5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:12 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4I43ubu4B%2Bfe8j69WitFJUityCdWq%2BJLw1kuL59O9pRERogIaB2e%2B%2B0hSmeqW3Ev9Tx4c79VtBW9kbGEi1BthJk5Fz6SZIJjTjR%2FmCFQwtcsongfFE8lxo%2BaV1wdBSA4V2531dcsbtiYgvM%2Bc81AVLdwIg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=102
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 924232fd93355330dac04f5ec91f7751
+X-Etags-2: 924232fd93355330dac04f5ec91f7751
+
+{"title":"CATALYST SHERIFF - Ripp Report","description":"When Police Chiefs or Sheriff’s get wrapped up playing politics, sometimes it bites them in the ass. Just ask the former Police Chief of Fairhope, …","url":"https://rippreport.com/p/catalyst-sheriff/","image":"https://rippreport.com/img/catalyst-sheriff.jpg","charset":"utf-8"}

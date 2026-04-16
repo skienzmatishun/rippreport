@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64083791ea8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cl2ge9ktSP7Y24%2Fbo5TXGKLy26M3JDB5If9fEIKFcAGNknAOerPpP7rbjlrXT%2FwvLVpF%2Bfth4whPI6mgHG0rmVK71eIzIADJa7eYxeozp0uBFppJPsi20OOJkc3MI5U7OwFVCFxTNC1jkdgKXr5y7vCtEQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=0,cfWorker;dur=86
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 7df0714f1005f98bf0671e44ea4e6ed6
+X-Etags-2: 7df0714f1005f98bf0671e44ea4e6ed6
+
+{"title":"THE JESTER - Ripp Report","description":"The Jester is back and now he wants to give away 106 acres of municipal land to Weeks Bay. The very same Jester who used his elected position for …","url":"https://rippreport.com/p/the-jester/","image":"https://rippreport.com/img/the-jester.jpg","charset":"utf-8"}

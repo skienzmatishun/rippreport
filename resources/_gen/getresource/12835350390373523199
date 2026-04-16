@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406b7d8ba8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HRsRfDqhMNkaIF3Pw18ag083u2GRD%2Bm09ccpdwq0hH4thuo5fKtLUnJCWHSCSaD7AwCYQJGC4WK%2F4pKnoiyJRP3LoGTJ%2BTIVW9YtIQQRqoEXjahvl7EjqFEt1HIvSnSdOAf5zdhxwdxCVH0zRg%2FwlXj%2B8A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f878f2197869740ff8228f013cb810e5
+X-Etags-2: f878f2197869740ff8228f013cb810e5
+
+{"title":"BEND OVER FAIRHOPE - Ripp Report","description":"The Fairhope City Council is the worst council in the history of the community. Public trust, oath of office and conflict of interest are ignored and …","url":"https://rippreport.com/p/bend-over-fairhope/","image":"https://rippreport.com/img/bend-over-fairhope.jpg","charset":"utf-8"}

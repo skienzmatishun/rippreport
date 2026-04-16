@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640678923a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Abk7itAFE9a%2FxuPaSQY%2Bpa4MiphG25o3AD1ItMZB9jlQzBZ%2FtxBnW5IVdsztzaJTTm%2B2Kh3zEF1KD5aEnGgzvmmADnqubHnyrXXl2gHOqtTbO00oH%2F6o4R3JCAqIQO5w1TSpCN7xaovplTYFqF3z2atXsg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=83
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 25d756abfe808b2a873d90538922b78c
+X-Etags-2: 25d756abfe808b2a873d90538922b78c
+
+{"title":"The legend of Roy Moore: A Bad Santa story    ","description":"The Legend of Roy Moore at the Mall: A fake tale of fiction ... or is it?\n\n","url":"https://www.al.com/opinion/2017/11/roy_moore_bad_mall_santa.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fopinion%2Fphoto%2F11-15moorebadsantajpg-439771ec4ec86fe8.jpg?auth=c0e42af6c2f908d1298cfa53c94c3176f981192e07578456f8a65d527a90714a&width=1280&quality=90","charset":"utf-8"}

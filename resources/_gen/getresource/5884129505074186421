@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640b68b4da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zw2iUOJdJ5zrQ3Doo6pcu489gerqhtYGDahY80iyD8ST1wXXWVqXURGuxSn%2FmcB5o8O1hVw3ozMtVY31lfse%2BzvDU%2F0U0L8K2SW8w01F8aZx3AM2BUWhkqu8Y6SWeTqqX4z9d6g46S2m4RxmsrX2Kk%2FAwg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 6d56008bf9425fecf860768fb0f9b386
+X-Etags-2: 6d56008bf9425fecf860768fb0f9b386
+
+{"title":"Underwood announces candidacy for Baldwin County Commission District 3 seat - Gulf Coast Media","description":"Billie Jo Underwood, a Certified Public Accountant from Summerdale, has announced her candidacy for the Baldwin County Commission District 3 seat in the upcoming 2018 election.  Underwood, 50, is  &hellip;","url":"https://gulfcoastmedia.com/stories/underwood-announces-candidacy-for-baldwin-county-commission-district-3-seat,53366","image":"https://beta.creativecirclecdn.com/gulfcoast/original/1506451090_9924.jpg","charset":"UTF-8"}

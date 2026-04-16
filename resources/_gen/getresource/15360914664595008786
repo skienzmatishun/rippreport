@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6406ffba8a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=isw0PC0TGw9jtD%2F8YkMlt%2FPB%2B%2BS4jdZEFe1aJ9oQgx7rVRA%2B%2FeS5ikoRkfQ1VzgO7Zz0TV3jQWrvAHAQLhOpWAOCDo7tBwb1gSiZtn67V2sYY3o2Ft%2Fpv8cPHkk7tDu0qPlaXPBhDrgBPeWw1ooIR6RpBQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0b8fbf51927f8f440d55f8bbd42a8b12
+X-Etags-2: 0b8fbf51927f8f440d55f8bbd42a8b12
+
+{"title":"TRIANGLE ROACHES - Ripp Report","description":"A “TRIANGLE CONSERVANCY” has been formed and guess who one of the major players is?\nNone other than the very person that rigged elections, neglected …","url":"https://rippreport.com/p/triangle-roaches/","image":"https://rippreport.com/img/triangle-roaches.jpg","charset":"utf-8"}

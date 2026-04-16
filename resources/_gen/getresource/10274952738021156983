@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64095fbafa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:38 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KEziGYBddpDX6aWZPgHF6vANOQCi4Y2TKtkckQkwI5viZ%2Bc5kVZ8YIgcxADZWYZkPkRxt5jej3b%2BEjx4Ztob7X3Mec1TlW%2BKu6bamkv6FTxFvc27cpHPuUW%2BbwRSJQ3a68PyuooFOwKiknV756XXStC1hQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=75
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: d7303ae6fcbc411121adcad9b45cde42
+X-Etags-2: d7303ae6fcbc411121adcad9b45cde42
+
+{"title":"Daphne board unveils plans for 30-acre technology park near high school","description":"The city's Industrial Development Board is spearheading the project, dubbed the Daphne Innovation and Science Complex, as the first phase of a 75-acre, master-planned development on the southwest corner of Champions Way and Alabama 181, east of Daphne High.","url":"https://www.al.com/news/mobile/2015/04/daphne_board_unveils_plans_for.html","charset":"utf-8"}

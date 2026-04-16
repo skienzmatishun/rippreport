@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640c14d02a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nECaVuRfCWnL7pZue4q6UcJdhDrsI9SBriRER9rybu4i33UabnkelH8yKijWtyHEfKrHCCJ75Gc2mFFSua0E6DhaEmhl23rGQa9fMQrpgg9ugEliCiuntSgBvEEnMXC1WxUgSNr4Jqm4Lx1uQ4Abn%2B%2Fxkw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=93
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 601aae7737211c56420913de696f8919
+X-Etags-2: 601aae7737211c56420913de696f8919
+
+{"title":"THE POT AND THE KETTLE ARE BLACK - Ripp Report","description":"Qualifications for the mid-term elections in Baldwin County are final on February 9th at 5:00 pm. Baldwin County residents need to reject the …","url":"https://rippreport.com/p/the-pot-and-the-kettle-are-black/","image":"https://rippreport.com/img/the-pot-and-kettle-are-black.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408619f3a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qDqIwqo3tL0Gtlbn6b2T2dFgocmBQR9s5zuzZfqaatzMrGKxe0nbBr6uEE%2Fot9E%2Btg3mnhYmXDkZ%2Bz0DLYhv%2FphSHSwzIv2wcaSyzymasbqjvjcKDQp8xxwMjpjo7Up19k1MLOTG30GSHoO7A9vd08GNaw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=154
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ed02d1fd9fa0982d4c9b7a7a583c410d
+X-Etags-2: ed02d1fd9fa0982d4c9b7a7a583c410d
+
+{"title":"Fairhope modifies Christmas parade, assigns litigation attorneys","description":"Responding to complaints about largely maskless crowds that attended the city’s annual Lighting of the Trees Nov. 19, Fairhope Mayor Sherry Sullivan announced the city’s annual Christmas parade will still","url":"https://www.lagniappemobile.com/news/fairhope-modifies-christmas-parade-assigns-litigation-attorneys/article_245f9931-d359-5e6f-8e12-1be512eeb8e0.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/5/71/5712a17d-7c8d-5e53-a799-2058b4145258/630ea94a28574.image.jpg?crop=700%2C368%2C0%2C78&resize=700%2C368&order=crop%2Cresize","charset":"utf-8"}

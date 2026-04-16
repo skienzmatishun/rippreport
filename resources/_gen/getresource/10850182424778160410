@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404a7a2aa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=X7RphTC3Qsh52CfYMofMK7fHzy2NkMmqUWaDWLY%2BRDdE6zaNRuNzV0SinlLz0aMzY4JzXuleLnTWVlTGQ8el8iMILy9yiISK45by80oPyh20QDR7QSOCfGohIXa64fBbuMMOrdOgIqNgsTTgt5vpaKoYZA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=92
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 132a514dae2a90f8a6d16921af093e66
+X-Etags-2: 132a514dae2a90f8a6d16921af093e66
+
+{"title":"RUMORS - Ripp Report","description":"O.J. French was only 32 years old when he was shot and killed after being pulled over for a vehicle equipment violation by Bay Minette Police, August …","url":"https://rippreport.com/p/rumors/","image":"https://rippreport.com/img/rumors.png","charset":"utf-8"}

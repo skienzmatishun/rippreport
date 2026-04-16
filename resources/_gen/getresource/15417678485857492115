@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404e0caaa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Y47fPyG60BvB9z4c3sMQhfZvzoiN2uT%2F7NgP6UmKwvfGgr6iYmXSLlxAIuUalIYLjbxEwlDP1PjdrdVf3sTfH2txTIAeUePzyu9mvBOoGYoj270fS1vW53aVwaS2A3a8yWA43kQhE27yopu3vy1WyT289A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=78
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 34f72631a99996b124751bd1458b6684
+X-Etags-2: 34f72631a99996b124751bd1458b6684
+
+{"title":"Apartment project led to political upheaval in Fairhope","description":"Fairhope, which is the fastest growing city in Alabama's fastest growing county, will see a significant changing of the guard next month when a new mayor and new council members take office. The newcomers arrive on a wave of voter anger over an apartment complex project. ","url":"https://www.al.com/news/mobile/2016/10/how_an_apartment_project_led_t.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_mobile_impact%2Fphoto%2Ffairhope-crowdjpg-aa918271aa60f220.jpg?auth=550abd5f4fd0c3feaf9f51102c0191f22810ebb8016f7e7a3fb1038c61d439f1&width=1280&quality=90","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404b7d20a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=J4r9phFNRbWjTa7bSwb7Uk%2By5XT7qZKj9Pn2MeCGRCc2WX47ZUPRymrbHiGprHNTrXC5HolL1uIdaWcnrfd78KisaKaYKY3ytDs2VppH5MzIRh9DSxMDSKZniaTOctI3oZD%2FcxCelVbndn5GJCH4zRgJIw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 73c9127a8e905c47b7146d70e672bf64
+X-Etags-2: 73c9127a8e905c47b7146d70e672bf64
+
+{"title":"CATALYST COUNCIL LAWSUITS - Ripp Report","description":"When the triangle lawsuit was going on, Fairhope&rsquo;s insurance company, sued the city saying that the city&rsquo;s bad decisions led to the …","url":"https://rippreport.com/p/catalyst-council-lawsuits/","image":"https://rippreport.com/img/catalyst-council-lawsuits.png","charset":"utf-8"}

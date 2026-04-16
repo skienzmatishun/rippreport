@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed64062390da8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=D17M7Tz0X6Cu0rmpdmsMJGYdB1Z83gts%2Fa8s%2Fn%2F5Fvf68jm9Gah7v%2Fks7G%2FPKjCYx3A4s3xIOgfR8DEyCGpkfxopKXEnPpyKaWKpxluj2%2BFZDDdwt2527osBbmpq4hmF3OSu%2BEEGwFVcMXzHtQ4jw0FEMQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=84
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0b3b9ed73e048a2106529d18b4a3d087
+X-Etags-2: 0b3b9ed73e048a2106529d18b4a3d087
+
+{"title":"Roy Moore says press 'mischaracterized' him, again refuses debate","description":"Speaking at a Tuscaloosa Christian school on Wednesday, the Republican Senate candidate said he's been 'mischaracterized' as hating gays.","url":"https://www.al.com/news/2017/11/roy_moore_i_dont_hate_people_i.html","image":"https://www.al.com/resizer/v2/https%3A%2F%2Fadvancelocal-adapter-image-uploads.s3.amazonaws.com%2Fimage.al.com%2Fhome%2Fbama-media%2Fwidth2048%2Fimg%2Fnews_impact%2Fphoto%2Froy-moore-65e4d5b41e0bdd7a.jpg?auth=68da16b276f314a3d589a3c9f4a463eaa8e7befbce13c193b14f31f4013f4098&width=1280&quality=90","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640473844a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=v%2B8B7y8HE7njCzwnXL9KH9lM10fqwe5bV9kYN8FHGzERfGGSsuZYKArKRj5icr4uPSLYMGh0X1ppyz8eNA%2BQ3ryLRzMpAQumy9nEGySe0dHk1%2FdAOK6kWZWTD5UNHwf3PF8xVM5Qm%2FiN0A1RB3ilUfwFNg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=139
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 60da70e6ade518d47139a677e83ec3cc
+X-Etags-2: 60da70e6ade518d47139a677e83ec3cc
+
+{"title":"ALABAMA CONFIDENTIAL: The $675,000 Sins of Senator Trip Pittman-R are Irrefutable and Actionable","url":"https://web.archive.org/web/20160617011510/http://alabamacorruption.blogspot.com/2011/03/675000-sins-of-senator-trip-pittman-r.html","image":"https://web.archive.org/web/20160617011510im_/http://s7.addthis.com/static/btn/v2/lg-share-en.gif","charset":"utf-8"}

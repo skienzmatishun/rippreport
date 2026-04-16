@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640507c04a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=g%2BJekRIn5kAPX8HmQxVh8gkjfTGzmykbT%2F3M2CD1dwZt5j2Ljzgno%2Fj9s90ae5VwJJ1jaOvAeqRxA6wA%2ByS5MGPdHZYR0POwTXufNUsBJNTlf6Pv%2BpUESf6T86%2B2BNmnjyxu3QDni1Ga4YVWNmNZNNf9%2Bw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=100
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a4d7fc5bc5f2697b5b4850e1765fde4b
+X-Etags-2: a4d7fc5bc5f2697b5b4850e1765fde4b
+
+{"title":"Incoming Alabama House speaker  names 8 committee chairs","description":"Rep. Nathaniel Ledbetter, R-Rainsville, is lining up the leadership team for the next legislative term.","url":"https://www.al.com/news/2022/12/incoming-alabama-house-speaker-nathaniel-ledbetter-names-8-committee-chairs.html","image":"https://www.al.com/resizer/v2/G3GQXVPTUZCIXKNCBAIOMCNSBU.jpg?auth=184fbece371ff815c9ab123c889f4789afdf06d3be992f78ff0584951c2d2092&width=1280&quality=90","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640827daaa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:35 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=RqzMKOJSkJHJcL7v2Z0sZnizEdz0ceGOMfBRfjWESeHOk8k7NffXq821qCtx9V0hq%2Bv9Om8Qu7DtgXkXAWWPmd%2BcAGzBpGGYxM9INuvgL%2FFPy38Xonhkh%2FDWnfGgZlRy%2BuALZNluEy6FG2eQqrPXaAPXvw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=76
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4410fef63de509f8de05f7e6173f469a
+X-Etags-2: 4410fef63de509f8de05f7e6173f469a
+
+{"title":"DELIBERATE DISTORTION OR TWISTING OF MEANING - Ripp Report","description":"The Fairhope City Council and Weeks Bay are trying to tell the general public that a Conservation Easement does not mean Weeks Bay owns the property. …","url":"https://rippreport.com/p/deliberate-distortion-or-twisting-of-meaning/","image":"https://rippreport.com/img/deliberate-distortion-or-twisting-of-meaning.png","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6404e1cb5a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=86HdNxgbuCxg3%2FfHXJ8dfdy8w%2FOWpkYquxlCRH7PugB42XLgXmbG3F%2FNzidGiGB2JH75hOiE0uzn5a0AdeipZeibLRL1Z1EF%2FiRv7%2FjLddbQurJ8fOaE8CqpZzRafEltFvE6b7HK%2FojJG3JBZluE4mFbRg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=74
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 59a6e11e6bed290a0ba806a2a0b26a68
+X-Etags-2: 59a6e11e6bed290a0ba806a2a0b26a68
+
+{"title":"COOKING FOR THE JUDGE - Ripp Report","description":"Catalyst represents the good ole boys and they want total control over Baldwin County Government. That means control of the County Commission, Probate …","url":"https://rippreport.com/p/cooking-for-the-judge/","image":"https://rippreport.com/img/cooking-for-the-judge.jpg","charset":"utf-8"}

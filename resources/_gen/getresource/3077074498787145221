@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed640bf0d7fa8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=o5lZRWc3Fetujy9NKPGNohr7cqy34FkI4P32oWkhKEeBDCByWJUiOeHP5EIN4XvFN3xxG%2BfLYih2c7kCRtkxaGWUYiWPSDcDNya1XwjYPUDX65ewTCq6vPM1Q%2BTtDrG4kNVQFjlPzBlvyeju13zQFBOFoA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=87
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 9f1c82da50198be3182b48fa8eea8e52
+X-Etags-2: 9f1c82da50198be3182b48fa8eea8e52
+
+{"title":"Sen. Tommy Tuberville: Why I voted 'no' on PACT Act","description":"For decades, and across multiple wars, the U.S. military disposed of various types of waste by burning it in large pits near their military bases. These…","url":"https://1819news.com/news/item/sen-tommy-tuberville-why-i-voted-no-on-pact-act","image":"https://al-news.transforms.svdcdn.com/production/images/Tuberville511.jpg?w=1200&h=630&q=82&auto=format&fit=crop&crop=focalpoint&fp-x=0.6166&fp-y=0.2975&dm=1692168364&s=69869170b7cb9d0a9a9395b0250333cf","charset":"UTF-8"}

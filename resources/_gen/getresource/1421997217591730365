@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9ed6408cbf41a8be-ATL
+Content-Type: application/json
+Date: Thu, 16 Apr 2026 21:23:37 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MDP1vlO433JEBah6E1HbJF0kaNES20TkKkJHVZr%2BE8pnH8sTyQPb7C8zQjFlGDnuB1mxabuZNqcWXXTL7jKJY8lUw%2Biwa3%2Fyd3Vm3cFsnr9p%2F%2BL3GAGFw8ezOkv%2BX6kcCI2unBDXA6m6sfWZ0sUudtiFHg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=80
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 81d74844bb4853b6f370356b48dd3a79
+X-Etags-2: 81d74844bb4853b6f370356b48dd3a79
+
+{"title":"East Alabama prosecutor to run for Circuit Judge","description":"By Brandon Moseley Attorney Jeff Tickal announced on Wednesday he is running for Circuit Judge in Alabama’s 37th Judicial Circuit,... | Alabama News","url":"https://1819news.com/news/item/east-alabama-prosecutor-to-run-for-circuit-judge-12-16-2021","image":"https://al-news.transforms.svdcdn.com/production/images/file_a319dc54-e395-4fa2-b310-a2628429bcac.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1651946707&s=70f4549b72b0e9fe4a5e4da2b5745379","charset":"UTF-8"}
