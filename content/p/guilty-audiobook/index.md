@@ -122,6 +122,6 @@ Hoss Mack, Former sheriff, Robert Wilters, Judge in the case, currently D.A. Ret
 
 Maxwell-Tillman Attorneys in Birmingham and Attorney Gabby Humber who abandoned the case to seek justice for Lawrence in it’s 11th hour. Bar Complaints in two States, have been filed against both.
 
-{{< socialpreview url="https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232/" >}}
+[Advocates Discover Autopsy Never Included in Baldwin Man's Murder](https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html)
 
 {{< aicomments >}}
