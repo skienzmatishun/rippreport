@@ -109,7 +109,7 @@ Currently he is running for re-election and has already made false statements ab
 
 In typical Elliott fashion he has his foot in his mouth, AGAIN. This article proves my point about his lying and having no shame.
 
-{{< socialpreview url="https://www.msn.com/en-us/news/crime/after-councilman-was-stomped-on-sidewalk-alabama-bill-would-make-assaulting-politicians-a-felony/ar-AA1UhQly" >}}
+{{< socialpreview url="https://www.al.com/politics/2026/01/after-councilman-was-stomped-on-sidewalk-alabama-bill-would-make-assaulting-politicians-a-felony.html" >}}
 
 The title of the article supports libel and character assassination as well as the content.
 

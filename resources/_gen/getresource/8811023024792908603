@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9f0853f29bf3b04d-ATL
+Content-Type: application/json
+Date: Wed, 22 Apr 2026 23:15:03 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0Al7MO0EXbHBs6VRAM4PYgyC%2Bt1WP6CAMyQfNGQNMcVll7y3bFBmnc9isefZi3b0CxWB9NNxzhUz%2BZDmAkdRnNIP7%2BphN9eu2o1owU%2B40oRPOcF2lIO8KpEuiecHOh9DAhySLkT4iorh%2FuElKuFRM%2FA1lw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=12,cfOrigin;dur=0,cfWorker;dur=3403
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2840a17fbf1764754d36aa799f52164f
+X-Etags-2: 2840a17fbf1764754d36aa799f52164f
+
+{"error":"Upstream returned 403","url":"https://www.al.com/politics/2026/01/after-councilman-was-stomped-on-sidewalk-alabama-bill-would-make-assaulting-politicians-a-felony.html","title":"Preview unavailable","description":"Could not fetch preview data"}
