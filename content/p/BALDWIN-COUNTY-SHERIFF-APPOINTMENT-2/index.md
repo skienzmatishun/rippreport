@@ -97,7 +97,7 @@ related_articles:
   rank: 10
 ---
 
-[Published July 27 2024](https://rippreport.com/p/baldwin-county-sheriff-appointment/)
+[Published July 27 2024.](https://rippreport.com/p/baldwin-county-sheriff-appointment/)
 
 Sheriff Hoss Mack has one foot out the door and is hoping to slide his second choice, Anthony Lowery in as his “suggested” replacement. Lowery has professed in the past that he did not want the job. He has to know that a ton of crap out of the Hoss Boss closet, is going to expose some very embarrassing incidents involving BCSO. I do hope Lowery reads all the comments on the Ripp Report. If you think that what we printed is revealing, then please consider all the fill-in-the-blanks comments that we did not print. Names, Dates and evidence that match up to the many many allegations in the comments.
 
