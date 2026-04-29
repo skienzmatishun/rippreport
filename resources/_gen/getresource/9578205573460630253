@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9f41734e0a42674b-ATL
+Content-Type: application/json
+Date: Wed, 29 Apr 2026 21:37:52 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iMYQR74RPvtUKSwZ49w95WB2vsKvWjmO1aBH7li8sj8j0%2BKFS2zsdwm6nS7f%2BSenfBfOKZEpG562zTcyErgZBUe%2B5BfPv7uUCtljmmGsAmphMx72KkILhUfBOeerXjP58I%2Bj1BrVWxEZ8k3U%2Bpd64Y98pQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=11,cfOrigin;dur=0,cfWorker;dur=559
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c2d0bccce20f52690ca9d990758951c7
+X-Etags-2: c2d0bccce20f52690ca9d990758951c7
+
+{"title":"Federal Probe May Loom Over Alabama AG Marshall's Office","description":"A source inside the Attorney General’s Office has confirmed that a federal probe into the matter continues to loom — and that it may have complicated Steve Marshall’s potential run for the U.S. Senate.","url":"https://alpolitics.com/federal-probe-may-loom-over-alabama-ag-marshalls-office-ethics-chief-and-regions-bank/","image":"https://storage.ghost.io/c/75/c2/75c2888f-50de-44de-9a43-b480c052a105/content/images/size/w1200/2025/05/Federal-Probe-Looms-Over-Marshall-Allbritton-2.png","charset":"utf-8"}

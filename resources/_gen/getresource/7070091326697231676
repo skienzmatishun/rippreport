@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9f41642dec8244d0-ATL
+Content-Type: application/json
+Date: Wed, 29 Apr 2026 21:27:33 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rlwooNx%2BpAFcpmQ1%2FhguF%2FmO8%2Fp88%2BZXd5ivsZz4jOOHBe14Yj8M6IdTpxZdNR4oUQB1i4fNYF3JgyG8VL6ipIaI07ObqbALUJreqbWTCA%2BkGQzQhGu5qvwj4NWLx%2BY%2FNrdFOBVuTTT1LZOagDWvCaHnpw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=762
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f608c3ef3ba463f40ae92e1f18163289
+X-Etags-2: f608c3ef3ba463f40ae92e1f18163289
+
+{"title":"Updated: Ethics chief resigns from Mabel Amos Fund","description":"**Updated**","url":"https://www.lagniappemobile.com/news/updated-ethics-chief-resigns-from-mabel-amos-fund/article_3541388b-6c8c-4004-bba5-96a70219270a.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/7/bd/7bd15b7c-cd9b-11ed-aedb-4ffc79242383/64233a9774909.image.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9f416436dcdc44d0-ATL
+Content-Type: application/json
+Date: Wed, 29 Apr 2026 21:27:34 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=O9CyR7raanejbQT7Nl%2B2r%2Fs2sVTwVPih9FR9xd2%2FOyM9nDK3pT12UG%2Fc7jWOTK4Jr5OVJzyuZD6E1TlMJH2KN94efrxaXBSUoKXLUm%2F3hKS3ySIX%2Fjf7PZARi4Y7MeVn99ZcbnmBsPrgAB9aOlPH%2BK6urg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=394
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2a252563151cb051e23b4236ecba7c03
+X-Etags-2: 2a252563151cb051e23b4236ecba7c03
+
+{"error":"Upstream returned 422","url":"https://alpolitics.com/federal-probe-may-loom-over-alabama-ag-marshalls-office-ethics-chief-and-regions-bank/\"","title":"Preview unavailable","description":"Could not fetch preview data"}

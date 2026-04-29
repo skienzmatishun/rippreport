@@ -125,6 +125,4 @@ The bill advanced out of the Alabama Senate Judiciary Committee on Wednesday, bu
 
 STAND BY FOR FURTHER DEVELOPMENTS
 
-
-
 {{< aicomments >}}
