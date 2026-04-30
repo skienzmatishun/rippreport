@@ -6,7 +6,7 @@ tags:
 - Albritton
 - Alabama AG
 - Ethics Commission
-- Cliffton
+- Clifton
 - Allen Dodd
 - Katherine Robertson
 - Mabel Amos
