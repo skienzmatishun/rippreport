@@ -30,7 +30,7 @@ Definition and Origin
 [A Brady violation stems from the 1963 Supreme Court case Brady v. Maryland, which established that the prosecution must disclose any exculpatory or impeaching evidence that could affect a defendant’s guilt or punishment. Exculpatory evidence includes information that may prove innocence or reduce potential sentences, while impeachment evidence can undermine the credibility of prosecution witnesses. Withholding such evidence, whether intentionally or unintentionally, constitutes a Brady violation](https://www.bing.com/ck/a?!&&p=79298dfe61b2d68938678c8bfeefda382957e2b0b2b978851985fc869f8f3e68JmltdHM9MTc3ODExMjAwMA&ptn=3&ver=2&hsh=4&fclid=22c4a0f6-c051-6aea-01df-b538c1786bc7&psq=brady+violations&u=a1aHR0cHM6Ly93d3cubGF3LmNvcm5lbGwuZWR1L3dleC9CcmFkeV9SdWxl)
 
 <a href="https://notebooklm.google.com/notebook/67c8c824-84b6-4001-9e79-87f69aca0a00/artifact/5ec64a24-86ba-42f7-bb86-0e9846b0ccac?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_">
-<img style="float:left;padding:2rem" src="https://rippreport.com/cdn-cgi/image/width=500,quality=85,format=auto/img/the-missing-bullet.png"></a>
+<img style="float:left;padding:2rem" src="https://rippreport.com/img/the-missing-bullet.png"></a>
 
 [The Missing Bullet](https://notebooklm.google.com/notebook/67c8c824-84b6-4001-9e79-87f69aca0a00/artifact/5ec64a24-86ba-42f7-bb86-0e9846b0ccac?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 
