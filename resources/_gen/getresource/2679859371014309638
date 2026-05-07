@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9f832a461a6d729d-IAH
+Content-Type: application/json
+Date: Thu, 07 May 2026 21:02:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9mAFFwQGMuAA6H4%2FobNUzeX79ChoH%2Fnh74%2B%2F0TH4nY8rtT9cq8AS53scTULsG7zHz2QORQa8xScQTZ4b7kJDzrRAJ91IJ3%2FX8Dl%2Fx4hEYtyZUUf1BJMGB55IxgQRloas6uFYHv9E3K5dVDAhinPhQJrjPg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=951
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 24539c4dedae381518eb3a0f7b13870f
+X-Etags-2: 24539c4dedae381518eb3a0f7b13870f
+
+{"title":"Justices blast Mobile attorney, spotlight AI rule gap","description":"Appeal briefs by a Mobile County lawyer containing fake and hallucinated citations have sparked calls for overhauling rules around AI abuse in the courtroom.","url":"https://www.lagniappemobile.com/news/alabama/justices-blast-local-attorney-spotlight-ai-rule-gap/article_18256630-f1d7-46ca-aeb3-6e4d72c352c8.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/5/fa/5fa68951-0cf1-4952-9a6b-ddca7f607a2a/69f111e16b074.image.png?crop=1610%2C845%2C0%2C221&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8"}
