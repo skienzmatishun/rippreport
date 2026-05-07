@@ -1,7 +1,7 @@
 ---
 title: KRISTY HAGOOD IS NOT QUALIFIED TO BE A JUDGE - Part 1
 date: 2026-05-07
-thumbnail: img/kristy-hagood-is-not-qualified.jpg
+thumbnail: img/kristy-hagood-is-not-qualified.png
 categories:
 - elections
 tags:
@@ -22,7 +22,7 @@ Every other duty a prosecutor performs flows from one foundational obligation: t
 
 {{< socialpreview url=https://www.lagniappemobile.com/news/advocates-discover-autopsy-never-included-in-baldwin-man-s-murder-trial/article_81ab84a6-6232-11ee-b70f-23cd5b5a2abc.html >}}
 
-The surfacing of this second autopsy and its exclusion from Lawrence’s 2005 trial raises the specter of a “Brady Information” violation in the case that his attorney believes should at least afford him a new trial. Lawrence was convicted in a trial that had no physical evidence identifying him as the killer. Instead, prosecutors leaned heavily on the testimony of Lawrence’s lifelong friend Jarius McNeil, a man who agreed to plead guilty to involvement in Hastings’ murder and testify against his friend in exchange for prosecutors recommending a lighter sentence. 
+The surfacing of this second autopsy and its exclusion from Lawrence’s 2005 trial raises the specter of a “Brady Information” violation in the case that his attorney believes should at least afford him a new trial. Lawrence was convicted in a trial that had no physical evidence identifying him as the killer. Instead, prosecutors leaned heavily on the testimony of Lawrence’s lifelong friend Jarius McNeil, a man who agreed to plead guilty to involvement in Hastings’ murder and testify against his friend in exchange for prosecutors recommending a lighter sentence.
 
 A Brady violation occurs when prosecutors fail to disclose evidence favorable to the defense, violating a defendant’s right to a fair trial.
 
