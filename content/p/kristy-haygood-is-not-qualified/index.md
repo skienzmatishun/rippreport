@@ -60,7 +60,7 @@ This is misleading, inaccurate and paints a picture that is meant to Incriminate
 
 It is one of many egregious errors by Hagood. that she repeated numerous times. It is an error that would influence anyone reading her comments, and taking them literally.
 
-<iframe src="https://rippreport.com/img/haygood.pdf" style=height:800px;width:100%;></iframe>
+<iframe src="haygood.pdf" style="height:800px;width:100%;"></iframe>
 
 Please read the 10 errors Attorney Kristy Hagood made and note all corrections use citations to the transcript which can be viewed on the website [Justice for Murray Lawrence Jr.](https://www.justiceformurraylawrencejr.com/), which also has the Audio Book.
 
