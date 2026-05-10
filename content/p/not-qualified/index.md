@@ -3,6 +3,7 @@ title: NOT QUALIFIED
 date: 2026-05-09
 youtube: jMHPWwbowr8
 thumbnail: img/not-qualified.jpg
+summary: "Well it's not an October surprise because all of our elections will be decided at the Republican Primary on May 19, 2026.  I want to compel you to reject the Cabal Candidate Kristi Hagood, currently a Baldwin County Assistant District Attorney.  She can not hide from her work product and we use it and my knowledge of the case to compel you to reject this 'Tough of Crime' caca and elect someone who cares about Justice."
 categories:
 - dixie-podcast
 tags:
