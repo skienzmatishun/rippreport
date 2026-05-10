@@ -1,5 +1,5 @@
 ---
-title: KRISTY HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 1
+title: KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 1
 date: 2026-05-07
 thumbnail: img/kristy-hagood-is-not-qualified.png
 summary: "This is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with: Alabama Exposure and Accountability LLC. We operate as an independent, not for profit consumer organization. No political group, candidate for office or outside source has contributed to this post. We are NOT attorneys and do not give legal council. We are ADVOCATES for justice. The Duty to Seek Justice"
@@ -7,7 +7,7 @@ categories:
 - elections
 tags:
 - Elections
-- Kristy Hagood
+- Kristi Hagood
 authors:
 - ripp-report
 related_articles:
@@ -143,7 +143,7 @@ It is one of many egregious errors by Hagood. that she repeated numerous times. 
 
 <iframe src="haygood.pdf" style="height:800px;width:100%;"></iframe>
 
-Please read the 10 errors Attorney Kristy Hagood made and note all corrections use citations to the transcript which can be viewed on the website [Justice for Murray Lawrence Jr.](https://www.justiceformurraylawrencejr.com/), which also has the Audio Book.
+Please read the 10 errors Attorney Kristi Hagood made and note all corrections use citations to the transcript which can be viewed on the website [Justice for Murray Lawrence Jr.](https://www.justiceformurraylawrencejr.com/), which also has the Audio Book.
 
 Haygood is not someone that should be a judge. Did Hagood use A-I and not fact check her accusations or “hallucinated” citations? Or are these errors she made herself?
 
