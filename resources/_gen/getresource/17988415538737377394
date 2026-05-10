@@ -1,0 +1,15 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=86400
+Cf-Ray: 9f9b1b22fbbd5324-IAH
+Content-Type: application/json
+Date: Sun, 10 May 2026 18:46:19 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=meeGVL2FFpkaHHxrLE%2BUYS6UKUpOnHDOedrfBXYRc5nXO1DuR597G5srZKlniV600jA4K0IbhsR2sZJyF%2BeQeQcbuCrMliGgAUHAtOc%2Bxplhdfc6IUGXBjM0S9L%2FzchlbBLDposvia0B5TN%2FE3cLk%2BIXhYxgB4e4oOuG5FPn%2FIR2lpY76ISGLLQ%3D"}]}
+Server: cloudflare
+X-Cache: HIT
+X-Etags-1: 7d7c44938dce458ef96ffae0cd9cd6ff
+X-Etags-2: 7d7c44938dce458ef96ffae0cd9cd6ff
+
+{"kind":"youtube#commentThreadListResponse","etag":"sV00mD-YFAttk4oDwtNnLlpluqs","pageInfo":{"totalResults":1,"resultsPerPage":20},"items":[{"kind":"youtube#commentThread","etag":"WbUWI_ZX6ALn7jnUFU2t4dEwCnw","id":"UgzBeXRji-LyKoRM4p94AaABAg","snippet":{"channelId":"UCjn78nMjSRO3M2X6jCsER0g","videoId":"jMHPWwbowr8","topLevelComment":{"kind":"youtube#comment","etag":"JODjsmJVrZmJLLRJn44xqKVYsGY","id":"UgzBeXRji-LyKoRM4p94AaABAg","snippet":{"channelId":"UCjn78nMjSRO3M2X6jCsER0g","videoId":"jMHPWwbowr8","textDisplay":"Correction of the AI gen video: Willie Huntley was the trail attorney and did not file the Rule 32.","textOriginal":"Correction of the AI gen video: Willie Huntley was the trail attorney and did not file the Rule 32.","authorDisplayName":"@harrystill6344","authorProfileImageUrl":"https://yt3.ggpht.com/ytc/AIdro_n6Nt-zIl-7LbLEDFjUU4BqSZYlYDpGNXvXE65aehe-U-1a=s48-c-k-c0x00ffffff-no-rj","authorChannelUrl":"http://www.youtube.com/@harrystill6344","authorChannelId":{"value":"UCgq4lwPtHPyXmVxn_AfSe4g"},"canRate":true,"viewerRating":"none","likeCount":0,"publishedAt":"2026-05-08T02:28:45Z","updatedAt":"2026-05-08T02:28:45Z"}},"canReply":true,"totalReplyCount":0,"isPublic":true}}]}

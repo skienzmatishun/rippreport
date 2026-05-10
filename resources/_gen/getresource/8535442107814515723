@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9f9b1b2e5b0a7b2b-IAH
+Content-Type: application/json
+Date: Sun, 10 May 2026 18:46:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=V7%2FUhn3J3tExLHxyNEo5ip3XajmWDP64PZBk%2Bu3Cu%2BHAhNiHR2hg74R3TCAw6z4jQabQdxvT455BIJZXmDJ%2FignEUhLUmR3Oev7tplgUgnH7zrliVH4ah1TSVF%2FkE6BxCtGYw96MMTTbdTHcq%2FzQlM6heg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=347
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 05cc8048d167329e259f2fc9137a948a
+X-Etags-2: 05cc8048d167329e259f2fc9137a948a
+
+{"title":"KRISTY HAGOOD IS NOT QUALIFIED TO BE A JUDGE - Part 1","description":"This is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with: Alabama Exposure and Accountability LLC.\nWe operate as an independent, not for profit consumer organization. No political group, candidate for office or outside source has contributed to this post. We are NOT attorneys and do not give legal council. We are ADVOCATES for justice.\nThe Duty to Seek Justice Every other duty a prosecutor performs flows from one foundational obligation: the pursuit of justice rather than victory. The U.S. Supreme Court spelled this out in 1935, stating that a prosecutor “is the representative not of an ordinary party to a controversy, but of a sovereignty whose obligation to govern impartially is as compelling as its obligation to govern at all.” The Court emphasized that the government’s interest in a criminal case “is not that it shall win a case, but that justice shall be done.”","url":"https://rippreport.com/p/kristy-haygood-is-not-qualified/","image":"https://rippreport.com/img/kristy-hagood-is-not-qualified.png","charset":"utf-8"}
