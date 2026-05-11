@@ -1,6 +1,6 @@
 ---
 title: LOWERY PUTS CAMPAIGN FIRST - IMMIGRATION ENFORCEMENT AND CITIZEN SAFETY SECOND
-date: 2026-05-10
+date: 2026-05-11
 thumbnail: img/lowery-puts-campaign-first.png
 categories:
 - elections
