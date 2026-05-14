@@ -107,6 +107,6 @@ If Assistant District Attorney Kristi Hagood can make these kinds of errors, the
 
 Vote for Jeremiah Giles
 
-<img style="float:left;padding:2rem" src="https://rippreport.com/img/giles.png"></a>
+<img style="padding:2rem" src="https://rippreport.com/img/giles.png"></a>
 
 {{< aicomments >}}
