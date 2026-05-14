@@ -98,7 +98,7 @@ Ripp Report operates as an independent, not for profit consumer organization. No
 
 TO WHOM IT MAY CONCERN:
 
-<iframe src="haygood-2.pdf" style="height:800px;width:100%;"></iframe>
+<iframe src="haygood-2.pdf" style="height:1200px;width:100%;"></iframe>
 
 {{< socialpreview url=https://rippreport.com/p/kristy-haygood-is-not-qualified/ >}}
 
