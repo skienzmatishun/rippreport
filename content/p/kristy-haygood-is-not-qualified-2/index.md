@@ -97,8 +97,9 @@ Ripp Report operates as an independent, not for profit consumer organization. No
 
 TO WHOM IT MAY CONCERN:
 
-<iframe src="haygood-2.pdf" style="min-height:800px;width:100%;"></iframe>
-
+<div style=height:800px;max-height:100vh;width:100%;>
+<iframe src="haygood-2.pdf" style="height:100%;width:100%;"></iframe>
+</div>
 {{< socialpreview url=https://rippreport.com/p/kristy-haygood-is-not-qualified/ >}}
 
 If Assistant District Attorney Kristi Hagood can make these kinds of errors, then she is not qualified to be a sitting judge. She joins Anthony Lowery, Hoss Mack, Robert Wilters and David Whetstone as being responsible for convicting and not admitting to convicting an innocent man. Murray Lawrence has been incarcerated for over 20 years on bogus charges and by Lowery, Mack, Wilters and Whetstone, withholding evidence from the defense. A clear Brady violation:
