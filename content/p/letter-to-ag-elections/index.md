@@ -69,14 +69,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 75.65663428633187
-  llm_score: 90
-  recency_score: 0.02564714640819197
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: a-time-for-reflection-goobers-on-notice
   title: A Time for Reflection - Goobers on Notice
   score: 75.65356606246311
@@ -84,7 +76,7 @@ related_articles:
   recency_score: 0.008004859162812168
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
   score: 72.17796557619783
@@ -92,7 +84,7 @@ related_articles:
   recency_score: 0.023302063137521985
   length_score: 100
   category_score: 0
-  rank: 10
+  rank: 9
 ---
 To: May 17, 2026
 
