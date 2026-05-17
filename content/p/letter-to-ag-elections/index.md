@@ -1,5 +1,5 @@
 ---
-title: TO SECRETARY OF STATE AND THE DIRECTOR OF ELECTIONS
+title: TO THE SECRETARY OF STATE AND THE DIRECTOR OF ELECTIONS
 date: 2026-05-17
 thumbnail: img/letter-to-ag-elections.png
 categories:
