@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: 9f9b1b2e5b0a7b2b-IAH
+Cf-Ray: 9fdb43f97d13c30b-IAH
 Content-Type: application/json
-Date: Sun, 10 May 2026 18:46:21 GMT
+Date: Mon, 18 May 2026 13:39:01 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=V7%2FUhn3J3tExLHxyNEo5ip3XajmWDP64PZBk%2Bu3Cu%2BHAhNiHR2hg74R3TCAw6z4jQabQdxvT455BIJZXmDJ%2FignEUhLUmR3Oev7tplgUgnH7zrliVH4ah1TSVF%2FkE6BxCtGYw96MMTTbdTHcq%2FzQlM6heg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AqaRuiYCMx%2BcTGaMFHpZfSrDw%2Fa6IE%2Fnwzd%2FAAthfj2TQ7tRNwmvTyH4PSWLZBl8p2Qu3CsLMAlmSFNfhkAZ4W%2B1FQ7z74BNszgmy0ujLWO8wTEH2R1Hf%2Fpnli3EQL7nT2MWB8SYX5y%2B7aEef9hYNOiC7Q%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=347
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=0,cfWorker;dur=743
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 05cc8048d167329e259f2fc9137a948a
-X-Etags-2: 05cc8048d167329e259f2fc9137a948a
+X-Etags-1: 9d1c60fb6991f617b4ae38a3346e822c
+X-Etags-2: 9d1c60fb6991f617b4ae38a3346e822c
 
-{"title":"KRISTY HAGOOD IS NOT QUALIFIED TO BE A JUDGE - Part 1","description":"This is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with: Alabama Exposure and Accountability LLC.\nWe operate as an independent, not for profit consumer organization. No political group, candidate for office or outside source has contributed to this post. We are NOT attorneys and do not give legal council. We are ADVOCATES for justice.\nThe Duty to Seek Justice Every other duty a prosecutor performs flows from one foundational obligation: the pursuit of justice rather than victory. The U.S. Supreme Court spelled this out in 1935, stating that a prosecutor “is the representative not of an ordinary party to a controversy, but of a sovereignty whose obligation to govern impartially is as compelling as its obligation to govern at all.” The Court emphasized that the government’s interest in a criminal case “is not that it shall win a case, but that justice shall be done.”","url":"https://rippreport.com/p/kristy-haygood-is-not-qualified/","image":"https://rippreport.com/img/kristy-hagood-is-not-qualified.png","charset":"utf-8"}
+{"title":"KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 1","description":"This is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with: Alabama Exposure and Accountability LLC. We operate as an independent, not for profit consumer organization. No political group, candidate for office or outside source has contributed to this post. We are NOT attorneys and do not give legal council. We are ADVOCATES for justice. The Duty to Seek Justice","url":"https://rippreport.com/p/kristy-haygood-is-not-qualified/","image":"https://rippreport.com/img/kristy-hagood-is-not-qualified.png","charset":"utf-8"}

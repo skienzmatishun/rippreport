@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: 9fdb7f25c95a0fc1-IAH
+Content-Type: application/json
+Date: Mon, 18 May 2026 14:19:24 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jXJN7Bwh1daE3l6KYSPKWrkzBEMSHnggyYD6iWV98AGuxexvYp7QbPVX%2BRR37wUI5GpYwVdw%2Bw%2Fr%2BHneoSix%2BGp6RPJRiFuWO7sja%2BXqj1Vwn9BaG52VykIlrj47VBRS6n06SZQ3%2FLh9jNZKoML%2BkeX%2Bvg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=9,cfOrigin;dur=0,cfWorker;dur=540
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 90d588fb3b0ddbd91e969f15e5304695
+X-Etags-2: 90d588fb3b0ddbd91e969f15e5304695
+
+{"title":"TO THE SECRETARY OF STATE AND THE DIRECTOR OF ELECTIONS","description":"To: May 17, 2026\nSec. of State Mr. Wes Allen\nMr. Jeff Elrod Director of Elections\nDear Sirs:\nThe primary election cycle in Baldwin County has had more public participation than in any election in 20 years plus. The most attention has been on the Sheriff’s race.\nThe Ripp Report has been in contact with the Sec of State in reference to suspected and strongly alleged reports of elections being fixed involving numerous races in Baldwin County, in the past.","url":"https://rippreport.com/p/letter-to-ag-elections/","image":"https://rippreport.com/img/letter-to-ag-elections.png","charset":"utf-8"}
