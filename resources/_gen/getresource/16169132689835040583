@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a0b2a062ceaf650a-MIA
+Content-Type: application/json
+Date: Sat, 13 Jun 2026 16:57:47 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MWRzwXmYm1rjpBK3sZoe9bjTsTobfMkHtMMP68W%2B6Uhwy2lQonNOUegEMYTxvmXNRJTY2XhExPjajiBRUhx6yBDWb1mSv03l5hwvxVuBXjO%2B7veWWiQM6xI2ewlCKp41mEqpXa7EKAvn9nw596RMXqbSmw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=103511
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 3e3b494673e13bfa8031ddee4e3c1880
+X-Etags-2: 3e3b494673e13bfa8031ddee4e3c1880
+
+{"title":"LAGNIAPPE - AUDIO OF BAY MINETTE ATTORNEY, COUNCILMAN FIGHT OFFERS NEW DETAILS","description":"BY GRANT McLAUGHLIN - Lagniappe\nA never before heard recording of a fight between a Bay Minette attorney and city councilman in September has been released, painting a new picture of the events that local police, the former mayor and the attorney have offered diverging takes on. Lagniappe reviewed more than eight hours of an audio recording showing the fight between Harry Still and Councilman Matthew Franklin, as well as continued recording while Still was inside the Baldwin County Jail. The recording was provided to Lagniappe by Still, who said he taped the fight on his cell phone.","url":"https://rippreport.com/p/audio-of-bay-minette-attorney-councilman-fight-offers-new-details/","image":"https://rippreport.com/img/audio-of-bay-minette-attorney-councilman-fight-offers-new-details.jpg","charset":"utf-8"}
