@@ -154,11 +154,9 @@ Matt Franklin has remained on the Bay Minette City Council despite the court rec
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yhmkG4812cc?si=tGob-j2qJ84wQPju" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-"According to Handley, ALEA locked down its marine office in Orange Beach after a threat was made to an ALEA worker. Out of an abundance of caution, Handley said Orange Beach city buildings went into lockdown mode too."
-
-It’s unclear what kind of threat was made or why Still wasn’t charged. FOX10 News has been asking those questions.
-
-Bay Minette’s Mayor Elect, Joshua Brown, issued a statement on the attack against the councilman, saying in part, "There is absolutely no place for intimidation, physical threats, or violence in this community."
+>"According to Handley, ALEA locked down its marine office in Orange Beach after a threat was made to an ALEA worker. Out of an abundance of caution, Handley said Orange Beach city buildings went into lockdown mode too."
+>It’s unclear what kind of threat was made or why Still wasn’t charged. FOX10 News has been asking those questions.
+>Bay Minette’s Mayor Elect, Joshua Brown, issued a statement on the attack against the councilman, saying in part, "There is absolutely no place for intimidation, physical threats, or violence in this community."
 
 What threat? Mr Still was investigating the death of Danny Williams in Orange Beach and went to ALEA for information that O.B. would not provide. The reporter mentions a threat and can’t explain the threat, wth.
 
