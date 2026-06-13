@@ -2,7 +2,7 @@
 title: Darryl Patton Mountain Medicine
 date: 2026-06-12
 youtube: Wnp6V6ooKGg
-thumbnail: img/darryl-patton-mountain-medicine.png
+thumbnail: img/mountain-medicine.png
 categories:
 - dixie-podcast
 authors:
