@@ -1,7 +1,7 @@
 ---
 title: SCUMBAG
 date: 2026-06-19
-thumbnail: img/scum-bag.png
+thumbnail: img/scum-bag-2.png
 tags:
 - Tripp Pittman
 - James Pittman
