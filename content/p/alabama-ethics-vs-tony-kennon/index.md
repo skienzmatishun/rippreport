@@ -107,7 +107,7 @@ related_articles:
 
 Three members of the City of Orange Beach council have filed a formal ethics complaint against Mayor Tony Kennon, alleging conflicts of interest, improper influence over council decisions, threats directed toward elected officials, and failures related to transparency and disclosure of information.
 
-{{< socialpreview url=https://www.alabamagazette.com/story/2025/07/15/news/span-classbrnwsbreaking-news-spanallegations-and-controversy-surrounding-mayor-tony-kennon-of-orange-beach/7253.html" >}}
+{{< socialpreview url=https://www.alabamagazette.com/story/2025/07/15/news/span-classbrnwsbreaking-news-spanallegations-and-controversy-surrounding-mayor-tony-kennon-of-orange-beach/7253.html >}}
 
 Mayor Tony Kennon has long been a polarizing figure in Orange Beach, Alabama. As his administration faces mounting scrutiny, a growing number of allegations have drawn attention to Kennon's conduct both in and out of office. These range from ethical concerns and financial conflicts to disturbing accusations of violence and discrimination.
 
