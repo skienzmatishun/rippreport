@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a0f406a2ec18cf39-MIA
+Content-Type: application/json
+Date: Sun, 21 Jun 2026 15:25:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VdtHIRxZMHI4h3agOIJ%2BNZpX0LTxbYFL9rfT1L%2FRcbGdVmfv%2FBRkj0Lfb5VlSb35o7aETk8RPrOgJY7L2upzw%2B0FfOZHQA8V3G19Ssm52KkdfRn2zvk9FShTnbtRyX3L%2FfUsPaVoUnNNuHUVDA7w1clINQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=368
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 79cb1b46caccca4066e2b06f8ee1a8e0
+X-Etags-2: 79cb1b46caccca4066e2b06f8ee1a8e0
+
+{"title":"Three Orange Beach Council Members File Ethics Complaint Against Mayor Tony Kennon","description":"Three members of the City of Orange Beach council have filed a formal ethics complaint against Mayor Tony Kennon, alleging conflicts of interest, improper influence over council decisions, threats directed toward elected officials, and failures related to transparency and disclosure of information.The complaint, filed with the Alabama Ethics Commission on May 1, 2026, was signed by Council members Ginger Harrelson, Jeff Silvers, and Robert Stuart. The filing requests a formal investigation into ","url":"https://www.murdercreekmedia.com/post/three-orange-beach-council-members-file-ethics-complaint-against-mayor-tony-kennon","image":"https://static.wixstatic.com/media/c05dd2_28e29a59c44647f087ed5f3d3356031a~mv2.png/v1/fill/w_2500,h_1875,al_c/c05dd2_28e29a59c44647f087ed5f3d3356031a~mv2.png","charset":"utf-8"}

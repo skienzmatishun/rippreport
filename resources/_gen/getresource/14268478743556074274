@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a0f406a5daa2cf39-MIA
+Content-Type: application/json
+Date: Sun, 21 Jun 2026 15:25:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oiYhFrN3%2B4%2BL%2FkZ3kmTBDo0uCDr%2B6LmkqqwatRVLMg%2BAyY%2BY63HJGIibwXP%2FVbKTxyD8pbQRVltnRhHuKsnPqjyCaxahwK3y%2Bx6MRCeJnMCvgUVCsraPHRb8JbvNgJg0Cu8H28aevyxHWyapbW4tK21xfQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=664
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b58c83246b5124aaf66f4d83b35e0d8b
+X-Etags-2: b58c83246b5124aaf66f4d83b35e0d8b
+
+{"error":"Upstream returned 404","url":"https://www.alabamagazette.com/story/2025/07/15/news/span-classbrnwsbreaking-news-spanallegations-and-controversy-surrounding-mayor-tony-kennon-of-orange-beach/7253.html\"","title":"Preview unavailable","description":"Could not fetch preview data"}
