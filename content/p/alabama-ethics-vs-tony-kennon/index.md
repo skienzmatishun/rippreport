@@ -2,6 +2,7 @@
 title: ALABAMA ETHICS VS TONY KENNON
 date: 2026-06-21
 thumbnail: img/alabama-ethics-vs-tony-kennon.png
+summary: Three members of the City of Orange Beach council have filed a formal ethics complaint against Mayor Tony Kennon, alleging conflicts of interest, improper influence over council decisions, threats directed toward elected officials, and failures related to transparency and disclosure of information.
 tags:
 - Ethics Commission
 - Tony Kennon
