@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a104977928ee28b2-MIA
+Content-Type: application/json
+Date: Tue, 23 Jun 2026 15:40:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=e88A4jFM8RZXKfYQ4ho95%2Blik7pcxR%2Bf8oAcfrk6Ytjxbs9S4MzigIaHAYDJc%2FrpE6baM0ibXSsaSPTptVIwBTDAIsPr%2FupbTZpx3pblcuHoq1ZDXc%2F2WzWR%2BoNI7jBuQlWSc3dqlgr%2BxUhNOI5OpG%2B%2FKQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=1285
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 1d880ddec26dce4ef448365aaf08879a
+X-Etags-2: 1d880ddec26dce4ef448365aaf08879a
+
+{"title":"Allegations and Controversy Surrounding Mayor Tony Kennon of Orange Beach","description":"Mayor Tony Kennon has long been a polarizing figure in Orange Beach, Alabama. As his administration faces mounting scrutiny, a growing number of allegations have drawn attention to Kennon's conduct both in and out of office. These range from ethical concerns and financial conflicts to disturbing accusations of violence and discrimination. Ethical Q...","url":"https://www.alabamagazette.com/story/2025/07/15/news/span-classbrnwsbreaking-news-spanallegations-and-controversy-surrounding-mayor-tony-kennon-of-orange-beach/7253.html","image":"https://www.alabamagazette.com/home/cms_data/dfault/photos/stories/id/5/3/7253/s_top","charset":"utf-8"}

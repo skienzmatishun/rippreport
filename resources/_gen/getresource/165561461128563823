@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a104977359b428b2-MIA
+Content-Type: application/json
+Date: Tue, 23 Jun 2026 15:40:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4xdboUjDtI2I0AJE4Y%2BvXE7ev4HjV6KddMId4OdnEDRSkir8VqLBUheUTkID3CEj6F20b%2By6jdh6mX%2BfJYfp%2FfUpVd8ED8hRpm9XpBfB3LMuBZeRW2CB2zWK2H9%2Fj1Y2mf9C7hHI3g4YBPt4exSXNHRrUA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=8,cfOrigin;dur=0,cfWorker;dur=643
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f9de817698abb833fc93b17e647a8a86
+X-Etags-2: f9de817698abb833fc93b17e647a8a86
+
+{"title":"KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 2","description":"The Ripp Report is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with: Alabama Exposure and Accountability LLC.\nRipp Report operates as an independent, not for profit consumer organization. No political group, candidate for office or outside source has contributed to this post. We are NOT attorneys and do not give legal counsel. We are ADVOCATES for justice.\nTO WHOM IT MAY CONCERN:\nKRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 1 This is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with: Alabama Exposure and Accountability LLC. We operate as an independent, not for profit consumer organization. No political group, candidate for office or outside source has contributed to this post. We are NOT attorneys and do not give legal council. We are ADVOCATES for justice. The Duty to Seek Justice","url":"https://rippreport.com/p/kristy-haygood-is-not-qualified-2/","image":"https://rippreport.com/img/kristy-hagood-is-not-qualified-2.png","charset":"utf-8"}
