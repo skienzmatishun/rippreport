@@ -18,83 +18,83 @@ tags:
 - Danny Williams
 - ALEA
 related_articles:
-- slug: alabama-ethics-vs-tony-kennon
-  title: ALABAMA ETHICS VS TONY KENNON
-  score: 99.16315086400755
-  llm_score: 100
-  recency_score: 95.18811746804333
+- slug: scumbag
+  title: SCUMBAG
+  score: 83.7364272532885
+  llm_score: 80
+  recency_score: 86.48445670640884
   length_score: 100
   category_score: 0
   rank: 1
-- slug: new-sweep-the-ripp-report-27-political-corruption-and-deceit-in-fairhope
-  title: 'New Sweep: The Ripp Report #27'
-  score: 79.13060456109876
-  llm_score: 95
-  recency_score: 0.000976226317856926
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 80.86956521739131
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 2
-- slug: cover-up
-  title: COVER UP
-  score: 76.29098963076969
-  llm_score: 90
-  recency_score: 3.6731903769256515
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 73.7258937262478
+  llm_score: 85
+  recency_score: 8.92388892592479
   length_score: 100
   category_score: 0
   rank: 3
-- slug: columbia-questions-and-documents
-  title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 72.2418459215639
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 72.61765022758044
   llm_score: 85
-  recency_score: 0.3906140489923764
+  recency_score: 2.5514888085874565
   length_score: 100
   category_score: 0
   rank: 4
-- slug: shut-up-2
-  title: SHUT UP
-  score: 68.70757904707861
-  llm_score: 80
-  recency_score: 0.06857952070196233
+- slug: dirty-underwear
+  title: DIRTY UNDERWEAR
+  score: 72.50039776222901
+  llm_score: 85
+  recency_score: 1.8772871328167993
   length_score: 100
   category_score: 0
   rank: 5
-- slug: communication
-  title: COMMUNICATION
-  score: 65.22779132510412
-  llm_score: 75
-  recency_score: 0.05980011934862805
+- slug: license-to-steal
+  title: LICENSE TO STEAL
+  score: 72.30324155227576
+  llm_score: 85
+  recency_score: 0.7436389255856242
   length_score: 100
   category_score: 0
   rank: 6
-- slug: total-darkness
-  title: TOTAL DARKNESS
-  score: 61.94181903569753
-  llm_score: 70
-  recency_score: 1.1654594552607842
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 72.29905879057067
+  llm_score: 85
+  recency_score: 0.7195880457812709
   length_score: 100
   category_score: 0
   rank: 7
-- slug: investigations
-  title: INVESTIGATIONS
-  score: 58.26303353584618
-  llm_score: 65
-  recency_score: 0.012442831115528925
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 72.2943495708603
+  llm_score: 85
+  recency_score: 0.6925100324466957
   length_score: 100
   category_score: 0
   rank: 8
-- slug: in-the-same-boat
-  title: IN THE SAME BOAT
-  score: 47.84349402390301
-  llm_score: 50
-  recency_score: 0.10009063744229098
+- slug: alabama-ethics-a-political-tool
+  title: ALABAMA ETHICS, A POLITICAL TOOL
+  score: 72.17630787923575
+  llm_score: 85
+  recency_score: 0.013770305605484092
   length_score: 100
   category_score: 0
   rank: 9
-- slug: silence-the-eagle
-  title: SILENCE THE EAGLE
-  score: 38.3654236951659
-  llm_score: 35
-  recency_score: 5.601186247203939
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 70.48526219077131
+  llm_score: 80
+  recency_score: 10.290257596935017
   length_score: 100
   category_score: 0
   rank: 10
