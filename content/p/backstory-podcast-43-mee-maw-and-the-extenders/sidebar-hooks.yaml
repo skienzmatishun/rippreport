@@ -1,5 +1,5 @@
 metadata:
-  generated_at: '2026-03-19T09:52:53.462007Z'
+  generated_at: '2026-07-10T17:47:35.821192Z'
   generator_version: 1.0.0
   post_slug: backstory-podcast-43-mee-maw-and-the-extenders
 hooks:
@@ -270,3 +270,53 @@ hooks:
       - Mr. Still (AG Candidate)\n- The Ripp Report / Backstory Podcast\n- Clotilda\
       \ (Historical Ship Reference)"
     generated_at: '2026-03-19T09:52:53.462458Z'
+  backstory-podcast-12:
+    brief: 'CONFLICT:
+
+      - No specific past events, names, or dates were provided in the input articles.
+
+
+      DISCOVERY:
+
+      - No new evidence or revelations were provided in the input articles.
+
+
+      PIVOT:
+
+      - Cannot determine the pivot as no information exists.
+
+
+      KEY ENTITIES:
+
+      - None found.'
+    generated_at: '2026-07-10T17:47:35.821258Z'
+  backstory-podcast-4:
+    brief: 'THE CONFLICT:
+
+      - No specific conflict or event details are present in the provided article
+      content.
+
+
+      THE DISCOVERY:
+
+      - No new evidence or proof is available from the widget article content.
+
+
+      THE PIVOT:
+
+      - Cannot determine a pivot as no factual comparison between two articles exists.
+
+
+      KEY ENTITIES:
+
+      - None identified.'
+    generated_at: '2026-07-10T17:47:35.821266Z'
+  backstory-podcast-7:
+    brief: '1. THE CONFLICT: No specific conflict details found in provided content.
+
+      2. THE DISCOVERY: No new information revealed by Article 2 found.
+
+      3. THE PIVOT: Not applicable; no connecting evidence exists.
+
+      4. KEY ENTITIES: None identified.'
+    generated_at: '2026-07-10T17:47:35.821271Z'
