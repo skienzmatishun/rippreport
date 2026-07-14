@@ -91,14 +91,6 @@ related_articles:
 ---
 After many years, countless meetings, most very boring, perseverance, and well written proposals, Fairhope will finally see serious BP money.
 
-## All Fairhope BP 'RESTORE' Projects Approved
-
-### All Fairhope BP 'RESTORE' Projects Approved
-
-![](https://1.bp.blogspot.com/-jynf0XTTWjU/WqBzaM3tC4I/AAAAAAAAOp0/-v9GeSowhWoYQrNXsMZpTT0nRhsRWdOFwCLcBGAs/w1200-h630-p-k-no-nu/IMG_0872.JPG)
-
-News and information for Fairhope and Baldwin County, Alabama.
-
 {{< socialpreview url=https://thefairhopetimes.blogspot.com/2018/03/all-fairhope-bp-restore-projects.html >}}
 
 “After taking office, Mayor Wilson and Economic Director Sherry Botop submitted new proposals (different from those mayor Kant had submitted years earlier); the new proposals are what was just approved.”
