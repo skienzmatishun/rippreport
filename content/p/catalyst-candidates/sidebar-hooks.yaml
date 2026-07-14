@@ -1,7 +1,9 @@
 metadata:
-  generated_at: '2026-07-11T06:03:49.775012Z'
+  generated_at: '2026-07-12T19:37:37.937554Z'
   generator_version: 1.0.0
   post_slug: catalyst-candidates
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
   catalyst-intimidation-a-pig-pen:
     brief: 'THE CONFLICT: Catalyst seeks control of Baldwin County government via

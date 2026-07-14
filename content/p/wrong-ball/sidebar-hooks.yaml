@@ -1,7 +1,9 @@
 metadata:
-  generated_at: '2026-07-11T06:10:03.897895Z'
+  generated_at: '2026-07-12T19:28:47.654065Z'
   generator_version: 1.0.0
   post_slug: wrong-ball
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
   catalyst-does-baldwin-county:
     brief: 'THE CONFLICT

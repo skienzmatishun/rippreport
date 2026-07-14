@@ -1,7 +1,9 @@
 metadata:
-  generated_at: '2026-07-11T06:56:44.768087Z'
+  generated_at: '2026-07-12T17:57:59.863481Z'
   generator_version: 1.0.0
   post_slug: qualification
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
   mid-term-elections-vote-incumbents-out:
     brief: 'THE CONFLICT

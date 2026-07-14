@@ -1,0 +1,86 @@
+metadata:
+  generated_at: '2026-07-13T18:01:41.318884Z'
+  post_slug: this-is-a-test
+  status: staged
+  hooks_generated: false
+related_articles:
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 87.82608695652175
+  llm_score: 95
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
+  title: ALABAMA ETHICS COMMISION HIDE THE LIST
+  score: 84.40321543280697
+  llm_score: 100
+  recency_score: 10.318488738640012
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 80.96472070504767
+  llm_score: 95
+  recency_score: 10.547144054024043
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: POSTER-BOY-of-CORRUPTION
+  title: POSTER BOY OF CORRUPTION
+  score: 77.24289831192621
+  llm_score: 90
+  recency_score: 9.146665293575648
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: TOP-TO-BOTTOM-CORRUPTION
+  title: TOP TO BOTTOM CORRUPTION
+  score: 75.21059315994496
+  llm_score: 85
+  recency_score: 17.460910669683468
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-attorney-general
+  title: ALABAMA ATTORNEY GENERAL
+  score: 70.37597180145607
+  llm_score: 80
+  recency_score: 9.661837858372358
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: scumbag
+  title: SCUMBAG
+  score: 65.40666189068915
+  llm_score: 75
+  recency_score: 1.0883058714626104
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fire-albritton
+  title: FIRE ALBRITTON
+  score: 59.09643542507232
+  llm_score: 65
+  recency_score: 4.804503694165815
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: alabama-ethics-vs-tony-kennon
+  title: ALABAMA ETHICS VS TONY KENNON
+  score: 47.98977659482407
+  llm_score: 50
+  recency_score: 0.9412154202383868
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: writ-of-mandamus-and-bar-complaint
+  title: WRIT OF MANDAMUS AND BAR COMPLAINT
+  score: 72.49906033015311
+  llm_score: 80
+  recency_score: 76.2438921459952
+  length_score: 100
+  category_score: 0
+  rank: 10

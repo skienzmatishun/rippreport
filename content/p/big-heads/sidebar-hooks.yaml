@@ -1,10 +1,99 @@
 metadata:
-  generated_at: '2026-07-11T06:34:01.393290Z'
+  generated_at: '2026-07-12T18:52:23.244326Z'
   generator_version: 1.0.0
   post_slug: big-heads
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
   refined_by: gemini
-  refined_at: '2026-07-11T16:36:21.677879Z'
+  refined_at: '2026-07-12T19:00:10.780138Z'
 hooks:
+  elephant-in-a-volkswagen:
+    brief: |-
+      **BRIDGE BRIEF**
+
+      **THE CONFLICT:**
+      - Feb 15, 2018: Fairhope City Council agenda included an Ordinance directing the transfer of one acre of land to Fairhope Single Tax Corporation.
+      - The property was designated for Tatumville Subdivision.
+      - Prior public concern existed regarding a 100,000–200,000 gallon sewage spill from the Valley Street Lift Station into Big Head Gully/Tatumville Gully in February 2018.
+      - Public opposition included petitions of over 2,200 people seeking to save the gully.
+      - Specific conflicts were identified:
+          - Kevin Boone (Councilman) supported his son's political group, Catalyst.
+          - Robert Brown (Councilman) and Cliff Pittman (Single Tax board member/building partner) supported the project.
+          - Jay Robinson and Michel Upchurch (Treasurer of Single Tax).
+          - Lee Turner was identified as President of Fairhope Planning and Zoning and President of Single Tax.
+
+      **THE DISCOVERY:**
+      - The second article reinforces that Fairhope Single Tax Corporation is intended to act as a developer for the Tatumville project, which contradicts its organizational charter.
+      - The project lacks support from most members of the City Council and bypasses standard procedures.
+      - Anil Vera (real estate salesperson) operates in the Fruit and Nut section near the Tatumville gully.
+
+      **THE PIVOT:**
+      - Article 2 confirms that Lee Turner, as President of Single Tax, has been pushing the project for months without a vote from the single tax membership or proper discussion with city department heads.
+      - It exposes Turner's dual role—Head of Planning and Zoning Chair and Single Tax President—as a "smoking gun" conflict of interest driving the land transfer that Article 1 merely alleged.
+
+      **KEY ENTITIES:**
+      - Anil Vera (Real estate sales person)
+      - Lee Turner (President of Fairhope Planning and Zoning; President of Single Tax; project advocate)
+      - Cliff Pittman (Single Tax board member; building company partner of Robert Brown)
+      - Robert Brown (Councilman)
+      - Jay Robinson
+      - Michel Upchurch (Treasurer, Fairhope Single Tax)
+      - Kevin Boone (Councilman)
+    generated_at: '2026-07-12T18:52:23.244512Z'
+    text: Lee Turner used his dual role as Planning and Zoning Chair and Single Tax President to shove the Tatumville project through. This discovery confirms that the land transfer was a rigged deal designed to benefit developers while the city drowned in sewage.
+  people-power-2:
+    brief: |-
+      THE CONFLICT
+      - City Council agenda on February 15, 2018 included an ordinance directing the transfer of land to Fairhope Single Tax Corporation for Tatumville Subdivision.
+      - Concurrent with this, a massive sewer spill occurred around February 12, 2018 (estimated 100,000–200,000 gallons), discharging sewage into Big Head Gully, Tatumville Gully, and Mobile Bay from the Valley Street Lift Station.
+      - Conflicts of Interest were alleged among City Council members: Kevin Boone (linked to Catalyst/son); Robert Brown and Cliff Pittman (building company partners on Single Tax Board); Jay Robinson (law partner Michel Upchurch is Single Tax Treasurer); Lee Turner (President of Fairhope Planning and Zoning and Single Tax).
+
+      THE DISCOVERY
+      - A petition with over 2,276 signatures successfully pressured the Fairhope Single Tax to back off the proposed Tuberville subdivision project related to Big Head Gully.
+      - The City Council is accused of obstructing Mayor Wilson's duties regarding severe infrastructure problems, including a new $13 million sewer plant that failed to process 500,000 gallons of raw sewage overflow into Big Head gully/Fly Creek watershed.
+
+      THE PIVOT
+      - Article 2 (People Power) confirms the public response and successful action of citizens following the events detailed in Article 1 (Big Heads). The massive petition signatures forced the withdrawal or reversal of land transfer plans despite the alleged conflicts of interest, validating the severity of the environmental hazards and the obstruction of City leadership.
+
+      KEY ENTITIES
+      - Fairhope Single Tax Corporation / Fairhope Planning and Zoning
+      - Tatumville Subdivision / Tuberville subdivision
+      - Kevin Boone (City Councilman)
+      - Robert Brown (Councilman/Property Owner)
+      - Cliff Pittman (Single Tax Board Member, building partner)
+      - Jay Robinson (Councilman/Attorney)
+      - Michel Upchurch (Single Tax Treasurer)
+      - Lee Turner (President of Fairhope Planning and Zoning; President of Single Tax)
+      - Mayor Wilson
+    generated_at: '2026-07-12T18:52:23.244536Z'
+    text: Over 2,200 citizens signed a petition to stop the Council's dirty land deal near Big Head Gully. Their victory proves that people power can break the gridlock of a Council that cares more about development than fixing 200,000-gallon sewage spills.
+  bend-over-fairhope:
+    brief: |-
+      THE CONFLICT:
+      *   February 12, 2018: 100,000 to 200,000 gallons of sewage spilled into Big Head Gully, Tatumville Gully, and Mobile Bay via the Valley Street Lift Station.
+      *   February 15, 2018: City Council adopted an ordinance directing a land transfer for the Tatumville Subdivision to the Fairhope Single Tax Corporation.
+      *   Over 2,200 people voiced objections to the land transfer/Single Tax plan.
+
+      THE DISCOVERY:
+      *   The proposed 12 homes for the project are responsible for detention pond maintenance and may require special permission to use grinder pumps to push sewage into the city’s main sewer line.
+      *   Grinder pumps are suspected of causing sewer backup into homes in the Fruit and Nut section due to pressure forcing sewage uphill.
+
+      THE PIVOT:
+      *   Article 2 proves that key City Council members (Boone and Brown) have direct ties to the Single Tax, establishing the conflict of interest detailed in Article 1 as a mechanism driving the development project, which in turn creates the specific environmental hazard (sewage pump failure) highlighted in Article 2.
+
+      KEY ENTITIES:
+      *   Fairhope City Council
+      *   Kevin Boone
+      *   Robert Brown
+      *   Cliff Pittman
+      *   Single Tax Corporation
+      *   Lee Turner
+      *   Tatumville Subdivision
+      *   Big Head Gully
+      *   Fairhope Single Tax
+    generated_at: '2026-07-11T06:34:01.393365Z'
+    text: Councilmen Kevin Boone and Robert Brown used their Single Tax ties to push a project that forces raw sewage into your homes. This development creates a permanent environmental hazard just to line the pockets of well-connected building partners.
+    character_count: 283
   big-head-gully-and-the-fruit-nuts:
     brief: |-
       THE CONFLICT:
@@ -32,80 +121,88 @@ hooks:
       *   Jay Robinson
       *   Michel Upchurch
     generated_at: '2026-07-11T06:34:01.393356Z'
-    text: While thousands of residents fought to save Big Head Gully from a massive sewage disaster, the City Council quietly pushed through a dirty land deal. This investigation proves Lee Turner played both sides as the head of the Single Tax and the Planning Commission to seal this lucrative inside deal.
-  bend-over-fairhope:
+    text: Lee Turner wore two hats as President of Planning and Zoning and the Single Tax Corporation to orchestrate a secret land grab. This inside deal proves the Tatumville project was never about the public good, but about serving the elite few.
+    character_count: 298
+  wetlands:
     brief: |-
       THE CONFLICT:
-      *   February 12, 2018: 100,000 to 200,000 gallons of sewage spilled into Big Head Gully, Tatumville Gully, and Mobile Bay via the Valley Street Lift Station.
-      *   February 15, 2018: City Council adopted an ordinance directing a land transfer for the Tatumville Subdivision to the Fairhope Single Tax Corporation.
-      *   Over 2,200 people voiced objections to the land transfer/Single Tax plan.
+      *   Date: February 12–15, 2018.
+      *   Event: Fairhope City Council finalized an ordinance directing the transfer of one acre of land to Fairhope Single Tax Corporation for use in Tatumville Subdivision.
+      *   Immediate Precursor: A public health warning was issued on February 12, 2018, reporting a sewer spill (estimated 100,000–200,000 gallons) from the Valley Street Lift Station into Big Head Gully, Tatumville Gully, and Mobile Bay.
+      *   Identified Conflicts of Interest:
+          *   Kevin Boone: Councilman who supported the project despite owning multiple LLC(s).
+          *   Robert Brown: Partner in a building company with Cliff Pittman (Single Tax Board member); also holds an Art Board contract role.
+          *   Jay Robinson: Attorney; law partner Michel Upchurch is Single Tax Treasurer.
+          *   Lee Turner: Head of Fairhope Planning and Zoning, President of Single Tax Corporation, driving the project.
 
       THE DISCOVERY:
-      *   The proposed 12 homes for the project are responsible for detention pond maintenance and may require special permission to use grinder pumps to push sewage into the city’s main sewer line.
-      *   Grinder pumps are suspected of causing sewer backup into homes in the Fruit and Nut section due to pressure forcing sewage uphill.
+      *   Date: October 2017 (specifically Oct 9th).
+      *   Finding: City Council heard from Baykeepers regarding water testing in Fly Creek Watershed due to citizen reports of foul odors and discolored/contaminated water near Firefly subdivision.
+      *   Environmental Failure: Complaints about problematic city lift stations, sewage dumping into the bay, erosion, and litter were previously ignored by city officials (Fairhope City Council, EPA, Dept of Health).
+      *   New Conflict Connection: Firefly Subdivision is identified as an Arthur Corte project, which is linked to a separate conflict involving Kevin Boone having an LLC related to that specific property.
 
       THE PIVOT:
-      *   Article 2 proves that key City Council members (Boone and Brown) have direct ties to the Single Tax, establishing the conflict of interest detailed in Article 1 as a mechanism driving the development project, which in turn creates the specific environmental hazard (sewage pump failure) highlighted in Article 2.
+      *   Article 2 establishes a pattern of systemic failure and documented environmental contamination (sewage, poor water quality) in the same area targeted by Article 1 (Tatumville/Big Head Gully).
+      *   It proves that the land transfer decisions were made while significant health warnings existed or that council members had undisclosed conflicts of interest related to multiple projects (Tatumville and Firefly), indicating a pattern prioritizing development over environmental safety.
 
       KEY ENTITIES:
-      *   Fairhope City Council
+      *   Arthur Corte
       *   Kevin Boone
       *   Robert Brown
       *   Cliff Pittman
+      *   Jay Robinson
+      *   Michel Upchurch
+      *   Lee Turner
+      *   Fairhope City Council
+      *   Tatumville Subdivision
+      *   Fly Creek Watershed
+      *   Baykeepers
       *   Single Tax Corporation
-      *   Lee Turner
-      *   Tatumville Subdivision
-      *   Big Head Gully
-      *   Fairhope Single Tax
-    generated_at: '2026-07-11T06:34:01.393365Z'
-    text: Fairhope citizens are literally smelling the corruption as hundreds of thousands of gallons of raw sewage flood our gullies and bays. We found that Boone and Brown used their Council seats to force through a development that uses cheap pumps guaranteed to back up into your own home.
-  fairhopes-triangle-mega-site:
+    generated_at: '2026-07-12T18:52:23.244591Z'
+    text: The Council ignored years of foul odors and contaminated water to approve more construction in the Fly Creek Watershed. This pattern shows that Kevin Boone and Robert Brown choose developer profits over the health of your families every single time.
+  fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson:
+    brief: |-
+      1. THE CONFLICT
+          * In February 2018, the Fairhope City Council held an agenda item for Final Adoption regarding Ordinance to transfer acreage of land for Tatumville Subdivision to Fairhope Single Tax Corporation (FSTC).
+          * This land transfer discussion coincided with a public health alert issued on Feb 12, 2018, warning about a sewer spill (estimated 100,000–200,000 gallons) from the Valley Street Lift Station discharging into Big Head Gully and Tatumville Gully.
+          * Conflict of Interest concerns were raised against several Council members: Robert Brown/Cliff Pittman (partners in a building company/Single Tax Board), Jay Robinson/Michel Upchurch (attorney/Single Tax Treasurer link), Lee Turner (holding multiple key roles: P&Z President, Single Tax President), Kevin Boone, and Jack Burrell.
+
+      2. THE DISCOVERY
+          * Mayor Karin Wilson is running on the platform of fixing chronic sewer and utility infrastructure neglect in Fairhope and the Eastern Shore.
+          * Public records indicate ongoing water quality issues, specifically citing a USAToday report (July 23, 2019) noting bacterial contamination at Fairhope Public Beach and other areas.
+          * Mayor Wilson asserts that the Fairhope City Council has previously hindered necessary infrastructure projects through "obstruction and procrastination."
+
+      3. THE PIVOT
+          * The Main Article documents specific past land development attempts (Tatumville Subdivision/FSTC) occurring while documented sewer failures were active in those exact areas (Big Head Gully/Tatumville Gully).
+          * The Widget Article provides a modern political narrative framing the systemic infrastructure failure (sewer issues, beach contamination) as long-term neglect by the municipal government. This frames the 2018 development transfer attempts not just as land deals, but as actions taken despite known environmental hazards and utility failures that Mayor Wilson is now publicly promising to resolve.
+
+      4. KEY ENTITIES
+          * Fairhope City Council / Fairhope Municipality
+          * Karin Wilson / Mayor Wilson
+          * Kevin Boone / Jack Burrell (Council Members)
+          * Robert Brown / Cliff Pittman (Council Member/Single Tax Board Partner)
+          * Jay Robinson / Michel Upchurch (Council Member/Single Tax Treasurer's Law Partner)
+          * Lee Turner (President of Fairhope Planning and Zoning; President of Single Tax Corporation)
+          * Tatumville Subdivision
+          * Fairhope Single Tax Corporation (FSTC)
+          * Mobile Bay Watershed
+    generated_at: '2026-07-12T18:52:23.244598Z'
+    text: While Mayor Karin Wilson fights to fix broken pipes, the Council remains obsessed with land deals that pollute our beaches. These development attempts prove that the Council values backroom deals more than the basic safety of our drinking water.
+  fairhope-sewer-backstory:
     brief: |-
       THE CONFLICT
-      *   February 15, 2018: City Council adopted an ordinance directing the transfer of land to Fairhope Single Tax Corporation for the Tatumville Subdivision.
-      *   February 12, 2018: A sewer spill occurred near Valley Street Lift Station, discharging 100,000 to 200,000 gallons of sewage into Big Head Gully, Tatumville Gully, and Mobile Bay.
-      *   A petition with over 2,200 people voiced objections to the sewer spill location/issue.
+      *   In 2018, Fairhope City Council was debating an ordinance for Final Adoption on February 15, 2018, directing the transfer of land from the Fairhope Single Tax Corporation to support the Tatumville Subdivision project near Big Head Gully.
+      *   A sewer spill occurred at the Valley Street Lift Station (Middle Street and Dogwood Ave) in February 2018, discharging 100,000-200,000 gallons into drainage ditches leading to Big Head Gully, Tatumville Gully, and Mobile Bay.
+      *   Historical corruption occurred between 2012 and 2016 involving Mayor Can’t, Councilman Boone, and Councilman Burrell, who allegedly used utility funds as a slush fund to pay for lawsuits and balance the general fund.
 
       THE DISCOVERY
-      *   The "Triangle" property was purchased by the City of Fairhope to settle a lawsuit.
-      *   The lawsuit settlement cost the City $11.25 million and resulted in $3 million in attorney fees.
-      *   The estimated current value of the Triangle property is between $16 and $20 million.
-      *   Councilman Burrell and Councilman Boone misrepresented the property acquisition as a voluntary purchase for a City Park, intending to declare it a conservation easement to prevent development.
+      *   The Widget Article asserts that current City Council (Catalyst Council) has obstructed Mayor Wilson since her election after she defeated the Catalyst political organization.
+      *   Mayor Wilson promised to immediately tackle ignored sewer and infrastructure problems, which the Widget article claims she has been doing for years.
+      *   The obstruction by the current council prevents necessary municipal improvements while environmental degradation continues due to ongoing municipal spills.
 
       THE PIVOT
-      *   Article 2 provides the financial and legal context (the lawsuit settlement) that underpins the controversial land transfer/development actions described in Article 1 regarding Tatumville Subdivision and Big Head Gully.
-      *   The conflict of interest cited in Article 1 (e.g., Turner, Brown, Pittman) are connected to the individuals involved in the Triangle property transaction detailed in Article 2 (e.g., Burrell and Boone).
-
-      KEY ENTITIES
-      *   Kevin Boone (Councilman)
-      *   Robert Brown
-      *   Cliff Pittman
-      *   Jay Robinson
-      *   Michel Upchurch
-      *   Lee Turner
-      *   Jack Burrell
-      *   Mayor Kant
-      *   Triangle property
-      *   Fairhope Single Tax Corporation
-      *   Big Head Gully
-    generated_at: '2026-07-11T06:34:01.393375Z'
-    text: The same Council members ignoring 2,200 petitioners on Big Head Gully are the ones who blew $11 million on the Triangle property disaster. Burrell and Boone lied about the purchase to hide the massive legal fees they racked up while handing favors to their buddies at the Single Tax.
-  triangle-part-2-public-driven-vision:
-    brief: |-
-      THE CONFLICT
-      *   February 12, 2018: Sewage spill reported in the Valley Street Lift Station area (Middle Street and Dogwood Ave), discharging 100,000 to 200,000 gallons of sewage into Big Head Gully, Tatumville Gully, and Mobile Bay.
-      *   February 15, 2018: City Council adopted an ordinance directing the transfer of land for the Tatumville Subdivision to the Fairhope Single Tax Corporation.
-      *   Over 2,200 people voiced objections regarding the sewage spill location.
-
-      THE DISCOVERY
-      *   The Triangle land was purchased by Fairhope for $11.25 Million (including approximately $3 million in legal fees).
-      *   Estimated current land value is between $18 and $20 Million.
-      *   A comprehensive Land Use Plan was approved, funded by $650,000 RESTORE Act funding.
-      *   The new plan emphasizes a "Public-Driven vision" for growth and development.
-
-      THE PIVOT
-      *   Article 1 details specific local conflicts of interest and immediate environmental crises related to land transfer/sewage.
-      *   Article 2 reveals that the Triangle property—the subject of past litigation and conflict—is now integrated into a new, publicly funded land-use vision (Comprehensive Plan), changing how that asset is viewed and managed.
+      *   Article 1 outlines specific conflicts of interest (e.g., Robert Brown/Cliff Pittman partnership, Lee Turner holding multiple titles) driving a controversial land transfer at Big Head Gully.
+      *   Article 2 provides the broader context that these localized political maneuvers are consistent with a systemic pattern of obstruction by council members (Catalyst Council), which has historically undermined infrastructure investment and prevented timely resolution of severe sewer issues in Fairhope.
 
       KEY ENTITIES
       *   Kevin Boone
@@ -114,199 +211,106 @@ hooks:
       *   Jay Robinson
       *   Michel Upchurch
       *   Lee Turner
+      *   Jimmy Conyers
+      *   Mayor Wilson (Karin Wilson)
+      *   Single Tax Corporation / Single Tax Board
+      *   Tatumville Subdivision / Big Head Gully
+      *   Catalyst (Political Organization)
       *   Fairhope City Council
-      *   Mayor Karin Wilson
-      *   Jack Burrell
-      *   Tatumville Subdivision
-      *   Triangle land
-      *   Comprehensive Land Use Plan
-    generated_at: '2026-07-11T06:34:01.393382Z'
-    text: While raw sewage poured into Mobile Bay, the Council fought to keep their shady land transfers buried in old litigation. Now we see the full $20 million price tag on the Triangle land as they try to rebrand their history of backroom deals under a new public vision that ignores the real mess.
-  eagles-eye-catalyst-kant-corte:
+    generated_at: '2026-07-12T18:52:23.244605Z'
+    text: The Catalyst Council uses utility funds like a private slush fund while sewage overflows into our gullies. This systemic obstruction blocks Mayor Wilson from fixing the infrastructure problems that these councilmen helped create.
+  off-the-rails:
     brief: |-
-      THE CONFLICT
-      *   City Council Agenda Date: Thursday, February 15, 2018.
-      *   Ordinance Adoption: Directing transfer of acreage for Tatumville Subdivision to Fairhope Single Tax Corporation.
-      *   Sewage Spill Event: February 12, 2018; 100,000 to 200,000 gallons of sewage discharged into Big Head Gully, Tatumville Gully, and Mobile Bay via Valley Street Lift Station.
-      *   Conflict of Interest Allegations: Council members including Kevin Boone, Robert Brown, Jay Robinson, Michel Upchurch, and Lee Turner were involved in conflicts related to the project and Single Tax.
+      **THE CONFLICT:**
+      - February 15, 2018: Fairhope City Council is scheduled to vote on an ordinance directing the transfer of land to Fairhope Single Tax Corporation for Tatumville Subdivision development.
+      - January 12, 2018: A sewer spill occurred in the area near Valley Street Lift Station (Middle Street and Dogwood Ave), discharging 100,000 to 200,000 gallons of sewage into Big Head Gully, Tatumville Gully, and Mobile Bay.
+      - Ongoing/Past: Conflicts of interest are cited by reporters regarding council members Kevin Boone, Robert Brown, Jay Robinson, Jack Burrell, Michel Upchurch, Lee Turner (President of Fairhope Planning and Zoning), Cliff Pittman (Single Tax Board), and Jimmy Conyers.
 
-      THE DISCOVERY
-      *   The Kant-Corte Apartments development is actively clearing property on Fly Creek.
-      *   The Kant-Corte Apartments will impact Highway 98 and Parker Road intersection, which has claimed 7 lives.
-      *   Mr. Jack Burrell and Mr. Kevin Boone facilitated a deal with developer Angelo Corte at a City Council meeting.
+      **THE DISCOVERY:**
+      - January 10, 2020: Three specific councilmen—Kevin Boone, Robert Brown, and Jack Burrell—are revealed to have approved a $2.75 million land lease for recreational farming without community involvement or public participation.
+      - The article asserts that the City Council has intentionally neglected sewer infrastructure for years.
+      - This 2020 decision is framed as an attempt by council members to bypass necessary development work, utilizing funds (BP funds) and staff input outside of standard council procedures.
 
-      THE PIVOT
-      *   Article 1 establishes systemic conflicts of interest and corruption among city council members facilitating land transfers and development interests (e.g., Turner, Brown, Robinson).
-      *   Article 2 identifies specific actors (Burrell, Boone) who facilitated a deal with developer Corte, proving the tangible outcome of the conflict of interest described in Article 1 is real property development affecting public infrastructure.
+      **THE PIVOT:**
+      - Article 1 establishes a pattern of land transfers related to Tatumville Subdivision occurring in close proximity to severe sewage spills (Big Head Gully).
+      - Article 2 proves that the underlying issue is not just isolated conflicts but systemic council neglect and misuse of funds, demonstrating that councilmen like Boone, Brown, and Burrell are involved in high-cost deals ($2.75 million land lease) while simultaneously ignoring critical municipal issues like sewer infrastructure. This suggests a pattern where council decisions prioritize specific land transactions over public health and necessary city maintenance.
 
-      KEY ENTITIES
-      *   Kevin Boone
-      *   Robert Brown
-      *   Cliff Pittman
-      *   Jay Robinson
-      *   Michel Upchurch
-      *   Lee Turner
-      *   Angelo Corte
-      *   Jack Burrell
-      *   Kant-Corte Apartments
-      *   Fairhope Single Tax Corporation
-    generated_at: '2026-07-11T06:34:01.393388Z'
-    text: Systemic corruption at City Hall is finally hitting the pavement at our most dangerous intersections. Jack Burrell and Kevin Boone fast-tracked a deal for developer Angelo Corte that clears Fly Creek while ignoring a stretch of road that has already claimed seven lives.
-  catalyst:
-    brief: |-
-      THE CONFLICT
-      *   February 12, 2018: Sewer spill of 100,000 to 200,000 gallons of sewage discharged into Big Head Gully, Tatumville Gully, and Mobile Bay near the Valley Street Lift Station.
-      *   February 15, 2018: City Council adopted an ordinance transferring land for the Tatumville Subdivision to the Fairhope Single Tax Corporation.
-      *   Conflict of interest identified involving Council members: Kevin Boone (multiple LLCs), Robert Brown/Cliff Pittman (building company partners, Single Tax board), Jay Robinson/Michel Upchurch (Single Tax treasurer), and Lee Turner (President Planning & Zoning, President Single Tax).
-
-      THE DISCOVERY
-      *   The Catalyst council is described as the worst and least effective council in 20 years.
-      *   People with special interests or Catalyst connections obstruct the Mayor and City Supervisors by blocking the budget.
-      *   Budget obstruction is deliberate, using taxpayer dollars.
-
-      THE PIVOT
-      *   Article 1 identifies specific Council members (e.g., Turner, Brown, Robinson) who have conflicts of interest related to the land transfer/development projects.
-      *   Article 2 explains that the Catalyst council is running the government and obstructing officials through budget control.
-      *   The evidence in Article 2 proves *how* the special interests referenced as conflicts in Article 1 are using their power within the Catalyst structure to achieve legislative obstruction.
-
-      KEY ENTITIES
-      *   Fairhope City Council
-      *   Tatumville Subdivision
-      *   Single Tax Corporation
-      *   Big Head Gully / Tatumville Gully
-      *   Kevin Boone
-      *   Robert Brown
-      *   Cliff Pittman
-      *   Jay Robinson
-      *   Michel Upchurch
-      *   Lee Turner
-      *   Catalyst council
-      *   Mayor
-    generated_at: '2026-07-11T06:34:01.393393Z'
-    text: The Catalyst Council is holding the city budget hostage to protect the special interests of their developer friends. Turner and Brown are using this legislative chokehold to force through land transfers that benefit the Single Tax while our infrastructure literally rots and spills.
-  full-plate:
-    brief: |-
-      THE CONFLICT
-      *   February 15, 2018: Fairhope City Council scheduled to adopt an ordinance transferring land for Tatumville Subdivision.
-      *   February 12, 2018: Sewage spill reported near Valley Street Lift Station; 100,000 to 200,000 gallons of sewage discharged into Big Head Gully, Tatumville Gully, and Mobile Bay.
-      *   Conflict over land transfer for Tatumville Subdivision vs. public objections (petition of over 2200 people).
-
-      THE DISCOVERY
-      *   The K-1 school site is a point of ongoing controversy regarding its intended use (resurrecting the school, independent school, or commercial development).
-      *   Economic impact analysis suggests the Hatch program could generate $16.8 million in payroll and $33.65 million in sales/output revenue for Fairhope over five years.
-      *   Pending lawsuit against the President of the Council exists, with video evidence cited.
-
-      THE PIVOT
-      *   Article 2 reveals that the land transfer (Article 1) is part of a larger pattern of development and political maneuvering regarding public property (K-1 site), which is linked to specific economic projections and ongoing legal challenges against city leadership.
-
-      KEY ENTITIES
-      *   Kevin Boone
-      *   Robert Brown
-      *   Cliff Pittman
-      *   Jay Robinson
-      *   Michel Upchurch
-      *   Lee Turner
-      *   Art Museum
-      *   Single Tax
-      *   Dean Mosher
-      *   University of Alabama (economic analysis)
-    generated_at: '2026-07-11T06:34:01.393399Z'
-    text: Fairhope’s leadership is juggling too many scandals to count, from sewage spills to the fight over the K-1 school site. This report uncovers how Lee Turner and his cronies use public property as a personal chessboard to secure millions in revenue while facing active lawsuits.
-  corridor-of-chaos:
-    brief: |-
-      THE CONFLICT
-      *   City Council adopted an ordinance on February 15, 2018, directing the transfer of land for the Tatumville Subdivision to Fairhope Single Tax Corporation.
-      *   A sewage spill occurred on February 12, 2018, discharging 100,000 to 200,000 gallons of sewage into Big Head Gully, Tatumville Gully, and Mobile Bay via the Valley Street Lift Station.
-      *   Conflict of interest was cited involving Councilman Kevin Boone, Robert Brown, Cliff Pittman (partners in a building company), Jay Robinson, Michel Upchurch (Single Tax treasurer), and Lee Turner (President of Planning and Zoning, President of Single Tax).
-
-      THE DISCOVERY
-      *   A planned unit development application was submitted by Gayfer Village Partners for 76 acres near Fairhope Avenue and Hwy 181.
-      *   The proposed development consists of three parts: 16 commercial lots (B-2), 232 multi-family apartment units (R-5), and 77 single-family residential lots (R-3).
-      *   Total proposed units: 566 apartments, 77 homes, and 16 commercial units.
-      *   The developer for the project is Tom Mitchell.
-
-      THE PIVOT
-      *   Article 2 reveals a specific planned unit development (Corridor of Chaos) that directly involves large-scale land use near Fairhope Avenue and Hwy 181, which likely relates to or is facilitated by the land transfer issue described in Article 1 concerning Tatumville Subdivision.
-
-      KEY ENTITIES
-      *   Fairhope City Council
-      *   Tatumville Subdivision
-      *   Fairhope Single Tax Corporation
-      *   Kevin Boone
-      *   Robert Brown
-      *   Cliff Pittman
-      *   Jay Robinson
-      *   Michel Upchurch
-      *   Lee Turner
-      *   Gayfer Village Partners, Llc
-      *   Municipal Judge Haymes Snedeker
-      *   Ray Hix
-      *   Tom Mitchell
-    generated_at: '2026-07-11T06:34:01.393405Z'
-    text: The sewage spill at Big Head Gully was just a warning shot for the massive Corridor of Chaos coming to Highway 181. Tom Mitchell and Judge Snedeker are moving in for the kill with over 600 new units that were greased by the same Council land transfers we exposed last month.
-  catalyst-colors:
-    brief: |-
-      THE CONFLICT
-      *   City Council agenda date: February 15, 2018.
-      *   Ordinance adopted directing transfer of land to Fairhope Single Tax Corporation for Tatumville Subdivision (introduced January 22, 2018).
-      *   Public health warning issued Feb 12, 2018, regarding a 100,000 to 200,000 gallon sewage spill in Big Head Gully/Tatumville Gully/Mobile Bay.
-      *   Three councilmen (Burrell, Brown, Boone) approved and purchased $2.65 million in land for recreation without National Park Service approval or public participation.
-
-      THE DISCOVERY
-      *   The $2.65 million land purchase was made without NPS approval.
-      *   The sale closed November 1st, just before the Connectivity Master Plan Workshop on November 7th.
-      *   The council attempted to convert the land to a conservation easement but failed.
-      *   Council members received hidden family insurance packages valued at $17,000 per year, which were exposed by the Mayor.
-      *   The appointment of the Municipal Judge and City Attorney created a conflict where the Judge is the developer of a housing project approved by the council that appointed him.
-
-      THE PIVOT
-      *   Article 2 proves that the land purchase described in Article 1 was questionable and potentially illegal because it lacked NPS approval and public participation.
-      *   Article 2 exposes conflicts of interest regarding the council members' personal financial gain (family insurance packages) and institutional corruption related to appointments (Municipal Judge/City Attorney).
-
-      KEY ENTITIES
-      *   Fairhope City Council
-      *   Kevin Boone
-      *   Robert Brown
-      *   Cliff Pittman
-      *   Jay Robinson
-      *   Michel Upchurch
-      *   Lee Turner
-      *   Tatumville Subdivision
-      *   Fairhope Single Tax Corporation
-      *   National Park Service (NPS)
-      *   Art Museum
-      *   Municipal Judge
-      *   City Attorney
-    generated_at: '2026-07-11T06:34:01.393410Z'
-    text: Burrell and his team spent millions on land without federal approval while hiding $17,000 annual insurance perks for themselves. This discovery links their illegal land buys directly to the same cronies now getting appointed as judges to protect the Council’s private interests.
-  the-good-the-bad-and-the-ugly:
+      **KEY ENTITIES:**
+      - Kevin Boone
+      - Robert Brown
+      - Jack Burrell
+      - Jay Robinson
+      - Cliff Pittman
+      - Michel Upchurch
+      - Lee Turner (Fairhope Planning and Zoning; Single Tax)
+      - Tatumville Subdivision
+      - Big Head Gully / Tatumville Gully
+      - Fairhope City Council
+      - Fairhope Single Tax Corporation
+      - BP funds
+    generated_at: '2026-07-12T18:52:23.244611Z'
+    text: Kevin Boone and Jack Burrell approved a massive 2.75 million dollar land lease while your sewer system fell apart. They ignore critical infrastructure to focus on high-cost deals that bypass public oversight and drain the city budget.
+  bit-dogs-bark-first:
     brief: |-
       THE CONFLICT:
-      *   City Council agenda set for Thursday, February 15, 2018.
-      *   Ordinance adopted on February 15, 2018, directing a transfer of land to Fairhope Single Tax Corporation for the Tatumville Subdivision.
-      *   A public health warning was issued on February 12, 2018, regarding a sewer spill (100,000 to 200,000 gallons) into Big Head Gully, Tatumville Gully, and Mobile Bay from the Valley Street Lift Station.
-      *   Conflict of interest noted involving Council members Kevin Boone, Robert Brown, Cliff Pittman, Jay Robinson, and Lee Turner regarding the land transfer.
+      *   February 15, 2018, the Fairhope City Council debated an ordinance to transfer land for Tatumville Subdivision to Fairhope Single Tax Corporation.
+      *   Allegations of conflict of interest were raised by Ripp Report concerning Kevin Boone's multiple LLC holdings/Catalyst support, Robert Brown's partnership with Cliff Pittman (Single Tax Board), Jay Robinson's law partner Michel Upchurch being the Single Tax treasurer, and Lee Turner’s roles as President of Fairhope Planning & Zoning and President of Single Tax.
+      *   The transfer location was associated with a 100,000–200,000 gallon sewer spill into Big Head Gully in February 2018.
 
       THE DISCOVERY:
-      *   The Catalyst Council is accused of obstructionist behavior and working to overthrow the current government in 2020.
-      *   The Triangle lawsuit cost the city $11.25 million.
-      *   City Council members Kevin Boone and Jack Burrell refused to settle or discuss settlement regarding the Triangle lawsuit.
-      *   Fairhope recently prevailed in a court preceding the Buddy Breland case, based on a unanimous Alabama Supreme Court decision favoring the developer.
+      *   Current council members Kevin Boone and Jack Burrell are alleged to be remnants of a failed administration obstructing Mayor Wilson's transparency goals (e.g., opposing the professional engineering capacity study).
+      *   Kevin Boone is documented as holding multiple LLC positions, including BA-101, LLC (registered agent: Kevin Boone) and North Ridge, LLC, which lists John G. Avent as a firm partner/Preble-Rish connection.
+      *   Jay Robinson has received campaign contributions of $1,000 from Ray Hix, an Airport Authority Board member, creating a perceived conflict regarding his vote on the Airport Authority vs. City interests.
 
       THE PIVOT:
-      *   Article 2 proves that the obstructionist nature of the Catalyst Council (mentioned in Article 1 as pushing the land project) is demonstrated by their failure to handle major lawsuits (Triangle Lawsuit) and their refusal to settle, which mirrors the conflict regarding the local development/land issue in Article 1.
+      *   Article 2 provides documented evidence of specific financial connections (LLC ownership, partnership with Preble-Rish) that validate and substantiate the general conflicts of interest alleged by Ripp Report in Article 1 concerning Kevin Boone and Robert Brown's sphere of influence during the 2018 land transfer debate.
 
       KEY ENTITIES:
-      *   Fairhope City Council
+      *   Kevin Boone
+      *   Robert Brown
+      *   Jay Robinson
+      *   Michel Upchurch
+      *   Lee Turner
+      *   Cliff Pittman
+      *   Jack Burrell
+      *   John G. Avent / Preble-Rish, Inc.
+      *   Fairhope Single Tax Corporation (FSTC)
       *   Tatumville Subdivision
-      *   Fairhope Single Tax Corporation
-      *   Big Head Gully / Tatumville Gully
+      *   Big Head Gully
+      *   Triangle lawsuit ($12 million settlement)
+      *   Mayor Wilson
+      *   North Ridge, LLC
+      *   BA-101, LLC
+    generated_at: '2026-07-12T18:52:23.244617Z'
+    text: Paper trails link Kevin Boone to multiple LLCs and developer interests that benefit from these shady land transfers. These financial ties prove the Council isn't just making mistakes; they are actively working for their own bank accounts.
+  fairhope-council-asleep-at-the-wheel:
+    brief: |-
+      THE CONFLICT:
+      *   February 15, 2018: Fairhope City Council agenda item #5 addressed the final adoption of an ordinance directing the transfer of one acre of land to Fairhope Single Tax Corporation (FSTC).
+      *   Purpose of Transfer: The land was declared surplus and needed for Tatumville Subdivision.
+      *   Environmental Context: The location had recently been used in a sewage spill where 100,000-200,000 gallons were discharged into Big Head Gully/Tatumville Gully on February 12, 2018.
+      *   Reported Conflicts of Interest at the time: Kevin Boone (LLCs); Robert Brown and Cliff Pittman (partners in a building company; Pittman is on Single Tax Board); Jay Robinson and Michel Upchurch (legal partnership; Upchurch is Single Tax Treasurer); Lee Turner (serving as President of Fairhope Planning and Zoning and President of Single Tax).
+
+      THE DISCOVERY:
+      *   Article 2 details a recurring pattern where the CATALYST Council prioritizes developers over public safety and municipal planning.
+      *   The Mayor opposed projects like the "Retreat at Fairhope Village" apartments (behind Publix); the Council was noted for siding with developers, leading to traffic congestion on Parker Road and US-98.
+      *   A general pattern of corporate influence is noted regarding zoning issues and legislative proposals (HB 203).
+
+      THE PIVOT:
+      *   Article 2 reveals a consistent history (dating up to the present) that the Council uses its power to facilitate development projects while ignoring long-range planning consequences or public concern. This validates the initial suspicions in Article 1 regarding vested interests and "well connected people pushing [the project] down the throats of the Fairhope Citizens."
+
+      KEY ENTITIES:
+      *   Fairhope City Council (collective body)
+      *   CATALYST
       *   Kevin Boone
       *   Robert Brown
       *   Cliff Pittman
       *   Jay Robinson
+      *   Michel Upchurch
       *   Lee Turner
-      *   Catalyst Council
-      *   Buddy Breland
-    generated_at: '2026-07-11T06:34:01.393415Z'
-    text: The Catalyst Council would rather burn $11 million in taxpayer cash on a lost lawsuit than admit they were wrong about the Triangle property. Boone and Burrell’s refusal to settle proves they are only working to protect the developers currently polluting our gullies.
+      *   Fairhope Single Tax Corporation (FSTC)
+      *   Big Head Gully
+      *   Tatumville Subdivision
+      *   Retreat at Fairhope Village
+    generated_at: '2026-07-12T18:52:23.244622Z'
+    text: The Catalyst Council routinely sides with big developers over the safety and sanity of Fairhope residents. Their refusal to plan for growth has traded our public health for traffic jams and raw sewage in our backyard gullies.

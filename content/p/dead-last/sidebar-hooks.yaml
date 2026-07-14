@@ -1,8 +1,30 @@
 metadata:
-  generated_at: '2026-07-11T06:59:55.343605Z'
+  generated_at: '2026-07-12T17:57:59.817705Z'
   generator_version: 1.0.0
   post_slug: dead-last
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
+  the-pot-and-the-kettle-are-black:
+    brief: "**THE CONFLICT:**\n*   South Alabama Mega Site was a $32 million investment\
+      \ initiated in mid-2011 by Baldwin County.\n*   The project has been marketed\
+      \ as the \"only certified mega site left in Alabama.\"\n*   Despite promotional\
+      \ efforts and investments, the site has failed to attract major manufacturing\
+      \ plants (reported as being \"dead last\" in bid results).\n*   Baldwin County\
+      \ Commissioner Frank Burt (District 1) has held office since \n\n**THE PIVOT:**\n\
+      *   The Main Article criticizes the county commission and Baldwin County Economic\
+      \ Development Alliance (BCEDA) for continuing to promote the failed Mega Site\
+      \ while pushing for re-election of incumbents.\n*   Article 2 serves as a 'smoking\
+      \ gun' by revealing that this economic failure is tied directly to long-standing,\
+      \ entrenched local power structures (Frank Burt’s tenure and the Catalyst group’s\
+      \ political machinations). It connects the corporate interests promoting development\
+      \ (BCEDA) with specific individuals holding positions of influence.\n\n**KEY\
+      \ ENTITIES:**\n*   South Alabama Mega Site\n*   Baldwin County Economic Development\
+      \ Alliance (BCEDA)\n*   Frank Burt (County Commissioner, District No. 1)\n*\
+      \   Jeb Ball (Catalyst candidate; Director of BCSA)\n*   The Catalyst group\
+      \ (Political organization/Group)\n*   Michell Thomason (Judge; associated with\
+      \ founding BCSA)"
+    generated_at: '2026-07-12T17:57:59.817801Z'
   cattle-gate-mega-site:
     brief: 'THE CONFLICT
 
@@ -201,6 +223,62 @@ hooks:
 
       *   K-1 School'
     generated_at: '2026-07-11T06:59:55.343772Z'
+  elliotttuckercatalyst-selling-your-soul:
+    brief: 'THE CONFLICT:
+
+      *   Mid-2011: Baldwin County committed a $32 million investment toward the South
+      Alabama Mega Site (3000-acre industrial park).
+
+      *   The county and political figures continuously promoted the mega site as
+      the primary remaining economic opportunity in Alabama.
+
+      *   Despite initial sales pitches regarding attracting manufacturing plants,
+      the project failed to secure major businesses/plants.
+
+      *   Lee Lawson of the Baldwin County Economic Development Alliance (BCEDA) claimed
+      the Mega Site was the only certified mega-site left in the state during a bid
+      for automotive investment.
+
+
+      THE DISCOVERY:
+
+      *   Article 2 exposes that current politicians Elliott and Tucker Dorsey are
+      driven by significant campaign contributions from developers and CATALYST.
+
+      *   It reveals the Mega Site project was a "$35 million for a cow pasture with
+      a gate to no where," characterizing it as a "good ole boy deal" favored by CATALYST.
+
+      *   The article asserts that Elliott and Dorsey prioritized using county reserves
+      for this politically motivated deal over repairing existing county infrastructure
+      (e.g., BP money usage).
+
+
+      THE PIVOT:
+
+      *   Article 1 describes the economic failure of the mega site; Article 2 reveals
+      the political mechanism behind that failure, proving the investment was a donor-favored,
+      politically driven project ("good ole boy deal") orchestrated by figures benefiting
+      from CATALYST donations rather than genuine economic development.
+
+
+      KEY ENTITIES:
+
+      *   South Alabama Mega Site (3000 acres)
+
+      *   Baldwin County Economic Development Alliance (BCEDA)
+
+      *   Lee Lawson
+
+      *   Elliott (State Senator/County Commissioner)
+
+      *   Tucker Dorsey (Commissioner/Catalyst Endorsee)
+
+      *   CATALYST (Political organization)
+
+      *   Clarence Burke (President of BCSS)
+
+      *   $32 Million / $35 Million (Project investment figures)'
+    generated_at: '2026-07-12T17:57:59.817817Z'
   mega-mistake:
     brief: 'THE CONFLICT
 
@@ -350,182 +428,59 @@ hooks:
 
       *   Commissioner Joe Davis'
     generated_at: '2026-07-11T06:59:55.343788Z'
-  development-chaos:
+  bsp-128:
     brief: 'THE CONFLICT
 
-      *   $32 million investment made in mid-2011 for the Baldwin County Mega Site.
+      *   Baldwin County invested $32 million into the South Alabama Mega Site, an
+      initiative started in mid-2011.
 
-      *   Baldwin County lost a bid for a car manufacturing plant.
+      *   The Baldwin County Commission and BCEDA made promises of securing a major
+      manufacturing plant (specifically referencing Toyota/Mazda).
 
-      *   Lee Lawson of the Baldwin County Economic Development Alliance claims the
-      Mega Site is the only certified site in Alabama.
+      *   By 2018, Lee Lawson, representing BCEDA, claimed the Mega Site was the only
+      certified mega site remaining in Alabama capable of hosting future businesses.
+
+      *   Article 1 alleges these past promises have failed, and the local commission
+      is using the "dead last" status to pitch incumbents for re-election.
 
 
       THE DISCOVERY
 
-      *   Baldwin County faces development chaos including building moratoriums in
-      Fairhope and Daphne.
+      *   Novelis announced construction of a $2.5 Billion Low-Carbon Aluminum Plant
+      Recycling & Rolling facility in Bay Minette, Alabama.
 
-      *   Infrastructure is strained: schools are overcrowded, portables are used,
-      and the county has an unregulated sewer system.
+      *   This Novelis mill is being built on the Baldwin County Megasite.
 
-      *   The County Commission and County Sheriff are handling infrastructure needs
-      poorly (e.g., proposed $65 million jail project in Bay Minette lacking social
-      programs).
-
-      *   There are ongoing class-action lawsuits against D.R. Horton regarding inferior
-      construction.
-
-      *   Zoning disputes are shifting, with citizens moving toward supportive zoning.
+      *   It is noted as the first fully integrated U.S. mill constructed in 40 years.
 
 
       THE PIVOT
 
-      *   Article 2 reveals that the political structure (County Commission/Sheriff)
-      demonstrates poor planning and systemic failure in managing infrastructure and
-      development, suggesting the promises surrounding the Mega Site were based on
-      flawed or unsustainable planning.
+      *   Article 1 claims the Mega Site has failed to secure major industrial investment
+      and remains "dead last."
 
-      *   The chaotic development environment (zoning changes, environmental threats
-      like coal ash spill potential) indicates a lack of cohesive governmental control
-      that allowed previous large-scale economic promises to fail.
+      *   Article 2 reveals a massive, successful economic commitment ($2.5 Billion
+      Novelis facility) materialized on that exact site.
+
+      *   This contradicts the political narrative used by Baldwin County Commission
+      and BCEDA (represented by Lee Lawson) regarding the project’s failure.
 
 
       KEY ENTITIES
 
-      *   Baldwin County
+      *   Baldwin County Mega Site
 
-      *   South Alabama Mega Site
+      *   $32 Million Investment (initial purchase/cost)
 
-      *   Mid-2011
+      *   Novelis
 
-      *   Lee Lawson
-
-      *   Baldwin County Economic Development Alliance
-
-      *   Fairhope
-
-      *   Daphne
-
-      *   Spanish Fort
-
-      *   Bay Minette
-
-      *   County Commission
-
-      *   Boss Hoss (County Sheriff)
-
-      *   D.R. Horton
-
-      *   RSA (Retired Systems of Alabama)'
-    generated_at: '2026-07-11T06:59:55.343793Z'
-  lost-opportunity:
-    brief: 'THE CONFLICT:
-
-      *   Baldwin County invested $32 million in the Mega site purchase in mid-2011.
-
-      *   The county failed to secure a car manufacturing plant at the site.
-
-      *   The Baldwin County Economic Development Alliance failed with its sales pitch
-      regarding the Fairhope Airport.
-
-
-      THE DISCOVERY:
-
-      *   Councilman Burrell Boone and Burrell ("the three B’s") purchased recreation
-      land and leased it back for $9,000 annually.
-
-      *   This action forced the City of Fairhope to cut its budget by $2.6 million
-      to compensate for anticipated municipal income loss due to COVID-19.
-
-
-      THE PIVOT:
-
-      *   Article 2 proves that local political figures (Burrell Boone and Burrell)
-      prioritized a minimal revenue stream ($9,000 lease) over broader economic development
-      or necessary city funding ($2.6 million budget cut), paralleling the failure
-      of county officials to secure major economic opportunities mentioned in Article
-      1.
-
-
-      KEY ENTITIES:
-
-      *   Baldwin County
-
-      *   South Alabama Mega Site
-
-      *   Lee Lawson (Baldwin County Economic Development Alliance)
-
-      *   Fairhope
-
-      *   Councilman Burrell Boone
-
-      *   Burrell
-
-      *   CATALYST council'
-    generated_at: '2026-07-11T06:59:55.343798Z'
-  money-on-the-table:
-    brief: 'THE CONFLICT:
-
-      *   Baldwin County invested $32 million in the Mega site since mid-2011.
-
-      *   The county lost the bid for a car manufacturing plant.
-
-      *   Lee Lawson of the Baldwin County Economic Development Alliance stated the
-      South Alabama Mega Site is the only remaining opportunity.
-
-      *   Fairhope City Council is characterized as "CATALYST," opposing, procrastinating,
-      or refusing projects.
-
-      *   The Fairhope Waterfront Project ($6.2 million) was previously stalled and
-      rejected by the council despite public planning.
-
-
-      THE DISCOVERY:
-
-      *   The Fairhope City Council repeatedly refused Mayor''s proposals, including
-      a $65,000 marketing plan for local businesses.
-
-      *   Councilman Burrell, Brown, and Boone purchased 2.65 million for recreation
-      land and leased it for $9,000 per year, depriving Fairhope of necessary funds.
-
-      *   The Council prioritized the opening of the Quail Creek Golf Course over
-      economic development plans (like the Waterfront Project).
-
-
-      THE PIVOT:
-
-      *   Article 2 shows how local political figures within the City Council are
-      actively diverting or failing to utilize public resources (land deals, rejected
-      funding) while regional economic bodies like the Baldwin County Economic Development
-      Alliance benefit from stagnant outcomes.
-
-      *   The failure of county economic development efforts (Article 1) is mirrored
-      by the corruption and inaction demonstrated by the Fairhope City Council members
-      who are linked to local economic interests.
-
-
-      KEY ENTITIES:
+      *   $2.5 Billion Aluminum Plant Recycling & Rolling facility
 
       *   Lee Lawson
 
       *   Baldwin County Economic Development Alliance (BCEDA)
 
-      *   Fairhope City Council
+      *   Lance LaCour
 
-      *   Mayor Dane Haygood
-
-      *   Councilman Burrell
-
-      *   Councilman Brown
-
-      *   Councilman Boone
-
-      *   Fairhope Waterfront Project
-
-      *   $32 million investment
-
-      *   $6.2 million project budget
-
-      *   $65,000 marketing plan'
-    generated_at: '2026-07-11T06:59:55.343803Z'
+      *   Baldwin County Commission'
+    generated_at: '2026-07-12T17:57:59.817828Z'

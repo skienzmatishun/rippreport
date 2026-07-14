@@ -1,7 +1,9 @@
 metadata:
-  generated_at: '2026-07-11T06:16:32.594204Z'
+  generated_at: '2026-07-12T19:21:19.006562Z'
   generator_version: 1.0.0
   post_slug: cattle-gate-mega-site
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
   fairhopes-triangle-mega-site:
     brief: 'THE CONFLICT:
@@ -148,54 +150,6 @@ hooks:
 
       *   Fairhope Airport'
     generated_at: '2026-07-11T06:16:32.594273Z'
-  mega-mistake:
-    brief: 'THE CONFLICT
-
-      *   Baldwin County Mega-site has been vacant for seven years following $32 million
-      spent.
-
-      *   The Baldwin County Economic Development Alliance failed to find a tenant
-      for the site.
-
-      *   The total expense for the "Mega-Mistake" is approximately $50 million.
-
-
-      THE DISCOVERY
-
-      *   Mr. Lee Lawson’s plan is to transfer title of the $50 million mega-site
-      to the Baldwin County Economic Development Alliance (BCEDA).
-
-      *   This proposed transfer mirrors Fairhope City Council''s desire to give away
-      $20 million worth of municipal property (106 acres).
-
-      *   Over 600 people have signed a petition opposing this secret land transfer.
-
-
-      THE PIVOT
-
-      *   The Widget Article reveals that Mr. Lawson’s track record is dismal, citing
-      past failures (Fairhope K-1 center, Jack Burrell International Airport) as evidence
-      of mismanagement.
-
-      *   The proposed transfer of the Mega-site title to BCEDA is presented as a
-      way for incompetent third parties to gain exclusive control, bypassing public
-      vetting.
-
-
-      KEY ENTITIES
-
-      *   Baldwin County Mega-site
-
-      *   Baldwin County Economic Development Alliance (BCEDA)
-
-      *   Mr. Lee Lawson
-
-      *   Fairhope City Council
-
-      *   Fairhope
-
-      *   Jack Burrell International Airport'
-    generated_at: '2026-07-11T06:16:32.594278Z'
   shovel-ready:
     brief: 'THE CONFLICT:
 
@@ -301,6 +255,54 @@ hooks:
 
       *   Public taxpayers'
     generated_at: '2026-07-11T06:16:32.594288Z'
+  mega-mistake:
+    brief: 'THE CONFLICT
+
+      *   Baldwin County Mega-site has been vacant for seven years following $32 million
+      spent.
+
+      *   The Baldwin County Economic Development Alliance failed to find a tenant
+      for the site.
+
+      *   The total expense for the "Mega-Mistake" is approximately $50 million.
+
+
+      THE DISCOVERY
+
+      *   Mr. Lee Lawson’s plan is to transfer title of the $50 million mega-site
+      to the Baldwin County Economic Development Alliance (BCEDA).
+
+      *   This proposed transfer mirrors Fairhope City Council''s desire to give away
+      $20 million worth of municipal property (106 acres).
+
+      *   Over 600 people have signed a petition opposing this secret land transfer.
+
+
+      THE PIVOT
+
+      *   The Widget Article reveals that Mr. Lawson’s track record is dismal, citing
+      past failures (Fairhope K-1 center, Jack Burrell International Airport) as evidence
+      of mismanagement.
+
+      *   The proposed transfer of the Mega-site title to BCEDA is presented as a
+      way for incompetent third parties to gain exclusive control, bypassing public
+      vetting.
+
+
+      KEY ENTITIES
+
+      *   Baldwin County Mega-site
+
+      *   Baldwin County Economic Development Alliance (BCEDA)
+
+      *   Mr. Lee Lawson
+
+      *   Fairhope City Council
+
+      *   Fairhope
+
+      *   Jack Burrell International Airport'
+    generated_at: '2026-07-11T06:16:32.594278Z'
   for-the-record-mega-money:
     brief: 'THE CONFLICT
 
@@ -410,101 +412,112 @@ hooks:
 
       *   Baldwin County Economic Development Alliance (BCEDA)'
     generated_at: '2026-07-11T06:16:32.594298Z'
-  development-chaos:
-    brief: 'THE CONFLICT:
-
-      *   Baldwin County Commissioners failed to generate interest in the Mega-site
-      development.
-
-      *   The site is described as unsuitable for development ("Land no good for cattle").
-
-      *   The mega-site has 700 hundred acres, valued at 32 million bitcoin or cash.
-
-
-      THE DISCOVERY:
-
-      *   Baldwin County is experiencing development chaos involving building moratoriums
-      (Fairhope, Daphne).
-
-      *   Infrastructure is strained (schools, unregulated sewer system).
-
-      *   County officials and the Commission demonstrate poor planning and failure
-      to manage development issues effectively.
-
-      *   Legal conflicts exist regarding zoning and developer practices (e.g., D.R.
-      Horton class action lawsuits against shoddy construction).
-
-
-      THE PIVOT:
-
-      *   Article 2 proves that the overall county governance, political decisions,
-      and lack of cohesive planning create an environment where major projects like
-      the Mega-site stall or fail to gain traction.
-
-      *   The chaotic development environment (zoning battles, infrastructure strain)
-      is the underlying reason why the Mega-site remains undeveloped or poorly marketed
-      ("no sign on property").
-
-
-      KEY ENTITIES:
-
-      *   Baldwin County Commissioners
-
-      *   Baldwin County Economic Development Alliance
-
-      *   Fairhope
-
-      *   Daphne
-
-      *   Spanish Fort
-
-      *   County Commission
-
-      *   Boss Hoss (County Sheriff)
-
-      *   D.R. Horton
-
-      *   RSA (Retired Systems of Alabama)'
-    generated_at: '2026-07-11T06:16:32.594303Z'
-  paradise-lost-ii:
+  battle-of-weeks-family:
     brief: 'THE CONFLICT
 
-      Baldwin County commissioners failed to generate interest in the Mega-site development.
-      The Economic Development Alliance failed to find a tenant for the mega-site.
-      All southeast mega-sites have been sold. The site currently has no sign, only
-      a cattle gate and palm trees.
+      *   Baldwin County Mega-site development failed to find a tenant, despite efforts
+      by the county commissioners and the Baldwin County Economic Development Alliance.
+
+      *   The site, covering 700+ acres, was described as "rotten deal" with no commercial
+      signs present (only a cattle gate and palm trees) in early 2021 coverage.
+
+      *   Specific land conflicts were ongoing involving family-owned properties and
+      local zoning requests.
 
 
       THE DISCOVERY
 
-      Urban planning principles dictate that uncontrolled growth risks diminishing
-      quality of life. New developments outside city limits lack authority from local
-      planning departments. Fairhope was sued by the State of Alabama for failing
-      to properly manage its sewerage system causing costly spills.
+      *   Grant Weeks, an entrepreneur from the family of Weeks Bay history, proposed
+      a restaurant venture on family land.
+
+      *   The Zoning Commission initially recommended the proposal but reversed its
+      recommendation after receiving one complaint.
+
+      *   The application was scheduled for review by the County Commissioners on
+      December 15, 2020, in Bay Minette.
 
 
       THE PIVOT
 
-      Chris Warner''s article provides an urban planning framework demonstrating why
-      the Mega-site situation is problematic: poor management and planning lead to
-      sprawl and diminished quality of life, directly linking to the lack of zoning
-      authority that allowed the Mega-site to remain undeveloped or poorly marketed
-      without proper oversight.
+      *   Article 2 reveals a micro-level conflict regarding specific land use (a
+      restaurant zoning request by Grant Weeks) that proves political intervention
+      and resistance exists within Baldwin County''s planning process.
+
+      *   This localized opposition provides context to the generalized failure reported
+      in Article 1, suggesting that systemic or targeted interference is preventing
+      large-scale development success at the Mega-site.
 
 
       KEY ENTITIES
 
-      Baldwin County
+      *   Baldwin County
 
-      Mega-site
+      *   Baldwin County Economic Development Alliance
 
-      Chris Warner
+      *   Ripp Report
 
-      Fairhope
+      *   County Commissioners (of Baldwin County)
 
-      Orange Beach
+      *   Grant Weeks / The Weeks family of Weeks Bay
 
-      State of Alabama
+      *   Zoning Commission'
+    generated_at: '2026-07-12T19:21:19.006727Z'
+  food-for-thought:
+    brief: 'THE CONFLICT
 
-      Economic Development Alliance'
-    generated_at: '2026-07-11T06:16:32.594308Z'
+      *   Baldwin County Mega-site has been under public scrutiny for years by The
+      Ripp Report.
+
+      *   January update reported that Commissioners and Baldwin County Economic Development
+      Alliance failed to find a tenant for the 700-acre mega-site, valued at $32 million
+      (cash or Bitcoin).
+
+      *   The property is located in Baldwin County, described as being north on highway
+      59 from Bay Minette before I-65.
+
+      *   Commissioners faced criticism during mid-term elections for failure to generate
+      interest or sales activity on the Mega-site.
+
+      *   Current status: No sign or development visible at the property ("cattle
+      gate and a few palm trees").
+
+
+      THE DISCOVERY
+
+      *   A specific, publicly owned parcel of land within Baldwin County is being
+      addressed for the first time in public discourse.
+
+      *   This parcel has historically been kept from public discussion by relevant
+      parties until this report.
+
+      *   The Widget Article reveals that there is a discrepancy between the current
+      zoning designation of this parcel and its actual physical state or appearance
+      on site.
+
+
+      THE PIVOT
+
+      *   Article 2 shifts focus from incompetence (Commissioners/BCEDA failure to
+      find tenants) to intentional omission or misrepresentation regarding land ownership
+      transparency.
+
+      *   The discovery that the publicly owned land has a "zoning designation [that]
+      doesn’t match what’s actually there" suggests a foundational administrative
+      issue—a hidden legal element—behind the Mega-site''s failure, moving beyond
+      simple sales strategy errors.
+
+
+      KEY ENTITIES
+
+      *   Baldwin County (Government Entity)
+
+      *   Baldwin County Economic Development Alliance (Organization)
+
+      *   The Ripp Report (Reporter/Organizer)
+
+      *   Commissioners (Local Government Body)
+
+      *   $32 million (Sale Value of Mega-site)
+
+      *   Highway 59 / Bay Minette / I-65 (Site Location reference)'
+    generated_at: '2026-07-12T19:21:19.006736Z'

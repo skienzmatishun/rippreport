@@ -1,0 +1,86 @@
+metadata:
+  generated_at: '2026-07-13T16:52:56.145972Z'
+  post_slug: mia
+  status: staged
+  hooks_generated: false
+related_articles:
+- slug: notice
+  title: 'NOTICE:'
+  score: 91.57815553804717
+  llm_score: 95
+  recency_score: 74.38689434377122
+  length_score: 96.25
+  category_score: 0
+  rank: 1
+- slug: newsletter
+  title: NEWSLETTER
+  score: 81.6663073545737
+  llm_score: 85
+  recency_score: 54.58126728879875
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: anonymous-bb
+  title: ANONYMOUS-BB
+  score: 80.33378155441284
+  llm_score: 90
+  recency_score: 26.919243937873805
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 74.92013487006088
+  llm_score: 75
+  recency_score: 55.79077550285001
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream
+  title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
+  score: 67.91059280658328
+  llm_score: 65
+  recency_score: 55.48590863785381
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 56.52173913043479
+  llm_score: 50
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 54.2944898839053
+  llm_score: 50
+  recency_score: 37.193316832455444
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 49.80573766427207
+  llm_score: 45
+  recency_score: 31.3829915695644
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: some-things-need-to-go-away
+  title: SOME THINGS NEED TO GO AWAY
+  score: 30.373508731032082
+  llm_score: 30
+  recency_score: 37.39767520343444
+  length_score: 23.0
+  category_score: 0
+  rank: 9
+- slug: im-back-2
+  title: I'M BACK
+  score: 67.13239322072253
+  llm_score: 90
+  recency_score: 18.143654239877034
+  length_score: 100
+  category_score: 0
+  rank: 10

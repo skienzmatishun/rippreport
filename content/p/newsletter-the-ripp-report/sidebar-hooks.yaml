@@ -1,8 +1,61 @@
 metadata:
-  generated_at: '2026-07-11T06:40:28.882888Z'
+  generated_at: '2026-07-12T18:37:07.039321Z'
   generator_version: 1.0.0
   post_slug: newsletter-the-ripp-report
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
+  repeat:
+    brief: 'THE CONFLICT:
+
+      - In 2017–2018, Fairhope City Council reportedly limited public participation
+      and used silence against those who challenged them, specifically targeting Mayor
+      Kant.
+
+      - The council engaged in a year of obstruction against the newly elected Mayor
+      during that period (implied to be post-2016/pre-2018).
+
+
+      THE DISCOVERY:
+
+      - The Widget Article frames current events as a "repeat" or recurring cycle
+      ("Freaky Friday is a repeat of Jan 1st").
+
+      - It suggests that political issues and corruption present in past cycles (2017–2018)
+      have resurfaced.
+
+      - Past instances show the Fairhope City Council using their office to limit
+      public participation and abuse elected/appointed offices, as referenced by the
+      "shut up" content link and Jack''s free speech lawsuit.
+
+
+      THE PIVOT:
+
+      - The Widget Article establishes a precedent of systemic misconduct (obstruction,
+      suppression) within Fairhope municipal government cycles.
+
+      - This historical pattern validates the Main Article’s contemporary claims that
+      corruption is endemic and cyclical in Baldwin County politics, specifically
+      allowing citizens to recognize current issues with more skepticism regarding
+      past governance failures.
+
+
+      KEY ENTITIES:
+
+      - Ripp Report
+
+      - Baldwin County Legal Eagle
+
+      - BP (specifically reference to Pittman skimming $750,000)
+
+      - Fairhope City Council
+
+      - Mayor Kant (Former Mayor referenced)
+
+      - Jack (Council President/Politician supporter mentioned in context of lawsuits)
+
+      - BP Pittman (State Senator and alleged corrupt figure from 2019–2024).'
+    generated_at: '2026-07-12T18:37:07.039393Z'
   court-of-public-opinion:
     brief: 'THE CONFLICT
 
@@ -49,158 +102,118 @@ hooks:
 
       *   Court of Public Opinion'
     generated_at: '2026-07-11T06:40:28.882983Z'
-  citizens-fighting-back:
-    brief: 'THE CONFLICT
-
-      *   BP Pittman vacated the District 32 State Senate seat.
-
-      *   Pittman''s legacy involves greed and skimming $750,000 from BP.
-
-      *   Baldwin County corruption is linked to low municipal participation (30%
-      vote rate).
-
-
-      THE DISCOVERY
-
-      *   Citizens in municipalities like Orange Beach, Gulf Shores, and Fairhope
-      are actively questioning local government overreach.
-
-      *   Citizen groups are fighting against high-density development (apartments)
-      that negatively impact property values.
-
-      *   In Fairhope, the "Catalyst" Council mocked citizens and prevented them from
-      speaking at public forums.
-
-
-      THE PIVOT
-
-      *   Article 2 reveals the active political and physical resistance of citizens
-      against municipal power structures that allow for corruption detailed in Article
-      1.
-
-      *   Citizen involvement (petitions, protests, challenges to council decisions)
-      is the direct counter-measure to the unchecked government behavior implied by
-      Pittman''s legacy.
-
-
-      KEY ENTITIES
-
-      *   BP Pittman
-
-      *   District 32 State Senate seat
-
-      *   Baldwin County Commissioners
-
-      *   Orange Beach
-
-      *   Gulf Shores
-
-      *   Fairhope
-
-      *   Enclave property values
-
-      *   Regency Pace Apartments
-
-      *   Catalyst Council'
-    generated_at: '2026-07-11T06:40:28.882993Z'
-  baldwin-county-citizens-for-government-accountability-cga:
-    brief: 'THE CONFLICT
-
-      *   BP Pittman skimmed $750,000 from BP.
-
-      *   The County Commission brokered a deal with the BCBOE involving the Penny
-      Sales Tax funding.
-
-      *   David Peterson stated that the deal involved exchanging percentages of the
-      1984 Penny Sales Tax for levying the tax.
-
-
-      THE DISCOVERY
-
-      *   Chris Elliott and Eddie Tyler made a deal that will cost the BCBOE over
-      $40 million every 10 years due to the Penny Sales Tax arrangement.
-
-      *   Chris Elliott received $483,700.00 in total donations, including $352,250.00
-      from 67 PAC Donations.
-
-
-      THE PIVOT
-
-      *   Article 1 critiques high corruption and low civic participation in Baldwin
-      County government.
-
-      *   Article 2 provides a concrete example of corrupt financial dealings (the
-      Penny Sales Tax swap) involving elected officials (Elliott, Tyler, Commission)
-      that directly illustrates the systemic corruption Article 1 aims to expose.
-
-
-      KEY ENTITIES
-
-      *   BP Pittman
-
-      *   Baldwin County Commissioners
-
-      *   David Peterson
-
-      *   Chris Elliott
-
-      *   Eddie Tyler
-
-      *   BCBOE
-
-      *   Penny Sales Tax
-
-      *   Senator Albrittion'
-    generated_at: '2026-07-11T06:40:28.882999Z'
-  catalyst-open-letter-to-baldwin-county-district-attorney:
+  exposure-2:
     brief: 'THE CONFLICT:
 
-      *   Baldwin County corruption involving 4 county commissioners and District
-      32 State Senate seat vacated by BP Pittman.
+      *   BP Pittman was a State Senator and BP Trustee; he is accused of skimming
+      $750,000 from BP.
 
-      *   BP Pittman allegedly skimmed $750,000 from BP.
+      *   The District 32 State Senate seat has been vacated by BP Pittman.
+
+      *   Corruption in Baldwin County involves City Councils protecting elected officials
+      who ignore complaints about peers.
 
 
       THE DISCOVERY:
 
-      *   City Councilman Kevin Boone submitted a complaint to District Attorney Robert
-      Wilters regarding Fairhope Mayor Wilson via the Courier and WACO radio.
+      *   The Ripp Report confirms that filing complaints with the Alabama Ethics
+      Commission and Alabama Attorney General historically failed, as these bodies
+      did not hold offenders accountable for corruption.
 
-      *   The Widget Article alleges that the District Attorney''s office was aided
-      by "Catalyst."
-
-      *   District Attorney Wilters'' alleged involvement includes supporting Lynn
-      Perry for Probate Judge and discouraging Harry D’Olive from running for Probate
-      Judge.
+      *   Exposure (public media campaign/documentation) is established by The Ripp
+      Report as the only effective method to challenge systemic political corruption
+      in Baldwin County, given that local officials shield one another and legal avenues
+      are ineffective.
 
 
       THE PIVOT:
 
-      *   Article 2 provides specific links (Boone, Catalyst, Wilters, Fairhope officials)
-      connecting the general theme of Baldwin County corruption (Article 1) to targeted
-      local political activity.
+      *   Article 1 identifies specific high-level alleged crimes ($750,000 skimming
+      by BP Pittman) and points fingers at powerful figures (Baldwin County Commissioners).
+      Article 2 provides the structural context explaining why such acts persist:
+      local government bodies (City Councils) actively protect members and utilize
+      organizations like Catalyst to shield corruption from standard legal/ethical
+      oversight.
 
 
       KEY ENTITIES:
 
       *   BP Pittman
 
-      *   District Attorney Robert Wilters
+      *   $750,000 (amount skimmed)
 
-      *   City Councilman Kevin Boone
+      *   Baldwin County Commission
 
-      *   Fairhope Mayor Wilson
+      *   The Ripp Report / Baldwin County Legal Eagle
 
-      *   Catalyst
+      *   Catalyst'
+    generated_at: '2026-07-12T18:37:07.039406Z'
+  green-acres-on-acid:
+    brief: 'THE CONFLICT:
 
-      *   John Avant
+      * Senator Pittman was the designated trustee of BP funds for Baldwin County.
 
-      *   Lynn Perry
+      * During his tenure, he and associated companies received contracts from Fairhope
+      and Perdido Beach.
 
-      *   Harry D’Olive
+      * Total value of these personal contracts amounted to $750,000.
 
-      *   Robert Brown'
-    generated_at: '2026-07-11T06:40:28.883004Z'
+      * Pitman''s tractor company acted as a marine contractor without holding a general
+      contractor’s license (a felony).
+
+      * Pittman supplied used or defective oil protective boom for BP contracts.
+
+      * He and the former Mayor of Fairhope cut recovery ropes at water level instead
+      of adhering to contract requirements.
+
+
+      THE DISCOVERY:
+
+      * The Widget article reveals the history of legal complaints against Pittman,
+      including a complaint filed with BP and the Alabama Ethics Commission by MaxShelby.
+
+      * This complaint triggered an FBI investigation, grand jury actions, and subpoenas
+      for Fairhope municipal records and Pittman’s financials.
+
+      * The case was transferred to the Attorney General''s white collar crime division
+      but remains inactive ("collect dust").
+
+      * Pittman has continued to secure contracts (e.g., hurricane emergency debris
+      removal) under his company while facing scrutiny from groups like the Ripp Report.
+
+
+      THE PIVOT:
+
+      * Article 1 makes a general claim that BP Pittman skimmed $750,000 and is unfit
+      for office.
+
+      * Article 2 substantiates this specific allegation by detailing how the money
+      was gained (via Fairhope/Perdido Beach contracts), explaining the method of
+      fraud (licensing violations, defective boom), and providing evidence that official
+      complaints were made but resulted in no convictions or completed investigations
+      despite legal probes.
+
+
+      KEY ENTITIES:
+
+      * Pittman (State Senator)
+
+      * BP
+
+      * Ripp Report / Baldwin County Legal Eagle
+
+      * Fairhope (City Council / Mayor of Fairhope)
+
+      * Steve Russo (Former Mayor, convicted individual 2006)
+
+      * MaxShelby
+
+      * Alabama Ethics Commission
+
+      * Attorney General’s White Collar Crime Division
+
+      * FBI'
+    generated_at: '2026-07-12T18:37:07.039410Z'
   legal-corruption:
     brief: 'THE CONFLICT
 
@@ -297,6 +310,51 @@ hooks:
 
       *   Baldwin County (14 municipalities)'
     generated_at: '2026-07-11T06:40:28.883016Z'
+  GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT:
+    brief: 'THE CONFLICT:
+
+      * The Ripp Report originated over 10 years ago due to a lack of honest information
+      coming from Fairhope city hall, specifically concerning its mayor.
+
+      * BP Pittman is accused in Article 1 of skimming $750,000 from BP while serving
+      as State Senator/BP Trustee (2019-08-16).
+
+
+      THE DISCOVERY:
+
+      * The Ripp Report was initially established as a focused entity addressing corruption
+      within Fairhope city hall.
+
+      * The organization is self-funded, having spent approximately $15,000 to date
+      without external payment or dictation of information.
+
+      * Article 2 explicitly identifies Mayor Kant as the "worst public official in
+      Baldwin County," stating that this critique has been ongoing.
+
+
+      THE PIVOT:
+
+      * Article 2 establishes The Ripp Report''s specific, long-running focus on and
+      hostility toward Fairhope city hall leadership (Mayor Kant) over the last decade.
+      This provides historical context for the organization’s current exposé efforts
+      against broader figures like BP Pittman in Baldwin County, suggesting a targeted
+      agenda rooted in local political grievance.
+
+
+      KEY ENTITIES:
+
+      * The Ripp Report
+
+      * Baldwin County Legal Eagle
+
+      * Fairhope City Hall
+
+      * Mayor Kant
+
+      * BP Pittman
+
+      * Baldwin County'
+    generated_at: '2026-07-12T18:37:07.039418Z'
   a-decade-of-corruption:
     brief: 'THE CONFLICT:
 
@@ -362,160 +420,89 @@ hooks:
 
       *   Karin Wilson'
     generated_at: '2026-07-11T06:40:28.883022Z'
-  elected-or-selected:
-    brief: 'THE CONFLICT
+  anonymous-bb:
+    brief: "1. THE CONFLICT:\n    - General exposure goal of The Ripp Report is to\
+      \ highlight corruption in Baldwin County's 14 municipalities (Main Article).\n\
+      \    - Specific historical failures documented include the wrongful conviction\
+      \ of Murray Lawrence Jr., who was convicted on Jan 26, 2024 (Widget Article).\n\
+      \    - Previous misconduct allegations involve O J French's death after a stop\
+      \ for a tail light and coverage/cover up by Baldwin County Major Crimes Unit\
+      \ (Widget Article).\n    - A federal lawsuit is pending regarding a deadly Interstate\
+      \ crash where Sheriff Hoss Mack made comments: \"that’s what happens when you\
+      \ run from the law.\" This occurred while pursuing individuals on I-10 at over\
+      \ 100mph, resulting in five deaths and three burned to death (Widget Article).\n\
+      \n2. THE DISCOVERY:\n    - The Widget Article proves that the corruption mentioned\
+      \ generally in the Main Article is deeply rooted in the Baldwin County Sheriff's\
+      \ Office (BCSO) culture.\n    - It reveals specific figures (Anthony Lowery,\
+      \ Hoss Mack, Robert Wilters, David Whetstone) are alleged to have colluded and\
+      \ conspired to withhold evidence against accused criminals or protect guilty\
+      \ parties rather than serving justice as mandated by oath.\n    - The discovery\
+      \ includes allegations of departmental misconduct involving deputy Justin Correa,\
+      \ who allegedly threatened violence during the SWAT team's pursuit of a plaintiff\
+      \ (Widget Article).\n\n3. THE PIVOT:\n    - The Widget Article functions as\
+      \ the 'smoking gun' because it moves beyond general calls for government accountability\
+      \ (Main Article) and provides detailed, named allegations of criminal conspiracy,\
+      \ wrongful convictions, cover-ups involving major figures (Lowery/Mack), and\
+      \ documented loss of life caused by BCSO operational failures.\n    - It transforms\
+      \ a broad political critique into specific case studies regarding justice failure\
+      \ (Murray Lawrence Jr.'s conviction) and police negligence (I-10 pursuit).\n\
+      \n4. KEY ENTITIES:\n    - Anthony Lowery (BCSO Sheriff/Lead Investigator/Candidate)\n\
+      \    - Hoss Mack (\"Hoss the Boss\"/Former BCSO Sheriff)\n    - Matthew McKenzie\
+      \ (Current Candidate for Sheriff)\n    - Robert Wilters (District Attorney/Judge\
+      \ of Civil Appeals)\n    - David Whetstone (Retired District Attorney/Prosecutor)\n\
+      \    - Johnathan Victor (Victim cited in a death case under Lowery's tenure)\n\
+      \    - Justin Correa (Deputy linked to the SWAT team involvement)\n    - Murray\
+      \ Lawrence Jr. (Wrongfully convicted individual)\n    - Robert Correa (Father\
+      \ of Deputy Justin Correa)\n    - BCSO (Baldwin County Sheriff Office)\n   \
+      \ - The Ripp Report / Francis Paul Ripp"
+    generated_at: '2026-07-12T18:37:07.039422Z'
+  vote-2026:
+    brief: 'THE CONFLICT:
 
-      *   BP Pittman vacated District 32 State Senate seat.
+      *   The Ripp Report (a consumer group focused on exposing political corruption)
+      previously identified BP Pittman as a "poster child for corruption."
 
-      *   Pittman allegedly skimmed $750,000 from BP.
+      *   In the past, Pittman held District 32 State Senate seat and was accused
+      of skimming $750,000 from BP.
 
-      *   Mayor Kant''s legacy is defined by greed and corruption.
-
-
-      THE DISCOVERY
-
-      *   Mayor Kant was selected by Jim Nix to replace him due to threats of criminal
-      prosecution against Nix.
-
-      *   Mayor Kant acts as a paid Mayor and utility director (double dipping on
-      taxes).
-
-      *   A corrupt municipal lease deal approved by Mayor Kant grants an established
-      business multi-million dollar pier with city services for $5,000 per year ($400
-      per month).
-
-
-      THE PIVOT
-
-      *   Article 2 provides specific evidence of local municipal corruption (Kant/Nix
-      manipulation) that substantiates the general theme of political corruption mentioned
-      in Article 1.
-
-      *   It shows how local officials structure their power and secure illicit financial
-      gain, linking the high-level political environment to tangible local graft.
-
-
-      KEY ENTITIES
-
-      *   BP Pittman
-
-      *   Mayor Kant
-
-      *   Jim Nix
-
-      *   Tim Kant
-
-      *   Sherry Sullivan
-
-      *   Arthor Corte
-
-      *   Mike Ford
-
-      *   Kant
-
-      *   Triangle (referencing the Performing Arts Center proposal)'
-    generated_at: '2026-07-11T06:40:28.883028Z'
-  get-out-of-jail-card:
-    brief: 'THE CONFLICT
-
-      *   BP Pittman skimmed $750,000 from BP.
-
-      *   Pittman was the trustee and first in line for BP contracts.
-
-      *   County commissioners are cited as incumbents who need to be shown the door.
+      *   The Main Article stated that District 32 has historically lacked identity
+      or impact on "goat hill" (the state capital).
 
 
-      THE DISCOVERY
+      THE DISCOVERY:
 
-      *   The "Get Out of Jail Card" is used by politicians (e.g., Pittman) to avoid
-      accountability, demonstrating that individuals with connections receive immunity.
+      *   The Widget Article frames the current elections as a direct opportunity
+      to vote out incumbent Mike Van in Baldwin County Senate District 32, calling
+      him "THE WORST INCUMBENT."
 
-      *   Politicians like Chris Elliott declined a breathalyzer and received a citation
-      instead of facing charges.
-
-      *   Sheriff Hoss Mack uses Qualified Immunity to avoid transparency in cases
-      involving eight deaths across eight cases.
+      *   The Widget Article alleges that the history of District 32 includes "Stealing
+      BP money" and passing legislation that limited qualifications for Sheriff.
 
 
-      THE PIVOT
+      THE PIVOT:
 
-      *   Article 2 provides specific examples (DiNardi case, Slappin McMillan, Sheriff
-      Mack) of how the "Get Out of Jail Card" functions operationally within Baldwin
-      County politics and law enforcement.
-
-      *   It proves that politicians like BP Pittman possess a "special pass" that
-      allows them to bypass legal consequences, validating the claim that corruption
-      is protected by connections.
+      *   Article 1 introduced Pittman''s alleged $750,000 fraud at BP as a historical
+      example of corruption in Baldwin County governance. Article 2 immediately applies
+      this narrative to current political figures (Mike Van) by explicitly naming
+      the "Stealing BP money" claim within the context of District 32''s legislative
+      failures and lack of constituent participation.
 
 
-      KEY ENTITIES
+      KEY ENTITIES:
+
+      *   The Ripp Report
 
       *   BP Pittman
 
       *   $750,000
 
-      *   Chris Elliott
+      *   Baldwin County Commission / Baldwin County Government
 
-      *   Paula DiNardi
+      *   District 32 State Senate seat/Baldwin County Senate District 32
 
-      *   McSharry
+      *   Mike Van
 
-      *   Mayor Mike “Slappin” McMillan
+      *   Matt McKenzie
 
-      *   Sheriff Hoss Mack
-
-      *   District Attorney’s office
-
-      *   Baldwin County'
-    generated_at: '2026-07-11T06:40:28.883033Z'
-  columbia-questions-and-documents:
-    brief: 'THE CONFLICT
-
-      *   Baldwin County corruption involving 4 county commissioners and District
-      32 State Senate seat vacated by BP Pittman.
-
-      *   BP Pittman''s legacy includes $750,000 skimmed from BP.
-
-      *   Allegations of bid-rigging, inside information, FEMA fraud, fraudulent bids,
-      and land fraud in Columbia, Alabama.
-
-
-      THE DISCOVERY
-
-      *   Columbia City Council members are hiding allegations while the Mayor and
-      Police Chief ignore them.
-
-      *   The City attorney and municipal judge supported corruption and misuse of
-      office.
-
-      *   Incriminating documents, invoices, and public fund checks exist regarding
-      illegal expenditures (purchasing flowers/gift baskets).
-
-
-      THE PIVOT
-
-      *   Article 2 provides specific, documented evidence (invoices, checks) proving
-      the existence of bid rigging and fraudulent spending within a municipal structure.
-
-      *   This demonstrates the systemic corruption described generally in Article
-      1 across multiple municipalities.
-
-
-      KEY ENTITIES
-
-      *   BP Pittman
-
-      *   Baldwin County commissioners
-
-      *   Columbia City Council
-
-      *   Mayor
-
-      *   Police Chief
-
-      *   City attorney
-
-      *   Municipal judge
-
-      *   James Whitehead'
-    generated_at: '2026-07-11T06:40:28.883039Z'
+      *   Richard Cox'
+    generated_at: '2026-07-12T18:37:07.039425Z'

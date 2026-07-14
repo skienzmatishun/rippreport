@@ -1,0 +1,88 @@
+metadata:
+  generated_at: '2026-07-13T16:47:48.907450Z'
+  post_slug: notice
+  status: staged
+  hooks_generated: false
+related_articles:
+- slug: mia
+  title: M.I.A.
+  score: 92.06728597282978
+  llm_score: 95
+  recency_score: 74.38689434377122
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: newsletter
+  title: NEWSLETTER
+  score: 84.93475538652237
+  llm_score: 85
+  recency_score: 73.37484347250358
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns '
+  score: 81.95545950365134
+  llm_score: 80
+  recency_score: 76.2438921459952
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: kristy-haygood-is-not-qualified-2
+  title: KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 2
+  score: 81.87717160079312
+  llm_score: 90
+  recency_score: 35.79373670456037
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: know-before-you-vote
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns
+  score: 78.69696945632657
+  llm_score: 75
+  recency_score: 77.50757437387774
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: 5000-00-cash-reward-rerun
+  title: $5000.00 CASH REWARD
+  score: 71.74044771719615
+  llm_score: 65
+  recency_score: 77.50757437387774
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: CAMPAIGN-KICKOFF-RECEPTION
+  title: CAMPAIGN KICKOFF RECEPTION FOR Matt McKenzie
+  score: 48.59183505504711
+  llm_score: 50
+  recency_score: 49.59055156652082
+  length_score: 39.75
+  category_score: 0
+  rank: 7
+- slug: new-years-2026
+  title: NEW YEARS SPECIAL
+  score: 39.831235566901924
+  llm_score: 35
+  recency_score: 51.52960450968603
+  length_score: 50.0
+  category_score: 0
+  rank: 8
+- slug: some-things-need-to-go-away
+  title: SOME THINGS NEED TO GO AWAY
+  score: 39.56948667903668
+  llm_score: 40
+  recency_score: 50.274548404460894
+  length_score: 23.0
+  category_score: 0
+  rank: 9
+- slug: im-back-2
+  title: I'M BACK
+  score: 63.48096309770615
+  llm_score: 85
+  recency_score: 13.496500909516493
+  length_score: 100
+  category_score: 0
+  rank: 10

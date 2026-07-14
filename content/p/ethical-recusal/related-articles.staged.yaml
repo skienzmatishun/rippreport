@@ -1,0 +1,86 @@
+metadata:
+  generated_at: '2026-07-13T18:00:43.367765Z'
+  post_slug: ethical-recusal
+  status: staged
+  hooks_generated: false
+related_articles:
+- slug: alabama-ag
+  title: ALABAMA ATTORNEY GENERAL
+  score: 84.34782608695653
+  llm_score: 90
+  recency_score: 50
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: no-justice
+  title: NO JUSTICE
+  score: 80.98493301869772
+  llm_score: 95
+  recency_score: 10.663364857511832
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 77.53225103239514
+  llm_score: 90
+  recency_score: 10.810443436272047
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: anonymous-bb
+  title: ANONYMOUS-BB
+  score: 68.88388849733593
+  llm_score: 80
+  recency_score: 1.082358859681554
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
+  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
+  score: 65.6011549972229
+  llm_score: 75
+  recency_score: 2.2066412340316854
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 60.48902884743547
+  llm_score: 65
+  recency_score: 12.811915872753922
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: eddie-tyler-exits-stage-left
+  title: Eddie Tyler Exits Stage Left
+  score: 51.516700013589244
+  llm_score: 55
+  recency_score: 1.2210250781381113
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: stirring-the-pot-bsp
+  title: Stirring The Pot
+  score: 45.242627959661924
+  llm_score: 45
+  recency_score: 5.1451107680560595
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: trump-n-bama
+  title: Trump N Bama
+  score: 40.21919752774335
+  llm_score: 35
+  recency_score: 16.26038578452423
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: what-the
+  title: What the
+  score: 35.46077797850421
+  llm_score: 30
+  recency_score: 8.899473376399213
+  length_score: 100
+  category_score: 0
+  rank: 10

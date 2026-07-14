@@ -12,74 +12,84 @@ authors:
 - ripp-report
 alttags: Scales balance one side showing a thumbs up, the other a thumbs down, representing Baldwin County’s upcoming election choices
 related_articles:
-- slug: newsletter-the-ripp-report
-  title: NEWSLETTER - THE RIPP REPORT
-  score: 77.67127158449027
-  llm_score: 85
-  recency_score: 90.85635792245131
+- slug: repeat
+  title: REPEAT
+  score: 97.07503490453703
+  llm_score: 96
+  recency_score: 99.18145070108791
+  length_score: 100
   category_score: 0
   rank: 1
-- slug: baldwin-county-citizens-for-government-accountability-cga
-  title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
-  score: 74.85138338741181
-  llm_score: 90
-  recency_score: 59.25691693705903
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 79.62719268216546
+  llm_score: 73
+  recency_score: 90.85635792245131
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: citizens-fighting-back
-  title: CITIZENS FIGHTING BACK
-  score: 69.3369256908693
-  llm_score: 85
-  recency_score: 49.18462845434644
+- slug: shadow-government
+  title: SHADOW GOVERNMENT
+  score: 72.1641454816467
+  llm_score: 71
+  recency_score: 55.94383651946845
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
-  title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
-  score: 64.65294239311218
-  llm_score: 85
-  recency_score: 25.764711965560906
+- slug: how-the-pendulum-swings
+  title: HOW THE PENDULUM SWINGS
+  score: 71.54498555844569
+  llm_score: 71
+  recency_score: 52.383666961062694
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: elected-or-selected
-  title: ELECTED OR SELECTED
-  score: 64.18177578422375
-  llm_score: 85
-  recency_score: 23.408878921118657
+- slug: a-time-for-reflection-goobers-on-notice
+  title: A Time for Reflection - Goobers on Notice
+  score: 70.49610033357568
+  llm_score: 74
+  recency_score: 34.35257691806009
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: talking-heads
-  title: TALKING HEADS
-  score: 59.75236710991604
-  llm_score: 85
-  recency_score: 1.2618355495801652
+- slug: howling-rains
+  title: HOWLING RAINS
+  score: 66.63521206346174
+  llm_score: 75
+  recency_score: 8.152469364904984
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: baldwin-county
-  title: BALDWIN COUNTY
-  score: 53.88333796926069
-  llm_score: 75
-  recency_score: 6.916689846303398
+- slug: mega-mistake
+  title: MEGA-MISTAKE
+  score: 65.45831550728245
+  llm_score: 70
+  recency_score: 21.385314166874046
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: newsletter
-  title: NEWSLETTER
-  score: 52.50955354423829
-  llm_score: 75
-  recency_score: 0.047767721191407035
+- slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 65.37768596137238
+  llm_score: 70
+  recency_score: 20.921694277891152
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: baldwin-county-municipal-alert-municipal-conservation-easement
-  title: BALDWIN COUNTY MUNICIPAL ALERT - MUNICIPAL CONSERVATION EASEMENT
-  score: 50.04278605679046
-  llm_score: 65
-  recency_score: 22.713930283952266
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 63.95728287090178
+  llm_score: 71
+  recency_score: 8.754376507685183
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: Baldwin-County-seeks-public-input-on-land-use-plan
-  title: Baldwin County seeks public input on land use plan - Lagniappe
-  score: 45.855437905614046
-  llm_score: 65
-  recency_score: 1.7771895280701993
+- slug: selected-not-elected
+  title: SELECTED NOT ELECTED
+  score: 63.1613877128028
+  llm_score: 71
+  recency_score: 4.177979348616061
+  length_score: 100
   category_score: 0
   rank: 10
 ---
