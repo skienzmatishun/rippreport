@@ -97,6 +97,7 @@ Do you remember 2019? We were loud. We were clear. Thousands of us stood togethe
 Where are they now?
 
 Look at them today. They’ve changed their tune. The same politicians who once courted our votes by promising to fight these tolls are now the loudest supporters of this project. They’ve been smoothed over by the powers that be, and they’ve turned into total turncoats. They aren't representing us anymore—they’re representing the investors who are banking on our daily commute.
+
 Let’s talk about the "new" plan. They’re selling it as progress, but the math is a slap in the face. If you and your spouse are commuting from the Eastern Shore into Mobile, you’re looking at a financial squeeze. If you don’t play by their specific rules, it’s $7.70 per trip. That’s nearly $31 a day out of your pocket just to get to work and back. Even with their "ALGO Pass" bait, they’ve successfully locked us into a system where our daily movement is now a revenue stream for a $3.2 billion project.
 
 And the media? They’re playing right along, pushing the narrative that this is an "essential" investment, carefully ignoring the years of public outcry and the politicians who abandoned their principles the second the wind shifted.
