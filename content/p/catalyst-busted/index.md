@@ -91,7 +91,7 @@ related_articles:
 ---
 Randy Davis, State Representative, Daphne, since 2002 is about as a good ole boy as they get. Originally Davis was going to run for the Probate Judge for Baldwin County then suddenly pulled out of the race. Catalyst Candidate Lynn Perry took his spot. Now we know why Randy got cold feet.
 
-https://lagniappemobile.com/local-legislator-ensnared-by-sprawling-bribery-scheme/
+{{< socialpreview url=https://www.lagniappemobile.com/news/local/local-legislator-ensnared-in-sprawling-bribery-scheme/article_51f99d60-296c-502e-9931-d4a8b363e449.html >}}
 
 It is interesting that some of the local T.V. stations have not even covered the indictment. Al.com still writes fluff and usually is behind in any Baldwin County news and investigative reporting is unheard of.
 
