@@ -99,31 +99,15 @@ After many years, countless meetings, most very boring, perseverance, and well w
 
 News and information for Fairhope and Baldwin County, Alabama.
 
-Please Read: [thefairhopetimes.blogspot.com/2018/03/all-fairhope-bp-restore-projects.html](https://thefairhopetimes.blogspot.com/2018/03/all-fairhope-bp-restore-projects.html)
+{{< socialpreview url=https://thefairhopetimes.blogspot.com/2018/03/all-fairhope-bp-restore-projects.html >}}
 
 “After taking office, Mayor Wilson and Economic Director Sherry Botop submitted new proposals (different from those mayor Kant had submitted years earlier); the new proposals are what was just approved.”
 
 Mayor Can’t proposals were not acceptable. Can’t had proposed at one time to buy the Triangle property to resolve a lawsuit that ultimately cost the city 11.25 million. The former Mayor also proposed to buy the land involved in the Breland case, in court now. He never mentioned the sewer infrastructure. The former Mayor was in la la land thinking BP dollars were in the mail. Can’t is history, just like his flaky proposals.
 
-## RUSSIAN ROULETTE – FAIRHOPE STYLE
-
-### RUSSIAN ROULETTE – FAIRHOPE STYLE | THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE
-
-![](https://cdn.rippreport.com/wp-content/uploads/2018/12/noun_russian-roulette_1281866.png)
-
-Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20…
-
-Please Read: [rippreport.com/2018/12/05/russian-roulette-fairhope-style/](https://rippreport.com/russian-roulette-fairhope-style/)
+{{< socialpreview url=https://rippreport.com/russian-roulette-fairhope-style/ >}}
 
 Mayor Wilson, Economic Director, Sherry Botop and Fairhope staff worked hard and long, they deserve a pat on the back for securing 20 million in BP funds. This is a major accomplishment with 6.2 million going into a waterfront project, 10 million in sewer projects, that have been neglected for years, and $650,000 for an updated comprehensive land use plan.
-
-## Fairhope expects BP money to come during 2019 - Lagniappe Mobile
-
-### Fairhope expects BP money to come during 2019 - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2016/10/lagniappe-logo.png)
-
-With BP Restore Act money anticipated to flow into Fairhope during 2019 to the tune of almost $20 million, one project city leaders are particularly excited about costs less than $1 million. There’s $6.2 million for a waterfront, pier and park project and more than $10 million to solve sewer overflows polluting Mobile Bay during …
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/fairhope-expects-bp-money-to-come-during-2019/article_28abcfaf-ddfa-5a0f-a107-01f3ab12c50c.html" >}}
 
@@ -146,14 +130,6 @@ Let’s not forget the former Luv Gov and his beach mansion:
 Bentley is gone and was last seen in Las Vegas with his honey.
 
 Then there is the Beach Hotel for those who can afford it.
-
-## BP oil spill money to go to Alabama governor’s mansion and a new hotel
-
-### BP oil spill money to go to Alabama governor’s mansion and a new hotel
-
-![](https://grist.files.wordpress.com/2015/12/rtr2ewwl.jpg?w=1200&h=675&crop=1)
-
-The mansion was destroyed decades before the BP oil spill.
 
 {{< socialpreview url=https://grist.org/climate-energy/bp-oil-spill-money-to-go-to-alabama-governors-mansion-and-a-new-hotel/ >}}
 
