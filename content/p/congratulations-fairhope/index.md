@@ -125,7 +125,7 @@ Mayor Wilson, Economic Director, Sherry Botop and Fairhope staff worked hard and
 
 With BP Restore Act money anticipated to flow into Fairhope during 2019 to the tune of almost $20 million, one project city leaders are particularly excited about costs less than $1 million. There’s $6.2 million for a waterfront, pier and park project and more than $10 million to solve sewer overflows polluting Mobile Bay during …
 
-Please Read: [lagniappemobile.com/fairhope-expects-bp-money-to-come-during-2019/](https://lagniappemobile.com/fairhope-expects-bp-money-to-come-during-2019/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/local/fairhope-expects-bp-money-to-come-during-2019/article_28abcfaf-ddfa-5a0f-a107-01f3ab12c50c.html" >}}
 
 “Fairhope Planning Director Wayne Dyess said there will be plenty of opportunities for public participation as the city looks to define areas where growth would be most beneficial.
 
@@ -135,29 +135,13 @@ Public engagement and public participation are entirely different, let’s hope 
 
 These, approved, BP funds will be used in a manner the funds were intended. There has been plenty of abuse by corrupt politicians.
 
-## Senator's company awarded $639,000 while he supervised grants for boom work
-
-### Senator's company awarded $639,000 while he supervised grants for boom work
-
-![](http://image.al.com/home/bama-media/width620/img/live/photo/8421284-standard.jpg)
-
-Of $1.15 million paid to Fairhope from BP grant funds overseen in part by state Sen. Trip Pittman for oil spill response work, the city awarded Pittmans company $639,000, according to city records reviewed by a Fairhope councilwoman.
-
-Please Read: [blog.al.com/live/2010/11/senators\_company\_awarded\_63900.html](http://blog.al.com/live/2010/11/senators_company_awarded_63900.html)
+{{< socialpreview url="https://www.al.com/live/2010/11/senators_company_awarded_63900.html" >}}
 
 Pittman is gone, with his money.
 
 Let’s not forget the former Luv Gov and his beach mansion:
 
-## State's Beach Mansion Getting Facelift With BP Funds
-
-### State's Beach Mansion Getting Facelift With BP Funds
-
-![](https://media.wkrg.com/nxs-wkrgtv-media-us-east-1/photo/66422417594640D09F9BB5D91477576F_33301515_ver1.0_1280_720.jpg)
-
-The boarded up, run down Governor's mansion on the beach in Fort Morgan has been an eyesore for years. Now, new life and new controversy as money from the 2010 oil spill is being used to pay for renovations.
-
-Please Read: [www.wkrg.com/news/local-news/states-beach-mansion-getting-facelift-with-bp-funds\_20180207084510776/957069296](https://www.wkrg.com/news/local-news/states-beach-mansion-getting-facelift-with-bp-funds_20180207084510776/957069296)
+{{< socialpreview url=https://www.wkrg.com/news/alabamas-beach-house-repairs-almost-finished/ >}}
 
 Bentley is gone and was last seen in Las Vegas with his honey.
 
@@ -171,18 +155,10 @@ Then there is the Beach Hotel for those who can afford it.
 
 The mansion was destroyed decades before the BP oil spill.
 
-Please Read: [grist.org/climate-energy/bp-oil-spill-money-to-go-to-alabama-governors-mansion-and-a-new-hotel/](https://grist.org/climate-energy/bp-oil-spill-money-to-go-to-alabama-governors-mansion-and-a-new-hotel/)
+{{< socialpreview url=https://grist.org/climate-energy/bp-oil-spill-money-to-go-to-alabama-governors-mansion-and-a-new-hotel/ >}}
 
 If all that corruption were not enough the State of Alabama sucked up millions more to pay for legislative bad management and neglect of the state medicaid deficit.
 
-## BP funds fail to solve decades-old Medicaid problem - Lagniappe Mobile
-
-### BP funds fail to solve decades-old Medicaid problem - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2015/08/BillHightower-336x511.jpg)
-
-The Alabama House of Representatives may have found a budgetary hail mary in using settlement money from the BP oil spill to move the state closer to meeting the required commitment to Medicaid that’s challenged legislators for years. A joint federal and state program, Medicaid assists hundreds of thousands of low-income and disabled Alabamians with …
-
-Please Read: [lagniappemobile.com/bp-funds-put-patch-decades-old-medicaid-problem/](https://lagniappemobile.com/bp-funds-put-patch-decades-old-medicaid-problem/)
+{{< socialpreview url="https://www.lagniappemobile.com/news/bp-funds-fail-to-solve-decades-old-medicaid-problem/article_efa5cfdd-96cc-5d93-a989-83d1a8aefafc.html" >}}
 
 CONGRATULATIONS, again, Mayor Wilson, Economic Director Sherry Botop, Fairhope Planning Director Wayne Dyess and all the staff who worked on the BP proposals that yielded the city 20 million dollars. These approved projects are what BP money was designated for.
