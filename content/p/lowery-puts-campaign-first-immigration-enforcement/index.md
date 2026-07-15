@@ -60,7 +60,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-alttags: Lowery sheriff campaign sign beside two officers, reflecting concerns over Baldwin Countys immigration cooperation
+alttags: A U.S. Immigration officer stands beside Sheriff Anthony Lowery in a black uniform and hat, next to a campaign sign reading Anthony Lowery Sheriff
 ---
 Contribution from CONCERNED BALDWIN COUNTY CITIZEN
 

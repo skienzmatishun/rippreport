@@ -85,7 +85,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-alttags: Eagle-shaped US Mailbox with flag, representing the American electoral process and voter fraud concerns in the letter
+alttags: A decorative eagle-themed mailbox mounted on a wooden post, featuring an American flag and the text US MAIL 4361 against a solid red background
 ---
 To: May 17, 2026
 

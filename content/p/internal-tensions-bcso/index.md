@@ -93,7 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A sheriff deputy and ICE agent tug-of-war, representing reported tensions over immigration enforcement cooperation
+alttags: Two men in law enforcement gear pull a rope against a blue background. One wears a Baldwin County sheriff uniform, the other a Police ICE vest
 ---
 According to two independent sources familiar with communications between the Baldwin County Sheriff’s Office and federal immigration enforcement personnel, internal tensions reportedly escalated during the current sheriff’s election cycle over BCSO participation in immigration-related operations connected to the federal 287(g) program.
 

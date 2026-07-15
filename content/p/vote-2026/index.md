@@ -101,7 +101,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Collage of campaign posters for Baldwin County primary elections featuring candidates for sheriff, courts, and state offices
+alttags: A collage of campaign posters for Baldwin County elections features candidates and offices, including Sheriff, County Commissioner, and local posts
 ---
 One day to go for the primary elections. Please vote and ask your neighbors as well to vote.
 
