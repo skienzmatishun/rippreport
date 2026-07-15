@@ -20,7 +20,7 @@ tags:
 summary: The only way to effectively dismantle the good ole boy system is vote them out. Years ago a gentleman by the name of Lynn Stacy was the go to guy to get elected, to anything in Baldwin County. Stacy then added two cohorts and formed Stacy, Elliot and Haygood.
 authors:
 - admin
-alttags: Railway tracks diverging, symbolizing choices in Baldwin County politics; a sign reads “GXB,” referencing the “good ole bo...
+alttags: Train tracks merge beside a crossed-out GOB sign, representing the push to vote out Baldwin Countys political incumbents
 related_articles:
 - slug: good-ole-boys-lose-front-teeth
   title: GOOD OLE BOYS LOSE FRONT TEETH

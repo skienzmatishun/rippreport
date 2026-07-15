@@ -99,6 +99,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A robed figure holds a crystal ball containing four Baldwin County officials, symbolizing their corruption and downfall
 ---
 Let’s face the facts: money wins elections. Sometimes the best man does not win, especially when only 10 percent of the voting public decides who wins and all the rest just bitch.
 

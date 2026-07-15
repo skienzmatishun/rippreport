@@ -95,6 +95,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Attorney James Pittman in a green and gold dollar-sign suit, featured in an article alleging legal misconduct
 ---
 This is an excellent article, everyone should read it. The facts show how an attorney can manipulate the legal system. How an unethical attorney can bend the rules and even present false evidence. It also presents a picture about judicial appointments and then professes that no conflict of interest exists while our common sense suspects potential favoritism among Judges and attorneys. It shows greed and a disdain for a true sense of justice. More than anything else it puts a spotlight on an attorney that would seek to take an innocent 98 year old woman’s house while she is battling dementia.
 

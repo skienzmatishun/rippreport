@@ -15,7 +15,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: A skull sits atop scales of justice, symbolizing a flawed legal system lacking accountability and transparency within law ...
+alttags: Amber bottle labeled BCSO Absolute Immunity with tag reading No Accountability No Transparency, symbolizing BCSO culture
 related_articles:
 - slug: bcso-culture-2
   title: BCSO CULTURE

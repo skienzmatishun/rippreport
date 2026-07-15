@@ -98,6 +98,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A man in a suit surrounded by money and candy, while five other men cover their eyes to ignore the scene
 ---
 Stealing from children is almost always a criminal act and can involve serious legal consequences. If you suspect someone is stealing from children, it is critical to report it to the proper authorities.
 

@@ -86,6 +86,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Clown mask with rainbow hair flanked by blue G and red B balloons, symbolizing the anonymous political operations in the a...
 ---
 Only in Baldwin County would political operatives produce a newsletter **Baldwin Beat** aka BB. Baldwin Bullshit. It is reported to be published in a pasture for Bulls that have diarrhea and a GOB brand.
 

@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "Veterans salute in front of an American flag backdrop"
+alttags: Three silhouetted service members saluting in front of the American flag
 ---
 Today we honor the brave men and women who answered the call to serve. Your courage, sacrifice, and dedication to protecting our freedom will never be forgotten. To all our veterans, thank you for your service.
 

@@ -95,6 +95,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Alabama Republican nominees poster with news screenshots and a county map, illustrating local political commentary
 ---
 Today we look into the Slander of Podcast Host and Baldwin County Attorney Harry Still by City of Orange Beach Officials at the time of his arrest (when he was assaulted by Bay Minette City Councilman Matt Franklin) and the idiot local newscasters who will repeat anything from any source.  We then lament the Primary Election results.  The Deal or No Deal with Iran and the scandal that is the new appointments to the PSC.  Tubberville and Roy Moore have lawsuits, Tony Kennon has ethics problems, and Prichard Cops are corrupt, clutching my pearls.
 

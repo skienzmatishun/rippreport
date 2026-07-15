@@ -14,7 +14,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Sheriff candidates Lowery and Hoss Mack depicted in a grid within an old television set, suggesting a recurring pattern
+alttags: A TV displays nine photos of men in sheriff uniforms, reflecting the articles claim that Lowery is a clone of Hoss Mack
 related_articles:
 - slug: bcso-culture
   title: BCSO CULTURE

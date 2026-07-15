@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "A bald eagle dressed as Santa"
+alttags: A bald eagle in a Santa suit with outstretched wings stands in a snowy landscape under the aurora borealis
 ---
 Have a Merry Christmas!
 

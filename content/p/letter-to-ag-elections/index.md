@@ -85,6 +85,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
+alttags: Eagle-shaped US Mailbox with flag, representing the American electoral process and voter fraud concerns in the letter
 ---
 To: May 17, 2026
 

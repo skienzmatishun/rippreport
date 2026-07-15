@@ -95,8 +95,8 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 10
+alttags: A man in a green TAX MAN superhero costume holds a dollar-sign vacuum, representing Chris Elliotts tax-focused persona
 ---
-
 <a href="https://rippreport.com/p/laugh-out-loud-baldwin">Published March 3rd 2022</a>
 
 Baldwin County is full of laughs lately. Politics can cause mental damage and in Baldwin County we need an insane asylum for a few of them.

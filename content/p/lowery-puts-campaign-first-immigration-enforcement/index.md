@@ -60,9 +60,8 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-
+alttags: Lowery sheriff campaign sign beside two officers, reflecting concerns over Baldwin Countys immigration cooperation
 ---
-
 Contribution from CONCERNED BALDWIN COUNTY CITIZEN
 
 To Sheriff Anthony Lowery and the Citizens of Baldwin County, Alabama:

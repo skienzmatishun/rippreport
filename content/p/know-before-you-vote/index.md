@@ -7,7 +7,7 @@ categories:
 thumbnail: img/know-before-you-vote.jpg
 authors:
 - admin
-alttags: 'YouTube video thumbnail: Watch This Before You Vote - Fairhope City Council Election on August 26, 2025'
+alttags: Blue banner with text WATCH THIS before you vote and a logo reading Definitely Not the Official Seal of Fairhope
 related_articles:
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '

@@ -1,5 +1,5 @@
 ---
-title: 'Medical Cannabis Licenses Approved'
+title: Medical Cannabis Licenses Approved
 date: 2026-01-23
 thumbnail: img/medical-cannabis-issues-licenses.png
 categories:
@@ -65,8 +65,8 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
+alttags: A bald eagle perches above peach medical cannabis jars, representing products sold through Alabamas new dispensaries
 ---
-
 Press Release:
 Thursday January 22, 2026
 

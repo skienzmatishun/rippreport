@@ -102,6 +102,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A man in a red shirt strikes an aggressive pose beside another in a suit with dollar bills tucked into his pockets, marked...
 ---
 {{< socialpreview url=https://www.murdercreekmedia.com/post/three-orange-beach-council-members-file-ethics-complaint-against-mayor-tony-kennon >}}
 

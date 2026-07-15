@@ -8,7 +8,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A Chris Elliott puppet biting his foot.
+alttags: Puppet figure of politician Chris Elliott hangs from strings against a red background, posed with its foot in its mouth
 related_articles:
 - slug: hair-on-fire
   title: HAIR ON FIRE

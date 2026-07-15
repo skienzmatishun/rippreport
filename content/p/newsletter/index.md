@@ -6,7 +6,7 @@ categories:
 - ivy
 authors:
 - ripp-report
-alttags: 'Baldwin County: An eagle delivers mail, symbolizing news and information from The Ripp Report consumer group'
+alttags: Bald eagle perched on a post holds mail, symbolizing The Ripp Reports mission to deliver updates and expose local corrupt...
 ---
 Facebook fans on the Ripp Report and Baldwin County Legal Eagle can sign up for the Ripp Report on [https://rippreport.com/](https://rippreport.com/). The Ripp Report is a consumer group who’s major goal is to expose political corruption. We do however assist in many areas of consumerism not related to politics. The upcoming elections are going to be very important to the citizens of Baldwin County.
 

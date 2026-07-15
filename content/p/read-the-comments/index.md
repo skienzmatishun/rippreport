@@ -11,7 +11,7 @@ tags:
 - Robert Wilters
 authors:
 - admin
-alttags: Handcuffs with faux fur lining, symbolizing alleged cover-ups and internal affairs within the Baldwin County Sheriff’s Dep...
+alttags: Baldwin County Sheriffs logo with a broken heart and handcuffs, beside an eagle head, highlighting internal misconduct an...
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO

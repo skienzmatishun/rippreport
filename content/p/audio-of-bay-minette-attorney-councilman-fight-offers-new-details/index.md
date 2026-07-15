@@ -93,6 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Bay Minette attorney Harry Still, at the center of a councilman fight, smiles in a suit outside Baldwin County
 ---
 [BY GRANT McLAUGHLIN - Lagniappe](https://www.lagniappemobile.com)
 

@@ -96,6 +96,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: FOX10 news broadcast shows Shelby Myers in an orange prison shirt on screen, covering ongoing legal proceedings
 ---
 On September 3 2025 Harry Still, a practicing attorney, was arrested on a misdemeanor charge in Bay Minette. A charge that usually requires the arresting officer to witness, which did not happen. The incident was a skirmish between two men who have known each other since childhood. Matt Franklin, a Bay Minette city councilman, was the other individual. This minor incident escalated when the Bay Minette Police decided to file a motion in circuit court to have Still committed to a mental institution. Circuit Court Judge Scott Tayor dismissed the motion.
 

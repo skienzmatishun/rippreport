@@ -6,7 +6,7 @@ categories:
 - repost
 authors:
 - ripp-report
-alttags: Revolver cylinder graphic symbolizing Fairhope’s legal troubles and risky court proceedings described in the article
+alttags: A revolver cylinder with six chambers, one loaded with a bullet, symbolizing Fairhopes looming legal and financial risks
 related_articles:
 - slug: the-good-the-bad-and-the-ugly-repost
   title: THE GOOD THE BAD AND THE UGLY

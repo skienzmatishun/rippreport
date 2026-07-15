@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "Bald eagles perched near a plates of food for Thanksgiving"
+alttags: Bald eagles gather around a Thanksgiving feast of turkey, pumpkins, and cranberries on a wooden dock
 ---
 Be thankful for what you have. From our nest to yours, have a wonderful day!
 

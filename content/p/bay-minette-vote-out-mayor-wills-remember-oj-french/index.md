@@ -15,7 +15,7 @@ tags:
 summary: Of all the Mayors in Baldwin County. Mayor Bob Wills is the most disgusting. Every voter in Bay Minette should remember O. J. French , every voter white, black or brown. Mayor Wills lied to the family and to the community. He said the family was OK with the circumstances surrounding the death of their son. Think about that! An outright lie that Wills later doubled down on. Wills supported the kangaroo court of the Sheriff Department. The Baldwin County Major Crimes Unit who investigates themselves.
 authors:
 - admin
-alttags: Campaign ad for Joshua Brown, candidate for mayor, featuring a portrait against a blue background with stars at the bottom
+alttags: Joshua Brown mayoral campaign poster for Baldwin County, featuring his portrait and text urging voters to elect him on Aug...
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT

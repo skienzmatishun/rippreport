@@ -1,5 +1,5 @@
 ---
-title: 'SUMMERDALE SUNSHINE'
+title: SUMMERDALE SUNSHINE
 date: 2026-01-24
 thumbnail: img/summerdale-sunshine.png
 categories:
@@ -103,8 +103,8 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Sunlit Summerdale water tower with a metal walkway, marking the towns political candidate forum
 ---
-
 Today the Summerdale candidate forum will feature the good ole boys, and women of Baldwin County, infighting and dividing alliances. It seems Catalyst has stained the name of Scott Boone Consulting aka Catalyst, and some of his loyalists are wanting a divorce. Scott Boone is Lowery’s campaign manager, which should come as no surprise.
 
 Jon Gray is working with Scott Boone on Kristy Haygood’s campaign. Gray is a long time friend of Haygood, let’s see how this threesome works. The last thing constituents want is Jon Gray anywhere near our already corrupt judicial system. Gray is also representing Frances “WOKE” Jones. The entire community of Fort Morgan have raised 10.000 thousand dollars to get rid of Jones who has disappointed constituents and what her replaced.

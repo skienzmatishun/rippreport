@@ -94,6 +94,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A man in waders demonstrates flooding on a city council floor while officials and citizens watch the infrastructure discus...
 ---
 “The developer will do whatever the hell he wants, without any accountability”
 

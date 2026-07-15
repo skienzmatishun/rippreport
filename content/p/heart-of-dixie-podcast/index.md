@@ -94,6 +94,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Alabama outline with a red heart, OF DIXIE text, and St. Andrews Cross flag, representing Southern identity in this article
 ---
 Whitney Scapecchi of the Southern Freedom Press joins Harry Still, Francis Paul Ripp, Brandon Moseley, and Brown G Linder III PE Esq to discuss the arrest, incarceration, attempted involuntary commitment to a mental institution, on the word of Bay Minette City Councilman Matthew Franklin.  You can listen and decide who was assaulted.  Whitney has an unflattering email that was leaked to her from inside the BCSO that she shares with the audience. And be sure to file an Open Records Act request to find out what information is in the Master Name Index about you.  They build the database from the information that you gave them in return for a pistol permit.
 
