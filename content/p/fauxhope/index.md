@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: City of Fairhope, Alabama seal depicting buildings and a For Sale sign, highlighting concerns about municipal spending a...
+alttags: Fauxhope Alabama seal showing a sun, clouds, bird, and sailboats, used in critiques of municipal leadership
 related_articles:
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER

@@ -6,7 +6,7 @@ categories:
 - familycourt
 authors:
 - admin
-alttags: Allegorical depiction of a figure resembling the Wicked Witch of the West holding scales, symbolizing complaints against B...
+alttags: Woman in witch costume with scales of justice behind her, representing complaints against Judge Michelle Thomasson
 related_articles:
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT

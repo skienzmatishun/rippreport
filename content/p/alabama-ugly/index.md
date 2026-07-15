@@ -6,7 +6,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: An ugly sweater design featuring the state of Alabama, symbolizing political corruption and lack of accountability in th...
+alttags: Green Christmas sweater with red Alabama silhouettes, representing the states political corruption and ethics failures
 related_articles:
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
