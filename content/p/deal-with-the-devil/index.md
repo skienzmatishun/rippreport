@@ -87,6 +87,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Wrongly convicted Murray Bubba Lawrence looks upward with a serious expression. He wears tank top against dark background
 ---
 You have all heard the stories of wrongful convictions. People incarcerated for 10 years, 20 years and even more. Once you are convicted, your chances of reversing a verdict are slim.
 

@@ -109,7 +109,7 @@ It is your responsibility to something too!
 
 Mr. Tommy Gallion, well known and respected Montgomery attorney, has been hired by Leigh Manning, a relative of Mabel Amos. If a lawsuit is filed then you can expect for it to get much uglier.
 
-{{< https://rippreport.com/p/shadow-government-southern-style/ >}}
+{{< socialpreview url=https://rippreport.com/p/shadow-government-southern-style/ >}}
 
 Mr. Gallions book is about greed power and political corruption, in Alabama. The Mabel Amos Memorial Trust has all the elements of the book, Greed, Power and Political Corruption.
 

@@ -88,6 +88,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Alabama county heat map showing COVID-19 case rates per 100,000 people with Baldwin County and Backstory Podcast logos
 ---
 35.4 Million SARS-COV-2 infected in the USA with 615,000 deaths. The Delta variant has Gulf Coastal Hospitals filling fast and your elected officials are finally getting the picture.
 

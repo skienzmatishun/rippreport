@@ -88,6 +88,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Informational graphic listing Alabamas 2022 election dates, absentee voting contact details, and online voter registratio...
 ---
 58.6 Million infected in the USA with SARS-COV-2 with 834,321 deaths, 2,000 new cases in Baldwin County this week alone. The Omicron variant is rampant in Alabama with UAB projecting a long January for our health care workers.
 

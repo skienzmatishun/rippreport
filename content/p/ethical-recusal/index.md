@@ -88,6 +88,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Black and white courtroom scene showing a man speaking at a microphone, illustrating the articles ethical recusal case
 ---
 "The Ivey Gambit", playing to the base related to an Executive Order against Biden's vaccine mandate- and all the grandstanders want a shot at this one.
 

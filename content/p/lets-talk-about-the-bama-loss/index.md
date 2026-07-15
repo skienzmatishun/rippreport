@@ -88,6 +88,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Nick Saban smiles in an Alabama polo, featured in a tweet highlighting his status as the highest-paid college football coach
 ---
 44,700,000 SARS-COV-2 cases in the USA with 721,000 deaths.
 

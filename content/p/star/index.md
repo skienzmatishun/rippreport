@@ -88,6 +88,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A person lies in the snow beside a rifle, accompanying Episode 100s discussion of Alabama politics and public health
 ---
 This week for our 100th Episode we have a special guest: Alabama State Auditor Jim Zeigler(R). He is poised to announce that he will challenge Alabama Governor Kay Ivey for the Republican nomination (we talk prisons, masks, personal freedoms, and the Constitution (The Good One and the Alabama One).
 
