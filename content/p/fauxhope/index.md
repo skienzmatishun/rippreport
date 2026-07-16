@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Circular city seal reading CITY OF FAUXHOPE and ALABAMA, featuring a yellow sun, blue sky, brown land strip, and a white bird in flight
+alttags: Circular seal reading City of Fauxhope Alabama with a red FAUX overlay. It shows a FOR SALE sign above illustrated houses and buildings
 related_articles:
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
