@@ -11,7 +11,7 @@ tags:
 - super-bowl
 authors:
 - admin
-alttags: American football resting on a gray background, representing Super Bowl LV competition between Chiefs and Buccaneers
+alttags: A black American football with white laces on one end, angled against a gray gradient background
 related_articles:
 - slug: alabama-suicide
   title: ALABAMA SUICIDE

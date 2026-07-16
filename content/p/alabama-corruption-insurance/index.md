@@ -10,7 +10,7 @@ tags:
 - columbia
 authors:
 - admin
-alttags: Get Out of Jail Free card referencing Alabamas free corruption insurance for government officials, highlighting potenti...
+alttags: A vintage Community Chest card with the text Get Out of Jail Free and an illustration of a cherub pointing to an open birdcage
 related_articles:
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION

@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "Two bald eagles perch near a small Christmas tree decorated with patriotic ornaments; festive holiday greeting"
+alttags: Two bald eagles perch on branches beside a small Christmas tree decorated with American flag and eagle ornaments, with wrapped gifts at its base
 ---
 Have a Merry Christmas!
 

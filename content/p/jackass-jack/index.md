@@ -17,7 +17,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Mayor wearing a donkey mask, symbolizing criticism over Fairhope’s public gathering decision during health concerns
+alttags: A man in a dark pinstripe suit and striped tie wearing digitally added bunny ears and a donkey mask over his face
 related_articles:
 - slug: pandemic-of-the-un-vaccinated
   title: PANDEMIC OF THE UN-VACCINATED

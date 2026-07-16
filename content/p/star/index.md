@@ -88,7 +88,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Person in knitwear lies on snow beside a rifle stock, still from video discussing Alabama politics and public health
+alttags: A person wearing a knitted outfit lies on their back in the snow beside a long-handled tool
 ---
 This week for our 100th Episode we have a special guest: Alabama State Auditor Jim Zeigler(R). He is poised to announce that he will challenge Alabama Governor Kay Ivey for the Republican nomination (we talk prisons, masks, personal freedoms, and the Constitution (The Good One and the Alabama One).
 

@@ -12,7 +12,7 @@ tags:
 - sheriff-mack
 authors:
 - admin
-alttags: Taser X26 device shown; highlights lack of non-lethal equipment acquisition by Baldwin County police departments
+alttags: A black Taser X26 device lying on a light wood surface, with a yellow label reading X26 and a white side panel stating TASER X26 Made in USA
 related_articles:
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY

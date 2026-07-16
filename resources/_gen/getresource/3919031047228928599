@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3baee1fa93f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:24 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=44cV5uf949NnnjN7OD3VIV69DZe3TZv%2BeO%2BFECjLwCb6S6C4Rg7H6SuQRAWJLco8DVLkmZ%2BixsVkx2eYvYOQHvY0ug1DrPr1LD9BlzmJjtENQcD6JgLjSePuUjlA0XrfAFlzDy2APv4ZLAxFooiijdGeJQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=111
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ea0db76994e2fd74b167fcd337ce6da4
+X-Etags-2: ea0db76994e2fd74b167fcd337ce6da4
+
+{"title":"Alabama system has employees sign confidentiality agreement","description":"Hours after news of the agreement was published in a local newspaper, legal counsel told employees in the system office that it was investigating a “breach of confidentiality.”","url":"https://www.insidehighered.com/news/2021/10/08/alabama-system-has-employees-sign-confidentiality-agreement","image":"https://www.insidehighered.com/sites/default/files/styles/large/public/media/GettyImages-908187400.jpeg?itok=taGqdSjH","charset":"utf-8"}

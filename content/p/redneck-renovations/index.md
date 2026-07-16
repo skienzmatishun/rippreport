@@ -13,7 +13,7 @@ tags:
 - waterfront-project
 authors:
 - admin
-alttags: A Redneck Repair Kit including WD-40 and duct tape, symbolizing a short-sighted fix for Fairhope’s waterfront park project
+alttags: A cardboard box labeled Premium Redneck Repair Kit sits next to a blue WD-40 spray can and a roll of gray duct tape
 related_articles:
 - slug: got-fleas
   title: GOT FLEAS

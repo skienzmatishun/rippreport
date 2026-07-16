@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3bafd293e3f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LVf9pe3MEKZpOE7hscQVXZ4Lrli7XBjH1JINT%2BdSiOXvBVaDChLLrFVlPCThlrorkDwENKcGlt0ZNsKLi0slZjXr4uk%2FzzoRmsCizP4iXj50u2ROyt%2FkwICDBD5FahCLSFRluUVmyQXidGHjqHgh8OafdQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=150
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ceeb7a1f210083752eb0c4499703a8a1
+X-Etags-2: ceeb7a1f210083752eb0c4499703a8a1
+
+{"title":"All Fairhope BP 'RESTORE' Projects Approved","description":"Community news and events in Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2018/03/all-fairhope-bp-restore-projects.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv5AivgOBkCaZ_61ozAb4NAgE0EC3p6Ptykjwv3IlLf1rVlwAA-DPzQXaKDONSel3BmGF_PVjBY-tHmtdS0Fu4PADNj0Nmh0ofTkQRJPQUUAT_pWL1V0fX3Z15QlIiLJWQpKoDIkJ44b0/w1200-h630-p-k-no-nu/IMG_0872.JPG","charset":"utf-8"}

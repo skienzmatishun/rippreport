@@ -8,7 +8,7 @@ tags:
 - mcafee
 authors:
 - admin
-alttags: John McAfee portrait surrounded by flames, referencing a mock subscription expiry message, illustrating his controversial ...
+alttags: A black-and-white photo of John McAfee wearing sunglasses and a white jacket, set against red flames with the top banner text Your McAfee Subscription H...
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3bb098b033f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:28 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1eHTailx0DL3EkCqLc1V04CnSILp5HZpaXWYrjcGPlgwkCYBfFMLFyuhP58yXiAeb%2Ft%2FbeSINqok2nVeUuP2aIEuZZq%2FuStkCqPsU2c3SdYr%2Bo4zlNCWHjeinvI4NThxvgsNs0tPkO9W%2Bs0WaubO3NRdag%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=109
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a5d36f5db6fb179481f5f8d34acaeab0
+X-Etags-2: a5d36f5db6fb179481f5f8d34acaeab0
+
+{"title":"We need a local ethics watchdog","description":"Editor: People rub their eyes at the prospect of having $87 million on the table for one bridge and $60 million on the table for another, having $4 million on","url":"https://www.lagniappemobile.com/opinion/letters_to_editor/we-need-a-local-ethics-watchdog/article_966f6d3e-4f68-51fa-9ae0-792f5e5a5af5.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/custom/image/e4cdaace-cf6d-11ef-879c-7ba26cc0eed9.jpg?resize=600%2C301","charset":"utf-8"}

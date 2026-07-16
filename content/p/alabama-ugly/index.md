@@ -6,7 +6,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Green Christmas sweater with red Alabama silhouettes, representing the states political corruption and ethics failures
+alttags: Green Christmas sweater featuring three red silhouettes of the state of Alabama, decorated with gold snowflakes and striped trim
 related_articles:
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR

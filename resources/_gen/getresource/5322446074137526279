@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3bb149e673f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zYcaJ4BENE3iXNCfGMbdgm4tmAjPkBUGkxPxxQbwtlDUM31xTimqx9TYKeE1i3fXF2xx1r6bzx%2BlKVED0WNNpxQYXY3a5AWGwo%2B1TiL0oRvfNzVGVClizfdlmj7K7sz3n5pk8xbJVoSfSnMYens82Ei43w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=114
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 17e66e1eee044a51475ac47772291ceb
+X-Etags-2: 17e66e1eee044a51475ac47772291ceb
+
+{"title":"BP oil spill money to go to Alabama governor's mansion and a new hotel","description":"The mansion was destroyed decades before the BP oil spill.","url":"https://grist.org/climate-energy/bp-oil-spill-money-to-go-to-alabama-governors-mansion-and-a-new-hotel/","charset":"utf-8"}

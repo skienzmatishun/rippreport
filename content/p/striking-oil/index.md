@@ -11,7 +11,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Illustration depicting a school building under an oil derrick, symbolizing hidden resources and potential ethical concerns...
+alttags: A cartoon red schoolhouse with a brown roof and blue windows displays SCHOOL. A black oil geyser erupts from behind the roof against a white background
 related_articles:
 - slug: where-is-the-media
   title: WHERE IS THE MEDIA?

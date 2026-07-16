@@ -16,7 +16,7 @@ tags:
 - tuberville
 authors:
 - admin
-alttags: Georgia state shape falling from a green cliff, symbolizing shifting political power after January 6th elections
+alttags: A gray human profile silhouette facing right, topped with a green wavy shape, next to a red outline of Alabama on a white background
 related_articles:
 - slug: perfect-puzzle
   title: PERFECT PUZZLE

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3baffab153f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:29 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=F45k8rDFlJ9wcbJvCx2AW9clRPMLBSBovky%2BR5YmrHQkfZ2LDSbrE3gcJ9orCIXeqXgwSdk8QH0D2qaz7fpceqHNrhtg8st0CaNeVtvtfgRwuX9RlgHURy4X%2FVY%2BKKeqwrDTsLM7cuMm%2FW9AablUyY80uQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=3127
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ff067977b0c2d3db4475012c6cc1dbbd
+X-Etags-2: ff067977b0c2d3db4475012c6cc1dbbd
+
+{"error":"Upstream returned 403","url":"https://www.wkrg.com/news/alabamas-beach-house-repairs-almost-finished/","title":"Preview unavailable","description":"Could not fetch preview data"}

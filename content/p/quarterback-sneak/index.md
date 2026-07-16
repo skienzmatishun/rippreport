@@ -24,7 +24,7 @@ tags:
 - snedeker
 authors:
 - admin
-alttags: Football represents a distraction from political issues discussed in this article about Fairhope politics
+alttags: A brown American football with white stripes and laces, illustrated against a plain white background
 related_articles:
 - slug: canons-no-powder
   title: CANONS — NO POWDER

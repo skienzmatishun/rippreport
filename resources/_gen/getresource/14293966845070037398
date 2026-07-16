@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3bb020c5b3f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:27 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=79S%2Bzd9h0naNL3ou%2FERL3dvDQjdFdoJ0lMOVD2HHRfFCjtJjh%2FUngMShB%2F2YFYLk6xSdORzC1YL1TYhy731DuV8f4%2FDJAFqr5pxqRyqdSOgenILSjN578dNAv6bhx9gEpP%2FMVzYHmUafO2p9ZiusL21Jhw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=339
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 8f07944c77257993d438e28a9c44b892
+X-Etags-2: 8f07944c77257993d438e28a9c44b892
+
+{"title":"Daphne’s Haygood wants cities to get fair share of gas tax","description":"Daphne Mayor Dane Haywood knows the upcoming legislative session’s biggest discussion will center on raising or implementing a new tax on gasoline in Alabama. He just hopes the final product","url":"https://www.lagniappemobile.com/news/local/daphne-s-haygood-wants-cities-to-get-fair-share-of-gas-tax/article_97a13a06-e8cd-5b56-bec3-314b909b94cf.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/2/43/243ed22b-10d4-566d-bc47-ea67cd43c078/62f510f95660a.image.jpg?crop=1170%2C614%2C0%2C79","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3baf22f933f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZjA4A%2BMvokXJ04N3gbOtBtWTvamMLSuCV16gQUFmyCwCIMljAlZ%2FuBe2OedJuEUKjE6067AmEin53o0j9LzI0of4VIyLvEfyBomVl68qAXi%2Bad33WE7nr%2FiHueIxv7qCZ5ABUdEV8ReO7GuLe7m11xjGQg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=554
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 79ad932239d9080e4a9429ef27b7369e
+X-Etags-2: 79ad932239d9080e4a9429ef27b7369e
+
+{"title":"Judge halts work on Fairhope’s Fly Creek apartment complex","description":"Baldwin County Circuit Court Judge Clark Stankoski effectively stopped work on a controversial apartment complex under construction in Fairhope today, ruling its approval by the Planning Commission last year and","url":"https://www.lagniappemobile.com/news/local/judge-halts-work-on-fairhope-s-fly-creek-apartment-complex/article_8a567560-ed55-5c1a-88e3-fc6290b57f7a.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/4/4f/44f1f4a2-62c1-5352-98b6-ae799c53042c/630eaf9329f9a.image.jpg?crop=1170%2C614%2C0%2C57","charset":"utf-8"}

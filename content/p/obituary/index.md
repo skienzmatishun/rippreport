@@ -6,7 +6,7 @@ categories:
 - obituary
 authors:
 - admin
-alttags: Fran Neumann, a Daphne artist known for her sculpture & advertising work, wearing glasses and a white jacket
+alttags: Head-and-shoulders portrait of Frances J. Neumann, an elderly woman with short white hair and round glasses wearing a white jacket with blue trim
 related_articles:
 - slug: m-i-a
   title: M.I.A

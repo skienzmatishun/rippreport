@@ -7,7 +7,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Politician figure holds a bag of money while another stands empty-handed, illustrating corruption and financial misconduct...
+alttags: 'Two black silhouettes on a white background: a man in a suit holding a money bag with a dollar sign, and a woman in a dress'
 related_articles:
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING

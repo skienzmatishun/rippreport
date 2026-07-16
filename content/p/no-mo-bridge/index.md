@@ -13,7 +13,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Money bag blocked by a toll booth, symbolizing Alabama potentially losing federal funding for infrastructure projects
+alttags: A black line drawing of a traffic signal post with red and green lights, a horizontal dashed beam, and a money bag with a dollar sign hanging from the arm
 related_articles:
 - slug: ki-yay-mother-yippee
   title: Ki Yay Mother Yippee

@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Flag of Fairhope, Alabama (Faux Hope), featuring red flags labeled FAUX and HOPE, referencing financial concerns in ...
+alttags: A circular seal reading City of Faux Hope Alabama, featuring a blue sky, yellow sun, and two red flags displaying the words Faux and Hope
 related_articles:
 - slug: no-radar
   title: NO RADAR

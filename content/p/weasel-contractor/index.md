@@ -13,7 +13,7 @@ tags:
 - tucker-dorsey
 authors:
 - admin
-alttags: Chris Elliott’s face emerging from a jack in the box
+alttags: Chris Elliotts head emerges from a spring-loaded jack-in-the-box with a black star on its side
 related_articles:
 - slug: catalyst-is-drowning
   title: CATALYST IS DROWNING

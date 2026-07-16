@@ -18,7 +18,7 @@ tags:
 - sherry-sullivan
 authors:
 - admin
-alttags: Jester in purple costume holding money and staff, circled by a no catalyst symbol; represents unproductive Fairhope city...
+alttags: A person in a purple and black jester costume holds a staff and a sack labeled MONEY overflowing with cash, beside a red prohibition sign over the word ...
 related_articles:
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?

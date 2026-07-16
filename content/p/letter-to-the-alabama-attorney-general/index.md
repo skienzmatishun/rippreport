@@ -10,7 +10,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: US postage stamp featuring an eagle head illustration, likely sent to Alabama Attorney General Steve Marshall regarding et...
+alttags: Line drawing of a bald eagles head facing left on a perforated postage stamp with the word USA printed below
 related_articles:
 - slug: license-to-steal
   title: LICENSE TO STEAL

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3bb15db203f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:30 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zfmSnxtNJ7cTfvuj%2FbXNGpYCHCWhOhkrVGdu9W174X2pCDb6TUF8t1a6sAjhTgTyHKnTtFKhk0UKfobDDdbUd2l4wMFe3BYtBBBUVNNu8%2FD6WDkIeFd2V4qucwmtFhtLcrVSGUdJOC4joWQBU4kH8FIWMw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=230
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: b0d5914bfea1dbef4963d07da2ee20a7
+X-Etags-2: b0d5914bfea1dbef4963d07da2ee20a7
+
+{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/news/bp-funds-fail-to-solve-decades-old-medicaid-problem/article_efa5cfdd-96cc-5d93-a989-83d1a8aefafc.html","title":"Preview unavailable","description":"Could not fetch preview data"}

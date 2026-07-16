@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: South Alabama Mega Site graphic celebrating 10 years; shovel icon indicates land has been shovel ready since 2011
+alttags: South Alabama Mega Site graphic with a black shovel icon and text reading shovel ready since 2011 and celebrating ten years.
 related_articles:
 - slug: mega-mistake
   title: MEGA-MISTAKE

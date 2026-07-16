@@ -27,7 +27,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Dog wearing glasses in a lab setting, playfully illustrating lack of experience in Fairhope utility leadership
+alttags: A golden retriever in glasses sits among lab glassware, holding a bottle, with overlaid text reading I HAVE NO IDEA WHAT IM DOING
 related_articles:
 - slug: no-radar
   title: NO RADAR

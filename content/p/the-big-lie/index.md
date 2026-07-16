@@ -9,7 +9,7 @@ tags:
 - vietnam
 authors:
 - admin
-alttags: Dejected yellow smiley face with a long nose symbolizing deception related to Vietnam War era political lies
+alttags: A yellow circular emoji with two black eyes, a long orange nose, and a downturned mouth
 related_articles:
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative

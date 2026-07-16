@@ -13,7 +13,7 @@ tags:
 - zoning-commission
 authors:
 - admin
-alttags: Vintage newspaper clipping featuring Blanche Weeks and a headline proclaiming her gumbo is now famous; related to politica...
+alttags: Black-and-white photo of Blanche Weeks in a white dress at a kitchen stove, with text below reading Blanche Weeks and Blanche’s gumbo is now famous.
 related_articles:
 - slug: public-access
   title: PUBLIC ACCESS

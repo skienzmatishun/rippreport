@@ -7,7 +7,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Alabama Attorney General depicted with a gavel and text License to Steal, referencing claims of pursuing corruption
+alttags: Alabama Attorney General Steve Marshall holds a gavel while smiling, with the gold text LICENSE TO STEAL on the right
 related_articles:
 - slug: alabama-ugly
   title: ALABAMA UGLY

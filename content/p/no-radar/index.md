@@ -18,7 +18,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Fairhope, Alabama city seal featuring radar design with question marks, referencing legal challenges over public speech ac...
+alttags: Circular emblem with a red bullseye, question marks, and a pointer. The border text reads CITY OF FAUX HOPE above ALABAMA, with FAUX in red
 related_articles:
 - slug: double-red-flags-faux-hope
   title: DOUBLE RED FLAGS - FAUX HOPE

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3baf60dd53f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:25 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mGBXck8sj%2Fcn%2BMdRXqMqLZLdxRYHwaiLbWLx6q%2FScydRqrPMJblyPE5GH5fRSkylvNfnlyERhw9IpTe4XMASUgZde1vc%2BdrBk8AfJaPO8Zxre7E3x08KPlQPlMGI453oplKRua8kdvLAApfJ6UF%2FXlQp%2Bw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=602
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: db5a0fc34cd54a1088f86b1d5b72f313
+X-Etags-2: db5a0fc34cd54a1088f86b1d5b72f313
+
+{"title":"Marina Channel Dredging Plan Approved","description":"Community news and events in Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2025/11/marina-channel-dredging-plan-approved.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUMCirbsn8KHi6EC_jxwTf31fuF5D53OeC2UuTwmdRpwTFQPL9TS6FtUloxBGpBMWzJ1XqvMMl_frUcOUr0rMU2KhXsK0rk2s2RfTMFr6BjeO_B8afQghk9SkOvQNyoEPtXQF1N5-0kE23WPHTjnw5AxNjKWsmjGWeC-XUs_gSjAnY6iS_pkXEQsCRI-A/w1200-h630-p-k-no-nu/DSCF8351.JPG","charset":"utf-8"}

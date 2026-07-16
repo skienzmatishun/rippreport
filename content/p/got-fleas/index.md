@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Howling wolf silhouette against a moon, symbolizing public outcry over Fairhope Waterfront Project decisions
+alttags: A black silhouette of a howling wolf standing on a hill with a large circle behind it
 related_articles:
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS

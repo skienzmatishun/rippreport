@@ -23,7 +23,7 @@ tags:
 - waterfront-project
 authors:
 - admin
-alttags: Emoji face with zipper over mouth, symbolizing secrecy and hidden information related to Baldwin County’s political cabal
+alttags: A yellow circular face with two black dots for eyes and a gray zipper across its mouth, with the metal pull tab hanging to the right
 related_articles:
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING

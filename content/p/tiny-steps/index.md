@@ -18,7 +18,7 @@ tags:
 - prisons
 authors:
 - admin
-alttags: Icons representing healthcare, gambling, medical marijuana, and wellness amidst a downward trend, reflecting Alabama legis...
+alttags: Four black-and-white icons of a heart with an EKG line, dice, cannabis leaf, and yoga pose sit above matching columns of footprints leading upward
 related_articles:
 - slug: insanity-2
   title: INSANITY

@@ -12,7 +12,7 @@ tags:
 - tuberville
 authors:
 - admin
-alttags: Nick Saban, coach of the Alabama Crimson Tide football team, stands on the sidelines during a game
+alttags: Nick Saban stands with his arms crossed on the sidelines, surrounded by Alabama football players in white jerseys and helmets
 related_articles:
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR

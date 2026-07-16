@@ -12,7 +12,7 @@ tags:
 - sheriff-mack
 authors:
 - admin
-alttags: City of Fairhope, Alabama seal depicting a ship, rising sun, and flames, related to waterfront project discussions
+alttags: Circular seal reading City of Faux Hope Alabama, showing a yellow sun, a black sailboat engulfed in flames on green land against a blue sky
 related_articles:
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS

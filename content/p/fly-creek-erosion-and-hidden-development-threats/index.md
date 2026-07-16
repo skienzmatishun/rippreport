@@ -2,7 +2,7 @@
 title: "Fly Creek Erosion and Hidden Development Threats"
 date: 2015-03-12
 description: "Fly Creek Erosion and Hidden Development Threats"
-thumbnail: "image.jpg"
+thumbnail: img/fly-creek-erosion-and-hidden-development-threats.png
 tags: ["archive", "historical"]
 ---
 

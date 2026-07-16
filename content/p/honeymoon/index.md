@@ -18,7 +18,7 @@ tags:
 - sherry-sullivan
 authors:
 - admin
-alttags: Silhouettes of figures holding hands, with CSB prominently displayed, referencing consulting firm involved in Baldwin Co...
+alttags: Three black silhouettes holding hands, with the red letters C S B vertically displayed on the central child
 related_articles:
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED

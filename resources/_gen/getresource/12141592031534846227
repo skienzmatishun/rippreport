@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3bae6cad33f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:23 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YgTuCYIc7Te8bhCikuEtCsY2JaebhFUIUYO0I849OkpuZTEq73XpurmvYt5jukPX2lb1hjiDByjjUET0Mb6RA%2FUNUxWZBP9TY%2FYiYXdzSKxBjVTtiLGyLRQhKPIRaJKjd%2FsWRM0qgn71cdAVXeAWXvT%2FEQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=170
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 5816270ca3b19f9acd296c38531060e7
+X-Etags-2: 5816270ca3b19f9acd296c38531060e7
+
+{"title":"COURT OF PUBLIC OPINION","description":"The Executive Director of the Alabama Ethics Commission, Mr Tom Albritton should resign his position. His failure to do so will only further erode the little trust Alabama citizens have in the Ethics Commission.\nIf you are not familiar with this case please read this article first:\nSelf-dealing? — Ethics director’s kids’ tuition paid from trust he oversees As director of the Alabama Ethics Commission, Tom Albritton is the state’s policeman for conflicts of interest and ethical breaches that can arise throughout all levels of government, but having","url":"https://rippreport.com/p/court-of-public-opinion-2/","image":"https://rippreport.com/img/court-of-public-opinion.png","charset":"utf-8"}

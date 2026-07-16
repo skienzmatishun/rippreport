@@ -16,7 +16,7 @@ tags:
 - stankoski
 authors:
 - admin
-alttags: A person’s face superimposed onto the Notre Dame Fighting Irish leprechaun mascot, likely referencing political corruption...
+alttags: McSharrys head superimposed on a cartoon green figure wearing a leprechaun hat, flexing muscles, and holding a green block
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE

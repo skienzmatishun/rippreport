@@ -14,7 +14,7 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: Cartoon leprechaun raising a mug, possibly symbolizing unproductive or corrupt Fairhope council members discussed in the R...
+alttags: A cartoon illustration of a man in a green suit and hat drinking from a large yellow mug
 related_articles:
 - slug: mcsharry-madness
   title: McSHARRY MADNESS

@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Stack of US currency with a $10 bill featuring George Washington wearing a face mask, referencing Fairhope’s waterfront pr...
+alttags: A stack of US currency featuring a ten-dollar bill with Alexander Hamilton wearing a white face mask. A twenty-dollar bill lies behind it
 related_articles:
 - slug: jackass-jack
   title: JACKASS JACK

@@ -88,7 +88,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Color-coded Alabama county map showing recent COVID-19 cases per 100,000 people, highlighting Gulf Coast hotspots
+alttags: A color-coded map titled Hot spots by county shows new SARS-COV-2 cases per 100,000 people in Alabama, with the Baldwin County seal and Backstory Podc...
 ---
 35.4 Million SARS-COV-2 infected in the USA with 615,000 deaths. The Delta variant has Gulf Coastal Hospitals filling fast and your elected officials are finally getting the picture.
 

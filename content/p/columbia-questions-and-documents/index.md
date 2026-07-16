@@ -13,7 +13,7 @@ tags:
 - fema-fraud
 authors:
 - admin
-alttags: Wilted roses in a vase symbolize ignored allegations and inaction by officials in Columbia, Alabama
+alttags: Dried purple roses in a clear glass vase with wilted leaves, illustrating the alleged illegal purchase of flowers with town funds
 related_articles:
 - slug: quid-quo-pro
   title: QUID QUO PRO

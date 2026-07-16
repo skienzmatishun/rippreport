@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3bae398043f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0vAdK5qC%2Fd%2FuyC9SgBiyxxw20mYQn3zxyInCPfG1WEksV6dHldhHE8C%2FqHirceuYcVpYVHbCqejPgMKGSjrc5nJ2olqSp0dCx8q6B1pA5YnqSQRYQI9QnUEmyNoswl7CKWdkRDDI5zUTbXsp7iDZHqobjQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=11,cfOrigin;dur=0,cfWorker;dur=505
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 223aa934cf9538c7a675144e3ccd88e1
+X-Etags-2: 223aa934cf9538c7a675144e3ccd88e1
+
+{"title":"FAUXHOPE - KNOW THE BACKSTORY","description":"“The developer will do whatever the hell he wants, without any accountability”\nTHIS IS THE BACKSTORY TO GENERIC REPORTING:\nThe culvert issue was first addressed by the Ripp Report and lawsuits filed against the city over the Publix project on Parker Road. The culverts, sewer lines, wetlands issues, drainage, proximity to Fly Creek ,county right a ways, city easements, tree survey missing, were just a few issues—Fauxhope did nothing—then allowed the apartments– same issues same no action—Now they are expanding building again behind apartments, the developer is given a green flag.","url":"https://rippreport.com/p/fauxhope-know-the-backstory/","image":"https://rippreport.com/img/fauxhope-know-the-backstory.png","charset":"utf-8"}

@@ -10,7 +10,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Illustration depicts Alabama state shape with Ethics$ overlaid, crossed out by a net, symbolizing corruption within the ...
+alttags: A black sketch of a fishing net stands beside an outline of Alabama crossed with a red X, overlaid with ETHICS spelled in green dollar bills
 related_articles:
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY

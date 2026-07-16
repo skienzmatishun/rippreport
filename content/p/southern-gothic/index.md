@@ -9,7 +9,7 @@ tags:
 - gabriel-tynes
 authors:
 - admin
-alttags: Baldwin County historical marker details Alabama county history and its connection to early political figures
+alttags: Black and white historical marker for Baldwin County, Alabama detailing its 1809 founding. It stands before a building with arched windows
 related_articles:
 - slug: slap-in-the-face
   title: SLAP IN THE FACE

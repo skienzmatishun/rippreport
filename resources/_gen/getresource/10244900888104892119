@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3bafe7e4e3f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:26 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WzQDe3NzE3MjZzsRwUtfCzn1sv4p41xHGEWQd9KXvaBje5DPbsuTrzI0W%2F26ARmtjh%2FtX6dX2OFw8O%2BR%2FVv7MmlPwIAlRQ5tudzWwbumX5S6MCxhoph5xuKl808Zi8iU7%2BxSR%2FRujqaL6%2BgulqAIn1mj7A%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=115
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 993baaa0828a938f9414734819de0430
+X-Etags-2: 993baaa0828a938f9414734819de0430
+
+{"title":"Fairhope expects BP money to come during 2019","description":"With BP Restore Act money anticipated to flow into Fairhope during 2019 to the tune of almost $20 million, one project city leaders are particularly excited about costs less than","url":"https://www.lagniappemobile.com/news/local/fairhope-expects-bp-money-to-come-during-2019/article_28abcfaf-ddfa-5a0f-a107-01f3ab12c50c.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/media/8/91/89157836-cddf-11ef-b659-d33803b088e1/677eaaef4af76.image.jpg?resize=600%2C315","charset":"utf-8"}

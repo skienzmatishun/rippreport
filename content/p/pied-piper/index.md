@@ -21,7 +21,7 @@ tags:
 - waterfront-project
 authors:
 - admin
-alttags: Jack Burrell depicted as the Pied Piper, playing a flute in front of Fairhope’s fountain; symbolizing costly decisions and...
+alttags: Jack Burrell stands in a park with a fountain and manicured gardens, holding a black wind instrument horizontally across his mouth
 related_articles:
 - slug: no-qualifications
   title: NO QUALIFICATIONS

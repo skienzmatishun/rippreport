@@ -16,7 +16,7 @@ tags:
 - robinson
 authors:
 - admin
-alttags: Fairhope City Council appointment raises concerns about citizen input and elected vs. selected officials
+alttags: A circular button with red, white, and blue horizontal stripes displays the bold text YOUR VOTE COUNTS?
 related_articles:
 - slug: csb-railroad-nomination
   title: CSB / RAILROAD- NOMINATION

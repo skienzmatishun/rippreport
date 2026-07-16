@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1c3bae79d6d3f1e-MIA
+Content-Type: application/json
+Date: Thu, 16 Jul 2026 20:24:23 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BBH4PSHsWsO2j0MW1htLGPH1LdhWuDvVoxQDhhj8uqVo0bV0%2FPA3aS905GQWnyQ8md1PMxLge2P3AX%2BT83kBGasV9ozdK%2F%2BLjjUGTv1I4UNXAg%2FyhdnWnOFOUxtgiamgLhstCByIRko8quIH9Thw960kaQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=363
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e4a1da6ae5884c18485543e1ba88c1f6
+X-Etags-2: e4a1da6ae5884c18485543e1ba88c1f6
+
+{"title":"RE-GIFT GIFT ??","description":"ATTENTION FAIRHOPE TAXPAYERS. Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres. Mitsy, email to all council members and Mayor Wilson would greatly benefit the City. It concerns the importance and impact of the Deed of Gift from Corte to the City of the lowest 4 acres between the retention pond outfall pipe and Fly Creek.","url":"https://rippreport.com/p/re-gift-gift-2/","image":"https://rippreport.com/img/re-gift-gift-2.png","charset":"utf-8"}

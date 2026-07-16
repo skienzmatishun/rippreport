@@ -15,7 +15,7 @@ tags:
 - robinson
 authors:
 - admin
-alttags: Council denies knowledge of property purchase; graphic shows a speech bubble crossed out
+alttags: A red circle with a broken diagonal line enclosing a black outline of a speech bubble
 related_articles:
 - slug: honeymoon
   title: HONEYMOON

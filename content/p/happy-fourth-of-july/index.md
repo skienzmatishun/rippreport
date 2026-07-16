@@ -6,5 +6,5 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "Fireworks exploding in the shape of an American flag against a black background, symbolizing patriotism and national celeb..."
+alttags: Fireworks burst in the shape of the American flag, showing a blue star field and red-and-white stripes against black
 ---

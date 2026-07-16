@@ -6,7 +6,7 @@ categories:
 - familycourt
 authors:
 - admin
-alttags: Woman in witch costume with scales of justice behind her, representing complaints against Judge Michelle Thomasson
+alttags: A smiling woman wearing a black dress, veil, and pointed hat with a gold crown stands before large stylized scales of justice
 related_articles:
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT

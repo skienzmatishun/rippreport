@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Milk carton labeled missing with a cameraman silhouette asking have you seen me, symbolizing media silence on corruption
+alttags: White milk carton labeled MILK and MISSING, showing a black cameraman silhouette on a tripod with the text Have you seen me? and nutritional details
 related_articles:
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
