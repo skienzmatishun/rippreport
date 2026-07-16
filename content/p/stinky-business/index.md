@@ -9,7 +9,7 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: 'Baldwin County Sewer mascot: A cartoon water droplet character promoting Crystal Clean, associated with a controversial ...'
+alttags: A golden water drop mascot with a smiling face, raised arms, and boots wears a belt labeled Crystal Clean
 related_articles:
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB

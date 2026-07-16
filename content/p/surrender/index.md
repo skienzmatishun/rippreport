@@ -9,7 +9,7 @@ categories:
 - saturday-sunshine
 authors:
 - admin
-alttags: 'Satirical depiction: a man’s face superimposed on an Irish leprechaun mascot holding money and waving a flag, referencing ...'
+alttags: Ronan McSharrys face is superimposed on a cartoon figure wearing a leprechaun hat, holding stacks of cash and a flag
 related_articles:
 - slug: mcsharry-madness
   title: McSHARRY MADNESS

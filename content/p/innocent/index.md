@@ -10,7 +10,7 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: Murray “Bubba” Lawrence, convicted of capital murder in Baldwin County, Alabama, in 2005
+alttags: Portrait of Murray Lawrence in a white tank top, gazing upward with a serious expression against a dark red background
 related_articles:
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION

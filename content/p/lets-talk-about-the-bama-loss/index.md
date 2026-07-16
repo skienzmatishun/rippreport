@@ -88,7 +88,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Nick Saban smiles in an Alabama polo, featured in a tweet highlighting his status as the highest-paid college football coach
+alttags: Alabama football coach Nick Saban laughs in a white polo shirt, shown in a tweet highlighting his highest-paid coaching salary
 ---
 44,700,000 SARS-COV-2 cases in the USA with 721,000 deaths.
 

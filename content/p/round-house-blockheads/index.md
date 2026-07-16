@@ -14,7 +14,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Montrose Hut facade features faces representing city officials debating its relocation, as discussed in the article
+alttags: The Montrose Hut, a concrete dome, has three openings with digitally inserted faces. A nearby sign shows Baldwin County and Fairhope emblems
 related_articles:
 - slug: FAUXHOPE-4
   title: FAUXHOPE

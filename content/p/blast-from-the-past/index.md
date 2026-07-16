@@ -11,7 +11,7 @@ tags:
 - Robert Wilters
 authors:
 - admin
-alttags: Yellow starburst graphic with black outline symbolizing internal misconduct and cover-ups in the Sheriffs Department
+alttags: A yellow starburst shape with a black outline centered on a white background
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO

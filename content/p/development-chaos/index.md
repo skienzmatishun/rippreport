@@ -6,7 +6,7 @@ categories:
 - saturday-special
 authors:
 - admin
-alttags: Rapid development in Bay Minette, Alabama, strains infrastructure as Baldwin County communities face building moratoriums
+alttags: A blue sign reading Welcome to Bay Minette Alabama stands before a large concrete building under construction
 related_articles:
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB

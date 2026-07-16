@@ -8,7 +8,7 @@ categories:
 authors:
 - admin
 summary: A terror attack was stopped from reaching a larger crowd by traffic. A vet built a car bomb with AI, blowing up a Tesla. Leaders waste tax money on shady deals. Sheriffs hide their mistakes. Scholarships for students went to insiders. The governor’s health rumors stir worry. Teens with rifles fight in streets. A body found in a sunken car. Politicians let state pick police chiefs, ignoring locals. And finally, a festival and a demand to punish corrupt leaders. Alabama’s rules break like melting snow.
-alttags: New Baldwin County Courthouse rendering; million-dollar contract amid questions of public access and insider deals
+alttags: Backstory Podcast 190 Scalped graphic showing the new Baldwin County District Attorney building and a Facebook post announcing its construction bid award
 related_articles:
 - slug: delicately-censored
   title: Delicately Censored

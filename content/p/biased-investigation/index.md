@@ -6,7 +6,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Baldwin County Sheriff’s Office badge; symbolizes lack of accountability and transparency in police investigations
+alttags: A gold sheriffs star badge reading Sheriffs Office Baldwin County, featuring a central circular inset with a close-up photograph of a human brain
 related_articles:
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION

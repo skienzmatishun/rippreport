@@ -19,7 +19,7 @@ tags:
 - County Commission
 authors:
 - ripp-report
-alttags: Traffic stop footage shows a man in a car and an officer; related to the O.J. French killing lawsuit
+alttags: Split-screen dashcam and bodycam footage showing a driver in a car and an officer pointing a handgun at an unarmed man outside a house, from Baldwin Cou...
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT

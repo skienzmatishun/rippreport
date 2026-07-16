@@ -7,7 +7,7 @@ categories:
 authors:
 - admin
 rumble: v5dblkt
-alttags: Provocative illustration depicting a muscular figure labeled Haiti feeding a kitten to a plate, referencing false claims...
+alttags: A muscular Black man in a Haiti t-shirt holds a fork over a plate with a kitten, as Donald Trump runs away. Backstory Podcast No 183 branding appears
 related_articles:
 - slug: red-lips-award
   title: RED LIPS AWARD

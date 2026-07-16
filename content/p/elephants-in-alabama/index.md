@@ -9,7 +9,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Herd of elephants walks past an Welcome to Alabama sign, symbolizing overlooked issues despite their prominence
+alttags: Elephants walk down a paved road flanked by trees. Signs welcome visitors to Sweet Home Alabama and advertise Lauderdale County Agriculture
 related_articles:
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR

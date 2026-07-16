@@ -8,7 +8,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Sign reading Relief with a cannabis leaf symbol hangs below an electronic display showing delay information, referencing...
+alttags: An electronic sign reading MINUTES DUE TO AN ACCIDENT hangs above a blue RELIEF sign featuring a cannabis leaf icon at a train station platform
 related_articles:
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'

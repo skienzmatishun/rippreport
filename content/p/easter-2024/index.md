@@ -6,6 +6,6 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "Easter bunny mascot waves hello against a backdrop of green grass, blue sky, and an eagle in flight, wishing a happy Easte..."
+alttags: A person wearing a white rabbit costume with pink ears and blue eyes waves in a grassy field as an eagle flies nearby
 ---
 Happy Easter! Have a great day filled with fun and good times.

@@ -8,7 +8,7 @@ categories:
 authors:
 - admin
 rumble: v44nbji
-alttags: Judge Wilters, new Alabama football coach, appears on a podcast discussing his appointment after Nick Saban’s departure
+alttags: A man in a dark suit and red tie smiles behind on-screen text announcing a new era for Alabama football in Tuscaloosa
 related_articles:
 - slug: no-justice
   title: NO JUSTICE

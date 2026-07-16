@@ -7,7 +7,7 @@ categories:
 authors:
 - admin
 rumble: v5gydsy
-alttags: Political cartoon depicting officials in a boat overlooking people struggling in water, referencing FEMA’s response challe...
+alttags: A cartoon depicts men in suits rowing away from floodwaters where others struggle on debris, featuring the Baldwin County seal and Backstory Podcast No 185
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT

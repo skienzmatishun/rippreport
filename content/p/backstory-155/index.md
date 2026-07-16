@@ -7,7 +7,7 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Alabama Attorney General Steve Marshall testifies against ESG investing before Congress, per Backstory Podcast
+alttags: Alabama Attorney General Steve Marshall testifies before Congress against ESG investing, as shown in a podcast graphic with text overlays
 related_articles:
 - slug: what-the
   title: What the

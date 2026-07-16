@@ -15,7 +15,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Amber bottle labeled BCSO Absolute Immunity with tag reading No Accountability No Transparency, symbolizing BCSO culture
+alttags: 'A brown glass bottle with a label reading BCSO ABSOLUTE IMMUNITY and a twine tag stating BCSO FEATURES: No Accountability, No Transparency, against a re...'
 related_articles:
 - slug: bcso-culture-2
   title: BCSO CULTURE

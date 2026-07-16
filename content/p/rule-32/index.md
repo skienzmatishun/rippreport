@@ -11,7 +11,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Legal document filed as a Rule 32 petition seeking relief from conviction for Murray Lawrence, against backdrop of jail fe...
+alttags: Official court notice document for State of Alabama v. Lawrence Murray detailing a Rule 32 petition filed on November 27, 2023
 related_articles:
 - slug: no-justice
   title: NO JUSTICE

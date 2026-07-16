@@ -11,7 +11,7 @@ tags:
 summary: I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman Jack Burrell. Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all.
 authors:
 - admin
-alttags: Troy Vickers campaign ad for Fairhope City Council, showing him with residents amid calls for council reform
+alttags: Troy Vickers campaign graphic for Fairhope City Council, featuring Strong Values Real Solutions Fairhope First and a photo of him smiling while talking ...
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL

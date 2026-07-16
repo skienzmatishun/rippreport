@@ -7,7 +7,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Bald eagle in a cage with bandages, symbolizing restricted access to online platforms like Meta
+alttags: An American bald eagle with white bandages on its wing and leg stands inside a metal wire cage
 related_articles:
 - slug: notice
   title: 'NOTICE:'

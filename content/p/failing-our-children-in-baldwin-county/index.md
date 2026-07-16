@@ -6,7 +6,7 @@ categories:
 - family-court
 authors:
 - ripp-report
-alttags: Concerned parent, child in distress, and Baldwin County DHR building represent systemic failures impacting vulnerable chil...
+alttags: A triptych showing an adult man and young girl covering their faces, flanked by the Baldwin County Department of Human Resources building
 related_articles:
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT

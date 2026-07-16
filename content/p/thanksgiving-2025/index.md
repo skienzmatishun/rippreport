@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: Bald eagles gather around a Thanksgiving feast of turkey, pumpkins, and cranberries on a wooden dock
+alttags: Six bald eagles stand on a wooden dock, flanking a wicker turkey container filled with fish and cranberries. One wears a pilgrim hat
 ---
 Be thankful for what you have. From our nest to yours, have a wonderful day!
 

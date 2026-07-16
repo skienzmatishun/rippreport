@@ -7,7 +7,7 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Fairhope Community Park sign; Baldwin County officials visible in inset, referencing local concerns about development and ...
+alttags: Wooden sign for Fairhoppers Community Park in Baldwin County welcoming visitors and listing prohibited items, with an inset video of a man speaking into...
 related_articles:
 - slug: bsp-128
   title: Big News

@@ -10,7 +10,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: 'Mock product listings: City of Fauxhope logo & megaphone, highlighting delayed Alabama municipal elections and lack of v...'
+alttags: Two product images. Left shows Fairhope seal with red FAUX text, Elected and Appointed Office. Right shows a light blue megaphone titled Freedom of Spee...
 related_articles:
 - slug: BACKPEDALING-FAUXHOPE
   title: BACKPEDALING FAUXHOPE

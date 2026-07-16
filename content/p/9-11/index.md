@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: A hand holds a photo depicting New Orleans skyline engulfed in smoke after Hurricane Katrina; a poignant reminder of loss ...
+alttags: A nighttime New York City skyline overlaid with a faded American flag and two vertical light beams, featuring the text 9 NEVER FORGET
 related_articles:
 - slug: 9-11-25
   title: 9/11

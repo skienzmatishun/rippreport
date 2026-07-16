@@ -94,7 +94,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A man in waders demonstrates flooding on a city council floor while officials and citizens watch the infrastructure discus...
+alttags: Fairhope city council meeting in a flooded chamber with knee-deep water. A man in overalls stands near a laptop while officials sit behind a dais
 ---
 “The developer will do whatever the hell he wants, without any accountability”
 

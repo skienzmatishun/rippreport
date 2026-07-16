@@ -11,7 +11,7 @@ tags:
 - Hoss Mack
 authors:
 - admin
-alttags: Murray Lawrence Jr., subject of a wrongful conviction case similar to Just Mercy, in black and white with blurred Alabama ...
+alttags: Black and white triptych showing a close-up of Murray Lawrence Jr. looking upward, flanked by scenes of trees and a wooden pier
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'

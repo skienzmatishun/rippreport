@@ -8,7 +8,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Puppet figure of politician Chris Elliott hangs from strings against a red background, posed with its foot in its mouth
+alttags: A wooden puppet of politician Chris Elliott hangs from strings held by a hand, with his foot in his mouth against a red background
 related_articles:
 - slug: hair-on-fire
   title: HAIR ON FIRE

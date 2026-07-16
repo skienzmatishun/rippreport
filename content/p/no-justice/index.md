@@ -10,7 +10,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Scales of justice against a dark background, symbolizing questions about fairness in the Murray Lawrence case investigation
+alttags: A grayscale 3D model of a balance scale with a central column, curved beam, hanging chains, and two detached pans on a black background
 related_articles:
 - slug: rule-32
   title: RULE 32

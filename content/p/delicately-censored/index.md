@@ -8,7 +8,7 @@ categories:
 authors:
 - admin
 rumble: v3uuabg
-alttags: The Guardian webpage announcing removal of a document related to Osama bin Laden’s letter, sparking free speech debate
+alttags: 'Guardian webpage screenshot showing a Removed: document article about a 2002 bin Laden letter takedown, overlaid with Baldwin County and Backstory Pod...'
 related_articles:
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF

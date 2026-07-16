@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: Carolyn Amick, smiling and wearing sunglasses, is featured in a photo celebrating her life with family and friends
+alttags: Carolyn Amick, an older woman with short gray hair, wearing dark sunglasses and a pink shirt, smiles slightly in this outdoor portrait
 related_articles:
 - slug: carolyn-amick
   title: CAROLYN AMICK

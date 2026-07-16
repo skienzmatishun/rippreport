@@ -6,6 +6,6 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "Bald eagle head portrait against a blurred American flag backdrop, fireworks sparking in foreground—celebrating a fresh st..."
+alttags: A bald eagle in profile faces left beside a lit sparkler and an American flag against a black background
 ---
 Happy New Year! Here's to a fresh start and making the most of the new year ahead!

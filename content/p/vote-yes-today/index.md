@@ -6,6 +6,6 @@ categories:
 - elections
 authors:
 - admin
-alttags: "Sign urging voters to vote YES Today! for District Zoning proposal, number 8 visible below the message"
+alttags: White A-frame sign on pavement displaying Vote YES Today! District Zoning and the number 8
 ---
 {{< aicomments "testing_something" >}}

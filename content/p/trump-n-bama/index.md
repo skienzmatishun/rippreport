@@ -7,7 +7,7 @@ categories:
 authors:
 - admin
 rumble: v377p40
-alttags: Donald Trump speaks at an Alabama GOP dinner, endorsed by state congressmen, amid Space Command discussions
+alttags: Donald Trump speaks at a podium with U.S. flags, overlaid with text about his Alabama GOP endorsement sweep and the Baldwin County seal
 related_articles:
 - slug: tides-end
   title: Tide's End

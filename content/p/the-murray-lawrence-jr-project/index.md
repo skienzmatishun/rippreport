@@ -9,7 +9,7 @@ categories:
 authors:
 - admin
 rumble: v3kukqp
-alttags: Magazine cover featuring Murray Lawrence Jr., linked to a podcast episode about his conviction in the Brandon Hastings mur...
+alttags: Lagniappe newspaper cover featuring Murray Lawrence Jr. with the headline Digging Deep about missing autopsy evidence, overlaid with Baldwin County and ...
 related_articles:
 - slug: no-justice
   title: NO JUSTICE

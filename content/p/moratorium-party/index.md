@@ -6,7 +6,7 @@ categories:
 - monday-madness
 authors:
 - admin
-alttags: City of Fauxhope, Alabama seal featuring dollar signs over a landscape, referencing concerns about political influence and...
+alttags: Circular seal reading City of Fauxhope Alabama, showing a blue sky with a yellow sun, three green balloons with dollar signs, and sailboats on water
 related_articles:
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS

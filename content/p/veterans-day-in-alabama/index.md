@@ -6,7 +6,7 @@ categories:
 thumbnail: /img/veterans-day-in-alabama.jpg
 authors:
 - admin
-alttags: Map of Alabama overlaid on a blurred background of military personnel saluting in honor of Veterans Day
+alttags: A red map of Alabama divided into counties overlaid on a blurred background of two soldiers in uniform saluting
 related_articles:
 - slug: war
   title: WAR

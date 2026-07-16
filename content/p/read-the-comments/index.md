@@ -11,7 +11,7 @@ tags:
 - Robert Wilters
 authors:
 - admin
-alttags: Baldwin County Sheriffs logo with a broken heart and handcuffs, beside an eagle head, highlighting internal misconduct an...
+alttags: A circular Baldwin County Sheriffs Office seal featuring a broken red heart and handcuffs sits beside a close-up photograph of a bald eagle with its be...
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO

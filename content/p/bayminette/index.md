@@ -6,7 +6,7 @@ categories:
 - bayminette
 authors:
 - admin
-alttags: Pigs stand in front of a Bay Minette water tower and American flag, referencing concerns about Mayor Wills’ leadership
+alttags: Several pink pigs stand in the foreground with an American flag and a Bay Minette water tower visible behind them
 related_articles:
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀

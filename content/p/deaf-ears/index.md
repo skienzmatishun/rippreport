@@ -13,7 +13,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Headshot of Tom Albritton, Alabama Ethics Commission Executive Director, hands covering ears against a wooden door background
+alttags: Steve Marshall in a suit points both index fingers toward his ears, flanked by ornate wooden cabinet doors
 related_articles:
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL

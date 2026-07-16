@@ -7,7 +7,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Man in a red boat waves enthusiastically near waterfront development delays impacting Fauxhope city projects
+alttags: An older man with white hair raises both arms while seated in a red open-top car on rails near a waterfront parking area
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE

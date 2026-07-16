@@ -26,7 +26,7 @@ tags:
 - Ed Oliver
 authors:
 - ripp-report
-alttags: Veterans in military uniform salute against a fiery red landscape, symbolizing cuts to Alabama veteran benefits approved b...
+alttags: Five soldiers in US Army uniforms salute against a red-tinted backdrop of rocky cliffs and winged creatures
 related_articles:
 - slug: red-lips-award
   title: RED LIPS AWARD

@@ -12,7 +12,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Councilman Jack Burrell cycling through town after a public backlash over council meeting participation rules
+alttags: An older man with white hair wearing a blue shirt and black shorts rides a bicycle down a street while gesturing with his gloved hand
 related_articles:
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR

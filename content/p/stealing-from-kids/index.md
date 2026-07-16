@@ -12,7 +12,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Man in striped prisoner clothing holds money and a bag, symbolizing corruption within Alabama politics discussed in the ar...
+alttags: A man in a black-and-white striped shirt and black gloves holds a fan of hundred-dollar bills in one hand and a tan bag with a Bitcoin logo in the other
 related_articles:
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE

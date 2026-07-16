@@ -7,7 +7,7 @@ categories:
 authors:
 - admin
 rumble: v5755ut
-alttags: Podcast cover art featuring a vintage photo of an Indigenous man and text referencing silence over falsehoods, related to ...
+alttags: 'Backstory Podcast 179 showing a Native American man with a rifle. Text reads: Some Old Indian Wisdom... Silence is always better than bullshit.'
 related_articles:
 - slug: alien-indictment
   title: Alien Indictment

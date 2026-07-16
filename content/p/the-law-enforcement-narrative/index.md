@@ -7,7 +7,7 @@ youtube: -YQAxXGPpcc
 thumbnail: img/the-law-enforcement-narrative.png
 authors:
 - admin
-alttags: 'Protesters hold signs reading #SayHisName and #JusticeForOtis outside Baldwin County Courthouse, challenging law enfor...'
+alttags: Protesters hold Say His Name signs outside the Baldwin County Courthouse, citing Scott Johnsons article on law enforcement narratives and Otis French J...
 related_articles:
 - slug: lethal-force
   title: LETHAL FORCE

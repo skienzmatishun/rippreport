@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "Veterans salute during a ceremony, honoring their courage and commitment on Veterans Day"
+alttags: Rows of military personnel in camouflage uniforms and caps stand in formation, saluting outdoors
 ---
 Saluting our courageous veterans this Veterans Day, their sacrifices are the cornerstone of our nation's strength, reminding us that freedom demands courage. Let's honor their commitment and resilience, embracing the lessons in their stories. In the spirit of advocacy for knowledge, let's educate ourselves about the true cost of freedom. Happy Veterans Day to those who embody the essence of the land of the free and the home of the brave!
 

@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: 'Limited representation: Two hands tied within circles, symbolizing potential deadlock for Baldwin County’s small commission'
+alttags: A handshake between two hands, one wearing a blue sleeve, followed by two red circular icons showing bound hands crossed with a diagonal line
 related_articles:
 - slug: catalyst-exit-door
   title: CATALYST EXIT DOOR

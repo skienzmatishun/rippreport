@@ -7,7 +7,7 @@ thumbnail: img/food-for-thought.png
 summary: There’s a parcel of land in Baldwin County that’s never been talked about publicly — until now. It’s publicly owned, strategically placed, and tied to a zoning designation that doesn’t match what’s actually there.
 authors:
 - admin
-alttags: Five men in suits celebrate at a table, one cutting a green map-shaped cake for the Baldwin County land parcel
+alttags: Five men in suits laugh while sharing a green map-shaped cake, with one man cutting a slice
 related_articles:
 - slug: mega-mistake
   title: MEGA-MISTAKE

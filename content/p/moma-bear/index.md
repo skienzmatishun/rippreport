@@ -6,7 +6,7 @@ categories:
 - family-court
 authors:
 - admin
-alttags: A brown bear protectively watches over a cub in tall grass, symbolizing maternal instinct and potential for complex situat...
+alttags: A brown bear stands on all fours in a grassy field, looking down at the ground
 related_articles:
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT

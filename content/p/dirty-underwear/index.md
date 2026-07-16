@@ -6,7 +6,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Illustration of brown underwear symbolizing Alabama’s legal institutions protecting each other from accountability
+alttags: A simple illustration of brown underwear with white outlines on a white background
 related_articles:
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE

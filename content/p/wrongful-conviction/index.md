@@ -14,7 +14,7 @@ categories:
 - mljr
 authors:
 - admin
-alttags: Jail cell bars viewed from within, referencing Baldwin County’s history of withholding information in cases like Murray Bu...
+alttags: White metal jail bars frame a view of an empty concrete cell with a light-colored wall and dark baseboard
 related_articles:
 - slug: rumors
   title: RUMORS

@@ -6,7 +6,7 @@ categories:
 - repost
 authors:
 - ripp-report
-alttags: A revolver cylinder with six chambers, one loaded with a bullet, symbolizing Fairhopes looming legal and financial risks
+alttags: A black circular graphic with a serrated outer edge containing six white circles arranged in a ring, one featuring a smaller black center
 related_articles:
 - slug: the-good-the-bad-and-the-ugly-repost
   title: THE GOOD THE BAD AND THE UGLY

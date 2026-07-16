@@ -9,7 +9,7 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: Murray Bubba Lawrence’s face superimposed over a jail cell, illustrating wrongful imprisonment after decades in custody
+alttags: Close-up of Murray Bubba Lawrence looking upward with a concerned expression, flanked by black-and-white photos of a chain-link enclosure
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'

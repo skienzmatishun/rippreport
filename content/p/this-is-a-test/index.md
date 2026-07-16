@@ -10,7 +10,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Abstract mask resembling a face, overlaid with black and yellow target markings, symbolizing legal scrutiny and ongoing mo...
+alttags: A scratched beige mask with black eyes and a protruding red tongue, adorned with yellow and black radiation hazard symbols
 related_articles:
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT

@@ -11,7 +11,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A single track in sand, symbolizing a trail of corruption stemming from misused charitable funds in Alabama
+alttags: A close-up of sunlit sand featuring a distinct, curved track or groove running vertically through the textured surface
 related_articles:
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE

@@ -7,7 +7,7 @@ youtube: 1Pb41jaYTkI
 thumbnail: img/primary-election-may-24th
 authors:
 - admin
-alttags: Screenshot shows a social media post about Tim James For Governor alongside a man speaking into a microphone
+alttags: 'A sample election ballot listing candidates for Baldwin County and state offices, overlaid with the text Backstory Podcast: No 12'
 related_articles:
 - slug: bsp118
   title: The Smokey and The Bandit Run

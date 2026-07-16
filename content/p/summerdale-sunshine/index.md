@@ -103,7 +103,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Sunlit Summerdale water tower with a metal walkway, marking the towns political candidate forum
+alttags: A water tower with SUMMERDALE printed on its side, featuring a metal walkway and silhouetted against a bright sun creating a lens flare in the sky
 ---
 Today the Summerdale candidate forum will feature the good ole boys, and women of Baldwin County, infighting and dividing alliances. It seems Catalyst has stained the name of Scott Boone Consulting aka Catalyst, and some of his loyalists are wanting a divorce. Scott Boone is Lowery’s campaign manager, which should come as no surprise.
 

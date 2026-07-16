@@ -7,7 +7,7 @@ rumble: v2qnfy0
 thumbnail: img/alien-indictment.jpg
 authors:
 - admin
-alttags: 'Podcast cover art: Alien Indictment, featuring a vintage photo resembling recovered aerial vehicles & government insignia'
+alttags: Webpage article titled Backstory Podcast No 159 Alien Indictment showing a grainy photo of an enclosed interior space, the Baldwin County seal, and text...
 related_articles:
 - slug: trump-n-bama
   title: Trump N Bama

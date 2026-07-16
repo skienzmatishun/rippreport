@@ -6,7 +6,7 @@ categories:
 thumbnail: /img/CAROLYN-AMICK.jpg
 authors:
 - admin
-alttags: Carolyn, a strong woman described as part of the early women’s liberation movement, smiles in a vintage portrait
+alttags: A close-up portrait of Carolyn, a smiling woman with curly light brown hair and a white floral top, looking slightly left against a softly blurred backg...
 related_articles:
 - slug: live-like-a-coward-die-like-a-coward
   title: LIVE LIKE A COWARD - DIE LIKE A COWARD

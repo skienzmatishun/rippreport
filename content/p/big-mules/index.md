@@ -7,7 +7,7 @@ rumble: v2o1sr6
 thumbnail: img/big-mules.jpg
 authors:
 - admin
-alttags: 'Podcast cover art: Three men in costumes referencing corporate influence and power dynamics discussed in the article'
+alttags: 'Three men pose on a set: one in Greek armor, another shirtless with a loincloth, and a third in a white polo. Overlay text: Backstory Podcast: No 157 B...'
 related_articles:
 - slug: hanky-panky-at-the-po-po
   title: Hanky Panky at the Po Po

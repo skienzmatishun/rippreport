@@ -7,7 +7,7 @@ rumble: v2jb1oo
 thumbnail: img/backstory-153.jpg
 authors:
 - admin
-alttags: Political figure speaks at a podium with American flags behind him, referencing a podcast about older politicians
+alttags: Joe Biden speaks at a podium with microphones before South Korean and American flags, overlaid with text from the Backstory Podcast episode 153
 related_articles:
 - slug: offensive
   title: Offensive

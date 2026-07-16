@@ -7,7 +7,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Cartoon water droplet mascot labeled Crystal Clean, representing Baldwin County Sewer Service, a privately operated, unr...
+alttags: A smiling golden droplet mascot with raised arms stands against a white background, featuring a chest banner that reads Crystal Clean with a left-pointi...
 related_articles:
 - slug: stinky-business
   title: STINKY BUSINESS

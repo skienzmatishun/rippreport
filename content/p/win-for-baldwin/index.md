@@ -11,7 +11,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Matt McKenzie, newly elected Baldwin County Commissioner, smiles against a waterfront backdrop
+alttags: Matt McKenzie, a middle-aged man with gray hair and a light blue patterned shirt, smiles at the camera against a blurred coastal pier and water
 related_articles:
 - slug: last-chance
   title: LAST CHANCE

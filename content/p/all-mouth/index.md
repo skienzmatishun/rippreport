@@ -7,7 +7,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Councilman Jack Burrell depicted with a long nose, suggesting insincerity regarding Fauxhope sewer upgrades
+alttags: Councilman Jack Burrell with white hair and a collared shirt looks to the side. His nose has been digitally altered into a long, protruding object
 related_articles:
 - slug: bull
   title: BULL SITTING Fairhope

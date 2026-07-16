@@ -9,7 +9,7 @@ categories:
 thumbnail: /img/cameras.jpg
 authors:
 - admin
-alttags: Body camera and police badge on a uniform, illustrating Sheriff Mack’s request for increased surveillance technology
+alttags: Close-up of a dark blue police uniform shirt showing a silver patrolman badge and a black body-worn camera clipped to the chest
 related_articles:
 - slug: rumors
   title: RUMORS

@@ -90,7 +90,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Book cover for The Framing of Murray Lawrence Jr., showing a young Black man and prison gates, detailing his wrongful conv...
+alttags: Book cover for The Framing of Murray Lawrence Jr. showing a man walking through prison gates on the front and a black-and-white portrait of a Black man ...
 ---
 A short but powerful read from Alabama Exposure and Accountability. The Framing of Murray Lawrence Jr.  
 

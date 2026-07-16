@@ -6,7 +6,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Map of Alabama highlighting political issues and Attorney General Steve Marshall’s focus on divisive topics
+alttags: A dark maroon map of Alabama showing all county boundaries outlined in white
 related_articles:
 - slug: elephants-in-alabama
   title: Elephants in Alabama

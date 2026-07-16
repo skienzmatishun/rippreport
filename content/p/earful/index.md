@@ -7,7 +7,7 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: 'Podcast artwork: stylized ear graphic representing the Verbal Lynching in Alabama podcast about Murray Lawrence Jr.s wr...'
+alttags: Black line drawing of an ear on a white background
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'

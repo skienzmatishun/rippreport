@@ -6,7 +6,7 @@ categories:
 - backstory-podcast
 rumble: v3fo50k
 thumbnail: img/pure-kafka.jpg
-alttags: Stephen Nodine discusses legal rulings while a scene from Congo & Baldwin County logo are displayed in the podcast backdrop
+alttags: A film still featuring two men in a clinical setting, overlaid with text for Backstory Podcast episode 164 and the Baldwin County seal
 related_articles:
 - slug: tides-end
   title: Tide's End

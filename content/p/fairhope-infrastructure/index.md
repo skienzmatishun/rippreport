@@ -15,7 +15,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Water dripping from a rusty faucet against a dark background, illustrating Fairhope’s ongoing water shortage and infrastru...
+alttags: A close-up of a rusted metal water valve with a pink and black handle, showing a single droplet falling from the spout against a dark background
 related_articles:
 - slug: FAUXHOPE-4
   title: FAUXHOPE

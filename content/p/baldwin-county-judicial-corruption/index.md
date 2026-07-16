@@ -8,7 +8,7 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: Close-up portrait of a man, potentially related to concerns about Baldwin County Sheriff’s Office accountability
+alttags: Murray Lawrence in a white tank top looks upward with a serious expression against a dim red background overlaid with faint courthouse and cage imagery
 related_articles:
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF

@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Map outline of Spanish Fort, Alabama, highlighting a municipal corruption case involving its mayor
+alttags: A dark red silhouette of the state of Alabama on a white background
 related_articles:
 - slug: happy-days
   title: HAPPY DAYS

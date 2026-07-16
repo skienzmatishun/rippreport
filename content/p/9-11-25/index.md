@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: American flag against a stormy sky with text United We Stand Divided We Fall, honoring those we will never forget
+alttags: An American flag waves against a dark, stormy sky beneath the large white text UNITED WE STAND DIVIDED WE FALL
 ---
 We will never forget.
 

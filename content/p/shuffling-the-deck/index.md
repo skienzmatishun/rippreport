@@ -11,7 +11,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Playing cards scattered with a Sheriffs car on a Joker card, symbolizing controversy surrounding BCSO leadership
+alttags: Scattered playing cards featuring a nine of clubs, a joker card with a car illustration, and a ten of spades
 related_articles:
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT

@@ -7,7 +7,7 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Man speaks at a podium with cameras present; inset shows individuals watching remotely, related to Alabama court system is...
+alttags: Backstory Podcast No 123 cover showing actor Bruce Willis leaning over a DieHard battery box while holding a lit match against a teal backdrop
 related_articles:
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY

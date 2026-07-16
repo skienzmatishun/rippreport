@@ -6,7 +6,7 @@ categories:
 - backstory-podcast
 rumble: v2zy9vi
 thumbnail: img/not-a-hard-liquor.jpg
-alttags: Alabama Governor Kay Ivey’s likeness on a beverage can, resembling Colonel Sanders, alongside Baldwin County seal & podcas...
+alttags: A beer can featuring Alabama Governor Kay Ivey in glasses and a bow tie, labeled sweet tea sour ale. Flanked by Baldwin County seal and Backstory Podcas...
 related_articles:
 - slug: the-big-lie
   title: THE BIG LIE

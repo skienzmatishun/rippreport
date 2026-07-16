@@ -10,7 +10,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Sheriff Mack partially obscured by a blanket, symbolizing alleged cover-ups within the Baldwin County Sheriff’s Office
+alttags: Sheriff Hoss Mack of the Baldwin County Sheriffs Office is shown with his face partially covered by a white sheet, wearing glasses and a mustache
 related_articles:
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF

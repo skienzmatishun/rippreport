@@ -7,7 +7,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: A birthday cake with the United States Marine Corps emblem, red and blue icing, and lit candles for its annual anniversary
+alttags: A white-frosted cake with the United States Marine Corps emblem, red and blue piping, four lit candles, and HAPPY BIRTHDAY in red icing on the side
 ---
 [The United States Marine Corps birthday](https://en.wikipedia.org/wiki/United_States_Marine_Corps_birthday) is celebrated every year on November 10. This date marks the establishment of the Continental Marines in 1775. In 2025, the Marine Corps will celebrate its 250th birthday, with various events and ceremonies planned across the nation.
 

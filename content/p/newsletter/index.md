@@ -6,7 +6,7 @@ categories:
 - ivy
 authors:
 - ripp-report
-alttags: Bald eagle perched on a post holds mail, symbolizing The Ripp Reports mission to deliver updates and expose local corrupt...
+alttags: A bald eagle with outstretched wings perches on a wooden mailbox post, holding a brown leather satchel of envelopes. A rural road and trees are visible ...
 ---
 Facebook fans on the Ripp Report and Baldwin County Legal Eagle can sign up for the Ripp Report on [https://rippreport.com/](https://rippreport.com/). The Ripp Report is a consumer group who’s major goal is to expose political corruption. We do however assist in many areas of consumerism not related to politics. The upcoming elections are going to be very important to the citizens of Baldwin County.
 

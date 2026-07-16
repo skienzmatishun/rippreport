@@ -7,7 +7,7 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: WHO official speaks at a podium about ending Covid-19 pandemic restrictions next week
+alttags: A man in a suit speaks at a podium with World Health Organization logos. Overlay text reads Backstory Podcast No 154 WHO Calls Pandemic
 related_articles:
 - slug: the-lie-of-the-century
   title: The Lie of The Century

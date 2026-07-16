@@ -6,7 +6,7 @@ categories:
 - monday-mayhem
 authors:
 - admin
-alttags: 'Lack of accountability in Baldwin County judicial ethics: a judge/developer facing approval conflicts'
+alttags: A black silhouette of a person with outstretched hands stands next to a black silhouette of a cannon on a white background
 related_articles:
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'

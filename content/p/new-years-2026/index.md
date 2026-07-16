@@ -95,7 +95,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: New Years special graphic with a Mississippi outline, Confederate flag, previewing 2025 discussions on Dixie
+alttags: Festive graphic with fireworks and gold confetti framing an outline of Mississippi labeled OF DIXIE, featuring a red heart and flag. Below reads NEW YEA...
 ---
 Today we are joined by Podcaster/Activist Whitney Scapecci and Professor/Economist/Political Figure Dr. John Sophocleus to discuss the Year that was 2025.
 

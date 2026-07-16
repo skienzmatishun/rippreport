@@ -11,7 +11,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Alabama shaped as a puzzle filled with money, legal symbols, and accusations, illustrating state corruption concerns
+alttags: A red puzzle shaped like Alabama with missing pieces revealing a gavel, camera icon, stick figure, dollar bills, and the text Alabama Legislature
 related_articles:
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR

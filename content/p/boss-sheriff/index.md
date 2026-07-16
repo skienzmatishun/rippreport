@@ -6,7 +6,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Baldwin County Sheriff Hoss Mack in uniform, facing forward, related to concerns about his office’s actions
+alttags: Headshot of Baldwin County Sheriff Hoss Mack in a light shirt with star insignia and dark tie, wearing glasses and a mustache while looking slightly dow...
 related_articles:
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF

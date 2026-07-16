@@ -10,7 +10,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Candidate Steve Carney linked to Catalyst group; money and restrictions depicted in graphic
+alttags: A hand holds a fan of one hundred dollar bills next to a red prohibition sign partially obscuring the word Catalyst
 related_articles:
 - slug: last-chance
   title: LAST CHANCE

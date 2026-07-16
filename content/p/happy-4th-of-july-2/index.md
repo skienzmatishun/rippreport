@@ -6,6 +6,6 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "American flag waving against a blue sky; overlaid text reads: When your loyalty to a felon is greater than your love for ..."
+alttags: 'American flag on a wooden pole. Text reads: When your loyalty to a felon is greater than your love for your country, You are the problem'
 ---
 Have a great 4th of July!

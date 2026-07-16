@@ -7,7 +7,7 @@ categories:
 authors:
 - admin
 rumble: v59wyw1
-alttags: Kamala Harris on a Time magazine cover titled “Her Moment,” discussed in a podcast amid shifting political dynamics
+alttags: Backstory Podcast The 180 cover featuring a red-framed TIME magazine sketch of Vice President Kamala Harris alongside the Baldwin County seal
 related_articles:
 - slug: what-the
   title: What the

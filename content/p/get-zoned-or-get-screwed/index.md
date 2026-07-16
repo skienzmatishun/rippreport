@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: 'Seal of Faux Hope, Alabama: a circular design featuring mountains, water, a screw, and text highlighting concerns about un...'
+alttags: Circular seal reading City of Fairhope, Alabama, with a silver screw in a yellow sun above blue water and three sailboats
 related_articles:
 - slug: fried-chicken-and-watermelon
   title: FRIED CHICKEN AND WATERMELON

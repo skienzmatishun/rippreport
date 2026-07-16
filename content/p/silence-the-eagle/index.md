@@ -9,7 +9,7 @@ categories:
 - terrific-tuesday
 authors:
 - admin
-alttags: Bald eagle wearing a harness stands before Auburn University’s Samford Hall, related to reporting on local police incidents
+alttags: A bald eagle wearing a black face mask stands in front of a brick courthouse with white columns and a clock tower
 related_articles:
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION

@@ -90,7 +90,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A bald eagle wearing headphones sits between two men, symbolizing the documentary’s focus on amplifying incarcerated voices
+alttags: A bald eagle wearing black Bose headphones sits on a talk show set, flanked by two blurred men against a night cityscape backdrop
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vadQsrAHLSw?si=k-f3KTnq8o2P93Hw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

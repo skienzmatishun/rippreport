@@ -6,7 +6,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Silhouette of a teapot against a white background; symbolizing deflection and ignoring local issues in Alabama politics
+alttags: Black silhouette of a teapot with a handle, spout, and lidded top against a white background
 related_articles:
 - slug: perfect-puzzle
   title: PERFECT PUZZLE

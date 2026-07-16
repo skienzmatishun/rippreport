@@ -7,6 +7,6 @@ categories:
 description: Remember those who died for our country and freedom on this Memorial Day.
 authors:
 - admin
-alttags: "Bald eagle stands proudly before a blurred American flag, honoring those who served and sacrificed for freedom"
+alttags: A close-up of a bald eagle looking downward against a blurred American flag background
 ---
 Remember those who died for our country and freedom on this Memorial Day.

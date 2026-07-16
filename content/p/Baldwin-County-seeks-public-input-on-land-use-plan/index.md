@@ -6,7 +6,7 @@ categories:
 - Special-Report
 authors:
 - admin
-alttags: Baldwin County seeks public input on land use planning; megaphone graphic represents outreach efforts
+alttags: A red and white megaphone on a solid blue background emits a gray graphic representing sound waves
 related_articles:
 - slug: development-chaos
   title: DEVELOPMENT CHAOS

@@ -8,7 +8,7 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: President Biden and Vice President Harris featured in Backstory Podcast episode discussing current events and Alabama poli...
+alttags: Backstory Podcast cover featuring Joe Biden and Kamala Harris seated side by side, flanked by the Baldwin County seal and podcast logo
 related_articles:
 - slug: hanky-panky-at-the-po-po
   title: Hanky Panky at the Po Po

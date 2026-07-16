@@ -9,7 +9,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Bodycam footage shows a police officer in uniform near a brick building, highlighting the article’s focus on law enforceme...
+alttags: Bodycam footage showing a persons extended arms holding a firearm aimed at a brick building entrance, featuring a BODYCAM logo and July 25, 2021 timestamp
 related_articles:
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF

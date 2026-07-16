@@ -90,7 +90,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A hybrid ship blending pirate masts with a modern oil tanker, illustrating the lawful seizure of Venezuelan vessels
+alttags: A large oil tanker with wooden masts, sails, and side cannons flies a skull-and-crossbones flag while sailing on the water at dusk
 ---
 This was submitted by a knowledgeable source:
 

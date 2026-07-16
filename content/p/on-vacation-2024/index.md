@@ -6,6 +6,6 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "Bald eagles in flight over running bulls, a parade float, and London landmarks—a symbolic preview of events happening in A..."
+alttags: 'Three panels show a bald eagle in flight: wearing a red bandana over a crowd, near Portuguese flags, and soaring above London’s Union Jacks and taxi'
 ---
 See ya in April.

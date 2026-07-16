@@ -14,7 +14,7 @@ tags:
 - Hoss Mack
 authors:
 - admin
-alttags: Confused faces on phones arranged in a circle, symbolizing confusion surrounding O.J. French’s shooting by Bay Minette Police
+alttags: Twelve black and white line drawings of men and women holding telephones, arranged in a circle
 related_articles:
 - slug: lethal-force
   title: LETHAL FORCE

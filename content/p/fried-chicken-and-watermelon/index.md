@@ -6,7 +6,7 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: Fried chicken and watermelon, referenced in the article as a symbol of political neglect toward the African American commu...
+alttags: Crispy fried chicken pieces are arranged around bright red watermelon slices with visible seeds and white rind edges
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE

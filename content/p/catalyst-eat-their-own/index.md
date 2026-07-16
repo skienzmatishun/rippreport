@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Fairhope political figures Jennifer Fidler & Sherry Sullivan; a fork and knife crossed out with catalyst in red
+alttags: A black fork and knife flank a red prohibition symbol over the word Catalyst, naming the local political group
 related_articles:
 - slug: moratorium-party
   title: MORATORIUM PARTY

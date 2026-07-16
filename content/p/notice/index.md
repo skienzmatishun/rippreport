@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Bald eagle holding a key in its beak, symbolizing blocked access to Facebook pages like Ripp Report and Francis Ripp
+alttags: A bald eagle holds a metal key in its beak next to two silver door deadbolts
 related_articles:
 - slug: mia
   title: M.I.A.

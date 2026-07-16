@@ -13,7 +13,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Black void representing Alabama Attorney General Steve Marshall’s lack of transparency and responsiveness to public compla...
+alttags: A completely black image with no visible content
 related_articles:
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST

@@ -8,7 +8,7 @@ categories:
 authors:
 - admin
 rumble: v3yczga
-alttags: Podcast graphic promoting a documentary questioning George Floyd’s death cause, featuring a police officer and trial exhib...
+alttags: A police officer kneeling on a person, marked Exhibit 17. Text notes it replaced body cam video in the trial covered by Backstory Podcast No 169
 related_articles:
 - slug: no-justice
   title: NO JUSTICE

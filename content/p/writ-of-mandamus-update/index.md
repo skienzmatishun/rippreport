@@ -11,7 +11,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Crash test dummy head with painted markings, symbolizing legal scrutiny and a status review hearing in Ripp Report case
+alttags: A worn beige mask with black circular eyes and a rectangular mouth, marked with hazard symbols and a Maryland flag sticker
 related_articles:
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT

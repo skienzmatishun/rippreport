@@ -88,7 +88,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Will Smith strikes Chris Rock on a stage during the 2022 Oscars, referenced in the article regarding Attorney General Stev...
+alttags: Will Smith strikes Chris Rock on a brightly lit stage with curved illuminated structures, overlaid with text reading Will Smith hits Chris Rock at 2022...
 ---
 79.9 Million infected with SARS-COV-2 in the USA with 976,618 deaths.
 

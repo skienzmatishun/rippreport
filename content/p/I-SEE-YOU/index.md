@@ -11,7 +11,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Fairhope city clock tower under surveillance cameras, symbolizing a council ignoring public input
+alttags: A white-background split image showing a Fairhope City clock post with mounted security cameras and the rear of a dark blue Honda CR-V with an INOCENT l...
 related_articles:
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL

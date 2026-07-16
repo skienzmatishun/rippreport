@@ -7,7 +7,7 @@ rumble: v2prck0
 thumbnail: img/offensive.jpg
 authors:
 - admin
-alttags: Capital Police blocking a school choir from singing the National Anthem, referenced in recent events discussed
+alttags: 'School children in black uniforms stand in a hall with statues while an adult faces them. Text overlay reads Backstory Podcast: No 158 Offensive.'
 related_articles:
 - slug: red-lips-award
   title: RED LIPS AWARD

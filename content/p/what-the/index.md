@@ -8,7 +8,7 @@ categories:
 authors:
 - admin
 rumble: v4kazef
-alttags: Senator Katie Britt appears on the Backstory Podcast discussing a bizarre Alabama love triangle story
+alttags: 'Still from Backstory Podcast episode 172 showing a host in a kitchen with text labels: Scorned Lover, Wacky Neighbor, Serial Killer, and Mob Wife'
 related_articles:
 - slug: offensive
   title: Offensive

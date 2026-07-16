@@ -8,7 +8,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Letterbox with U.S. Mail marking, symbolizing complaints submitted to Steve Marshall’s office regarding ethics commissio...
+alttags: A silver U.S. Mail mailbox on a black post behind a dark metal fence, with a red eighth note graphic overlaid on its side
 related_articles:
 - slug: deaf-ears
   title: DEAF EARS

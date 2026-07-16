@@ -17,7 +17,7 @@ tags:
 summary: I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman Jack Burrell. Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all.
 authors:
 - admin
-alttags: Vintage alarm clock labeled City of Fairhope with lightning bolts on a red background, symbolizing urgency over council co...
+alttags: A vintage alarm clock with bells and yellow lightning bolts on a red background shows the text CITY OF FAIRHOPE above its Roman numeral dial
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE

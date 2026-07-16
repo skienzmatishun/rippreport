@@ -13,7 +13,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Sheriff Mack portrait alongside Baldwin County Sheriff’s Office seal and Lady Justice statue, related to ongoing lawsuits ...
+alttags: Sheriff Huey Mack in a suit and bow tie stands beside the Baldwin County Sheriffs Office seal and a statue of Lady Justice holding scales
 related_articles:
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT

@@ -14,7 +14,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: A TV displays nine photos of men in sheriff uniforms, reflecting the articles claim that Lowery is a clone of Hoss Mack
+alttags: Nine men in sheriff uniforms appear arranged in a three-by-three grid on the screen of a vintage television set
 related_articles:
 - slug: bcso-culture
   title: BCSO CULTURE

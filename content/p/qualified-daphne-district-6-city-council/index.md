@@ -12,7 +12,7 @@ tags:
 summary: Every now and then you get a candidate interested in public service that is highly skilled and over qualified. Someone who is willing to use his skills he learned in private business to a position of public servant. Dr. Byrian Ramsey is one of those candidates.
 authors:
 - admin
-alttags: Campaign poster for Dr. Byrian Ramsey seeking City Council District 6, with yellow stars on a blue field and Lake Forest F...
+alttags: Campaign poster on blue with yellow stars and red text reading ELECT DR. BYRIAN RAMSEY, Lake Forest First, City Council District 6, and a website
 related_articles:
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?

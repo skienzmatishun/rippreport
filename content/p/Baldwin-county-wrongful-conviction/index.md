@@ -8,7 +8,7 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: Baldwin County Courthouse, featured in a podcast about wrongful conviction and judicial system corruption
+alttags: A black-and-white photograph of the Baldwins County Courthouse, featuring a clock tower and large arched entrance windows
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'

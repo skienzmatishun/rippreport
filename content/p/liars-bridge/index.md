@@ -10,7 +10,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Political figure superimposed against a Mobile bridge backdrop, symbolizing broken promises regarding toll-free infrastruc...
+alttags: Jack Burrell with an edited long nose stands before the Mobile Bay Bridge and waterfront skyline
 related_articles:
 - slug: mouthpiece
   title: MOUTHPIECE

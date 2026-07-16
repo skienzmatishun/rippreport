@@ -9,7 +9,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Tunnel view with a “No U Turn” sign, symbolizing Fauxhope’s restrictive governance and lack of direction
+alttags: Concrete tunnel entrance with a dark interior and hanging light, next to a NO U TURN sign at the Fairhope city project site
 related_articles:
 - slug: I-SEE-YOU
   title: I SEE YOU

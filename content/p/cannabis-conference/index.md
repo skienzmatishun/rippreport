@@ -6,7 +6,7 @@ categories:
 - events
 authors:
 - admin
-alttags: Close-up view of cannabis buds and leaves, featured at Alabama’s first medical cannabis conference
+alttags: Close-up of a cannabis plant showing a central flowering bud with white trichomes surrounded by serrated leaves transitioning from green to brown
 related_articles:
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'

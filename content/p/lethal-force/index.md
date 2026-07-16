@@ -10,7 +10,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Sheriff’s SWAT vehicle against a solid background; highlights concerns about excessive police force in Baldwin County
+alttags: A tan armored vehicle marked SHERIFF and SWAT, featuring a forward-mounted barrel and roof equipment on a solid maroon background
 related_articles:
 - slug: rumors
   title: RUMORS

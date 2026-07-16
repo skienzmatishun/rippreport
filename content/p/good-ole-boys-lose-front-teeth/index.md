@@ -22,7 +22,7 @@ tags:
 summary: Baldwin County is seeing a shift from the good ole boy, GOB, culture to a transparent and accountable government. This election has shown that citizens of Baldwin County are fed up with the blatant corruption. Catalyst, aka Scott Boone Consulting, the political promoter of GOB now has the attention of the public. A Catalyst candidate is a GOB candidate, plain and simple. The GOB and Catalyst lost some front teeth in this election.
 authors:
 - admin
-alttags: A dusty, spiderweb-covered tube of Good Ole Boys toothpaste, symbolizing the GOB factions political decline
+alttags: A dusty, spiderweb-covered tube of Good Ole Boys fluoride toothpaste rests on a dirty countertop beside a sink basin
 related_articles:
 - slug: end-the-good-ole-boy-culture-in-baldwin-county
   title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY

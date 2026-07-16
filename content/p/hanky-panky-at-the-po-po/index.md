@@ -8,7 +8,7 @@ categories:
 authors:
 - admin
 rumble: v50etd5
-alttags: Handcuffs against a black background symbolize allegations against Captain Reid and potential cover-ups within the Sheriff...
+alttags: Black fuzzy handcuffs with a metal chain and two silver keys. Baldwin County seal and Backstory Podcast logo sit above a yellow banner reading Hanky Pan...
 related_articles:
 - slug: crazy
   title: CRAZY

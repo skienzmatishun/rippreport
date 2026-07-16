@@ -11,7 +11,7 @@ categories:
 - monday-madness
 authors:
 - ripp-report
-alttags: Baldwin election signs featuring Carrie Sier and Andrea Lindsey; an eagle wearing a blindfold suggests questionable practices
+alttags: A bald eagle wearing a teal bandana stands before two campaign signs for Baldwin County School Board District 2, advertising Carrie Hosier and Andrea Li...
 related_articles:
 - slug: snakes-in-the-schools
   title: SNAKES IN THE SCHOOLS

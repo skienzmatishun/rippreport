@@ -7,7 +7,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Alabama State Capitol building with Department of Veterans Affairs seal; controversy over veterans representation
+alttags: Government building photo overlaid with the Alabama Department of Veterans Affairs logo, showing the state outline and Proudly Serving Americas Finest
 related_articles:
 - slug: lt-governor-ainsworth-breaks-with-governor
   title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'

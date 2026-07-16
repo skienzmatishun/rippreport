@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Smiling yellow emoji face representing the “happy days” posts discussed in the article
+alttags: A yellow circular smiley face emoji with two oval eyes and a curved smile on a white background
 related_articles:
 - slug: southern-gothic
   title: SOUTHERN GOTHIC

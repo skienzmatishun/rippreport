@@ -12,7 +12,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Book cover titled How to Become Sheriff for Dummies, highlighting Fear and Intimidation included! FREE! referencing ar...
+alttags: Book cover for How to Become Sheriff for Dummies, fourth edition. Features a cartoon character holding a CD and text reading Fear and Intimidation inclu...
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO

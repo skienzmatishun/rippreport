@@ -9,7 +9,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Two figures in suits wear bags of money as heads, illustrating tax revenue flow into Baldwin County Schools board coffers
+alttags: A cartoon woman in a black suit with pink trim and a man in a dark suit stand side by side. Both have large brown money bags with dollar signs for heads
 related_articles:
 - slug: tax-tax-and-re-tax
   title: TAX TAX AND RE-TAX

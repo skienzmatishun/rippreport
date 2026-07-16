@@ -12,7 +12,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Alabama state-shaped shot glass labeled Sweet Home, symbolizing potential blind spots in reporting on local politics
+alttags: A clear shot glass featuring a red outline of the state of Alabama with the words Sweet Home in red cursive script
 related_articles:
 - slug: elephants-in-alabama
   title: Elephants in Alabama

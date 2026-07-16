@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "Bald eagles perched in a large nest alongside a decorated Christmas tree, celebrating the holiday season with family"
+alttags: Two bald eagles and a chick perch in a stick nest against a blue sky, with a superimposed Christmas tree decorated by red and white ornaments on the left
 ---
 It's a time for giving, sharing, and creating lasting memories with family and friends. 
 

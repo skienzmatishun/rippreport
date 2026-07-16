@@ -6,7 +6,7 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Chinese spy balloon illustration from Backstory Podcast episode, discussed alongside concerns about FBI weaponization
+alttags: Article screenshot showing a large white balloon in the sky, with headlines about a suspected Chinese spy balloon and logos for Backstory Podcast No 141
 related_articles:
 - slug: biased-investigation
   title: BIASED INVESTIGATION

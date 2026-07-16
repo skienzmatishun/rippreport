@@ -12,7 +12,7 @@ tags:
 summary: 'Two questions every voter should be asking in this city council election: Should the mayor take a second salary as utilities director or should that money fund a qualified engineer to oversee electric, gas, water and sewer? Do you support creating council districts so that citizens have a clear representative instead of five at-large seats that protect special interests?'
 authors:
 - admin
-alttags: White text on black reads TWO QUESTIONS DECIDE and cursive script for Fairhopes Future, highlighting key city council...
+alttags: A black square with a white border contains the text TWO QUESTIONS DECIDE in bold, above Fairhopes Future written in cursive script
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL

@@ -10,7 +10,7 @@ tags:
 - GAL
 authors:
 - ripp-report
-alttags: Baldwin County Family Court Reform Project logo; highlights concerns about corruption within Alabama’s family court system
+alttags: Blue banner with white text reading Baldwin County Family Court Reform Project serving Baldwin County, featuring an official seal overlaid with a red di...
 related_articles:
 - slug: failing-our-children-in-baldwin-county
   title: FAILING OUR CHILDREN IN BALDWIN COUNTY

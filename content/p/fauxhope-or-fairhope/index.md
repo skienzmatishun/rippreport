@@ -15,7 +15,7 @@ tags:
 - George Ferniany
 authors:
 - ripp-report
-alttags: Fairhope city clocks representing a challenge to the status quo in the upcoming municipal election
+alttags: Two ornate street clocks labeled Fairhope and City of Fairhope stand side by side against a purple background, each showing different times with Roman n...
 related_articles:
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS

@@ -6,7 +6,7 @@ categories:
 thumbnail: /img/fly-creek-mud.jpg
 authors:
 - admin
-alttags: Muddy wave cresting near a “Fly Creek” sign, illustrating infrastructure failures impacting the creek with sediment runoff
+alttags: A green street sign reading FLY CREEK stands behind a large swirl of brown mud and floodwater, with trees and power lines visible against a blue sky
 related_articles:
 - slug: fauxhope-2
   title: FAUXHOPE

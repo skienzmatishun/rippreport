@@ -9,7 +9,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Map highlighting proposed Planning District 8, potentially avoiding annexation issues faced by Fairhope’s African American...
+alttags: A zoning map showing colored districts, overlaid with a large black circle containing the white number 8 to highlight the proposed new district
 related_articles:
 - slug: malfunction-junction
   title: MALFUNCTION JUNCTION

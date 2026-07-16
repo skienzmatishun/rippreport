@@ -8,7 +8,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Tom Albritton receives a large check from the Mabel Amos Scholarship Trust, referencing ethics and financial values
+alttags: Tom Albritton stands before a gold CONGRATS balloon banner, gesturing next to a large check for $100,000 payable to him from the Mabel Amos Memorial Fund
 related_articles:
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST

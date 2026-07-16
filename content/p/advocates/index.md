@@ -8,7 +8,7 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: Portrait of Murray Lawrence Jr. alongside Baldwin County Courthouse; advocates found a hidden autopsy in his murder trial
+alttags: Split image featuring a close-up of Murray “Bubba” Lawrence Jr. on the left and the Baldwin County Courthouse exterior on the right
 related_articles:
 - slug: no-justice
   title: NO JUSTICE

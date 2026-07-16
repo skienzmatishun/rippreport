@@ -92,7 +92,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Collage of judicial portraits, a Bluegill Doritos bag, and graphics on Alabamas court appointments and gaming influence
+alttags: A collage of Alabama circuit and district judge portraits, a Doritos chip bag, a Hunter Biden tweet screenshot, and a wanted poster labeled POODLE PUNCHER
 ---
 There are three branches of government in Alabama, but here in Baldwin County there is a cabal that controls who sits on our bench via political influence with the State Executive Branch coordinated right here... and not by any political party.  Then there is the bombshell that Draft Kings (yes the gaming app) is supporting pro-gaming legislators for the upcoming 4 years and the creation of the Alabama Gaming Commission.  And that they may be in negotiations with PCI Gaming (that would be the Porch Band of Creek Indians) related to a merger or acquisition. Check your mail box, you are the target.
 

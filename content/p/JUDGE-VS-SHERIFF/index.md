@@ -10,7 +10,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Sheriff Mack depicted holding a rifle next to scales of justice, symbolizing power and potential intimidation within Baldw...
+alttags: A brass scale of justice stands beside Sheriff Hoss Mack holding a sniper rifle against a white background
 related_articles:
 - slug: boss-sheriff
   title: BOSS SHERIFF

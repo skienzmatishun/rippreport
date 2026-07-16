@@ -14,7 +14,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Baldwin County Sheriff Hoss Mack in uniform stands before an American flag, a focus of controversy detailed in this article
+alttags: Portrait of Anthony Lowery, newly appointed Baldwin County Sheriff, in a dark brown uniform with an Alabama Sheriff patch and badge before the American ...
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT

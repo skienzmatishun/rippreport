@@ -10,7 +10,7 @@ tags:
 - Airport
 authors:
 - admin
-alttags: 'Satirical depiction: Jack Burrell’s face superimposed on a toy rocket, symbolizing developer influence in Fairhope politics'
+alttags: White-haired man Jack Burrell is superimposed into the cockpit of a red and blue LEGO-style spaceship with green lights against a white background
 related_articles:
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS

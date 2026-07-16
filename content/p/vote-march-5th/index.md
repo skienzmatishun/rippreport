@@ -6,7 +6,7 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: 'Baldwin County election graphic: An eagle flies over a ballot box against an American flag backdrop, urging voters to part...'
+alttags: A bald eagle in flight drops a ballot into a white voting box labeled VOTE against an American flag background, with large text reading MARCH 5th
 related_articles:
 - slug: vote-smart
   title: VOTE SMART

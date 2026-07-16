@@ -6,7 +6,7 @@ categories:
 thumbnail: /img/get-out-of-jail-card.jpg
 authors:
 - admin
-alttags: Get Out of Jail Free Monopoly card symbolizing how some avoid accountability in Baldwin County politics
+alttags: Close-up of an orange card with black text reading Chance and GET OUT OF JAIL FREE, resting on other game cards
 related_articles:
 - slug: black-cloud
   title: BLACK CLOUD

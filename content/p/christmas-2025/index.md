@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: A bald eagle in a Santa suit with outstretched wings stands in a snowy landscape under the aurora borealis
+alttags: A bald eagle wearing a Santa Claus outfit with its wings spread wide stands in a snowy forest under an aurora borealis sky
 ---
 Have a Merry Christmas!
 

@@ -14,7 +14,7 @@ tags:
 - Lynn-Stacy
 - Thomasson
 - Tucker-Dorsey
-alttags: Close-up of a man in a blue suit speaking, featured in an article about the Weasel Contractor
+alttags: Weasel Contractor speaking in a blue suit against a dark blue background
 ---
 {{< socialpreview url="https://rippreport.com/p/weasel-contractor/" >}}
 

@@ -6,7 +6,7 @@ categories:
 - monday-madness
 authors:
 - admin
-alttags: Council members celebrating, possibly masking criticism after a controversial president’s departure
+alttags: Four stick figures run around two chairs with musical notes and sound lines above, illustrating the game of musical chairs
 related_articles:
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST

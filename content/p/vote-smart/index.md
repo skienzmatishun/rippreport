@@ -6,7 +6,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Two women in professional attire, likely representing political figures discussed in the Baldwin County candidate selection
+alttags: 'Actually, lets just write: Two women in blazers stand against a gray backdrop. The red-haired woman on the left smiles at the viewer'
 related_articles:
 - slug: vote-march-5th
   title: VOTE MARCH 5th

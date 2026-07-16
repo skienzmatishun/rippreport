@@ -95,7 +95,7 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 10
-alttags: A man in a green TAX MAN superhero costume holds a dollar-sign vacuum, representing Chris Elliotts tax-focused persona
+alttags: Chris Elliott wears a superhero costume with a green mask, cape, and gray shirt featuring a red shield reading TAX MAN. He holds a vacuum cleaner with a...
 ---
 <a href="https://rippreport.com/p/laugh-out-loud-baldwin">Published March 3rd 2022</a>
 

@@ -12,7 +12,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: New candidates taking root in Fauxhope elections, casting a ballot into a marked voting box
+alttags: A pink daisy with visible roots rests on a green background beside a hand inserting a ballot into a cardboard box labeled VOTE
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL

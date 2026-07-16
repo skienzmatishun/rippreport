@@ -11,7 +11,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: 'Don’t delay: Baldwin County primary election reminder—all affiliations can vote tomorrow despite local apathy'
+alttags: A cartoon alarm clock with a red casing and cream face showing the time. Two yellow bells on top emit sound waves to indicate it is ringing
 related_articles:
 - slug: shooting-yourself-in-the-foot
   title: SHOOTING YOURSELF IN THE FOOT

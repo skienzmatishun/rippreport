@@ -7,7 +7,7 @@ rumble: v2m7d78
 thumbnail: img/bad-faith.jpg
 authors:
 - admin
-alttags: ALDOT bridge construction over Pleasure Island in Alabama, central to a dispute detailed in this Bad Faith podcast episode
+alttags: Aerial view of the Baldwin County Bridge over water near greenery and buildings. A blue banner reads Backstory Podcast No 156 Bad Faith
 related_articles:
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX

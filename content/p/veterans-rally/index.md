@@ -7,7 +7,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Alabama State House where veterans are rallying against VA control under the governor
+alttags: The Alabama State House building with classical columns and American and state flags flying in front
 related_articles:
 - slug: war
   title: WAR

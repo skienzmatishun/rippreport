@@ -65,7 +65,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-alttags: A bald eagle perches above peach medical cannabis jars, representing products sold through Alabamas new dispensaries
+alttags: A bald eagle stands on a wooden display above four glass jars with orange labels reading Peach, More Peach, Just Peach, and Peach Again
 ---
 Press Release:
 Thursday January 22, 2026

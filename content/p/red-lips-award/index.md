@@ -20,7 +20,7 @@ tags:
 - Cliff McCollum
 authors:
 - ripp-report
-alttags: Red lips sculpture on a stand, referencing corruption & criticism of Alabama’s leadership regarding mental health and vete...
+alttags: A trophy featuring a glossy red lip sculpture sits on a black base with a gold plaque reading Andrew Jones and Ed Oliver
 related_articles:
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS

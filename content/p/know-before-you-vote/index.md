@@ -7,7 +7,7 @@ categories:
 thumbnail: img/know-before-you-vote.jpg
 authors:
 - admin
-alttags: Blue banner with text WATCH THIS before you vote and a logo reading Definitely Not the Official Seal of Fairhope
+alttags: White text on a blue background reads WATCH THIS before you vote beside a circular emblem stating DEFINITELY NOT THE OFFICIAL SEAL OF FAIRHOPE with a bi...
 related_articles:
 - slug: know-before-you-vote-2
   title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '

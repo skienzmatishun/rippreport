@@ -7,7 +7,7 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Graphic depicting Biden’s Ministry of Truth, referencing criticism of the Disinformation Governance Board. Fox News logo...
+alttags: Slide for Backstory Podcast 126 on Lower Alabamas Endangered Species, featuring a black-and-white wildlife illustration by Cheryl Ramsey and the Baldwi...
 related_articles:
 - slug: he-must-go
   title: He Must Go

@@ -7,7 +7,7 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Will Smith striking Chris Rock onstage at the 2022 Oscars, referenced in an article about rising violence
+alttags: Two men in suits stand on a lit stage as one slaps the other, with text identifying the 2022 Oscars incident and Backstory Podcast episode 122
 related_articles:
 - slug: the-black-eyes-of-alabama
   title: The Black Eyes of Alabama

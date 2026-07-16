@@ -9,7 +9,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Two dice against a dark background, representing Alabama’s ongoing debate about establishing a state lottery
+alttags: Two cream-colored dice with black pips float against a dark background. The left die shows six dots, while the right displays five and three pips
 related_articles:
 - slug: what-education-lottery
   title: WHAT EDUCATION LOTTERY?

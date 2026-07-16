@@ -6,7 +6,7 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: YouTube video thumbnail from Backstory Podcast discussing legal issues surrounding McSharry’s Irish Pub owner Ronin McSharry
+alttags: YouTube video screenshot titled Backstory Podcast No 132 on Ronin McSharry, showing men in suits interacting inside the Alabama State Legislature
 related_articles:
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE

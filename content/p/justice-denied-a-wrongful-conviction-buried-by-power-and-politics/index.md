@@ -15,7 +15,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Four men in suits, likely involved in the wrongful conviction of Murray Lawrence Jr, now holding positions of power
+alttags: 'Four men in suits stand side by side in a black and white photo. From left to right: Robert Wilters, Anthony Lowery, Huey Mack, and David Whetstone'
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'

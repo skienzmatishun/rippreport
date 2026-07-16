@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: Smoke billows from the World Trade Center towers in New York City, a stark reminder of September 11th and its lasting impact
+alttags: A large smoke plume rises behind the New York City skyline, obscuring skyscrapers near a waterfront with a construction crane on the right
 related_articles:
 - slug: 9-11
   title: 9-11

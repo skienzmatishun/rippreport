@@ -96,7 +96,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A bald eagle wearing glasses reads a newspaper headlined GOB NETWORK IS ERODING AND PANICKING, symbolizing political change
+alttags: A bald eagle wearing glasses reads a newspaper with the headline GOB NETWORK IS ERODING AND PANICKING against a dark brown background
 ---
 EYES, That is all it takes to see the obvious. The good ole boy network, GOB,  in Baldwin County is shameless, They know low voter turnout, constituent ignorance and the cabal of corrupt politicians, judges and lawyers will cover their ass.
 

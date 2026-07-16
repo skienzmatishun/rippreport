@@ -6,6 +6,6 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "Black and white photo of six Marines in historical uniforms holding rifles, commemorating the Marine Corps birthday"
+alttags: Six men in historical U.S. Marine Corps uniforms stand in a row holding rifles, wearing peaked hats and crossbelts against a plain backdrop
 ---
 Celebrating the Marine Corps birthday today! To all Marines, past and present, thank you for your dedication, sacrifice, and service to our nation. Semper Fi!
