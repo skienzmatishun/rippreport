@@ -1,7 +1,7 @@
 ---
 title: RE-GIFT GIFT ??
 date: 2026-07-16
-thumbnail: img/re-gift-gift.png
+thumbnail: img/re-gift-gift-2.png
 categories:
 - repost
 tags:
@@ -12,7 +12,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Gift box with red ribbon, symbolizing the deed of land donation discussed in Fairhope council meeting
+alttags: Gift box with red ribbon.
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER

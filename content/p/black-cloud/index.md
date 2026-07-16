@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Lack of transparency symbolized by a dark cloud crossed out, reflecting Baldwin County’s accountability issues
+alttags: A dark cloud shape centered on a white background, overlaid with a thick orange cross extending beyond its edges
 related_articles:
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY

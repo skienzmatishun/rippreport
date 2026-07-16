@@ -14,7 +14,7 @@ categories:
 - ethics
 authors:
 - admin
-alttags: Alabama sheriff in uniform and cowboy hat; represents concerns over political corruption and white collar crime impacting ...
+alttags: Baldwin County Sheriff Huey Mack sits in an office wearing a white sheriff uniform and cowboy hat, beside framed certificates and an American flag
 related_articles:
 - slug: black-cloud
   title: BLACK CLOUD
