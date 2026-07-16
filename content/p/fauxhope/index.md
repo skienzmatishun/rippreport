@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Fauxhope Alabama seal showing a sun, clouds, bird, and sailboats, used in critiques of municipal leadership
+alttags: Circular city seal reading CITY OF FAUXHOPE and ALABAMA, featuring a yellow sun, blue sky, brown land strip, and a white bird in flight
 related_articles:
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
