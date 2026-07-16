@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Circular seal reading City of Fauxhope Alabama with a red FAUX overlay. It shows a FOR SALE sign above illustrated houses and buildings
+alttags: Circular seal for Fauxhope, Alabama features a yellow sun with dark clouds, a white bird in flight, three sailboats. Text reads CITY OF FAUXHOPE ALABAMA
 related_articles:
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
