@@ -1,6 +1,7 @@
 ---
 title: "Letter to Mayor Kennon of Orange Beach"
 date: 2015-09-04
+thumbnail: img/letter-mayor-kennon-orange-beach.png
 description: "Formal complaint requesting investigation of Judge Brackin's DUI case handling and double standards"
 tags: ["archive", "historical", "orange-beach", "judge-brackin", "dui", "corruption"]
 authors:

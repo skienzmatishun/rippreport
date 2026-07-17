@@ -1,5 +1,6 @@
 ---
 title: "Fauxhope Football Sneak Play"
+thumbnail: img/football-sneak-play.png
 date: 2015-10-23
 description: "City pays $35,000 to Senior Bowl for two hours of practice on Fairhope fields after fundraiser for Mayor"
 tags: ["archive", "historical", "senior-bowl", "angus-cooper", "diana-brewer", "conflicts-of-interest"]
