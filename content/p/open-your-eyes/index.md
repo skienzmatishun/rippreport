@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Cartoon eyes suggesting someone is being manipulated or controlled, referencing the article’s claim about Governor Ivey
+alttags: A simple cartoon drawing of two large white eyes with black pupils and small white highlights, set against a solid orange background
 related_articles:
 - slug: banned-from-the-mall
   title: BANNED FROM THE MALL

@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Group gathered around a table, likely discussing Fairhope Mayor Wilson complaint mentioned in Gulf Coast news report
+alttags: A group of adults gathered around a table in an indoor setting, with some seated and others standing behind it. The room features dim lighting
 related_articles:
 - slug: police-report
   title: POLICE REPORT

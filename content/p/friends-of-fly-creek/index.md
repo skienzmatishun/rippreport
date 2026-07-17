@@ -6,6 +6,13 @@ categories:
 - fairhope
 tags:
 - Fly Creek
+- Author Corti
+- Publix
+- Retreat at Fairhope Village
+- Tim Kant
+- Karin Wilson
+- ADEM
+- Mobile Baykeepers
 authors:
 - ripp-report
 related_articles:
@@ -114,7 +121,7 @@ The 230-unit Retreat at Fairhope Village has been a source of contention for yea
 
 About every 5 years we dredge out Fly Creek basin and yacht club. Millions spent on dredging out CONSTRUCTION runoff. Same developer, same issue, same result, NOTHING. DNA of the sediment in the creek is identified as coming from the Publix-Apartments. Still the city sits on its hands with its fingers in their ears.
 
-Please take a trip up Parker road behind publix past the fire station and see the latest development the council and mayor again approved despite the lawsuits and continuous damage to the creek. You do not need a college degree to figure out that the drainage from this new cluster F goes down hill into the creek. How damn dumb are we or how corrupt is Fauxhope?
+Please take a trip up Parker road behind Publix past the fire station and see the latest development the council and mayor again approved despite the lawsuits and continuous damage to the creek. You do not need a college degree to figure out that the drainage from this new cluster F goes down hill into the creek. How damn dumb are we or how corrupt is Fauxhope?
 
 Friends of Fly Creek do not waste your time with ADEM, Baykeepers, City Council or Mayor. Join together in a lawsuit that is your only recourse. I suggest Attorney Adam Milam who has the experience and knowledge about the situation.
 
