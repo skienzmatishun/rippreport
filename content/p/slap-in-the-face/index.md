@@ -15,7 +15,7 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: Hand raised in a slapping gesture against a stark background, symbolizing corruption and injustice in the judicial system
+alttags: Black silhouette of an open hand with fingers spread
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE

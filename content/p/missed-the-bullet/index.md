@@ -13,7 +13,7 @@ tags:
 - robin-lejeune
 authors:
 - admin
-alttags: Hurricane Delta approaching a figure, symbolizing Lake Charles facing another direct hit after significant storm damage
+alttags: Black silhouette of a person falling backward with a hurricane symbol above their head
 related_articles:
 - slug: m-i-a
   title: M.I.A
