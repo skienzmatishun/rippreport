@@ -13,7 +13,7 @@ tags:
 - fema-fraud
 authors:
 - admin
-alttags: Dried purple roses in a clear glass vase with wilted leaves, illustrating the alleged illegal purchase of flowers with town funds
+alttags: Dried purple roses in a clear glass vase against a white background
 related_articles:
 - slug: quid-quo-pro
   title: QUID QUO PRO

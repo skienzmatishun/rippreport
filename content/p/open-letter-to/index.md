@@ -1,8 +1,8 @@
 ---
-title: "NEW SWEEP The Ripp Report 2015"
+title: "Open Letter to Steve Alexander FOX News"
 date: 2015-01-16
 description: "NEW SWEEP The Ripp Report 2015"
-thumbnail: "image.jpg"
+thumbnail: "open-letter-to.png"
 tags: ["archive", "historical"]
 ---
 

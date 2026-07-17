@@ -10,7 +10,7 @@ tags:
 - columbia
 authors:
 - admin
-alttags: A vintage Community Chest card with the text Get Out of Jail Free and an illustration of a cherub pointing to an open birdcage
+alttags: Community Chest card reading Get Out of Jail Free and This Card May Be Kept Until Needed or Sold, with a cartoon winged figure beside an open birdcage
 related_articles:
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION

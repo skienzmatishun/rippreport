@@ -1,7 +1,7 @@
 ---
 title: "New Sweep: The Ripp Report #27"
 date: 2014-12-28
-thumbnail: "image.jpg"
+thumbnail: "img/rr_27.png"
 tags: ["archive", "historical"]
 ---
 

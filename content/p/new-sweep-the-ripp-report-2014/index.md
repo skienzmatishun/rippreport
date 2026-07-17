@@ -2,7 +2,7 @@
 title: "NEW SWEEP The Ripp Report 2014"
 date: 2014-10-24
 description: "NEW SWEEP The Ripp Report 2014"
-thumbnail: "image.jpg"
+thumbnail: "img/rr_24.png"
 tags: ["archive", "historical"]
 ---
 
