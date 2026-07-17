@@ -11,7 +11,7 @@ tags:
 - vietnam
 authors:
 - admin
-alttags: "US flag and Marine Corps emblem waving, honoring veterans and reflecting on military service as described in this remembrance"
+alttags: A United States flag flies beside a red United States Marine Corps flag with a gold eagle emblem against a gray sky
 ---
 November 10th is the Marine Corp Birthday and November 11th is Veterans Day. On these two days I always reflect on my fathers career in the Army, where he served during WW II and later retired as a Colonel. I think of my first cousin, Freddie, who was killed in Vietnam, while I was in Vietnam. His death impacted my extended family, who has dearly missed him this last 52 years. I think of a high school buddy and fellow Marine, Boogie, who was haunted throughout his life with the experiences of the 1968 Tet offensive and battle of Khe Sahn. I think of John, Iraq War, a multiple amputee, who is embarrassed at how the Veterans Administration has treated him. I think of another Veteran, of Iraq, Willy, or Will Boy. Willy was like a son and his death drove home the meaning of heartache. They were Veterans, they took an OATH, gave their lives, body parts, or were mentally wounded for life. They were VETERANS, not suckers and loser's, not draft dodgers, VETERANS.
 

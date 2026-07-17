@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: Tropical beach scene with palm trees and a thatched roof cabana, hinting at next week’s travel destination reveal
+alttags: A view from a wooden balcony with a hammock and furniture, overlooking palm trees, thatched umbrellas, and the ocean
 related_articles:
 - slug: a-time-for-reflection-goobers-on-notice
   title: A Time for Reflection - Goobers on Notice

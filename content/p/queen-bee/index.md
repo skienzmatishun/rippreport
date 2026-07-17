@@ -17,7 +17,7 @@ tags:
 - triangle-lawsuit
 authors:
 - admin
-alttags: Fairhope Mayor Sullivan dressed as a bee surrounded by money, referencing the article’s metaphor about rewards and politic...
+alttags: A woman in a yellow and black bee costume stands before US dollar bills, depicting Fairhopes newly elected Mayor Queen Bee Sullivan
 related_articles:
 - slug: marble-mouth
   title: MARBLE MOUTH

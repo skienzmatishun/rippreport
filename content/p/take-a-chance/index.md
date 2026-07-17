@@ -14,7 +14,7 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: 'Emotional scene: people embrace amidst concerns over rising COVID-19 cases and calls for safety measures like masking'
+alttags: A nighttime outdoor gathering in Baldwin County shows two people embracing while others clap and hold drinks, depicting a public event during the pandemic
 related_articles:
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION
