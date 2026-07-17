@@ -2,6 +2,7 @@
 title: "Independence Day – What does it Mean?"
 date: 2014-07-03
 description: "Examining conflicts of interest and corruption in Fairhope city government and the Single Tax Corporation"
+thumbnail: img/independence-day-2014.png
 tags: ["archive", "historical", "single-tax", "lee-turner", "city-council"]
 authors:
 - admin

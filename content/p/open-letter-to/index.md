@@ -2,6 +2,7 @@
 title: Open Letter to Steve Alexander FOX News
 date: 2015-01-16
 description: NEW SWEEP The Ripp Report 2015
+thumbnail: img/open-letter-to.png
 tags:
 - archive
 - historical

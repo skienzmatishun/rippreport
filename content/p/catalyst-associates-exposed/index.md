@@ -2,6 +2,7 @@
 title: Catalyst Associates Exposed
 date: 2014-10-03
 description: Connecting the dots on political consulting conflicts of interest involving Kevin Boone and Chris Elliott
+thumbnail: img/catalyst-associates-exposed.png
 tags:
 - archive
 - historical
