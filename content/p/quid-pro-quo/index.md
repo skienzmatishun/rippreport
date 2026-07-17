@@ -3,6 +3,7 @@ title: Quid Pro Quo
 date: 2015-01-12
 description: Quid Pro Quo
 thumbnail: img/quid-pro-quo.png
+summary: "For ten years I have been active in politics in Fairhope, as a concerned citizen, with no political ambitions. Countless times I have attended city council meetings requesting information about council or city actions that affect our community, many others have done the same. Not once has the council or the Mayor ever responded, silence is always the answer."
 tags:
 - archive
 - historical
