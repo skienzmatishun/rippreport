@@ -1,5 +1,6 @@
 ---
 title: "Triangle Lawsuit - The Real Cost to Taxpayers"
+thumbnail: img/triangle-lawsuit-settlement-2013.png
 date: 2013-10-28
 description: "Mayor Kant's Triangle lawsuit settlement will cost every Fairhope resident $2,000 with no accountability"
 tags: ["archive", "historical", "triangle-lawsuit", "tim-kant", "bp-restore-act"]

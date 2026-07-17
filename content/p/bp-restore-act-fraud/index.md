@@ -1,6 +1,7 @@
 ---
 title: "BP Restore Act Application - Fraud and Deception"
 date: 2013-11-01
+thumbnail: img/bp-restore-act-fraud.png
 description: "City's BP Restore Act application omits Arthur Corte's damage to Fly Creek and misrepresents facts"
 tags: ["archive", "historical", "bp-restore-act", "fly-creek", "arthur-corte", "fraud"]
 authors:
