@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: A dark blue Christmas ornament with a gold cap featuring a white line drawing of an eagles head in profile
+alttags: Two bald eagles perch on branches flanking a small Christmas tree with eagle and flag ornaments, and wrapped gifts at its base
 ---
 Have a Merry Christmas!
 
