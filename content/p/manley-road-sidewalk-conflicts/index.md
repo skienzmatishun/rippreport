@@ -1,12 +1,90 @@
 ---
-title: "Manley Road Sidewalk Conflicts of Interest"
+title: Manley Road Sidewalk Conflicts of Interest
 date: 2016-03-14
-description: "Questioning conflicts of interest in sidewalk contract awards involving George Robards and Lee Turner"
-tags: ["archive", "historical", "contracts", "conflicts-of-interest", "single-tax", "planning-zoning"]
+description: Questioning conflicts of interest in sidewalk contract awards involving George Robards and Lee Turner
+tags:
+- archive
+- historical
+- contracts
+- conflicts-of-interest
+- single-tax
+- planning-zoning
 authors:
 - admin
+related_articles:
+- slug: ethics-complaint-turner
+  title: Ethics Complaint Against Lee Turner
+  score: 93.49469152074059
+  llm_score: 100
+  recency_score: 62.594476244258324
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 93.33027347925278
+  llm_score: 95
+  recency_score: 81.64907250570349
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 87.11984624248423
+  llm_score: 90
+  recency_score: 65.93911589428427
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: elephant-in-a-volkswagen
+  title: ELEPHANT IN A VOLKSWAGEN
+  score: 74.84369746577364
+  llm_score: 85
+  recency_score: 15.35126042819837
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: independence-day-2014
+  title: Independence Day – What does it Mean?
+  score: 71.87711212067671
+  llm_score: 80
+  recency_score: 18.293394693891102
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: howling-rains-passing-gas
+  title: HOWLING RAINS PASSING GAS
+  score: 65.3766571713395
+  llm_score: 75
+  recency_score: 0.9157787352021292
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 64.23523076835829
+  llm_score: 65
+  recency_score: 34.35257691806009
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 53.356694853758675
+  llm_score: 55
+  recency_score: 11.800995409112343
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 46.924195722695885
+  llm_score: 45
+  recency_score: 14.814125405501343
+  length_score: 100
+  category_score: 0
+  rank: 9
 ---
-
 **City of Fairhope, Mayor and Council**  
 **March 14, 2016**
 

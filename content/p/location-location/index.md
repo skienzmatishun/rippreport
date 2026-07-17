@@ -1,11 +1,101 @@
 ---
-title: "LOCATION LOCATION TOTALLY LOCO LOCATIONS"
+title: LOCATION LOCATION TOTALLY LOCO LOCATIONS
 date: 2015-02-09
-description: "Post from 2015-02-09"
-thumbnail: "img/location-location.png"
-tags: ["archive", "historical"]
+description: Post from 2015-02-09
+thumbnail: img/location-location.png
+tags:
+- archive
+- historical
+related_articles:
+- slug: quid-pro-quo
+  title: Quid Pro Quo
+  score: 81.32445641385654
+  llm_score: 75
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: victory
+  title: VICTORY
+  score: 79.61882898445522
+  llm_score: 95
+  recency_score: 2.808266660617445
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: holes
+  title: HOLES
+  score: 77.34172604284909
+  llm_score: 90
+  recency_score: 9.714924746382225
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 76.01740489632729
+  llm_score: 85
+  recency_score: 22.100078153881906
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: open-letter-to
+  title: Open Letter to Steve Alexander FOX News
+  score: 74.5454212094002
+  llm_score: 65
+  recency_score: 93.63617195405108
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 73.4548537602897
+  llm_score: 80
+  recency_score: 27.365409121665678
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: new-sweep-the-ripp-report-2014
+  title: NEW SWEEP The Ripp Report 2014
+  score: 64.24119901630804
+  llm_score: 55
+  recency_score: 74.38689434377122
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 47.98666725239951
+  llm_score: 50
+  recency_score: 0.9233367012971956
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: youre-not-from-here
+  title: You're Not From Here - Arthur Corti's Entitlement
+  score: 43.859707275209644
+  llm_score: 35
+  recency_score: 37.193316832455444
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fried-chicken-and-watermelon
+  title: FRIED CHICKEN AND WATERMELON
+  score: 40.89013862980739
+  llm_score: 40
+  recency_score: 0.11829712139245786
+  length_score: 100
+  category_score: 0
+  rank: 10
+- slug: fried-chicken-and-watermelon
+  title: FRIED CHICKEN AND WATERMELON
+  score: 33.93361689067695
+  llm_score: 30
+  recency_score: 0.11829712139245786
+  length_score: 100
+  category_score: 0
+  rank: 11
 ---
-
 NEW SWEEP
 The Ripp Report 2015
 Feb. 8, 2015

@@ -1,300 +1,644 @@
 metadata:
-  generated_at: '2026-07-16T20:39:01.942313Z'
+  generated_at: '2026-07-17T17:50:03.378550Z'
   generator_version: 1.0.0
   post_slug: friends-of-fly-creek
-  refined_by: gemini
-  refined_at: '2026-07-16T20:40:53.960131Z'
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
   fauxhope-know-the-backstory:
-    brief: |-
-      THE CONFLICT:
-      - Publix project construction and subsequent apartment complexes spurred environmental damage to Fly Creek over 12 years.
-      - Developer Angelo Corte allegedly pushed projects despite known infrastructural flaws (culverts, drainage, wetlands) while Mayor Kant enabled the development.
-      - In 2014, former Mayor Tim Kant first proposed re-establishing creek biological and hydraulic connectivity.
-      - A significant culvert failure occurred in 2023 under US 98, necessitating emergency repairs and federal grant applications.
+    brief: 'THE CONFLICT:
+
+      - Publix project construction and subsequent apartment complexes spurred environmental
+      damage to Fly Creek over 12 years.
+
+      - Developer Angelo Corte allegedly pushed projects despite known infrastructural
+      flaws (culverts, drainage, wetlands) while Mayor Kant enabled the development.
+
+      - In 2014, former Mayor Tim Kant first proposed re-establishing creek biological
+      and hydraulic connectivity.
+
+      - A significant culvert failure occurred in 2023 under US 98, necessitating
+      emergency repairs and federal grant applications.
+
 
       THE DISCOVERY:
-      - Mandatory biannual dredging of the Fairhope Marina/Fly Creek is a direct result of development run-off from construction (Publix project and apartments), not natural Bay conditions.
-      - DNA analysis of sediment in Fly Creek and the marina matches the Publix construction profile, confirming it as human-made runoff rather than tidal influence.
+
+      - Mandatory biannual dredging of the Fairhope Marina/Fly Creek is a direct result
+      of development run-off from construction (Publix project and apartments), not
+      natural Bay conditions.
+
+      - DNA analysis of sediment in Fly Creek and the marina matches the Publix construction
+      profile, confirming it as human-made runoff rather than tidal influence.
+
 
       THE PIVOT:
-      - Article 1 alleges environmental abuse; Article 2 provides the technical proof (DNA match and necessity of ongoing dredging) that validates those allegations.
-      - Article 2 proves that infrastructural problems (culverts/drainage failure, required maintenance) are directly attributable to development actions by Angelo Corte/Publix rather than natural geological events or external forces like the Bay.
+
+      - Article 1 alleges environmental abuse; Article 2 provides the technical proof
+      (DNA match and necessity of ongoing dredging) that validates those allegations.
+
+      - Article 2 proves that infrastructural problems (culverts/drainage failure,
+      required maintenance) are directly attributable to development actions by Angelo
+      Corte/Publix rather than natural geological events or external forces like the
+      Bay.
+
 
       KEY ENTITIES:
+
       - Angelo Corte (Developer)
+
       - Tim Kant / Mayor Kant (Former Mayors)
-      - Adam Milam (Plaintiff's Attorney)
+
+      - Adam Milam (Plaintiff''s Attorney)
+
       - Jack Burrell (City Council)
+
       - Fairhope City Council
+
       - Publix (Project/Entity)
+
       - Retreater at Fairhope Village (Apartment complex)
+
       - Catalyst (Political Organization supporting developers)
-      - US 98 (Location of culvert failure)
+
+      - US 98 (Location of culvert failure)'
     generated_at: '2026-07-16T20:39:01.942977Z'
-    text: Former mayor Tim Kant watched as Angelo Corte’s Publix project choked Fly Creek with mud for over a decade. Now, DNA analysis proves that the expensive, non-stop dredging of the marina is caused by developer runoff rather than natural conditions.
+    text: Former mayor Tim Kant watched as Angelo Corte’s Publix project choked Fly
+      Creek with mud for over a decade. Now, DNA analysis proves that the expensive,
+      non-stop dredging of the marina is caused by developer runoff rather than natural
+      conditions.
+    character_count: 246
   FAUXHOPE-4:
-    brief: |-
-      THE CONFLICT
+    brief: 'THE CONFLICT
+
       *   Developer Arthur Corti oversaw the Publix project on Parker Road.
-      *   The Publix construction involved "clear cutting" all living things on the site.
+
+      *   The Publix construction involved "clear cutting" all living things on the
+      site.
+
       *   Fly Creek began accumulating mud and sediment following the clear-cut development.
-      *   A 230-unit apartment complex (the Retreat at Fairhope Village) was built along Fly Creek, but suffered two floods within its first two years.
-      *   The Ripp Report alleges Arthur Corti is a "major contributor" to Mayor Kant and City Council members, influencing decisions even during construction moratorium periods.
+
+      *   A 230-unit apartment complex (the Retreat at Fairhope Village) was built
+      along Fly Creek, but suffered two floods within its first two years.
+
+      *   The Ripp Report alleges Arthur Corti is a "major contributor" to Mayor Kant
+      and City Council members, influencing decisions even during construction moratorium
+      periods.
+
 
       THE DISCOVERY
-      *   Article 2 expands the scope, revealing that developer influence leads to widespread systemic clear-cutting across multiple projects (beyond Publix).
-      *   Projects involving developers include the Waterfront project ($6.2M increasing to $10M over five and a half years) and subsequent apartment complexes near Fly Creek.
-      *   A third development has cleared acres of trees behind Parker Road by hauling in "red dirt."
-      *   Councilman Boone Brown and Councilman Burrell orchestrated a purchase of recreation land for the Jack Burrell Airport, which was quickly leased back to farmers for $9,000 per year—a transaction described as "under the table."
+
+      *   Article 2 expands the scope, revealing that developer influence leads to
+      widespread systemic clear-cutting across multiple projects (beyond Publix).
+
+      *   Projects involving developers include the Waterfront project ($6.2M increasing
+      to $10M over five and a half years) and subsequent apartment complexes near
+      Fly Creek.
+
+      *   A third development has cleared acres of trees behind Parker Road by hauling
+      in "red dirt."
+
+      *   Councilman Boone Brown and Councilman Burrell orchestrated a purchase of
+      recreation land for the Jack Burrell Airport, which was quickly leased back
+      to farmers for $9,000 per year—a transaction described as "under the table."
+
 
       THE PIVOT
-      *   Article 1 presents environmental damage (Fly Creek contamination) as an isolated issue caused by Arthur Corti's initial development.
-      *   Article 2 proves this is not an isolated incident but a pattern of behavior ("Fauxhope") where developers receive preferential treatment from the City Council and Mayor for multiple high-value projects, including land acquisitions (Airport/Recreation Land) and massive capital improvements ($10M Waterfront project). It transforms the issue from construction runoff to systemic political corruption.
+
+      *   Article 1 presents environmental damage (Fly Creek contamination) as an
+      isolated issue caused by Arthur Corti''s initial development.
+
+      *   Article 2 proves this is not an isolated incident but a pattern of behavior
+      ("Fauxhope") where developers receive preferential treatment from the City Council
+      and Mayor for multiple high-value projects, including land acquisitions (Airport/Recreation
+      Land) and massive capital improvements ($10M Waterfront project). It transforms
+      the issue from construction runoff to systemic political corruption.
+
 
       KEY ENTITIES
+
       *   Arthur Corti (Developer)
+
       *   Mayor Kant / Former Mayor Tim Kant
+
       *   Councilman Boone Brown
+
       *   Jack Burrell
-      *   Adam Milam (Plaintiff's attorney)
+
+      *   Adam Milam (Plaintiff''s attorney)
+
       *   City Council of Fairhope
-      *   The Ripp Report
+
+      *   The Ripp Report'
     generated_at: '2026-07-16T20:39:01.942990Z'
-    text: Developer Arthur Corti turned Fly Creek into a mud pit while former mayor Tim Kant looked the other way. This isn't just bad luck; it’s a systemic pay-to-play scheme where Councilmen Boone Brown and Jack Burrell traded city land for developer favors.
+    text: Developer Arthur Corti turned Fly Creek into a mud pit while former mayor
+      Tim Kant looked the other way. This isn't just bad luck; it’s a systemic pay-to-play
+      scheme where Councilmen Boone Brown and Jack Burrell traded city land for developer
+      favors.
+    character_count: 250
   fly-creek-mud:
-    brief: |-
-      THE CONFLICT:
-      *   Developer Arthur Corti/Angelo Corte initiated major construction in Fly Creek area following the Publix project clear cut.
-      *   This development led to massive mud and sediment dumping into Fly Creek, causing flooding damage to both the creek and subsequent apartment buildings (e.g., The Retreat at Fairhope Village).
-      *   The apartments, which were supposed to be luxury properties, suffered two documented flooding events within two years of completion.
-      *   Despite continuous resident opposition and lawsuits regarding aesthetics/traffic/damage, Mayor Kant and City Council supported the development projects.
+    brief: 'THE CONFLICT:
+
+      *   Developer Arthur Corti/Angelo Corte initiated major construction in Fly
+      Creek area following the Publix project clear cut.
+
+      *   This development led to massive mud and sediment dumping into Fly Creek,
+      causing flooding damage to both the creek and subsequent apartment buildings
+      (e.g., The Retreat at Fairhope Village).
+
+      *   The apartments, which were supposed to be luxury properties, suffered two
+      documented flooding events within two years of completion.
+
+      *   Despite continuous resident opposition and lawsuits regarding aesthetics/traffic/damage,
+      Mayor Kant and City Council supported the development projects.
+
 
       THE DISCOVERY:
-      *   Current infrastructure failures are causing new damage, specifically a caving Highway 98 shoulder on the south side over Fly Creek, dumping tons of dirt into the creek.
-      *   The current remedial work involves dumping red dirt onto steep slopes near the creek; this foundation is unstable and constitutes only a "band aid."
-      *   DNA analysis confirms that sediment found in Fly Creek originates from construction runoff related to the Publix-Apartments development.
+
+      *   Current infrastructure failures are causing new damage, specifically a caving
+      Highway 98 shoulder on the south side over Fly Creek, dumping tons of dirt into
+      the creek.
+
+      *   The current remedial work involves dumping red dirt onto steep slopes near
+      the creek; this foundation is unstable and constitutes only a "band aid."
+
+      *   DNA analysis confirms that sediment found in Fly Creek originates from construction
+      runoff related to the Publix-Apartments development.
+
 
       THE PIVOT:
-      *   Article 1 establishes that developer Angelo Corte's initial projects caused recurring sediment/mud issues in Fly Creek over 12 years.
-      *   Article 2 provides physical, modern evidence (caved highway shoulder and DNA analysis of deposited dirt) confirming the historical runoff pollution is not solved but actively continues due to current infrastructure failures following development.
-      *   The Widget Article names Mr Burrell and Mr Boone as key figures who supported the controversial apartments that are now failing.
+
+      *   Article 1 establishes that developer Angelo Corte''s initial projects caused
+      recurring sediment/mud issues in Fly Creek over 12 years.
+
+      *   Article 2 provides physical, modern evidence (caved highway shoulder and
+      DNA analysis of deposited dirt) confirming the historical runoff pollution is
+      not solved but actively continues due to current infrastructure failures following
+      development.
+
+      *   The Widget Article names Mr Burrell and Mr Boone as key figures who supported
+      the controversial apartments that are now failing.
+
 
       KEY ENTITIES:
+
       *   Arthur Corti / Angelo Corte (Developer)
+
       *   Mayor Kant / Tim Kant (Former Mayor/Pro-development supporter)
+
       *   Jack Burrell / Mr Burrell (Council Member/Pro-development supporter)
+
       *   Mr Boone / Council Member
+
       *   Karin Wilson (Current City Council Member)
-      *   Adam Milam (Plaintiff's attorney)
+
+      *   Adam Milam (Plaintiff''s attorney)
+
       *   City Council of Fairhope / Fairhope City Council
+
       *   The Retreat at Fairhope Village (Apartment complex)
+
       *   Publix
+
       *   Fly Creek / Highway 98
-      *   Friends of Fly Creek
+
+      *   Friends of Fly Creek'
     generated_at: '2026-07-16T20:39:01.943010Z'
-    text: Angelo Corte’s luxury apartments are literally sinking into the mud they created at Fly Creek. While Jack Burrell and Kevin Boone ignore the failures, new DNA evidence proves the red clay choking our waterways is coming straight from these botched sites.
+    text: Angelo Corte’s luxury apartments are literally sinking into the mud they
+      created at Fly Creek. While Jack Burrell and Kevin Boone ignore the failures,
+      new DNA evidence proves the red clay choking our waterways is coming straight
+      from these botched sites.
+    character_count: 254
   liar-liar-pants-on-fire-2:
-    brief: |-
-      THE CONFLICT:
-      *   The Fly Creek apartments (Fairhope Village Apartments at Publix) were a significant development on the banks of Fly Creek following the initial Publix project construction.
-      *   This development has been subject to ongoing contention for over 12 years regarding aesthetic concerns, traffic impact, and environmental damage from construction runoff.
-      *   Multiple lawsuits have been filed against the City/developers due to pollution, drainage issues, and violations of easements.
-      *   The developer Arthur Corte is cited as a major contributor to local government bodies (Mayor/Council).
-      *   There are allegations that political figures orchestrated actions to transfer liability associated with the development from private developers to the city.
+    brief: 'THE CONFLICT:
+
+      *   The Fly Creek apartments (Fairhope Village Apartments at Publix) were a
+      significant development on the banks of Fly Creek following the initial Publix
+      project construction.
+
+      *   This development has been subject to ongoing contention for over 12 years
+      regarding aesthetic concerns, traffic impact, and environmental damage from
+      construction runoff.
+
+      *   Multiple lawsuits have been filed against the City/developers due to pollution,
+      drainage issues, and violations of easements.
+
+      *   The developer Arthur Corte is cited as a major contributor to local government
+      bodies (Mayor/Council).
+
+      *   There are allegations that political figures orchestrated actions to transfer
+      liability associated with the development from private developers to the city.
+
 
       THE DISCOVERY:
-      *   Article 2 specifically names Stewart "The Liar" Speed of the Leaf River Group as the developer/manager responsible for the Fly Creek apartments and townhomes.
-      *   Speed was documented making false statements to a public audience (250-300 citizens), falsely claiming environmental soundness and luxury status for the development, which he knew were untrue.
-      *   The project suffered poor management, partial flooding, electric/water pressure issues, and was sold before completion as predicted.
-      *   Direct communications between Stewart Speed and Council President Jack Burrell regarding "the gift" have been uncovered.
+
+      *   Article 2 specifically names Stewart "The Liar" Speed of the Leaf River
+      Group as the developer/manager responsible for the Fly Creek apartments and
+      townhomes.
+
+      *   Speed was documented making false statements to a public audience (250-300
+      citizens), falsely claiming environmental soundness and luxury status for the
+      development, which he knew were untrue.
+
+      *   The project suffered poor management, partial flooding, electric/water pressure
+      issues, and was sold before completion as predicted.
+
+      *   Direct communications between Stewart Speed and Council President Jack Burrell
+      regarding "the gift" have been uncovered.
+
 
       THE PIVOT:
-      *   Article 1 alleges general developer abuse and corruption involving Mayor Kant and Arthur Corte in transferring liability to the city ("The Gift").
-      *   Article 2 provides specific evidence of this alleged cover-up by naming Stewart Speed (Leaf River Group) as the principal developer who executed lies during public meetings, and specifically implicates Council President Jack Burrell in behind-the-scenes communications regarding that "gift," lending a concrete narrative to Article 1’s general accusations.
+
+      *   Article 1 alleges general developer abuse and corruption involving Mayor
+      Kant and Arthur Corte in transferring liability to the city ("The Gift").
+
+      *   Article 2 provides specific evidence of this alleged cover-up by naming
+      Stewart Speed (Leaf River Group) as the principal developer who executed lies
+      during public meetings, and specifically implicates Council President Jack Burrell
+      in behind-the-scenes communications regarding that "gift," lending a concrete
+      narrative to Article 1’s general accusations.
+
 
       KEY ENTITIES:
+
       *   Arthur Corte
+
       *   Stewart "The Liar" Speed (Leaf River Group)
+
       *   Jack Burrell
+
       *   Mayor Kant
+
       *   Adam Milam
+
       *   Fly Creek / Fairhope Village Apartments at Publix
-      *   Parker Road
+
+      *   Parker Road'
     generated_at: '2026-07-16T20:39:01.943016Z'
-    text: Developer Stewart Speed stood before the public and lied about his failing apartment project on Fly Creek. Records now expose the "gift" he coordinated with Council President Jack Burrell to dump private liability onto the backs of Fairhope taxpayers.
+    text: Developer Stewart Speed stood before the public and lied about his failing
+      apartment project on Fly Creek. Records now expose the "gift" he coordinated
+      with Council President Jack Burrell to dump private liability onto the backs
+      of Fairhope taxpayers.
+    character_count: 251
   victory:
-    brief: |-
-      THE CONFLICT
-      *   The conflict centers on development projects by developer Arthur Corti in Fairhope impacting Fly Creek.
-      *   Initial issue involved sediment and pollution stemming from a Publix project clear cut into the site, leading to community complaints regarding Fly Creek's health.
-      *   Subsequent controversy involved the 230-unit Retreat at Fairhope Village apartment complex, which caused documented flooding damage to both the creek and the apartments within two years of development.
-      *   The Main Article alleges that Mayor Kant and City Council enabled this development despite continuous complaints and ongoing environmental abuse of Fly Creek.
+    brief: 'THE CONFLICT
+
+      *   The conflict centers on development projects by developer Arthur Corti in
+      Fairhope impacting Fly Creek.
+
+      *   Initial issue involved sediment and pollution stemming from a Publix project
+      clear cut into the site, leading to community complaints regarding Fly Creek''s
+      health.
+
+      *   Subsequent controversy involved the 230-unit Retreat at Fairhope Village
+      apartment complex, which caused documented flooding damage to both the creek
+      and the apartments within two years of development.
+
+      *   The Main Article alleges that Mayor Kant and City Council enabled this development
+      despite continuous complaints and ongoing environmental abuse of Fly Creek.
+
 
       THE DISCOVERY
-      *   The Widget Article reveals that citizen advocacy (through groups like the Fly Creek Watershed Preservation Association) successfully challenged the planning processes related to the apartment complex.
-      *   Lawsuit findings confirm that "The Fairhope Planning Commission... acted inconsistent with Ordinance 1572 and therefore, acted arbitrary, capriciously, and not in compliance with applicable law."
+
+      *   The Widget Article reveals that citizen advocacy (through groups like the
+      Fly Creek Watershed Preservation Association) successfully challenged the planning
+      processes related to the apartment complex.
+
+      *   Lawsuit findings confirm that "The Fairhope Planning Commission... acted
+      inconsistent with Ordinance 1572 and therefore, acted arbitrary, capriciously,
+      and not in compliance with applicable law."
+
 
       THE PIVOT
-      *   Article 1 alleges systemic corruption where elected officials allow developers (Corti) to ruin Fly Creek.
-      *   Article 2 serves as the 'smoking gun' by proving that citizens, through their advocate Adam Milam, have successfully sued city commissions and achieved a legal victory overturning approved site plans based on local ordinances (Ordinance 1572).
+
+      *   Article 1 alleges systemic corruption where elected officials allow developers
+      (Corti) to ruin Fly Creek.
+
+      *   Article 2 serves as the ''smoking gun'' by proving that citizens, through
+      their advocate Adam Milam, have successfully sued city commissions and achieved
+      a legal victory overturning approved site plans based on local ordinances (Ordinance
+      1572).
+
 
       KEY ENTITIES
+
       *   Arthur Corti (Developer)
+
       *   Fly Creek Watershed Preservation Association Inc.
-      *   Adam Milam (Plaintiff's attorney / advocate)
-      *   Francis Paul Ripp (President, Fly Creek Watershed Preservation Association Inc.)
+
+      *   Adam Milam (Plaintiff''s attorney / advocate)
+
+      *   Francis Paul Ripp (President, Fly Creek Watershed Preservation Association
+      Inc.)
+
       *   Publix
+
       *   Fairhope City Council / Planning Commission
-      *   Ordinance 1572
+
+      *   Ordinance 1572'
     generated_at: '2026-07-16T20:39:01.943028Z'
-    text: For years, former mayor Tim Kant let Arthur Corti trample over environmental laws to build on Fly Creek. A massive legal victory just proved the Fairhope Planning Commission acted illegally, finally exposing the city’s habit of ignoring its own laws.
+    text: For years, former mayor Tim Kant let Arthur Corti trample over environmental
+      laws to build on Fly Creek. A massive legal victory just proved the Fairhope
+      Planning Commission acted illegally, finally exposing the city’s habit of ignoring
+      its own laws.
+    character_count: 250
   catalyst-does-fairhope:
-    brief: |-
-      1. THE CONFLICT:
-      - For over 12 years (reported timeline), The Ripp Report has documented alleged abuses by developer Angelo Corte regarding Fly Creek sediment/mud.
-      - The initial "Publix project" at the same site caused clear cutting and allegedly killed living things in Fly Creek. One Publix executive commented, "the developer dug a hole to fit the strip center."
-      - Subsequent apartments (The 230-unit Retreat) built along Fly Creek faced public opposition regarding aesthetics/traffic. Residents alleged prior work adjacent to the site spurred similar lawsuits.
-      - The City Council and Mayor were accused of ignoring opposition and favoring Corte during or around construction moratoriums.
+    brief: '1. THE CONFLICT:
+
+      - For over 12 years (reported timeline), The Ripp Report has documented alleged
+      abuses by developer Angelo Corte regarding Fly Creek sediment/mud.
+
+      - The initial "Publix project" at the same site caused clear cutting and allegedly
+      killed living things in Fly Creek. One Publix executive commented, "the developer
+      dug a hole to fit the strip center."
+
+      - Subsequent apartments (The 230-unit Retreat) built along Fly Creek faced public
+      opposition regarding aesthetics/traffic. Residents alleged prior work adjacent
+      to the site spurred similar lawsuits.
+
+      - The City Council and Mayor were accused of ignoring opposition and favoring
+      Corte during or around construction moratoriums.
+
 
       2. THE DISCOVERY:
-      - Article 2 links former Mayor Tim Kant's administration and his subordinates directly to enabling Angelo Corte's developments (Fire Station, Sewer Lift Station).
-      - While attending the last City Council meeting of his term, Mayor Kant authorized a "gift" of land/wetlands owned by Angelo Corte to the City of Fairhope.
-      - This "Gift" is identified as the recipient of all water draining from the Publix property into Fly Creek.
-      - Councilmen Burrell and Boone voted to accept this liability ("Gifts") from the developer, making taxpayers responsible for development drainage costs.
+
+      - Article 2 links former Mayor Tim Kant''s administration and his subordinates
+      directly to enabling Angelo Corte''s developments (Fire Station, Sewer Lift
+      Station).
+
+      - While attending the last City Council meeting of his term, Mayor Kant authorized
+      a "gift" of land/wetlands owned by Angelo Corte to the City of Fairhope.
+
+      - This "Gift" is identified as the recipient of all water draining from the
+      Publix property into Fly Creek.
+
+      - Councilmen Burrell and Boone voted to accept this liability ("Gifts") from
+      the developer, making taxpayers responsible for development drainage costs.
+
 
       3. THE PIVOT:
-      - Article 1 alleges that Mayor Kant "orchestrate[d]" a stunt transferring liability to the city. Article 2 provides specific evidence of this action (the acceptance of land/wetlands as a gift) and details infrastructure built specifically to support Corte's apartment complex, such as the sewer lift station capacity.
-      - Both articles claim taxpayer money paid for developer-centric infrastructure (Fire Station on Corte property; Sewer Lift Station). Article 2 explicitly identifies Councilmen Burrell and Boone as those who accepted the liability ("Gift") that now impacts taxpayers along Fly Creek.
+
+      - Article 1 alleges that Mayor Kant "orchestrate[d]" a stunt transferring liability
+      to the city. Article 2 provides specific evidence of this action (the acceptance
+      of land/wetlands as a gift) and details infrastructure built specifically to
+      support Corte''s apartment complex, such as the sewer lift station capacity.
+
+      - Both articles claim taxpayer money paid for developer-centric infrastructure
+      (Fire Station on Corte property; Sewer Lift Station). Article 2 explicitly identifies
+      Councilmen Burrell and Boone as those who accepted the liability ("Gift") that
+      now impacts taxpayers along Fly Creek.
+
 
       4. KEY ENTITIES:
-      - Angelo Corte (Developer, involved in multiple construction projects since at least 2017)
+
+      - Angelo Corte (Developer, involved in multiple construction projects since
+      at least 2017)
+
       - Tim Kant (Former Mayor of Fairhope, involved during project approval phase)
-      - The Ripp Report / Friends of Fly Creek (Watchdogs documenting the issues for over 12 years)
-      - City Councilmen Burrell and Boone (Voted to accept "Gift" liability in late stage construction)
-      - Mayor Karin Wilson (Mentioned regarding opposition to apartments preceding Tim Kant's term)
-      - The Publix Project / Apartments (230-unit Retreat/Fly Creek Apartements, primary sources of contamination)
-      - Fly Creek (Environmental focus; has been dredged every 5 years due to construction runoff)
-      - Parker Road (Location of infrastructure and development controversy; Fire Station constructed on Corte property)
-      - Catalyst (Political organization supporting the developer's project interests)
+
+      - The Ripp Report / Friends of Fly Creek (Watchdogs documenting the issues for
+      over 12 years)
+
+      - City Councilmen Burrell and Boone (Voted to accept "Gift" liability in late
+      stage construction)
+
+      - Mayor Karin Wilson (Mentioned regarding opposition to apartments preceding
+      Tim Kant''s term)
+
+      - The Publix Project / Apartments (230-unit Retreat/Fly Creek Apartements, primary
+      sources of contamination)
+
+      - Fly Creek (Environmental focus; has been dredged every 5 years due to construction
+      runoff)
+
+      - Parker Road (Location of infrastructure and development controversy; Fire
+      Station constructed on Corte property)
+
+      - Catalyst (Political organization supporting the developer''s project interests)'
     generated_at: '2026-07-16T20:39:01.943044Z'
-    text: Former mayor Tim Kant used his final days in office to hand developer Angelo Corte a massive "gift" that cost you everything. Councilmen Burrell and Boone voted to accept the liability for Corte’s drainage, forcing taxpayers to pay for years of pollution.
-  fly-creek-a-drainage-ditch:
-    brief: |-
-      THE CONFLICT:
-      - The City Council of Fairhope approved large-scale developments, including apartments and associated runoff, adjacent to Fly Creek despite public opposition.
-      - On October 2016, the council officially endorsed the project. In April 2017, a newly elected city council granted an extension for development commencement.
-      - A six-day trial regarding the Fly Creek Apartments was held in Bay Minette by plaintiff's attorney Adam Milam on behalf of Friends of Fly Creek against City Council/Mayor actions to overturn legislative decisions and address runoff impacts.
-      - The Main Article alleges that developer Arthur Corti has undue influence over Mayor Kant and council members, resulting in a "gift" that transfers liability from the developer to the city.
-
-      THE DISCOVERY:
-      - Current development plans for Fly Creek Apartments utilize a single point discharge at an outfall pipe.
-      - This plan detours the existing 1 acre retention pond and omits expansion to a planned 5 acre pond.
-      - The direct drainage of excess stormwater into wetlands, located 100–150 feet from the outfall pipe before flowing into Fly Creek, is revealed by this technical drainage assessment.
-      - Ongoing sediment damage (DNA identified as coming from Publix construction and Apartments) continues despite repeated dredging efforts costing millions every five years, indicating systemic failure in stormwater management.
-
-      THE PIVOT:
-      - Article 1 broadly accuses the Mayor and Council of negligence and corruption regarding general runoff issues from Publix/Apartments, describing it as transferring liability to the city.
-      - Article 2 provides the technical evidence (drainage plan details) proving *how* this transfer of risk occurs—by confirming that the planned system bypasses protective ponds and dumps raw stormwater directly into Fly Creek via the wetlands.
-      - Article 2 further links specific officials, Jack Burrell and Kevin Boone, to accepting a "gift" related to this discharge point compromise during their tenure.
-
-      KEY ENTITIES:
-      - Adam Milam (Plaintiff's attorney)
-      - Arthur Corti (Developer)
-      - Fairhope City Council/Mayor (various administrations mentioned)
-      - Fly Creek Apartments / Publix
-      - Baldwin County
-      - Jack Burrell
-      - Kevin Boone
-      - Jimmy Conyers
-      - Karin Wilson
-    generated_at: '2026-07-16T20:39:01.943049Z'
-    text: The city approved Fly Creek developments that bypassed safety ponds to dump raw stormwater directly into the wetlands. Jack Burrell and Kevin Boone helped secure this compromise, protecting Arthur Corti’s profits while turning the creek into a sewer.
+    text: Former mayor Tim Kant used his final days in office to hand developer Angelo
+      Corte a massive "gift" that cost you everything. Councilmen Burrell and Boone
+      voted to accept the liability for Corte’s drainage, forcing taxpayers to pay
+      for years of pollution.
+    character_count: 255
   community-or-developer:
-    brief: |-
-      THE CONFLICT
-      *   Developer Arthur Corti initiated construction at the Publix site on Fly Creek, allegedly causing immediate damage (mud and sediment buildup) upon clear cutting.
-      *   Subsequent developments, including the 230-unit Retreat at Fairhope Village apartments built along Fly Creek, led to flooding and structural damage over a period of years.
-      *   The City Council repeatedly addressed the issue via Ordinance No. 1572 (Fly Creek PUD Sunset Provision), which surfaced in City Council agendas as recently as April 10, 2017.
-      *   Mayor Kant is cited for orchestrating a "gift" that transferred liability associated with Corti's development to the city.
+    brief: 'THE CONFLICT
+
+      *   Developer Arthur Corti initiated construction at the Publix site on Fly
+      Creek, allegedly causing immediate damage (mud and sediment buildup) upon clear
+      cutting.
+
+      *   Subsequent developments, including the 230-unit Retreat at Fairhope Village
+      apartments built along Fly Creek, led to flooding and structural damage over
+      a period of years.
+
+      *   The City Council repeatedly addressed the issue via Ordinance No. 1572 (Fly
+      Creek PUD Sunset Provision), which surfaced in City Council agendas as recently
+      as April 10, 2017.
+
+      *   Mayor Kant is cited for orchestrating a "gift" that transferred liability
+      associated with Corti''s development to the city.
+
 
       THE DISCOVERY
-      *   The Widget Article establishes that the conflict regarding Fly Creek and developer interests was systemic and chronic, dating back at least to April 2017 when the City Council debated Ordinance No. 1572 for the tenth time.
-      *   It identifies a specific political structure ("Catalyst") which is linked to the "Baldwin Insider" network, composed of developers, attorneys, judges, and county commissioners, suggesting deep-seated conflicts of interest among decision-makers.
+
+      *   The Widget Article establishes that the conflict regarding Fly Creek and
+      developer interests was systemic and chronic, dating back at least to April
+      2017 when the City Council debated Ordinance No. 1572 for the tenth time.
+
+      *   It identifies a specific political structure ("Catalyst") which is linked
+      to the "Baldwin Insider" network, composed of developers, attorneys, judges,
+      and county commissioners, suggesting deep-seated conflicts of interest among
+      decision-makers.
+
 
       THE PIVOT
-      *   Article 1 alleges chronic developer abuses spanning over 12 years; Article 2 provides documentary proof that this abuse was not a series of isolated incidents but an ongoing political debate within the Fairhope City Council agenda for at least ten years, citing Ordinance No. 1572 in April 2017.
-      *   Article 2 introduces the alleged corrupt power structure (Catalyst/Baldwin Insider) that frames the "developer abuse" described generally in Article 1.
+
+      *   Article 1 alleges chronic developer abuses spanning over 12 years; Article
+      2 provides documentary proof that this abuse was not a series of isolated incidents
+      but an ongoing political debate within the Fairhope City Council agenda for
+      at least ten years, citing Ordinance No. 1572 in April 2017.
+
+      *   Article 2 introduces the alleged corrupt power structure (Catalyst/Baldwin
+      Insider) that frames the "developer abuse" described generally in Article 1.
+
 
       KEY ENTITIES
+
       *   Arthur Corti: Developer.
+
       *   Fly Creek PUD / Fly Creek Watershed: Location of environmental damage.
+
       *   Fairhope City Council: Governing body debating ordinances and approvals.
-      *   Mayor Kant: Former Mayor cited for transferring liability to the city during development.
-      *   Adam Milam: Plaintiff's attorney mentioned as a legal recourse option.
-      *   Jack Burrell: Current council member alleged to be disingenuous about sediment sources.
-      *   The Retreat at Fairhope Village: Specific apartment development built along Fly Creek (230 units).
-      *   Catalyst / Baldwin Insider: Political/business network alleged to control decision-makers and developers.
-      *   Parker Road / Publix: Site of initial construction activity; location of new cluster F.
+
+      *   Mayor Kant: Former Mayor cited for transferring liability to the city during
+      development.
+
+      *   Adam Milam: Plaintiff''s attorney mentioned as a legal recourse option.
+
+      *   Jack Burrell: Current council member alleged to be disingenuous about sediment
+      sources.
+
+      *   The Retreat at Fairhope Village: Specific apartment development built along
+      Fly Creek (230 units).
+
+      *   Catalyst / Baldwin Insider: Political/business network alleged to control
+      decision-makers and developers.
+
+      *   Parker Road / Publix: Site of initial construction activity; location of
+      new cluster F.'
     generated_at: '2026-07-16T20:39:01.943062Z'
-    text: Former mayor Tim Kant helped developer Arthur Corti ignore local laws for over a decade. We now have the documents showing how the "Catalyst" network used the City Council to protect these insider deals while residents begged for environmental protection.
+    text: Former mayor Tim Kant helped developer Arthur Corti ignore local laws for
+      over a decade. We now have the documents showing how the "Catalyst" network
+      used the City Council to protect these insider deals while residents begged
+      for environmental protection.
+    character_count: 255
   fairhope-a-city-owned-by-outside-interests-and-good-ole-boys:
-    brief: |-
-      THE CONFLICT:
-      *   Fly Creek has suffered continuous sediment runoff and flooding since development projects commenced near Publix location/site clear cut.
-      *   Environmental damage, specifically to the 230-unit Retreat at Fairhope Village apartments built along Fly Creek, has been a source of contention for over 12 years with repeated dredging required every five years due to construction runoff.
-      *   Developer Arthur Corte is identified as an "author" and major contributor to the Mayor and City Council during this period (prior to and during development projects).
+    brief: 'THE CONFLICT:
+
+      *   Fly Creek has suffered continuous sediment runoff and flooding since development
+      projects commenced near Publix location/site clear cut.
+
+      *   Environmental damage, specifically to the 230-unit Retreat at Fairhope Village
+      apartments built along Fly Creek, has been a source of contention for over 12
+      years with repeated dredging required every five years due to construction runoff.
+
+      *   Developer Arthur Corte is identified as an "author" and major contributor
+      to the Mayor and City Council during this period (prior to and during development
+      projects).
+
 
       THE DISCOVERY:
-      *   The Fly Creek apartment project was not an isolated occurrence but part of a deliberate, undisclosed plan involving Mayor Kant and developer sidekick Arthur Corte.
-      *   Decisions concerning these large-scale developments were executed without public participation or prior review by the community.
-      *   The city has engaged in significant undisclosed expenditures related to political/land deals (e.g., Triangle lawsuit settled for $11.25 million; misuse of utility reserve funds).
+
+      *   The Fly Creek apartment project was not an isolated occurrence but part
+      of a deliberate, undisclosed plan involving Mayor Kant and developer sidekick
+      Arthur Corte.
+
+      *   Decisions concerning these large-scale developments were executed without
+      public participation or prior review by the community.
+
+      *   The city has engaged in significant undisclosed expenditures related to
+      political/land deals (e.g., Triangle lawsuit settled for $11.25 million; misuse
+      of utility reserve funds).
+
 
       THE PIVOT:
-      *   Article 2 proves that the environmental problems detailed in Article 1 are not merely construction oversight or negligence, but symptomatic outcomes of a systemic "good ole boys" political plan executed by Mayor Kant and Arthur Corte to benefit outside interests.
-      *   The pollution/damage caused by Corti’s development acts as evidence of the corrupt governance structure where the City Council prioritized developer deals over public participation and municipal liability.
+
+      *   Article 2 proves that the environmental problems detailed in Article 1 are
+      not merely construction oversight or negligence, but symptomatic outcomes of
+      a systemic "good ole boys" political plan executed by Mayor Kant and Arthur
+      Corte to benefit outside interests.
+
+      *   The pollution/damage caused by Corti’s development acts as evidence of the
+      corrupt governance structure where the City Council prioritized developer deals
+      over public participation and municipal liability.
+
 
       KEY ENTITIES:
+
       *   Fly Creek
+
       *   Fairhope
+
       *   Mayor Kant / Tim Kant (Mayor, Former Mayor)
+
       *   Arthur Corte (Developer, Land Owner, Contributor to Mayor/Council)
+
       *   Publix
+
       *   230-unit Retreat at Fairhope Village (Apartment Complex)
+
       *   Triangle Lawsuit ($11.25 million settlement)
-      *   Diana Brewer (City Council Member opposing citizens regarding Fly Creek Apartments)
+
+      *   Diana Brewer (City Council Member opposing citizens regarding Fly Creek
+      Apartments)'
     generated_at: '2026-07-16T20:39:01.943076Z'
-    text: Arthur Corte isn't just a developer; he's the silent partner in a "good ole boy" scheme that has controlled Fairhope for years. Evidence now reveals that former mayor Tim Kant bypassed the public to execute secret land deals that left Fly Creek buried in mud.
+    text: Arthur Corte isn't just a developer; he's the silent partner in a "good
+      ole boy" scheme that has controlled Fairhope for years. Evidence now reveals
+      that former mayor Tim Kant bypassed the public to execute secret land deals
+      that left Fly Creek buried in mud.
+    character_count: 259
   fly-creek-erosion-and-hidden-development-threats:
-    brief: |-
-      THE CONFLICT:
-      *   Fly Creek has experienced sediment runoff since the Publix clear cut. The "Friends of Fly Creek" have been reporting these abuses by developer Arthur Corte for over 12 years.
-      *   The Ripp Report states Mayor Kant orchestrated a transfer of liability associated with Corti’s development to the city as a "gift."
-      *   The previous construction project (Publix and apartments) caused flooding, requiring repeated dredging of Fly Creek basin every five years using millions in funds for construction runoff.
-      *   In 2013, Mayor Kant commissioned a $30,000 study by Thompson Engineering on the Fly Creek Watershed Restoration Project; this document failed to identify major problems like red clay sediment from the Publix project.
-      *   Prior to the current situation, there was a historical claim regarding grant fraud filed in 2011 against Mayor Kant and Senator Pittman concerning BP funds.
+    brief: 'THE CONFLICT:
+
+      *   Fly Creek has experienced sediment runoff since the Publix clear cut. The
+      "Friends of Fly Creek" have been reporting these abuses by developer Arthur
+      Corte for over 12 years.
+
+      *   The Ripp Report states Mayor Kant orchestrated a transfer of liability associated
+      with Corti’s development to the city as a "gift."
+
+      *   The previous construction project (Publix and apartments) caused flooding,
+      requiring repeated dredging of Fly Creek basin every five years using millions
+      in funds for construction runoff.
+
+      *   In 2013, Mayor Kant commissioned a $30,000 study by Thompson Engineering
+      on the Fly Creek Watershed Restoration Project; this document failed to identify
+      major problems like red clay sediment from the Publix project.
+
+      *   Prior to the current situation, there was a historical claim regarding grant
+      fraud filed in 2011 against Mayor Kant and Senator Pittman concerning BP funds.
+
 
       THE DISCOVERY:
-      *   The city is currently applying for $14.7 million in Mobile Bay Preservation and Restoration (Restore Act) funding.
-      *   This current project aims to address sediment removal from Fly Creek—the same creek that contains red clay runoff deposited by the Publix/Regency Center construction.
-      *   This grant application seeks to provide "long term protection from development" while approving a new 275-apartment PUD development (15 townhomes + club/pool) on 40 acres within the Fly Creek watershed, which may disqualify the city from the funding due to its scale and shared detention pond.
-      *   The Widget article alleges that the City Council is reversing a 40-year policy regarding the Triangle property by purchasing it for $12 million in secret settlement without public participation, specifically to allow Mayor Kant's favorite developer (Corte) more space/influence.
+
+      *   The city is currently applying for $14.7 million in Mobile Bay Preservation
+      and Restoration (Restore Act) funding.
+
+      *   This current project aims to address sediment removal from Fly Creek—the
+      same creek that contains red clay runoff deposited by the Publix/Regency Center
+      construction.
+
+      *   This grant application seeks to provide "long term protection from development"
+      while approving a new 275-apartment PUD development (15 townhomes + club/pool)
+      on 40 acres within the Fly Creek watershed, which may disqualify the city from
+      the funding due to its scale and shared detention pond.
+
+      *   The Widget article alleges that the City Council is reversing a 40-year
+      policy regarding the Triangle property by purchasing it for $12 million in secret
+      settlement without public participation, specifically to allow Mayor Kant''s
+      favorite developer (Corte) more space/influence.
+
 
       THE PIVOT:
-      *   Article 1 claims Fly Creek pollution and damage are ongoing due to development; Article 2 reveals that the city has historically ignored scientific findings (Thompson Engineering study) and environmental warnings (erosion documented for 40 years behind Publix), choosing instead to facilitate massive new developments like Corte's.
-      *   Article 2 links the current $14.7 million public funding application (for preservation) directly to a development project that contradicts its stated goal ("protect from development"), proving Article 1’s accusation of continuous "same developer, same issue" systemic failure.
+
+      *   Article 1 claims Fly Creek pollution and damage are ongoing due to development;
+      Article 2 reveals that the city has historically ignored scientific findings
+      (Thompson Engineering study) and environmental warnings (erosion documented
+      for 40 years behind Publix), choosing instead to facilitate massive new developments
+      like Corte''s.
+
+      *   Article 2 links the current $14.7 million public funding application (for
+      preservation) directly to a development project that contradicts its stated
+      goal ("protect from development"), proving Article 1’s accusation of continuous
+      "same developer, same issue" systemic failure.
+
 
       KEY ENTITIES:
+
       *   Arthur Corte / Corti (Developer/Land Owner)
-      *   Adam Milam (Plaintiff's attorney)
+
+      *   Adam Milam (Plaintiff''s attorney)
+
       *   Mayor Kant (Tim Kant - Former Mayor)
+
       *   Jack Burrell / Burrell (Council Members)
+
       *   Fairhope City Council / Fairhope City (City entity)
+
       *   Ripp Report (Non-profit Association/Reporter)
+
       *   Thompson Engineering (Consultant)
+
       *   Regency Center
+
       *   BP (Petroleum corporation)
+
       *   Triangle property owners
-      *   Senator Pittman
+
+      *   Senator Pittman'
     generated_at: '2026-07-16T20:39:01.943080Z'
-    text: While former mayor Tim Kant chased millions in restoration grants, he was busy approving the very developments that destroyed Fly Creek. The city's secret $12 million settlement for the Triangle property proves they will always prioritize developer Corte.
+    text: While former mayor Tim Kant chased millions in restoration grants, he was
+      busy approving the very developments that destroyed Fly Creek. The city's secret
+      $12 million settlement for the Triangle property proves they will always prioritize
+      developer Corte.
+    character_count: 255

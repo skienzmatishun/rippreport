@@ -6,7 +6,7 @@ categories:
 - Special-Report
 authors:
 - ripp-report
-alttags: Bald eagle head superimposed on an American flag with We the People text, referencing voter decisions about local taxes
+alttags: A black-and-white bald eagle head facing right beside an American flag with the yellow text We the People overlaid on the stars and stripes
 related_articles:
 - slug: snakes-in-the-schools
   title: SNAKES IN THE SCHOOLS

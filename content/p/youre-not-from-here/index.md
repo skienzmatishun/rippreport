@@ -1,12 +1,98 @@
 ---
-title: "You're Not From Here - Arthur Corti's Entitlement"
+title: You're Not From Here - Arthur Corti's Entitlement
 date: 2016-02-05
-description: "Planning commission ignores 300+ residents to approve Fly Creek Apartments for entitled developer"
-tags: ["archive", "historical", "fly-creek", "arthur-corti", "planning-zoning", "development"]
+description: Planning commission ignores 300+ residents to approve Fly Creek Apartments for entitled developer
+tags:
+- archive
+- historical
+- fly-creek
+- arthur-corti
+- planning-zoning
+- development
 authors:
 - admin
+related_articles:
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 88.44802540382446
+  llm_score: 90
+  recency_score: 73.57614607199059
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: friends-of-fly-creek
+  title: FRIENDS OF FLY CREEK
+  score: 79.13093857578565
+  llm_score: 95
+  recency_score: 0.0028968107674481568
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 75.85256244236837
+  llm_score: 85
+  recency_score: 21.152234043618023
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 75.5512151742726
+  llm_score: 75
+  recency_score: 59.41948725206741
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: living-it-up-at-the-hotel-california
+  title: Living it Up at The Hotel California
+  score: 70.6274450944765
+  llm_score: 70
+  recency_score: 51.107809293239825
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 70.6121335327555
+  llm_score: 80
+  recency_score: 11.019767813344055
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 59.08732853086989
+  llm_score: 65
+  recency_score: 4.7521390525018266
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 53.15377219876237
+  llm_score: 55
+  recency_score: 10.634190142883599
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: honey-bees
+  title: HONEY BEES
+  score: 44.78672694661862
+  llm_score: 45
+  recency_score: 2.5236799430570582
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fauxhope-2
+  title: FAUXHOPE
+  score: 37.4202009960552
+  llm_score: 35
+  recency_score: 0.1661557273173934
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **Feb. 5 2016**
 
 ## YOU'RE NOT FROM HERE

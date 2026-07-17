@@ -1,12 +1,97 @@
 ---
-title: "Letter to Single Tax Colony on Lee Turner"
+title: Letter to Single Tax Colony on Lee Turner
 date: 2014-06-09
-description: "Concerns about conflicts of interest with Lee Turner serving on both Planning & Zoning and FSTC"
-tags: ["archive", "historical", "single-tax", "lee-turner", "planning-zoning"]
+description: Concerns about conflicts of interest with Lee Turner serving on both Planning & Zoning and FSTC
+tags:
+- archive
+- historical
+- single-tax
+- lee-turner
+- planning-zoning
 authors:
 - admin
+related_articles:
+- slug: independence-day-2014
+  title: Independence Day – What does it Mean?
+  score: 91.93672555722628
+  llm_score: 90
+  recency_score: 93.63617195405108
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: ethics-complaint-turner
+  title: Ethics Complaint Against Lee Turner
+  score: 83.88963636898535
+  llm_score: 95
+  recency_score: 27.365409121665678
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 76.69319323586362
+  llm_score: 88
+  recency_score: 13.985861106215753
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 74.13823752983356
+  llm_score: 85
+  recency_score: 11.294865796542922
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 70.75362977975253
+  llm_score: 80
+  recency_score: 11.833371233577015
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: elephant-in-a-volkswagen
+  title: ELEPHANT IN A VOLKSWAGEN
+  score: 65.67470493900245
+  llm_score: 75
+  recency_score: 2.629553399264038
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: switching-hats
+  title: SWITCHING HATS
+  score: 58.89619449538207
+  llm_score: 65
+  recency_score: 3.653118348446851
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 55.22392109244891
+  llm_score: 60
+  recency_score: 2.537546281581227
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 51.306671565409125
+  llm_score: 55
+  recency_score: 0.013361501102451587
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: youre-not-from-here
+  title: You're Not From Here - Arthur Corti's Entitlement
+  score: 47.653685119402056
+  llm_score: 45
+  recency_score: 19.00868943656179
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 Dear City of Fairhope Single Tax Colony and members:
 
 Dear Sirs,

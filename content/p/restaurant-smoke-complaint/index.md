@@ -1,12 +1,96 @@
 ---
-title: "Do Unto Others - Nichols Street Smoke Dispute"
+title: Do Unto Others - Nichols Street Smoke Dispute
 date: 2015-04-20
-description: "Neighbors face commercial cooking smoke from restaurant owner, city government refuses to act"
-tags: ["archive", "historical", "code-enforcement", "city-council"]
+description: Neighbors face commercial cooking smoke from restaurant owner, city government refuses to act
+tags:
+- archive
+- historical
+- code-enforcement
+- city-council
 authors:
 - admin
+related_articles:
+- slug: columbia-questions-and-documents
+  title: COLUMBIA — QUESTIONS AND DOCUMENTS
+  score: 72.23314930199444
+  llm_score: 85
+  recency_score: 0.3406084864679812
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: investigations
+  title: INVESTIGATIONS
+  score: 70.55523819347118
+  llm_score: 80
+  recency_score: 10.692619612459277
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 66.26343111735763
+  llm_score: 75
+  recency_score: 6.014728924806331
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
+  title: WHO’S RESPONSIBLE?
+  score: 64.0042196953449
+  llm_score: 70
+  recency_score: 13.024263248233176
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: victory
+  title: VICTORY
+  score: 58.85251273082502
+  llm_score: 65
+  recency_score: 3.401948202243831
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 55.80877861340106
+  llm_score: 60
+  recency_score: 5.9004770270560485
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: new-year-new-problems
+  title: NEW YEAR NEW PROBLEMS
+  score: 52.43378988299259
+  llm_score: 55
+  recency_score: 6.494291827207389
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 44.348400686108086
+  llm_score: 45
+  recency_score: 0.0033039451214565683
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: in-the-same-boat
+  title: IN THE SAME BOAT
+  score: 37.62247996402197
+  llm_score: 35
+  recency_score: 1.32925979312634
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: boone-doggle
+  title: BOONE-DOGGLE
+  score: 36.97478546227219
+  llm_score: 30
+  recency_score: 17.605016408065044
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **Consumer Advocates Exposing Political Corruption**  
 **April 20, 2015**
 

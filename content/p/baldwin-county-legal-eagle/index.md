@@ -1,11 +1,93 @@
 ---
-title: "Baldwin County Legal Eagle"
+title: Baldwin County Legal Eagle
 date: 2015-03-30
-description: "Post from 2015-03-30"
-thumbnail: "img/baldwin-county-legal-eagle.png"
-tags: ["archive", "historical"]
+description: Post from 2015-03-30
+thumbnail: img/baldwin-county-legal-eagle.png
+tags:
+- archive
+- historical
+related_articles:
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 79.43698127924311
+  llm_score: 95
+  recency_score: 1.7626423556478428
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 77.06881406962428
+  llm_score: 92
+  recency_score: 0.1456809003395346
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 74.35654732575095
+  llm_score: 88
+  recency_score: 0.5501471230679165
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 73.00947890333319
+  llm_score: 85
+  recency_score: 4.804503694165815
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: goat-hill-piggy-bank
+  title: GOAT HILL PIGGY-BANK
+  score: 65.5501977998859
+  llm_score: 75
+  recency_score: 1.9136373493438719
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: tax-tax-and-re-tax
+  title: TAX TAX AND RE-TAX
+  score: 58.53938654739829
+  llm_score: 65
+  recency_score: 1.6014726475401309
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 51.377697089281625
+  llm_score: 55
+  recency_score: 0.42175826336932687
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 47.89327942913688
+  llm_score: 50
+  recency_score: 0.38635671753704987
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 37.67677424057482
+  llm_score: 35
+  recency_score: 1.6414518833052383
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 26.974461387954122
+  llm_score: 20
+  recency_score: 0.10315298073621133
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 Baldwin County Legal Eagle
 Consumer Advocates exposing Political Corruption, affiliate of the Ripp Report, a non-profit Association
 

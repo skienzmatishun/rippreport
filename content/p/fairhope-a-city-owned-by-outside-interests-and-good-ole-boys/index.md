@@ -13,76 +13,94 @@ authors:
 - ripp-report
 alttags: Fairhope waterfront at sunset
 related_articles:
-- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
-  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 79.92190583576996
-  llm_score: 90
-  recency_score: 84.60952917884977
-  category_score: 0
-  rank: 1
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 74.95183464323571
-  llm_score: 84
+  score: 89.69724751585714
+  llm_score: 90
   recency_score: 80.75917321617852
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 79.64211416002506
+  llm_score: 95
+  recency_score: 2.9421564201440202
+  length_score: 100
   category_score: 0
   rank: 2
-- slug: conflict-of-interest
-  title: CONFLICT OF INTEREST
-  score: 73.27772414553688
-  llm_score: 90
-  recency_score: 51.388620727684355
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 74.67981839997584
+  llm_score: 65
+  recency_score: 94.40895579986105
+  length_score: 100
   category_score: 0
   rank: 3
-- slug: recuse-yourself
-  title: RECUSE YOURSELF
-  score: 71.16487863775173
-  llm_score: 90
-  recency_score: 40.82439318875856
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 73.29411006034549
+  llm_score: 85
+  recency_score: 6.441132846986479
+  length_score: 100
   category_score: 0
   rank: 4
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 70.674820315817
-  llm_score: 100
-  recency_score: 3.374101579085013
+- slug: eagles-eye-catalyst-kant-corte
+  title: EAGLES EYE - CATALYST-KANT-CORTE
+  score: 71.20927169791726
+  llm_score: 80
+  recency_score: 14.453312263024177
+  length_score: 100
   category_score: 0
   rank: 5
-- slug: community-or-developer
-  title: COMMUNITY OR DEVELOPER
-  score: 67.91468882960316
-  llm_score: 85
-  recency_score: 42.0734441480158
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 65.23400622211742
+  llm_score: 75
+  recency_score: 0.09553577717508804
+  length_score: 100
   category_score: 0
   rank: 6
-- slug: fairhope-has-lost-its-moral-compass
-  title: FAIRHOPE HAS LOST IT’S MORAL COMPASS
-  score: 65.59772583426356
-  llm_score: 90
-  recency_score: 12.988629171317715
+- slug: youre-not-from-here
+  title: You're Not From Here - Arthur Corti's Entitlement
+  score: 64.10019931686794
+  llm_score: 55
+  recency_score: 73.57614607199059
+  length_score: 100
   category_score: 0
   rank: 7
-- slug: fairhope-no-hope-fauxhope
-  title: FAIRHOPE — NO HOPE — FAUXHOPE
-  score: 63.391208621764726
-  llm_score: 90
-  recency_score: 1.9560431088235848
+- slug: game-on
+  title: GAME ON
+  score: 62.82571083019508
+  llm_score: 50
+  recency_score: 86.24783727362167
+  length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhopes-triangle-mega-site
-  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
-  score: 62.67286949891343
-  llm_score: 85
-  recency_score: 15.864347494567099
+- slug: triangle-roaches
+  title: TRIANGLE ROACHES
+  score: 62.25080981219896
+  llm_score: 70
+  recency_score: 2.9421564201440202
+  length_score: 100
   category_score: 0
   rank: 9
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 61.4643950362927
-  llm_score: 85
-  recency_score: 9.821975181463475
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 55.53619155373581
+  llm_score: 45
+  recency_score: 64.3331014339809
+  length_score: 100
   category_score: 0
   rank: 10
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 53.49836945733479
+  llm_score: 35
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 11
 ---
 The Ripp Report/ Baldwin County Legal Eagle
 

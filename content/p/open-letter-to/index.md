@@ -1,10 +1,92 @@
 ---
-title: "Open Letter to Steve Alexander FOX News"
+title: Open Letter to Steve Alexander FOX News
 date: 2015-01-16
-description: "NEW SWEEP The Ripp Report 2015"
-tags: ["archive", "historical"]
+description: NEW SWEEP The Ripp Report 2015
+tags:
+- archive
+- historical
+related_articles:
+- slug: location-location
+  title: LOCATION LOCATION TOTALLY LOCO LOCATIONS
+  score: 95.4149864267915
+  llm_score: 95
+  recency_score: 93.63617195405108
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: quid-pro-quo
+  title: Quid Pro Quo
+  score: 85.89740740736357
+  llm_score: 80
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 76.31961534067543
+  llm_score: 90
+  recency_score: 3.837788208883614
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: triangle-part-2-public-driven-vision
+  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
+  score: 72.86745227046426
+  llm_score: 85
+  recency_score: 3.9878505551694436
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: new-sweep-the-ripp-report-2014
+  title: NEW SWEEP The Ripp Report 2014
+  score: 72.07695251718752
+  llm_score: 65
+  recency_score: 79.4424769738282
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: youre-not-from-here
+  title: You're Not From Here - Arthur Corti's Entitlement
+  score: 71.27415619211357
+  llm_score: 75
+  recency_score: 34.826398104653
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: boycott-the-gas-station-on-the-new-roundabout
+  title: 'BOYCOTT: The Gas Station on the New Roundabout'
+  score: 56.4355324194059
+  llm_score: 60
+  recency_score: 9.504311411583915
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 51.5921737156367
+  llm_score: 55
+  recency_score: 1.6549988649109706
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fried-chicken-and-watermelon
+  title: FRIED CHICKEN AND WATERMELON
+  score: 40.888829373218044
+  llm_score: 40
+  recency_score: 0.11076889600373441
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 37.41285863904533
+  llm_score: 35
+  recency_score: 0.12393717451064709
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 I saw the Fox news team this morning at Parker Road and High ridge Road for what appeared to be a groundbreaking for the Fairhope Fire station. I know you are aware of the controversy surrounding the location. The location favors the land owner and not the city.
 
 I understand the pressure of developing stories for Fox News and if this story is a simple "kiss the baby" or filler news with no substance or investigative reporting, then the PUBLIC will see this in your reporting tonight.

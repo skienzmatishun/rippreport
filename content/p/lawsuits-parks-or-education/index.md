@@ -1,12 +1,97 @@
 ---
-title: "Top Priority - Lawsuits, Parks, or Education?"
+title: Top Priority - Lawsuits, Parks, or Education?
 date: 2015-05-15
-description: "Fairhope spends $17 million on lawsuits and parks while contributing only $350,000 to education"
-tags: ["archive", "historical", "education", "budget", "triangle-lawsuit"]
+description: Fairhope spends $17 million on lawsuits and parks while contributing only $350,000 to education
+tags:
+- archive
+- historical
+- education
+- budget
+- triangle-lawsuit
 authors:
 - admin
+related_articles:
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 84.11654087377278
+  llm_score: 95
+  recency_score: 28.67011002419343
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 81.82621692586275
+  llm_score: 90
+  recency_score: 35.500747323710755
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 72.18373159447725
+  llm_score: 85
+  recency_score: 0.05645666824411045
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 69.09333048639883
+  llm_score: 80
+  recency_score: 2.2866502967932067
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: baldwin-county-legal-eagle
+  title: Baldwin County Legal Eagle
+  score: 66.63635988318033
+  llm_score: 55
+  recency_score: 88.15906932828686
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 65.60010502881482
+  llm_score: 75
+  recency_score: 2.200603915685177
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: pedaling-forward
+  title: PEDALING FORWARD
+  score: 58.65313737244971
+  llm_score: 65
+  recency_score: 2.255539891585818
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 50.06595457274878
+  llm_score: 45
+  recency_score: 32.87923879330549
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 37.48089334020107
+  llm_score: 35
+  recency_score: 0.5151367061561393
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: game-on
+  title: GAME ON
+  score: 35.75976117959542
+  llm_score: 25
+  recency_score: 30.618626782673648
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **Consumer Advocates Exposing Political Corruption**  
 **May 15, 2015**
 

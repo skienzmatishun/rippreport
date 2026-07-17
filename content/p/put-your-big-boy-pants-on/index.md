@@ -1,12 +1,98 @@
 ---
-title: "Put Your Big Boy Pants On - Tucker Dorsey"
+title: Put Your Big Boy Pants On - Tucker Dorsey
 date: 2016-05-13
-description: "Questioning Tucker Dorsey's qualifications and conflicts of interest in seeking SARPC director position"
-tags: ["archive", "historical", "tucker-dorsey", "conflicts-of-interest", "boy-scouts"]
+description: Questioning Tucker Dorsey's qualifications and conflicts of interest in seeking SARPC director position
+thumbnail: img/put-your-big-boy-pants-on.png
+tags:
+- archive
+- historical
+- tucker-dorsey
+- conflicts-of-interest
+- boy-scouts
 authors:
 - admin
+related_articles:
+- slug: fire
+  title: FIRE
+  score: 84.25434282162554
+  llm_score: 85
+  recency_score: 69.4624712243468
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 80.07304901835217
+  llm_score: 95
+  recency_score: 5.420031855524929
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 77.33768230532336
+  llm_score: 92
+  recency_score: 1.6916732556092262
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: your-rights-your-money
+  title: YOUR RIGHTS YOUR MONEY
+  score: 74.34115943179027
+  llm_score: 88
+  recency_score: 0.46166673279399395
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 71.36543659620843
+  llm_score: 80
+  recency_score: 15.35126042819837
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 65.29529757392996
+  llm_score: 75
+  recency_score: 0.44796105009721165
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 59.18811543384216
+  llm_score: 65
+  recency_score: 5.331663744592373
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 57.35192944486239
+  llm_score: 60
+  recency_score: 14.773594307958726
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 53.94481873180065
+  llm_score: 45
+  recency_score: 55.18270770785375
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 27.011685208787096
+  llm_score: 20
+  recency_score: 0.3171899505257979
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **The Ripp Report/Baldwin County Legal Eagle**  
 **May 13 2016**
 

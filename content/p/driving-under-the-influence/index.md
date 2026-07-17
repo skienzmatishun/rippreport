@@ -1,10 +1,100 @@
 ---
-title: "Driving Under the Influence - A SOURCE OF STEADY INCOME...for Whom?"
+title: Driving Under the Influence - A SOURCE OF STEADY INCOME...for Whom?
 date: 2016-05-20
-thumbnail: "img/driving-under-the-influence.png"
-tags: ["archive", "historical"]
+thumbnail: img/driving-under-the-influence.png
+tags:
+- archive
+- historical
+related_articles:
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 79.22101097157682
+  llm_score: 95
+  recency_score: 0.52081308656669
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 75.86278789320374
+  llm_score: 90
+  recency_score: 1.2110303859214708
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 72.30719844876229
+  llm_score: 85
+  recency_score: 0.7663910803831024
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 68.70520537504217
+  llm_score: 80
+  recency_score: 0.05493090649239774
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 65.30796749331596
+  llm_score: 75
+  recency_score: 0.52081308656669
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 58.34028434658689
+  llm_score: 65
+  recency_score: 0.4566349928745723
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 51.38530032880327
+  llm_score: 55
+  recency_score: 0.46547689061875125
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 40.92579682629601
+  llm_score: 40
+  recency_score: 0.32333175120203433
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: get-out-of-jail-card
+  title: GET OUT OF JAIL CARD
+  score: 37.42508505999514
+  llm_score: 35
+  recency_score: 0.19423909497205033
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: the-black-eyes-of-alabama
+  title: The Black Eyes of Alabama
+  score: 33.97244225041604
+  llm_score: 30
+  recency_score: 0.3415429398921856
+  length_score: 100
+  category_score: 0
+  rank: 10
+- slug: some-things-never-change
+  title: SOME THINGS NEVER CHANGE
+  score: 30.435656408027754
+  llm_score: 25
+  recency_score: 0.005024346159586633
+  length_score: 100
+  category_score: 0
+  rank: 11
 ---
-
 FREAKY FRIDAY IN A FREAKY COUNTY  May 20 2016
 
 The Ripp Report/Baldwin County Legal Eagle

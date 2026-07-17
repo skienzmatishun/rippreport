@@ -1,12 +1,89 @@
 ---
-title: "Catalyst Associates Exposed"
+title: Catalyst Associates Exposed
 date: 2014-10-03
-description: "Connecting the dots on political consulting conflicts of interest involving Kevin Boone and Chris Elliott"
-tags: ["archive", "historical", "kevin-boone", "chris-elliott", "catalyst"]
+description: Connecting the dots on political consulting conflicts of interest involving Kevin Boone and Chris Elliott
+tags:
+- archive
+- historical
+- kevin-boone
+- chris-elliott
+- catalyst
 authors:
 - admin
+related_articles:
+- slug: conflict-of-interest
+  title: CONFLICT OF INTEREST
+  score: 80.8479899030726
+  llm_score: 95
+  recency_score: 9.87594194266743
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 75.70120687345567
+  llm_score: 90
+  recency_score: 0.28193952237011366
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: a-spiders-web
+  title: A SPIDER’S WEB
+  score: 73.92472546349674
+  llm_score: 85
+  recency_score: 10.067171415106259
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: catalyst-stacking-the-deck
+  title: CATALYST STACKING THE DECK
+  score: 68.75081564356971
+  llm_score: 80
+  recency_score: 0.3171899505257979
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: bit-dogs-bark-first
+  title: BIT DOGS BARK FIRST
+  score: 67.00210499042915
+  llm_score: 75
+  recency_score: 10.262103694967568
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: blind-leading-the-blind
+  title: BLIND LEADING THE BLIND
+  score: 58.38263320351305
+  llm_score: 65
+  recency_score: 0.700140920200011
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 51.798123728066386
+  llm_score: 55
+  recency_score: 2.839211436381685
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: game-on
+  title: GAME ON
+  score: 47.230476223126495
+  llm_score: 45
+  recency_score: 16.575238282977313
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 39.132549510733035
+  llm_score: 35
+  recency_score: 10.01215968671496
+  length_score: 100
+  category_score: 0
+  rank: 9
 ---
-
 **BACKSTORY**
 
 *Jeanne Carney posted in BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)*
