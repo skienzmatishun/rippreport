@@ -6,7 +6,7 @@ categories:
 - none
 authors:
 - admin
-alttags: 'Red Cross emblem: a white circle containing a red cross, symbolizing medical assistance potentially delayed for patients'
+alttags: White exclamation mark centered on a solid blue background
 related_articles:
 - slug: danger-zone
   title: DANGER ZONE

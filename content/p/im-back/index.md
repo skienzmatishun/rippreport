@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: A bedroom featuring a large bed with white linens and an ornate black metal headboard, set against beige walls with multiple barred windows
+alttags: A sunlit paved driveway forks through a lush, landscaped area with green grass, trees, and shrubs under a clear blue sky
 related_articles:
 - slug: police-report
   title: POLICE REPORT

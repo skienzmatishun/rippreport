@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: Forbidden symbol hinting at unexpected twists and turns in anticipation of Freaky Friday
+alttags: A gray circle with a black diagonal line crossing from the upper right to the lower left
 related_articles:
 - slug: wonderful-wednesday-4
   title: WONDERFUL WEDNESDAY
