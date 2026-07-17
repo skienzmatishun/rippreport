@@ -1,6 +1,7 @@
 ---
 title: "Divorce Corp Documentary - Baldwin County Mirror"
 date: 2015-10-02
+thumbnail: img/divorce-corp-documentary.png
 description: "Must-watch documentary exposes family court corruption identical to Baldwin County system"
 tags: ["archive", "historical", "divorce-corp", "family-court", "documentary", "brackin-law-firm"]
 authors:
