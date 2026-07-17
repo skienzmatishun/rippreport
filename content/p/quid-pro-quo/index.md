@@ -2,7 +2,7 @@
 title: "Quid Pro Quo"
 date: 2015-01-12
 description: "Quid Pro Quo"
-thumbnail: "image.jpg"
+thumbnail: "img/quid-pro-quo.png"
 tags: ["archive", "historical"]
 ---
 

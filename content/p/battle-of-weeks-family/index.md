@@ -13,7 +13,7 @@ tags:
 - zoning-commission
 authors:
 - admin
-alttags: Black-and-white photo of Blanche Weeks in a white dress at a kitchen stove, with text below reading Blanche Weeks and Blanche’s gumbo is now famous.
+alttags: Black and white photograph of Blanche Weeks in a kitchen, with text below reading Blanche Weeks and Blanche’s gumbo is now famous
 related_articles:
 - slug: public-access
   title: PUBLIC ACCESS
