@@ -6,7 +6,7 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: Green checkmark inside a circle, symbolizing support for Fairhope government change and efficient practices
+alttags: Six cartoon-style eyes with black pupils and light gray circular outlines arranged on a white background
 related_articles:
 - slug: fairhope-change-of-government
   title: FAIRHOPE - CHANGE OF GOVERNMENT

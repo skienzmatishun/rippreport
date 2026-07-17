@@ -11,7 +11,7 @@ tags:
 - jerry-carl
 authors:
 - admin
-alttags: Carl, a Republican candidate in Alabama’s AL-1 race, opposes “Catalyst,” described as the status quo benefiting from politics
+alttags: Close-up portrait of candidate Jerry Carl wearing wire-rimmed glasses and a white shirt, smiling slightly against a blurred indoor background with bokeh...
 related_articles:
 - slug: catalyst-attack
   title: CATALYST ATTACK

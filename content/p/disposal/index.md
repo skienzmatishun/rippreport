@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Metallic trash can icon symbolizing disposal of land, referencing Fairhope council’s controversial sale of 106 acres
+alttags: A glossy, metallic trash can with vertical grooves and a slightly ajar lid featuring a handle
 related_articles:
 - slug: honey-bees
   title: HONEY BEES

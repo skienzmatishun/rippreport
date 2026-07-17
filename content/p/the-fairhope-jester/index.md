@@ -7,7 +7,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A person in a colorful jester costume, possibly symbolizing Fairhope City Council’s self-serving actions during the pandemic
+alttags: A person in a colorful jester costume with striped pants and a multi-colored hat stands against a white background, holding an object in one hand
 related_articles:
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF

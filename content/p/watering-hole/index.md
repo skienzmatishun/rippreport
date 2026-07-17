@@ -7,7 +7,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Scales of justice illustration atop a landscape, symbolizing legal issues surrounding bar owner Ronan McSharry and associates
+alttags: A green balance scale with two yellow beer mugs hanging from its pans, set against a diagonal orange and green starburst background
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE

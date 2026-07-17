@@ -6,7 +6,7 @@ categories:
 - stormy-saturday
 authors:
 - admin
-alttags: Illustration depicting a magician’s hat and wand crossed out by a red circle, symbolizing lack of accountability in Baldwi...
+alttags: A black top hat with a magic wand protruding from its opening, overlaid by a red prohibition circle containing the word Catalyst
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE

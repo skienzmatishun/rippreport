@@ -12,7 +12,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Calendar icon representing repeated council meetings regarding stalled infrastructure funding requests
+alttags: A white calendar icon with a dark blue grid of squares and three top rings, centered on a solid blue circular background
 related_articles:
 - slug: bend-over-fairhope
   title: BEND OVER FAIRHOPE

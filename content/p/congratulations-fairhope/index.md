@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: 'Fairhope, Alabama: American flag waves over a fountain in downtown area, celebrating approved BP RESTORE project funding'
+alttags: A waving American flag and a central fountain dominate a sunlit public park. Lush trees and flower beds surround the scene under a clear blue sky
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE

@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Stack of documents representing bids and ethics letters related to a Fairhope city council contract dispute
+alttags: A black and white line drawing of three overlapping documents with horizontal bars representing text
 related_articles:
 - slug: marble-mouth
   title: MARBLE MOUTH

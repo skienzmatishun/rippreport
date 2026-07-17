@@ -10,7 +10,7 @@ tags:
 - scott-boone
 authors:
 - admin
-alttags: CATALYST logo obscured by sunglasses and a red circle, representing controversial Baldwin County political group now calle...
+alttags: Black-framed glasses overlay a red prohibition sign, with the word CATALYST visible behind them. The lenses display AT and LYST respectively
 related_articles:
 - slug: catalyst-attack
   title: CATALYST ATTACK

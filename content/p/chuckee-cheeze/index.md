@@ -6,7 +6,7 @@ categories:
 - terrible-tuesday
 authors:
 - ripp-report
-alttags: Chucky doll caricature representing Chuckee Cheeze, a local journalist criticized in an article about Fairhope politics
+alttags: Chucky doll with orange hair and blue eyes pointing its middle finger
 related_articles:
 - slug: hallucinations
   title: HALLUCINATIONS

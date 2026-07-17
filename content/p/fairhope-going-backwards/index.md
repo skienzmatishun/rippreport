@@ -19,7 +19,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Fairhope city seal depicting a seagull, sun, water, and islands; referenced in discussion of local politics and elected of...
+alttags: Circular Fairhope, Alabama city seal with arched text and a central design showing a yellow sky, white clouds, a flying bird, and three sailboats
 related_articles:
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE

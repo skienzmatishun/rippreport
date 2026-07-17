@@ -5,7 +5,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: 'Coastal view in Belize: turquoise water, sandy beach lined with palm trees, and a wooden pier. Author exploring before ret...'
+alttags: A wooden pier extends into clear turquoise water beside a sandy beach lined with palm trees under a clear blue sky
 related_articles:
 - slug: on-vacation
   title: ON VACATION

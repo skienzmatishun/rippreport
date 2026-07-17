@@ -12,7 +12,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Former BP executive gestures toward a fountain in Fairhope, Alabama, amid criticism over his role in the Mobile Bay cleanup
+alttags: John Manelos, a Fairhope City Council candidate, points toward an outdoor scene featuring an American flag, a fountain, and manicured lawns
 related_articles:
 - slug: scary
   title: SCARY

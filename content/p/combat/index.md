@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Bald eagle portrait against a red background, symbolizing service and sacrifice for a Vietnam veteran’s healthcare journey
+alttags: A bald eagle with a white head and dark brown body faces forward against a solid red background
 related_articles:
 - slug: im-back
   title: I'M BACK

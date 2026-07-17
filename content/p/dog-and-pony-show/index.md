@@ -12,7 +12,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: 'Group in animal costumes: dog, horse, kangaroo, and others, referencing a “dog and pony show” meeting about local council ...'
+alttags: Five men pose against a white background in full-body costumes resembling a lion, jockey, horse, Scooby-Doo, and a dog with a Happy name tag
 related_articles:
 - slug: do-your-job-pass-the-budget
   title: DO YOUR JOB, PASS THE BUDGET

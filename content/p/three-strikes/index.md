@@ -11,7 +11,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Dysfunctional Fairhope City Council decisions marked by red X symbols, reflecting opposition to recommendations
+alttags: Three red circles with white X marks inside, arranged horizontally on a white background
 related_articles:
 - slug: gold-mine-for-sale
   title: GOLD MINE FOR SALE

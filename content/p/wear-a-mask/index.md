@@ -8,7 +8,7 @@ tags:
 - covid-19
 authors:
 - admin
-alttags: Medical professionals in masks work under bright lights, illustrating concerns about public health safety and responsibili...
+alttags: Two medical professionals wearing blue scrubs, surgical caps, and face masks converse in an operating room with medical monitors visible
 related_articles:
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION

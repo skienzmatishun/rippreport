@@ -6,7 +6,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Custom pillows reading The Real, The Boss, and featuring a man’s face, illustrating claims of labeling individuals as ...
+alttags: A mans head peeks from a black and white duvet with ornate designs and the text The Boss and The Real, on a bed near white chairs
 related_articles:
 - slug: straw-man
   title: STRAW MAN

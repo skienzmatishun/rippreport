@@ -18,7 +18,7 @@ tags:
 - robert-brown
 authors:
 - admin
-alttags: 'Political campaign graphic: Two people in bee costumes flank a red circle with CATALYST crossed out, referencing Baldwin...'
+alttags: Two men in black and yellow bee costumes flank a red prohibition sign over CATALYST. The left waves while the right holds a sunflower and wears wings
 related_articles:
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF

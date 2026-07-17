@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: Vintage steam train traveling through Baldwin County, illustrating independent municipal systems
+alttags: 'Lets try: A black steam locomotive with gold trim flies through a blue sky, emitting smoke and sparks. A sign reads City'
 related_articles:
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK

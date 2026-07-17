@@ -78,5 +78,6 @@ related_articles:
   recency_score: 79.6604260196822
   category_score: 0
   rank: 10
+alttags: Aerial view of a residential area overlaid with a white layout, pink and white zones, red property lines, and text requesting PUD ordinance inclusion
 ---
 {{< youtubecomments >}}

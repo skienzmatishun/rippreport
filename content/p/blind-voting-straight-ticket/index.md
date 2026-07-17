@@ -6,7 +6,7 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: Blindfold representing Alabama’s straight ticket voting system, which encourages uninformed choices based on party affilia...
+alttags: A dark blue sleep mask with an elastic strap lying flat on a white background
 related_articles:
 - slug: ignorance-is-bliss
   title: IGNORANCE IS BLISS

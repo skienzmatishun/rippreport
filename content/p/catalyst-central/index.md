@@ -6,7 +6,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Red circle with a slash symbol over the word ANALYSIS, suggesting rejection of political analysis in Fairhope elections
+alttags: A red circle with a diagonal slash overlaid on the word CATALYST in black capital letters
 related_articles:
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE

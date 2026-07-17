@@ -15,7 +15,7 @@ tags:
 - robinson
 authors:
 - admin
-alttags: Stacks of US currency symbolize alleged corruption among Baldwin County, Alabama elected officials
+alttags: Multiple tightly bundled stacks of US one hundred dollar bills secured with white paper bands and yellow tape, scattered across a light surface
 related_articles:
 - slug: happy-days
   title: HAPPY DAYS

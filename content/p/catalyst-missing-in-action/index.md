@@ -16,7 +16,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: 'Mask crossed out, fan checked: Illustration reflects attendees removing masks at crowded football game'
+alttags: A teal face mask with a red X on the left, and a hand holding an open fan with a green checkmark on the right
 related_articles:
 - slug: jackass-jack
   title: JACKASS JACK

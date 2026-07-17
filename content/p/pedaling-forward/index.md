@@ -14,7 +14,7 @@ tags:
 - schools
 authors:
 - ripp-report
-alttags: Cyclist silhouette blurred in motion, symbolizing Fairhope City Council’s past inaction & potential for progress on educat...
+alttags: A black silhouette of a person riding a bicycle against a white background
 related_articles:
 - slug: money-on-the-table
   title: MONEY ON THE TABLE

@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Man in suit speaks at podium near fountain; article discusses Fairhope land purchase concerns and city council decisions
+alttags: A man in a dark suit and pink tie addresses an audience at a wooden Christies podium outdoors, with an American flag and fountain behind him
 related_articles:
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫

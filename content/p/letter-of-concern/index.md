@@ -8,7 +8,7 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: Logos for City of Faux and Mobile Baykeeper, referenced in a mayoral dispute over news releases and transparency
+alttags: Side-by-side logos of the City of Fairhope seal and Mobile Baykeeper emblem, featuring a sun with sailboats on the left and a heron on a green backgroun...
 related_articles:
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
   title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'

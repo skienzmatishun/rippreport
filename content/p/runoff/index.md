@@ -6,7 +6,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Ballot being dropped into a voting box, reflecting the close First Congressional District race between Carl and Hightower
+alttags: A 3D yellow and orange cube with a black slot, from which a white piece of paper featuring a large black X emerges
 related_articles:
 - slug: public-servant
   title: PUBLIC SERVANT

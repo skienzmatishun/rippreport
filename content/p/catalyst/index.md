@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Illustration depicting a figure pushing a box downwards, while another falls backward, symbolizing Fairhope council dysfun...
+alttags: A red circle with a diagonal slash overlaid on the black text CATALYST against a white background
 related_articles:
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER

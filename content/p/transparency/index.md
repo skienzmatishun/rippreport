@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Financial documents overlaid on a tree branch, symbolizing Fairhope City Council’s budget failures and lack of leadership
+alttags: A city budget document with financial figures is reflected in glass, overlaid with calculator symbols and blue-handled scissors
 related_articles:
 - slug: cut-nose-off-spite-face
   title: CUT YOUR NOSE OFF TO SPITE YOUR FACE

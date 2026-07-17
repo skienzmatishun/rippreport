@@ -6,7 +6,7 @@ categories:
 - monday-madness
 authors:
 - admin
-alttags: Mask with a red no symbol over the word CATALYST, representing the political virus impacting Baldwin County
+alttags: A blue surgical mask is on the left, beside a red prohibition symbol over the black text CATALYST
 related_articles:
 - slug: catalyst-players
   title: CATALYST PLAYERS

@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: South Alabama Mega Site advertisement placed on US currency, questioning its “shovel ready” status and value
+alttags: White sign on US currency displays a QR code, 3000-Acre Certified South Alabama MEGA SITE text, contact details, and the City of Mobile seal
 related_articles:
 - slug: repeat
   title: REPEAT

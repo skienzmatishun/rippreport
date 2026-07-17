@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Dog chasing its tail in grass; symbolizes Fairhope City Council’s unproductive actions described in this article
+alttags: A tan and white dog stands in green grass, licking its own tail while wearing a collar with tags
 related_articles:
 - slug: russian-roulette-fairhope-style
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE

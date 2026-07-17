@@ -14,7 +14,7 @@ tags:
 - schools
 authors:
 - ripp-report
-alttags: Alabama prison complex, symbolizing state decisions that cost billions and reflect political corruption
+alttags: A correctional facility with a tall guard tower, barbed wire fencing, and white modular buildings under an overcast sky
 related_articles:
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX

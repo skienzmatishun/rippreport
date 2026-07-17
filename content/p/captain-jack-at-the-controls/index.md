@@ -12,7 +12,7 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: Aircraft cockpit view shows runway and fountain; Fairhope Airport expansion raises questions about future development plans
+alttags: Airplane cockpit interior with instrument panels, a control yoke, and fuzzy-covered seats, overlooking trees and fountains through the windshield
 related_articles:
 - slug: police-report
   title: POLICE REPORT

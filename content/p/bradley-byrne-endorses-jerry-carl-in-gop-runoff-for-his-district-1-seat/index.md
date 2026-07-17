@@ -9,7 +9,7 @@ tags:
 - jerry-carl
 authors:
 - admin
-alttags: Jerry Carl and Bradley Byrne, endorsing Carl in the GOP runoff for Alabama’s First Congressional District seat
+alttags: Two men in business attire stand side by side smiling, identified as Bradley Byrne and Jerry Carl. An Alabama flag motif appears in the background
 related_articles:
 - slug: first-congressional-district
   title: FIRST CONGRESSIONAL DISTRICT

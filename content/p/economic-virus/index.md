@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Rolled US dollar bills radiating outwards, symbolizing potential economic bailout costs amid the COVID-19 pandemic
+alttags: A swirling cluster of rolled US dollar bills radiating outward from a central point against a solid green background
 related_articles:
 - slug: its-no-joke
   title: IT’S NO JOKE

@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: Night sky filled with stars, evoking a sense of wonder related to the Frank Brown Songwriters Festival documentary
+alttags: A dark night sky densely filled with countless small white stars
 related_articles:
 - slug: wonderful-wednesday-4
   title: WONDERFUL WEDNESDAY

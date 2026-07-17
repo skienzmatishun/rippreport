@@ -9,7 +9,7 @@ tags:
 - k-1-center
 authors:
 - admin
-alttags: Community members encircling a central point, symbolizing citizen voices needing to be heard by Fairhope City Council
+alttags: Black silhouettes of people arranged in a circle around an empty center
 related_articles:
 - slug: community-engagement
   title: COMMUNITY ENGAGEMENT

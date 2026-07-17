@@ -22,7 +22,7 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: Three men in bee costumes, likely referencing council members Burrell, Boone, and Brown mentioned in the article
+alttags: Three men in yellow and black bee costumes stand against a white background, each wearing antennae and posing with different accessories
 related_articles:
 - slug: sting
   title: Sting

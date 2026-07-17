@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Aerial view highlights Fairhope City Hall and surrounding area, featured in the State of the City report
+alttags: Aerial map highlighting Fairhopes Working Waterfront site, showing a circular plaza, central pond, green spaces, and a pier extending into the water
 related_articles:
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER

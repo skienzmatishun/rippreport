@@ -8,7 +8,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Scales of justice silhouette against a gradient background symbolize equal representation and fairness discussed in this o...
+alttags: A black silhouette of a level balance scale with two identical pans suspended from a horizontal beam and central pivot on a white background
 related_articles:
 - slug: fairhope-change-of-government
   title: FAIRHOPE - CHANGE OF GOVERNMENT

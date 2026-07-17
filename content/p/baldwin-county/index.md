@@ -21,7 +21,7 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: A blue circular background featuring a light blue silhouette of Alabama, with a dark red wedge removed from the upper right
+alttags: A Crystal Clean mascot stands beside an open toilet bowl containing a bomb with a digital timer reading 4:16
 related_articles:
 - slug: baldwin-county-citizens-for-government-accountability-cga
   title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)

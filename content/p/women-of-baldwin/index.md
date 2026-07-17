@@ -6,7 +6,7 @@ categories:
 - thursday-thunder
 authors:
 - ripp-report
-alttags: Feminist symbol representing a call to vote candidate over party, challenging established political networks
+alttags: A pink symbol combining the female gender sign with a raised fist inside the circle
 related_articles:
 - slug: catalyst-trifecta
   title: CATALYST TRIFECTA

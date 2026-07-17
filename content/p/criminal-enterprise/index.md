@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Blurred police car with flashing red and blue lights against a dark background; related to allegations of criminal activit...
+alttags: A heavily blurred nighttime photograph of a police car with illuminated headlights and flashing blue and red emergency lights on the roof
 related_articles:
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF

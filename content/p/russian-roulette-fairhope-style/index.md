@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: Revolver cylinder graphic symbolizing Fairhope city council’s legal risks and potential consequences for taxpayers
+alttags: Black circular graphic with scalloped edges containing six white circles arranged around a central black circle enclosed in a white ring
 related_articles:
 - slug: in-the-dark
   title: IN THE DARK

@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Manhole cover in grass, symbolizing Fairhope infrastructure issues investigated by The Ripp Report due to past mayoral cor...
+alttags: A top-down view of a rusted, circular metal storm drain cover set in grass with scattered dry leaves
 related_articles:
 - slug: people-power-2
   title: PEOPLE POWER

@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: "American flag waving against a blue sky, symbolizing military service and oaths of allegiance to defend the nation"
+alttags: An American flag waving on a tall metal pole against a clear blue sky. The red and white stripes and blue star field ripple in the wind
 ---
 Please remember all the military personal that gave their life or were wounded defending your rights. All military personal start their military service by swearing an Oath of Enlistment:
 

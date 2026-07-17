@@ -14,7 +14,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Emoji depicting a sad face with a long nose, symbolizing dishonesty related to the Baldwin County school lawsuit
+alttags: A yellow emoji face with black eyes, a long orange nose, and a downward-curved mouth
 related_articles:
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA

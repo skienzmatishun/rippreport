@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: State Sen. Tripp Pittman, departing Baldwin County politics after a controversial career marked by accusations of self-int...
+alttags: Senator Tripp Pittman stands with his hand on his hip, wearing a blue plaid shirt and looking seriously at the camera
 related_articles:
 - slug: green-acres-on-acid
   title: GREEN ACRES ON ACID

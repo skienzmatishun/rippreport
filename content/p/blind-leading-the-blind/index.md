@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Man in jester costume with a cane, symbolizing deceptive transparency and manufactured community engagement efforts
+alttags: A man in a green and purple jester costume wearing sunglasses, holding a golf club and waving against a white background
 related_articles:
 - slug: quid-quo-pro
   title: QUID QUO PRO

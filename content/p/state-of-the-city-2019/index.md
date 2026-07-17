@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: American flag waving above a civic center fountain and landscaped grounds, setting for the State of the City event
+alttags: A waving American flag on a tall pole stands beside a central fountain and flower beds in a sunny public park
 related_articles:
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS

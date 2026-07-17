@@ -10,7 +10,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: 'Fairhope, Alabama: American flag flies over a fountain in a public square, representing local government concerns'
+alttags: An American flag waves on a tall pole beside a public fountain and green trees under a clear sky
 related_articles:
 - slug: crystal-ball
   title: CRYSTAL BALL

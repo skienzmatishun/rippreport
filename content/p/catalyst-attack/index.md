@@ -11,7 +11,7 @@ tags:
 - scott-boone
 authors:
 - admin
-alttags: Political campaign signs for Boone, Sherry, and Jack Burrell in a Baldwin County yard; a sign with Catalyst crossed out ...
+alttags: Campaign signs for Kevin Boone, Sherry, and Jack Burrell stand in grass near a sidewalk. One sign displays a red prohibition symbol over CATALYST
 related_articles:
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING

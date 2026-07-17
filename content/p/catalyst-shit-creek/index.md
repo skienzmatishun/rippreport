@@ -15,7 +15,7 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: Brown water in a creek, likely polluted, reflecting concerns about environmental violations mentioned in the article
+alttags: Murky brown water with floating foam and debris flows past a concrete embankment, framed by hanging green foliage and a thin tree branch
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE

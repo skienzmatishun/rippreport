@@ -13,7 +13,7 @@ tags:
 - robert-brown
 authors:
 - admin
-alttags: Fairhope City Council candidate Howell Gibbons campaign sign urging a slowdown in growth for infrastructure and community ...
+alttags: Campaign poster for Howell Gibbens, City Council Place 4 candidate, on a red background with white and yellow text reading Lets Slow Down
 related_articles:
 - slug: quid-quo-pro
   title: QUID QUO PRO

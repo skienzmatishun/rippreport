@@ -18,7 +18,7 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: Scale balancing money bag against a person figure, symbolizing alleged corruption and imbalance in Baldwin County politics
+alttags: A balance scale shows a money bag with a dollar sign on the left pan and a stick figure person on the right, tilted downward toward the money
 related_articles:
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE

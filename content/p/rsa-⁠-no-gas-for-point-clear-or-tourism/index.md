@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: No fuel sign; symbolizes Point Clear residents resisting RSA’s decisions regarding condo proposal & hotel management
+alttags: A red circle with a diagonal slash crossing over a black silhouette of a gas pump
 related_articles:
 - slug: gulf-shores-lawsuit-2020
   title: GULF SHORES LAWSUIT & 2020

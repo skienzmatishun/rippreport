@@ -17,7 +17,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Red die labeled Good, Bad, and Ugly, reflecting Fairhope’s progress despite challenges
+alttags: A red die with white text on three visible faces reading GOOD, BAD, and UGLY
 related_articles:
 - slug: communication
   title: COMMUNICATION

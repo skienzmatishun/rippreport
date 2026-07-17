@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: 'Lagniappe Weekly logo: Purple stylized text on a white background, highlighted as a publication offering investigative rep...'
+alttags: Lagniappe Weekly logo with large purple serif text reading Lagniappe, a vertical dotted line, and smaller purple text spelling Weekly vertically on white
 related_articles:
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE

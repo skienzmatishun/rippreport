@@ -20,7 +20,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: City of Fairhope, Alabama seal featuring a pelican over water, relevant to municipal appointments discussed in the article
+alttags: City seal of Fairhope, Alabama featuring a golden key over a yellow sun, three sailboats on blue water, and the city name encircling the design
 related_articles:
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?

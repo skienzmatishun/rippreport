@@ -6,6 +6,6 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: "Green checkmark inside a circle, signifying approval related to hospital billing compliance discussed in the article"
+alttags: Green checkmark enclosed within a green circular outline on a white background
 ---
 https://cdn.rippreport.com/wp-content/uploads/2018/10/IMG\_20181030\_0001.pdf

@@ -14,7 +14,7 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: Fairhope’s iconic downtown clock tower and patio, a popular tourist attraction and central landmark in the city
+alttags: The Fairhope Downtown Clock on a black and gold pole stands beside flower-lined sidewalks, overlooking an empty street leading to downtown buildings
 related_articles:
 - slug: marble-mouth
   title: MARBLE MOUTH

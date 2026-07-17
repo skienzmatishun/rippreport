@@ -6,7 +6,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Crowd silhouette cheering, supporting Jerry Carl’s campaign for Alabama’s First Congressional District
+alttags: Black silhouettes of a crowd with raised hands against a solid red background
 related_articles:
 - slug: runoff
   title: RUNOFF

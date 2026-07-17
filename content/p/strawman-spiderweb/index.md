@@ -10,7 +10,7 @@ tags:
 - mcsharry
 authors:
 - admin
-alttags: Strawman figure ensnared in a web, referencing the article’s discussion of legal information and Councilman Boones reaction
+alttags: Black silhouette of a scarecrow wearing a top hat with outstretched arms and birds perched on its shoulders, set against a white background featuring a ...
 related_articles:
 - slug: catalyst-stacking-the-deck
   title: CATALYST STACKING THE DECK

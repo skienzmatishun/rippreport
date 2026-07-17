@@ -11,7 +11,7 @@ tags:
 - raines
 authors:
 - admin
-alttags: Fairhope, Alabama city seal depicting a pelican over Mobile Bay; referenced in discussion of local politics and community ...
+alttags: City of Fairhope seal with seagull and sailboats, overlaid with the word FAUX
 related_articles:
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION

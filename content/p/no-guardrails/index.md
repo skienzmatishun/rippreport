@@ -9,7 +9,7 @@ categories:
 - alabama
 authors:
 - ripp-report
-alttags: Road winding through landscape, symbolizing Alabama’s infrastructure challenges and potential loss of taxpayer funds due t...
+alttags: A winding asphalt road curves along a steep cliff edge with dry soil, overlooking distant mountains under a blue sky
 related_articles:
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION

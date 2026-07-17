@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: The Ripp Report podcast logo features a microphone and man seated in front of it, streaming facts
+alttags: Man with glasses sits at a broadcast desk with microphones before The Ripp Report banner. Text reads Streaming the Facts to Light Backwoods Media LLC
 related_articles:
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill

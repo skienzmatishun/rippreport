@@ -12,7 +12,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Silhouettes of five jack-o-lanterns against an orange sunset; symbolizing empty promises from indicted Alabama politicians
+alttags: Five black jack-o-lantern silhouettes with carved faces are arranged in a row against an orange gradient background
 related_articles:
 - slug: women-of-baldwin
   title: WOMEN OF BALDWIN

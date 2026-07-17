@@ -6,7 +6,7 @@ categories:
 - sunday-sunrise
 authors:
 - ripp-report
-alttags: 'Urgent: Red alarm clock rings, symbolizing last chance to oppose Regency Place Apartments development at Gulf Shores City ...'
+alttags: A red alarm clock with a motion-blurred bell and surrounding lightning bolt graphics, showing approximately four oclock
 related_articles:
 - slug: fly-creek-a-drainage-ditch
   title: FLY CREEK - A DRAINAGE DITCH ?

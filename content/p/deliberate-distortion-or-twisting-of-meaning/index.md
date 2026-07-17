@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Fork in the road graphic representing Fairhope City Council’s decision on property management transfer to Weeks Bay
+alttags: A black line drawing of a Y-shaped arrow splitting into two upward-pointing arrows, with a light gray shadow behind it
 related_articles:
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫

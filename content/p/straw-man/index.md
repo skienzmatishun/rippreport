@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Man dressed as a scarecrow, symbolizing a straw man lawsuit revealing complex Baldwin County business partnerships
+alttags: A smiling person in a straw man costume made of burlap and yellow fringe wears a pointed blue hat with white X marks. Their arms are outstretched
 related_articles:
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY

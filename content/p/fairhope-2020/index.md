@@ -16,7 +16,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Fairhope waterfront scene at sunset; overlaid with 2020, referencing local politics and recent events discussed in the a...
+alttags: Sunset over a waterfront pier with a paved walkway and large white text reading 2020
 related_articles:
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY

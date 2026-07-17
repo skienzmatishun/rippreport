@@ -10,7 +10,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Bridge construction puzzle over Mobile Bay; representing unresolved issues and lack of public confidence in Alabama infras...
+alttags: A jigsaw puzzle of a harbor bridge and port scene, featuring missing pieces that display the word Alabama and dollar bills
 related_articles:
 - slug: fairhope-citizens-citizens-citizens
   title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”

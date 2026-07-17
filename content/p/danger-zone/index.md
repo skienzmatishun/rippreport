@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: 'Warning sign: Red bar with white exclamation point, illustrating dangerous intersection concerns detailed in article'
+alttags: White exclamation mark centered on a solid red background
 related_articles:
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE

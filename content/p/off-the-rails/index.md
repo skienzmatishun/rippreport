@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Fairhope train engine tilted over, referencing recent sewage spill and concerns about city council priorities in Baldwin C...
+alttags: Orange CP Rail locomotive featuring a Fairhope City logo on its front, angled upward against a flat brown terrain and blue sky
 related_articles:
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY

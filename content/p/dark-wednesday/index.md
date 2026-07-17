@@ -8,7 +8,7 @@ tags:
 - covid-19
 authors:
 - admin
-alttags: COVID-19 case, death, and testing data graph showing rising numbers from March to May, reflecting a serious public health ...
+alttags: Three area charts show cumulative Covid-19 cases, deaths, and tests from March 15 to May 24. Each graph displays a rising trend with red, pink, and blue...
 related_articles:
 - slug: shelter-in-place
   title: SHELTER IN PLACE

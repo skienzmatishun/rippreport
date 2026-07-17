@@ -15,7 +15,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Question mark icon representing unanswered questions about Fairhope City Council resolutions
+alttags: A black question mark with two small squares at the base, centered on a white background
 related_articles:
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN

@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Broken wheel illustration symbolizing delayed justice and legal failings in Fairhope Municipal Court case
+alttags: A three-dimensional rendering of a metal barstool with a red circular seat and silver frame against a white background
 related_articles:
 - slug: surrender
   title: SURRENDER

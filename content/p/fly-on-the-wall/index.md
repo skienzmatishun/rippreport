@@ -14,7 +14,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Illustration of a fly, symbolizing corruption and harmful relationships within city government
+alttags: Black and white line drawing of a fly viewed from above, showing its wings, antennae, and segmented body
 related_articles:
 - slug: bull
   title: BULL SITTING Fairhope

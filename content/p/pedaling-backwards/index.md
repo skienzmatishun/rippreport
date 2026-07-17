@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Silhouette of a cyclist against a blurred background, symbolizing Fairhope City Council’s lack of progress and failed init...
+alttags: Black silhouette of a person riding a bicycle toward the right, with motion blur streaks indicating forward movement against a white background
 related_articles:
 - slug: honey-bees
   title: HONEY BEES

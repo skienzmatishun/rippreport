@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Sign advertising the South Alabama Mega Site in Baldwin County; includes QR code & contact info, alongside a humorous OOP...
+alttags: A white sign for the South Alabama Mega Site displays its name, QR code, and contact details. A yellow diamond road sign in the foreground reads OOPS!
 related_articles:
 - slug: shovel-ready
   title: SHOVEL READY

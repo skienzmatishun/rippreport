@@ -13,7 +13,7 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: 'Prohibition signs: one displays CATALYST, the other a scales of justice, symbolizing corruption among elected officials'
+alttags: Two red prohibition signs side by side, one crossing out the word CATALYST and the other crossing out a black scale of justice
 related_articles:
 - slug: american-citizen
   title: AMERICAN CITIZEN

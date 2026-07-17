@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: 'Backstory Podcast logo: a lamp shining light on text promoting Baldwin County political corruption investigation'
+alttags: A man with a long white beard wears a brown robe and yellow hat while holding a sword and a red stop sign with pedestrian symbols
 related_articles:
 - slug: backstory-podcast-4
   title: 'BACKSTORY PODCAST #4'

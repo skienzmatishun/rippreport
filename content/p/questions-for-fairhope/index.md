@@ -12,7 +12,7 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: Question mark superimposed over a waterfront scene in Fairhope, referencing questions about mayoral candidate Sherry Sulli...
+alttags: A sunset over water featuring a pier and brick walkway, overlaid with a large white question mark
 related_articles:
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?

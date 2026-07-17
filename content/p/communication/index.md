@@ -14,7 +14,7 @@ tags:
 - ronan
 authors:
 - ripp-report
-alttags: 'Communication breakdown: Three figures surrounded by speech bubbles illustrate issues between Fairhope’s Mayor and City Co...'
+alttags: Three dark gray silhouette figures of people, each with a differently colored speech bubble above their head
 related_articles:
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY

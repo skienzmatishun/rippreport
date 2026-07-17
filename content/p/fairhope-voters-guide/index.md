@@ -23,7 +23,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Seal of Fairhope, Alabama featuring a lighthouse, sailboats, and the city name, relevant to new voter engagement
+alttags: Circular city seal for Fairhope, Alabama featuring a black lighthouse behind a pale circle, with blue water and three white sailboats at the base
 related_articles:
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY

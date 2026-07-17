@@ -6,7 +6,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Republican congressional candidate CATALYST speaking, one of five vying for Alabama’s first district seat
+alttags: Bill Hightower, the CATALYST congressional candidate, stands against a white background in a blue striped shirt with arms outstretched and mouth open as...
 related_articles:
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN

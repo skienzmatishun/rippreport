@@ -8,7 +8,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: State Senator Chris Elliott holds his passport, linked to a bill for travel expenses and potential political leverage
+alttags: State Senator Chris Elliott in a dark suit and red tie holds up a United States passport against a plain white background
 related_articles:
 - slug: peoples-choice
   title: PEOPLE'S CHOICE

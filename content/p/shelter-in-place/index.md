@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Stay home icon representing public health guidance amid rising COVID-19 cases and debate over shelter-in-place orders
+alttags: Black silhouette icon of a house with a triangular roof, chimney, and doorway. This visual supports the articles guidance to stay home
 related_articles:
 - slug: 4-20
   title: 4-20

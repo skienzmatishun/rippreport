@@ -14,7 +14,7 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: Skeleton reaching for a suit on a hanger behind open doors, symbolizing corruption and loss of power in Fairhope politics
+alttags: A skeleton stands inside an open closet holding a hanger
 related_articles:
 - slug: catalyst-bullies
   title: CATALYST BULLIES

@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Handshake graphic symbolizing a “favor for a favor” deal, referencing concerns about local council decisions
+alttags: A black and white silhouette of two hands shaking, with suit sleeve cuffs visible
 related_articles:
 - slug: honey-bees
   title: HONEY BEES

@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Peace symbol representing kindness and caring, encouraging acts of generosity as described in this article
+alttags: Black line drawing of a circle with a vertical line and two diagonal lines forming a V shape at the bottom
 related_articles:
 - slug: catalyst-trifecta
   title: CATALYST TRIFECTA

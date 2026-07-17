@@ -20,7 +20,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Stack of $100 bills representing the $6.2 million Fairhope Waterfront Project budget finally on the drawing board
+alttags: A stack of US $100 bills bound with blue rubber bands rests on a wooden surface
 related_articles:
 - slug: fairhope-waterfront
   title: FAIRHOPE WATERFRONT

@@ -10,7 +10,7 @@ tags:
 - lottery
 authors:
 - admin
-alttags: Scattered US hundred dollar bills against a dark background, symbolizing Alabama lottery negotiations and financial incent...
+alttags: Overlapping United States paper currency, including $100 and $50 bills featuring Benjamin Franklins portrait
 related_articles:
 - slug: dirty-hands
   title: DIRTY HANDS

@@ -12,7 +12,7 @@ tags:
 - the-regency-club
 authors:
 - ripp-report
-alttags: Community voices raised in protest against development decisions, mirroring a past controversy
+alttags: Silhouette of a person viewed from behind with both arms raised
 related_articles:
 - slug: dirty-little-secrets
   title: DIRTY LITTLE SECRETS

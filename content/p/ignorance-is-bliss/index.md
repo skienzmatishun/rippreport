@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Cartoon ostrich head in sand, symbolizing Fairhope voters rejecting a new government system
+alttags: A cartoon illustration of an ostrichs legs and lower body standing on a sandy desert landscape
 related_articles:
 - slug: catalyst-central
   title: CATALYST CENTRAL

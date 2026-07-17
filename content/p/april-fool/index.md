@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Skull wearing a jester’s hat, symbolizing April Fool’s Day disregard for serious health concerns in Alabama
+alttags: A white skull with black eye sockets and teeth wearing a green jester hat featuring three red pom-poms against a light gray background
 related_articles:
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague

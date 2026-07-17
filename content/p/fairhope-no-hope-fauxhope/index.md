@@ -12,7 +12,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Silhouettes of families and glasses of wine amidst flowers; illustration representing Fairhope’s wealth gap explored in “A...
+alttags: Black silhouettes of a woman with children, a crucifix figure, and two adults stand behind clinking blue and orange champagne flutes above four flowers
 related_articles:
 - slug: howling-rains
   title: HOWLING RAINS

@@ -13,7 +13,7 @@ tags:
 - raines
 authors:
 - admin
-alttags: Illustration depicting a wolf howling under a rainstorm, obscured by a “Catalyst” prohibition sign, referencing Baldwin Co...
+alttags: A wolf silhouette howls on a rock during a rainstorm. A red prohibition sign with a diagonal line crosses out the word CATALYST in black text
 related_articles:
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?

@@ -9,7 +9,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Hammer driving a nail into a coffin, symbolizing Fairhope City Council’s controversial land purchase decisions
+alttags: A gray hammer strikes a silver nail into the wooden lid of a brown coffin
 related_articles:
 - slug: down-home-fairhope-jester
   title: “DOWN HOME” FAIRHOPE JESTER

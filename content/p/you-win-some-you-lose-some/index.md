@@ -10,7 +10,7 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: 'Two hands: one giving a thumbs up labeled win some, the other a thumbs down labeled lose some, reflecting political ma...'
+alttags: Black and white drawing of two hands with number three cuffs, one thumbs up and one thumbs down. Text above says win some, below says lose some
 related_articles:
 - slug: skunked
   title: SKUNKED

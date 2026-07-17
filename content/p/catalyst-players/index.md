@@ -17,7 +17,7 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: Group gathered around a table, possibly members of CATALYST, a Baldwin County political group discussed in the article
+alttags: A group of people pose around a long table in a dimly lit room, with papers and drinks on the surface and a blue neon sign on the wall
 related_articles:
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN

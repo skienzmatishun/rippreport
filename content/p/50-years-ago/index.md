@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - ripp-report
-alttags: U.S. flag waving against a dark background, representing Veterans Day and honoring military service in November
+alttags: A close-up of the waving American flag, displaying its blue canton with white stars and alternating red and white stripes
 ---
 November is a month of special significance to many who have served in the United States military.
 

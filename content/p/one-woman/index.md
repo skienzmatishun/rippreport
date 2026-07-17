@@ -19,7 +19,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: 'Fairhope Council: Scales of Justice symbolize alleged bullying and intimidation of the Mayor by council members'
+alttags: Blue silhouette of a woman with hands on hips holding a black balance scale. The figure wears a long garment and stands on a base
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE

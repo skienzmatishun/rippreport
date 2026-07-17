@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Fairhope, Alabama city seal altered with a shocked emoji face, referencing controversy surrounding local figures and an oi...
+alttags: Circular seal reading City of Faux Hope Alabama, featuring a yellow face with black eyes and mouth above three sailboats on blue water
 related_articles:
 - slug: questions-for-fairhope
   title: QUESTIONS FOR FAIRHOPE

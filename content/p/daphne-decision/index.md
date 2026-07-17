@@ -6,7 +6,7 @@ categories:
 - daphne
 authors:
 - ripp-report
-alttags: Daphne City Hall exterior; American flag flying, where the city council will interview applicants for a vacant seat
+alttags: Daphne City Hall building with a yellow facade, red-tiled roof, arched entryways, palm trees, and an American flag
 related_articles:
 - slug: catalyst-attack
   title: CATALYST ATTACK

@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: 'Politicians united against Poison Ivy: a hand gesture with a green marking on the index finger, symbolizing opposition'
+alttags: A hand making a stop gesture with the index finger pointing up and other fingers curled, featuring a green highlight on the fingertip
 related_articles:
 - slug: goat-hill-piggy-bank
   title: GOAT HILL PIGGY-BANK

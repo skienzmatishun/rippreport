@@ -9,7 +9,7 @@ tags:
 - schools
 authors:
 - ripp-report
-alttags: Gold star graphic representing Fairhope, Alabama receiving recognition and increased tourism due to a travel article and f...
+alttags: A solid yellow five-pointed star centered on a plain white background
 related_articles:
 - slug: full-plate
   title: FULL PLATE

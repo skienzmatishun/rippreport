@@ -11,7 +11,7 @@ tags:
 - Waterfront
 authors:
 - admin
-alttags: Fairhope Waterfront proposal rendering showing parkland, pier, and surrounding area; a citizen-driven plan facing council ...
+alttags: Aerial view of the Fairhope waterfront development site, outlined in yellow, showing a circular road with a central fountain and extending docks
 related_articles:
 - slug: money-on-the-table
   title: MONEY ON THE TABLE

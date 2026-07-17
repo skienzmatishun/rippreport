@@ -17,7 +17,7 @@ tags:
 - zoning
 authors:
 - admin
-alttags: Fairhope, Alabama city seal featuring money bags and a sailboat, related to legal fee dispute discussed in the article
+alttags: Circular seal reading City of Fauxhope Alabama with Faux in red. Green dollar bills surround a yellow sun over blue waves
 related_articles:
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT

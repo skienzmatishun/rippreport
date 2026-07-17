@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Illustration depicting a mine entrance with a For Sale sign, symbolizing property development concerns in Fairhope
+alttags: A cartoon of a green mountain with a tunnel entrance marked by a red FOR SALE sign. Curving train tracks lead to a gray mining cart filled with yellow m...
 related_articles:
 - slug: fairhope-un-armed-robbery
   title: FAIRHOPE UN-ARMED ROBBERY

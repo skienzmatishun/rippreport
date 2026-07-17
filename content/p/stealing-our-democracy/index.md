@@ -13,7 +13,7 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: Former Governor Don Siegelman in a prison jumpsuit, overlaid with text about stolen democracy, referencing election fixing...
+alttags: Text reading STEALING OUR DEMOCRACY appears on the left against a dark background, while former Alabama Governor Don Siegelman stands on the right weari...
 related_articles:
 - slug: faux-candidates
   title: FAUX CANDIDATES

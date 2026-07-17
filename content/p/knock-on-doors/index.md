@@ -8,7 +8,7 @@ tags:
 - baldwin-county-commission
 authors:
 - ripp-report
-alttags: Door knocker on a weathered door, symbolizing persistent effort needed for success despite potential rejection
+alttags: A clenched hand wearing a light blue striped shirt sleeve presses against a dark wooden door
 related_articles:
 - slug: shovel-ready
   title: SHOVEL READY

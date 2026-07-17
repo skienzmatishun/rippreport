@@ -11,7 +11,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Pile of U.S. dollar bills, referencing concerns about financial interests influencing local politics and gas tax debates
+alttags: Overlapping United States one-dollar bills displaying George Washingtons portrait and the word ONE
 related_articles:
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY

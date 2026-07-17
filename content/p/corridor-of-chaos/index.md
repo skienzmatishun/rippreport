@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Map highlighting a planned unit development (Catalyst) near Fairhope Avenue and Hwy 181 in Fairhope, Alabama
+alttags: A map of the proposed KLUMP PUD development site overlaid with the word CATALYST, where each letter contains detailed architectural plans
 related_articles:
 - slug: I-SEE-YOU
   title: I SEE YOU

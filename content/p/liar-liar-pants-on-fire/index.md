@@ -10,7 +10,7 @@ tags:
 - ethics-commission
 authors:
 - admin
-alttags: Burning pants symbolize corruption and deceit by Alabama legislators detailed in this article
+alttags: A man in a light blue shirt and glasses reads from papers at a microphone during a legislative meeting. A cartoon flame graphic covers his torso
 related_articles:
 - slug: legal-corruption
   title: LEGAL CORRUPTION

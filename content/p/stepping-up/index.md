@@ -14,7 +14,7 @@ tags:
 - orange-beach
 authors:
 - ripp-report
-alttags: 'Fairhope Municipal Pier fountain: a view highlighting the city’s positive financial outlook in The Ripp Reports 2019 Stat...'
+alttags: Two black boot prints with detailed tread patterns are arranged diagonally on a white background
 related_articles:
 - slug: catalyst-busted
   title: CATALYST BUSTED

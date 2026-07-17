@@ -18,7 +18,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Stack of playing cards, including a Jack of Clubs, symbolizing complex corporate structures and potential concealment
+alttags: A close-up of a fanned-out deck of playing cards, all showing the Joker face card with red and blue royal imagery
 related_articles:
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING

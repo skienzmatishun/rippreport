@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Stylized white eyes scattered across a black background, illustrating Fairhope City Council’s perceived lack of progress
+alttags: Four pairs of white cartoon eyes with black pupils scattered across a solid black background
 related_articles:
 - slug: catalyst-council-lawsuits
   title: CATALYST COUNCIL LAWSUITS

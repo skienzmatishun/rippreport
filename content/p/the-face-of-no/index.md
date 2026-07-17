@@ -6,7 +6,7 @@ categories:
 - thursday-thunder
 authors:
 - ripp-report
-alttags: Man in suit hunched over, head resting on knees—symbolizing frustration with Fairhope’s governance issues detailed in this...
+alttags: A black-and-white photo of a man in business attire bent forward with his head tucked between his legs and hands clasped behind him
 related_articles:
 - slug: chuckee-cheeze
   title: CHUCKEE CHEEZE

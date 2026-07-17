@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A frog sits on a pot handle, illustrating the boiling frog fable about gradual unnoticed danger
+alttags: A small brown frog sits on a metal pot handle, with the blurred interior of the cooking vessel in the background
 related_articles:
 - slug: going-down
   title: GOING DOWN

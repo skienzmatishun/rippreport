@@ -18,7 +18,7 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: Scales of justice icon depicting a woman and man, symbolizing Paula DiNardi’s experience with legal proceedings after an a...
+alttags: A black silhouette of a balanced scale with a female figure in the left pan and a male figure in the right pan
 related_articles:
 - slug: catalyst-train-wreck
   title: CATALYST TRAIN WRECK

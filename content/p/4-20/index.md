@@ -15,7 +15,7 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: Coronavirus statistics highlight loss of life; a cannabis leaf floats on a red barrier in water, symbolizing impact
+alttags: A digitally added green cannabis leaf graphic overlaid on a body of water featuring an orange floating barrier in the foreground
 related_articles:
 - slug: backstory-podcast-no-81-tan-rested-ready
   title: Tan Rested & Ready

@@ -17,7 +17,7 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: 'Shift in votes: Cartoon figure rejects a sign labeled CATALYST, reflecting voter changes discussed in the election analysis'
+alttags: A smiling cartoon figure in an orange shirt stands next to a red paddleball racket featuring a red circle with a diagonal slash over the text CATALYST
 related_articles:
 - slug: catalyst-attack
   title: CATALYST ATTACK

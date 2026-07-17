@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Person reading a newspaper titled Lagniappe, referencing scrutiny of Fairhope City Council actions discussed in the article
+alttags: A flat illustration of a person reading an open newspaper with the purple title Lagniappe on the right page
 related_articles:
 - slug: blind-leading-the-blind
   title: BLIND LEADING THE BLIND

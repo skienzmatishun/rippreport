@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Nappie Award winner Mayor Wilson recognized as “Hardest Working Elected City Official” on Eastern Shore
+alttags: Mayor Karin Wilson of Fairhope smiles beside three Nappies Award logos for 2017-2019, named the Eastern Shores hardest working elected official
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE

@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Silhouette of a man gesturing emphatically, representing Gary Thorson’s opposition to Fairhopes proposed government change
+alttags: Black silhouette of a person dancing with arms raised against a white background
 related_articles:
 - slug: special-interest
   title: SPECIAL INTEREST

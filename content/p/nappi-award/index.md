@@ -9,7 +9,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Mayor Karin Wilson recognized as “Hardest Working Eastern Shore Public Official” for four consecutive years with a celebra...
+alttags: A blue stamp quotes Pete on working hard together. A blue box states Hardest working Eastern Shore official. 4 years in a row!
 related_articles:
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY

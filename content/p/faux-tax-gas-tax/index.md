@@ -12,7 +12,7 @@ tags:
 - schools
 authors:
 - ripp-report
-alttags: Gas pump icon representing Governor Ivey’s announced special session for a gas tax increase
+alttags: White icon of a gas pump on a dark red rounded square background
 related_articles:
 - slug: stepping-up
   title: STEPPING UP

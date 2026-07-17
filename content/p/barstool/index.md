@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Close-up of a modern bar stool with silver legs and a red circular seat, likely from the Irish pub in Fairhope where the o...
+alttags: A side-view 3D model of a table with a circular red underside and a metallic support frame, isolated against a white background
 related_articles:
 - slug: mcsharry-madness
   title: McSHARRY MADNESS

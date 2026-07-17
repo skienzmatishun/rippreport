@@ -6,7 +6,7 @@ categories:
 - alabama
 authors:
 - ripp-report
-alttags: Political cartoon depicting Kay Ivey wearing a shirt reading No Medicaid Expansion, symbolizing opposition to healthcare...
+alttags: A sketch of Kay Ivey with text above reading KAY IVEYS COLD, COLD HEART and a chest emblem stating NO MEDICAID EXPANSION
 related_articles:
 - slug: peoples-choice
   title: PEOPLE'S CHOICE

@@ -9,7 +9,7 @@ tags:
 - chris-warner
 authors:
 - admin
-alttags: Map outline of New Jersey, illustrating planning and growth management discussions in Baldwin County
+alttags: A blue silhouette of the state of Alabama on a black background
 related_articles:
 - slug: howell-gibbens
   title: HOWELL GIBBENS

@@ -6,7 +6,7 @@ categories:
 - Special-Report
 authors:
 - admin
-alttags: Jerry Carl, congressional candidate, smiles at the camera; part of an article asking if he is a catalyst for change
+alttags: Close-up portrait of Jerry Carl, a congressional candidate, wearing glasses and a white shirt against a blurred indoor background
 related_articles:
 - slug: first-congressional-district
   title: FIRST CONGRESSIONAL DISTRICT

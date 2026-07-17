@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Fairhope, Alabama city seal featuring a pelican, sun, water drops, and a reference to alleged corruption within its council
+alttags: Circular city seal showing a white cow, yellow sun, and three teardrop shapes, bordered by the text CITY OF FAUXHOPE with a red cross-out and ALABAMA
 related_articles:
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE

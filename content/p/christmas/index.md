@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: Baldwin County Eagle Legal wishes a Merry Christmas with an eagle portrait against a festive holiday background
+alttags: Two bald eagles stand beside a decorated Christmas tree, with a mouse wearing a Santa hat sitting on a wrapped gift box in the foreground
 related_articles:
 - slug: freaky-friday-merry-christmas
   title: FREAKY FRIDAY - MERRY CHRISTMAS

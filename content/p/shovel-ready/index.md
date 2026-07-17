@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Shovel illustration symbolizing empty promises and lack of progress from Baldwin County Economic Development Alliance init...
+alttags: A shovel with a black D-shaped handle, wooden shaft, and black blade
 related_articles:
 - slug: all-smoke-and-mirrors
   title: ALL SMOKE AND MIRRORS

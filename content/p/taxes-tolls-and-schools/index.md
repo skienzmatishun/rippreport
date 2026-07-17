@@ -10,7 +10,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: 'I-10 bridge project: School buses framed by stacks of $100 bills, illustrating rising costs for Baldwin County residents'
+alttags: Two yellow school buses parked on asphalt are overlaid with multiple scattered US hundred-dollar bills against a cloudy sky
 related_articles:
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX

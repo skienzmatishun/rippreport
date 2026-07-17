@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Scrabble tiles spelling LOSER amidst a scattered pile, symbolizing challenges to injustice and corruption investigated b...
+alttags: Wooden tiles scattered on a surface, with five arranged to spell the word LOSER
 related_articles:
 - slug: see-ya-in-court-jack
   title: SEE YA IN COURT JACK

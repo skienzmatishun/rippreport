@@ -16,7 +16,7 @@ tags:
 - triangle-lawsuit
 authors:
 - ripp-report
-alttags: Crowd illustration representing Fairhope citizens encouraged by Councilman Conyers to participate in public discussions ab...
+alttags: A crowd of stylized blue, black, and gray human silhouettes arranged in rows facing forward
 related_articles:
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY

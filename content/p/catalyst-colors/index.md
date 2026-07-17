@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: 'Controversial land purchase: Glasses obscuring CATALYST, suggesting questionable actions by Fairhope councilmen'
+alttags: Black-framed glasses with the word CATALYST divided across both lenses, each half crossed out by a red diagonal slash
 related_articles:
 - slug: nail-in-the-coffin
   title: NAIL IN THE COFFIN

@@ -8,7 +8,7 @@ categories:
 - podcast
 authors:
 - admin
-alttags: Gavel resting on a sign reading Conflict of Interest, illustrating concerns about a judges role in approving a Fairhope...
+alttags: A wooden gavel rests beside an olive green plaque with gold lettering that reads CONFLICT OF INTEREST on a reddish-brown wooden surface
 related_articles:
 - slug: fairness
   title: FAIRNESS

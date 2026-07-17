@@ -9,7 +9,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Dangerous Highway 98/Parker Road intersection in Fairhope, marked with warning signs, highlighted as a source of frequent ...
+alttags: A top-down traffic diagram of a complex intersection with lanes, lights, and yield signs. The green background shows the Fairhope City Council logo
 related_articles:
 - slug: danger-zone
   title: DANGER ZONE

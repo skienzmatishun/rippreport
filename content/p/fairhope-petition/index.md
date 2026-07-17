@@ -6,7 +6,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Petition form with a red pen, representing Fairhope residents urging city council for public participation in land use dec...
+alttags: A red pencil with a silver band and gray eraser rests diagonally across a white notepad featuring black horizontal lines
 related_articles:
 - slug: community-engagement
   title: COMMUNITY ENGAGEMENT

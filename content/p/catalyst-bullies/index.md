@@ -16,7 +16,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Illustration depicting two figures crossed out with a red circle, labeled “CATALYST,” referencing Fairhope councilmen and ...
+alttags: A red prohibition sign with the word CATALYST in black capital letters overlaid on gray silhouettes of two people facing each other
 related_articles:
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?

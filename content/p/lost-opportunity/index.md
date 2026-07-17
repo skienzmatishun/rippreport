@@ -6,7 +6,7 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: Aerial view of recreation land in Fairhope, purchased for $2.6 million but leased back for $9,000 annually
+alttags: Aerial view of rectangular agricultural fields, intersecting roads, and scattered vegetation
 related_articles:
 - slug: nail-in-the-coffin
   title: NAIL IN THE COFFIN

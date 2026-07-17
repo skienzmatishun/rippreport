@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Fairhope, Alabama city seal featuring a seagull over waves and mountains, promoting the State of the City Expo
+alttags: Circular city seal for Fairhope, Alabama with curved text and a central graphic of a sun, flying bird, and three sailboats
 related_articles:
 - slug: off-the-rails
   title: OFF THE RAILS

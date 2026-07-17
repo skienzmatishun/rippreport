@@ -15,7 +15,7 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: American flag symbolizing justice system failings in Baldwin County’s McSharry assault case investigation
+alttags: United States flag with fifty white stars in a blue canton and alternating red and white horizontal stripes
 related_articles:
 - slug: judicial-trick
   title: JUDICIAL TRICK

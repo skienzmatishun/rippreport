@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Floral tribute of white roses and lilies, a memento honoring the memory of dear friend Raymond Watkins
+alttags: White roses and tulips in a floral arrangement with green foliage
 related_articles:
 - slug: neumann
   title: Frances J. Neumann Celebration  Of  Life

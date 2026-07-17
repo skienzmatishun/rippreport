@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Satirical depiction of officials seemingly floating over water, referencing Fairhope’s unresolved environmental issues and...
+alttags: Two individuals in a small white boat on calm water near a pier at sunset, one pointing ahead and the other wearing a captains hat
 related_articles:
 - slug: people-power-2
   title: PEOPLE POWER

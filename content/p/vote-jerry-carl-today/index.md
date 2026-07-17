@@ -10,7 +10,7 @@ tags:
 - jerry-carl
 authors:
 - admin
-alttags: Man with glasses smiles directly at camera; blurred lights in background suggest an office setting
+alttags: Close-up portrait of Jerry Carl, an older man with white hair and glasses wearing a white shirt, smiling slightly against a blurred background
 related_articles:
 - slug: attention-baldwin-county
   title: ATTENTION BALDWIN COUNTY
@@ -73,5 +73,4 @@ related_articles:
   recency_score: 13.459574801503088
   rank: 10
 ---
-
 {{< aicomments "/p/vote-jerry-carl-today/" >}}

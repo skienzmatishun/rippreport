@@ -9,7 +9,7 @@ tags:
 - pete-sims
 authors:
 - admin
-alttags: Gulf Shores skyline along the beach, reflecting citizen concerns over city development approvals and a pending lawsuit
+alttags: A Gulf Shores beachfront at sunset with gentle ocean waves meeting sand beside a row of tall residential apartment buildings
 related_articles:
 - slug: gulf-shores-shoot-the-messenger
   title: Gulf Shores - SHOOT THE MESSENGER

@@ -11,7 +11,7 @@ tags:
 - orange-beach
 authors:
 - ripp-report
-alttags: Piggy bank receiving coins, symbolizing Baldwin County funds allegedly diverted for Goat Hill and tax increases
+alttags: A cartoon illustration of a pink piggy bank with four gold coins falling into its slot on a white background
 related_articles:
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR

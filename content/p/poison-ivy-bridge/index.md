@@ -11,7 +11,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Mobile River Bridge overlaid with green leaves, representing local opposition to proposed toll increases for Mobile and Ba...
+alttags: The Mobile River Bridge spanning a waterway, overlaid with large green leaves and shoreline buildings
 related_articles:
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE

@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Falling dominoes represent former State Rep. Randy Davis seeking leniency in a corruption case indictment
+alttags: A row of gray dominoes falling from left to right on a reflective surface
 related_articles:
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'

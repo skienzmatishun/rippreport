@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Man in a brown costume resembling a car, holding up a sign reading Keep Cant’t Out, referencing local political controversy
+alttags: A person in a brown, chocolate-bar costume wears glasses and holds a yellow sign reading KEEP CANT with a crossed-out symbol. Cars are on the road behind
 related_articles:
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY

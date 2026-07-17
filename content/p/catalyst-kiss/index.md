@@ -6,7 +6,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Fairhope City Council President Burrell (left) and another councilman, posing for a photo
+alttags: Council President Jack Burrell and candidate Bill Hightower stand side by side outdoors in business attire, both smiling
 related_articles:
 - slug: catalyst-central
   title: CATALYST CENTRAL

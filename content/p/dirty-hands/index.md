@@ -16,7 +16,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Dirty hand raised against a stark background, symbolizing alleged corruption and misuse of lottery funds discussed in the ...
+alttags: A human hand with brown dirt stains covering the palm and fingers against a white background
 related_articles:
 - slug: catalyst-bullies
   title: CATALYST BULLIES

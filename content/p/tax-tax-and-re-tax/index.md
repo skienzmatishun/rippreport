@@ -12,7 +12,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: School buses framed by U.S. currency illustrate Baldwin County’s tax burden due to developer impact fees and growing schoo...
+alttags: Two yellow school buses are parked on a paved lot, overlaid with scattered one hundred dollar bills
 related_articles:
 - slug: goat-hill-piggy-bank
   title: GOAT HILL PIGGY-BANK

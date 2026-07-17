@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Fairhope Councilman Robinson depicted with marbles in his mouth, referencing criticism about his speaking style
+alttags: Fairhope City Council member Jay Robinson smiles with his upper teeth covered in colorful marble-like stickers. Blurred flag and wooden panel behind him
 related_articles:
 - slug: disposal
   title: DISPOSAL

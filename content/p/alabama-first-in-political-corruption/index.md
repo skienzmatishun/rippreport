@@ -6,7 +6,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Gold medal with a number one, symbolizing Alabama’s ranking as first in political corruption
+alttags: A gold medal with a large number one, attached to a red, white, and blue striped ribbon
 related_articles:
 - slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
   title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald

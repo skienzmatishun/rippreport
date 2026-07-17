@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: COVID-19 mask crossed out by a red no symbol; emphasizes precautions and warnings related to the virus
+alttags: A blue surgical mask on the left and a red circle with a diagonal line over the text CATALYST on the right
 related_articles:
 - slug: catalyst-central
   title: CATALYST CENTRAL

@@ -9,7 +9,7 @@ tags:
 - raines
 authors:
 - admin
-alttags: Fairhope Museum of History building facade, referenced in a letter regarding waterfront development controversy
+alttags: Entrance to the Fairhope Museum of History featuring a white stucco facade, green-framed glass doors reflecting the cloudy sky, and surrounding trees
 related_articles:
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?

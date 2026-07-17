@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Public viewing telescope overlooking water, likely related to discussion about Fairhope waterfront development
+alttags: A gray metal viewing scope mounted on a railing overlooking the Fairhope waterfront, labeled for distant viewing
 related_articles:
 - slug: invitation
   title: INVITATION

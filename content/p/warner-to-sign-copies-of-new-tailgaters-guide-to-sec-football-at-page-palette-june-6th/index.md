@@ -9,7 +9,7 @@ tags:
 - football
 authors:
 - admin
-alttags: Chris Warner’s “Tailgater’s Guide to SEC Football” book cover features team logos & fans on a green field
+alttags: Book cover for Chris Warners Tailgaters Guide to SEC Football. The green field background features team logos, a football, and black-and-white portraits
 related_articles:
 - slug: winner-and-loser
   title: WINNER AND LOSER

@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Cartoon water drop mascot promoting Crystal Clear, alongside a pH scale graphic, illustrating Baldwin County’s emerging se...
+alttags: A blue cartoon bottle character labeled Crystal Clean stands in water splashes. A pink arrow points to an acidic pH scale above it
 related_articles:
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB

@@ -6,7 +6,7 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: 'Fairhope City Council resolution: No public gatherings due to social distancing protocols, symbolized by a crossed-out Ca...'
+alttags: The word Catalyst in black capital letters is crossed out with a red prohibition symbol, surrounded by festive red and silver confetti streamers
 related_articles:
 - slug: disposal
   title: DISPOSAL

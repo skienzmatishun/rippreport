@@ -15,7 +15,7 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: Sign displaying a red prohibition symbol over the word CATALYST, referencing a political consulting firm rebranding due ...
+alttags: A gray PVC campaign sign frame with a white corrugated background displaying the word CATALYST in black text, overlaid with a red prohibition symbol
 related_articles:
 - slug: catalyst-stacking-the-deck
   title: CATALYST STACKING THE DECK

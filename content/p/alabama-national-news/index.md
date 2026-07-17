@@ -8,7 +8,7 @@ tags:
 - alabama
 authors:
 - ripp-report
-alttags: Map of Alabama marked as “Last Place” in education rankings, overlaid with a red ribbon
+alttags: A map of Alabama counties colored in blue, red, orange, and yellow, overlaid with a central gold medal featuring red ribbons and the text LAST PLACE
 related_articles:
 - slug: alabama-first-in-political-corruption
   title: ALABAMA -  FIRST IN POLITICAL CORRUPTION

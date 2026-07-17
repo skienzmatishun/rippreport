@@ -11,7 +11,7 @@ tags:
 - k-1-center
 authors:
 - ripp-report
-alttags: Fairhope Council President Burrell depicted wearing a dunce cap, referencing criticism over K-1 Center deal decisions
+alttags: Fairhope City Council President Burrell in a suit smiles while wearing a white party hat with DUNCE printed on it
 related_articles:
 - slug: full-plate
   title: FULL PLATE

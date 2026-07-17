@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: 'Fairhope facing crises: Car crash icon symbolizes issues like COVID, festival concerns, and council inaction'
+alttags: Black silhouette of a car with motion lines trailing behind it
 related_articles:
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER

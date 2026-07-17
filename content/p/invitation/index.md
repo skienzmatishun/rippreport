@@ -11,7 +11,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Fairhope residents encouraged to provide feedback on Waterfront park project through public participation
+alttags: Stylized white outline of an open envelope on a black background
 related_articles:
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?

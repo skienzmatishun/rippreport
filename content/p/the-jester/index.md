@@ -7,7 +7,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A person dressed as a jester in colorful patchwork clothing, symbolizing controversy over land deals and local politics in...
+alttags: A person wearing a yellow jester shirt, striped pants, and a pointed hat stands against a white background holding a small pistol
 related_articles:
 - slug: deliberate-distortion-or-twisting-of-meaning
   title: DELIBERATE DISTORTION OR TWISTING OF MEANING

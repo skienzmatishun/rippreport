@@ -15,7 +15,7 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: 'Logo for Faux Hope, Alabama: a stylized boat on fire beneath the city name, related to Fairhope City Council discussion'
+alttags: Modified circular seal for Fairhope, Alabama, reading City of Faux Hope and showing flames, a yellow circle, and a military tank
 related_articles:
 - slug: communication
   title: COMMUNICATION

@@ -17,7 +17,7 @@ tags:
 - lynn-stacy
 authors:
 - admin
-alttags: Hand casting a ballot, symbolizing CATALYST’s manipulation of “faux” candidates in upcoming elections
+alttags: 'A patriotic political poster listing five Fairhope City Council candidates for the August 26th election: Troy Vickers, Joshua Gammon, Tracy Gatewood, Da...'
 related_articles:
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE

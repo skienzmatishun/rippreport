@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Green checkmark inside a circle, promoting voting yes on November 6th for Move Fairhope Forward
+alttags: Green checkmark enclosed within a green circular outline on a white background
 related_articles:
 - slug: special-interest
   title: SPECIAL INTEREST

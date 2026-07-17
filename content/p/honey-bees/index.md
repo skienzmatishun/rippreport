@@ -6,7 +6,7 @@ categories:
 thumbnail: img/honey-bees.png
 authors:
 - admin
-alttags: Fairhope Council members Burrell, Boone, and Brown in bee costumes, referencing concerns about potential personal gain
+alttags: Three men dressed in yellow and black bee costumes stand against a white background, identified as Fairhope Council members Burrell, Boone, and Brown
 related_articles:
 - slug: down-home-fairhope-jester
   title: “DOWN HOME” FAIRHOPE JESTER
