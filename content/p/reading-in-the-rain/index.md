@@ -11,7 +11,7 @@ tags:
 - thomas-gallion
 authors:
 - admin
-alttags: An open book sheltered by an umbrella, symbolizing reading as protection from corruption and deceptive narratives in politics
+alttags: A black and white line drawing of an open book resting on the handle of a black umbrella
 related_articles:
 - slug: slap-in-the-face
   title: SLAP IN THE FACE

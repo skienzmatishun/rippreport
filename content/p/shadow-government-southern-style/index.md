@@ -11,7 +11,7 @@ tags:
 - thomas-gallion
 authors:
 - admin
-alttags: Silhouettes of figures in suits, representing officials accused of misconduct and abuse of power as detailed in this article
+alttags: Five black silhouettes of men in suits stand side by side against a white background. The central figure features a visible tie and collar
 related_articles:
 - slug: absolute-power
   title: ABSOLUTE POWER

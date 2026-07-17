@@ -21,7 +21,7 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: Baldwin County, Alabama map highlighted within a circle, representing limited local news coverage and citizen engagement
+alttags: Scatter plot comparing SARS-CoV-2 Delta variant fatality rates and transmissibility against other diseases. Text notes it spreads faster
 related_articles:
 - slug: baldwin-county-citizens-for-government-accountability-cga
   title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)

@@ -471,6 +471,25 @@ select {
 	display: inline-block;
 }
 
+/* Thumbnail Date Overlay */
+.thumbnail__video {
+	position: relative;
+}
+
+.thumbnail__date {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	padding: 8px 12px;
+	background: rgba(0, 0, 0, 0.75);
+	color: #fff;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: Georgia, serif;
+	letter-spacing: 0.5px;
+	pointer-events: none;
+}
+
 .thumbnail__animated,
 .widget__animated {
 	position: absolute;

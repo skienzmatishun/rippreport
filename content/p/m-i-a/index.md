@@ -23,7 +23,7 @@ tags:
 - trump
 authors:
 - admin
-alttags: Men in a car looking somber, reflecting grief and loss described in the author’s recent experiences
+alttags: An older man with glasses waves from the passenger window of a black SUV, next to another person wearing a uniform and face mask
 related_articles:
 - slug: missed-the-bullet
   title: MISSED THE BULLET
