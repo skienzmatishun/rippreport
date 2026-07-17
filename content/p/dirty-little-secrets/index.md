@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: 'Gulf Shores beach scene: Buildings overlook a sandy shore with people enjoying the water, hinting at planning & zoning con...'
+alttags: Nighttime Gulf Shores beach scene with a bright full moon and stars. Tall buildings line the left, while a pier extends into the ocean
 related_articles:
 - slug: victory
   title: VICTORY

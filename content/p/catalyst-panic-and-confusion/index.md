@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Red keyboard key labeled PANIC! symbolizing Catalyst Fairhope Councils concern over potential government changes
+alttags: A close-up of a black keyboard with a prominent red key labeled PANIC in white capital letters
 related_articles:
 - slug: hell-yea
   title: HELL YEA

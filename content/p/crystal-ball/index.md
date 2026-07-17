@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Fairhope election decision delayed; a crystal ball on ornate stand symbolizes the upcoming vote for change of government
+alttags: A large, smooth pearlescent sphere resting on an ornate gold stand with three curved feet against a plain white background
 related_articles:
 - slug: bury-the-body
   title: BURY THE BODY

@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Target symbol representing Jack Burrell as a recurring focus of controversy surrounding projects like the K-1 Center
+alttags: A red and white concentric circle target graphic centered on a plain white background
 related_articles:
 - slug: back-stabber
   title: BACK STABBER

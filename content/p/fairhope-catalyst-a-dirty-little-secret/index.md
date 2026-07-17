@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Fairhope pier at sunset; a view representing the city council’s connection to local power structures
+alttags: A paved pathway beside grass leads to a long pier extending into water at sunset, featuring silhouetted pedestrians and streetlights along the shoreline
 related_articles:
 - slug: hell-yea
   title: HELL YEA

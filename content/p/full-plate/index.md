@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Bowl of food on grass, possibly representing community discussions around repurposing the former K-1 school site in Fairhope
+alttags: A red plastic plate on grass contains green peas, diced tomatoes, onions, and flatbread pieces with a metal spoon resting inside
 related_articles:
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN

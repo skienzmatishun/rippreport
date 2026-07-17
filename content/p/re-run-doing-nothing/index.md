@@ -6,7 +6,7 @@ categories:
 - repost
 authors:
 - ripp-report
-alttags: Question mark against a black background; prompts inquiry about city council inaction as detailed in the article
+alttags: A large white question mark centered on a solid black background
 related_articles:
 - slug: victory
   title: VICTORY

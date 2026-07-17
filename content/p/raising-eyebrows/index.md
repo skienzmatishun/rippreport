@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Fairhope City Council Attorney Marcus McDowell, linked to Catalyst and a long-standing law firm, featured in election cont...
+alttags: Close-up of a person with dark hair and earrings, showing one eye against a blurred indoor background featuring a laptop
 related_articles:
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret

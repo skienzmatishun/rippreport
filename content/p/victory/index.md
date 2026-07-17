@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Confetti falling against a blue background; symbolizing ongoing efforts despite setbacks in Fairhope development disputes
+alttags: Scattered strips of yellow, green, purple, and white confetti against a solid blue background
 related_articles:
 - slug: dirty-little-secrets
   title: DIRTY LITTLE SECRETS

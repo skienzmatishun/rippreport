@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Bathroom interior; likely a recovery space after multiple surgeries related to Agent Orange exposure and recent shoulder i...
+alttags: A bedroom featuring a cream quilted bed, purple accent walls with an abstract painting, white curtains, and a patterned armchair near a door
 related_articles:
 - slug: police-report
   title: POLICE REPORT

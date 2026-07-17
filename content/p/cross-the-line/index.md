@@ -9,7 +9,7 @@ tags:
 - chris-elliott
 authors:
 - ripp-report
-alttags: American flag waving against a dark background; reflects the upcoming midterms and questions about Baldwin County’s politi...
+alttags: A close-up of the American flag waving in the wind, showing its blue field with white stars and red and white stripes
 related_articles:
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY

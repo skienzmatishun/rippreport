@@ -6,7 +6,7 @@ categories:
 - bcso
 authors:
 - ripp-report
-alttags: Crime scene tape symbolizes concerns about accountability and transparency within Fairhope City Council leadership
+alttags: Yellow caution tape with black text reading CRIME SCENE DO NOT CROSS angled across a blurred ground background
 related_articles:
 - slug: law-and-disorder-part-2
   title: LAW and DisORDER - Part 2

@@ -6,7 +6,7 @@ categories:
 - monday-madness
 authors:
 - ripp-report
-alttags: Man holding his head in frustration, symbolizing Fairhope City Council’s deadlock over government change
+alttags: Black and white line drawing of a distressed person with spiky hair holding their head with both hands
 related_articles:
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret

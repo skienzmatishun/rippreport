@@ -6,7 +6,7 @@ categories:
 - terrible-tuesday
 authors:
 - ripp-report
-alttags: 'Warning sign: Council decisions made without public hearing, mirroring a potentially problematic situation for Fairhope ci...'
+alttags: A red triangular warning sign with rounded corners containing a white inner triangle and a black exclamation mark
 related_articles:
 - slug: quid-quo-pro
   title: QUID QUO PRO

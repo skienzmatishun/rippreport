@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Citizens raising fists in solidarity against local government overreach in Baldwin County
+alttags: Five clenched fists illustrated in black and red outlines against a white background, arranged side by side at varying heights
 related_articles:
 - slug: people-power-wake-up-gulf-shores
   title: PEOPLE POWER - WAKE UP GULF SHORES

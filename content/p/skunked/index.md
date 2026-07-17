@@ -11,7 +11,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A skunk walks through dry grass, symbolizing how good intentions for Fairhope’s government could be spoiled by politics
+alttags: A black and white skunk standing in dry grass with a white stripe down its back
 related_articles:
 - slug: crystal-ball
   title: CRYSTAL BALL

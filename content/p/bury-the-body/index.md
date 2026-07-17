@@ -6,7 +6,7 @@ categories:
 - monday-madness
 authors:
 - ripp-report
-alttags: A shovel digs into soil, symbolizing delays in Fairhope’s government election shift now joining the Nov. 6 ballot
+alttags: A close-up of a metal shovel with a yellow handle digging into dry, rocky soil
 related_articles:
 - slug: crystal-ball
   title: CRYSTAL BALL
