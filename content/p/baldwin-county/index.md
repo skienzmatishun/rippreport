@@ -21,7 +21,7 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: Scatter plot comparing SARS-CoV-2 Delta variant fatality rates and transmissibility against other diseases. Text notes it spreads faster
+alttags: A blue circular background featuring a light blue silhouette of Alabama, with a dark red wedge removed from the upper right
 related_articles:
 - slug: baldwin-county-citizens-for-government-accountability-cga
   title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
