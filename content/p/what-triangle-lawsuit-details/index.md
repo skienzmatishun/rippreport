@@ -1,6 +1,7 @@
 ---
 title: "What? - Triangle Lawsuit Details Exposed"
 date: 2014-03-28
+thumbnail: img/what-triangle-lawsuit-details.png
 description: "Citizens excluded from $12.5 million Triangle settlement decision, documents reveal deception and fraud"
 tags: ["archive", "historical", "triangle-lawsuit", "bp-restore-act", "hand-arendall", "corruption"]
 authors:
