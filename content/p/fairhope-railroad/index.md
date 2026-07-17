@@ -1,6 +1,7 @@
 ---
 title: "Fairhope Railroad - Fly Creek Part 2"
 date: 2015-12-04
+thumbnail: img/fairhope-railroad.png
 description: "Mayor railroading Fairhope with corrupt deals, environmental damage, and taxpayer-funded infrastructure for developer"
 tags: ["archive", "historical", "fly-creek", "arthur-corte", "publix", "corruption"]
 authors:
