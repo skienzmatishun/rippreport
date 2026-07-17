@@ -1,7 +1,7 @@
 ---
 title: Letter to Single Tax Colony on Lee Turner
 date: 2014-06-09
-thumbnail: img/single-tax-colony-letter
+thumbnail: img/single-tax-colony-letter.png
 description: Concerns about conflicts of interest with Lee Turner serving on both Planning & Zoning and FSTC
 tags:
 - archive
