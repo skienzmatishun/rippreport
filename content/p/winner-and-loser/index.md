@@ -12,7 +12,7 @@ tags:
 - tuberville
 authors:
 - admin
-alttags: Nick Saban stands with his arms crossed on the sidelines, surrounded by Alabama football players in white jerseys and helmets
+alttags: Nick Saban in a light blue suit stands with crossed arms on the field, flanked by Alabama football players wearing white jerseys and helmets
 related_articles:
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR

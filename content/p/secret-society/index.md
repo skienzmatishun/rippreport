@@ -23,7 +23,7 @@ tags:
 - waterfront-project
 authors:
 - admin
-alttags: A yellow circular face with two black dots for eyes and a gray zipper across its mouth, with the metal pull tab hanging to the right
+alttags: A yellow circular face with two black dots for eyes and a gray zipper across the mouth, showing a detached zipper pull
 related_articles:
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING

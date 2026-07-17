@@ -16,7 +16,7 @@ tags:
 - tuberville
 authors:
 - admin
-alttags: A gray human profile silhouette facing right, topped with a green wavy shape, next to a red outline of Alabama on a white background
+alttags: A stylized gray head profile with green wavy hair faces a red silhouette of the state of Alabama against a white background
 related_articles:
 - slug: perfect-puzzle
   title: PERFECT PUZZLE

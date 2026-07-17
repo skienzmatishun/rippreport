@@ -9,7 +9,7 @@ tags:
 - vietnam
 authors:
 - admin
-alttags: A yellow circular emoji with two black eyes, a long orange nose, and a downturned mouth
+alttags: Yellow circle with black eyes, a long orange nose, and a frowning mouth
 related_articles:
 - slug: the-law-enforcement-narrative-2
   title: The (Law Enforcement) Narrative

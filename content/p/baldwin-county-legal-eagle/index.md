@@ -1,14 +1,16 @@
 ---
-title: "Post from 2015-03-30"
+title: "Baldwin County Legal Eagle"
 date: 2015-03-30
 description: "Post from 2015-03-30"
-thumbnail: "page1.jpg"
+thumbnail: "img/baldwin-county-legal-eagle.png"
 tags: ["archive", "historical"]
 ---
 
 Baldwin County Legal Eagle
 Consumer Advocates exposing Political Corruption, affiliate of the Ripp Report, a non-profit Association
+
 March 30 2015
+
 The lack of education funds is a state wide problem, not exclusive to Baldwin County. Solving the present day situation in Baldwin County by raising taxes goes against all the political pledges from recently elected officials.
 
 Our Governor promised no new taxes and in the same sentence said Alabama finances were in good shape and he has saved the state 1 billion dollars in cuts to a bloated system. It only took a few months, after being elected, before the Governor started screaming the sky is falling and that our state finances were 700 million short. Do you really think he did not know that before the election? This is a creditability problem, that the Governor ignores and now is using intimidation to force legislators to support tax increases.

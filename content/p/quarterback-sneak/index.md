@@ -24,7 +24,7 @@ tags:
 - snedeker
 authors:
 - admin
-alttags: A brown American football with white stripes and laces, illustrated against a plain white background
+alttags: A simple cartoon illustration of a brown American football with white stripes and laces on a white background
 related_articles:
 - slug: canons-no-powder
   title: CANONS — NO POWDER

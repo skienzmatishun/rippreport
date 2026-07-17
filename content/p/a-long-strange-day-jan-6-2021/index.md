@@ -91,6 +91,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Protesters inside the US Capitol holding a U.S. flag and another banner, wearing masks and casual attire
+alttags: Several protesters stand inside the ornate halls of the US Capitol building, holding American and red flags while wearing winter clothing
 ---
 A recap of the events and consequences of the Storming of the US Capitol Building, we will flesh it out on Backstory Podcast No 66.

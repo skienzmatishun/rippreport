@@ -1,8 +1,8 @@
 ---
-title: "Post from 2015-02-09"
+title: "LOCATION LOCATION TOTALLY LOCO LOCATIONS"
 date: 2015-02-09
 description: "Post from 2015-02-09"
-thumbnail: "page1.jpg"
+thumbnail: "img/location-location.png"
 tags: ["archive", "historical"]
 ---
 

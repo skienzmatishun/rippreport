@@ -11,7 +11,7 @@ tags:
 - super-bowl
 authors:
 - admin
-alttags: A black American football with white laces on one end, angled against a gray gradient background
+alttags: A black American football with white laces and two gray stripes against a plain gray background
 related_articles:
 - slug: alabama-suicide
   title: ALABAMA SUICIDE
