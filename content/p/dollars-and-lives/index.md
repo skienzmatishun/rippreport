@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: A stack of US currency featuring a ten-dollar bill with Alexander Hamilton wearing a white face mask. A twenty-dollar bill lies behind it
+alttags: A diagonal stack of U.S. currency featuring a ten-dollar bill in the foreground, edited to show George Washington wearing a white face mask
 related_articles:
 - slug: jackass-jack
   title: JACKASS JACK

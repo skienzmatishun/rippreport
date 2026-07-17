@@ -17,7 +17,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: A man in a dark pinstripe suit and striped tie wearing digitally added bunny ears and a donkey mask over his face
+alttags: A man in a dark pinstripe suit and striped tie has cartoon rabbit ears and a rubber nose mask superimposed over his face against a white background
 related_articles:
 - slug: pandemic-of-the-un-vaccinated
   title: PANDEMIC OF THE UN-VACCINATED

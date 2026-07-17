@@ -16,7 +16,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Illustration depicting a wolf howling under a rain cloud with a crossed-out Catalyst symbol, representing concerns about...
+alttags: A red prohibition sign with a diagonal slash over the word Catalyst, overlaid with a howling wolf silhouette against a rainy green background
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE
