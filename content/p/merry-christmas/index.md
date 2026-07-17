@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: Two bald eagles perch on branches beside a small Christmas tree decorated with American flag and eagle ornaments, with wrapped gifts at its base
+alttags: A dark blue Christmas ornament with a gold cap featuring a white line drawing of an eagles head in profile
 ---
 Have a Merry Christmas!
 
