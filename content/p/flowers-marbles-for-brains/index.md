@@ -1,6 +1,7 @@
 ---
 title: "Flowers in Town and Marbles for Brains"
 date: 2014-12-05
+thumbnail: img/flowers-marbles-for-brains.png
 description: "Mayor has complete control of Fairhope finances with no forensic audit, finance committee dissolved"
 tags: ["archive", "historical", "finance", "audit", "utilities", "city-council"]
 authors:

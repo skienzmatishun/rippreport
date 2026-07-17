@@ -1,13 +1,12 @@
 ---
 title: "Put Your Hip Boots On - Triangle Settlement Spin"
 date: 2014-11-21
+thumbnail: img/hip-boots-on-triangle.png
 description: "Mayor Kant claims Triangle settlement is finished and a win, but real cost is over $12 million"
 tags: ["archive", "historical", "triangle-lawsuit", "tim-kant", "hand-arendall"]
 authors:
 - admin
 ---
-
-**November 21, 2014 The Ripp Report #25**
 
 ## PUT YOUR HIP BOOTS ON!
 
