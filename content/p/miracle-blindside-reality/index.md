@@ -1,6 +1,7 @@
 ---
 title: "Miracle, Blindside, or Reality?"
 date: 2015-12-11
+thumbnail: img/miracle-blindside-reality.png
 description: "Planning and Zoning votes down Fly Creek apartments 5-4 after 300 citizens show up - but is it really over?"
 tags: ["archive", "historical", "fly-creek", "apartments", "planning-zoning", "city-council"]
 authors:

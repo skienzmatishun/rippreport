@@ -1,5 +1,6 @@
 ---
 title: "Lipstick on a Pig - Fly Creek Apartments"
+thumbnail: img/lipstick-on-a-pig.png
 date: 2015-12-18
 description: "Mayor plans to blindside public and bring back rejected Fly Creek apartment project through City Council"
 tags: ["archive", "historical", "fly-creek", "apartments", "arthur-corte", "planning-zoning"]
