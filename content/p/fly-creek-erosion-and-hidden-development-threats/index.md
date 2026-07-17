@@ -3,6 +3,7 @@ title: Fly Creek Erosion and Hidden Development Threats
 date: 2015-03-12
 description: Fly Creek Erosion and Hidden Development Threats
 thumbnail: img/fly-creek-erosion-and-hidden-development-threats.png
+summary: "The creek behind Publix has severe erosion problems, in some areas the banks have collapsed over 20 feet down into the creek, depositing tons of dirt and eroded clay. These failed banks have caused trees to collapse into the creek resulting in log jams that back up the flow of water. Until now no one has documented this; Kant and Arthur Corte are ignoring previous damage to Fly Creek from construction of the shopping center while proposing the addition of a project 5 times larger than the Publix shopping center."
 tags:
 - archive
 - historical
