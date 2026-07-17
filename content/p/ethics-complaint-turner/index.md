@@ -1,6 +1,7 @@
 ---
 title: Ethics Complaint Against Lee Turner
 date: 2015-09-25
+thumbnail: img/ethics-complaint-turner.png
 description: Formal complaint to Alabama Ethics Commission regarding conflicts of interest in Fairhope government
 tags:
 - archive

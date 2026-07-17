@@ -2,6 +2,7 @@
 title: Manley Road Sidewalk Conflicts of Interest
 date: 2016-03-14
 description: Questioning conflicts of interest in sidewalk contract awards involving George Robards and Lee Turner
+thumbnail: img/manley-road-sidewalk-conflicts.png
 tags:
 - archive
 - historical

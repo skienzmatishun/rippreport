@@ -2,6 +2,7 @@
 title: Do Unto Others - Nichols Street Smoke Dispute
 date: 2015-04-20
 description: Neighbors face commercial cooking smoke from restaurant owner, city government refuses to act
+thumbnail: img/restaurant-smoke-complaint.png
 tags:
 - archive
 - historical

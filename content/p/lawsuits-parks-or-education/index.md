@@ -1,6 +1,7 @@
 ---
 title: Top Priority - Lawsuits, Parks, or Education?
 date: 2015-05-15
+thumbnail: img/lawsuits-parks-or-education.png
 description: Fairhope spends $17 million on lawsuits and parks while contributing only $350,000 to education
 tags:
 - archive

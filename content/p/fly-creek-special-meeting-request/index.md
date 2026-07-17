@@ -1,6 +1,7 @@
 ---
 title: Request for Special Meeting on Fly Creek Apartments
 date: 2016-02-12
+thumbnail: img/fly-creek-special-meeting-request.png
 description: Calling for civic center meeting to accommodate hundreds of residents concerned about apartment development
 tags:
 - archive
