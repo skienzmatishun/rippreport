@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Blurred police car lights suggest investigation into State Representative Randy Davis’ bribery indictment
+alttags: A blurred photograph of a police car at night with flashing blue and red emergency lights on the roof and illuminated headlights
 related_articles:
 - slug: dont-let-the-door-hit-you-in-the-ass
   title: DON’T LET THE DOOR HIT YOU IN THE ASS

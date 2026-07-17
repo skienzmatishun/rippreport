@@ -6,7 +6,7 @@ categories:
 - none
 authors:
 - ripp-report
-alttags: Eagle perched atop a medical caduceus symbol against a blue background, representing healthcare at the Birmingham V.A. hos...
+alttags: A bald eagle with wings spread grips a caduceus staff featuring two coiled snakes against a solid blue background
 related_articles:
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS

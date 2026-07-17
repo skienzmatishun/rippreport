@@ -13,7 +13,7 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Group photo from political group “the machine,” including Elliott Stacy and Dane Haygood, later evolving into Catalyst
+alttags: Group photo of CATALYST political members, including Chris Elliott and local officials, gathered around a table with papers during an indoor meeting
 related_articles:
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE

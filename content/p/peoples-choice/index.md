@@ -6,7 +6,7 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: Icon depicting a central figure surrounded by a group, representing support for Senate candidate Chris Elliott
+alttags: Black silhouette icon of six stylized human figures, with one larger central figure surrounded by five smaller ones
 related_articles:
 - slug: catalyst-trifecta
   title: CATALYST TRIFECTA

@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Hand reaching from water, symbolizing a political exit after Billie Jo Underwood defeated Tucker Dorsey in an election
+alttags: A persons hand and forearm emerge from rippling water, with the index finger and pinky extended
 related_articles:
 - slug: peoples-choice
   title: PEOPLE'S CHOICE

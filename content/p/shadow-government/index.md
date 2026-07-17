@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: Silhouettes of five men in suits, representing a shadowy group controlling Baldwin County politics, known as Catalyst or G...
+alttags: Five black silhouettes of standing figures against a white background, with the central figure showing visible suit collar and tie details
 related_articles:
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF

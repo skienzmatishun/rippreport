@@ -6,7 +6,7 @@ categories:
 - sunday-sermon
 authors:
 - admin
-alttags: Interior view of a church sanctuary with rows of pews, an organ loft, and arched windows, reflecting the congregation’s fo...
+alttags: Black-and-white photograph of a church interior showing rows of wooden pews facing double doors, with a large pipe organ on an upper balcony and arched ...
 related_articles:
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA

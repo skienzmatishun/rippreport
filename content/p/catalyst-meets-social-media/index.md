@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Megaphone icon representing concerns about Catalyst group’s influence in Baldwin County politics
+alttags: Black silhouette of a megaphone with sound waves radiating from the right side on a white background
 related_articles:
 - slug: laugh-out-loud-baldwin
   title: Laugh Out Loud Baldwin

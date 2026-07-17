@@ -6,7 +6,7 @@ categories:
 - terrible-tuesday
 authors:
 - ripp-report
-alttags: Ballot box with a red ballot being inserted, illustrating sample voting procedures discussed in this election guide
+alttags: A gray ballot box with a top slot containing a red flag, set against a black background
 related_articles:
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE

@@ -8,7 +8,7 @@ tags:
 - chucky
 authors:
 - ripp-report
-alttags: Chucky doll depicted in a hallucination after surgery, referencing an imagined award for freedom of information reporting
+alttags: A close-up of the Chucky doll with red hair and blue eyes, wearing a blue denim outfit and pointing its finger forward
 related_articles:
 - slug: chuckee-cheeze
   title: CHUCKEE CHEEZE

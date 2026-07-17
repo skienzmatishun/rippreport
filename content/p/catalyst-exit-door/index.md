@@ -6,7 +6,7 @@ categories:
 - saturday-sunshine
 authors:
 - ripp-report
-alttags: Exit sign depicting a figure running through a doorway, referencing calls for Tucker Dorsey’s removal from office
+alttags: Black and white pictogram of a stick figure running through an open doorway, set against a black background with a white border
 related_articles:
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
