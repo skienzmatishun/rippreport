@@ -1,6 +1,7 @@
 ---
 title: "Sheriff and Commission Races - Fighting the Machine"
 date: 2014-05-16
+thumbnail: img/sheriff-commission-races-2014.png
 description: "Exposing the Lynn Stacey political machine and endorsing candidates to fight Baldwin County corruption"
 tags: ["archive", "historical", "elections", "sheriff-race", "county-commission", "lynn-stacey"]
 authors:
