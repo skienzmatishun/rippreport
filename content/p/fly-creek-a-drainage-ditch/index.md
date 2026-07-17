@@ -1,14 +1,13 @@
 ---
 title: FLY CREEK - A DRAINAGE DITCH ?
 date: 2017-08-25
-thumbnail: fly-creek-a-drainage-ditch.jpg
+thumbnail: img/fly-creek-a-drainage-ditch.png
 categories:
 - freaky-friday
 tags:
 - fly-creek
 authors:
 - ripp-report
-alttags: Gavel and legal documents representing the six-day trial over Fly Creek Apartments development in Bay Minette
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER

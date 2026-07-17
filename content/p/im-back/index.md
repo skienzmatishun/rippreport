@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: A bedroom featuring a cream quilted bed, purple accent walls with an abstract painting, white curtains, and a patterned armchair near a door
+alttags: A bedroom featuring a large bed with white linens and an ornate black metal headboard, set against beige walls with multiple barred windows
 related_articles:
 - slug: police-report
   title: POLICE REPORT
