@@ -2,6 +2,7 @@
 title: You're Not From Here - Arthur Corti's Entitlement
 date: 2016-02-05
 description: Planning commission ignores 300+ residents to approve Fly Creek Apartments for entitled developer
+thumbnail: img/youre-not-from-here.png
 tags:
 - archive
 - historical
