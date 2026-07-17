@@ -1,6 +1,7 @@
 ---
 title: "A Freaky Friday in a Freaky Town"
 date: 2016-04-14
+thumbnail: img/freaky-friday-freaky-town.png
 description: "Updates on Family Court corruption, Boy Scouts mismanagement, and Fly Creek Apartments betrayal"
 tags: ["archive", "historical", "fly-creek", "city-council", "boy-scouts", "family-court"]
 authors:
