@@ -1,6 +1,7 @@
 ---
 title: "Dirty Judge and Misuse of Justice"
 date: 2015-08-20
+thumbnail: img/dirty-judge-misuse-of-justice.png
 description: "Consumer alert: Baldwin County Family Court corruption involving Judge Thomason and Brackin Law Firm"
 tags: ["archive", "historical", "family-court", "judge-thomason", "brackin-law-firm", "corruption"]
 authors:
