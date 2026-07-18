@@ -1,7 +1,7 @@
 ---
 title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
 date: 2016-08-17
-thumbnail: img/you-show-me-yours-and-i-will-show-you-mine-letter-that-is.gif
+thumbnail: img/you-show-me-yours-and-i-will-show-you-mine-letter-that-is.png
 tags:
 - Pittman
 - Mayor Kant
@@ -10,7 +10,7 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: Ostrich burying its head in sand; symbolizes ignoring consumer complaints, a focus of The Ripp Report’s work
+alttags: Ostrich burying its head in sand.
 related_articles:
 - slug: demand-the-truth
   title: DEMAND THE TRUTH

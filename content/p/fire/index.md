@@ -1,7 +1,7 @@
 ---
 title: FIRE
 date: 2016-09-23
-thumbnail: img/fire.jpg
+thumbnail: img/fire.png
 categories:
 - freaky-friday
 tags:
@@ -10,7 +10,7 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Burning match with smoke rising, symbolizing controversy surrounding Baldwin County commissioner Dorsey’s firings related ...
+alttags: Burning match with smoke rising.
 related_articles:
 - slug: you-re-fired
   title: YOU'RE FIRED
