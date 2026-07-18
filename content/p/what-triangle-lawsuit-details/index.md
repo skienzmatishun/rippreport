@@ -1,13 +1,99 @@
 ---
-title: "What? - Triangle Lawsuit Details Exposed"
+title: What? - Triangle Lawsuit Details Exposed
 date: 2014-03-28
 thumbnail: img/what-triangle-lawsuit-details.png
-description: "Citizens excluded from $12.5 million Triangle settlement decision, documents reveal deception and fraud"
-tags: ["archive", "historical", "triangle-lawsuit", "bp-restore-act", "hand-arendall", "corruption"]
+description: Citizens excluded from $12.5 million Triangle settlement decision, documents reveal deception and fraud
+tags:
+- archive
+- historical
+- triangle-lawsuit
+- bp-restore-act
+- hand-arendall
+- corruption
 authors:
 - admin
+related_articles:
+- slug: bp-restore-act-fraud
+  title: BP Restore Act Application - Fraud and Deception
+  score: 90.75627941229799
+  llm_score: 95
+  recency_score: 66.84860662071335
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: triangle-lawsuit-settlement-2013
+  title: Triangle Lawsuit - The Real Cost to Taxpayers
+  score: 90.62956847047602
+  llm_score: 95
+  recency_score: 66.12001870523703
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 81.12185297320629
+  llm_score: 95
+  recency_score: 11.45065459593608
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: miracle-blindside-reality
+  title: Miracle, Blindside, or Reality?
+  score: 80.19889638954385
+  llm_score: 92
+  recency_score: 18.143654239877034
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: catalyst-colors
+  title: 🚫 CATALYST COLORS 🚫
+  score: 79.19369693577023
+  llm_score: 95
+  recency_score: 0.3637573806788297
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 79.13063654633227
+  llm_score: 95
+  recency_score: 0.0011601414105400895
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: opposition-obstruction
+  title: OPPOSITION / OBSTRUCTION
+  score: 77.5839772319582
+  llm_score: 92
+  recency_score: 3.107869083759611
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: honey-bees
+  title: HONEY BEES
+  score: 77.11178439559065
+  llm_score: 92
+  recency_score: 0.392760274646119
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 77.04416111100176
+  llm_score: 92
+  recency_score: 0.00392638826001762
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: good-ole-boys-alive-and-well
+  title: GOOD OLE BOYS ALIVE AND WELL
+  score: 72.97145451031363
+  llm_score: 85
+  recency_score: 4.5858634343033176
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **March 28, 2014 THE Ripp Report #10**
 
 ## "What?"

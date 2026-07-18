@@ -1,13 +1,99 @@
 ---
-title: "Fauxhope Football Sneak Play"
+title: Fauxhope Football Sneak Play
 thumbnail: img/football-sneak-play.png
 date: 2015-10-23
-description: "City pays $35,000 to Senior Bowl for two hours of practice on Fairhope fields after fundraiser for Mayor"
-tags: ["archive", "historical", "senior-bowl", "angus-cooper", "diana-brewer", "conflicts-of-interest"]
+description: City pays $35,000 to Senior Bowl for two hours of practice on Fairhope fields after fundraiser for Mayor
+tags:
+- archive
+- historical
+- senior-bowl
+- angus-cooper
+- diana-brewer
+- conflicts-of-interest
 authors:
 - admin
+related_articles:
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 88.19085532679551
+  llm_score: 95
+  recency_score: 52.09741812907417
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 84.54048857273736
+  llm_score: 90
+  recency_score: 51.107809293239825
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 76.44610408750664
+  llm_score: 80
+  recency_score: 44.565098503163114
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: triangle-lawsuit-settlement-2013
+  title: Triangle Lawsuit - The Real Cost to Taxpayers
+  score: 74.56003386794664
+  llm_score: 85
+  recency_score: 13.72019474069314
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: lawsuits-parks-or-education
+  title: Top Priority - Lawsuits, Parks, or Education?
+  score: 72.9274959015619
+  llm_score: 70
+  recency_score: 64.3331014339809
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhope-sold-to-the-highest-bidder
+  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+  score: 65.54120358472218
+  llm_score: 75
+  recency_score: 1.8619206121525609
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: holes
+  title: HOLES
+  score: 61.667873674738615
+  llm_score: 65
+  recency_score: 19.590273629747017
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 54.000129969341
+  llm_score: 50
+  recency_score: 35.500747323710755
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: freaky-fairhope
+  title: FREAKY FAIRHOPE
+  score: 41.02495200165716
+  llm_score: 40
+  recency_score: 0.8934740095286622
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: pedaling-forward
+  title: PEDALING FORWARD
+  score: 38.001049251287434
+  llm_score: 35
+  recency_score: 3.506033194902735
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **Oct. 23 15**  
 **the Ripp Report**
 

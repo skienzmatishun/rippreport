@@ -1,13 +1,98 @@
 ---
-title: "Triangle Lawsuit - The Real Cost to Taxpayers"
+title: Triangle Lawsuit - The Real Cost to Taxpayers
 thumbnail: img/triangle-lawsuit-settlement-2013.png
 date: 2013-10-28
-description: "Mayor Kant's Triangle lawsuit settlement will cost every Fairhope resident $2,000 with no accountability"
-tags: ["archive", "historical", "triangle-lawsuit", "tim-kant", "bp-restore-act"]
+description: Mayor Kant's Triangle lawsuit settlement will cost every Fairhope resident $2,000 with no accountability
+tags:
+- archive
+- historical
+- triangle-lawsuit
+- tim-kant
+- bp-restore-act
 authors:
 - admin
+related_articles:
+- slug: what-triangle-lawsuit-details
+  title: What? - Triangle Lawsuit Details Exposed
+  score: 90.62956847047602
+  llm_score: 95
+  recency_score: 66.12001870523703
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: hip-boots-on-triangle
+  title: Put Your Hip Boots On - Triangle Settlement Spin
+  score: 85.12118654119816
+  llm_score: 95
+  recency_score: 34.44682261188939
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 80.44716086273131
+  llm_score: 95
+  recency_score: 7.57117496070502
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fraud
+  title: FRAUD
+  score: 80.28174641002681
+  llm_score: 95
+  recency_score: 6.620041857654132
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 80.19381187843751
+  llm_score: 95
+  recency_score: 6.114418301015702
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: fairhopes-triangle-mega-site
+  title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
+  score: 79.33932478351095
+  llm_score: 95
+  recency_score: 1.201117505187898
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: russian-roulette-fairhope-style
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 79.23545328722437
+  llm_score: 95
+  recency_score: 0.6038564015401426
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: delight
+  title: FAIRHOPE TAXPAYERS DELIGHT
+  score: 79.13252876578026
+  llm_score: 95
+  recency_score: 0.012040403236501783
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 79.13169272710262
+  llm_score: 95
+  recency_score: 0.007233180839995201
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: russian-roulette-fairhope-style-rerun
+  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+  score: 79.13056818882046
+  llm_score: 95
+  recency_score: 0.0007670857176563078
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **The Ripp Report**  
 **October 28, 2013**
 

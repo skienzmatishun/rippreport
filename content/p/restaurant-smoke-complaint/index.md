@@ -13,36 +13,52 @@ authors:
 related_articles:
 - slug: columbia-questions-and-documents
   title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 72.23314930199444
-  llm_score: 85
+  score: 75.71141017155966
+  llm_score: 90
   recency_score: 0.3406084864679812
   length_score: 100
   category_score: 0
   rank: 1
 - slug: investigations
   title: INVESTIGATIONS
-  score: 70.55523819347118
-  llm_score: 80
+  score: 74.0334990630364
+  llm_score: 85
   recency_score: 10.692619612459277
   length_score: 100
   category_score: 0
   rank: 2
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 66.26343111735763
-  llm_score: 75
-  recency_score: 6.014728924806331
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: comment-surprised-ripp-report-baldwin-county-legal-eagle
   title: WHO’S RESPONSIBLE?
-  score: 64.0042196953449
-  llm_score: 70
+  score: 70.96074143447534
+  llm_score: 80
   recency_score: 13.024263248233176
   length_score: 100
   category_score: 0
+  rank: 3
+- slug: new-year-new-problems
+  title: NEW YEAR NEW PROBLEMS
+  score: 66.34683336125346
+  llm_score: 75
+  recency_score: 6.494291827207389
+  length_score: 100
+  category_score: 0
   rank: 4
+- slug: lipstick-on-a-pig
+  title: Lipstick on a Pig - Fly Creek Apartments
+  score: 63.7442790451628
+  llm_score: 60
+  recency_score: 51.52960450968603
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: people-power-2
+  title: PEOPLE POWER
+  score: 62.76530035253149
+  llm_score: 70
+  recency_score: 5.9004770270560485
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: victory
   title: VICTORY
   score: 58.85251273082502
@@ -50,44 +66,28 @@ related_articles:
   recency_score: 3.401948202243831
   length_score: 100
   category_score: 0
-  rank: 5
-- slug: people-power-2
-  title: PEOPLE POWER
-  score: 55.80877861340106
-  llm_score: 60
-  recency_score: 5.9004770270560485
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: new-year-new-problems
-  title: NEW YEAR NEW PROBLEMS
-  score: 52.43378988299259
-  llm_score: 55
-  recency_score: 6.494291827207389
-  length_score: 100
-  category_score: 0
   rank: 7
-- slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
-  score: 44.348400686108086
-  llm_score: 45
-  recency_score: 0.0033039451214565683
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: in-the-same-boat
   title: IN THE SAME BOAT
-  score: 37.62247996402197
-  llm_score: 35
+  score: 51.535523442282845
+  llm_score: 55
   recency_score: 1.32925979312634
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: boone-doggle
   title: BOONE-DOGGLE
-  score: 36.97478546227219
-  llm_score: 30
+  score: 47.409568070967836
+  llm_score: 45
   recency_score: 17.605016408065044
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: know-before-you-vote-2
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  score: 40.87013981654287
+  llm_score: 40
+  recency_score: 0.0033039451214565683
   length_score: 100
   category_score: 0
   rank: 10

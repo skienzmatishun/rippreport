@@ -3,7 +3,7 @@ title: Quid Pro Quo
 date: 2015-01-12
 description: Quid Pro Quo
 thumbnail: img/quid-pro-quo.png
-summary: "For ten years I have been active in politics in Fairhope, as a concerned citizen, with no political ambitions. Countless times I have attended city council meetings requesting information about council or city actions that affect our community, many others have done the same. Not once has the council or the Mayor ever responded, silence is always the answer."
+summary: For ten years I have been active in politics in Fairhope, as a concerned citizen, with no political ambitions. Countless times I have attended city council meetings requesting information about council or city actions that affect our community, many others have done the same. Not once has the council or the Mayor ever responded, silence is always the answer.
 tags:
 - archive
 - historical
@@ -16,6 +16,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: flowers-marbles-for-brains
+  title: Flowers in Town and Marbles for Brains
+  score: 84.36741805941914
+  llm_score: 80
+  recency_score: 90.11265384166002
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 79.21184789054155
+  llm_score: 90
+  recency_score: 20.468125370613887
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
   title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
   score: 76.58167730818839
@@ -23,68 +39,52 @@ related_articles:
   recency_score: 25.34464452208322
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: fairhope-sewer-backstory
-  title: FAIRHOPE SEWER BACKSTORY
-  score: 75.83233702110252
-  llm_score: 90
-  recency_score: 1.0359378713394423
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 72.25532615141111
-  llm_score: 80
-  recency_score: 20.468125370613887
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: bend-over-fairhope
-  title: BEND OVER FAIRHOPE
-  score: 66.0171208122457
-  llm_score: 75
-  recency_score: 4.598444670412715
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 65.90045465121487
-  llm_score: 70
+  score: 69.37871552078009
+  llm_score: 75
   recency_score: 23.927614244485454
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: moratorium-party
-  title: MORATORIUM PARTY
-  score: 58.2776675656379
+  rank: 5
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 59.06059907311526
   llm_score: 65
-  recency_score: 0.09658850241788805
+  recency_score: 4.598444670412715
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: fairhope-railroad
+  title: Fairhope Railroad - Fly Creek Part 2
+  score: 58.42372072996732
+  llm_score: 55
+  recency_score: 40.936394197312076
   length_score: 100
   category_score: 0
   rank: 7
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 51.30529647856452
-  llm_score: 55
-  recency_score: 0.005454751745985148
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 54.79940669607268
+  llm_score: 60
+  recency_score: 0.09658850241788805
   length_score: 100
   category_score: 0
   rank: 8
-- slug: backseat-quarterbacks
-  title: BACKSEAT QUARTERBACKS
-  score: 45.07842351678415
-  llm_score: 45
-  recency_score: 4.200935221508851
+- slug: game-on
+  title: GAME ON
+  score: 44.67116656782334
+  llm_score: 40
+  recency_score: 21.8592077649842
   length_score: 100
   category_score: 0
   rank: 9
-- slug: game-on
-  title: GAME ON
-  score: 37.714644828692904
-  llm_score: 30
-  recency_score: 21.8592077649842
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 38.12190177765371
+  llm_score: 35
+  recency_score: 4.200935221508851
   length_score: 100
   category_score: 0
   rank: 10

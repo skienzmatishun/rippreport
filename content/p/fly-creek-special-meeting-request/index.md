@@ -13,14 +13,30 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 92.17405443000632
-  llm_score: 95
-  recency_score: 75.00081297253628
+- slug: lipstick-on-a-pig
+  title: Lipstick on a Pig - Fly Creek Apartments
+  score: 90.56983283345576
+  llm_score: 90
+  recency_score: 85.7765387923706
   length_score: 100
   category_score: 0
   rank: 1
+- slug: fairhope-town-hall-meeting
+  title: Fairhope Town Hall Meeting
+  score: 85.45860688505842
+  llm_score: 95
+  recency_score: 36.386989589085836
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 85.21753269087588
+  llm_score: 85
+  recency_score: 75.00081297253628
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: fly-creek-a-drainage-ditch
   title: FLY CREEK - A DRAINAGE DITCH ?
   score: 79.40205359942625
@@ -28,23 +44,23 @@ related_articles:
   recency_score: 21.56180819670091
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 4
+- slug: miracle-blindside-reality
+  title: Miracle, Blindside, or Reality?
+  score: 76.37342316148012
+  llm_score: 70
+  recency_score: 84.14718317851063
+  length_score: 100
+  category_score: 0
+  rank: 5
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 77.66181307070572
-  llm_score: 85
+  score: 74.1835522011405
+  llm_score: 80
   recency_score: 31.555425156557842
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: fairhope-town-hall-meeting
-  title: Fairhope Town Hall Meeting
-  score: 75.02382427636276
-  llm_score: 80
-  recency_score: 36.386989589085836
-  length_score: 100
-  category_score: 0
-  rank: 4
+  rank: 6
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
   score: 70.44122002879388
@@ -52,7 +68,7 @@ related_articles:
   recency_score: 30.037015165564775
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 7
 - slug: youre-not-from-here
   title: You're Not From Here - Arthur Corti's Entitlement
   score: 68.3652982126735
@@ -60,7 +76,7 @@ related_articles:
   recency_score: 98.10046472287257
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 8
 - slug: eagles-eye-catalyst-kant-corte
   title: EAGLES EYE - CATALYST-KANT-CORTE
   score: 60.14610464325695
@@ -68,28 +84,12 @@ related_articles:
   recency_score: 10.840101698727413
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 9
 - slug: victory
   title: VICTORY
-  score: 56.121158469445284
-  llm_score: 60
+  score: 49.16463673031485
+  llm_score: 50
   recency_score: 7.696661199310357
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: opposition-obstruction
-  title: OPPOSITION / OBSTRUCTION
-  score: 47.8880483426216
-  llm_score: 45
-  recency_score: 20.356277970074178
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: fairhope-state-of-the-city
-  title: FAIRHOPE STATE OF THE CITY
-  score: 37.71511662820045
-  llm_score: 35
-  recency_score: 1.8619206121525609
   length_score: 100
   category_score: 0
   rank: 10

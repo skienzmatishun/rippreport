@@ -1,13 +1,99 @@
 ---
-title: "BP Restore Act Application - Fraud and Deception"
+title: BP Restore Act Application - Fraud and Deception
 date: 2013-11-01
 thumbnail: img/bp-restore-act-fraud.png
-description: "City's BP Restore Act application omits Arthur Corte's damage to Fly Creek and misrepresents facts"
-tags: ["archive", "historical", "bp-restore-act", "fly-creek", "arthur-corte", "fraud"]
+description: City's BP Restore Act application omits Arthur Corte's damage to Fly Creek and misrepresents facts
+tags:
+- archive
+- historical
+- bp-restore-act
+- fly-creek
+- arthur-corte
+- fraud
 authors:
 - admin
+related_articles:
+- slug: what-triangle-lawsuit-details
+  title: What? - Triangle Lawsuit Details Exposed
+  score: 90.75627941229799
+  llm_score: 95
+  recency_score: 66.84860662071335
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: triangle-lawsuit-settlement-2013
+  title: Triangle Lawsuit - The Real Cost to Taxpayers
+  score: 89.37566827692879
+  llm_score: 85
+  recency_score: 98.91009259234048
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fly-creek-erosion-and-hidden-development-threats
+  title: Fly Creek Erosion and Hidden Development Threats
+  score: 81.51203831679817
+  llm_score: 92
+  recency_score: 25.694220321589416
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-railroad
+  title: Fairhope Railroad - Fly Creek Part 2
+  score: 81.28063158140566
+  llm_score: 95
+  recency_score: 12.36363159308245
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 80.46167009501461
+  llm_score: 95
+  recency_score: 7.654603046333945
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 80.43638281063387
+  llm_score: 95
+  recency_score: 7.509201161144759
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 77.05390681390087
+  llm_score: 92
+  recency_score: 0.059964179929950075
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 69.77074680577387
+  llm_score: 80
+  recency_score: 6.181794133199707
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: congratulations-fairhope
+  title: CONGRATULATIONS FAIRHOPE
+  score: 68.79371843839746
+  llm_score: 80
+  recency_score: 0.5638810207853779
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: where-hell-were-you
+  title: WHERE HELL WERE YOU?
+  score: 58.28370033485851
+  llm_score: 65
+  recency_score: 0.13127692543637848
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 Dear City Council and concerned citizens:
 
 The city of Fairhope is in application for BP Restore Act funds. In doing so the Mayor and City Council are liberally using the names of Senator Shelby, Senator Jeff Sessions and Congressmen Bradley Byrne, as well as saying they have White House support, whatever that means.

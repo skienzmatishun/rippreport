@@ -55,27 +55,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: reading-in-the-rain
-  title: READING IN THE RAIN
-  score: 51.377697089281625
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 51.5898177188357
   llm_score: 55
-  recency_score: 0.42175826336932687
+  recency_score: 1.6414518833052383
   length_score: 100
   category_score: 0
   rank: 7
-- slug: slap-in-the-face
-  title: SLAP IN THE FACE
-  score: 47.89327942913688
-  llm_score: 50
-  recency_score: 0.38635671753704987
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 44.42117535015119
+  llm_score: 45
+  recency_score: 0.42175826336932687
   length_score: 100
   category_score: 0
   rank: 8
-- slug: portables-and-prisons
-  title: PORTABLES AND PRISONS
-  score: 37.67677424057482
-  llm_score: 35
-  recency_score: 1.6414518833052383
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 40.936757690006445
+  llm_score: 40
+  recency_score: 0.38635671753704987
   length_score: 100
   category_score: 0
   rank: 9

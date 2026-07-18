@@ -68,19 +68,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: game-on
-  title: GAME ON
-  score: 47.230476223126495
+- slug: follow-bouncing-ball
+  title: FOLLOW THE BOUNCING BALL
+  score: 46.08907124986347
   llm_score: 45
-  recency_score: 16.575238282977313
+  recency_score: 10.01215968671496
   length_score: 100
   category_score: 0
   rank: 8
-- slug: follow-bouncing-ball
-  title: FOLLOW THE BOUNCING BALL
-  score: 39.132549510733035
+- slug: game-on
+  title: GAME ON
+  score: 40.27395448399606
   llm_score: 35
-  recency_score: 10.01215968671496
+  recency_score: 16.575238282977313
   length_score: 100
   category_score: 0
   rank: 9

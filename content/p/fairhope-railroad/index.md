@@ -1,13 +1,99 @@
 ---
-title: "Fairhope Railroad - Fly Creek Part 2"
+title: Fairhope Railroad - Fly Creek Part 2
 date: 2015-12-04
 thumbnail: img/fairhope-railroad.png
-description: "Mayor railroading Fairhope with corrupt deals, environmental damage, and taxpayer-funded infrastructure for developer"
-tags: ["archive", "historical", "fly-creek", "arthur-corte", "publix", "corruption"]
+description: Mayor railroading Fairhope with corrupt deals, environmental damage, and taxpayer-funded infrastructure for developer
+tags:
+- archive
+- historical
+- fly-creek
+- arthur-corte
+- publix
+- corruption
 authors:
 - admin
+related_articles:
+- slug: lipstick-on-a-pig
+  title: Lipstick on a Pig - Fly Creek Apartments
+  score: 92.3890455284236
+  llm_score: 90
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 83.66062917918988
+  llm_score: 95
+  recency_score: 26.048617780341775
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 79.4630007671107
+  llm_score: 80
+  recency_score: 61.91225441088648
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 73.91301300551808
+  llm_score: 75
+  recency_score: 49.99982478172893
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: friends-of-fly-creek
+  title: FRIENDS OF FLY CREEK
+  score: 72.17433697124572
+  llm_score: 85
+  recency_score: 0.0024375846628194205
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: location-location
+  title: LOCATION LOCATION TOTALLY LOCO LOCATIONS
+  score: 69.42614107857496
+  llm_score: 70
+  recency_score: 44.200311201805995
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: FAUXHOPE-TUNNEL
+  title: FAUXHOPE TUNNEL
+  score: 58.27115623537706
+  llm_score: 65
+  recency_score: 0.05914835341805814
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: comprehensive-plan-charade
+  title: Comprehensive Plan Charade
+  score: 57.3611127138527
+  llm_score: 55
+  recency_score: 34.826398104653
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: new-sweep-the-ripp-report-2014
+  title: NEW SWEEP The Ripp Report 2014
+  score: 53.544215442314
+  llm_score: 50
+  recency_score: 32.87923879330549
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 45.960491166563685
+  llm_score: 45
+  recency_score: 9.272824207741175
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **Freaky Friday Dec. 04, 2015**  
 **the Ripp Report Part 2**
 

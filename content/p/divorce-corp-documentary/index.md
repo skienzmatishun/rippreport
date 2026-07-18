@@ -1,13 +1,99 @@
 ---
-title: "Divorce Corp Documentary - Baldwin County Mirror"
+title: Divorce Corp Documentary - Baldwin County Mirror
 date: 2015-10-02
 thumbnail: img/divorce-corp-documentary.png
-description: "Must-watch documentary exposes family court corruption identical to Baldwin County system"
-tags: ["archive", "historical", "divorce-corp", "family-court", "documentary", "brackin-law-firm"]
+description: Must-watch documentary exposes family court corruption identical to Baldwin County system
+tags:
+- archive
+- historical
+- divorce-corp
+- family-court
+- documentary
+- brackin-law-firm
 authors:
 - admin
+related_articles:
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 82.98519276293953
+  llm_score: 92
+  recency_score: 34.164858386902274
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 81.65095037780512
+  llm_score: 95
+  recency_score: 14.49296467237936
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: exposure
+  title: EXPOSURE
+  score: 78.03478914798248
+  llm_score: 85
+  recency_score: 33.70003760089919
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: baldwin-county-un-family-court
+  title: BALDWIN COUNTY UN-FAMILY COURT
+  score: 74.31140272346364
+  llm_score: 88
+  recency_score: 0.2905656599158857
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 71.12132106439158
+  llm_score: 80
+  recency_score: 13.947596120251541
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 65.26549286637957
+  llm_score: 75
+  recency_score: 0.27658398168252885
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: dirty-judge-misuse-of-justice
+  title: Dirty Judge and Misuse of Justice
+  score: 59.80637397944586
+  llm_score: 45
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: baldwin-county-dhr-lawsuit
+  title: BALDWIN COUNTY DHR LAWSUIT
+  score: 58.26215891309467
+  llm_score: 65
+  recency_score: 0.00741375029435211
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  score: 55.86361042605452
+  llm_score: 60
+  recency_score: 6.215759949813457
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 37.50315340602611
+  llm_score: 35
+  recency_score: 0.643132084650103
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **Oct 2 2015**
 
 ## the movie, documentary DIVORCE CORP.

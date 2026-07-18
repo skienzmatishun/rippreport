@@ -15,6 +15,22 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
+- slug: comprehensive-plan-charade
+  title: Comprehensive Plan Charade
+  score: 90.28646663974098
+  llm_score: 90
+  recency_score: 84.14718317851063
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: new-sweep-the-ripp-report-2014
+  title: NEW SWEEP The Ripp Report 2014
+  score: 85.9899959954484
+  llm_score: 85
+  recency_score: 79.4424769738282
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: quid-pro-quo
   title: Quid Pro Quo
   score: 85.89740740736357
@@ -22,71 +38,47 @@ related_articles:
   recency_score: 98.91009259234048
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 76.31961534067543
-  llm_score: 90
-  recency_score: 3.837788208883614
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: triangle-part-2-public-driven-vision
-  title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
-  score: 72.86745227046426
-  llm_score: 85
-  recency_score: 3.9878505551694436
-  length_score: 100
-  category_score: 0
   rank: 4
-- slug: new-sweep-the-ripp-report-2014
-  title: NEW SWEEP The Ripp Report 2014
-  score: 72.07695251718752
-  llm_score: 65
-  recency_score: 79.4424769738282
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: youre-not-from-here
-  title: You're Not From Here - Arthur Corti's Entitlement
-  score: 71.27415619211357
-  llm_score: 75
-  recency_score: 34.826398104653
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: boycott-the-gas-station-on-the-new-roundabout
   title: 'BOYCOTT: The Gas Station on the New Roundabout'
-  score: 56.4355324194059
-  llm_score: 60
+  score: 66.87031502810156
+  llm_score: 75
   recency_score: 9.504311411583915
   length_score: 100
   category_score: 0
-  rank: 7
-- slug: gulf-shores-shoot-the-messenger
-  title: Gulf Shores - SHOOT THE MESSENGER
-  score: 51.5921737156367
-  llm_score: 55
-  recency_score: 1.6549988649109706
+  rank: 5
+- slug: fairhope-railroad
+  title: Fairhope Railroad - Fly Creek Part 2
+  score: 65.45869206976501
+  llm_score: 65
+  recency_score: 41.38747940114875
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 6
+- slug: youre-not-from-here
+  title: You're Not From Here - Arthur Corti's Entitlement
+  score: 60.83937358341792
+  llm_score: 60
+  recency_score: 34.826398104653
+  length_score: 100
+  category_score: 0
+  rank: 7
 - slug: fried-chicken-and-watermelon
   title: FRIED CHICKEN AND WATERMELON
-  score: 40.888829373218044
-  llm_score: 40
+  score: 51.3236119819137
+  llm_score: 55
   recency_score: 0.11076889600373441
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: fauxhope
   title: FAUXHOPE
-  score: 37.41285863904533
-  llm_score: 35
+  score: 44.36938037817577
+  llm_score: 45
   recency_score: 0.12393717451064709
   length_score: 100
   category_score: 0
-  rank: 10
+  rank: 9
 ---
 I saw the Fox news team this morning at Parker Road and High ridge Road for what appeared to be a groundbreaking for the Fairhope Fire station. I know you are aware of the controversy surrounding the location. The location favors the land owner and not the city.
 

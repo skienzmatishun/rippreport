@@ -9,92 +9,84 @@ tags:
 related_articles:
 - slug: quid-pro-quo
   title: Quid Pro Quo
-  score: 81.32445641385654
-  llm_score: 75
+  score: 93.15054337037829
+  llm_score: 92
   recency_score: 92.61562437967505
   length_score: 100
   category_score: 0
   rank: 1
-- slug: victory
-  title: VICTORY
-  score: 79.61882898445522
-  llm_score: 95
-  recency_score: 2.808266660617445
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: holes
-  title: HOLES
-  score: 77.34172604284909
-  llm_score: 90
-  recency_score: 9.714924746382225
-  length_score: 100
-  category_score: 0
-  rank: 3
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 76.01740489632729
-  llm_score: 85
+  score: 82.97392663545773
+  llm_score: 95
   recency_score: 22.100078153881906
   length_score: 100
   category_score: 0
-  rank: 4
+  rank: 2
+- slug: lipstick-on-a-pig
+  title: Lipstick on a Pig - Fly Creek Apartments
+  score: 81.65861890466215
+  llm_score: 88
+  recency_score: 42.537058701807275
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: open-letter-to
   title: Open Letter to Steve Alexander FOX News
-  score: 74.5454212094002
-  llm_score: 65
+  score: 81.50194294853063
+  llm_score: 75
   recency_score: 93.63617195405108
   length_score: 100
   category_score: 0
+  rank: 4
+- slug: fairhope-railroad
+  title: Fairhope Railroad - Fly Creek Part 2
+  score: 79.86092368727061
+  llm_score: 85
+  recency_score: 44.200311201805995
+  length_score: 100
+  category_score: 0
   rank: 5
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 73.4548537602897
-  llm_score: 80
-  recency_score: 27.365409121665678
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: new-sweep-the-ripp-report-2014
-  title: NEW SWEEP The Ripp Report 2014
-  score: 64.24119901630804
-  llm_score: 55
-  recency_score: 74.38689434377122
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: fairhope-sold-to-the-highest-bidder
-  title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
-  score: 47.98666725239951
-  llm_score: 50
-  recency_score: 0.9233367012971956
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: youre-not-from-here
   title: You're Not From Here - Arthur Corti's Entitlement
-  score: 43.859707275209644
-  llm_score: 35
+  score: 75.16405510129661
+  llm_score: 80
   recency_score: 37.193316832455444
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: comprehensive-plan-charade
+  title: Comprehensive Plan Charade
+  score: 71.96386106704706
+  llm_score: 65
+  recency_score: 78.79220113552056
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: new-sweep-the-ripp-report-2014
+  title: NEW SWEEP The Ripp Report 2014
+  score: 67.71945988587326
+  llm_score: 60
+  recency_score: 74.38689434377122
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: holes
+  title: HOLES
+  score: 52.993899955892566
+  llm_score: 55
+  recency_score: 9.714924746382225
+  length_score: 100
+  category_score: 0
   rank: 9
-- slug: fried-chicken-and-watermelon
-  title: FRIED CHICKEN AND WATERMELON
-  score: 40.89013862980739
-  llm_score: 40
-  recency_score: 0.11829712139245786
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 49.107027673333164
+  llm_score: 45
+  recency_score: 27.365409121665678
   length_score: 100
   category_score: 0
   rank: 10
-- slug: fried-chicken-and-watermelon
-  title: FRIED CHICKEN AND WATERMELON
-  score: 33.93361689067695
-  llm_score: 30
-  recency_score: 0.11829712139245786
-  length_score: 100
-  category_score: 0
-  rank: 11
 ---
 NEW SWEEP
 The Ripp Report 2015

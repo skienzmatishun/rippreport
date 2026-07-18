@@ -6,83 +6,83 @@ tags:
 - archive
 - historical
 related_articles:
-- slug: fly-creek-erosion-and-hidden-development-threats
-  title: Fly Creek Erosion and Hidden Development Threats
-  score: 93.33027347925278
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 83.36072965765703
   llm_score: 95
-  recency_score: 81.64907250570349
+  recency_score: 24.324195531527913
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 79.88246878809181
-  llm_score: 90
-  recency_score: 24.324195531527913
+- slug: fairhope-railroad
+  title: Fairhope Railroad - Fly Creek Part 2
+  score: 79.00663931923877
+  llm_score: 85
+  recency_score: 39.2881760856229
   length_score: 100
   category_score: 0
   rank: 2
 - slug: friends-of-fly-creek
   title: FRIENDS OF FLY CREEK
-  score: 72.17407959696602
-  llm_score: 85
+  score: 77.04364481435732
+  llm_score: 92
   recency_score: 0.0009576825545646317
   length_score: 100
   category_score: 0
   rank: 3
-- slug: no-more-silence-we-want-answers
-  title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 72.11200333960845
+- slug: triangle-lawsuit-settlement-2013
+  title: Triangle Lawsuit - The Real Cost to Taxpayers
+  score: 74.10888805427724
   llm_score: 80
-  recency_score: 19.644019202748584
+  recency_score: 31.126106312094088
   length_score: 100
   category_score: 0
   rank: 4
-- slug: fraud
-  title: FRAUD
-  score: 65.4379921422965
-  llm_score: 70
-  recency_score: 21.268454818204823
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 68.63374247004323
+  llm_score: 75
+  recency_score: 19.644019202748584
   length_score: 100
   category_score: 0
   rank: 5
 - slug: liar-liar-pants-on-fire-2
   title: LIAR LIAR PANTS ON FIRE
-  score: 65.23824848350161
-  llm_score: 75
+  score: 67.32520500524073
+  llm_score: 78
   recency_score: 0.11992878013417031
   length_score: 100
   category_score: 0
   rank: 6
-- slug: dear-congressman-bradley-byrne
-  title: Dear Congressman Bradley Byrne
-  score: 62.41080849678767
+- slug: fraud
+  title: FRAUD
+  score: 61.95973127273128
   llm_score: 65
-  recency_score: 23.862148856529085
+  recency_score: 21.268454818204823
   length_score: 100
   category_score: 0
   rank: 7
-- slug: columbia-questions-and-documents
-  title: COLUMBIA — QUESTIONS AND DOCUMENTS
-  score: 51.347812338052165
-  llm_score: 55
-  recency_score: 0.24992094379994484
-  length_score: 100
-  category_score: 0
-  rank: 8
 - slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
   title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
-  score: 47.72694218822535
-  llm_score: 45
+  score: 54.68346392735579
+  llm_score: 55
   recency_score: 19.429917582295765
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
-  score: 41.385081566614254
-  llm_score: 35
+  score: 48.34160330574469
+  llm_score: 45
   recency_score: 22.96421900803196
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: dear-congressman-bradley-byrne
+  title: Dear Congressman Bradley Byrne
+  score: 41.54124327939636
+  llm_score: 35
+  recency_score: 23.862148856529085
   length_score: 100
   category_score: 0
   rank: 10

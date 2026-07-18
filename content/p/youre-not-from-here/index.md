@@ -13,14 +13,38 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 88.44802540382446
+- slug: lipstick-on-a-pig
+  title: Lipstick on a Pig - Fly Creek Apartments
+  score: 90.8586858929344
   llm_score: 90
-  recency_score: 73.57614607199059
+  recency_score: 87.43744388437275
   length_score: 100
   category_score: 0
   rank: 1
+- slug: miracle-blindside-reality
+  title: Miracle, Blindside, or Reality?
+  score: 89.17852848562968
+  llm_score: 88
+  recency_score: 85.7765387923706
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-railroad
+  title: Fairhope Railroad - Fly Creek Part 2
+  score: 86.80820577017576
+  llm_score: 85
+  recency_score: 84.14718317851063
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 81.49150366469402
+  llm_score: 80
+  recency_score: 73.57614607199059
+  length_score: 100
+  category_score: 0
+  rank: 4
 - slug: friends-of-fly-creek
   title: FRIENDS OF FLY CREEK
   score: 79.13093857578565
@@ -28,44 +52,20 @@ related_articles:
   recency_score: 0.0028968107674481568
   length_score: 100
   category_score: 0
-  rank: 2
-- slug: fly-creek-a-drainage-ditch
-  title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 75.85256244236837
-  llm_score: 85
-  recency_score: 21.152234043618023
-  length_score: 100
-  category_score: 0
-  rank: 3
+  rank: 5
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 75.5512151742726
-  llm_score: 75
+  score: 68.59469343514218
+  llm_score: 65
   recency_score: 59.41948725206741
   length_score: 100
   category_score: 0
-  rank: 4
-- slug: living-it-up-at-the-hotel-california
-  title: Living it Up at The Hotel California
-  score: 70.6274450944765
-  llm_score: 70
-  recency_score: 51.107809293239825
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: catalyst-does-fairhope
-  title: CATALYST DOES FAIRHOPE
-  score: 70.6121335327555
-  llm_score: 80
-  recency_score: 11.019767813344055
-  length_score: 100
-  category_score: 0
   rank: 6
-- slug: gulf-shores-shoot-the-messenger
-  title: Gulf Shores - SHOOT THE MESSENGER
-  score: 59.08732853086989
-  llm_score: 65
-  recency_score: 4.7521390525018266
+- slug: friends-of-fly-creek
+  title: FRIENDS OF FLY CREEK
+  score: 65.21789509752477
+  llm_score: 75
+  recency_score: 0.0028968107674481568
   length_score: 100
   category_score: 0
   rank: 7
@@ -77,22 +77,30 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: honey-bees
-  title: HONEY BEES
-  score: 44.78672694661862
-  llm_score: 45
-  recency_score: 2.5236799430570582
+- slug: living-it-up-at-the-hotel-california
+  title: Living it Up at The Hotel California
+  score: 46.27961900751997
+  llm_score: 35
+  recency_score: 51.107809293239825
   length_score: 100
   category_score: 0
   rank: 9
-- slug: fauxhope-2
-  title: FAUXHOPE
-  score: 37.4202009960552
-  llm_score: 35
-  recency_score: 0.1661557273173934
+- slug: gulf-shores-shoot-the-messenger
+  title: Gulf Shores - SHOOT THE MESSENGER
+  score: 45.174285052609015
+  llm_score: 45
+  recency_score: 4.7521390525018266
   length_score: 100
   category_score: 0
   rank: 10
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 42.78604657623375
+  llm_score: 40
+  recency_score: 11.019767813344055
+  length_score: 100
+  category_score: 0
+  rank: 11
 ---
 **Feb. 5 2016**
 

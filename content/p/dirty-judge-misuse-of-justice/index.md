@@ -1,13 +1,99 @@
 ---
-title: "Dirty Judge and Misuse of Justice"
+title: Dirty Judge and Misuse of Justice
 date: 2015-08-20
 thumbnail: img/dirty-judge-misuse-of-justice.png
-description: "Consumer alert: Baldwin County Family Court corruption involving Judge Thomason and Brackin Law Firm"
-tags: ["archive", "historical", "family-court", "judge-thomason", "brackin-law-firm", "corruption"]
+description: 'Consumer alert: Baldwin County Family Court corruption involving Judge Thomason and Brackin Law Firm'
+tags:
+- archive
+- historical
+- family-court
+- judge-thomason
+- brackin-law-firm
+- corruption
 authors:
 - admin
+related_articles:
+- slug: divorce-corp-documentary
+  title: Divorce Corp Documentary - Baldwin County Mirror
+  score: 91.11072180553282
+  llm_score: 90
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: baldwin-county-family-court-a-cottage-industry
+  title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
+  score: 87.89008664831437
+  llm_score: 100
+  recency_score: 30.367998227807558
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: catalyst-queen-remember-family-court
+  title: CATALYST QUEEN - REMEMBER FAMILY COURT
+  score: 80.31372526050619
+  llm_score: 95
+  recency_score: 6.803920247910508
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: exposure
+  title: EXPOSURE
+  score: 73.90518862623496
+  llm_score: 80
+  recency_score: 29.95483460085101
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 72.21666891074962
+  llm_score: 85
+  recency_score: 0.2458462368102487
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: canons-no-powder
+  title: CANONS — NO POWDER
+  score: 65.2486775218431
+  llm_score: 75
+  recency_score: 0.1798957505977944
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: baldwin-county-family-court
+  title: BALDWIN COUNTY FAMILY COURT
+  score: 60.41696539131747
+  llm_score: 65
+  recency_score: 12.39755100007539
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: divorce-corp
+  title: DIVORCE CORP
+  score: 50.06648884144306
+  llm_score: 50
+  recency_score: 12.882310838297602
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: stealing-from-kids
+  title: STEALING FROM KIDS
+  score: 40.87427681469119
+  llm_score: 40
+  recency_score: 0.027091684474333376
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 37.49072322914369
+  llm_score: 35
+  recency_score: 0.5716585675762068
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **8/20/15**
 
 ## DIRTY JUDGE AND MISUSE OF JUSTICE

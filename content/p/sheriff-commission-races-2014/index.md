@@ -1,13 +1,91 @@
 ---
-title: "Sheriff and Commission Races - Fighting the Machine"
+title: Sheriff and Commission Races - Fighting the Machine
 date: 2014-05-16
 thumbnail: img/sheriff-commission-races-2014.png
-description: "Exposing the Lynn Stacey political machine and endorsing candidates to fight Baldwin County corruption"
-tags: ["archive", "historical", "elections", "sheriff-race", "county-commission", "lynn-stacey"]
+description: Exposing the Lynn Stacey political machine and endorsing candidates to fight Baldwin County corruption
+tags:
+- archive
+- historical
+- elections
+- sheriff-race
+- county-commission
+- lynn-stacey
 authors:
 - admin
+related_articles:
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 79.1412414572581
+  llm_score: 95
+  recency_score: 0.062138379234063006
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: vote-2026
+  title: VOTE
+  score: 72.17401844554654
+  llm_score: 85
+  recency_score: 0.0006060618925745362
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: cooking-for-the-judge
+  title: COOKING FOR THE JUDGE
+  score: 65.53679804388908
+  llm_score: 75
+  recency_score: 1.8365887523621547
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: letter-to-ag-elections
+  title: TO THE SECRETARY OF STATE AND THE DIRECTOR OF ELECTIONS
+  score: 61.73923612601961
+  llm_score: 70
+  recency_score: 0.0006077246127746952
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: sheriff-huey-boss-mack-secret-police
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 58.2716762398668
+  llm_score: 65
+  recency_score: 0.062138379234063006
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 51.71984633881693
+  llm_score: 55
+  recency_score: 2.3891164481973193
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: women-of-baldwin
+  title: WOMEN OF BALDWIN
+  score: 48.029889228273966
+  llm_score: 50
+  recency_score: 1.1718630625752924
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: primary-election-endorsements-2014
+  title: Primary Election Endorsements - Vote Out the Machine
+  score: 42.85496210141336
+  llm_score: 80
+  recency_score: 97.83206416625366
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: anonymous-bb
+  title: ANONYMOUS-BB
+  score: 40.86967295514495
+  llm_score: 40
+  recency_score: 0.0006194920834386233
+  length_score: 100
+  category_score: 0
+  rank: 9
 ---
-
 **May 16, 2014 Ripp Report #14**
 
 Dear Baldwin County Registered Voters,

@@ -20,27 +20,27 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 1
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 81.82621692586275
+- slug: triangle-lawsuit-settlement-2013
+  title: Triangle Lawsuit - The Real Cost to Taxpayers
+  score: 79.36118338294604
   llm_score: 90
-  recency_score: 35.500747323710755
+  recency_score: 21.326804451939722
   length_score: 100
   category_score: 0
   rank: 2
-- slug: delight
-  title: FAIRHOPE TAXPAYERS DELIGHT
-  score: 72.18373159447725
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 78.34795605629753
   llm_score: 85
-  recency_score: 0.05645666824411045
+  recency_score: 35.500747323710755
   length_score: 100
   category_score: 0
   rank: 3
-- slug: pedaling-backwards
-  title: PEDALING BACKWARDS
-  score: 69.09333048639883
+- slug: whose-agenda
+  title: WHOSE AGENDA?
+  score: 69.07836589838004
   llm_score: 80
-  recency_score: 2.2866502967932067
+  recency_score: 2.200603915685177
   length_score: 100
   category_score: 0
   rank: 4
@@ -52,11 +52,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 5
-- slug: whose-agenda
-  title: WHOSE AGENDA?
-  score: 65.60010502881482
+- slug: pedaling-backwards
+  title: PEDALING BACKWARDS
+  score: 65.61506961683361
   llm_score: 75
-  recency_score: 2.200603915685177
+  recency_score: 2.2866502967932067
   length_score: 100
   category_score: 0
   rank: 6
@@ -76,18 +76,18 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 8
-- slug: fairhope-going-backwards
-  title: FAIRHOPE GOING BACKWARDS?
-  score: 37.48089334020107
+- slug: football-sneak-play
+  title: Fauxhope Football Sneak Play
+  score: 48.579669814605374
   llm_score: 35
-  recency_score: 0.5151367061561393
+  recency_score: 64.3331014339809
   length_score: 100
   category_score: 0
   rank: 9
 - slug: game-on
   title: GAME ON
-  score: 35.75976117959542
-  llm_score: 25
+  score: 39.23802204916064
+  llm_score: 30
   recency_score: 30.618626782673648
   length_score: 100
   category_score: 0

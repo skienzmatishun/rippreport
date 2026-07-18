@@ -1,13 +1,99 @@
 ---
-title: "Miracle, Blindside, or Reality?"
+title: Miracle, Blindside, or Reality?
 date: 2015-12-11
 thumbnail: img/miracle-blindside-reality.png
-description: "Planning and Zoning votes down Fly Creek apartments 5-4 after 300 citizens show up - but is it really over?"
-tags: ["archive", "historical", "fly-creek", "apartments", "planning-zoning", "city-council"]
+description: Planning and Zoning votes down Fly Creek apartments 5-4 after 300 citizens show up - but is it really over?
+tags:
+- archive
+- historical
+- fly-creek
+- apartments
+- planning-zoning
+- city-council
 authors:
 - admin
+related_articles:
+- slug: lipstick-on-a-pig
+  title: Lipstick on a Pig - Fly Creek Apartments
+  score: 96.19138516919524
+  llm_score: 95
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: fairhope-railroad
+  title: Fairhope Railroad - Fly Creek Part 2
+  score: 89.2348634300648
+  llm_score: 85
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 80.2700872016081
+  llm_score: 90
+  recency_score: 26.55300140924655
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 76.19322982215171
+  llm_score: 75
+  recency_score: 63.11107147737226
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: youre-not-from-here
+  title: You're Not From Here - Arthur Corti's Entitlement
+  score: 73.17852848562968
+  llm_score: 65
+  recency_score: 85.7765387923706
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: redneck-renovations
+  title: REDNECK RENOVATIONS
+  score: 68.79895845854308
+  llm_score: 80
+  recency_score: 0.5940111366226981
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 53.21182252747779
+  llm_score: 45
+  recency_score: 50.96797953299731
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: got-fleas
+  title: GOT FLEAS
+  score: 51.39032970545808
+  llm_score: 55
+  recency_score: 0.4943958063839215
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: BACKPEDALING-FAUXHOPE
+  title: BACKPEDALING FAUXHOPE
+  score: 37.39506792336136
+  llm_score: 35
+  recency_score: 0.021640559327833805
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fauxhope
+  title: FAUXHOPE
+  score: 33.96613115305726
+  llm_score: 30
+  recency_score: 0.3052541300792452
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **The Ripp Report**  
 **Dec. 11 2015**
 

@@ -30,19 +30,19 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: sheriff-huey-boss-mack-secret-police-2
+- slug: sheriff-huey-boss-mack-secret-police
   title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 68.70520537504217
+  score: 68.77660467662936
   llm_score: 80
-  recency_score: 0.05493090649239774
+  recency_score: 0.46547689061875125
   length_score: 100
   category_score: 0
   rank: 4
-- slug: shackled-chained-handcuffed-bc-un-family-court
-  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
-  score: 65.30796749331596
+- slug: sheriff-huey-boss-mack-secret-police-2
+  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+  score: 65.22694450547695
   llm_score: 75
-  recency_score: 0.52081308656669
+  recency_score: 0.05493090649239774
   length_score: 100
   category_score: 0
   rank: 5
@@ -54,14 +54,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 6
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 51.38530032880327
-  llm_score: 55
-  recency_score: 0.46547689061875125
-  length_score: 100
-  category_score: 0
-  rank: 7
 - slug: happy-days
   title: HAPPY DAYS
   score: 40.92579682629601
@@ -69,31 +61,31 @@ related_articles:
   recency_score: 0.32333175120203433
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: some-things-never-change
+  title: SOME THINGS NEVER CHANGE
+  score: 37.39217814715819
+  llm_score: 35
+  recency_score: 0.005024346159586633
+  length_score: 100
+  category_score: 0
   rank: 8
 - slug: get-out-of-jail-card
   title: GET OUT OF JAIL CARD
-  score: 37.42508505999514
-  llm_score: 35
+  score: 30.468563320864703
+  llm_score: 25
   recency_score: 0.19423909497205033
   length_score: 100
   category_score: 0
   rank: 9
 - slug: the-black-eyes-of-alabama
   title: The Black Eyes of Alabama
-  score: 33.97244225041604
-  llm_score: 30
+  score: 27.0159205112856
+  llm_score: 20
   recency_score: 0.3415429398921856
   length_score: 100
   category_score: 0
   rank: 10
-- slug: some-things-never-change
-  title: SOME THINGS NEVER CHANGE
-  score: 30.435656408027754
-  llm_score: 25
-  recency_score: 0.005024346159586633
-  length_score: 100
-  category_score: 0
-  rank: 11
 ---
 FREAKY FRIDAY IN A FREAKY COUNTY  May 20 2016
 

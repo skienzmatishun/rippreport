@@ -1,13 +1,99 @@
 ---
-title: "Lipstick on a Pig - Fly Creek Apartments"
+title: Lipstick on a Pig - Fly Creek Apartments
 thumbnail: img/lipstick-on-a-pig.png
 date: 2015-12-18
-description: "Mayor plans to blindside public and bring back rejected Fly Creek apartment project through City Council"
-tags: ["archive", "historical", "fly-creek", "apartments", "arthur-corte", "planning-zoning"]
+description: Mayor plans to blindside public and bring back rejected Fly Creek apartment project through City Council
+tags:
+- archive
+- historical
+- fly-creek
+- apartments
+- arthur-corte
+- planning-zoning
 authors:
 - admin
+related_articles:
+- slug: fairhope-railroad
+  title: Fairhope Railroad - Fly Creek Part 2
+  score: 95.86730639798881
+  llm_score: 95
+  recency_score: 96.23701178843567
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: miracle-blindside-reality
+  title: Miracle, Blindside, or Reality?
+  score: 89.2348634300648
+  llm_score: 85
+  recency_score: 98.10046472287257
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 86.84053937982277
+  llm_score: 90
+  recency_score: 64.3331014339809
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: friends-of-fly-creek
+  title: FRIENDS OF FLY CREEK
+  score: 74.26131006909378
+  llm_score: 88
+  recency_score: 0.002532897289223949
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 67.29650101259278
+  llm_score: 65
+  recency_score: 51.95488082240847
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-does-fairhope
+  title: CATALYST DOES FAIRHOPE
+  score: 66.89311361704016
+  llm_score: 75
+  recency_score: 9.635403297980877
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: community-or-developer
+  title: COMMUNITY OR DEVELOPER
+  score: 66.44646113052389
+  llm_score: 70
+  recency_score: 27.067151500512303
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: youre-not-from-here
+  title: You're Not From Here - Arthur Corti's Entitlement
+  score: 59.554338066847436
+  llm_score: 45
+  recency_score: 87.43744388437275
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: fly-creek-a-drainage-ditch
+  title: FLY CREEK - A DRAINAGE DITCH ?
+  score: 54.5208648299443
+  llm_score: 55
+  recency_score: 18.4949727721797
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: victory
+  title: VICTORY
+  score: 38.53946601379892
+  llm_score: 35
+  recency_score: 6.601929579343786
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **FREAKY FRIDAY**  
 **Dec. 18 2015**  
 **THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE**

@@ -1,13 +1,99 @@
 ---
-title: "Flowers in Town and Marbles for Brains"
+title: Flowers in Town and Marbles for Brains
 date: 2014-12-05
 thumbnail: img/flowers-marbles-for-brains.png
-description: "Mayor has complete control of Fairhope finances with no forensic audit, finance committee dissolved"
-tags: ["archive", "historical", "finance", "audit", "utilities", "city-council"]
+description: Mayor has complete control of Fairhope finances with no forensic audit, finance committee dissolved
+tags:
+- archive
+- historical
+- finance
+- audit
+- utilities
+- city-council
 authors:
 - admin
+related_articles:
+- slug: quid-pro-quo
+  title: Quid Pro Quo
+  score: 84.36741805941914
+  llm_score: 80
+  recency_score: 90.11265384166002
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: fairhope-sewer-backstory
+  title: FAIRHOPE SEWER BACKSTORY
+  score: 79.29278454052431
+  llm_score: 95
+  recency_score: 0.9335111080147735
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 78.85989060227797
+  llm_score: 90
+  recency_score: 18.444370963098283
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 72.18905016744952
+  llm_score: 85
+  recency_score: 0.08703846283467485
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: broken-eggs
+  title: BROKEN EGGS
+  score: 66.21582861122974
+  llm_score: 75
+  recency_score: 5.741014514570984
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: exit-and-enter
+  title: EXIT AND ENTER
+  score: 60.81615034536603
+  llm_score: 65
+  recency_score: 14.692864485854656
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: flying-high
+  title: FLYING HIGH
+  score: 51.84484679717559
+  llm_score: 55
+  recency_score: 3.107869083759611
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: transparency
+  title: TRANSPARENCY
+  score: 44.498187328928964
+  llm_score: 45
+  recency_score: 0.8645771413415052
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 37.59169287715096
+  llm_score: 30
+  recency_score: 21.152234043618023
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: bull
+  title: BULL SITTING Fairhope
+  score: 37.39425354747869
+  llm_score: 35
+  recency_score: 0.016957898002456027
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **The Ripp Report #26**  
 **December 5 2014**
 

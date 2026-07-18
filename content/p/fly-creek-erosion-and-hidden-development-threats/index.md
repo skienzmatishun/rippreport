@@ -3,16 +3,16 @@ title: Fly Creek Erosion and Hidden Development Threats
 date: 2015-03-12
 description: Fly Creek Erosion and Hidden Development Threats
 thumbnail: img/fly-creek-erosion-and-hidden-development-threats.png
-summary: "The creek behind Publix has severe erosion problems, in some areas the banks have collapsed over 20 feet down into the creek, depositing tons of dirt and eroded clay. These failed banks have caused trees to collapse into the creek resulting in log jams that back up the flow of water. Until now no one has documented this; Kant and Arthur Corte are ignoring previous damage to Fly Creek from construction of the shopping center while proposing the addition of a project 5 times larger than the Publix shopping center."
+summary: The creek behind Publix has severe erosion problems, in some areas the banks have collapsed over 20 feet down into the creek, depositing tons of dirt and eroded clay. These failed banks have caused trees to collapse into the creek resulting in log jams that back up the flow of water. Until now no one has documented this; Kant and Arthur Corte are ignoring previous damage to Fly Creek from construction of the shopping center while proposing the addition of a project 5 times larger than the Publix shopping center.
 tags:
 - archive
 - historical
 related_articles:
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 84.31150389365443
+- slug: liar-liar-pants-on-fire-2
+  title: LIAR LIAR PANTS ON FIRE
+  score: 79.15597968901571
   llm_score: 95
-  recency_score: 29.79114738851293
+  recency_score: 0.14688321184027262
   length_score: 100
   category_score: 0
   rank: 1
@@ -24,6 +24,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
+- slug: fly-creek-mud
+  title: FLY CREEK MUD
+  score: 74.27079630852705
+  llm_score: 88
+  recency_score: 0.057078774030469744
+  length_score: 100
+  category_score: 0
+  rank: 3
 - slug: fauxhope-know-the-backstory
   title: FAUXHOPE - KNOW THE BACKSTORY
   score: 72.17423982411442
@@ -31,59 +39,51 @@ related_articles:
   recency_score: 0.0018789886578584418
   length_score: 100
   category_score: 0
-  rank: 3
-- slug: liar-liar-pants-on-fire-2
-  title: LIAR LIAR PANTS ON FIRE
-  score: 68.72119708032005
-  llm_score: 80
-  recency_score: 0.14688321184027262
-  length_score: 100
-  category_score: 0
   rank: 4
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
-  score: 67.39724552305375
-  llm_score: 75
+  score: 70.87550639261897
+  llm_score: 80
   recency_score: 12.534161757559053
   length_score: 100
   category_score: 0
   rank: 5
-- slug: fly-creek-mud
-  title: FLY CREEK MUD
-  score: 61.74905717809226
-  llm_score: 70
-  recency_score: 0.057078774030469744
-  length_score: 100
-  category_score: 0
-  rank: 6
 - slug: fly-creek-a-drainage-ditch
   title: FLY CREEK - A DRAINAGE DITCH ?
-  score: 59.75036299867027
-  llm_score: 65
+  score: 66.7068847378007
+  llm_score: 75
   recency_score: 8.564587242354007
   length_score: 100
   category_score: 0
+  rank: 6
+- slug: fairhope-railroad
+  title: Fairhope Railroad - Fly Creek Part 2
+  score: 66.62927604685038
+  llm_score: 65
+  recency_score: 48.118337269389656
+  length_score: 100
+  category_score: 0
   rank: 7
-- slug: new-sweep-the-ripp-report-27-political-corruption-and-deceit-in-fairhope
-  title: 'New Sweep: The Ripp Report #27'
-  score: 58.54766478360061
-  llm_score: 45
-  recency_score: 81.64907250570349
+- slug: bp-restore-act-fraud
+  title: BP Restore Act Application - Fraud and Deception
+  score: 55.77290788201555
+  llm_score: 55
+  recency_score: 25.694220321589416
   length_score: 100
   category_score: 0
   rank: 8
 - slug: catalyst-does-fairhope
   title: CATALYST DOES FAIRHOPE
-  score: 52.08033544811801
-  llm_score: 55
+  score: 55.558596317683225
+  llm_score: 60
   recency_score: 4.461928826678509
   length_score: 100
   category_score: 0
   rank: 9
 - slug: triangle-roaches
   title: TRIANGLE ROACHES
-  score: 47.97852211400447
-  llm_score: 50
+  score: 44.50026124443926
+  llm_score: 45
   recency_score: 0.8765021555257007
   length_score: 100
   category_score: 0

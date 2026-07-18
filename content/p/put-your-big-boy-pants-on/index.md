@@ -12,14 +12,6 @@ tags:
 authors:
 - admin
 related_articles:
-- slug: fire
-  title: FIRE
-  score: 84.25434282162554
-  llm_score: 85
-  recency_score: 69.4624712243468
-  length_score: 100
-  category_score: 0
-  rank: 1
 - slug: legal-corruption
   title: LEGAL CORRUPTION
   score: 80.07304901835217
@@ -27,7 +19,7 @@ related_articles:
   recency_score: 5.420031855524929
   length_score: 100
   category_score: 0
-  rank: 2
+  rank: 1
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
   score: 77.33768230532336
@@ -35,39 +27,39 @@ related_articles:
   recency_score: 1.6916732556092262
   length_score: 100
   category_score: 0
+  rank: 2
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 74.81438394919196
+  llm_score: 75
+  recency_score: 55.18270770785375
+  length_score: 100
+  category_score: 0
   rank: 3
-- slug: your-rights-your-money
-  title: YOUR RIGHTS YOUR MONEY
-  score: 74.34115943179027
-  llm_score: 88
-  recency_score: 0.46166673279399395
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: catalyst-skunk
-  title: CATALYST SKUNK
-  score: 71.36543659620843
-  llm_score: 80
-  recency_score: 15.35126042819837
-  length_score: 100
-  category_score: 0
-  rank: 5
 - slug: black-cloud
   title: BLACK CLOUD
-  score: 65.29529757392996
-  llm_score: 75
+  score: 72.2518193130604
+  llm_score: 85
   recency_score: 0.44796105009721165
   length_score: 100
   category_score: 0
-  rank: 6
-- slug: liar-liar-pants-on-fire
-  title: LIAR LIAR PANTS ON FIRE
-  score: 59.18811543384216
+  rank: 4
+- slug: fire
+  title: FIRE
+  score: 70.34129934336467
   llm_score: 65
-  recency_score: 5.331663744592373
+  recency_score: 69.4624712243468
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 5
+- slug: catalyst-skunk
+  title: CATALYST SKUNK
+  score: 64.40891485707799
+  llm_score: 70
+  recency_score: 15.35126042819837
+  length_score: 100
+  category_score: 0
+  rank: 6
 - slug: alabama-sec-of-state-the-only-one
   title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
   score: 57.35192944486239
@@ -75,19 +67,27 @@ related_articles:
   recency_score: 14.773594307958726
   length_score: 100
   category_score: 0
+  rank: 7
+- slug: liar-liar-pants-on-fire
+  title: LIAR LIAR PANTS ON FIRE
+  score: 52.23159369471172
+  llm_score: 55
+  recency_score: 5.331663744592373
+  length_score: 100
+  category_score: 0
   rank: 8
-- slug: green-acres-on-acid
-  title: GREEN ACRES ON ACID
-  score: 53.94481873180065
-  llm_score: 45
-  recency_score: 55.18270770785375
+- slug: primary-election-endorsements-2014
+  title: Primary Election Endorsements - Vote Out the Machine
+  score: 38.339950941424874
+  llm_score: 88
+  recency_score: 13.909435826385996
   length_score: 100
   category_score: 0
   rank: 9
 - slug: happy-days
   title: HAPPY DAYS
-  score: 27.011685208787096
-  llm_score: 20
+  score: 37.44646781748275
+  llm_score: 35
   recency_score: 0.3171899505257979
   length_score: 100
   category_score: 0

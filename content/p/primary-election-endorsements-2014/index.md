@@ -1,13 +1,91 @@
 ---
-title: "Primary Election Endorsements - Vote Out the Machine"
+title: Primary Election Endorsements - Vote Out the Machine
 date: 2014-05-24
 thumbnail: img/primary-election-endorsements-2014.png
-description: "Final endorsements before June 3rd primary: fight the Lynn Stacey machine and BP boom scandal cover-up"
-tags: ["archive", "historical", "elections", "endorsements", "bp-boom-scandal", "trip-pittman"]
+description: 'Final endorsements before June 3rd primary: fight the Lynn Stacey machine and BP boom scandal cover-up'
+tags:
+- archive
+- historical
+- elections
+- endorsements
+- bp-boom-scandal
+- trip-pittman
 authors:
 - admin
+related_articles:
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 80.99002080216684
+  llm_score: 95
+  recency_score: 10.692619612459277
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 75.69309603580541
+  llm_score: 90
+  recency_score: 0.2353022058811001
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fire
+  title: FIRE
+  score: 73.8542326710213
+  llm_score: 85
+  recency_score: 9.661837858372358
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 68.82676449612417
+  llm_score: 80
+  recency_score: 0.7538958527139179
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 65.43032607636175
+  llm_score: 75
+  recency_score: 1.2243749390800314
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: put-your-big-boy-pants-on
+  title: Put Your Big Boy Pants On - Tucker Dorsey
+  score: 60.67990188284975
+  llm_score: 65
+  recency_score: 13.909435826385996
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 56.11749622884976
+  llm_score: 60
+  recency_score: 7.675603315886079
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 51.66172584687237
+  llm_score: 55
+  recency_score: 2.0549236195161336
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 37.39897727523759
+  llm_score: 35
+  recency_score: 0.04411933261613135
+  length_score: 100
+  category_score: 0
+  rank: 9
 ---
-
 **May 24, 2014 Ripp Report #15**
 
 Dear Baldwin County residents,

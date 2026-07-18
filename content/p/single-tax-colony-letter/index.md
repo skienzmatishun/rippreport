@@ -28,66 +28,66 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 2
-- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
-  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
-  score: 76.69319323586362
-  llm_score: 88
-  recency_score: 13.985861106215753
+- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
+  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
+  score: 74.23189064931775
+  llm_score: 85
+  recency_score: 11.833371233577015
   length_score: 100
   category_score: 0
   rank: 3
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
-  score: 74.13823752983356
-  llm_score: 85
+  score: 70.65997666026834
+  llm_score: 80
   recency_score: 11.294865796542922
   length_score: 100
   category_score: 0
   rank: 4
-- slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
-  title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
-  score: 70.75362977975253
-  llm_score: 80
-  recency_score: 11.833371233577015
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 67.64971497499405
+  llm_score: 75
+  recency_score: 13.985861106215753
   length_score: 100
   category_score: 0
   rank: 5
 - slug: elephant-in-a-volkswagen
   title: ELEPHANT IN A VOLKSWAGEN
-  score: 65.67470493900245
-  llm_score: 75
+  score: 58.718183199872016
+  llm_score: 65
   recency_score: 2.629553399264038
   length_score: 100
   category_score: 0
   rank: 6
 - slug: switching-hats
   title: SWITCHING HATS
-  score: 58.89619449538207
-  llm_score: 65
+  score: 51.93967275625163
+  llm_score: 55
   recency_score: 3.653118348446851
   length_score: 100
   category_score: 0
   rank: 7
 - slug: bend-over-fairhope
   title: BEND OVER FAIRHOPE
-  score: 55.22392109244891
-  llm_score: 60
+  score: 48.267399353318474
+  llm_score: 50
   recency_score: 2.537546281581227
   length_score: 100
   category_score: 0
   rank: 8
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
-  score: 51.306671565409125
-  llm_score: 55
+  score: 40.87188895671347
+  llm_score: 40
   recency_score: 0.013361501102451587
   length_score: 100
   category_score: 0
   rank: 9
 - slug: youre-not-from-here
   title: You're Not From Here - Arthur Corti's Entitlement
-  score: 47.653685119402056
-  llm_score: 45
+  score: 40.69716338027162
+  llm_score: 35
   recency_score: 19.00868943656179
   length_score: 100
   category_score: 0
