@@ -1,527 +1,537 @@
 metadata:
-  generated_at: '2026-07-17T17:53:09.943162Z'
+  generated_at: '2026-07-18T04:26:51.839041Z'
   generator_version: 1.0.0
   post_slug: investigative-reporting-business-entity-records
 hooks:
   a-spiders-web:
-    brief: 'THE CONFLICT
-
-      *   North Ridge, LLC was formed on 6-2-2008 in Baldwin County.
-
-      *   Members of North Ridge, LLC include AVENT, JOHN G and BOONE, KEVIN.
-
-      *   Kevin Boone has voted for interests benefiting himself while opposing efforts
-      by the Mayor to hire an engineering firm.
-
-      *   John Avent holds a share of Baldwin County Sewer through his involvement
-      with LLCs.
-
-      *   County Commissioner Tucker Dorsey is tied in with the same individuals and
-      multiple LLCs.
-
-
-      THE DISCOVERY
-
-      *   A network of interconnected LLCs is used by elected officials (city council
-      members, county commissioners) to hide business and personal connections.
-
-      *   Elected officials utilize informal and advisory opinions to manipulate ethics
-      rules.
-
-      *   Kevin Boone received campaign contributions from the same LLCs that he has
-      a financial interest in.
-
-
-      THE PIVOT
-
-      *   Article 1 establishes the specific legal structure (North Ridge, LLC) and
-      identifies members (Boone, Avent).
-
-      *   Article 2 provides the political context, proving that these identified
-      business connections constitute conflicts of interest and demonstrate how elected
-      officials are using this network to bypass transparency.
-
-
-      KEY ENTITIES
-
-      *   North Ridge, LLC (Entity ID 420-935)
-
-      *   Baldwin County
-
-      *   BOONE, KEVIN
-
-      *   AVENT, JOHN G
-
-      *   HEADWATER HOLDINGS LLC
-
-      *   LAUREL LLC
-
-      *   BULLOCK, JOSEPH P
-
-      *   Ethics commission
-
-      *   Fairhope city councilman
-
-      *   County commissioner Tucker Dorsey
-
-      *   County commissioner Chris Elliott'
-    generated_at: '2026-07-11T12:06:57.251002Z'
-  alabama-ethics-a-political-tool:
-    brief: 'THE CONFLICT
-
-      *   North Ridge, LLC was formed on 6-2-2008 in Baldwin County, Alabama.
-
-      *   Members of North Ridge, LLC include AVENT, JOHN G and BOONE, KEVIN.
-
-
-      THE DISCOVERY
-
-      *   Fairhope officials (Jack Burrell, Ray Hix) are facing ethics complaints.
-
-      *   The Alabama Ethics Commission has failed to hold elected officials accountable.
-
-      *   Senator Tripp Pittman used his office for personal gain and secured Fairhope
-      municipal contracts, violating ethics rules.
-
-      *   Former Mayor Tim Kant assisted Senator Pittman in corrupt behavior.
-
-
-      THE PIVOT
-
-      *   North Ridge, LLC is a business entity linked to political figures or associated
-      individuals mentioned in the corruption context (e.g., AVENT, JOHN G).
-
-      *   The existence of this LLC links specific individuals identified in the business
-      records to the wider network of alleged political corruption and ethics violations
-      detailed in the second article.
-
-
-      KEY ENTITIES
-
-      *   North Ridge, LLC
-
-      *   AVENT, JOHN G
-
-      *   BOONE, KEVIN
-
-      *   HEADWATER HOLDINGS LLC
-
-      *   LAUREL LLC
-
-      *   Jack Burrell
-
-      *   Ray Hix
-
-      *   Fairhope Airport Authority
-
-      *   Snedeker
-
-      *   Tripp Pittman
-
-      *   Tim Kant
-
-      *   Mike Hubbard
-
-      *   Luther Strange
-
-      *   Senator Luther Strange'
-    generated_at: '2026-07-11T12:06:57.251011Z'
-  alabama-ag:
     brief: 'THE CONFLICT:
 
-      *   North Ridge, LLC was formed 6-2-2008 in Baldwin County, AL.
+      *   Systemic corruption involving elected officials in Baldwin County through
+      complex webs of Limited Liability Companies (LLCs).
 
-      *   Members of North Ridge, LLC include AVENT, JOHN G and BOONE, KEVIN.
+      *   The alleged scheme has operated for over 50 years.
+
+      *   Officials use these LLC structures to obscure business interests and potential
+      conflicts of interest while voting on issues that affect their own financial
+      standing.
 
 
       THE DISCOVERY:
 
-      *   The Alabama Attorney General''s office is investigating ethics violations
-      involving Executive Director Tom Albrittion who allegedly skimmed $120,000.00
-      from the Mabel Amos Trust.
+      *   North Ridge, LLC is a Domestic Limited Liability Company formed in Baldwin
+      County on June 2, 2008 (Entity ID 420-935).
 
-      *   There are allegations of corruption in Baldwin County involving the Sheriff''s
-      Office and the District Attorney''s office.
+      *   The company''s declared nature of business is to ACQUIRE/MANAGE/DEVELOP/LEASE/SELL/EXCHANGE
+      REAL PROPERTY.
 
-      *   The wrongful conviction of Murray “Bubba” Lawrence (2005) involved collusion
-      between Sheriff Hoss Mack, Prosecutor David Whetstone, and Judge Robert Wilters
-      to withhold vital information from the defense.
+      *   Kevin Boone and John Avent are explicitly listed as members of North Ridge,
+      LLC on official records from the Alabama Secretary of State’s office.
 
 
       THE PIVOT:
 
-      *   Article 2 details systemic corruption within Baldwin County law enforcement
-      and judiciary that results in wrongful convictions, which provides a context
-      for understanding potential financial or political connections related to entities
-      like North Ridge, LLC (Article 1).
+      *   The Widget Article alleges that Kevin Boone has a direct financial interest
+      in engineering firms whose services he votes on while serving on the Fairhope
+      City Council.
+
+      *   The Main Article provides the concrete corporate evidence by confirming
+      that North Ridge, LLC—a property development entity and business vehicle mentioned
+      implicitly in both reports—is officially co-owned by John Avent (of Preble-Rich/Dewberry)
+      and Kevin Boone.
+
+
+      KEY ENTITIES:
+
+      *   North Ridge, LLC (Baldwin County formation)
+
+      *   Kevin Boone (Councilman / Member of North Ridge, LLC)
+
+      *   John Avent (Member of North Ridge, LLC; Representative for Preble-Rish,
+      LLC)
+
+      *   Joseph Bullock (Co-member of North Ridge, LLC)
+
+      *   MARLIN MANAGEMENT LLC (Registered Agent for North Ridge, LLC)
+
+      *   HEADWATER HOLDINGS LLC and LAUREL LLC (Other members listed in Article 1)
+
+      *   Baldwin County (Place of Formation for the entity)'
+    generated_at: '2026-07-18T04:26:51.839172Z'
+  alabama-ethics-a-political-tool:
+    brief: 'THE CONFLICT
+
+      - Systemic ethical violations involving local political figures in Baldwin County,
+      specifically referencing Fairhope City Council members (e.g., Jack Burrell),
+      Airport Authority board members (Ray Hix), and State Senator Tripp Pittman between
+      2017 and present.
+
+      - Allegations include misuse of elected office for personal gain, securing municipal
+      contracts (Pittman), and corruption involving former Mayor Tim Kant.
+
+
+      THE DISCOVERY
+
+      - North Ridge, LLC was formed in Baldwin County on June 2, 2008.
+
+      - Key members/owners listed for the real property development company are: John
+      Avent, Joseph Bullock, and Kevin Boone.
+
+      - Council Member Kevin Boone is a publicly documented member of the private
+      real estate firm North Ridge, LLC (Baldwin County formation).
+
+
+      THE PIVOT
+
+      - The discovery connects public political office (Councilman Kevin Boone) to
+      significant private financial interests in regional property development via
+      his ownership stake in North Ridge, LLC.
+
+      - This links the backdrop of widespread ethical corruption and alleged malfeasance
+      detailed in Article 2 to specific, non-public business assets held by figures
+      tied to local politics described in Article 1.
+
+
+      KEY ENTITIES
+
+      - John Avent (Member, North Ridge, LLC)
+
+      - Joseph Bullock (Member, North Ridge, LLC)
+
+      - Kevin Boone (Council Member / Member, North Ridge, LLC)
+
+      - Fairhope City Council / Jack Burrell
+
+      - Ray Hix
+
+      - Tripp Pittman
+
+      - Tim Kant
+
+      - Baldwin County'
+    generated_at: '2026-07-18T04:26:51.839181Z'
+  alabama-ag:
+    brief: 'THE CONFLICT
+
+      *   The core conflict involves alleged systemic political and judicial corruption
+      within Baldwin County, Alabama.
+
+      *   Francis Paul Ripp of The Ripp Report alleges that Sheriff Hoss Mack, District
+      Attorney Robert Wilters (Judge), and retired prosecutor David Whetstone colluded
+      to withhold vital information (specifically the Coroner''s Report) from the
+      defense of Murray “Bubba” Lawrence.
+
+      *   Murray "Bubba" Lawrence was wrongfully convicted and incarcerated for over
+      18 years (6570 days).
+
+      *   Allegations also include cover-ups surrounding the murder of Brandon Hastings,
+      where police/prosecutors allegedly pushed a gun theory despite lacking ballistic
+      evidence or witnesses.
+
+
+      THE DISCOVERY
+
+      *   North Ridge, LLC is a Domestic Limited Liability Company established in
+      Baldwin County on June 2, 2008.
+
+      *   The entity''s ownership structure includes specific individuals: John Avent
+      (AVENT, JOHN G), Joseph Bullock (BULLOCK, JOSEPH P), and Kevin Boone (BOONE,
+      KEVIN).
+
+
+      THE PIVOT
+
+      *   Article 1 establishes the existence and membership of North Ridge, LLC within
+      Baldwin County. Article 2 details a pattern of political corruption alleging
+      misconduct by high-ranking Baldwin County officials (Sheriff Mack, DA Wilters)
+      regarding legal cases in that same county. The potential link is geographic
+      and jurisdictional proximity to the alleged malfeasance described in Article
+      2.
+
+
+      KEY ENTITIES
+
+      *   North Ridge, LLC (Entity ID: 420 - 935)
+
+      *   John Avent (Member of North Ridge, LLC)
+
+      *   Joseph Bullock (Member of North Ridge, LLC)
+
+      *   Kevin Boone (Member of North Ridge, LLC)
+
+      *   Hoss Mack (Baldwin County Sheriff)
+
+      *   Robert Wilters (Judge/District Attorney in Baldwin County)
+
+      *   David Whetstone (Retired District Attorney)
+
+      *   Francis Paul Ripp / The Ripp Report (Investigative entity)
+
+      *   Brandon Hastings (Murder Victim)
+
+      *   Murray “Bubba” Lawrence (Wrongfully Convicted Individual)'
+    generated_at: '2026-07-18T04:26:51.839187Z'
+  self-dealing-self-stealing:
+    brief: 'THE CONFLICT
+
+      *   North Ridge, LLC was formed on June 2, 2008, in Baldwin County, Alabama.
+
+      *   Key members listed for North Ridge include John Avent (AVENT, JOHN G), Joseph
+      Bullock (BULLOCK, JOSEPH P), and Kevin Boone (BOONE, KEVIN).
+
+      *   The Widget Article alleges corruption concerning the Alabama Ethics Commission,
+      specifically regarding self-dealing related to the Mabel Amos Trust.
+
+
+      THE DISCOVERY
+
+      *   Tom Albritton was noted as an Executive Director of the Alabama Ethics Commission
+      (2024-11-03/2024-03-13) and trustee of the Mabel Amos Scholarship Trust.
+
+      *   The Widget Article explicitly accuses Tom Albritton, Director of the Ethics
+      Commission, of "self-dealing" by providing his children with more scholarship
+      money than relatives of Mabel Amos.
+
+
+      THE PIVOT
+
+      *   Article 2 (Widget Article) establishes a context of political corruption
+      and allegations of self-stealing within state institutions overseen by officials
+      like Tom Albritton (Ethics Commission).
+
+      *   Article 1 (Main Article) identifies specific individuals (John Avent, Joseph
+      Bullock, Kevin Boone) as members of North Ridge, LLC.
+
+      *   The linkage requires identifying any direct connection or overlap between
+      these corporate entities/members and the corrupt practices alleged in Article
+      2 involving Ethics Commission oversight.
+
+
+      KEY ENTITIES
+
+      *   North Ridge, LLC (Entity ID Number: 420-935)
+
+      *   Marlin Management LLC (Registered Agent for North Ridge)
+
+      *   John Avent / AVENT, JOHN G (Member of North Ridge)
+
+      *   Joseph Bullock / BULLOCK, JOSEPH P (Member of North Ridge)
+
+      *   Kevin Boone / BOONE, KEVIN (Member and Councilman/Council Member)
+
+      *   Tom Albritton (Executive Director of Alabama Ethics Commission; Trustee
+      of Mabel Amos Trust)
+
+      *   Mabel Amos (Former Secretary of State; Founder of the Scholarship Trust)
+
+      *   Alabama Ethics Commission
+
+      *   Francis Paul Ripp (Author of The Ripp Report)'
+    generated_at: '2026-07-18T04:26:51.839192Z'
+  license-to-steal:
+    brief: 'THE CONFLICT:
+
+      *   Allegations surfaced regarding political corruption and ethical breaches
+      within the Alabama Ethics Commission.
+
+      *   Ethics Director Tom Allbritton faced scrutiny for holding a private charitable
+      trust that pays over $100,000 in college tuition.
+
+      *   Vice Chair John Plunk was accused of assisting in disguising campaign money
+      flowing to Republican consultants involved in Sheriff Mike Blakely''s corruption
+      trial (reported by Ashley Remkus on July 28, 2021).
+
+      *   A Columbia Mayor (Rhonda Freeman) case involving ethics violations was scheduled
+      before the Commission on August 4, 2021.
+
+
+      THE DISCOVERY:
+
+      *   North Ridge, LLC (Entity ID 420-935), a Baldwin County domestic limited
+      liability company formed on June 2, 2008, exists as an entity for acquiring/managing
+      real property.
+
+      *   Key members listed for North Ridge, LLC include John Avent, Joseph Bullock,
+      and Kevin Boone.
+
+
+      THE PIVOT:
+
+      *   The business records of specific local entities (North Ridge, LLC), detailing
+      the financial interests and membership of figures like John Avent and Joseph
+      Bullock, provide a tangible corporate footprint potentially linked to networks
+      under the ethical scrutiny leveled at Alabama government officials (e.g., Councilman
+      Kevin Boone).
 
 
       KEY ENTITIES:
 
       *   North Ridge, LLC
 
-      *   AVENT, JOHN G
-
-      *   BOONE, KEVIN
-
-      *   Tom Albrittion
-
-      *   Mabel Amos Trust
-
-      *   Sheriff Hoss Mack
-
-      *   David Whetstone
-
-      *   Judge Robert Wilters
-
-      *   Murray “Bubba” Lawrence
-
-      *   Willy Huntley (Defense attorney)'
-    generated_at: '2026-07-11T12:06:57.251017Z'
-  self-dealing-self-stealing:
-    brief: 'THE CONFLICT
-
-      *   North Ridge, LLC was formed on 6-2-2008 in Baldwin County, Alabama.
-
-      *   Members of North Ridge, LLC include AVENT, JOHN G and BOONE, KEVIN.
-
-
-      THE DISCOVERY
-
-      *   Mr. Tom Albritton, Director of the Alabama Ethics Commission, engaged in
-      self-dealing activities.
-
-      *   Specific allegation: Mr. Albritton''s children received more scholarship
-      money from a trust he oversees than relatives of Mabel Amos.
-
-
-      THE PIVOT
-
-      *   The ownership structure of North Ridge, LLC (including John Avent and Kevin
-      Boone) is linked to the broader context of political corruption and ethics violations
-      revealed by the allegations against Tom Albritton.
-
-
-      KEY ENTITIES
-
-      *   North Ridge, LLC (Entity ID 420-935)
+      *   Baldwin County
 
       *   John Avent
 
+      *   Joseph Bullock
+
       *   Kevin Boone
-
-      *   HEADWATER HOLDINGS LLC
-
-      *   LAUREL LLC
-
-      *   Tom Albritton (Director of the Alabama Ethics Commission)
-
-      *   Alabama Ethics Commission
-
-      *   Regions Bank
-
-      *   Mabel Amos'
-    generated_at: '2026-07-11T12:06:57.251024Z'
-  license-to-steal:
-    brief: 'THE CONFLICT
-
-      *   North Ridge, LLC was formed on 6-2-2008 in Baldwin County, Alabama.
-
-      *   Members of North Ridge, LLC include AVENT, JOHN G and BOONE, KEVIN.
-
-      *   The nature of business for North Ridge, LLC is ACQUIRE/MANAGE/DEVELOP/LEASE/SELL/EXCHANGE
-      REAL PROPERTY.
-
-
-      THE DISCOVERY
-
-      *   The Alabama Attorney General has publicly stated intent to prosecute white-collar
-      crime and political corruption.
-
-      *   The Ethics Commission Director, Tom Allbritton, is facing questions regarding
-      his oversight of a private charitable trust paying over $100,000 for his children''s
-      college tuition.
-
-      *   The Vice Chair of the Ethics Commission, John Plunk, is alleged to have
-      helped a sheriff disguise political money flowing to a Republican campaign consultant.
-
-
-      THE PIVOT
-
-      *   Article 2 establishes that the Alabama Ethics Commission and Attorney General''s
-      office lack the authority or willingness to investigate corruption ("license
-      to steal").
-
-      *   Article 1 identifies specific individuals (AVENT, JOHN G; BOONE, KEVIN)
-      operating a real estate development/management LLC, suggesting these entities
-      may be involved in the type of white-collar crime and political corruption the
-      Attorney General claims to target.
-
-
-      KEY ENTITIES
-
-      *   North Ridge, LLC (Entity ID 420 - 935)
-
-      *   AVENT, JOHN G (Member of North Ridge, LLC)
-
-      *   BOONE, KEVIN (Member of North Ridge, LLC)
-
-      *   HEADWATER HOLDINGS LLC (Member of North Ridge, LLC)
-
-      *   LAUREL LLC (Member of North Ridge, LLC)
 
       *   Tom Allbritton (Ethics Commission Director)
 
       *   John Plunk (Vice Chair of Ethics Commission)
 
-      *   Steve Marshall (Alabama Attorney General)'
-    generated_at: '2026-07-11T12:06:57.251029Z'
+      *   Steve Marshall (Attorney General)
+
+      *   Rhonda Freeman (Columbia Mayor)
+
+      *   Ashley Remkus
+
+      *   North Ridge, LLC Entity ID 420-935'
+    generated_at: '2026-07-18T04:26:51.839197Z'
   ALABAMA ETHICS COMMISSION HIDE THE LIST:
-    brief: 'THE CONFLICT
-
-      *   North Ridge, LLC was formed on 6-2-2008 in Baldwin County, Alabama.
-
-      *   Members of North Ridge, LLC include AVENT, JOHN G and BOONE, KEVIN.
-
-
-      THE DISCOVERY
-
-      *   The Mabel Amos Trust is alleged to have received over $3.2 million in scholarships
-      between 2013 and 2021 from trustees.
-
-      *   Tom Albritton served as the Executive Director of the Alabama Ethics Commission
-      and was a trustee of the Mabel Amos Trust.
-
-
-      THE PIVOT
-
-      *   The membership list of North Ridge, LLC (specifically AVENT, JOHN G and
-      BOONE, KEVIN) may be among the individuals who received $3.2 million in scholarship
-      funds through the Mabel Amos Trust.
-
-      *   Tom Albritton''s position as Ethics Director and Trustee provided him with
-      the authority to potentially shield those who received trust money from ethics
-      complaints.
-
-
-      KEY ENTITIES
-
-      *   North Ridge, LLC (Entity ID 420-935)
-
-      *   AVENT, JOHN G (Member of North Ridge, LLC)
-
-      *   BOONE, KEVIN (Member of North Ridge, LLC)
-
-      *   Mabel Amos Trust
-
-      *   Tom Albritton (Executive Director of the Ethics Commission and Trustee)
-
-      *   $3.2 Million (Scholarship funds)
-
-      *   Alabama Ethics Commission'
-    generated_at: '2026-07-11T12:06:57.251035Z'
+    brief: "1. THE CONFLICT\n    *   The Mabel Amos Scholarship Trust allocated over\
+      \ $3.2 million in scholarships between 2013 and 2021.\n    *   Tom Albritton\
+      \ held concurrent roles as a Trustee of the Mabel Amos Trust (e.g., January\
+      \ 29, 2024) and Executive Director of the Alabama Ethics Commission.\n    *\
+      \   The trust’s records are being scrutinized in civil litigation (*Lawrence\
+      \ v. State*) following demands for public disclosure of all scholarship recipients\
+      \ (\"The List\").\n    *   Albritton was alleged to routinely deny legitimate\
+      \ ethics complaints while serving as trustee.\n\n2. THE DISCOVERY\n    *   Main\
+      \ Article reveals North Ridge, LLC (Entity ID 420-935) is a domestic limited\
+      \ liability company formed on June 2, 2008, in Baldwin County, AL.\n    *  \
+      \ The business entity lists several key individuals as members: John G. Avent,\
+      \ Joseph P. Bullock, and Kevin Boone.\n\n3. THE PIVOT\n    *   Article 1 (Business\
+      \ Records) provides the concrete names of specific local figures—John G. Avent,\
+      \ Joseph P. Bullock, and Kevin Boone—who are associated with a Baldwin County\
+      \ LLC structure.\n    *   The Widget Article's central theme is that corruption\
+      \ exists among \"privileged politicians, lawyers, bankers\" who benefit from\
+      \ trusts (like Mabel Amos Trust) and operate near the Ethics Director (Albritton).\n\
+      \    *   Article 1 identifies the specific local individuals whose financial/business\
+      \ activities could connect to the broader network of privileged insiders targeted\
+      \ by the allegations in Article 2.\n\n4. KEY ENTITIES\n    *   **People:** Tom\
+      \ Albritton, John G. Avent, Joseph P. Bullock, Kevin Boone.\n    *   **Entities/Organizations:**\
+      \ North Ridge, LLC (ID 420-935), Mabel Amos Trust, Alabama Ethics Commission,\
+      \ HEADWATER HOLDINGS LLC.\n    *   **Locations:** Summerdale, AL; Baldwin County,\
+      \ AL."
+    generated_at: '2026-07-18T04:26:51.839202Z'
   alabama-attorney-general:
-    brief: 'THE CONFLICT
+    brief: 'THE CONFLICT:
 
-      *   North Ridge, LLC was formed on 6-2-2008 in Baldwin County, Alabama.
+      - North Ridge, LLC (formed 6/2/2008 in Baldwin County) has members including
+      John Avent, Joseph Bullock, and Kevin Boone.
 
-      *   Members of North Ridge, LLC include AVENT, JOHN G and BOONE, KEVIN.
+      - Tom Albritton, Executive Director of the Ethics Commission and trustee of
+      the Mabel Amos Scholarship Trust, was accused by The Ripp Report of self-dealing
+      regarding the trust’s growth due to oil discovery (2010).
 
-
-      THE DISCOVERY
-
-      *   Tom Albritton, the Alabama Executive Director of the Ethics Commission,
-      acted as a trustee of the Mabel Amos Scholarship Trust.
-
-      *   The trust fund increased from $500,000 to $4.1 million in 2011 following
-      oil discovery in 2010.
-
-      *   Trustees (including Albritton and Regions Bank) allegedly awarded themselves
-      funds ($135,000 for tuition; "a cool million" for inflated services).
-
-      *   $3.2 million of the trust was awarded between 2013 and 2021 to anonymous
-      recipients.
+      - Trustees, including Rick Clifton and Regions Bank, allegedly awarded themselves
+      or other parties funds from the trust between 2013 and 2021.
 
 
-      THE PIVOT
+      THE DISCOVERY:
 
-      *   Article 2 establishes a pattern of financial self-dealing and fraud involving
-      public trust funds by officials (Albritton) and financial institutions (Regions
-      Bank).
+      - Tom Albritton serves dual roles as Executive Director of the Alabama Ethics
+      Commission and a trustee of the Mabel Amos Scholarship Trust (current).
 
-      *   The existence of North Ridge, LLC members, including AVENT, JOHN G, links
-      the business structure directly to individuals implicated in complex financial
-      and ethics complaints detailed in Article 2.
+      - Deputy Alabama Attorney General Allen Dodd confirmed that his office was involved
+      in an adversarial investigation into the trust’s board members/trustees, nearing
+      settlement around November [date].
 
 
-      KEY ENTITIES
+      THE PIVOT:
 
-      *   North Ridge, LLC
+      - The articles address two separate legal matters: Article 1 details corporate
+      property holding structure for North Ridge, LLC; Article 2 details alleged financial
+      mismanagement and ethical violations within a private trust governed by public
+      officials (Tom Albritton).
 
-      *   AVENT, JOHN G
+      - No direct connection or overlapping entities were found between the membership
+      list of North Ridge, LLC and the individuals implicated in the Mabel Amos Trust
+      allegations.
 
-      *   BOONE, KEVIN
 
-      *   Mabel Amos Scholarship Trust
+      KEY ENTITIES:
 
-      *   Tom Albritton (Alabama Executive Director of the Ethics Commission)
+      - North Ridge, LLC (LLC)
 
-      *   Regions Bank
+      - John Avent (Member)
 
-      *   Allen Dodd (Deputy Alabama Attorney General)
+      - Joseph Bullock (Member)
 
-      *   Rick Clifton
+      - Kevin Boone (Member; Council Member/City Council Member)
 
-      *   Tommy Gallion
+      - Tom Albritton (Executive Director of Alabama Ethics Commission; Trustee)
 
-      *   Megan Carmack
+      - Rick Clifton (Trustee of Mabel Amos Scholarship Trust)
 
-      *   Tyra Lindsey'
-    generated_at: '2026-07-11T12:06:57.251041Z'
+      - Allen Dodd (Deputy Alabama Attorney General)
+
+      - Mabel Amos (Trustor, former Secretary of State)'
+    generated_at: '2026-07-18T04:26:51.839208Z'
   ethics-comedians:
     brief: 'THE CONFLICT:
 
-      *   North Ridge, LLC formed on 6-2-2008 in Baldwin County, Alabama.
+      - Ethics Commission dismissed a 10 month investigation into Burrell and Hix
+      for lack of probable cause regarding violations of the Alabama Ethics Act.
 
-      *   Members of North Ridge, LLC include AVENT, JOHN G and BOONE, KEVIN.
+      - The BP Boom scandal involved Senator Trip Pittman being appointed Governor''s
+      trustee of BP funds.
 
-      *   The Widget Article details an Ethics Commission dismissal of a 10-month
-      investigation regarding violations of the Alabama Ethics Act by Burrell and
-      Hix.
-
-      *   The Widget Article details the Ethics Commission dismissing findings in
-      the BP Boom scandal involving Senator Trip Pittman.
+      - Under this role, Pittman allegedly entrusted himself with $750,000 in municipal
+      contracts.
 
 
       THE DISCOVERY:
 
-      *   The Ethics Commission dismissed the investigation into Burrell and Hix,
-      stating there was "not probable cause to believe" they committed a violation
-      of the Alabama Ethics Act.
+      - North Ridge, LLC (formed 6-2-2008 in Baldwin County) is a domestic limited
+      liability company focused on real property acquisition and management.
 
-      *   The Ethics Commission similarly found no probable cause regarding the BP
-      Boom scandal involving Senator Trip Pittman''s role as trustee of BP funds and
-      management of $750,000 in municipal contracts.
+      - Kevin Boone and Joseph Bullock are listed as members of North Ridge, LLC.
+
+      - Kevin Boone has served multiple terms as Councilman/Council Member in Baldwin
+      County (e.g., 2021-11-04).
 
 
       THE PIVOT:
 
-      *   North Ridge, LLC is a business entity linked by members (AVENT, JOHN G;
-      BOONE, KEVIN) to the broader landscape of entities and individuals involved
-      in Alabama legal/political scrutiny.
+      - The business interests owned by individuals tied to public office (Kevin Boone,
+      Joseph Bullock) operate within the same local governmental sphere where high-profile
+      officials (Burrell, Pittman) faced ethical scrutiny and alleged dismissal of
+      investigations.
 
-      *   The discovery shows a pattern where the Ethics Commission dismissed violations
-      related to political figures (Pittman) and corporate conduct (Burrell/Hix),
-      establishing a precedent for ignoring serious ethical or legal issues.
+      - Article 2 details a pattern of ethics oversight failure regarding public funds
+      and misconduct; Article 1 reveals specific property investment structures owned
+      by individuals who hold local power in that jurisdiction.
 
 
       KEY ENTITIES:
 
-      *   North Ridge, LLC
+      - North Ridge, LLC
 
-      *   AVENT, JOHN G
+      - Baldwin County (Place of Formation)
 
-      *   BOONE, KEVIN
+      - Kevin Boone
 
-      *   Ethics Commission
+      - Joseph Bullock
 
-      *   Burrell
+      - Burrell
 
-      *   Hix
+      - Hix
 
-      *   Trip Pittman
+      - Trip Pittman
 
-      *   BP Boom scandal'
-    generated_at: '2026-07-11T12:06:57.251047Z'
+      - Ethics Commission'
+    generated_at: '2026-07-18T04:26:51.839213Z'
   writ-of-mandamus-update:
     brief: 'THE CONFLICT:
 
-      *   North Ridge, LLC formed on 6-2-2008.
+      * Francis Paul Ripp filed a Writ of Mandamus on October 18th regarding alleged
+      corruption involving Mr. Albritton, Executive Director of the Ethics Commission.
 
-      *   Members of North Ridge, LLC include AVENT, JOHN G. and BOONE, KEVIN.
-
-      *   Allegations are leveled against Mr. Albritton regarding his "self Dealing"
-      as a trustee of the Mabel Amos Memorial Fund.
+      * The allegations claim Mr. Albritton committed "self Dealing" while serving
+      as a trustee for the Mabel Amos Memorial Fund.
 
 
       THE DISCOVERY:
 
-      *   A Writ of Mandamus was filed by Francis Paul Ripp on October 18th.
+      * Ripple''s team is planning to file a civil case against Regions Bank that
+      will involve the trustees of the Mabel Amos Memorial Fund.
 
-      *   Judge Johnny Hardwick was selected by Chief Justice Tom Parker to preside
-      over ethics cases.
-
-      *   The civil case against Regions Bank and Mr. Albritton''s actions are pending.
+      * Attorney Harry Still and Francis Paul Ripp are managing this legal strategy,
+      which seeks to expose financial misconduct by Mr. Albritton and his associates
+      ("law partners and friends").
 
 
       THE PIVOT:
 
-      *   Article 2 provides the legal context (Writ of Mandamus, Ethics Commission
-      review) that connects the financial activities/entities from Article 1 to allegations
-      of corruption involving Mr. Albritton.
+      * The discovery proves the investigative focus has shifted from administrative
+      ethics complaints (The Ethics Commission) into direct civil litigation against
+      major institutions (Regions Bank), using private charitable trusts (Mabel Amos
+      Memorial Fund) as the center of evidence.
+
+      * While Article 1 documents North Ridge, LLC''s formation in Baldwin County,
+      AL (June 2008) and its ownership by individuals like John Avent and Kevin Boone,
+      it provides concrete evidence of established complex business structures that
+      may be intertwined with the broader financial misconduct Ripple is investigating
+      through his Writ of Mandamus.
 
 
       KEY ENTITIES:
 
-      *   North Ridge, LLC
+      * North Ridge, LLC (Business Entity, Formation Date: 6-2-2008)
 
-      *   AVENT, JOHN G.
+      * John Avent (Member of North Ridge, LLC)
 
-      *   BOONE, KEVIN
+      * Joseph Bullock (Member of North Ridge, LLC)
 
-      *   Judge Johnny Hardwick
+      * Kevin Boone (Member/Council Member)
 
-      *   Chief Justice Tom Parker
+      * Mabel Amos Memorial Fund (Trust involved in litigation)
 
-      *   Regions Bank
+      * Regions Bank (Target of civil case)
 
-      *   Mr. Albritton
+      * Mr. Albritton (Executive Director of the Ethics Commission; subject of allegations)
 
-      *   Ethics Commission
+      * Francis Paul Ripp (Lead Advocate/Author)
 
-      *   Mabel Amos Memorial Fund'
-    generated_at: '2026-07-11T12:06:57.251052Z'
+      * Harry Still (Attorney)
+
+      * Judge Johnny Hardwick (Montgomery Circuit Judge, recused from hearing Writ
+      of Mandamus)'
+    generated_at: '2026-07-18T04:26:51.839218Z'
   perfect-puzzle:
     brief: 'THE CONFLICT
 
-      North Ridge, LLC was formed on 6-2-2008 in Baldwin County, Alabama.
+      *   North Ridge, LLC (Domestic Limited Liability Company) was formed in Baldwin
+      County on June 6, 2008.
 
-      Members of North Ridge, LLC include AVENT, JOHN G and BOONE, KEVIN.
+      *   The entity''s business nature is defined as ACQUIRE/MANAGE/DEVELOP/LEASE/SELL/EXCHANGE
+      REAL PROPERTY.
+
+      *   Members of North Ridge, LLC include Council Member Kevin Boone, John Avent,
+      and Joseph Bullock.
 
 
       THE DISCOVERY
 
-      The state features corruption involving millions wasted payments to "retired"
-      administrators and attempts to use RSA payments for harassment settlements.
+      *   Tom Albritton (Executive Director of the Alabama Ethics Commission) serves
+      simultaneously as a trustee of the Mabel Amos Trust since at least January 2024.
 
-      The Director of the Alabama Ethics Commission is accused of having children''s
-      college tuition paid from a charitable trust he oversees.
+      *   Albritton’s children received payments for college tuition from this charitable
+      trust, which he oversees in his dual capacity.
 
-      $4.3 million was spent by the U of A Board of Trustees on a party house.
+      *   Article 2 details broader state-level corruption involving millions wasted
+      by RSA and $4.3 million spent on a party house by the University of Alabama
+      Board of Trustees.
 
 
       THE PIVOT
 
-      Article 2 exposes systemic corruption and unethical behavior within Alabama
-      agencies (Ethics Commission, media) that Article 1 merely establishes as entities
-      operating within the state structure.
+      *   The discovery of Albritton’s conflicts of interest (holding regulatory office
+      while profiting from an associated trust) demonstrates a systemic mechanism
+      of self-serving behavior and lack of accountability across state institutions.
+
+      *   This connects local political/business dealings involving figures like Kevin
+      Boone and North Ridge, LLC to the overarching framework of institutional corruption
+      revealed in Article 2, establishing that private entity operations often exist
+      within a backdrop of compromised state oversight.
 
 
       KEY ENTITIES
 
-      North Ridge, LLC
+      *   Tom Albritton (Executive Director, Alabama Ethics Commission)
 
-      AVENT, JOHN G
+      *   Kevin Boone (Council Member/City Council Member)
 
-      BOONE, KEVIN
+      *   John Avent (Member, North Ridge, LLC)
 
-      Alabama Ethics Commission
+      *   Joseph Bullock (Member, North Ridge, LLC; Chief of Police role noted in
+      timeline)
 
-      Tom Albritton
+      *   North Ridge, LLC
 
-      U of A Board of Trustees
+      *   Mabel Amos Trust
 
-      Judge Johnny Hardwick
+      *   Alabama Ethics Commission
 
-      Chief Justice Tom Parker'
-    generated_at: '2026-07-11T12:06:57.251058Z'
+      *   Baldwin County'
+    generated_at: '2026-07-18T04:26:51.839223Z'
