@@ -1,6 +1,7 @@
 ---
 title: "Primary Election Endorsements - Vote Out the Machine"
 date: 2014-05-24
+thumbnail: img/primary-election-endorsements-2014.png
 description: "Final endorsements before June 3rd primary: fight the Lynn Stacey machine and BP boom scandal cover-up"
 tags: ["archive", "historical", "elections", "endorsements", "bp-boom-scandal", "trip-pittman"]
 authors:
