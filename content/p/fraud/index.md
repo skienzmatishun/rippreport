@@ -1,7 +1,7 @@
 ---
 title: FRAUD
 date: 2016-07-15
-thumbnail: img/fraud.jpg
+thumbnail: img/fraud.png
 categories:
 - citycouncil
 tags:

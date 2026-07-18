@@ -1,7 +1,7 @@
 ---
 title: YOU'RE FIRED
 date: 2016-07-29
-thumbnail: img/you-re-fired.jpg
+thumbnail: img/you-re-fired.png
 categories:
 - alabama
 tags:
@@ -9,7 +9,7 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Donald Trump pointing while yelling Youre Fired! referencing potential ethics investigations
+alttags: Donald Trump pointing while yelling Youre Fired!
 related_articles:
 - slug: fire
   title: FIRE
