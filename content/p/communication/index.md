@@ -119,7 +119,7 @@ Now let’s cut to the chase, Ripp Report style, McDowell is a holdover from the
 
 McDowell and Capt Jack also get credit for the Federal lawsuit, that cost taxpayers, but not Capt. Jack, thousands of dollars. McDowell and the Captain could not settle a school yard brawl. They compounded the case until the City’s insurance Company took over to settle it. McDowell made an ass of himself and Jack was holding his hand.
 
-{{< socialpreview url="https://rippreport.com/police-report/" >}}
+{{< socialpreview url="https://rippreport.com/p/police-report/" >}}
 
 The City Attorney nor Capt. Jack ever explained the police report Mr Burrell had been hiding for years. Again the Council and City Attorney just ignored the issue. He is the CITY attorney and should have released a statement about the Captain’s police report, when it came to light.
 
@@ -127,7 +127,8 @@ The City Attorney nor Capt. Jack ever explained the police report Mr Burrell had
 
 The City Council did not want to listen to the Mayor about her concerns as to the Council selecting McDowell as City Attorney. However they said nothing when they lost the lawsuit. There was no accountability, Capt Jack and McDowell suddenly did not want to talk about it.
 
-{{< socialpreview url="https//rippreport.com/p/loser/" >}}
+{{< socialpreview url="https://rippreport.com/p/loser/" >}}
+
 
 Then we have the very suspicious connection between the City Attorney Jack Burrell and Ronan McSharry.
 
