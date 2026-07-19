@@ -42,14 +42,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 3
-- slug: the-good-the-bad-and-the-ugly
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 61.503907734338654
-  llm_score: 85
-  recency_score: 0.15137720678588268
-  length_score: 100
-  category_score: 0
-  rank: 4
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT
   score: 59.46236006858519
@@ -57,7 +49,7 @@ related_articles:
   recency_score: 6.370930462949982
   length_score: 100
   category_score: 0
-  rank: 5
+  rank: 4
 - slug: chasing-your-tail
   title: CHASING YOUR TAIL
   score: 55.57479201903727
@@ -65,7 +57,7 @@ related_articles:
   recency_score: 0.1298461285014998
   length_score: 100
   category_score: 0
-  rank: 6
+  rank: 5
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
   score: 51.20075485179055
@@ -73,7 +65,7 @@ related_articles:
   recency_score: 10.605095249586157
   length_score: 100
   category_score: 0
-  rank: 7
+  rank: 6
 - slug: fairhope-2020
   title: FAIRHOPE 2020
   score: 49.657247179989426
@@ -81,7 +73,7 @@ related_articles:
   recency_score: 0.18641846492857508
   length_score: 100
   category_score: 0
-  rank: 8
+  rank: 7
 - slug: in-the-dark
   title: IN THE DARK
   score: 49.64929236867705
@@ -89,7 +81,7 @@ related_articles:
   recency_score: 0.1327234885700072
   length_score: 100
   category_score: 0
-  rank: 9
+  rank: 8
 - slug: communication
   title: COMMUNICATION
   score: 46.68903156182521
@@ -97,7 +89,7 @@ related_articles:
   recency_score: 0.15096304232014315
   length_score: 100
   category_score: 0
-  rank: 10
+  rank: 9
 ---
 ## FAIRHOPE THE GOOD
 

@@ -75,30 +75,6 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-- slug: FAUXHOPE-TUNNEL
-  title: FAUXHOPE TUNNEL
-  score: 11.758061650444414
-  llm_score: 0
-  recency_score: 1.4274007278886993
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: the-good-the-bad-and-the-ugly-repost
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 0
-  llm_score: -25
-  recency_score: 0.15137720678588268
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 0
-  llm_score: -25
-  recency_score: 0.15137720678588268
-  length_score: 100
-  category_score: 0
-  rank: 10
 ---
 ## FAIRHOPE THE GOOD
 
