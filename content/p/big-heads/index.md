@@ -16,7 +16,7 @@ tags:
 - upchurch
 authors:
 - ripp-report
-alttags: Blue stick figure icon representing public discussion regarding land transfer for Tatumville Subdivision in Fairhope
+alttags: Blue stick figure icon with a big head
 related_articles:
 - slug: big-head-gully-and-the-fruit-nuts
   title: BIG HEAD GULLY AND THE FRUIT NUTS
@@ -113,7 +113,7 @@ For months this project keeps coming up with just a few well connected people pu
 
 So what’s it all about? A big head and plenty of Conflicts of interest:
 
-{{< socialpreview "https://rippreport.com/p/conflict-of-interest/" >}}
+{{< socialpreview url="https://rippreport.com/p/conflict-of-interest/" >}}
 
 Fairhope has 5 councilmen:
 
