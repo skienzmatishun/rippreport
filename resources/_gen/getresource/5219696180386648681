@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1ec6870196ea584-MIA
+Content-Type: application/json
+Date: Tue, 21 Jul 2026 18:53:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gT2Ou04nYpgk0lj5uXjcev7PKGVQ6DIyys0JrWhqSilNhUTZNUx177%2BXBFiQOccNaVRiGS5wKT4TAdsiAbyoDbrORAq394K8KCJ98d%2Fzu6vbKt5%2BjCjhpjJix05ecHfAp394FzTg8G4Ar1HfR%2F9gGvKStA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=173
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: db2d4f74c7decadc8a744970915298bb
+X-Etags-2: db2d4f74c7decadc8a744970915298bb
+
+{"error":"Upstream returned 404","url":"https://rippreport.com/re-gift-gift","title":"Preview unavailable","description":"Could not fetch preview data"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1ec6875efc9a584-MIA
+Content-Type: application/json
+Date: Tue, 21 Jul 2026 18:53:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=To8I2lGxDl2Q53huM%2BlFqLJQBnx%2FkLsi45qpzEbzT2CITRdhowrqfaz1N9UVFRqbZagZJGEdk9piqUQgeNhMBaHOeGH5uznS1EaD%2BqWJ7pBOlfCdw71fgz1AxUoH5GM0WQ3TBvBeP9k9tlni1PKjuOPkCg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=230
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: bd293ff7400f75deea9800f769b63fe1
+X-Etags-2: bd293ff7400f75deea9800f769b63fe1
+
+{"error":"Upstream returned 404","url":"https://rippreport.com/going-down-with-the-ship/","title":"Preview unavailable","description":"Could not fetch preview data"}

@@ -13,7 +13,7 @@ tags:
 - waterfront-project
 authors:
 - admin
-alttags: A cardboard box labeled Premium Redneck Repair Kit sits beside a can of WD-40 and a roll of duct tape on a white background
+alttags: A cardboard box labeled Premium Redneck Repair Kit sits beside a can of WD-40 and a roll of duct tape
 related_articles:
 - slug: got-fleas
   title: GOT FLEAS

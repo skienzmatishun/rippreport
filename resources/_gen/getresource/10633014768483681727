@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a1ec686e1f52a584-MIA
+Content-Type: application/json
+Date: Tue, 21 Jul 2026 18:53:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CqL8CpQi%2Bu%2FUq0kTN6KtG6cClvRF5PTTVxJ2YyIEL2OahzmttgIOhOjOQT9hFGzP%2Fjx5xTCZyXRDql0hjVJbR%2F3RYHXNyIW3zrpLluAq0qnZpxbQVNIQp4xyugItijtOsDB6G68rteM1qx5H6BqNE0lHHA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=143
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ff034f6e9b0a86a0ee1c3126bcf43712
+X-Etags-2: ff034f6e9b0a86a0ee1c3126bcf43712
+
+{"error":"Upstream returned 404","url":"https://rippreport.com/recuse-yourself/","title":"Preview unavailable","description":"Could not fetch preview data"}
