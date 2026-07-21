@@ -10,7 +10,7 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: Casino chips representing bids under review at Fairhope Airport, amid claims of legality and investigation calls
+alttags: Stacks of red, black, and blue poker chips arranged on a felt surface
 related_articles:
 - slug: investigating-the-investigators
   title: Investigating the Investigators

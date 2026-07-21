@@ -17,7 +17,7 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: Podium with microphone against a town backdrop, symbolizing scrutiny of Fairhope’s Planning & Zoning Board and Mayor Kant
+alttags: A wooden podium with an adjustable black microphone, set against a blurred background of town buildings and parked cars
 related_articles:
 - slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
   title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS

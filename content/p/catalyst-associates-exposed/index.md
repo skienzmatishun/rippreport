@@ -84,6 +84,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
+alttags: A spotlight illuminates a brick wall featuring a red prohibition sign overlaid with the word CATALYST in bold black letters
 ---
 **BACKSTORY**
 

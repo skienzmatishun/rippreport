@@ -92,6 +92,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A crumpled receipt on a wooden table lists Fairhope taxpayer costs, the Triangle Property Settlement and attorney fees, totaling $500 million requested ...
 ---
 **The Ripp Report**  
 **October 28, 2013**

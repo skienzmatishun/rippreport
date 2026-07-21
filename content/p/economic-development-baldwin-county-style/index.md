@@ -10,7 +10,7 @@ tags:
 - mega-site
 authors:
 - ripp-report
-alttags: Sign advertising the vacant South Alabama Mega Site, a 3000-acre industrial property purchased by Baldwin County in 2012
+alttags: A white sign on wooden posts displays a QR code, the text 3000-Acre Certified South Alabama MEGA SITE, contact information, and the Baldwin County seal
 related_articles:
 - slug: all-smoke-and-mirrors
   title: ALL SMOKE AND MIRRORS

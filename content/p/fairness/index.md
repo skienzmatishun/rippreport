@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Site plan rendering shows proposed Fly Creek Apartments complex, surrounded by trees, awaiting council approval for a mult...
+alttags: Conceptual site plan for the proposed Fly Creek Apartments showing building clusters, parking lots, roads, and green spaces across multiple development ...
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER

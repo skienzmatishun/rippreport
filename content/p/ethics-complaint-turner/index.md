@@ -93,6 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A white envelope on a wooden surface with handwritten black ink addressing Tom Albritton, Director of the Alabama Ethics Commission
 ---
 **Freaky Friday**  
 **Ripp Report Sept. 25, 2015**

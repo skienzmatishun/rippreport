@@ -10,7 +10,7 @@ tags:
 - planning-and-zoning
 authors:
 - ripp-report
-alttags: Gavel and legal documents represent a lawsuit filed against Fairhope Planning and Zoning over development decisions
+alttags: A wooden gavel rests on its circular sound block on a dark surface, with blurred stacks of papers in the background
 related_articles:
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS

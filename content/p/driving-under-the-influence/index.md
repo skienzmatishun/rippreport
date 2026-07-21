@@ -86,6 +86,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Alabama Secretary of State record for Baldwin Substance Abuse Services, Inc., a nonprofit providing court-referred substance abuse training
 ---
 FREAKY FRIDAY IN A FREAKY COUNTY  May 20 2016
 

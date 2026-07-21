@@ -14,7 +14,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: 'Unexpected political upset: A red exclamation point symbolizes shock and disruption within Fairhope politics'
+alttags: A large red exclamation mark centered on a white background
 related_articles:
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT

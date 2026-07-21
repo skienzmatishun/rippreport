@@ -92,6 +92,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Three icons show a blue scale of justice with a book and courthouse, a green tree on grass, and an orange open book with a graduation cap and upward arrow
 ---
 **Consumer Advocates Exposing Political Corruption**  
 **May 15, 2015**

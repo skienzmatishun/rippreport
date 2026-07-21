@@ -12,7 +12,7 @@ tags:
 - sessions
 authors:
 - ripp-report
-alttags: Political campaign button with red, white, and blue design and VOTE prominently displayed, related to upcoming midterms
+alttags: A circular button with red and blue bands containing five white stars each, divided by a white center displaying the word VOTE in bold black capital let...
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE

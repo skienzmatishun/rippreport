@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Alarm clock ringing, symbolizing Fairhope citizens urged to wake up regarding Airport Authority debt concerns
+alttags: A close-up of a red alarm clock with its bells raised and hands pointing at 12
 related_articles:
 - slug: hi-jack-ed
   title: Hi-JACK-ed

@@ -9,7 +9,7 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: Empty metal can symbolizing the closure of an investigation into the Airport scandal by authorities
+alttags: An empty metal food can standing upright on a white background with purple side panels
 related_articles:
 - slug: investigating-the-investigators
   title: Investigating the Investigators

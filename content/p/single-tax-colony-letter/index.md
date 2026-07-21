@@ -92,6 +92,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: 'An open brown paper envelope on a wooden table contains a letter with the typewritten heading: Dear City of Fairhope Single Tax Colony and members'
 ---
 Dear City of Fairhope Single Tax Colony and members:
 

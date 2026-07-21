@@ -8,7 +8,7 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: Statue of Justice holding scales against a dark background, representing concerns about Baldwin County Family Court practices
+alttags: A dark bronze statue of a blindfolded female figure holding a set of scales, with one side raised higher than the other
 related_articles:
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY

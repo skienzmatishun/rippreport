@@ -11,7 +11,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Golden pendulum suspended from a chain, symbolizing balance and potential shifts in local politics discussed in The Ripp R...
+alttags: A gold chain with a smooth, teardrop-shaped pendant hanging against a light lavender background
 related_articles:
 - slug: gob-coup
   title: GOB COUP

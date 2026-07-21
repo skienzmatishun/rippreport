@@ -8,7 +8,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Golden trophy on a pedestal, representing the 2017 Nappie Award winners featured in this article about Fairhope’s mayor
+alttags: A golden trophy with two handles and a dark base featuring a gold plaque, isolated on a black background
 related_articles:
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
   title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'

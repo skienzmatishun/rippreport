@@ -8,7 +8,7 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: Letter regarding alleged election fraud in Fairhope, Alabama, supported by a witness observation
+alttags: A white envelope with its flap open, revealing a second white envelope inside, centered against a deep red background
 related_articles:
 - slug: pay-off-and-election-fraud
   title: PAY OFF AND ELECTION FRAUD

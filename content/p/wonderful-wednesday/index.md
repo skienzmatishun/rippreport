@@ -12,7 +12,7 @@ tags:
 - sullivan
 authors:
 - ripp-report
-alttags: Vote button with red, white, and blue stripes and stars, referencing political discussion in the article
+alttags: A circular red, white, and blue button with five stars on the top and bottom bands and VOTE in bold black letters across the center
 related_articles:
 - slug: game-on
   title: GAME ON

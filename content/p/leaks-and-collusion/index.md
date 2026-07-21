@@ -11,7 +11,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Leaking faucet symbolizing confidential information leaks at Fairhope City Hall, as reported by Gulf Coast News
+alttags: A close-up of a black faucet with a single water droplet hanging from its tip against a blurred green background
 related_articles:
 - slug: pandoras-box
   title: PANDORA'S BOX

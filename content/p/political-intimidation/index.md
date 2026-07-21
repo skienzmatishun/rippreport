@@ -12,7 +12,7 @@ tags:
 - soccer-complex
 authors:
 - ripp-report
-alttags: Cartoon bald eagle sleeping on a branch, symbolizing alleged corruption and complacency in Fairhope elections
+alttags: A cartoon bald eagle perched on a branch with its beak open and tongue out, next to the text zzzzZz indicating it is snoring against a teal background
 related_articles:
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT

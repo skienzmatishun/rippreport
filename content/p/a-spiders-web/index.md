@@ -13,7 +13,7 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Complex web of interconnected LLCs, symbolizing hidden connections and obscured ownership within Baldwin County politics
+alttags: Black and white close-up of an intricate spider web covered in dew drops against a dark background
 related_articles:
 - slug: investigative-reporting-business-entity-records
   title: Investigative Reporting - Business Entity Records

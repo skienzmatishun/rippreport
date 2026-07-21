@@ -93,6 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Poster for Divorce Corp. showing a bride and groom walking toward a small white church in front of a tall skyscraper with the title
 ---
 **Oct 2 2015**
 

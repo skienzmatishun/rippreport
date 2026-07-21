@@ -92,6 +92,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A large question mark formed by multicolored fireworks exploding against a dark night sky
 ---
 Dear Fairhopians,
 

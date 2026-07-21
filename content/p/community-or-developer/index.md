@@ -11,7 +11,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Question mark icon representing ongoing debate over Fly Creek PUD sunset provision in Fairhope city council agenda
+alttags: A white question mark centered on a black square with rounded corners
 related_articles:
 - slug: fairness
   title: FAIRNESS

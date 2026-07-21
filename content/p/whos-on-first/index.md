@@ -9,7 +9,7 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: 'Vintage airport scene: two men in uniform and a bowler hat discuss ground lease agreements related to Fairhope Airport'
+alttags: Two men in vintage attire converse outdoors; the man on the left wears a military uniform while the man on the right, in a bowler hat and bow tie, point...
 related_articles:
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”

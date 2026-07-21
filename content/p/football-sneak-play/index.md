@@ -93,6 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A brown football with white stripes and black laces rests on a green background, featuring a large black dollar sign printed on its side
 ---
 **Oct. 23 15**  
 **the Ripp Report**

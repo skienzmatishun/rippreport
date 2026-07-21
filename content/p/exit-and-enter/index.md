@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Symbolic exit sign with arrow, representing a turning point for Fairhope as a new mayor takes office after years of leader...
+alttags: A glowing EXIT sign with a red and yellow gradient, large capital letters, and a right-pointing arrow on a black background
 related_articles:
 - slug: showing-your-true-colors
   title: SHOWING YOUR TRUE COLORS

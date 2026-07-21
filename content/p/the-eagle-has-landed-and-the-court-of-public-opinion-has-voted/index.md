@@ -8,7 +8,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Celebratory graphic announcing a victory, likely related to the Fairhope mayoral election discussed in the article
+alttags: Large white text reads WE WON!! on a dark red background with scattered speckles. Red, white, and blue diagonal beams with stars frame the bottom corners
 related_articles:
 - slug: game-on
   title: GAME ON

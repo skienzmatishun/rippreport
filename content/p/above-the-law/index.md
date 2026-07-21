@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Great blue heron perched atop a No Fishing sign, symbolizing unanswered legal complaints in Alabama
+alttags: A great blue heron with its beak open stands on a weathered no fishing sign in a grassy field
 related_articles:
 - slug: dear-congressman-bradley-byrne
   title: Dear Congressman Bradley Byrne

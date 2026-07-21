@@ -11,7 +11,7 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: Fairhope waterfront at sunset
+alttags: A long pier extends over water at sunset with a paved walkway and grass in the foreground. Silhouetted figures walk along the path near streetlights
 related_articles:
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS

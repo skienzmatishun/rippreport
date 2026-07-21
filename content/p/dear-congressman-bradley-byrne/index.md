@@ -9,7 +9,7 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: Baldwin County political commentary features a stylized eagle stamp referencing Legal Eagle nickname and investigative r...
+alttags: A black and white postage stamp illustration featuring a detailed line drawing of an eagles head facing left, with the bold text USA below
 related_articles:
 - slug: above-the-law
   title: ABOVE THE LAW

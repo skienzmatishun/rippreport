@@ -8,7 +8,7 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: Two monkeys grooming each other, symbolizing divisive behavior and uncivil discourse in the Senate race discussion
+alttags: Two monkeys sitting on a concrete ledge, with one grooming the others back against a background of hills and distant structures
 related_articles:
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR

@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Broken glass against a dark background, symbolizing former Mayor Kant’s lack of cooperation during the transition of power
+alttags: Black and white close-up of shattered glass with a large hole in the center and spiderweb cracks radiating outward
 related_articles:
 - slug: cut-the-head-off-the-snake
   title: CUT THE HEAD OFF THE SNAKE

@@ -93,6 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A BP Restore Act application document for Fairhopes Fly Creek Watershed Restoration Project, stained with oil
 ---
 Dear City Council and concerned citizens:
 

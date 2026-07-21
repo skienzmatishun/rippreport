@@ -7,7 +7,7 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: Suitcase filled with US currency, potentially representing financial interests influencing a land dispute case involving M...
+alttags: An open wooden briefcase containing neatly stacked, rubber-banded bundles of US dollar bills arranged in rows
 related_articles:
 - slug: observations-of-a-poll-watcher
   title: “Observations of a Poll Watcher”

@@ -9,7 +9,7 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: U.S. currency lies atop an American flag, symbolizing potential fraud and deceit related to legal disputes
+alttags: US dollar bills, including a visible hundred-dollar bill with the Federal Reserve seal and serial number, resting on a folded American flag
 related_articles:
 - slug: pay-off-and-election-fraud
   title: PAY OFF AND ELECTION FRAUD

@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Silenced emoji face symbolizes restricted public comment at Fairhope City Council meetings, limiting citizen participation
+alttags: A gray megaphone icon overlaid with a red X against a green gradient background
 related_articles:
 - slug: fairhope-town-hall-meeting
   title: Fairhope Town Hall Meeting

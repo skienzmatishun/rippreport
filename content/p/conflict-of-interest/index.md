@@ -15,7 +15,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Scales of justice icon representing conflict of interest allegations against Fairhope Councilman Kevin Boone
+alttags: A black silhouette of a balance scale featuring two pans and a central stand on a white background
 related_articles:
 - slug: boone-doggle
   title: BOONE-DOGGLE

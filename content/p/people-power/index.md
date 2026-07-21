@@ -8,7 +8,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: 'Fairhope City Council meeting: a symbol of cooperation and progress for the city’s future'
+alttags: A black silhouette of a clenched fist holding a microphone against a white background
 related_articles:
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE

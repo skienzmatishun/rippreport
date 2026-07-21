@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Vote counts matter as Baldwin County residents express concerns about local officials and court system
+alttags: Round button with red, white, and blue horizontal stripes featuring the centered text YOUR VOTE COUNTS? in contrasting colors
 related_articles:
 - slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
   title: As long as I count the Votes, what are you going to do about it?

@@ -9,7 +9,7 @@ tags:
 - john-avent
 authors:
 - ripp-report
-alttags: Table listing North Ridge, LLC agents and associated details from Alabama business records
+alttags: A list of LLC members with address fields marked as not provided, highlighting the names John G Avent and Kevin Boone in yellow
 related_articles:
 - slug: a-spiders-web
   title: A SPIDER’S WEB

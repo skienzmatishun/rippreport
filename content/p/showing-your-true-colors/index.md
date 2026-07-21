@@ -12,7 +12,7 @@ tags:
 - preble-rish
 authors:
 - ripp-report
-alttags: Magnifying glass over a red handprint, symbolizing scrutiny of Mayor Kant’s transition and announcements
+alttags: A gold-rimmed magnifying glass with a wooden handle is positioned over a red handprint on a white background
 related_articles:
 - slug: dont-throw-rocks-if-you-live-in-a-glass-house
   title: DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE

@@ -8,7 +8,7 @@ tags:
 - daphne
 authors:
 - ripp-report
-alttags: Intersection in Daphne, Alabama, near Johnson Road and Highway 98, showing recent apartment construction impacting develop...
+alttags: Blank image with no visible content
 related_articles:
 - slug: eagles-eye-catalyst-kant-corte
   title: EAGLES EYE - CATALYST-KANT-CORTE

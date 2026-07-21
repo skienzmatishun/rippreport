@@ -13,7 +13,7 @@ tags:
 - roundabout
 authors:
 - ripp-report
-alttags: New gas station under construction on a roundabout in Fairhope, Alabama; criticized for poor planning and safety concerns
+alttags: Construction of a gas station on a Fairhope roundabout, showing an unfinished building surrounded by orange dirt, with a nearby road and foreground shrubs
 related_articles:
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL

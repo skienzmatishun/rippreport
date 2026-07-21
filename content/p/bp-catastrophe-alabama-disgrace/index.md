@@ -11,7 +11,7 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: 'BP oil spill funds misused: A hand holds a bag marked with dollar signs, illustrating Alabama’s controversial spending cho...'
+alttags: A black and white graphic of a hand gripping a money bag with a dollar sign
 related_articles:
 - slug: covered-in-oil
   title: COVERED IN OIL

@@ -11,7 +11,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Fairhope City Council depicted as mimes, symbolically obstructing the mayor and supporting Burrell
+alttags: A person wearing a white mime face mask, black beret, and striped shirt holds two paintbrushes against a blue background
 related_articles:
 - slug: pandoras-box
   title: PANDORA'S BOX

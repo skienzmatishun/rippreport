@@ -92,6 +92,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A man in a light blue shirt and glasses holds up khaki pants in front of a clothing rack labeled BIG BOYS and grown ups
 ---
 **The Ripp Report/Baldwin County Legal Eagle**  
 **May 13 2016**

@@ -93,6 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Fairhope Municipal Complex sign on a brick pillar, listing the Civic Center and Court. University of South Alabama plaque below
 ---
 **Cofairhope**  
 **Fairhope City Council and Mayor**  

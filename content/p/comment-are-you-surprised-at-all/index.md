@@ -14,7 +14,7 @@ tags:
 - tucker-dorsey
 authors:
 - admin
-alttags: Question mark against a black background, hinting at upcoming changes in Fairhope decision-making processes
+alttags: A large white question mark centered on a solid black background
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE

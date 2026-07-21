@@ -8,7 +8,7 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: Eyeglasses resting on a document, symbolizing poll watcher observations and concerns about election integrity
+alttags: A pair of gold-framed eyeglasses resting on a book against a neutral background
 related_articles:
 - slug: observations-of-a-poll-watcher
   title: “Observations of a Poll Watcher”

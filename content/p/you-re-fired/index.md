@@ -9,7 +9,7 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Donald Trump pointing while yelling Youre Fired!
+alttags: Donald Trump points forward with his mouth open, shouting. Red text on his chest reads Youre Fired! against a blurred flag background
 related_articles:
 - slug: fire
   title: FIRE

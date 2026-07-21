@@ -12,7 +12,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: 'Fairhope’s growth presents a choice: support new leadership or face challenges due to rapid development'
+alttags: A white question mark centered on a black background
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE

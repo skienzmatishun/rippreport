@@ -1,13 +1,19 @@
 ---
-title: "A Freaky Friday in a Freaky Town"
+title: A Freaky Friday in a Freaky Town
 date: 2016-04-14
 thumbnail: img/freaky-friday-freaky-town.png
-description: "Updates on Family Court corruption, Boy Scouts mismanagement, and Fly Creek Apartments betrayal"
-tags: ["archive", "historical", "fly-creek", "city-council", "boy-scouts", "family-court"]
+description: Updates on Family Court corruption, Boy Scouts mismanagement, and Fly Creek Apartments betrayal
+tags:
+- archive
+- historical
+- fly-creek
+- city-council
+- boy-scouts
+- family-court
 authors:
 - admin
+alttags: A digitally rendered white pier extending over choppy ocean water beneath a surreal green and blue sky
 ---
-
 **The Ripp Report/Baldwin County Legal Eagle**  
 ***on face book**  
 **April 14, 2016**  

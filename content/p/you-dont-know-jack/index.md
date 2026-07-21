@@ -14,7 +14,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Cover art for You Dont Know Jack, illustrating a lack of transparency and hidden information within Fairhope city counc...
+alttags: A close-up of a bald mans face with the text YOU DONT KNOW JACK printed across his forehead against a blue and purple dotted background
 related_articles:
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT

@@ -15,7 +15,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A figure opens a box releasing shadowy figures representing negative consequences, symbolizing Fairhope’s legal troubles
+alttags: A black and white illustration shows a kneeling woman reaching toward an open ornate chest. Dark silhouetted figures emerge from the top
 related_articles:
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING

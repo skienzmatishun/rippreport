@@ -85,6 +85,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
+alttags: A gray ballot box with a black slot and a red rectangular marker sticking out, set against a white background
 ---
 **May 24, 2014 Ripp Report #15**
 

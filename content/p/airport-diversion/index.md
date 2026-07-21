@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Airplane flying across a blue sky, leaving contrails—symbolizing pilot Jack’s free flights and coverage for _The Courier_
+alttags: A commercial airplane flies diagonally across a clear blue sky, leaving four distinct white contrails behind it
 related_articles:
 - slug: stirring-the-pot
   title: STIRRING THE POT

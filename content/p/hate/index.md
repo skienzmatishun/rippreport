@@ -8,7 +8,7 @@ tags:
 - robert-brown
 authors:
 - ripp-report
-alttags: Jester’s hat illustration referencing “come fly with me” Burrell and an ethics investigation within city council conflict
+alttags: Four overlapping jester hats in red, green, blue, and yellow with gold pom-poms on a white background
 related_articles:
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING

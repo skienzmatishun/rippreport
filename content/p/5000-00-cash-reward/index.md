@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: '$5000 reward poster: Wanted information proving claims against Councilman Burrell are false, per The Ripp Report'
+alttags: Wanted poster with a distressed border displays WANTED and $5000. The center shows a sepia-toned photo of a person behind bars wearing an animal head co...
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE

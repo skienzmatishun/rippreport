@@ -10,7 +10,7 @@ tags:
 - fly-creek
 authors:
 - ripp-report
-alttags: Pile of tennis balls on a court, symbolizing courage and accountability expected from City Council members
+alttags: A collection of bright yellow-green tennis balls scattered on a dark red clay court surface with green boundary lines in the background
 related_articles:
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK

@@ -8,7 +8,7 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: Bald eagle head against a blurred American flag background, symbolizing scrutiny of Fairhope politics and local government
+alttags: A close-up of a bald eagle with a whistle hanging from its beak against a blurred American flag
 related_articles:
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION

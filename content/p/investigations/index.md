@@ -14,7 +14,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Man in a bee costume waving, referencing Fairhope City Council members allegedly meeting secretly after a council session
+alttags: A man in a black and yellow striped bee costume with antennae and wing backpack waves while stepping forward against a white background
 related_articles:
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING

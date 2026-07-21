@@ -8,7 +8,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Fairhope pier at sunset; a symbol of hope for a new city council era after past challenges
+alttags: A paved walkway and grass border a long pier extending into water during a bright sunset. Two distant figures walk near streetlights
 related_articles:
 - slug: victory
   title: VICTORY

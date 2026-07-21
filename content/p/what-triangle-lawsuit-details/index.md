@@ -93,6 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A triangular wooden frame against a green background contains a partially visible US dollar bill, with a beige fabric draped over its right side
 ---
 **March 28, 2014 THE Ripp Report #10**
 

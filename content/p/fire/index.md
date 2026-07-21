@@ -10,7 +10,7 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Burning match with smoke rising.
+alttags: A lit matchstick with a bright flame and curling smoke rising against a dark, blurred background
 related_articles:
 - slug: you-re-fired
   title: YOU'RE FIRED

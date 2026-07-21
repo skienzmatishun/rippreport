@@ -93,6 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Clear glass marbles, each enclosing a preserved dried flower or plant specimen, are arranged on a wooden surface
 ---
 **The Ripp Report #26**  
 **December 5 2014**

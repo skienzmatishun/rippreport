@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Composite portrait featuring men in suits and sunglasses, alongside an American flag, related to Alabama news coverage
+alttags: A man in a suit and sunglasses appears side-by-side as a color photograph with an American flag and Alabama seal, and a black-and-white graphic
 related_articles:
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”

@@ -11,7 +11,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Shovel in freshly dug earth, symbolizing Fairhope’s controversial development projects and costly grading issues
+alttags: A bright pink shovel is embedded in dark, loose soil. The rest of the black-and-white photograph shows disturbed earth
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER

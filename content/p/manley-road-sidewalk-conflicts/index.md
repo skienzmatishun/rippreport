@@ -93,6 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Close-up of a concrete sidewalk block with the embossed letters GOB
 ---
 **City of Fairhope, Mayor and Council**  
 **March 14, 2016**

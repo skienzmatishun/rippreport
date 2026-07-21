@@ -8,7 +8,7 @@ tags:
 - boone
 authors:
 - ripp-report
-alttags: Hands pushing over a line of dominoes, symbolizing the unfolding consequences of Councilman Boone’s undisclosed conflicts ...
+alttags: A hand reaches out to knock over a line of white dominoes set on a reflective black surface
 related_articles:
 - slug: follow-bouncing-ball
   title: FOLLOW THE BOUNCING BALL

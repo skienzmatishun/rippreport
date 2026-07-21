@@ -103,8 +103,6 @@ Fairhope pay attention: The last four years, Mayor Karin Wilson has been standin
 
 Those bullies are our own councilmen Burrell Boone and Brown who represent CATALYST/ Scott Boone Consulting, CSB.
 
-\[caption id="attachment\_6910" align="aligncenter" width="452"\][![](https://cdn.rippreport.com/wp-content/uploads/2020/08/wilson1.jpg)](https://www.al.com/opinion/2017/03/fairhope_mayor_battles_city_co.html) AL.com - JD Crowe\[/caption\]
-
 This group is run by the son of Councilman Boone, Scott, and financed by special interests. It has also been supported by so called media who wrote paid hit pieces, for the 3 B’s, spewing unfounded allegations meant to mislead the public.
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}

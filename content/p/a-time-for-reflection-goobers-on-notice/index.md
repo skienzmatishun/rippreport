@@ -8,7 +8,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Sunset reflected in a car side mirror, symbolizing reflection on the past year and looking forward to new beginnings
+alttags: A close-up of a vehicles side-view mirror reflecting an orange sunset and dark silhouetted hills
 related_articles:
 - slug: freaky-friday-merry-christmas
   title: FREAKY FRIDAY - MERRY CHRISTMAS

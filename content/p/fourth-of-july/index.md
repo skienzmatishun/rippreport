@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - ripp-report
-alttags: "Bald eagle taking flight near fireworks, symbolizing American independence and prompting questions about local governance"
+alttags: A bald eagle perches on a tree branch with wings slightly spread, facing a bright orange firework exploding in the dark night sky
 ---
 The Fourth of July is America's premier holiday. Reflect with friends and family on our country's great history and our unforgettable march toward independence as a nation.
 

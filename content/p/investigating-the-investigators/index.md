@@ -11,7 +11,7 @@ tags:
 - hix
 authors:
 - ripp-report
-alttags: 'Investigation into Fairhope Airport Authority: Attorney examines details amid Ripp Report complaint and ethics inquiry'
+alttags: Black silhouette of a detective figure wearing a bowler hat and holding a magnifying glass against a red background
 related_articles:
 - slug: nuff-said
   title: NUFF SAID

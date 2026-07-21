@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Festive Christmas tree decorated with shiny red ornaments, celebrating a merry holiday season
+alttags: Shiny red Christmas ornaments hang from green pine branches, with one sharply focused in the foreground and others softly blurred behind it
 related_articles:
 - slug: wonderful-wednesday-5
   title: WONDERFUL WEDNESDAY

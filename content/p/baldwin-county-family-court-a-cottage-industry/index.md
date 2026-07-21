@@ -8,7 +8,7 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: Family silhouettes holding hands, representing custody disputes and hardships within family court proceedings
+alttags: Silhouette of two adults and two children holding hands while walking forward against a white background with faint reflections
 related_articles:
 - slug: exposure
   title: EXPOSURE

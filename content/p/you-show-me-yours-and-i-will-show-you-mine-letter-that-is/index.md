@@ -10,7 +10,7 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: Ostrich burying its head in sand.
+alttags: A black and white line drawing of a plant with a curved stem, base leaves, and a central flower bud
 related_articles:
 - slug: demand-the-truth
   title: DEMAND THE TRUTH

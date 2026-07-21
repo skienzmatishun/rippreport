@@ -9,7 +9,7 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: Donkey peering over a fence, possibly symbolizing political absurdity and unexpected events discussed in the city council ...
+alttags: A close-up of a dark brown donkey chewing grass while leaning over a weathered wooden fence in a green pasture
 related_articles:
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK

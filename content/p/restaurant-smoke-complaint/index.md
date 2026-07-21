@@ -91,6 +91,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A sky filled with dense, smoky clouds illuminated by sunlight breaking through from behind
 ---
 **Consumer Advocates Exposing Political Corruption**  
 **April 20, 2015**

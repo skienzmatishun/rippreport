@@ -87,6 +87,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: 'Blue banner header displaying the text NEW SWEEP The Ripp Report 2015, along with the date Feb. 8, 2015 and issue number The Ripp Report #30'
 ---
 NEW SWEEP
 The Ripp Report 2015

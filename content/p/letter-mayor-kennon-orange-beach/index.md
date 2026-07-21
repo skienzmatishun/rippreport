@@ -85,6 +85,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
+alttags: An open envelope on a sandy beach holds a letter to Mayor Kennon of Orange Beach, Alabama. A wooden pen and city mug sit nearby
 ---
 **Sept. 4, 2015**
 

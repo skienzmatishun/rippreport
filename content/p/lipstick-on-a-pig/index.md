@@ -93,6 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A pink pig standing on gravel next to a wooden fence, featuring unusually dark red lips
 ---
 **FREAKY FRIDAY**  
 **Dec. 18 2015**  

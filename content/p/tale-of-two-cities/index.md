@@ -9,7 +9,7 @@ tags:
 - fly-creek
 authors:
 - ripp-report
-alttags: Daphne City Hall building, site of a planning meeting regarding zoning changes near Daphmont Subdivision
+alttags: Daphne City Hall is a yellow building with a red roof and water tower. Palm trees stand before the entrance sign reading Daphne City Hall
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER

@@ -11,7 +11,7 @@ tags:
 - sullivan
 authors:
 - ripp-report
-alttags: Cartoon figure sits slumped in a chair, questioning authority amid Fairhope City Council debate over mayoral hiring power
+alttags: A black-and-white line drawing of an anthropomorphic egg wearing a bow tie, sitting on a rectangular block with arms raised above five question marks
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE

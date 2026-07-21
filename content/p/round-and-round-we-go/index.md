@@ -8,7 +8,7 @@ tags:
 - roundabout
 authors:
 - ripp-report
-alttags: 'Roundabout traffic sign: Yellow triangle with black circular arrows indicating a modern intersection improving safety and ...'
+alttags: Roundabout traffic sign with a red border, yellow background, and black circular arrows
 related_articles:
 - slug: boycott-the-gas-station-on-the-new-roundabout
   title: 'BOYCOTT: The Gas Station on the New Roundabout'

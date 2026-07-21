@@ -85,6 +85,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
+alttags: A man wearing metallic Alabama sheriff armor with a red laser eye sits in an office
 ---
 **May 16, 2014 Ripp Report #14**
 

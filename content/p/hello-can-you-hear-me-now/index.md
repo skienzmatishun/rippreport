@@ -11,7 +11,7 @@ tags:
 - planning-and-zoning
 authors:
 - ripp-report
-alttags: Cartoon face expressing surprise or disbelief, referencing a politician losing reelection after ignoring constituents
+alttags: A cartoon illustration of a boy with brown hair and large eyes, his hand raised near his ear with fingers spread
 related_articles:
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED

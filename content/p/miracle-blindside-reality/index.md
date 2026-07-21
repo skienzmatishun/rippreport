@@ -93,6 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A hand holds a round container with a blue triangular label reading BLINDSIDE, set against a smoky background with a large white question mark
 ---
 **The Ripp Report**  
 **Dec. 11 2015**

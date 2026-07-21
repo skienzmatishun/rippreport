@@ -12,7 +12,7 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: Ethics complaints against Fairhope officials prompt investigation; sign points toward Right versus Wrong.
+alttags: A yellow sign displays black text and arrows. The top line reads RIGHT with a right arrow, while the bottom line reads WRONG with a left arrow
 related_articles:
 - slug: ethics-comedians
   title: ETHICS COMEDIANS

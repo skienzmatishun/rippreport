@@ -14,7 +14,7 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: Gulf Quest Maritime Museum depicted sinking in water, symbolizing financial struggles and unpaid utility bills
+alttags: The Gulf Quest Maritime museum, a ship-shaped building with glass windows, is tilted at a steep angle in the ocean against a sunset sky
 related_articles:
 - slug: catalyst-is-drowning
   title: CATALYST IS DROWNING

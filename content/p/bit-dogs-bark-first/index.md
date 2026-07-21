@@ -15,7 +15,7 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: Labrador Retriever dog grinning mischievously
+alttags: A light-colored dog with closed eyes and an open mouth wearing a collar sits in front of two packaged treats
 related_articles:
 - slug: fairhope-town-hall-meeting
   title: Fairhope Town Hall Meeting

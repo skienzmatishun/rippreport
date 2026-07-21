@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Signpost pointing Right and Wrong, symbolizing conflict of interest concerns within Fairhope City Council decisions
+alttags: Yellow road sign with black text. The top section reads RIGHT with a right-pointing arrow, while the bottom section reads WRONG with a left-pointing arrow
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE

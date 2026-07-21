@@ -16,7 +16,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Dismissed documents with a large red X symbolize rejection of complaints against Fairhope council members, as discussed in...
+alttags: A hand in a black suit sleeve holds a magnifying glass over a document with bar charts, overlaid by a large red X on a cyan background
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE

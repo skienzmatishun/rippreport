@@ -101,6 +101,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 11
+alttags: A dark asphalt surface with white grid lines is covered in thick reddish-brown substance forming a detailed map-like layout of streets and structures
 ---
 **Feb. 5 2016**
 

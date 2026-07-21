@@ -14,7 +14,7 @@ tags:
 - sewer
 authors:
 - ripp-report
-alttags: Fairhope City Council member in suit, standing near US flag and Alabama seal, amid concerns over council dynamics
+alttags: Smiling man in a suit and tie standing before an American flag and Alabama state seal emblem
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE

@@ -14,7 +14,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Warning sign representing concerns about city council decisions and potential falsehoods impacting Fairhope voters
+alttags: A red-bordered triangular warning sign with a white background and a black exclamation mark
 related_articles:
 - slug: recuse-yourself
   title: RECUSE YOURSELF

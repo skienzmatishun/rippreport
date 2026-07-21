@@ -12,7 +12,7 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Illustration of a fly against a black background, symbolizing Alabama’s stagnant political state
+alttags: An open amber jar of white ointment sits on a tiled countertop with several dead flies floating in the gel and clinging to the rim
 related_articles:
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR

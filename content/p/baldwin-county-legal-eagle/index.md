@@ -87,6 +87,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: Close-up of a bald eagles head beside the text Baldwin County Legal Eagle, identifying it as an advocacy group exposing political corruption
 ---
 Baldwin County Legal Eagle
 Consumer Advocates exposing Political Corruption, affiliate of the Ripp Report, a non-profit Association

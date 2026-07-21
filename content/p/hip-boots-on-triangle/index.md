@@ -92,6 +92,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: A pair of olive green knee-high rubber boots with yellow trim at the top, hanging against a dark background
 ---
 ## PUT YOUR HIP BOOTS ON!
 

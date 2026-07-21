@@ -6,7 +6,7 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: 'Alabama election button: red, white, and blue design with stars and VOTE text, related to special election replacing Jef...'
+alttags: A circular button with a red top, white center, and blue bottom, displaying the word VOTE in bold black letters and five white stars across each colored...
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE

@@ -11,7 +11,7 @@ tags:
 - preble-rish
 authors:
 - ripp-report
-alttags: 'Spotlight on corruption: A single white circle against black background represents uncovering hidden issues'
+alttags: A white circle centered on a black background
 related_articles:
 - slug: boone-doggle
   title: BOONE-DOGGLE

@@ -11,7 +11,7 @@ tags:
 - sullivan
 authors:
 - ripp-report
-alttags: A large fish swims before a school of smaller figures, symbolizing taxpayers being exploited by those in power
+alttags: A large, multicolored fish with sharp teeth and a wide-open mouth on the right. Smaller gray copies repeat diagonally on the left against a teal background
 related_articles:
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION

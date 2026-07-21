@@ -10,7 +10,7 @@ tags:
 - steve-russo
 authors:
 - ripp-report
-alttags: Movie poster for Green Acres, illustrating a lack of accountability in Baldwin County politics despite past convictions
+alttags: A blue-tinted graphic featuring a man in a suit, a woman with vintage hair, and two pigs against an orange sky. The text GREEN ACRES is displayed promin...
 related_articles:
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW

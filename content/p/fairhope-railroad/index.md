@@ -93,6 +93,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+alttags: US one and ten dollar bills covered in red mud lie on a muddy forest floor, with an out-of-focus wooded background
 ---
 **Freaky Friday Dec. 04, 2015**  
 **the Ripp Report Part 2**

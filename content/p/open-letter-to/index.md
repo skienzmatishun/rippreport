@@ -79,6 +79,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
+alttags: Blue banner displays
 ---
 I saw the Fox news team this morning at Parker Road and High ridge Road for what appeared to be a groundbreaking for the Fairhope Fire station. I know you are aware of the controversy surrounding the location. The location favors the land owner and not the city.
 

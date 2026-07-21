@@ -11,7 +11,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Mayor Kant and Jennifer Fidler appear in Southern California, reportedly missing a planning meeting for an America in Bloo...
+alttags: Two men in dark suits stand before a sign reading Welcome To FAIRHOPE, with large spiky plant leaves in the foreground
 related_articles:
 - slug: freaky-friday
   title: FREAKY FRIDAY

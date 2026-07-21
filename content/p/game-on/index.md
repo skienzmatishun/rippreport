@@ -11,7 +11,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Bald eagle head against an American flag background, symbolizing civic duty and encouraging voters to participate in upcom...
+alttags: A bald eagle holds a silver whistle in its beak against an American flag background
 related_articles:
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED

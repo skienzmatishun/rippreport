@@ -8,7 +8,7 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: A playing card floats above a magician’s hat, symbolizing misleading promises and empty development claims in Baldwin County
+alttags: A black top hat rests on a dark background as a white wand points toward a floating playing card
 related_articles:
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE

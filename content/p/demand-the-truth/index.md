@@ -10,7 +10,7 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: Vintage U.S. postage stamp featuring an eagle head, referencing government oversight and potential ethical concerns in con...
+alttags: A black-and-white line drawing of a postage stamp featuring an eagles head in profile and the text USA
 related_articles:
 - slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
   title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.

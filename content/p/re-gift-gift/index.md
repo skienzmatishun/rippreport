@@ -12,7 +12,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Gift box with red ribbon, symbolizing the deed of land donation discussed in Fairhope council meeting
+alttags: A white gift box tied with a red ribbon and bow against a dark blue background
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
