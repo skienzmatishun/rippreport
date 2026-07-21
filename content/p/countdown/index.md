@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: US Senate primary deadline approaching; clock illustration symbolizes time running out for candidates
+alttags: Analog clock face featuring black hour and minute hands, a red second hand, and black markers on a white background
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE
