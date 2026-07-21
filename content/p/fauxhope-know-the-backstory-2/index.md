@@ -94,7 +94,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Fairhope city council meeting in a flooded chamber with knee-deep water. A man in overalls stands near a laptop while officials sit behind a dais
+alttags: Fairhope city council meeting in a flooded chamber with knee-deep mud. A man in overalls stands near a laptop while officials sit
 ---
 
 [Originally published January 25th 2026](https://rippreport.com/p/fauxhope-know-the-backstory/)
