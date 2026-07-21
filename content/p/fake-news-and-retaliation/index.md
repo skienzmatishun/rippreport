@@ -13,7 +13,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Chucky doll portrait representing disruptive online comments unwelcome on The Ripp Report website
+alttags: Close-up of the Chucky doll with red hair, pale skin, and blue eyes, wearing a denim shirt and making a middle finger gesture
 related_articles:
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE

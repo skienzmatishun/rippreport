@@ -9,7 +9,7 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: Oil-covered hands symbolize failed Senate candidate Trip Pittman’s connection to a BP scandal and rejection by voters
+alttags: Two hands covered in thick black oil, palms facing upward against a rough surface
 related_articles:
 - slug: blood-in-the-water
   title: BLOOD IN THE WATER
