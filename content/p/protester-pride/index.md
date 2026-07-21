@@ -8,7 +8,7 @@ tags:
 - moore
 authors:
 - ripp-report
-alttags: Group of protesters holding signs, demonstrating against Roy Moore’s candidacy in Baldwin County, Alabama
+alttags: A black silhouette illustration of a group of people holding protest flags and signs against a white background
 related_articles:
 - slug: ayatollah-of-alabama
   title: “Ayatollah of Alabama”

@@ -10,7 +10,7 @@ tags:
 - chucky
 authors:
 - ripp-report
-alttags: A sow nurses piglets; a reference to Catalyst’s efforts to cultivate new political candidates in Baldwin County
+alttags: A sow nurses piglets
 related_articles:
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES

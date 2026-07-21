@@ -9,7 +9,7 @@ tags:
 - jeb-ball
 authors:
 - ripp-report
-alttags: Man in suit juggling red balls, symbolizing shifting political alliances and unexpected outcomes in the County Commissione...
+alttags: A smiling man in a brown suit and blue tie juggling five red balls against a gray background
 related_articles:
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY

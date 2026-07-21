@@ -11,7 +11,7 @@ tags:
 - sewer
 authors:
 - ripp-report
-alttags: Discolored water flows through a channel, illustrating concerns about sewer spills and sewage dumping into Mobile Bay
+alttags: A shallow creek with reddish-brown water flows through sandy banks lined with green grass, casting long tree shadows across the surface
 related_articles:
 - slug: can-you-smell-it
   title: CAN YOU SMELL IT?

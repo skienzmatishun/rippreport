@@ -13,7 +13,7 @@ tags:
 - turner
 authors:
 - ripp-report
-alttags: Pile of hats symbolizing lack of leadership rotation within Fairhope’s City Council
+alttags: A top-down view of various black, brown, beige, and gray wide-brimmed hats arranged on a white surface
 related_articles:
 - slug: broken-eggs
   title: BROKEN EGGS

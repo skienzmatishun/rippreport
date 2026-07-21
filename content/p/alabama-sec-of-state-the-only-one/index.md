@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: John Merrill; one of few who acted on election tampering complaints, amid ongoing judiciary inaction
+alttags: John Merrill, Alabama Secretary of State, smiling in a light blue button-up shirt against a black background
 related_articles:
 - slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
   title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald

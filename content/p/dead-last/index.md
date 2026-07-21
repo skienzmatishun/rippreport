@@ -8,7 +8,7 @@ tags:
 - mega-site
 authors:
 - ripp-report
-alttags: Sign advertising the South Alabama Mega Site, a 3000-acre certified industrial park in Baldwin County, subject of ongoing ...
+alttags: A white sign on wooden posts reads 3000-Acre Certified South Alabama MEGA SITE with a QR code, contact details, and the Baldwin County seal
 related_articles:
 - slug: cattle-gate-mega-site
   title: CATTLE GATE MEGA-SITE

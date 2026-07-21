@@ -8,7 +8,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Fairhope Mayor Wilson facing challenges; a symbolic representation of obstacles and political opposition
+alttags: A completely black image with no visible content, text, or graphical elements
 related_articles:
 - slug: opposition-obstruction
   title: OPPOSITION / OBSTRUCTION

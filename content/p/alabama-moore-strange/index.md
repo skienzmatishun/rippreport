@@ -8,7 +8,7 @@ tags:
 - moore
 authors:
 - ripp-report
-alttags: Three monkey figurines representing see no evil, hear no evil, and speak no evil, reflecting difficult political cho...
+alttags: Three small dark brown monkey figurines sit on a wooden surface, each with hands covering different facial features
 related_articles:
 - slug: ayatollah-of-alabama
   title: “Ayatollah of Alabama”

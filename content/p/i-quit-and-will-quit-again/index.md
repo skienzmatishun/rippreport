@@ -9,7 +9,7 @@ tags:
 - joe-davis
 authors:
 - ripp-report
-alttags: City council member Nix shown in news footage after resigning following a failed vote, related to an inaccurate report cor...
+alttags: Close-up of Daphne City Council member John Lake speaking outdoors during a news broadcast about his resignation after a failed vote
 related_articles:
 - slug: catalyst-is-drowning
   title: CATALYST IS DROWNING

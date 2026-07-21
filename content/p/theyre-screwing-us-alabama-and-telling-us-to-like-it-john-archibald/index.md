@@ -8,7 +8,7 @@ tags:
 - ethics-commission
 authors:
 - ripp-report
-alttags: 'Prohibited handshake with money: Symbolizing concerns over potential corruption and changes to Alabama ethics laws'
+alttags: A red prohibition sign over a handshake where one hand holds a green dollar bill featuring a dollar sign
 related_articles:
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL

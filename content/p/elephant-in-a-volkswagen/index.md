@@ -13,7 +13,7 @@ tags:
 - turner
 authors:
 - ripp-report
-alttags: An elephant’s head emerging from a yellow Volkswagen Beetle, symbolizing deceptive appearances and hidden agendas in Fairh...
+alttags: A yellow vintage Volkswagen Beetle with an elephants head and trunk sticking out of the drivers window against a white background
 related_articles:
 - slug: fairhope-special-meeting
   title: Fairhope Special Meeting

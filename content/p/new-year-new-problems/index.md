@@ -12,7 +12,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Festive fireworks behind Happy 2018, reflecting Fairhopes hope for change amid political conflict
+alttags: White text reading HAPPY above black text with a yellow outline reading 2018? set against a multicolored fireworks background
 related_articles:
 - slug: fauxhope-party-before-country-or-city
   title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY

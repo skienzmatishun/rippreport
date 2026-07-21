@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Scales balance one side showing a thumbs up, the other a thumbs down, representing Baldwin County’s upcoming election choices
+alttags: Black silhouette of a balance scale with a thumbs-up hand in the left pan and a thumbs-down hand in the right pan
 related_articles:
 - slug: repeat
   title: REPEAT

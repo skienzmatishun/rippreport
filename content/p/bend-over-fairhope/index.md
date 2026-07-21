@@ -15,7 +15,7 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: Vintage postcard depicting a figure head bowed in Fairhope, Alabama; symbolizing community disappointment over City Counci...
+alttags: A sepia photograph of a wooded path in Big Head Gully, Fairhope, Alabama, overlaid with a black-and-white line drawing of a person bending forward at th...
 related_articles:
 - slug: big-heads
   title: BIG HEADS

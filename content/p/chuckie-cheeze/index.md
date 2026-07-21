@@ -13,7 +13,7 @@ tags:
 - tatumville
 authors:
 - ripp-report
-alttags: Chucky doll portrait symbolizing poor journalism and political manipulation in Baldwin County media
+alttags: A close-up of the horror movie doll Chucky with red hair, blue eyes, and a stitched mouth, wearing blue overalls while making a middle finger gesture
 related_articles:
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW

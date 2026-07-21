@@ -10,7 +10,7 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Hand depositing a ballot into a voting box; Baldwin County commission election coverage
+alttags: A hand inserts a blank white ballot into the slot of a wooden voting box against a plain white background
 related_articles:
 - slug: qualification
   title: QUALIFICATION

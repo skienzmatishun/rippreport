@@ -8,7 +8,7 @@ tags:
 - moore
 authors:
 - ripp-report
-alttags: Prohibition symbol representing potential economic isolation and business avoidance due to controversial political views
+alttags: A gray circular icon with a broken diagonal line on a black background
 related_articles:
 - slug: ayatollah-of-alabama
   title: “Ayatollah of Alabama”

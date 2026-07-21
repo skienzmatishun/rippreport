@@ -9,7 +9,7 @@ tags:
 - chucky
 authors:
 - ripp-report
-alttags: Two figures cover their eyes and ears, symbolizing a refusal to listen regarding freedom of the press and public meetings
+alttags: Two faceless 3D figures in gray shirts stand side by side. The figure on the left covers its eyes, while the figure on the right covers its ears
 related_articles:
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE

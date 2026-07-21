@@ -12,7 +12,7 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: 'Chucky doll riding a bucking horse labeled #MeToo, symbolizing attempts to discredit Fairhopes mayor in an ongoing dispute'
+alttags: 'A cartoon illustration of the Chucky doll dragging a brown and white horse with #ME TOO written on its flank'
 related_articles:
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE

@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - ripp-report
-alttags: "Golden 2019 numerals sparkle against a dark background, symbolizing a hopeful new year for Baldwin County politics"
+alttags: A large burst of red fireworks radiates from the center, accompanied by smaller green and blue sparks below against a black background
 ---
 The Ripp Report and Baldwin County Legal Eagle wish you a Happy New Year
 

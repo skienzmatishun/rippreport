@@ -8,7 +8,7 @@ tags:
 - ethics-commission
 authors:
 - ripp-report
-alttags: Distressed American flag symbolizing corruption in US politics; low voter turnout enables it
+alttags: A distressed American flag featuring a blue field of gold stars and alternating red and cream stripes
 related_articles:
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION

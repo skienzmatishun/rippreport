@@ -11,7 +11,7 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: Arrow pointing towards a triangle shape, symbolizing controversy surrounding Fairhope’s Triangle Mega-Site development
+alttags: A black triangular outline with an arrow piercing through it diagonally from the bottom left to the top right
 related_articles:
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”

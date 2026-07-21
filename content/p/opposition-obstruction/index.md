@@ -8,7 +8,7 @@ tags:
 - burrell
 authors:
 - ripp-report
-alttags: Warning sign reading Obstruction, symbolizing resistance from Fairhope City Council against the mayors recommendations
+alttags: A red diamond-shaped road sign with a black border, displaying an upward-pointing arrow and the word OBSTRUCTION in bold letters
 related_articles:
 - slug: broken-eggs
   title: BROKEN EGGS

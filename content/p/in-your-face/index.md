@@ -11,7 +11,7 @@ tags:
 - robert-brown
 authors:
 - ripp-report
-alttags: Sign pointing Right and Wrong, illustrating concerns over accountability for city school funds versus airport funding
+alttags: Yellow sign divided horizontally. The top says RIGHT with a right arrow, and the bottom says WRONG with a left arrow
 related_articles:
 - slug: flying-high
   title: FLYING HIGH

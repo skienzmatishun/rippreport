@@ -8,7 +8,7 @@ tags:
 - sewer
 authors:
 - ripp-report
-alttags: Gas mask against a white background, symbolizing environmental pollution concerns ignored by authorities
+alttags: Vintage beige rubber gas mask with gold metal trim, black corrugated hose, and perforated filter cartridge against a plain white background
 related_articles:
 - slug: wetlands
   title: WETLANDS

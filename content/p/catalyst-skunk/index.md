@@ -11,7 +11,7 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Person in a skunk costume, referencing County Commissioner Tucker Dorsey’s nickname within the article
+alttags: A person wearing a black and white skunk costume with a hood, gloves, and tail stands against a plain white background
 related_articles:
 - slug: catalyst-birds-of-the-same-feather
   title: CATALYST  “BIRDS OF THE SAME FEATHER”

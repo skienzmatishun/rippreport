@@ -9,7 +9,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Gavel and legal documents representing a federal lawsuit filed by Francis Ripp against Jack Burrell
+alttags: A wooden gavel rests on its matching block on a desk, with blurred stacks of papers and a courtroom-style railing visible in the background
 related_articles:
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK

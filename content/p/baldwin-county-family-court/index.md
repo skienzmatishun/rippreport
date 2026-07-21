@@ -9,7 +9,7 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: Scales of justice silhouette representing Judge Thomason’s run for Court of Appeals amidst concerns about her performance
+alttags: Black silhouette of a balance scale with two hanging pans and a central vertical support
 related_articles:
 - slug: catalyst-queen-remember-family-court
   title: CATALYST QUEEN - REMEMBER FAMILY COURT

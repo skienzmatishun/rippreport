@@ -8,7 +8,7 @@ tags:
 - burrell
 authors:
 - ripp-report
-alttags: 'Satirical depiction: Jack Burrell’s face superimposed on a donkey, referencing concerns about his control over Fairhope ci...'
+alttags: A composite image showing a donkey standing in profile with Jack Burrells head superimposed over its neck against a white background
 related_articles:
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW

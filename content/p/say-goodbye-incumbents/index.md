@@ -15,7 +15,7 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Multiple hands overlapping, symbolizing numerous candidates vying for Baldwin County Commissioner seats amid controversy
+alttags: A light-skinned hand with multiple semi-transparent, overlapping copies radiating outward against a pale background
 related_articles:
 - slug: qualification
   title: QUALIFICATION

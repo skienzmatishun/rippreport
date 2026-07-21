@@ -9,7 +9,7 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: Close-up photo highlights ethics definition, referencing the Ethics Commission’s dismissal of an investigation
+alttags: Close-up of printed text displaying a dictionary definition for the word ethics, with visible fragments including ethics. noun and moral principles
 related_articles:
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION

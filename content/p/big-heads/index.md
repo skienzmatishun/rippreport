@@ -16,7 +16,7 @@ tags:
 - upchurch
 authors:
 - ripp-report
-alttags: Blue stick figure icon with a big head
+alttags: A blue stick figure with a large circular head, diagonal arms, and angled legs on a black background
 related_articles:
 - slug: big-head-gully-and-the-fruit-nuts
   title: BIG HEAD GULLY AND THE FRUIT NUTS

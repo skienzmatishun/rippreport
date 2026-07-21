@@ -10,7 +10,7 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: 'Unrelated illustration: A great white shark swims through a school of fish, contrasting low Alabama voter turnout'
+alttags: A large shark swims through clear blue water surrounded by a school of smaller fish
 related_articles:
 - slug: black-hole
   title: BLACK HOLE

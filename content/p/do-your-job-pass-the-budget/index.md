@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Exclamation point graphic representing a recent unexpected shoulder surgery and recovery challenges
+alttags: A bold black exclamation mark centered on a plain white background
 related_articles:
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK

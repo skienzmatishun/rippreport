@@ -8,7 +8,7 @@ tags:
 - moore
 authors:
 - ripp-report
-alttags: Alabama welcome sign reads Sweet Home Alabama, reflecting state politics needing a two-party system for accountability
+alttags: A green outdoor sign with white lettering reading Welcome to Sweet Home Alabama, marking the state of Alabama
 related_articles:
 - slug: corruption-is-legal-in-america
   title: CORRUPTION IS LEGAL IN AMERICA

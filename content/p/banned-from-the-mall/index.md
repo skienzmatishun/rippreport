@@ -6,7 +6,7 @@ categories:
 - alabama
 authors:
 - ripp-report
-alttags: Prohibited symbol representing Alabamas concerning political choices and disregard for ethical standards
+alttags: A gray circular icon featuring a diagonal black line and two black curved shapes inside the circle
 related_articles:
 - slug: ayatollah-of-alabama
   title: “Ayatollah of Alabama”

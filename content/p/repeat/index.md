@@ -8,7 +8,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Recurring cycle symbol representing repeating issues in Baldwin County politics, referencing the article’s “Freaky Friday”...
+alttags: A black circular icon featuring three curved arrows arranged in a clockwise loop
 related_articles:
 - slug: switching-hats
   title: SWITCHING HATS

@@ -15,7 +15,7 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: Labrador Retriever dog grinning mischievously, perhaps distracted like football fans unaware of Fairhope City Council news
+alttags: Labrador Retriever dog grinning mischievously
 related_articles:
 - slug: fairhope-town-hall-meeting
   title: Fairhope Town Hall Meeting

@@ -11,7 +11,7 @@ tags:
 - sullivan
 authors:
 - ripp-report
-alttags: Chucky doll composite featuring a Fairhope Mayor likeness, referencing an article about lawsuits and council decisions
+alttags: A close-up of the Chucky doll making a middle finger gesture, with a cutout of Boone Burrell in a black and yellow striped shirt superimposed on the left
 related_articles:
 - slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
   title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW

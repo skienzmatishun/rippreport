@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: Smoke billows from New York City skyscrapers after a disaster, reflecting the need for preparedness amid hurricane threats
+alttags: The World Trade Center towers in New York City with thick dark smoke plumes rising against a clear blue sky
 related_articles:
 - slug: shut-up
   title: SHUT UP

@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - admin
-alttags: Festive turkey illustration with radiating feathers and gobble gobble text, celebrating time spent with loved ones
+alttags: A brown cursive logo reading gobble gobble beneath an arch of stylized orange, yellow, and brown leaves with small red and yellow dots
 related_articles:
 - slug: happy-thanksgiving-3
   title: Happy Thanksgiving

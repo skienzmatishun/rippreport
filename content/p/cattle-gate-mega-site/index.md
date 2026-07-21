@@ -8,7 +8,7 @@ tags:
 - mega-site
 authors:
 - ripp-report
-alttags: Cow with open mouth, symbolizing lack of progress on Baldwin County Mega-site development
+alttags: Close-up of a brown and white cow with its mouth open, looking at the camera. Other cattle are visible in the green field background
 related_articles:
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE

@@ -6,7 +6,7 @@ categories:
 - holiday
 authors:
 - ripp-report
-alttags: "American flag draped in shadow, symbolizing respect for veterans potentially exploited by political agendas"
+alttags: Close-up of the American flag showing a focused blue field with white stars and blurred red and white stripes in the background
 ---
 The older I get the more important Veterans Day becomes. A couple of things really grate on me when it comes to veterans and politicians. First, I have watched politicians parade veterans in front of City council meetings and political rallies and forums solely for their own political benefit. Another thing is how at City Council meetings each meeting begins with a prayer and Pledge of Allegiance. In the same meeting you may witness an all male council bully and berate a female Mayor or to deny Free Speech to citizens of their community.
 

@@ -10,7 +10,7 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: 'No Catalyst symbol: Red circle with a diagonal line through it over the word CATALYST, referencing Facebooks action aga...'
+alttags: Black text reading Catalyst is overlaid with a red circle and diagonal line on a white background
 related_articles:
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE

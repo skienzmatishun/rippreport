@@ -6,7 +6,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: A gold sheriffs star badge reading Sheriffs Office Baldwin County, featuring a central circular inset with a close-up photograph of a human brain
+alttags: A gold sheriffs star badge reading Sheriffs Office Baldwin County, featuring a central circular inset with a rotten apple.
 related_articles:
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION

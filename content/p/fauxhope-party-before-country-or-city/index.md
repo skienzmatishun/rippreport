@@ -11,7 +11,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: American flag waving over a fountain in Fairhope, Alabama, reflecting local voting patterns discussed in the article
+alttags: A sunny park scene in Fairhope, Alabama with a central fountain and green lawn. A large American flag waves on a pole near streetlights
 related_articles:
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL

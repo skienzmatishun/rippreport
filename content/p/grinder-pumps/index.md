@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Grinder pump installed in a yard; often used by developers despite potential replacement costs and power needs for homeowners
+alttags: A damaged grinder pump with a cracked casing and mud-covered impellers sits in shallow water near vegetation
 related_articles:
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY

@@ -8,7 +8,7 @@ tags:
 - moore
 authors:
 - ripp-report
-alttags: Artistic rendering of a black hole surrounded by swirling matter, symbolizing divisive forces in Alabama politics
+alttags: A digital rendering of a black hole featuring a glowing accretion disk and an upward jet against a dark, star-filled space background
 related_articles:
 - slug: protester-pride
   title: PROTESTER PRIDE

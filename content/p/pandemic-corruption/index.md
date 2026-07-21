@@ -8,7 +8,7 @@ tags:
 - ethics-commission
 authors:
 - ripp-report
-alttags: Road sign pointing towards Corruption, illustrating the article’s claim about widespread corruption in Alabama leadership
+alttags: A white directional road sign with a black border points left, displaying the word Corruption in bold letters against a blurred blue sky
 related_articles:
 - slug: corruption-is-legal-in-america
   title: CORRUPTION IS LEGAL IN AMERICA

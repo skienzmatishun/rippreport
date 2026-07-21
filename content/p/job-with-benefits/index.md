@@ -11,7 +11,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Handshake between two figures in suits, symbolizing Ripp Report’s new ability to support political candidates
+alttags: Two black silhouetted hands shaking in a handshake, wearing suit sleeves with white cuffs and visible buttons
 related_articles:
 - slug: hi-jack-ed
   title: Hi-JACK-ed

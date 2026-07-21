@@ -8,7 +8,7 @@ tags:
 - catalyst
 authors:
 - ripp-report
-alttags: Ballot box graphic representing upcoming Baldwin County mid-term elections and candidate qualifications
+alttags: A gray ballot box with a black slot and a red flag on top, set against a black background
 related_articles:
 - slug: mid-term-elections-vote-incumbents-out
   title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT

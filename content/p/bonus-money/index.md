@@ -10,7 +10,7 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: Hand receiving a bag labeled with a dollar sign, symbolizing alleged corruption at Fairhope Airport discussed in this article
+alttags: A black silhouette of a hand gripping a money bag, featuring a white dollar sign centered on the bag
 related_articles:
 - slug: airport-diversion
   title: AIRPORT DIVERSION

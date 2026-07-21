@@ -14,7 +14,7 @@ tags:
 - zunk
 authors:
 - ripp-report
-alttags: Broken eggshells and yolk illustrate Fairhope City Council’s dysfunction and lack of progress
+alttags: Three cracked eggshells sit on a dark surface, with the center shell containing a broken yolk and spilled yellow liquid
 related_articles:
 - slug: switching-hats
   title: SWITCHING HATS

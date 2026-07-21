@@ -12,7 +12,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Two arrows pointing right, symbolizing Fairhope’s acquisition of valuable land after years of legal battles and settlement...
+alttags: A black outlined triangle with two crossed arrows passing through it, each featuring pointed tips and green and orange fletching
 related_articles:
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE

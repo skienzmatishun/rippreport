@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Fairhope City Council settles lawsuits with former employees; gavel and legal documents symbolize the costly outcome
+alttags: A wooden gavel rests on its sound block on a dark table, with blurred stacks of white papers in the background
 related_articles:
 - slug: see-ya-in-court-jack
   title: SEE YA IN COURT JACK

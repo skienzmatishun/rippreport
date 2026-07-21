@@ -16,7 +16,7 @@ tags:
 - william-scully
 authors:
 - ripp-report
-alttags: Orange puppet bird with crossed-out Catalyst label, symbolizing the political group described in this article
+alttags: Close-up of an orange plastic bird figurine with a long beak, large eyes, and feather tuft. A red prohibition symbol appears in the upper right corner
 related_articles:
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
