@@ -6,7 +6,7 @@ categories:
 - events
 authors:
 - ripp-report
-alttags: Hurricane over Texas and Louisiana, showing storm clouds impacting coastal areas after devastating floods
+alttags: Satellite view of Hurricane Harvey over Texas and Louisiana, displaying the storms eye and extensive cloud formation
 related_articles:
 - slug: backstory-podcast-no-93-delta-hits-baldwin-county
   title: Delta hits Baldwin County

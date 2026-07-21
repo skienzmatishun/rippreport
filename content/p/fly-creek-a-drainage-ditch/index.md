@@ -69,6 +69,7 @@ related_articles:
   llm_score: 70
   recency_score: 22.466369475216847
   rank: 10
+alttags: 'Muddy water flows under a concrete culvert in Fly Creek east of Hwy 98, with grassy banks. Caption: Dec. 27, 2014'
 ---
 The Fly Creek Apartments was the subject of a six day trial in Bay Minette. I spent 6 days observing the trial, listening to evidence and legal arguments. It went to trial because our city council let us down and ignored their campaign promises. Mr Adam Milam, the plaintiff's attorney, Friends of Fly Creek, put it best:
 

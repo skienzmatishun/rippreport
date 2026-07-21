@@ -8,7 +8,7 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: 'Divorce dispute: A man and woman pull on a rope atop stacks of money, illustrating financial battles in divorce cases'
+alttags: A man in a gray suit and a woman in a black skirt stand on stacks of coins, pulling opposite ends of a rope against a background of scattered dollar bills
 related_articles:
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT

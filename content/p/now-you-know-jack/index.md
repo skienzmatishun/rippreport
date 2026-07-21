@@ -10,7 +10,7 @@ tags:
 - ethics-complaint
 authors:
 - ripp-report
-alttags: Jack Burrell posing in a cardboard box labeled “Jack in the Box” next to a private jet, referencing controversy within Fai...
+alttags: Jack Burrell waves in front of a white Legacy 65 jet wearing a yellow and blue costume with red gloves, holding a sign that reads JACK IN THE BOX
 related_articles:
 - slug: see-ya-in-court-jack
   title: SEE YA IN COURT JACK

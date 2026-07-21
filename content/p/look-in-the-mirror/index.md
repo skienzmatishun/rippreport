@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Illustration of an ornate hand mirror, symbolizing scrutiny of Alabama senate primary candidates and questionable politica...
+alttags: A black ink line drawing of an ornate vintage hand mirror with a detailed frame and decorative handle
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE
