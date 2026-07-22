@@ -5,6 +5,9 @@ thumbnail: img/they-dont-want-you-to-see-this.png
 youtube: wq7Hddq7sn4
 categories:
 - elections
+tags:
+- Jerry Carl
+- Austin Sidwell
 authors:
 - admin
 ---
