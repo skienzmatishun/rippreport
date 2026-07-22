@@ -2,6 +2,7 @@
 title: KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 2
 date: 2026-05-14
 thumbnail: img/kristy-hagood-is-not-qualified-2.png
+summary: The Ripp Report is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with: Alabama Exposure and Accountability LLC. Ripp Report operates as an independent, not for profit consumer organization. No political group, candidate for office or outside source has contributed to this post. We are NOT attorneys and do not give legal counsel. We are ADVOCATES for justice.
 categories:
 - elections
 tags:

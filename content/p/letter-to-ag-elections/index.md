@@ -2,6 +2,7 @@
 title: TO THE SECRETARY OF STATE AND THE DIRECTOR OF ELECTIONS
 date: 2026-05-17
 thumbnail: img/letter-to-ag-elections.png
+summary: The primary election cycle in Baldwin County has had more public participation than in any election in 20 years plus. The most attention has been on the Sheriff’s race. The Ripp Report has been in contact with the Sec of State in reference to suspected and strongly alleged reports of elections being fixed involving numerous races in Baldwin County, in the past.
 categories:
 - elections
 tags:
