@@ -104,7 +104,7 @@ alttags: Fairhope city council meeting in a flooded chamber with knee-deep mud. 
 
 THIS IS THE BACKSTORY TO GENERIC REPORTING:
 
-The culvert issue was first addressed by the Ripp Report and lawsuits filed against the city over the Publix project on Parker Road. The culverts, sewer lines, wetlands issues, drainage, proximity to Fly Creek ,county right a ways, city easements, tree survey missing, were just a few issues---Fauxhope did nothing—then allowed the apartments-- same issues same no action—Now they are expanding building again behind apartments, the developer is given a green flag.
+The culvert issue was first addressed by the Ripp Report and lawsuits filed against the city over the Publix project on Parker Road. The culverts, sewer lines, wetlands issues, drainage, proximity to Fly Creek, county right a ways, city easements, tree survey missing, were just a few issues---Fauxhope did nothing—then allowed the apartments-- same issues same no action—Now they are expanding building again behind apartments, the developer is given a green flag.
 
 {{< socialpreview url="https://thefairhopetimes.blogspot.com/2026/01/funding-sought-again-for-new-fly-creek.html" >}}
 
