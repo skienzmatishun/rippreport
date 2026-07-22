@@ -25,3 +25,4 @@ Please vote toll bridge Jerry Carl OUT. He turned his back on Baldwin County.
 *Let’s take it back.*
 
 {{< youtubecomments >}}
+{{< aicomments >}}
