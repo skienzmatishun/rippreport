@@ -2,6 +2,7 @@
 title: SOME THINGS NEVER CHANGE
 date: 2026-04-11
 thumbnail: img/some-things-never-change.png
+summary: Baldwin County is full of laughs lately. Politics can cause mental damage and in Baldwin County we need an insane asylum for a few of them.
 categories:
 - repost
 tags:
