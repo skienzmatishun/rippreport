@@ -91,7 +91,7 @@ alttags: A white clown mask with rainbow curly hair and colorful makeup is cente
 summary: Corrupt deputies and political operatives created a fake news outlet to spread
   propaganda and shield dirty cops from public oversight. Financial trails expose
   how top officials used secret propaganda funds while burying evidence of deadly
-  shootings and illicit affairs. Unmask these political clowns to uncover who really
+  shootings and illicit affairs. We unmask these political clowns to uncover who really
   funds the dirty propaganda machine protecting corrupt leadership.
 ---
 Only in Baldwin County would political operatives produce a newsletter **Baldwin Beat** aka BB. Baldwin Bullshit. It is reported to be published in a pasture for Bulls that have diarrhea and a GOB brand.

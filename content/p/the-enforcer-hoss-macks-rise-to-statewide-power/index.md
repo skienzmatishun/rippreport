@@ -7,7 +7,7 @@ thumbnail: img/the-enforcer-hoss-macks-rise-to-statewide-power.jpg
 summary: Hoss Mack leveraged a fortress of local corruption in Baldwin County to grab
   unearned statewide power and hide law enforcement abuses. Court records show how
   top officials altered election laws to eliminate rivals and permanently hide police
-  body camera footage. Unmask the shadow government operating behind a veil of secrecy
+  body camera footage. We unmask the shadow government operating behind a veil of secrecy
   to control your local news.
 authors:
 - admin
