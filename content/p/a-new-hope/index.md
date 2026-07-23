@@ -106,7 +106,7 @@ alttags: A political collage with a Heart of Dixie banner, Harry Still not guilt
   headline, Danielle Duggar portrait, a couple photo, and Poodle Puncher wanted p...
 summary: Local officials in Bay Minette cooked up fake assault charges against a political
   opponent to protect their own corrupt cartel. Leaked audio recordings prove top
-  city leadership lied about who actually started the fight. Follow the explosive
+  city leadership lied about who actually started the fight. We follow the explosive
   trail of deceit to see how a hard-fought 'Not Guilty' verdict shattered their political
   machine.
 ---

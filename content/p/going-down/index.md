@@ -104,7 +104,7 @@ The Corridor of Chaos, 181/Fairhope at Wal- Mart will develop into a density and
 
 This week, between 104 and Parker Road, during rush hours, the traffic has been two lanes full between lights. This intersection, Publix, will be impacted by hundreds of more cars as the apartments are completed. If the developer gets his way Rock Creek will be a connectivity route from Parker or the apartments making Rock Creek a short cut, this will impact the Parker/98 intersection further.
 
-To add insult to injury the three B’s are spending 2.65 million on recreation land which will remain vacant for years, ignoring capital improvements. Follow the money
+To add insult to injury the three B’s are spending 2.65 million on recreation land which will remain vacant for years, ignoring capital improvements. We follow the money
 
 {{< socialpreview url="https://rippreport.com/p/quid-quo-pro/" >}}
 Please follow us on Backstory Podcast where Baldwin County issues are discussed and political corruption is exposed. Tomorrow podcast #7 around noon.

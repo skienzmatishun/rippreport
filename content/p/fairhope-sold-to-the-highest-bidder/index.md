@@ -114,7 +114,7 @@ Read the complete budget:
 
 Pay particular attention to the chart below.
 
-Fairhope is being sold out to developers and those with the good ole boy connections. Follow the money. The Catalyst Council refuses to pay for a city administrator position for only one reason, to spite the Mayor, however their spite is costing us all.
+Fairhope is being sold out to developers and those with the good ole boy connections. We follow the money. The Catalyst Council refuses to pay for a city administrator position for only one reason, to spite the Mayor, however their spite is costing us all.
 
 {{< socialpreview url="https://rippreport.com/p/quid-quo-pro/" >}}
 

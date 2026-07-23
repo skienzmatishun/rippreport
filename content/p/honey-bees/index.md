@@ -115,4 +115,4 @@ Tonight the three B’s are going to vote to approve the closing costs, around 9
 
 {{< socialpreview url="https://rippreport.com/p/quid-quo-pro/" >}}
 
-Tonight the b’s are going to sting Fairhope and they do not give a damn what you think or your constitutional right to free speech. They want the honey. Follow the money.
+Tonight the b’s are going to sting Fairhope and they do not give a damn what you think or your constitutional right to free speech. They want the honey. We follow the money.
