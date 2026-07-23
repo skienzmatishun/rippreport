@@ -92,7 +92,7 @@ related_articles:
   rank: 10
 summary: Systemic judicial failure enabled violent crime and illegal property seizures
   while state leaders ignored accountability. Police files expose illegal vehicle
-  grabs, suppressed misconduct cases, and backroom political payouts. Examine the
+  grabs, suppressed misconduct cases, and backroom political payouts. We examine the
   facts behind The Slap and learn how local leaders deliver zero justice to the public.
 ---
 From the Oscars in LA to the Streets of Mobile, Alabama to beaches of Panama City and Miami, violence is on the rise. All the while Alabama Republicans all seem to be running against Joe Biden. The US House of Representatives passed the MORE ACT (removing marijuana from the Federal Schedule of Controlled Substances, but —spoiler alert- we wont get it without some social justice woven in) but it is expected to be submarined in the Senate.

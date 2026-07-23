@@ -97,7 +97,7 @@ related_articles:
 summary: Senior law enforcement leadership protected high-ranking officers involved
   in illicit affairs while suppressing evidence in wrongful conviction cases. Sworn
   affidavits and suppressed coroner reports reveal how prosecutors and sheriffs colluded
-  to put an innocent man behind bars for decades. Examine the evidence to see how
+  to put an innocent man behind bars for decades. We examine the evidence to see how
   corrupt leaders broke their moral mandate by choosing personal loyalty over public
   integrity.
 ---

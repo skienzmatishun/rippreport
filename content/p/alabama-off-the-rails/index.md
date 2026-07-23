@@ -4,7 +4,7 @@ date: 2025-02-06
 thumbnail: img/alabama-off-the-rails.png
 summary: Greedy state insiders and high-priced law firms wrecked the medical cannabis
   program to line their own pockets. Financial logs and court records show how greedy
-  special interest groups engineered endless lawsuits to delay public relief. Examine
+  special interest groups engineered endless lawsuits to delay public relief. We examine
   how state politicians derailed promised healthcare legislation and left suffering
   patients stranded in the wreckage.
 categories:

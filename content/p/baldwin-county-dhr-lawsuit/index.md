@@ -97,7 +97,7 @@ related_articles:
 summary: Baldwin County officials and corrupt family court judges abandoned vulnerable
   children to protect bad actors and rich cronies. Damning legal complaints and court
   documents expose a lawless system that routinely profits off family destruction.
-  Expose how these agencies wiped away their solemn duty to protect children just
+  We expose how these agencies wiped away their solemn duty to protect children just
   to serve their own twisted interests.
 ---
 I have been blasting this message as a post and in comments all over Facebook, and will continue to do so.
