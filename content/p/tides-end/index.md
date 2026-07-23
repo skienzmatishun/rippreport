@@ -5,7 +5,7 @@ thumbnail: img/tides-end.jpg
 summary: Local power brokers used high-profile media distractions to mask a sinister
   judicial cover-up that stole two decades of a man's life. Newly uncovered trial
   transcripts and timeline analysis demonstrate how officials engineered a fraudulent
-  murder case with zero physical proof. Look past the flashy sports distractions and
+  murder case with zero physical proof. We look past the flashy sports distractions and
   political hype to catch the corrupt judges pulling strings behind the scenes.
 categories:
 - backstory-podcast

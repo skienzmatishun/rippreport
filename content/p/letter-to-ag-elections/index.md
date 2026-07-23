@@ -5,7 +5,7 @@ thumbnail: img/letter-to-ag-elections.png
 summary: High-ranking power brokers in the Sheriff's Office hijacked local elections
   to keep their good-old-boy network in absolute control. Official correspondence
   sent to state authorities details decades of uncounted ballots and law enforcement
-  cover-ups. Look past their fake patriotic flags to see how corrupt insiders systematically
+  cover-ups. We look past their fake patriotic flags to see how corrupt insiders systematically
   destroyed our democratic rights.
 categories:
 - elections

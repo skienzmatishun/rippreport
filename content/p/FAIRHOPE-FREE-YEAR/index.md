@@ -96,7 +96,7 @@ related_articles:
 summary: UnElected Fairhope politicians grabbed a free year of unchecked power while
   letting municipal infrastructure crumble into disaster. Lawsuit settlements and
   budget archives reveal double-dipping salaries, hidden insurance perks, and deliberate
-  attempts to eliminate free speech. Uncover how local dictators discontinued your
+  attempts to eliminate free speech. We uncover how local dictators discontinued your
   constitutional rights just to enjoy their unearned year of free political perks.
 ---
 I bet only 1 or 2% of the voters in Fairhope know that not one city council person, the mayor or the appointed municipal attorney and municipal judge have been elected or appointed for there 5th year in office. The Alabama legislature thought it necessary to postpone municipal elections in 2024 due to the presidential election. A free year in office, full family insurance and the ability to make decisions for Fairhope's future, without a single vote cast. Only in Alabama.

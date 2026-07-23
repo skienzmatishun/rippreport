@@ -92,7 +92,7 @@ related_articles:
 summary: Greedy politicians forged secret backroom pacts to protect their allies and
   purge honest whistleblowers from public office. Leaked documents reveal how corrupt
   power players funneled hundreds of thousands in spill cash behind closed doors.
-  Uncover how these talking heads cut dark handshakes that bound taxpayers to millions
+  We uncover how these talking heads cut dark handshakes that bound taxpayers to millions
   in unresolved debt.
 ---
 Baldwin County needs more representation on the county commission. People will say “just more talking heads.” The population of the county is topping 250,000 and the county only has 4 commissioners. The Commission should be an odd number so as to never tie or have a possible deadlock in voting on issues.

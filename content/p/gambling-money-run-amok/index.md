@@ -103,7 +103,7 @@ alttags: A collage centered on Representative Juandalynn Givan of Alabama House 
 summary: State politicians and dark money PACs are funneling out-of-state gambling
   cash to buy local legislative elections and silence opponents. Ethics filings and
   paper trails expose hidden payments, shell companies, and conflicts of interest
-  reaching all the way to Montgomery. Look past their public distractions to see how
+  reaching all the way to Montgomery. We look past their public distractions to see how
   unchecked gambling capital is burning through the integrity of our state legislature.
 ---
 It seems that The Speaker's lobbyist Steve Raby is running around with a bag full of out of state gambling interest money.  Some seems to have made it into the hands of some executives who work in the Mayor of Birmingham's LGBTQ Office and are using said funds to support a Democrat.  To get rid of a thorn in the side of the Alabama Legislature and especially Speaker Ledbetter's, the Democrat Rep for Alabama House District 60 Juandalynn Givan, a true contrarian even in the Democratic ranks (which is a complement to her character).Take a listen and ask your pals if they know Joshua Coleman, Steve Raby, or Dax Swatek. Chances are your legislators (Elliott, Simpson, Allbritton, Holk-Jones and company) already got theirs, along with a candidate for Attorney General, which should make for a comical press conference from her boss who is running for US Senate. This should sink some ships but in Alabama News we call this "Just another Thursday".

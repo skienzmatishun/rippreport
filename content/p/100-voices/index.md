@@ -95,7 +95,7 @@ related_articles:
 summary: Jack Burrell and his council cabal routinely silence citizens and push through
   corrupt million-dollar deals using a backdoor voting scheme. Court filings and meeting
   records uncover how leaders raided millions from public funds to cover up disaster
-  lawsuits and secret property purchases. Look past the empty center of silhouettes
+  lawsuits and secret property purchases. We look past the empty center of silhouettes
   in 100 VOICES to discover the truth behind their secret votes.
 ---
 First let me apologize for not getting out the Wonderful Wednesday and for the delay of Freaky Friday this week. The Ripp Report has been following many different issues throughout the County and this last week was especially busy.

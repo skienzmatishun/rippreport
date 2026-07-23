@@ -6,7 +6,7 @@ rumble: v6dp8k4
 summary: High-ranking state officials and insider networks continue to hijack public
   trust while protecting corrupt law enforcement and special interest schemes. Leaked
   records and court filings confirm how powerful insiders quietly funneled scholarship
-  money, ignored police misconduct, and stripped public funds. Look past their smiling
+  money, ignored police misconduct, and stripped public funds. We look past their smiling
   public personas to expose the ugly reality hiding behind official state doors.
 categories:
 - backstory-podcast

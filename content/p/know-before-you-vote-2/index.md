@@ -93,7 +93,7 @@ related_articles:
 summary: Fairhope City Council members systematically ignore public concerns while
   using backroom legal maneuvers to stop voters from stripping away their political
   power. Uncovered city documents and secret meeting records expose a deliberate plot
-  by council insiders to delay ballot initiatives and silence taxpayers. Look past
+  by council insiders to delay ballot initiatives and silence taxpayers. We look past
   their official public image and watch the video evidence before you make your decision
   at the ballot box.
 ---

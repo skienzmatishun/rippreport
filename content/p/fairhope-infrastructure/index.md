@@ -13,7 +13,7 @@ tags:
 summary: Fairhope officials traded city infrastructure for private developer payoffs
   while toxic waste overflowed into local waterways. Sworn commissioner affidavits
   and federal court filings expose undercover wiretaps, land-flipping judges, and
-  insider stock deals. Look past the official excuses to see how dirty backroom deals
+  insider stock deals. We look past the official excuses to see how dirty backroom deals
   left our city with rotting pipes and ruined roads.
 categories:
 - citycouncil

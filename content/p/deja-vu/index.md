@@ -107,7 +107,7 @@ related_articles:
 summary: The secret political cabal known as Catalyst rebranded itself as Scott Boone
   Consulting to manipulate local elections and control land annexation deals. Council
   agendas and probate filings reveal how Scott Boone and Kevin Boone orchestrated
-  real estate payoffs and placed loyalists in powerful city positions. Look past their
+  real estate payoffs and placed loyalists in powerful city positions. We look past their
   rebranded corporate mask to uncover the secret society pulling the strings behind
   city hall.
 ---

@@ -5,7 +5,7 @@ thumbnail: img/the-lie-of-the-century.jpg
 summary: Systemic police corruption and corrupt prosecutors created a fake murder
   narrative to obscure the truth and shield dirty cops. Leaked internal emails and
   suppressed medical records prove how officials carefully curated evidence to protect
-  themselves from criminal liability. Uncover how authorities used a carefully curated
+  themselves from criminal liability. We uncover how authorities used a carefully curated
   reality to hide key evidence and enforce their lie of the century.
 categories:
 - backstory-podcast

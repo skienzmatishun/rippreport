@@ -52,7 +52,7 @@ related_articles:
 summary: Fairhope City Council members trampled on local veterans' free speech rights
   while masking their own total lack of public accountability. Internal lawsuit files
   document how municipal leaders quietly suppressed outspoken critics to shield local
-  backroom deals. Uncover how truth and transparency completely collapsed inside city
+  backroom deals. We uncover how truth and transparency completely collapsed inside city
   hall while leaders wrapped themselves in the flag.
 ---
 Never Forget.

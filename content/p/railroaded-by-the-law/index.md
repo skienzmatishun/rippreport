@@ -92,7 +92,7 @@ related_articles:
 summary: Sheriff Hoss Mack and District Attorney Robert Wilters hid vital medical
   records to keep an innocent man railroaded in prison for eighteen years. Official
   forensic letters and signed state orders prove top prosecutors received a second
-  autopsy report but lied about its existence to defense lawyers. Look past their
+  autopsy report but lied about its existence to defense lawyers. We look past their
   peaceful resort-town image to confront the dark legal secrets buried right beneath
   the surface.
 ---

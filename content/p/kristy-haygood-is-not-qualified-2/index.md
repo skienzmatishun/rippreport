@@ -5,7 +5,7 @@ thumbnail: img/kristy-hagood-is-not-qualified-2.png
 summary: Judicial candidate Kristi Hagood used her power as prosecutor to cover up
   hidden autopsy reports and keep an innocent man locked away. Court filings confirm
   she filed misleading legal arguments to protect corrupt judges from facing accountability
-  for a rigged trial. Break through their iron bars of secrecy to discover how the
+  for a rigged trial. We break through their iron bars of secrecy to discover how the
   state deliberately locked away the truth.
 categories:
 - elections

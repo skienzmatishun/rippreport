@@ -98,7 +98,7 @@ alttags: Bay Minette attorney Harry Still smiles in a dark suit and red tie, sta
 summary: Bay Minette city leaders weaponized local police to launch retaliatory arrests
   against political enemies after backroom disputes boiled over. Secret audio recordings
   and official records expose screaming matches, death threats, and physical altercations
-  suppressed by the local machine. Look past their polished public facades to discover
+  suppressed by the local machine. We look past their polished public facades to discover
   how local officials really behave behind closed doors.
 ---
 [BY GRANT McLAUGHLIN - Lagniappe](https://www.lagniappemobile.com)

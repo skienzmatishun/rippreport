@@ -5,7 +5,7 @@ thumbnail: img/medical-cannabis-issues-licenses.png
 summary: The Alabama Medical Cannabis Commission rigged the state license rollout
   to line the pockets of political insiders and lobbyists. Regulatory filings and
   legislative records trace how state officials built a slow-moving monopoly designed
-  to hand out lucrative deals. Uncover how political elites turned regulatory handshakes
+  to hand out lucrative deals. We uncover how political elites turned regulatory handshakes
   into a sweet, state-protected monopoly for their cronies.
 categories:
 - alabama

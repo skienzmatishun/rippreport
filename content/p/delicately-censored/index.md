@@ -5,7 +5,7 @@ thumbnail: img/delicately-censored.jpg
 summary: Top state prosecutors and law enforcement bosses manipulated the courts to
   bury public records and protect high-ranking insiders from exposure. Confidential
   court filings and secret settlement records show a coordinated effort to hide massive
-  ethics violations from taxpayers. Uncover how power players used pulled documents
+  ethics violations from taxpayers. We uncover how power players used pulled documents
   and backroom deals to keep their worst secrets delicately censored from the public
   eye.
 categories:

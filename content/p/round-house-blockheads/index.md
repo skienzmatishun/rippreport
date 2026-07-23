@@ -4,7 +4,7 @@ date: 2023-12-01 00:00:00+00:00
 summary: Fairhope City Council members and local power brokers are secretly scheming
   to push through a shady real estate relocation deal on the public's dime. Uncovered
   financial paper trails reveal hundreds of thousands of dollars flowing from anonymous
-  donors to bypass critical city permit laws. Look past their smug, rigid posturing
+  donors to bypass critical city permit laws. We look past their smug, rigid posturing
   to see how these political blockheads are reshaping our town for their own private
   profit.
 thumbnail: img/round-house-blockheads.jpg

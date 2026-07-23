@@ -5,7 +5,7 @@ thumbnail: img/mia-2.jpg
 summary: Big tech platforms and shady local politicians tried to silence our investigative
   news machine while recovery kept us off the beat. Fresh intelligence and court records
   prove that backroom censorship efforts failed to protect corrupt family court judges
-  and dirty city council members. Break through their censorship cage and see how
+  and dirty city council members. We break through their censorship cage and see how
   we continue to drag political vultures into the light.
 categories:
 - freaky-friday
