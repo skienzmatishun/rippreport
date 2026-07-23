@@ -9,7 +9,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Concrete tunnel entrance with a dark interior and hanging light, next to a NO U TURN sign at the Fairhope city project site
+alttags: Concrete tunnel entrance with a dark interior and hanging light, next to
+  a NO U TURN sign at the Fairhope city project site
 related_articles:
 - slug: I-SEE-YOU
   title: I SEE YOU
@@ -91,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope politicians drained millions from local utility funds to cover up
+  disaster lawsuits and secret real estate deals. Uncovered meeting records prove
+  city officials bought crumbling buildings and signed off on unapproved construction
+  plans behind closed doors. See the evidence behind the FAUXHOPE TUNNEL project and
+  its dark concrete entrance before taxpayers get buried under more debt.
 ---
 Fauxhope elected a council and mayor that represent the godfathers of the Fairhope good ole boys. This council and mayor are back to Mayor Can’t days. The city attorney is put in place to protect “THEIR” agenda. The municipal judge is a major developer in Fauxhope and his developments must meet the approval of the council that “APPOINTED” him as municipal judge.
 

@@ -94,7 +94,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Fairhope city council meeting in a flooded chamber with knee-deep water. A man in overalls stands near a laptop while officials sit behind a dais
+alttags: Fairhope city council meeting in a flooded chamber with knee-deep mud. A
+  man in overalls stands near a laptop.
+summary: Former Mayor Tim Kant and developer Angelo Corte forced reckless developments
+  onto Fairhope, destroying local infrastructure and Fly Creek. City agendas and water
+  testing data demonstrate how backroom deals left citizens with millions in structural
+  damage and mud-clogged waterways. Look past their stoic political masks to see how
+  corrupt leadership let our town sink into mud and decay.
 ---
 “The developer will do whatever the hell he wants, without any accountability”
 

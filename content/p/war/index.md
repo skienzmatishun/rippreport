@@ -7,10 +7,12 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Government building photo overlaid with the Alabama Department of Veterans Affairs logo, showing the state outline and Proudly Serving Americas Finest
+alttags: Government building photo overlaid with the Alabama Department of Veterans
+  Affairs logo, showing the state outline and Proudly Serving Americas Finest
 related_articles:
 - slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power
+    grab bill - Alabamagazette.com'
   score: 81.82184652691171
   llm_score: 95
   recency_score: 97.29746405665401
@@ -89,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Governor Kay Ivey declared outright war on state oversight boards after brave
+  whistleblowers exposed massive fund diversions. Court filings and internal memos
+  detail a ruthless executive plot to silence critics and centralize government authority.
+  Watch the dark storm clouds gather over the capital as public heroes fight back
+  against authoritarian state bosses.
 ---
 Alabama veterans are facing another war. This time with the state of Alabama and their efforts to strip the veterans representation by creating a cabinet position for the director of veterans affairs and the veterans board to an advisory position. This would strip veterans of their current representation, by the current veteran’s board, and limit it to a cabinet member subservient to the Governor.
 

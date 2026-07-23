@@ -778,3 +778,31 @@ hooks:
 
       *   American Legion Tiki Bar'
     generated_at: '2026-07-10T17:57:07.772719Z'
+theme_analysis:
+  image_theme: 'The image is a stylized representation of the United States flag,
+    which serves as a primary symbol of national identity, patriotism, and the "Rule
+    of Law." It conveys concepts of justice, civic duty, and the protection of rights
+    afforded to citizens. Depending on the context, it can represent either an ideal
+    to be upheld or a standard that is being violated.
+
+    '
+  article_theme: 'The article exposes local government corruption and judicial incompetence
+    in Baldwin County, Alabama. The core theme is the subversion of justice: a non-citizen
+    (a green card holder) escaped prosecution for a violent assault due to technicalities
+    and political favoritism, while an American citizen (the victim) suffered significant
+    personal and financial ruin. It highlights a "rigged" system where local officials
+    prioritize political allies over the safety and rights of actual citizens.
+
+    '
+  theme_connections:
+  - The image represents the 'American' ideals of justice and equality, creating a
+    sharp irony against the article's revelation that these values are being discarded
+    by local officials to protect a violent non-citizen while punishing an American
+    citizen.
+  - The visual serves as a symbolic anchor for the title 'AMERICAN CITIZEN,' highlighting
+    the contrast between the victim's status as a protected member of the country
+    and her experience of being abandoned by a corrupt legal system that treats her
+    less favorably than the perpetrator.
+  - By using the national flag, the image frames the local corruption in Baldwin County
+    not just as a minor legal error, but as a betrayal of the fundamental American
+    principle that the law should be applied fairly and transparently to all.

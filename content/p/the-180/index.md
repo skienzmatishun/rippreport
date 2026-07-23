@@ -7,7 +7,8 @@ categories:
 authors:
 - admin
 rumble: v59wyw1
-alttags: Backstory Podcast The 180 cover featuring a red-framed TIME magazine sketch of Vice President Kamala Harris alongside the Baldwin County seal
+alttags: Backstory Podcast The 180 cover featuring a red-framed TIME magazine sketch
+  of Vice President Kamala Harris alongside the Baldwin County seal
 related_articles:
 - slug: what-the
   title: What the
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local power brokers engineered sudden political realignments to lock down
+  state funding and protect their judicial empire from public scrutiny. Leaked documents
+  and court records expose how key officials traded secret multi-million dollar contracts
+  away from the media spotlight. Pull back the curtain on this slick PR spin to expose
+  the dirty machinery running our local government.
 ---
 Yes VP Harris has gone from the scourge of the democratic party to their darling savior. They were riding high from the Democratic National Convention and then RFK Jr removes his name from battleground ballots and throws in with Candidate Trump consuming all of the oxygen in the room. We have one week left of Sheriff Mack in office here in Baldwin County, Alabama and the Governor is selecting a replacement as we speak. Pray for change but expect the worst. And, headline: Finebaum claims the University of Alabama Football Dynasty over.
 

@@ -87,6 +87,10 @@ related_articles:
   length_score: 96.25
   category_score: 0
   rank: 10
+summary: Corrupt politicians thought my temporary silence meant they were safe to
+  keep stealing taxpayer dollars. Secret land deals, stolen BP funds, and police cover-ups
+  prove local officials are still enriching themselves at your expense. Learn the
+  full story of why I'M BACK to finish the fight against local political rot.
 ---
 I apologize to all my readers and friends that I have been a little absent in the last few months. Last year I lost my soul mate of 50 years and it has been quite an adjustment since. Don’t get me wrong, everything is good and all my memories are good. However I was faced with downsizing my living accommodations and totally restoring the property, known now as Casa Carolyn.
 

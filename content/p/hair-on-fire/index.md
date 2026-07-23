@@ -91,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Senator Chris Elliott is running rogue in Montgomery to grab unchecked power
+  for himself and his political handlers in Baldwin County. Campaign filings and insider
+  records expose how special interests and shady political groups funded this entire
+  scheme. Read the full investigation to see why local officials are running around
+  with HAIR ON FIRE.
 ---
 DUI, Tax man and rouge State Senator Chris Elliott has lost more than his hair. He is again carrying the water for Sheriff Hoss Mack. Oh, by the way Elliott's wife has worked for the sheriff since Chris was elected to office in Baldwin County. Sheriff Hoss Mack is the political director behind anything happening in Baldwin County.
 

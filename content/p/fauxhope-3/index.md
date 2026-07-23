@@ -2,7 +2,11 @@
 title: FAUXHOPE
 date: 2024-11-03
 thumbnail: img/fauxhope-3.png
-summary: Fauxhope is falling apart because of bad leaders and too much building. The people in charge spend money on parks and moving old houses. They don’t fix broken pipes, sewers, or roads. The mayor gets paid for two jobs. She isn’t trained for one of them. Leaders gave themselves another year in their jobs without asking voters. Now they’re spending $10 million on a project by the water. It’s not what people wanted. It probably helps their friends who build things. The local news media says everything is fine. But the bay is getting dirty. Regular people have to deal with the mess.
+summary: UnElected Fairhope officials handed lucrative city contracts to friendly
+  developers while ignoring collapsing water and sewer systems. City council agendas
+  and lawsuit documents show how leadership delayed municipal elections to pocket
+  unearned salaries and cut public comments. Spot the FOR SALE sign hanging over our
+  city as local bosses trade our town to the highest bidder.
 tags:
 - City Council
 - Mayor Sullivan

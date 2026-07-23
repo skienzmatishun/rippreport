@@ -7,8 +7,13 @@ categories:
 - backstory-podcast
 authors:
 - admin
-summary: A terror attack was stopped from reaching a larger crowd by traffic. A vet built a car bomb with AI, blowing up a Tesla. Leaders waste tax money on shady deals. Sheriffs hide their mistakes. Scholarships for students went to insiders. The governor’s health rumors stir worry. Teens with rifles fight in streets. A body found in a sunken car. Politicians let state pick police chiefs, ignoring locals. And finally, a festival and a demand to punish corrupt leaders. Alabama’s rules break like melting snow.
-alttags: Backstory Podcast 190 Scalped graphic showing the new Baldwin County District Attorney building and a Facebook post announcing its construction bid award
+summary: Baldwin County power brokers quietly rigged multi-million dollar public building
+  contracts while law enforcement concealed lethal mistakes. Secret settlement papers
+  and newly uncovered court motions detail how insiders funneled public money to allies
+  and buried crucial evidence. Peer beneath this expensive new facade of justice to
+  reveal the massive financial scam built inside its walls.
+alttags: Backstory Podcast 190 Scalped graphic showing the new Baldwin County District
+  Attorney building and a Facebook post announcing its construction bid award
 related_articles:
 - slug: delicately-censored
   title: Delicately Censored

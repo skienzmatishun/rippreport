@@ -10,7 +10,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: A hand holds a fan of one hundred dollar bills next to a red prohibition sign partially obscuring the word Catalyst
+alttags: A hand holds a fan of one hundred dollar bills next to a red prohibition
+  sign partially obscuring the word Catalyst
 related_articles:
 - slug: last-chance
   title: LAST CHANCE
@@ -92,6 +93,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Political operatives funneled no-bid county contracts straight to their insider
+  cronies while hijacking local elections. Secret records reveal how a shadowy political
+  network trades cash for influence across the entire court system. Read how officials
+  keep shooting yourself in the foot while chasing stacks of Catalyst cash.
 ---
 The most important race in Baldwin County is District two. This commission seat is being sought after by three candidates, Steve Carney, Jonathan Armstrong and Matt McKenzie.
 

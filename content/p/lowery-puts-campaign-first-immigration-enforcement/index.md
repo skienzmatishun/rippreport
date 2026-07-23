@@ -2,7 +2,11 @@
 title: LOWERY PUTS CAMPAIGN FIRST - IMMIGRATION ENFORCEMENT AND CITIZEN SAFETY SECOND
 date: 2026-05-11
 thumbnail: img/lowery-puts-campaign-first.png
-summary: To Sheriff Anthony Lowery and the Citizens of Baldwin County, Alabama, It has come to the attention of many in our community that validated reports are circulating suggesting that the Baldwin County Sheriff's Office has quietly stepped back from active cooperation with federal immigration enforcement efforts and that this decision may be directly tied to the current election cycle. This is deeply troubling. We understand that politics is complicated. We understand that campaigns require strategy. What we do not understand and frankly will not accept is the idea that any elected official would deliberately scale back public safety enforcement to protect their own political standing. The badge does not belong to the sheriff. It belongs to the people of Baldwin County.
+summary: Sheriff Anthony Lowery abandoned critical security programs and put local
+  families in danger to protect his political image. Department records show a sudden
+  shutdown of federal enforcement partnerships right as campaign pressure started
+  mounting. See through his tough lawman routine to witness how political cowardice
+  compromised county safety.
 categories:
 - elections
 tags:
@@ -61,7 +65,8 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-alttags: A U.S. Immigration officer stands beside Sheriff Anthony Lowery in a black uniform and hat, next to a campaign sign reading Anthony Lowery Sheriff
+alttags: A U.S. Immigration officer stands beside Sheriff Anthony Lowery in a black
+  uniform and hat, next to a campaign sign reading Anthony Lowery Sheriff
 ---
 Contribution from CONCERNED BALDWIN COUNTY CITIZEN
 

@@ -96,7 +96,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Live news broadcast featuring a female anchor and a screen showing Shelby Myers in an orange shirt, with lower third text reading continuing coverage
+alttags: Live news broadcast featuring a female anchor and a screen showing Shelby
+  Myers in an orange shirt, with lower third text reading continuing coverage
+summary: Corrupt municipal judges and police chiefs attempted to railroad an innocent
+  lawyer through a sham trial after he uncovered political cover-ups. Shocking audio
+  files and leaked emails expose how officials fabricated violent threats and tried
+  to lock the investigator in a mental facility. Learn how hypocritical authorities
+  spouted anti-intimidation slogans while using state power to crush a whistleblower.
 ---
 On September 3 2025 Harry Still, a practicing attorney, was arrested on a misdemeanor charge in Bay Minette. A charge that usually requires the arresting officer to witness, which did not happen. The incident was a skirmish between two men who have known each other since childhood. Matt Franklin, a Bay Minette city councilman, was the other individual. This minor incident escalated when the Bay Minette Police decided to file a motion in circuit court to have Still committed to a mental institution. Circuit Court Judge Scott Tayor dismissed the motion.
 

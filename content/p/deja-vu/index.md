@@ -104,6 +104,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The secret political cabal known as Catalyst rebranded itself as Scott Boone
+  Consulting to manipulate local elections and control land annexation deals. Council
+  agendas and probate filings reveal how Scott Boone and Kevin Boone orchestrated
+  real estate payoffs and placed loyalists in powerful city positions. Look past their
+  rebranded corporate mask to uncover the secret society pulling the strings behind
+  city hall.
 ---
 From Wikipedia, the free encyclopedia: A secret society is a club or an organization whose activities, events, inner functioning, or membership are concealed from non-members. The society may or may not attempt to conceal its existence.
 

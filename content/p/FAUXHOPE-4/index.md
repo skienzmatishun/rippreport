@@ -2,7 +2,11 @@
 title: FAUXHOPE
 date: 2025-11-14
 thumbnail: img/fauxhope-4.png
-summary: 'Want to know why so many people refer to Fairhope as Fauxhope? Consider this: Fauxhope is a tree city. What a joke Fauxhope is more responsible for tree REMOVAL than anyone. The caption is a live oak that HAD a 6 foot 2 inch diameter. It stood proud for decades, if not a century. The tree was on a knoll making it the tallest tree in the area. I was told by city officials that they had no knowledge of its removal. I don’t doubt that. Every vehicle entering and exiting Publix or the neighborhood had the pleasure of seeing the tree while traveling down Parker Road.'
+summary: Council President Jack Burrell and Fairhope city officials handed developers
+  unchecked power while gutting local infrastructure and natural land. City council
+  agendas and land records uncover backroom real estate deals, ballooning budgets,
+  and massive campaign contributions driving secret approvals. Inspect the jagged
+  stumps across town to witness the physical wreckage of local government corruption.
 tags:
 - City Council
 - Publix

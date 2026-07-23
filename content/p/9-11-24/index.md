@@ -6,7 +6,8 @@ categories:
 - holiday
 authors:
 - admin
-alttags: A large smoke plume rises behind the New York City skyline, obscuring skyscrapers near a waterfront with a construction crane on the right
+alttags: A large smoke plume rises behind the New York City skyline, obscuring skyscrapers
+  near a waterfront with a construction crane on the right
 related_articles:
 - slug: 9-11
   title: 9-11
@@ -48,5 +49,10 @@ related_articles:
   title: 50 YEARS AGO
   score: 65
   rank: 10
+summary: Fairhope City Council members trampled on local veterans' free speech rights
+  while masking their own total lack of public accountability. Internal lawsuit files
+  document how municipal leaders quietly suppressed outspoken critics to shield local
+  backroom deals. Uncover how truth and transparency completely collapsed inside city
+  hall while leaders wrapped themselves in the flag.
 ---
 Never Forget.

@@ -7,7 +7,8 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Wooden sign for Fairhoppers Community Park in Baldwin County welcoming visitors and listing prohibited items, with an inset video of a man speaking into...
+alttags: Wooden sign for Fairhoppers Community Park in Baldwin County welcoming visitors
+  and listing prohibited items, with an inset video of a man speaking into...
 related_articles:
 - slug: bsp-128
   title: Big News
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County politicians and Sheriff Hoss Mack steamrolled public outrage
+  to demolish local history and line pockets with expensive jail construction. Leaked
+  meeting records and court filings reveal a pattern of reckless spending and deliberate
+  indifference to citizen rights. Read the full investigation into how local bosses
+  control the Water near Fairhoppers Community Park.
 ---
 The Baldwin County Commission is tearing down our unique 112 year old goblet water tower to make way for a Jail (what we call progress). Roy Moore is a loser. Fairhope has a leadership problem. The AG, State Bar, and Ethics Commission... (https://lagniappemobile.com/alabamas-...). No Court in Alabama this coming week as all the Judges will be in San Destin, Florida at a Conference. And a special shout out to the nurses at Thomas Hospital from Paul and his significant other of 50 years Ms. C.A., she is home and on the mend.
 

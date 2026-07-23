@@ -12,10 +12,14 @@ tags:
 - BCMCU
 - Tolbert
 - Joshua Brown
-summary: Of all the Mayors in Baldwin County. Mayor Bob Wills is the most disgusting. Every voter in Bay Minette should remember O. J. French , every voter white, black or brown. Mayor Wills lied to the family and to the community. He said the family was OK with the circumstances surrounding the death of their son. Think about that! An outright lie that Wills later doubled down on. Wills supported the kangaroo court of the Sheriff Department. The Baldwin County Major Crimes Unit who investigates themselves.
+summary: Mayor Bob Wills lied to a grieving family while actively covering up a tragic
+  police shooting in Bay Minette. Leaked letters and lease documents uncover shameless
+  self-serving real estate deals alongside serious federal lawsuits. Reclaim your
+  community from a corrupt elite that puts personal profit over public justice.
 authors:
 - admin
-alttags: Mayoral campaign poster for Joshua Brown on August 26, 2025, showing his smiling portrait in a suit and red tie beside the text Vote Joshua Brown
+alttags: Mayoral campaign poster for Joshua Brown on August 26, 2025, showing his
+  smiling portrait in a suit and red tie beside the text Vote Joshua Brown
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT

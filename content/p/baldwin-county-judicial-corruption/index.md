@@ -2,13 +2,18 @@
 title: Baldwin County Judicial Corruption
 date: 2023-12-07
 thumbnail: img/baldwin-county-judicial-corruption.png
-summary: Citizens in Baldwin County have questioned the Sheriff's office for mishandling criminal cases and deaths, alleging a cover-up by the department and a corrupt judicial system that has wrongly convicted at least one person. New evidence suggests the Sheriff, District Attorney, and a Judge conspired to suppress evidence that exonerates a man incarcerated for 20 years.
+summary: Baldwin County's top judicial officials conspired for decades to manipulate
+  trials and protect rogue deputies from accountability. Withheld forensic reports
+  and sworn affidavits demonstrate a repeated pattern of hiding exculpatory evidence
+  to advance official careers. Confront the terrible human toll and decades of stolen
+  time caused by this ruthless judicial cabal.
 categories:
 - thursday-thunder
 - dwtd
 authors:
 - admin
-alttags: Murray Lawrence in a white tank top looks upward with a serious expression against a dim red background overlaid with faint courthouse and cage imagery
+alttags: Murray Lawrence in a white tank top looks upward with a serious expression
+  against a dim red background overlaid with faint courthouse and cage imagery
 related_articles:
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF

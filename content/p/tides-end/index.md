@@ -2,13 +2,18 @@
 title: Tide's End
 date: 2024-01-18
 thumbnail: img/tides-end.jpg
-summary: 'Alabama Football Drama: Coach Nick Saban left, and Auburn alums hope for a Tubberville-like era. A new coach is already in place. Judge Wilters, a District Attorney, responded to a petition about withheld information. A Federal Court dismissed a lawsuit related to Coal Ash. A winter storm is canceling schools in Alabama after a sunny Martin Luther King Jr parade.'
+summary: Local power brokers used high-profile media distractions to mask a sinister
+  judicial cover-up that stole two decades of a man's life. Newly uncovered trial
+  transcripts and timeline analysis demonstrate how officials engineered a fraudulent
+  murder case with zero physical proof. Look past the flashy sports distractions and
+  political hype to catch the corrupt judges pulling strings behind the scenes.
 categories:
 - backstory-podcast
 authors:
 - admin
 rumble: v44nbji
-alttags: A man in a dark suit and red tie smiles behind on-screen text announcing a new era for Alabama football in Tuscaloosa
+alttags: A man in a dark suit and red tie smiles behind on-screen text announcing
+  a new era for Alabama football in Tuscaloosa
 related_articles:
 - slug: no-justice
   title: NO JUSTICE

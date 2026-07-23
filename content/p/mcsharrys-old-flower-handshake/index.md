@@ -90,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City officials continuously shielded a violent bar owner from criminal assault
+  charges to protect their favorite political watering hole. Court records demonstrate
+  how prosecutors deliberately botched charging documents and missed legal deadlines
+  to let off a repeat offender. Get the details on the dirty deals behind McSHARRY’S
+  OLD FLOWER HANDSHAKE.
 ---
 Ronan McSharry is a public nuisance and the City Of Fairhope has failed to protect the general public, for the forth or fifth time. If you are not suspicious of how Mr McSharry has avoided prosecution then you have not been following his repeated domestic abuse charges and public drunkenness.
 

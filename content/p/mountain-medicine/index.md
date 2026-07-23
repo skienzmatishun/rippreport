@@ -90,7 +90,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Collage featuring the book cover Mountain Medicine by Darryl Patton, an Alabama county map, and screenshots of web pages including a speech and social m...
+alttags: Collage featuring the book cover Mountain Medicine by Darryl Patton, an Alabama
+  county map, and screenshots of web pages including a speech and social m...
+summary: Corrupt political bosses in Baldwin County ran a kangaroo court to target
+  local rivals and cover up police brutality. Leaked audio recordings and hidden court
+  records reveal how officials manufactured charges while suppressing vital evidence.
+  Discover how Darryl Patton Mountain Medicine exposes the rot destroying our community
+  behind closed doors.
 ---
 Today we are joined by Master Herbalist Darryl Patton and author of the much sought after "Mountain Medicine: The Herbal Remedies of Tommy Bass".  Darryl was Tommy's apprentice and the book is a lot more than a book of potions, it is an anthropological treasure right up there with "Travels" by William Bartram, Bass having learned from an old Cherokee woman.  So we talk magnolia bark (benzo-ish), buckeye (poison but used for circulatory issues), green briar (root beer) , cross vine (Amphetamine -ish), and other pharmacologically important plants native to Alabama. How to make your own yerba mate (Club Mate) from yaupon holly , the coming Tuesday Run-Off, and Ice Cream Shops I like in Bay Minette, Alabama are all on the table so grab some popcorn.
 

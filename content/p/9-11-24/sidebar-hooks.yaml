@@ -405,3 +405,33 @@ hooks:
 
       - Martin Luther King Jr.'
     generated_at: '2026-03-11T02:11:58.594806Z'
+theme_analysis:
+  image_theme: 'The image depicts the catastrophic destruction of the World Trade
+    Center towers during the September 11 attacks, characterized by massive plumes
+    of billowing smoke against a clear blue sky. The primary theme is one of national
+    tragedy, collective trauma, and overwhelming loss. It evokes a sense of vulnerability
+    and historical weight, serving as a visual shorthand for "Never Forget" and the
+    extreme consequences of security failures or external threats.
+
+    '
+  article_theme: 'The article explores a multi-layered narrative of betrayal and systemic
+    neglect. While it anchors on national symbols of remembrance (9/11 and Veterans
+    Day), its core investigative theme is the domestic corruption within the Alabama
+    judicial system and the suppression of free speech by the Fairhope City Council.
+    The emotional core is the frustration of a Vietnam War veteran who identifies
+    a "betrayal" where those who served for the country are neglected at home and
+    faced with local government rot, framing constitutional rights as the primary
+    battlefield against internal political corruption.
+
+    '
+  theme_connections:
+  - The image depicts an external attack on national security, which provides a stark
+    contrast to the article's focus on 'internal' threats—specifically the domestic
+    corruption of local government and the neglect of veterans by their own state.
+  - The physical collapse of the World Trade Center towers in the image serves as
+    a metaphor for the moral and legal collapse described in the text, where transparency
+    and accountability have crumbled within the Fairhope City Council.
+  - Both the visual of 9/11 and the article's focus on veterans utilize the theme
+    of 'sacrifice.' The connection suggests that while the nation remembers those
+    who died against foreign enemies (image), it is currently failing to protect the
+    rights and dignity of those who served for its domestic freedoms (article).

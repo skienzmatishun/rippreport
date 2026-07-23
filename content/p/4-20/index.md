@@ -15,7 +15,8 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: A digitally added green cannabis leaf graphic overlaid on a body of water featuring an orange floating barrier in the foreground
+alttags: A digitally added green cannabis leaf graphic overlaid on a body of water
+  featuring an orange floating barrier in the foreground
 related_articles:
 - slug: backstory-podcast-no-81-tan-rested-ready
   title: Tan Rested & Ready
@@ -97,6 +98,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Greedy politicians turned the Deepwater Horizon oil spill disaster into a
+  personal slush fund before pivoting straight to lucrative lobbyist payoffs. Leaked
+  timeline records disclose self-dealing contracts arranged weeks before official
+  state appointments even occurred. See what dirty deals lurk beneath the green leaf
+  and floating barrier in 4-20.
 ---
 This day is significant for many reasons:
 

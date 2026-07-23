@@ -14,10 +14,15 @@ tags:
 - Publix
 - Waterfront Project
 - Ronan McSharry
-summary: I have followed Fairhope politics for over 23 years and if there is an example of the Good Ole Boy Club, Fairhope wins, hands down. The key player in the club is councilman Jack Burrell. Who has become the most infamous flip flopping, double talking, lying politician in Baldwin County. His time in office has racked so many questionable actions, side deals, conflicts of interests, quid quo pro deals and bids that it would take a book to list them all.
+summary: Council President Jack Burrell and his Fairhope allies repeatedly abuse their
+  authority to line their own pockets and silence public opposition. Court filings
+  prove they ballooned project budgets by millions, fired qualified engineers, and
+  took money from shady developers. Find out why time is running out on this long-standing
+  political dynasty.
 authors:
 - admin
-alttags: A vintage alarm clock with bells and yellow lightning bolts on a red background shows the text CITY OF FAIRHOPE above its Roman numeral dial
+alttags: A vintage alarm clock with bells and yellow lightning bolts on a red background
+  shows the text CITY OF FAIRHOPE above its Roman numeral dial
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope
   title: LAST CHANCE - FAUXHOPE OR FAIRHOPE

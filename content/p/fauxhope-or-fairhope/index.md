@@ -15,7 +15,8 @@ tags:
 - George Ferniany
 authors:
 - ripp-report
-alttags: Two ornate street clocks labeled Fairhope and City of Fairhope stand side by side against a purple background, each showing different times with Roman n...
+alttags: Two ornate street clocks labeled Fairhope and City of Fairhope stand side
+  by side against a purple background, each showing different times with Roman n...
 related_articles:
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
@@ -97,6 +98,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The incumbent council slate and Mayor Sherry Sullivan colluded with special
+  interests to lock down city contracts and block municipal reform. Official candidate
+  disclosures and petition records expose how insider politicians used taxpayer-funded
+  lawyers to delay voter-backed elections. Examine how these self-serving officials
+  keep local government running on their own luxury clock instead of serving the people.
 ---
 DON’T TAKE THE BAIT — VOTE FOR THE SLATE
 

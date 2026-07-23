@@ -9,10 +9,15 @@ tags:
 - City Council
 - Sullivan
 - BP
-summary: 'Two questions every voter should be asking in this city council election: Should the mayor take a second salary as utilities director or should that money fund a qualified engineer to oversee electric, gas, water and sewer? Do you support creating council districts so that citizens have a clear representative instead of five at-large seats that protect special interests?'
+summary: Mayor Sherry Sullivan and her council allies stripped Fairhope of professional
+  management to grab extra salaries and reward political insiders. Financial audits
+  expose missing infrastructure funds, unapproved spending sprees, and deliberate
+  tricks to block voter districts. Look directly at the consequences of this administration's
+  hidden salaries and reckless deals.
 authors:
 - admin
-alttags: A black square with a white border contains the text TWO QUESTIONS DECIDE in bold, above Fairhopes Future written in cursive script
+alttags: A black square with a white border contains the text TWO QUESTIONS DECIDE
+  in bold, above Fairhopes Future written in cursive script
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL

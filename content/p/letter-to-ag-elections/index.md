@@ -2,7 +2,11 @@
 title: TO THE SECRETARY OF STATE AND THE DIRECTOR OF ELECTIONS
 date: 2026-05-17
 thumbnail: img/letter-to-ag-elections.png
-summary: The primary election cycle in Baldwin County has had more public participation than in any election in 20 years plus. The most attention has been on the Sheriff’s race. The Ripp Report has been in contact with the Sec of State in reference to suspected and strongly alleged reports of elections being fixed involving numerous races in Baldwin County, in the past.
+summary: High-ranking power brokers in the Sheriff's Office hijacked local elections
+  to keep their good-old-boy network in absolute control. Official correspondence
+  sent to state authorities details decades of uncounted ballots and law enforcement
+  cover-ups. Look past their fake patriotic flags to see how corrupt insiders systematically
+  destroyed our democratic rights.
 categories:
 - elections
 tags:
@@ -86,7 +90,8 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-alttags: A decorative eagle-themed mailbox mounted on a wooden post, featuring an American flag and the text US MAIL 4361 against a solid red background
+alttags: A decorative eagle-themed mailbox mounted on a wooden post, featuring an
+  American flag and the text US MAIL 4361 against a solid red background
 ---
 To: May 17, 2026
 

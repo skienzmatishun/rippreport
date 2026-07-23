@@ -3,7 +3,11 @@ title: NOT QUALIFIED
 date: 2026-05-09
 youtube: jMHPWwbowr8
 thumbnail: img/not-qualified.jpg
-summary: Well it's not an October surprise because all of our elections will be decided at the Republican Primary on May 19, 2026.  I want to compel you to reject the Cabal Candidate Kristi Hagood, currently a Baldwin County Assistant District Attorney.  She can not hide from her work product and we use it and my knowledge of the case to compel you to reject this 'Tough of Crime' caca and elect someone who cares about Justice.
+summary: Assistant District Attorney Kristi Hagood pushed false statements to court
+  judges to deny an innocent man his freedom. Documents reveal how prosecutors knew
+  a suppressed medical report proved murder charges were completely fabricated. Confront
+  the stark truth of how her glossy campaign promises created a human nightmare for
+  an innocent victim.
 categories:
 - dixie-podcast
 tags:
@@ -94,7 +98,8 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A slide displays text questioning Murray Bubba Lawrence Jr.s conviction and his ID photo, next to a campaign banner and headshot for Kristi Hagood
+alttags: A slide displays text questioning Murray Bubba Lawrence Jr.s conviction and
+  his ID photo, next to a campaign banner and headshot for Kristi Hagood
 ---
 Well it's not an October surprise because all of our elections will be decided at the Republican Primary on May 19, 2026.  I want to compel you to reject the Cabal Candidate Kristi Hagood, currently a Baldwin County Assistant District Attorney.  She can not hide from her work product and we use it and my knowledge of the case to compel you to reject this "Tough of Crime" caca and elect someone who cares about Justice.  The only candidate who even gives it lip service is her opponent Jerimiah Giles.  And regardless of Ms. Hagood's experience in criminal law (about 5 % of what she will hear as a Circuit Judge) she has never participated in a Civil Lawsuit (the other 95%) save some thirty Civil Forfeitures where she "acquired" the property of the accused on behalf of the State.  With all the rumors about Harry Still and my pending trial on May 22, I have no credibility; so I included a clip from C-span where his trail attorney Willie Huntley testifies on behalf of his friend and mentor Jefferson Beauregard Session who is accused of racism by Democrats during his confirmation hearings for United States Attorney General.  Willie Huntley, a class act, tells these Pukes how US Attorney Jeff Sessions plucked him our of law school, mentored his career, and together they bankrupt the Ku Klux Klan. Go ask Willie or Murray Lawrence Sr who the good guys are. In this case it is hard to find one save Dr. Paul McGarry who is one of the most experienced and respected pathologist in the USA at the time of his testimony.  Because her boss DA Wilters was the Circuit Judge who presided over the trial of Murray Lawrence Jr, her only response to the Rule 32 filing should have been to recuse her office.  Instead, it looks like she used AI and it hallucinated . . . or this brilliant woman can't read. I do not currently have an active license to practice law in Alabama so I have no duty to report this to the Alabama State Bar but the rest of you who are attorneys who watch this video, you have said duty under the Rules of Professional Conduct.  Special thanks to the Former Chief of Police in Summerdale Kevin Brock, also on your ballot May 19 standing for Baldwin County Commission District 3 against Ms. Hagood's opponent Mr. Giles' aunt, Commission Billy Jo Underwood.  Kevin Brock another class-act we desperately need to effectuate change.
 

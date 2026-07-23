@@ -11,7 +11,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Scattered playing cards featuring a nine of clubs, a joker card with a car illustration, and a ten of spades
+alttags: Scattered playing cards featuring a nine of clubs, a joker card with a car
+  illustration, and a ten of spades
 related_articles:
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking sheriff officials executed a crooked political shell game to
+  shield their inner circle from impending federal probes. Internal documents reveal
+  how top deputies coordinated cover-ups and protected tainted insiders to guarantee
+  continuous department control. Step inside this rigged game of political cards to
+  see how corrupt bosses deal themselves complete immunity.
 ---
 Finally! For multiple reasons, Sheriff Hoss Mack is retiring. It could be the Federal investigation, the internal investigation, wrongful conviction, federal Lawsuit of Johnathan Victor and a myriad of internal problems within BCSO involving morals, accountability, transparency and of course the GOB, Good ole Boy culture that permeates the entire department.
 

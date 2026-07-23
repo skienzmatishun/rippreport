@@ -3,7 +3,11 @@ title: FIRE ALBRITTON
 date: 2024-11-03
 thumbnail: img/stealing-from-kids.jpg
 gif: img/stealing-from-kids.gif
-summary: The news lately has been focused on our Me Ma Governor firing one of the very few reputable individuals working in our corrupt alabama system. She used 'extreme Executive Power' to fire Alabama Department of Veterans Affairs Director Kent Davis.
+summary: State Ethics Director Tom Albritton ransacked a multi-million dollar charitable
+  trust to fund his family's lavished personal expenses. Bank statements and court
+  records show how trust money quietly flowed into six-figure college tuitions while
+  oversight agencies looked the other way. Strip off his tailored suit and see why
+  this disgraced ethics chief belongs in a prison jumpsuit.
 tags:
 - Ivey
 - Albritton

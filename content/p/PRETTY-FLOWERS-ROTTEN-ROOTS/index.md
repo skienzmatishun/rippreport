@@ -12,7 +12,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: A pink daisy with visible roots rests on a green background beside a hand inserting a ballot into a cardboard box labeled VOTE
+alttags: A pink daisy with visible roots rests on a green background beside a hand
+  inserting a ballot into a cardboard box labeled VOTE
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
@@ -94,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Mayor Sherry Sullivan and Jack Burrell illegally funneled public money into
+  dual salaries and backroom real estate schemes. Financial ledgers and secret meeting
+  minutes expose how council bosses fired qualified staff and raided utility accounts
+  to enrich their political allies. Look beneath their polished campaign promises
+  to find the rotten developer roots nourishing this entire administration.
 ---
 Fauxhope municipal elections have started off with a bang. Five candidates have qualified for city council positions, and support one another in a solid slate. A very smart move. Who would want to be a minority councilman facing a well entrenched cabal of good ole boys, developers, politicians, lawyers, judges and let’s not leave out the District Attorney’s Office.
 

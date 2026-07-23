@@ -11,7 +11,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A white-background split image showing a Fairhope City clock post with mounted security cameras and the rear of a dark blue Honda CR-V with an INOCENT l...
+alttags: A white-background split image showing a Fairhope City clock post with mounted
+  security cameras and the rear of a dark blue Honda CR-V with an INOCENT l...
 related_articles:
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope city leaders quietly approved secret surveillance gear while handing
+  tax dollars to wealthy developers under the table. Public contracts reveal how the
+  city council rigged bids and installed insider judges to fast-track their own private
+  construction projects. Learn the full story behind the clock tower cameras and why
+  we are shouting I SEE YOU.
 ---
 The Fauxhope City Council agenda looks like business as usual. However a closer look just shows how the council is doing what THEY damn well want to do, without public discussion. Oh sure they have public participation for three minutes per person. Those who have follow the development elected council know the council is deaf when it comes to any public participation.
 

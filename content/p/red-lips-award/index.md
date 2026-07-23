@@ -20,7 +20,8 @@ tags:
 - Cliff McCollum
 authors:
 - ripp-report
-alttags: A trophy featuring a glossy red lip sculpture sits on a black base with a gold plaque reading Andrew Jones and Ed Oliver
+alttags: A trophy featuring a glossy red lip sculpture sits on a black base with a
+  gold plaque reading Andrew Jones and Ed Oliver
 related_articles:
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
@@ -47,7 +48,8 @@ related_articles:
   category_score: 0
   rank: 3
 - slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power
+    grab bill - Alabamagazette.com'
   score: 69.6189162999691
   llm_score: 75
   recency_score: 94.92768502479139
@@ -102,6 +104,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State Representative Ed Oliver and Senator Andrew Jones pushed retaliatory
+  bills to gut oversight and punish whistleblowers. Financial records and court orders
+  reveal how top state officials looted private trust funds while dismantling public
+  boards. Peer past their hypocritical lip service to see why these self-serving politicians
+  earned our premier award for betrayal.
 ---
  Alabama is number one in the United States when it comes to political corruption, by far. The Department of Mental Health run by Kimberly Boswell ranks “In 2024, Mental Health America ranked Alabama 50th out of 51 states for access to mental health care.” The veteran suicide rate is higher than the national Veteran average and significantly higher than the national civilian average. Let that soak in!
 

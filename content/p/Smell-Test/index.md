@@ -11,7 +11,8 @@ categories:
 - monday-madness
 authors:
 - ripp-report
-alttags: A bald eagle wearing a teal bandana stands before two campaign signs for Baldwin County School Board District 2, advertising Carrie Hosier and Andrea Li...
+alttags: A bald eagle wearing a teal bandana stands before two campaign signs for
+  Baldwin County School Board District 2, advertising Carrie Hosier and Andrea Li...
 related_articles:
 - slug: snakes-in-the-schools
   title: SNAKES IN THE SCHOOLS
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County political bosses traded a high-dollar campaign kickback for
+  a lucrative public school promotion. Secret financial disclosures and board voting
+  records reveal a shady deal executed right under the nose of local parents. Look
+  past their slick political branding to see how this corrupt machine buys public
+  influence.
 ---
 The one thing that the good ole boys, GOB, of Baldwin have down pat is walking the line of legal and illegal. They do not care if it is a conflict of interest, unethical or smells to high heaven, just as long as it is barely legal. It does not even matter if you change political parties, all they care about is that they get their rubber stamp candidate, Andrea Lindsey, elected.
 

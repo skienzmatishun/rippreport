@@ -91,6 +91,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Senator Chris Elliott keeps abusing his political power to hide his dirty
+  past and push dark-money schemes on taxpayers. Files expose how a shadowy political
+  network covered up his legal troubles while handing him backroom insider construction
+  favors. Get the details on his shameful record with our ELLIOTT HISTORY LESSON.
 ---
 Senator Chris Elliott is a perfect example of a politician out of touch with his constituents. His grandstanding is political and an attempt to cater to a small base, who vote. He is shameless and uses his church to push his political aspirations, a common practice in the deep south. Professing to be a christian is at the top of criteria to be elected. Ethics, conflicts of interest and accountability are not on the list.
 

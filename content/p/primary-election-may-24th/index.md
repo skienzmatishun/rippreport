@@ -7,7 +7,8 @@ youtube: 1Pb41jaYTkI
 thumbnail: img/primary-election-may-24th
 authors:
 - admin
-alttags: 'A sample election ballot listing candidates for Baldwin County and state offices, overlaid with the text Backstory Podcast: No 12'
+alttags: 'A sample election ballot listing candidates for Baldwin County and state
+  offices, overlaid with the text Backstory Podcast: No 12'
 related_articles:
 - slug: bsp118
   title: The Smokey and The Bandit Run
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State power brokers laundered hundreds of thousands in dark money to keep
+  puppet candidates in top legal and municipal offices. Campaign finance disclosures
+  and dismissed ethics filings document illegal PAC transfers from out-of-state special
+  interests. See the documents before you mark your ballot for the Primary Election
+  May 24th.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Pb41jaYTkI" frameborder="0" allowfullscreen></iframe>
 

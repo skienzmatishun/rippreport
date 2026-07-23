@@ -13,7 +13,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Sheriff Huey Mack in a suit and bow tie stands beside the Baldwin County Sheriffs Office seal and a statue of Lady Justice holding scales
+alttags: Sheriff Huey Mack in a suit and bow tie stands beside the Baldwin County
+  Sheriffs Office seal and a statue of Lady Justice holding scales
 related_articles:
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
@@ -95,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The Baldwin County Major Crimes Unit systematically cleared its own officers
+  after repeated fatal shootings and wrongful arrests. Explosive federal filings prove
+  department leaders lied to judges and buried incriminating body camera footage for
+  over a decade. Discover how badge-wearing insiders tipped the scales of justice
+  against ordinary citizens to protect their own ranks.
 ---
 ***The Lawsuit is included at the end of this post, read it and imagine it was your son!***
 

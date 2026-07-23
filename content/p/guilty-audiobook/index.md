@@ -96,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County officials framed Murray Lawrence Jr. for a capital murder
+  he did not commit and buried the truth for twenty years. Uncovered transcripts and
+  suppressed coroner reports prove power-hungry prosecutors lied to secure a guilty
+  verdict. Listen to the public record now to discover the heartbreaking human cost
+  of a justice system that sacrifices innocent lives for political wins.
 ---
 It is a story that is hard to believe and you need to listen carefully before you vote.
 

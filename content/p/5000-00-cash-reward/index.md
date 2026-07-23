@@ -10,7 +10,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Wanted poster with a distressed border displays WANTED and $5000. The center shows a sepia-toned photo of a person behind bars wearing an animal head co...
+alttags: Wanted poster with a distressed border displays WANTED and $5000. The center
+  shows a sepia-toned photo of a person behind bars wearing an animal head co...
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilman Jack Burrell accepted free luxury airplane rides from a private
+  company right before handing them lucrative airport bids. Ethics filings reveal
+  that Burrell then used public money to hire personal lawyers to protect his corrupt
+  arrangements. Check out the WANTED poster in $5000.00 CASH REWARD to see what they
+  are hiding.
 ---
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents quoted or provided are fabricated or altered from their original copies or that there is any willful malicious intent to mislead the public for any reason or to unlawfully disparage Mr. Burrell by making fictitious claims or providing erroneous documents, and you will be five thousand dollars ($5k) richer.
 

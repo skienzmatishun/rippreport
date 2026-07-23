@@ -2,7 +2,11 @@
 title: BCSO CULTURE
 date: 2025-10-05
 thumbnail: img/bcso-culture.png
-summary: Antony Lowery, Baldwin County’s appointed sheriff has been bragging that the sheriff department has developed, and adopted a culture within the department that has taken years to develop. A culture of lies, wrongful incarceration, deadly shootings, investigating themselves and finding themselves innocent 100 percent of the time. A culture that involves blanket immunity, no transparency and absolutely no accountability.
+summary: Sheriff Anthony Lowery and former Sheriff Hoss Mack maintained a deadly culture
+  of cover-ups, wrongful imprisonments, and absolute immunity. Internal investigative
+  files and suppressed autopsy letters expose decades of rigged internal reviews that
+  routinely exonerated corrupt deputies. Step into a hollowed-out legal system where
+  justice died long ago to protect political careers.
 tags:
 - Hoss Mack
 - BCSO
@@ -15,7 +19,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: 'A brown glass bottle with a label reading BCSO ABSOLUTE IMMUNITY and a twine tag stating BCSO FEATURES: No Accountability, No Transparency, against a re...'
+alttags: 'A brown glass bottle with a label reading BCSO ABSOLUTE IMMUNITY and a twine
+  tag stating BCSO FEATURES: No Accountability, No Transparency, against a re...'
 related_articles:
 - slug: bcso-culture-2
   title: BCSO CULTURE

@@ -12,7 +12,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: An older man with white hair wearing a blue shirt and black shorts rides a bicycle down a street while gesturing with his gloved hand
+alttags: An older man with white hair wearing a blue shirt and black shorts rides
+  a bicycle down a street while gesturing with his gloved hand
 related_articles:
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR
@@ -94,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilman Jack Burrell and Fairhope city leaders quietly trampled on constitutional
+  rights to hide tens of millions in squandered public funds. Official court documents
+  and secretive airport authority records expose bid-rigging tactics and illegal efforts
+  to silence local citizens. Catch these scheming politicians mid-retreat as public
+  outrage forces their desperate backpedaling into the light.
 ---
 The backwards backpedaling Fauxhope City Council had to eat crow when it came to eliminating public participation at council meetings. Of course the matter of free speech and public participation was front and center when they denied yours truly the right to speak. The public outcry was resounding and the council got the message loud and clear. Councilman Jack Burrell threw Councilman Martin under the bus. Jack said he was surprised to see the item on the agenda. Ask Jack if he had to go to federal court for denying public participation?
 

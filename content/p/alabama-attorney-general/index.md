@@ -3,12 +3,17 @@ title: ALABAMA ATTORNEY GENERAL
 date: 2024-02-22
 thumbnail: img/alabama-attorney-general1.jpg
 gif: img/alabama-attorney-general1.gif
-summary: The Ripp Report filed two complaints with the Alabama Attorney General's office. For misconduct by the Alabama Ethics Commission's director and requests a review of past dismissed complaints. And the wrongful conviction of Murray Lawrence in Baldwin County.
+summary: Top state officials secretly turned a massive charitable scholarship trust
+  into their own private slush fund. Court records and financial filings expose how
+  key figures quietly siphoned off millions while ignoring formal corruption complaints.
+  Take a hard look at how these corrupt leaders toasted their own greed while robbing
+  deserving kids of their future.
 categories:
 - alabama
 authors:
 - admin
-alttags: Tom Albritton stands before a gold CONGRATS balloon banner, gesturing next to a large check for $100,000 payable to him from the Mabel Amos Memorial Fund
+alttags: Tom Albritton stands before a gold CONGRATS balloon banner, gesturing next
+  to a large check for $100,000 payable to him from the Mabel Amos Memorial Fund
 related_articles:
 - slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
   title: ALABAMA ETHICS COMMISION HIDE THE LIST

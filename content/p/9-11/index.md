@@ -6,7 +6,8 @@ categories:
 - holiday
 authors:
 - admin
-alttags: A nighttime New York City skyline overlaid with a faded American flag and two vertical light beams, featuring the text 9 NEVER FORGET
+alttags: A nighttime New York City skyline overlaid with a faded American flag and
+  two vertical light beams, featuring the text 9 NEVER FORGET
 related_articles:
 - slug: 9-11-25
   title: 9/11
@@ -48,5 +49,10 @@ related_articles:
   title: MEMORIAL DAY
   score: 65
   rank: 10
+summary: Power-hungry politicians exploit national tragedies to quietly strip citizens
+  of their constitutional rights and siphon off public resources. Investigative logs
+  reveal how council members held secret meetings during major crises to avoid public
+  oversight and silence critics. Look beyond the light beams of 9-11 and discover
+  the truth about local corruption.
 ---
 Never Forget

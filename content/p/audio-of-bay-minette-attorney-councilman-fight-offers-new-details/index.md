@@ -93,7 +93,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Bay Minette attorney Harry Still smiles in a dark suit and red tie, standing outdoors with trees and the Baldwin County building behind him
+alttags: Bay Minette attorney Harry Still smiles in a dark suit and red tie, standing
+  outdoors with trees and the Baldwin County building behind him
+summary: Bay Minette city leaders weaponized local police to launch retaliatory arrests
+  against political enemies after backroom disputes boiled over. Secret audio recordings
+  and official records expose screaming matches, death threats, and physical altercations
+  suppressed by the local machine. Look past their polished public facades to discover
+  how local officials really behave behind closed doors.
 ---
 [BY GRANT McLAUGHLIN - Lagniappe](https://www.lagniappemobile.com)
 

@@ -6,7 +6,8 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: YouTube video screenshot titled Backstory Podcast No 132 on Ronin McSharry, showing men in suits interacting inside the Alabama State Legislature
+alttags: YouTube video screenshot titled Backstory Podcast No 132 on Ronin McSharry,
+  showing men in suits interacting inside the Alabama State Legislature
 related_articles:
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Insiders in the judicial system and city council protected a serial offender
+  from criminal charges through technicalities and backroom alliances. Leaked podcast
+  recordings and court documents highlight secret surveillance tactics used against
+  political whistleblowers and local journalists. Watch how corrupt politicians protect
+  their own as The McSharry Will Out exposes the whole mess.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HoKMSOWEkhw" frameborder="0" allowfullscreen></iframe>
 

@@ -7,7 +7,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Councilman Jack Burrell with white hair and a collared shirt looks to the side. His nose has been digitally altered into a long, protruding object
+alttags: Councilman Jack Burrell with white hair and a collared shirt looks to the
+  side. His nose has been digitally altered into a long, protruding object
 related_articles:
 - slug: bull
   title: BULL SITTING Fairhope
@@ -89,6 +90,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope city officials let raw sewage poison local waterways while blowing
+  millions on secret, non-budgeted land deals. Official audit records prove council
+  leaders lied about project costs and handed double-dipping salaries to unqualified
+  cronies. See what they are hiding behind Pinocchio’s long nose in ALL MOUTH.
 ---
 Fauxhope mouthpiece and long term councilman Jack Burrell is crying in his milk and pretending to be concerned about the Fauxhope sewer. Don’t be fooled he is a professional B.S. artist.
 

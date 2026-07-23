@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: County leaders scrapped public planning rules to prioritize massive jail
+  expansions and insider industrial deals over community safety. Government files
+  expose millions in questionable tax incentives and secret ethical recusals among
+  top officials. Get the details on this Big News before politicians tear down more
+  historic landmarks for profit.
 ---
 Novelis is Building a New, Low-Carbon, $2.5 Billion Aluminum Plant Recycling & Rolling facility in Bay Minette, Alabama, is the first of its kind and first fully integrated, U.S. mill built in 40 year and they are building it on the Baldwin County Megasite!
 

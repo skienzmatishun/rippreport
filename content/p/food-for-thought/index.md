@@ -4,10 +4,15 @@ date: 2025-08-15
 categories:
 - ivy
 thumbnail: img/food-for-thought.png
-summary: There’s a parcel of land in Baldwin County that’s never been talked about publicly — until now. It’s publicly owned, strategically placed, and tied to a zoning designation that doesn’t match what’s actually there.
+summary: Baldwin County politicians cooked up secret real estate deals to hand fifty
+  million dollars worth of public land over to private interests. Hidden land records
+  and meeting agendas reveal how insiders systematically ignored zoning laws and suppressed
+  public input. See how greedy insiders laugh in private while locking the public
+  out of major land deals.
 authors:
 - admin
-alttags: Five men in suits laugh while sharing a green map-shaped cake, with one man cutting a slice
+alttags: Five men in suits laugh while sharing a green map-shaped cake, with one man
+  cutting a slice
 related_articles:
 - slug: mega-mistake
   title: MEGA-MISTAKE

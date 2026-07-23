@@ -2,7 +2,11 @@
 title: SOME THINGS NEVER CHANGE
 date: 2026-04-11
 thumbnail: img/some-things-never-change.png
-summary: Baldwin County is full of laughs lately. Politics can cause mental damage and in Baldwin County we need an insane asylum for a few of them.
+summary: Corrupt political insiders pushed through unvoted tax hikes and costly school
+  lawsuits to enrich themselves at public expense. Financial records and hidden agreements
+  reveal how local bosses used dark money networks to force their agenda on taxpayers.
+  See how these fake public servants use their political vacuum to drain local tax
+  dollars directly into their greedy machine.
 categories:
 - repost
 tags:
@@ -96,7 +100,8 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 10
-alttags: Chris Elliott wears a superhero costume with a green mask, cape, and gray shirt featuring a red shield reading TAX MAN. He holds a vacuum cleaner with a...
+alttags: Chris Elliott wears a superhero costume with a green mask, cape, and gray
+  shirt featuring a red shield reading TAX MAN. He holds a vacuum cleaner with a...
 ---
 <a href="https://rippreport.com/p/laugh-out-loud-baldwin">Published March 3rd 2022</a>
 

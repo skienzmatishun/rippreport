@@ -7,7 +7,8 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: A man in a suit speaks at a podium with World Health Organization logos. Overlay text reads Backstory Podcast No 154 WHO Calls Pandemic
+alttags: A man in a suit speaks at a podium with World Health Organization logos.
+  Overlay text reads Backstory Podcast No 154 WHO Calls Pandemic
 related_articles:
 - slug: the-lie-of-the-century
   title: The Lie of The Century
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local prosecutors and law enforcement leaders hid critical autopsy reports
+  to send the wrong man to prison for murder. Documents reveal hidden evidence and
+  conflict-of-interest ties between county officials and the victim's burial services.
+  Discover the truth about local judicial misconduct as featured on Backstory Podcast
+  No 154 W.H.O. Calls The Plague.
 ---
 Happy Cinco De Mayo! The WHO says the Covid-19 Plague officially ends next week when travel restrictions and Title 42 will expire and.... the southern border is going nuts for which you get a free history lesson. The new CDC director just resigned. There are major revelations out this week exposed in Jeffrey Epstein's personal calendar: The current CIA Director, a former Israeli Prime Minister, Noam Chomsky, Etc. The Alabama Legislature is in session and there are a new slate of "18 ways to lock up a drug user" bills coming from the former ADA of Baldwin County Matt Simpson (R). We watch the NYC subway restraint death, the mob wants the choke-holder to face murder charges. Putin claims that Ukraine tried to kill him with a drone attack this week at the Kremlin. We have the newly released deposition of Donald John Trump for your viewing pleasure. And not to mention 2023 bank failures and almost as disappointing the Alabama Crimson Tide Baseball Coach laying bets, presumably, against his own team. Hell of a Cinco De Mayo.
 

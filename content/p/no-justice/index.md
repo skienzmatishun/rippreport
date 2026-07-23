@@ -10,7 +10,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: A grayscale 3D model of a balance scale with a central column, curved beam, hanging chains, and two detached pans on a black background
+alttags: A grayscale 3D model of a balance scale with a central column, curved beam,
+  hanging chains, and two detached pans on a black background
 related_articles:
 - slug: rule-32
   title: RULE 32
@@ -84,6 +85,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
+summary: Corrupt law enforcement officials framed an innocent man for murder while
+  intentionally hiding vital medical evidence from the defense. A suppressed autopsy
+  report and official court admissions reveal how prosecutors rigged the entire trial
+  to secure a life sentence. Expose how dirty prosecutors tilted the scales of justice
+  to lock away a man for twenty years on a total lie.
 ---
 The Baldwin County District Attorney Robert Wilters, was the presiding Judge in the Murray Lawrence case. Sheriff Hoss Mack was the lead investigator and David Whetstone was the prosecutor. They all signed a coroners report in relation to the exhumed body of Brandon Hastings. This report was recently found, however during the trial it was never provided to the defense. This was not an inadvertent mistake. Suppressing the report from the defense was willful and deliberate and deprived the defense of valuable information supporting the cause of death as suffocation, NOT gunshot.
 

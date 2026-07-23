@@ -12,7 +12,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A clear shot glass featuring a red outline of the state of Alabama with the words Sweet Home in red cursive script
+alttags: A clear shot glass featuring a red outline of the state of Alabama with the
+  words Sweet Home in red cursive script
 related_articles:
 - slug: elephants-in-alabama
   title: Elephants in Alabama
@@ -94,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Top state law enforcement officers and ethics leaders ran an illegal self-dealing
+  ring to enrich their own children with private trust funds. Sworn tax records and
+  civil filings prove how powerful directors funneled state perks and trust cash directly
+  into private family accounts. Discover the truth behind this Sweet Home shot glass
+  of TOP SHELF CORRUPTION.
 ---
 Read these articles and you will see why Alabama is head over heels, above any state, when it comes to political corruption. What makes it worse is the small minded press in the state. Journalist in Alabama appear to only cover certain news. They favor their own commentary and shy away from news “scoops” from another local news source. They are ignoring the elephants on Goat Hill.
 

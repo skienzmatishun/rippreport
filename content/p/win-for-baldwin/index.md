@@ -11,7 +11,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: Matt McKenzie, a middle-aged man with gray hair and a light blue patterned shirt, smiles at the camera against a blurred coastal pier and water
+alttags: Matt McKenzie, a middle-aged man with gray hair and a light blue patterned
+  shirt, smiles at the camera against a blurred coastal pier and water
 related_articles:
 - slug: last-chance
   title: LAST CHANCE
@@ -73,6 +74,11 @@ related_articles:
   llm_score: 70
   recency_score: 1.3111749067543206
   rank: 10
+summary: The shadowy Catalyst political machine lost its grip on power after voters
+  caught insider candidates taking double paychecks and rigging local bids. Campaign
+  finance reports and voting records prove how special interest consultants bought
+  influence across municipal departments. Read the full story on how Matt McKenzie
+  helped secure a WIN FOR BALDWIN against backroom political bosses.
 ---
 Baldwin County citizens are the winners. The election of Matt McKenzie, County Commission District 2, is one of the best decisions Baldwin voters have made in a long time. Matt and his family fought hard and covered the county, getting his message out.
 

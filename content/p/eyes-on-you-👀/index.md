@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State Representative Matt Simpson used his political delegation to route
+  hundreds of thousands of taxpayer dollars into his ally’s personal real estate holdings.
+  Investigative records show how the newly appointed ethics chairman approved suspect
+  lease deals while blatantly refusing to seek official ethics oversight. See what
+  happens when the public turns their EYES ON YOU 👀.
 ---
 Let’s top off 2022 by the most audacious local political corruption this year. I say audacious however it could be an example of the mental capacity of our elected officials. You would think that Sunday’s Sermon would be hard to beat:
 

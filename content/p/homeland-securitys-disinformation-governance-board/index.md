@@ -7,7 +7,8 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Slide for Backstory Podcast 126 on Lower Alabamas Endangered Species, featuring a black-and-white wildlife illustration by Cheryl Ramsey and the Baldwi...
+alttags: Slide for Backstory Podcast 126 on Lower Alabamas Endangered Species, featuring
+  a black-and-white wildlife illustration by Cheryl Ramsey and the Baldwi...
 related_articles:
 - slug: he-must-go
   title: He Must Go
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Federal and state bureaucrats wasted emergency relief funds on dark narrative
+  control while ignoring blatant local corruption. Internal reports uncover self-dealing
+  trustees, hidden lawsuits, and political hatchet jobs paid for with tax dollars.
+  Find out how deep it goes as Homeland Security’s Disinformation Governance Board
+  threatens local truth.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uxIJ9Kwc0ok" frameborder="0" allowfullscreen></iframe>
 

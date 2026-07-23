@@ -10,7 +10,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Sheriff Hoss Mack of the Baldwin County Sheriffs Office is shown with his face partially covered by a white sheet, wearing glasses and a mustache
+alttags: Sheriff Hoss Mack of the Baldwin County Sheriffs Office is shown with his
+  face partially covered by a white sheet, wearing glasses and a mustache
 related_articles:
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Former Sheriff Hoss Mack and his inner circle orchestrated decades of illegal
+  cover-ups and framed innocent citizens to protect their political empire. Departmental
+  correspondence and leaked forensic logs demonstrate how officials buried crucial
+  medical reports to guarantee guilty verdicts. Pull back the bureaucratic blankets
+  to see how these corrupt lawmen hid dark criminal secrets from the public.
 ---
 The good sheriff deputies at the Baldwin County Sheriff Office are fed up with their CCUO, Chief Cover up officer, Sheriff Mack. Mack has a colorful past of cover ups involving sheriff deputies and high ranking officers, sexual misconduct, missing evidence, incompetent investigations, traffic accidents, homicides, etc. This is the opportunity to expose the truth about what a good ole boy club the sheriff’s office is.
 

@@ -93,7 +93,13 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 10
-alttags: A magazine rack features a Soap Opera Digest cover with a sheriff in uniform and headlines about department corruption, surrounded by blurred copies of ...
+alttags: A magazine rack features a Soap Opera Digest cover with a sheriff in uniform
+  and headlines about department corruption, surrounded by blurred copies of ...
+summary: Sheriff Anthony Lowery inherited a toxic culture of cover-ups, officer misconduct,
+  and reckless deadly force from former Sheriff Hoss Mack. Whistleblower testimony
+  and internal affairs complaints expose widespread sexual scandals and self-clearing
+  murder investigations. Read the full exposure to browse the tabloid-style scandals
+  and secret cover-ups that these top officers tried to hide.
 ---
 Deputies and officers with the Sheriff department are sounding off about the sorry state of affairs within the department. Hoss Mack knew what he was doing when he dumped 20 years of problems on Lowery’s back. Now Lowery is bragging about the “CULTURE” he inherited, and adopted, from Hoss the Boss. Problem is that culture favors the good ole boys, aka GOB. The chain of command is arbitrary, accountability and transparency often disappears through favoritism. Internal cover-ups are a common practice. Sexual incidents within the department, from high ranking officers to patrol, would rival any soap opera.
 

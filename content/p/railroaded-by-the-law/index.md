@@ -6,7 +6,8 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: Francis Ripp of The Ripp Report stands in a tropical setting with palm trees and an ocean view, wearing glasses and a colorful floral shirt
+alttags: Francis Ripp of The Ripp Report stands in a tropical setting with palm trees
+  and an ocean view, wearing glasses and a colorful floral shirt
 related_articles:
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
@@ -88,6 +89,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Sheriff Hoss Mack and District Attorney Robert Wilters hid vital medical
+  records to keep an innocent man railroaded in prison for eighteen years. Official
+  forensic letters and signed state orders prove top prosecutors received a second
+  autopsy report but lied about its existence to defense lawyers. Look past their
+  peaceful resort-town image to confront the dark legal secrets buried right beneath
+  the surface.
 ---
 For years the Ripp Report has been exposing the corruption in Baldwin County and a Sheriff’s Department, that investigates themselves. I hope you have the time to get a Lagniappe and read the whole article as it is behind a paywall currently. Free Lagniappe papers are in most news stands in Baldwin and Mobile county.
 

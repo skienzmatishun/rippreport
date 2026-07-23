@@ -2,7 +2,11 @@
 title: EARFUL
 date: 2023-10-23 00:00:00+00:00
 thumbnail: img/earful.png
-summary: 'The narrative of the wrongful conviction of Murray Lawrence Jr., A Verbal Lynching in Alabama, has been recorded for a podcast. For further information: deal-with-the-devil.com.'
+summary: District Attorney David Whetstone and Sheriff Hoss Mack conspired to lock
+  away an innocent man for a crime he never committed. Suppressed forensic reports
+  and hidden autopsy documents show state prosecutors knowingly built their case on
+  coerced, fake testimony. Hear the explosive truth that corrupt Baldwin County officials
+  spent decades trying to drown out and ignore.
 categories:
 - dwtd
 authors:

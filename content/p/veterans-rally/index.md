@@ -7,7 +7,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: The Alabama State House building with classical columns and American and state flags flying in front
+alttags: The Alabama State House building with classical columns and American and
+  state flags flying in front
 related_articles:
 - slug: war
   title: WAR
@@ -18,7 +19,8 @@ related_articles:
   category_score: 0
   rank: 1
 - slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power
+    grab bill - Alabamagazette.com'
   score: 78.81944599865328
   llm_score: 90
   recency_score: 97.03126049090956
@@ -89,6 +91,11 @@ related_articles:
   length_score: 38.0
   category_score: 0
   rank: 10
+summary: Executive branch officials staged an arrogant power grab to seize total control
+  over independent veteran leadership. Leaked emails and legislative agendas reveal
+  a calculated scheme to strip local service groups of their statutory authority.
+  Stand on the political battleground with angry citizens fighting to stop corrupt
+  politicians from destroying military oversight.
 ---
 <center>{{< socialpreview url="https://1819news.com/news/item/veterans-to-rally-at-state-house-in-opposition-to-putting-adva-under-governors-control" >}}</center>
 

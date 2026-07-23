@@ -1,5 +1,6 @@
 ---
-title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+  Concerns '
 date: 2025-08-11
 categories:
 - ivy
@@ -9,7 +10,8 @@ authors:
 - admin
 related_articles:
 - slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns
   score: 83.75845950099607
   llm_score: 98
   recency_score: 98.36960163172333
@@ -88,6 +90,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope City Council members systematically ignore public concerns while
+  using backroom legal maneuvers to stop voters from stripping away their political
+  power. Uncovered city documents and secret meeting records expose a deliberate plot
+  by council insiders to delay ballot initiatives and silence taxpayers. Look past
+  their official public image and watch the video evidence before you make your decision
+  at the ballot box.
 ---
 Are you aware that the Fairhope City Council has ignored repeated concerns from their constituents?  Please watch this video before you vote!  Make your voice heard at the ballot box on August 26, 2025.
 

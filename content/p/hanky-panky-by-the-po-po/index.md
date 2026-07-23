@@ -11,7 +11,8 @@ tags:
 - Robert Wilters
 authors:
 - admin
-alttags: A pair of metal handcuffs with black fuzzy covers, connected by a chain, with two small silver keys placed between them on a white background
+alttags: A pair of metal handcuffs with black fuzzy covers, connected by a chain,
+  with two small silver keys placed between them on a white background
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking Baldwin County Sheriff's officers engaged in dirty internal
+  scandals while department brass turned a blind eye. Whistleblower reports and confidential
+  internal dates reveal a shameful pattern of executive favoritism and buried misconduct
+  complaints. Take the keys to these unlocked secrets and see what Sheriff Hoss Mack
+  tried so desperately to hide.
 ---
 It seems the Baldwin County Sheriff's Department has internal hanky panky problems. One of the top officers in the Sheriff's Department has been having a little extra curricular activity with a subordinate female employee, who is married to a fellow officer.  No official action by the sheriff has been taken, in fact, looks like it's covered up from the public.  Why should we care?  Because the Sheriff's Department is well known for cover ups.  The problem is that fellow officers are now wondering how this situation is not public and severe action has not been taken against the senior officer.  The Ripp Report has had 3 different people call us giving us dates, names and ranks of the individuals involved.  Let's see how Sheriff Hoss Mack is going to spin this sordid story. 
 

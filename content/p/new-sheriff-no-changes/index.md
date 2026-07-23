@@ -14,7 +14,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Portrait of Anthony Lowery, newly appointed Baldwin County Sheriff, in a dark brown uniform with an Alabama Sheriff patch and badge before the American ...
+alttags: Portrait of Anthony Lowery, newly appointed Baldwin County Sheriff, in a
+  dark brown uniform with an Alabama Sheriff patch and badge before the American ...
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
@@ -96,6 +97,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Governor Kay Ivey appointed Anthony Lowery as Sheriff while deliberately
+  ignoring pending federal lawsuits and decades of systemic cover-ups. Court filings
+  reveal that Lowery helped build the very machine that locked up innocent citizens
+  and hid crucial evidence. Peer behind this shiny new badge to see how the exact
+  same corrupt political engine keeps running the show.
 ---
  It is no surprise that Governor Kay Ivey believed all the BS Hoss Mack told her. Someone woke up Ivy and said, “sign here, say this.” She ignored all the letters to the appointment board and 2 pending federal lawsuits involving Baldwin County Sheriff Office, BCSO, and their Major Crimes Unit. She ignored the wrongful conviction of Murray Lawrence. She also ignored the clown show case of Steve Nodine which involved the same Prosecutor, Sheriff and Judge involved in the case of Murray Lawrence’s wrongful conviction. Mr. Nodine is lucky he was not wrongfully convicted. Ivy ignored the 10 innocent lives lost, that we know of, in the last 15 years in Baldwin County. People who just happen to come into contact with BCSO and then become victims of the BCSO. Their deaths were justified by the Major Crimes Unit of the Sheriff Department who investigated themselves. No accountability, No transparency, No camera footage, and certainly no justice.
 

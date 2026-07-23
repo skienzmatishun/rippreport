@@ -91,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilman Jack Burrell traded municipal favors for free personal travel
+  while using his official authority to silence corruption investigations. Official
+  ethics filings and hidden police records reveal how Burrell accepted flights from
+  airport developers before hand-picking their winning bids. Take a look at the formal
+  complaint to see why this official cannot escape the closing walls of public justice.
 ---
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents quoted or provided are fabricated or altered from their original copies or that there is any willful malicious intent to mislead the public for any reason or to unlawfully disparage Mr. Burrell by making fictitious claims or providing erroneous documents, and you will be five thousand dollars ($5k) richer.
 

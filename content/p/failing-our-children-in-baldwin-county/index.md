@@ -6,7 +6,8 @@ categories:
 - family-court
 authors:
 - ripp-report
-alttags: A triptych showing an adult man and young girl covering their faces, flanked by the Baldwin County Department of Human Resources building
+alttags: A triptych showing an adult man and young girl covering their faces, flanked
+  by the Baldwin County Department of Human Resources building
 related_articles:
 - slug: baldwin-county-dhr-lawsuit
   title: BALDWIN COUNTY DHR LAWSUIT
@@ -33,7 +34,8 @@ related_articles:
   category_score: 0
   rank: 3
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 58.53682934597419
   llm_score: 80
   recency_score: 0.12359808532571412
@@ -88,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State agencies and law enforcement officers ignored severe abuse indicators
+  and left helpless minors in extreme danger for months. Investigative case files
+  and medical records prove local authorities buried clear evidence of horrific criminal
+  neglect. Uncover the heartbreaking human toll left behind when cold government institutions
+  choose corruption over helpless victims.
 ---
 To all who have an interest in the safety of children in Baldwin County, Alabama and beyond,
 

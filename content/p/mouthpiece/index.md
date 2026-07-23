@@ -93,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilman Jack Burrell spent a decade delaying critical local infrastructure
+  projects while promising voters he would never support bridge tolls. Financial records
+  and meeting logs expose how he flipped his position to back a multi-billion dollar
+  toll scheme instead. Read the full investigation to learn how this political MOUTHPIECE
+  sold out Baldwin County taxpayers.
 ---
 The infrastructure failures in Fairhope are directly connected to Jack Burrell and his lackeys.
 

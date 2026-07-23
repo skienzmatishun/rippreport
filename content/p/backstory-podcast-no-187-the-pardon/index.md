@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking politicians routinely abuse emergency powers and pardon schemes
+  to shield corrupt insiders from criminal accountability. Investigative audio and
+  police reports document how state agencies targeted whistleblowers while covering
+  up massive local funding scandals. Follow this local license plate down our dirt
+  roads to discover how federal corruption drives local crime.
 ---
 This podcast discusses several current events, including a damning report on the US government's COVID-19 response, President Biden's pardon of his son Hunter, and allegations of misconduct against various officials. The hosts also cover controversies surrounding political appointments, the murder of a healthcare CEO, and the arrests of individuals critical of local government. Finally, the podcast features a discussion about the First Amendment and the wrongful arrests of individuals who exposed corruption in their local school district.
 

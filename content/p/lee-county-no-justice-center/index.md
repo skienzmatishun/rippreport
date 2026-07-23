@@ -9,7 +9,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Bodycam footage showing a persons extended arms holding a firearm aimed at a brick building entrance, featuring a BODYCAM logo and July 25, 2021 timestamp
+alttags: Bodycam footage showing a persons extended arms holding a firearm aimed at
+  a brick building entrance, featuring a BODYCAM logo and July 25, 2021 timestamp
 related_articles:
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
@@ -91,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Trigger-happy Auburn police officers and compliant judges rigged a violent
+  arrest to protect their corrupt law enforcement fraternity. Withheld dispatch logs
+  and suppressed medical findings show how officials manufactured attempted murder
+  charges against an innocent shooting victim. Discover how rogue lawmen breached
+  a family home and trampled basic constitutional rights without accountability.
 ---
 Have you noticed how a lot of communities are now building Justice Centers? Sounds like a good idea until you look a little closer and see the fraternity atmosphere. It is the police domain just like the courthouses. The police are in charge and they are armed to the teeth, where no one is armed? The Judges feel secure with such protection as well as the District Attorney and their minions. Pay attention and you will see all the same people at lunch somewhere, or surly in Church.
 

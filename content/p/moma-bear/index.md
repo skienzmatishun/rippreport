@@ -17,7 +17,8 @@ related_articles:
   category_score: 0
   rank: 1
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 64.54399277237172
   llm_score: 90
   recency_score: 0.6719512135090356
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local family court judges are running a vicious racket that tears children
+  away from innocent mothers for profit. Sworn testimonies uncover a rigged system
+  where crooked lawyers call frantic parents crazy to secure illegal custody grabs.
+  See the documents proving how Judge Thomason poked the MOTHER BEAR in this corrupt
+  courtroom scandal.
 ---
 ## Maternal instinct propagates disorder in the court
 

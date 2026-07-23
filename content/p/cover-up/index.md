@@ -87,6 +87,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Bay Minette officials and law enforcement bosses teamed up to suppress the
+  truth about a fatal police shooting. Internal letters and secret real estate leases
+  reveal a web of backroom deals that enriched the mayor while silencing a grieving
+  family. See the documents that expose this deadly COVER UP in Baldwin County.
 ---
 The Ripp Report received a copy of a letter from Mayor Bob Wills to Tamara French, O.J.’s older sister, in reference to Mr. O.J. French who was killed by Bay Minette police, August 20 2021.
 

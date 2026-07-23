@@ -2,13 +2,18 @@
 title: ALABAMA ATTORNEY GENERAL
 date: 2023-10-30 00:00:00+00:00
 thumbnail: img/alabama-ag.jpg
-summary: The Ripp Report filed two complaints with the Alabama Attorney General's office. For misconduct by the Alabama Ethics Commission's director and requests a review of past dismissed complaints. And the wrongful conviction of Murray Lawrence in Baldwin County.
+summary: Attorney General Steve Marshall turned a blind eye to blatant political corruption
+  and allowed corrupt officials to walk free. Official letters, defense affidavits,
+  and ignored ethics complaints prove his office actively buried evidence of severe
+  misconduct. Peer through the quiet government facade to discover how the state's
+  top legal mailbox became a black hole where justice goes to die.
 categories:
 - ethics
 - alabama
 authors:
 - admin
-alttags: A silver U.S. Mail mailbox on a black post behind a dark metal fence, with a red eighth note graphic overlaid on its side
+alttags: A silver U.S. Mail mailbox on a black post behind a dark metal fence, with
+  a red eighth note graphic overlaid on its side
 related_articles:
 - slug: deaf-ears
   title: DEAF EARS

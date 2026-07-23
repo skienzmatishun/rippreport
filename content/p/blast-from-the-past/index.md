@@ -93,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Former Sheriff Hoss Mack ran the Baldwin County Sheriff's Department like
+  a personal kingdom while burying internal sex scandals and wrongful convictions.
+  Leaked autopsy reports and departmental letters verify that top leadership knew
+  an innocent man was framed to protect high-ranking officers. Grab the key and unlock
+  the dark departmental secrets these corrupt gatekeepers tried to lock away forever.
 ---
 **Please read the comments.**
 

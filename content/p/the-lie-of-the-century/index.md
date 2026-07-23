@@ -2,13 +2,18 @@
 title: The Lie of The Century
 date: 2023-12-12
 thumbnail: img/the-lie-of-the-century.jpg
-summary: Murray Lawrence was convicted of capital murder based on a co-conspirator's testimony, despite no physical evidence and a conflicting autopsy report that was withheld from his defense. The case raises questions about potential misconduct within Baldwin County's legal system. Also, we praise a sleazy documentary
+summary: Systemic police corruption and corrupt prosecutors created a fake murder
+  narrative to obscure the truth and shield dirty cops. Leaked internal emails and
+  suppressed medical records prove how officials carefully curated evidence to protect
+  themselves from criminal liability. Uncover how authorities used a carefully curated
+  reality to hide key evidence and enforce their lie of the century.
 categories:
 - backstory-podcast
 authors:
 - admin
 rumble: v3yczga
-alttags: A police officer kneeling on a person, marked Exhibit 17. Text notes it replaced body cam video in the trial covered by Backstory Podcast No 169
+alttags: A police officer kneeling on a person, marked Exhibit 17. Text notes it replaced
+  body cam video in the trial covered by Backstory Podcast No 169
 related_articles:
 - slug: no-justice
   title: NO JUSTICE

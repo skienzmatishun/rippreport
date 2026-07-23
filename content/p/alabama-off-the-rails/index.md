@@ -2,13 +2,18 @@
 title: ALABAMA OFF THE RAILS
 date: 2025-02-06
 thumbnail: img/alabama-off-the-rails.png
-summary: Lost in all of this debate are the patients. Does anybody remember the patients? Do you remember the child that was having a violent seizure and after administering medical cannabis the child stopped seizing?
+summary: Greedy state insiders and high-priced law firms wrecked the medical cannabis
+  program to line their own pockets. Financial logs and court records show how greedy
+  special interest groups engineered endless lawsuits to delay public relief. Examine
+  how state politicians derailed promised healthcare legislation and left suffering
+  patients stranded in the wreckage.
 categories:
 - ivy
 - alabama
 authors:
 - admin
-alttags: An electronic sign reading MINUTES DUE TO AN ACCIDENT hangs above a blue RELIEF sign featuring a cannabis leaf icon at a train station platform
+alttags: An electronic sign reading MINUTES DUE TO AN ACCIDENT hangs above a blue
+  RELIEF sign featuring a cannabis leaf icon at a train station platform
 related_articles:
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'

@@ -103,7 +103,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A water tower with SUMMERDALE printed on its side, featuring a metal walkway and silhouetted against a bright sun creating a lens flare in the sky
+alttags: A water tower with SUMMERDALE printed on its side, featuring a metal walkway
+  and silhouetted against a bright sun creating a lens flare in the sky
+summary: Political fixer Scott Boone and local judicial insiders manipulate elections
+  and cover up law enforcement misconduct across Baldwin County. Deleted social media
+  communications and court filings uncover how backroom operatives orchestrate political
+  forums and shield corrupt officials. Drag their secret receipts into the scorching
+  heat of public scrutiny before they burn down everything.
 ---
 Today the Summerdale candidate forum will feature the good ole boys, and women of Baldwin County, infighting and dividing alliances. It seems Catalyst has stained the name of Scott Boone Consulting aka Catalyst, and some of his loyalists are wanting a divorce. Scott Boone is Lowery’s campaign manager, which should come as no surprise.
 

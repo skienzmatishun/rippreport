@@ -542,3 +542,32 @@ hooks:
 
       - Montgomery, AL'
     generated_at: '2026-03-20T16:36:45.819240Z'
+theme_analysis:
+  image_theme: 'The image is a literal, clinical representation of a cannabis leaf
+    centered on a neutral, plain background. It lacks any narrative action, emotional
+    cues, or specific environmental context. Its primary function is as a direct visual
+    signifier for the subject matter—marijuana—conveying a sense of singular focus
+    and objectivity.
+
+    '
+  article_theme: 'The core theme is the complex "legal morass" surrounding Alabama''s
+    medical marijuana legislation. The article explores how the move toward legalization
+    is entangled with political corruption, including "poison pills" in previous laws
+    that led to massive litigation costs, the prioritization of political loyalty
+    over public welfare (such as Medicaid expansion), and a pattern of legislative
+    obstructionism. It frames the bill not just as a healthcare issue, but as a high-stakes
+    political maneuver within a corrupt administrative framework.
+
+    '
+  theme_connections:
+  - The image serves as a literal visual anchor for the article's primary subject—the
+    medical marijuana bill—providing a direct and clear identification of the legislative
+    focus discussed in the text.
+  - Given the article's focus on litigation, 'poison pills,' and industry stakeholders,
+    the isolated leaf symbolizes the high-stakes political and financial 'prize' that
+    various factions are vying to control, highlighting the gap between the public
+    face of medical access and the hidden reality of backroom maneuvers.
+  - The stark simplicity of the image creates a thematic contrast with the dense,
+    messy legislative history described in the article; it represents the simplified
+    narrative presented to the public while the text reveals a complex web of corruption,
+    wasted state funds, and political retaliation.

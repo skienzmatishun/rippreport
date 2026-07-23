@@ -26,7 +26,8 @@ tags:
 - Ed Oliver
 authors:
 - ripp-report
-alttags: Five soldiers in US Army uniforms salute against a red-tinted backdrop of rocky cliffs and winged creatures
+alttags: Five soldiers in US Army uniforms salute against a red-tinted backdrop of
+  rocky cliffs and winged creatures
 related_articles:
 - slug: red-lips-award
   title: RED LIPS AWARD
@@ -45,7 +46,8 @@ related_articles:
   category_score: 0
   rank: 2
 - slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power
+    grab bill - Alabamagazette.com'
   score: 72.16437471620674
   llm_score: 80
   recency_score: 92.10952933439548
@@ -108,6 +110,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Governor Kay Ivey and her legislative allies stripped veteran representatives
+  of their power in a nasty political revenge scheme. Explosive ethics files and legislative
+  votes highlight millions in diverted federal funds and backroom political favors.
+  Discover how dirty state politicians forced military heroes to march through a political
+  hell just to save their own skin.
 ---
 It is official our Biden syndrome Governor aka mee ma has successfully got our elected officials to Cut the Throats of Alabama Veterans.
 

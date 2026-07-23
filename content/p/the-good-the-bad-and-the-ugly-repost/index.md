@@ -90,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
+summary: Jack Burrell and his political cabal continue to manipulate local elections
+  while hiding massive legal liabilities from unsuspecting taxpayers. Confidential
+  meeting minutes and Supreme Court records show council members wasting over eleven
+  million dollars on failed lawsuits to protect their friends. Uncover how political
+  favors and corrupt drinking buddies turned city hall into a rigged game of chance.
 ---
 ## FAIRHOPE THE GOOD
 

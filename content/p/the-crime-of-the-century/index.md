@@ -3,12 +3,17 @@ title: THE CRIME OF THE CENTURY
 date: 2025-02-01
 thumbnail: img/the-crime-of-the-century.jpg
 rumble: v6dp8k4
-summary: On today's podcast, Trump’s plans for military changes, free speech limits, and business rules. We look at claims Biden protected his family and allies like Dr. Fauci. Alabama Governor Ivey upsets veterans by making their board political. A court case says people can’t sue police over a wrong SWAT raid. Lawmakers will soon debate new laws, with rumors about Ivey’s future.
+summary: High-ranking state officials and insider networks continue to hijack public
+  trust while protecting corrupt law enforcement and special interest schemes. Leaked
+  records and court filings confirm how powerful insiders quietly funneled scholarship
+  money, ignored police misconduct, and stripped public funds. Look past their smiling
+  public personas to expose the ugly reality hiding behind official state doors.
 categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Backstory Podcast cover featuring Joe Biden and Kamala Harris seated side by side, flanked by the Baldwin County seal and podcast logo
+alttags: Backstory Podcast cover featuring Joe Biden and Kamala Harris seated side
+  by side, flanked by the Baldwin County seal and podcast logo
 related_articles:
 - slug: hanky-panky-at-the-po-po
   title: Hanky Panky at the Po Po

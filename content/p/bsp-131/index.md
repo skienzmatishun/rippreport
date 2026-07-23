@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Top state officials and ethics directors funnel trust fund money into personal
+  family accounts without facing criminal charges. Tax filings and audit documents
+  reveal over $100,000 in illegal self-dealing payouts shielded by high-ranking state
+  attorneys. Learn the full story and say Welcome To The Party Pal as we blow the
+  lid off statehouse corruption.
 ---
 The WHO has declared the Monkeypox Outbreak a Global Pandemic. The Press (The Fourth Estate) has at least taken notice of the fact that the Ethics Commission, Attorney General’s Office, and the Alabama State Bar have leadership problems (bless their hearts) or worse. Governor Iveys office is keeping it classy relating to masking, with the Alabama Department of Public Health suggesting we wear them again given the prevalence of the BA5 Omicomin Variant of SARS-COV-2. Mobile Baykeeper is suing Alabama Power Company over their plans to leave 15 million tons of spent coal ash (industrial Waste) on the banks of the Mobile River. My money's on the highly profitable Private Monopolistic Utility that operates with impunity because it owns the members of the Public Service Commission (state regulatory agency)and Director LaFluer at ADEM is as worthless as a mountain oyster, and that’s being generous. The same man who has ignored all complaints about the package plant on Fort Morgan Road… Little Lagoon residents hypothesize that the elevated phosphorus in water is coming from a sewer plant operated by Baldwin County Sewer Service….interestingly enough this plant was the subject matter of the Strawman Lawsuit. So welcome to the party, Pal.
 {{< youtubecomments >}}

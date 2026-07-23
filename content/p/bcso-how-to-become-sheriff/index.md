@@ -12,7 +12,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Book cover for How to Become Sheriff for Dummies, fourth edition. Features a cartoon character holding a CD and text reading Fear and Intimidation inclu...
+alttags: Book cover for How to Become Sheriff for Dummies, fourth edition. Features
+  a cartoon character holding a CD and text reading Fear and Intimidation inclu...
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
@@ -94,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Sheriff Hoss Mack earned his career advancement by coercing witnesses, falsifying
+  evidence, and framing an innocent man for murder. Trial transcripts and exhumation
+  records prove top prosecutors and deputies hid key coroner findings for nearly two
+  decades. Expose the corrupt playbook these rogue officers used to trade human lives
+  for power and promotions.
 ---
 First I would like to thank all the people who have warned me of retaliation that I may receive for writing the truth about BCSO and Sheriff Mack. Let me assure you that I have talked with the Attorney General’s office, FBI and other federal officials. I not only talked with them but provided documents. In addition we have talked with CNN, Investigative reporters, not in Alabama, Netflix and several producers that may be interested in a documentary.
 

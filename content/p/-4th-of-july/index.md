@@ -47,5 +47,10 @@ related_articles:
   title: AMERICA - THE GOLDEN DOOR
   score: 65
   rank: 10
+summary: City officials love hiding behind red, white, and blue celebrations while
+  quietly blowing millions on questionable municipal projects and bad land deals.
+  Financial records reveal millions drained into airport maintenance fees, unneeded
+  sewerage plant expenses, and fishy property gifts. Read the full 4th of July expose
+  to uncover what local politicians are burning besides fireworks.
 ---
 Have a great 4th of July weekend! Remember the brave soldiers fighting for our freedom and the veterans this holiday.

@@ -6,7 +6,13 @@ categories:
 - ivy
 authors:
 - ripp-report
-alttags: A bald eagle with outstretched wings perches on a wooden mailbox post, holding a brown leather satchel of envelopes. A rural road and trees are visible ...
+alttags: A bald eagle with outstretched wings perches on a wooden mailbox post, holding
+  a brown leather satchel of envelopes. A rural road and trees are visible ...
+summary: Baldwin County officials routinely ignore legitimate ethics complaints to
+  shield their corrupt political buddies from criminal accountability. Paper trails
+  expose a dirty pattern of municipal cover-ups, backroom dealmaking, and stolen BP
+  payout funds. Follow our relentless watchdog as we monitor all fourteen municipalities
+  to shield your community from predatory politicians.
 ---
 Facebook fans on the Ripp Report and Baldwin County Legal Eagle can sign up for the Ripp Report on [https://rippreport.com/](https://rippreport.com/). The Ripp Report is a consumer group who’s major goal is to expose political corruption. We do however assist in many areas of consumerism not related to politics. The upcoming elections are going to be very important to the citizens of Baldwin County.
 

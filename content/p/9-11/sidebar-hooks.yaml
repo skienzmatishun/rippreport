@@ -410,3 +410,37 @@ hooks:
 
       - None explicitly named in provided text.'
     generated_at: '2026-03-13T21:05:45.753048Z'
+theme_analysis:
+  image_theme: 'The image is a solemn, patriotic commemorative graphic centered on
+    the anniversary of the September 11th terrorist attacks. It features the New York
+    City skyline at night, dominated by two iconic light beams rising from the site
+    of the World Trade Center towers. The large, stylized "9" and the phrase "NEVER
+    FORGET" are overlaid against a backdrop of the American flag. The emotional tone
+    is one of mourning, resilience, and national unity. Symbolically, the light beams
+    represent an enduring scar on the national consciousness and a commitment to collective
+    memory.
+
+    '
+  article_theme: 'While the text of the article is minimalist—consisting only of the
+    phrase "Never Forget"—the broader context provided by The Ripp Report’s investigative
+    framework reveals a theme of systemic betrayal and the erosion of democratic values.
+    The core issue is the contrast between the sacrifices made for national security/freedom
+    (represented by 9/11) and the current state of political corruption, specifically
+    highlighting government neglect of veterans (VA issues) and the suppression of
+    free speech in local governance. The emotional core is a sense of urgency: a warning
+    that "never forgetting" must extend beyond historical tragedy to include an awareness
+    of contemporary institutional failures.
+
+    '
+  theme_connections:
+  - The image serves as a direct visual anchor for the article's primary text, establishing
+    a theme of national sacrifice that provides a moral foundation for the publication’s
+    investigative work on political corruption.
+  - There is a poignant irony between the 'Never Forget' imagery of national tragedy
+    and the article's underlying exposure of current systemic failures; it suggests
+    that while the country remembers past attacks, it is currently failing to protect
+    its citizens from the internal threat of government betrayal.
+  - The light beams in the image symbolize an enduring legacy of heroism which mirrors
+    the author's own veteran status and the broader narrative of honoring those who
+    served—a theme used to contrast with the 'betrayal' of politicians who prioritize
+    money over constitutional rights.

@@ -3,7 +3,11 @@ title: STEALING FROM KIDS
 date: 2023-11-04
 thumbnail: img/stealing-from-kids.jpg
 gif: img/stealing-from-kids.gif
-summary: Alabama faces accusations of corruption, particularly concerning the head of the Ethics Commission who remains in his position despite legal issues. The lawsuit against him raises concerns about a potential cover-up and lack of accountability within the state's legal system.
+summary: Ethics Director Tom Albritton systematically siphoned off private trust money
+  meant to send poor children to college. Financial tax filings and bank records reveal
+  over one hundred thousand dollars redirected straight into his own family's personal
+  accounts. Strip away his respectable official title to expose how a high-ranking
+  state ethics chief robbed vulnerable kids like a common thief.
 tags:
 - Ethics Commission
 - Albritton
@@ -12,7 +16,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A man in a black-and-white striped shirt and black gloves holds a fan of hundred-dollar bills in one hand and a tan bag with a Bitcoin logo in the other
+alttags: A man in a black-and-white striped shirt and black gloves holds a fan of
+  hundred-dollar bills in one hand and a tan bag with a Bitcoin logo in the other
 related_articles:
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE

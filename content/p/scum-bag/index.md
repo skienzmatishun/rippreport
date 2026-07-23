@@ -95,7 +95,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Attorney James Pittman smiles at a podium against a dark green background, wearing a white shirt, pink tie, and a dollar-sign patterned suit
+alttags: Attorney James Pittman smiles at a podium against a dark green background,
+  wearing a white shirt, pink tie, and a dollar-sign patterned suit
+summary: Attorney James Pittman manipulated judicial appointments and used dirty legal
+  tricks to steal property from a vulnerable elderly woman. Uncovered court filings
+  and unpaid vendor bills show how Pittman squeezed companies and planted friendly
+  judges to protect his cash schemes. Unmask the shameless greed driving this dollar-suit
+  lawyer to weaponize the courts for personal gain.
 ---
 This is an excellent article, everyone should read it. The facts show how an attorney can manipulate the legal system. How an unethical attorney can bend the rules and even present false evidence. It also presents a picture about judicial appointments and then professes that no conflict of interest exists while our common sense suspects potential favoritism among Judges and attorneys. It shows greed and a disdain for a true sense of justice. More than anything else it puts a spotlight on an attorney that would seek to take an innocent 98 year old woman’s house while she is battling dementia.
 

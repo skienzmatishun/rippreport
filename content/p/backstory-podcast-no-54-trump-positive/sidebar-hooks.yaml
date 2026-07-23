@@ -583,3 +583,35 @@ hooks:
 
       - Donald Trump'
     generated_at: '2026-03-18T06:08:54.864023Z'
+theme_analysis:
+  image_theme: 'The primary theme of the image is illumination and investigation.
+    The central icon—a desk lamp—serves as a classic symbol for "shining a light"
+    on hidden truths, secrets, or neglected facts. This is reinforced by the tagline
+    "Streaming the Facts to Light." The metallic silver background and professional
+    typography convey a sense of serious, objective journalism. The overall tone is
+    one of uncovering truth from shadows, suggesting that information is being brought
+    out of obscurity into clear view for public scrutiny.
+
+    '
+  article_theme: 'The core theme of the article is the intersection of political vulnerability,
+    crisis management, and systemic corruption. It explores how high-level events
+    (President Trump''s health and the 25th Amendment) and local crises (Hurricane
+    Sally and COVID-19 mandates) are intertwined with legislative maneuvering and
+    personal political friction. The emotional core is one of instability and skepticism;
+    it frames the government''s response to emergencies as a landscape of "bad governance,"
+    where public safety concerns are often secondary to political utility, power dynamics,
+    and corruption.
+
+    '
+  theme_connections:
+  - The image of the lamp symbolizes the act of exposure, mirroring the article's
+    role in 'illuminating' the hidden political consequences of Trump’s health status
+    and the legislative maneuvers surrounding presidential incapacity.
+  - The visual theme of clarity (bringing facts to light) contrasts with the chaotic
+    and often opaque nature of the events described—such as the friction between state
+    officials during a crisis and the clandestine nature of impeachment proceedings
+    and executive overreach.
+  - The 'Backstory' branding in the image connects to the article’s narrative structure,
+    which seeks to provide a continuous chronological thread (the 'backstory') to
+    explain how current local corruption and federal health crises are symptoms of
+    a larger, ongoing pattern of political instability.

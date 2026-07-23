@@ -11,7 +11,8 @@ tags:
 - Hoss Mack
 authors:
 - admin
-alttags: Black and white triptych showing a close-up of Murray Lawrence Jr. looking upward, flanked by scenes of trees and a wooden pier
+alttags: Black and white triptych showing a close-up of Murray Lawrence Jr. looking
+  upward, flanked by scenes of trees and a wooden pier
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Top Baldwin County officials put an innocent Fairhope man behind bars for
+  capital murder while protecting the real killer. Trial transcripts and hidden medical
+  examiner records uncover a web of suppressed evidence and coerced testimony designed
+  to secure a crooked conviction. Follow our investigation to help expose the hidden
+  autopsy report and shatter the lies that buried an innocent man.
 ---
 Many people have seen the movie <a href="https://www.youtube.com/watch?v=6YzyVklCoAU">Just Mercy</a>, a true story of the wrongful conviction of Walter McMillan, Baldwin County, Alabama. A second case that parallels the Just Mercy story is that of Murray Lawrence Jr, Fairhope, Alabama, Baldwin County. This case involves the Judge, Prosecutor and Sheriff, lead investigator at the time of withholding evidence from the defense, an inefficient police investigation. Please take a few minutes and review the links below, they will inform you of the facts of the
 wrongful conviction.

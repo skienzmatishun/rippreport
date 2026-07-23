@@ -2,12 +2,17 @@
 title: M.I.A.
 date: 2025-01-16
 thumbnail: img/mia-2.jpg
-summary: The Ripp Report has been missing in action for about two months. I had my 14th shoulder operation on Nov.4th and that took me out for about 4 weeks. That operation has been very successful. Then quite unexpected I got vertigo which has taken me about 4 weeks to kick to the curb. At the same time Meta locked me out of my social media pages, The Ripp Report, BCLE and F. Paul Ripp.
+summary: Big tech platforms and shady local politicians tried to silence our investigative
+  news machine while recovery kept us off the beat. Fresh intelligence and court records
+  prove that backroom censorship efforts failed to protect corrupt family court judges
+  and dirty city council members. Break through their censorship cage and see how
+  we continue to drag political vultures into the light.
 categories:
 - freaky-friday
 authors:
 - admin
-alttags: An American bald eagle with white bandages on its wing and leg stands inside a metal wire cage
+alttags: An American bald eagle with white bandages on its wing and leg stands inside
+  a metal wire cage
 related_articles:
 - slug: notice
   title: 'NOTICE:'

@@ -652,3 +652,35 @@ hooks:
 
       Airport Authority'
     generated_at: '2026-07-10T17:58:43.296342Z'
+theme_analysis:
+  image_theme: 'The image features a stark, white exclamation point centered on a
+    vibrant red background. This is a universal symbol for a warning, an alarm, or
+    an urgent need for attention. The high contrast between the white and the red
+    evokes feelings of immediate danger, emergency, and "stop" signals. It conveys
+    a sense of shock or a whistleblower''s alert, demanding that the viewer pay attention
+    to something critical or hazardous.
+
+    '
+  article_theme: 'The article exposes systemic political corruption and corporate
+    greed in Fairhope, Alabama. The core theme is the prioritization of developer
+    profits over public safety, specifically regarding the dangerous traffic conditions
+    at the Highway 98 and Parker Road intersection. It paints a picture of "cronyism"
+    where politicians (the Catalyst group) are allegedly colluding with developers
+    to bypass safety standards, resulting in what the author describes as a literal
+    "death trap" or "danger zone." The emotional core is one of outrage and alarm
+    over the tangible consequences of these backroom deals.
+
+    '
+  theme_connections:
+  - The image serves as a literal visual translation of the article's title, 'DANGER
+    ZONE.' It functions as a warning sign for the physical hazards described in the
+    text, symbolizing the immediate risk to motorists who are being endangered by
+    reckless infrastructure planning.
+  - The exclamation point acts as a 'wake-up call' or an alarm regarding the shocking
+    nature of the political corruption. It mirrors the article’s intent to expose
+    secret handshakes and hidden deals that have been ignored by the public until
+    now, framing the investigation as an urgent alert against systemic negligence.
+  - The use of red—a color associated with both emergency and blood—connects to the
+    article's mention of lives lost at the intersection. It creates a thematic link
+    between the 'blood on the asphalt' caused by developer greed and the high-alert
+    status of a community facing an infrastructure crisis.

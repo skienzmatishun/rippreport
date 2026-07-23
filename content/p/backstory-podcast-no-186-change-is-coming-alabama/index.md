@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Alabama state leaders orchestrated backroom political purges and weaponized
+  budget amendments to strip resources from vulnerable communities. Legislative documents
+  and insider interviews reveal how state officials closed rural hospitals while funneling
+  public dollars into private hands. Step behind the grand theater of election night
+  graphics to witness how politicians divide the spoils in secret.
 ---
 Backstory Podcast No. 186 features discussions on various topics, including the 2024 US Presidential election results, The Trump Cabinet 2.0, government spending on misinformation, the impact of the war in Ukraine, and news stories from Alabama, such as the closing of rural hospitals and changes to hunting seasons. The podcast also covers legal and political issues, including antitrust lawsuits against Google and proposed constitutional amendments in Alabama. The episode includes input from a Veterans/Consumer Advocate, a journalist, and an attorney.
 

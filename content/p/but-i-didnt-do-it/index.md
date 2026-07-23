@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Ruthless county officials framed an innocent man for murder to protect their
+  own careers and hide botched police investigations. Excluded autopsy reports and
+  suppressed court transcripts reveal how prosecutors made deals with the actual killer
+  while hiding key evidence. See the documents that expose the tragic truth behind
+  But, I Didn’t Do It…
 ---
 by Nancy Koerner
 

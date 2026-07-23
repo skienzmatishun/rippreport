@@ -1,5 +1,6 @@
 ---
-title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab
+  bill - Alabamagazette.com'
 date: 2025-02-12
 thumbnail: img/s_topXEXT1371x33798is.jpg
 categories:
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Governor Kay Ivey sparked a major political civil war by attempting to seize
+  direct control over veteran appointments. Legislative transcripts and public statements
+  confirm top state leaders broke ranks to stop this outrageous executive overreach.
+  Witness the exact moment party loyalty shattered as high-ranking leaders exposed
+  this reckless government control plot.
 ---
 By <a href="https://www.alabamagazette.com/author/brandon_moseley"> Brandon Moseley - Alabamagazette.com
 

@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Attorney General Steve Marshall buries white-collar corruption complaints
+  while protecting state ethics officials from criminal prosecution. Official correspondence
+  and court filings demonstrate how state investigators quietly dismiss evidence of
+  trust fund self-dealing and misconduct. Find out how deep it goes as we map out
+  the ALABAMA SHUFFLE across the entire state.
 ---
 The Attorney General of Alabama, Steve Marshall is doing the Alabama Shuffle. It is easy he just mentions key words like Biden, Abortion, Immigration or files frivolous lawsuits. That is all it takes to sidetrack his constituents. Marshall may go down as the worst Alabama A.G. “Always Gone” in the last 25 years.
 

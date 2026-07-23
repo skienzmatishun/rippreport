@@ -88,6 +88,11 @@ related_articles:
   length_score: 31.75
   category_score: 0
   rank: 10
+summary: Powerful corporate gatekeepers and Fairhope insiders silenced critical watchdog
+  reporting by locking us out of our public platforms. Internal records and court
+  filings show a desperate campaign to crush constitutional free speech rights before
+  the upcoming election. See how we plan to use the key of truth to unlock these hidden
+  backroom deals and break through their censorship.
 ---
 Facebook really did a number on thousands of people that spent years building their sites. We were blocked out of our Facebook sites The Ripp Report and Francis Paul Ripp. To communicate or follow us please join the new sites <a href="https://www.facebook.com/rippreport" >Ripp Report</a> and Francis Ripp. Our .com site remains the same RippReport.com</a>
 

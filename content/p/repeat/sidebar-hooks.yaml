@@ -534,3 +534,35 @@ hooks:
 
       *   Matt McKenzie (District Two Candidate)'
     generated_at: '2026-07-18T16:47:33.742372Z'
+theme_analysis:
+  image_theme: 'The image is a stark, black-and-white graphic featuring three bold
+    arrows arranged in a circular, clockwise motion within a double border. The primary
+    theme is one of continuity, repetition, and cyclicality. It evokes the concept
+    of "the wheel turning" or a closed loop where the output becomes the input. Depending
+    on the context, it can symbolize progress (recycling), but in an investigative
+    journalism setting, it leans toward stagnation, systemic persistence, or the frustrating
+    recurrence of the same events over time.
+
+    '
+  article_theme: 'The core theme is the cyclical nature of political corruption and
+    administrative inertia in Baldwin County and Fairhope. The article explicitly
+    uses the word "REPEAT" to describe how old political issues—such as debt, obstruction
+    of transparency, and the silencing of public participation—are resurfacing despite
+    previous warnings or elections. It highlights a sense of frustration with "business
+    as usual," where the same actors and tactics (like those used by the Fairhope
+    City Council) continue to impede progress, creating a cycle where corruption is
+    perpetually recycled rather than resolved.
+
+    '
+  theme_connections:
+  - The image serves as a literal visual metaphor for the article's title ('REPEAT')
+    and its central thesis that political issues are not being solved but are instead
+    traveling in cycles from year to year.
+  - The circular motion of the arrows symbolizes systemic stagnation; it conveys the
+    idea that despite public outcry or elections, the local government is 'spinning
+    its wheels,' repeating the same obstructive behaviors and maintaining the status
+    quo.
+  - 'The recycling imagery creates a poignant irony: while recycling typically implies
+    renewal, here it represents the ''recycling'' of corruption—where old debts, failed
+    projects, and silenced voices are continuously passed down to the next term without
+    any meaningful change or new leadership input.'

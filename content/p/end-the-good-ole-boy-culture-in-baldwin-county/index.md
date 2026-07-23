@@ -17,10 +17,15 @@ tags:
 - Chris Elliot
 - Catalyst
 - Scott Boone Consulting
-summary: The only way to effectively dismantle the good ole boy system is vote them out. Years ago a gentleman by the name of Lynn Stacy was the go to guy to get elected, to anything in Baldwin County. Stacy then added two cohorts and formed Stacy, Elliot and Haygood.
+summary: Former Sheriff Hoss Mack and his shadowy political network systematically
+  manipulate Baldwin County elections to keep their obedient puppets in power. Leaked
+  records show how these insiders rebranded their organization under new names to
+  hide dirty political deals from the public. Decide whether you will stay on their
+  tracks of corruption or help divert Baldwin County onto a new path.
 authors:
 - admin
-alttags: A railroad track switch curves through a grassy field, marked by a warning sign displaying GOB crossed out with a red X and a round signal light
+alttags: A railroad track switch curves through a grassy field, marked by a warning
+  sign displaying GOB crossed out with a red X and a round signal light
 related_articles:
 - slug: good-ole-boys-lose-front-teeth
   title: GOOD OLE BOYS LOSE FRONT TEETH

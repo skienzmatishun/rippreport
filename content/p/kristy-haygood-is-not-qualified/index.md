@@ -7,7 +7,11 @@ categories:
 tags:
 - Elections
 - Kristi Hagood
-summary: This is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with Alabama Exposure and Accountability LLC. We operate as an independent, not for profit consumer organization. No political group, candidate for office or outside source has contributed to this post. We are NOT attorneys and do not give legal council. We are ADVOCATES for justice. The Duty to Seek Justice
+summary: Prosecutor Kristi Hagood manipulated court records and ignored clear exculpatory
+  evidence to protect her boss from a massive scandal. Legal filings show she argued
+  suppressing a vital autopsy was harmless error despite knowing it contradicted the
+  state's entire case. Watch how quickly they fed the truth to the paper shredder
+  just to protect their corrupt inner circle.
 authors:
 - ripp-report
 related_articles:

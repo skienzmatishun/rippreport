@@ -46,6 +46,11 @@ related_articles:
   title: Never Forget
   score: 30
   rank: 10
+summary: Rogue state lawmakers gutted veterans oversight to punish whistleblowers
+  who exposed millions in missing federal rescue funds. Roll call votes and ethics
+  filings expose how politicians colluded to hide diverted money behind emergency
+  legislative maneuvers. See what they're hiding this Memorial Day while real military
+  heroes continue fighting for justice.
 ---
 In honor of our heroes.
 

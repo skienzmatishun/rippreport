@@ -2,13 +2,18 @@
 title: BALDWIN COUNTY WRONGFUL CONVICTION
 date: 2023-10-07 00:00:00+00:00
 thumbnail: img/baldwin-county-wrongful-conviction.jpg
-summary: The following is an audio podcast, narrative, about the wrongful conviction of Murray “Bubba” Lawrence and the corrupt Baldwin County judicial system.
+summary: Former Prosecutor David Whetstone and local law enforcement chiefs built
+  a fortress of lies to bury an innocent citizen in prison. Shocking trial transcripts
+  and timeline analysis reveal that key law enforcement officials suppressed exculpatory
+  evidence to win at all costs. Step inside the county courthouse to see how corrupt
+  lawmen turned a shrine of justice into a tomb for the truth.
 categories:
 - freaky-friday
 - dwtd
 authors:
 - admin
-alttags: A black-and-white photograph of the Baldwins County Courthouse, featuring a clock tower and large arched entrance windows
+alttags: A black-and-white photograph of the Baldwins County Courthouse, featuring
+  a clock tower and large arched entrance windows
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'

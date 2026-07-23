@@ -91,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking state officials lined their own pockets with millions in stolen
+  charitable trust money meant for needy students. Tax filings prove powerful judges
+  and ethics directors funneled massive cash payouts straight to their own family
+  members. Read the full investigation to expose this TOP TO BOTTOM CORRUPTION before
+  they bury the files forever.
 ---
 Here is an update on the ETHICS, Alabama Ethics. Alabama is hopelessly corrupt from top to bottom. An absent Governor, a Bar Association in the septic tank. A judiciary with its head in the sand and an Attorney General giving them all a pass.
 

@@ -95,7 +95,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A collage of Alabama materials showing a Republican nominee poster, a county map, and Facebook posts about Orange Beach officials and attorney Harry Still
+alttags: A collage of Alabama materials showing a Republican nominee poster, a county
+  map, and Facebook posts about Orange Beach officials and attorney Harry Still
+summary: Local officials and police chiefs staged a fake arrest against attorney Harry
+  Still to derail an active investigation into mayor corruption. Leaked internal emails
+  and audio recordings prove law enforcement pre-targeted Still and tried to frame
+  him before a jury cleared his name. Expose how shameless power players used raw
+  thuggery and false arrests to silence their sharpest critics.
 ---
 Today we look into the Slander of Podcast Host and Baldwin County Attorney Harry Still by City of Orange Beach Officials at the time of his arrest (when he was assaulted by Bay Minette City Councilman Matt Franklin) and the idiot local newscasters who will repeat anything from any source.  We then lament the Primary Election results.  The Deal or No Deal with Iran and the scandal that is the new appointments to the PSC.  Tubberville and Roy Moore have lawsuits, Tony Kennon has ethics problems, and Prichard Cops are corrupt, clutching my pearls.
 

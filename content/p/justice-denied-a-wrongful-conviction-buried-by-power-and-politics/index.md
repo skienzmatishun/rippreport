@@ -15,7 +15,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: 'Four men in suits stand side by side in a black and white photo. From left to right: Robert Wilters, Anthony Lowery, Huey Mack, and David Whetstone'
+alttags: 'Four men in suits stand side by side in a black and white photo. From left
+  to right: Robert Wilters, Anthony Lowery, Huey Mack, and David Whetstone'
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
@@ -97,6 +98,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Four powerful Baldwin County officials framed Murray Lawrence Jr. for murder
+  to boost their own careers while burying the truth. Suppressed autopsy files and
+  reviewed trial transcripts prove Robert Wilters, Hoss Mack, and Anthony Lowery concealed
+  vital evidence that exonerates an innocent man. Read the records to see how these
+  four officials built a wall of corruption to trade a human life for political power.
 ---
 FOR IMMEDIATE RELEASE
 

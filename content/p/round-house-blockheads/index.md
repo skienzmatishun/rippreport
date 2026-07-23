@@ -1,7 +1,12 @@
 ---
 title: ROUND HOUSE SQUARE HEADS
 date: 2023-12-01 00:00:00+00:00
-summary: The author of a book about the Montrose Hut is proposing to move it, but it's a real estate deal to benefit the owner and city councilman Boone, who is accused of being part of a political machine. The city is looking for donations to cover the moving cost.
+summary: Fairhope City Council members and local power brokers are secretly scheming
+  to push through a shady real estate relocation deal on the public's dime. Uncovered
+  financial paper trails reveal hundreds of thousands of dollars flowing from anonymous
+  donors to bypass critical city permit laws. Look past their smug, rigid posturing
+  to see how these political blockheads are reshaping our town for their own private
+  profit.
 thumbnail: img/round-house-blockheads.jpg
 tags:
 - City Council
@@ -14,7 +19,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: The Montrose Hut, a concrete dome, has three openings with digitally inserted faces. A nearby sign shows Baldwin County and Fairhope emblems
+alttags: The Montrose Hut, a concrete dome, has three openings with digitally inserted
+  faces. A nearby sign shows Baldwin County and Fairhope emblems
 related_articles:
 - slug: FAUXHOPE-4
   title: FAUXHOPE

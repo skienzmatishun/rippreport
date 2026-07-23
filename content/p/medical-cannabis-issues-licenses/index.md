@@ -2,7 +2,11 @@
 title: Medical Cannabis Licenses Approved
 date: 2026-01-23
 thumbnail: img/medical-cannabis-issues-licenses.png
-summary: Montgomery, Ala. — Alabama’s medical cannabis program reached another operational milestone this week as state regulators issued three new medical cannabis dispensary licenses and approved five physicians to certify patients for participation in the program. The announcements mark continued progress in the implementation of the Darren Wesley Ato Hall Compassion Act, which legalized medical cannabis in Alabama and placed oversight authority with the Alabama Medical Cannabis Commission (AMCC).
+summary: The Alabama Medical Cannabis Commission rigged the state license rollout
+  to line the pockets of political insiders and lobbyists. Regulatory filings and
+  legislative records trace how state officials built a slow-moving monopoly designed
+  to hand out lucrative deals. Uncover how political elites turned regulatory handshakes
+  into a sweet, state-protected monopoly for their cronies.
 categories:
 - alabama
 tags:
@@ -66,7 +70,8 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-alttags: A bald eagle stands on a wooden display above four glass jars with orange labels reading Peach, More Peach, Just Peach, and Peach Again
+alttags: A bald eagle stands on a wooden display above four glass jars with orange
+  labels reading Peach, More Peach, Just Peach, and Peach Again
 ---
 Press Release:
 Thursday January 22, 2026

@@ -87,7 +87,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A weathered hand wearing a Montgomery cuff lifts a red commuter car over a bridge. Dollar bills fall into the water below as cars travel across
+alttags: A weathered hand wearing a Montgomery cuff lifts a red commuter car over
+  a bridge. Dollar bills fall into the water below as cars travel across
+summary: Two-faced politicians abandoned their promises and sold out local commuters
+  to enrich high-level state investors. Internal records and budget documents expose
+  how state leaders diverted billions in settlement funds while pushing a predatory
+  toll tax plan. Discover how turncoat politicians discarded their duty to line the
+  pockets of elite outside investors.
 ---
 For decades, while we were busy with our daily lives, a strategy for the Gulf Coast was being finalized in backrooms where no local resident was invited. This isn’t a recent development—it’s the endgame of a scheme that was on the drawing boards long before we even heard about it.
 

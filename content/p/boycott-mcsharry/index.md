@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City officials and prosecutors deliberately bungled court filings to shield
+  a violent pub owner from jail time and license revocation. Court transcripts and
+  police logs reveal active cover-ups, botched charges, and private surveillance against
+  critics and assault victims. See the evidence that proves why citizens must BOYCOTT
+  McSHARRY and demand real accountability from city hall.
 ---
 He has done it again. The Ripp Report has predicted numerous times that Ronan McSharry would continue his intoxication fueled assaults on women. The Paula DiNardi case ended up being an example of just how bad the municipal court and the municipal attorney are in Fairhope. Mr McSharry has assaulted yet another woman, racking up his ninth arrest, all involving alcohol.
 

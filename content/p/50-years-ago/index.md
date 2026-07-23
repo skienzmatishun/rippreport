@@ -6,7 +6,13 @@ categories:
 - holiday
 authors:
 - ripp-report
-alttags: A close-up of the waving American flag, displaying its blue canton with white stars and alternating red and white stripes
+alttags: A close-up of the waving American flag, displaying its blue canton with white
+  stars and alternating red and white stripes
+summary: Corrupt city leaders parade military veterans for cheap political points
+  while actively trampling their constitutional rights in council meetings. Lawsuit
+  documents expose how municipal attorneys and council members teamed up to silence
+  decorated servicemen during public comments. Read 50 YEARS AGO and see how they
+  dishonor the American flag waving above city hall.
 ---
 November is a month of special significance to many who have served in the United States military.
 

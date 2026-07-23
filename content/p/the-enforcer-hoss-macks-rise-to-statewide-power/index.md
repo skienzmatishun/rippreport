@@ -4,10 +4,15 @@ date: 2025-08-15
 categories:
 - bcso
 thumbnail: img/the-enforcer-hoss-macks-rise-to-statewide-power.jpg
-summary: Baldwin County may not always make headlines, but it has quietly become one of the most politically influential regions in Alabama — where power is consolidated, narratives are controlled, and those in charge rarely face consequences. Which is why the recent promotion of former Baldwin County Sheriff Hoss Mack should give every Alabamian pause.
+summary: Hoss Mack leveraged a fortress of local corruption in Baldwin County to grab
+  unearned statewide power and hide law enforcement abuses. Court records show how
+  top officials altered election laws to eliminate rivals and permanently hide police
+  body camera footage. Unmask the shadow government operating behind a veil of secrecy
+  to control your local news.
 authors:
 - admin
-alttags: 'Silhouette faces a classical building against an orange sky. Text reads: The Enforcer: How Hoss Mack Built a Career on Suppression and Took It Statewide'
+alttags: 'Silhouette faces a classical building against an orange sky. Text reads:
+  The Enforcer: How Hoss Mack Built a Career on Suppression and Took It Statewide'
 related_articles:
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF

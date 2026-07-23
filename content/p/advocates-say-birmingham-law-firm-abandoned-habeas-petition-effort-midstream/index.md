@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A high-profile law firm pocketed thousands of dollars from an innocent inmate's
+  advocates before abruptly abandoning his appeal midstream. Suppressed coroner reports
+  and hidden court filings reveal how powerful officials buried evidence while the
+  legal team walked away. Witness how independent advocates are breaking through the
+  wall of silence to expose suppressed evidence.
 ---
 <a href="https://www.alabamagazette.com/story/2025/08/12/opinion/advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream/7652.html">Article from Alabama Gazette</a>
 

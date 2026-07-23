@@ -14,7 +14,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: Nine men in sheriff uniforms appear arranged in a three-by-three grid on the screen of a vintage television set
+alttags: Nine men in sheriff uniforms appear arranged in a three-by-three grid on
+  the screen of a vintage television set
 related_articles:
 - slug: bcso-culture
   title: BCSO CULTURE
@@ -96,6 +97,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 10
+summary: The Baldwin County Sheriff’s Office pushed Anthony Lowery into power to guarantee
+  the continuation of Hoss Mack’s corrupt political machine. Department files and
+  internal whistleblowers expose shared misconduct and pre-arranged appointments designed
+  to dodge public accountability. See right through their political scheme to discover
+  why Lowery is nothing more than a carbon copy of his corrupt predecessor.
 ---
 Lowery is a clone of Hoss Mack and the last thing Baldwin County needs is a clone Sheriff. Pay attention this race can break the mold of the good ole boys. Hoss Mack’s record is the same as Lowery’s, they are joined at the hip, or close to it. Lowery likes it under Hoss’s umbrella however he has rightfully inherited Hoss’s horrible record. Before election time you will see the onion peeled back involving Mack and Lowery and it ain’t “perty”.
 

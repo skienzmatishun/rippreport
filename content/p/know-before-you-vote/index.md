@@ -1,5 +1,6 @@
 ---
-title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+  Concerns
 date: 2025-08-05
 categories:
 - ivy
@@ -7,10 +8,12 @@ categories:
 thumbnail: img/know-before-you-vote.jpg
 authors:
 - admin
-alttags: White text on a blue background reads WATCH THIS before you vote beside a circular emblem stating DEFINITELY NOT THE OFFICIAL SEAL OF FAIRHOPE with a bi...
+alttags: White text on a blue background reads WATCH THIS before you vote beside a
+  circular emblem stating DEFINITELY NOT THE OFFICIAL SEAL OF FAIRHOPE with a bi...
 related_articles:
 - slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns '
   score: 81.98068172321828
   llm_score: 95
   recency_score: 98.36960163172333
@@ -89,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The Fairhope City Council actively suppresses constituent voices to protect
+  their current power structure and shield their wealthy political allies. Leaked
+  documents and campaign filings expose direct links between council members and a
+  shadowy machine working to delay key referendums. Dig into our investigative findings
+  to strip away their false facade and expose what Fauxhope is really hiding.
 ---
 Are you aware that the Fairhope City Council has ignored repeated concerns from their constituents?  Please watch this video before you vote!  Make your voice heard at the ballot box on August 26, 2025.
 

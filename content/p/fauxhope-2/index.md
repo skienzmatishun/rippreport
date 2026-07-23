@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell and Mayor Sherry Sullivan double-dipped city
+  funds while sabotaging critical local infrastructure to enrich favored private developers.
+  Internal city memos and secret lease documents expose rigged airport deals and inflated
+  million-dollar project budgets. Find out how deep it goes in FAUXHOPE before another
+  city utility fund disappears.
 ---
 The citizens of Fairhope need to realize that all the infrastructure problems and electrical and water shortages are the result of neglect during the, Tim Kant, Can’t administration, 2000 to 2016. The second thing is that the same council as today with the exception of Cory Martin were on the council under Kant. Sherry Sullivan worked under Kant. The problems Fairhope has today were predicted years ago.
 

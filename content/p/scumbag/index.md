@@ -98,7 +98,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Tom Albritton in a suit stands above four men covering their eyes, surrounded by floating dollar bills and lollipops against a gray background
+alttags: Tom Albritton in a suit stands above four men covering their eyes, surrounded
+  by floating dollar bills and lollipops against a gray background
+summary: Alabama Ethics Director Tom Albritton stole over one hundred thousand dollars
+  from a scholarship fund meant for needy children to pay his own kids' college tuition.
+  Financial records prove trustees altered accounting methods to hide payments while
+  state officials systematically buried formal ethics complaints. Expose the cowardly
+  state officials who covered their eyes while a top insider looted a charitable trust.
 ---
 Stealing from children is almost always a criminal act and can involve serious legal consequences. If you suspect someone is stealing from children, it is critical to report it to the proper authorities.
 

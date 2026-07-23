@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The Alabama Attorney General, State Bar, and Ethics Commission joined forces
+  to bury criminal complaints against corrupt local politicians. Over one hundred
+  pages of evidence document hidden cash payouts, suppressed exculpatory evidence,
+  and secret trust deals. Get the details on who is hiding DIRTY UNDERWEAR in Montgomery
+  before they wash away the evidence.
 ---
 The Attorney General, Ethics Commission and the Alabama Bar all wear the same dirty underwear. They protect one another, and politicians, from pesky political complaints and play a legal shuffle that results in whitewashing their culpability. It is perfectly clear that the Attorney General will always side with the Bar or Ethics. The Bar and Ethics depend on the Attorney General to cover their back.
 

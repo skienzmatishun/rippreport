@@ -2,7 +2,11 @@
 title: KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 2
 date: 2026-05-14
 thumbnail: img/kristy-hagood-is-not-qualified-2.png
-summary: The Ripp Report is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with Alabama Exposure and Accountability LLC. Ripp Report operates as an independent, not for profit consumer organization. No political group, candidate for office or outside source has contributed to this post. We are NOT attorneys and do not give legal counsel. We are ADVOCATES for justice.
+summary: Judicial candidate Kristi Hagood used her power as prosecutor to cover up
+  hidden autopsy reports and keep an innocent man locked away. Court filings confirm
+  she filed misleading legal arguments to protect corrupt judges from facing accountability
+  for a rigged trial. Break through their iron bars of secrecy to discover how the
+  state deliberately locked away the truth.
 categories:
 - elections
 tags:

@@ -19,7 +19,8 @@ tags:
 - County Commission
 authors:
 - ripp-report
-alttags: Split-screen dashcam and bodycam footage showing a driver in a car and an officer pointing a handgun at an unarmed man outside a house, from Baldwin Cou...
+alttags: Split-screen dashcam and bodycam footage showing a driver in a car and an
+  officer pointing a handgun at an unarmed man outside a house, from Baldwin Cou...
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
@@ -101,6 +102,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The Baldwin County Major Crimes Unit covered up fatal police actions by clearing
+  their own buddy officers of any wrongdoing. Secret grand jury records and buried
+  autopsy evidence reveal a pattern of law enforcement protecting suspect deputies.
+  Tear away their polished public cover stories to reveal the deadly reality hiding
+  behind these rubber-stamped investigations.
 ---
 The killing of O.J. French of Bay Minette was over a traffic stop by an office who was fully aware who he was stopping. It was JUSTIFIED by the Baldwin County Major Crimes Unit, who investigates themselves. The Chief of police of Bay Minette, Al Tolbert, is on the major crimes unit and the police officer who killed Mr. French, works for him. Sheriff Mack at the time also was on the Major crimes unit. It is now a federal lawsuit as well as the Johnathan Victor case. Johnathan was killed by a sheriff deputy. He was unarmed and gunned down with an assault rifle, another pending federal lawsuit.
 

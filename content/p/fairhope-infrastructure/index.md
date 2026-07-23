@@ -10,12 +10,17 @@ tags:
 - Hix Snedeker
 - Britt
 - Gray
-summary: In Fairhope, Alabama, there’s a water shortage, incomplete infrastructure projects, and an overloaded sewer system. Amidst legal battles and controversy, 68 Ventures proposes a new mixed-use development, “Park City,” which has drawn criticism for its potential impact on the community and local schools.
+summary: Fairhope officials traded city infrastructure for private developer payoffs
+  while toxic waste overflowed into local waterways. Sworn commissioner affidavits
+  and federal court filings expose undercover wiretaps, land-flipping judges, and
+  insider stock deals. Look past the official excuses to see how dirty backroom deals
+  left our city with rotting pipes and ruined roads.
 categories:
 - citycouncil
 authors:
 - admin
-alttags: A close-up of a rusted metal water valve with a pink and black handle, showing a single droplet falling from the spout against a dark background
+alttags: A close-up of a rusted metal water valve with a pink and black handle, showing
+  a single droplet falling from the spout against a dark background
 related_articles:
 - slug: FAUXHOPE-4
   title: FAUXHOPE

@@ -6,7 +6,8 @@ categories:
 - Special-Report
 authors:
 - admin
-alttags: A red and white megaphone on a solid blue background emits a gray graphic representing sound waves
+alttags: A red and white megaphone on a solid blue background emits a gray graphic
+  representing sound waves
 related_articles:
 - slug: development-chaos
   title: DEVELOPMENT CHAOS
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: County officials let greedy developers wreck local roads and sewer systems
+  while wasting tens of millions in taxpayer funds. Hidden records reveal a long trail
+  of failed mega-projects, secret land transfers, and unchecked residential sprawl.
+  Sound the alarm with your megaphone and learn the full story behind Baldwin County
+  seeks public input on land use plan - Lagniappe.
 ---
 ### Baldwin County Seeks Public Input on Land Use Plan
 

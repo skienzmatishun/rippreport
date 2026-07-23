@@ -7,7 +7,8 @@ rumble: v2prck0
 thumbnail: img/offensive.jpg
 authors:
 - admin
-alttags: 'School children in black uniforms stand in a hall with statues while an adult faces them. Text overlay reads Backstory Podcast: No 158 Offensive.'
+alttags: 'School children in black uniforms stand in a hall with statues while an
+  adult faces them. Text overlay reads Backstory Podcast: No 158 Offensive.'
 related_articles:
 - slug: red-lips-award
   title: RED LIPS AWARD
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Arrogant state lawmakers are attacking veterans and silencing school children
+  while shielding their cabinet buddies from ethics complaints. Investigative reports
+  reveal retaliatory votes that stripped funding from needy groups to protect corrupt
+  political insiders. Read more about why citizens find this school choir shutdown
+  so completely Offensive.
 ---
 From the Capital Police stopping the school children from singing the National Anthem to the antics of the Alabama Legislature, the range of recent events has left many feeling frustrated and disheartened. Additionally, the emergence of multiple Hunter Biden laptop websites, the seemingly unending arrogance of State Senator "The Taxman" Chris Elliott, the high costs paid for the proxy war in Ukraine, and the numerous falls and fails of our Commander In Chief have all contributed to a growing sense of offense and concern among the public.
 

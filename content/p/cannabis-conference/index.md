@@ -6,7 +6,8 @@ categories:
 - events
 authors:
 - admin
-alttags: Close-up of a cannabis plant showing a central flowering bud with white trichomes surrounded by serrated leaves transitioning from green to brown
+alttags: Close-up of a cannabis plant showing a central flowering bud with white trichomes
+  surrounded by serrated leaves transitioning from green to brown
 related_articles:
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State politicians and corrupt lobbyists turned Alabama’s new medical cannabis
+  program into a private pay-to-play monopoly for well-connected insiders. Legal records
+  prove commission members wasted millions in taxpayer funds fighting court battles
+  while blocking legitimate medical access to patients. Strip away the polished corporate
+  facade of the Inaugural Alabama Medical Cannabis Conference.
 ---
 Inaugural Alabama Medical Cannabis Conference to Make History as the State's First Major Cannabis-Focused Event
 

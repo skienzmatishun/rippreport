@@ -11,7 +11,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: A cartoon alarm clock with a red casing and cream face showing the time. Two yellow bells on top emit sound waves to indicate it is ringing
+alttags: A cartoon alarm clock with a red casing and cream face showing the time.
+  Two yellow bells on top emit sound waves to indicate it is ringing
 related_articles:
 - slug: shooting-yourself-in-the-foot
   title: SHOOTING YOURSELF IN THE FOOT
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Political operatives under the Catalyst umbrella rigged municipal contracts
+  and stacked local courts to guarantee continuous cash flow for insider friends.
+  Corporate registry filings and financial audit trails reveal direct links between
+  no-bid service agreements and sitting county officials. Learn the full story before
+  the LAST CHANCE alarm clock rings on county integrity.
 ---
 Tomorrow a very few people in Baldwin County will vote in the primary election. Everyone is encouraged to vote. In the primary all party affiliations can vote. So don’t use the excuse that you are Independent or Democrat. VOTE.
 

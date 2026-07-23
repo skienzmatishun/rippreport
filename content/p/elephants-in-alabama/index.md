@@ -9,7 +9,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Elephants walk down a paved road flanked by trees. Signs welcome visitors to Sweet Home Alabama and advertise Lauderdale County Agriculture
+alttags: Elephants walk down a paved road flanked by trees. Signs welcome visitors
+  to Sweet Home Alabama and advertise Lauderdale County Agriculture
 related_articles:
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
@@ -91,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Ethics Director Tom Albritton and Attorney General Steve Marshall orchestrated
+  a corrupt cover-up to shield insider political allies from criminal prosecution.
+  Official payroll records and sworn complaints expose secret state payouts alongside
+  thousands stolen from a charitable trust fund. See the evidence before these corrupt
+  politicians parade through Sweet Home Alabama like elephants on a paved road.
 ---
 If a herd of elephants were to roam loose in Alabama, most news sources could not find them. Probably the biggest story, political story, is the evidence emerging about the Bar Association and the Ethics Executive Director. Only Lagniappe has had the balls to print the facts.
 

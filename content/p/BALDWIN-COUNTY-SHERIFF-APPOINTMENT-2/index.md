@@ -2,7 +2,11 @@
 title: BALDWIN COUNTY SHERIFF APPOINTMENT
 date: 2026-04-22
 thumbnail: img/baldwin-county-sheriff-appointment.jpg
-summary: Sheriff Hoss Mack has one foot out the door and is hoping to slide his second choice, Anthony Lowery in as his “suggested” replacement. Lowery has professed in the past that he did not want the job. He has to know that a ton of crap out of the Hoss Boss closet, is going to expose some very embarrassing incidents involving BCSO. I do hope Lowery reads all the comments on the Ripp Report. If you think that what we printed is revealing, then please consider all the fill-in-the-blanks comments that we did not print. Names, Dates and evidence that match up to the many many allegations in the comments.
+summary: Sheriff Hoss Mack and candidate Anthony Lowery built their careers on wrongful
+  convictions, covered-up deaths, and hidden evidence. Federal court filings and unsealed
+  records reveal a dark pattern of suppressed autopsies and fatal law enforcement
+  actions. Submit your confidential testimony now to blow the whistle on this corrupt
+  institution before the Governor confirms another insider.
 tags:
 - Hoss Mack
 - BCSO

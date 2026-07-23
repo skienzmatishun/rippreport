@@ -552,3 +552,31 @@ hooks:
 
       *   The Regency Club'
     generated_at: '2026-07-11T01:59:47.095257Z'
+theme_analysis:
+  image_theme: 'The image depicts a serene beach at night, dominated by a bright,
+    glowing moon in a star-filled sky. The high-rise buildings on the left represent
+    urban development encroaching on the natural shoreline. The atmosphere is one
+    of quietude and "under-the-cover-of-night" secrecy, but the moonlight also serves
+    as a powerful symbol of illumination—casting light onto what is usually hidden
+    in darkness.
+
+    '
+  article_theme: 'The article exposes institutional corruption and procedural negligence
+    within the City of Gulf Shores'' Planning and Zoning department. It highlights
+    how officials deliberately ignored their own ordinances (Section 3-3E) and ceased
+    using established Land Use Plans to favor development projects, essentially keeping
+    "dirty little secrets" from the public to benefit developers over residents.
+
+    '
+  theme_connections:
+  - The moonlight serves as a metaphor for 'shining a light' on the city's hidden
+    corruption; just as the moon illuminates the beach at night, investigative journalism
+    reveals the 'dirty little secrets' of the Planning and Zoning department that
+    were previously kept in the dark.
+  - The nighttime setting evokes the clandestine nature of the government's actions,
+    symbolizing how these 'technical deficiencies' and intentional policy shifts occurred
+    behind closed doors or through obscure procedures to avoid public scrutiny.
+  - 'The visual contrast between the natural beach and the looming apartment buildings
+    mirrors the article''s core conflict: the tension between community preservation
+    (the residents'' rights) and aggressive urban development facilitated by the city''s
+    disregard for zoning laws.'

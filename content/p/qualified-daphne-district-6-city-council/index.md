@@ -9,10 +9,15 @@ tags:
 - City Council
 - Daphne
 - Ramsey
-summary: Every now and then you get a candidate interested in public service that is highly skilled and over qualified. Someone who is willing to use his skills he learned in private business to a position of public servant. Dr. Byrian Ramsey is one of those candidates.
+summary: Daphne city leaders systematically abandon local neighborhood interests to
+  enrich special interest groups and developer buddies. Official records reveal how
+  entrenched politicians ignore severe local flooding while converting public parks
+  into commercial sites. Discover how hyper-local leadership can defend your neighborhood
+  against greedy developer interests.
 authors:
 - admin
-alttags: Campaign poster on blue with yellow stars and red text reading ELECT DR. BYRIAN RAMSEY, Lake Forest First, City Council District 6, and a website
+alttags: Campaign poster on blue with yellow stars and red text reading ELECT DR.
+  BYRIAN RAMSEY, Lake Forest First, City Council District 6, and a website
 related_articles:
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?

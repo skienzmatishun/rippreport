@@ -5,7 +5,11 @@ categories:
 - repost
 youtube: -YQAxXGPpcc
 thumbnail: img/the-law-enforcement-narrative.png
-summary: Hey Bay Minette Harry Still is not crazy. He just knows too much.
+summary: Sheriff Huey Mack and the Major Crimes Unit manufactured fake narratives
+  to cover up police killings and protect brutal deputies across Baldwin County. Federal
+  court filings and suppressed body camera logs prove officers hid critical records
+  and lied to the press after fatal traffic stops. Join the growing community movement
+  that refuses to let corrupt law enforcement erase these victims from history.
 authors:
 - admin
 related_articles:

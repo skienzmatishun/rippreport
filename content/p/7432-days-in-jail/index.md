@@ -9,7 +9,8 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: Close-up of Murray Bubba Lawrence looking upward with a concerned expression, flanked by black-and-white photos of a chain-link enclosure
+alttags: Close-up of Murray Bubba Lawrence looking upward with a concerned expression,
+  flanked by black-and-white photos of a chain-link enclosure
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
@@ -91,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Judge Robert Wilters and his corrupt legal cronies framed Murray Lawrence
+  and stole twenty years of his life behind bars. Over two thousand pages of court
+  transcripts prove officials deliberately hid crucial evidence that completely clears
+  his name. See how a ruthless cabal of county bosses trapped an innocent man in a
+  cage to protect their own political power.
 ---
 That’s how long Murray Bubba Lawrence has been in jail for a crime he did not commit. Baldwin County Sheriff Hoss Mack, the Prosecutor, David Whetstone and the Judge, currently the District Attorney, Robert Wilters are responsible. There is every reason to believe that they conspired to withhold vital information from the defense that resulted in an innocent man spending 7432 days, so far, in jail.
 

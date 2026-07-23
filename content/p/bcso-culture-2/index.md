@@ -91,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Current Sheriff Anthony Lowery inherited and expanded a dangerous culture
+  of absolute immunity inside the Baldwin County Sheriff's Office. Federal civil rights
+  lawsuits and internal records document how the Major Crimes Division routinely investigates
+  itself to sweep officer-involved deaths under the rug. Examine the toxic potion
+  of impunity that county leaders have been brewing to shield themselves from accountability.
 ---
 The Baldwin County Sheriff Office has a culture that is ABSOLUTE IMMUNITY. No accountability or transparency. BCSO investigates itself by using their own investigative force, Baldwin County Major Crimes Division. This culture is not in the best interest or safety of citizens of Baldwin County.
 

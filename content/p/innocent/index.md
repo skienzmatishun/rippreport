@@ -10,7 +10,8 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: Portrait of Murray Lawrence in a white tank top, gazing upward with a serious expression against a dark red background
+alttags: Portrait of Murray Lawrence in a white tank top, gazing upward with a serious
+  expression against a dark red background
 related_articles:
 - slug: Baldwin-county-wrongful-conviction
   title: BALDWIN COUNTY WRONGFUL CONVICTION
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corrupt prosecutors locked away an innocent man for decades using a manufactured
+  deal with an unreliable jailhouse informant. Uncovered court files reveal suppressed
+  autopsy reports and bulletproof alibis that officials buried for eighteen years.
+  Discover the truth behind this framed man named INNOCENT and the powerful figures
+  who hid the evidence.
 ---
 This is the case of Murray “Bubba” Lawrence who was convicted of capital murder in Baldwin County Alabama, May 13, 2005. He was arrested and incarcerated for 11 months 10 days, prior to conviction.
 

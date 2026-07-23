@@ -7,7 +7,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A smiling golden droplet mascot with raised arms stands against a white background, featuring a chest banner that reads Crystal Clean with a left-pointi...
+alttags: A smiling golden droplet mascot with raised arms stands against a white background,
+  featuring a chest banner that reads Crystal Clean with a left-pointi...
 related_articles:
 - slug: stinky-business
   title: STINKY BUSINESS
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Unregulated sewer overlords and corrupt county commissioners operate a massive
+  utility scheme that poisons local waterways and drives uncontrolled sprawl. Sealed
+  court records and secret debt agreements uncover decades of hidden land deals and
+  untamed sewage spills. Discover the truth behind this STINKING TICKING TIME BOMB
+  before the entire system explodes into public view.
 ---
 The article below omitted some issues, that may have been problematic for Al.com to print. So let me fill ya in on some details. Baldwin County Sewer Service is the only privately operated sewer service in Alabama. They are unregulated and have been given permission to use county right of ways at no charge.
 

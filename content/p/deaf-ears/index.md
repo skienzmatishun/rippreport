@@ -13,7 +13,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Steve Marshall in a suit points both index fingers toward his ears, flanked by ornate wooden cabinet doors
+alttags: Steve Marshall in a suit points both index fingers toward his ears, flanked
+  by ornate wooden cabinet doors
 related_articles:
 - slug: alabama-ag
   title: ALABAMA ATTORNEY GENERAL
@@ -95,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking state agencies turned a blind eye to blatant financial skimming
+  and severe law enforcement misconduct. Sworn legal affidavits and formal complaint
+  records prove state leaders buried damning evidence to protect their political allies.
+  Step inside the closed-door system where officials pretend to investigate while
+  covering up devastating crimes.
 ---
 ### Mr Steve Marshall
 

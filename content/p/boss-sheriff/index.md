@@ -6,7 +6,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Headshot of Baldwin County Sheriff Hoss Mack in a light shirt with star insignia and dark tie, wearing glasses and a mustache while looking slightly dow...
+alttags: Headshot of Baldwin County Sheriff Hoss Mack in a light shirt with star insignia
+  and dark tie, wearing glasses and a mustache while looking slightly dow...
 related_articles:
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Sheriff Hoss Mack built a ruthless political machine to control local judges,
+  suppress deadly misconduct, and dodge federal scrutiny. Internal police files and
+  secret legislative deals expose how officials rigged election rules to keep one
+  man in absolute power. See the documents revealing how BOSS SHERIFF Mack pulled
+  the strings behind the star insignia for years.
 ---
 Wake up Baldwin County you have a serious problem with Baldwin Sheriff Office and Sheriff Hoss the “BOSS” Mack.
 

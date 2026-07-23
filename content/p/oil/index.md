@@ -90,7 +90,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A large oil tanker with wooden masts, sails, and side cannons flies a skull-and-crossbones flag while sailing on the water at dusk
+alttags: A large oil tanker with wooden masts, sails, and side cannons flies a skull-and-crossbones
+  flag while sailing on the water at dusk
+summary: Foreign regimes and local politicians like Tripp Pittman systematically plundered
+  public assets while escaping real legal consequences. International arbitration
+  orders and county financial records prove millions in taxpayer funds were siphoned
+  through unbid contracts and broken agreements. Expose the true modern pirates who
+  looted public coffers and learn how law-abiding citizens can reclaim what was stolen.
 ---
 This was submitted by a knowledgeable source:
 

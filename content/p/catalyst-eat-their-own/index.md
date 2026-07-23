@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A black fork and knife flank a red prohibition symbol over the word Catalyst, naming the local political group
+alttags: A black fork and knife flank a red prohibition symbol over the word Catalyst,
+  naming the local political group
 related_articles:
 - slug: moratorium-party
   title: MORATORIUM PARTY
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Developer-backed political bosses rebranded their secret machine to bully
+  honest mayors and pass fake subdivision moratoriums for personal profit. Corporate
+  records and campaign finance filings prove how developers funneled over a million
+  dollars into block-vote candidates. Read more about why the political sharks at
+  CATALYST - EAT THEIR OWN to keep control.
 ---
 {{< socialpreview url="https://www.al.com/news/2022/05/a-battle-in-fairhope-can-jennifer-fidler-present-a-strong-challenge-to-five-term-rep-joe-faust.html" >}}
 

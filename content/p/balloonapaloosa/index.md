@@ -6,7 +6,8 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Article screenshot showing a large white balloon in the sky, with headlines about a suspected Chinese spy balloon and logos for Backstory Podcast No 141
+alttags: Article screenshot showing a large white balloon in the sky, with headlines
+  about a suspected Chinese spy balloon and logos for Backstory Podcast No 141
 related_articles:
 - slug: biased-investigation
   title: BIASED INVESTIGATION
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Federal and local law enforcement agencies are abusing their power to target
+  political opponents and silence whistleblowers. Leaked internal emails prove county
+  sheriffs specifically ordered deputies to pre-target a rival candidate before an
+  election event. See what they're hiding behind the media circus of Balloonapaloosa
+  on Backstory Podcast No 141.
 ---
 While NORAD, The Biden Administration, and the Mainstream Media have you looking skyward (not that this failure to secure our sovereign airspace isn't alarming) there were serious hearings this past week on the Hill regarding the Weaponization of the FBI; more importantly their shift from the top law enforcement agency in the Country to a domestic intelligence service with police powers. From J Edgar Hoover to James Comey they all smack of the same. Take former Hawaii Congresswoman and Democratic Presidential Candidate Tulsi Gabbard, (currently a National Guard Lt. Col.) who has been demonized by both those on the right and the left for expressing her informed views, cancelled by the media. And with the revelations of the Twitter Files, James Baker Twitter Executive and former General Counsel to the FBI, it doesn't waft well. This House Select Committee Hearing should be required viewing for every voting age adults. And a few issues from Sweet Home Alabama.
 

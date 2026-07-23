@@ -937,3 +937,39 @@ hooks:
 
       *   Airport Authority'
     generated_at: '2026-07-10T16:22:44.308420Z'
+theme_analysis:
+  image_theme: 'The image depicts a striking scene of literal and symbolic flooding
+    within a formal government chamber, likely a city council meeting room. A man
+    dressed in heavy-duty fishing waders stands calf-deep in water on the floor, while
+    officials sit behind an elevated dais, seemingly dry and detached from the immediate
+    environment. The theme is one of "consequence" and "the reality of neglect." It
+    captures a moment where the external problems of the community—specifically water
+    management and infrastructure failure—have physically breached the sanctuary of
+    political power. There is a strong sense of irony (the seat of authority being
+    underwater) and confrontation (a citizen-representative figure forcing the council
+    to face the physical manifestation of their policy failures).
+
+    '
+  article_theme: 'The core theme is systemic corruption and government negligence
+    driven by developer-centric interests. The article exposes how local officials
+    have prioritized the profits of a specific developer (Angelo Corte) over public
+    safety, environmental health, and infrastructure integrity. It highlights a pattern
+    of "Fauxhope"—a betrayal of public trust where culvert failures, toxic bacteria
+    in waterways, and mud from construction sites are ignored by those in power. The
+    emotional core is one of righteous indignation against the "collusion" between
+    the city council and private interests, demanding accountability for environmental
+    destruction and fiscal mismanagement.
+
+    '
+  theme_connections:
+  - The image serves as a literal manifestation of the 'infrastructure failure' described
+    in the article; just as the culverts failed to manage Fly Creek, the water has
+    now figuratively (and perhaps literally) flooded the halls of power where those
+    decisions were made.
+  - The man in waders represents the community's reality being forced into the council's
+    polished world, symbolizing a 'reality check' where the consequences of developer-led
+    corruption can no longer be ignored by officials sitting behind their desks.
+  - There is a sharp irony between the formal, stoic demeanor of the council members
+    and the absurdity of the flooded room, mirroring the article's critique of leaders
+    who maintain an air of competence while allowing the town's infrastructure to
+    sink into mud and decay.

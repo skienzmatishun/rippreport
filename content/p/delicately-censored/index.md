@@ -2,13 +2,19 @@
 title: Delicately Censored
 date: 2023-11-23
 thumbnail: img/delicately-censored.jpg
-summary: This week covers controversies surrounding free speech online, with Elon Musk removing content and lawsuits targeting media outlets. It also details legal developments in Alabama, including a car seizure and a lawsuit settlement.
+summary: Top state prosecutors and law enforcement bosses manipulated the courts to
+  bury public records and protect high-ranking insiders from exposure. Confidential
+  court filings and secret settlement records show a coordinated effort to hide massive
+  ethics violations from taxpayers. Uncover how power players used pulled documents
+  and backroom deals to keep their worst secrets delicately censored from the public
+  eye.
 categories:
 - backstory-podcast
 authors:
 - admin
 rumble: v3uuabg
-alttags: 'Guardian webpage screenshot showing a Removed: document article about a 2002 bin Laden letter takedown, overlaid with Baldwin County and Backstory Pod...'
+alttags: 'Guardian webpage screenshot showing a Removed: document article about a
+  2002 bin Laden letter takedown, overlaid with Baldwin County and Backstory Pod...'
 related_articles:
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF

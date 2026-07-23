@@ -2,7 +2,11 @@
 title: ALABAMA ETHICS VS TONY KENNON
 date: 2026-06-21
 thumbnail: img/alabama-ethics-vs-tony-kennon.png
-summary: Three members of the City of Orange Beach council have filed a formal ethics complaint against Mayor Tony Kennon, alleging conflicts of interest, improper influence over council decisions, threats directed toward elected officials, and failures related to transparency and disclosure of information.
+summary: Mayor Tony Kennon bullied council members and abused his office while state
+  oversight figures actively protected him from criminal charges. Official records
+  expose how Ethics Director Tom Albritton pocketed trust funds while ignoring serious
+  complaints against local politicians. See why state oversight officials stayed sound
+  asleep while local bullies abused their office without fear.
 tags:
 - Ethics Commission
 - Tony Kennon
@@ -102,7 +106,8 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: 'Two men against an orange background: one in an orange shirt with fists raised, and another in a suit with dollar bills in his pockets looking down bene...'
+alttags: 'Two men against an orange background: one in an orange shirt with fists
+  raised, and another in a suit with dollar bills in his pockets looking down bene...'
 ---
 {{< socialpreview url=https://www.murdercreekmedia.com/post/three-orange-beach-council-members-file-ethics-complaint-against-mayor-tony-kennon >}}
 

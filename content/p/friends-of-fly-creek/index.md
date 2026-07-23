@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
+summary: Developer Arthur Corte worked hand-in-hand with city leaders to clear-cut
+  land and choke Fly Creek for private profits. DNA analysis of creek sediment proves
+  that recent environmental damage came from developer runoff rather than natural
+  tides. Uncover how greedy developers choked our local waters and drowned out the
+  voice of Fairhope residents.
 ---
 Here we go again Fauxhope discussing the same project with the same results for over 12 years. Fly Creek has been flooded with mud and sediment since the Publix project clear cut and killed every living thing on the Publix site. An executive for Publix once commented that “the developer dug a hole to fit the strip center and Publix in.”
 

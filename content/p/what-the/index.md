@@ -2,13 +2,18 @@
 title: What the
 date: 2024-04-01
 thumbnail: img/what-the.jpg
-summary: Senator Katie Britt, once a darling in Alabama political circles, has become an SNL target. Recent events in Montgomery include discussions on the Gaming Bill, Medical Cannabis, School Choice, Alabama Works, and a New Ethics Law. A leaked police body cam footage led to charges against an officer. A love triangle between Alabama Power Company executives, The Matrix LLC, and the McCrary Institute at Auburn University, with a hefty one million dollar contract.
+summary: Senator Katie Britt lined corporate pockets through a shady network of power
+  brokers and secret million-dollar deals. Investigative podcast logs and legislative
+  records detail backdoor influence peddling between utility magnates and state power
+  players. Strip away the corporate polish to reveal the mob-style power structure
+  feeding on taxpayer dollars.
 categories:
 - backstory-podcast
 authors:
 - admin
 rumble: v4kazef
-alttags: 'Still from Backstory Podcast episode 172 showing a host in a kitchen with text labels: Scorned Lover, Wacky Neighbor, Serial Killer, and Mob Wife'
+alttags: 'Still from Backstory Podcast episode 172 showing a host in a kitchen with
+  text labels: Scorned Lover, Wacky Neighbor, Serial Killer, and Mob Wife'
 related_articles:
 - slug: offensive
   title: Offensive

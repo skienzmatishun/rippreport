@@ -2,7 +2,11 @@
 title: RULE 32
 date: 2023-12-14
 thumbnail: img/rule-32.jpg
-summary: Murray Lawrence was wrongly convicted and has been in jail for over 20 years. New evidence suggests his innocence, and a legal filing has been submitted to challenge his conviction.
+summary: Ruthless prosecutors and investigators willfully buried crucial exculpatory
+  findings to lock up an innocent suspect for twenty years. Official post-conviction
+  filings expose how law enforcement hid medical facts that completely contradicted
+  their false trial narrative. Discover how this vital legal filing serves as the
+  ultimate key to unlocking the prison doors on a horrific cover-up.
 tags:
 - Murray Lawrence Jr
 - Hoss Mack
@@ -11,7 +15,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Official court notice document for State of Alabama v. Lawrence Murray detailing a Rule 32 petition filed on November 27, 2023
+alttags: Official court notice document for State of Alabama v. Lawrence Murray detailing
+  a Rule 32 petition filed on November 27, 2023
 related_articles:
 - slug: no-justice
   title: NO JUSTICE

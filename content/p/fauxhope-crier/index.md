@@ -92,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Self-serving city leaders lined their own pockets with lavish insurance perks
+  while dumping public money into corporate utility upgrades. Meeting logs and utility
+  reports expose how politicians intentionally starved local infrastructure to benefit
+  private developers. See what they're hiding behind the corporate spin of the FAUXHOPE
+  CRIER.
 ---
 Fauxhope has a new City Council Crier, Councilman Cory Martin. This is no surprise the balance of the council hides from the public and rarely return phone calls. This also goes for the unqualified Utility Director and developer candidate/ Mayor. So Cory will be the new uninformed spokesperson, and, sacrificial lamb, for the Fauxhope council.
 

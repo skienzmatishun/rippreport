@@ -10,7 +10,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Jack Burrell with an edited long nose stands before the Mobile Bay Bridge and waterfront skyline
+alttags: Jack Burrell with an edited long nose stands before the Mobile Bay Bridge
+  and waterfront skyline
 related_articles:
 - slug: mouthpiece
   title: MOUTHPIECE
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Jack Burrell and local politicians betrayed thousands of taxpayers by flip-flopping
+  on pledges to stop toll bridge funding schemes. Meeting minutes and public statements
+  expose how officials ignored 50,000 citizen signatures to push federal tolling agendas.
+  See what they're hiding behind the LIARS BRIDGE and how Pinocchio-nosed politicians
+  sold out Baldwin County.
 ---
 No one denies that a Mobile bridge is needed. What so obvious is that the politicians have united to make decisions contrary to their original promises. When the no tolls petition hit 50,000 the politicians panicked and started covering their asses. We heard no tolls, no federal money and “we have to listen to our constituents.”
 

@@ -16,7 +16,8 @@ tags:
 - Trump
 related_articles:
 - slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns
   score: 59.4790095703459
   llm_score: 65
   recency_score: 66.48331459983474
@@ -95,7 +96,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Festive graphic with fireworks and gold confetti framing an outline of Mississippi labeled OF DIXIE, featuring a red heart and flag. Below reads NEW YEA...
+alttags: Festive graphic with fireworks and gold confetti framing an outline of Mississippi
+  labeled OF DIXIE, featuring a red heart and flag. Below reads NEW YEA...
+summary: The Fairhope City Council and local political syndicates like 68Ventures
+  spent the past year ignoring citizens and covering up systemic conflicts of interest.
+  Podcast disclosures and public records lay bare the backroom alliances, ethics complaints,
+  and shadow dealings that defined 2025. Join our year-end reckoning to wipe away
+  the corrupt status quo and start the new year with unfiltered truth.
 ---
 Today we are joined by Podcaster/Activist Whitney Scapecci and Professor/Economist/Political Figure Dr. John Sophocleus to discuss the Year that was 2025.
 

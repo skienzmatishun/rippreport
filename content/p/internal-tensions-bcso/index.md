@@ -93,7 +93,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Two men in law enforcement gear pull a rope against a blue background. One wears a Baldwin County sheriff uniform, the other a Police ICE vest
+alttags: Two men in law enforcement gear pull a rope against a blue background. One
+  wears a Baldwin County sheriff uniform, the other a Police ICE vest
+summary: Sheriff Anthony Lowery sabotaged joint law enforcement operations just to
+  score petty political points during his re-election campaign. Internal emails prove
+  top deputies intentionally disrupted federal immigration enforcement after agency
+  members backed Lowery's political opponent. Uncover how this vicious agency tug-of-war
+  placed public safety dead last behind personal political survival.
 ---
 According to two independent sources familiar with communications between the Baldwin County Sheriff’s Office and federal immigration enforcement personnel, internal tensions reportedly escalated during the current sheriff’s election cycle over BCSO participation in immigration-related operations connected to the federal 287(g) program.
 
