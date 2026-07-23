@@ -92,7 +92,7 @@ related_articles:
 summary: State politicians and corrupt lobbyists turned Alabama’s new medical cannabis
   program into a private pay-to-play monopoly for well-connected insiders. Legal records
   prove commission members wasted millions in taxpayer funds fighting court battles
-  while blocking legitimate medical access to patients. Strip away the polished corporate
+  while blocking legitimate medical access to patients. We strip away the polished corporate
   facade of the Inaugural Alabama Medical Cannabis Conference.
 ---
 Inaugural Alabama Medical Cannabis Conference to Make History as the State's First Major Cannabis-Focused Event

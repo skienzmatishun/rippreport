@@ -96,7 +96,7 @@ alttags: Alabama license plate overlaid with photos of two men in suits, cards f
 summary: Superintendent Eddie Tyler and his administrative cronies pocketed public
   funds through suspicious land deals and unbacked consulting contracts. Audit trails
   and internal emails reveal shady real estate markups and manipulated school data
-  right before his sudden exit. Peer behind his smiling public persona to see how
+  right before his sudden exit. We peer behind his smiling public persona to see how
   the local political machine quietly looted millions from our community.
 ---
 Yes the "machine don't bleed".  The age of Eddie Tyler and his merry band of ethically flexible attorneys and best pal consultants has come to an end. Lots of backstory to this one.  And then there is the resignation letter of a 20 year Baldwin County Sheriffs Deputy who makes no explicit accusations only that "these are Ungodly men" running the place.  And then there is the $16.3 Million we are spending on the Golden Triangle to build a bridge over Fish River and a boulevard  for the benefit of one developer.  Want to wager on who that developer is?  Afroman wins a verdict for us all.  And a tell of a trip to the Holy Land... by Mrs. Tom Bradley Jr (Pat Bradley) just in time for the war to kick off.  Hear about her trip and exodus.   And the War, weapons, logistics, energy, diplomacy, cow algorithms and Lemon Pound Cake is now the official food of the Libertarian Party.

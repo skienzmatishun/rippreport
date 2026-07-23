@@ -5,7 +5,7 @@ thumbnail: img/alabama-ag.jpg
 summary: Attorney General Steve Marshall turned a blind eye to blatant political corruption
   and allowed corrupt officials to walk free. Official letters, defense affidavits,
   and ignored ethics complaints prove his office actively buried evidence of severe
-  misconduct. Peer through the quiet government facade to discover how the state's
+  misconduct. We peer through the quiet government facade to discover how the state's
   top legal mailbox became a black hole where justice goes to die.
 categories:
 - ethics

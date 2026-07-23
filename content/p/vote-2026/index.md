@@ -106,7 +106,7 @@ alttags: A collage of campaign posters for Baldwin County elections features can
 summary: Baldwin County politicians are plastering smiles across slick campaign ads
   while hiding their deep ties to a brutal wrongful conviction scheme. Public records
   reveal how key candidates running for office directly benefited from burying crucial
-  evidence that put an innocent man behind bars. Pull back their polished corporate
+  evidence that put an innocent man behind bars. We pull back their polished corporate
   curtain to expose the dirty money and rigged systems ruling our local elections.
 ---
 One day to go for the primary elections. Please vote and ask your neighbors as well to vote.

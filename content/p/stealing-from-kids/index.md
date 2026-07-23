@@ -6,7 +6,7 @@ gif: img/stealing-from-kids.gif
 summary: Ethics Director Tom Albritton systematically siphoned off private trust money
   meant to send poor children to college. Financial tax filings and bank records reveal
   over one hundred thousand dollars redirected straight into his own family's personal
-  accounts. Strip away his respectable official title to expose how a high-ranking
+  accounts. We strip away his respectable official title to expose how a high-ranking
   state ethics chief robbed vulnerable kids like a common thief.
 tags:
 - Ethics Commission

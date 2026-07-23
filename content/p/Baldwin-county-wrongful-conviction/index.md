@@ -5,7 +5,7 @@ thumbnail: img/baldwin-county-wrongful-conviction.jpg
 summary: Former Prosecutor David Whetstone and local law enforcement chiefs built
   a fortress of lies to bury an innocent citizen in prison. Shocking trial transcripts
   and timeline analysis reveal that key law enforcement officials suppressed exculpatory
-  evidence to win at all costs. Step inside the county courthouse to see how corrupt
+  evidence to win at all costs. We step inside the county courthouse to see how corrupt
   lawmen turned a shrine of justice into a tomb for the truth.
 categories:
 - freaky-friday

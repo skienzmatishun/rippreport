@@ -96,7 +96,7 @@ related_articles:
 summary: Former Sheriff Hoss Mack and his inner circle orchestrated decades of illegal
   cover-ups and framed innocent citizens to protect their political empire. Departmental
   correspondence and leaked forensic logs demonstrate how officials buried crucial
-  medical reports to guarantee guilty verdicts. Pull back the bureaucratic blankets
+  medical reports to guarantee guilty verdicts. We pull back the bureaucratic blankets
   to see how these corrupt lawmen hid dark criminal secrets from the public.
 ---
 The good sheriff deputies at the Baldwin County Sheriff Office are fed up with their CCUO, Chief Cover up officer, Sheriff Mack. Mack has a colorful past of cover ups involving sheriff deputies and high ranking officers, sexual misconduct, missing evidence, incompetent investigations, traffic accidents, homicides, etc. This is the opportunity to expose the truth about what a good ole boy club the sheriff’s office is.

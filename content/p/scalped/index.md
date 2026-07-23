@@ -10,7 +10,7 @@ authors:
 summary: Baldwin County power brokers quietly rigged multi-million dollar public building
   contracts while law enforcement concealed lethal mistakes. Secret settlement papers
   and newly uncovered court motions detail how insiders funneled public money to allies
-  and buried crucial evidence. Peer beneath this expensive new facade of justice to
+  and buried crucial evidence. We peer beneath this expensive new facade of justice to
   reveal the massive financial scam built inside its walls.
 alttags: Backstory Podcast 190 Scalped graphic showing the new Baldwin County District
   Attorney building and a Facebook post announcing its construction bid award

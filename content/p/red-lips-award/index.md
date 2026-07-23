@@ -107,7 +107,7 @@ related_articles:
 summary: State Representative Ed Oliver and Senator Andrew Jones pushed retaliatory
   bills to gut oversight and punish whistleblowers. Financial records and court orders
   reveal how top state officials looted private trust funds while dismantling public
-  boards. Peer past their hypocritical lip service to see why these self-serving politicians
+  boards. We peer past their hypocritical lip service to see why these self-serving politicians
   earned our premier award for betrayal.
 ---
  Alabama is number one in the United States when it comes to political corruption, by far. The Department of Mental Health run by Kimberly Boswell ranks “In 2024, Mental Health America ranked Alabama 50th out of 51 states for access to mental health care.” The veteran suicide rate is higher than the national Veteran average and significantly higher than the national civilian average. Let that soak in!

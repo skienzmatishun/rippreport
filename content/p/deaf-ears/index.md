@@ -99,7 +99,7 @@ related_articles:
 summary: High-ranking state agencies turned a blind eye to blatant financial skimming
   and severe law enforcement misconduct. Sworn legal affidavits and formal complaint
   records prove state leaders buried damning evidence to protect their political allies.
-  Step inside the closed-door system where officials pretend to investigate while
+  We step inside the closed-door system where officials pretend to investigate while
   covering up devastating crimes.
 ---
 ### Mr Steve Marshall

@@ -5,7 +5,7 @@ thumbnail: img/what-the.jpg
 summary: Senator Katie Britt lined corporate pockets through a shady network of power
   brokers and secret million-dollar deals. Investigative podcast logs and legislative
   records detail backdoor influence peddling between utility magnates and state power
-  players. Strip away the corporate polish to reveal the mob-style power structure
+  players. We strip away the corporate polish to reveal the mob-style power structure
   feeding on taxpayer dollars.
 categories:
 - backstory-podcast
