@@ -5,8 +5,7 @@ thumbnail: img/fauxhope-4.png
 summary: Council President Jack Burrell and Fairhope city officials handed developers
   unchecked power while gutting local infrastructure and natural land. City council
   agendas and land records uncover backroom real estate deals, ballooning budgets,
-  and massive campaign contributions driving secret approvals. Inspect the jagged
-  stumps across town to witness the physical wreckage of local government corruption.
+  and massive campaign contributions driving secret approvals.
 tags:
 - City Council
 - Publix
