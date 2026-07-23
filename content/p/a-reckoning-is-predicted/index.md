@@ -104,8 +104,7 @@ alttags: A person in a black robe holds a crystal ball containing the faces of H
 summary: Former Sheriff Hoss Mack and DA Robert Wilters built a protected network
   of corrupt cronies that framed innocent citizens for decades. Court records and
   suppressed evidence reveal how key law enforcement officials hid the truth to protect
-  their own inner circle. Read our report to see how the political fortune tellers
-  foresee an inevitable crash for this corrupt machine.
+  their own inner circle. Read our report to see how inevitable crash for this corrupt machine is predicted.
 ---
 Let’s face the facts: money wins elections. Sometimes the best man does not win, especially when only 10 percent of the voting public decides who wins and all the rest just bitch.
 
