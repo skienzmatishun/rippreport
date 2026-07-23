@@ -5,7 +5,7 @@ thumbnail: img/alabama-ethics-vs-tony-kennon.png
 summary: Mayor Tony Kennon bullied council members and abused his office while state
   oversight figures actively protected him from criminal charges. Official records
   expose how Ethics Director Tom Albritton pocketed trust funds while ignoring serious
-  complaints against local politicians. See why state oversight officials stayed sound
+  complaints against local politicians. Read why state oversight officials stayed sound
   asleep while local bullies abused their office without fear.
 tags:
 - Ethics Commission

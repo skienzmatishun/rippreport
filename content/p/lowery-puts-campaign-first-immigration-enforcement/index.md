@@ -5,7 +5,7 @@ thumbnail: img/lowery-puts-campaign-first.png
 summary: Sheriff Anthony Lowery abandoned critical security programs and put local
   families in danger to protect his political image. Department records show a sudden
   shutdown of federal enforcement partnerships right as campaign pressure started
-  mounting. See through his tough lawman routine to witness how political cowardice
+  mounting. We see through his tough lawman routine to witness how political cowardice
   compromised county safety.
 categories:
 - elections
