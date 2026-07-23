@@ -11,7 +11,7 @@ tags:
 - Robert Wilters
 authors:
 - admin
-alttags: A yellow starburst shape with a black outline centered on a white background
+alttags: A pair of fuzzy handcuffs
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
@@ -96,8 +96,7 @@ related_articles:
 summary: Former Sheriff Hoss Mack ran the Baldwin County Sheriff's Department like
   a personal kingdom while burying internal sex scandals and wrongful convictions.
   Leaked autopsy reports and departmental letters verify that top leadership knew
-  an innocent man was framed to protect high-ranking officers. Grab the key and unlock
-  the dark departmental secrets these corrupt gatekeepers tried to lock away forever.
+  an innocent man was framed to protect high-ranking officers.
 ---
 **Please read the comments.**
 
