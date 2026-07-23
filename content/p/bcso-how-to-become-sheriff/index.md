@@ -98,7 +98,7 @@ related_articles:
 summary: Sheriff Hoss Mack earned his career advancement by coercing witnesses, falsifying
   evidence, and framing an innocent man for murder. Trial transcripts and exhumation
   records prove top prosecutors and deputies hid key coroner findings for nearly two
-  decades. Expose the corrupt playbook these rogue officers used to trade human lives
+  decades. We expose the corrupt playbook these rogue officers used to trade human lives
   for power and promotions.
 ---
 First I would like to thank all the people who have warned me of retaliation that I may receive for writing the truth about BCSO and Sheriff Mack. Let me assure you that I have talked with the Attorney General’s office, FBI and other federal officials. I not only talked with them but provided documents. In addition we have talked with CNN, Investigative reporters, not in Alabama, Netflix and several producers that may be interested in a documentary.

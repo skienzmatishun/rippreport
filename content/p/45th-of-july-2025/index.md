@@ -50,7 +50,7 @@ related_articles:
 summary: Local political bosses pretend to celebrate constitutional freedom while
   actively undermining local government transparency across Baldwin County. Online
   records and social media postings expose the hypocrisy of officials wrapping themselves
-  in the flag while hiding public documents from taxpayers. Expose the stark contrast
+  in the flag while hiding public documents from taxpayers. We expose the stark contrast
   between their patriotic posturing and the dirty political reality behind city hall.
 ---
 Wishing everyone a day filled with freedom, fireworks, and fun! Enjoy the celebrations and make some wonderful memories.
