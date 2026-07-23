@@ -5,7 +5,7 @@ thumbnail: img/baldwin-county-judicial-corruption.png
 summary: Baldwin County's top judicial officials conspired for decades to manipulate
   trials and protect rogue deputies from accountability. Withheld forensic reports
   and sworn affidavits demonstrate a repeated pattern of hiding exculpatory evidence
-  to advance official careers. Confront the terrible human toll and decades of stolen
+  to advance official careers. We confront the terrible human toll and decades of stolen
   time caused by this ruthless judicial cabal.
 categories:
 - thursday-thunder

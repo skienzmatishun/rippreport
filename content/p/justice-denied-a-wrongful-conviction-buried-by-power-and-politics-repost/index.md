@@ -99,7 +99,7 @@ related_articles:
 summary: DA Robert Wilters and former Sheriff Hoss Mack buried critical evidence to
   send an innocent man to prison for over twenty years. Over two thousand pages of
   court transcripts and hidden autopsy reports show officials deliberately concealed
-  the true cause and location of death. Confront the unified wall of political power
+  the true cause and location of death. We confront the unified wall of political power
   that destroyed an innocent life to protect institutional lies.
 ---
 FOR IMMEDIATE RELEASE

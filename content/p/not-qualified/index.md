@@ -5,7 +5,7 @@ youtube: jMHPWwbowr8
 thumbnail: img/not-qualified.jpg
 summary: Assistant District Attorney Kristi Hagood pushed false statements to court
   judges to deny an innocent man his freedom. Documents reveal how prosecutors knew
-  a suppressed medical report proved murder charges were completely fabricated. Confront
+  a suppressed medical report proved murder charges were completely fabricated. We confront
   the stark truth of how her glossy campaign promises created a human nightmare for
   an innocent victim.
 categories:
