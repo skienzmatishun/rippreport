@@ -104,7 +104,7 @@ alttags: A digital collage featuring portraits of Sheriff Anthony Lowery, Chief 
 summary: Baldwin County law enforcement targeted former Summerdale Police Chief Kevin
   Brock and buried evidence to protect their political network. Suppressed autopsy
   letters and leaked internal records reveal how top officials orchestrated unlawful
-  arrests to control the public narrative. We examine our breakdown of state power to
+  arrests to control the public narrative. We the breakdown of state power to
   see how top officials manufacture villains while hiding their own systemic rot.
 ---
 Chief Kevin Brock and his wife Dr. Lori Brock have an incredible story to tell about being the target of the Baldwin County Law Enforcement Propaganda Machine.  After being investigated, fired, indicted (two years later) only to have the charges dropped against him, his wife was not so lucky.  We also discuss the Lagniappe Mobile Newspaper article regarding Harry Still's recent arrest, the audio of the "incident", the fact that he was arrested on a misdemeanor that occurred outside the officers presence, a violation of the Code of Alabama (it was an unlawful arrest). Both cases were covered salaciously by Debbie Williams of WKRG News 5, the mouthpiece for Anthony Lowery for years now going back to his time at the District Attorney's Office.  Are they related or just good friends?

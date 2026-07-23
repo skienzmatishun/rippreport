@@ -6,7 +6,7 @@ gif: img/stealing-from-kids.gif
 summary: Ethics Chief Tom Albritton looted a multi-million dollar children's charity
   to bankroll his own family's lavish lifestyle. State audit filings and court petitions
   reveal illegal self-dealing transfers, inflated bank fees, and suppressed beneficiary
-  names. See how the state’s top ethics watchdog traded his moral authority for the
+  names. Read how the state’s top ethics watchdog traded his moral authority for the
   legacy of a common criminal.
 tags:
 - Albritton

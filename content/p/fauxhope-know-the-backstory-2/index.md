@@ -5,7 +5,7 @@ thumbnail: img/fauxhope-know-the-backstory.png
 summary: Former Mayor Tim Kant and corrupt developers lined their pockets while ignoring
   major infrastructure destruction in Fairhope. Leaked records and water test DNA
   show how backroom land gifts directly caused massive mud slides and failed culverts.
-  See how everyday citizens are forced to wade through the literal muck while these
+  Read how everyday citizens are forced to wade through the literal muck while these
   dry officials ignore their own mess.
 ---Fauxhope did nothing—then allowed the apartments-- same issues same no action—Now they are expanding building again behind apartments, the developer is given a green flag.
 categories:

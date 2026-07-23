@@ -7,7 +7,7 @@ thumbnail: img/food-for-thought.png
 summary: Baldwin County politicians cooked up secret real estate deals to hand fifty
   million dollars worth of public land over to private interests. Hidden land records
   and meeting agendas reveal how insiders systematically ignored zoning laws and suppressed
-  public input. See how greedy insiders laugh in private while locking the public
+  public input. Read how greedy insiders laugh in private while locking the public
   out of major land deals.
 authors:
 - admin

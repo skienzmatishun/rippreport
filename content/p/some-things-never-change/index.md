@@ -5,7 +5,7 @@ thumbnail: img/some-things-never-change.png
 summary: Corrupt political insiders pushed through unvoted tax hikes and costly school
   lawsuits to enrich themselves at public expense. Financial records and hidden agreements
   reveal how local bosses used dark money networks to force their agenda on taxpayers.
-  See how these fake public servants use their political vacuum to drain local tax
+  Read how these fake public servants use their political vacuum to drain local tax
   dollars directly into their greedy machine.
 categories:
 - repost

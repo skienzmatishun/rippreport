@@ -552,3 +552,34 @@ hooks:
 
       * Fairhope City Council'
     generated_at: '2026-07-18T06:10:24.470972Z'
+theme_analysis:
+  image_theme: 'The image features a universal warning symbol—a red triangle containing
+    an exclamation point. This is a high-alert visual cue designed to signal danger,
+    caution, or the need for immediate attention. The stark contrast between the bold
+    red border and the neutral grey background emphasizes urgency and authority. It
+    conveys themes of hazard, impending consequences, and a "stop and look" message,
+    suggesting that there is hidden information or an active threat that requires
+    public awareness.
+
+    '
+  article_theme: 'The article exposes systemic political corruption and obstruction
+    within the Fairhope city government. The core theme is the subversion of democratic
+    will by a small group of self-serving politicians (Councilmen Boone and Burrell)
+    who are allegedly being manipulated by a shadowy influence group called "Catalyst."
+    It highlights "dirty tricks," such as hiring freezes, budget delays, and manufactured
+    recall petitions, to undermine the elected Mayor. The emotional core is one of
+    investigative alarm and an urgent call to action for citizens to protect their
+    community from entrenched "good ole boy" interests.
+
+    '
+  theme_connections:
+  - The image serves as a literal visual translation of the article's title ('IMPORTANT
+    NOTICE'), acting as a high-alert signal for voters that the local government is
+    in a state of crisis or danger due to corrupt influence.
+  - The exclamation point symbolizes the 'revelation' aspect of investigative journalism,
+    mirroring how the text unmasks 'shadowy' entities like Catalyst and exposes the
+    falsehoods being used to manipulate public opinion.
+  - The warning sign represents the systemic hazard described in the article; just
+    as a road sign warns of physical danger, the article warns of political danger—the
+    erosion of democratic processes by self-serving interests that threaten the community's
+    well-being.

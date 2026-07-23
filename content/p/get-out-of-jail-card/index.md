@@ -92,7 +92,7 @@ related_articles:
 summary: Baldwin County politicians and law enforcement insiders routinely bypass
   the law through a corrupt network of backroom favors. Documents and court files
   expose how well-connected officials dodge DUIs, pocket BP settlement money, and
-  hide public records. See how local power players hand out a literal GET OUT OF JAIL
+  hide public records. Read how local power players hand out a literal GET OUT OF JAIL
   CARD while citizens pay the price.
 ---
 Here are “some examples” of how a Baldwin County, Get Out of Jail Card, has helped, mostly politicians, AVOID any transparency or accountability.

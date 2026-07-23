@@ -92,7 +92,7 @@ related_articles:
 summary: Former Mayor Tim Kant and council members Jack Burrell and Kevin Boone gambled
   away millions in public funds through reckless legal fights and negligence. Court
   records and dropped insurance files reveal how city bosses secretly altered rules
-  after the fact to cover up massive losses. See how corrupt leaders are playing Russian
+  after the fact to cover up massive losses. Read how corrupt leaders are playing Russian
   roulette with your tax dollars while driving Fairhope toward financial ruin.
 ---
 Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20 years, who is asleep at the wheel.

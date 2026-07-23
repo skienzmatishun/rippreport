@@ -12,7 +12,7 @@ tags:
 summary: Mayor Sherry Sullivan and her council allies stripped Fairhope of professional
   management to grab extra salaries and reward political insiders. Financial audits
   expose missing infrastructure funds, unapproved spending sprees, and deliberate
-  tricks to block voter districts. Look directly at the consequences of this administration's
+  tricks to block voter districts. We look directly at the consequences of this administration's
   hidden salaries and reckless deals.
 authors:
 - admin
