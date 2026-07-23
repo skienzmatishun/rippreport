@@ -95,7 +95,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-summary: Mayor Sherry Sullivan and Jack Burrell illegally funneled public money into
+summary: Mayor Sherry Sullivan and Jack Burrell funneled public money into
   dual salaries and backroom real estate schemes. Financial ledgers and secret meeting
   minutes expose how council bosses fired qualified staff and raided utility accounts
   to enrich their political allies. Look beneath their polished campaign promises
