@@ -93,7 +93,7 @@ related_articles:
 summary: Mayor Sherry Sullivan pocketed double paychecks while allowing Fairhope’s
   critical utility infrastructure to crumble into total disrepair. Financial documents
   expose how city leaders drained millions from public utility accounts to hide general
-  budget shortfalls and pay off botched lawsuits. We uncover the toxic excuses fueling
+  budget shortfalls and pay off botched lawsuits. The Ripp Report uncovers the toxic excuses fueling
   BULL SITTING Fairhope.
 ---
 Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.

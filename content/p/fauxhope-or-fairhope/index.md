@@ -101,8 +101,7 @@ related_articles:
 summary: The incumbent council slate and Mayor Sherry Sullivan colluded with special
   interests to lock down city contracts and block municipal reform. Official candidate
   disclosures and petition records expose how insider politicians used taxpayer-funded
-  lawyers to delay voter-backed elections. We examine how these self-serving officials
-  keep local government running on their own luxury clock instead of serving the people.
+  lawyers to delay voter-backed elections.
 ---
 DON’T TAKE THE BAIT — VOTE FOR THE SLATE
 

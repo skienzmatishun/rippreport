@@ -538,3 +538,36 @@ hooks:
 
       *   The City Attorney'
     generated_at: '2026-07-18T04:51:54.968073Z'
+theme_analysis:
+  image_theme: 'The image utilizes the visual language of a "Wanted" poster, evoking
+    themes of criminality, public exposure, and pursuit. The parchment texture suggests
+    an outlaw aesthetic, while the bars over the subject''s face symbolize imprisonment,
+    judgment, and the loss of freedom. His raised hands convey a sense of surrender
+    or being caught in the act. The primary emotional tone is one of punitive justice
+    and dramatic consequence, framing the individual not just as a politician making
+    mistakes, but as a fugitive from ethical standards who deserves to be "captured"
+    by the truth.
+
+    '
+  article_theme: 'The article centers on themes of political corruption, self-dealing,
+    and the erosion of public trust. It specifically investigates allegations of personal
+    gain (free airplane transportation) derived from official duties involving municipal
+    bids. The core emotional driver is investigative defiance; the authors are challenging
+    a powerful figure to "put his money where his mouth is" while simultaneously highlighting
+    a perceived lack of mainstream media accountability. It explores the tension between
+    private interests and public service, characterized by accusations of dodging
+    responsibility and using political power as a shield.
+
+    '
+  theme_connections:
+  - The image functions as a literal visual representation of the $5,000 reward mentioned
+    in the headline; by framing the reward as a 'bounty,' it transforms the journalistic
+    investigation into a public hunt for truth where the reader is invited to participate
+    in 'capturing' the evidence of corruption.
+  - There is a sharp irony between the subject's actual status as a high-ranking Council
+    President and his depiction behind bars on a 'Wanted' poster, symbolizing the
+    article's claim that his actions are criminal in nature despite his current position
+    of power.
+  - The bars over the man's face symbolize the 'shield' he uses to limit public comment,
+    mirroring the article's description of him using his official position to dodge
+    questions and obstruct transparency regarding the airport bid allegations.

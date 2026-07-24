@@ -561,3 +561,36 @@ hooks:
 
       *   City Council of Fairhope / Baldwin County'
     generated_at: '2026-07-17T19:09:22.465459Z'
+theme_analysis:
+  image_theme: 'The image functions as an authoritative journalistic masthead or report
+    cover. It conveys a sense of officiality, investigation, and formal record-keeping
+    through its structured layout, date stamp, and bold typography. The primary theme
+    is "Exposure" and "Documentation." The title "NEW SWEEP" suggests a wide-ranging
+    search—a metaphorical sweeping across an area to uncover what is hidden—while
+    the "Freaky Friday" tagline introduces a layer of irony or a sense of things being
+    out of place or roles being reversed.
+
+    '
+  article_theme: 'The core theme is systemic municipal corruption and the betrayal
+    of public trust through clandestine political deals. The article exposes how Fairhope''s
+    leadership maintains a "Norman Rockwell" facade of public participation while
+    secretly prioritizing developer interests, resulting in massive taxpayer losses
+    (the $11.5 million lawsuit) and dangerous infrastructure decisions. It centers
+    on the emotional core of betrayal: the contrast between the city''s polished public
+    image and its messy, non-transparent reality of "sweetheart deals."
+
+    '
+  theme_connections:
+  - The title 'NEW SWEEP' in the image serves as a metaphor for an exhaustive investigative
+    process; it symbolizes the reporter 'sweeping away' the city’s polished public
+    relations facade to reveal the underlying rot of developer favoritism and financial
+    waste described in the text.
+  - There is a sharp thematic contrast between the clean, structured aesthetic of
+    the report header (representing order and truth) and the chaotic, clandestine
+    nature of the 'back door deals' and safety violations mentioned in the article.
+    The image represents the reporter's role as an architect of clarity in a landscape
+    of political obfuscation.
+  - 'The ''Freaky Friday'' tagline on the masthead creates a thematic link to the
+    article’s description of reversed roles: public funds are being treated as private
+    gains, and public safety is being traded for developer favors—a literal reversal
+    of how city government is supposed to function.'

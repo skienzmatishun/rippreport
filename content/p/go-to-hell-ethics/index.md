@@ -95,7 +95,7 @@ related_articles:
 summary: Baldwin County attorneys handed a lucrative taxpayer-funded lease deal to
   a sitting mayor while telling ethics watchdogs to drop dead. Lease agreements and
   public records expose how local officials bypassed oversight agencies to line their
-  own pockets with public cash. We uncover the whole truth behind why corrupt officials
+  own pockets with public cash. The Ripp Report uncovers the whole truth behind why corrupt officials
   scream GO TO HELL ETHICS.
 ---
 The Baldwin Commission Attorney, Brad Hicks, says he see’s no ethics violation with Mayor Bob Wills renting his building, and possibly sharing office space, with the Baldwin County Legislative Delegation. The county attorney is deciding what is ethical and what is not? That is not his job. Brad’s job is to be sure it is NOT unethical. His job is to contact Ethics, Attorney General or the legal council for the Speaker of the house and get an official opinion. Instead he just said go to hell with obtaining any opinions, he knows best.

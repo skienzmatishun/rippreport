@@ -93,7 +93,7 @@ related_articles:
 summary: State agencies and law enforcement officers ignored severe abuse indicators
   and left helpless minors in extreme danger for months. Investigative case files
   and medical records prove local authorities buried clear evidence of horrific criminal
-  neglect. We uncover the heartbreaking human toll left behind when cold government institutions
+  neglect. The Ripp Report uncovers the heartbreaking human toll left behind when cold government institutions
   choose corruption over helpless victims.
 ---
 To all who have an interest in the safety of children in Baldwin County, Alabama and beyond,
