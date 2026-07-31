@@ -151,4 +151,13 @@ You can read the entire transcript we welcome comments:
 
 [Court Transcripts](https://1drv.ms/u/s!AjkiMTnxOg5Whs8_OXITUR9ssyxHzw?e=HW1V3s)
 
+July 2026 Update:
+
+Please read the account of the wrongful conviction of Murray Lawrence in a book that will explain how deep the corruption runs in Baldwin County.
+
+You can purchase the book at Page and Pallet Bookstore or order it online
+
+<img src="/img/life-without-jurisdiction.png">
+<img src="/img/venmoqr.png">
+
 {{< aicomments "/p/innocent/" >}}

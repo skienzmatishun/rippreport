@@ -108,4 +108,13 @@ Read the book:
 
 [JusticeForMurrayLawrenceJr.com](https://JusticeForMurrayLawrenceJr.com)
 
+July 2026 Update:
+
+Please read the account of the wrongful conviction of Murray Lawrence in a book that will explain how deep the corruption runs in Baldwin County.
+
+You can purchase the book at Page and Pallet Bookstore or order it online
+
+<img src="/img/life-without-jurisdiction.png">
+<img src="/img/venmoqr.png">
+
 {{< aicomments >}}

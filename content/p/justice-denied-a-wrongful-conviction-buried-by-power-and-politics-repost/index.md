@@ -130,6 +130,14 @@ Jurors were improperly influenced. Alibi witnesses were never called. Forensic e
 This is not just about a wrongful conviction. It is about a pattern of suppressed evidence and prosecutorial misconduct that has never been addressed. Those responsible have only risen in rank, and without public pressure, they will never be held accountable.
 This is an egregious injustice. Murray Lawrence Jr has lost two decades of his life. If the media and public do not act now, he may never get the justice he is owed.
 
+July 2026 Update:
+
+Please read the account of the wrongful conviction of Murray Lawrence in a book that will explain how deep the corruption runs in Baldwin County.
+
+You can purchase the book at Page and Pallet Bookstore or order it online
+
+<img src="/img/life-without-jurisdiction.png">
+<img src="/img/venmoqr.png">
 
 {{< aicomments "mlpr" "similarity" >}}
 
