@@ -139,4 +139,13 @@ The Mayor of Bay Minette, who has a pending ethics charge, and his “yes sir”
 
 How many people need to be killed or wrongfully incarcerated before the U.S. Justice Dept. steps in?
 
+July 2026 Update:
+
+Please read the account of the wrongful conviction of Murray Lawrence in a book that will explain how deep the corruption runs in Baldwin County.
+
+You can purchase the book at Page and Pallet Bookstore or order it online
+
+<img src="/img/life-without-jurisdiction.png">
+<img src="/img/venmoqr.png">
+
 {{< aicomments "/p/wrongful-conviction/" >}}

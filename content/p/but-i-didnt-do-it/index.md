@@ -116,6 +116,13 @@ It is a twisted tale of greed, violence, and treachery – one you will never fo
 
 Please check out <a href=https://justiceformurraylawrencejr.com>justiceformurraylawrencejr.com</a> for the FULL STORY. Please DONATE to our <a href="https://spot.fund/7p2k2se">fundraiser</a>, sign the <a href=https://chng.it/pv4xJVYLPR>PETITION</a>, and then stay tuned to <a href=https://rippreport.com>The Ripp Report</a> for further developments – as we, the social justice advocates for Murray “Bubba” Lawrence, Jr. continue to pursue his vindication and exoneration. 
 
-{{< aicomments "false-arrest" >}}
+July 2026 Update:
 
-{{< mailchimp >}}
+Please read the account of the wrongful conviction of Murray Lawrence in a book that will explain how deep the corruption runs in Baldwin County.
+
+You can purchase the book at Page and Pallet Bookstore or order it online
+
+<img src="/img/life-without-jurisdiction.png">
+<img src="/img/venmoqr.png">
+
+{{< aicomments "false-arrest" >}}

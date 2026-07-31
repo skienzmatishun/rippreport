@@ -110,7 +110,14 @@ Stay in contact with the Ripp Report for the updates on the wrongful conviction 
 For years the Ripp Report has been exposing the corruption in Baldwin County and a Sheriff’s Department, that investigates themselves. I hope you have the time to get a Lagniappe and read the whole article as it is behind a paywall currently. Free Lagniappe papers are in most news stands in Baldwin and Mobile county.
 
 
+July 2026 Update:
 
+Please read the account of the wrongful conviction of Murray Lawrence in a book that will explain how deep the corruption runs in Baldwin County.
+
+You can purchase the book at Page and Pallet Bookstore or order it online
+
+<img src="/img/life-without-jurisdiction.png">
+<img src="/img/venmoqr.png">
 
 {{< aicomments "bcwc" >}}
 
