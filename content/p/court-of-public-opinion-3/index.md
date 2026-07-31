@@ -132,6 +132,7 @@ Please read the account of the wrongful conviction of Murray Lawrence in a book 
 
 You can purchase the book at Page and Pallet Bookstore or order it online
 
+<img src="life-without-jurisdiction.png">
 <img src="venmoqr.png">
 
 {{< aicomments >}}
