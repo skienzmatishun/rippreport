@@ -10,88 +10,79 @@ categories:
 authors:
 - admin
 related_articles:
-- slug: rumors
-  title: RUMORS
-  score: 72.66114831640833
-  llm_score: 75
-  recency_score: 97.29746405665401
+- slug: alabama-exposure-mljr
+  title: Alabama Exposure and Accountability - The Framing of Murray Lawrence Jr.
+  score: 93.76645001504639
+  llm_score: 100
+  recency_score: 64.15708758651667
   length_score: 100
   category_score: 0
   rank: 1
-- slug: biased-investigation
-  title: BIASED INVESTIGATION
-  score: 72.6201939216784
-  llm_score: 75
-  recency_score: 97.03126049090956
+- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+  score: 86.69211653029541
+  llm_score: 95
+  recency_score: 43.47967004919853
   length_score: 100
   category_score: 0
   rank: 2
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 68.60861826520947
-  llm_score: 85
-  recency_score: 30.95601872386148
+- slug: advocates
+  title: Advocates discover autopsy never included in Baldwin man’s murder trial
+  score: 84.34782608695653
+  llm_score: 90
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 3
-- slug: deal-with-the-devil
-  title: DEAL WITH THE DEVIL
-  score: 66.46570555972018
-  llm_score: 75
-  recency_score: 57.02708613818104
+- slug: 7432-days-in-jail
+  title: 7432 DAYS IN JAIL
+  score: 80.86956521739131
+  llm_score: 85
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 4
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 65.3846153846154
-  llm_score: 75
+- slug: Baldwin-county-wrongful-conviction
+  title: BALDWIN COUNTY WRONGFUL CONVICTION
+  score: 77.3913043478261
+  llm_score: 80
   recency_score: 50
   length_score: 100
   category_score: 0
   rank: 5
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 64.76392236974783
-  llm_score: 85
-  recency_score: 5.965495403360867
+- slug: earful
+  title: EARFUL
+  score: 66.95652173913045
+  llm_score: 65
+  recency_score: 50
   length_score: 100
   category_score: 0
   rank: 6
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 60.632789618934865
+- slug: innocent
+  title: INNOCENT
+  score: 65.45826520322206
   llm_score: 75
-  recency_score: 19.113132523076512
+  recency_score: 1.3850249185268229
   length_score: 100
   category_score: 0
   rank: 7
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 60.514397277264486
-  llm_score: 75
-  recency_score: 18.34358230221904
+- slug: wrongful-conviction-fairhope-baldwin-county
+  title: Wrongful Conviction Fairhope, Baldwin County
+  score: 63.81978525159839
+  llm_score: 70
+  recency_score: 11.96376519669074
   length_score: 100
   category_score: 0
   rank: 8
-- slug: bcso-how-to-become-sheriff
-  title: BCSO - HOW TO BECOME SHERIFF
-  score: 60.28460919258869
-  llm_score: 75
-  recency_score: 16.84995975182637
+- slug: rule-32
+  title: RULE 32
+  score: 49.076024542499816
+  llm_score: 50
+  recency_score: 7.1871411193739325
   length_score: 100
   category_score: 0
   rank: 9
-- slug: justified
-  title: JUSTIFIED
-  score: 59.053975768567085
-  llm_score: 75
-  recency_score: 8.850842495685942
-  length_score: 100
-  category_score: 0
-  rank: 10
 ---
-
 TO GET MURRAY OUT OF PRISON, WE MUST GET HIS STORY OUT.
 
 THE ACADEMY AWARD NOMINATED ALABAMA SOLUTION DOCUMENTARY SHOWED WHAT HAPPENS INSIDE ALABAMA'S PRISONS.
