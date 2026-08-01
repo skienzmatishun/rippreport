@@ -6,7 +6,7 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: Francis Ripp of The Ripp Report stands in a tropical setting with palm trees and an ocean view, wearing glasses and a colorful floral shirt
+alttags: Sheriff Hoss Mack stands in a tropical setting with palm trees and an ocean view, wearing glasses and a colorful floral shirt
 related_articles:
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF

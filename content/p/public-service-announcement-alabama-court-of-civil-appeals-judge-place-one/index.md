@@ -9,7 +9,7 @@ tags:
 - family court
 authors:
 - ripp-report
-alttags: Illustration depicting a woman in judicial robes and a witch hat standing behind scales of justice, marked with a no cata...
+alttags: Illustration depicting a woman in judicial robes and a witch hat standing behind scales of justice
 related_articles:
 - slug: catalyst-queen-remember-family-court
   title: CATALYST QUEEN - REMEMBER FAMILY COURT
