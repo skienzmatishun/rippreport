@@ -114,4 +114,24 @@ This book lays out that record in full. The coercion.
 The suppressed evidence. The case for Murray's innocence that the courts have never had to answer.
 There is also a legal question still open. This book follows it all the way to its conclusion.
 
+<div class="social-preview" data-source="www.justiceformurraylawrencejr.com">
+    <a href="https://www.justiceformurraylawrencejr.com" rel="noopener noreferrer" target="_blank">
+        <img
+            loading="lazy"
+            src="https://rippreport.com/cdn-cgi/image/width=306,quality=85,format=auto,onerror=redirect/img/baldwin-county-judicial-corruption.png"
+            alt="Justice for Murray Lawrence Jr."
+            width="306"
+            height="161"
+            style="object-fit: cover; background-color: #eee;"
+        >
+        <h2>
+            Justice for Murray Lawrence Jr.
+            <br>
+            <span class="source-url">www.justiceformurraylawrencejr.com</span>
+        </h2>
+        <p>Wrongfully Convicted in Baldwin County Alabama. Read the book or listen to the audiobook here.</p>
+        <span class="read_more">Read More</span>
+    </a>
+</div>
+
 {{< aicomments >}}
