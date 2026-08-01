@@ -3,9 +3,6 @@ title: LOCATION LOCATION TOTALLY LOCO LOCATIONS
 date: 2015-02-09
 description: Post from 2015-02-09
 thumbnail: img/location-location.png
-tags:
-- archive
-- historical
 related_articles:
 - slug: quid-pro-quo
   title: Quid Pro Quo

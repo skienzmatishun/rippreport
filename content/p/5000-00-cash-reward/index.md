@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Wanted poster with a distressed border displays WANTED and $5000. The center shows a sepia-toned photo of a person behind bars wearing an animal head co...
+alttags: Wanted poster with a distressed border displays WANTED and $5000 with Jack Burrell in a Bunny suit behind bars. 
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE

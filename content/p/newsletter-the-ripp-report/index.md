@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Black line art icon of an envelope inside a circle on a white background, linking to the Ripp Report newsletter signup page
+alttags: Black line art icon of an envelope inside a circle on a white background
 related_articles:
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION

@@ -13,7 +13,7 @@ tags:
 - sewer
 authors:
 - admin
-alttags: Video call screenshot of Fairhope City Council President Jack Burrell wearing a red white and blue hard hat. Overlay text identifies him by name and title
+alttags: TV shot of Fairhope City Council President Jack Burrell wearing a red white and blue hard hat.
 related_articles:
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF

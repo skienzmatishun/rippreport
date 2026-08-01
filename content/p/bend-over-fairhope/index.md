@@ -15,7 +15,7 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: A sepia photograph of a wooded path in Big Head Gully, Fairhope, Alabama, overlaid with a black-and-white line drawing of a person bending forward at th...
+alttags: A historical photograph of Big Head Gully overlaid with a black-and-white line drawing of a person bending over the edge
 related_articles:
 - slug: big-heads
   title: BIG HEADS

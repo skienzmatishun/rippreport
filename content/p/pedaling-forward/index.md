@@ -14,7 +14,7 @@ tags:
 - schools
 authors:
 - ripp-report
-alttags: A black silhouette of a person riding a bicycle against a white background
+alttags: A black silhouette of a person riding a bicycle forwards against a white background
 related_articles:
 - slug: money-on-the-table
   title: MONEY ON THE TABLE

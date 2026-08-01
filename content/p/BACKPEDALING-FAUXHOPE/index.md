@@ -12,7 +12,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: An older man with white hair wearing a blue shirt and black shorts rides a bicycle down a street while gesturing with his gloved hand
+alttags: Jack Burrell rides a bicycle backwards while gesturing with his gloved hand
 related_articles:
 - slug: FAIRHOPE-FREE-YEAR
   title: FAIRHOPE FREE YEAR

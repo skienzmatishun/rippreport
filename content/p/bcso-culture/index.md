@@ -15,7 +15,7 @@ categories:
 - bcso
 authors:
 - admin
-alttags: 'A brown glass bottle with a label reading BCSO ABSOLUTE IMMUNITY and a twine tag stating BCSO FEATURES: No Accountability, No Transparency, against a re...'
+alttags: 'A brown glass bottle with a label reading BCSO ABSOLUTE IMMUNITY and a twine tag stating BCSO FEATURES: No Accountability, No Transparency'
 related_articles:
 - slug: bcso-culture-2
   title: BCSO CULTURE

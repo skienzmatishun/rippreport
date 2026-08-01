@@ -21,7 +21,7 @@ tags:
 - waterfront-project
 authors:
 - admin
-alttags: Jack Burrell stands in a park with a fountain and manicured gardens, holding a black wind instrument horizontally across his mouth
+alttags: Jack Burrell stands in a park with a fountain and manicured gardens playing a pipe instrument.
 related_articles:
 - slug: no-qualifications
   title: NO QUALIFICATIONS

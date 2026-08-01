@@ -6,7 +6,7 @@ categories:
 - monday-mayhem
 authors:
 - admin
-alttags: A black silhouette of a person with outstretched hands stands next to a black silhouette of a cannon on a white background
+alttags: A black silhouette of a shrugging person stands next to a black silhouette of a cannon on a white background
 related_articles:
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'

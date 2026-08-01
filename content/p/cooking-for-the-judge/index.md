@@ -5,14 +5,14 @@ thumbnail: img/cooking-for-the-judge.jpg
 categories:
 - bcso
 tags:
-- brian-dasinger
-- catalyst
-- judge-scully
-- pittman
-- sheriff-mack
+- Brian Dasinger
+- Catalyst
+- Judge Scully
+- Pittman
+- Hoss Mack
 authors:
 - ripp-report
-alttags: Man in cowboy hat & tactical gear holds spatula next to a grill, symbolizing control and influence over Baldwin County gov...
+alttags: Hoss Mack in a cowboy hat & tactical gear holds spatula next to a grill.
 related_articles:
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN

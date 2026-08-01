@@ -11,7 +11,7 @@ tags:
 - Robert Wilters
 authors:
 - admin
-alttags: A circular Baldwin County Sheriffs Office seal featuring a broken red heart and handcuffs sits beside a close-up photograph of a bald eagle with its be...
+alttags: A circular Baldwin County Sheriffs Office seal featuring a broken red heart and handcuffs sits beside a close-up photograph of a shocked bald eagle
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO

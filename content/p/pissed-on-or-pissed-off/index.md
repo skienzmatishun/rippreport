@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Circular city seal showing a white cow, yellow sun, and three teardrop shapes, bordered by the text CITY OF FAUXHOPE with a red cross-out and ALABAMA
+alttags: Circular city seal showing a dog, yellow sun, and three teardrop shapes, bordered by the text CITY OF FAUXHOPE with a red cross-out and ALABAMA
 related_articles:
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE

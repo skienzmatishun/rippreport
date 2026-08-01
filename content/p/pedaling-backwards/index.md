@@ -10,7 +10,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Black silhouette of a person riding a bicycle toward the right, with motion blur streaks indicating forward movement against a white background
+alttags: Black silhouette of a person riding a bicycle toward the right, with motion blur streaks indicating backward movement against a white background
 related_articles:
 - slug: honey-bees
   title: HONEY BEES

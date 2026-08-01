@@ -8,7 +8,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A silver U.S. Mail mailbox on a black post behind a dark metal fence, with a red eighth note graphic overlaid on its side
+alttags: A silver U.S. Mail mailbox on a black post behind a dark metal fence
 related_articles:
 - slug: deaf-ears
   title: DEAF EARS

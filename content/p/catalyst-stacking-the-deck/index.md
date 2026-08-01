@@ -18,7 +18,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: A close-up of a fanned-out deck of playing cards, all showing the Joker face card with red and blue royal imagery
+alttags: A close-up of a fanned-out deck of playing cards, all showing the Joker face card
 related_articles:
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING

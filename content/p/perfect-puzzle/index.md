@@ -11,7 +11,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A red puzzle shaped like Alabama with missing pieces revealing a gavel, camera icon, stick figure, dollar bills, and the text Alabama Legislature
+alttags: A red puzzle shaped like Alabama with missing pieces in the shape of a gavel, camera icon, stick figure, balls, and the text Alabama Legislature
 related_articles:
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR

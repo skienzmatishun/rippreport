@@ -16,7 +16,7 @@ tags:
 - tuberville
 authors:
 - admin
-alttags: A stylized gray head profile with green wavy hair faces a red silhouette of the state of Alabama against a white background
+alttags: The shape of the state of Alabama jumping off a cliff.
 related_articles:
 - slug: perfect-puzzle
   title: PERFECT PUZZLE

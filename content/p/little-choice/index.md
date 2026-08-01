@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A circular campaign button with red and blue sections, each containing five white stars. The center white area displays the word VOTE in bold black capi...
+alttags: A circular campaign button with red and blue sections, each containing five white stars. The center white area displays the word VOTE
 related_articles:
 - slug: countdown
   title: COUNTDOWN

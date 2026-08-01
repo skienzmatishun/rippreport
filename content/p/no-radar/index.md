@@ -18,7 +18,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Circular emblem with a red bullseye, question marks, and a pointer. The border text reads CITY OF FAUX HOPE above ALABAMA, with FAUX in red
+alttags: Circular emblem with a radar display with question marks as targets. The border text reads CITY OF FAUX HOPE above ALABAMA, with FAUX in red
 related_articles:
 - slug: double-red-flags-faux-hope
   title: DOUBLE RED FLAGS - FAUX HOPE

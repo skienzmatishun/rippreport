@@ -10,7 +10,7 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: 'Satirical depiction of Alabama judicial appointments: a woman in robes balances scales against a figure labeled “Scully,” ...'
+alttags: A witch in robes balances scales against a figure labeled “Scully,”'
 related_articles:
 - slug: cooking-for-the-judge
   title: COOKING FOR THE JUDGE

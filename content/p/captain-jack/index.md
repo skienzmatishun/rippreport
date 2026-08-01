@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Joe McEnerney, Fairhope Airport Authority Chairman, smiles while wearing a blue pilot cap with gold wings and a black leather jacket
+alttags: Jack Burrell smiles while wearing a blue pilot cap with gold wings and a black leather jacket
 related_articles:
 - slug: captain-jack-at-the-controls
   title: CAPTAIN JACK AT THE CONTROLS

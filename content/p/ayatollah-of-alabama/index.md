@@ -8,7 +8,7 @@ tags:
 - moore
 authors:
 - ripp-report
-alttags: A man wearing a white robe and cap holds an orange microphone while speaking
+alttags: Roy Moore wearing a white robe and cap holds an orange microphone while speaking
 related_articles:
 - slug: protester-pride
   title: PROTESTER PRIDE

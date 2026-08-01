@@ -14,7 +14,7 @@ categories:
 - elections
 authors:
 - admin
-alttags: Nine men in sheriff uniforms appear arranged in a three-by-three grid on the screen of a vintage television set
+alttags: Clones in sheriff uniforms appear arranged in a three-by-three grid in the style of the Brady Bunch
 related_articles:
 - slug: bcso-culture
   title: BCSO CULTURE

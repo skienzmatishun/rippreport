@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A tan and white dog stands in green grass, licking its own tail while wearing a collar with tags
+alttags: A tan and white dog stands in green grass, chasing its own tail
 related_articles:
 - slug: russian-roulette-fairhope-style
   title: RUSSIAN ROULETTE - FAIRHOPE STYLE

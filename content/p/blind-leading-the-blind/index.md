@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A man in a green and purple jester costume wearing sunglasses, holding a golf club and waving against a white background
+alttags: Robert Brown in a jester costume wearing blacked out glasses, holding a stick.
 related_articles:
 - slug: quid-quo-pro
   title: QUID QUO PRO

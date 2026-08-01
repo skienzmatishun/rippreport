@@ -86,7 +86,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A white clown mask with rainbow curly hair and colorful makeup is centered between blue and red balloon sculptures shaped like the letters G and B
+alttags: A Guy Fawkes clown mask is centered between blue and red balloons shaped like the letters G and B
 ---
 Only in Baldwin County would political operatives produce a newsletter **Baldwin Beat** aka BB. Baldwin Bullshit. It is reported to be published in a pasture for Bulls that have diarrhea and a GOB brand.
 

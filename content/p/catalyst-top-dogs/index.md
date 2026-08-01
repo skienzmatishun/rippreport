@@ -12,7 +12,7 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: 'Political satire: Candidates Dorsey & Elliott in dog costumes, referencing calls to remove them from Baldwin County elections'
+alttags: 'Dorsey & Elliott in dog costumes'
 related_articles:
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES

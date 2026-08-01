@@ -16,7 +16,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A hand in a black suit sleeve holds a magnifying glass over a document with bar charts, overlaid by a large red X on a cyan background
+alttags: A hand in a black suit sleeve holds a magnifying glass over a document with bar charts, overlaid by a large red X
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
