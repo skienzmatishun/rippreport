@@ -114,7 +114,6 @@ These are just a few of the articles about our Queen of the Court:
 
 {{< socialpreview url="https://rippreport.com/p/flies-in-the-ointment/" >}}
 
-</div>
 YOU can make a difference and vote for someone who has no baggage or dark closets.
 
 VOTE JULY 17th FOR CHRISTY OLINGER EDWARDS
