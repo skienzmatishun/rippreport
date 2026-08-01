@@ -1,12 +1,12 @@
 ---
 title: LOOK IN THE MIRROR
 date: 2017-08-18
-thumbnail: img/look-in-the-mirror.jpg
+thumbnail: img/look-in-the-mirror.png
 categories:
-- freaky-friday
+- fairhope
 authors:
 - ripp-report
-alttags: A black ink line drawing of an ornate vintage hand mirror with a detailed frame and decorative handle
+alttags: An ornate vintage hand mirror with a reflection of Fairhope.
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE
