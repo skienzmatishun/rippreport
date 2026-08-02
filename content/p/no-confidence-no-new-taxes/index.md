@@ -1,13 +1,12 @@
 ---
 title: "No Confidence, No New Taxes"
 date: 2015-03-30
+thumbnail: img/no-confidence-no-new-taxes.png
 description: "Fire station on dead end street and taxpayer-funded infrastructure for developer show why we can't trust Mayor or Council"
 tags: ["archive", "historical", "fire-station", "taxes", "parker-road", "arthur-corte"]
 authors:
 - admin
 ---
-
-**March 30 2015**
 
 Here are two good reasons why you can't trust the Mayor of Fairhope or the city council.
 
