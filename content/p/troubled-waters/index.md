@@ -7,7 +7,8 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Diagram for Podcast Number 111 Troubled Waters mapping Mobile Bay zones, sediment layers, and green plots labeled with time periods from 5 to 20 years
+alttags: Diagram for Podcast Number 111 Troubled Waters mapping Mobile Bay zones,
+  sediment layers, and green plots labeled with time periods from 5 to 20 years
 related_articles:
 - slug: happy-days
   title: HAPPY DAYS
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The Port Authority and crooked local officials are dumping toxic dredge material
+  into sensitive waters while hiding behind dark money and zero public oversight.
+  We expose how politicians blow millions in Restore Act cash while law enforcement
+  covers up high-society boat crashes and wipes crucial police evidence. Watch Backstory
+  Podcast tear down the wall of bureaucratic silence right now.
 ---
 From the ill fated Alabama Port Authority "wetlands habitat/spoilage disposal" to allegations of a boat accident coverup by the City of Fairhope Police Department for a prominent Judge, Gambling America's Amazon (Alabama Power Company's cap-in-place of million of tons of Coal Ash in the Delta), the amphibious boat landing assault caught on video related to a local football coach (not guilty btw), a bridge battle at the beach, a mullet bonanza, and an initiative to protect a 10,000 year old cypress forest 30 miles offshore in 50 feet of water...this podcast has it all.
 

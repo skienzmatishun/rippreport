@@ -10,7 +10,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: A brass scale of justice stands beside Sheriff Hoss Mack holding a sniper rifle against a white background
+alttags: A brass scale of justice stands beside Sheriff Hoss Mack holding a sniper
+  rifle against a white background
 related_articles:
 - slug: boss-sheriff
   title: BOSS SHERIFF
@@ -92,6 +93,10 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 10
+summary: Sheriff Hoss Mack and DA Robert Wilters bullied a local judge to reverse
+  a legal order returning a citizen's stolen vehicle. Court filings and internal records
+  show how law enforcement abuses local power dynamics to overrule the courts. Will
+  any official stand up to the unchecked power running Baldwin County?
 ---
 Get your popcorn ready! For latest controversy surrounding Sheriff “No Body Cam Available,” aka The Boss, Hoss Mack. This story has legs and I am sure we are going to hear some backstory involving the Baldwin County Sheriff Office, BCSO. This is the chicken shit intimidation tactics used quite often in Baldwin County, especially if ya upset the Boss or one of his buddies.
 

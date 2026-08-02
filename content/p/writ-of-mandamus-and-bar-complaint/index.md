@@ -92,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our investigation, ethics chief Tom Albritton funneled thousands
+  from a charity trust into his own family's college tuition. Leaked filings and court
+  records expose how top officials actively turned a blind eye to this blatant conflict
+  of interest. The Ripp Report demands real accountability while state prosecutors
+  continue to duck responsibility.
 ---
 I hope you will continue to follow the story of Alabama’s “self-dealing”, Alabama Ethics Director, Tom Albritton. First you need to read the below article.
 

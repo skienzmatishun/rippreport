@@ -90,7 +90,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A bald eagle wearing black Bose headphones sits on a talk show set, flanked by two blurred men against a night cityscape backdrop
+alttags: A bald eagle wearing black Bose headphones sits on a talk show set, flanked
+  by two blurred men against a night cityscape backdrop
+summary: State leaders and local prosecutors systematically buried systemic corruption
+  from county courtrooms to the state prison system. Undercover audio recordings and
+  legal filings detail retaliatory solitary confinement and suppressed autopsy reports.
+  Governor Ivey's grand narrative crumbles under the weight of documented government
+  abuse.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vadQsrAHLSw?si=k-f3KTnq8o2P93Hw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Attorney General Steve Marshall uses dark money loops to fill his campaign
+  chest while state ethics officials protect him from prosecution. The state's top
+  law enforcement office actively shields dirty PAC cash and shuts down citizen accountability
+  lawsuits. Tune in as the podcast brings you the explosive details on Alabama's political
+  dark money machine.
 ---
 For the Record: 1. Harry Still is a Republican 2. Francis Paul Ripp is an Independent 3. Raines Rushin is a Democrat. The purpose of Backstory Podcast was to create a space for honest debate with a range of opinions and learned debate. And to highlight the level of public corruption in Alabama that Mr. Ripp runs across in his Not For Profit Consumer Protection Agency and Mr. Still observes in his Law Practice.
 

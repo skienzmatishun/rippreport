@@ -10,7 +10,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A scratched beige mask with black eyes and a protruding red tongue, adorned with yellow and black radiation hazard symbols
+alttags: A scratched beige mask with black eyes and a protruding red tongue, adorned
+  with yellow and black radiation hazard symbols
 related_articles:
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State ethics regulators shielded corrupt insiders from prosecution after
+  massive trust fund self-dealing came to light. Sworn legal petitions and official
+  state dockets show how a circuit judge recused himself when confronted with undeniable
+  proof. Uncover the real story of how state monitors protected their own financial
+  interests.
 ---
 The Ripp Report is a consumer organization first, we also maintain a blog site, Face Book sites and a Podcast production. The Ripp Report is a not for profit. We expose political corruption and file appropriate complaints.
 

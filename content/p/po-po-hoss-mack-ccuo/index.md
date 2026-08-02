@@ -10,7 +10,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Sheriff Hoss Mack of the Baldwin County Sheriffs Office is shown with his face partially covered by a white sheet, wearing glasses and a mustache
+alttags: Sheriff Hoss Mack of the Baldwin County Sheriffs Office is shown with his
+  face partially covered by a white sheet, wearing glasses and a mustache
 related_articles:
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage, top Baldwin County law enforcement officials protected
+  insiders while hiding critical evidence to secure fake convictions. Confidential
+  records and official letters show top brass knew about crucial autopsy reports long
+  before taking an innocent man to court. The Ripp Report exposes how these bad actors
+  traded justice for personal promotions.
 ---
 The good sheriff deputies at the Baldwin County Sheriff Office are fed up with their CCUO, Chief Cover up officer, Sheriff Mack. Mack has a colorful past of cover ups involving sheriff deputies and high ranking officers, sexual misconduct, missing evidence, incompetent investigations, traffic accidents, homicides, etc. This is the opportunity to expose the truth about what a good ole boy club the sheriff’s office is.
 

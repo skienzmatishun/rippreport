@@ -3,6 +3,7 @@ title: CAROLYN AMICK
 date: 2022-09-02
 categories:
 - obituary
+- holiday
 thumbnail: /img/CAROLYN-AMICK.jpg
 authors:
 - admin

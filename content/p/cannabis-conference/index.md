@@ -3,10 +3,11 @@ title: Inaugural Alabama Medical Cannabis Conference
 date: 2023-08-08
 thumbnail: img/cannabis-conference.jpg
 categories:
-- events
+- external
 authors:
 - admin
-alttags: Close-up of a cannabis plant showing a central flowering bud with white trichomes surrounded by serrated leaves transitioning from green to brown
+alttags: Close-up of a cannabis plant showing a central flowering bud with white trichomes
+  surrounded by serrated leaves transitioning from green to brown
 related_articles:
 - slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
   title: 'Special Legislative Alert: Alabama Medical Cannabis'
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Chey Garrigan announces the Alabama Cannabis Industry Association’s landmark
+  medical cannabis conference in Birmingham. The press release outlines how key leaders,
+  investors, and state regulators will meet to organize Alabama's new medical marijuana
+  program. This gathering highlights the transition of medical cannabis into a tightly
+  regulated state industry.
 ---
 Inaugural Alabama Medical Cannabis Conference to Make History as the State's First Major Cannabis-Focused Event
 

@@ -16,7 +16,8 @@ tags:
 - robinson
 authors:
 - admin
-alttags: A circular button with red, white, and blue horizontal stripes displays the bold text YOUR VOTE COUNTS?
+alttags: A circular button with red, white, and blue horizontal stripes displays the
+  bold text YOUR VOTE COUNTS?
 related_articles:
 - slug: csb-railroad-nomination
   title: CSB / RAILROAD- NOMINATION
@@ -98,6 +99,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope political bosses subverted the democratic process by filling vacant
+  council seats through secret political machine deals. Property probate records and
+  meeting transcripts highlight how officials coordinated candidate exits months before
+  telling the public. Dive into the paper trail that proves local leaders traded public
+  votes for private favors.
 ---
 The Fairhope Mayor and acting Mayor Burrell are moving at lightning speed to replace Robert Brown’s seat on the City Council, before any citizens can say a word.
 

@@ -11,7 +11,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A red puzzle shaped like Alabama with missing pieces in the shape of a gavel, camera icon, stick figure, balls, and the text Alabama Legislature
+alttags: A red puzzle shaped like Alabama with missing pieces in the shape of a gavel,
+  camera icon, stick figure, balls, and the text Alabama Legislature
 related_articles:
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking state leaders and ethics officials built a protected network
+  to cover up stolen trust funds and illegal political payouts. Financial tax audits
+  and unsealed complaint files show exact matches between state board decisions and
+  personal bank accounts. Piece together the full picture of how Alabama's top watchdog
+  agencies protect their own corrupt members.
 ---
 Alabama has earned it’s reputation as the most corrupt state in the United States. What solidifies Alabama’s position is a perfect puzzle, all tightly fit together with inept, lazy, hypocritical elected officials and oversight agencies. These agencies cost taxpayers millions for absolutely nothing.
 

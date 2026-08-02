@@ -91,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Appointed Sheriff Anthony Lowery and former Sheriff Hoss Mack built a culture
+  of self-investigating impunity that covers up law enforcement misdeeds. Internal
+  complaints and court documents reveal how top officials hid exculpatory evidence
+  to secure wrongful convictions while charging victims' families massive fees. We
+  expose how Baldwin County law enforcement operates above the law.
 ---
 The Baldwin County Sheriff Office has a culture that is ABSOLUTE IMMUNITY. No accountability or transparency. BCSO investigates itself by using their own investigative force, Baldwin County Major Crimes Division. This culture is not in the best interest or safety of citizens of Baldwin County.
 

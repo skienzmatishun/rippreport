@@ -12,7 +12,8 @@ tags:
 - tuberville
 authors:
 - admin
-alttags: Nick Saban in a light blue suit stands with crossed arms on the field, flanked by Alabama football players wearing white jerseys and helmets
+alttags: Nick Saban in a light blue suit stands with crossed arms on the field, flanked
+  by Alabama football players wearing white jerseys and helmets
 related_articles:
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR
@@ -94,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Senator Tommy Tuberville disgraced his office by joining a shameful effort
+  to subvert the democratic process on January 6th. Senate records and voting logs
+  reveal how Tuberville ignored explicit warnings from senior statesmen to blindly
+  follow party leadership. Can Alabama ever recover from the self-inflicted damage
+  caused by such reckless leaders?
 ---
 Congratulations Nick Saban and the Alabama Football team, you have made Alabama proud.
 

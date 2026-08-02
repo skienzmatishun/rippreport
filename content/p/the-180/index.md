@@ -7,7 +7,8 @@ categories:
 authors:
 - admin
 rumble: v59wyw1
-alttags: Backstory Podcast The 180 cover featuring a red-framed TIME magazine sketch of Vice President Kamala Harris alongside the Baldwin County seal
+alttags: Backstory Podcast The 180 cover featuring a red-framed TIME magazine sketch
+  of Vice President Kamala Harris alongside the Baldwin County seal
 related_articles:
 - slug: what-the
   title: What the
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Backstory Podcast exposes how corrupt Alabama elites hide dirty deals behind
+  secret thirty-million-dollar contracts and warrantless geofence surveillance. We
+  reveal how shady insiders misuse the Mabel Amos Trust, how Fairhope officials blow
+  millions on waterfront projects, and how state agencies abuse power. Watch as the
+  podcast tears down their wall of secrets and brings the paper trail to light.
 ---
 Yes VP Harris has gone from the scourge of the democratic party to their darling savior. They were riding high from the Democratic National Convention and then RFK Jr removes his name from battleground ballots and throws in with Candidate Trump consuming all of the oxygen in the room. We have one week left of Sheriff Mack in office here in Baldwin County, Alabama and the Governor is selecting a replacement as we speak. Pray for change but expect the worst. And, headline: Finebaum claims the University of Alabama Football Dynasty over.
 

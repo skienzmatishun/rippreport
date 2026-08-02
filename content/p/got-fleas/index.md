@@ -13,7 +13,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: A black silhouette of a howling wolf standing on a hill with a large circle behind it
+alttags: A black silhouette of a howling wolf standing on a hill with a large circle
+  behind it
 related_articles:
 - slug: redneck-renovations
   title: REDNECK RENOVATIONS
@@ -95,6 +96,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope officials weaponized local media operatives to sabotage a voter-backed
+  waterfront restoration plan. Internal emails and grant filings prove the new administration
+  slashed green space features while rushing radical plan changes past the public.
+  We expose the dirty political tactics used to destroy years of citizen input.
 ---
 Fairhope is seeing the results of a Council and Mayor more dedicated to special interests than the majority of their constitutes.
 

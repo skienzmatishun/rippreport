@@ -91,6 +91,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on the toll crisis, state power brokers pushed an illegal bridge
+  tax scheme to make working drivers fund failed projects. Public records and legal
+  filings show officials ignored constitutional warnings just to grab fast cash. Will
+  Alabama drivers force politicians to abandon this outrageous tax grab?
 ---
 Alabama is known to be last in almost every category. Be it obesity, drugs, education, prisons and much more. Alabama has no lottery and is not even considering the millions, maybe billions, in revenue from decriminalization of marijuana. I am sure Alabama will be last in that category.
 

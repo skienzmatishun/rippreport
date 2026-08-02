@@ -8,8 +8,6 @@ authors:
 - admin
 ---
 
-**Monday, May 26, 2014 Ripp Report #16**
-
 ## Special Memorial Day Edition
 
 Dear Baldwin County residents,

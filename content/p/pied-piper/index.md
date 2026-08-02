@@ -21,7 +21,8 @@ tags:
 - waterfront-project
 authors:
 - admin
-alttags: Jack Burrell stands in a park with a fountain and manicured gardens playing a pipe instrument.
+alttags: Jack Burrell stands in a park with a fountain and manicured gardens playing
+  a pipe instrument.
 related_articles:
 - slug: no-qualifications
   title: NO QUALIFICATIONS
@@ -103,6 +104,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell drained millions from city utility funds to
+  cover up costly municipal legal defeats. Budget audit reports expose hidden land
+  purchases and inflated contracts awarded to favored political donors. The Ripp Report
+  brings this web of backroom deals into clear view.
 ---
 Fairhope City Council President and Eastern Shore, MPO, Metropolitan Planning Organization, Chairman Jack Burrell considers himself a genius. He is the only one, because he leaves a trail of poor decisions, confusion, and corruption that affects his own constituents in a negative way.
 

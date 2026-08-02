@@ -88,6 +88,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The state's top ethics chief quietly pocketed six-figure scholarship payouts
+  meant for impoverished students to fund his own family's elite college degrees.
+  IRS tax filings and court records show state officials altered trust names to hide
+  who really collected the cash. We expose the dark pit where state ethics go to die.
 ---
 Two months ago I appealed to the Special Prosecution Office for the Alabama Attorney General, Clark Morris. The letter below was accompanied with a 100 plus page bound copy of information and evidence relative to the complaint. Copies were also given to The Alabama Bar, Governor, Judiciary, and Ethics Commission to name a few others.
 

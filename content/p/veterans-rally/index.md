@@ -7,7 +7,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: The Alabama State House building with classical columns and American and state flags flying in front
+alttags: The Alabama State House building with classical columns and American and
+  state flags flying in front
 related_articles:
 - slug: war
   title: WAR
@@ -18,7 +19,8 @@ related_articles:
   category_score: 0
   rank: 1
 - slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power
+    grab bill - Alabamagazette.com'
   score: 78.81944599865328
   llm_score: 90
   recency_score: 97.03126049090956
@@ -89,6 +91,10 @@ related_articles:
   length_score: 38.0
   category_score: 0
   rank: 10
+summary: Executive overreach in Montgomery is threatening to destroy independent oversight
+  for thousands of Alabama military families. Legislative records show an unholy alliance
+  pushing to centralize control directly under the governor's office. Why are state
+  leaders so eager to silence the very people who fought for our country?
 ---
 <center>{{< socialpreview url="https://1819news.com/news/item/veterans-to-rally-at-state-house-in-opposition-to-putting-adva-under-governors-control" >}}</center>
 

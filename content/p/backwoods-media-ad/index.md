@@ -3,10 +3,11 @@ title: BACKWOODS MEDIA AD
 date: 2020-02-28
 thumbnail: img/backwoods-media-ad.jpg
 categories:
-- freaky-friday
+- backstory-podcast
 authors:
 - admin
-alttags: Man with glasses sits at a broadcast desk with microphones before The Ripp Report banner. Text reads Streaming the Facts to Light Backwoods Media LLC
+alttags: Man with glasses sits at a broadcast desk with microphones before The Ripp
+  Report banner. Text reads Streaming the Facts to Light Backwoods Media LLC
 related_articles:
 - slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
   title: Medical Marijuana Bill
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Special interest groups like Catalyst buy off Alabama lawmakers to push dangerous
+  environmental deregulation through the statehouse. Corrupt politicians quietly rewrite
+  landfill definitions to protect corporate polluters at the expense of local taxpayers.
+  Watch as the podcast uncovers the backroom payoff schemes wrecking our local communities.
 ---
 [![Backstory Podcast Backwoods Media LLC](https://cdn.rippreport.com/wp-content/uploads/2020/02/backwoods-ad-300x168.jpg)](https://drive.google.com/file/d/1553APxlxnKb7OGXZeaCiYTXEQhuHEsNd/view?usp=sharing)
 

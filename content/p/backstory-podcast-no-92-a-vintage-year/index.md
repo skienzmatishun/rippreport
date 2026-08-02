@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County bosses burned through thirty-two million taxpayer dollars
+  for empty land while judges trampled civil rights in court. We track down the paper
+  trail behind the Mabel Amos Trust scandal and the ethics officials ignoring blatant
+  corruption. Watch Backstory Podcast bring you the dirty details that local newspapers
+  are afraid to publish.
 ---
 192,939,490 SARS-COV-2 cases confirmed worldwide with a total of 4,140,700 deaths; with 34,316,321cases in the USA with 610,387 deaths.
 

@@ -87,5 +87,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope leadership spent tax money on a shiny public relations rebrand to
+  mask massive federal lawsuits and backroom property gifts. Unsealed documents show
+  city insiders gave public assets to private groups while granting themselves full
+  healthcare perks and double paychecks. Why are city leaders so eager to change the
+  logo while hiding millions in wasted tax dollars?
 ---
 This is the new logo for Fairhope.

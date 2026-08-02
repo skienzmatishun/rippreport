@@ -3,6 +3,7 @@ title: THE BLUEPRINT THEY HID IN PLAIN SIGHT - THE TOLL TAX TRAVESTY
 date: 2026-07-14
 categories:
 - alabama
+- external
 thumbnail: img/the-blueprint.png
 authors:
 - admin
@@ -87,7 +88,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A weathered hand wearing a Montgomery cuff lifts a red commuter car over a bridge. Dollar bills fall into the water below as cars travel across
+alttags: A weathered hand wearing a Montgomery cuff lifts a red commuter car over
+  a bridge. Dollar bills fall into the water below as cars travel across
+summary: SACGA exposes a long-running backroom scheme by state leaders to force expensive
+  toll taxes on Gulf Coast drivers. The organization highlights how turncoat politicians
+  abandoned their promises and backed a $3.2 billion project to line private investor
+  pockets. This report demonstrates how corporate interests secretly shape public
+  transport policies at the expense of working families.
 ---
 For decades, while we were busy with our daily lives, a strategy for the Gulf Coast was being finalized in backrooms where no local resident was invited. This isn’t a recent development—it’s the endgame of a scheme that was on the drawing boards long before we even heard about it.
 

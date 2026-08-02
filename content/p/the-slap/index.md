@@ -7,7 +7,8 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Two men in suits stand on a lit stage as one slaps the other, with text identifying the 2022 Oscars incident and Backstory Podcast episode 122
+alttags: Two men in suits stand on a lit stage as one slaps the other, with text identifying
+  the 2022 Oscars incident and Backstory Podcast episode 122
 related_articles:
 - slug: the-black-eyes-of-alabama
   title: The Black Eyes of Alabama
@@ -89,6 +90,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Backstory Podcast tears into the hypocrisy of celebrity privilege and Alabama's
+  dirty war on drugs. We expose how corrupt local politicians profit off asset forfeitures
+  while innocent citizens get caught in violent crossfire. Tune in to watch us tear
+  down the crooked system keeping dangerous predators on the street.
 ---
 From the Oscars in LA to the Streets of Mobile, Alabama to beaches of Panama City and Miami, violence is on the rise. All the while Alabama Republicans all seem to be running against Joe Biden. The US House of Representatives passed the MORE ACT (removing marijuana from the Federal Schedule of Controlled Substances, but —spoiler alert- we wont get it without some social justice woven in) but it is expected to be submarined in the Senate.
 

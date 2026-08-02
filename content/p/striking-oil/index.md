@@ -11,7 +11,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A cartoon red schoolhouse with a brown roof and blue windows displays SCHOOL. A black oil geyser erupts from behind the roof against a white background
+alttags: A cartoon red schoolhouse with a brown roof and blue windows displays SCHOOL.
+  A black oil geyser erupts from behind the roof against a white background
 related_articles:
 - slug: where-is-the-media
   title: WHERE IS THE MEDIA?
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Greedy bankers and state trust directors secretly skimmed fortunes off a
+  massive rural oil strike meant for needy students. IRS forms and corporate records
+  confirm insider payout deals while local land owners were kept completely in the
+  dark. Millions meant for charity ended up lining the pockets of political insiders.
 ---
 Tom Albritton and Regions Bank struck oil in Conecuh County. The population of the county is around 12,000. I guess Tom and the Bank saw no need to tell the citizens of the county or the relatives of Mabel Amos.
 

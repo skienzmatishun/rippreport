@@ -96,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County officials framed Murray Lawrence Jr. for a brutal murder despite
+  possessing zero physical evidence tying him to the crime. Newly uncovered court
+  transcripts and hidden medical files reveal a deliberate cover-up by law enforcement
+  bosses. Listen to the damning audio evidence exposing a broken system that stole
+  two decades of an innocent man's life.
 ---
 It is a story that is hard to believe and you need to listen carefully before you vote.
 

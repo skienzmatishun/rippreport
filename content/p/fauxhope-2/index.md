@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage, Council President Jack Burrell and city leadership
+  sabotaged infrastructure while secretly backing developer payouts. Internal records
+  expose how local officials rigged bids and shifted millions out of public utility
+  funds to cover up legal blunders. The Ripp Report pulls back the curtain on Fairhope's
+  fake progress.
 ---
 The citizens of Fairhope need to realize that all the infrastructure problems and electrical and water shortages are the result of neglect during the, Tim Kant, Can’t administration, 2000 to 2016. The second thing is that the same council as today with the exception of Cory Martin were on the council under Kant. Sherry Sullivan worked under Kant. The problems Fairhope has today were predicted years ago.
 

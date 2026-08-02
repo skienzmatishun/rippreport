@@ -90,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope politicians drained utility funds to mask operational deficits and
+  hand out double paychecks to unqualified administrators. Accounting records and
+  historical meeting logs expose how council members cut technical staff while siphoning
+  millions into special projects. The Ripp Report breaks down the financial shell
+  game fooling local taxpayers.
 ---
 Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city government. When I say total control I mean the Mayor/Utility Director, City Council, City Attorney and the Municipal Judge.
 

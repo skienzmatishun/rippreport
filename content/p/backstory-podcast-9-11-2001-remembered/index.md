@@ -92,6 +92,11 @@ related_articles:
   recency_score: 33.33273839470296
   category_score: 0
   rank: 10
+summary: Backstory Podcast tackles state corruption, prison extortion rings, and shady
+  Baldwin County zoning deals under the shadow of 9/11. Shocking cell phone schemes
+  operating inside Alabama correctional facilities reveal a massive failure of authority.
+  Tune in to catch this episode as we expose the dirty local politics behind these
+  official cover-ups.
 ---
 28,268,970 SARS-COV-2 cases confirmed worldwide with a total of 911,282 deaths; 6,417,146 in the USA with 192,381 deaths; 136,703 cases in Alabama with 2,333 deaths. September 11, 2001 remembered: a tragic day for our Country.
 

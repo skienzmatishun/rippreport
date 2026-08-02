@@ -10,7 +10,8 @@ tags:
 - columbia
 authors:
 - admin
-alttags: Community Chest card reading Get Out of Jail Free and This Card May Be Kept Until Needed or Sold, with a cartoon winged figure beside an open birdcage
+alttags: Community Chest card reading Get Out of Jail Free and This Card May Be Kept
+  Until Needed or Sold, with a cartoon winged figure beside an open birdcage
 related_articles:
 - slug: top-shelf-corruption
   title: TOP SHELF CORRUPTION
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on Columbia's scandal, state ethics officials created an immunity
+  racket designed to systematically toss out criminal complaints against corrupt politicians.
+  Internal ethics logs and bank records demonstrate how connected prosecutors shield
+  small-town mayors from felony theft charges. What happens when concrete evidence
+  finally shatters their bulletproof protection scheme?
 ---
 Why is Alabama so corrupt?
 

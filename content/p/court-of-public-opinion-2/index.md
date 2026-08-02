@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage, top ethics enforcer Tom Albritton weaponized his
+  position to hide a massive private financial conflict. Secret trust documents and
+  official filings show over one hundred thousand dollars steered straight to personal
+  tuition payments. Will the mainstream press finally report on this obvious statehouse
+  betrayal?
 ---
 The Executive Director of the Alabama Ethics Commission, Mr Tom Albritton should resign his position. His failure to do so will only further erode the little trust Alabama citizens have in the Ethics Commission.
 

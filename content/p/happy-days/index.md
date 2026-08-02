@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A yellow circular smiley face emoji with two oval eyes and a curved smile on a white background
+alttags: A yellow circular smiley face emoji with two oval eyes and a curved smile
+  on a white background
 related_articles:
 - slug: southern-gothic
   title: SOUTHERN GOTHIC
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Our ongoing exposure of Baldwin County exposes how politicians, judges, and
+  sheriffs built an untouchable good-old-boy network. Sealed court files and official
+  correspondence demonstrate how insiders milked BP oil funds and concealed private
+  oil discoveries. The Ripp Report sheds light on the dark reality behind their celebration.
 ---
 It is amazing how many Facebook pages, and some media, only publish “happy days’ posts. How great the flowers are and how beautiful the bay is. First Fridays are fun filled with wine and spirited conversations about anything other than reality.
 

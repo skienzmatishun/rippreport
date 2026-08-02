@@ -3,6 +3,7 @@ title: FINS TO THE LEFT FINS TO THE RIGHT
 date: 2026-07-28
 categories:
 - orange beach
+- external
 thumbnail: img/fins-to-the-left-fins-to-the-right.png
 authors:
 - admin
@@ -87,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: C.C. Dixon-Moreno maps out deep ties between Orange Beach officials and private
+  Flora-Bama investors. She documents how public beachfront land was split with insiders
+  while Mayor Tony Kennon championed giveaways and dropped a $50,000 legal retainer.
+  This detailed paper trail reveals how local politicians routinely trade public shoreline
+  assets for private financial gain.
 ---
 [C.C. Dixon-Moreno](https://www.facebook.com/theccmoreno) post from Facebook:
 

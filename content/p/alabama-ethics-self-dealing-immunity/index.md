@@ -7,7 +7,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: 'Two black silhouettes on a white background: a man in a suit holding a money bag with a dollar sign, and a woman in a dress'
+alttags: 'Two black silhouettes on a white background: a man in a suit holding a money
+  bag with a dollar sign, and a woman in a dress'
 related_articles:
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The Alabama Ethics Commission handed its own director a free pass after he
+  pocketed trust funds meant for needy students. Internal documents show officials
+  claimed total immunity from prosecution while granting state insiders unchecked
+  power. How can citizens expect justice when the state's top ethics watchdog polices
+  itself?
 ---
 Alabama Ethics Commission is an organization that doles out immunity from prosecution to politicians seeking legal graft.
 

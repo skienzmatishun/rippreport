@@ -81,6 +81,10 @@ related_articles:
   recency_score: 65.75870802915355
   category_score: 0
   rank: 10
+summary: A shady bench trial cleared Mayor Mike McMillan while local authorities buried
+  damning video evidence from the public. Our investigative crew exposes how political
+  operatives and corrupt cops manipulate the system to dodge criminal charges. Tune
+  in to the podcast as we roll the actual court footage that insiders fought to destroy.
 ---
 <iframe src="https://www.facebook.com/plugins/video.php?height=313&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F635796027084010%2F&amp;show_text=false&amp;width=560" width="560" height="313" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
 

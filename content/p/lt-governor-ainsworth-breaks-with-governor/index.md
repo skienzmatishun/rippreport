@@ -1,10 +1,12 @@
 ---
-title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab
+  bill - Alabamagazette.com'
 date: 2025-02-12
 thumbnail: img/s_topXEXT1371x33798is.jpg
 categories:
 - ivy
 - alabama
+- external
 authors:
 - admin
 related_articles:
@@ -88,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Brandon Moseley breaks down Lt. Governor Will Ainsworth’s sudden public split
+  with Governor Kay Ivey over Senate Bill 67. Moseley outlines how Ivey sought to
+  seize control of the Veterans Affairs Board after Commissioner Kent Davis filed
+  an ethics complaint against her administration. The confrontation exposes an executive
+  attempt to punish whistleblowers and dismantle independent state oversight.
 ---
 By <a href="https://www.alabamagazette.com/author/brandon_moseley"> Brandon Moseley - Alabamagazette.com
 

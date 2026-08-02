@@ -17,7 +17,8 @@ tags:
 - triangle-lawsuit
 authors:
 - admin
-alttags: A woman in a yellow and black bee costume stands before US dollar bills, depicting Fairhopes newly elected Mayor Queen Bee Sullivan
+alttags: A woman in a yellow and black bee costume stands before US dollar bills,
+  depicting Fairhopes newly elected Mayor Queen Bee Sullivan
 related_articles:
 - slug: marble-mouth
   title: MARBLE MOUTH
@@ -99,6 +100,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The political coalition controlling Fairhope engineered massive salary increases
+  and backroom land deals for their own gain. Settlement documents and meeting minutes
+  reveal millions in wasted taxpayer dollars funneled to favored law firms. Read on
+  to see how the local establishment lines its own pockets.
 ---
 Fairhope you made the biggest mistake voters could make, you let the bees eat the honey. Only 15% of the registered voters decided who would become Mayor of Fairhope.
 

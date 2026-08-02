@@ -95,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Flashing back to when Sheriff Hoss Mack tried to handpick Anthony Lowery
+  as his successor to cover up fatal misconduct. We exposed how the department swept
+  suspicious deaths and reckless high-speed chases under the rug to avoid public accountability.
+  The struggle for law enforcement transparency in Baldwin County continues as power
+  transfers remain locked behind closed doors.
 ---
 
 [Published July 27 2024.](https://rippreport.com/p/baldwin-county-sheriff-appointment/)

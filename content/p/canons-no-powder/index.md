@@ -6,7 +6,8 @@ categories:
 - monday-mayhem
 authors:
 - admin
-alttags: A black silhouette of a shrugging person stands next to a black silhouette of a cannon on a white background
+alttags: A black silhouette of a shrugging person stands next to a black silhouette
+  of a cannon on a white background
 related_articles:
 - slug: writ-of-mandamus-update
   title: 'WRIT OF MANDAMUS: UPDATE'
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County judges routinely ignore state ethical rules to protect their
+  private business deals and cover up family scandals. Filed court motions and recusal
+  records show state oversight boards continuously dismiss clear violations committed
+  by sitting judges. Find out why our local judicial system has teeth for ordinary
+  citizens but none for corrupt judges.
 ---
 The Alabama Judicial Canons are the baseline ethics that Alabama Judges are suppose to abide by. In Baldwin County the Canons have NO powder, because there is no accountability.
 

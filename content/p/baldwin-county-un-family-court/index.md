@@ -6,7 +6,8 @@ categories:
 - familycourt
 authors:
 - admin
-alttags: A smiling woman wearing a black dress, veil, and pointed hat with a gold crown stands before large stylized scales of justice
+alttags: A smiling woman wearing a black dress, veil, and pointed hat with a gold
+  crown stands before large stylized scales of justice
 related_articles:
 - slug: shackled-chained-handcuffed-bc-un-family-court
   title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
@@ -73,7 +74,8 @@ related_articles:
   category_score: 0
   rank: 8
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 12.257640039220245
   llm_score: 0
   recency_score: 4.674660254931597
@@ -88,6 +90,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County family court judges teamed up with corrupt lawyers to fleece
+  vulnerable parents out of their life savings. Decades of logged victim reports and
+  court dockets highlight how officials manufactured child custody battles for profit.
+  This shameless extortion ring destroyed lives under the cover of judicial immunity.
 ---
 The below article is from 2018, since that date The Ripp Report has fielded at least another 100 to 150 complaints against Baldwin County Family Court and certain attorneys.
 

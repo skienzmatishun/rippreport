@@ -92,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City council members line their own pockets with full-family benefits while
+  intentionally ignoring decades of crumbling city infrastructure. Official city budgets
+  and public statements prove politicians hid financial drain while pushing water
+  lines for commercial developments. Their public concern was just a distraction from
+  real financial rot.
 ---
 Fauxhope has a new City Council Crier, Councilman Cory Martin. This is no surprise the balance of the council hides from the public and rarely return phone calls. This also goes for the unqualified Utility Director and developer candidate/ Mayor. So Cory will be the new uninformed spokesperson, and, sacrificial lamb, for the Fauxhope council.
 

@@ -6,7 +6,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Green Christmas sweater featuring three red silhouettes of the state of Alabama, decorated with gold snowflakes and striped trim
+alttags: Green Christmas sweater featuring three red silhouettes of the state of Alabama,
+  decorated with gold snowflakes and striped trim
 related_articles:
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking state ethics officials quietly funneled public trust money directly
+  into their own family bank accounts. Leaked tax filings and formal bar complaints
+  confirm thousands of dollars paid out under the guise of charitable student aid.
+  The Ripp Report exposes how deep this political piggy bank really goes.
 ---
 Alabama is a beautiful state, with a very ugly side, white collar crime, aka political corruption. The corruption flourishes due to oversight agencies aiding and abetting the corruption by not doing their job. Accountability, ethics and rule of law have been abandoned by the Ethics Commission, Judiciary, Bar Association and the ever silent Attorney General.
 

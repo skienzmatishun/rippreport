@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Building on our previous coverage, local legislators locked taxpayers into
+  an inflated long-term rental contract that enriches the Bay Minette mayor. Financial
+  spreadsheets expose a cascading series of lease extensions designed to channel over
+  eight hundred thousand dollars directly to an insider. We shine a bright spotlight
+  on the hidden payoffs governing county politics.
 ---
 Let’s top off 2022 by the most audacious local political corruption this year. I say audacious however it could be an example of the mental capacity of our elected officials. You would think that Sunday’s Sermon would be hard to beat:
 

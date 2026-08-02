@@ -6,7 +6,8 @@ categories:
 - saturday-special
 authors:
 - admin
-alttags: A blue sign reading Welcome to Bay Minette Alabama stands before a large concrete building under construction
+alttags: A blue sign reading Welcome to Bay Minette Alabama stands before a large
+  concrete building under construction
 related_articles:
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Unchecked political backscratching forced building moratoriums across Baldwin
+  County as overcrowded schools and sewer spills reach a crisis point. Unsealed court
+  documents and state pollution records detail how backroom deals with private utility
+  companies triggered local collapse. Read the full story to see who made millions
+  while the rest of the county paid the price.
 ---
 Baldwin County is spinning out of control. Development in Fairhope and Daphne are under a building moratorium. Spanish Fort is in panic mode about a proposed apartment development, within the vicinity of the new School, with a potential of 300 new students. Both communities, for decades, ignored infrastructure and promoted development. Now they are faced with slowing down development to catch up on infrastructure.
 

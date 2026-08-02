@@ -16,7 +16,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: A red prohibition sign with a diagonal slash over the word Catalyst, overlaid with a howling wolf silhouette against a rainy green background
+alttags: A red prohibition sign with a diagonal slash over the word Catalyst, overlaid
+  with a howling wolf silhouette against a rainy green background
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE
@@ -98,6 +99,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Political cronies completely gutted a massive infrastructure plan left behind
+  by the previous administration. Leaked communications and public records show officials
+  eliminated vital public features to cover up local corruption. Uncover the real
+  truth behind this watered-down waterfront scheme.
 ---
 Fairhope City Council President Jack Burrell said he heard birds, and the sky was blue, that he felt Fairhope was going to have peace and calm in the next 4 years. CSB, Catalyst Scott/Boone, owns Fairhope, the council, the municipal judge, the city attorney and the Mayor. Complete total control, everyone is in bed with one another. They will make the decisions not the citizens of Fairhope. Just watch and see.
 

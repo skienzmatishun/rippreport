@@ -2,7 +2,6 @@
 title: Happy Birthday United States Marine Corp
 date: 2025-11-10
 thumbnail: img/happy-birthday-united-states-marine-corp.png
-tags: null
 categories:
 - holiday
 authors:

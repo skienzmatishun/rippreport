@@ -24,7 +24,8 @@ tags:
 - snedeker
 authors:
 - admin
-alttags: A simple cartoon illustration of a brown American football with white stripes and laces on a white background
+alttags: A simple cartoon illustration of a brown American football with white stripes
+  and laces on a white background
 related_articles:
 - slug: canons-no-powder
   title: CANONS — NO POWDER
@@ -106,6 +107,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Jack Burrell rammed through questionable judicial appointments behind closed
+  doors while the public was looking the other way. Court dockets and airport authority
+  files prove how city attorneys buried criminal charges to protect well-connected
+  allies. The Ripp Report shines a light directly inside Fairhope’s cozy network of
+  legal immunity.
 ---
 Fairhope are you distracted enough between Inciting Insurrection, and the championship football game today? How distracted and worried have you been over Covid-19 and your kids going back to school?
 

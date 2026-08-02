@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A circular seal reading City of Faux Hope Alabama, featuring a blue sky, yellow sun, and two red flags displaying the words Faux and Hope
+alttags: A circular seal reading City of Faux Hope Alabama, featuring a blue sky,
+  yellow sun, and two red flags displaying the words Faux and Hope
 related_articles:
 - slug: no-radar
   title: NO RADAR
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Our investigation continues as city council leaders handed a high-paying
+  utility job to an unqualified insider as a political reward. Municipal hiring files
+  and land records show secret property deals cut right behind closed doors. Uncover
+  how Fairhope insiders trade public positions for personal gain.
 ---
 DOUBLE RED FLAGS at the beach this weekend. Rip-currents rough seas and high water.
 

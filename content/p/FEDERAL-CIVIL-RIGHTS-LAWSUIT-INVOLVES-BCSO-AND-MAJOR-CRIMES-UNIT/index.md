@@ -13,7 +13,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Sheriff Huey Mack in a suit and bow tie stands beside the Baldwin County Sheriffs Office seal and a statue of Lady Justice holding scales
+alttags: Sheriff Huey Mack in a suit and bow tie stands beside the Baldwin County
+  Sheriffs Office seal and a statue of Lady Justice holding scales
 related_articles:
 - slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
   title: BALDWIN COUNTY SHERIFF APPOINTMENT
@@ -95,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A federal lawsuit now hits Baldwin County law enforcement for running a self-investigating
+  cartel that covers up deadly police shootings. Federal filings and withheld dashcam
+  footage document a chilling pattern of denied civil rights and falsified official
+  reports. Read the damning court documents that local officials tried to hide from
+  taxpayers.
 ---
 ***The Lawsuit is included at the end of this post, read it and imagine it was your son!***
 

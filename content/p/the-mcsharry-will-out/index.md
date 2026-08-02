@@ -6,7 +6,8 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: YouTube video screenshot titled Backstory Podcast No 132 on Ronin McSharry, showing men in suits interacting inside the Alabama State Legislature
+alttags: YouTube video screenshot titled Backstory Podcast No 132 on Ronin McSharry,
+  showing men in suits interacting inside the Alabama State Legislature
 related_articles:
 - slug: mcsharrys-old-flower-handshake
   title: McSHARRY’S OLD FLOWER HANDSHAKE
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local politicians Chris Elliott and Jack Burrell are peddling massive public
+  infrastructure taxpayer handouts while state leadership rots. Discover how Attorney
+  General Steve Marshall enables corporate welfare and ignores elite criminal behavior.
+  Listen to this episode as we confront the shady backroom deals crippling Baldwin
+  County taxpayers.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HoKMSOWEkhw" frameborder="0" allowfullscreen></iframe>
 

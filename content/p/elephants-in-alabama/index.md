@@ -9,7 +9,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Elephants walk down a paved road flanked by trees. Signs welcome visitors to Sweet Home Alabama and advertise Lauderdale County Agriculture
+alttags: Elephants walk down a paved road flanked by trees. Signs welcome visitors
+  to Sweet Home Alabama and advertise Lauderdale County Agriculture
 related_articles:
 - slug: dirty-underwear
   title: DIRTY UNDERWEAR
@@ -91,6 +92,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Top state law enforcement leaders quietly covered up massive financial fraud
+  within the very agency tasked with policing ethics. State payroll data and sworn
+  legal filings document illegal post-resignation checks alongside six-figure scholarship
+  grabs. The Ripp Report pulls back the curtain on Montgomery's dirtiest secret.
 ---
 If a herd of elephants were to roam loose in Alabama, most news sources could not find them. Probably the biggest story, political story, is the evidence emerging about the Bar Association and the Ethics Executive Director. Only Lagniappe has had the balls to print the facts.
 

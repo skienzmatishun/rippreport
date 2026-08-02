@@ -9,7 +9,8 @@ categories:
 - saturday-sunshine
 authors:
 - admin
-alttags: Ronan McSharrys face is superimposed on a cartoon figure wearing a leprechaun hat, holding stacks of cash and a flag
+alttags: Ronan McSharrys face is superimposed on a cartoon figure wearing a leprechaun
+  hat, holding stacks of cash and a flag
 related_articles:
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
@@ -91,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City prosecutors surrendered their duty to protect citizens by deliberately
+  mishandling criminal charges against a politically connected repeat offender. Internal
+  police files and court dockets show prosecutors intentionally let crucial deadlines
+  pass to force a complete dismissal. Uncover how local officials handed a full free
+  pass to a dangerous offender at the victim's expense.
 ---
 What the Ripp Report projected has now come to fruition. Justice is a tricky word and justice can come in many ways. In the McSharry assault case, justice has come in the form of a legal settlement.
 

@@ -93,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State politicians repeatedly blocked billions in public health funding to
+  satisfy personal political grudges and protect corporate donors. State legislative
+  records and ethics complaints document millions in lost grant money sacrificed for
+  private payback schemes. Uncover how stubborn leadership continually leaves Alabama
+  residents at the bottom of national rankings.
 ---
 Alabama needs a psychiatrist and a financial advisor. The lives lost, hospitals closed and billions of dollars, left on the table, is the result of despicable political motives of several Alabama Republican Governors.
 

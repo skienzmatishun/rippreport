@@ -92,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: County attorneys and state lawmakers arranged a lucrative taxpayer-funded
+  office lease with a local mayor while brazenly dismissing state ethics rules. Public
+  records reveal a suspicious rental agreement that funnels hundreds of thousands
+  of public dollars into an official's personal bank account. Why are municipal attorneys
+  so terrified of a real ethics investigation?
 ---
 The Baldwin Commission Attorney, Brad Hicks, says he see’s no ethics violation with Mayor Bob Wills renting his building, and possibly sharing office space, with the Baldwin County Legislative Delegation. The county attorney is deciding what is ethical and what is not? That is not his job. Brad’s job is to be sure it is NOT unethical. His job is to contact Ethics, Attorney General or the legal council for the Speaker of the house and get an official opinion. Instead he just said go to hell with obtaining any opinions, he knows best.
 

@@ -6,7 +6,8 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: Sheriff Hoss Mack stands in a tropical setting with palm trees and an ocean view, wearing glasses and a colorful floral shirt
+alttags: Sheriff Hoss Mack stands in a tropical setting with palm trees and an ocean
+  view, wearing glasses and a colorful floral shirt
 related_articles:
 - slug: bcso-how-to-become-sheriff
   title: BCSO - HOW TO BECOME SHERIFF
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Top Baldwin County officials hid critical evidence for two decades to keep
+  an innocent man behind bars. Official state documents reveal key prosecutors and
+  law enforcement officers knew about a hidden autopsy report before the trial even
+  started. Uncover the whole story of how state leaders buried evidence to secure
+  a conviction.
 ---
 For years the Ripp Report has been exposing the corruption in Baldwin County and a Sheriff’s Department, that investigates themselves. I hope you have the time to get a Lagniappe and read the whole article as it is behind a paywall currently. Free Lagniappe papers are in most news stands in Baldwin and Mobile county.
 

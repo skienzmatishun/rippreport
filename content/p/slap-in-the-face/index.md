@@ -97,6 +97,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local prosecutors and politicians actively protected connected insiders from
+  criminal assault charges and financial fraud investigations. Court filings and check
+  registers reveal illegal contract handoffs and deliberate legal delays. Will citizens
+  finally demand justice against this unchecked corruption?
 ---
 Baldwin County citizens have just been slapped in the face. Want to know why Alabama is number one in corruption and the butt of jokes? It is because the judicial system stinks and people with power or money, WALK.
 

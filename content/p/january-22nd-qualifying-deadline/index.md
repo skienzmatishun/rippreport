@@ -88,7 +88,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Text graphic listing Alabamas 2022 election dates, absentee voting contact number, and online voter registration website
+alttags: Text graphic listing Alabamas 2022 election dates, absentee voting contact
+  number, and online voter registration website
+summary: Massive conflicts of interest shadow the upcoming election as local officials
+  rush to spend $65 million on a bloated jail project. Uncover how a sitting DA and
+  Sheriff locked up a man while hiding their own direct involvement in the original
+  trial. Catch this episode as Backstory Podcast rips open the court documents.
 ---
 58.6 Million infected in the USA with SARS-COV-2 with 834,321 deaths, 2,000 new cases in Baldwin County this week alone. The Omicron variant is rampant in Alabama with UAB projecting a long January for our health care workers.
 

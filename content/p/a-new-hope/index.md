@@ -102,7 +102,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A political collage with a Heart of Dixie banner, Harry Still not guilty headline, Danielle Duggar portrait, a couple photo, and Poodle Puncher wanted p...
+alttags: A political collage with a Heart of Dixie banner, Harry Still not guilty
+  headline, Danielle Duggar portrait, a couple photo, and Poodle Puncher wanted p...
+summary: Attorney Harry Still shares his explosive story of legal battles and political
+  targeted attacks in Bay Minette. Clear audio recordings prove how corrupt officials
+  tried to destroy a critic through malicious prosecution and bad-faith arrests. Tune
+  in as the Heart of Dixie podcast uncovers the massive civil lawsuits coming for
+  local court systems.
 ---
 We are joined by Republican Candidate Elect Danielle Duggar, the brave soul who took on the establishment candidate Attorney and Lollipop Guild Member Rep Matt Simpson, Esq and beat him by a couple of votes.  A hard fought victory.  Next we discuss the NOT GUILTY verdict by a Baldwin County Jury on Thursday in the City of Bay Minette v Harry Still III for assaulting Bay Minette City Council Member Matthew J Franklin.  Turns out Still was telling the truth all along.  And after six years of genealogy research (The Tensaw Country North of The Ellicott Line by Charles Bryant should be burned for all it's inaccuracies) I found my "Ark of the Covenant", David Tate, Ward of President George Washington, brother of Red Eagle, son of Sehoy II of the Wind Clan (VLV).  And stick around for the Mid-Day Mobile interview with Sean Sullivan at FM talk 106.5.
 

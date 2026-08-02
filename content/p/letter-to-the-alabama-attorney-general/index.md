@@ -10,7 +10,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Line drawing of a bald eagles head facing left on a perforated postage stamp with the word USA printed below
+alttags: Line drawing of a bald eagles head facing left on a perforated postage stamp
+  with the word USA printed below
 related_articles:
 - slug: license-to-steal
   title: LICENSE TO STEAL
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Building on our recent investigation, state law enforcement deliberately
+  turned a blind eye to verified financial theft by ethics directors. Hand-delivered
+  evidentiary packages and court writs outline clear violations of tax law that top
+  officials refused to prosecute. We hold the Attorney General accountable when state
+  prosecutors refuse to do their jobs.
 ---
 Alabama Attorney General 501 Washington ave. Montgomery Alabama 36104
 

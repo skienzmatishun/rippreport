@@ -78,6 +78,11 @@ related_articles:
   recency_score: 7.802820371909244
   category_score: 0
   rank: 10
-alttags: A street scene near a red barn with parked trucks and wood chips. A blue banner in the corner reads Bob Wills Mayor of Bay Minette
+alttags: A street scene near a red barn with parked trucks and wood chips. A blue
+  banner in the corner reads Bob Wills Mayor of Bay Minette
+summary: Fairhope Council President Jack Burrell and local judges stand accused of
+  running a corrupt developer-friendly political machine. A massive tax deduction
+  scheme unravels alongside hidden police reports and shady city council cover-ups.
+  Tune in as Backstory Podcast exposes the self-dealing elites hijacking local democracy.
 ---
 {{< youtubecomments >}}

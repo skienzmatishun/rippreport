@@ -6,7 +6,8 @@ categories:
 - monday-madness
 authors:
 - admin
-alttags: Circular seal reading City of Fauxhope Alabama, showing a blue sky with a yellow sun, three green balloons with dollar signs, and sailboats on water
+alttags: Circular seal reading City of Fauxhope Alabama, showing a blue sky with a
+  yellow sun, three green balloons with dollar signs, and sailboats on water
 related_articles:
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Mayor Sherry Sullivan and her council allies passed a temporary building
+  freeze designed specifically to protect political insiders from market competition.
+  Campaign finance receipts and zoning filings confirm that favored developers received
+  special exemptions while small property owners got locked out. The Ripp Report pulls
+  back the curtain on Fairhope's political circle and their cozy developer deals.
 ---
 Fairhope, aka Fauxhope, last municipal election fell prey to the political cabal, Catalyst, now branded as Scott Boone Consulting. They did a bang up good job for the special interests, developers and political candidates, they selected and supported.
 

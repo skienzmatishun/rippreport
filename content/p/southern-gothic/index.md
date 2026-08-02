@@ -3,13 +3,14 @@ title: SOUTHERN GOTHIC
 date: 2021-04-02
 thumbnail: img/southern-gothic.jpg
 categories:
-- freaky-friday
+- external
 tags:
 - backstory-podcast
 - gabriel-tynes
 authors:
 - admin
-alttags: Black and white historical marker for Baldwin County, Alabama detailing its 1809 founding. It stands before a building with arched windows
+alttags: Black and white historical marker for Baldwin County, Alabama detailing its
+  1809 founding. It stands before a building with arched windows
 related_articles:
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
@@ -91,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Attorney Harry Still reflects on decades of political corruption and systemic
+  graft rotting Baldwin County's local government. Still contrasts past civic leadership
+  with modern politicians who hand out illegal no-bid contracts and orchestrate shady
+  land coups for insider firms like CSB. His personal essay reveals how public apathy
+  enabled a cozy political cabal to hijack county assets for private enrichment.
 ---
 Several years ago I met Attorney Harry Still, the first attorney I have met in Baldwin County with the guts to confront corruption and he has paid the price for his candor. Harry, unlike myself, has deep roots in Baldwin County and is sickened by the blatant judicial and municipal corruption that stains the legacy of this proud county. At one time there were real good ole boys that put the county first but they changed colors like chameleons. In 2010 the county government eroded into the good ole boys of today, who put special interests, like CSB, Catalyst Scott Boone Consulting, first and constituents last. Harry and I share a weekly podcast, [https://www.facebook.com/BackstoryPodcast](https://www.facebook.com/BackstoryPodcast) where we speak candidly about consumer issues and judicial corruption. This podcast, over 75 episodes, has had a chilling effect on the status quo and that has resulted in further pressure on Mr. Still. The latest issue, The McSharry case prompted Mr. Still to reflect on his heritage and bare his soul, DAMN THE STATUS QUO and DAMN CSB.
 

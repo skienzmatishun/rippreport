@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Circular seal for Fauxhope, Alabama features a yellow sun with dark clouds, a white bird in flight, three sailboats. Text reads CITY OF FAUXHOPE ALABAMA
+alttags: Circular seal for Fauxhope, Alabama features a yellow sun with dark clouds,
+  a white bird in flight, three sailboats. Text reads CITY OF FAUXHOPE ALABAMA
 related_articles:
 - slug: fauxhope-roller-coaster
   title: FAUXHOPE ROLLER-COASTER
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope leaders squandered millions in federal grants through deliberate
+  delays and reckless waterfront redesigns. Project audit reports and municipal budget
+  sheets prove council members sabotaged approved plans to favor developer campaign
+  donors. We bring you the unvarnished facts behind Fairhope's spiraling municipal
+  waste.
 ---
 FAUXHOPE is living up to it’s name. Fairhope is not what you think when it comes to municipal government. The waste of taxpayer money is staggering, yet few people are even interested. The delay of the waterfront project is just one example. For close to a year the council has tried to get around any ADA compliance for the project. From day one the then Mayor Wilson explained that the grant, 6.2 million, required ADA compliance.
 

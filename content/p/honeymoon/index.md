@@ -18,7 +18,8 @@ tags:
 - sherry-sullivan
 authors:
 - admin
-alttags: Three black silhouettes holding hands, with the red letters C S B vertically displayed on the central child
+alttags: Three black silhouettes holding hands, with the red letters C S B vertically
+  displayed on the central child
 related_articles:
 - slug: selected-not-elected
   title: SELECTED NOT ELECTED
@@ -100,6 +101,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Former Councilman Robert Brown traded his elected seat for financial payoffs
+  while city leaders rushed to lock down their political voting block. Financial disclosures
+  and contract documents expose $100,000 benefit packages handed out without public
+  oversight or competitive review. Our investigation details how Fairhope taxpayers
+  paid the bill for a staged political transition.
 ---
 Catalyst/Scott Boone Consulting, CSB, and “acting” Mayor Burrell along with the “actual” mayor are going through their honeymoon, and I mean honey. Since Robert Brown quit, Burrell has been on fire to replace him with Jay Marblemouth Robinson who did not seek re-election.
 

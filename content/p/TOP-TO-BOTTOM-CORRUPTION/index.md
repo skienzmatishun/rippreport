@@ -91,6 +91,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking state ethics officials enriched their own families with charitable
+  trust money meant for needy college students. Court filings and financial tax returns
+  confirm state leaders pocketed six-figure payouts while dismissals protected political
+  allies. How much longer can state leaders ignore blatant self-dealing?
 ---
 Here is an update on the ETHICS, Alabama Ethics. Alabama is hopelessly corrupt from top to bottom. An absent Governor, a Bar Association in the septic tank. A judiciary with its head in the sand and an Attorney General giving them all a pass.
 

@@ -102,6 +102,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corrupt political insiders and big-money corporations are dodging justice
+  while local police hoard high-powered military weaponry. The podcast breaks down
+  how state officials buried witness testimony and handed Terminix a free pass. Watch
+  this episode of Backstory Podcast to track where your tax dollars are really going.
 ---
 107,883,016 SARS-COV-2 cases confirmed worldwide with a total of 2,370,735 deaths; with 27,393,896 in the USA with 475,459 deaths; 477,570 cases in Alabama with 9,021 deaths; 1 M vaccine doses delivered, 550,000 administered.
 

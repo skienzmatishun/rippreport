@@ -27,7 +27,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: A golden retriever in glasses sits among lab glassware, holding a bottle, with overlaid text reading I HAVE NO IDEA WHAT IM DOING
+alttags: A golden retriever in glasses sits among lab glassware, holding a bottle,
+  with overlaid text reading I HAVE NO IDEA WHAT IM DOING
 related_articles:
 - slug: no-radar
   title: NO RADAR
@@ -109,6 +110,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City hall bosses ousted a trained engineer to double-dip salaries and install
+  an untrained political ally. Official council votes and payroll documents confirm
+  how leaders bypassed standard qualification rules for their preferred pick. Taxpayers
+  deserve to know why their local utility system operates on political favors.
 ---
 Only in Fairhope can someone with a high school education become the utility director with absolutely no experience at the job. Mayor Sullivan gets a $25,000 utility salary as well as her second check as Mayor.
 

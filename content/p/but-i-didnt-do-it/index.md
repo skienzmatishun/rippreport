@@ -3,7 +3,7 @@ title: But, I Didn’t Do It…
 date: 2023-08-16
 thumbnail: img/false-arrest.png
 categories:
-- wonderful-wednesday
+- external
 authors:
 - admin
 related_articles:
@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Author Nancy Koerner details the tragic 2004 wrongful conviction of Murray
+  "Bubba" Lawrence Jr. in Baldwin County. Koerner explains how police arrested the
+  24-year-old at work for a murder thirty miles away after an acquaintance framed
+  him to avoid execution. Her account exposes a rigid justice system that ignores
+  innocence and leaves nonviolent victims to rot in state prison.
 ---
 by Nancy Koerner
 

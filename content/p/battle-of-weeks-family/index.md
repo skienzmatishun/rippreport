@@ -13,7 +13,8 @@ tags:
 - zoning-commission
 authors:
 - admin
-alttags: Black and white photograph of Blanche Weeks in a kitchen, with text below reading Blanche Weeks and Blanche’s gumbo is now famous
+alttags: Black and white photograph of Blanche Weeks in a kitchen, with text below
+  reading Blanche Weeks and Blanche’s gumbo is now famous
 related_articles:
 - slug: public-access
   title: PUBLIC ACCESS
@@ -95,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Powerful local insiders hijacked the Baldwin County zoning process to crush
+  a local family's restaurant venture after a single complaint. Text chats and public
+  records reveal how corrupt officials blocked public land access to cater to wealthy
+  bayfront donors. The Ripp Report exposes how political influence steamrolled a family
+  business.
 ---
 All of us have read news articles that have driven us up the wall, but this article and story is insane and most likely a perfect example of someone with power who wants his own way. What the Ripp Report calls political corruption.
 

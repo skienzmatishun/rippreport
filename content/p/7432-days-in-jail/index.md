@@ -9,7 +9,8 @@ categories:
 - dwtd
 authors:
 - admin
-alttags: Close-up of Murray Bubba Lawrence looking upward with a concerned expression, flanked by black-and-white photos of a chain-link enclosure
+alttags: Close-up of Murray Bubba Lawrence looking upward with a concerned expression,
+  flanked by black-and-white photos of a chain-link enclosure
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
@@ -91,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Our ongoing investigation details how corrupt county power players stole
+  over twenty years of an innocent man's life through deliberate evidence tampering.
+  Detailed transcript analysis and timeline records reveal prosecutors knew their
+  key witness lied while withholding exculpatory autopsy reports. Twenty years in
+  a concrete cell is the deadly price of political ambition in Baldwin County.
 ---
 That’s how long Murray Bubba Lawrence has been in jail for a crime he did not commit. Baldwin County Sheriff Hoss Mack, the Prosecutor, David Whetstone and the Judge, currently the District Attorney, Robert Wilters are responsible. There is every reason to believe that they conspired to withhold vital information from the defense that resulted in an innocent man spending 7432 days, so far, in jail.
 

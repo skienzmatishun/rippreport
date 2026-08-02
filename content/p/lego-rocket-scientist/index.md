@@ -10,7 +10,8 @@ tags:
 - Airport
 authors:
 - admin
-alttags: White-haired man Jack Burrell is superimposed into the cockpit of a red and blue LEGO-style spaceship with green lights against a white background
+alttags: White-haired man Jack Burrell is superimposed into the cockpit of a red and
+  blue LEGO-style spaceship with green lights against a white background
 related_articles:
 - slug: fairhope-musical-chairs
   title: FAUXHOPE MUSICAL CHAIRS
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Jack Burrell ran municipal projects like a game while costing local taxpayers
+  millions in botched airport schemes and dirty lawsuits. Court documents and lease
+  contracts reveal a pattern of rigged bids and secret favors for wealthy campaign
+  supporters. Can Fairhope residents trust a politician whose bad math always leaves
+  taxpayers holding the bill?
 ---
 The good ole boys in Fairhope won the last election and were successful in electing a Mayor and Council that were willing to embrace development and return to the old “corrupt” way of doing business. The municipal attorney is old school and the municipal judge is a major developer in Fairhope. You can thank Catalyst, aka Scott Boone Consulting for this cast of characters. Jack Burrell has been the puppet for developers and special interest groups since first elected. For almost 9 years, Jack was president of the council. His involvement in the Fairhope Airport Authority has been a cluster f--- from day one. In March of last year, he canceled the video online broadcast of the Airport Authority meetings to the public. I knew then he was up to some kind of B.S.
 

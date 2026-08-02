@@ -13,7 +13,8 @@ tags:
 - robin-lejeune
 authors:
 - admin
-alttags: Black silhouette of a person falling backward with a hurricane symbol above their head
+alttags: Black silhouette of a person falling backward with a hurricane symbol above
+  their head
 related_articles:
 - slug: m-i-a
   title: M.I.A
@@ -95,6 +96,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Shadowy political organizations attempted to hijack local elections across
+  Baldwin County to expand their development empire. Financial disclosures and voting
+  records expose how political operatives poured cash into targeted municipal races.
+  The Ripp Report reveals how voters fought back against the machine.
 ---
 Sally kicked Baldwin County’s ass, however we missed the Delta bullet. Poor Lake Charles is getting what some of us expected last Monday, round two of a direct hit by a hurricane. In Lake Charles they have picked up 1.5 million cubic yards of debris, so far, and they are now facing the possibility of doing it all over again.
 

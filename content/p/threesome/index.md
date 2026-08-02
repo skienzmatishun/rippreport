@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Our investigation continues to untangle how local mayors and municipal attorneys
+  use taxpayer-funded insurance to hide their misconduct. Public filings expose a
+  pattern of secret legal payouts, speed-trap rackets, and backroom deals protecting
+  small-town tyrants. Why are Baldwin County taxpayers footing the bill for this dirty
+  political trio?
 ---
 Baldwin County has 14 municipalities and at any given time several are embroiled in some sort of corruption, that they are pulling a blanket over. It truly is amazing how elected officials use the legal system to wash their dirty laundry.
 

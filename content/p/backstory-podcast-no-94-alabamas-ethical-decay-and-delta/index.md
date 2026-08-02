@@ -88,7 +88,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A color-coded map titled Hot spots by county shows new SARS-COV-2 cases per 100,000 people in Alabama, with the Baldwin County seal and Backstory Podc...
+alttags: A color-coded map titled Hot spots by county shows new SARS-COV-2 cases per
+  100,000 people in Alabama, with the Baldwin County seal and Backstory Podc...
+summary: Greedy local politicians stripped wetlands protections and sicced deputies
+  on citizens speaking out at public meetings. We unpack the backdoor deals enriching
+  private bridge developers and highlight the fallout from a convicted ten-term sheriff.
+  Watch Backstory Podcast shine a bright light on the political mob controlling our
+  coastal towns.
 ---
 35.4 Million SARS-COV-2 infected in the USA with 615,000 deaths. The Delta variant has Gulf Coastal Hospitals filling fast and your elected officials are finally getting the picture.
 

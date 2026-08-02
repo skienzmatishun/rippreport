@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A black fork and knife flank a red prohibition symbol over the word Catalyst, naming the local political group
+alttags: A black fork and knife flank a red prohibition symbol over the word Catalyst,
+  naming the local political group
 related_articles:
 - slug: moratorium-party
   title: MORATORIUM PARTY
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Our ongoing investigation shows how the developer machine known as CATALYST
+  hijacked Fairhope leadership to line insider pockets. Leaked campaign filings and
+  city records confirm officials created fake development pauses that protected their
+  own private business interests. See how these political insiders destroy anyone
+  standing in the way of their greed.
 ---
 {{< socialpreview url="https://www.al.com/news/2022/05/a-battle-in-fairhope-can-jennifer-fidler-present-a-strong-challenge-to-five-term-rep-joe-faust.html" >}}
 

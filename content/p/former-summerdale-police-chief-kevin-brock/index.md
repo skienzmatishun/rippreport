@@ -99,7 +99,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A digital collage featuring portraits of Sheriff Anthony Lowery, Chief Kevin Brock, and reporter Debbie Williams, alongside a POODLE PUNCHER wanted poster
+alttags: A digital collage featuring portraits of Sheriff Anthony Lowery, Chief Kevin
+  Brock, and reporter Debbie Williams, alongside a POODLE PUNCHER wanted poster
+summary: Former Chief Kevin Brock reveals how Baldwin County's law enforcement machine
+  targets former officers who stand up for justice. Dropped charges, unlawful arrests,
+  and biased local news reporting demonstrate a clear pattern of weaponized authority.
+  Tune in to hear this Thanksgiving special as the Heart of Dixie podcast exposes
+  the media mouthpiece.
 ---
 Chief Kevin Brock and his wife Dr. Lori Brock have an incredible story to tell about being the target of the Baldwin County Law Enforcement Propaganda Machine.  After being investigated, fired, indicted (two years later) only to have the charges dropped against him, his wife was not so lucky.  We also discuss the Lagniappe Mobile Newspaper article regarding Harry Still's recent arrest, the audio of the "incident", the fact that he was arrested on a misdemeanor that occurred outside the officers presence, a violation of the Code of Alabama (it was an unlawful arrest). Both cases were covered salaciously by Debbie Williams of WKRG News 5, the mouthpiece for Anthony Lowery for years now going back to his time at the District Attorney's Office.  Are they related or just good friends?
 

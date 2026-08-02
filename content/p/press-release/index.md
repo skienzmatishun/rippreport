@@ -89,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Candidate Harry Still promises to end state political corruption, but top
+  officials continue shielding Attorney General Steve Marshall's questionable campaign
+  funds. Court filings and dismissed ethics complaints reveal how the system protects
+  dark money while blocking citizen lawsuits. This investigation exposes how politicians
+  claim to fight corruption while relying on dirty money.
 ---
 I’m Harry Still and I want to restore your faith in Alabama justice by serving as your Attorney General.
 

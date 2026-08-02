@@ -17,7 +17,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: A man in a dark pinstripe suit and striped tie has cartoon rabbit ears and a rubber nose mask superimposed over his face against a white background
+alttags: A man in a dark pinstripe suit and striped tie has cartoon rabbit ears and
+  a rubber nose mask superimposed over his face against a white background
 related_articles:
 - slug: pandemic-of-the-un-vaccinated
   title: PANDEMIC OF THE UN-VACCINATED
@@ -99,6 +100,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell continues to ignore citizen demands and health
+  warnings to serve special political interests. FOIA requests prove city leaders
+  threw out public input to alter plans for a multi-million-dollar grant. We outline
+  the calculated self-interest driving Fairhope's political machine.
 ---
 The Mayor of Fairhope and the City Council got hammered by the public, medical professionals and first responders over the city’s decision to have a large public gathering for the lighting of the trees.
 

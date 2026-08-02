@@ -93,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: We return to the sordid cover-ups inside the Baldwin County Sheriff's Office
+  under the unrestrained command of Hoss Mack. Top department officials ignored inappropriate
+  staff affairs while framing innocent men like Murray Lawrence Jr without real evidence.
+  Unchecked law enforcement authority remains a dangerous threat to justice across
+  our local communities today.
 ---
 **Please read the comments.**
 

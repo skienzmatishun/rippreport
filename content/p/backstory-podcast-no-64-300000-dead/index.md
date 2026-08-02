@@ -83,6 +83,11 @@ related_articles:
   recency_score: 86.24783727362167
   category_score: 0
   rank: 10
+summary: Small-town politicians are running dirty operations right under our noses
+  while public health crises rage across the state. Discover how local municipal bosses
+  turned a public sewer plant into an illegal bootlegging hideout. Listen as Backstory
+  Podcast confronts the small-town grifters treating taxpayer property like their
+  personal playground.
 ---
 75,179,000 SARS-COV-2 cases confirmed Worldwide with 1,667,000 deaths. The USA this week marks the grim milestone of 300,000 dead and more than 17,256,000 confirmed cases. Alabama Governor Kay Ivey extended the mask order for 6 more weeks.
 

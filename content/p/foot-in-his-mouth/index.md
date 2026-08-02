@@ -8,7 +8,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A wooden puppet of politician Chris Elliott hangs from strings held by a hand, with his foot in his mouth against a red background
+alttags: A wooden puppet of politician Chris Elliott hangs from strings held by a
+  hand, with his foot in his mouth against a red background
 related_articles:
 - slug: hair-on-fire
   title: HAIR ON FIRE
@@ -90,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State Senator Chris Elliott repeatedly abused his legislative office to secure
+  nepotistic favors and push developer-friendly laws. Ethics complaints and agency
+  letters reveal Elliott's removal from a state grant program following allegations
+  of improper applicant profiling. Can Baldwin County voters trust a politician who
+  constantly puts special interests above public integrity?
 ---
 Chris Elliott is a professional politician who has been the Baldwin County Sheriff’s legislature puppet from the day he was elected. First for Hoss Mack, now Anthony Lowery. Elliott’s wife conveniently works for the sheriff department securing that job via Chris Elliott. He maintains there is no conflict of interest.
 

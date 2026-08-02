@@ -86,6 +86,10 @@ related_articles:
   recency_score: 73.57614607199059
   category_score: 0
   rank: 10
+summary: Shady federal relief spending and questionable presidential pardons cap off
+  one of the most corrupt years in American history. We dive straight into sneaky
+  backdoor carve-outs that politicians buried deep inside massive funding bills. Watch
+  as we hold these self-serving bureaucrats accountable on the Backstory Podcast.
 ---
 83,718,625 SARS-COV-2 cases worldwide with 1,822,467 deaths. The USA has topped 30 Million cases and suffered 350,000 deaths. AstraZeneca vaccine was approved for use in the UK. The US Senate just voted to override Trump's veto of the National Defense Appropriation Bill, which will limit his powers to withdraw troops in certain circumstances and renames all bases named for the losers in the War of Northern Aggression (that's a joke).
 

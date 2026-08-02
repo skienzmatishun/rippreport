@@ -90,6 +90,10 @@ related_articles:
   recency_score: 11.96376519669074
   category_score: 0
   rank: 10
+summary: Baldwin County insiders routinely protect violent bar owners from facing
+  real criminal charges for assault. Local authorities buried damning video footage
+  and let a well-connected coward walk free after a brutal public attack. Watch as
+  the podcast breaks down the shameful cowardice corrupting local courtrooms.
 ---
 Fairhope Bar Owner Ronan McSharry, of McSharry Irish Pub fame, dare I say: our most famous of Green Card residents, is off the hook (criminally) for Assaulting a woman (the manager of a rival bar) in Fairhope, Alabama at the Little Whiskey Christmas Club on Thanksgiving night 2018.
 

@@ -90,7 +90,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A large oil tanker with wooden masts, sails, and side cannons flies a skull-and-crossbones flag while sailing on the water at dusk
+alttags: A large oil tanker with wooden masts, sails, and side cannons flies a skull-and-crossbones
+  flag while sailing on the water at dusk
+summary: Former State Senator Tripp Pittman and former Mayor Tim Kant bypassed public
+  approvals to funnel lucrative oil cleanup contracts straight into private pockets.
+  Records show hundreds of thousands in taxpayer checks changed hands without valid
+  contracts or proper licensing. Public funds vanished while politicians profited
+  off local disasters.
 ---
 This was submitted by a knowledgeable source:
 

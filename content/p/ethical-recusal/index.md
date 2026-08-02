@@ -88,7 +88,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Black and white photo of a courtroom hearing with a man speaking into a microphone, onlookers, and an officer, plus a small inset of an elderly woman
+alttags: Black and white photo of a courtroom hearing with a man speaking into a microphone,
+  onlookers, and an officer, plus a small inset of an elderly woman
+summary: A Montgomery judge ran from accountability by abruptly recusing himself from
+  a high-profile lawsuit against the Alabama Ethics Commission. Director Tom Albritton
+  escapes scrutiny for ignored corruption complaints while Gulf Shores wastes $9 million
+  of BP settlement money on useless wetland parks. Tune in as Backstory Podcast follows
+  the money and uncovers local corruption.
 ---
 "The Ivey Gambit", playing to the base related to an Executive Order against Biden's vaccine mandate- and all the grandstanders want a shot at this one.
 

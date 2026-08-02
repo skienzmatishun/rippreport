@@ -7,7 +7,8 @@ youtube: -YQAxXGPpcc
 thumbnail: img/the-law-enforcement-narrative.png
 authors:
 - admin
-alttags: Protesters hold Say His Name signs outside the Baldwin County Courthouse, citing Scott Johnsons article on law enforcement narratives and Otis French J...
+alttags: Protesters hold Say His Name signs outside the Baldwin County Courthouse,
+  citing Scott Johnsons article on law enforcement narratives and Otis French J...
 related_articles:
 - slug: lethal-force
   title: LETHAL FORCE
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Bay Minette police officers shot Otis French Jr. after aggressive over-patrolling
+  netted local authorities millions in cash forfeitures. Chief Al Tolbert and sheriff
+  commanders actively hid critical bodycam footage while pushing a blatantly false
+  official story. Tune in as the podcast exposes the crooked law enforcement machine
+  protecting its own officers from criminal accountability.
 ---
 With the death of a beloved member of the Bay Minette Community shot dead after a 10am traffic stop one month ago, the people of this small southern town in Alabama have created the Bay Minette Justice League. Scott Johnson's article in the Lagniappe Newspaper is all about the narrative fed to the press by the Baldwin County Major Crimes Unit, a fiction of Sheriff Huey Mack's imagination that has a long history of cover-ups and disinformation.
 

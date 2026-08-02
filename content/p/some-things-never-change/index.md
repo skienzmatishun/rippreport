@@ -95,7 +95,13 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 10
-alttags: Chris Elliott wears a superhero costume with a green mask, cape, and gray shirt featuring a red shield reading TAX MAN. He holds a vacuum cleaner with a...
+alttags: Chris Elliott wears a superhero costume with a green mask, cape, and gray
+  shirt featuring a red shield reading TAX MAN. He holds a vacuum cleaner with a...
+summary: Looking back at our exposé on how the Catalyst political machine pushed shady
+  taxes and puppet candidates like Sherry Sullivan. Senator Chris Elliott and Jack
+  Burrell manipulated public funds while hiding behind media allies to protect special
+  interest money. These same insiders still control local policy and line their pockets
+  with taxpayer dollars while pretending to serve the public.
 ---
 <a href="https://rippreport.com/p/laugh-out-loud-baldwin">Published March 3rd 2022</a>
 

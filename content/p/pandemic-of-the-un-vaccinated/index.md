@@ -87,6 +87,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope politicians played dirty games with public health safety while preaching
+  fiscal conservatism to local voters. Public records show council leaders secretly
+  grabbed federal cash bonuses after publicly railing against federal assistance programs.
+  Fairhope taxpayers deserve answers about where these secret funds really went.
 ---
 Fairhope City Council and the Mayor are giving away money like green stamps. They scream and yell about taking federal money for anything, but when it is available they cash the check. Hypocrites does not even come close to describing Fairhope’s present government.
 

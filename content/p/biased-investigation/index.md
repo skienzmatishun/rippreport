@@ -6,7 +6,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: A gold sheriffs star badge reading Sheriffs Office Baldwin County, featuring a central circular inset with a rotten apple.
+alttags: A gold sheriffs star badge reading Sheriffs Office Baldwin County, featuring
+  a central circular inset with a rotten apple.
 related_articles:
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A rigged regional police unit repeatedly cleared local officers of wrongdoing
+  while hiding body camera footage from grieving families and reporters. Federal lawsuit
+  filings and court rulings demonstrate how county law enforcement agencies weaponized
+  open records exemptions to block accountability. Our investigation shines a harsh
+  spotlight on Baldwin County's self-policing kangaroo court.
 ---
 When police officers are fired from one department and rehired by another neighboring department, you can be guaranteed problems will follow the officer. When you have police investigating fellow officers then you can be assured their will be no accountability and a BIASED INVESTIGATION. When you have taxpayers paying for police cameras and then the police withhold the footage, you have no transparency. When all of these facts come together you have a police state where the police are no longer public servants. When you have a sheriff that is the most powerful POLITICIAN in the county, 10 to 1 he is also the head of the good ole boys that run the county. When you have a sheriff that eliminates any competition for his office by supporting legislation that disqualifies most candidates for his office, you have corruption, some would say fixing an election.
 

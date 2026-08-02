@@ -23,7 +23,8 @@ tags:
 - waterfront-project
 authors:
 - admin
-alttags: A yellow circular face with two black dots for eyes and a gray zipper across the mouth, showing a detached zipper pull
+alttags: A yellow circular face with two black dots for eyes and a gray zipper across
+  the mouth, showing a detached zipper pull
 related_articles:
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
@@ -105,6 +106,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Scott Boone Consulting operates as a shadowy political machine that pulled
+  the strings behind local Fairhope elections. Property filings and abrupt council
+  resignations confirm a calculated scheme to swap elected officials with hand-picked
+  insiders. Uncover how this secret cabal replaces public voting with backroom appointments.
 ---
 From Wikipedia, the free encyclopedia: A secret society is a club or an organization whose activities, events, inner functioning, or membership are concealed from non-members. The society may or may not attempt to conceal its existence.
 

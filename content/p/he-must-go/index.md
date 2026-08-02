@@ -88,7 +88,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Will Smith strikes Chris Rock on a brightly lit stage with curved illuminated structures, overlaid with text reading Will Smith hits Chris Rock at 2022...
+alttags: Will Smith strikes Chris Rock on a brightly lit stage with curved illuminated
+  structures, overlaid with text reading Will Smith hits Chris Rock at 2022...
+summary: Alabama Attorney General Steve Marshall plays political hitman while unpunished
+  million-dollar fraud schemes plague Baldwin County. Local law enforcement officers
+  turn a blind eye to massive corporate corruption because PAC money funds their political
+  campaigns. Watch Backstory Podcast tear down the wall of silence surrounding these
+  protected insider deals.
 ---
 79.9 Million infected with SARS-COV-2 in the USA with 976,618 deaths.
 

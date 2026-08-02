@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: South Alabama Mega Site graphic with a black shovel icon and text reading shovel ready since 2011 and celebrating ten years.
+alttags: South Alabama Mega Site graphic with a black shovel icon and text reading
+  shovel ready since 2011 and celebrating ten years.
 related_articles:
 - slug: mega-mistake
   title: MEGA-MISTAKE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County power brokers burned through fifty million taxpayer dollars
+  on a botched land deal that yielded zero jobs. Confidential commission files show
+  backroom plans to quietly transfer ownership of the empty site to avoid public accountability.
+  How much longer will local citizens fund Lee Lawson's multi-million dollar mistake?
 ---
 This post is a little long, however I wanted everyone to get a clear picture of the B.S. the citizens of Baldwin County are being forced fed by what is called Baldwin County Economic Development Alliance.
 

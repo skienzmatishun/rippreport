@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A dark cloud shape centered on a white background, overlaid with a thick orange cross extending beyond its edges
+alttags: A dark cloud shape centered on a white background, overlaid with a thick
+  orange cross extending beyond its edges
 related_articles:
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Sheriff Huey Hoss Mack spent hundreds of thousands in taxpayer cash on cameras
+  only to hide public video records. State Supreme Court documents confirm law enforcement
+  officials pushed sneaky legal rules to bury vital shooting evidence. The Ripp Report
+  demands real transparency from those who abuse badges and gavels.
 ---
 The most favorite words of a politician or elected official in Baldwin County are Transparency and Accountability, The most lacking quality of life issue, in Baldwin County, is Transparency and Accountability.
 

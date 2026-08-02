@@ -96,6 +96,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Four high-ranking county officials knowingly buried vital evidence to frame
+  an innocent man for a horrific crime. Suppressed autopsy reports prove the prosecution
+  lied about the cause and location of death to secure a capital murder conviction.
+  Read the full report to see how power corrupts justice in Baldwin County.
 ---
 FOR IMMEDIATE RELEASE
 

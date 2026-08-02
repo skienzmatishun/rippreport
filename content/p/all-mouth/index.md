@@ -7,7 +7,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Councilman Jack Burrell with white hair and a collared shirt looks to the side. His nose has been digitally altered into a long, protruding object
+alttags: Councilman Jack Burrell with white hair and a collared shirt looks to the
+  side. His nose has been digitally altered into a long, protruding object
 related_articles:
 - slug: bull
   title: BULL SITTING Fairhope
@@ -89,6 +90,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our investigation, Jack Burrell and Fairhope city leaders neglected
+  failing sewer infrastructure while funneling taxpayer funds into unbudgeted land
+  deals and double salaries. Internal financial records reveal a paper trail of drained
+  utility funds and unbudgeted spending that crippled municipal services. The Ripp
+  Report exposes how these politicians talk big while leaving citizens with a broken
+  system.
 ---
 Fauxhope mouthpiece and long term councilman Jack Burrell is crying in his milk and pretending to be concerned about the Fauxhope sewer. Don’t be fooled he is a professional B.S. artist.
 

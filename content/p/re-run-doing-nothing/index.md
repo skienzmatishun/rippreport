@@ -88,6 +88,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: We turn back to the Fairhope City Council's complete refusal to act on critical
+  municipal issues. Elected officials deliberately ignored public demands and protected
+  political insiders at the expense of city taxpayers. Demanding transparency from
+  silent council members remains essential to stopping ongoing backroom corruption.
 ---
 {{< socialpreview url="https://rippreport.com/p/victory/" >}}
 

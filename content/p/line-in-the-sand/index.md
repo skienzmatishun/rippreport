@@ -11,7 +11,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A close-up of sunlit sand featuring a distinct, curved track or groove running vertically through the textured surface
+alttags: A close-up of sunlit sand featuring a distinct, curved track or groove running
+  vertically through the textured surface
 related_articles:
 - slug: alabama-black-hole
   title: ALABAMA BLACK HOLE
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Ethics Director Tom Albritton raided a private charity meant for needy students
+  to pay for his own kids' elite college tuition. Secret financial records and IRS
+  filings expose illegal self-dealing, inflated bank fees, and altered trust documents.
+  Discover how state regulators drew a line to protect a corrupt insider.
 ---
 The Mabel Amos Charitable Trust was set up to help kids, who may have had the smarts, but not the money, to go to college, in Alabama. What started as a small well intended trust turned out to be a flush vehicle of greed and political corruption.
 

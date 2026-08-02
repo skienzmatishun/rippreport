@@ -13,7 +13,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A black line drawing of a traffic signal post with red and green lights, a horizontal dashed beam, and a money bag with a dollar sign hanging from the arm
+alttags: A black line drawing of a traffic signal post with red and green lights,
+  a horizontal dashed beam, and a money bag with a dollar sign hanging from the arm
 related_articles:
 - slug: ki-yay-mother-yippee
   title: Ki Yay Mother Yippee
@@ -95,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage, local politicians double-crossed residents by privately
+  begging for federal handouts while publicly preaching against government spending.
+  Secret meeting transcripts capture key organizers changing their tune once taxpayer
+  funding slipped away. We reveal the hypocritical game local leaders play with your
+  daily commute.
 ---
 Talk about shooting yourself in the foot!
 

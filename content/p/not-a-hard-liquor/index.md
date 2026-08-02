@@ -6,7 +6,8 @@ categories:
 - backstory-podcast
 rumble: v2zy9vi
 thumbnail: img/not-a-hard-liquor.jpg
-alttags: A beer can featuring Alabama Governor Kay Ivey in glasses and a bow tie, labeled sweet tea sour ale. Flanked by Baldwin County seal and Backstory Podcas...
+alttags: A beer can featuring Alabama Governor Kay Ivey in glasses and a bow tie,
+  labeled sweet tea sour ale. Flanked by Baldwin County seal and Backstory Podcas...
 related_articles:
 - slug: the-big-lie
   title: THE BIG LIE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Dishonest leaders manipulate public opinion to justify foreign entanglements
+  and maintain control. Desperate politicians peddle fear and false promises to cover
+  up decades of catastrophic policy failures abroad. Catch this episode as Backstory
+  Podcast rips away the government spin hiding political betrayal.
 ---
 Meemaw AKA Alabama Governor Kay Ivey has a new alcoholic beverage sporting her likeness and name- complete with the Col. Sanders bow tie. That would all be fine and well if she was not an octogenarian running a complex organization that is pretty much off the rails. From private dollars to lawyers to defend the indefensible, to a Medical Cannabis License scandal designed to derail the entire program, and with a Legislature that is content with a special master drawing our congressional lines, to quote Mr. Ripp: "This place is nuts".
 

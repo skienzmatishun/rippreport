@@ -7,7 +7,8 @@ rumble: v2prck0
 thumbnail: img/offensive.jpg
 authors:
 - admin
-alttags: 'School children in black uniforms stand in a hall with statues while an adult faces them. Text overlay reads Backstory Podcast: No 158 Offensive.'
+alttags: 'School children in black uniforms stand in a hall with statues while an
+  adult faces them. Text overlay reads Backstory Podcast: No 158 Offensive.'
 related_articles:
 - slug: red-lips-award
   title: RED LIPS AWARD
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Senator Chris Elliott wasted $14 million just to fix a botched boat ramp
+  while state leaders siphon away vital BP settlement funds from local towns. Former
+  license officials cashed thousands in fake tax refunds while thirty illegal casinos
+  quietly pay off top state authorities. Listen to the podcast uncover how career
+  politicians continuously bleed Baldwin County dry.
 ---
 From the Capital Police stopping the school children from singing the National Anthem to the antics of the Alabama Legislature, the range of recent events has left many feeling frustrated and disheartened. Additionally, the emergence of multiple Hunter Biden laptop websites, the seemingly unending arrogance of State Senator "The Taxman" Chris Elliott, the high costs paid for the proxy war in Ukraine, and the numerous falls and fails of our Commander In Chief have all contributed to a growing sense of offense and concern among the public.
 

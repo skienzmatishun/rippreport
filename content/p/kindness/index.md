@@ -3,7 +3,7 @@ title: RANDOM ACTS OF KINDNESS
 date: 2018-12-26
 thumbnail: img/kindness.png
 categories:
-- wonderful-wednesday
+- holiday
 authors:
 - ripp-report
 alttags: Black line drawing of a circle with a vertical line and two diagonal lines forming a V shape at the bottom

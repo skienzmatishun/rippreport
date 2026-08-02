@@ -10,7 +10,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Jack Burrell with an edited long nose stands before the Mobile Bay Bridge and waterfront skyline
+alttags: Jack Burrell with an edited long nose stands before the Mobile Bay Bridge
+  and waterfront skyline
 related_articles:
 - slug: mouthpiece
   title: MOUTHPIECE
@@ -92,6 +93,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Jack Burrell and his political cronies lied directly to taxpayers about costly
+  highway tolls and federal funding demands. Federal court rulings and MPO meeting
+  records document a deliberate plan to strip away public speech rights and impose
+  massive fees. Taxpayers deserve the truth behind this billion-dollar betrayal.
 ---
 No one denies that a Mobile bridge is needed. What so obvious is that the politicians have united to make decisions contrary to their original promises. When the no tolls petition hit 50,000 the politicians panicked and started covering their asses. We heard no tolls, no federal money and “we have to listen to our constituents.”
 

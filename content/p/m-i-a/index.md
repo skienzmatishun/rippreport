@@ -23,7 +23,8 @@ tags:
 - trump
 authors:
 - admin
-alttags: An older man with glasses waves from the passenger window of a black SUV, next to another person wearing a uniform and face mask
+alttags: An older man with glasses waves from the passenger window of a black SUV,
+  next to another person wearing a uniform and face mask
 related_articles:
 - slug: missed-the-bullet
   title: MISSED THE BULLET
@@ -105,6 +106,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope leaders went completely silent while taxpayers paid the bill for
+  costly developer lawsuits and storm damages. Public records and meeting transcripts
+  highlight how council members ignored citizen complaints about severe flooding.
+  Check out the facts about who really runs city government.
 ---
 I have been Missing In Action from social media since September 15th and it feels like a year. Right before the storm, I received news of my best friend’s grandson was killed on a motorcycle. Needless to say his daughter was as devastated as he was. While sitting there trying to comprehend the loss, I got a call from the father of a gentleman I was advocating for in a property dispute. He informed me his son had become stressed out over the issue, and he had committed suicide.
 

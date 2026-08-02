@@ -6,7 +6,8 @@ categories:
 - Special-Report
 authors:
 - admin
-alttags: A red and white megaphone on a solid blue background emits a gray graphic representing sound waves
+alttags: A red and white megaphone on a solid blue background emits a gray graphic
+  representing sound waves
 related_articles:
 - slug: development-chaos
   title: DEVELOPMENT CHAOS
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: County commissioners are pretending to ask for public input after spending
+  a decade letting greedy developers destroy local infrastructure. Lawsuits, failed
+  site records, and sewer data prove the commission ignored clear warnings while runaway
+  growth created total chaos. We expose why this sudden demand for community feedback
+  is nothing more than a desperate PR stunt.
 ---
 ### Baldwin County Seeks Public Input on Land Use Plan
 

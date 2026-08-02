@@ -32,7 +32,8 @@ related_articles:
   category_score: 0
   rank: 3
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 58.37688016841482
   llm_score: 75
   recency_score: 4.449721094696223
@@ -87,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Judge Michelle Thomason ran an illegal courtroom operation that tore families
+  apart and stripped citizens of their basic rights. Federal lawsuit records expose
+  a brutal pattern of unlawful detentions, forced bankruptcies, and ignored jurisdictional
+  limits. Read the horrific details inside this broken system to see how innocent
+  mothers were targeted.
 ---
 https://rippreport.com/baldwin-county-un-family-court/
 

@@ -65,7 +65,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-alttags: A bald eagle stands on a wooden display above four glass jars with orange labels reading Peach, More Peach, Just Peach, and Peach Again
+alttags: A bald eagle stands on a wooden display above four glass jars with orange
+  labels reading Peach, More Peach, Just Peach, and Peach Again
+summary: State politicians delayed medical cannabis approvals for years while playing
+  legislative games with healthcare legislation. Official commission records highlight
+  how regulatory boards quietly moved forward despite political interference from
+  state senators. Read the full breakdown to learn who really controls Alabama's multi-million
+  dollar medical market.
 ---
 Press Release:
 Thursday January 22, 2026

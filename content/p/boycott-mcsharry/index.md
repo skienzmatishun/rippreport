@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City officials actively protected a violent bar owner from repeated assault
+  charges to shield their political allies. Court transcripts and official emails
+  confirm prosecutor blunders and aggressive surveillance tactics aimed at silencing
+  victims. We reveal the disturbing cozy loop between local judges, lawyers, and council
+  members.
 ---
 He has done it again. The Ripp Report has predicted numerous times that Ronan McSharry would continue his intoxication fueled assaults on women. The Paula DiNardi case ended up being an example of just how bad the municipal court and the municipal attorney are in Fairhope. Mr McSharry has assaulted yet another woman, racking up his ninth arrest, all involving alcohol.
 

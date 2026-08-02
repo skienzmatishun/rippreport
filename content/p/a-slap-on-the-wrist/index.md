@@ -16,7 +16,8 @@ tags:
 - stankoski
 authors:
 - admin
-alttags: McSharrys head superimposed on a cartoon green figure wearing a leprechaun hat, flexing muscles, and holding a green block
+alttags: McSharrys head superimposed on a cartoon green figure wearing a leprechaun
+  hat, flexing muscles, and holding a green block
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE
@@ -98,6 +99,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City Attorney Marcus McDowell intentionally botched court filings to protect
+  a politically connected pub owner from violent assault charges. Court records and
+  transcript timelines show local officials allowed statutory deadlines to expire
+  despite clear video evidence of the crime. Read how backroom deals in Fairhope keep
+  the ruling class above the law.
 ---
 <iframe src="https://giphy.com/embed/J7KNNBaqIJTt5EzfDo" width="480" height="350" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
 

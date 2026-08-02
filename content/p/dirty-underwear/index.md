@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The Alabama Bar Association and State Ethics Commission conspired with top
+  prosecutors to quash criminal investigations into corrupt officials. Bank statements
+  and formal ethics complaints document secret payouts, self-dealing scholarship funds,
+  and suppressed evidence. Learn why the state's dirty underwear triad considers itself
+  completely above the law.
 ---
 The Attorney General, Ethics Commission and the Alabama Bar all wear the same dirty underwear. They protect one another, and politicians, from pesky political complaints and play a legal shuffle that results in whitewashing their culpability. It is perfectly clear that the Attorney General will always side with the Bar or Ethics. The Bar and Ethics depend on the Attorney General to cover their back.
 

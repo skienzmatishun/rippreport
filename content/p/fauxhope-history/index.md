@@ -89,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope city leaders destroyed irreplaceable historical landmarks to pave
+  the way for commercial developers and private interests. Council meeting agendas
+  and financial records show local officials prioritized utility lines for big business
+  over preserving local heritage. Corporate greed quietly erased local history while
+  citizens looked the other way.
 ---
 Historic Preservation what a joke. No one is more responsible for the demolition of historic buildings and houses in Fauxhope than the Mayor and council. Second would be the First Baptist Church who destroyed numerous houses for parking lots. But they are not called parking lots even though they are used for parking lots.
 

@@ -92,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage, Baldwin County power brokers used paid consultants
+  and backroom deals to stack the local bench with unearned judicial favors. Internal
+  records and financial trails tie the same corrupt law enforcement clique directly
+  to padded judicial appointments. Read the documented evidence to see how the Good
+  Ol' Boys controlled the courtroom from the start.
 ---
 Have you noticed that when public officials are called out by social media that they start screaming how “you can’t believe social media”. Then use the same social media for self promotion as a denial platform.
 

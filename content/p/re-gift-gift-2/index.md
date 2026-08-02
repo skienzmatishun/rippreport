@@ -2,7 +2,6 @@
 title: RE-GIFT GIFT ??
 date: 2026-07-16
 thumbnail: img/re-gift-gift-2.png
-summary: ATTENTION FAIRHOPE TAXPAYERS. Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres. Mitsy, email to all council members and Mayor Wilson would greatly benefit the City. It concerns the importance and impact of the Deed of Gift from Corte to the City of the lowest 4 acres between the retention pond outfall pipe and Fly Creek.
 categories:
 - repost
 tags:
@@ -75,6 +74,11 @@ related_articles:
   llm_score: 65
   recency_score: 0.407001095029494
   rank: 10
+summary: We revisit how Mayor Tim Kant and developer Corte tricked Fairhope into accepting
+  a shady four-acre land gift along Fly Creek. This dirty transaction made taxpayers
+  liable for severe environmental damage and illegal runoff from a private development
+  project. This toxic deal shows exactly how local politicians still sacrifice public
+  wetlands to protect rich private developers today.
 ---
 
 [Originally published May 5th, 2017](https://rippreport.com/p/re-gift-gift)

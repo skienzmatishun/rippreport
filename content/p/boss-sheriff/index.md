@@ -6,7 +6,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Headshot of Baldwin County Sheriff Hoss Mack in a light shirt with star insignia and dark tie, wearing glasses and a mustache while looking slightly dow...
+alttags: Headshot of Baldwin County Sheriff Hoss Mack in a light shirt with star insignia
+  and dark tie, wearing glasses and a mustache while looking slightly dow...
 related_articles:
 - slug: JUDGE-VS-SHERIFF
   title: JUDGE VS. SHERIFF
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County law enforcement operates above the law while using state prosecutors
+  as personal enforcement puppets. Investigative files detail a thirty-year political
+  alliance built to conceal deputy misconduct and obstruct public transparency. We
+  expose the dirty deals that cemented absolute power in local law enforcement.
 ---
 Wake up Baldwin County you have a serious problem with Baldwin Sheriff Office and Sheriff Hoss the “BOSS” Mack.
 

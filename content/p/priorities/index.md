@@ -7,7 +7,8 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Article screenshot announcing a May 19 public hearing for the Fort Morgan sewage treatment plant, with an aerial photo of its facility
+alttags: Article screenshot announcing a May 19 public hearing for the Fort Morgan
+  sewage treatment plant, with an aerial photo of its facility
 related_articles:
 - slug: stinky-business
   title: STINKY BUSINESS
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County commissioners are funneling millions into massive jail expansions
+  while an unregulated private sewer utility operates without oversight. Insiders
+  and court officials stand to profit immensely from increased jail volume and shady
+  local deals. Watch as the podcast highlights every conflict of interest driving
+  these corrupt multi-million dollar payouts.
 ---
 If you watched this legislative session unfold in Alabama you have to be asking yourself: "What are our priorities?" And at the local level in Baldwin County: A new County Jail (damn near 1,000 beds) with a hiring plan that none of us have ever seen to include the hiring of 6 new Deputy Sheriffs and 6 new Correction Officers per year for 5 years. With County Commission support of all these new hires and facilities it is only logical that Baldwin Court Services will have increased volume and need to hire more people too (no conflicts of interest there, move along...).
 

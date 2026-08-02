@@ -101,6 +101,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A year of pandemic chaos couldn't stop Alabama power players from stuffing
+  federal relief funds into their own pockets. Suspended District Attorney Brandon
+  Hughes faces fresh charges while Fairhope insiders sabotage court documents to protect
+  their friends. Catch this episode as the podcast rips the lid off local judicial
+  corruption.
 ---
 119,377,408 SARS-COV-2 cases confirmed worldwide with a total of 2,644,000 deaths; with 29,395,000 cases in the USA with 534,196 deaths; 503,305 cases in Alabama with 10,327 deaths; 1.7 M vaccine doses delivered, 1.2 M administered.
 

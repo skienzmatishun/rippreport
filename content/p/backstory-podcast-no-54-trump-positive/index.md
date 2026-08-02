@@ -89,6 +89,11 @@ related_articles:
   recency_score: 63.2842155979395
   category_score: 0
   rank: 10
+summary: Corrupt politicians in South Alabama are using pandemic restrictions and
+  Hurricane Sally's destruction as a backdrop for cheap political grandstanding. Senator
+  Chris Elliott attacks state leadership during a crisis while local puppets beg for
+  bailouts and ignore deadly coal ash threats. Catch this episode as the podcast rips
+  the lid off Alabama's self-serving political elite.
 ---
 <iframe src="https://www.facebook.com/plugins/video.php?height=313&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F265996207915089%2F&amp;show_text=true&amp;width=560" width="560" height="428" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
 

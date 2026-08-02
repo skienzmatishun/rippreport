@@ -99,7 +99,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A person in a black robe holds a crystal ball containing the faces of Hoss Mack, Anthony Lowery, Chris Elliot, and Kristi Hagood
+alttags: A person in a black robe holds a crystal ball containing the faces of Hoss
+  Mack, Anthony Lowery, Chris Elliot, and Kristi Hagood
+summary: Sheriff's office leadership enforced a decade-long culture of absolute immunity
+  to protect loyal deputies from public accountability. Internal emails and hidden
+  body camera logs highlight a distinct pattern of suppressing evidence during fatal
+  law enforcement encounters. The tide is turning as citizens reject the Good Ol'
+  Boy network at the ballot box.
 ---
 Let’s face the facts: money wins elections. Sometimes the best man does not win, especially when only 10 percent of the voting public decides who wins and all the rest just bitch.
 

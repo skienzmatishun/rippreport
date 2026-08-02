@@ -9,7 +9,8 @@ categories:
 - terrific-tuesday
 authors:
 - admin
-alttags: A bald eagle wearing a black face mask stands in front of a brick courthouse with white columns and a clock tower
+alttags: A bald eagle wearing a black face mask stands in front of a brick courthouse
+  with white columns and a clock tower
 related_articles:
 - slug: wrongful-conviction
   title: WRONGFUL CONVICTION
@@ -91,6 +92,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local prosecutors and police hid critical evidence to lock away a shooting
+  victim for nearly a half-century. Blocked media requests and court transcripts reveal
+  how law enforcement manipulated the story before the defense could speak. Read the
+  truth about how political prosecutors bury police shootings.
 ---
 Opelika are not getting unfiltered news involving police shooting incidents. Case in point is the case of Walker Cole Barkley. On a Sunday evening July 25th, 2021, Nicole Barkley called the Auburn Police and asked for assistance. Her husband, was intoxicated and had a gun in his shirt pocket and Nicole was afraid he might hurt himself. The police arrive and are informed 4 children were inside. Within a few minutes, and children inside, the police officer fires through the door, and slight opening, 10 times, seriously wounding Cole. Cole did return fire, two wild high shots inside the house, after, the officer stopped firing and was retreating. The police officer never announced that he was a police officer and Cole who was totally intoxicated had no idea who had shot him. Wounded and bleeding profusely Cole then made a phone call for medical assistance.
 

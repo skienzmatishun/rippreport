@@ -9,7 +9,8 @@ categories:
 thumbnail: /img/cameras.jpg
 authors:
 - admin
-alttags: Close-up of a dark blue police uniform shirt and a black body-worn camera clipped to the chest
+alttags: Close-up of a dark blue police uniform shirt and a black body-worn camera
+  clipped to the chest
 related_articles:
 - slug: rumors
   title: RUMORS
@@ -91,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The county sheriff extracted hundreds of thousands of dollars from taxpayers
+  for body cameras, then instituted a blanket ban on releasing any video to the public.
+  Federal court dockets and Supreme Court filings confirm law enforcement agencies
+  used key legal loopholes to bury video evidence of fatal shootings. Uncover the
+  real reason police bought cameras they refuse to let you see.
 ---
 Let me make one thing perfectly clear, I am pro police. Police are a necessary. Police are responsible to the public, they work for the public. What gives police a bad name are a few officers that think they must use lethal force, when it is not necessary. Firearm training for police teaches how to kill not wound and to many officers are to damn quick on the draw.
 

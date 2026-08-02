@@ -87,7 +87,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Murray Bubba Lawrence Jr., a Black man in a white tank top, looks upward with a serious expression against a dark background
+alttags: Murray Bubba Lawrence Jr., a Black man in a white tank top, looks upward
+  with a serious expression against a dark background
+summary: Continuing our coverage of this judicial scandal, former prosecutor David
+  Whetstone traded immunity to manufacture a murder conviction. Sworn court testimony
+  and timeline records show key authorities suppressed exculpatory evidence to protect
+  their flawed theory. Read the brutal truth behind the state's unholy bargain.
 ---
 You have all heard the stories of wrongful convictions. People incarcerated for 10 years, 20 years and even more. Once you are convicted, your chances of reversing a verdict are slim.
 

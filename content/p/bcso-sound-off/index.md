@@ -93,7 +93,13 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 10
-alttags: A magazine rack features a Soap Opera Digest cover with a sheriff in uniform and headlines about department corruption, surrounded by blurred copies of ...
+alttags: A magazine rack features a Soap Opera Digest cover with a sheriff in uniform
+  and headlines about department corruption, surrounded by blurred copies of ...
+summary: Sheriff Anthony Lowery inherited and protected a toxic department culture
+  that routinely shields high-ranking deputies from sexual misconduct allegations.
+  Internal whistleblower tips and archived investigative files expose a deep pattern
+  of buried evidence stretching back twenty years. Why does the Good Old Boy network
+  continue to grant absolute immunity to its own inner circle?
 ---
 Deputies and officers with the Sheriff department are sounding off about the sorry state of affairs within the department. Hoss Mack knew what he was doing when he dumped 20 years of problems on Lowery’s back. Now Lowery is bragging about the “CULTURE” he inherited, and adopted, from Hoss the Boss. Problem is that culture favors the good ole boys, aka GOB. The chain of command is arbitrary, accountability and transparency often disappears through favoritism. Internal cover-ups are a common practice. Sexual incidents within the department, from high ranking officers to patrol, would rival any soap opera.
 

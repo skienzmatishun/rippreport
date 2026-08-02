@@ -90,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
+summary: In this repost, we examine how special interests in Fairhope protected violent
+  bar owners and wasted public funds on bad lawsuits. City Attorney Marcus McDowell
+  shielded political allies like Jack Burrell while letting dangerous individuals
+  off the hook. This culture of favoritism still threatens safety and accountability
+  throughout our local municipal government.
 ---
 ## FAIRHOPE THE GOOD
 

@@ -6,7 +6,8 @@ categories:
 - monday-madness
 authors:
 - admin
-alttags: Four stick figures run around two chairs with musical notes and sound lines above, illustrating the game of musical chairs
+alttags: Four stick figures run around two chairs with musical notes and sound lines
+  above, illustrating the game of musical chairs
 related_articles:
 - slug: lego-rocket-scientist
   title: LEGO ROCKET SCIENTIST
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell and his political allies rigged local governance
+  rules to protect wealthy insider developers. Leaked meeting notes and public resolution
+  files prove council leaders created fake growth pauses with loopholes for their
+  friends. Will the public finally hold these self-serving officials accountable?
 ---
 After 9 years of Jack Burrell tenaciously holding on to, the position of President of the Fairhope Council, it may come to an end tonight. Jack has soiled the seat of council president to a point that a new chair is necessary. Jack’s legacy is infamous and it has cost the taxpayers millions. If you think he is relinquishing the seat out of courtesy, then have another drink.
 

@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: White milk carton labeled MILK and MISSING, showing a black cameraman silhouette on a tripod with the text Have you seen me? and nutritional details
+alttags: White milk carton labeled MILK and MISSING, showing a black cameraman silhouette
+  on a tripod with the text Have you seen me? and nutritional details
 related_articles:
 - slug: self-dealing-self-stealing
   title: SELF-DEALING-SELF-STEALING
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on our investigation, major Alabama news outlets covered up
+  tens of millions in hidden oil wealth siphon schemes. IRS tax forms reveal bank
+  managers collected massive fees for working mere hours while state reporters stayed
+  completely silent. We reveal why established newsrooms refuse to investigate statehouse
+  corruption.
 ---
 Alabama is the most corrupt state in the United States and the Alabama Ethics Commission Director, Tom Albritton, is doing his best for Alabama to remain the most corrupt. The Alabama Ethics Commission resembles a criminal enterprise.
 

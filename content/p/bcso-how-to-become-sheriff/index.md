@@ -12,7 +12,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: Book cover for How to Become Sheriff for Dummies, fourth edition. Features a cartoon character holding a CD
+alttags: Book cover for How to Become Sheriff for Dummies, fourth edition. Features
+  a cartoon character holding a CD
 related_articles:
 - slug: po-po-hoss-mack-ccuo
   title: PO PO Hoss Mack CCUO
@@ -94,6 +95,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Promising law enforcement careers in Baldwin County are built on framed suspects
+  and buried autopsy findings. Uncovered trial transcripts prove officers knew key
+  evidence was missing while they parlayed a fake murder case into promotions. This
+  report shines a light on the dirty blueprint for climbing the department ladder.
 ---
 First I would like to thank all the people who have warned me of retaliation that I may receive for writing the truth about BCSO and Sheriff Mack. Let me assure you that I have talked with the Attorney General’s office, FBI and other federal officials. I not only talked with them but provided documents. In addition we have talked with CNN, Investigative reporters, not in Alabama, Netflix and several producers that may be interested in a documentary.
 

@@ -91,6 +91,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State Senator Chris Elliott pushed rogue legislation to strip local control
+  and protect a corrupt political machine. Campaign filings and legislative records
+  prove he ignored public opposition to serve corporate donors and law enforcement
+  bosses. Learn how backroom favors sold out local constituents for political gain.
 ---
 Senator Chris Elliott is a perfect example of a politician out of touch with his constituents. His grandstanding is political and an attempt to cater to a small base, who vote. He is shameless and uses his church to push his political aspirations, a common practice in the deep south. Professing to be a christian is at the top of criteria to be elected. Ethics, conflicts of interest and accountability are not on the list.
 

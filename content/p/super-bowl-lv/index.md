@@ -11,7 +11,8 @@ tags:
 - super-bowl
 authors:
 - admin
-alttags: A black American football with white laces and two gray stripes against a plain gray background
+alttags: A black American football with white laces and two gray stripes against a
+  plain gray background
 related_articles:
 - slug: alabama-suicide
   title: ALABAMA SUICIDE
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Alabama politicians exploited dangerous national lies to incite chaos and
+  line up behind a lawless insurrection. Official records and historical parallels
+  reveal how corrupt officials weaponized bad-faith rhetoric just like the deadly
+  deception of the Vietnam era. Will voters finally hold these bad actors accountable
+  before their next big deception?
 ---
 Super Bowl LV, the 55th Super Bowl and the 51st modern-era National Football League championship game, will decide the league champion for the 2020 NFL season. The American Football Conference champion Kansas City Chiefs will play the National Football Conference champion Tampa Bay Buccaneers.
 

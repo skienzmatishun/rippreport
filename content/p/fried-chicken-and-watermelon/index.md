@@ -6,7 +6,8 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: Crispy fried chicken pieces are arranged around bright red watermelon slices with visible seeds and white rind edges
+alttags: Crispy fried chicken pieces are arranged around bright red watermelon slices
+  with visible seeds and white rind edges
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope politicians repeatedly exploited minority neighborhoods with empty
+  promises while secretly diverting public land funds to private interests. Official
+  financial resolutions confirm council members authorized millions for overpriced
+  farmland while ignoring urgent local community projects. Read the full investigation
+  to see how deep this systemic neglect really runs.
 ---
 Tonight the Fairhope Rotary Youth Club will be hosting Fairhope Council and members of the so called the Fairhope Comprehensive Plan.
 

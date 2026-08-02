@@ -91,6 +91,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Several protesters stand inside the ornate halls of the US Capitol building, holding American and red flags while wearing winter clothing
+alttags: Several protesters stand inside the ornate halls of the US Capitol building,
+  holding American and red flags while wearing winter clothing
+summary: The January 6 Capitol riot exposed massive law enforcement failures and dangerous
+  political betrayal at the highest levels of government. Insiders reveal how armed
+  extremists breached security while cowardly politicians scrambled for safety inside
+  the chamber. Listen to the podcast dissect the disturbing security breakdowns that
+  nearly destroyed American democracy.
 ---
 A recap of the events and consequences of the Storming of the US Capitol Building, we will flesh it out on Backstory Podcast No 66.

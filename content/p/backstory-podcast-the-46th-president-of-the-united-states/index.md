@@ -82,6 +82,11 @@ related_articles:
   recency_score: 8.424950351705032
   category_score: 0
   rank: 10
+summary: Media outlets declared Joe Biden the president-elect, but state machinery
+  and political operatives are still fighting behind closed doors. We break down the
+  bureaucratic mechanics and backroom maneuvers driving the federal transition power
+  struggle. Watch this episode to get the unvarnished truth about what really happens
+  during a chaotic presidential handover.
 ---
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F793833574798859%2F&amp;show_text=false&amp;width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
 

@@ -10,7 +10,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A black sketch of a fishing net stands beside an outline of Alabama crossed with a red X, overlaid with ETHICS spelled in green dollar bills
+alttags: A black sketch of a fishing net stands beside an outline of Alabama crossed
+  with a red X, overlaid with ETHICS spelled in green dollar bills
 related_articles:
 - slug: alabama-ethics-self-dealing-immunity
   title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on our investigation, powerful state regulators abused a private
+  scholarship foundation to bankroll six-figure payouts for their own children. Financial
+  tax forms reveal how bank insiders reshaped program rules to hide who received the
+  cash. Read the full investigation to see how deep this protection racket really
+  goes.
 ---
 The state of Alabama is number one in the nation for political corruption. The Alabama Ethics Commission is the main reason for our infamous reputation for corruption.
 

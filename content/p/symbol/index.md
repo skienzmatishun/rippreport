@@ -2,7 +2,7 @@
 title: Veterans Day
 date: 2021-11-11
 categories:
-- Special-Report
+- holiday
 authors:
 - admin
 related_articles:

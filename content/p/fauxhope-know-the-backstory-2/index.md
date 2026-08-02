@@ -94,7 +94,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Fairhope city council meeting in a flooded chamber with knee-deep mud. A man in overalls stands near a laptop while officials sit
+alttags: Fairhope city council meeting in a flooded chamber with knee-deep mud. A
+  man in overalls stands near a laptop while officials sit
+summary: Former Mayor Tim Kant and developer Angelo Corte sacrificed Fairhope's natural
+  waterways to push through reckless commercial developments. Environmental testing
+  records and DNA analysis of creek sediment link severe infrastructure damage directly
+  to developer runoff. Learn why local leaders repeatedly chose developer profits
+  over public infrastructure.
 ---
 
 [Originally published January 25th 2026](https://rippreport.com/p/fauxhope-know-the-backstory/)

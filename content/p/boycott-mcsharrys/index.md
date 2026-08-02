@@ -14,7 +14,8 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: A cartoon illustration of a man in a green suit and hat drinking from a large yellow mug
+alttags: A cartoon illustration of a man in a green suit and hat drinking from a large
+  yellow mug
 related_articles:
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
@@ -96,6 +97,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local judges and council members granted legal immunity to a bar owner with
+  a history of violent public disturbances. Arrest logs and probation records reveal
+  a systemic cover-up designed to buy victim silence and suppress evidence. Exposing
+  these secret deals shows how deep the local rot really goes.
 ---
 The last edition of the Ripp Report we exposed, again, how the Fairhope City Council President and former councilman lied to the citizens of Fairhope.
 

@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
+summary: Local leaders secretly handed public liability to taxpayers while letting
+  favored developers ruin Fly Creek with unchecked construction runoff. Environmental
+  reports and sediment testing confirm that massive mud deposits stem directly from
+  private clear-cutting rather than natural bay tides. Discover how city hall transformed
+  a natural resource into a multimillion-dollar cash dump for political insiders.
 ---
 Here we go again Fauxhope discussing the same project with the same results for over 12 years. Fly Creek has been flooded with mud and sediment since the Publix project clear cut and killed every living thing on the Publix site. An executive for Publix once commented that “the developer dug a hole to fit the strip center and Publix in.”
 

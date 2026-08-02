@@ -91,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Senator Chris Elliott bypassed his local legislative delegation to push a
+  power-grabbing county bill against overwhelming public opposition. Uncovered campaign
+  filings expose deep financial ties between political strategists, county law enforcement,
+  and secret backroom deals. Read on to see why panic is spreading fast among the
+  local political machine.
 ---
 DUI, Tax man and rouge State Senator Chris Elliott has lost more than his hair. He is again carrying the water for Sheriff Hoss Mack. Oh, by the way Elliott's wife has worked for the sheriff since Chris was elected to office in Baldwin County. Sheriff Hoss Mack is the political director behind anything happening in Baldwin County.
 

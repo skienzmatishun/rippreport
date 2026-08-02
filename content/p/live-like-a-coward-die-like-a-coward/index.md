@@ -8,7 +8,8 @@ tags:
 - mcafee
 authors:
 - admin
-alttags: A black-and-white photo of John McAfee wearing sunglasses and a white jacket, set against red flames with the top banner text Your McAfee Subscription H...
+alttags: A black-and-white photo of John McAfee wearing sunglasses and a white jacket,
+  set against red flames with the top banner text Your McAfee Subscription H...
 related_articles:
 - slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
   title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
@@ -90,6 +91,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local court officials protected a violent bar owner from criminal conviction
+  through intentional legal errors. Public arrest logs and court dockets prove prosecutors
+  allowed key deadlines to expire so charges would vanish completely. Corruption prospers
+  when those in power shield their favorite allies from equal justice.
 ---
 All of us have experienced people that are narcissist or sociopaths. Maybe psychopaths and the very worst possible murderers.
 

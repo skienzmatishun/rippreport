@@ -13,7 +13,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: A diagonal stack of U.S. currency featuring a ten-dollar bill in the foreground, edited to show George Washington wearing a white face mask
+alttags: A diagonal stack of U.S. currency featuring a ten-dollar bill in the foreground,
+  edited to show George Washington wearing a white face mask
 related_articles:
 - slug: jackass-jack
   title: JACKASS JACK
@@ -95,6 +96,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Mayor Sullivan and Jack Burrell put Fairhope citizens at risk while seizing
+  control of millions in waterfront project funds. Newly uncovered documents reveal
+  a trail of past financial scandals and ignored public surveys. Discover why local
+  leadership gambled with public safety to push their own agenda.
 ---
 ## DOLLARS
 

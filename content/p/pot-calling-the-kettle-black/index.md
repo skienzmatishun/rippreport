@@ -6,7 +6,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Black silhouette of a teapot with a handle, spout, and lidded top against a white background
+alttags: Black silhouette of a teapot with a handle, spout, and lidded top against
+  a white background
 related_articles:
 - slug: perfect-puzzle
   title: PERFECT PUZZLE
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on state-level corruption, media commentators and ethics directors
+  pointed fingers while quietly lining their own pockets. Financial tax filings reveal
+  Ethics Director Tom Albritton took over $100,000 from a trust for private family
+  tuition. Uncover the hypocrites controlling state politics before they bury the
+  evidence.
 ---
 You ever notice how self righteous hypocrites love to gloat about other people’s problems, while ignoring those in their own state or community.
 

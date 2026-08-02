@@ -98,6 +98,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Five Alabama congressmen sabotaged their own credibility by attempting to
+  overturn certified election results for cheap political points. Investigative files
+  and ethics commission records detail a long history of state officials choosing
+  corruption over their constitutional oaths. Read the full breakdown of how our state
+  leadership traded integrity for Washington favors.
 ---
 January 6th will go down in history for several reasons:
 

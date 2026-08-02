@@ -84,6 +84,11 @@ related_articles:
   recency_score: 92.10952933439548
   category_score: 0
   rank: 10
+summary: Two mysterious dead bodies turned up along County Road 95 while Spanish Fort
+  voters re-elected an abusive mayor. Baldwin County law enforcement rushed to the
+  scene, yet local officials remain dead silent about the glaring security failures.
+  Listen to Backstory Podcast dissect the bizarre web of coastal Alabama scandals
+  and political incompetence you were never meant to hear.
 ---
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F1004441039980745%2F&amp;show_text=false&amp;width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
 

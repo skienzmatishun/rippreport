@@ -7,7 +7,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: An older man with white hair raises both arms while seated in a red open-top car on rails near a waterfront parking area
+alttags: An older man with white hair raises both arms while seated in a red open-top
+  car on rails near a waterfront parking area
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City officials wasted millions in grant funds while stripping away public
+  amenities from the Fairhope waterfront project. Documented council records prove
+  politicians delayed required access routes and ignored hundreds of citizen requests.
+  Buckle up as the Ripp Report reveals who actually profits from this endless civic
+  wild ride.
 ---
 The current Fauxhope city council is not listening to anyone. A select few are making, and have been making, crucial decisions without any public participation. Sure you can go to the council meeting but your comments will fall on deaf ears.
 

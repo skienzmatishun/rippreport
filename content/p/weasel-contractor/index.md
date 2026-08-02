@@ -13,7 +13,8 @@ tags:
 - tucker-dorsey
 authors:
 - admin
-alttags: Chris Elliotts head emerges from a spring-loaded jack-in-the-box with a black star on its side
+alttags: Chris Elliotts head emerges from a spring-loaded jack-in-the-box with a black
+  star on its side
 related_articles:
 - slug: catalyst-is-drowning
   title: CATALYST IS DROWNING
@@ -95,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State Senator Chris Elliott manipulated state grant programs for personal
+  advantage after getting caught spying on competitor bids. Official records show
+  how state officials booted his construction firm for berating applicants and seeking
+  unfair advantages. The Ripp Report reveals how a disgruntled insider turned his
+  personal vendetta into state policy.
 ---
 Baldwin County really made a mistake when they elected [Chris Elliott](https://www.google.com/search?q=site%3Arippreport.com+elliott) to replace [Tripp Boom Boom Pittman](https://www.google.com/search?q=site%3Arippreport.com+pittman) as State Senator.
 

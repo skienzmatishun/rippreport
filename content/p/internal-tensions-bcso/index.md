@@ -93,7 +93,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Two men in law enforcement gear pull a rope against a blue background. One wears a Baldwin County sheriff uniform, the other a Police ICE vest
+alttags: Two men in law enforcement gear pull a rope against a blue background. One
+  wears a Baldwin County sheriff uniform, the other a Police ICE vest
+summary: Sheriff Anthony Lowery and Chief Deputy David White quietly suspended critical
+  immigration operations to protect their political standing during an election season.
+  Internal communication records expose how leadership manufactured a dispute with
+  federal agents to save face. The Ripp Report uncovers how BCSO bosses traded public
+  safety for raw campaign survival.
 ---
 According to two independent sources familiar with communications between the Baldwin County Sheriff’s Office and federal immigration enforcement personnel, internal tensions reportedly escalated during the current sheriff’s election cycle over BCSO participation in immigration-related operations connected to the federal 287(g) program.
 

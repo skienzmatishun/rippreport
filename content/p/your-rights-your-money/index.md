@@ -14,7 +14,8 @@ categories:
 - ethics
 authors:
 - admin
-alttags: Baldwin County Sheriff Huey Mack sits in an office wearing a white sheriff uniform and cowboy hat, beside framed certificates and an American flag
+alttags: Baldwin County Sheriff Huey Mack sits in an office wearing a white sheriff
+  uniform and cowboy hat, beside framed certificates and an American flag
 related_articles:
 - slug: black-cloud
   title: BLACK CLOUD
@@ -96,6 +97,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County officials funneled tax dollars into costly surveillance systems
+  while systematically stripping away public oversight. Legislative records and contract
+  files reveal how politicians engineered special state bills to protect law enforcement
+  misconduct. How much longer will local taxpayers fund their own legal disenfranchisement?
 ---
 Corrupt politicians and elected officials in Alabama have been emboldened by the Alabama Supreme Court and the Ethics Commission’s recent rulings. While citizens of Alabama are distracted by national politics, their own state, keeps sinking deeper into the sewer of corruption.
 

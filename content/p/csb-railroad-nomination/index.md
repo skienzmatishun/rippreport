@@ -15,7 +15,8 @@ tags:
 - robinson
 authors:
 - admin
-alttags: A red circle with a broken diagonal line enclosing a black outline of a speech bubble
+alttags: A red circle with a broken diagonal line enclosing a black outline of a speech
+  bubble
 related_articles:
 - slug: honeymoon
   title: HONEYMOON
@@ -97,6 +98,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell orchestrated a fake resignation scheme to
+  hand a lucrative city council seat to an un-elected insider. Official city agendas
+  and real estate records show leaders buried public comment periods until after swearing
+  in their chosen candidate. Can voters trust a council that replaces democracy with
+  backroom appointments?
 ---
 https://www.youtube.com/watch?t=2040&v=6jG57XNm3Vk&feature=youtu.be
 

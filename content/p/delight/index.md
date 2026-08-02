@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope city officials repeatedly broke municipal rules and handed local
+  taxpayers a multi-million-dollar bill for their arrogant legal blunders. Court transcripts
+  and public records prove council leaders lied about lawyer fees while secretly bleeding
+  municipal utility funds dry. The Ripp Report pulls back the curtain on Fairhope's
+  costliest political farce.
 ---
 In Baldwin County you must pay for the news online to read anything. It explains why so many people in Baldwin County have not a clue what is happening in their municipality. The Ripp Report is free and is unabashed how we explain political shenanigans.
 

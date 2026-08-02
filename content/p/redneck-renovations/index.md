@@ -13,7 +13,8 @@ tags:
 - waterfront-project
 authors:
 - admin
-alttags: A cardboard box labeled Premium Redneck Repair Kit sits beside a can of WD-40 and a roll of duct tape
+alttags: A cardboard box labeled Premium Redneck Repair Kit sits beside a can of WD-40
+  and a roll of duct tape
 related_articles:
 - slug: got-fleas
   title: GOT FLEAS
@@ -95,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell and Mayor Sherry Sullivan sabotaged a multimillion-dollar
+  grant project to serve political allies. Internal engineering proposals and public
+  meeting logs show how officials weaponized manufactured rumors to justify gutting
+  the original waterfront design. We expose the real reasons why city hall trashed
+  public input for cheap fixes.
 ---
 Fairhope’s, 6.2 million dollar waterfront park has been so watered down that it has become a renovation project. For over 18 months the Waterfront project moved through the bureaucracy of government. Hundreds of citizens participated in public meeting offering their suggestions. Then came the municipal elections and the political distortions about the overall plan. In as little as a few weeks, in the new administration, the entire plan went from something resilient and sustainable to short sighted maintenance.
 

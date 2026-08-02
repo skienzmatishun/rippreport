@@ -7,7 +7,8 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Alabama Attorney General Steve Marshall testifies before Congress against ESG investing, as shown in a podcast graphic with text overlays
+alttags: Alabama Attorney General Steve Marshall testifies before Congress against
+  ESG investing, as shown in a podcast graphic with text overlays
 related_articles:
 - slug: what-the
   title: What the
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Attorney General Steve Marshall claims corporate ESG policies threaten Alabama,
+  but backroom political deals pose the real danger to your wallet. From mismanaged
+  water boards to skyrocketing overtime pay for deputies, corrupt officials keep burning
+  through taxpayer cash. Watch Backstory Podcast tear open the paper trail behind
+  Mobile's failing local government.
 ---
 ESG stands for Environmental, Social, and Governance Criteria, a set of standards for a company's behavior used by socially conscious investors to screen potential investments. Alabama Attorney General and all around mouth piece for the Republican Attorney General's Association proclaims that it is Woke Capitalism incarnate and we should all act now to prevent calamity. And we need a million bucks from the education budget to fund the study ESG at the Alabama Mecca of Economic Theory, Troy University. The Alabama Policy Institute is hammering this one hard so you can bet we will continue to see it proliferate on Fox News. Alternatively, CNN gave Former President Donald Trump a forum which he exploited to his political advantage. Good news, bad news, so long as it's all about the spectacle that is DJT.
 

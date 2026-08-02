@@ -87,6 +87,11 @@ related_articles:
   length_score: 33.75
   category_score: 0
   rank: 10
+summary: Corrupt local officials consistently trade political favors behind closed
+  doors while ordinary citizens pay the heavy price. Our investigative team digs into
+  the shady deals and institutional rot poisoning local government operations. Watch
+  as the podcast blasts open these secret backroom agreements and exposes the power
+  brokers pulling the strings in Baldwin County.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DUgy5-YSTQw" frameborder="0" allowfullscreen></iframe>
 

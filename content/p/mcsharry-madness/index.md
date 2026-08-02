@@ -87,6 +87,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Powerful Fairhope officials and local judges protected bar owner Ronan McSharry
+  from serious criminal assault charges. Official court documents and signed settlement
+  records reveal how prosecutors buried key evidence despite clear video proof. The
+  Ripp Report exposes how the political machine pulled off this judicial trick.
 ---
 Ronan Mc Sharry should be banned from any club or bar serving alcohol. Because if he claims that your establishment “made him get drunk” and caused him to knock a woman off a bar stool. He then will sue the same establishment.
 

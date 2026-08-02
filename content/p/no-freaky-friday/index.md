@@ -3,7 +3,7 @@ title: NO FREAKY FRIDAY
 date: 2018-08-17
 thumbnail: img/no-freaky-friday.png
 categories:
-- none
+- holiday
 authors:
 - admin
 alttags: White exclamation mark centered on a solid blue background

@@ -98,6 +98,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Locked doors kept the public out of the State House while politicians secretly
+  pushed through a record-breaking state budget. Our investigation blows the lid off
+  coastal land grabs, political flip-flops on gambling, and toxic coal ash neglect.
+  Tune in as the podcast exposes the sneaky tactics used by officials to evade public
+  accountability.
 ---
 Texas had a milestone this week with 50,000 deaths contributed to the SARS-COV-2 Pandemic.
 

@@ -87,6 +87,11 @@ related_articles:
   length_score: 96.25
   category_score: 0
   rank: 10
+summary: Local power brokers thought a temporary hiatus would silence investigative
+  reporting on city hall favoritism and backroom land deals. Documents and insider
+  tips gathered during the break reveal ongoing financial schemes between municipal
+  officials and favored developers. Corruption never sleeps in Baldwin County, and
+  neither does The Ripp Report.
 ---
 I apologize to all my readers and friends that I have been a little absent in the last few months. Last year I lost my soul mate of 50 years and it has been quite an adjustment since. Don’t get me wrong, everything is good and all my memories are good. However I was faced with downsizing my living accommodations and totally restoring the property, known now as Casa Carolyn.
 

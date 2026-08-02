@@ -4,6 +4,7 @@ date: 2021-07-20
 thumbnail: img/obituary.jpg
 categories:
 - obituary
+- holiday
 authors:
 - admin
 alttags: Head-and-shoulders portrait of Frances J. Neumann, an elderly woman with short white hair and round glasses wearing a white jacket with blue trim

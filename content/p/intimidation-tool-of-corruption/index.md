@@ -1,6 +1,7 @@
 ---
 title: "Intimidation - A Tool of Corruption"
 date: 2016-02-26
+thumbnail: img/intimidation-tool-of-corruption.png
 description: "How intimidation and bullying tactics are used by politicians, judges and attorneys in Baldwin County"
 tags: ["archive", "historical", "intimidation", "corruption", "family-court", "good-ole-boys"]
 authors:

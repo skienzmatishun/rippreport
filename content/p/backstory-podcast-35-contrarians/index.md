@@ -80,5 +80,10 @@ related_articles:
   recency_score: 13.312877898702032
   category_score: 0
   rank: 10
+summary: Sheriff Mack pandered to his political base by publicly defying state safety
+  mandates during a surging health crisis. Our legal team dragged law enforcement
+  into court to prove how dangerous political grandstanding puts innocent citizens
+  right in harm's way. Tune in to see the podcast confront the corrupt powers that
+  be in Baldwin County.
 ---
 {{< youtubecomments >}}

@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A handshake between two hands, one wearing a blue sleeve, followed by two red circular icons showing bound hands crossed with a diagonal line
+alttags: A handshake between two hands, one wearing a blue sleeve, followed by two
+  red circular icons showing bound hands crossed with a diagonal line
 related_articles:
 - slug: catalyst-exit-door
   title: CATALYST EXIT DOOR
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Powerful county commissioners ran secret shadow meetings to manipulate votes
+  and protect corrupt political allies. Official records show how politicians quietly
+  funneled hundreds of thousands in BP disaster cash to their corporate buddies. We
+  expose the behind-the-scenes puppets pulling the strings in Baldwin County.
 ---
 Baldwin County needs more representation on the county commission. People will say “just more talking heads.” The population of the county is topping 250,000 and the county only has 4 commissioners. The Commission should be an odd number so as to never tie or have a possible deadlock in voting on issues.
 

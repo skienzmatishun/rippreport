@@ -14,7 +14,8 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: A nighttime outdoor gathering in Baldwin County shows two people embracing while others clap and hold drinks, depicting a public event during the pandemic
+alttags: A nighttime outdoor gathering in Baldwin County shows two people embracing
+  while others clap and hold drinks, depicting a public event during the pandemic
 related_articles:
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION
@@ -96,6 +97,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City officials recklessly pushed forward with public events despite explicit
+  warnings from local medical professionals. Financial records and meeting notes show
+  a clear pattern of prioritizing backroom political deals over community safety.
+  Look at the records to see the true cost of their negligence.
 ---
 1701 Covid deaths in one day, 250,000 total U.S. deaths, 11 million cases so far in the United States. One person is dying every 50 seconds. Statistics and data that would makes your head spin and yet there are people that still ignore basic health standards, some believe Covid is a hoax.
 

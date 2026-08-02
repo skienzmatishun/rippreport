@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Secret political donors are pouring millions into Governor Kay Ivey's campaign
+  while illegal casinos operate openly across Alabama. We track a ridiculous bitcoin
+  mining scheme operating inside a public museum built on millions of wasted taxpayer
+  dollars. Tune in to watch the podcast follow the shady money trail dominating local
+  politics.
 ---
 Novelis is Building a New, Low-Carbon, $2.5 Billion Aluminum Plant Recycling & Rolling facility in Bay Minette, Alabama, is the first of its kind and first fully integrated, U.S. mill built in 40 year and they are building it on the Baldwin County Megasite!
 

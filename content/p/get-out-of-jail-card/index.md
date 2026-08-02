@@ -6,7 +6,8 @@ categories:
 thumbnail: /img/get-out-of-jail-card.jpg
 authors:
 - admin
-alttags: Close-up of an orange card with black text reading Chance and GET OUT OF JAIL FREE, resting on other game cards
+alttags: Close-up of an orange card with black text reading Chance and GET OUT OF
+  JAIL FREE, resting on other game cards
 related_articles:
 - slug: black-cloud
   title: BLACK CLOUD
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County politicians and law enforcement insiders routinely rely on
+  a corrupt protection network to escape criminal charges. Unsealed court documents
+  and public records expose secret deals, hidden video footage, and cozy financial
+  partnerships. How long will these powerful good ole boys get away with breaking
+  the law?
 ---
 Here are “some examples” of how a Baldwin County, Get Out of Jail Card, has helped, mostly politicians, AVOID any transparency or accountability.
 

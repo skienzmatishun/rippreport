@@ -6,7 +6,8 @@ categories:
 - bayminette
 authors:
 - admin
-alttags: Several pink pigs stand in the foreground with an American flag and a Bay Minette water tower visible behind them
+alttags: Several pink pigs stand in the foreground with an American flag and a Bay
+  Minette water tower visible behind them
 related_articles:
 - slug: eyes-on-you-👀
   title: EYES ON YOU 👀
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our investigation, state representatives handed a Mayor a massive
+  holiday gift by signing off on a quarter-million-dollar real estate deal. Lease
+  filings prove that legislators abandoned free county office space to line a fellow
+  politician's pockets with public funds. Uncover the full truth behind this outrageous
+  political hog trough before taxpayers pay the ultimate price.
 ---
 Christmas comes early to Bay Minette Mayor Bob Wills. Ole Bobby is pushing the envelope when it comes to in your face “self Dealing”, using his office for personal gain. Mayor Wills has an outstanding ethics complaint involving his office and personal gain. Then there is the Alabama Bar complaint hanging over his head.
 

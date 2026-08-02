@@ -10,7 +10,8 @@ tags:
 - GAL
 authors:
 - ripp-report
-alttags: Blue banner with white text reading Baldwin County Family Court Reform Project serving Baldwin County, featuring an official seal overlaid with a red di...
+alttags: Blue banner with white text reading Baldwin County Family Court Reform Project
+  serving Baldwin County, featuring an official seal overlaid with a red di...
 related_articles:
 - slug: failing-our-children-in-baldwin-county
   title: FAILING OUR CHILDREN IN BALDWIN COUNTY
@@ -61,7 +62,8 @@ related_articles:
   category_score: 0
   rank: 6
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 61.49915161973987
   llm_score: 85
   recency_score: 0.11927343324406557
@@ -92,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County DHR and family court officials repeatedly failed to protect
+  vulnerable children from documented abuse. A developing federal class-action lawsuit
+  highlights years of gross negligence, judicial conflicts of interest, and ignored
+  police reports. Join the movement demanding immediate reform for our local family
+  court system.
 ---
 I have been blasting this message as a post and in comments all over Facebook, and will continue to do so.
 

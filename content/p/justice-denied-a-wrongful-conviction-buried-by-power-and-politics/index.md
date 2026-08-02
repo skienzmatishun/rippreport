@@ -15,7 +15,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: 'Four men in suits stand side by side in a black and white photo. From left to right: Robert Wilters, Anthony Lowery, Huey Mack, and David Whetstone'
+alttags: 'Four men in suits stand side by side in a black and white photo. From left
+  to right: Robert Wilters, Anthony Lowery, Huey Mack, and David Whetstone'
 related_articles:
 - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
   title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
@@ -97,6 +98,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: District Attorney Robert Wilters and Sheriff Anthony Lowery continue to block
+  justice for an innocent man to protect their own careers. Newly unsealed court filings
+  demonstrate how officials willfully suppressed alibi testimonies and autopsy evidence
+  for two decades. Institutional corruption keeps innocent citizens behind bars while
+  perpetrators hold office.
 ---
 FOR IMMEDIATE RELEASE
 

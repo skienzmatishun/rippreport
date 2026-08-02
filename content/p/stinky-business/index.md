@@ -9,7 +9,8 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: A golden water drop mascot with a smiling face, raised arms, and boots wears a belt labeled Crystal Clean
+alttags: A golden water drop mascot with a smiling face, raised arms, and boots wears
+  a belt labeled Crystal Clean
 related_articles:
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB
@@ -91,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on our utility probe, Baldwin County Sewer Services weaponized
+  its constitutional immunity to dump costs onto local families. Court dockets and
+  permit applications reveal a trail of secret land deals, hidden debts, and rampant
+  environmental violations. Will taxpayers ever force this unchecked monopoly to clean
+  up its act?
 ---
 Baldwin County Sewer is the only, private, unregulated sewer utility in Alabama. The County commission has refused to tackle the issue of BCSS being unregulated. BCSS uses the county right of ways free and developments on farmland can use BCSS for subdivisions, which expands development sprawl. They have raised rates at will.
 

@@ -93,7 +93,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Bay Minette attorney Harry Still smiles in a dark suit and red tie, standing outdoors with trees and the Baldwin County building behind him
+alttags: Bay Minette attorney Harry Still smiles in a dark suit and red tie, standing
+  outdoors with trees and the Baldwin County building behind him
+summary: Local officials involved in a physical altercation tried to sweep their unprofessional
+  behavior under the rug. Audio recordings detail the violent dispute between a municipal
+  councilman and a prominent local lawyer. Will city leadership hold these public
+  figures accountable for their conduct?
 ---
 [BY GRANT McLAUGHLIN - Lagniappe](https://www.lagniappemobile.com)
 

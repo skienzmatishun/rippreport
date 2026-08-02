@@ -7,7 +7,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Alabama Attorney General Steve Marshall holds a gavel while smiling, with the gold text LICENSE TO STEAL on the right
+alttags: Alabama Attorney General Steve Marshall holds a gavel while smiling, with
+  the gold text LICENSE TO STEAL on the right
 related_articles:
 - slug: alabama-ugly
   title: ALABAMA UGLY
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage, Attorney General Steve Marshall handed dirty politicians
+  a free pass to pocket public funds without fear. Enclosed evidence packages and
+  sworn statements detail how oversight agencies routinely bury rock-solid corruption
+  complaints. Uncover how top state prosecutors protect the very officials they swore
+  to investigate.
 ---
 The Alabama Attorney General has gone public numerous times saying he was going after white collar crime and political corruption.
 

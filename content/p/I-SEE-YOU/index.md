@@ -11,7 +11,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A white-background split image showing a Fairhope City clock post with mounted security cameras and the rear of a dark blue Honda CR-V with an INOCENT l...
+alttags: A white-background split image showing a Fairhope City clock post with mounted
+  security cameras and the rear of a dark blue Honda CR-V with an INOCENT l...
 related_articles:
 - slug: FAUXHOPE-TUNNEL
   title: FAUXHOPE TUNNEL
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope council members secretly redirected public utility dollars to pave
+  the way for private real estate developments favored by local insiders. Official
+  meeting agendas and recorded statements confirm that officials funded developer
+  infrastructure long before any public approvals occurred. Can city leaders keep
+  hiding their backroom deals when the public finally looks behind the curtain?
 ---
 The Fauxhope City Council agenda looks like business as usual. However a closer look just shows how the council is doing what THEY damn well want to do, without public discussion. Oh sure they have public participation for three minutes per person. Those who have follow the development elected council know the council is deaf when it comes to any public participation.
 

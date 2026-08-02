@@ -87,6 +87,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Developer Stewart Speed and former Mayor Tim Kant tricked residents to push
+  the destructive Fly Creek project forward. Trial transcripts and sworn testimonies
+  expose how city leaders ignored environmental damage and backroom developer payouts.
+  Examine the documents that prove how special interests wrecked our local environment.
 ---
 The Fly Creek apartments, aka, Fairhope Village Apartments at Publix was one of the most blatant acts of corruption in Fairhope. Over 5 lawsuits, resulting from polluting Fly Creek, drainage issues and multiple violations, has cost taxpayers hundreds of thousands of dollars.
 

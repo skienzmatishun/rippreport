@@ -7,7 +7,8 @@ youtube: 1Pb41jaYTkI
 thumbnail: img/primary-election-may-24th
 authors:
 - admin
-alttags: 'A sample election ballot listing candidates for Baldwin County and state offices, overlaid with the text Backstory Podcast: No 12'
+alttags: 'A sample election ballot listing candidates for Baldwin County and state
+  offices, overlaid with the text Backstory Podcast: No 12'
 related_articles:
 - slug: bsp118
   title: The Smokey and The Bandit Run
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Rebranded establishment politicians like Steve Marshall are tricking voters
+  to maintain their tight grip on Alabama's government offices. Mayor Robert Craft
+  surrenders local neighborhoods to chaos while political insiders profit from recycled
+  party machines across the state. Watch Backstory Podcast expose the political hacks
+  ruining our state.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Pb41jaYTkI" frameborder="0" allowfullscreen></iframe>
 

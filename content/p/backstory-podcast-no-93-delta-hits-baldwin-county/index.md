@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Sheriff Mike Blakely faces trial for legal misconduct while Baldwin County
+  leaders plot a secret, costly toll bridge deal behind closed doors. Police fired
+  eighty rounds into a suspect's vehicle, yet local law enforcement refuses to give
+  taxpayers any real answers. Watch Backstory Podcast shine a light on the self-dealing
+  politicians and law enforcement officers destroying public trust.
 ---
 34,700,000 SARS-COV-2 cases in the USA with 612,125 deaths. The Delta variant of Covid-19 has hit Baldwin County hard as you will hear from a local business owner who was not vaccinated pleading with others on social media from her hospital bed before being life flighted to UAB.
 

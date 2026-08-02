@@ -98,7 +98,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Tom Albritton in a suit stands above four men covering their eyes, surrounded by floating dollar bills and lollipops against a gray background
+alttags: Tom Albritton in a suit stands above four men covering their eyes, surrounded
+  by floating dollar bills and lollipops against a gray background
+summary: Ethics Director Tom Albritton pocketed over a hundred thousand dollars in
+  private trust money meant for needy scholarship students to pay his own children's
+  college bills. Official court filings and bank records detail a calculated scheme
+  to hide scholarship recipient names from the public. See how the state’s top watchdog
+  transformed a public trust into his family's personal piggy bank.
 ---
 Stealing from children is almost always a criminal act and can involve serious legal consequences. If you suspect someone is stealing from children, it is critical to report it to the proper authorities.
 

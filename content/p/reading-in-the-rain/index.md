@@ -11,7 +11,8 @@ tags:
 - thomas-gallion
 authors:
 - admin
-alttags: A black and white line drawing of an open book resting on the handle of a black umbrella
+alttags: A black and white line drawing of an open book resting on the handle of a
+  black umbrella
 related_articles:
 - slug: slap-in-the-face
   title: SLAP IN THE FACE
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking state politicians manipulated the judicial system to wipe away
+  billions in corporate tax liabilities. Investigative reports and court records expose
+  an organized network trading political favors for judicial protection. Find out
+  how state power brokers stole millions from the public.
 ---
 You're stuck inside. How about doing a little reading? It may educate you on why Alabama is number one, in corruption and religion, in the United States. That combination labels us as hypocrites. You see religion is the tool of crooked politicians and they use the church to lure you into false narratives for their personal gain.
 

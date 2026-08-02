@@ -89,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corrupt Baldwin County prosecutors fabricated a murder case against Steve
+  Nodine to protect their own political dynasty. Suppression of medical evidence and
+  dirty prosecutor deals highlight a ruthless conspiracy to frame a public servant.
+  Watch Backstory Podcast expose the weaponized justice system that tried to destroy
+  an innocent man.
 ---
 A new true crime news show (the third such national program to cover this story) will be premiering on the Oxygen Channel this Saturday night January 28, 2023 at 8PM recounting the political prosecution of former Mobile County Commissioner Stephen Nodine for murder in the "Bosom of Justice" aka Baldwin County, Alabama. You think you know about this case? Doubtful.
 {{< youtubecomments >}}

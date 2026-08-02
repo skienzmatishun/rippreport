@@ -104,6 +104,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Returning to our investigation into the secret political cabal known as Catalyst
+  and its rebranding as Scott Boone Consulting. This shadowy group installed handpicked
+  judges, engineered backroom annexations, and served powerful private developers.
+  Secret political groups still manipulate local elections and control development
+  decisions across Baldwin County today.
 ---
 From Wikipedia, the free encyclopedia: A secret society is a club or an organization whose activities, events, inner functioning, or membership are concealed from non-members. The society may or may not attempt to conceal its existence.
 

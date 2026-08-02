@@ -7,7 +7,8 @@ categories:
 - backstory-podcast
 authors:
 - admin
-alttags: Backstory Podcast No 123 cover showing actor Bruce Willis leaning over a DieHard battery box while holding a lit match against a teal backdrop
+alttags: Backstory Podcast No 123 cover showing actor Bruce Willis leaning over a
+  DieHard battery box while holding a lit match against a teal backdrop
 related_articles:
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Steve Windom and his judge wife line their pockets using secret court software
+  contracts while Alabama lawmakers chase culture war distractions. Backstory Podcast
+  uncovers how court insiders exploit budget loopholes under the guise of post-9/11
+  security exemptions. Watch as we expose the self-serving political machine hijacking
+  state resources.
 ---
 Bruce Willis, the Star of the greatest Christmas Movie of all times: DIE HARD has Aphasia. We have have a crime problem in Alabama that begins and ends with the Ethics Laws and those who wrote them, but also those who enforce (and it's kind of a joke) as is the 3 percent of the Alabama General Fund Budget allocated to the Court System. That they then spend on secret no bid contacts. (The Patriot Act says the Court's computer system is critical infrastructure and does not have to be disclosed) And convenient for our former Lt. Governor turned mega-lobbyist Steve Windom, one third owner of said software firm; and his bride Presiding Judge of the Alabama Court of Criminal Appeals Mary Edna Windom (R-Mobile). Instead the Alabama Legislature spent it's time and resources passing laws related to transgender medications for children, don't say gay, "decisive issues prohibition" for teachers, and other issues important to get THE BASE to the polls May 24, 2022.
 

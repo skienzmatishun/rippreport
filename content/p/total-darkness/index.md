@@ -95,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Jack Burrell and city leadership intentionally cut off public video broadcasts
+  to hide suspicious land deals at the airport authority. Official records and hidden
+  executive session details prove board members violated open meeting laws to avoid
+  public accountability. See for yourself what Fairhope officials tried so hard to
+  keep in the dark.
 ---
 In Alabama politicians and elected officials will always go dark, rather than being transparent, when they have something to hide.
 

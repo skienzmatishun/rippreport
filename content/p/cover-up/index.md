@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage, Bay Minette leaders and state ethics officials colluded
+  to sweep police misconduct and self-dealing office leases under the rug. Whistleblower
+  evidence and legal filings expose how top ethics regulators dismissed legitimate
+  complaints while profiting from secret trust funds. Discover how deep the conspiracy
+  runs when the authorities investigate themselves.
 ---
 The Ripp Report received a copy of a letter from Mayor Bob Wills to Tamara French, O.J.’s older sister, in reference to Mr. O.J. French who was killed by Bay Minette police, August 20 2021.
 

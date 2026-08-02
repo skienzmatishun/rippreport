@@ -88,7 +88,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A person wearing a knitted outfit lies on their back in the snow beside a long-handled tool
+alttags: A person wearing a knitted outfit lies on their back in the snow beside a
+  long-handled tool
+summary: Top Alabama leaders are redirecting $63 million in gas taxes into political
+  favors while hiding systematic corruption inside the state ethics system. State
+  Auditor Jim Zeigler exposes political highway boards, secret election list sales,
+  and elite slush funds lining the pockets of connected families. Watch as Backstory
+  Podcast shines a glaring spotlight on Montgomery's grossest conflicts of interest.
 ---
 This week for our 100th Episode we have a special guest: Alabama State Auditor Jim Zeigler(R). He is poised to announce that he will challenge Alabama Governor Kay Ivey for the Republican nomination (we talk prisons, masks, personal freedoms, and the Constitution (The Good One and the Alabama One).
 

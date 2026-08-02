@@ -14,7 +14,8 @@ tags:
 - Hoss Mack
 authors:
 - admin
-alttags: Twelve black and white line drawings of men and women holding telephones, arranged in a circle
+alttags: Twelve black and white line drawings of men and women holding telephones,
+  arranged in a circle
 related_articles:
 - slug: lethal-force
   title: LETHAL FORCE
@@ -96,6 +97,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County law enforcement officers killed an unarmed citizen during
+  a routine traffic stop and instantly deployed a wall of secrecy to protect the shooter.
+  Official letters and leaked internal records reveal the lead investigative unit
+  is run by the very chiefs covering up their own department's fatal mistakes. Discover
+  the deadly truth behind the whispers that police tried to bury.
 ---
 O.J. French was only 32 years old when he was shot and killed after being pulled over for a vehicle equipment violation by Bay Minette Police, August 20th of this year. Our deepest condolences to his family and friends.
 

@@ -93,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell pushed a massive bay bridge project while
+  hiding how local developers profit from taxpayer tolls. Internal emails and meeting
+  records show local officials flipped their public promises the moment special interest
+  money stepped in. Discover how these self-serving leaders turned a simple traffic
+  problem into a multi-billion dollar cash grab.
 ---
 The Bayway Bridge project started years ago with politicians biting their tongue’s and saying little about how they were going to finance the project. Then came the discussion about tolls, again they bit their tongue’s. Next, came Jim Zigler and his Facebook page:
 

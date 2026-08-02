@@ -10,7 +10,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: A tan armored vehicle marked SHERIFF and SWAT, featuring a forward-mounted barrel and roof equipment on a solid maroon background
+alttags: A tan armored vehicle marked SHERIFF and SWAT, featuring a forward-mounted
+  barrel and roof equipment on a solid maroon background
 related_articles:
 - slug: rumors
   title: RUMORS
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local police departments spent hundreds of thousands in grant money on military-grade
+  combat weapons while completely ignoring basic de-escalation training. Deposition
+  transcripts prove county leaders bought assault rifles and drones while admitting
+  deputies lacked basic crisis intervention skills during fatal encounters. How many
+  more citizens must pay with their lives for this unchecked militarization?
 ---
 Baldwin County has a serious problem that continues to escalate without any accountability. Police using excessive force when it is not necessary. The article below is the latest of a string of incidents dating back more than 5 years that has cost 7 lives, Mr. O J French’s death is number 8. Please show up and support the family and get involved.
 

@@ -12,7 +12,8 @@ tags:
 - sheriff-mack
 authors:
 - admin
-alttags: A black Taser X26 device lying on a light wood surface, with a yellow label reading X26 and a white side panel stating TASER X26 Made in USA
+alttags: A black Taser X26 device lying on a light wood surface, with a yellow label
+  reading X26 and a white side panel stating TASER X26 Made in USA
 related_articles:
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY
@@ -94,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Sheriff Huey "Hoss" Mack and Bay Minette police leadership loaded up on heavy
+  combat weaponry while completely ignoring basic de-escalation training. Sworn deposition
+  transcripts and internal grant records expose a disturbing pattern of deadly force
+  followed by immediate cover-ups. The Ripp Report strips away the legal shields protecting
+  this lethal self-policing racket.
 ---
 The citizens of Baldwin County have 14 municipalities, with police departments and a sheriff’s department. For the most part they do a very good job of protecting the citizens of Baldwin County. One disturbing trend among the police and sheriff’s department is the acquisition of military weapons and the lack of any acquisition of non-lethal weapons.
 

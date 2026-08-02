@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corrupt police departments and predatory county boards trap poor Alabamians
+  in vicious debt cycles to line their own pockets. Small towns like Brookside split
+  minor citations into multiple fake charges just to inflate enforcement revenue and
+  buy military gear. Catch this episode to see how Backstory Podcast uncovers the
+  money-grabbing machine preying on local residents.
 ---
 From Tallassee to Brookside we cover it all. And "get-fitt'd" is the word of the week.... for that ankle monitor Baldwin County. Give it a watch and see if your favorite "black eye" politician or project gets a mention. And SARS-COV-2 is almost unavoidable at this point.
 {{< youtubecomments >}}

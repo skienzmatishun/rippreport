@@ -90,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Our ongoing investigation reveals how Fairhope prosecutors deliberately botched
+  court filings to shield a politically connected bar owner from violent assault charges.
+  Transcripts and court documents show city officials repeatedly ignored victim testimonies
+  and let criminal deadlines expire on purpose. The Ripp Report exposes the cozy handshakes
+  protecting local insiders from real justice.
 ---
 Ronan McSharry is a public nuisance and the City Of Fairhope has failed to protect the general public, for the forth or fifth time. If you are not suspicious of how Mr McSharry has avoided prosecution then you have not been following his repeated domestic abuse charges and public drunkenness.
 

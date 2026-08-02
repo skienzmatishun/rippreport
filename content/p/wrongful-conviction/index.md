@@ -14,7 +14,8 @@ categories:
 - mljr
 authors:
 - admin
-alttags: White metal jail bars frame a view of an empty concrete cell with a light-colored wall and dark baseboard
+alttags: White metal jail bars frame a view of an empty concrete cell with a light-colored
+  wall and dark baseboard
 related_articles:
 - slug: rumors
   title: RUMORS
@@ -96,6 +97,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County prosecutors locked an innocent man in prison for two decades
+  based entirely on a fabricated deal with a single desperate witness. Trial transcripts
+  and suppressed autopsy files show top county officials deliberately hid exculpatory
+  evidence to secure a high-profile conviction. When powerful men build careers on
+  stolen freedom, justice demands a reckoning.
 ---
 The Sheriff’s office of Baldwin County has a long history of leaking misleading information about cases or not releasing ANY information. The Steve Nodine case, Jonathan Victor and wrongfully convicted Murray Bubba Lawrence are prime examples.
 

@@ -6,7 +6,8 @@ categories:
 thumbnail: /img/veterans-day-in-alabama.jpg
 authors:
 - admin
-alttags: A red map of Alabama divided into counties overlaid on a blurred background of two soldiers in uniform saluting
+alttags: A red map of Alabama divided into counties overlaid on a blurred background
+  of two soldiers in uniform saluting
 related_articles:
 - slug: war
   title: WAR
@@ -57,7 +58,8 @@ related_articles:
   category_score: 0
   rank: 6
 - slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power
+    grab bill - Alabamagazette.com'
   score: 43.88647749153348
   llm_score: 50
   recency_score: 10.262103694967568
@@ -88,6 +90,11 @@ related_articles:
   length_score: 54.25
   category_score: 0
   rank: 10
+summary: Powerful Montgomery politicians silently killed critical health protections
+  for military veterans while orchestrating a hostile takeover of the state veterans
+  board. Legislative records and ethics filings confirm high-ranking state officials
+  retaliated against agency leaders who exposed dirty deals behind closed doors. Read
+  how political elites traded the sacrifices of our service members for raw power.
 ---
 Veterans Day is November 11th.
 

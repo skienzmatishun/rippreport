@@ -11,7 +11,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A worn beige mask with black circular eyes and a rectangular mouth, marked with hazard symbols and a Maryland flag sticker
+alttags: A worn beige mask with black circular eyes and a rectangular mouth, marked
+  with hazard symbols and a Maryland flag sticker
 related_articles:
 - slug: writ-of-mandamus-and-bar-complaint
   title: WRIT OF MANDAMUS AND BAR COMPLAINT
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Ethics Director Tom Albritton improperly siphoned private trust funds to
+  line his family pockets and benefit judicial allies. Formal court filings and bank
+  records reveal over a hundred thousand dollars in illicit tuition payouts and suspicious
+  fees. This bombshell case exposes the rot hiding behind Alabama ethics enforcement.
 ---
 The Ripp Report is a consumer organization first. We also maintain a blog site, Facebook pages and a Podcast production. The Ripp Report is a not for profit. We expose political corruption and file appropriate complaints.
 

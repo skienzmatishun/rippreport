@@ -18,7 +18,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Circular emblem with a radar display with question marks as targets. The border text reads CITY OF FAUX HOPE above ALABAMA, with FAUX in red
+alttags: Circular emblem with a radar display with question marks as targets. The
+  border text reads CITY OF FAUX HOPE above ALABAMA, with FAUX in red
 related_articles:
 - slug: double-red-flags-faux-hope
   title: DOUBLE RED FLAGS - FAUX HOPE
@@ -100,6 +101,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell deliberately hid public meetings and manipulated
+  municipal leases to funnel taxpayer assets to favored insiders. Secret letters and
+  missing broadcast records reveal a pattern of rigged bidding windows and multi-million
+  dollar land giveaways. Why did officials turn off the cameras just as the biggest
+  deals were going down?
 ---
 One thing you can say about Fairhope City Council, is that they are consistent. Council President Jack Burrell, who has stained the seat as President of Fairhope Council for two terms, is now beginning his third term, as President. For 9 years Jack has monopolize a position that is normally shared by the whole council, but they do things different in Fairhope.
 

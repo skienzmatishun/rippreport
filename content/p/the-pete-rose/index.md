@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Admiral Kent Davis resigned after a massive seven-million-dollar ethics scandal
+  exposed how state officials mishandled money meant for military veterans. A bloated
+  bridge project jumped from $600 million to $3.5 billion as cartels spread lethal
+  fentanyl across local neighborhoods. Watch Backstory Podcast expose how greedy leaders
+  fleece taxpayers and ignore growing crime in our backyards.
 ---
 A reward is on the table for anyone who provides information, video, audio, etc. that leads to the conclusion of the mystery surrounding the death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27, 2022, the Friday of that Memorial Day Weekend. His body was recovered on Sunday May 29, 2022. This week we mark the passing of Legendary baseball player Pete Rose, he thrilled generations with his head first approach to baseball and life. We had a VP debate. There are more piles of rubble in the Middle East. Katie Britt, Pornhub Alabama, Veterans Affairs Director Adm. Kent Davis, The Baywatch Docuseries, The Longshoreman's Strike, a Mobile Cop rapes an incapacitated person, Montgomery Alabama Mayor's travel records, MS-13 Operations in Baldwin County, The Gulf Coast High Intensity Drug Trafficking Area Program, and the Rescue the Republic Rally went off in DC on Sunday without a hitch.
 

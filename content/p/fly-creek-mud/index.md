@@ -6,7 +6,8 @@ categories:
 thumbnail: /img/fly-creek-mud.jpg
 authors:
 - admin
-alttags: A green street sign reading FLY CREEK stands behind a large swirl of brown mud and floodwater, with trees and power lines visible against a blue sky
+alttags: A green street sign reading FLY CREEK stands behind a large swirl of brown
+  mud and floodwater, with trees and power lines visible against a blue sky
 related_articles:
 - slug: fauxhope-2
   title: FAUXHOPE
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Greedy developers and compliant city officials destroyed local waterways
+  and left taxpayers to foot the multi-million-dollar bill for catastrophic environmental
+  damage. Public meeting minutes and engineering reports show political insiders approved
+  dangerous zoning changes despite clear warnings of severe soil erosion. See how
+  dirty political favors washed toxic mud straight into Fairhope's crown jewel.
 ---
 Fly Creek residents are now seeing more mud coming into the creek due to infrastructure failures. The Publix project started the damage by dumping tons of mud into the creek. Then came the fly creek apartments that no one wanted except Mayor Kant, Jack Burrell and the City Council. Now all the predictions are coming true AGAIN.
 

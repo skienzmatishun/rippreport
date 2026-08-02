@@ -10,7 +10,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: A grayscale 3D model of a balance scale with a central column, curved beam, hanging chains, and two detached pans on a black background
+alttags: A grayscale 3D model of a balance scale with a central column, curved beam,
+  hanging chains, and two detached pans on a black background
 related_articles:
 - slug: rule-32
   title: RULE 32
@@ -84,6 +85,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
+summary: Following up on our ongoing investigation, ruthless prosecutors and crooked
+  investigators locked an innocent man away by hiding the true cause of death. Recent
+  court petitions reveal state officials concealed a second autopsy report for decades
+  to protect their fake trial narrative. The Ripp Report demands full accountability
+  for the rogue officials who traded an innocent man's life for political power.
 ---
 The Baldwin County District Attorney Robert Wilters, was the presiding Judge in the Murray Lawrence case. Sheriff Hoss Mack was the lead investigator and David Whetstone was the prosecutor. They all signed a coroners report in relation to the exhumed body of Brandon Hastings. This report was recently found, however during the trial it was never provided to the defense. This was not an inadvertent mistake. Suppressing the report from the defense was willful and deliberate and deprived the defense of valuable information supporting the cause of death as suffocation, NOT gunshot.
 

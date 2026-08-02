@@ -90,6 +90,11 @@ related_articles:
   recency_score: 22.77624555434108
   category_score: 0
   rank: 10
+summary: Secretary of State John Merrill disgraced his office with shocking personal
+  scandals while state leaders ignored deadly environmental threats. Mismanaged police
+  chases slaughter innocent motorists on I-10 while politicians outlaw safe natural
+  alternatives to protect big pharma profits. Catch this episode as the podcast drags
+  the truth into the light.
 ---
 134,200,000 SARS-COV-2 cases confirmed worldwide with a total of 2,906,785 deaths; with 31,280,000 cases in the USA with 560,000 deaths.
 

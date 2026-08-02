@@ -77,5 +77,10 @@ related_articles:
   recency_score: 0.7097978842869476
   category_score: 0
   rank: 10
+summary: Local politicians continue to line their pockets through backroom property
+  scheme deals across Baldwin County. We dig into the suspicious land transactions
+  and shady contracts that local leaders wanted hidden from public scrutiny. Tune
+  in to Backstory Podcast to catch every dirty detail before the machine buries the
+  truth.
 ---
 {{< youtubecomments >}}

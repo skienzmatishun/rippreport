@@ -3,7 +3,7 @@ title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstr
 date: 2025-08-19
 thumbnail: img/innocent.jpg
 categories:
-- dwtd
+- external
 authors:
 - nancy-koerner
 related_articles:
@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: An Alabama Gazette report reveals how the Maxwell-Tillman law firm abandoned
+  inmate Murray "Bubba" Lawrence Jr. midstream. The piece documents that attorneys
+  took payment, ignored evidence tampering, and issued a non-engagement letter when
+  advocates pressed for answers. This sudden departure highlights professional failure
+  and the steep barriers innocent prisoners face when fighting for justice.
 ---
 <a href="https://www.alabamagazette.com/story/2025/08/12/opinion/advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream/7652.html">Article from Alabama Gazette</a>
 

@@ -90,7 +90,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Book cover for The Framing of Murray Lawrence Jr. showing a man walking through prison gates on the front and a black-and-white portrait of a Black man ...
+alttags: Book cover for The Framing of Murray Lawrence Jr. showing a man walking through
+  prison gates on the front and a black-and-white portrait of a Black man ...
+summary: Prosecutors and law enforcement bosses conspired to lock away Murray Lawrence
+  Jr. for a crime he never committed. Analyzing two thousand pages of court transcripts
+  reveals suppressed forensic reports and coerced witness statements. Discover how
+  Baldwin County's legal ecosystem routinely exchanges human lives for political promotions.
 ---
 A short but powerful read from Alabama Exposure and Accountability. The Framing of Murray Lawrence Jr.  
 

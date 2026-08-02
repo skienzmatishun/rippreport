@@ -16,7 +16,8 @@ tags:
 - Trump
 related_articles:
 - slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns
   score: 59.4790095703459
   llm_score: 65
   recency_score: 66.48331459983474
@@ -95,7 +96,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Festive graphic with fireworks and gold confetti framing an outline of Mississippi labeled OF DIXIE, featuring a red heart and flag. Below reads NEW YEA...
+alttags: Festive graphic with fireworks and gold confetti framing an outline of Mississippi
+  labeled OF DIXIE, featuring a red heart and flag. Below reads NEW YEA...
+summary: Special guests Whitney Scapecchi and Dr. John Sophocleus join the podcast
+  to review a wild year in Alabama politics. Together they analyze major legal fights,
+  economic shifts, and political battles that transformed our local communities. Watch
+  as the Heart of Dixie podcast panel breaks down the vital lessons learned and what
+  to expect next.
 ---
 Today we are joined by Podcaster/Activist Whitney Scapecci and Professor/Economist/Political Figure Dr. John Sophocleus to discuss the Year that was 2025.
 

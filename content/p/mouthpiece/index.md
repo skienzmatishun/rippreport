@@ -93,6 +93,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope Councilman Jack Burrell betrayed local voters by pushing a massive
+  toll bridge project after publicly promising he would never back one. Official state
+  reports and news records expose his sudden flip-flop on federal funding and taxpayer
+  costs. The Ripp Report exposes how this political mouthpiece sold out his own community.
 ---
 The infrastructure failures in Fairhope are directly connected to Jack Burrell and his lackeys.
 

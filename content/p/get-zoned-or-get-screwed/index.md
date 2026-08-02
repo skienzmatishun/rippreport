@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Circular seal reading City of Fairhope, Alabama, with a silver screw in a yellow sun above blue water and three sailboats
+alttags: Circular seal reading City of Fairhope, Alabama, with a silver screw in a
+  yellow sun above blue water and three sailboats
 related_articles:
 - slug: fried-chicken-and-watermelon
   title: FRIED CHICKEN AND WATERMELON
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope leaders abandoned basic zoning protections to hand lucrative land
+  deals directly to favored commercial developers. Official municipal records show
+  council members pushed multi-million dollar property deals while ignoring local
+  community voices. We break down how politicians sold out your neighborhood for developer
+  dollars.
 ---
 Think you do not need zoning then read this article. Un-zoned properties are just what these developers are looking for and they do not give a damn how THEIR development affects your quality of life.
 

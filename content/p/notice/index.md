@@ -88,6 +88,10 @@ related_articles:
   length_score: 31.75
   category_score: 0
   rank: 10
+summary: Corporate tech giants and local politicians colluded to silence independent
+  investigative journalism in Baldwin County. Federal court filings reveal a history
+  of city leadership suppressing free speech and threatening activists with unlawful
+  arrest. What are these public figures hiding from the people they serve?
 ---
 Facebook really did a number on thousands of people that spent years building their sites. We were blocked out of our Facebook sites The Ripp Report and Francis Paul Ripp. To communicate or follow us please join the new sites <a href="https://www.facebook.com/rippreport" >Ripp Report</a> and Francis Ripp. Our .com site remains the same RippReport.com</a>
 

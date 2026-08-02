@@ -88,7 +88,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Alabama football coach Nick Saban laughs in a white polo shirt, shown in a tweet highlighting his highest-paid coaching salary
+alttags: Alabama football coach Nick Saban laughs in a white polo shirt, shown in
+  a tweet highlighting his highest-paid coaching salary
+summary: State officials just funneled $400 million in federal COVID relief cash straight
+  into an un-bid $1.2 billion prison construction scheme. From Nick Saban's massive
+  paycheck to shady confidentiality deals, local power brokers like Chris Elliott
+  keep hiding their moves from the public. Tune in to this episode of the podcast
+  to see who really profits when politicians bypass public bidding laws.
 ---
 44,700,000 SARS-COV-2 cases in the USA with 721,000 deaths.
 

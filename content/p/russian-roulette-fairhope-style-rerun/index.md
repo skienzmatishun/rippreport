@@ -6,7 +6,8 @@ categories:
 - repost
 authors:
 - ripp-report
-alttags: A black circular graphic with a serrated outer edge containing six white circles arranged in a ring, one featuring a smaller black center
+alttags: A black circular graphic with a serrated outer edge containing six white
+  circles arranged in a ring, one featuring a smaller black center
 related_articles:
 - slug: the-good-the-bad-and-the-ugly-repost
   title: THE GOOD THE BAD AND THE UGLY
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Revisiting our coverage of the Fairhope City Council playing high-stakes
+  legal games with taxpayer money over private land developments. Former Mayor Tim
+  Kant implemented illegal regulations after the fact, dragging the city into multimillion-dollar
+  lawsuits with Buddy Breland. Incompetent council decisions still burden Fairhope
+  residents with millions in unnecessary legal fees and unpaid debts.
 ---
 Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20 years, who is asleep at the wheel.
 

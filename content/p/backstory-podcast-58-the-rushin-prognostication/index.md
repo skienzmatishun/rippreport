@@ -88,6 +88,11 @@ related_articles:
   recency_score: 87.43744388437275
   category_score: 0
   rank: 10
+summary: Fairhope Mayor Sherry Sullivan seeks a greedy $112,000 pay raise while local
+  utilities and power companies push toxic coal ash plans on residents. Greedy politicians
+  are hiding the truth behind sneaky ballot tricks and dirty municipal double-dipping
+  schemes. Catch this episode of Backstory Podcast to see how local officials trick
+  voters and grab public money.
 ---
 <iframe src="https://www.facebook.com/plugins/video.php?height=313&amp;href=https%3A%2F%2Fwww.facebook.com%2FBackstoryPodcast%2Fvideos%2F458764898429834%2F&amp;show_text=true&amp;width=560" width="560" height="428" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" allowfullscreen="true"></iframe>
 

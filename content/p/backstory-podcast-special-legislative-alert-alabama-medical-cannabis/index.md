@@ -92,6 +92,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State politicians are playing games with medical cannabis legislation while
+  sick Alabamians suffer. Guest Chey Garrigan joins the podcast to expose the corporate
+  lobbyists fighting over lucrative state-sanctioned monopolies. Tune in to learn
+  who really controls the multi-million dollar medical marijuana industry in Alabama.
 ---
 The Alabama House of Representatives has passed SB 46 establishing a statewide medical marijuana program. The bill now heads back to Senate for final approval.
 

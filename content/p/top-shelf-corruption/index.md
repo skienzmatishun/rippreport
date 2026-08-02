@@ -12,7 +12,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A clear shot glass featuring a red outline of the state of Alabama with the words Sweet Home in red cursive script
+alttags: A clear shot glass featuring a red outline of the state of Alabama with the
+  words Sweet Home in red cursive script
 related_articles:
 - slug: elephants-in-alabama
   title: Elephants in Alabama
@@ -94,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Attorney General Steve Marshall let corrupt state regulators off the hook
+  with slap-on-the-wrist fines while blocking criminal charges. Civil lawsuit records
+  and financial filings show millions in bank fees alongside untaxed family scholarship
+  perks. This shocking paper trail exposes why justice in Alabama stays out of reach
+  for regular folks.
 ---
 Read these articles and you will see why Alabama is head over heels, above any state, when it comes to political corruption. What makes it worse is the small minded press in the state. Journalist in Alabama appear to only cover certain news. They favor their own commentary and shy away from news “scoops” from another local news source. They are ignoring the elephants on Goat Hill.
 

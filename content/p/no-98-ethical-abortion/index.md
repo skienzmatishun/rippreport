@@ -88,7 +88,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Military personnel gather around a large transport aircraft on a tarmac at sunset. The text ITS OVER and a podcast logo appear in the top left
+alttags: Military personnel gather around a large transport aircraft on a tarmac at
+  sunset. The text ITS OVER and a podcast logo appear in the top left
+summary: Ethics Director Tom Albritton turned a public scholarship foundation into
+  a private piggy bank for his own family. Backstory Podcast tears open official state
+  complaints detailing blatant conflicts of interest at the highest levels of government.
+  Watch as the podcast reveals how Alabama oversight agencies protect corrupt political
+  insiders.
 ---
 39.5 Million SARS-COV-2 infected in the USA with 643,00 deaths. The Delta variant has Gulf Coastal Hospitals are out of ICU beds and the Feds are in Foley helping out.
 

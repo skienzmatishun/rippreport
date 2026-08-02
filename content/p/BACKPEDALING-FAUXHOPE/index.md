@@ -94,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Our investigation continues into Fairhope politicians who tried to silence
+  citizens to hide millions in wasted project funds. Court filings and financial paper
+  trails reveal a systematic attempt to cut off public comment after budget overruns
+  spiraled out of control. Discover how local leaders backpedaled fast when caught
+  red-handed in federal court.
 ---
 The backwards backpedaling Fauxhope City Council had to eat crow when it came to eliminating public participation at council meetings. Of course the matter of free speech and public participation was front and center when they denied yours truly the right to speak. The public outcry was resounding and the council got the message loud and clear. Councilman Jack Burrell threw Councilman Martin under the bus. Jack said he was surprised to see the item on the agenda. Ask Jack if he had to go to federal court for denying public participation?
 

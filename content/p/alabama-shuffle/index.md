@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Attorney General Steve Marshall buries serious corruption complaints against
+  top state officials to shield his political allies from prison. Official state payroll
+  records and internal communications prove corrupt officials received secret payouts
+  long after resigning. Can any citizen trust a justice system that protects its own
+  thieves?
 ---
 The Attorney General of Alabama, Steve Marshall is doing the Alabama Shuffle. It is easy he just mentions key words like Biden, Abortion, Immigration or files frivolous lawsuits. That is all it takes to sidetrack his constituents. Marshall may go down as the worst Alabama A.G. “Always Gone” in the last 25 years.
 
