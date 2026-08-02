@@ -1,15 +1,12 @@
 ---
 title: "Fairhope - Epicenter of Political Corruption via Conflict of Interest"
 date: 2015-06-05
+thumbnail: img/fairhope-epicenter-of-corruption.jpg
 description: "Complete breakdown of the good ole boy network's conflicts of interest costing Fairhope millions"
 tags: ["archive", "historical", "conflicts-of-interest", "good-ole-boys", "corruption", "city-council"]
 authors:
 - admin
 ---
-
-**June 5 2015**
-
-## FAIRHOPE EPICENTER OF POLITICAL CORRUPTION VIA CONFLICT OF INTEREST
 
 The foundation of a "good ole boy" government is a solid base of individuals who hold office while maintaining a conflict of interest which promotes their agenda while holding the population hostage to any change.
 
