@@ -9,7 +9,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: A zoning map showing colored districts, overlaid with a large black circle containing the white number 8 to highlight the proposed new district
+alttags: A zoning map showing colored districts, overlaid with a large black circle
+  containing the white number 8 to highlight the proposed new district
 related_articles:
 - slug: malfunction-junction
   title: MALFUNCTION JUNCTION
@@ -68,7 +69,8 @@ related_articles:
   category_score: 0
   rank: 7
 - slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns
   score: 26.034592730865192
   llm_score: 23
   recency_score: 2.224852750623742
@@ -76,7 +78,8 @@ related_articles:
   category_score: 0
   rank: 8
 - slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns '
   score: 11.87516596733554
   llm_score: 0
   recency_score: 2.1885787876810134
@@ -91,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: As Baldwin County voters prepare for the Planning District 8 referendum,
+  we uncover how Fairhope officials systematically isolate minority communities. Councilman
+  Jack Burrell wasted millions on farmland for developer buddies while denying recreational
+  funds to Black neighborhoods. This zoning vote decides whether local residents gain
+  control over their land or surrender to developer sprawl.
 ---
 The new proposed planning district 8, is long overdue. For many years Fairhope has had a policy of annexing property, only if a property owner made a request. This was a clever way for Fairhope to avoid any annexation of the African American community. Don’t believe me! Look very carefully at the map, it is clear as day.
 

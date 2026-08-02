@@ -13,7 +13,8 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: Text reading STEALING OUR DEMOCRACY appears on the left against a dark background, while former Alabama Governor Don Siegelman stands on the right weari...
+alttags: Text reading STEALING OUR DEMOCRACY appears on the left against a dark background,
+  while former Alabama Governor Don Siegelman stands on the right weari...
 related_articles:
 - slug: faux-candidates
   title: FAUX CANDIDATES
@@ -75,6 +76,11 @@ related_articles:
   llm_score: 65
   recency_score: 14.453312263024177
   rank: 10
+summary: In our investigative breakdown of the Baldwin County Sheriff's race, we detail
+  how Sheriff Hoss Mack teamed with state politicians to rig election qualifications
+  and eliminate opponent competition. Machiavellian insiders routinely manipulate
+  election rules, pocket unneeded campaign donations, and plant shadow candidates.
+  Local voters must confront these rigged tactics before bosses destroy democracy.
 ---
 When elections are “fixed” you can be assured, politicians, any party, are STEALING OUR DEMOCRACY.
 

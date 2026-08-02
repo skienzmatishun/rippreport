@@ -9,7 +9,8 @@ tags:
 - raines
 authors:
 - admin
-alttags: Entrance to the Fairhope Museum of History featuring a white stucco facade, green-framed glass doors reflecting the cloudy sky, and surrounding trees
+alttags: Entrance to the Fairhope Museum of History featuring a white stucco facade,
+  green-framed glass doors reflecting the cloudy sky, and surrounding trees
 related_articles:
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 75
   recency_score: 15.562998617421716
   rank: 10
+summary: As Baldwin County voters prepare for the Fairhope mayoral election, we expose
+  disgraced journalist Howell Raines for pushing false political smears against Mayor
+  Karin Wilson's waterfront park plan. Raines peddles outright lies about access and
+  bluff destruction to help the old-guard political machine sabotage progress. Allowing
+  elite political operatives to derail public projects puts local dollars at risk.
 ---
 Posted by [Lagniappe](http://lagniappemobile.com/) | Jul 15, 2020 | Letters to the Editor
 

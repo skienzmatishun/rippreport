@@ -13,7 +13,8 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Group photo of CATALYST political members, including Chris Elliott and local officials, gathered around a table with papers during an indoor meeting
+alttags: Group photo of CATALYST political members, including Chris Elliott and local
+  officials, gathered around a table with papers during an indoor meeting
 related_articles:
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
@@ -85,6 +86,11 @@ related_articles:
   recency_score: 1.1847760242275227
   category_score: 0
   rank: 10
+summary: As Baldwin County voters prepare for Senate District 32 and judicial races,
+  we expose the hidden leaders of Club Catalyst. Operatives Chris Elliott, Tucker
+  Dorsey, and Judge Michelle Thomason work together to serve developers instead of
+  families. Voters must defeat this political machine to stop overdevelopment and
+  protect our local quality of life.
 ---
 This telling photo is the core group of Elliott Stacy and Haygood, from a few years ago, a political group that represents the “machine”, they are the mules. Mr. Elliott was appointed to the County Commission and Dane Haygood was elected as Mayor of Daphne, Mr Stacy retired. The group then morphed into CATALYST and Haygood and Elliott tried to stay in the shadows while maintaining status in Catalyst.
 

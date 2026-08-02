@@ -90,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: In our coverage of the 28th Judicial Circuit judge race, we detail how candidate
+  Kristi Hagood lacks the competence to sit on the bench. Hagood hid crucial evidence
+  as a prosecutor and helped lock up an innocent man for over twenty years. Voters
+  must reject Hagood and elect Jeremiah Giles to stop prosecutor misconduct in our
+  courthouses.
 ---
 The Ripp Report is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with: Alabama Exposure and Accountability LLC.
 

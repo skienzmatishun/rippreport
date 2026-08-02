@@ -80,6 +80,11 @@ related_articles:
   recency_score: 2.8704971979791183
   category_score: 0
   rank: 10
+summary: In our report on the August 23rd Fairhope municipal election, we uncover
+  shocking poll watcher reports exposing widespread voter fraud. City insiders and
+  Mayor Tim Kant's family members illegally handled absentee voting machines and hid
+  machine tape certifications from observers. Citizens must demand state election
+  oversight immediately or allow rigged vote counts to destroy local democracy.
 ---
 STOPVOTERFRAUDNOW.COM
 

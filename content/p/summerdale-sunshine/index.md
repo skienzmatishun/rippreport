@@ -103,7 +103,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A water tower with SUMMERDALE printed on its side, featuring a metal walkway and silhouetted against a bright sun creating a lens flare in the sky
+alttags: A water tower with SUMMERDALE printed on its side, featuring a metal walkway
+  and silhouetted against a bright sun creating a lens flare in the sky
+summary: Ahead of the Summerdale primary election forum, we track the ugly backstabbing
+  inside the Catalyst political machine. Operatives Scott Boone and Jon Gray rigged
+  speaking schedules to prop up flawed candidates like Kristi Hagood and silence opponents.
+  This forum exposes why voters must reject Donna Givens and pick Jeremiah Giles to
+  restore public integrity.
 ---
 Today the Summerdale candidate forum will feature the good ole boys, and women of Baldwin County, infighting and dividing alliances. It seems Catalyst has stained the name of Scott Boone Consulting aka Catalyst, and some of his loyalists are wanting a divorce. Scott Boone is Lowery’s campaign manager, which should come as no surprise.
 

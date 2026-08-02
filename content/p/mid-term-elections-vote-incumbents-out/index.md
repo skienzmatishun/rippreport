@@ -10,7 +10,8 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: A hand inserts a blank white ballot into the slot of a wooden voting box against a plain white background
+alttags: A hand inserts a blank white ballot into the slot of a wooden voting box
+  against a plain white background
 related_articles:
 - slug: qualification
   title: QUALIFICATION
@@ -72,6 +73,11 @@ related_articles:
   llm_score: 70
   recency_score: 1.42349539317937
   rank: 10
+summary: Ahead of the Baldwin County Commission District 3 election, we detail how
+  incumbent Tucker Dorsey serves developers over local taxpayers. Dorsey wasted $35
+  million on a failed mega-site project while partnering with private sewer boss Clarence
+  Burke to enrich insiders. Voters must fire corrupt incumbents like Dorsey to stop
+  backroom deals from bankrupting our community.
 ---
 Baldwin County will be voting for all four county commissioners seats. The Ripp Report will be posting meet and greets for many candidates, no charge. Any comments, such as this, is the sole responsibility of the Ripp Report. County commission seat three, presently held by Tucker Dorsey, has several candidates trying to unseat Mr Dorsey.
 

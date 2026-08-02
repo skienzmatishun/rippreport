@@ -11,7 +11,8 @@ tags:
 - jerry-carl
 authors:
 - admin
-alttags: Close-up portrait of candidate Jerry Carl wearing wire-rimmed glasses and a white shirt, smiling slightly against a blurred indoor background with bokeh...
+alttags: Close-up portrait of candidate Jerry Carl wearing wire-rimmed glasses and
+  a white shirt, smiling slightly against a blurred indoor background with bokeh...
 related_articles:
 - slug: catalyst-attack
   title: CATALYST ATTACK
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Ahead of the July 14th runoff for Alabama's 1st Congressional District, we
+  detail how the Catalyst machine backed Bill Hightower to seize federal influence.
+  Out-of-state PACs and Washington insiders flooded the district with dark money to
+  prop up Hightower as their puppet against Jerry Carl. Voters face a critical choice
+  between sending a local business leader to Congress or empowering political bosses.
 ---
 This is a very important election and the sparks are flying but when the dust settles it is clear that one major distinction stands out in the race CATALYST.
 

@@ -9,7 +9,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: A cartoon woman in a black suit with pink trim and a man in a dark suit stand side by side. Both have large brown money bags with dollar signs for heads
+alttags: A cartoon woman in a black suit with pink trim and a man in a dark suit stand
+  side by side. Both have large brown money bags with dollar signs for heads
 related_articles:
 - slug: tax-tax-and-re-tax
   title: TAX TAX AND RE-TAX
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 60
   recency_score: 3.5252970652248186
   rank: 10
+summary: As part of our coverage on the Baldwin County Board of Education tax vote,
+  we reveal how school bosses waste massive sales tax revenues. Superintendent Eddie
+  Tyler and Senator Chris Elliott demand higher property taxes while creating six-figure
+  administration jobs instead of funding classroom teachers. Taxpayers must flood
+  the polling sites to defeat these constant tax hikes and stop administrative greed.
 ---
 Do you really want to know what is going on with Baldwin County Schools. Well just check out the face book page below, they do an excellent job of breaking down your tax dollars that are pouring into the coffers of BCBOE.
 

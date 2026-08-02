@@ -8,7 +8,8 @@ tags:
 - chris-elliott
 authors:
 - ripp-report
-alttags: Chris Elliott, Baldwin County Commissioner, in a State Senate runoff election campaign photo
+alttags: Chris Elliott, Baldwin County Commissioner, in a State Senate runoff election
+  campaign photo
 related_articles:
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
@@ -90,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: In our State Senate District 32 runoff election analysis, we detail Chris
+  Elliott using political favors to hide a DUI arrest. Elliott dodged standard driver
+  license suspensions, diverted millions from local schools, and backed a twelve percent
+  gas tax. Voters must elect David Northcutt to stop a dishonest candidate from taking
+  power in Montgomery.
 ---
 
 BaCo senate

@@ -74,6 +74,11 @@ related_articles:
   llm_score: 70
   recency_score: 0.08039066542053509
   rank: 10
+summary: In our Fairhope municipal government election analysis, we uncover backroom
+  schemes to stop city council reforms. Financial committee appointee Chuck Zunk teamed
+  with Councilman Jack Burrell to attack Mayor Wilson and block voter petitions. Citizens
+  must support single-district council voting to end airport land deals and eliminate
+  political bullying.
 ---
 I could smell the skunk through my computer, the first time that I read, Chuck Zunk, was agreeing with the Mayor of Fairhope, on the Council-manager form of government.
 

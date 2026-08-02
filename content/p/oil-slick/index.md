@@ -12,7 +12,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: John Manelos, a Fairhope City Council candidate, points toward an outdoor scene featuring an American flag, a fountain, and manicured lawns
+alttags: John Manelos, a Fairhope City Council candidate, points toward an outdoor
+  scene featuring an American flag, a fountain, and manicured lawns
 related_articles:
 - slug: scary
   title: SCARY
@@ -74,6 +75,11 @@ related_articles:
   llm_score: 50
   recency_score: 22.160709331690267
   rank: 10
+summary: Ahead of the August municipal vote in Fairhope, we expose candidate John
+  Manelos and his bogus Good Vibes pledge designed to silence criticism of his BP
+  oil spill background. Manelos actively deletes public comments on social media to
+  hide his past executive role in BP's toxic chemical dispersant cover-up. Citizens
+  cannot let corporate spin doctors strip away free speech and hand control to polluters.
 ---
 It defies logic that a former BP executive is going to lecture Fairhope citizens about contamination of the Mobile Bay.
 

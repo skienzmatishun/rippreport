@@ -91,7 +91,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Chris Elliott stands with a shocked expression and hand on his chest in front of a large solar panel array
+alttags: Chris Elliott stands with a shocked expression and hand on his chest in front
+  of a large solar panel array
+summary: In our Baldwin County Senate District 32 primary coverage, we expose how
+  incumbent Chris Elliott uses shadow PACs to smear his opponents. Elliott takes money
+  from gaming interests while hiding behind cheap mailers and backroom Catalyst deals.
+  Voters can choose honest leadership by picking challenger Mike Van to oust this
+  career politician.
 ---
 I am sure most people may have seen the hit piece, a mailed flier, on candidate Mike Vandenheuvel aka Mike Van, who is challenging State Senator Chris Elliott. It really should enlighten you on what a sneaky dirty politician Elliott is. Mike DID NOT call Elliott a lying dirt bag politician, or a self serving christian hypocrite. Mike REFRAINED from calling Elliott the head of the snake known as Catalyst and the good ole Boys, GOB, of Baldwin. Mike didn’t mention Elliott’s connection to gaming interests and that Elliott’s ambition is to become the commissioner for gaming in Alabama. Mike DID NOT point out that Elliott knew about the solar fields a very long time ago. The Ripp Report DID.
 

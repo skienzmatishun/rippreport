@@ -93,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Ahead of the July 17th primary runoff election, we expose the corrupt slate
+  of Catalyst candidates targeting Baldwin County. Machine bosses back Chris Elliott,
+  Tucker Dorsey, and Judge Michelle Thomason to control local courts and spending.
+  Voters must choose David Northcutt, Billie Jo Underwood, and Christy Edwards to
+  clean up county government.
 ---
 The Ripp Report is a non profit consumer protection organization, self funded by private donations. The donations are not tax deductible, all donations, 100% are used for advertising on Social Media.
 

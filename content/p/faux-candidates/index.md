@@ -17,7 +17,8 @@ tags:
 - lynn-stacy
 authors:
 - admin
-alttags: 'A patriotic political poster listing five Fairhope City Council candidates for the August 26th election: Troy Vickers, Joshua Gammon, Tracy Gatewood, Da...'
+alttags: 'A patriotic political poster listing five Fairhope City Council candidates
+  for the August 26th election: Troy Vickers, Joshua Gammon, Tracy Gatewood, Da...'
 related_articles:
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
@@ -99,6 +100,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: As part of our ongoing analysis of local municipal and congressional races,
+  we reveal how Catalyst places fake candidates to trick voters and preserve political
+  dominance. Power brokers strategically engineer opposition campaigns in Daphne and
+  Fairhope while pushing swamp creature Bill Hightower in the congressional runoff.
+  Taxpayers must spot these shadow candidates on election day or suffer more corruption.
 ---
 It is election time and CATALYST is at work stroking FAUX candidates that are willing to fall on the sword for CATALYST.
 

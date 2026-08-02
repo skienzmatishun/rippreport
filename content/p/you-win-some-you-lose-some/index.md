@@ -10,7 +10,8 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: Black and white drawing of two hands with number three cuffs, one thumbs up and one thumbs down. Text above says win some, below says lose some
+alttags: Black and white drawing of two hands with number three cuffs, one thumbs
+  up and one thumbs down. Text above says win some, below says lose some
 related_articles:
 - slug: skunked
   title: SKUNKED
@@ -72,6 +73,11 @@ related_articles:
   llm_score: 65
   recency_score: 1.632482223263862
   rank: 10
+summary: In our analysis of the Fairhope municipal referendum and House District 92
+  race, we break down Catalyst political games. The council used dirty court delays
+  and long line tactics to stop voters from fixing their broken city government. Fairhope
+  citizens must defeat the corrupt Catalyst machine at the ballot box before insiders
+  sell out the entire city.
 ---
 {{< socialpreview url="https://rippreport.com/p/skunked/" >}}
 

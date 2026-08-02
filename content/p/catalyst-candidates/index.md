@@ -8,7 +8,8 @@ tags:
 - catalyst
 authors:
 - ripp-report
-alttags: A brown suitcase with two light gray stripes and a dark handle. A tag on the handle shows a red prohibition symbol over ATTAYES
+alttags: A brown suitcase with two light gray stripes and a dark handle. A tag on
+  the handle shows a red prohibition symbol over ATTAYES
 related_articles:
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN
@@ -80,6 +81,11 @@ related_articles:
   recency_score: 8.972921159643409
   category_score: 0
   rank: 10
+summary: As part of our coverage on the 2018 Baldwin County primary elections, we
+  expose how the Catalyst political machine planted candidates across local government.
+  Insiders like Michelle Thomason use shadowy machine backing to grab court seats
+  and advance private interests. Citizens must reject these puppet candidates before
+  corporate operatives capture complete control of county offices.
 ---
 Qualifications for Mid Term elections are over and now it is a race to the primary June 9 2018.
 

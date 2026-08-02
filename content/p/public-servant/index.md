@@ -68,6 +68,11 @@ related_articles:
   llm_score: 60
   recency_score: 6.388408999225476
   rank: 10
+summary: Ahead of the First Congressional District runoff election, we reveal how
+  big-money PACs bought off machine candidate Bill Hightower. Out-of-state special
+  interest groups stuffed Hightower's campaign chest while rival Jerry Carl funded
+  his own campaign through local banks. Voters must elect a real public servant who
+  answers to working families rather than wealthy corporate lobbyists in Washington.
 ---
 Today’s Freaky Friday is a post by Doug Snow with the Facebook group [Baldwin County Citizens for Accountability](https://www.facebook.com/groups/1593293237549165/).
 

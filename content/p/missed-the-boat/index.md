@@ -6,7 +6,8 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: Man gazes at a departing ship, symbolizing low voter turnout in Baldwin County and potential political consequences
+alttags: Man gazes at a departing ship, symbolizing low voter turnout in Baldwin County
+  and potential political consequences
 related_articles:
 - slug: catalyst-held-back
   title: CATALYST HELD BACK
@@ -68,6 +69,11 @@ related_articles:
   llm_score: 70
   recency_score: 1.782065216451268
   rank: 10
+summary: In our coverage of the July 17th Baldwin County runoff elections, we analyze
+  how low voter turnout enables political corruption. Over 3,500 voters failed to
+  flip their ballots over, letting Catalyst candidates sneak into power across key
+  county commission seats. Local voters must wake up and throw out machine-backed
+  candidates before backroom political bosses destroy our quality of life.
 ---
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters.
 

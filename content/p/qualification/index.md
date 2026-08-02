@@ -8,7 +8,8 @@ tags:
 - catalyst
 authors:
 - ripp-report
-alttags: A gray ballot box with a black slot and a red flag on top, set against a black background
+alttags: A gray ballot box with a black slot and a red flag on top, set against a
+  black background
 related_articles:
 - slug: mid-term-elections-vote-incumbents-out
   title: MID-TERM ELECTIONS - VOTE INCUMBENTS OUT
@@ -70,6 +71,11 @@ related_articles:
   llm_score: 70
   recency_score: 0.2203279781105022
   rank: 10
+summary: In our 2018 Baldwin County primary election coverage, we unmask political
+  machines attempting to hijack offices from Sheriff to Attorney General. Flawed candidates
+  like Michelle Thomason use shadow funding to grab court seats while state ethics
+  officials protect corrupt politicians. Voters must demand honest leadership to break
+  the grip of backroom corruption across Alabama.
 ---
 Mid Term Elections are upon us, qualification closes 5:00 PM Feb. 9th. Then it is game on for many important positions in Baldwin County. Statewide general information can be found on:
 

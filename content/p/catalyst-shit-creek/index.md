@@ -15,7 +15,8 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: Murky brown water with floating foam and debris flows past a concrete embankment, framed by hanging green foliage and a thin tree branch
+alttags: Murky brown water with floating foam and debris flows past a concrete embankment,
+  framed by hanging green foliage and a thin tree branch
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE
@@ -87,6 +88,11 @@ related_articles:
   recency_score: 2.356611967343692
   category_score: 0
   rank: 10
+summary: As part of our coverage on the Fairhope City Council race, we expose how
+  political bosses sabotaged city infrastructure to punish an independent mayor. The
+  Catalyst-backed council refused to fund vital sewer upgrades for years while protecting
+  their abusive insider friends from accountability. Voters must flush these corrupt
+  council members out of office before backroom machine politics ruin the entire city.
 ---
 The Ripp Report has written about CATALYST for years. We have filed numerous complaints with the Attorney General involving political corruption and have received no reply. It seems that political corruption is not as important as the sewer violations.
 

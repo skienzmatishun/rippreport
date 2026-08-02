@@ -6,7 +6,8 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: Six cartoon-style eyes with black pupils and light gray circular outlines arranged on a white background
+alttags: Six cartoon-style eyes with black pupils and light gray circular outlines
+  arranged on a white background
 related_articles:
 - slug: fairhope-change-of-government
   title: FAIRHOPE - CHANGE OF GOVERNMENT
@@ -68,6 +69,11 @@ related_articles:
   llm_score: 70
   recency_score: 26.263598279931234
   rank: 10
+summary: In our coverage of the November 2018 Fairhope referendum election, we expose
+  why Club Catalyst fears real reform. The corrupt council spreads bold lies to stop
+  professional management and keep their hidden budget tricks alive. Voting YES creates
+  fair election districts, stops backroom favors, and strips power from political
+  bosses.
 ---
 The amendment to Change the Government of Fairhope, is just that, a change, from doing business as usual, to doing business smarter and more efficient. Many different blog sites and organizations are in support of the Council-Manager from of Government
 

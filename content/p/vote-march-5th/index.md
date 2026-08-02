@@ -6,7 +6,8 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: A bald eagle in flight drops a ballot into a white voting box labeled VOTE against an American flag background, with large text reading MARCH 5th
+alttags: A bald eagle in flight drops a ballot into a white voting box labeled VOTE
+  against an American flag background, with large text reading MARCH 5th
 related_articles:
 - slug: vote-smart
   title: VOTE SMART
@@ -68,6 +69,12 @@ related_articles:
   llm_score: 65
   recency_score: 0.04936426761493053
   rank: 10
+summary: Ahead of the March 5, 2024 primary election, we break down critical races
+  for Baldwin County Circuit Clerk and School Board District 2. Catalyst bosses push
+  party-switching candidate Andrea Lindsey and corrupt insiders while Sheriff Hoss
+  Mack controls county politics from behind the scenes. Casting ballots for independent
+  candidates like Kim Earl and Carrie Hosier is the only way to destroy this political
+  cabal.
 ---
 When will Baldwin County wake up and vote in new blood. The GOB, Good ole Boys, have a strangle hold on Baldwin County. They determine the candidates that will tow the line or raise their hand when told to do so. Sheriff Hoss Mack calls the shots and Mayors just bend over. The school system, Eddie and Gray, have job security guaranteed, as long as they go along. Their is no accountability or transparency as long as this cabal exists. NEVER vote for selected candidates.
 CIRCUIT CLERK

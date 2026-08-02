@@ -11,7 +11,8 @@ tags:
 - thomas-gallion
 authors:
 - admin
-alttags: Five black silhouettes of men in suits stand side by side against a white background. The central figure features a visible tie and collar
+alttags: Five black silhouettes of men in suits stand side by side against a white
+  background. The central figure features a visible tie and collar
 related_articles:
 - slug: absolute-power
   title: ABSOLUTE POWER
@@ -73,6 +74,11 @@ related_articles:
   llm_score: 65
   recency_score: 12.296070933282007
   rank: 10
+summary: As part of our investigation into Alabama state elections, we expose how
+  corrupt legal networks and judges hijack public office for personal wealth. Powerful
+  Montgomery lawyers and political operatives weaponized federal prosecutions against
+  opponents to seize corporate money and legal control. Voters must end Alabama's
+  shadow government before connected lawyers destroy public trust forever.
 ---
 9/11 let us never forget, over 3000 lives lost. Today we face another tragedy, Covid-19, which is claiming in the United States, 6000 lives a week, 192,000 to date, Think about that.
 

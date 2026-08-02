@@ -85,7 +85,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-alttags: A decorative eagle-themed mailbox mounted on a wooden post, featuring an American flag and the text US MAIL 4361 against a solid red background
+alttags: A decorative eagle-themed mailbox mounted on a wooden post, featuring an
+  American flag and the text US MAIL 4361 against a solid red background
+summary: As part of our investigative coverage on the Baldwin County sheriff's race,
+  we demand state oversight against local voter fraud. The current sheriff controls
+  the ballot boxes directly, creating a major conflict of interest for an office with
+  a 20-year history of cover-ups. State election officials must monitor this vote
+  before the Good Ole Boys steal another election.
 ---
 To: May 17, 2026
 

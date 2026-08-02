@@ -101,7 +101,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A collage of campaign posters for Baldwin County elections features candidates and offices, including Sheriff, County Commissioner, and local posts
+alttags: A collage of campaign posters for Baldwin County elections features candidates
+  and offices, including Sheriff, County Commissioner, and local posts
+summary: Ahead of the May 19th primary election, we spotlight every critical seat
+  on the ballot from sheriff to county commission. PAC money and lobbyist handouts
+  buy political fliers for tired incumbents while the Good Ole Boys rig absentee voting
+  boxes. Citizens must vote for reformers like Matt McKenzie and Jeremiah Giles to
+  smash the corrupt machine once and for all.
 ---
 One day to go for the primary elections. Please vote and ask your neighbors as well to vote.
 

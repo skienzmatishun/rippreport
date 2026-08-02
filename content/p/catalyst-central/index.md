@@ -6,7 +6,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: A red circle with a diagonal slash overlaid on the word CATALYST in black capital letters
+alttags: A red circle with a diagonal slash overlaid on the word CATALYST in black
+  capital letters
 related_articles:
 - slug: catalyst-candidates-⁠-excess-baggage
   title: CATALYST CANDIDATES ⁠— EXCESS BAGGAGE
@@ -88,6 +89,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: In our 2020 Baldwin County Commission election coverage, we uncover how corrupt
+  developer-backed candidates sell out public interest for private profit. Machine
+  politicians like Joe Davis and Jeb Ball consistently vote for destructive housing
+  developments that overload our weak local infrastructure. Voters must strip these
+  greedy political brokers of power before reckless development destroys our entire
+  county.
 ---
 In the last Fairhope municipal election the Ripp Report supported most of the City Council, even Jack Burell. The focus of the election was to elect a new mayor.
 

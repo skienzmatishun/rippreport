@@ -9,7 +9,8 @@ tags:
 - jeb-ball
 authors:
 - ripp-report
-alttags: A smiling man in a brown suit and blue tie juggling five red balls against a gray background
+alttags: A smiling man in a brown suit and blue tie juggling five red balls against
+  a gray background
 related_articles:
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 75
   recency_score: 9.45237541324223
   rank: 10
+summary: In our Baldwin County Commission District 1 election analysis, we expose
+  how Catalyst recruited Jeb Ball to serve machine interests. Ball runs a private
+  drug program collecting cash fees through court orders, creating massive conflicts
+  of interest for a future commissioner. Voters must reject Ball to prevent corrupt
+  backroom brokers from seizing control of county development.
 ---
 Place one in the County Commissioner’s race is a classic example of getting what you wished for and it backfiring. Mr Frank Burt has solidly held this position since 1988, wow, 29 years. Mr. Burt is intent on holding that position. I was hoping for change and that Mr. Burt would retire and the seat open for several new candidates.
 

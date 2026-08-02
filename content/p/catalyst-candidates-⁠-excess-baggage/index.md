@@ -97,6 +97,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: In our coverage of the 2020 Fairhope municipal election, we unveil the heavy
+  baggage carried by machine-backed candidates for mayor and council. Council President
+  Jack Burrell and mayoral puppet Sherry Sullivan wasted millions of taxpayer dollars
+  on bad real estate deals and secret favors. Local taxpayers must reject these Catalyst
+  puppets at the ballot box to prevent greedy political bosses from controlling city
+  hall.
 ---
 Baldwin County, you want an example how CATALYST works?
 

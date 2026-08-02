@@ -13,7 +13,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Round button with red, white, and blue horizontal stripes featuring the centered text YOUR VOTE COUNTS? in contrasting colors
+alttags: Round button with red, white, and blue horizontal stripes featuring the centered
+  text YOUR VOTE COUNTS? in contrasting colors
 related_articles:
 - slug: as-long-as-i-count-the-votes-what-are-you-going-to-do-about-it
   title: As long as I count the Votes, what are you going to do about it?
@@ -85,6 +86,11 @@ related_articles:
   recency_score: 0.04936426761493053
   category_score: 0
   rank: 10
+summary: In our Fairhope mayoral election coverage, we reveal how decades of handpicked
+  successors turned city hall into a private cash machine. Selected Mayor Tim Kant
+  double-dips on taxpayer salaries while handing away prime city pier leases to political
+  cronies for pennies. Voters must choose Karin Wilson at the ballot box to crush
+  this corrupt dynasty before insiders sell off the rest of the city.
 ---
 Stay tuned folks for some interesting stores that are in the works involving our corrupt Baldwin County family court system. We will share with you how Baldwin County Commissioners and their connections to local Mayors impact **YOUR** quality of life.
 

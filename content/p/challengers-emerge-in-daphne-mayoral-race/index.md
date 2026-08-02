@@ -32,7 +32,8 @@ related_articles:
   category_score: 0
   rank: 3
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
-  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
+  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor
+    Karin Wilson'
   score: 46.487590733375804
   llm_score: 65
   recency_score: 4.937953666878992
@@ -80,6 +81,11 @@ related_articles:
   recency_score: 0.040305466656824135
   category_score: 0
   rank: 10
+summary: As Baldwin County voters prepare for the August 23rd Daphne mayoral election,
+  three distinct challengers aim to unseat incumbent Mayor Dane Haygood. Longtime
+  councilman John Lake and corporate veteran Tim Swanson expose the city's reckless
+  spending habits and secret backroom deals. This critical vote will decide if Daphne
+  gets transparent fiscal accountability or four more years of unguided growth.
 ---
 By: [ERIC MANN](mailto:eric@lagniappemobile.com "More from Eric Mann")  [Lagniappemobile.com](https://lagniappemobile.com)
 

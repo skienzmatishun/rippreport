@@ -18,7 +18,8 @@ tags:
 - sherry-sullivan
 authors:
 - admin
-alttags: A person in a purple and black jester costume holds a staff and a sack labeled MONEY overflowing with cash, beside a red prohibition sign over the word ...
+alttags: A person in a purple and black jester costume holds a staff and a sack labeled
+  MONEY overflowing with cash, beside a red prohibition sign over the word ...
 related_articles:
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
@@ -80,6 +81,12 @@ related_articles:
   llm_score: 65
   recency_score: 15.820943014170737
   rank: 10
+summary: In our Fairhope City Council election analysis, we detail how Robert Brown
+  quit his council seat to help Jack Burrell install another Catalyst puppet. Burrell
+  hid Brown’s sudden resignation from the public to backroom-appoint Jay Robinson
+  without letting voters pick their own representative. Fairhope residents must fight
+  back before this arrogant political machine steals total control of local council
+  seats.
 ---
 The Fairhope City Council that served during the last cycle, 2016/2020 was the least productive of any council in recent memory. Most of the council,3 B’s, used their public office for personal gain.
 

@@ -14,7 +14,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: Clones in sheriff uniforms appear arranged in a three-by-three grid in the style of the Brady Bunch
+alttags: Clones in sheriff uniforms appear arranged in a three-by-three grid in the
+  style of the Brady Bunch
 related_articles:
 - slug: bcso-culture
   title: BCSO CULTURE
@@ -96,6 +97,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 10
+summary: In our 2026 Baldwin County sheriff election analysis, we explain why voters
+  cannot afford another term of Hoss Mack's political clone. Interim Sheriff Anthony
+  Lowery inherited a corrupt department known for tragic SWAT killings and buried
+  court evidence. Electing Matt McKenzie offers voters their only opportunity to end
+  decades of sheriff department cover-ups.
 ---
 Lowery is a clone of Hoss Mack and the last thing Baldwin County needs is a clone Sheriff. Pay attention this race can break the mold of the good ole boys. Hoss Mack’s record is the same as Lowery’s, they are joined at the hip, or close to it. Lowery likes it under Hoss’s umbrella however he has rightfully inherited Hoss’s horrible record. Before election time you will see the onion peeled back involving Mack and Lowery and it ain’t “perty”.
 

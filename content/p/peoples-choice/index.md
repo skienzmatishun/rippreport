@@ -6,7 +6,8 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: Black silhouette icon of six stylized human figures, with one larger central figure surrounded by five smaller ones
+alttags: Black silhouette icon of six stylized human figures, with one larger central
+  figure surrounded by five smaller ones
 related_articles:
 - slug: catalyst-trifecta
   title: CATALYST TRIFECTA
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Ahead of the July 17th primary runoff election in Baldwin County, we expose
+  how massive campaign cash corrupts key races. Senate candidate Chris Elliott grabbed
+  six hundred thousand dollars from rich developers to buy a forty-two thousand dollar
+  job. Voters must reject Catalyst puppets and elect David Northcutt and Billie Jo
+  Underwood to reclaim local control.
 ---
 The people’s choice or the Catalyst choice. The Ripp Report is going for the People’s Choice, David Northcutt. The Catalyst Choice Chris Elliott has raised over one half a million dollars, headed for 600,000 for a Senate Seat salary of 42,000. Damn people WAKE UP.
 

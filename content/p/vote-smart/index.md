@@ -6,7 +6,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: 'Actually, lets just write: Two women in blazers stand against a gray backdrop. The red-haired woman on the left smiles at the viewer'
+alttags: 'Actually, lets just write: Two women in blazers stand against a gray backdrop.
+  The red-haired woman on the left smiles at the viewer'
 related_articles:
 - slug: vote-march-5th
   title: VOTE MARCH 5th
@@ -68,6 +69,11 @@ related_articles:
   llm_score: 75
   recency_score: 0.23083255747252965
   rank: 10
+summary: In our analysis of the March 5, 2024 Baldwin County primary election, we
+  expose how the Catalyst political machine installs puppet candidates. Board of Education
+  contender Andrea Lindsey switched parties right before qualifying to serve as a
+  rubber stamp for Superintendent Eddie Tyler. Voters must reject machine-backed stooges
+  and elect Carrie Hosier and Kim Earl to restore honest public service.
 ---
 How do you select the best candidate for the job? In Baldwin County the first thing you do is eliminate the Catalyst candidate. Many years ago Lynn Stacy was a political operative in Baldwin County that would guarantee candidates a win. He represented the most hardened of the Baldwin County good ole boys, GOB. Then came Stacy Haygood and Elliott, Haygood became Mayor of Daphne and Elliott became a county commissioner. The name changed again to Catalyst. When that name began to stink the GOB changed the name again to Scott Boone Consulting, the stink remained.
 

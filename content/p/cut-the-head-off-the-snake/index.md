@@ -80,6 +80,11 @@ related_articles:
   recency_score: 8.92388892592479
   category_score: 0
   rank: 10
+summary: As part of our coverage on the August 23rd Fairhope mayoral race, we endorse
+  Karin Wilson to chop off decades of municipal corruption. Incumbent Tim Kant acts
+  as a puppet for developer Arthur Corte, forcing dangerous apartment deals and gas
+  stations onto residents. Choosing Wilson over Kant determines whether working citizens
+  or greedy donors control Fairhope.
 ---
 The Ripp Report and Baldwin County Legal Eagle is a nonprofit. We are a consumer group and take no donations from political candidates or organizations that wish to use our platform. The Ripp Report files legitimate complaints with the agency that may handle that case. Currently complaints reside with Attorney General, Ethics Commission, Judiciary, and Bar Association. These complaints originate from consumers contacting us. We endorse candidates and encourage public participation in exposing political and Judicial Corruption in Baldwin County. YOU are the Court of Public Opinion.
 

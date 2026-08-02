@@ -9,7 +9,8 @@ tags:
 - joe-davis
 authors:
 - ripp-report
-alttags: Close-up of Daphne City Council member John Lake speaking outdoors during a news broadcast about his resignation after a failed vote
+alttags: Close-up of Daphne City Council member John Lake speaking outdoors during
+  a news broadcast about his resignation after a failed vote
 related_articles:
 - slug: catalyst-is-drowning
   title: CATALYST IS DROWNING
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 65
   recency_score: 0.866949093604331
   rank: 10
+summary: In our 2018 Baldwin County Commission District 2 election coverage, we reveal
+  how Catalyst candidate Joe Davis abandoned his voters on the Daphne City Council.
+  Davis quit his public office when he did not get his way, proving he puts personal
+  temper tantrums over public duty. Electing a quitter like Davis hands local government
+  to political insiders, while proven servants like John Lake actually protect residents.
 ---
 Publisher correction: With over 300 single publications, without a single correction, The Ripp Report must admit to an error in the:
 

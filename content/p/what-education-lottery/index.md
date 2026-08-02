@@ -10,7 +10,8 @@ tags:
 - lottery
 authors:
 - admin
-alttags: Overlapping United States paper currency, including $100 and $50 bills featuring Benjamin Franklins portrait
+alttags: Overlapping United States paper currency, including $100 and $50 bills featuring
+  Benjamin Franklins portrait
 related_articles:
 - slug: dirty-hands
   title: DIRTY HANDS
@@ -72,6 +73,11 @@ related_articles:
   llm_score: 54
   recency_score: 12.603030605419562
   rank: 10
+summary: Ahead of the state legislative elections, we expose how casino lobby money
+  buys local state senators like Chris Elliott. Elliott pocketed over twenty-seven
+  thousand dollars from the Poarch Creek tribe to back a lottery bill stripping money
+  from schools. Alabama voters must stop greedy politicians from selling out public
+  education to the highest gambling bidder.
 ---
 Alabama is going to give the lottery away to the highest bidder, the Poach Creek Indians. You sure cannot blame the Poach Creek Indians for understanding how to manipulate our good Republican legislators. Money, baby, is what it is all about. The supporters of this bill feel that they still have the moral high ground by preventing any additional gaming while stuffing their pockets full of Indian money.
 

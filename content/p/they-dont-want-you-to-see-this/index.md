@@ -10,6 +10,11 @@ tags:
 - Austin Sidwell
 authors:
 - admin
+summary: In our congressional primary election coverage, we expose how career politician
+  Jerry Carl turned his back on Baldwin County voters. Carl depends on huge developer
+  war chests and toll bridge money to crush outsider candidates like Austin Sidwell.
+  Voters must show up on May 19th to break this pay-to-play system and take back local
+  control.
 ---
 
 Please vote toll bridge Jerry Carl OUT. He turned his back on Baldwin County.

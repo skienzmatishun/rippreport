@@ -86,7 +86,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A Guy Fawkes clown mask is centered between blue and red balloons shaped like the letters G and B
+alttags: A Guy Fawkes clown mask is centered between blue and red balloons shaped
+  like the letters G and B
+summary: As Baldwin County voters prepare for the sheriff's race primary, political
+  insiders are pushing dirty anonymous hit pieces to protect their power. The Catalyst
+  machine created the Baldwin Beat newsletter to hide Sheriff Anthony Lowery's lethal
+  SWAT raids and wrongful convictions. Voters must elect Matt McKenzie to dismantle
+  this decade-old network of police cover-ups.
 ---
 Only in Baldwin County would political operatives produce a newsletter **Baldwin Beat** aka BB. Baldwin Bullshit. It is reported to be published in a pasture for Bulls that have diarrhea and a GOB brand.
 

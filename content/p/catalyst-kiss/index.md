@@ -6,7 +6,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: Council President Jack Burrell and candidate Bill Hightower stand side by side outdoors in business attire, both smiling
+alttags: Council President Jack Burrell and candidate Bill Hightower stand side by
+  side outdoors in business attire, both smiling
 related_articles:
 - slug: catalyst-central
   title: CATALYST CENTRAL
@@ -68,6 +69,11 @@ related_articles:
   llm_score: 70
   recency_score: 59.41948725206741
   rank: 10
+summary: As part of our coverage on the 2020 congressional primary, we highlight how
+  Fairhope's political bosses back Bill Hightower for Congress. Council President
+  Jack Burrell publicly praised Hightower to ensure their shadowy network maintains
+  absolute political control. Working families cannot afford to send another corrupt
+  machine puppet to represent Baldwin County in the United States Congress.
 ---
 The last Monday night Fairhope City Council meeting and the work session were unnecessary long. Many people have begun to watch the council meeting in their homes, on Youtube. It is convenient and you can moot the council president, when you wish.
 

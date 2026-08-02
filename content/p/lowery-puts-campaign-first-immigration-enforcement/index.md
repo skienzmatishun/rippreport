@@ -60,7 +60,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
-alttags: A U.S. Immigration officer stands beside Sheriff Anthony Lowery in a black uniform and hat, next to a campaign sign reading Anthony Lowery Sheriff
+alttags: A U.S. Immigration officer stands beside Sheriff Anthony Lowery in a black
+  uniform and hat, next to a campaign sign reading Anthony Lowery Sheriff
+summary: Ahead of the May 19th Baldwin County sheriff election, we reveal how Anthony
+  Lowery puts his political career above public safety. Lowery scaled back active
+  immigration enforcement cooperation just to protect his votes and appease political
+  donors. County residents face a stark choice between a self-serving politician and
+  true law enforcement accountability.
 ---
 Contribution from CONCERNED BALDWIN COUNTY CITIZEN
 

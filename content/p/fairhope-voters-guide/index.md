@@ -23,7 +23,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Circular city seal for Fairhope, Alabama featuring a black lighthouse behind a pale circle, with blue water and three white sailboats at the base
+alttags: Circular city seal for Fairhope, Alabama featuring a black lighthouse behind
+  a pale circle, with blue water and three white sailboats at the base
 related_articles:
 - slug: fairhopes-golden-key
   title: FAIRHOPE'S GOLDEN KEY
@@ -85,6 +86,11 @@ related_articles:
   llm_score: 65
   recency_score: 1.6824291625241752
   rank: 10
+summary: As part of our Fairhope City Council election coverage, we show how the Catalyst
+  machine uses candidates like Jack Burrell and Kevin Boone to buy local influence.
+  Burrell abused his council presidency through bid-rigging scandals, hidden police
+  records, and wasteful land purchases. Citizens must elect independent candidates
+  like Deb Hopkins to save Fairhope from reckless sprawl and self-serving insiders.
 ---
 DEAR NEW FAIRHOPE VOTERS: This municipal elections can be won by the young voters that have not voted before and those of you who have moved to Fairhope in the last 10 years. PLEASE READ
 

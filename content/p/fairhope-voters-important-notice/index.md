@@ -14,7 +14,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A red-bordered triangular warning sign with a white background and a black exclamation mark
+alttags: A red-bordered triangular warning sign with a white background and a black
+  exclamation mark
 related_articles:
 - slug: recuse-yourself
   title: RECUSE YOURSELF
@@ -35,13 +36,15 @@ related_articles:
   recency_score: 70.80748436877823
   rank: 3
 - slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns '
   score: 80.00452205711655
   llm_score: 100
   recency_score: 0.022610285582725168
   rank: 4
 - slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns
   score: 76.00459700663775
   llm_score: 95
   recency_score: 0.022985033188782953
@@ -76,6 +79,11 @@ related_articles:
   llm_score: 85
   recency_score: 0.07864784737789618
   rank: 10
+summary: In our ongoing analysis of the Fairhope municipal government battles, we
+  reveal how defeated political brokers scheme to overturn election results. Councilmen
+  Jack Burrell and Michael Boone execute dirty tricks backed by Catalyst to block
+  Mayor Karin Wilson's reform agenda. Residents must support their elected mayor now
+  or watch corrupt Good Ole Boys reclaim city hall.
 ---
 Fairhope voters, we did it once and now we have to do it again. And that is show our mayor support and remind the city council the majority won the election. Our council has been under the influence of the minority and turning a blind eye to the majority. They have allowed previous personal friendships to take front seat to city issues, following senior councilmen down a path of falsehoods. The newly elected council, three members, have been convinced— so far, that facts are fiction, such as the airport scandal.
 

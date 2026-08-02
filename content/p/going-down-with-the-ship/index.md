@@ -14,7 +14,8 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: The Gulf Quest Maritime museum, a ship-shaped building with glass windows, is tilted at a steep angle in the ocean against a sunset sky
+alttags: The Gulf Quest Maritime museum, a ship-shaped building with glass windows,
+  is tilted at a steep angle in the ocean against a sunset sky
 related_articles:
 - slug: catalyst-is-drowning
   title: CATALYST IS DROWNING
@@ -76,6 +77,11 @@ related_articles:
   llm_score: 60
   recency_score: 2.422069259658703
   rank: 10
+summary: Ahead of the Fairhope City Council runoff election, we unpack the dirty financial
+  ties destroying taxpayer bank accounts. Councilwoman Diana Brewer pocketed cash
+  from wealthy developers while pushing the destructive Fly Creek project alongside
+  Mayor Tim Kant. Working families will keep paying for bad attorney fees and failed
+  pet projects if voters elect corrupt insiders.
 ---
 Be sure you read
 

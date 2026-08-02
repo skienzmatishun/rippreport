@@ -20,7 +20,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: City seal of Fairhope, Alabama featuring a golden key over a yellow sun, three sailboats on blue water, and the city name encircling the design
+alttags: City seal of Fairhope, Alabama featuring a golden key over a yellow sun,
+  three sailboats on blue water, and the city name encircling the design
 related_articles:
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
@@ -82,6 +83,12 @@ related_articles:
   llm_score: 65
   recency_score: 3.0655858073605606
   rank: 10
+summary: Ahead of the Fairhope municipal election, we expose how the Catalyst machine
+  backs Sherry Sullivan to control city appointments and land development. Councilmen
+  Jack Burrell, Kevin Boone, and Robert Brown repeatedly protect insider developers
+  while trying to strip power from Mayor Karin Wilson. Fairhope voters must elect
+  Deb Hopkins, Joshua Gammon, and Howell Gibbens to break the cabal’s stranglehold
+  on city hall.
 ---
 Tomorrow citizens of Fairhope will go to the polls, rain or shine. Most citizens do not understand some of the inner political workings of the city, like appointments.
 

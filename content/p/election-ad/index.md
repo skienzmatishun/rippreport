@@ -86,6 +86,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: As Baldwin County voters prepare for the upcoming primary election, we spotlight
+  new campaign media exposing local corruption. Shadowy political groups use slick
+  advertising and backroom money to trick citizens and hide candidate wrongdoing.
+  Voters must look past flashy political ads and demand honest leaders who stand up
+  against machine control.
 ---
 <iframe src="https://drive.google.com/file/d/1oWpT1Dj3d9vFolvoTmyvZ951KN_7F8Oh/preview" width="640" height="480"></iframe>
 

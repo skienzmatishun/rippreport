@@ -15,7 +15,8 @@ tags:
 - randy-davis
 authors:
 - ripp-report
-alttags: Judge Tim Russell retiring as Baldwin County Probate Judge, a vital role handling millions in assets
+alttags: Judge Tim Russell retiring as Baldwin County Probate Judge, a vital role
+  handling millions in assets
 related_articles:
 - slug: catalyst-queen-remember-family-court
   title: CATALYST QUEEN - REMEMBER FAMILY COURT
@@ -39,7 +40,8 @@ related_articles:
   category_score: 0
   rank: 3
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 62.28339169418871
   llm_score: 65
   recency_score: 83.91695847094347
@@ -87,6 +89,11 @@ related_articles:
   recency_score: 3.9228327047886493
   category_score: 0
   rank: 10
+summary: As Baldwin County voters prepare for the Probate Judge race, we uncover how
+  Catalyst handpicked attorney Lynn Perry to seize a $40 million budget. Perry failed
+  to report required campaign fees while backroom handlers tried buying off rival
+  candidates Max Hansen and Matt McKenzie. Voters must block machine lawyers from
+  hijacking court offices for personal profit.
 ---
 Judge Tim Russell is being “aged out” of the position of Probate Judge. He retires with a stellar reputation and sets the bar high for his successor. Judge of Probate for Baldwin County is a very important position which generated 40 million dollars in 2017. It is not required that the position be filled by an attorney, fact is, it would be best that is was NOT an attorney. There are five candidates, and they have been gentlemen and civil among themselves, so far.
 

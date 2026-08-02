@@ -8,7 +8,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: State Senator Chris Elliott in a dark suit and red tie holds up a United States passport against a plain white background
+alttags: State Senator Chris Elliott in a dark suit and red tie holds up a United
+  States passport against a plain white background
 related_articles:
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
@@ -70,6 +71,11 @@ related_articles:
   llm_score: 60
   recency_score: 3.116395468223524
   rank: 10
+summary: In our analysis of the State Senate District 32 race, we expose how Chris
+  Elliott grabs taxpayer cash for lavish foreign trips. The self-serving politician
+  funneled public money into his personal travel budget while pushing higher taxes
+  and secret infrastructure deals. Citizens must hold corrupt state senators accountable
+  before machine politicians drain our local tax treasury dry.
 ---
 State Senator Chris Elliott, aka TAX MAN, needs tax money to travel, so he co-sponsored a bill for his travel expenses. The newly elected State Senator is rumored to have used the proposed travel expenditure to strong arm other legislators, by holding up other bills being considered. It is not nice to piss off Goat Hill, especially when your a lamb.
 

@@ -14,7 +14,8 @@ tags:
 - jeff-boyd
 authors:
 - ripp-report
-alttags: Vintage photo of a bomber dropping bombs over mountains, hinting at potential political fallout ahead of an election
+alttags: Vintage photo of a bomber dropping bombs over mountains, hinting at potential
+  political fallout ahead of an election
 related_articles:
 - slug: catalyst-busted
   title: CATALYST BUSTED
@@ -96,6 +97,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Ahead of the June 5th primary for State Senate District 32, we expose how
+  machine candidate Chris Elliott protects corrupt insiders. Previous leaders pocketed
+  $750,000 in BP spill money while leaving Baldwin County without its fair share of
+  state funding. Voters must elect independent candidates like David Northcutt to
+  stop Montgomery politicians from robbing taxpayers.
 ---
 Heads up, sounds like two different authorities are checking out Fairhope. The Ripp Report is waiting on [tips to the Rippster](https://rippreport.com/contact/) in the hopes of finding out who’s in hot water. Something tells me that the next couple of weeks leading up to the primary election June 5, is going to be very interesting. Stay Tuned.
 

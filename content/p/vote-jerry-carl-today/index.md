@@ -10,7 +10,8 @@ tags:
 - jerry-carl
 authors:
 - admin
-alttags: Close-up portrait of Jerry Carl, an older man with white hair and glasses wearing a white shirt, smiling slightly against a blurred background
+alttags: Close-up portrait of Jerry Carl, an older man with white hair and glasses
+  wearing a white shirt, smiling slightly against a blurred background
 related_articles:
 - slug: attention-baldwin-county
   title: ATTENTION BALDWIN COUNTY
@@ -72,5 +73,10 @@ related_articles:
   llm_score: 65
   recency_score: 13.459574801503088
   rank: 10
+summary: In our primary election coverage for Alabama's 1st Congressional District,
+  we urge voters to cast their ballots against the toxic political machine dominating
+  local government. Special interest groups and dark money PACs have poured millions
+  into buying this federal seat to protect backroom power brokers. Conservative voters
+  must show up today to stop corrupt insiders from extending their stranglehold.
 ---
 {{< aicomments "/p/vote-jerry-carl-today/" >}}

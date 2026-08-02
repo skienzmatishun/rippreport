@@ -78,6 +78,11 @@ related_articles:
   recency_score: 0.49304315112384334
   category_score: 0
   rank: 10
+summary: As part of our 2018 Alabama governor election coverage, we reveal how straight-ticket
+  voting protects corrupt politicians. Party-line voting allows lazy candidates like
+  Kay Ivey to dodge debate stages and hide bad policies behind a red label. Voters
+  who blindly pull party levers keep Alabama trapped at the bottom in education and
+  healthcare rankings.
 ---
 Want to know why Alabama is the most corrupt state in the United States? Want to know why Alabama health care and education is rated as the worst in the United States?
 

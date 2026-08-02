@@ -12,7 +12,8 @@ tags:
 - sessions
 authors:
 - ripp-report
-alttags: A circular button with red and blue bands containing five white stars each, divided by a white center displaying the word VOTE in bold black capital let...
+alttags: A circular button with red and blue bands containing five white stars each,
+  divided by a white center displaying the word VOTE in bold black capital let...
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE
@@ -74,6 +75,11 @@ related_articles:
   llm_score: 70
   recency_score: 0.11605002583978188
   rank: 10
+summary: Ahead of the Alabama State Senate primary, we expose how the Catalyst machine
+  maneuvers shady insiders into higher office. Senator Tripp Pittman pocketed BP funds
+  before seeking higher office, while DUI-tainted Commissioner Chris Elliott grabs
+  his open seat. Voters must reject these corrupt Good Ole Boys before insiders steal
+  Baldwin County's voice.
 ---
 Mid term elections are 18 months away and already we are seeing the GOB "good ole boys", and Catalyst, placing their candidates in strategic elected positions.
 

@@ -6,7 +6,8 @@ categories:
 - elections
 authors:
 - ripp-report
-alttags: A circular button with a red top, white center, and blue bottom, displaying the word VOTE in bold black letters and five white stars across each colored...
+alttags: A circular button with a red top, white center, and blue bottom, displaying
+  the word VOTE in bold black letters and five white stars across each colored...
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE
@@ -68,6 +69,11 @@ related_articles:
   llm_score: 60
   recency_score: 0.8717125382115642
   rank: 10
+summary: Ahead of the 2017 US Senate special election primary, we expose how corrupt
+  insiders are fighting to seize Jeff Sessions' former seat. Luther Strange traded
+  favors to protect a dirty governor, while Tripp Pittman grabbed $750,000 in BP disaster
+  funds for his private business. Voters must reject these machine puppets to stop
+  swamp politicians from selling off Alabama's future.
 ---
 The primary for the race is Aug.15, 2017 and the special election is Dec. 12, 2017. This election replaces Jeff Sessions, who has become the US Attorney General. However Sessions, who has been saying NO to everything for 8 years, now works for a President that only wants YES for an answer.
 

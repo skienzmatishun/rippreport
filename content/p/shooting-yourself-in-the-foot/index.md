@@ -10,7 +10,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: A hand holds a fan of one hundred dollar bills next to a red prohibition sign partially obscuring the word Catalyst
+alttags: A hand holds a fan of one hundred dollar bills next to a red prohibition
+  sign partially obscuring the word Catalyst
 related_articles:
 - slug: last-chance
   title: LAST CHANCE
@@ -92,6 +93,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: As part of our coverage on the Baldwin County Commission District 2 race,
+  we expose how the Catalyst political machine manipulates candidates Steve Carney
+  and Jonathan Armstrong. Armstrong and Commissioner Jeb Ball profit directly from
+  court-ordered arrests through their private business while Carney answers to discredited
+  politicians. Voters must reject these conflicted insiders to stop shady machine
+  bosses from locking up county government.
 ---
 The most important race in Baldwin County is District two. This commission seat is being sought after by three candidates, Steve Carney, Jonathan Armstrong and Matt McKenzie.
 

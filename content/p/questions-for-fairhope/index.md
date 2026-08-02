@@ -12,7 +12,8 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: A sunset over water featuring a pier and brick walkway, overlaid with a large white question mark
+alttags: A sunset over water featuring a pier and brick walkway, overlaid with a large
+  white question mark
 related_articles:
 - slug: fairhope-going-backwards
   title: FAIRHOPE GOING BACKWARDS?
@@ -74,6 +75,11 @@ related_articles:
   llm_score: 70
   recency_score: 59.9098791478109
   rank: 10
+summary: In this Fairhope Mayoral election analysis, we challenge candidate Sherry
+  Sullivan over her deep ties to former Mayor Timothy Kant and Catalyst interests.
+  Sullivan avoids answering critical questions about leaked city documents, lawsuits,
+  and developer backing. Fairhope voters must demand honest answers before electing
+  a puppet mayor who hands city hall back to the good ole boys.
 ---
 TOP 10 QUESTIONS for Sherry Sullivan and the general public.
 

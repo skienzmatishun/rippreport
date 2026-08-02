@@ -15,7 +15,8 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: A gray PVC campaign sign frame with a white corrugated background displaying the word CATALYST in black text, overlaid with a red prohibition symbol
+alttags: A gray PVC campaign sign frame with a white corrugated background displaying
+  the word CATALYST in black text, overlaid with a red prohibition symbol
 related_articles:
 - slug: catalyst-stacking-the-deck
   title: CATALYST STACKING THE DECK
@@ -97,6 +98,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: As part of our coverage on the 2020 Baldwin County municipal elections, we
+  reveal how the toxic Catalyst political machine rebranded as Scott Boone Consulting
+  to flood local races with political signs. Backroom developers use these signs to
+  prop up candidates like Sherry Snedeker and Jack Burrell in Fairhope and Daphne.
+  Voters must reject these machine-backed puppets on August 25th to protect local
+  control.
 ---
 Just like tea leaves if you look close enough at the local political signs they are sending you a subliminal message. If however you do not allow your eyes to rule your brain, the subliminal message is much clearer.
 

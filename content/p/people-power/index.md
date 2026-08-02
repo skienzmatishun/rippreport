@@ -8,7 +8,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A black silhouette of a clenched fist holding a microphone against a white background
+alttags: A black silhouette of a clenched fist holding a microphone against a white
+  background
 related_articles:
 - slug: fauxhope-or-fairhope
   title: FAUXHOPE OR FAIRHOPE
@@ -27,7 +28,8 @@ related_articles:
   score: 85
   rank: 4
 - slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns '
   score: 85
   rank: 5
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
@@ -50,6 +52,11 @@ related_articles:
   title: FAIRHOPE - CHANGE OF GOVERNMENT
   score: 75
   rank: 10
+summary: As Baldwin County voters evaluate the Fairhope City Council race, we examine
+  whether public service can overcome political greed. For sixteen years, self-absorbed
+  council members and weak mayors traded backroom deals while freezing out everyday
+  citizens from decision-making. Voters hold ultimate power and must stay ready to
+  vote out any official who abuses their office.
 ---
 For those who wish for a little good news from the Ripp Report I am pleased to tell you the Fairhope Work Session and City Council Meeting last night was a testament of what we as citizens desire. The Mayor and Council showed respect for each other and genuine cooperation. If last night’s meeting is any indication of the future, Fairhope is finally on track to accomplish great things. The makeup of this council shows great promise. All three of the new councilmen are professionals in their field and appear dedicated to their position of representing the public.
 

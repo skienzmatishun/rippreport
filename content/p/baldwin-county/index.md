@@ -21,7 +21,8 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: A Crystal Clean mascot stands beside an open toilet bowl containing a bomb with a digital timer reading 4:16
+alttags: A Crystal Clean mascot stands beside an open toilet bowl containing a bomb
+  with a digital timer reading 4:16
 related_articles:
 - slug: baldwin-county-citizens-for-government-accountability-cga
   title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
@@ -93,6 +94,12 @@ related_articles:
   recency_score: 30.451312299704224
   category_score: 0
   rank: 10
+summary: In our Baldwin County Sheriff's election coverage, we reveal how Sheriff
+  Hoss Mack uses tax money to hide bodycam footage from the public. Mack routinely
+  conceals evidence in fatal shooting cases while Fairhope leaders like Sherry Sullivan
+  pledge to let unchecked developers run the city. Voters must hold law enforcement
+  and city officials accountable to stop secret deals from destroying local government
+  integrity.
 ---
 If you live in Baldwin County then you know that local news print is almost non existent. Citizens are at a disadvantage at knowing what the real truth is and politicians are fine with that.
 

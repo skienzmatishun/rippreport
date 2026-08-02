@@ -15,7 +15,8 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: A light-skinned hand with multiple semi-transparent, overlapping copies radiating outward against a pale background
+alttags: A light-skinned hand with multiple semi-transparent, overlapping copies radiating
+  outward against a pale background
 related_articles:
 - slug: qualification
   title: QUALIFICATION
@@ -77,6 +78,11 @@ related_articles:
   llm_score: 75
   recency_score: 0.17842321519250345
   rank: 10
+summary: As Baldwin County voters prepare for the county commission races, we reveal
+  how incumbents wasted $35 million on a failed mega-site. Career politicians like
+  Tucker Dorsey and Chris Elliott protect real estate developers while punishing loyal
+  public employees. Voters must elect challengers like Billie Jo Underwood and John
+  Lake to tear down the local Good Ole Boy machine.
 ---
 Here is a picture of the four Baldwin County Commissioners that need to be put to pasture. The perfect pasture would be that 35 million dollar plus mega site that the commissioners have saddled their constitutions with and financed on the back of county employees.
 

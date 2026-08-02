@@ -10,7 +10,8 @@ tags:
 - scott-boone
 authors:
 - admin
-alttags: Black-framed glasses overlay a red prohibition sign, with the word CATALYST visible behind them. The lenses display AT and LYST respectively
+alttags: Black-framed glasses overlay a red prohibition sign, with the word CATALYST
+  visible behind them. The lenses display AT and LYST respectively
 related_articles:
 - slug: catalyst-attack
   title: CATALYST ATTACK
@@ -92,6 +93,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: In our August 25th Baldwin County municipal election coverage, we expose
+  how the Good Ole Boys behind Catalyst changed their name to Scott Boone Consulting
+  to hide their corporate paymasters. Unbridled developers and land speculators fund
+  these political operatives to secure dirty municipal contracts and tax loopholes.
+  Voters in Fairhope, Daphne, and Spanish Fort must stop this corrupt enterprise at
+  the ballot box.
 ---
 Some people new to Baldwin County politics want to know what the hell is CATALYST. CATALYST was the name of the good ole boys until it became so toxic, that they recently changed their name to Scott Boone Consulting. This is the same individual that was running CATALYST, they are just hiding under another name, the smell is the same.
 

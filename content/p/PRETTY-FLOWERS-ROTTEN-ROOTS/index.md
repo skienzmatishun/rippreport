@@ -12,7 +12,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: A pink daisy with visible roots rests on a green background beside a hand inserting a ballot into a cardboard box labeled VOTE
+alttags: A pink daisy with visible roots rests on a green background beside a hand
+  inserting a ballot into a cardboard box labeled VOTE
 related_articles:
 - slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
   title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
@@ -94,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: As part of our August 2025 Fairhope mayoral and council election coverage,
+  we reveal how Jack Burrell and Mayor Sherry Sullivan defend the political machine.
+  Burrell bullies critics and wastes taxpayer cash on failed developer projects while
+  Sullivan collects two unearned city paychecks. Voters must back a challenger candidate
+  slate to break this corrupt hold on city hall.
 ---
 Fauxhope municipal elections have started off with a bang. Five candidates have qualified for city council positions, and support one another in a solid slate. A very smart move. Who would want to be a minority councilman facing a well entrenched cabal of good ole boys, developers, politicians, lawyers, judges and let’s not leave out the District Attorney’s Office.
 

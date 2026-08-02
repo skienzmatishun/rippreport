@@ -6,7 +6,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: Bill Hightower, the CATALYST congressional candidate, stands against a white background in a blue striped shirt with arms outstretched and mouth open as...
+alttags: Bill Hightower, the CATALYST congressional candidate, stands against a white
+  background in a blue striped shirt with arms outstretched and mouth open as...
 related_articles:
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Ahead of the March 3rd congressional primary election, we detail how the
+  Catalyst machine handpicked Bill Hightower to seize power in Washington. Corrupt
+  judges and shady insiders operate this political group like a criminal enterprise
+  to line their own pockets. South Alabama voters must reject Hightower to prevent
+  backroom political bosses from hijacking our constitutional rights.
 ---
 Alabama’s first congressional district has 5 Republican candidates running to fill Bradley Bryrne’s seat.  Only one is CATALYST. GUESS.
 

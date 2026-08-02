@@ -6,7 +6,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: A red pencil with a silver band and gray eraser rests diagonally across a white notepad featuring black horizontal lines
+alttags: A red pencil with a silver band and gray eraser rests diagonally across a
+  white notepad featuring black horizontal lines
 related_articles:
 - slug: community-engagement
   title: COMMUNITY ENGAGEMENT
@@ -33,7 +34,8 @@ related_articles:
   category_score: 0
   rank: 3
 - slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns
   score: 63.88014345293296
   llm_score: 85
   recency_score: 0.22093244406414994
@@ -81,13 +83,19 @@ related_articles:
   category_score: 0
   rank: 9
 - slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns '
   score: 11.571896979246327
   llm_score: 0
   recency_score: 0.21733036510113413
   length_score: 100
   category_score: 0
   rank: 10
+summary: As Baldwin County voters prepare for the Fairhope city council race, we reveal
+  how corrupt council members tried to surrender valuable city land. Council bosses
+  plotted behind closed doors to hand over 106 acres of public property without letting
+  citizens have a voice. Residents must sign the public petition and vote out these
+  shady politicians to protect our public property from backroom land grabs.
 ---
 If you live in Fairhope this petition is of great importance to you and your family. All the petition is asking of the City Council is not to dispose of any city property until the scheduled land use plan and comprehensive plan is completed. The second thing the citizens ask is to be a part of the decision. The Council and Weeks Bay have attempted to go around public participation. That is not the way a democracy works.
 

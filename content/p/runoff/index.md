@@ -6,7 +6,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: A 3D yellow and orange cube with a black slot, from which a white piece of paper featuring a large black X emerges
+alttags: A 3D yellow and orange cube with a black slot, from which a white piece of
+  paper featuring a large black X emerges
 related_articles:
 - slug: public-servant
   title: PUBLIC SERVANT
@@ -68,6 +69,11 @@ related_articles:
   llm_score: 65
   recency_score: 10.039627871668154
   rank: 10
+summary: In this First Congressional District primary analysis, we expose the Catalyst
+  machine's aggressive bid to grab federal power. Special interest brokers spent big
+  bucks to push Bill Hightower, but aware voters slammed the brakes on their toxic
+  political takeover. Citizens across south Alabama must defeat this corrupt political
+  machine before shadowy dealmakers steal our voice in Washington.
 ---
 The First Congressional District race is now down to two, Jerry Carl and Bill Hightower. Carl edged out Hightower overall by 1226 votes. Hightower the CATALYST candidate scored 3126 votes more than Carl in Baldwin County. CATALYST predicted 10,000 votes and fell short by more than 66%, this is a blow to their ego and evidence to their organization disintegrating.
 

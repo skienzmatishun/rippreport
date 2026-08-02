@@ -22,7 +22,8 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: Three men in yellow and black bee costumes stand against a white background, each wearing antennae and posing with different accessories
+alttags: Three men in yellow and black bee costumes stand against a white background,
+  each wearing antennae and posing with different accessories
 related_articles:
 - slug: sting
   title: Sting
@@ -94,6 +95,11 @@ related_articles:
   recency_score: 2.7852796135553795
   category_score: 0
   rank: 10
+summary: In our continuous reporting on the Fairhope city council races, we break
+  down how the infamous Three Bs—Jack Burrell, Kevin Boone, and Robert Brown—used
+  public office for personal profit. These self-serving councilmen handed lucrative
+  city contracts to political allies while candidate Sherry Sullivan plots to rehire
+  disgraced former officials. Fairhope voters must sweep out these corrupt insiders.
 ---
 Two of 5 council seats had no opposition, Place 3, Jimmy Conyers, the best one of the last council will serve 4 more years. Place 2, Cory Martin, the first African American to be elected to council, he had no opposition. Congratulations to both.
 

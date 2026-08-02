@@ -15,7 +15,8 @@ tags:
 - George Ferniany
 authors:
 - ripp-report
-alttags: Two ornate street clocks labeled Fairhope and City of Fairhope stand side by side against a purple background, each showing different times with Roman n...
+alttags: Two ornate street clocks labeled Fairhope and City of Fairhope stand side
+  by side against a purple background, each showing different times with Roman n...
 related_articles:
 - slug: PRETTY-FLOWERS-ROTTEN-ROOTS
   title: PRETTY FLOWERS ROTTEN ROOTS
@@ -97,6 +98,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: As Fairhope voters prepare for the August 2025 city council election, we
+  analyze the challenger slate fighting entrenched incumbents. The sitting council
+  colludes with Mayor Sherry Sullivan to shield special interests and uphold a corrupt
+  good ole boy culture. Voting for this new reform slate gives citizens their best
+  chance to throw out machine insiders and force real accountability.
 ---
 DON’T TAKE THE BAIT — VOTE FOR THE SLATE
 

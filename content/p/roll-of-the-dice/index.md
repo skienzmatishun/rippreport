@@ -9,7 +9,8 @@ categories:
 - elections
 authors:
 - admin
-alttags: Two cream-colored dice with black pips float against a dark background. The left die shows six dots, while the right displays five and three pips
+alttags: Two cream-colored dice with black pips float against a dark background. The
+  left die shows six dots, while the right displays five and three pips
 related_articles:
 - slug: what-education-lottery
   title: WHAT EDUCATION LOTTERY?
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 60
   recency_score: 0.8717125382115642
   rank: 10
+summary: In our state gambling referendum election coverage, we reveal how corrupt
+  Montgomery politicians intentionally block a state lottery to protect special interests.
+  State leaders bleed billions in potential education funds across state lines while
+  secret lobbyists line their pockets with casino money. Alabama voters must demand
+  transparency before lawmakers waste another generation of school funding.
 ---
 Here we go again, for over 20 years Alabama has been discussing a lottery. All that time while they were discussing gambling, Alabama was exporting dollars to other state’s lottery.
 

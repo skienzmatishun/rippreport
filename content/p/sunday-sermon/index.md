@@ -71,6 +71,11 @@ related_articles:
   llm_score: 65
   recency_score: 20.245041755990528
   rank: 10
+summary: In our election analysis of the Baldwin County legislative delegation, we
+  uncover how Senator Chris Elliott steers taxpayer cash to political allies. Elliott
+  arranged a shadowy $867,000 lease with Bay Minette Mayor Bob Wills while dodging
+  DUI trouble and serving Catalyst bosses. Citizens must hold these corrupt officials
+  accountable at the ballot box to stop the blatant theft of public funds.
 ---
 Everyone is in church today, including the members of the Baldwin County Legislative Delegation. They all profess to be God fearing Christians, this is a must to be elected in Alabama. This is a new delegation with some newly elected members. You would think the delegation members would be anxious to put the best foot forward after being elected by their constituents.
 

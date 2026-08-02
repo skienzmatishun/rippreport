@@ -13,7 +13,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Circular seal reading City of Faux Hope Alabama, featuring a yellow face with black eyes and mouth above three sailboats on blue water
+alttags: Circular seal reading City of Faux Hope Alabama, featuring a yellow face
+  with black eyes and mouth above three sailboats on blue water
 related_articles:
 - slug: questions-for-fairhope
   title: QUESTIONS FOR FAIRHOPE
@@ -75,6 +76,11 @@ related_articles:
   llm_score: 70
   recency_score: 17.082369330376963
   rank: 10
+summary: As part of our investigative analysis on the Fairhope mayoral race, we dissect
+  how disgruntled candidate Sherry Sullivan teamed up with the Catalyst machine to
+  oust Mayor Karin Wilson. Sullivan brings a high school education, a trail of workplace
+  failures, and revenge motives funded by corrupt developers. Fairhope voters must
+  choose between Wilson's proven financial reform or Sullivan's backroom deals.
 ---
 Some really weird and scary things are going on in Fairhope. After the https://rippreport.com/ published the Oil “Slick”, seems the BP “good Vibes” guy on the paddle board, freaked out and forgot about his good vibes pledge. Some people have no sense of humor.
 
