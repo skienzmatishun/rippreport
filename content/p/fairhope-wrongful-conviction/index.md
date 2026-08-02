@@ -6,7 +6,7 @@ tags:
 - BCSO
 - Murray Lawrence Jr
 categories:
-- fairhope
+- bcso
 authors:
 - admin
 related_articles:
