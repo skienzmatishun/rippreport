@@ -1,6 +1,7 @@
 ---
 title: "Fly Creek Becomes Developer's Drainage Ditch"
 date: 2014-12-26
+thumbnail: img/fly-creek-drainage-ditch.png
 description: "Mayor uses Christmas holidays to sneak through zoning change for 285 apartments without public participation"
 tags: ["archive", "historical", "fly-creek", "apartments", "zoning", "arthur-corte"]
 authors:
