@@ -1,13 +1,11 @@
 ---
-title: "Pittman & Kant Caught - New and Material Evidence"
+title: "Pittman & Kant Caught"
 date: 2014-02-13
 description: "Mayor Kant lies about who signed BP Boom documents, Leigh Anne Ryals denies involvement"
 tags: ["archive", "historical", "bp-boom-scandal", "trip-pittman", "tim-kant", "leigh-anne-ryals"]
 authors:
 - admin
 ---
-
-**February 13, 2014 Ripp Report #9**
 
 ## Pittman & Kant Caught
 

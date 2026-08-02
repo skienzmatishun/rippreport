@@ -7,10 +7,6 @@ authors:
 - admin
 ---
 
-**Feb. 26, 16**
-
-## Intimidation, A tool of corruption
-
 **Intimidation:** to make timid; make afraid; daunt, to force or deter with threats or violence; simply put bullying.
 
 Intimidation is as common as pecan trees in Baldwin County, used by some politician's judges and attorneys very effectively. A bully's major weapon is intimidation, they go hand in hand. The intimidation may be subtle, such as rumors, or aggressive, threatening additional legal action if you do not comply. Municipal Intimidation is a Mayor exceeding his or her authority over employees, forcing employees to follow instructions, even if they are wrong, or risk losing their jobs. A good example is Mayor Kant and his heavy handed tactics against his own employees and citizens on the issue of Fly Creek Apartments. Intimidation in the family court system in Baldwin County is so woven into the judicial system that the very justice we seek is unavailable. Threatening someone's job or reputation to further the "good Ole Boy" machine is the cardinal rule among bullies.

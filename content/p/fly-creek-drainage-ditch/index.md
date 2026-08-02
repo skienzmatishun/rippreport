@@ -8,8 +8,6 @@ authors:
 - admin
 ---
 
-**December 26 2014**
-
 ## Fly Creek becomes developer's drainage ditch, with Mayor Kant's approval.
 
 I really had not planned to write anything negative during Christmas holidays; however Fairhope's Mayor Tim Kant is using the Christmas holidays as an opportunity to deceive the citizens of Fairhope.

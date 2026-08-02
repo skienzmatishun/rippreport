@@ -1,13 +1,11 @@
 ---
-title: "Report #5 - Alabama Political Corruption Exposed"
+title: "Alabama Political Corruption Exposed"
 date: 2013-09-04
 description: "Deep dive into Alabama Republican machine, Mike Hubbard investigations, and BP Boom Scandal"
 tags: ["archive", "historical", "alabama-corruption", "mike-hubbard", "bp-boom-scandal", "matt-hart"]
 authors:
 - admin
 ---
-
-**September 4, 2013, Report #5**
 
 Dear Fairhopians and Alabama citizens,
 

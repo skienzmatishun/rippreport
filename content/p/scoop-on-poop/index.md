@@ -1,15 +1,12 @@
 ---
 title: "Scoop on Poop"
 date: 2015-07-13
+thumbnail: img/scoop-on-poop.png
 description: "Mayor Kant's geese poop story was a lie - it came from pier bathroom holding tank, not geese"
 tags: ["archive", "historical", "beach-poop", "george-robards", "pier", "coverup"]
 authors:
 - admin
 ---
-
-**July 13, 15**
-
-## Scoop on poop
 
 With a viral video and a flash of media coverage, the media lost interest and did no investigation as to the source of the infamous poop. The Ripp Report however had a very reliable source come forward and offer information, we also have caught Mayor Kant lying so many times that we knew he would stay true to form.
 
