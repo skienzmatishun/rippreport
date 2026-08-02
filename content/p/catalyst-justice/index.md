@@ -13,7 +13,8 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: Two red prohibition signs side by side, one crossing out the word CATALYST and the other crossing out a black scale of justice
+alttags: Two red prohibition signs side by side, one crossing out the word CATALYST
+  and the other crossing out a black scale of justice
 related_articles:
 - slug: american-citizen
   title: AMERICAN CITIZEN
@@ -95,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Our investigation continues into how a corrupt political machine uses appointed
+  judges and city prosecutors to shield violent cronies from jail. Formal letters
+  to the District Attorney and court orders reveal how legal technicalities were intentionally
+  manufactured to drop serious charges. This rigged system leaves victims behind while
+  corrupt leaders celebrate impunity.
 ---
 How many people remember Sen Tripp Pittman and his theft of BP money to the tune of $750,000 dollars?
 

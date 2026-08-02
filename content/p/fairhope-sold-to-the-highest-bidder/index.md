@@ -6,7 +6,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A man in a dark suit and pink tie addresses an audience at a wooden Christies podium outdoors, with an American flag and fountain behind him
+alttags: A man in a dark suit and pink tie addresses an audience at a wooden Christies
+  podium outdoors, with an American flag and fountain behind him
 related_articles:
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Carrying forward our Quid Quo Pro investigation, Fairhope councilmen emptied
+  five municipal accounts to complete a shady real estate purchase. Bank statements
+  and audit papers show how council members ignored budget warnings to deliver a lucrative
+  favor to their inner circle. We reveal who profited when our town got sold to the
+  highest bidder.
 ---
 The citizens of Fairhope must know that they are being sold out by developers, the city council and those with appointed positions, such as municipal judge. In the mist of the Fairhope budget process the CATALYST Council, Boone Burrell and Brown are proposing a 2.65 million dollar purchase, supported by a questionable appraisal, for recreation land that will not be used for years.
 

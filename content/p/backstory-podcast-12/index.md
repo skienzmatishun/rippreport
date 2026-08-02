@@ -78,6 +78,11 @@ related_articles:
   recency_score: 79.6604260196822
   category_score: 0
   rank: 10
-alttags: Aerial view of a residential area overlaid with a white layout, pink and white zones, red property lines, and text requesting PUD ordinance inclusion
+alttags: Aerial view of a residential area overlaid with a white layout, pink and
+  white zones, red property lines, and text requesting PUD ordinance inclusion
+summary: Local officials expanded government budgets and shielded connected insiders
+  from legal fallout across Baldwin County. Court records and budget files detail
+  how political favors dictate justice in our courts. Will the court of public opinion
+  finally hold these good ole boys accountable?
 ---
 {{< youtubecomments >}}

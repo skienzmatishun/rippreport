@@ -16,7 +16,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: A teal face mask with a red X on the left, and a hand holding an open fan with a green checkmark on the right
+alttags: A teal face mask with a red X on the left, and a hand holding an open fan
+  with a green checkmark on the right
 related_articles:
 - slug: jackass-jack
   title: JACKASS JACK
@@ -98,6 +99,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Jack Burrell and his political allies recklessly downplayed public safety
+  risks while pushing massive local gatherings. Official updates expose how key decision-makers
+  quickly vanished into quarantine after dismissing expert health advice. Can Fairhope
+  trust leaders who abandon ship the moment their own reckless choices catch up to
+  them?
 ---
 Last night Spanish Fort played Fairhope in football. The stands were full, social distancing was all but impossible.
 

@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A heavily blurred nighttime photograph of a police car with illuminated headlights and flashing blue and red emergency lights on the roof
+alttags: A heavily blurred nighttime photograph of a police car with illuminated headlights
+  and flashing blue and red emergency lights on the roof
 related_articles:
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A secretive political machine hijacked city government to funnel public money
+  directly to wealthy developers. Financial paper trails expose a web of dummy companies
+  created to hide massive conflicts of interest. We uncover the shadowy enterprise
+  operating behind closed doors in Fairhope.
 ---
 Fairhope being run as a Criminal Enterprise?
 

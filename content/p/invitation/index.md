@@ -93,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City council members secretly bought millions in overpriced land without
+  public input while voting themselves full health benefits. Public financial records
+  show how three councilmen plunged Fairhope into debt while ignoring citizens at
+  every turn. Our latest report demonstrates how public outrage finally forced their
+  hand.
 ---
 Fairhope Mayor Wilson is inviting the citizens of Fairhope, again, to participate in the next upcoming presentation of the Waterfront project.
 

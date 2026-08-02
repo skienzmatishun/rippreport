@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Black-framed glasses with the word CATALYST divided across both lenses, each half crossed out by a red diagonal slash
+alttags: Black-framed glasses with the word CATALYST divided across both lenses, each
+  half crossed out by a red diagonal slash
 related_articles:
 - slug: nail-in-the-coffin
   title: NAIL IN THE COFFIN
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Building on our recent exposure of local backroom deals, three council members
+  raided taxpayer accounts to buy millions in unapproved land. Financial records prove
+  the council bypassed public meetings and ignored federal guidelines to reward their
+  political ring. Can Fairhope taxpayers afford to keep funding Catalyst's secret
+  spending spree?
 ---
 Incredible, only three Fairhope City Councilmen, the 3 B’s, Burrell, Brown and Boone, approved and purchased, 2.65 million in land for recreation, that did NOT have the approval of National Park Service. They did this without any public participation and a very questionable appraisal. Then they closed the sale with lighting speed.
 

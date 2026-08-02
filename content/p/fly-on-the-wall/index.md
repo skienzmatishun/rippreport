@@ -14,7 +14,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Black and white line drawing of a fly viewed from above, showing its wings, antennae, and segmented body
+alttags: Black and white line drawing of a fly viewed from above, showing its wings,
+  antennae, and segmented body
 related_articles:
 - slug: bull
   title: BULL SITTING Fairhope
@@ -96,6 +97,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Sherry Sullivan and old-guard insiders orchestrated political drama behind
+  closed doors to undermine the city administration. Secret emails uncover how entrenched
+  bureaucrats manufactured public scandals using local police department resignations.
+  We take you inside the room where the conspiracy was hatched.
 ---
 Comment:
 

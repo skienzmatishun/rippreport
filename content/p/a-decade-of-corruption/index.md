@@ -18,7 +18,8 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: A balance scale shows a money bag with a dollar sign on the left pan and a stick figure person on the right, tilted downward toward the money
+alttags: A balance scale shows a money bag with a dollar sign on the left pan and
+  a stick figure person on the right, tilted downward toward the money
 related_articles:
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
@@ -100,6 +101,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage, powerful state and local officials orchestrated
+  a massive illegal BP oil spill scheme that drained public coffers for years. Financial
+  checks and unapproved contract files reveal hundreds of thousands in taxpayer dollars
+  paid out without licenses or ethics approval. The Ripp Report exposes how ten years
+  of shadowy deals went completely unpunished.
 ---
 Baldwin County is a cesspool of political and judicial corruption. In the last 10 years the citizens of Baldwin County, especially Fairhope, have been slapped in the face with blatant corruption. Complaints to the Attorney General do not even generate a response. The Judiciary, Bar and Ethics Commission have a repeated record of one paragraph responses dismissing any and all documented evidence.
 

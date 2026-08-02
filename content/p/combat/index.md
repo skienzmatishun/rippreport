@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A bald eagle with a white head and dark brown body faces forward against a solid red background
+alttags: A bald eagle with a white head and dark brown body faces forward against
+  a solid red background
 related_articles:
 - slug: im-back
   title: I'M BACK
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corrupt politicians used public utility funds like a private slush fund while
+  ignoring critical city repairs. Public records prove former leaders wasted millions
+  on legal fees instead of fixing broken infrastructure. Join the fight for honest
+  government by diving into our latest report.
 ---
 My first visit to the Veterans Hospital in Birmingham Alabama was in December of 1968, 51 years ago. Since that time I have had 14 shoulder operations and a kidney removed as a result of my tour of duty as a young Marine in Vietnam.
 

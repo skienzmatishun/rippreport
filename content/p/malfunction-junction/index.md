@@ -9,7 +9,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A top-down traffic diagram of a complex intersection with lanes, lights, and yield signs. The green background shows the Fairhope City Council logo
+alttags: A top-down traffic diagram of a complex intersection with lanes, lights,
+  and yield signs. The green background shows the Fairhope City Council logo
 related_articles:
 - slug: danger-zone
   title: DANGER ZONE
@@ -91,6 +92,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City council members cut a backroom deal with a favored developer that flooded
+  local streets with dangerous traffic. Internal documents show officials approved
+  high-density apartments while ignoring severe safety warnings at a notorious intersection.
+  Read the full investigation to see who profits from gridlocking our community.
 ---
 Highway 98 and Parker Road is Fairhope’s Malfunction Junction, compliments of a Catalyst City Council. Fairhope’s City Council supported the developer, and the developer supported them. A good ole boy deal that will impact every citizen in Fairhope and everyone else that goes through that intersection.
 

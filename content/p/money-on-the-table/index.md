@@ -102,6 +102,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope council members stalled millions in federal grant money and rejected
+  vital business aid while wasting taxpayer dollars on bad real estate. Audit trails
+  and lease agreements show the city bought millions in farmland without public input
+  only to rent it back for pennies. We expose why millions in economic help remain
+  sitting on the table while taxpayers pay the price.
 ---
 It is no secret that the Fairhope City Council is CATALYST through and through. It is also well documented that the council opposes, procrastinates or just refuses anything the Mayor may propose. Even projects that have been previously endorsed by the council, are delayed or canceled by the council.
 

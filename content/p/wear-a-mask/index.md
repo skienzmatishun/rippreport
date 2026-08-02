@@ -8,7 +8,8 @@ tags:
 - covid-19
 authors:
 - admin
-alttags: Two medical professionals wearing blue scrubs, surgical caps, and face masks converse in an operating room with medical monitors visible
+alttags: Two medical professionals wearing blue scrubs, surgical caps, and face masks
+  converse in an operating room with medical monitors visible
 related_articles:
 - slug: catalyst-missing-in-action
   title: CATALYST MISSING IN ACTION
@@ -90,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Top Fairhope leaders recklessly ignored safety warnings and pushed massive
+  public gatherings to cover up their administrative failures. Internal communications
+  and health records confirm that elected officials caught the virus right after blocking
+  safety mandates. Discover why their public outrage was nothing more than a calculated
+  act.
 ---
 {{< socialpreview url="https://www.lagniappemobile.com/opinion/letters_to_editor/stop-being-selfish/article_ec890f30-e390-5d2c-b8ee-4b10b95cbe5e.html" >}}
 

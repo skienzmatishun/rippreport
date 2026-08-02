@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A swirling cluster of rolled US dollar bills radiating outward from a central point against a solid green background
+alttags: A swirling cluster of rolled US dollar bills radiating outward from a central
+  point against a solid green background
 related_articles:
 - slug: its-no-joke
   title: IT’S NO JOKE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corrupt politicians in Montgomery and Fairhope leveraged pandemic chaos to
+  line developer pockets while public health ranked dead last. Newly uncovered legislative
+  documents and paper trails reveal how officials quietly shifted relief funds into
+  private hands. The Ripp Report breaks down the true cost of this political contagion.
 ---
 Again Alabama is dead last in response time for the corona virus, COVD-19. We have a Pandemic on our hands and most people are focused on medical issues.
 

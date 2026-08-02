@@ -6,7 +6,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A map of the proposed KLUMP PUD development site overlaid with the word CATALYST, where each letter contains detailed architectural plans
+alttags: A map of the proposed KLUMP PUD development site overlaid with the word CATALYST,
+  where each letter contains detailed architectural plans
 related_articles:
 - slug: I-SEE-YOU
   title: I SEE YOU
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Expanding our conflict of interest coverage, city leaders pushed a massive
+  commercial and residential development owned by their appointed municipal judge.
+  Public filings expose how council members shifted infrastructure costs onto local
+  citizens to ensure maximum developer profit along Highway 181. Uncover how political
+  insider deals created this corridor of chaos.
 ---
 ## North is up
 

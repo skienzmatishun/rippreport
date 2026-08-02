@@ -17,7 +17,8 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: A group of people pose around a long table in a dimly lit room, with papers and drinks on the surface and a blue neon sign on the wall
+alttags: A group of people pose around a long table in a dimly lit room, with papers
+  and drinks on the surface and a blue neon sign on the wall
 related_articles:
 - slug: catalyst-ass-whoopin
   title: CATALYST ASS WHOOPIN
@@ -99,6 +100,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A shadowy coalition of political operatives is quietly planting puppet candidates
+  across Baldwin County to seize total municipal control. Campaign financial logs
+  and leaked insider emails trace thousands in dark money flowing from rich developers
+  directly into slate campaigns. Unmask the political puppets pulling the strings
+  in your local government today.
 ---
 Everyone in Baldwin County should be aware of CATALYST. They are a powerful, mostly secret, political group that represent the Status Quo, the good ole boys. Good ole boys exist in many places however in Baldwin County they have been bold enough to adopt the title of CATALYST.
 

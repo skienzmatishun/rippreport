@@ -91,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Our ongoing Catalyst Colors probe reveals how councilmen Burrell, Brown,
+  and Boone drained city reserves to buy overpriced property without a budget. Documents
+  show the council used a rigged land appraisal and secretly planned to lease the
+  land back for pocket change. Read full details to see who put the final nail in
+  Fairhope's financial coffin.
 ---
 The Fairhope City council just put the final nail in their re-election coffin.
 

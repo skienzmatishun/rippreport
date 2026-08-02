@@ -7,7 +7,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A green balance scale with two yellow beer mugs hanging from its pans, set against a diagonal orange and green starburst background
+alttags: A green balance scale with two yellow beer mugs hanging from its pans, set
+  against a diagonal orange and green starburst background
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on our Judicial Trick report, local legal elites protected a
+  favored bar owner from serious assault charges after violent barroom attacks. Internal
+  court files demonstrate how municipal attorneys intentionally bungled charges so
+  a circuit judge could throw out the victim's case. The Ripp Report shines a light
+  on what really happens inside this political watering hole.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jZvmfU5BegU" frameborder="0" allowfullscreen></iframe>
 

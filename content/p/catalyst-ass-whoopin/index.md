@@ -17,7 +17,8 @@ tags:
 - sullivan
 authors:
 - admin
-alttags: A smiling cartoon figure in an orange shirt stands next to a red paddleball racket featuring a red circle with a diagonal slash over the text CATALYST
+alttags: A smiling cartoon figure in an orange shirt stands next to a red paddleball
+  racket featuring a red circle with a diagonal slash over the text CATALYST
 related_articles:
 - slug: catalyst-attack
   title: CATALYST ATTACK
@@ -99,6 +100,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Shadowy political machine CATALYST attempted to hijack local elections while
+  funneling public money into questionable real estate schemes. Voting data and corporate
+  filings reveal a massive voter backlash that shattered their secretive control network.
+  Read the full breakdown to see how the entire machine collapsed overnight.
 ---
 Fairhope’s CATALYST group is licking their wounds after the election of Jerry Carl. What is important is the major shift in voting away from CATALYST candidates. Carl’s opponent “Lowtower” made a major mistake by hooking up with CATALYST, aka Scott Boone Consultant.
 

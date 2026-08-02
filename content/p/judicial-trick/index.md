@@ -6,7 +6,8 @@ categories:
 - stormy-saturday
 authors:
 - admin
-alttags: A black top hat with a magic wand protruding from its opening, overlaid by a red prohibition circle containing the word Catalyst
+alttags: A black top hat with a magic wand protruding from its opening, overlaid by
+  a red prohibition circle containing the word Catalyst
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A city prosecutor threw a high-profile violent crime case by missing a basic
+  legal deadline on purpose. Court transcripts prove officials held medical proof
+  of injury for months while letting the clock run out. We reveal how backroom legal
+  maneuvering let a convicted attacker walk completely free.
 ---
 Baldwin County has had a reputation of judicial malfeasance, trickery and out right corruption. Citizens read about it in Lagniappe or on line however nothing changes. Some Judges and lawyers feel insulated from any accountability, they are shielded by an inept system that abuses it’s citizens. Ethics laws are designed to PROTECT the very elected and appointed officials that use their positions, to their advantage/
 

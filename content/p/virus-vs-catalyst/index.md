@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A blue surgical mask on the left and a red circle with a diagonal line over the text CATALYST on the right
+alttags: A blue surgical mask on the left and a red circle with a diagonal line over
+  the text CATALYST on the right
 related_articles:
 - slug: catalyst-central
   title: CATALYST CENTRAL
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope political operatives hijacked a critical congressional primary runoff
+  to protect their shadowy local development scheme. Financial disclosures and campaign
+  filings expose dark-money PACs funneling thousands directly to machine-backed insiders.
+  Uncover how this ruthless political machine attempted to buy a seat in Washington.
 ---
 I do hope people are heeding the warnings related to COVD-19. May I suggest, Dr Sanjay Gupta’s
 

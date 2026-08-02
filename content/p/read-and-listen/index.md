@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A flat illustration of a person reading an open newspaper with the purple title Lagniappe on the right page
+alttags: A flat illustration of a person reading an open newspaper with the purple
+  title Lagniappe on the right page
 related_articles:
 - slug: blind-leading-the-blind
   title: BLIND LEADING THE BLIND
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilmen Robert Brown and Jack Burrell traded official city actions for
+  personal and financial kickbacks. Investigative findings reveal how council members
+  rigged contracts and hid ethics complaints from the public. The Ripp Report brings
+  you the hard facts that local officials try to silence.
 ---
 The Fairhope City Council is really showing their colors.
 

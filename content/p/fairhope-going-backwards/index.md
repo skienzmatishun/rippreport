@@ -19,7 +19,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Circular Fairhope, Alabama city seal with arched text and a central design showing a yellow sky, white clouds, a flying bird, and three sailboats
+alttags: Circular Fairhope, Alabama city seal with arched text and a central design
+  showing a yellow sky, white clouds, a flying bird, and three sailboats
 related_articles:
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
@@ -101,6 +102,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The corrupt political machine known as Catalyst engineered a scheme to drag
+  Fairhope back into old-school graft. Internal financial trails link city council
+  members to shady special interests and missing grant funds. Follow the money to
+  see the exact blueprint behind this backward slide into greed.
 ---
 In 2016 I backed Karin Wilson and the current city council, which includes Burrell Boone and Brown. I got one out of four right, Karin Wilson. I was wrong in trusting Burrell, Boone or Brown but I wanted to believe them when they said that they were independent individuals with only Fairhope’s best interest at heart. What total BS that turned out to be, all three have betrayed Fairhope and used their elected office for personal gain.
 

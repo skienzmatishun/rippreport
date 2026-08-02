@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Black silhouette icon of a house with a triangular roof, chimney, and doorway. This visual supports the articles guidance to stay home
+alttags: Black silhouette icon of a house with a triangular roof, chimney, and doorway.
+  This visual supports the articles guidance to stay home
 related_articles:
 - slug: 4-20
   title: 4-20
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State and local leaders failed the public by delaying critical health orders
+  as virus numbers skyrocketed. Infection data and official letters demonstrate how
+  political games put thousands of lives at risk. How many citizens suffered because
+  politicians refused to listen to medical experts?
 ---
 Stay home. Since the report below was posted, in less than 12 hours, the number of cases has risen by 136 cases and deaths are at 36.
 

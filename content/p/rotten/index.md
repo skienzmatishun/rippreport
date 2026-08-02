@@ -6,7 +6,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Circular municipal seal for Fairhope, Alabama, misspelled as Faux Hope, featuring a yellow sun, white clouds, a flying bird, and three sailboats
+alttags: Circular municipal seal for Fairhope, Alabama, misspelled as Faux Hope, featuring
+  a yellow sun, white clouds, a flying bird, and three sailboats
 related_articles:
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell ran a corrupt political machine that drained
+  city reserves and protected insiders. Records show how hidden police files and airport
+  bid-rigging schemes turned a city surplus into a massive deficit. Strip away the
+  polished public image and the core of local government remains completely decayed.
 ---
 <div class="link-preview">
 

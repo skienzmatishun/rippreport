@@ -13,7 +13,8 @@ tags:
 - raines
 authors:
 - admin
-alttags: A wolf silhouette howls on a rock during a rainstorm. A red prohibition sign with a diagonal line crosses out the word CATALYST in black text
+alttags: A wolf silhouette howls on a rock during a rainstorm. A red prohibition sign
+  with a diagonal line crosses out the word CATALYST in black text
 related_articles:
 - slug: where-hell-were-you
   title: WHERE HELL WERE YOU?
@@ -95,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A disgraced former journalist collaborated with local politicians to publish
+  misleading attacks against vital city infrastructure grants. Historical records
+  and campaign documents expose how a paid operative pushed fabricated claims to protect
+  developer interests. Follow our investigation to see how this ghostwriter was caught
+  red-handed.
 ---
 Be sure to read the New York Times Article, the last link on this article.
 

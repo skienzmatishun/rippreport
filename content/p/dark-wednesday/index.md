@@ -8,7 +8,8 @@ tags:
 - covid-19
 authors:
 - admin
-alttags: Three area charts show cumulative Covid-19 cases, deaths, and tests from March 15 to May 24. Each graph displays a rising trend with red, pink, and blue...
+alttags: Three area charts show cumulative Covid-19 cases, deaths, and tests from
+  March 15 to May 24. Each graph displays a rising trend with red, pink, and blue...
 related_articles:
 - slug: shelter-in-place
   title: SHELTER IN PLACE
@@ -90,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Former politicians are quietly positioning themselves to cash in on new state-regulated
+  industries while public health crises rage. Newly uncovered lobbyist registries
+  and financial filings reveal key power players exploiting backroom influence for
+  personal profit. Will Alabamians hold these opportunists accountable before the
+  money vanishes?
 ---
 In 111 days, 100,000 American souls have been lost to Covid-19.
 

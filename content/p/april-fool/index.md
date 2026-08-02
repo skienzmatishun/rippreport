@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A white skull with black eye sockets and teeth wearing a green jester hat featuring three red pom-poms against a light gray background
+alttags: A white skull with black eye sockets and teeth wearing a green jester hat
+  featuring three red pom-poms against a light gray background
 related_articles:
 - slug: backstory-podcast-no-75-a-year-of-plague
   title: A Year of Plague
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Political insiders tricked citizens into believing a public health emergency
+  was nothing more than a political hoax. State rankings and audit records expose
+  deep systemic corruption that leaves taxpayers paying the ultimate price. We detail
+  how blind political loyalty leads straight to total financial ruin.
 ---
 The month of April starts out with a day for fools, APRIL FOOL’S DAY. In Alabama some citizens are participating a 100%, at the potential risk of others.
 

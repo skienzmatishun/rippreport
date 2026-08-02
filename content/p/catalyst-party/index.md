@@ -6,7 +6,8 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: The word Catalyst in black capital letters is crossed out with a red prohibition symbol, surrounded by festive red and silver confetti streamers
+alttags: The word Catalyst in black capital letters is crossed out with a red prohibition
+  symbol, surrounded by festive red and silver confetti streamers
 related_articles:
 - slug: disposal
   title: DISPOSAL
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell and his allies shut out the public while pushing
+  through questionable financial deals. Official meeting agendas expose how council
+  members approved multi-million dollar deals and personal perks behind closed doors.
+  Public health restrictions became the perfect cover for unchecked political greed.
 ---
 The last Fairhope’s City Council meeting was only 30 minutes, maybe the shortest meeting on record. A short meeting, however some very interesting subjects. To save you a little time check in at 12:40 minute mark, beginning of #7.
 

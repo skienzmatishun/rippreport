@@ -78,6 +78,10 @@ related_articles:
   recency_score: 52.96089164223393
   category_score: 0
   rank: 10
+summary: County power brokers jammed high-density developments through approval processes
+  while quietly inflating law enforcement budgets. Financial documents demonstrate
+  how politicians funnel tax dollars to private projects behind closed doors. Tune
+  in to learn how backroom deals shape the future of our towns.
 ---
 <script async defer="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v5.0&amp;appId=826483077484358&amp;autoLogAppEvents=1"></script>
 

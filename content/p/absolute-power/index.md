@@ -96,6 +96,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Jack Burrell and City Attorney Marcus McDowell manipulated municipal power
+  to shield their political allies from criminal charges. Records show McDowell intentionally
+  let legal deadlines pass on a recorded assault case to safeguard a well-connected
+  buddy. The Ripp Report reveals how absolute power corrupts the entire Fairhope system.
 ---
 > Power corrupts absolute power corrupts absolutely
 

@@ -13,7 +13,8 @@ tags:
 - robert-brown
 authors:
 - admin
-alttags: Campaign poster for Howell Gibbens, City Council Place 4 candidate, on a red background with white and yellow text reading Lets Slow Down
+alttags: Campaign poster for Howell Gibbens, City Council Place 4 candidate, on a
+  red background with white and yellow text reading Lets Slow Down
 related_articles:
 - slug: quid-quo-pro
   title: QUID QUO PRO
@@ -95,6 +96,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Incumbent Councilman Robert Brown exploited his public position to line his
+  own pockets through corrupt land deals. State ethics complaints document how Brown
+  favored developer money over the basic needs of local residents. Will voters finally
+  demand accountability or let the greed continue unchecked?
 ---
 Where we should be…
 

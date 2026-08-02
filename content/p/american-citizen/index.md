@@ -97,6 +97,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City leaders shielded a preferred foreign business owner after he viciously
+  attacked an American citizen in public. Formal legal demands and police records
+  show a coordinated push to bury the assault and strip the victim of her livelihood.
+  The Ripp Report exposes the shameful political favors protecting this repeat offender.
 ---
 A good example of Baldwin County incompetence, political interference, lack of ethics, CATALYST, corruption and judicial failure, is all exposed in one incident, the McSharry assault case.
 

@@ -10,7 +10,8 @@ tags:
 - mcsharry
 authors:
 - admin
-alttags: Black silhouette of a scarecrow wearing a top hat with outstretched arms and birds perched on its shoulders, set against a white background featuring a ...
+alttags: Black silhouette of a scarecrow wearing a top hat with outstretched arms
+  and birds perched on its shoulders, set against a white background featuring a ...
 related_articles:
 - slug: catalyst-stacking-the-deck
   title: CATALYST STACKING THE DECK
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilman Kevin Boone and his corrupt political network used a labyrinth
+  of secret shell companies to line developer pockets. Court filings and corporate
+  records expose an intricate web of hidden partnerships designed to evade public
+  oversight and ethics laws. Discover how deep this tangled web of insider self-dealing
+  really goes.
 ---
 Many people watched the bully council in their last meeting where Councilman Boone flipped out at the end of the meeting. What many people did not know was why? Watch the video again and you will see that when I mention the “Strawman” series in Lagniappe, Boone realized that I had read some of the latest information submitted to the Alabama Judiciary related to the case.
 

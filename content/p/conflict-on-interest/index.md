@@ -8,7 +8,8 @@ categories:
 - podcast
 authors:
 - admin
-alttags: A wooden gavel rests beside an olive green plaque with gold lettering that reads CONFLICT OF INTEREST on a reddish-brown wooden surface
+alttags: A wooden gavel rests beside an olive green plaque with gold lettering that
+  reads CONFLICT OF INTEREST on a reddish-brown wooden surface
 related_articles:
 - slug: fairness
   title: FAIRNESS
@@ -90,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on our Catalyst Colors investigation, Fairhope City Council
+  appointed a municipal judge who double-dips as the town's biggest property developer.
+  Leaked records and meeting minutes reveal how councilmen rigged zoning rules and
+  pushed through multi-million dollar deals for their insider ally. The Ripp Report
+  exposes how deep this conflict of interest really goes.
 ---
 The question is: How can a city council approve the largest development in Fairhope when the Municipal Judge is the developer, that the same council appointed Judge? “Who on the council has a vested personal interest in this project”.
 

@@ -7,7 +7,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A person in a colorful jester costume with striped pants and a multi-colored hat stands against a white background, holding an object in one hand
+alttags: A person in a colorful jester costume with striped pants and a multi-colored
+  hat stands against a white background, holding an object in one hand
 related_articles:
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF
@@ -89,6 +90,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilman Robert Brown used his public office for personal enrichment while
+  ignoring public health warnings. State ethics complaints and real estate filings
+  document his sole-bid contract wins and secret property grabs. The Ripp Report pulls
+  back the curtain on this self-serving political circus.
 ---
 Wake up Fairhope, and Baldwin County, pay attention to what your local municipal government is telling you during the corona virus pandemic.
 

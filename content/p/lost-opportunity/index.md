@@ -6,7 +6,8 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: Aerial view of rectangular agricultural fields, intersecting roads, and scattered vegetation
+alttags: Aerial view of rectangular agricultural fields, intersecting roads, and scattered
+  vegetation
 related_articles:
 - slug: nail-in-the-coffin
   title: NAIL IN THE COFFIN
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council members forced a reckless multi-million dollar land purchase that
+  stripped essential city services of funding. Budget spreadsheets and council votes
+  confirm emergency cuts to police and fire match the exact cost of the deal. Discover
+  how local leaders sacrificed emergency workers to pay for their pet project.
 ---
 The Mayor of Fairhope is cutting the city budget to compensate for the anticipated loss of municipal income due to COVD-19.
 

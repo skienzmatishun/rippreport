@@ -6,7 +6,8 @@ categories:
 - Special-Report
 authors:
 - admin
-alttags: Close-up portrait of Jerry Carl, a congressional candidate, wearing glasses and a white shirt against a blurred indoor background
+alttags: Close-up portrait of Jerry Carl, a congressional candidate, wearing glasses
+  and a white shirt against a blurred indoor background
 related_articles:
 - slug: first-congressional-district
   title: FIRST CONGRESSIONAL DISTRICT
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Outside special interest groups and the Catalyst machine funneled dark money
+  into Baldwin County to buy a congressional seat. Campaign filings and donor lists
+  reveal the hidden network of developers funding smear campaigns against local candidates.
+  Baldwin County voters deserve to know who really buys their politicians.
 ---
 Vote Jerry Carl July 14th for Congress
 

@@ -6,7 +6,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A person in a brown, chocolate-bar costume wears glasses and holds a yellow sign reading KEEP CANT with a crossed-out symbol. Cars are on the road behind
+alttags: A person in a brown, chocolate-bar costume wears glasses and holds a yellow
+  sign reading KEEP CANT with a crossed-out symbol. Cars are on the road behind
 related_articles:
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Former Mayor Tim Kant and council allies dragged taxpayers into an eleven-million-dollar
+  lawsuit disaster. Uncovered documents prove leaders lied about buying a new public
+  park to cover up a disastrous legal settlement. When you shine a bright light on
+  local politics, the pests scatter in every direction.
 ---
 A “TRIANGLE CONSERVANCY” has been formed and guess who one of the major players is?
 

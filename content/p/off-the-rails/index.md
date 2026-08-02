@@ -6,7 +6,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Orange CP Rail locomotive featuring a Fairhope City logo on its front, angled upward against a flat brown terrain and blue sky
+alttags: Orange CP Rail locomotive featuring a Fairhope City logo on its front, angled
+  upward against a flat brown terrain and blue sky
 related_articles:
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilmen Burrell, Boone, and Brown ignored rotting sewer pipes to throw
+  millions at an unnecessary real estate deal. Official records prove the council
+  spent crucial infrastructure funds on farmland just before declaring it surplus.
+  How much longer will taxpayers let this runaway council derail Fairhope's future?
 ---
 JANUARY 10 2020 BACKSTORY PODCAST TODAY
 

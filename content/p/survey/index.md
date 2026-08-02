@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Aerial map highlighting Fairhopes Working Waterfront site, showing a circular plaza, central pond, green spaces, and a pier extending into the water
+alttags: Aerial map highlighting Fairhopes Working Waterfront site, showing a circular
+  plaza, central pond, green spaces, and a pier extending into the water
 related_articles:
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Jack Burrell and his council allies secretly spent millions on unwanted farmland
+  before quietly handing it off to private interests. Property records and backdated
+  appraisal documents confirm a calculated plot to bypass public notice and drain
+  city reserves. Read the full report to see how town leaders squandered taxpayer
+  dollars.
 ---
 Last night’s, State of the City of Fairhope, was a success and the employees represented the city proudly. A 35 page report was presented and I encourage citizens of Fairhope to drop by City Hall and get a copy.
 

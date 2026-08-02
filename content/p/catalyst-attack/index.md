@@ -11,7 +11,8 @@ tags:
 - scott-boone
 authors:
 - admin
-alttags: Campaign signs for Kevin Boone, Sherry, and Jack Burrell stand in grass near a sidewalk. One sign displays a red prohibition symbol over CATALYST
+alttags: Campaign signs for Kevin Boone, Sherry, and Jack Burrell stand in grass near
+  a sidewalk. One sign displays a red prohibition symbol over CATALYST
 related_articles:
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The Catalyst machine rebranded under a new name to launch a secret offensive
+  across Baldwin County elections. Financial disclosures uncover a massive network
+  of developers secretly funding a slate of hand-picked candidates. Learn the truth
+  about who really pulls the strings in our local elections.
 ---
 If you live in Baldwin County, please share this post as much as possible. This is very IMPORTANT.
 

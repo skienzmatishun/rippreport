@@ -6,7 +6,8 @@ categories:
 - monday-madness
 authors:
 - admin
-alttags: A blue surgical mask is on the left, beside a red prohibition symbol over the black text CATALYST
+alttags: A blue surgical mask is on the left, beside a red prohibition symbol over
+  the black text CATALYST
 related_articles:
 - slug: catalyst-players
   title: CATALYST PLAYERS
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 10
+summary: Scott Boone and his family network infected Baldwin County politics by rigging
+  municipal elections for major builders. Leaked corporate records and campaign registries
+  show an organized web of shell companies bankrolling compliant officials. Discover
+  the shocking cure for this widespread municipal corruption.
 ---
 Beware of the Baldwin County CATALYST VIRUS. It is a political Virus spread by politicians that support unbridled development, low or no impact fees, no school impact fees, increased traffic and no planning or county sewer regulation. This virus will effect your quality of life, schools and property values.
 

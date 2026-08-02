@@ -13,7 +13,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: A gray metal viewing scope mounted on a railing overlooking the Fairhope waterfront, labeled for distant viewing
+alttags: A gray metal viewing scope mounted on a railing overlooking the Fairhope
+  waterfront, labeled for distant viewing
 related_articles:
 - slug: invitation
   title: INVITATION
@@ -95,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilman Robert Brown and his political cronies actively sabotaged a multi-million
+  dollar waterfront initiative just to launch a smear campaign against the mayor.
+  Formal ethics complaints and internal records expose how these officials prioritized
+  personal grudges over millions in grant funding. The Ripp Report exposes what they
+  pretended not to know.
 ---
 In response to Councilman Brown about his position on the Waterfront,
 

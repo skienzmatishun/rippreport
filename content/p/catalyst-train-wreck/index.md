@@ -15,7 +15,8 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: Modified circular seal for Fairhope, Alabama, reading City of Faux Hope and showing flames, a yellow circle, and a military tank
+alttags: Modified circular seal for Fairhope, Alabama, reading City of Faux Hope and
+  showing flames, a yellow circle, and a military tank
 related_articles:
 - slug: communication
   title: COMMUNICATION
@@ -97,6 +98,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on local judicial cover-ups, city insiders deliberately bungled
+  a violent assault prosecution to protect a favored political crony. Court dockets
+  and omitted charging documents reveal how officials intentionally missed deadlines
+  so the offender walked free. We unpack the entire derailment of justice before the
+  next cover-up unfolds.
 ---
 Instead of a lot of links and dialog, this Freaky Friday is going to feature a portion of lasts nights Fairhope City Council Meeting:
 

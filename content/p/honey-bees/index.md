@@ -6,7 +6,8 @@ categories:
 thumbnail: img/honey-bees.png
 authors:
 - admin
-alttags: Three men dressed in yellow and black bee costumes stand against a white background, identified as Fairhope Council members Burrell, Boone, and Brown
+alttags: Three men dressed in yellow and black bee costumes stand against a white
+  background, identified as Fairhope Council members Burrell, Boone, and Brown
 related_articles:
 - slug: down-home-fairhope-jester
   title: “DOWN HOME” FAIRHOPE JESTER
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our Quid Quo Pro investigation, three greedy council members lined
+  their pockets with secret health benefits and questionable property schemes. Sworn
+  documents show the trio voted to block public comment while spending millions on
+  land linked to key political campaign donors. The Ripp Report shows how these worker
+  bees got caught with their hands in the honey pot.
 ---
 The Fairhope Council is made up of all Catalyst candidates. Three bees, Burrell, Boone and Brown, who have all used their elected office for personal gain, are going for the honey, again.
 

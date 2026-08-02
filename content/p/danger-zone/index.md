@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope officials knowingly created a deadly traffic disaster at Highway
+  98 to accommodate developer Angelo Corte's multi-million dollar expansion. Official
+  engineering reports and council votes reveal how leaders disregarded public safety
+  hazards to shield private land deals. The Ripp Report exposes why town leaders put
+  developer profits above human lives.
 ---
 Highway 98 and Parker Road are becoming more dangerous with every passing day. You can thank the CATALYST Fairhope City Council, former Fairhope Mayor Can’t, and property owner Angelo Corte, a CATALYST supporter.
 

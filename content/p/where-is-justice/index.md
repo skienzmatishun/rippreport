@@ -93,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope court officials and a city attorney deliberately allowed a violent
+  offender to escape justice through calculated delays. Internal letters and court
+  filings reveal how officials ignored critical medical evidence while protecting
+  local political allies. Read the full story to see how the good ole boy network
+  rigged the legal system.
 ---
 Is it just a coincidence that Fairhope City Council canceled public participation at the same time that justice slipped through the cracks?
 

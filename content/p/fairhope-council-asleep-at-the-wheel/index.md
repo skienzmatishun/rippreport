@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilmen Robert Brown and Jack Burrell completely ignored public health
+  and traffic warnings to push through high-density developer projects. Meeting transcripts
+  and filed ethics complaints prove council members actively bypassed safety protocols
+  for personal profit. Will voters finally wake up to the reckless self-dealing on
+  the council dais?
 ---
 Fairhope is facing many major issues at one time and the CATALYST council is asleep at the wheel. Coronavirus and the Arts and Craft Festival, HB 203, and Fly Creek Apartments.
 

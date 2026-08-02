@@ -9,7 +9,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: A blue stamp quotes Pete on working hard together. A blue box states Hardest working Eastern Shore official. 4 years in a row!
+alttags: A blue stamp quotes Pete on working hard together. A blue box states Hardest
+  working Eastern Shore official. 4 years in a row!
 related_articles:
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
@@ -20,7 +21,8 @@ related_articles:
   category_score: 0
   rank: 1
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
-  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
+  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor
+    Karin Wilson'
   score: 63.13901817180605
   llm_score: 75
   recency_score: 35.40361811673922
@@ -91,6 +93,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Obstructive councilmen repeatedly attempted to derail major fiscal reforms
+  while failing to do their own jobs. Municipal ledgers prove Mayor Karin Wilson fixed
+  a six-million-dollar deficit despite constant sabotage from insiders. Uncover why
+  hard work terrified the career politicians running City Hall.
 ---
 ![](https://cdn.rippreport.com/wp-content/uploads/2020/08/karin2.jpg)
 

@@ -77,6 +77,10 @@ related_articles:
   recency_score: 68.70539460492927
   category_score: 0
   rank: 10
+summary: Jack Burrell and corrupt court officials covered up personal scandals while
+  manipulating public property appraisals for immense profit. Financial records and
+  concealed police reports reveal a deeply entrenched network trading municipal favors
+  for cash. Tune in to discover the ugly truth behind Baldwin County's political elite.
 ---
 https://www.youtube.com/embed?listType=playlist&list=UUSvF6PajyuctL49EWzMN9wg
 

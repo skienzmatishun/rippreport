@@ -18,7 +18,8 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: A black silhouette of a balanced scale with a female figure in the left pan and a male figure in the right pan
+alttags: A black silhouette of a balanced scale with a female figure in the left pan
+  and a male figure in the right pan
 related_articles:
 - slug: catalyst-train-wreck
   title: CATALYST TRAIN WRECK
@@ -100,6 +101,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Marcus McDowell and the City Council deliberately sabotaged an assault case
+  to protect a prominent local business owner. Court files reveal prosecutor McDowell
+  left out critical language in legal filings to force a dismissal. Read how brave
+  citizens are rising up against this good ol' boys network.
 ---
 Paula DiNardi
 

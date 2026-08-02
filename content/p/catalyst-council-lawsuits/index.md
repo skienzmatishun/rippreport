@@ -17,7 +17,8 @@ tags:
 - zoning
 authors:
 - admin
-alttags: Circular seal reading City of Fauxhope Alabama with Faux in red. Green dollar bills surround a yellow sun over blue waves
+alttags: Circular seal reading City of Fauxhope Alabama with Faux in red. Green dollar
+  bills surround a yellow sun over blue waves
 related_articles:
 - slug: delight
   title: FAIRHOPE TAXPAYERS DELIGHT
@@ -99,6 +100,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City Council members continuously dragged Fairhope into losing court battles
+  that cost taxpayers millions of dollars. Court documents expose how local leaders
+  ignored cheap settlement offers and invited fresh federal lawsuits. Discover why
+  this self-inflicted legal disaster is draining the city dry.
 ---
 When the triangle lawsuit was going on, Fairhope's insurance company, sued the city saying that the city's bad decisions led to the lawsuit and they were not going to cover the legal expenses.
 

@@ -11,7 +11,8 @@ tags:
 - raines
 authors:
 - admin
-alttags: City of Fairhope seal with seagull and sailboats, overlaid with the word FAUX
+alttags: City of Fairhope seal with seagull and sailboats, overlaid with the word
+  FAUX
 related_articles:
 - slug: a-decade-of-corruption
   title: A DECADE OF CORRUPTION
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Former Mayor Tim Kant and State Senator Tripp Pittman orchestrated a massive
+  BP fraud scheme that wiped out the city surplus. Audit documents and transaction
+  receipts prove how city officials turned a $1.7 million surplus into a massive deficit
+  through rigged land deals. We uncover how deep this financial betrayal actually
+  goes.
 ---
 After living in Fairhope for 25 years and spending 16 years of close observation of local politics, nothing surprises me. The corruption and white collar crime in Baldwin County is far worse than most people can comprehend. The political status quo resembles a criminal enterprise.
 

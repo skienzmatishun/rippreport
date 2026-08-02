@@ -13,7 +13,8 @@ tags:
 - sewer
 authors:
 - admin
-alttags: TV shot of Fairhope City Council President Jack Burrell wearing a red white and blue hard hat.
+alttags: TV shot of Fairhope City Council President Jack Burrell wearing a red white
+  and blue hard hat.
 related_articles:
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF
@@ -95,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell publicly took credit for sewer improvements
+  while secretly voting against critical funding for municipal infrastructure. Official
+  council minutes and hidden police records show a pattern of deceit, wasteful land
+  deals, and buried reports. See how one politician's claims crumble when matched
+  against his real voting record.
 ---
 Not only is Council Burrell a bald faced liar, he thinks a hard hat works better than a face mask. This is what you get with CATALYST. Jack Burrell was Council President under Mayor Cant for 4 years and did not do one damn thing about infrastructure repairs.
 

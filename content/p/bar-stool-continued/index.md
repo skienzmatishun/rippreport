@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A three-dimensional rendering of a metal barstool with a red circular seat and silver frame against a white background
+alttags: A three-dimensional rendering of a metal barstool with a red circular seat
+  and silver frame against a white background
 related_articles:
 - slug: surrender
   title: SURRENDER
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City Attorney Marcus McDowell sabotaged a violent assault prosecution to
+  protect a favored local bar owner from jail time. Court transcripts and botched
+  charging documents expose a deliberate judicial blunder designed to throw out the
+  victim's case. We reveal how local insiders protect their violent political friends.
 ---
 The wheels of justice move slow, especially when the good ole boys knock out the spokes. 15 months ago we reported on an incident that should have been resolved in 6 months.
 

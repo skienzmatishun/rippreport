@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Burrell and his allies pushed through a shady multi-million
+  dollar land purchase that wasted city funds. Documents reveal how the council used
+  a questionable appraisal to bypass public input and hide their financial blunders.
+  The Ripp Report exposes how these politicians trip over their own words when caught
+  in a lie.
 ---
 Fairhope’s City Council started out, day one, as being obstructionist. They have stayed the course for over 3 years and the taxpayers have paid dearly.
 

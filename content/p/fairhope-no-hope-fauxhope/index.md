@@ -12,7 +12,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Black silhouettes of a woman with children, a crucifix figure, and two adults stand behind clinking blue and orange champagne flutes above four flowers
+alttags: Black silhouettes of a woman with children, a crucifix figure, and two adults
+  stand behind clinking blue and orange champagne flutes above four flowers
 related_articles:
 - slug: howling-rains
   title: HOWLING RAINS
@@ -94,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City leaders deliberately blocked recreational funding for working-class
+  neighborhoods to protect affluent insider interests near the airport. Internal land
+  appraisals and voting records confirm councilmen diverted millions away from needy
+  communities while voting themselves expensive perks. Fairhope citizens deserve to
+  know why their tax dollars only benefit the wealthy few.
 ---
 Sorry about no FREAKY FRIDAY, but after 6 weeks confinement and absolutely beautiful weather, I had to have a “beach fix” on Friday and it took all day.
 

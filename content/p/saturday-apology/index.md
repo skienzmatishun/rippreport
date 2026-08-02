@@ -7,7 +7,8 @@ categories:
 - podcast
 authors:
 - admin
-alttags: 'Backstory Podcast logo: Eagle head within radiating sound waves, representing political corruption and consumer issues cov...'
+alttags: 'Backstory Podcast logo: Eagle head within radiating sound waves, representing
+  political corruption and consumer issues cov...'
 related_articles:
 - slug: court-of-public-opinion
   title: COURT OF PUBLIC OPINION
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage of local infrastructure failures, county politicians
+  and developer judges are forcing rapid growth while public sewers overflow into
+  the bay. Official reports show local leaders ignored massive traffic jams and overwhelmed
+  schools just to enrich their corporate donors. We unpack the true price of these
+  hollow political apologies.
 ---
 @BackstoryPodcast
 

@@ -18,7 +18,8 @@ tags:
 - robert-brown
 authors:
 - admin
-alttags: Two men in black and yellow bee costumes flank a red prohibition sign over CATALYST. The left waves while the right holds a sunflower and wears wings
+alttags: Two men in black and yellow bee costumes flank a red prohibition sign over
+  CATALYST. The left waves while the right holds a sunflower and wears wings
 related_articles:
 - slug: pissed-on-or-pissed-off
   title: PISSED ON OR PISSED OFF
@@ -100,6 +101,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope council members Jack Burrell and Robert Brown repeatedly abused
+  their positions for financial gain while flouting public safety guidelines. Financial
+  records and police files show a pattern of backroom deals and concealed misconduct
+  right before crucial deadlines. Can these corrupt politicians survive the truth
+  getting out?
 ---
 Please vote today. JERRY CARL. Mr. Carl’s opposition is CATALYST and CATALYST home base is Fairhope.
 

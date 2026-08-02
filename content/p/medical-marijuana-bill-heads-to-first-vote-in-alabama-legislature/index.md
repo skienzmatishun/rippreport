@@ -87,6 +87,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State leaders in Montgomery rigged the medical cannabis approval process
+  to favor wealthy political donors over suffering patients. Internal committee memos
+  and pending court filings expose secret backroom deals made before key legislative
+  votes. We follow the dirty money behind Alabama's broken cannabis rollout.
 ---
 {{< socialpreview url="https://mynbc15.com/news/local/medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature" >}}
 

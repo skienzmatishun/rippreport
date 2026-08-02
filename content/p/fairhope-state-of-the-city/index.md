@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Circular city seal for Fairhope, Alabama with curved text and a central graphic of a sun, flying bird, and three sailboats
+alttags: Circular city seal for Fairhope, Alabama with curved text and a central graphic
+  of a sun, flying bird, and three sailboats
 related_articles:
 - slug: off-the-rails
   title: OFF THE RAILS
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The council machine drained public savings and stalled urgent building repairs
+  just to fund an illegal land purchase. Financial audits and secret meeting minutes
+  reveal a systematic effort to mislead taxpayers while bankrolling local cronies.
+  What else are city hall insiders hiding from Fairhope residents?
 ---
 Mayor Karin Wilson of Fairhope, AlabamaHope to See You Thursday for Our State of the City Expo This Thursday, 5pm, Fairhope Civic Center.
 

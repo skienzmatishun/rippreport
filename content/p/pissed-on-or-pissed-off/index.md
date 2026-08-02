@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Circular city seal showing a dog, yellow sun, and three teardrop shapes, bordered by the text CITY OF FAUXHOPE with a red cross-out and ALABAMA
+alttags: Circular city seal showing a dog, yellow sun, and three teardrop shapes,
+  bordered by the text CITY OF FAUXHOPE with a red cross-out and ALABAMA
 related_articles:
 - slug: freaky-fairhope
   title: FREAKY FAIRHOPE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corrupt city council members drained public funds on wasteful property deals
+  while giving themselves secret raises. Financial records show the city went from
+  a healthy surplus straight into a massive deficit after the transaction. Uncover
+  the truth behind the secret deals wrecking Fairhope's local budget.
 ---
 The current Fairhope City Council is the most corrupt and inept council to ever serve Fairhope. Yet people get riled up over a curfew meant to mitigate a virus that we know little about.
 

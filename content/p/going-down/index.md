@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Picking up from our Saturday Apology report, local leaders allowed unchecked
+  apartment construction while ignoring failing sewer lines and gridlocked roads.
+  City records prove officials handed millions to wealthy developers while pushing
+  taxpayers to cover the resulting infrastructure mess. Why are elected representatives
+  letting our coastal community sink?
 ---
 Baldwin County is the only county in Alabama where sewer regulations do not exist. It is also the fastest growing county in Alabama. Baldwin County also has regular sewer spills throughout the county, most spills end up in the Bay.
 

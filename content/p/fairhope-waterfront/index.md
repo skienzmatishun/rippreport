@@ -11,7 +11,8 @@ tags:
 - Waterfront
 authors:
 - admin
-alttags: Aerial view of the Fairhope waterfront development site, outlined in yellow, showing a circular road with a central fountain and extending docks
+alttags: Aerial view of the Fairhope waterfront development site, outlined in yellow,
+  showing a circular road with a central fountain and extending docks
 related_articles:
 - slug: money-on-the-table
   title: MONEY ON THE TABLE
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The city council hijacked a $6.2 million federal waterfront grant to strip
+  out public amenities and serve political allies. Project meeting minutes and budget
+  files prove council members approved massive spending while quietly eliminating
+  citizen-requested features. See how a major community victory was turned into a
+  backroom deal.
 ---
 The Fairhope Waterfront project started off with, City Council approval, of $500,000.00 for engineering and conceptual plans based on community input. Now the Council is saying this is the Mayor’s plan. Nothing could be further from the truth, 493 people filled out the questionnaire and dozens attended numerous meetings, this is the citizens plan.
 

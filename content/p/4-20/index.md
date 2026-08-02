@@ -15,7 +15,8 @@ tags:
 - tripp-pittman
 authors:
 - admin
-alttags: A digitally added green cannabis leaf graphic overlaid on a body of water featuring an orange floating barrier in the foreground
+alttags: A digitally added green cannabis leaf graphic overlaid on a body of water
+  featuring an orange floating barrier in the foreground
 related_articles:
 - slug: backstory-podcast-no-81-tan-rested-ready
   title: Tan Rested & Ready
@@ -97,6 +98,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Powerful politicians used a major disaster to line their own pockets through
+  shady private contracts. State records and task force documents trace the exact
+  timeline of backroom deals made before official appointments. Will taxpayers ever
+  hold these greedy insiders accountable for exploiting a crisis?
 ---
 This day is significant for many reasons:
 

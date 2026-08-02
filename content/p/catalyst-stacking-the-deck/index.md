@@ -18,7 +18,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: A close-up of a fanned-out deck of playing cards, all showing the Joker face card
+alttags: A close-up of a fanned-out deck of playing cards, all showing the Joker face
+  card
 related_articles:
 - slug: catalyst-aka-scott-boone-consulting
   title: CATALYST AKA SCOTT BOONE CONSULTING
@@ -100,6 +101,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilman Kevin Boone and his insider network rebranded their political
+  syndicate under a new corporate shell to hide ongoing land fraud. State business
+  registries and financial audits document an intricate web of undisclosed LLCs used
+  to funnel city assets. What else are these shadow operatives hiding from the taxpayers?
 ---
 Get ready Fairhope, CATALYST is now working under the Scott Boone Consulting banner. CATALYST can be best described as:
 

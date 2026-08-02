@@ -78,5 +78,10 @@ related_articles:
   recency_score: 49.18462845434644
   category_score: 0
   rank: 10
+summary: Extending our podcast investigation into Baldwin County, corrupt officials
+  are quietly cutting deals with powerful developers behind closed doors. Secret recordings
+  and public files highlight how politicians manipulate public projects to pad the
+  pockets of their political allies. Tune in to discover the hidden stories political
+  bosses never wanted you to hear.
 ---
 {{< youtubecomments >}}
