@@ -66,8 +66,8 @@
       {{- $shown = add $shown 1 -}}
       {{- $seen = $seen | append $page.Title -}}
       <li class='widget__item'>
-        <a class='widget__link' href='{{ $page.RelPermalink }}'>
-          <h4>{{ $page.Title | safeHTML }}</h4>
+        <a class='widget__link {{ if in $page.Params.categories "backstory-podcast" }}backstory__widget__link{{ end }}{{ if in $page.Params.categories "dixie-podcast" }}dixie__widget__link{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__widget__link{{ end }}{{ if in $page.Params.categories "repost" }}repost__widget__link{{ end }}{{ if in $page.Params.categories "elections" }}elections__widget__link{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__widget__link{{ end }}' href='{{ $page.RelPermalink }}'>
+          <h4 class='{{ if in $page.Params.categories "backstory-podcast" }}backstory__title{{ end }}{{ if in $page.Params.categories "dixie-podcast" }}dixie__title{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__title{{ end }}{{ if in $page.Params.categories "repost" }}repost__title{{ end }}{{ if in $page.Params.categories "elections" }}elections__title{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__title{{ end }}'>{{ $page.Title | safeHTML }}</h4>
           {{- if $page.Params.thumbnail -}}
           <div class='widget__thumbnail'>
             <img width='336' height='174' {{ if gt $shown 1 }}loading='lazy' {{ end }}
