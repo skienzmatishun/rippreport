@@ -72,6 +72,11 @@ related_articles:
   llm_score: 85
   recency_score: 12.09559599342363
   rank: 10
+summary: Council President Jack Burrell locked Mayor Wilson out of financial meetings
+  to conceal millions in toxic airport land debt. Confidential loan records reveal
+  a multi-million dollar balloon payment engineered to drain city utility reserves
+  for years to come. The Ripp Report exposes the full scope of this crippling financial
+  setup.
 ---
 Every Fairhope City council meeting begins with a prayer and the pledge of allegiance. What irony, when the council president then explains to attending citizens that their right to speak is a privilege— not a right. The council president then explained that the 3 minute limit on public participation was at his discretion. This is how our previous Mayor handled critics, complaints or investigations— absolutely no transparency. Make no mistake, as an American, it is your right.
 

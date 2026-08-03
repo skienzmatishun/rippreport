@@ -78,6 +78,11 @@ related_articles:
   llm_score: 70
   recency_score: 16.8038586595515
   rank: 10
+summary: Vindictive city leaders gutted an entire municipal department just to eliminate
+  an independent voice fighting for transparency. Budgetary audit trails demonstrate
+  how politicians manufactured financial excuses to destroy key oversight positions
+  from within. Uncover the brutal truth behind this political hit job masked as fiscal
+  conservatism.
 ---
 The Fairhope City Council is using the Baldwin County Political Dictionary’s definition for "Fairness". First, the council implements a hiring freeze to punish the mayor for firing two employees. Then they side with the developer and reject overwhelming objections from the public. This was done to be “Fair” and because of “the threat of a lawsuit.” Now the Council has moved to remove the Director of Economic and Community Development, Sherry-Lea Bloodworth-Botop, by reducing funds in the budget, thus killing the director’s job.
 

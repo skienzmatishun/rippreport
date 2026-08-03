@@ -1,7 +1,8 @@
 ---
 title: Put Your Big Boy Pants On - Tucker Dorsey
 date: 2016-05-13
-description: Questioning Tucker Dorsey's qualifications and conflicts of interest in seeking SARPC director position
+description: Questioning Tucker Dorsey's qualifications and conflicts of interest
+  in seeking SARPC director position
 thumbnail: img/put-your-big-boy-pants-on.png
 tags:
 - archive
@@ -92,7 +93,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A man in a light blue shirt and glasses holds up khaki pants in front of a clothing rack labeled BIG BOYS and grown ups
+alttags: A man in a light blue shirt and glasses holds up khaki pants in front of
+  a clothing rack labeled BIG BOYS and grown ups
+summary: Continuing our coverage, Commissioner Tucker Dorsey purged whistleblowers
+  to protect corrupt political allies and wasteful spending schemes. Internal records
+  show how key county personnel were fired after raising red flags about multi-million
+  dollar deals and BP funds. See why this commissioner needs to face accountability
+  for his disastrous financial stewardship.
 ---
 **The Ripp Report/Baldwin County Legal Eagle**  
 **May 13 2016**

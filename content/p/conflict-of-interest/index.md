@@ -15,7 +15,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A black silhouette of a balance scale featuring two pans and a central stand on a white background
+alttags: A black silhouette of a balance scale featuring two pans and a central stand
+  on a white background
 related_articles:
 - slug: boone-doggle
   title: BOONE-DOGGLE
@@ -87,6 +88,11 @@ related_articles:
   recency_score: 6.674677382573833
   category_score: 0
   rank: 10
+summary: Councilman Kevin Boone repeatedly voted to fund multi-million dollar city
+  engineering projects for his hidden private business partner. Continuing our investigation,
+  undisclosed corporate filings prove a direct financial link between council votes
+  and private land corporations. Explore how the good old boy network converted public
+  votes into private cash.
 ---
 Dear Fairhope City Council:
 

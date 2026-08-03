@@ -70,6 +70,10 @@ related_articles:
   llm_score: 60
   recency_score: 0.585929477969449
   rank: 10
+summary: City insiders siphoned millions in taxpayer dollars through a shady land
+  deal connected to a shell company. Financial documents uncover how council members
+  approved millions for soccer fields while concealing true land ownership. We unmask
+  the dirty secrets behind this multi-million dollar punchline.
 ---
 JOKE llp.
 

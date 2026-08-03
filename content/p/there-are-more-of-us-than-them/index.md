@@ -11,7 +11,8 @@ tags:
 - sullivan
 authors:
 - ripp-report
-alttags: A large, multicolored fish with sharp teeth and a wide-open mouth on the right. Smaller gray copies repeat diagonally on the left against a teal background
+alttags: A large, multicolored fish with sharp teeth and a wide-open mouth on the
+  right. Smaller gray copies repeat diagonally on the left against a teal background
 related_articles:
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
@@ -73,6 +74,10 @@ related_articles:
   llm_score: 70
   recency_score: 13.645221186014394
   rank: 10
+summary: A self-serving political clique drained public utility funds to bury their
+  illegal mistakes and intimidate local critics. Campaign finance records expose thousands
+  of dollars flowing in from outside PACs to keep the local machine in power. Learn
+  why the good ole boys fear the growing power of organized taxpayers standing together.
 ---
 **US** are the taxpayers and honest citizens; **THEM** are the good ole boys. In the last Fairhope election, only 5500 people voted in the city elections, of those Mayor Kant “questionably” received 3026 votes. Only 30% to 35% of the registered voters voted, leaving 65 to 70% not voting at all. These are the voters who can stop the mayor’s corruption and end an era of good ole boys who are fleecing taxpayers right and left. The mayor’s base has shrunk and public confidence in the mayor is virtually nonexistent. Several mayoral candidates are planning to run against the mayor; however, they believe it to be prudent to announce their candidacy closer to the qualification date. Look closely at the statistics. They favor **US**. A neighborhood like Rock Creek can swing the election. If Sandy Ford, Plantation Pines and the Woodlands jump on board, a new Fairhope will be born.
 

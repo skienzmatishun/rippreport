@@ -11,7 +11,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A bald eagle holds a silver whistle in its beak against an American flag background
+alttags: A bald eagle holds a silver whistle in its beak against an American flag
+  background
 related_articles:
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
@@ -73,6 +74,11 @@ related_articles:
   llm_score: 75
   recency_score: 10.403647724147305
   rank: 10
+summary: Former Mayor Tim Kant turned Fairhope into a playground for connected developers
+  who demanded public cash for private profit. Official municipal documents reveal
+  a paper trail of secret zoning reversals and backroom deals worth millions. The
+  Ripp Report exposes how these powerful insiders pulled the strings while regular
+  residents footed the bill.
 ---
 This is the first day after qualification for municipal elections. During the campaign, we will endorse certain candidates that we feel put public service before personal interests. Our endorsement does not come lightly and we intend to follow up after elections to see if successful candidates live up to their word. **Please VOTE**. Check and see if you are properly registered to vote. It will only take a few minutes at the satellite courthouse in Fairhope, Board of Registrar’s.
 

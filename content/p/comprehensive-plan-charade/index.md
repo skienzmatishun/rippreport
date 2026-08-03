@@ -1,7 +1,8 @@
 ---
 title: Comprehensive Plan Charade
 date: 2014-11-14
-description: City spends $80,000 updating comprehensive plan it routinely ignores for developer deals
+description: City spends $80,000 updating comprehensive plan it routinely ignores
+  for developer deals
 thumbnail: img/comprehensive-plan-charade.png
 tags:
 - archive
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Municipal leaders repeatedly ignored Fairhope's official master plan to grant
+  illegal favors to political campaign contributors. Planning records reveal a systematic
+  pattern of bypassing public hearings to push through environmentally destructive
+  commercial projects. What good is a master plan when city officials throw it in
+  the trash for their friends?
 ---
 **The Ripp Report**  
 **11/14/14**

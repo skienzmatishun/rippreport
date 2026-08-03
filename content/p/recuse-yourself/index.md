@@ -13,7 +13,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Yellow road sign with black text. The top section reads RIGHT with a right-pointing arrow, while the bottom section reads WRONG with a left-pointing arrow
+alttags: Yellow road sign with black text. The top section reads RIGHT with a right-pointing
+  arrow, while the bottom section reads WRONG with a left-pointing arrow
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
@@ -75,6 +76,11 @@ related_articles:
   llm_score: 75
   recency_score: 8.401899886345134
   rank: 10
+summary: Compromised officials blatantly refused to step down from voting on massive
+  land developments tied to their private business partners. Historical meeting logs
+  prove specific councilmen cast crucial votes favoring engineering firms that paid
+  them directly. Demand accountability by examining the evidence that proves our leaders
+  sold out their votes.
 ---
 COFAIRHOPE: ATTENTION MAYOR AND COUNCIL
 

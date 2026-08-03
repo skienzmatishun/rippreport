@@ -11,7 +11,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A close-up of a black faucet with a single water droplet hanging from its tip against a blurred green background
+alttags: A close-up of a black faucet with a single water droplet hanging from its
+  tip against a blurred green background
 related_articles:
 - slug: pandoras-box
   title: PANDORA'S BOX
@@ -73,6 +74,11 @@ related_articles:
   llm_score: 70
   recency_score: 0.8765021555257007
   rank: 10
+summary: Entrenched city council members colluded with favored media figures to leak
+  private employee records and undermine municipal leadership. Digital forensics and
+  meeting records expose an underground network of politicians and lawyers trading
+  confidential city hall files. Follow the trail of broken trust to see how deep this
+  political conspiracy goes.
 ---
 Fairhope City Hall has leaks of confidential city information and HR information coming from certain city employees to Gulf Coast News. Congratulations on the news scoop, however your information is coming from unnamed sources or disgruntled employees.
 

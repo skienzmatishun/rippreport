@@ -13,7 +13,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Close-up of the Chucky doll with red hair, pale skin, and blue eyes, wearing a denim shirt and making a middle finger gesture
+alttags: Close-up of the Chucky doll with red hair, pale skin, and blue eyes, wearing
+  a denim shirt and making a middle finger gesture
 related_articles:
 - slug: beavis-and-butthead
   title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
@@ -75,6 +76,11 @@ related_articles:
   llm_score: 65
   recency_score: 29.385831950402675
   rank: 10
+summary: Disgruntled city insiders and political operatives launched a coordinated
+  smear campaign against Mayor Karin Wilson to undermine her reform agenda. Confidential
+  records prove these corrupt factions leaked internal documents directly to friendly
+  media outlets. Expose the ugly truth behind this fake news machine right here on
+  The Ripp Report.
 ---
 First let me announce that no longer will the Ripp Report accept comments from Jester 666 and the Truth teller, most likely one in the same. Their comments add nothing to the subjects at hand and the personal attacks, some sexiest, will not be tolerated. Their comments are meant to distract from the subject at hand. They Do represent what is NOT needed in Fairhope or Baldwin County. They will continue to filter into the site from time to time and we will continue to eliminate them. The Ripp Report seeks to have constructive conversations based on documented facts.
 

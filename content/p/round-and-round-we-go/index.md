@@ -8,7 +8,8 @@ tags:
 - roundabout
 authors:
 - ripp-report
-alttags: Roundabout traffic sign with a red border, yellow background, and black circular arrows
+alttags: Roundabout traffic sign with a red border, yellow background, and black circular
+  arrows
 related_articles:
 - slug: boycott-the-gas-station-on-the-new-roundabout
   title: 'BOYCOTT: The Gas Station on the New Roundabout'
@@ -70,6 +71,11 @@ related_articles:
   llm_score: 50
   recency_score: 3.998791153406251
   rank: 10
+summary: Following up on our recent investigation, local politicians lied to the public
+  while secretly approving infrastructure for a dangerous gas station project. Leaked
+  planning files and meeting records show how high-ranking officials coordinated with
+  developers behind closed doors. The Ripp Report reveals how political insiders keep
+  spinning the same tired web of deception.
 ---
 Baldwin County has recently been introduced to the traffic intersection known as a roundabout.” The modern roundabout is a beautiful thing. Traffic flow is improved, they look nice and they are safer than traditional intersections. In the Insurance Institute for Highway Safety Status Report about Roundabouts, they cite research from the University of Maine that found a 39% reduction in crashes, a 76% decrease in injury-producing crashes, and a 90% decrease in collisions involving fatal or incapacitating injuries when studying a sample of 25 intersections turned into roundabouts. Other research finds that while roundabouts are safer than traditional intersections, they also have the potential to reduce traffic delay by up to 75%.”
 

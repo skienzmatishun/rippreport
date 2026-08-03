@@ -8,7 +8,8 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: Two monkeys sitting on a concrete ledge, with one grooming the others back against a background of hills and distant structures
+alttags: Two monkeys sitting on a concrete ledge, with one grooming the others back
+  against a background of hills and distant structures
 related_articles:
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR
@@ -70,6 +71,10 @@ related_articles:
   llm_score: 65
   recency_score: 5.006062300224381
   rank: 10
+summary: Former Attorney General Luther Strange protected politically connected allies
+  who siphoned hundreds of thousands from disaster funds. Financial ledgers prove
+  that municipal officials rewarded these cronies with lucrative city contracts for
+  years. We pull back the curtain on this self-serving network of political favors.
 ---
 SENATE RACE:
 

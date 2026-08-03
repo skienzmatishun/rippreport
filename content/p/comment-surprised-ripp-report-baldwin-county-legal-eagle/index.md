@@ -81,6 +81,11 @@ related_articles:
   recency_score: 12.811915872753922
   category_score: 0
   rank: 10
+summary: Unethical councilmen actively hid their private real estate companies while
+  voting on massive public projects that enriched themselves. State filing records
+  prove the rapid formation and sudden liquidation of secret investment entities tied
+  directly to local politicians. The Ripp Report reveals the paper trail that exposes
+  these undeniable conflicts of interest.
 ---
 The last two Ripp Report posts,
 

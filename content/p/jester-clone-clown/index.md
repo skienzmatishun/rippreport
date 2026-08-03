@@ -74,6 +74,11 @@ related_articles:
   llm_score: 65
   recency_score: 27.14140975715586
   rank: 10
+summary: Councilman Robert Brown hid behind anonymous online aliases to launch vicious
+  personal attacks while landing lucrative municipal contracts. Leaked server logs
+  and public documents tie city council members directly to a coordinated digital
+  smear campaign. Unmask the puppets who perform for special interests behind closed
+  doors.
 ---
 Many people have been following the Ripp Report and the comments made by Jester 666. During public participation of the Fairhope city Council I asked Mr. Robert Brown if he was the Jester, he said no. I then made a comparison to Mr. Brown’s letter,
 

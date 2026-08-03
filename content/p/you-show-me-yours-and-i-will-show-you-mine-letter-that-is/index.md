@@ -10,7 +10,8 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: A black and white line drawing of a plant with a curved stem, base leaves, and a central flower bud
+alttags: A black and white line drawing of a plant with a curved stem, base leaves,
+  and a central flower bud
 related_articles:
 - slug: demand-the-truth
   title: DEMAND THE TRUTH
@@ -72,6 +73,11 @@ related_articles:
   llm_score: 70
   recency_score: 0.15772778547850655
   rank: 10
+summary: Expanding on our probing of municipal contracts, powerful politicians fabricated
+  an ethics exoneration letter to hide illegal self-dealing. Grand jury files and
+  federal referral records reveal that no official approval ever existed for these
+  lucrative city deals. We call out the brazen lies that allowed local leaders to
+  pocket public money without fear.
 ---
 The Ripp Report and Baldwin County Legal Eagle is a nonprofit. We are a consumer group and take no donations from political candidates or organizations that wish to use our platform. The Ripp Report files legitimate complaints with the agency that may handle that case. Currently complaints reside with Attorney General, Ethics Commission, Judiciary, and Bar Association. These complaints originate from consumers contacting us. We endorse candidates and encourage public participation in exposing political and Judicial Corruption in Baldwin County. YOU are the Court of Public Opinion.
 

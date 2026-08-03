@@ -70,6 +70,11 @@ related_articles:
   llm_score: 70
   recency_score: 18.69877207415731
   rank: 10
+summary: Whistleblowers faced swift retaliation after exposing a massive double-dipping
+  scheme involving state politicians and municipal funds. Newly uncovered documents
+  detail how top officials funneled over six hundred thousand dollars in disaster
+  relief straight into private accounts. We bring you the missing pieces of the puzzle
+  that city bosses tried to hide.
 ---
 For those who don’t know the details how Mayor Kant and Senator Pittman got caught up in BP Fraud, please read the articles attached.
 

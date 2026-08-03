@@ -2,7 +2,8 @@
 title: Miracle, Blindside, or Reality?
 date: 2015-12-11
 thumbnail: img/miracle-blindside-reality.png
-description: Planning and Zoning votes down Fly Creek apartments 5-4 after 300 citizens show up - but is it really over?
+description: Planning and Zoning votes down Fly Creek apartments 5-4 after 300 citizens
+  show up - but is it really over?
 tags:
 - archive
 - historical
@@ -93,7 +94,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A hand holds a round container with a blue triangular label reading BLINDSIDE, set against a smoky background with a large white question mark
+alttags: A hand holds a round container with a blue triangular label reading BLINDSIDE,
+  set against a smoky background with a large white question mark
+summary: City officials staged public votes while secretly plotting behind closed
+  doors to approve controversial high-density apartments. Documents confirm that political
+  pressure from influential developers forced key leaders to flip their stances overnight.
+  We examine whether this unexpected council move was genuine public service or just
+  another political blindside.
 ---
 **The Ripp Report**  
 **Dec. 11 2015**

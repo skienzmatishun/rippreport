@@ -80,6 +80,11 @@ related_articles:
   recency_score: 11.898389593713517
   category_score: 0
   rank: 10
+summary: Local authority directors used public money to retain an ethics attorney
+  who secretly represented the very board member under state investigation. Our ongoing
+  coverage uncovered recorded probate documents that conflict with official ethics
+  filings by over two full months. The court of public opinion now demands the truth
+  that city hall tried to bury.
 ---
 One year ago The Ripp Report had a couple of people contributing time to its publication. A few people would also step forward with information. Today we are very pleased to say that about 8 to 10 people are directly involved and every week we get unsolicited information in various forms from citizens. The Ripp Report is based on documents that are requested through freedom of information or obtained from the public domain.
 

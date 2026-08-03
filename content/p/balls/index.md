@@ -10,7 +10,8 @@ tags:
 - fly-creek
 authors:
 - ripp-report
-alttags: A collection of bright yellow-green tennis balls scattered on a dark red clay court surface with green boundary lines in the background
+alttags: A collection of bright yellow-green tennis balls scattered on a dark red
+  clay court surface with green boundary lines in the background
 related_articles:
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
@@ -82,6 +83,11 @@ related_articles:
   recency_score: 1.8619206121525609
   category_score: 0
   rank: 10
+summary: Developers Leaf River and Arthur Corte tricked city boards into approving
+  site amendments that dumped tons of red mud into Fly Creek. Whistleblower files
+  show council leadership repeatedly blocked mayoral legal action while brushing off
+  nearly one million dollars in tree damage. The Ripp Report exposes the real environmental
+  cost of this calculated cover-up.
 ---
 How many balls are on the City Council? Place your bets and take note how many council members have forgotten what our last election was about— and their promises. How many will stand up for citizens, and how many have no balls. PLEASE make your voice heard!
 

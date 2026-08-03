@@ -83,6 +83,11 @@ related_articles:
   recency_score: 15.35126042819837
   category_score: 0
   rank: 10
+summary: Councilmen Robert Brown and Kevin Boone voted to grant developer Arthur Corte
+  special extensions despite undeniable conflicts of interest. Uncovered documents
+  reveal direct financial and business connections linking council members straight
+  to the developer's engineering network. We uncover how public trust was traded away
+  to protect private developer profits.
 ---
 Sorry for the delay of the Ripp Report.
 

@@ -10,7 +10,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A close-up of a red alarm clock with its bells raised and hands pointing at 12
+alttags: A close-up of a red alarm clock with its bells raised and hands pointing
+  at 12
 related_articles:
 - slug: hi-jack-ed
   title: Hi-JACK-ed
@@ -72,6 +73,11 @@ related_articles:
   llm_score: 85
   recency_score: 25.13718611203594
   rank: 10
+summary: Council President Jack Burrell openly mocked Fairhope taxpayers while trapping
+  the city in millions of dollars of unauthorized airport debt. Financial documents
+  reveal how council leadership funneled tax dollars into a black hole while protecting
+  private hangar deals for insider friends. Discover how your hard-earned tax money
+  vanished behind closed doors.
 ---
 FAIRHOPE “CITIZENS CITIZENS CITIZENS”
 

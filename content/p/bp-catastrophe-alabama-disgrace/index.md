@@ -83,6 +83,11 @@ related_articles:
   recency_score: 0.4744899954691276
   category_score: 0
   rank: 10
+summary: State politicians hijacked millions in BP oil spill disaster funds to finance
+  personal pet projects and backroom deals. Settlement documents demonstrate how local
+  officials quietly pocketed restoration cash while coastal environments suffered.
+  Will Alabama taxpayers ever hold these sham trust managers accountable for their
+  greed?
 ---
 The BP oil spill was an accident that claimed eleven lives and adversely affected millions. BP has had to pay BILLIONS of dollars in damages spread among four states Alabama Louisiana, Texas and Florida. Three of the states used their funds to correct environmental damage done by the spill and to invest in future projects related to environmental issues. Alabama choose to rob and plunder their money on pet projects of Mayors Councils and even the Governor.
 

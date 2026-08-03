@@ -10,7 +10,8 @@ tags:
 - mega-site
 authors:
 - ripp-report
-alttags: A white sign on wooden posts displays a QR code, the text 3000-Acre Certified South Alabama MEGA SITE, contact information, and the Baldwin County seal
+alttags: A white sign on wooden posts displays a QR code, the text 3000-Acre Certified
+  South Alabama MEGA SITE, contact information, and the Baldwin County seal
 related_articles:
 - slug: all-smoke-and-mirrors
   title: ALL SMOKE AND MIRRORS
@@ -82,6 +83,11 @@ related_articles:
   recency_score: 4.7391373121897375
   category_score: 0
   rank: 10
+summary: County leaders blew tens of millions of taxpayer dollars on a failed land
+  scheme that lines the pockets of local political insiders. Leaked financial records
+  reveal how public officials quietly funneled school tax dollars straight into their
+  pet projects. How much longer will citizens tolerate this massive waste of money
+  under the guise of economic progress?
 ---
 In 2012 the Baldwin County Commission convinced itself that Baldwin County needed to spend 32 Million dollars on 2300 usable acres called the Mega site.
 

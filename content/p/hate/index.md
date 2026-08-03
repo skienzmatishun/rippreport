@@ -8,7 +8,8 @@ tags:
 - robert-brown
 authors:
 - ripp-report
-alttags: Four overlapping jester hats in red, green, blue, and yellow with gold pom-poms on a white background
+alttags: Four overlapping jester hats in red, green, blue, and yellow with gold pom-poms
+  on a white background
 related_articles:
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
@@ -70,6 +71,10 @@ related_articles:
   llm_score: 65
   recency_score: 0.20972605461878963
   rank: 10
+summary: Corrupt council members weaponized city resources to sabotage the mayor's
+  office and force her out of government. Voting records show the council repeatedly
+  denied basic legal funding while rushing secret settlements to protect themselves.
+  See how personal grudges replaced public duty inside city hall.
 ---
 The mayor tried to mediate the impasse the council and her office are experiencing by suggesting the hiring of an attorney to represent the mayor, to mediate with the council's attorney. This is a common practice and is the way the city of Mobile handles similar situations. The threat of a lawsuit only arises if the council refuses and continues to obstruct the mayor. The council refused; however, when it came to “come fly with me” Burrell, when his plane was caught in an ethics investigation, the airport authority approved funds to hire an attorney for Jack. This is the council's definition of FAIRNESS. Take note.
 

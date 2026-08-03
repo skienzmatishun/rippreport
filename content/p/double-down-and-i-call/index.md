@@ -82,6 +82,11 @@ related_articles:
   recency_score: 12.776862773247046
   category_score: 0
   rank: 10
+summary: Jack Burrell doubled down on his blatant conflicts of interest by rigging
+  airport bid committees for his personal network. Official state correspondence proves
+  the city council hid invalid hangar leases from state regulators to dodge legal
+  accountability. Can Fairhope taxpayers afford to keep paying for these rigged insider
+  deals?
 ---
 Fairhope City Council President, Fairhope Authority board member and Fairhope Authority Board Member who is on two man committee to review bids at the airport, Jack Burrell is double down. He insists that everything at the airport is perfectly legal and every one is as happy as larks.
 

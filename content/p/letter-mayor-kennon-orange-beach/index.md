@@ -2,7 +2,8 @@
 title: Letter to Mayor Kennon of Orange Beach
 date: 2015-09-04
 thumbnail: img/letter-mayor-kennon-orange-beach.png
-description: Formal complaint requesting investigation of Judge Brackin's DUI case handling and double standards
+description: Formal complaint requesting investigation of Judge Brackin's DUI case
+  handling and double standards
 tags:
 - archive
 - historical
@@ -85,7 +86,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-alttags: An open envelope on a sandy beach holds a letter to Mayor Kennon of Orange Beach, Alabama. A wooden pen and city mug sit nearby
+alttags: An open envelope on a sandy beach holds a letter to Mayor Kennon of Orange
+  Beach, Alabama. A wooden pen and city mug sit nearby
+summary: Continuing our coverage of local judicial abuse, Orange Beach leaders protected
+  an influential municipal judge after a blatant miscarriage of justice in a serious
+  criminal case. Official records expose a systemic pattern where privileged court
+  insiders routinely handed sweetheart deals to repeat offenders. Read the full breakdown
+  of how municipal courts protect their own insider cartel.
 ---
 **Sept. 4, 2015**
 

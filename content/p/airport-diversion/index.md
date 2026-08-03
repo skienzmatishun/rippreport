@@ -13,7 +13,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A commercial airplane flies diagonally across a clear blue sky, leaving four distinct white contrails behind it
+alttags: A commercial airplane flies diagonally across a clear blue sky, leaving four
+  distinct white contrails behind it
 related_articles:
 - slug: stirring-the-pot
   title: STIRRING THE POT
@@ -85,6 +86,10 @@ related_articles:
   recency_score: 0.031844690679118465
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell funneled millions in tax dollars into a private
+  airport scheme for his wealthy inner circle. Leaked lease documents reveal backroom
+  deals that guaranteed prime hangars to political insiders long before public bidding
+  started. Why should local taxpayers subsidize a playground for corrupt politicians?
 ---
 Jack, come fly with me, has more passengers. _The Courier_, editor “Chucky Cheese” is working hard for free flights. He has signed on with the pilot, "come fly with me” Jack to cover the most mundane of articles that amounts to cut and paste. The local AM station, it is hard to find, has also signed on to allow Jack all the time he needs to talk about anything but the airport.
 

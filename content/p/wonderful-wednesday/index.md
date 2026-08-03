@@ -12,7 +12,8 @@ tags:
 - sullivan
 authors:
 - ripp-report
-alttags: A circular red, white, and blue button with five stars on the top and bottom bands and VOTE in bold black letters across the center
+alttags: A circular red, white, and blue button with five stars on the top and bottom
+  bands and VOTE in bold black letters across the center
 related_articles:
 - slug: game-on
   title: GAME ON
@@ -74,6 +75,11 @@ related_articles:
   llm_score: 60
   recency_score: 6.656415622756534
   rank: 10
+summary: Fairhope's political machine dumped a million dollars into private development
+  projects while skipping critical oversight meetings. Travel logs and council minutes
+  expose how elected officials jetted off on luxury trips while rubber-stamping destructive
+  zoning requests. Discover how deep the cronyism went before voters finally decided
+  to tear down the old guard.
 ---
 The article posted by Fairhope Times that was reposted on Ripp Report resulted in many people taking issue with my innuendo, ”The Governor had a special assistant, just saying” was radically misunderstood by some folks. Some took it as having a sexual connotation and even brought up adultery. My reference to the governor assistant was — look at the trouble he has heaped on himself and his assistant. He has yet to be charged with anything. Take your minds out of the gutter.
 

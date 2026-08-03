@@ -81,6 +81,11 @@ related_articles:
   recency_score: 10.20602676551906
   category_score: 0
   rank: 10
+summary: City Council President Jack Burrell helped an airport board member secure
+  an unauthorized commercial lease built on insider information. State Ethics Commission
+  letters confirm the city never submitted the required lease documents, rendering
+  the entire contract completely illegal. Follow the paper trail to see how city leadership
+  protects its own at any cost.
 ---
 Last week we featured, [YOU DON'T KNOW JACK](https://rippreport.com/you-dont-know-jack/), this week we peel back the onion a little more.
 

@@ -10,7 +10,8 @@ tags:
 - planning-and-zoning
 authors:
 - ripp-report
-alttags: A wooden gavel rests on its circular sound block on a dark surface, with blurred stacks of papers in the background
+alttags: A wooden gavel rests on its circular sound block on a dark surface, with
+  blurred stacks of papers in the background
 related_articles:
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
@@ -82,6 +83,11 @@ related_articles:
   recency_score: 18.75007182823656
   category_score: 0
   rank: 10
+summary: Fairhope officials schemed behind closed doors to line a favored developer's
+  pockets at the expense of local taxpayers. Leaked records and court filings show
+  how municipal leaders funneled hundreds of thousands in public infrastructure funds
+  to pave the way for high-density apartments. Read the full report to see how everyday
+  citizens fought back and scored a massive victory against City Hall's favorite insiders.
 ---
 In June of this year, the Planning and Zoning Board expressed their frustration with citizens of Fairhope who defend themselves by legal means. Friends of Fly Creek, Plaintiffs — and certainly friends of the public, brought a lawsuit against the City of Fairhope, Fairhope Planning and Zoning, Fairhope City Council, and Leaf River group LLC, Defendants. The Defendants in turn moved to dismiss the lawsuit all together. Planning and Zoning doubled down on their decision, calling the lawsuit "frivolous."
 

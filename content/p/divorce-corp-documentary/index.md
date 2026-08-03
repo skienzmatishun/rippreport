@@ -2,7 +2,8 @@
 title: Divorce Corp Documentary - Baldwin County Mirror
 date: 2015-10-02
 thumbnail: img/divorce-corp-documentary.png
-description: Must-watch documentary exposes family court corruption identical to Baldwin County system
+description: Must-watch documentary exposes family court corruption identical to Baldwin
+  County system
 tags:
 - archive
 - historical
@@ -78,7 +79,8 @@ related_articles:
   category_score: 0
   rank: 8
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 55.86361042605452
   llm_score: 60
   recency_score: 6.215759949813457
@@ -93,7 +95,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Poster for Divorce Corp. showing a bride and groom walking toward a small white church in front of a tall skyscraper with the title
+alttags: Poster for Divorce Corp. showing a bride and groom walking toward a small
+  white church in front of a tall skyscraper with the title
+summary: Our ongoing investigation into Baldwin County family court reveals a predatory
+  network exploiting vulnerable parents for massive legal fees. Court documents prove
+  Judge Thomason and the Brackin Law Firm weaponized judicial power through backroom
+  coordination and severe procedural ethics violations. Are local family courts running
+  a profitable extortion scheme against citizens?
 ---
 **Oct 2 2015**
 

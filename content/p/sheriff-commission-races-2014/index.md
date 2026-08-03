@@ -2,7 +2,8 @@
 title: Sheriff and Commission Races - Fighting the Machine
 date: 2014-05-16
 thumbnail: img/sheriff-commission-races-2014.png
-description: Exposing the Lynn Stacey political machine and endorsing candidates to fight Baldwin County corruption
+description: Exposing the Lynn Stacey political machine and endorsing candidates to
+  fight Baldwin County corruption
 tags:
 - archive
 - historical
@@ -85,7 +86,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-alttags: A man wearing metallic Alabama sheriff armor with a red laser eye sits in an office
+alttags: A man wearing metallic Alabama sheriff armor with a red laser eye sits in
+  an office
+summary: Senator Trip Pittman and Sheriff Huey Mack built a backroom alliance to crush
+  political competition and hijack local government. Legislative records prove Pittman
+  intentionally passed unconstitutional laws just to keep his hand-picked sheriff
+  in total control. Dig into the full investigation to see how deep the insider network
+  really goes.
 ---
 **May 16, 2014 Ripp Report #14**
 

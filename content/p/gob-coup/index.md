@@ -76,6 +76,11 @@ related_articles:
   llm_score: 70
   recency_score: 2.644001458615577
   rank: 10
+summary: Old-guard politicians launched an aggressive internal takeover to strip the
+  elected mayor of her legal authority. Official memos and council transcripts reveal
+  a coordinated plan involving hiring freezes, rushed judicial appointments, and staged
+  employee lawsuits. Uncover how political bosses staged a silent overthrow of the
+  public's vote.
 ---
 Fairhope politics has taken on a coup mentality. Mayor Wilson upset the apple cart of two political groups: Tim Kant followers, and Jack Burrell and his cronies, both supported by Catalyst. Kant followers have fallen off in recent years and Mr Burrell was assured by Kant he would be the next mayor, along with two others. Jack hedged his position by playing both sides to his benefit however mayor Wilson winning was not in the cards.
 

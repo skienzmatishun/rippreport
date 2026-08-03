@@ -13,7 +13,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Black and white close-up of shattered glass with a large hole in the center and spiderweb cracks radiating outward
+alttags: Black and white close-up of shattered glass with a large hole in the center
+  and spiderweb cracks radiating outward
 related_articles:
 - slug: cut-the-head-off-the-snake
   title: CUT THE HEAD OFF THE SNAKE
@@ -85,6 +86,10 @@ related_articles:
   recency_score: 2.24321456774108
   category_score: 0
   rank: 10
+summary: Former Mayor Tim Kant pushed shady development favors for major campaign
+  contributors during his final days in office. Planning commission documents reveal
+  how city insiders quieted opposition to help wealthy developers line their pockets.
+  How much longer can these corrupt insiders hide behind their fragile reputations?
 ---
 Fairhope celebrated the election of the first woman Mayor of Fairhope with a fantastic swearing in ceremony. Hundreds attended and the atmosphere was positive. Mayor Wilson addressed the attendees and promised to represent them to the best of her abilities. She was humble and appreciated the trust the citizens had in her ability.
 

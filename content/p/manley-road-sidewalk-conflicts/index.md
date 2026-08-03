@@ -1,7 +1,8 @@
 ---
 title: Manley Road Sidewalk Conflicts of Interest
 date: 2016-03-14
-description: Questioning conflicts of interest in sidewalk contract awards involving George Robards and Lee Turner
+description: Questioning conflicts of interest in sidewalk contract awards involving
+  George Robards and Lee Turner
 thumbnail: img/manley-road-sidewalk-conflicts.png
 tags:
 - archive
@@ -94,6 +95,11 @@ related_articles:
   category_score: 0
   rank: 10
 alttags: Close-up of a concrete sidewalk block with the embossed letters GOB
+summary: Following up on Fairhope's insider network, city officials funneled lucrative
+  infrastructure contracts directly to their own planning board members. Ethics filings
+  show key officials held dual roles that allowed them to approve project bids for
+  personal associates. Conflict of interest became standard procedure whenever public
+  dollars hit the pavement.
 ---
 **City of Fairhope, Mayor and Council**  
 **March 14, 2016**

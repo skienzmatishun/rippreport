@@ -9,7 +9,8 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: An empty metal food can standing upright on a white background with purple side panels
+alttags: An empty metal food can standing upright on a white background with purple
+  side panels
 related_articles:
 - slug: investigating-the-investigators
   title: Investigating the Investigators
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 85
   recency_score: 31.126106312094088
   rank: 10
+summary: Fairhope Airport Authority leadership executed a questionable hangar lease
+  long before obtaining mandatory state ethics clearance. Altered contract drafts
+  and missing legal exhibits prove key players modified terms behind closed doors
+  to benefit political allies. Examine how connected insiders bent municipal regulations
+  to land lucrative real estate deals.
 ---
 The Ripp Report has been reporting on the Airport scandal since Nov. 2016,
 

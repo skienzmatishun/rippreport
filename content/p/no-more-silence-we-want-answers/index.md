@@ -17,7 +17,8 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: A wooden podium with an adjustable black microphone, set against a blurred background of town buildings and parked cars
+alttags: A wooden podium with an adjustable black microphone, set against a blurred
+  background of town buildings and parked cars
 related_articles:
 - slug: a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
   title: A LEGAL WIN FOR FAIRHOPE CITIZENS WHO OPPOSE FLY CREEK APARTMENTS
@@ -79,6 +80,11 @@ related_articles:
   llm_score: 65
   recency_score: 11.931032617419875
   rank: 10
+summary: Following up on our Fly Creek investigation, city officials tried to suppress
+  a citizen lawsuit to protect an insider developer's illegal project. Recent court
+  rulings forced open discovery files that threaten to expose private phone logs,
+  bank records, and campaign favors. Their wall of silence is breaking, and the truth
+  will soon come to light.
 ---
 QUESTIONS FOR MAYOR KANT
 

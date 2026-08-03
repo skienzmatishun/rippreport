@@ -2,7 +2,8 @@
 title: Ethics Complaint Against Lee Turner
 date: 2015-09-25
 thumbnail: img/ethics-complaint-turner.png
-description: Formal complaint to Alabama Ethics Commission regarding conflicts of interest in Fairhope government
+description: Formal complaint to Alabama Ethics Commission regarding conflicts of
+  interest in Fairhope government
 tags:
 - archive
 - historical
@@ -93,7 +94,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A white envelope on a wooden surface with handwritten black ink addressing Tom Albritton, Director of the Alabama Ethics Commission
+alttags: A white envelope on a wooden surface with handwritten black ink addressing
+  Tom Albritton, Director of the Alabama Ethics Commission
+summary: Expanding on our sidewalk conflict investigation, Lee Turner repeatedly abused
+  his dual authority to funnel lucrative public infrastructure work to preferred insiders.
+  Official filings demonstrate how board members approved municipal projects that
+  funneled corporate profits back into their own private enterprise. We unpack the
+  corrupt spiderweb controlling Fairhope development.
 ---
 **Freaky Friday**  
 **Ripp Report Sept. 25, 2015**

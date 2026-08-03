@@ -2,7 +2,8 @@
 title: Request for Special Meeting on Fly Creek Apartments
 date: 2016-02-12
 thumbnail: img/fly-creek-special-meeting-request.png
-description: Calling for civic center meeting to accommodate hundreds of residents concerned about apartment development
+description: Calling for civic center meeting to accommodate hundreds of residents
+  concerned about apartment development
 tags:
 - archive
 - historical
@@ -93,7 +94,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Fairhope Municipal Complex sign on a brick pillar, listing the Civic Center and Court. University of South Alabama plaque below
+alttags: Fairhope Municipal Complex sign on a brick pillar, listing the Civic Center
+  and Court. University of South Alabama plaque below
+summary: City leaders ignored hundreds of angry residents while secretly spending
+  taxpayer money to benefit a high-density developer. Public records show municipal
+  leaders spent over a million dollars on infrastructure specifically tailored for
+  private apartment projects. Read the formal demand that forced public officials
+  to answer to the citizens they tried to ignore.
 ---
 **Cofairhope**  
 **Fairhope City Council and Mayor**  

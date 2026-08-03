@@ -8,7 +8,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Large white text reads WE WON!! on a dark red background with scattered speckles. Red, white, and blue diagonal beams with stars frame the bottom corners
+alttags: Large white text reads WE WON!! on a dark red background with scattered speckles.
+  Red, white, and blue diagonal beams with stars frame the bottom corners
 related_articles:
 - slug: game-on
   title: GAME ON
@@ -70,6 +71,11 @@ related_articles:
   llm_score: 85
   recency_score: 0.6555851559591579
   rank: 10
+summary: Building on our investigation into City Hall, entrenched insiders lost their
+  tight grip on power after citizens united against years of secret deals. Financial
+  ledgers and voter petitions prove how years of bad choices racked up millions in
+  wasted tax dollars. Read our full breakdown to see why the old political machine
+  finally crumbled under public pressure.
 ---
 It is no secret that I have spent 10 years trying to unseat the Mayor of Fairhope. It is expected after an election to be gracious and heap accolades on the departing Mayor, I will reserve my comments until Nov. 7th. The transition period between now and Nov. 7th will be telling. I hope it is civil with no surprises or forced through agendas that may impact the city negatively.
 

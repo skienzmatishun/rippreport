@@ -10,7 +10,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A man in a suit and sunglasses appears side-by-side as a color photograph with an American flag and Alabama seal, and a black-and-white graphic
+alttags: A man in a suit and sunglasses appears side-by-side as a color photograph
+  with an American flag and Alabama seal, and a black-and-white graphic
 related_articles:
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
@@ -72,6 +73,10 @@ related_articles:
   llm_score: 70
   recency_score: 13.095824954670931
   rank: 10
+summary: Jack Burrell hijacked the Fairhope Airport Authority to hand out backroom
+  lease favors to his closest political cronies. State ethics records and signed lease
+  agreements prove board members bypassed mandatory state review periods to secure
+  private airfield deals. The Ripp Report details every step of this high-flying scandal.
 ---
 The Ripp Report closes out 2016 with congratulations to John Sharp [Al.com](al.com).
 

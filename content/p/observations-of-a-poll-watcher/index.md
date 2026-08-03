@@ -8,7 +8,8 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: A white envelope with its flap open, revealing a second white envelope inside, centered against a deep red background
+alttags: A white envelope with its flap open, revealing a second white envelope inside,
+  centered against a deep red background
 related_articles:
 - slug: pay-off-and-election-fraud
   title: PAY OFF AND ELECTION FRAUD
@@ -70,6 +71,11 @@ related_articles:
   llm_score: 65
   recency_score: 18.853093942446446
   rank: 10
+summary: Our ongoing coverage of local election integrity uncovers direct evidence
+  of machine tampering and ballot manipulation by city operatives. Certified poll
+  watcher logs and formal complaints expose key officials operating voting equipment
+  without oversight. Take a look inside the shady tactics that rigged our local democratic
+  process for years.
 ---
 This is another letter about election fraud in Fairhope. There are several filed with the Alabama Sec. of State, Election Division.
 

@@ -10,7 +10,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Wanted poster with a distressed border displays WANTED and $5000 with Jack Burrell in a Bunny suit behind bars. 
+alttags: Wanted poster with a distressed border displays WANTED and $5000 with Jack
+  Burrell in a Bunny suit behind bars.
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilman Jack Burrell accepted free private airplane flights from a winning
+  vendor while overseeing the selection of municipal contracts. Building on our prior
+  coverage, verified notices and official claims detail how politicians dodged public
+  questions while taking kickbacks. Will anyone step forward to collect five thousand
+  dollars and disprove our allegations?
 ---
 The Ripp Report and BCLE are offering a $5k cash award to anyone who can prove that the contents of the formal complaint against Councilman Jack Burrell of Fairhope are false. Prove that the documents quoted or provided are fabricated or altered from their original copies or that there is any willful malicious intent to mislead the public for any reason or to unlawfully disparage Mr. Burrell by making fictitious claims or providing erroneous documents, and you will be five thousand dollars ($5k) richer.
 

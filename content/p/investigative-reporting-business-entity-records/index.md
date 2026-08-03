@@ -9,7 +9,8 @@ tags:
 - john-avent
 authors:
 - ripp-report
-alttags: A list of LLC members with address fields marked as not provided, highlighting the names John G Avent and Kevin Boone in yellow
+alttags: A list of LLC members with address fields marked as not provided, highlighting
+  the names John G Avent and Kevin Boone in yellow
 related_articles:
 - slug: a-spiders-web
   title: A SPIDER’S WEB
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 70
   recency_score: 0.7663910803831024
   rank: 10
+summary: An elected city official concealed his co-ownership of a real estate development
+  firm while approving municipal contracts for his business partner. Official records
+  from the Secretary of State expose exact entity formation documents tying politicians
+  directly to engineering contractors. Hard corporate evidence exposes the hidden
+  financial engine driving local corruption.
 ---
 Source: [http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL](http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL)
 

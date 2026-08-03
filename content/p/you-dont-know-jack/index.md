@@ -14,7 +14,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A close-up of a bald mans face with the text YOU DONT KNOW JACK printed across his forehead against a blue and purple dotted background
+alttags: A close-up of a bald mans face with the text YOU DONT KNOW JACK printed across
+  his forehead against a blue and purple dotted background
 related_articles:
 - slug: jack-box-airport
   title: JACK IN THE BOX - AIRPORT
@@ -76,6 +77,10 @@ related_articles:
   llm_score: 85
   recency_score: 1.8165716355019172
   rank: 10
+summary: Fairhope City Council President Jack Burrell manipulated airport authority
+  bids to benefit his political allies. Official records prove the ethics commission
+  never received required lease filings for the lucrative 30-year deal. The Ripp Report
+  uncovers what Jack tried to hide from the public.
 ---
 I have followed four Fairhope city councils and one thing I can tell you is with each new council several things became abundantly clear. The new members of the council are usually influenced by longer serving members. However, the newer members are usually kept in the dark as to the backstory involving long-term issues concerning the city. Another observation was the utter lack of transparency and accountability. I give our previous Mayor full credit for using the aforementioned tactics.
 

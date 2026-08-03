@@ -10,7 +10,8 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: A black-and-white line drawing of a postage stamp featuring an eagles head in profile and the text USA
+alttags: A black-and-white line drawing of a postage stamp featuring an eagles head
+  in profile and the text USA
 related_articles:
 - slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
   title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
@@ -82,6 +83,11 @@ related_articles:
   recency_score: 0.10428964126174459
   category_score: 0
   rank: 10
+summary: State Senator Trip Pittman used his office to secure lucrative government
+  contracts while claiming he had a clean slate. Ethics complaints and federal investigative
+  records prove that city hall insiders protected these dirty deals for years. Our
+  latest breakdown lays bare the deception that local powerbrokers hoped you would
+  never see.
 ---
 Complaint Statement:
 

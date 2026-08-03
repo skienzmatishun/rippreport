@@ -8,7 +8,8 @@ tags:
 - boone
 authors:
 - ripp-report
-alttags: A hand reaches out to knock over a line of white dominoes set on a reflective black surface
+alttags: A hand reaches out to knock over a line of white dominoes set on a reflective
+  black surface
 related_articles:
 - slug: follow-bouncing-ball
   title: FOLLOW THE BOUNCING BALL
@@ -80,6 +81,11 @@ related_articles:
   recency_score: 2.9502281748141934
   category_score: 0
   rank: 10
+summary: Councilman Kevin Boone quietly lined his own pockets by voting on massive
+  municipal engineering contracts tied directly to his personal business partners.
+  Official meeting minutes and financial disclosures expose a paper trail linking
+  Boone to corporate entities funding his campaign. We uncover the paper trail behind
+  this reckless political scheme.
 ---
 Well if you read the wonderful Wednesday this week,
 

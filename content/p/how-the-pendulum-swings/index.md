@@ -11,7 +11,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A gold chain with a smooth, teardrop-shaped pendant hanging against a light lavender background
+alttags: A gold chain with a smooth, teardrop-shaped pendant hanging against a light
+  lavender background
 related_articles:
 - slug: gob-coup
   title: GOB COUP
@@ -73,6 +74,11 @@ related_articles:
   llm_score: 70
   recency_score: 40.82439318875856
   rank: 10
+summary: Power-hungry council members executed an illegal political takeover to protect
+  the corrupt legacy of the old political machine. Documents expose a calculated campaign
+  of backroom deals, unvetted appointments, and deliberate personnel sabotage. We
+  break down the ruthless tactics used to strip power from the voters and keep cronies
+  in control.
 ---
 Well, Wonderful Wednesday had some very interesting commentary.
 

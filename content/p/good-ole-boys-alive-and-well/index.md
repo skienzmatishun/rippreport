@@ -14,7 +14,8 @@ tags:
 - sewer
 authors:
 - ripp-report
-alttags: Smiling man in a suit and tie standing before an American flag and Alabama state seal emblem
+alttags: Smiling man in a suit and tie standing before an American flag and Alabama
+  state seal emblem
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
@@ -76,6 +77,11 @@ related_articles:
   llm_score: 65
   recency_score: 0.18539978733415308
   rank: 10
+summary: A shadowy network of political brokers pulled the strings behind local votes
+  to guarantee huge payouts for private interests. Internal organization filings connect
+  council members directly to covert political groups managing local influence campaigns.
+  Can the public overcome a cabal that treats city hall like its own private bank
+  account?
 ---
 Fairhope City Council has shifted from a rude, loud, and bulling approached, that backfired on them, to a passive aggressive approach when addressing the mayor. The ultimate goal is to prevent her from doing her job and opposing any of her goals. The masked condescending and sarcastic comments remain along with the disrespect.
 

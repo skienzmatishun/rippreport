@@ -9,7 +9,8 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: A close-up of a dark brown donkey chewing grass while leaning over a weathered wooden fence in a green pasture
+alttags: A close-up of a dark brown donkey chewing grass while leaning over a weathered
+  wooden fence in a green pasture
 related_articles:
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 85
   recency_score: 3.5349686560536235
   rank: 10
+summary: Council President Jack Burrell pushed through an illegal emergency contract
+  to enrich an elected senator's private tractor company. Official meeting minutes
+  confirm Burrell actively blocked legal counsel for the mayor while funding his own
+  political protection. Discover how one arrogant official holds our entire municipal
+  budget hostage.
 ---
 Well folks, as they often say, “You can’t make this stuff up!”
 

@@ -7,7 +7,8 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: An open wooden briefcase containing neatly stacked, rubber-banded bundles of US dollar bills arranged in rows
+alttags: An open wooden briefcase containing neatly stacked, rubber-banded bundles
+  of US dollar bills arranged in rows
 related_articles:
 - slug: observations-of-a-poll-watcher
   title: “Observations of a Poll Watcher”
@@ -69,6 +70,11 @@ related_articles:
   llm_score: 75
   recency_score: 1.6686576504096422
   rank: 10
+summary: Continuing our look at dirty politics, former Mayor Kant took secret loans
+  from wealthy backers while sealing court cases to hide the payoffs. Uncovered deposition
+  transcripts confirm financial notes and cash exchanges linked directly to property
+  disputes in Fairhope. How much longer will corrupt politicians keep hiding their
+  financial payoffs behind closed doors?
 ---
 KANT KONFIDENTIAL: SEALED COURT CASE KEPT FROM THE PUBLIC
 

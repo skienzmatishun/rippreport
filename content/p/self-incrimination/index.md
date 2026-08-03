@@ -74,6 +74,11 @@ related_articles:
   llm_score: 65
   recency_score: 0.2126187822384949
   rank: 10
+summary: Council President Jack Burrell caught himself in his own web of lies after
+  leaking confidential city communications to friendly press outlets. Leaked emails
+  and recorded votes prove how council leadership handed public land gifts to developers
+  while sabotaging city operations. Take a closer look at how their arrogant backroom
+  deals finally caught up with them.
 ---
 Fairhope you have two choices. Believe in Mayor Wilson and her ideas on infrastructure and growth or follow a city council who has demonstrated no leadership, has adopted the theme of no action, is in denial of facts, and refuses to adapt to changing demographics, or change period.
 

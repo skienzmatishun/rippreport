@@ -1,7 +1,8 @@
 ---
 title: Mikey Is Gone! - Fairhope Courier's Demise
 date: 2013-09-13
-description: Mike Odom and Fairhope Courier are history, Attorney General Luther Strange affair allegations go viral
+description: Mike Odom and Fairhope Courier are history, Attorney General Luther Strange
+  affair allegations go viral
 thumbnail: img/mikey-is-gone.png
 tags:
 - archive
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: House Speaker Mike Hubbard and state political bosses funneled millions in
+  public contracts to private corporate allies. Grand jury subpoenas and financial
+  records demonstrate how state power brokers operated an untouchable pay-to-play
+  ring. The Ripp Report breaks down the ultimate fall of Montgomery’s most notorious
+  political machine.
 ---
 **Fri, Sep 13, 2013**
 

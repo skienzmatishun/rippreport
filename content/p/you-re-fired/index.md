@@ -9,7 +9,8 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Donald Trump points forward with his mouth open, shouting. Red text on his chest reads Youre Fired! against a blurred flag background
+alttags: Donald Trump points forward with his mouth open, shouting. Red text on his
+  chest reads Youre Fired! against a blurred flag background
 related_articles:
 - slug: fire
   title: FIRE
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 65
   recency_score: 0.11076889600373441
   rank: 10
+summary: Following up on county ethics abuses, Commissioner Dorsey openly ignored
+  a binding ethics ruling to protect her employer's lucrative sewer deals. Official
+  state ethics opinions and commission meeting minutes prove a repeated pattern of
+  illegal voting and whistleblower retaliation. Uncover the full scope of local official
+  misconduct before the next scandal hits taxpayers.
 ---
 To Alabama Ethics Commission Statement of Facts: July 29, 2016
 

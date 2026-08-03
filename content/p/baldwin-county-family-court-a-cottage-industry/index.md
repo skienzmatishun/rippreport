@@ -8,7 +8,8 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: Silhouette of two adults and two children holding hands while walking forward against a white background with faint reflections
+alttags: Silhouette of two adults and two children holding hands while walking forward
+  against a white background with faint reflections
 related_articles:
 - slug: exposure
   title: EXPOSURE
@@ -74,12 +75,17 @@ related_articles:
   category_score: 0
   rank: 9
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 52.63868620757778
   llm_score: 70
   recency_score: 18.193431037888864
   category_score: 0
   rank: 10
+summary: Corrupt lawyers and abusive judges turned the county divorce court into an
+  endless cash generator. Case files prove local attorneys deliberately dragged out
+  custody battles to extract maximum legal fees from desperate parents. Public exposure
+  is finally tearing down this abusive family court racket.
 ---
 For years we have been critical of the family court, especially the rulings of District Judge Michelle Thomason. Complaints lit Facebook up like a Christmas tree.
 

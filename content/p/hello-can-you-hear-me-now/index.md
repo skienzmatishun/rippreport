@@ -11,7 +11,8 @@ tags:
 - planning-and-zoning
 authors:
 - ripp-report
-alttags: A cartoon illustration of a boy with brown hair and large eyes, his hand raised near his ear with fingers spread
+alttags: A cartoon illustration of a boy with brown hair and large eyes, his hand
+  raised near his ear with fingers spread
 related_articles:
 - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
   title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
@@ -50,7 +51,8 @@ related_articles:
   recency_score: 8.197263040241149
   rank: 6
 - slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns '
   score: 68.00285391869907
   llm_score: 85
   recency_score: 0.014269593495351693
@@ -73,6 +75,11 @@ related_articles:
   llm_score: 75
   recency_score: 4.377172914575434
   rank: 10
+summary: Councilwoman Diana Brewer repeatedly ignored public outrage to push destructive
+  developer agendas onto Fairhope residents. Voting records and meeting logs prove
+  she dismissed overwhelming constituent objections to favor insider real estate deals.
+  Fairhope voters finally delivered a clear message that no arrogant politician can
+  ignore.
 ---
 Jimmy Conyers steamed rolled incumbent Diana Brewer for a Fairhope City Council seat with 66% of the vote. Diana now joins Tim Kant, as the second person to lose their job because they refused to listen to their constituents, they will soon have company.
 

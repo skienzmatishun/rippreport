@@ -8,7 +8,8 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: A dark bronze statue of a blindfolded female figure holding a set of scales, with one side raised higher than the other
+alttags: A dark bronze statue of a blindfolded female figure holding a set of scales,
+  with one side raised higher than the other
 related_articles:
 - slug: baldwin-county-family-court-a-cottage-industry
   title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
@@ -39,7 +40,8 @@ related_articles:
   category_score: 0
   rank: 4
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 63.188874192619664
   llm_score: 85
   recency_score: 18.444370963098283
@@ -80,6 +82,10 @@ related_articles:
   recency_score: 20.807368364916808
   category_score: 0
   rank: 10
+summary: Judge Michelle Thomason ran the family court system like a predatory business
+  that shattered local families. Internal court memos show senior judges quietly stripped
+  her of key dockets after endless ethical complaints. Discover how one brave investigation
+  finally brought this judicial nightmare to light.
 ---
 The Ripp Report and Baldwin County Legal Eagle had a record posting:
 

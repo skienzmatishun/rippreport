@@ -73,6 +73,11 @@ related_articles:
   llm_score: 75
   recency_score: 0.8934740095286622
   rank: 10
+summary: Councilman Kevin Boone backed high-density developer projects on zoning boards
+  while accepting cash campaign donations from the project engineers. Following up
+  on our report, official meeting minutes detail how officials pushed through controversial
+  waivers despite severe drainage warnings. Can Fairhope taxpayers trace where the
+  money bounced before the next big development passes?
 ---
 The Ripp Report and Baldwin County Legal Eagle is a non-profit exposing political and judicial corruption. We also have helped consumers with complaints about consumer products or services. There are no paid staff and no outer office expenses, 100% of any donation goes towards the non-profit. The majority of operating capital I personally donate, which is not reimbursed.
 

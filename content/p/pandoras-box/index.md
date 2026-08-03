@@ -15,7 +15,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A black and white illustration shows a kneeling woman reaching toward an open ornate chest. Dark silhouetted figures emerge from the top
+alttags: A black and white illustration shows a kneeling woman reaching toward an
+  open ornate chest. Dark silhouetted figures emerge from the top
 related_articles:
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
@@ -77,6 +78,11 @@ related_articles:
   llm_score: 75
   recency_score: 3.955208032408443
   rank: 10
+summary: Council President Jack Burrell unleashed a wave of legal chaos after orchestrating
+  backroom schemes with disgruntled former city staff. Sworn statements and internal
+  letters confirm council members manufactured secret settlements to hide ongoing
+  municipal misconduct. Learn what terrible secrets slipped out once the council opened
+  their greedy lid.
 ---
 Today the phrase "to open Pandora's box" means to perform an action that may seem small or innocent, but that turns out to have severely detrimental and far-reaching negative consequences. Once open all the evils fly out, only leaving the good.
 

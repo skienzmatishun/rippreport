@@ -1,7 +1,8 @@
 ---
 title: Pittman & Kant Caught
 date: 2014-02-13
-description: Mayor Kant lies about who signed BP Boom documents, Leigh Anne Ryals denies involvement
+description: Mayor Kant lies about who signed BP Boom documents, Leigh Anne Ryals
+  denies involvement
 thumbnail: img/pittman-kant-caught-new-evidence.png
 tags:
 - archive
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Senator Trip Pittman forged official mayoral documents to cover up his active
+  role in a massive grant fraud scheme. Official correspondence shows Pittman manufactured
+  letters using Mayor Kant’s signature to deceive federal investigators. We detail
+  how their desperate cover-up completely fell apart under federal scrutiny.
 ---
 
 ### New and Material Evidence in the Ongoing Fairhope BP Boom Scandal Investigation

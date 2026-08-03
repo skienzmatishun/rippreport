@@ -16,7 +16,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A hand in a black suit sleeve holds a magnifying glass over a document with bar charts, overlaid by a large red X
+alttags: A hand in a black suit sleeve holds a magnifying glass over a document with
+  bar charts, overlaid by a large red X
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
@@ -78,6 +79,11 @@ related_articles:
   llm_score: 75
   recency_score: 7.845692903752216
   rank: 10
+summary: Council President Jack Burrell secretly manipulated competitive airport bidding
+  numbers to favor a fellow board member's private proposal. Official scorecards prove
+  Burrell reduced a rival bidder's fuel estimate by thousands of gallons to swing
+  the final evaluation. How much longer can city leaders hide behind rigged bidding
+  processes?
 ---
 The Fairhope City Council needs to do more reading of facts than listening to unsubstantiated statements by Council President Burrell. One thing needs to be made perfectly clear the issue of the complaint against Mr. Burrell and Mr. Hix is not going to disappear because Mr. Burrell dismisses it.
 

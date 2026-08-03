@@ -10,7 +10,8 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: A lit matchstick with a bright flame and curling smoke rising against a dark, blurred background
+alttags: A lit matchstick with a bright flame and curling smoke rising against a dark,
+  blurred background
 related_articles:
 - slug: you-re-fired
   title: YOU'RE FIRED
@@ -72,6 +73,10 @@ related_articles:
   llm_score: 65
   recency_score: 7.802820371909244
   rank: 10
+summary: Commissioner Tucker Dorsey purged key county employees who dared to question
+  illegal self-dealing contracts. Formal ethics complaints show he intentionally ignored
+  official conflict-of-interest warnings to protect political allies. Read the shocking
+  truth about how one politician burned down county oversight to shield his friends.
 ---
 **Commissioner Tucker Dorsey the citizens of Baldwin County have lost confidence in you.**
 

@@ -86,6 +86,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City Hall disguised a multi-million-dollar lawsuit bailout as a public park
+  acquisition to deceive Fairhope taxpayers. Financial ledgers demonstrate how officials
+  drained millions from utility reserves without public oversight or council votes.
+  Uncover the truth behind the biggest financial cover-up in municipal history.
 ---
 This document is intended to be an Official Complaint of political corruption, criminal activity, betrayal of public trust and deceit put forth at numerous public meetings. A copy will be sent to the FBI, Alabama Attorney General and the District Attorney for Baldwin County. The complaint is intended to become an official notice to the general public of the continued corrupt activities of Fairhope Mayor Tim Kant.
 

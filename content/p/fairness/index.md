@@ -13,7 +13,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Conceptual site plan for the proposed Fly Creek Apartments showing building clusters, parking lots, roads, and green spaces across multiple development ...
+alttags: Conceptual site plan for the proposed Fly Creek Apartments showing building
+  clusters, parking lots, roads, and green spaces across multiple development ...
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
@@ -75,6 +76,11 @@ related_articles:
   llm_score: 65
   recency_score: 4.726171144332342
   rank: 10
+summary: Fairhope municipal officials repeatedly kicked the can down the road to protect
+  developer Arthur Corte's controversial Fly Creek project at the expense of local
+  taxpayers. Records prove that political insider networks like Catalyst have quietly
+  influenced these critical council votes behind closed doors for years. Read how
+  deep this web of political favors really goes before the next council meeting.
 ---
 For the 10th time citizens packed the city council chambers to discuss the Fly Creek Apartments and again their comments fell on deaf ears. Four councilmen voted for the extension of the sunset clause that allows the developer another 120 days to get a multiple occupancy site plan.
 

@@ -2,7 +2,8 @@
 title: Fairhope - Epicenter of Political Corruption via Conflict of Interest
 date: 2015-06-05
 thumbnail: img/fairhope-epicenter-of-corruption.jpg
-description: Complete breakdown of the good ole boy network's conflicts of interest costing Fairhope millions
+description: Complete breakdown of the good ole boy network's conflicts of interest
+  costing Fairhope millions
 tags:
 - archive
 - historical
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A deeply entrenched political machine hijacked Fairhope municipal operations,
+  steering millions in taxpayer contracts to well-connected business allies and campaign
+  backers. Public records expose undisclosed business ties, secret lawsuit payouts,
+  and widespread BP grant fraud involving top city and state officials. Corporate
+  greed and corrupt politicians have completely compromised our local government.
 ---
 The foundation of a "good ole boy" government is a solid base of individuals who hold office while maintaining a conflict of interest which promotes their agenda while holding the population hostage to any change.
 

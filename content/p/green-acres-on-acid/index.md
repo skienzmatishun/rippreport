@@ -10,7 +10,8 @@ tags:
 - steve-russo
 authors:
 - ripp-report
-alttags: A blue-tinted graphic featuring a man in a suit, a woman with vintage hair, and two pigs against an orange sky. The text GREEN ACRES is displayed promin...
+alttags: A blue-tinted graphic featuring a man in a suit, a woman with vintage hair,
+  and two pigs against an orange sky. The text GREEN ACRES is displayed promin...
 related_articles:
 - slug: railroaded-by-the-law
   title: RAILROADED BY THE LAW
@@ -72,6 +73,11 @@ related_articles:
   llm_score: 85
   recency_score: 0.5531699018745336
   rank: 10
+summary: Former Senator Tripp Pittman pocketed three-quarters of a million dollars
+  in oil spill disaster funds through an unlicensed front company. FBI subpoenas and
+  city payout records uncover how local officials ignored felony licensing laws to
+  enrich a powerful state political trustee. Read the full investigation to see how
+  disaster relief turned into pure profit.
 ---
 - In Baldwin County, the incentive to run for office and become a public servant is that there is no accountability and “conflict of interest” is just a pesky term. Many of our elected officials are in office for personal gain and use their positions to support like minded politicians.
 

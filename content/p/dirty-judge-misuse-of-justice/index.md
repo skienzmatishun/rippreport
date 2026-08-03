@@ -2,7 +2,8 @@
 title: Dirty Judge and Misuse of Justice
 date: 2015-08-20
 thumbnail: img/dirty-judge-misuse-of-justice.png
-description: 'Consumer alert: Baldwin County Family Court corruption involving Judge Thomason and Brackin Law Firm'
+description: 'Consumer alert: Baldwin County Family Court corruption involving Judge
+  Thomason and Brackin Law Firm'
 tags:
 - archive
 - historical
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Building on our family court exposure, Judge Thomason systematically rigged
+  custody battles to enrich favored local lawyers at the expense of local families.
+  Shocking hearing records reveal suppressed evidence, ignored professional evaluations,
+  and unchecked perjury designed to force endless litigation. Can Baldwin County parents
+  ever expect real justice from this compromised bench?
 ---
 **8/20/15**
 

@@ -71,6 +71,11 @@ related_articles:
   llm_score: 50
   recency_score: 0.19159642724092793
   rank: 10
+summary: Pushing forward in our investigation into regional mismanagement, scout executives
+  drained youth charity funds to line their own pockets while selling off historic
+  camp land. Financial audits and IRS documents show massive annual operating deficits
+  paired with six-figure executive paychecks. Examine the evidence showing how leadership
+  sacrificed youth programs for personal gain.
 ---
 "HARD FACTS" Baldwin County Commissioner, Tucker Dorsey, along with fellow Mobile Area Boy Scout Board of Directors, has released that the Local Council again lost almost $200,000 for 2015. Making the average yearly loss since 2008— and for the past 9 years, of over $200,000 each year — along with even having one year topping the $311,000 mark.
 

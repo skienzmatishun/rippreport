@@ -8,10 +8,12 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A golden trophy with two handles and a dark base featuring a gold plaque, isolated on a black background
+alttags: A golden trophy with two handles and a dark base featuring a gold plaque,
+  isolated on a black background
 related_articles:
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
-  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
+  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor
+    Karin Wilson'
   score: 82.68454994448997
   llm_score: 100
   recency_score: 13.422749722449872
@@ -70,6 +72,10 @@ related_articles:
   llm_score: 70
   recency_score: 4.5234717035402
   rank: 10
+summary: An entrenched clique of former city leaders neglected critical utility systems
+  while lining the pockets of favored local developers. Comprehensive public health
+  reports expose years of hidden sewage spills pouring directly into public waterways.
+  This investigation highlights the real cost of systematic municipal neglect.
 ---
 {{< socialpreview url="https://www.lagniappemobile.com/news/complete-list-2017-nappie-award-winners/article_374dee96-bedd-5b49-83b5-3736908420f7.html" >}}
 

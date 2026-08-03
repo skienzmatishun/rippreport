@@ -83,6 +83,10 @@ related_articles:
   recency_score: 0.024954023058067983
   category_score: 0
   rank: 10
+summary: Bitter politicians deliberately paralyzed city operations and froze vital
+  hiring just to settle personal political grudges. Official council agendas show
+  a systematic strategy to block public comment and stall essential city budgets.
+  Learn how petty political revenge continues to sabotage essential community services.
 ---
 The quality of life in Fairhope is now being degraded by a city council that is more interested in failure than success. The current and past council president, Jack Burrell, along with his accomplice Kevin Boone, have successfully slowed city government and services to a point that had best concern us all. They have been engaged in a vindictive campaign to undermine the newly elected mayor.
 

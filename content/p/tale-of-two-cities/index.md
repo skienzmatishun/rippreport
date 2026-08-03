@@ -9,7 +9,8 @@ tags:
 - fly-creek
 authors:
 - ripp-report
-alttags: Daphne City Hall is a yellow building with a red roof and water tower. Palm trees stand before the entrance sign reading Daphne City Hall
+alttags: Daphne City Hall is a yellow building with a red roof and water tower. Palm
+  trees stand before the entrance sign reading Daphne City Hall
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 70
   recency_score: 7.206858915306978
   rank: 10
+summary: Councilmen Kevin Boone and Robert Brown ignored public outcry to protect
+  developer Angelo Corte's massive apartment project. Meeting logs and financial paper
+  trails prove council members granted secret extensions despite severe environmental
+  damage and citizen outrage. Discover how one town listened to its people while Fairhope
+  sold out to the highest bidder.
 ---
 On Wonderful Wednesday we posted a story about Daphmont Neighborhood in Daphne.
 

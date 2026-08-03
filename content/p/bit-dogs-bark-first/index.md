@@ -15,7 +15,8 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: A light-colored dog with closed eyes and an open mouth wearing a collar sits in front of two packaged treats
+alttags: A light-colored dog with closed eyes and an open mouth wearing a collar sits
+  in front of two packaged treats
 related_articles:
 - slug: fairhope-town-hall-meeting
   title: Fairhope Town Hall Meeting
@@ -87,6 +88,11 @@ related_articles:
   recency_score: 0.1390513477499682
   category_score: 0
   rank: 10
+summary: Councilmen Jack Burrell and Kevin Boone launched desperate political attacks
+  to protect their lucrative underground network from public oversight. Corporate
+  registry filings confirm Boone hid financial partnerships with engineering vendors
+  while blocking critical city utility upgrades. Why are these officials so afraid
+  of a simple independent audit?
 ---
 Well folks if you were watching football this last Monday night and have no idea what is going on with the Fairhope City Council, that same night, let me fill you in because a couple of councilmen were hoping you were distracted.
 

@@ -12,7 +12,8 @@ tags:
 - preble-rish
 authors:
 - ripp-report
-alttags: A gold-rimmed magnifying glass with a wooden handle is positioned over a red handprint on a white background
+alttags: A gold-rimmed magnifying glass with a wooden handle is positioned over a
+  red handprint on a white background
 related_articles:
 - slug: dont-throw-rocks-if-you-live-in-a-glass-house
   title: DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE
@@ -74,6 +75,11 @@ related_articles:
   llm_score: 75
   recency_score: 9.984766654067629
   rank: 10
+summary: Outgoing city leaders crammed massive development deals into their final
+  meetings to line the pockets of top campaign donors. Public records and court dockets
+  expose a desperate rush to approve multi-unit projects before new leadership took
+  charge. Discover how easy it is to spot corruption once politicians drop their fake
+  promises.
 ---
 Mayor Kant, after receiving the official news that he lost his re-election bid, promised a smooth transition from his administration to the new administration, which takes over Nov. 7th. The Mayor, like much of the community, is slowly coming out of shock; and he’s still taking orders from his good ole boy club and a remora-like gaggle of entitled attorneys.
 

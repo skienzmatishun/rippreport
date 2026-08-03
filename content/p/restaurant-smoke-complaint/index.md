@@ -1,7 +1,8 @@
 ---
 title: Do Unto Others - Nichols Street Smoke Dispute
 date: 2015-04-20
-description: Neighbors face commercial cooking smoke from restaurant owner, city government refuses to act
+description: Neighbors face commercial cooking smoke from restaurant owner, city government
+  refuses to act
 thumbnail: img/restaurant-smoke-complaint.png
 tags:
 - archive
@@ -84,14 +85,20 @@ related_articles:
   category_score: 0
   rank: 9
 - slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns '
   score: 40.87013981654287
   llm_score: 40
   recency_score: 0.0033039451214565683
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A sky filled with dense, smoky clouds illuminated by sunlight breaking through from behind
+alttags: A sky filled with dense, smoky clouds illuminated by sunlight breaking through
+  from behind
+summary: City officials repeatedly turned a blind eye to severe commercial pollution
+  choking a residential Fairhope neighborhood. Documented complaints reveal how Councilman
+  Burrell and the Mayor systematically ignored desperate appeals from tax-paying citizens.
+  Read on to see how municipal indifference protects political insiders at your expense.
 ---
 **Consumer Advocates Exposing Political Corruption**  
 **April 20, 2015**

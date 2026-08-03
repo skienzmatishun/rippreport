@@ -2,7 +2,8 @@
 title: Put Your Hip Boots On - Triangle Settlement Spin
 date: 2014-11-21
 thumbnail: img/hip-boots-on-triangle.png
-description: Mayor Kant claims Triangle settlement is finished and a win, but real cost is over $12 million
+description: Mayor Kant claims Triangle settlement is finished and a win, but real
+  cost is over $12 million
 tags:
 - archive
 - historical
@@ -92,7 +93,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A pair of olive green knee-high rubber boots with yellow trim at the top, hanging against a dark background
+alttags: A pair of olive green knee-high rubber boots with yellow trim at the top,
+  hanging against a dark background
+summary: Public officials spun a disastrous legal defeat into a victorious land purchase
+  while burying millions in attorney fees. Court records detail how council members
+  rejected cheap early settlements, forcing taxpayers to foot an eleven-million-dollar
+  bill. Discover how local leaders manufactured a massive lie to hide their catastrophic
+  legal blunder.
 ---
 ## PUT YOUR HIP BOOTS ON!
 

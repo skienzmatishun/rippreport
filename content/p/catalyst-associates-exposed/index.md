@@ -1,7 +1,8 @@
 ---
 title: Catalyst Associates Exposed
 date: 2014-10-03
-description: Connecting the dots on political consulting conflicts of interest involving Kevin Boone and Chris Elliott
+description: Connecting the dots on political consulting conflicts of interest involving
+  Kevin Boone and Chris Elliott
 thumbnail: img/catalyst-associates-exposed.png
 tags:
 - archive
@@ -84,7 +85,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-alttags: A spotlight illuminates a brick wall featuring a red prohibition sign overlaid with the word CATALYST in bold black letters
+alttags: A spotlight illuminates a brick wall featuring a red prohibition sign overlaid
+  with the word CATALYST in bold black letters
+summary: A shadow network of political operatives used secretive consulting firms
+  to rig local elections and secure municipal contracts. Corporate filings tie prominent
+  council members directly to engineering firms receiving millions in unbid city work.
+  The Ripp Report pulls back the curtain on Baldwin County's most powerful political
+  machine.
 ---
 **BACKSTORY**
 

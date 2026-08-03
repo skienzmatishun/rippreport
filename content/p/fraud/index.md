@@ -9,7 +9,8 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: US dollar bills, including a visible hundred-dollar bill with the Federal Reserve seal and serial number, resting on a folded American flag
+alttags: US dollar bills, including a visible hundred-dollar bill with the Federal
+  Reserve seal and serial number, resting on a folded American flag
 related_articles:
 - slug: pay-off-and-election-fraud
   title: PAY OFF AND ELECTION FRAUD
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 70
   recency_score: 0.011587324282087415
   rank: 10
+summary: Top city leadership repeatedly lied to the public to cover up catastrophic
+  financial blunders and bogus land deals. Deposition transcripts and federal subpoenas
+  confirm that high-ranking politicians orchestrated fraudulent schemes to enrich
+  their friends. Will federal investigators finally put an end to this long-running
+  municipal shell game?
 ---
 Webster’s Dictionary's definition of fraud reads: "Deceit; trickery; cheating, intentional deception to cause a person to give up property or some lawful right. Something said to deceive; trick; artifice. A person who deceives or is not what he pretends to be; imposter; cheat."
 

@@ -8,7 +8,8 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: A close-up of a bald eagle with a whistle hanging from its beak against a blurred American flag
+alttags: A close-up of a bald eagle with a whistle hanging from its beak against a
+  blurred American flag
 related_articles:
 - slug: political-intimidation
   title: POLITICAL INTIMIDATION
@@ -90,6 +91,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Mayor Tim Kant relied on dark money from outside interests to keep his iron
+  grip on municipal control. Campaign disclosure forms prove that out-of-town PACs
+  funded sneaky succession plans to keep the good ole boy network alive. Dive into
+  the investigation to see how an independent watchdog exposed the entire machine.
 ---
 Originally the Ripp Report was local information about Fairhope politics. The idea came about due to the lack of honest information coming from Fairhope city hall, the mayor in particular. That was over 10 years ago, nothing has changed. Facebook then became our social media site which spawned Baldwin County Legal Eagle. To expand our Gmail connection the blog site [The Ripp Report](https://rippreport.com) will be available. All of these forums will work together to maximize exposure.
 

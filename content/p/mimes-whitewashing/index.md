@@ -11,7 +11,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A person wearing a white mime face mask, black beret, and striped shirt holds two paintbrushes against a blue background
+alttags: A person wearing a white mime face mask, black beret, and striped shirt holds
+  two paintbrushes against a blue background
 related_articles:
 - slug: pandoras-box
   title: PANDORA'S BOX
@@ -73,6 +74,11 @@ related_articles:
   llm_score: 70
   recency_score: 2.448758459504532
   rank: 10
+summary: Jack Burrell and his city council cronies sabotaged the mayor while secretly
+  backing lawsuits against their own city. Documents show the council denied funding
+  for the mayor's legal defense while pushing forward executive settlements for disgruntled
+  ex-employees. The Ripp Report exposes what they pretended not to see during this
+  calculated mime act.
 ---
 Fairhope City Council plays to the council TV, like mimes. They smile and say all they want is cooperation from the mayor, then slam the door in her face. The last meeting they made it perfectly clear that they stand united in obstructing the mayor and backing “come fly with me” Burrell. All five council members now have all their cards on Jack. They have vowed to seek revenge for the ethics complaint the mayor filed against Jack. An ethics complaint accompanied by at least 4 other complaints, which now Councilman Brown says has “been ruled baseless.” Mr. Brown knows that what he is saying is not true. Investigations are underway. Mr Brown needs to understand that the Ripp Report does not put all it’s eggs in one basket. We fully intend to expose and expand the scope of authorities that may be interested in exposing corruption at Fairhope Airport.
 

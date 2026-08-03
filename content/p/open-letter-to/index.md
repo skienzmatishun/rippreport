@@ -80,6 +80,10 @@ related_articles:
   category_score: 0
   rank: 9
 alttags: Blue banner displays
+summary: Fairhope power brokers ignored severe environmental destruction to pave the
+  way for a taxpayer-funded developer payout. Written files confirm a secret quid
+  pro quo involving massive uncollected fines and missing fire department funds. We
+  reveal the shocking paper trail that local news stations refused to cover.
 ---
 I saw the Fox news team this morning at Parker Road and High ridge Road for what appeared to be a groundbreaking for the Fairhope Fire station. I know you are aware of the controversy surrounding the location. The location favors the land owner and not the city.
 

@@ -81,6 +81,11 @@ related_articles:
   recency_score: 34.826398104653
   category_score: 0
   rank: 10
+summary: Obstructionist council members trapped Fairhope in financial stalemates to
+  protect illegal bid-rigging schemes at the municipal airport. Formal ethics complaints
+  show how self-serving politicians systematically blocked public council agendas
+  to hide improper developer deals. Read the explosive details before these cornered
+  politicians gnaw through another tax dollar.
 ---
 Fairhope tossed out the Mayor of 16 years and ever since the sounds of rat traps are going off all over Fairhope. It is not uncommon for the new administration to discover past deeds of employees and elected officials that were unethical or criminal. The interesting thing is that it is usually the good employees who come forward with information once they do not have to fear retribution from a Mayor who covered and condoned such behavior.
 

@@ -11,7 +11,8 @@ tags:
 - hix
 authors:
 - ripp-report
-alttags: Black silhouette of a detective figure wearing a bowler hat and holding a magnifying glass against a red background
+alttags: Black silhouette of a detective figure wearing a bowler hat and holding a
+  magnifying glass against a red background
 related_articles:
 - slug: nuff-said
   title: NUFF SAID
@@ -73,6 +74,11 @@ related_articles:
   llm_score: 85
   recency_score: 37.09155679524731
   rank: 10
+summary: Airport board officials turned the tables on the public by spending taxpayer
+  money to investigate the news site exposing their corruption. Legal invoices confirm
+  the authority retained high-priced legal counsel to harass journalists and suppress
+  evidence of improper hangar bids. Public dollars weaponized against press freedom
+  will never suppress the truth.
 ---
 “The appropriation from city coffers to the airport is more than we spend on all 5 of our public schools and is 21% of our debt and accommodates less than 1% of the population.”
 

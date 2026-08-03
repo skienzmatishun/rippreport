@@ -1,7 +1,8 @@
 ---
 title: Letter to Editor Rob Holbert of Lagniappe
 date: 2015-09-11
-description: Social media fills the gap left by traditional media refusing to cover Baldwin County corruption
+description: Social media fills the gap left by traditional media refusing to cover
+  Baldwin County corruption
 thumbnail: img/letter-editor-rob-holbert.png
 tags:
 - archive
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local media outlets continue ignoring blatant public corruption while state
+  regulatory bodies routinely bury damning complaints against powerful Baldwin County
+  figures. Leaked communications prove top ethics officials shielded well-connected
+  politicians from federal BP fraud investigations and criminal prosecution. Sunlight
+  remains the only cure when official watchdogs sell out the public.
 ---
 
 ## Letter to the Editor: Rob Holbert

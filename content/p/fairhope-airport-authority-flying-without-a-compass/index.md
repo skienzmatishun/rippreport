@@ -80,6 +80,11 @@ related_articles:
   recency_score: 12.534161757559053
   category_score: 0
   rank: 10
+summary: Fairhope leaders ran the municipal airport completely in the dark after failing
+  basic state ethics training following secret illegal meetings. Government correspondence
+  demonstrates that airport officials executed invalid hangar leases months before
+  seeking mandatory ethical approval. Our ongoing investigation reveals the total
+  breakdown of law at the airfield.
 ---
 These are two articles that were covered by [The Fairhope Times](https://cdn.rippreport.com/wp-content/uploads/2016/12/thefairhopetimes.blogspot.com) one year ago. These were not written by the Ripp Report. They are important because they show, prior to today’s airport controversy, there was every indication that something stunk at the airport.
 

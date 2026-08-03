@@ -1,7 +1,8 @@
 ---
 title: You're Not From Here - Arthur Corti's Entitlement
 date: 2016-02-05
-description: Planning commission ignores 300+ residents to approve Fly Creek Apartments for entitled developer
+description: Planning commission ignores 300+ residents to approve Fly Creek Apartments
+  for entitled developer
 thumbnail: img/youre-not-from-here.png
 tags:
 - archive
@@ -101,7 +102,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 11
-alttags: A dark asphalt surface with white grid lines is covered in thick reddish-brown substance forming a detailed map-like layout of streets and structures
+alttags: A dark asphalt surface with white grid lines is covered in thick reddish-brown
+  substance forming a detailed map-like layout of streets and structures
+summary: A wealthy outside developer insulted concerned Fairhope residents while demanding
+  taxpayers fund infrastructure for his private projects. Meeting transcripts expose
+  a quid-pro-quo dynamic where city administration traded zoning approvals for land
+  donations. The Ripp Report exposes the astonishing arrogance behind this developer's
+  grip on local government.
 ---
 **Feb. 5 2016**
 

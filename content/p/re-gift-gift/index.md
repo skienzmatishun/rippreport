@@ -74,6 +74,11 @@ related_articles:
   llm_score: 65
   recency_score: 0.407001095029494
   rank: 10
+summary: A shady developer secretly traded sensitive environmental land to city officials
+  to bypass critical stormwater safety rules. Newly uncovered property deeds confirm
+  the suspicious timing of a corporate land transfer right before key votes. Are you
+  ready to see how a so-called generous donation was actually a calculated pay-to-play
+  scam?
 ---
 ATTENTION FAIRHOPE TAXPAYERS
 

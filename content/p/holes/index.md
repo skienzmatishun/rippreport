@@ -11,7 +11,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A bright pink shovel is embedded in dark, loose soil. The rest of the black-and-white photograph shows disturbed earth
+alttags: A bright pink shovel is embedded in dark, loose soil. The rest of the black-and-white
+  photograph shows disturbed earth
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
@@ -73,6 +74,11 @@ related_articles:
   llm_score: 65
   recency_score: 28.748765969505406
   rank: 10
+summary: Fairhope officials poured millions into botched development sites while ignoring
+  severe environmental destruction and budget blowouts. Internal engineering reports
+  show leaders approved endless project delays and questionable grading contracts
+  that ruined local watersheds. Examine how local leaders sank taxpayer dollars into
+  bottomless pits.
 ---
 Fairhope has a fascination for holes. They approved digging a hole for a strip center to accommodate a Publix. That venture has been controversial ever since and spawned several lawsuits. The developers now want to locate apartments over the already damaged Fly Creek over the objections of the vast majority of Fairhope citizens.
 

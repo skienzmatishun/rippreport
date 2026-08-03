@@ -1,7 +1,8 @@
 ---
 title: A Stark Reality
 date: 2016-03-25
-description: Baldwin County is the most corrupt county in Alabama, and Monday's Fly Creek Apartments vote will prove it
+description: Baldwin County is the most corrupt county in Alabama, and Monday's Fly
+  Creek Apartments vote will prove it
 thumbnail: img/stark-reality.png
 tags:
 - archive
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking state politicians and county judges rigged local courtrooms
+  and municipal contracts for personal profit. Investigative files expose how backroom
+  deals and kangaroo courts systematically victimized local citizens for years. We
+  tear down the curtain to highlight the harsh truth behind Baldwin County power structures.
 ---
 **THE RIPP REPORT/BALDWIN COUNTY LEGAL EAGLE**  
 **FREAKY FRIDAY 2 of 2**  

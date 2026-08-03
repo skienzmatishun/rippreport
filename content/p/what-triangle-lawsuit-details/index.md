@@ -2,7 +2,8 @@
 title: What? - Triangle Lawsuit Details Exposed
 date: 2014-03-28
 thumbnail: img/what-triangle-lawsuit-details.png
-description: Citizens excluded from $12.5 million Triangle settlement decision, documents reveal deception and fraud
+description: Citizens excluded from $12.5 million Triangle settlement decision, documents
+  reveal deception and fraud
 tags:
 - archive
 - historical
@@ -93,7 +94,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A triangular wooden frame against a green background contains a partially visible US dollar bill, with a beige fabric draped over its right side
+alttags: A triangular wooden frame against a green background contains a partially
+  visible US dollar bill, with a beige fabric draped over its right side
+summary: Mayor Tim Kant and city council members secretly traded away millions in
+  taxpayer cash to settle a disastrous land lawsuit. Uncovered settlement papers show
+  officials drained utility reserves and submitted fake environmental studies to grab
+  BP grant money. Read our complete breakdown to discover how local leadership sold
+  out Fairhope taxpayers behind closed doors.
 ---
 **March 28, 2014 THE Ripp Report #10**
 

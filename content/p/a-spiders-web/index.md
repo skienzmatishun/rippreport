@@ -13,7 +13,8 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Black and white close-up of an intricate spider web covered in dew drops against a dark background
+alttags: Black and white close-up of an intricate spider web covered in dew drops
+  against a dark background
 related_articles:
 - slug: investigative-reporting-business-entity-records
   title: Investigative Reporting - Business Entity Records
@@ -85,6 +86,11 @@ related_articles:
   recency_score: 0.14931768493906777
   category_score: 0
   rank: 10
+summary: Powerful Baldwin County politicians built a massive web of private companies
+  to steer public utility contracts to their inner political circle. Corporate ownership
+  filings confirm how elected leaders, political machines, and favored developers
+  share secret real estate partnerships. The Ripp Report untangles the complex web
+  holding city hall captive.
 ---
 The good ole boy network in Baldwin County is connected by LLC’s. One LLC may cover another LLC that covers another LLC, making it almost impossible to determine who owns what. Elected officials, such as city council members and county commissioners hide their business and personal connections to these LLC’S. By doing this, they are able to vote and promote their own interests without being discovered. Or so they thought.
 

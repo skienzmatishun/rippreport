@@ -12,7 +12,8 @@ tags:
 - soccer-complex
 authors:
 - ripp-report
-alttags: A cartoon bald eagle perched on a branch with its beak open and tongue out, next to the text zzzzZz indicating it is snoring against a teal background
+alttags: A cartoon bald eagle perched on a branch with its beak open and tongue out,
+  next to the text zzzzZz indicating it is snoring against a teal background
 related_articles:
 - slug: GAME-ON-MAYOR-KANT-HUBBARD-GOES-DOWN-YOURE-NEXT
   title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
@@ -74,6 +75,11 @@ related_articles:
   llm_score: 70
   recency_score: 2.5796041048141145
   rank: 10
+summary: Political bosses in Fairhope weaponized city government to silence public
+  opposition and protect corrupt election tactics. Internal memos and security logs
+  reveal how municipal leaders installed physical barriers to lock citizens out of
+  local governance. Can the public break free from a system designed to suppress their
+  voices and protect insiders?
 ---
 Fairhope is the core of corruption in Baldwin County and Mayor Kant is the spokesman. Mayor Kant has raised over 50,000 dollars for a mayor’s election in a community of 16,000 people. That’s the first red flag. Over 50% of the mayor’s donations come from donors living outside Fairhope and unidentified PACs. That should alarm every citizen in Fairhope. The mayor is suspected of rigging the last two elections and he has now put in motion his FIX for the upcoming election. First we will see puppet candidates solicited by the mayor to run for Council seats. Former Mayor Jim Nix's son is going to run for Councilmen Ford's position. This is one good ole boy for another and most people in Fairhope don’t know that Jim Nix is a major player in the good ole boy club and management of Kant. Fairhope is a hand-me-down government. Nix handed it to Kant and Kant will pick his successor, NOT the citizens of Fairhope. It is rumored that Sherry Sullivan, a companion on many of Kant’s out of town trips, and Lee Turner are two of Kant’s choices for his replacement. Mr. Kant says this is his last term. But remember, if his lips are moving, he is lying. Mr. Jay Robinson is running for Mr. Mueller's seat. I suspect Mueller will not run for re-election but will wait until the last minute to announce it. Mr. Robinson voted for the apartments at Fly Creek and against the wishes of the community, a sign that he too may be in Kant’s pocket.
 

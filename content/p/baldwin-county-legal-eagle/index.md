@@ -87,7 +87,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Close-up of a bald eagles head beside the text Baldwin County Legal Eagle, identifying it as an advocacy group exposing political corruption
+alttags: Close-up of a bald eagles head beside the text Baldwin County Legal Eagle,
+  identifying it as an advocacy group exposing political corruption
+summary: Self-proclaimed conservative leaders quietly pushed through massive tax hikes
+  while lining the pockets of favored local developers. Shocking public records expose
+  a decade of backroom BP oil spill contracts and fraudulent land schemes involving
+  top county politicians. The Ripp Report exposes how deep this web of financial self-dealing
+  actually goes.
 ---
 Baldwin County Legal Eagle
 Consumer Advocates exposing Political Corruption, affiliate of the Ripp Report, a non-profit Association

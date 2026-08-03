@@ -2,7 +2,8 @@
 title: Scoop on Poop
 date: 2015-07-13
 thumbnail: img/scoop-on-poop.png
-description: Mayor Kant's geese poop story was a lie - it came from pier bathroom holding tank, not geese
+description: Mayor Kant's geese poop story was a lie - it came from pier bathroom
+  holding tank, not geese
 tags:
 - archive
 - historical
@@ -46,7 +47,8 @@ related_articles:
   category_score: 0
   rank: 4
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
-  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
+  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor
+    Karin Wilson'
   score: 65.52562211816652
   llm_score: 75
   recency_score: 1.7723271794574902
@@ -93,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope officials fabricated official stories to cover up major sewage contamination
+  at the public pier while shifting blame away from a favored city contractor. Investigative
+  records prove city staff secretly gathered water samples to hide municipal infrastructure
+  failures from state environmental regulators. The Ripp Report cuts through the official
+  lies to reveal what really polluted the bay.
 ---
 With a viral video and a flash of media coverage, the media lost interest and did no investigation as to the source of the infamous poop. The Ripp Report however had a very reliable source come forward and offer information, we also have caught Mayor Kant lying so many times that we knew he would stay true to form.
 

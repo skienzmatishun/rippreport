@@ -9,7 +9,8 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: A black and white postage stamp illustration featuring a detailed line drawing of an eagles head facing left, with the bold text USA below
+alttags: A black and white postage stamp illustration featuring a detailed line drawing
+  of an eagles head facing left, with the bold text USA below
 related_articles:
 - slug: above-the-law
   title: ABOVE THE LAW
@@ -81,6 +82,11 @@ related_articles:
   recency_score: 0.5972749258881307
   category_score: 0
   rank: 10
+summary: High-ranking politicians colluded with wealthy developers to destroy local
+  natural resources and stick taxpayers with an eleven million dollar lawsuit settlement.
+  Official records and audit trail summaries expose how local powerbrokers secretly
+  funneled public cash directly to political allies. Uncover the toxic web of influence
+  connecting municipal hall to federal political campaigns.
 ---
 The Ripp Report/Baldwin County Legal Eagle Face book
 

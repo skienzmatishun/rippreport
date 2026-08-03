@@ -72,6 +72,11 @@ related_articles:
   llm_score: 65
   recency_score: 68.51741826652172
   rank: 10
+summary: Airport Authority board members used taxpayer dollars to hire a personal
+  defense lawyer after local leaders rigged a lucrative airport lease process. Leaked
+  email correspondence proves that officials signed contradictory property leases
+  months before obtaining required ethics clearance. We pull the lid off this corrupt
+  puppet show before they hide the evidence.
 ---
 The Airport Authority has a great idea! They are going to use your tax dollars to hire “ the top ethics attorney in Alabama” to investigate me and The Ripp Report, and attempt to “head off” any investigation with the Attorney General’s office and the Ethics Commission. Your tax dollars are going to pay for the defense of the authority board members, Jack Burrell and Ray Hix, who are the focus of the complaint. Mr. Burrell is an elected official as well as a board member making him far more responsible for his actions. This will be an end run around the investigation and an attempt through judicial means to quash accountability by using attorneys to talk with attorneys who will confer with more attorneys, they are all getting paid, and come up with a very clever explanation, written by another attorney.
 

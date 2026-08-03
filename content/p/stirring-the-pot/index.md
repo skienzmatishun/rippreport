@@ -70,6 +70,10 @@ related_articles:
   llm_score: 85
   recency_score: 21.44398440218775
   rank: 10
+summary: Council President Jack Burrell used public money and conflict-ridden airport
+  deals to enrich his political inner circle. Confidential records expose how officials
+  hid airport leases and redirected taxpayer funds to cover up ethical red flags.
+  Read on to see who keeps stirring this dirty financial pot.
 ---
 No Wonderful Wednesday today, sorry, The Ripp Report got an invite to Montgomery. I will be there a couple of days stirring the pot. Here is something to keep ya busy.
 

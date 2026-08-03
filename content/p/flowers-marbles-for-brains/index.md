@@ -2,7 +2,8 @@
 title: Flowers in Town and Marbles for Brains
 date: 2014-12-05
 thumbnail: img/flowers-marbles-for-brains.png
-description: Mayor has complete control of Fairhope finances with no forensic audit, finance committee dissolved
+description: Mayor has complete control of Fairhope finances with no forensic audit,
+  finance committee dissolved
 tags:
 - archive
 - historical
@@ -93,7 +94,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Clear glass marbles, each enclosing a preserved dried flower or plant specimen, are arranged on a wooden surface
+alttags: Clear glass marbles, each enclosing a preserved dried flower or plant specimen,
+  are arranged on a wooden surface
+summary: Mayor Tim Kant stripped away financial checks and balances to treat municipal
+  utility funds like his personal political piggy bank. Bank records expose millions
+  pulled directly from utility reserves to settle legal disasters and fund insider
+  developments. Citizens must demand accountability before these unchecked backroom
+  deals completely bankrupt our city.
 ---
 **The Ripp Report #26**  
 **December 5 2014**

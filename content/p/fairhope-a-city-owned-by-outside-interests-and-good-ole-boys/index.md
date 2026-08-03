@@ -11,7 +11,8 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: A long pier extends over water at sunset with a paved walkway and grass in the foreground. Silhouetted figures walk along the path near streetlights
+alttags: A long pier extends over water at sunset with a paved walkway and grass in
+  the foreground. Silhouetted figures walk along the path near streetlights
 related_articles:
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
@@ -101,6 +102,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 11
+summary: Mayor Kant and his good ole boy network traded Fairhope's financial stability
+  to satisfy outside real estate interests. Drained utility reserves and unapproved
+  developer deals reveal a calculated pattern of systemic municipal graft. Uncover
+  the full extent of the political machine controlling our local government.
 ---
 The Ripp Report/ Baldwin County Legal Eagle
 

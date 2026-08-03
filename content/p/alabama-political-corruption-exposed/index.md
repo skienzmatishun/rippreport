@@ -1,7 +1,8 @@
 ---
 title: Alabama Political Corruption Exposed
 date: 2013-09-04
-description: Deep dive into Alabama Republican machine, Mike Hubbard investigations, and BP Boom Scandal
+description: Deep dive into Alabama Republican machine, Mike Hubbard investigations,
+  and BP Boom Scandal
 thumbnail: img/alabama-political-corruption-exposed.png
 tags:
 - mike-hubbard
@@ -90,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking state and local officials funneled millions in public funds
+  directly to political allies while burying the evidence. Leaked grand jury files
+  and internal records reveal how federal investigators traced every dollar back to
+  Baldwin County. The Ripp Report tears off the polished veneer hiding Alabama's dirtiest
+  secret.
 ---
 Dear Fairhopians and Alabama citizens,
 

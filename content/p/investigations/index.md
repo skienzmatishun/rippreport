@@ -14,7 +14,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A man in a black and yellow striped bee costume with antennae and wing backpack waves while stepping forward against a white background
+alttags: A man in a black and yellow striped bee costume with antennae and wing backpack
+  waves while stepping forward against a white background
 related_articles:
 - slug: mimes-whitewashing
   title: MIME'S WHITEWASHING
@@ -76,6 +77,10 @@ related_articles:
   llm_score: 85
   recency_score: 2.894187549877844
   rank: 10
+summary: Councilmen Jack Burrell, Kevin Boone, and Robert Brown held secret meetings
+  to inflate major city contracts and block official oversight. Subpoenaed financial
+  records prove a municipal sewer deal ballooned by millions without any infrastructure
+  improvements. Follow the money trail with us to unmask these backroom operators.
 ---
 The Fairhope City Council should be recognized for it’s political spin. City council members, Burrell, Boone and Brown, the busy bees, scurried to Bone and Barrel restaurant immediately after the council meeting Monday night. They know that they should not be meeting, as per open meetings rules, with a quorum of the council, but hell they had to get their stories straight over a drink. This is proof that council members are meeting in a quorum, discussing what? Read line 4, page 2, number 1. DELIBERATION
 

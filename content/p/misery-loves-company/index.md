@@ -70,6 +70,10 @@ related_articles:
   llm_score: 60
   recency_score: 9.984766654067629
   rank: 10
+summary: Greedy developers and corrupt local boards teamed up to force dangerous high-density
+  projects into quiet neighborhoods. Official traffic studies and zoning records reveal
+  how politicians bypassed safety rules to reward their wealthy backers. Why are taxpayers
+  across Baldwin County paying the heavy price for this shared political corruption?
 ---
 Daphne and Fairhope have a lot more in common than some think. One thing is that, if you allow the developers full rein, they will develop every square inch of land.
 

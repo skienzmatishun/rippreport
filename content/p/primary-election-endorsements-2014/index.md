@@ -2,7 +2,8 @@
 title: Primary Election Endorsements - Vote Out the Machine
 date: 2014-05-24
 thumbnail: img/primary-election-endorsements-2014.png
-description: 'Final endorsements before June 3rd primary: fight the Lynn Stacey machine and BP boom scandal cover-up'
+description: 'Final endorsements before June 3rd primary: fight the Lynn Stacey machine
+  and BP boom scandal cover-up'
 tags:
 - archive
 - historical
@@ -85,7 +86,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 9
-alttags: A gray ballot box with a black slot and a red rectangular marker sticking out, set against a white background
+alttags: A gray ballot box with a black slot and a red rectangular marker sticking
+  out, set against a white background
+summary: Corrupt Baldwin County politicians manipulated public contracts and stole
+  BP disaster grant money to line their own pockets. Secret grand jury records and
+  subpoenaed financial files prove key whistleblowers were fired to protect the money
+  ring. Are you ready to strip these entrenched machine bosses of their unchecked
+  power?
 ---
 **May 24, 2014 Ripp Report #15**
 

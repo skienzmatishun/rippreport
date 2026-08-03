@@ -2,7 +2,8 @@
 title: Letter to Single Tax Colony on Lee Turner
 date: 2014-06-09
 thumbnail: img/single-tax-colony-letter.png
-description: Concerns about conflicts of interest with Lee Turner serving on both Planning & Zoning and FSTC
+description: Concerns about conflicts of interest with Lee Turner serving on both
+  Planning & Zoning and FSTC
 tags:
 - archive
 - historical
@@ -92,7 +93,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: 'An open brown paper envelope on a wooden table contains a letter with the typewritten heading: Dear City of Fairhope Single Tax Colony and members'
+alttags: 'An open brown paper envelope on a wooden table contains a letter with the
+  typewritten heading: Dear City of Fairhope Single Tax Colony and members'
+summary: Fairhope officials allowed Lee Turner to wield double power on public boards
+  while hiding high-stakes decisions behind closed doors. Leaked documents and meeting
+  logs reveal how Turner threatened citizens with police force to conceal shady municipal
+  deals. The Ripp Report exposes what they pretended not to know.
 ---
 Dear City of Fairhope Single Tax Colony and members:
 

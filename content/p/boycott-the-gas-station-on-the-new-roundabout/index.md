@@ -13,7 +13,8 @@ tags:
 - roundabout
 authors:
 - ripp-report
-alttags: Construction of a gas station on a Fairhope roundabout, showing an unfinished building surrounded by orange dirt, with a nearby road and foreground shrubs
+alttags: Construction of a gas station on a Fairhope roundabout, showing an unfinished
+  building surrounded by orange dirt, with a nearby road and foreground shrubs
 related_articles:
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
@@ -85,6 +86,11 @@ related_articles:
   recency_score: 7.226630806668228
   category_score: 0
   rank: 10
+summary: City officials handed over public safety to developer interests by approving
+  a dangerous commercial project right in the middle of a major intersection. Official
+  municipal records prove politicians traded off community welfare to gift valuable
+  land to their political allies. Read on as The Ripp Report exposes how this reckless
+  deal exposes the true cost of local corruption.
 ---
 Fairhope has been cited for many national awards for its beauty. But, it deserves awards for more than just flowers. Placing a gas station located on a safety roundabout in a residential area on the city’s gateway, Fairhope Avenue and 13, only two blocks from three other filling stations/convenience stores, certainly will be an American oddity; and altogether deserving of an Onion American Planning award. This is so bad in terms of safety negligence that it even beats building a fire station on a dead end road (Parker); or having an open sewer line regularly discharge into Mobile Bay, along with all of Trip Pittman and Tim Kant’s expensive BP anchors.
 

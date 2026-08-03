@@ -2,7 +2,8 @@
 title: Fairhope Railroad - Fly Creek Part 2
 date: 2015-12-04
 thumbnail: img/fairhope-railroad.png
-description: Mayor railroading Fairhope with corrupt deals, environmental damage, and taxpayer-funded infrastructure for developer
+description: Mayor railroading Fairhope with corrupt deals, environmental damage,
+  and taxpayer-funded infrastructure for developer
 tags:
 - archive
 - historical
@@ -93,7 +94,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: US one and ten dollar bills covered in red mud lie on a muddy forest floor, with an out-of-focus wooded background
+alttags: US one and ten dollar bills covered in red mud lie on a muddy forest floor,
+  with an out-of-focus wooded background
+summary: Continuing our coverage of the Fly Creek disaster, city leaders secretly
+  helped developer Arthur Corte steamroll public opposition to protect his flawed
+  development. Internal records reveal strategic land donations and secret deals that
+  shifted massive financial liabilities directly onto Fairhope taxpayers. The Ripp
+  Report exposes how deep this local political web really goes.
 ---
 **Freaky Friday Dec. 04, 2015**  
 **the Ripp Report Part 2**

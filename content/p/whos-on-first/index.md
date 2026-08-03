@@ -9,7 +9,8 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: Two men in vintage attire converse outdoors; the man on the left wears a military uniform while the man on the right, in a bowler hat and bow tie, point...
+alttags: Two men in vintage attire converse outdoors; the man on the left wears a
+  military uniform while the man on the right, in a bowler hat and bow tie, point...
 related_articles:
 - slug: fairhope-airport-un_authorized
   title: FAIRHOPE AIRPORT “UN_AUTHORIZED”
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 85
   recency_score: 13.607888182833822
   rank: 10
+summary: Airport board member Ray Hix hired his private attorney using public funds
+  to defend the authority against ethics charges involving himself. Confidential correspondence
+  exposes state officials secretly tipping off defense lawyers about incoming citizen
+  ethics complaints. We detail how deep the system breaks down when politicians attempt
+  to police themselves.
 ---
 Open Letter to Fairhope Airport Authority
 

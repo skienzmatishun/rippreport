@@ -1,7 +1,8 @@
 ---
 title: Independence Day – What does it Mean?
 date: 2014-07-03
-description: Examining conflicts of interest and corruption in Fairhope city government and the Single Tax Corporation
+description: Examining conflicts of interest and corruption in Fairhope city government
+  and the Single Tax Corporation
 thumbnail: img/independence-day-2014.png
 tags:
 - archive
@@ -92,7 +93,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A large question mark formed by multicolored fireworks exploding against a dark night sky
+alttags: A large question mark formed by multicolored fireworks exploding against
+  a dark night sky
+summary: Key municipal board members exploited corrupt dual roles to hijack private
+  community assets and silence public opposition. Meeting minutes reveal how insider
+  trading of public land occurred behind closed doors without membership consent or
+  proper votes. See how local power brokers stripped citizens of their democratic
+  rights.
 ---
 Dear Fairhopians,
 

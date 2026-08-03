@@ -86,7 +86,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Alabama Secretary of State record for Baldwin Substance Abuse Services, Inc., a nonprofit providing court-referred substance abuse training
+alttags: Alabama Secretary of State record for Baldwin Substance Abuse Services, Inc.,
+  a nonprofit providing court-referred substance abuse training
+summary: Baldwin County insiders turned local DUI enforcement into a lucrative private
+  revenue stream for themselves and their friends. Court records show judges sentenced
+  offenders into their own non-profits while well-connected politicians walked away
+  scot-free. Who really profits when the justice system becomes a transactional business
+  model?
 ---
 FREAKY FRIDAY IN A FREAKY COUNTY  May 20 2016
 

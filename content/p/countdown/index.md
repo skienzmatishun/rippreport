@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Analog clock face featuring black hour and minute hands, a red second hand, and black markers on a white background
+alttags: Analog clock face featuring black hour and minute hands, a red second hand,
+  and black markers on a white background
 related_articles:
 - slug: little-choice
   title: LITTLE CHOICE
@@ -78,6 +79,11 @@ related_articles:
   recency_score: 0.8207230655290094
   category_score: 0
   rank: 10
+summary: State Senator Trip Pittman used his public office to divert massive amounts
+  of oil spill recovery funds into his personal business accounts. Municipal records
+  show how local leaders maintained shady contracts with Pittman while high-ranking
+  law enforcement turned a blind eye. How much longer can these career politicians
+  hide their paper trail from the voters?
 ---
 The US Senate seat sought by a total of 19 candidates, 11 republicans and 8 democrats primary is less than two weeks away.
 

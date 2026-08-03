@@ -2,7 +2,8 @@
 title: Fauxhope Football Sneak Play
 thumbnail: img/football-sneak-play.png
 date: 2015-10-23
-description: City pays $35,000 to Senior Bowl for two hours of practice on Fairhope fields after fundraiser for Mayor
+description: City pays $35,000 to Senior Bowl for two hours of practice on Fairhope
+  fields after fundraiser for Mayor
 tags:
 - archive
 - historical
@@ -93,7 +94,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A brown football with white stripes and black laces rests on a green background, featuring a large black dollar sign printed on its side
+alttags: A brown football with white stripes and black laces rests on a green background,
+  featuring a large black dollar sign printed on its side
+summary: Following up on Fairhope's reckless spending habits, local officials quietly
+  handed over tens of thousands in taxpayer dollars for exclusive athletic facility
+  access. Campaign finance records expose a shady pay-to-play scheme involving Mayor
+  Kant, big-money donors, and blatant council conflicts of interest. Discover how
+  city insiders run their dirty plays right under our noses.
 ---
 **Oct. 23 15**  
 **the Ripp Report**

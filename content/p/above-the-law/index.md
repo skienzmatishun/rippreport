@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: A great blue heron with its beak open stands on a weathered no fishing sign in a grassy field
+alttags: A great blue heron with its beak open stands on a weathered no fishing sign
+  in a grassy field
 related_articles:
 - slug: dear-congressman-bradley-byrne
   title: Dear Congressman Bradley Byrne
@@ -78,6 +79,11 @@ related_articles:
   recency_score: 7.326306903516857
   category_score: 0
   rank: 10
+summary: Continuing our coverage of institutional cover-ups, state ethics officials
+  deliberately ignored a prominent attorney who admitted to illegal drug trades under
+  oath. Sworn court transcripts and official bar correspondence confirm that powerful
+  insiders buried a clear criminal confession. Can justice ever prevail when the legal
+  system protects its own corrupt elite?
 ---
 The Ripp Report made a complaint against Steven Patrick Johnson to the Alabama State Bar, CSP NO. 2016-296. On March 17, 2016 they responded “Two attorneys in the Office of the General Council of the Alabama State Bar have reviewed your complaint and the attorney’s response to the complaint. In view of the nature and content of the complaint and the response of the attorney, we will take no further action in this matter.” Of course we are not privileged to the response of the attorney.
 

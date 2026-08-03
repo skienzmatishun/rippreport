@@ -12,7 +12,8 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: A yellow sign displays black text and arrows. The top line reads RIGHT with a right arrow, while the bottom line reads WRONG with a left arrow
+alttags: A yellow sign displays black text and arrows. The top line reads RIGHT with
+  a right arrow, while the bottom line reads WRONG with a left arrow
 related_articles:
 - slug: ethics-comedians
   title: ETHICS COMEDIANS
@@ -84,6 +85,11 @@ related_articles:
   recency_score: 3.4112813876248462
   category_score: 0
   rank: 10
+summary: High-ranking state regulators systematically gutted ethics enforcement to
+  shield powerful Fairhope politicians from criminal scrutiny. Internal emails and
+  investigative logs reveal how officials dismissed legitimate corruption complaints
+  without conducting real inquiries. The Ripp Report uncovers how public watchdogs
+  became political lapdogs.
 ---
 In Fairhope, “come fly with me” Jack Burrell is facing ethics complaints as well as Fairhope Airport Authority board member Ray Hix, Fairhope Municipal Judge Snedeker’s partner. The airport authority authorized hiring an attorney to investigate those who filed the complaint. The city council has turned a blind eye to any facts or ethical violations refusing to conduct any internal investigation, despite compelling evidence of wrong doing. Instead the council members have issued false statements, “The ethics commission complaints against Airport board members have been ruled baseless.” Frequent flier Jack has been assured that if his bible buddy Pittman can get away with ethics violations, he should be able to as well.
 

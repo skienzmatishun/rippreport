@@ -8,7 +8,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A close-up of a vehicles side-view mirror reflecting an orange sunset and dark silhouetted hills
+alttags: A close-up of a vehicles side-view mirror reflecting an orange sunset and
+  dark silhouetted hills
 related_articles:
 - slug: freaky-friday-merry-christmas
   title: FREAKY FRIDAY - MERRY CHRISTMAS
@@ -80,6 +81,11 @@ related_articles:
   recency_score: 0.696315023078613
   category_score: 0
   rank: 10
+summary: Mayor Tim Kant and his entrenched political machine relied on shady election
+  tactics and public contract schemes to maintain their corrupt grip on Fairhope.
+  Election oversight filings and historical municipal audits uncover a long pattern
+  of backroom vote control and public fund abuse. Decades of unchecked small-town
+  tyranny finally met their match at the ballot box.
 ---
 Facebook is sending users a personalized “2016 Year in Review” on their news feeds. It has certainly been a year worth reflecting on. Much has happened in American politics this year. However, like former U.S. Speaker of the House Tip O’Neill said, “All politics are local.” In Baldwin County, nothing could be further from the truth.
 

@@ -11,7 +11,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Two men in dark suits stand before a sign reading Welcome To FAIRHOPE, with large spiky plant leaves in the foreground
+alttags: Two men in dark suits stand before a sign reading Welcome To FAIRHOPE, with
+  large spiky plant leaves in the foreground
 related_articles:
 - slug: freaky-friday
   title: FREAKY FRIDAY
@@ -73,6 +74,10 @@ related_articles:
   llm_score: 65
   recency_score: 8.424950351705032
   rank: 10
+summary: Mayor Tim Kant jetted off to a luxury California resort on the taxpayer dime
+  while crucial city votes took place. Travel receipts prove city leaders abandoned
+  their duties to accept meaningless vanity awards across the country. We break down
+  how top officials partied away public trust while greenlighting toxic developments.
 ---
 **CORRECTION** Mayor Kant was not in California until Wednesday, he and Jennifer just skipped the planning and zoning meeting Monday night for no legitimate reason. Several employees have called the Eagle and informed us that the dynamic duo was in hiding. WOW what leadership. An America in Bloom vanity award in sunny Southern California was the reason Mayor Kant and Public Works Director Jennifer Fidler were conspicuously absent at this week’s planning commission meeting entertaining the controversial Fly Creek Apartment deal for the sixth time.  While Kant and Fidler, Sherry Sullivan did not make this trip, were wining and dining with the fawning politicians of coastal Arroyo Grande, the Fairhope Planning Commission sealed the fate of the dubious high-density project with a 4-2 vote.  Their two votes, in lieu of Commissioner Fogarty’s absence, were crucial.  However, the fact that the mayor turned his back on  the citizens, the developers, and property owner, at the eleventh hour of this costly, tortuous ordeal speaks volumes about his character and even more about the near future of Fairhope politics.  What is the mayor thinking? Fairhope came in second for the same award last year, out of three entries, think about it.
 

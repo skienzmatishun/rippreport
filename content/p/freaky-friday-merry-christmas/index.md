@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Shiny red Christmas ornaments hang from green pine branches, with one sharply focused in the foreground and others softly blurred behind it
+alttags: Shiny red Christmas ornaments hang from green pine branches, with one sharply
+  focused in the foreground and others softly blurred behind it
 related_articles:
 - slug: wonderful-wednesday-5
   title: WONDERFUL WEDNESDAY
@@ -68,5 +69,9 @@ related_articles:
   llm_score: 65
   recency_score: 0.3627621490688241
   rank: 10
+summary: Corrupt local politicians and appointed ethics officials treated public funds
+  like their personal holiday piggy banks. Leaked lease contracts and state complaints
+  detail a cozy system where connected insiders trade votes and land deals for personal
+  cash. Unchecked power always leaves a dirty trail for citizens to clean up.
 ---
 HAVE A MERRY CHRISTMAS!

@@ -2,7 +2,8 @@
 title: BP Restore Act Application - Fraud and Deception
 date: 2013-11-01
 thumbnail: img/bp-restore-act-fraud.png
-description: City's BP Restore Act application omits Arthur Corte's damage to Fly Creek and misrepresents facts
+description: City's BP Restore Act application omits Arthur Corte's damage to Fly
+  Creek and misrepresents facts
 tags:
 - archive
 - historical
@@ -93,7 +94,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A BP Restore Act application document for Fairhopes Fly Creek Watershed Restoration Project, stained with oil
+alttags: A BP Restore Act application document for Fairhopes Fly Creek Watershed Restoration
+  Project, stained with oil
+summary: Fairhope officials fabricated an environmental grant request to bail out
+  a favored developer at taxpayer expense. Internal testing files prove red clay destroyed
+  Fly Creek, yet the city hid the developer’s guilt to obtain BP money. Our latest
+  report highlights the blatant deception driving this twenty-two million dollar cash
+  grab.
 ---
 Dear City Council and concerned citizens:
 

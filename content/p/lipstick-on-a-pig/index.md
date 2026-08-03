@@ -2,7 +2,8 @@
 title: Lipstick on a Pig - Fly Creek Apartments
 thumbnail: img/lipstick-on-a-pig.png
 date: 2015-12-18
-description: Mayor plans to blindside public and bring back rejected Fly Creek apartment project through City Council
+description: Mayor plans to blindside public and bring back rejected Fly Creek apartment
+  project through City Council
 tags:
 - archive
 - historical
@@ -93,7 +94,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A pink pig standing on gravel next to a wooden fence, featuring unusually dark red lips
+alttags: A pink pig standing on gravel next to a wooden fence, featuring unusually
+  dark red lips
+summary: Municipal leadership attempted to repackage a rejected development plan to
+  bypass public outcry and satisfy a major donor. Secret correspondence reveals how
+  city officials plotted to reintroduce the project after citizens successfully voted
+  it down. Dressing up a bad deal with pretty promises cannot hide the environmental
+  ruin underneath.
 ---
 **FREAKY FRIDAY**  
 **Dec. 18 2015**  

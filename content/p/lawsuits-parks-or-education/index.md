@@ -2,7 +2,8 @@
 title: Top Priority - Lawsuits, Parks, or Education?
 date: 2015-05-15
 thumbnail: img/lawsuits-parks-or-education.png
-description: Fairhope spends $17 million on lawsuits and parks while contributing only $350,000 to education
+description: Fairhope spends $17 million on lawsuits and parks while contributing
+  only $350,000 to education
 tags:
 - archive
 - historical
@@ -92,7 +93,13 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: Three icons show a blue scale of justice with a book and courthouse, a green tree on grass, and an orange open book with a graduation cap and upward arrow
+alttags: Three icons show a blue scale of justice with a book and courthouse, a green
+  tree on grass, and an orange open book with a graduation cap and upward arrow
+summary: Pushing forward with our spending investigation, Fairhope leaders drained
+  city utility reserves to settle massive developer lawsuits while starving local
+  public schools of funds. Financial documents show city hall deceptively labeled
+  an $12 million legal settlement as a park purchase while inflating education donation
+  numbers. Learn where your hard-earned tax dollars are actually disappearing.
 ---
 **Consumer Advocates Exposing Political Corruption**  
 **May 15, 2015**

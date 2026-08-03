@@ -11,7 +11,8 @@ tags:
 - sullivan
 authors:
 - ripp-report
-alttags: A black-and-white line drawing of an anthropomorphic egg wearing a bow tie, sitting on a rectangular block with arms raised above five question marks
+alttags: A black-and-white line drawing of an anthropomorphic egg wearing a bow tie,
+  sitting on a rectangular block with arms raised above five question marks
 related_articles:
 - slug: fairhope-voters-important-notice
   title: FAIRHOPE VOTERS IMPORTANT NOTICE
@@ -73,6 +74,10 @@ related_articles:
   llm_score: 70
   recency_score: 0.15902952050365238
   rank: 10
+summary: Councilman Kevin Boone pushed an immediate hiring freeze to hamstring Mayor
+  Wilson after she fired uncooperative municipal staff. Business filings prove political
+  organization Catalyst coordinated the aggressive council pushback behind closed
+  doors. See how shadowy political groups pull the strings of Fairhope government.
 ---
 The Fairhope City Council pounced on Mayor Wilson for exercising her rights and responsibilities as Mayor to hire and fire employees.
 

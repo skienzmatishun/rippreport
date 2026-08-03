@@ -8,7 +8,8 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: A black top hat rests on a dark background as a white wand points toward a floating playing card
+alttags: A black top hat rests on a dark background as a white wand points toward
+  a floating playing card
 related_articles:
 - slug: economic-development-baldwin-county-style
   title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
@@ -80,6 +81,11 @@ related_articles:
   recency_score: 0.7395753350388166
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell approved an undocumented thousands-dollar
+  invoice for a former mayor while slashing economic development funds for Fairhope.
+  Continuing our investigation, internal records reveal how local leaders funneled
+  millions into failed mega sites and airport debt while cutting community programs.
+  The Ripp Report exposes the complete smoke and mirrors tricking Fairhope taxpayers.
 ---
 The Baldwin County Mega-Site and the Fairhope Airport Authority have a lot in common. They both are all smoke and mirrors. The Representative of each will give all kinds of useless data and tell you how Baldwin is the fastest growing county in Alabama and opportunity is right around the corner.
 

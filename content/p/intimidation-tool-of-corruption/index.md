@@ -2,7 +2,8 @@
 title: Intimidation - A Tool of Corruption
 date: 2016-02-26
 thumbnail: img/intimidation-tool-of-corruption.png
-description: How intimidation and bullying tactics are used by politicians, judges and attorneys in Baldwin County
+description: How intimidation and bullying tactics are used by politicians, judges
+  and attorneys in Baldwin County
 tags:
 - archive
 - historical
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corrupt local officials used fear tactics and courtroom maneuvers to silence
+  public opposition and protect shady land deals. Evidence details how city hall restricted
+  public comment and targeted whistleblowers who dared to expose political graft.
+  How far will powerful insiders go to suppress the truth when their empire is challenged?
 ---
 **Intimidation:** to make timid; make afraid; daunt, to force or deter with threats or violence; simply put bullying.
 

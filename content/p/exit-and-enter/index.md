@@ -13,7 +13,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A glowing EXIT sign with a red and yellow gradient, large capital letters, and a right-pointing arrow on a black background
+alttags: A glowing EXIT sign with a red and yellow gradient, large capital letters,
+  and a right-pointing arrow on a black background
 related_articles:
 - slug: showing-your-true-colors
   title: SHOWING YOUR TRUE COLORS
@@ -75,6 +76,10 @@ related_articles:
   llm_score: 65
   recency_score: 7.366561236058354
   rank: 10
+summary: Mayor Tim Kant spent 16 years running Fairhope like a private club for his
+  wealthy campaign donors. Financial records show taxpayers lost millions on questionable
+  lawsuits and half-baked municipal projects. We expose how the old guard operated
+  before the door hit them on the way out.
 ---
 The City of Fairhope has three days before it swears in a new Mayor and begins another chapter in its history. It is past due time to turn the page.
 
