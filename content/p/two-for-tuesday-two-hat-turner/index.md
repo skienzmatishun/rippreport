@@ -1,6 +1,7 @@
 ---
 title: "Two-For Tuesday: Fairhope's Two-Hat Turner"
 date: 2014-06-10
+thumbnail: img/two-for-tuesday-two-hat-turner.png
 description: "Lee Turner's dual roles on Planning Commission and Fairhope Single Tax create conflicts, while county commission races reveal Lynn Stacy's political machine at work."
 tags: ["archive", "historical", "fairhope-politics", "lee-turner", "single-tax", "planning-commission", "lynn-stacy", "county-commission"]
 ---
