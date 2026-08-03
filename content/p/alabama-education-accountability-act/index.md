@@ -2,6 +2,7 @@
 title: The Alabama Education Accountability Act - Just How Stupid Are We?
 date: 2014-02-14
 description: Governor Bentley and Senator Pittman deceive legislature, rob $300 million from education for tax credits
+thumbnail: img/alabama-education-accountability-act.png
 tags:
 - archive
 - historical
@@ -93,7 +94,6 @@ related_articles:
   category_score: 0
   rank: 10
 ---
-**The Alabama Education "Accountability Act" - Just How Stupid Are We?**
 
 The Republican-dominated Alabama legislature and Reverend Dr. Robert Bentley, the Governor of the State of Alabama, pulled a major fast one on the citizens they pretend to serve.
 

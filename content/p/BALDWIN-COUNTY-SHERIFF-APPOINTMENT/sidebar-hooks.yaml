@@ -1,7 +1,7 @@
 metadata:
-  generated_at: '2026-07-10T16:29:00.954124Z'
+  generated_at: '2026-08-03T02:36:32.416008Z'
   generator_version: 1.0.0
-  post_slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT
+  post_slug: baldwin-county-sheriff-appointment
 hooks:
   new-sheriff-no-changes:
     brief: '1. THE CONFLICT (Past Events & Issues)
@@ -382,6 +382,80 @@ hooks:
       was right there in 2004 when Mack and Whetstone withheld the forensic reports
       that would have kept an innocent man out of a cold prison cell.
     character_count: 297
+  bcso-culture:
+    brief: 'THE CONFLICT
+
+      *   Sheriff Hoss Mack is considering replacing himself with Anthony Lowery.
+
+      *   Peyton Little was strangled by a seat belt after acting as a confidential
+      informant for Bay Minette Police, and the BCSO suppressed the information.
+
+      *   O.J. French was shot to death by Bay Minette police over a signal violation,
+      cleared by the Baldwin County Major Crimes Unit.
+
+      *   Robert Yates died due to an eviction; SWAT team used excessive force (114
+      shells/bullet casings) without probable cause.
+
+      *   Johnathan Victor was shot 4 times from 7 yards and questioned regarding
+      qualified immunity for Sheriff''s Deputy Mark Hunady following a vehicle accident.
+
+      *   Five people were killed in a wrong-way BCSO pursuit on I-10 at 110mph.
+
+      *   Sheriff Mack, Prosecutor David Whetstone, and Judge Robert Wilters withheld
+      exculpatory evidence in a Baldwin man''s murder trial.
+
+
+      THE DISCOVERY
+
+      *   Anthony Lowery claims the BCSO culture involves lies, wrongful incarceration,
+      deadly shootings, blanket immunity, and no accountability.
+
+      *   Lowery''s claim that Jonathan Victor was an example of suicide by cop is
+      contradicted; Lowery’s proclamation is stated to be categorically false.
+
+      *   The "CULTURE" includes the wrongful conviction of Murray Lawrence Jr., where
+      Lowery was the lead investigator who failed to produce evidence against him.
+
+      *   Mack, Lowery, and Judge Robert Wilters are implicated in hiding exculpatory
+      evidence during the murder trial.
+
+
+      THE PIVOT
+
+      *   Article 2 proves that Anthony Lowery is an agent of the existing "culture"
+      within the BCSO, detailing how the department maintains impunity through lies,
+      suppressed evidence, and lack of accountability.
+
+      *   The specific pattern of misconduct (e.g., withholding evidence in murder
+      trials, treating victims as suicide cases) directly validates the allegations
+      made against Sheriff Mack''s administration and provides evidence for why Lowery
+      is being considered for the position to implement or perpetuate this system.
+
+
+      KEY ENTITIES
+
+      *   Hoss Mack
+
+      *   Anthony Lowery
+
+      *   Peyton Little
+
+      *   O.J. French
+
+      *   Robert Yates
+
+      *   Johnathan Victor
+
+      *   Mark Hunady (BCSO Deputy)
+
+      *   David Whetstone (Prosecutor)
+
+      *   Judge Robert Wilters
+
+      *   Murray Lawrence Jr.
+
+      *   Steve Nodine'
+    generated_at: '2026-07-10T16:29:00.954228Z'
   rumors:
     brief: '1. THE CONFLICT: Sheriff Hoss Mack exiting Baldwin County Sheriff’s Office;
       Governor’s Appointment Office soliciting testimonials for replacement, including
@@ -459,80 +533,6 @@ hooks:
       investigator who helped Wilters and Mack hide the Lawrence autopsy, Anthony
       Lowery is the perfect man to keep this rigged and deadly system running forever.
     character_count: 305
-  bcso-culture:
-    brief: 'THE CONFLICT
-
-      *   Sheriff Hoss Mack is considering replacing himself with Anthony Lowery.
-
-      *   Peyton Little was strangled by a seat belt after acting as a confidential
-      informant for Bay Minette Police, and the BCSO suppressed the information.
-
-      *   O.J. French was shot to death by Bay Minette police over a signal violation,
-      cleared by the Baldwin County Major Crimes Unit.
-
-      *   Robert Yates died due to an eviction; SWAT team used excessive force (114
-      shells/bullet casings) without probable cause.
-
-      *   Johnathan Victor was shot 4 times from 7 yards and questioned regarding
-      qualified immunity for Sheriff''s Deputy Mark Hunady following a vehicle accident.
-
-      *   Five people were killed in a wrong-way BCSO pursuit on I-10 at 110mph.
-
-      *   Sheriff Mack, Prosecutor David Whetstone, and Judge Robert Wilters withheld
-      exculpatory evidence in a Baldwin man''s murder trial.
-
-
-      THE DISCOVERY
-
-      *   Anthony Lowery claims the BCSO culture involves lies, wrongful incarceration,
-      deadly shootings, blanket immunity, and no accountability.
-
-      *   Lowery''s claim that Jonathan Victor was an example of suicide by cop is
-      contradicted; Lowery’s proclamation is stated to be categorically false.
-
-      *   The "CULTURE" includes the wrongful conviction of Murray Lawrence Jr., where
-      Lowery was the lead investigator who failed to produce evidence against him.
-
-      *   Mack, Lowery, and Judge Robert Wilters are implicated in hiding exculpatory
-      evidence during the murder trial.
-
-
-      THE PIVOT
-
-      *   Article 2 proves that Anthony Lowery is an agent of the existing "culture"
-      within the BCSO, detailing how the department maintains impunity through lies,
-      suppressed evidence, and lack of accountability.
-
-      *   The specific pattern of misconduct (e.g., withholding evidence in murder
-      trials, treating victims as suicide cases) directly validates the allegations
-      made against Sheriff Mack''s administration and provides evidence for why Lowery
-      is being considered for the position to implement or perpetuate this system.
-
-
-      KEY ENTITIES
-
-      *   Hoss Mack
-
-      *   Anthony Lowery
-
-      *   Peyton Little
-
-      *   O.J. French
-
-      *   Robert Yates
-
-      *   Johnathan Victor
-
-      *   Mark Hunady (BCSO Deputy)
-
-      *   David Whetstone (Prosecutor)
-
-      *   Judge Robert Wilters
-
-      *   Murray Lawrence Jr.
-
-      *   Steve Nodine'
-    generated_at: '2026-07-10T16:29:00.954228Z'
   deaf-ears:
     brief: 'THE CONFLICT:
 

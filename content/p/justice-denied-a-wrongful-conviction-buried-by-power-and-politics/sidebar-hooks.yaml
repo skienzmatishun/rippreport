@@ -1,96 +1,75 @@
 metadata:
-  generated_at: '2026-07-10T16:25:09.302523Z'
+  generated_at: '2026-08-03T02:36:33.061983Z'
   generator_version: 1.0.0
   post_slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
 hooks:
-  justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
-    brief: 'THE CONFLICT:
+  justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
+    brief: 'THE CONFLICT
 
-      - Murray Lawrence Jr wrongfully convicted for murder of Brandon Hastings.
+      - 2005: Murray Lawrence Jr convicted of capital murder in Baldwin County for
+      the killing of Brandon Hastings.
 
-      - Trial date/case start: 2005 Capital Murder Trial in Baldwin County.
+      - Case relied on Jarius McNeil’s testimony; McNeil admitted crime but shifted
+      blame after threat of death penalty.
 
-      - Role of Robert Wilters: Presiding Circuit Court Judge during 2005 trial.
+      - Prosecution claimed Brandon Hastings was shot in Alabama; autopsy confirmed
+      strangulation in Mississippi.
 
-      - Role of David Whetstone: District Attorney for Baldwin County during 2005
-      trial.
+      - Zero physical evidence found linking Lawrence: no DNA, no fingerprints, no
+      murder weapon recovered against him.
 
-      - Role of Anthony Lowery: Chief Investigator with Baldwin County DA''s Office
-      during 2005 trial.
+      - Defense attorney instructed Lawrence not to testify in his own defense.
 
-      - Role of Huey ''Hoss'' Mack: Lead Investigator and Captain in Baldwin County
-      Sheriff''s Office during 2005 trial.
-
-      - Alleged evidence suppression: Court records and Innocence Project findings
-      show exculpatory evidence suppressed during trial.
-
-      - Confession origin: Real killer Jarius McNeil allegedly coerced into shifting
-      blame to Murray.
-
-      - Autopsy discrepancy: State claimed victim Brandon Hastings shot in Alabama;
-      autopsy proved strangulation in Mississippi.
-
-      - Defendant status: Murray Lawrence Jr spent more than 20 years in prison as
-      of current reporting.
-
-      - Status shift: Wilters became Baldwin County District Attorney approx 2015;
-      Lowery became Sheriff appointed by Governor Kay Ivey; Mack retired to state
-      level position.
+      - Key exculpatory evidence was suppressed during trial per Innocence Project
+      findings.
 
 
-      THE DISCOVERY:
+      THE DISCOVERY
 
-      - Widget Article content text is identical character-for-character to Main Article
-      content body.
+      - Article 2 confirms the ongoing status of key defendants as officials in power
+      (not historical figures).
 
-      - Widget metadata identifies image context as "Four men in suits, likely involved...".
+      - Specifically evidences Robert Wilters currently rejecting Rule 32 postconviction
+      relief in 2023.
 
-      - Metadata tag parameter `{{< aicomments "mlpr" >}}` lacks the `"similarity"`
-      string present in Main Article''s tag `{{< aicomments "mlpr" "similarity" >}}`.
+      - Confirms Anthony Lowery is campaigning to retain Baldwin County Sheriff office
+      in 2026.
 
-      - Widget Article topics list Murray Lawrence Jr, David Whetstone, Sheriff Lowery,
-      Sheriff Hoss Mack, Robert Wilters, BCSO (matches Main Metadata).
-
-
-      THE PIVOT:
-
-      - Article 2 does not introduce new factual claims or dates compared to Article
-      1; content is duplicated.
-
-      - Widget Image Context provides visual identification of the "Four Key Figures"
-      listed in Article 1 text (Wilters, Lowery, Mack, Whetstone).
-
-      - Connection relies entirely on the textual replication of names and positions
-      in Article 1 to populate the Widget display.
-
-      - Key Pivot Point: Wilters'' role as Judge in 2005 vs current DA role; Whetstone''s
-      transition from DA to Retirement.
+      - Validates Huey Mack’s continued influence via state-level appointment post-retirement
+      as Sheriff.
 
 
-      KEY ENTITIES:
+      THE PIVOT
 
-      - Murray Lawrence Jr (Convict/Victim''s boyfriend)
+      - Article 2 serves as a secondary distribution of the exact same press release,
+      eliminating possibility of separate interpretation.
 
-      - Brandon Hastings (Victim/Decedent)
+      - Identical phrasing proves coordinated messaging regarding why Lawrence remains
+      incarcerated (i.e., accountability by the four officials).
 
-      - Jarius McNeil (Confessed Killer/Witness)
+      - Bridges previous legal filings to today’s political status of Whetstone, Lowery,
+      Wilters, and Mack.
 
-      - Robert Wilters (Judge 2005 / DA since approx 2015)
 
-      - Anthony Lowery (Chief Investigator 2005 / Sheriff appointed by Kay Ivey)
+      KEY ENTITIES
 
-      - Huey ''Hoss'' Mack (Captain 2005 / Sheriff retired / State Level)
+      - Murray Lawrence Jr (Wrongfully Convicted)
 
-      - David Whetstone (DA 2005 / Retired)
+      - Jarius McNeil (Actual Killer/Coerced Witness)
 
-      - Kay Ivey (Governor of Alabama, appointed Lowery)
+      - Brandon Hastings (Victim)
 
-      - Baldwin County Sheriff''s Office (BCSO) / Baldwin County District Attorney'
-    generated_at: '2026-03-08T16:13:38.762280Z'
-    text: Wilters, Lowery, Mack, and Whetstone traded a man’s life for their own career
-      climbs. Look at these faces to see the exact power players who buried the "smoking
-      gun" evidence that could have freed Murray Lawrence Jr. over two decades ago.
-    character_count: 238
+      - Robert Wilters (Judge -> DA; Rejected Rule 32 in 2023)
+
+      - Anthony Lowery (Chief Investigator -> Sheriff; Seeking Retention 2026)
+
+      - Huey "Hoss" Mack (Lead Investigator -> State Position; Controlled Evidence/Funeral
+      Home)
+
+      - David Whetstone (DA in 2005 -> Retired)
+
+      - Baldwin County Sheriff’s Office (BCSO)'
+    generated_at: '2026-03-12T17:53:39.592844Z'
   bcso-how-to-become-sheriff:
     brief: '1. THE CONFLICT:
 
@@ -383,83 +362,6 @@ hooks:
       same dirty tactics to bury Murray Lawrence that they still use today to hide
       body camera footage.
     character_count: 249
-  7432-days-in-jail:
-    brief: 'THE CONFLICT:
-
-      - 2005 Capital Murder Trial for victim Brandon Hastings in Baldwin County.
-
-      - Defendant: Murray Lawrence Jr (convicted despite lack of physical evidence).
-
-      - Real Killer: Jarius McNeil. Claimed he confessed then shifted blame to Murray
-      after coercion by Law Enforcement.
-
-      - Autopsy Discrepancy: Stated shot in Alabama, proved strangled in Mississippi.
-
-      - Four Officials involved during prosecution: Robert Wilters (Presiding Judge),
-      Anthony Lowery (Chief Investigator), Huey ''Hoss'' Mack (Lead Investigator),
-      David Whetstone (District Attorney).
-
-      - Evidence Suppression: Exculpatory evidence buried during trial per Innocence
-      Project findings. Rule 32 filed and rejected in 2023.
-
-      - Sentence Duration Claimed: Lost more than 20 years of life.
-
-
-      THE DISCOVERY:
-
-      - Official Incarceration Count: 7432 days in jail confirmed (Article 2).
-
-      - Legal Precedent Cited: *Brady vs. Maryland*, 1963 United States Supreme Court
-      ruling.
-
-      - Ruling Definition: Suppression of evidence favorable to the accused violates
-      constitutional due process if material.
-
-      - Source Attribution: Article 2 authored by Nancy R Koerner (Lagniappe Mobile).
-
-
-      THE PIVOT:
-
-      - Article 2 provides the legal definition for "Evidence Suppression" cited in
-      Article 1 (Innocence Project findings).
-
-      - Article 2 confirms the total incarceration time (7432 days) matches Article
-      1''s claim of "more than 20 years" (7432 / 365 = ~20.3 years).
-
-      - Article 2 names the same four officials as conspirators for withholding evidence:
-      Hoss Mack, David Whetstone, Robert Wilters.
-
-      - Article 2 provides a legal basis (Brady vs. Maryland) to challenge the suppression
-      claims made in Article 1 against prosecutors/officials now in higher office.
-
-      - Article 1 identifies current status of officials (Wilters as DA since ~2015,
-      Lowery as Sheriff, Mack retired to state level); Article 2 identifies same names
-      but focuses on current conspiracy.
-
-
-      KEY ENTITIES:
-
-      - Individuals: Murray Lawrence Jr (Murray Bubba), David Whetstone, Robert Wilters,
-      Anthony Lowery, Huey ''Hoss'' Mack, Jarius McNeil, Brandon Hastings, Governor
-      Kay Ivey, Nancy R Koerner.
-
-      - Organizations: Baldwin County Sheriff''s Office, Baldwin County District Attorney''s
-      Office, Innocence Project, The Ripp Report, Lagniappe Mobile, United States
-      Supreme Court.
-
-      - Locations: Baldwin County, Mississippi (Crime Scene Autopsy), Alabama (Trial
-      Site).
-
-      - Dates: 2005 (Original Trial Date), ~2015 (Wilters becomes DA), 2026 (Lowery
-      Election), 2023 (Rule 32 Rejection), 1963 (Brady Case).
-
-      - Quantities: 7432 days incarceration, $0 dollar amount noted.'
-    generated_at: '2026-03-08T16:13:38.762321Z'
-    text: Murray Lawrence has spent 7,432 days behind bars because Robert Wilters
-      and Hoss Mack decided the law didn't apply to them. This legal breakdown reveals
-      how they violated the Brady Rule to keep a man in a cage while they climbed
-      the political ladder.
-    character_count: 250
   rule-32:
     brief: 'THE CONFLICT:
 
@@ -592,106 +494,83 @@ hooks:
       proves they traded the truth for their own self-promotion while Murray Lawrence
       sat in a cell.
     character_count: 249
-  deal-with-the-devil:
-    brief: '1. THE CONFLICT
+  7432-days-in-jail:
+    brief: 'THE CONFLICT:
 
-      - Murray Lawrence Jr convicted in 2005 capital murder trial, Baldwin County.
+      - 2005 Capital Murder Trial for victim Brandon Hastings in Baldwin County.
 
-      - Victim: Brandon Hastings.
+      - Defendant: Murray Lawrence Jr (convicted despite lack of physical evidence).
 
-      - State claimed victim shot in Alabama; Autopsy proved strangled in Mississippi.
+      - Real Killer: Jarius McNeil. Claimed he confessed then shifted blame to Murray
+      after coercion by Law Enforcement.
 
-      - No physical evidence (No DNA, fingerprints, murder weapon).
+      - Autopsy Discrepancy: Stated shot in Alabama, proved strangled in Mississippi.
 
-      - Trial presided by Circuit Court Judge Robert Wilters.
+      - Four Officials involved during prosecution: Robert Wilters (Presiding Judge),
+      Anthony Lowery (Chief Investigator), Huey ''Hoss'' Mack (Lead Investigator),
+      David Whetstone (District Attorney).
 
-      - Prosecuted by District Attorney David Whetstone.
+      - Evidence Suppression: Exculpatory evidence buried during trial per Innocence
+      Project findings. Rule 32 filed and rejected in 2023.
 
-      - Investigated by Sheriff Huey ''Hoss'' Mack and Chief Investigator Anthony
-      Lowery.
-
-      - Defense attorney Willy Huntly filed objections on timeline ignored by court;
-      incurred over 50,000 dollars legal fees.
-
-      - Judge Robert Wilters allowed prosecution to proceed despite evidentiary inconsistencies;
-      ruled on Rule 32 in 2023.
-
-      - Prosecution offered plea deal to real killer, Jarius McNeil; coerced testimony.
+      - Sentence Duration Claimed: Lost more than 20 years of life.
 
 
-      2. THE DISCOVERY
+      THE DISCOVERY:
 
-      - David Whetstone quoted in December 2, 2010 post by AL.com Mobile regarding
-      Nodine case.
+      - Official Incarceration Count: 7432 days in jail confirmed (Article 2).
 
-      - Whetstone stated: "I have made a deal, a deal with the devil so that evidence
-      could be heard".
+      - Legal Precedent Cited: *Brady vs. Maryland*, 1963 United States Supreme Court
+      ruling.
 
-      - Defense attorney Willy Huntly (2005 trial) made consistent objections regarding
-      timeline that fell on deaf ears.
+      - Ruling Definition: Suppression of evidence favorable to the accused violates
+      constitutional due process if material.
 
-      - Pathologist Paul McGarry testified under Whetstone questioning that victim
-      could have been shot (contradicting medical examiner).
-
-      - Ripp Report investigating Lawrence case for two years.
+      - Source Attribution: Article 2 authored by Nancy R Koerner (Lagniappe Mobile).
 
 
-      3. THE PIVOT
+      THE PIVOT:
 
-      - Widget Article Whetstone quote ("deal with the devil") directly validates
-      Main Article claim that prosecution admits to misconduct.
+      - Article 2 provides the legal definition for "Evidence Suppression" cited in
+      Article 1 (Innocence Project findings).
 
-      - Widget confirms timeline discrepancy (Shot vs Strangled) detailed in trial
-      transcript proves Lawrence had alibis.
+      - Article 2 confirms the total incarceration time (7432 days) matches Article
+      1''s claim of "more than 20 years" (7432 / 365 = ~20.3 years).
 
-      - Widget identifies specific pathologist (Paul McGarry) in Steve Nodine case
-      linked to Whetstone, corroborating Main Article''s claim regarding evidence
-      handling.
+      - Article 2 names the same four officials as conspirators for withholding evidence:
+      Hoss Mack, David Whetstone, Robert Wilters.
 
-      - Both articles identify Robert Wilters as presiding 2005 Judge; Main Article
-      notes he became DA approx 2015.
+      - Article 2 provides a legal basis (Brady vs. Maryland) to challenge the suppression
+      claims made in Article 1 against prosecutors/officials now in higher office.
 
-      - Both articles identify David Whetstone as 2005 DA; Main Article states he
-      is retired.
-
-      - Both articles identify Huey ''Hoss'' Mack as Lead Investigator 2005; Main
-      Article states he holds state level position post-retirement.
+      - Article 1 identifies current status of officials (Wilters as DA since ~2015,
+      Lowery as Sheriff, Mack retired to state level); Article 2 identifies same names
+      but focuses on current conspiracy.
 
 
-      4. KEY ENTITIES
+      KEY ENTITIES:
 
-      - Murray Lawrence Jr (Defendant/Convict).
+      - Individuals: Murray Lawrence Jr (Murray Bubba), David Whetstone, Robert Wilters,
+      Anthony Lowery, Huey ''Hoss'' Mack, Jarius McNeil, Brandon Hastings, Governor
+      Kay Ivey, Nancy R Koerner.
 
-      - David Whetstone (Former DA, Retired).
+      - Organizations: Baldwin County Sheriff''s Office, Baldwin County District Attorney''s
+      Office, Innocence Project, The Ripp Report, Lagniappe Mobile, United States
+      Supreme Court.
 
-      - Robert Wilters (2005 Judge -> Current DA since 2015).
+      - Locations: Baldwin County, Mississippi (Crime Scene Autopsy), Alabama (Trial
+      Site).
 
-      - Anthony Lowery (Chief Investigator 2005 -> Current Sheriff appointed by Kay
-      Ivey).
+      - Dates: 2005 (Original Trial Date), ~2015 (Wilters becomes DA), 2026 (Lowery
+      Election), 2023 (Rule 32 Rejection), 1963 (Brady Case).
 
-      - Huey ''Hoss'' Mack (Lead Investigator 2005 -> Retired State Level).
-
-      - Brandon Hastings (Victim).
-
-      - Jarius McNeil (Real Killer/Coerced Witness).
-
-      - Willy Huntly (Defense Attorney 2005).
-
-      - Paul McGarry (Pathologist in Nodine/Lawrence cases).
-
-      - Steve Nodine (Linked Case Victim).
-
-      - Baldwin County.
-
-      - Baldwin County Sheriff''s Office (BCSO).
-
-      - Baldwin County District Attorney''s Office.'
-    generated_at: '2026-03-08T16:13:38.762342Z'
-    text: David Whetstone openly admitted to making a "deal with the devil" just to
-      secure a conviction at any cost. This paper trail confirms how he and Robert
-      Wilters manipulated a pathologist to ignore an autopsy that would have set Murray
-      Lawrence free.
-    character_count: 247
+      - Quantities: 7432 days incarceration, $0 dollar amount noted.'
+    generated_at: '2026-03-08T16:13:38.762321Z'
+    text: Murray Lawrence has spent 7,432 days behind bars because Robert Wilters
+      and Hoss Mack decided the law didn't apply to them. This legal breakdown reveals
+      how they violated the Brady Rule to keep a man in a cage while they climbed
+      the political ladder.
+    character_count: 250
   Baldwin-county-wrongful-conviction:
     brief: 'THE CONFLICT
 
@@ -807,6 +686,106 @@ hooks:
       Wilters and Lowery told to bridge the gap between a murder in Mississippi and
       a trial in Alabama.
     character_count: 256
+  deal-with-the-devil:
+    brief: '1. THE CONFLICT
+
+      - Murray Lawrence Jr convicted in 2005 capital murder trial, Baldwin County.
+
+      - Victim: Brandon Hastings.
+
+      - State claimed victim shot in Alabama; Autopsy proved strangled in Mississippi.
+
+      - No physical evidence (No DNA, fingerprints, murder weapon).
+
+      - Trial presided by Circuit Court Judge Robert Wilters.
+
+      - Prosecuted by District Attorney David Whetstone.
+
+      - Investigated by Sheriff Huey ''Hoss'' Mack and Chief Investigator Anthony
+      Lowery.
+
+      - Defense attorney Willy Huntly filed objections on timeline ignored by court;
+      incurred over 50,000 dollars legal fees.
+
+      - Judge Robert Wilters allowed prosecution to proceed despite evidentiary inconsistencies;
+      ruled on Rule 32 in 2023.
+
+      - Prosecution offered plea deal to real killer, Jarius McNeil; coerced testimony.
+
+
+      2. THE DISCOVERY
+
+      - David Whetstone quoted in December 2, 2010 post by AL.com Mobile regarding
+      Nodine case.
+
+      - Whetstone stated: "I have made a deal, a deal with the devil so that evidence
+      could be heard".
+
+      - Defense attorney Willy Huntly (2005 trial) made consistent objections regarding
+      timeline that fell on deaf ears.
+
+      - Pathologist Paul McGarry testified under Whetstone questioning that victim
+      could have been shot (contradicting medical examiner).
+
+      - Ripp Report investigating Lawrence case for two years.
+
+
+      3. THE PIVOT
+
+      - Widget Article Whetstone quote ("deal with the devil") directly validates
+      Main Article claim that prosecution admits to misconduct.
+
+      - Widget confirms timeline discrepancy (Shot vs Strangled) detailed in trial
+      transcript proves Lawrence had alibis.
+
+      - Widget identifies specific pathologist (Paul McGarry) in Steve Nodine case
+      linked to Whetstone, corroborating Main Article''s claim regarding evidence
+      handling.
+
+      - Both articles identify Robert Wilters as presiding 2005 Judge; Main Article
+      notes he became DA approx 2015.
+
+      - Both articles identify David Whetstone as 2005 DA; Main Article states he
+      is retired.
+
+      - Both articles identify Huey ''Hoss'' Mack as Lead Investigator 2005; Main
+      Article states he holds state level position post-retirement.
+
+
+      4. KEY ENTITIES
+
+      - Murray Lawrence Jr (Defendant/Convict).
+
+      - David Whetstone (Former DA, Retired).
+
+      - Robert Wilters (2005 Judge -> Current DA since 2015).
+
+      - Anthony Lowery (Chief Investigator 2005 -> Current Sheriff appointed by Kay
+      Ivey).
+
+      - Huey ''Hoss'' Mack (Lead Investigator 2005 -> Retired State Level).
+
+      - Brandon Hastings (Victim).
+
+      - Jarius McNeil (Real Killer/Coerced Witness).
+
+      - Willy Huntly (Defense Attorney 2005).
+
+      - Paul McGarry (Pathologist in Nodine/Lawrence cases).
+
+      - Steve Nodine (Linked Case Victim).
+
+      - Baldwin County.
+
+      - Baldwin County Sheriff''s Office (BCSO).
+
+      - Baldwin County District Attorney''s Office.'
+    generated_at: '2026-03-08T16:13:38.762342Z'
+    text: David Whetstone openly admitted to making a "deal with the devil" just to
+      secure a conviction at any cost. This paper trail confirms how he and Robert
+      Wilters manipulated a pathologist to ignore an autopsy that would have set Murray
+      Lawrence free.
+    character_count: 247
   innocent:
     brief: 'THE CONFLICT
 
@@ -885,70 +864,3 @@ hooks:
       a "deal with the devil" over the actual truth. The trial transcript proves Whetstone
       and Wilters knew the travel time was impossible yet they still forced a conviction.
     character_count: 245
-  justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
-    brief: 'THE CONFLICT
-
-      - 2005: Murray Lawrence Jr convicted of capital murder in Baldwin County for
-      the killing of Brandon Hastings.
-
-      - Case relied on Jarius McNeil’s testimony; McNeil admitted crime but shifted
-      blame after threat of death penalty.
-
-      - Prosecution claimed Brandon Hastings was shot in Alabama; autopsy confirmed
-      strangulation in Mississippi.
-
-      - Zero physical evidence found linking Lawrence: no DNA, no fingerprints, no
-      murder weapon recovered against him.
-
-      - Defense attorney instructed Lawrence not to testify in his own defense.
-
-      - Key exculpatory evidence was suppressed during trial per Innocence Project
-      findings.
-
-
-      THE DISCOVERY
-
-      - Article 2 confirms the ongoing status of key defendants as officials in power
-      (not historical figures).
-
-      - Specifically evidences Robert Wilters currently rejecting Rule 32 postconviction
-      relief in 2023.
-
-      - Confirms Anthony Lowery is campaigning to retain Baldwin County Sheriff office
-      in 2026.
-
-      - Validates Huey Mack’s continued influence via state-level appointment post-retirement
-      as Sheriff.
-
-
-      THE PIVOT
-
-      - Article 2 serves as a secondary distribution of the exact same press release,
-      eliminating possibility of separate interpretation.
-
-      - Identical phrasing proves coordinated messaging regarding why Lawrence remains
-      incarcerated (i.e., accountability by the four officials).
-
-      - Bridges previous legal filings to today’s political status of Whetstone, Lowery,
-      Wilters, and Mack.
-
-
-      KEY ENTITIES
-
-      - Murray Lawrence Jr (Wrongfully Convicted)
-
-      - Jarius McNeil (Actual Killer/Coerced Witness)
-
-      - Brandon Hastings (Victim)
-
-      - Robert Wilters (Judge -> DA; Rejected Rule 32 in 2023)
-
-      - Anthony Lowery (Chief Investigator -> Sheriff; Seeking Retention 2026)
-
-      - Huey "Hoss" Mack (Lead Investigator -> State Position; Controlled Evidence/Funeral
-      Home)
-
-      - David Whetstone (DA in 2005 -> Retired)
-
-      - Baldwin County Sheriff’s Office (BCSO)'
-    generated_at: '2026-03-12T17:53:39.592844Z'

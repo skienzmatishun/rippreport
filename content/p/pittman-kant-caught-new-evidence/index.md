@@ -2,6 +2,7 @@
 title: Pittman & Kant Caught
 date: 2014-02-13
 description: Mayor Kant lies about who signed BP Boom documents, Leigh Anne Ryals denies involvement
+thumbnail: img/pittman-kant-caught-new-evidence.png
 tags:
 - archive
 - historical

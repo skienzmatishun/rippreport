@@ -1,7 +1,7 @@
 metadata:
-  generated_at: '2026-07-10T16:20:44.971823Z'
+  generated_at: '2026-08-03T02:36:34.049611Z'
   generator_version: 1.0.0
-  post_slug: BALDWIN-COUNTY-SHERIFF-APPOINTMENT-2
+  post_slug: baldwin-county-sheriff-appointment-2
 hooks:
   new-sheriff-no-changes:
     brief: '1. THE CONFLICT (Past Events & Issues)
@@ -382,6 +382,80 @@ hooks:
       was right there in 2004 when Mack and Whetstone withheld the forensic reports
       that would have kept an innocent man out of a cold prison cell.
     character_count: 297
+  bcso-culture:
+    brief: 'THE CONFLICT
+
+      *   Sheriff Hoss Mack is seeking replacement Anthony Lowery.
+
+      *   Events against BCSO include: Peyton Little being strangled by a seatbelt;
+      O.J. French being shot to death by Bay Minette police after a signal violation;
+      Robert Yates dying in an eviction involving excessive SWAT force (114 shells);
+      Johnathan Victor being shot 4 times during an incident involving a single-vehicle
+      accident; five deaths in a wrong-way pursuit on I-10 (110mph).
+
+      *   Wrongful conviction noted: Sheriff Mack, Prosecutor David Whetstone, and
+      Judge Robert Wilters withheld exculpatory evidence in the Baldwin Man''s murder
+      trial.
+
+
+      THE DISCOVERY
+
+      *   Anthony Lowery claims the BCSO operates with a culture of lies, wrongful
+      incarceration, deadly shootings, self-investigation, blanket immunity, and no
+      accountability.
+
+      *   Lowery’s proclamation that Johnathan Victor was a suicide by cop is false.
+
+      *   Lowery was the lead investigator in the Murray Lawrence Jr. case and failed
+      to produce evidence against him.
+
+      *   Mack, Lowery, and others actively hid exculpatory evidence from the defense
+      during legal proceedings.
+
+
+      THE PIVOT
+
+      *   Article 2 proves that the alleged misconduct detailed in Article 1 (e.g.,
+      wrongful convictions, cover-ups, deadly force) is not isolated but represents
+      a systemic departmental "CULTURE" fostered by Sheriff Mack and Anthony Lowery.
+
+      *   The cultural critique provides evidence that Lowery’s qualifications are
+      based on maintaining this flawed system, making him an unsuitable candidate
+      for leadership.
+
+
+      KEY ENTITIES
+
+      *   Hoss Mack (Sheriff)
+
+      *   Anthony Lowery
+
+      *   Peyton Little
+
+      *   O.J. French
+
+      *   Robert Yates
+
+      *   Johnathan Victor
+
+      *   Mark Hunady (BCSO Deputy, qualified immunity case)
+
+      *   David Whetstone (Prosecutor)
+
+      *   Judge Robert Wilters
+
+      *   Murray Lawrence Jr.
+
+      *   Steve Nodine
+
+      *   Bay Minette Police
+
+      *   Baldwin County Major Crimes Unit
+
+      *   Governor’s Appointment Office
+
+      *   Matt McKenzie'
+    generated_at: '2026-07-10T16:20:44.971916Z'
   rumors:
     brief: '1. THE CONFLICT: Sheriff Hoss Mack exiting Baldwin County Sheriff’s Office;
       Governor’s Appointment Office soliciting testimonials for replacement, including
@@ -459,80 +533,6 @@ hooks:
       investigator who helped Wilters and Mack hide the Lawrence autopsy, Anthony
       Lowery is the perfect man to keep this rigged and deadly system running forever.
     character_count: 305
-  bcso-culture:
-    brief: 'THE CONFLICT
-
-      *   Sheriff Hoss Mack is seeking replacement Anthony Lowery.
-
-      *   Events against BCSO include: Peyton Little being strangled by a seatbelt;
-      O.J. French being shot to death by Bay Minette police after a signal violation;
-      Robert Yates dying in an eviction involving excessive SWAT force (114 shells);
-      Johnathan Victor being shot 4 times during an incident involving a single-vehicle
-      accident; five deaths in a wrong-way pursuit on I-10 (110mph).
-
-      *   Wrongful conviction noted: Sheriff Mack, Prosecutor David Whetstone, and
-      Judge Robert Wilters withheld exculpatory evidence in the Baldwin Man''s murder
-      trial.
-
-
-      THE DISCOVERY
-
-      *   Anthony Lowery claims the BCSO operates with a culture of lies, wrongful
-      incarceration, deadly shootings, self-investigation, blanket immunity, and no
-      accountability.
-
-      *   Lowery’s proclamation that Johnathan Victor was a suicide by cop is false.
-
-      *   Lowery was the lead investigator in the Murray Lawrence Jr. case and failed
-      to produce evidence against him.
-
-      *   Mack, Lowery, and others actively hid exculpatory evidence from the defense
-      during legal proceedings.
-
-
-      THE PIVOT
-
-      *   Article 2 proves that the alleged misconduct detailed in Article 1 (e.g.,
-      wrongful convictions, cover-ups, deadly force) is not isolated but represents
-      a systemic departmental "CULTURE" fostered by Sheriff Mack and Anthony Lowery.
-
-      *   The cultural critique provides evidence that Lowery’s qualifications are
-      based on maintaining this flawed system, making him an unsuitable candidate
-      for leadership.
-
-
-      KEY ENTITIES
-
-      *   Hoss Mack (Sheriff)
-
-      *   Anthony Lowery
-
-      *   Peyton Little
-
-      *   O.J. French
-
-      *   Robert Yates
-
-      *   Johnathan Victor
-
-      *   Mark Hunady (BCSO Deputy, qualified immunity case)
-
-      *   David Whetstone (Prosecutor)
-
-      *   Judge Robert Wilters
-
-      *   Murray Lawrence Jr.
-
-      *   Steve Nodine
-
-      *   Bay Minette Police
-
-      *   Baldwin County Major Crimes Unit
-
-      *   Governor’s Appointment Office
-
-      *   Matt McKenzie'
-    generated_at: '2026-07-10T16:20:44.971916Z'
   deaf-ears:
     brief: 'THE CONFLICT:
 
