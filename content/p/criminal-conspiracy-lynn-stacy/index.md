@@ -1,6 +1,7 @@
 ---
 title: "A Criminal Conspiracy"
 date: 2014-07-23
+thumbnail: img/criminal-conspiracy.png
 description: "Lynn Stacy's political machine orchestrates Chris Elliott's commission victory, while debris removal contractors dominate Baldwin County politics."
 tags: ["archive", "historical", "baldwin-county", "lynn-stacy", "chris-elliott", "bob-james", "trip-pittman", "corruption"]
 ---

@@ -3,6 +3,7 @@ title: "Ethic-less in Alabama"
 date: 2014-08-09
 description: "An open letter to the Alabama Ethics Commission exposing Senator Pittman's pattern of public contracts and the Commission's failure to enforce ethics laws."
 tags: ["archive", "historical", "trip-pittman", "ethics-commission", "corruption", "debris-removal", "fairhope-politics"]
+thumbnail: img/ethic-less-in-alabama.png
 ---
 
 **TO: The Alabama Ethics Commission, Hugh Evans presiding**  

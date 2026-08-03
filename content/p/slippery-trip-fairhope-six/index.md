@@ -1,6 +1,7 @@
 ---
 title: "Slippery Trip and the Fairhope Six"
 date: 2014-07-25
+thumbnail: img/slippery-trip-fairhope-six.jpg
 description: "The BP Oil Spill boom contract scandal exposed: How Senator Pittman and Mayor Kant conspired to deceive constituents and manipulate the bidding process."
 tags: ["archive", "historical", "bp-oil-spill", "trip-pittman", "tim-kant", "corruption", "fairhope-politics", "debris-removal"]
 ---
