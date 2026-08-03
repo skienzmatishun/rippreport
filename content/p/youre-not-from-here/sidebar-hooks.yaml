@@ -1,8 +1,189 @@
 metadata:
-  generated_at: '2026-07-18T19:37:05.227608Z'
+  generated_at: '2026-08-03T02:18:50.880470Z'
   generator_version: 1.0.0
   post_slug: youre-not-from-here
 hooks:
+  lipstick-on-a-pig:
+    brief: 'THE CONFLICT:
+
+      - Arthur Corti (land owner/developer) proposed Fly Creek PUD changes regarding
+      apartment development.
+
+      - Initial resistance noted: 300+ concerned citizens attended planning meetings
+      (May/June 2016, seeking to stop the project).
+
+      - Planning and Zoning board reportedly voted against the proposal (Dec. 18,
+      2015 vote noted in Widget Article).
+
+      - Despite public opposition and initial denials/rejections, the project persisted
+      through Phase 1 violations.
+
+
+      THE DISCOVERY:
+
+      - Article 2 reveals the Mayor''s and Corti''s coordinated efforts to push the
+      project despite public rejection.
+
+      - The Mayor used his position to overturn initial opposition, describing citizens
+      as an "angry mob of people not from here" following the planning board''s vote.
+
+      - Corti provided infrastructure benefits to the City (Fire Station, Sewer Lift
+      Plant) valued at over $1 million in exchange for allowing his development''s
+      connectivity plans.
+
+      - Article 2 documents the pattern of the Mayor using "blindsides" (e.g., Triangle
+      lawsuit) to push projects through without proper public oversight before attempting
+      Council passage.
+
+
+      THE PIVOT:
+
+      - Article 1 frames the upcoming City Council vote as the final, dangerous attempt
+      to approve a damaging project.
+
+      - Article 2 provides the detailed history and context: proving that the Mayor/Corti
+      dynamic has a pattern of suppressing public dissent ("not from here") and using
+      private benefits (infrastructure donation) to ensure favorable municipal decisions
+      against community interest.
+
+
+      KEY ENTITIES:
+
+      - Arthur Corti
+
+      - Mayor (Unnamed in context of the articles, acts on behalf of his interests)
+
+      - Planning and Zoning Board/Commission
+
+      - City Council (future body to approve connectivity/Phase 2)
+
+      - Angus Cooper (Board member regarding benefactors)
+
+      - Jennifer Fidler (City staff complicit in overlooking Phase 1 violations)
+
+      - Hollie MacKellar (Planning Commissioner, only recorded "NO" vote in initial
+      phase mentioned)
+
+      - आमदार Councilman Ford (voted against proposal initially, complicit later)'
+    generated_at: '2026-08-03T02:18:50.881122Z'
+  miracle-blindside-reality:
+    brief: 'THE CONFLICT:
+
+      - Dec. 7 [Year Unspecified]: Planning and Zoning meeting on Fly Creek PUD proposal
+      for 240 "upscale apartments."
+
+      - Arthur Corte, a developer and non-resident landowner, proposed development.
+
+      - Audience strongly opposed apartments; Councilman Ford objected.
+
+      - Mayor voted against the project, with Jennifer Fiddler concurring (5 no, 4
+      yes vote).
+
+
+      THE DISCOVERY:
+
+      - Feb. 5, [Year Unspecified]: Arthur Corti made statements implying entitlement
+      and the success of his development vision.
+
+      - Corti suggested prior actions (e.g., regarding BP money/$636,000) were transactional
+      benefiting him and the city structure.
+
+      - Corti described his generosity (land for fire station/courthouse) as foundational
+      to the city''s current state, contrasting with the opposition.
+
+      - The development involved building 500 apartments across multiple projects
+      (Daphne/Fairhope) near Fly Creek.
+
+
+      THE PIVOT:
+
+      - The Dec. 7 action (Article 2) shows the initial political fight over Corte''s
+      proposal, where the Mayor initially appears to oppose it.
+
+      - The Feb 5 statements (Article 1) show the culmination of this dynamic, with
+      Corti asserting his control and entitlement over the development that the city
+      infrastructure (fire station/sewer lift) was allegedly built to support for
+      the project''s benefit.
+
+      - Article 1 details later phases of development and infrastructure commitments
+      that solidify the "corrupt inside deal" structure mentioned in both contexts.
+
+
+      KEY ENTITIES:
+
+      - Arthur Corte
+
+      - Jennifer Fiddler
+
+      - Mayor (implied authority)
+
+      - City Council
+
+      - Planning and Zoning Board
+
+      - Fly Creek PUD'
+    generated_at: '2026-08-03T02:18:50.881134Z'
+  fairhope-railroad:
+    brief: 'THE CONFLICT:
+
+      - Arthur Corte, Land Owner/Developer, drives development through Fairhope.
+
+      - Planning body (Fairhope P&Z) makes decisions impacting Fly Creek, including
+      approving apartment construction near the creekside.
+
+      - City expenditure (Fire station, Sewer Lift Plant) of over $1 million occurs
+      for the benefit of the apartment project.
+
+      - Initial vision was a high-end village concept, evolving into a Publix strip
+      center development.
+
+
+      THE DISCOVERY:
+
+      - Article 2 (Dec. 4, 2015) details the negative consequences of this development
+      upon starting.
+
+      - Article 2 establishes specific instances of corruption: mayor favoring contributors,
+      conflict between Mayor/P&Z bodies, and approving developments causing environmental
+      damage.
+
+      - Article 2 quantifies the escalating financial liabilities from the project
+      due to inadequate planning and ignoring violations.
+
+
+      THE PIVOT:
+
+      - Article 1 discusses the entitlement culture surrounding Corte''s development
+      requiring final sign-off from City Council.
+
+      - Article 2 provides the historical context and documented chain of events showing
+      that the entitlements demanded (infrastructure, zoning variances) were part
+      of a compromised "good ole boy deal" benefiting Corte and the Mayor, leading
+      to predictable litigation (e.g., Triangle lawsuit).
+
+
+      KEY ENTITIES:
+
+      - Arthur Corte
+
+      - Mayor
+
+      - City Council
+
+      - Hollie MacKellar (P&Z Commissioner)
+
+      - Jennifer Fidler (Commissioner/Public Works)
+
+      - George Robards (P&Z Member)
+
+      - Lee Turner (P&Z President/Single Tax head)
+
+      - Tripp Pittman (Contributing State Senator/BP funds recipient)
+
+      - Fly Creek
+
+      - Publix'
+    generated_at: '2026-08-03T02:18:50.881137Z'
   fairhope-a-city-owned-by-outside-interests-and-good-ole-boys:
     brief: "THE CONFLICT\n*   **Date/Event:** February 1st Planning Meeting, 2016.\
       \ Arthur Corti made an \"entitlement\" speech regarding his influence in Fairhope\
@@ -59,54 +240,6 @@ hooks:
       \ advancement over compliance or community welfare, as claimed by critics in\
       \ Article"
     generated_at: '2026-07-17T20:36:35.373372Z'
-  fly-creek-a-drainage-ditch:
-    brief: '**THE CONFLICT:**
-
-      • Feb. 5, 2016: Arthur Corti presented development plans to the Fairhope Planning
-      meeting regarding housing/commercial expansion.
-
-      • Allegation: The project (Fly Creek Apartments) constituted a "corrupt inside
-      deal" between land owner and Mayor, including city installation of fire station
-      and sewer lift plant costing over $1 million in tax dollars.
-
-
-      **THE DISCOVERY:**
-
-      • Six day trial occurred in Bay Minette concerning the Fly Creek Apartments
-      project.
-
-      • Adam Milam (plaintiff''s attorney) argued City Council and Mayor sold out
-      Fairhope by allowing a large apartment complex near the Fly Creek Watershed,
-      ignoring public concerns/campaign promises.
-
-      • The current drainage plan utilizes single point discharge at an outfall pipe,
-      detouring a 1-acre retention pond expansion to dump storm water directly into
-      wetlands draining into Fly Creek (approx. 100-150 feet from outfall).
-
-
-      **THE PIVOT:**
-
-      • Article 2 substantiates the general allegations of corruption and mismanagement
-      raised in Article 1 by detailing specific legal findings, the technical failures
-      of the drainage plan, and identifying officials who benefited from the decision:
-      Jack Burrell and Kevin Boone "gladly accepted the gift" related to wetland use.
-
-
-      **KEY ENTITIES:**
-
-      • Arthur Corti / Jimmy Corte (Developer)
-
-      • Adam Milam (Plaintiff''s Attorney, Friends of Fly Creek)
-
-      • Hollie MacKellar (Planning Commissioner; noted as only ''NO'' vote in 2016
-      meeting)
-
-      • Jack Burrell
-
-      • Kevin Boone
-
-      • Fairhope City Council/Mayor (the approving governmental body for the project)'
-    generated_at: '2026-07-17T20:36:35.373436Z'
   no-more-silence-we-want-answers:
     brief: 'THE CONFLICT:
 
@@ -164,197 +297,6 @@ hooks:
 
       * Angus Cooper ($35k donation for Senior Bowl)'
     generated_at: '2026-07-17T20:36:35.373449Z'
-  living-it-up-at-the-hotel-california:
-    brief: 'THE CONFLICT
-
-      *   February 5, 2016: Arthur Corti gave a "entitlement speech" at the Fairhope
-      Planning meeting.
-
-      *   The speech focused on his importance and generosity in providing land for
-      the fire station and satellite courthouse.
-
-      *   Article 1 asserted that city funds (over $1 million) were used by the City
-      of Fairhope for the benefit of an apartment project near Fly Creek, constituting
-      a "corrupt inside deal" between developers and Mayor Kant.
-
-
-      THE DISCOVERY
-
-      *   Current: The controversial Fly Creek Apartment deal is being debated for
-      the sixth time in the Planning Commission.
-
-      *   Mayor Tim Kant and Public Works Director Jennifer Fidler are absent from
-      this meeting because they took a trip to Southern California to receive an "America
-      in Bloom" vanity award ("on our dime").
-
-      *   Despite their absence, the Fairhope Planning Commission passed the high-density
-      project via a 4-2 vote, with two key commissioner votes.
-
-
-      THE PIVOT
-
-      *   Article 1 alleged that Mayor Kant and city officials were pushing an unethical
-      development deal using public funds under the guise of entitlement.
-
-      *   Article 2 proves this accusation is ongoing, showing that even as Tim Kant
-      prepares to leave office (having ~30 days remaining), he and Director Fidler
-      prioritize personal trips over attending crucial meetings required to finalize
-      the exact same controversial Fly Creek project mentioned in Article 1''s accusations.
-
-
-      KEY ENTITIES
-
-      *   Arthur Corti
-
-      *   Mayor Tim Kant / Tim Kant
-
-      *   Jennifer Fidler (Public Works Director)
-
-      *   Hollie MacKellar (Planning Commissioner, A1)
-
-      *   Senator Pittman
-
-      *   Karin Wilson
-
-      *   Boone (Council Member)'
-    generated_at: '2026-07-17T20:36:35.373466Z'
-  catalyst-does-fairhope:
-    brief: 'THE CONFLICT: What happened in the past?
-
-      • On February 5, 2016, Arthur Corti made an entitlement speech at the Fairhope
-      Planning meeting regarding large-scale residential development projects (approx.
-      500 apartments) in areas including Rock Creek, Montrose, Plantation Pines, The
-      Woodlands, and Parker Road.
-
-      • Residents of Fly Creek expressed concern over traffic, property values, and
-      development near damaged Fly Creek.
-
-      • Allegations surfaced that a "corrupt inside deal" existed between Angelo Corte
-      (the developer) and the Mayor’s office regarding the project''s approval.
-
-
-      THE DISCOVERY: What does the second article prove or reveal today?
-
-      • The second article identifies former Mayor Tim Kant as key in supporting Angelo
-      Corte’s development interests through City Council actions during his administration.
-
-      • It confirms that taxpayers funded infrastructure (Fire Station on Parker Road;
-      sewer lift station above Fly Creek) which was specifically built to service
-      and tie into the apartments owned by Corte/Fly Creek Apartments.
-
-      • The article reveals that Mayor Tim Kant authorized, late in his administration,
-      a "gift" of wetlands/land from Angelo Corte to the City of Fairhope—this land
-      is positioned to receive all water draining from the Publix property (developed
-      by Corte) directly into Fly Creek.
-
-
-      THE PIVOT: Why is Article 2 the ''smoking gun'' for Article 1?
-
-      • Article 1 claimed an inside deal existed where infrastructure benefited entitled
-      developers at taxpayer cost; Article 2 names Mayor Tim Kant and Angelo Corte,
-      proving this was systemic favoritism.
-
-      • It moves beyond general complaints by showing specific transactions: The City
-      received liability ("gift" of drainage land) while the taxpayers paid for specialized,
-      high-cost infrastructure (sewer lift station/fire station) necessary to support
-      private residential profit at Fly Creek.
-
-
-      KEY ENTITIES: List specific names, organizations, or locations to mention
-
-      • Arthur Corti / Angelo Corte
-
-      • Tim Kant (Former Mayor)
-
-      • Fairhope City Council
-
-      • CATALYST (Political Organization)
-
-      • Hollie MacKellar (Planning Commissioner)
-
-      • Fly Creek
-
-      • Parker Road
-
-      • Rock Creek / The Woodlands / Plantation Pines Subdivisions
-
-      • Publix Property
-
-      • Fire Station on Parker Road
-
-      • Sewer Lift Plant/Station'
-    generated_at: '2026-07-17T20:36:35.373482Z'
-  gulf-shores-shoot-the-messenger:
-    brief: 'THE CONFLICT
-
-      *   **Date:** February 1st, 2016
-
-      *   **Event:** Arthur Corti''s entitlement speech during a Fairhope Planning
-      meeting.
-
-      *   **Allegations (Art 1):** Corrupt inside deal between Mayor/Land Owner and
-      developer regarding apartment projects including Rock Creek, Montrose, Plantation
-      Pines, The Woodlands, and Parker Road developments (totaling approximately 500
-      apartments).
-
-      *   **Specific Incident:** City utilized over $1 million in taxpayer dollars
-      for the construction of a fire station and sewer lift plant, which benefitted
-      the associated apartment project.
-
-      *   **Witness Testimony/Objections (Art 1):** Only Planning Commissioner Hollie
-      MacKellar voted "NO." Jennifer Fidler was accused of being the Mayor’s puppet
-      and overlooking violations.
-
-
-      THE DISCOVERY
-
-      *   Article 2 proves that a pattern of prioritizing high-density development
-      over community welfare existed in Fairhope under its previous leadership, specifically
-      referencing former Fairhope Mayor Tim Kant.
-
-      *   This historical trend is illustrated by the Gulf Shores controversy involving
-      The Enclave and Regency Club developments, where high-density apartment complexes
-      were approved by City Planning Commissions without prior notice or public input,
-      resulting in resident protests (e.g., 750+ signature petition).
-
-
-      THE PIVOT
-
-      *   Article 2 shifts the focus from a one-time corruption incident to systemic
-      governance failure. It argues that the "good ole boy deal" described by residents
-      in Article 1 is not an isolated event but symptomatic of a pattern where Fairhope’s
-      Planning and Zoning mindset—driven by mayoral appointments and prior administration
-      policies (e.g., Tim Kant)—favored developers over citizens, mirroring the Gulf
-      Shores controversy.
-
-      *   Article 2 confirms that administrative changes (new Mayor concentrating
-      on changing P&Z membership) were necessary to settle pending lawsuits inherited
-      from past administrations accused of ignoring public concerns regarding zoning
-      violations.
-
-
-      KEY ENTITIES
-
-      *   Arthur Corti
-
-      *   Hollie MacKellar
-
-      *   Senator Pittman
-
-      *   City Council / City Councilmen
-
-      *   Fairhope Planning and Zoning Commission
-
-      *   Jennifer Fidler (Former Fairhope Staff, City Council Member)
-
-      *   Tim Kant (Former Mayor of Fairhope cited as precedent for developer-favored
-      zoning)
-
-      *   Pete Sims (Vocal "messenger" or resident opposition)
-
-      *   The Enclave / The Regency Club (Gulf Shores apartment projects used as historical
-      parallel)'
-    generated_at: '2026-07-17T20:36:35.373489Z'
   eagles-eye-catalyst-kant-corte:
     brief: 'THE CONFLICT:
 
@@ -427,139 +369,194 @@ hooks:
 
       - Fly Creek'
     generated_at: '2026-07-17T20:36:35.373494Z'
-  honey-bees:
+  living-it-up-at-the-hotel-california:
     brief: 'THE CONFLICT
 
-      *   Feb. 5, 2016: Arthur Corti made statements regarding his perceived entitlement
-      and importance in Fairhope development.
+      *   February 5, 2016: Arthur Corti gave a "entitlement speech" at the Fairhope
+      Planning meeting.
 
-      *   Feb. 5, 2016: Mr. Corti was accused of creating a corrupt inside deal where
-      the City installed over $1 million in infrastructure (fire station and sewer
-      lift plant) specifically for an apartment project located next to a Publix strip
-      center near Fly Creek.
+      *   The speech focused on his importance and generosity in providing land for
+      the fire station and satellite courthouse.
 
-      *   Feb. 5, 2016: The Main Article alleged that Council decisions ignored public
-      input regarding the planned development of approximately 500 apartments across
-      Rock Creek, Montrose, Plantation Pines, and Parker Road in both Daphne and Fairhope
-      areas.
+      *   Article 1 asserted that city funds (over $1 million) were used by the City
+      of Fairhope for the benefit of an apartment project near Fly Creek, constituting
+      a "corrupt inside deal" between developers and Mayor Kant.
 
 
       THE DISCOVERY
 
-      *   Recent events reveal Fairhope City Council members Burrell, Boone, and Brown
-      (the "3 B''s") are prioritizing personal gain over public interest.
+      *   Current: The controversial Fly Creek Apartment deal is being debated for
+      the sixth time in the Planning Commission.
 
-      *   Council acted without public participation or clear financial plans regarding
-      the purchase of 2.6 million dollars in recreational property on Hwy 13.
+      *   Mayor Tim Kant and Public Works Director Jennifer Fidler are absent from
+      this meeting because they took a trip to Southern California to receive an "America
+      in Bloom" vanity award ("on our dime").
 
-      *   The ''3 B’s'' recently passed a resolution to approve closing costs around
-      $9,000 thousand for this land and have been accused of violating citizens''
-      constitutional rights (free speech) by denying public comment on these transactions.
+      *   Despite their absence, the Fairhope Planning Commission passed the high-density
+      project via a 4-2 vote, with two key commissioner votes.
 
 
       THE PIVOT
 
-      *   Article 1 alleges systematic corruption in Fairhope development involving
-      infrastructure projects funded by taxpayers benefiting entitled property owners
-      and the Mayor.
+      *   Article 1 alleged that Mayor Kant and city officials were pushing an unethical
+      development deal using public funds under the guise of entitlement.
 
-      *   Article 2 provides a contemporary example of this alleged systemic corruption,
-      showing Council members Burrell, Boone, and Brown pursuing high-value acquisitions
-      (e.g., Triangle property and Hwy 13 land) through non-transparent processes
-      that bypass public input, mirroring the "corrupt inside deal" allegations made
-      regarding development in Article 1.
+      *   Article 2 proves this accusation is ongoing, showing that even as Tim Kant
+      prepares to leave office (having ~30 days remaining), he and Director Fidler
+      prioritize personal trips over attending crucial meetings required to finalize
+      the exact same controversial Fly Creek project mentioned in Article 1''s accusations.
 
 
       KEY ENTITIES
 
       *   Arthur Corti
 
-      *   Hollie MacKellar (Fairhope Planning and Zoning Commission Member)
+      *   Mayor Tim Kant / Tim Kant
 
-      *   Jennifer Fidler (Former Commissioner/Head of Fairhope Public Works)
+      *   Jennifer Fidler (Public Works Director)
 
-      *   Council Members Burrell, Boone, Brown
+      *   Hollie MacKellar (Planning Commissioner, A1)
 
-      *   The Mayor of Fairhope
+      *   Senator Pittman
 
-      *   Triangle property (102 acres, $20 million conservation easement)
+      *   Karin Wilson
 
-      *   Fly Creek
-
-      *   Parker Road'
-    generated_at: '2026-07-17T20:36:35.373509Z'
-  fauxhope-2:
+      *   Boone (Council Member)'
+    generated_at: '2026-07-17T20:36:35.373466Z'
+  gulf-shores-shoot-the-messenger:
     brief: 'THE CONFLICT
 
-      - Feb. 5, 2016: Arthur Corti made statements at a Fairhope Planning meeting
-      suggesting audience members "are not from here" regarding his perceived entitlement
-      and creation of Fairhope''s environment.
+      *   **Date:** February 1st, 2016
 
-      - Main Article alleges corrupt deals involving the city and developers (land
-      owners) to facilitate large apartment projects near damaged Fly Creek, including
-      500 apartments in Rock Creek/Montrose within two miles, despite earlier agreements
-      for property ownership rather than apartments.
+      *   **Event:** Arthur Corti''s entitlement speech during a Fairhope Planning
+      meeting.
 
-      - Main Article accuses city employees, specifically Jennifer Fidler (Commissioner
-      and head of Fairhope Public Works), of being "Mayor''s puppets" who overlooked
-      violations.
+      *   **Allegations (Art 1):** Corrupt inside deal between Mayor/Land Owner and
+      developer regarding apartment projects including Rock Creek, Montrose, Plantation
+      Pines, The Woodlands, and Parker Road developments (totaling approximately 500
+      apartments).
 
-      - The article notes the installation of a fire station and sewer lift plant
-      (over $1 million in taxpayer dollars) was allegedly for the benefit of this
-      apartment project by the city for the land owner/developer, implying a quid
-      pro quo inside deal between Mayor and Council.
+      *   **Specific Incident:** City utilized over $1 million in taxpayer dollars
+      for the construction of a fire station and sewer lift plant, which benefitted
+      the associated apartment project.
+
+      *   **Witness Testimony/Objections (Art 1):** Only Planning Commissioner Hollie
+      MacKellar voted "NO." Jennifer Fidler was accused of being the Mayor’s puppet
+      and overlooking violations.
 
 
       THE DISCOVERY
 
-      - Today''s council is characterized as enjoying privilege: "full medical insurance
-      on top of their salary," with the Mayor being a "double dipper" (earning checks
-      for both mayoral duties and heading up utilities) while possessing no utility
-      experience.
+      *   Article 2 proves that a pattern of prioritizing high-density development
+      over community welfare existed in Fairhope under its previous leadership, specifically
+      referencing former Fairhope Mayor Tim Kant.
 
-      - Jack Burrell, identified in Article 1 discussions about entitlement deals,
-      is highlighted today as Council President who provided no plan regarding the
-      Airport debt ($8 million), despite receiving $500,000 annually.
-
-      - Current infrastructure issues—including electrical and water shortages—are
-      blamed on neglect from previous administrations (2000 to 2016) but are perpetuated
-      by current council members (with exception of Cory Martin).
+      *   This historical trend is illustrated by the Gulf Shores controversy involving
+      The Enclave and Regency Club developments, where high-density apartment complexes
+      were approved by City Planning Commissions without prior notice or public input,
+      resulting in resident protests (e.g., 750+ signature petition).
 
 
       THE PIVOT
 
-      - Article 1 establishes that the city administration is involved in "CORRUPT
-      INSIDE DEALS" with developers to push out high-density apartment projects, leading
-      community leaders to warn they will be voted out if Fairhope becomes "FAUXHOPE."
+      *   Article 2 shifts the focus from a one-time corruption incident to systemic
+      governance failure. It argues that the "good ole boy deal" described by residents
+      in Article 1 is not an isolated event but symptomatic of a pattern where Fairhope’s
+      Planning and Zoning mindset—driven by mayoral appointments and prior administration
+      policies (e.g., Tim Kant)—favored developers over citizens, mirroring the Gulf
+      Shores controversy.
 
-      - Article 2 provides evidence of the systemic failure and deep political corruption
-      underlying this promised collapse: The Council/Mayor is depicted as a privileged
-      class ("good ole boy ''Catalyst'' council") whose policies led directly to critical
-      infrastructure failures (water, electricity) and unsustainable financial burdens
-      (the $3 billion bridge estimate vs. the alleged earlier budget). This proves
-      Article 1''s fear of a system prioritizing "developers" over "public servants"
-      is accurate.
+      *   Article 2 confirms that administrative changes (new Mayor concentrating
+      on changing P&Z membership) were necessary to settle pending lawsuits inherited
+      from past administrations accused of ignoring public concerns regarding zoning
+      violations.
 
 
       KEY ENTITIES
 
-      - Arthur Corti: Former figure linked to entitlement statements in Fairhope planning.
+      *   Arthur Corti
 
-      - Senator Pittman: Referenced regarding receiving $636,000 in BP money while
-      acting as "trustee."
+      *   Hollie MacKellar
 
-      - Hollie MacKellar: Planning Commissioner who provided the only ''NO'' vote
-      at a 2016 meeting against development.
+      *   Senator Pittman
 
-      - Jennifer Fidler: Fairhope Public Works commissioner/staff member accused of
-      being a "puppet" for the Mayor in Article 1.
+      *   City Council / City Councilmen
 
-      - Jack Burrell: Council President, linked to major cost overruns (bridge from
-      $600M to $3B) and lack of planning regarding Airport debt ($8 million).
+      *   Fairhope Planning and Zoning Commission
 
-      - CATALYST: Political organization/group cited as financing and supporting the
-      "good boy" development-embracing council.
+      *   Jennifer Fidler (Former Fairhope Staff, City Council Member)
 
-      - Fairhope City Council: The collective body accused of being controlled by
-      or working for the Mayor on corrupt deals.'
-    generated_at: '2026-07-17T20:36:35.373515Z'
+      *   Tim Kant (Former Mayor of Fairhope cited as precedent for developer-favored
+      zoning)
+
+      *   Pete Sims (Vocal "messenger" or resident opposition)
+
+      *   The Enclave / The Regency Club (Gulf Shores apartment projects used as historical
+      parallel)'
+    generated_at: '2026-07-17T20:36:35.373489Z'
+  catalyst-does-fairhope:
+    brief: 'THE CONFLICT: What happened in the past?
+
+      • On February 5, 2016, Arthur Corti made an entitlement speech at the Fairhope
+      Planning meeting regarding large-scale residential development projects (approx.
+      500 apartments) in areas including Rock Creek, Montrose, Plantation Pines, The
+      Woodlands, and Parker Road.
+
+      • Residents of Fly Creek expressed concern over traffic, property values, and
+      development near damaged Fly Creek.
+
+      • Allegations surfaced that a "corrupt inside deal" existed between Angelo Corte
+      (the developer) and the Mayor’s office regarding the project''s approval.
+
+
+      THE DISCOVERY: What does the second article prove or reveal today?
+
+      • The second article identifies former Mayor Tim Kant as key in supporting Angelo
+      Corte’s development interests through City Council actions during his administration.
+
+      • It confirms that taxpayers funded infrastructure (Fire Station on Parker Road;
+      sewer lift station above Fly Creek) which was specifically built to service
+      and tie into the apartments owned by Corte/Fly Creek Apartments.
+
+      • The article reveals that Mayor Tim Kant authorized, late in his administration,
+      a "gift" of wetlands/land from Angelo Corte to the City of Fairhope—this land
+      is positioned to receive all water draining from the Publix property (developed
+      by Corte) directly into Fly Creek.
+
+
+      THE PIVOT: Why is Article 2 the ''smoking gun'' for Article 1?
+
+      • Article 1 claimed an inside deal existed where infrastructure benefited entitled
+      developers at taxpayer cost; Article 2 names Mayor Tim Kant and Angelo Corte,
+      proving this was systemic favoritism.
+
+      • It moves beyond general complaints by showing specific transactions: The City
+      received liability ("gift" of drainage land) while the taxpayers paid for specialized,
+      high-cost infrastructure (sewer lift station/fire station) necessary to support
+      private residential profit at Fly Creek.
+
+
+      KEY ENTITIES: List specific names, organizations, or locations to mention
+
+      • Arthur Corti / Angelo Corte
+
+      • Tim Kant (Former Mayor)
+
+      • Fairhope City Council
+
+      • CATALYST (Political Organization)
+
+      • Hollie MacKellar (Planning Commissioner)
+
+      • Fly Creek
+
+      • Parker Road
+
+      • Rock Creek / The Woodlands / Plantation Pines Subdivisions
+
+      • Publix Property
+
+      • Fire Station on Parker Road
+
+      • Sewer Lift Plant/Station'
+    generated_at: '2026-07-17T20:36:35.373482Z'
