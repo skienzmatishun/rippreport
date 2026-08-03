@@ -9,7 +9,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A wooden gavel rests on its matching block on a desk, with blurred stacks of papers and a courtroom-style railing visible in the background
+alttags: A wooden gavel rests on its matching block on a desk, with blurred stacks
+  of papers and a courtroom-style railing visible in the background
 related_articles:
 - slug: now-you-know-jack
   title: NOW! YOU KNOW JACK
@@ -71,6 +72,11 @@ related_articles:
   llm_score: 65
   recency_score: 7.069962087837917
   rank: 10
+summary: Continuing our coverage of municipal tyranny, Council President Jack Burrell
+  faces full accountability for trampling citizen constitutional rights. Federal lawsuit
+  filings reveal how city hall used public funds to target whistleblowers and incite
+  costly employee litigation. Justice is finally calling Burrell's bluff in a court
+  of law.
 ---
 PRESS RELEASE:FOR IMMEDIATE RELEASE FOR MORE INFORMATION
 

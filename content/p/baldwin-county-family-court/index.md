@@ -9,7 +9,8 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: Black silhouette of a balance scale with two hanging pans and a central vertical support
+alttags: Black silhouette of a balance scale with two hanging pans and a central vertical
+  support
 related_articles:
 - slug: catalyst-queen-remember-family-court
   title: CATALYST QUEEN - REMEMBER FAMILY COURT
@@ -68,7 +69,8 @@ related_articles:
   category_score: 0
   rank: 8
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 57.91301970063263
   llm_score: 70
   recency_score: 44.565098503163114
@@ -81,6 +83,11 @@ related_articles:
   recency_score: 35.69580588555647
   category_score: 0
   rank: 10
+summary: Judge Michelle Thomason turned the local family court into a lucrative racket
+  that prioritized connected lawyers over vulnerable children. Whistleblower complaints
+  and court files detail how officials ignored psychological reports and allowed illegal
+  records grabs. Our investigation drags this cozy judicial scheme out into the open
+  light.
 ---
 Just when you thought there was no hope for the Baldwin County Family Court, Judge Thomason announces she is running for Court of Appeals position vacated by Craig Pittman who is retiring. Of course another court will inherit her incompetence but at least she won’t be making decisions about the welfare of children. It should be expected if she looses the election Nov. 2018, she probably will re run for her present position again. Judge Thomason will use the republican party to retaliate against any opponent or have them eliminated all together from running, she has a track record of dirty politics, and is loved by the good ole boys.
 

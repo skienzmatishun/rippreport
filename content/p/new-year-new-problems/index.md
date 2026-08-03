@@ -12,7 +12,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: White text reading HAPPY above black text with a yellow outline reading 2018? set against a multicolored fireworks background
+alttags: White text reading HAPPY above black text with a yellow outline reading 2018?
+  set against a multicolored fireworks background
 related_articles:
 - slug: fauxhope-party-before-country-or-city
   title: FAUXHOPE - PARTY BEFORE COUNTRY OR CITY
@@ -74,6 +75,11 @@ related_articles:
   llm_score: 65
   recency_score: 0.7355339498494264
   rank: 10
+summary: Continuing our coverage of local political games, Jack Burrell and his council
+  allies started the year by sabotaging municipal progress once again. Documents reveal
+  procedural tricks and suspicious votes designed to block transparency and push shady
+  zoning deals on Greeno Road. The Ripp Report exposes how these bad actors keep bringing
+  back the same corrupt playbook.
 ---
 Fairhope entered the new year hoping there would be change and cooperation among the City Council and the Mayor. The City Council has wasted an entire year trying to obstruct the newly elected Mayor and her administration. They are now faced with the city council president being sued for preventing free speech.
 

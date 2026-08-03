@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Scattered strips of yellow, green, purple, and white confetti against a solid blue background
+alttags: Scattered strips of yellow, green, purple, and white confetti against a solid
+  blue background
 related_articles:
 - slug: dirty-little-secrets
   title: DIRTY LITTLE SECRETS
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on the Fly Creek development scandal, local officials disregarded
+  city zoning laws to line the pockets of favored developers. Court records and meeting
+  transcripts expose how staff intentionally omitted mandatory land use criteria to
+  force approval. The Ripp Report reveals how dedicated citizens fought back against
+  the machine to secure a rare legal win.
 ---
 Never Ever give up. The Ripp Report has been reporting, and going to court, related to the Publix project before the Mayor or any of the Council were elected in Fairhope. The present council refused to take any action on behalf of the citizens, which they could have done, involving the Fly Creek Apartments. The council explained there was nothing they could do to stop the apartments or enforce any of the city’s ordinances that may amend the approved MOP Site Plan.
 

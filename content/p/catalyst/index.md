@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A red circle with a diagonal slash overlaid on the black text CATALYST against a white background
+alttags: A red circle with a diagonal slash overlaid on the black text CATALYST against
+  a white background
 related_articles:
 - slug: fairhope-sold-to-the-highest-bidder
   title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our investigation into systemic obstruction, the Catalyst faction
+  on council repeatedly sabotaged city budgets to serve wealthy special interests.
+  Leaked records expose direct deals between airport board members and political operatives
+  demanding million-dollar private hangars. We break down the corrupt machine pulling
+  the strings behind city hall.
 ---
 Sorry for a repeat article. Eye procedures have prevented me from seeing, however this particular post has become more factual, since the General Election.
 

@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: A large, smooth pearlescent sphere resting on an ornate gold stand with three curved feet against a plain white background
+alttags: A large, smooth pearlescent sphere resting on an ornate gold stand with three
+  curved feet against a plain white background
 related_articles:
 - slug: bury-the-body
   title: BURY THE BODY
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell and his allies secretly engineered a scheme
+  to suppress voter turnout on a critical reform ballot. Internal communications reveal
+  a calculated effort to stall democratic votes and deflect blame onto innocent city
+  staff. Can you see right through their desperate attempts to cling to power?
 ---
 The Fairhope election to vote on change of government has been delayed to the same day as the general election, November 6th. The vote is for the citizens of Fairhope only. On the day of the election all 7 polling places in Fairhope will be open for the general election. Each location will have a separate room or location, where a separate polling booth and poll pad will be located exclusively for the Fairhope vote. That way people voting in the general election, who reside in Fairhope city limits, will be able to vote in the general election and the separate ballot for the Fairhope vote on change of government, in the same location.
 

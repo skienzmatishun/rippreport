@@ -19,7 +19,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Blue silhouette of a woman with hands on hips holding a black balance scale. The figure wears a long garment and stands on a base
+alttags: Blue silhouette of a woman with hands on hips holding a black balance scale.
+  The figure wears a long garment and stands on a base
 related_articles:
 - slug: catalyst-justice
   title: CATALYST JUSTICE
@@ -101,6 +102,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local political bosses weaponized a violent assault trial to wage an unethical
+  smear campaign against the Mayor. Transcripts reveal that city prosecutors deliberately
+  suppressed medical evidence and concealed key details to protect a favoured businessman.
+  How many more victims will suffer before citizens demand accountability from this
+  corrupt courtroom setup?
 ---
 The Fairhope City Council has bullied the Mayor at Council meetings and other public venues. The first council meetings of this council’s term, were disgraceful. The “leadership” of the bulling was headed by Council President Jack Burrell, who refuses to share the Council President chair, and is supported by Councilmen Boone and Brown. Councilmen Conyers and Robinson were mute, but complicit.
 

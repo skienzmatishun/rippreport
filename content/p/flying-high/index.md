@@ -11,7 +11,8 @@ tags:
 - robert-brown
 authors:
 - ripp-report
-alttags: Airplane wing view from above clouds, symbolizing a standstill in Fairhope financial discussions and ongoing obstruction
+alttags: Airplane wing view from above clouds, symbolizing a standstill in Fairhope
+  financial discussions and ongoing obstruction
 related_articles:
 - slug: do-your-job-pass-the-budget
   title: DO YOUR JOB, PASS THE BUDGET
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council leaders looted municipal accounts and protected airport interests
+  while dragging Fairhope deep into debt. Financial logs reveal secret land buys,
+  skipped public hearings, and massive contracts handed directly to insider friends.
+  See where your hard-earned tax dollars actually landed when these politicians flew
+  off the radar.
 ---
 Well after a few weeks rest from Chucky Cheese and his creative articles, gleamed from information provided by Mr Jack Burrell, Catalyst and Robert Brown, Chucky has delivered another non article.
 

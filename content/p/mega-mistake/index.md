@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A white sign for the South Alabama Mega Site displays its name, QR code, and contact details. A yellow diamond road sign in the foreground reads OOPS!
+alttags: A white sign for the South Alabama Mega Site displays its name, QR code,
+  and contact details. A yellow diamond road sign in the foreground reads OOPS!
 related_articles:
 - slug: shovel-ready
   title: SHOVEL READY
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Building on our mega-money investigation, Lee Lawson and county commissioners
+  wasted fifty million dollars on a vacant, useless industrial site. Meeting minutes
+  prove officials authorized millions more in public spending without securing a single
+  tenant or signed contract. How long will taxpayers fund this outrageous scheme before
+  demanding accountability?
 ---
 You are going to have to get a free Lagniappe or pay to go on line to read this story. It is obvious that Baldwin County has a media drain. Lagniappe and the Ripp Report appear to be the only sources willing to report news. There is other media but the articles published are “fluff” or so mundane and lacking of any back story, that the reader can make little sense out of the content.
 

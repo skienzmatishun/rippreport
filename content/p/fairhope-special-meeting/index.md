@@ -8,7 +8,8 @@ tags:
 - burrell
 authors:
 - ripp-report
-alttags: A composite image showing a donkey standing in profile with Jack Burrells head superimposed over its neck against a white background
+alttags: A composite image showing a donkey standing in profile with Jack Burrells
+  head superimposed over its neck against a white background
 related_articles:
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
@@ -70,6 +71,11 @@ related_articles:
   llm_score: 85
   recency_score: 1.7482142590033594
   rank: 10
+summary: Our ongoing exposure of council trickery uncovers why Jack Burrell called
+  an early morning emergency meeting to bypass city oversight. Meeting agendas and
+  financial receipts show a desperate effort to fund private legal defense and hide
+  six-figure employee settlements. What were these politicians trying to hide before
+  the public woke up?
 ---
 Jack Burrell is calling a special meeting on Friday the 29th at 8:00 am.
 

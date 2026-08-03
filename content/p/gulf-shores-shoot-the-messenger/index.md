@@ -94,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Our ongoing coverage of bad development reveals city officials routinely
+  ignore public outrage to push high-density apartment deals for favored developers.
+  Planning commission filings and citizen lawsuits detail how municipal boards bypassed
+  zoning rules without giving residents proper notice. Unbridled corporate greed is
+  rapidly destroying the coastal neighborhood character.
 ---
 Gulf Shores Mayor and Council are acting the same way the previous Mayor of Fairhope, Tim Kant, acted involving the controversy of the Fairhope Fly Creek Apartments. The Mayor and his buddy developer ignored the sentiments of the community. It cost the Mayor his job as well as a few councilman. The collateral effect in Fairhope resulted in firings, retirements and resignations of over a dozen employees, who needed to go.
 

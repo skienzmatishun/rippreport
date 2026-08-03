@@ -8,7 +8,8 @@ tags:
 - ethics-commission
 authors:
 - ripp-report
-alttags: A white directional road sign with a black border points left, displaying the word Corruption in bold letters against a blurred blue sky
+alttags: A white directional road sign with a black border points left, displaying
+  the word Corruption in bold letters against a blurred blue sky
 related_articles:
 - slug: corruption-is-legal-in-america
   title: CORRUPTION IS LEGAL IN AMERICA
@@ -70,6 +71,11 @@ related_articles:
   llm_score: 75
   recency_score: 4.053946025012058
   rank: 10
+summary: Ethics Director Tom Albritton and state power brokers exploited their positions
+  to line their own pockets with trust funds and public money. Court filings and financial
+  records reveal systemic self-dealing protected by a compromised enforcement board.
+  This report exposes how deeply a political disease infected the state's highest
+  offices.
 ---
 WELCOME TO ALABAMA
 

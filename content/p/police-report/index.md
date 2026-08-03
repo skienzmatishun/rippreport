@@ -8,7 +8,8 @@ tags:
 - burrell
 authors:
 - ripp-report
-alttags: Blurred police car lights suggest investigation into allegations surrounding Jack Burrell and legal incidents in Fairhope
+alttags: Blurred police car lights suggest investigation into allegations surrounding
+  Jack Burrell and legal incidents in Fairhope
 related_articles:
 - slug: bonus-money
   title: BONUS MONEY
@@ -90,6 +91,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City Council members buried a troubling police report to protect their president
+  from public exposure. Leaked documents expose how officials ignored legal red flags
+  and funded private ethics defenses with public money. Uncover the buried facts that
+  Fairhope officials tried so hard to hide from voters.
 ---
 A DOCUMENT FOR CATALYST
 

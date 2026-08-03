@@ -88,6 +88,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A biased local newspaper editor pushed political propaganda to shield corrupt
+  city council members from public outrage. Internal emails confirm back-door communications
+  fed one-sided stories directly to the press to mislead residents. Read on to see
+  how fake news protected corrupt power.
 ---
 CHUCKEE CHEEZE what a sleaze! You have cost the City of Fairhope a lot of money with your one sided biased reporting. The one side is that of Catalyst, the Good ole boys, special interest and elected officials and Judges who are more concerned with their interest than those of the city.
 

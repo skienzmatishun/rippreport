@@ -67,6 +67,11 @@ related_articles:
   llm_score: 65
   recency_score: 0.37798075181147806
   rank: 10
+summary: Council leadership weaponized city subpoenas to gather evidence for friendly
+  litigants suing the municipality for cash payouts. Internal municipal files prove
+  politicians pushed hidden resolutions to channel taxpayer dollars straight into
+  personal legal settlements. The Ripp Report uncovers the secret deals happening
+  right under the public's nose.
 ---
 The recent US Senate primary statistics indicate 84% of Fairhope eligible voters decided NOT to participate or vote.
 

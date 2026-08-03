@@ -9,7 +9,8 @@ tags:
 - chucky
 authors:
 - ripp-report
-alttags: Two faceless 3D figures in gray shirts stand side by side. The figure on the left covers its eyes, while the figure on the right covers its ears
+alttags: Two faceless 3D figures in gray shirts stand side by side. The figure on
+  the left covers its eyes, while the figure on the right covers its ears
 related_articles:
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE
@@ -81,6 +82,11 @@ related_articles:
   recency_score: 0.06636151172920161
   category_score: 0
   rank: 10
+summary: Following up on our media censorship investigation, local power brokers continue
+  turning a blind eye to severe public corruption in Fairhope. Federal court filings
+  and insider documents prove how officials used sealed records and media stooges
+  to bury a major airport scandal. How long can Chuckee and his political masters
+  pretend they hear no evil?
 ---
 You would think an editor of a newspaper would look at the video and be able to understand the subject at hand, Not Chuckee! Makes ya wonder what he knows about freedom of the press!
 

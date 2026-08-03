@@ -12,7 +12,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Two yellow school buses are parked on a paved lot, overlaid with scattered one hundred dollar bills
+alttags: Two yellow school buses are parked on a paved lot, overlaid with scattered
+  one hundred dollar bills
 related_articles:
 - slug: goat-hill-piggy-bank
   title: GOAT HILL PIGGY-BANK
@@ -94,6 +95,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local politicians stuck taxpayers with massive school bills while letting
+  rich developers walk away scot-free. Audit trail files expose millions in diverted
+  tax money pocketed for political slush funds instead of classrooms. Uncover the
+  dirty tax game forcing families to foot the bill for billionaire buddies.
 ---
 Tax, tax and re-tax that is the bottom line for Baldwin County. The developers pay no or little impact fee for their projects which ends up costing you, the taxpayer, to make up the difference in the cost of Schools, Streets/Transportation and Education.
 

@@ -87,6 +87,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A prominent politician used questionable property deals and tax swaps to
+  line his political coffers at taxpayer expense. Land records show a bizarre property
+  transaction where the mortgage far exceeded the actual purchase price. Follow the
+  paper trail to see who really benefited from this shady property transaction.
 ---
 ASK CHRIS! Public records from the Probate office, record, Mr. Elliott, and his wife, purchased property, from Christopher G Stradtman Jan 3, 2018, in Elberta on Key Hole Rd. This “waterfront priority” property is valued at $290,000 dollars.
 

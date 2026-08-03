@@ -68,7 +68,8 @@ related_articles:
   category_score: 0
   rank: 7
 - slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns '
   score: 52.79601192856934
   llm_score: 67
   recency_score: 0.17407753570064635
@@ -91,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Three city councilmen silenced public input to force through suspicious real
+  estate deals and drain municipal utility reserves. Meeting logs expose how council
+  leaders ignored critical environmental risks while rushing costly land purchases
+  behind closed doors. True community power begins when voters stand up against arrogant
+  council blockades.
 ---
 First let me apologize for not getting out the Wonderful Wednesday and for the delay of Freaky Friday this week. The Ripp Report has been following many different issues throughout the County and this last week was especially busy.
 

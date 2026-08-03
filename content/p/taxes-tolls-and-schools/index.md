@@ -10,7 +10,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Two yellow school buses parked on asphalt are overlaid with multiple scattered US hundred-dollar bills against a cloudy sky
+alttags: Two yellow school buses parked on asphalt are overlaid with multiple scattered
+  US hundred-dollar bills against a cloudy sky
 related_articles:
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on our bridge investigation, Governor Kay Ivey and Senator Chris
+  Elliott pushed massive tolls and fuel taxes to pay for years of state mismanagement.
+  Financial trail documents show how politicians diverted BP settlement millions away
+  from local communities while forcing taxpayers to foot the bill. We reveal the true
+  cost of their reckless tax deals.
 ---
 Get ready Baldwin County it is going to get a lot more expensive to live in Baldwin County.
 

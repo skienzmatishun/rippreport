@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Close-up of a person with dark hair and earrings, showing one eye against a blurred indoor background featuring a laptop
+alttags: Close-up of a person with dark hair and earrings, showing one eye against
+  a blurred indoor background featuring a laptop
 related_articles:
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope City Council members and their attorney conspired to hijack a legal
+  municipal referendum using shady legal loopholes. Records show how political operatives
+  systematically orchestrated election delays to rob citizens of their right to vote.
+  The Ripp Report exposes how these bad actors operate behind closed doors when they
+  think nobody is watching.
 ---
 The Fairhope Special Election, Oct. 3, was canceled due to a technicality, and a lot of help from people related to Catalyst, Tim Can’t and the good ole boys. The Fairhope City Council Attorney, Marcus McDowell is working overtime to assist the Council, not the Mayor and not the city. Marcus is a direct descendant of the same law firm that has been on the Fairhope payroll for over 20 years. He is a Jack Burrell appointment, backed by the council and approved by Catalyst. The council refused to even consider any other law firm, they knew Marcus would have their back.
 

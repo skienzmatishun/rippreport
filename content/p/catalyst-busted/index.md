@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A blurred photograph of a police car at night with flashing blue and red emergency lights on the roof and illuminated headlights
+alttags: A blurred photograph of a police car at night with flashing blue and red
+  emergency lights on the roof and illuminated headlights
 related_articles:
 - slug: dont-let-the-door-hit-you-in-the-ass
   title: DON’T LET THE DOOR HIT YOU IN THE ASS
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Self-serving lawmakers pocketed disaster recovery funds while funneling lucrative
+  city contracts to their political allies. New evidence proves that state leaders
+  quietly siphoned off hundreds of thousands of dollars meant for public recovery
+  efforts. Read our full report to see how deep the insider trading really goes.
 ---
 Randy Davis, State Representative, Daphne, since 2002 is about as a good ole boy as they get. Originally Davis was going to run for the Probate Judge for Baldwin County then suddenly pulled out of the race. Catalyst Candidate Lynn Perry took his spot. Now we know why Randy got cold feet.
 

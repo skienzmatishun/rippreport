@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: A simple cartoon drawing of two large white eyes with black pupils and small white highlights, set against a solid orange background
+alttags: A simple cartoon drawing of two large white eyes with black pupils and small
+  white highlights, set against a solid orange background
 related_articles:
 - slug: banned-from-the-mall
   title: BANNED FROM THE MALL
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corrupt state politicians rely on blind voter loyalty to strip away government
+  accountability and protect their own power. Records show how the sudden removal
+  of key corruption prosecutors opened the floodgates for unchallenged political abuse.
+  The Ripp Report exposes how blind party allegiance destroys real accountability.
 ---
 Alabama has been electing only Republicans for years, regardless of that candidates credentials, just as long as he or she is a republican. The straight ticket voters, unwittingly, are responsible for electing corrupt officials who simply rode the straight ticket into office.
 

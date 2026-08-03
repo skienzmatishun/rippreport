@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: A close-up of a black keyboard with a prominent red key labeled PANIC in white capital letters
+alttags: A close-up of a black keyboard with a prominent red key labeled PANIC in
+  white capital letters
 related_articles:
 - slug: hell-yea
   title: HELL YEA
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Desperate council members launched a targeted campaign to intimidate city
+  leadership and censor public debate. Federal court filings detail how corrupt machine
+  bosses panicked when state authorities shattered their legal cover-up. Our ongoing
+  investigation lays bare the utter chaos driving city hall's latest power grab.
 ---
 The Catalyst Fairhope Council may be in it’s last days. The Council and the council’s legal representative has been asleep at the wheel. Instead of checking out all the legal ramifications of a change of government they selected to remain silent on the matter. They got bad advise and thought the decisions were that of the council and they were in control. WRONG the citizens are in control and Catalyst is worried.
 

@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Red circle with a diagonal slash through it, blocking the word CATALYST, referencing opposition discussed in the FREAKY ...
+alttags: Red circle with a diagonal slash through it, blocking the word CATALYST,
+  referencing opposition discussed in the FREAKY ...
 related_articles:
 - slug: catalyst-players
   title: CATALYST PLAYERS
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A corrupt cabal of politicians waged war on the public interest to enrich
+  private developers and land magnates. Official files expose how insiders intentionally
+  botched legal cases and forced out police leaders to secure control. Our investigation
+  breaks down the true cost of their ruthless war against ordinary citizens.
 ---
 [Read today's FREAKY FRIDAY](https://cdn.rippreport.com/wp-content/uploads/2018/05/catalystvsthepeople.pdf)
 

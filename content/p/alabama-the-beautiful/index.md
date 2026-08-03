@@ -8,7 +8,8 @@ tags:
 - moore
 authors:
 - ripp-report
-alttags: A green outdoor sign with white lettering reading Welcome to Sweet Home Alabama, marking the state of Alabama
+alttags: A green outdoor sign with white lettering reading Welcome to Sweet Home Alabama,
+  marking the state of Alabama
 related_articles:
 - slug: corruption-is-legal-in-america
   title: CORRUPTION IS LEGAL IN AMERICA
@@ -80,6 +81,11 @@ related_articles:
   recency_score: 6.336116722150677
   category_score: 0
   rank: 10
+summary: Following up on our pandemic corruption investigation, powerful state officials
+  and local council members continue sabotaging ethics oversight to shield their political
+  allies from prosecution. Whistleblower complaints and internal agency correspondence
+  expose a systemic cover-up stretching from Montgomery down to Fairhope. The Ripp
+  Report connects the dots between state-level greed and local municipal rot.
 ---
 Yesterday Alabama stood on the side of Country before party. Some think the party and straight ticket voting is the only answer, regardless of allegations. Truth is this is the core problem and bad politicians get elected this way. The party will cover up crimes hinder investigations and deny deny deny before admitting the party members guilt.
 

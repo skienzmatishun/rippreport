@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A waving American flag and a central fountain dominate a sunlit public park. Lush trees and flower beds surround the scene under a clear blue sky
+alttags: A waving American flag and a central fountain dominate a sunlit public park.
+  Lush trees and flower beds surround the scene under a clear blue sky
 related_articles:
 - slug: fauxhope
   title: FAUXHOPE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Former city leadership squandered millions on bad property deals while ignoring
+  failing municipal sewer systems. Building on earlier reports, newly uncovered grant
+  files show how politicians diverted environmental cleanup money into backroom settlements.
+  Uncover the real truth behind the city's self-congratulatory infrastructure claims.
 ---
 After many years, countless meetings, most very boring, perseverance, and well written proposals, Fairhope will finally see serious BP money.
 

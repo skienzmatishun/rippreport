@@ -9,7 +9,8 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: Close-up of printed text displaying a dictionary definition for the word ethics, with visible fragments including ethics. noun and moral principles
+alttags: Close-up of printed text displaying a dictionary definition for the word
+  ethics, with visible fragments including ethics. noun and moral principles
 related_articles:
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
@@ -81,6 +82,11 @@ related_articles:
   recency_score: 0.3163221263058459
   category_score: 0
   rank: 10
+summary: Trip Pittman, Jack Burrell, and Ray Hix walked away clean after the Alabama
+  Ethics Commission quietly dismissed serious corruption complaints against them.
+  Internal records and whistleblower claims expose how commission leadership turned
+  a blind eye to massive self-dealing schemes. The Ripp Report reveals why these political
+  jokers treat state ethics laws like a total punchline.
 ---
 The Ripp Report is no longer operating as a non profit. It will operate as a cooperation in the future. The change allows The Ripp Report more latitude when it comes to endorsing and supporting candidates for office.
 

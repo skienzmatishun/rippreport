@@ -71,6 +71,10 @@ related_articles:
   llm_score: 35
   recency_score: 57.65547745791634
   rank: 10
+summary: Continuing our investigation, career politicians are hurling mud to distract
+  from their own thirty-five million dollar failures. Government audits expose how
+  both political factions traded favors while squandering public funds on failed projects.
+  Hypocrisy rules the day when both sides share the same dirty hands.
 ---
 Qualifications for the mid-term elections in Baldwin County are final on February 9th at 5:00 pm. Baldwin County residents need to reject the incumbents and Catalyst candidates.
 

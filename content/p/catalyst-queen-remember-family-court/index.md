@@ -9,7 +9,8 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: Judge Michelle Thomason depicted wearing a crown and black attire, linked to concerns about her court and Catalyst organiz...
+alttags: Judge Michelle Thomason depicted wearing a crown and black attire, linked
+  to concerns about her court and Catalyst organiz...
 related_articles:
 - slug: catalyst-judges
   title: CATALYST JUDGES
@@ -19,7 +20,8 @@ related_articles:
   category_score: 0
   rank: 1
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 75.7405807647737
   llm_score: 85
   recency_score: 81.20290382386844
@@ -81,6 +83,10 @@ related_articles:
   recency_score: 19.590273629747017
   category_score: 0
   rank: 10
+summary: A ruthless family court judge exploited vulnerable parents to enrich political
+  cronies and advance her judicial career. Hundreds of citizen complaints expose systematic
+  judicial misconduct and backroom favoritism that ripped families apart. We shine
+  a bright light on the dark court system that destroyed local families for profit.
 ---
 Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott “baby” Boone. The first client that Catalyst signed up was none other than Judge Michelle Thomason.
 

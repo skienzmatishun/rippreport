@@ -6,7 +6,8 @@ categories:
 - sunday-sermon
 authors:
 - admin
-alttags: Black-and-white photograph of a church interior showing rows of wooden pews facing double doors, with a large pipe organ on an upper balcony and arched ...
+alttags: Black-and-white photograph of a church interior showing rows of wooden pews
+  facing double doors, with a large pipe organ on an upper balcony and arched ...
 related_articles:
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Self-righteous political operatives hid their fraudulent business deals behind
+  a fake wall of religious virtue and moral outrage. Court files reveal hidden corporate
+  entities, bid-rigging schemes, and buried police reports linked to these self-proclaimed
+  moral leaders. Exposing political hypocrites remains our highest mission.
 ---
 FAIRHOPE MEMBER
 

@@ -88,6 +88,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: County officials raided school tax dollars to subsidize a vacant multi-million-dollar
+  industrial gamble. Following up on recent reports, contract records demonstrate
+  that board members pushed unvetted promises while debt piled up. We expose the corporate
+  welfare scheme hiding behind flashy press releases.
 ---
 Here we go again, a lot of hot air and no results. Baldwin County Economic Development Alliance, BCEDA, sounds important doesn’t it? The CEO Lee Lawson sure can blow smoke when it comes to the mega site or when he is recruited by politicians that want a “third party” to back up one of their schemes.
 

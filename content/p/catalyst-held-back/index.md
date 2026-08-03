@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Red circle with a slash through the word Catalyst, symbolizing the group’s limited success in Baldwin County elections
+alttags: Red circle with a slash through the word Catalyst, symbolizing the group’s
+  limited success in Baldwin County elections
 related_articles:
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A secretive political machine tried to buy Baldwin County elections with
+  huge stacks of dark money. Campaign finance logs expose how special interests poured
+  massive fortunes into bought candidates to capture local power. Read how voters
+  finally checked this corrupt group at the ballot box.
 ---
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters.
 

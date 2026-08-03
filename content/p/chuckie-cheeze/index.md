@@ -13,7 +13,8 @@ tags:
 - tatumville
 authors:
 - ripp-report
-alttags: A close-up of the horror movie doll Chucky with red hair, blue eyes, and a stitched mouth, wearing blue overalls while making a middle finger gesture
+alttags: A close-up of the horror movie doll Chucky with red hair, blue eyes, and
+  a stitched mouth, wearing blue overalls while making a middle finger gesture
 related_articles:
 - slug: the-chucky-cheeze-and-jack-burrell-show
   title: THE CHUCKY CHEEZE AND JACK BURRELL SHOW
@@ -85,6 +86,10 @@ related_articles:
   recency_score: 47.33381668370766
   category_score: 0
   rank: 10
+summary: A local newspaper editor abandoned all journalistic standards to print propaganda
+  for a dark money political group. Leaked city documents and financial records link
+  the paper directly to backroom deals by corrupt insiders. Can the public ever trust
+  local media again after this massive betrayal?
 ---
 April fools joke? No sadly this is how journalism is portrayed in Baldwin County. We have no print media coverage on the eastern shore, only bad tabloid news. Baldwin County has had some very good journalist, Connie Baggett and Mike Odom were two of the best. What we have been left with is more than embarrassing, it is a travesty of free speech and journalism.
 

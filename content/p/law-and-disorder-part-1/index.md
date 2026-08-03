@@ -6,7 +6,8 @@ categories:
 - bcso
 authors:
 - ripp-report
-alttags: Yellow caution tape with black text reading CRIME SCENE DO NOT CROSS angled across a blurred ground background
+alttags: Yellow caution tape with black text reading CRIME SCENE DO NOT CROSS angled
+  across a blurred ground background
 related_articles:
 - slug: law-and-disorder-part-2
   title: LAW and DisORDER - Part 2
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 10
+summary: City council leadership pulled strings with local police to sweep a chaotic
+  late-night raid involving minors under the rug. Official records expose special
+  treatment by law enforcement while hiding the council president's past criminal
+  history. The Ripp Report exposes the double standards protecting Fairhope's political
+  elite from public shame.
 ---
 The Fairhope City Council has had blinders on when it comes to accountability and transparency. Leadership by the Council President is non-existent. In fact, Council President Jack Burrell has fully disgraced his position and the City of Fairhope and should immediately resign.
 

@@ -6,7 +6,8 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: Five black silhouettes of standing figures against a white background, with the central figure showing visible suit collar and tie details
+alttags: Five black silhouettes of standing figures against a white background, with
+  the central figure showing visible suit collar and tie details
 related_articles:
 - slug: catalyst-sheriff
   title: CATALYST SHERIFF
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A secret network of political insiders operated behind closed doors to sabotage
+  Fairhope officials and steal public control. Documents reveal how local council
+  members funneled internal information to media outlets to orchestrate targeted political
+  attacks. We uncover the dirty tactics used to dismantle honest local leadership.
 ---
 Baldwin County, especially Fairhope has been run by a shadow government, for many years. Good ole boys that only answer to each other, all connected by the bond to rule within. Call it Catalyst or Gumbo, referred to as the South Baldwin arm of Catalyst. Gumbo convinced Jeff Boyd to throw David Northcutt under the bus, after he had spent weeks telling us what a poor choice Elliott was. Elliott was the choice of CATAYST, the Shadow Government.
 

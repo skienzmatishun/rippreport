@@ -9,7 +9,8 @@ categories:
 - alabama
 authors:
 - ripp-report
-alttags: A winding asphalt road curves along a steep cliff edge with dry soil, overlooking distant mountains under a blue sky
+alttags: A winding asphalt road curves along a steep cliff edge with dry soil, overlooking
+  distant mountains under a blue sky
 related_articles:
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
@@ -91,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State ethics officials and legal watchdog agencies completely abandoned their
+  duty, allowing systemic corruption to run wild across Alabama. Financial documents
+  reveal how key regulators received private tuition payouts and provided get-out-of-jail-free
+  advisory letters to political allies. Why are corrupt politicians allowed to drive
+  state government straight off a cliff?
 ---
 Alabama is number 1 in political corruption. This is costing every citizen in the state, however most are blind or indifferent to the loss of tax dollars associated with political corruption. Many citizens resist any new taxes for education or infrastructure, claiming to be fiscally conservative or being fiscally responsible, all the while being robbed by elected officials.
 

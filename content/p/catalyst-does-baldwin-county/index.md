@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Red circle with a slash through the word CATALYST, symbolizing opposition to the political group discussed in the article
+alttags: Red circle with a slash through the word CATALYST, symbolizing opposition
+  to the political group discussed in the article
 related_articles:
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our look into shadow politics, Chris Elliott and his Catalyst
+  handlers attempted to seize total control over county decisions. Campaign records
+  and insider documents show how a secretive cabal coordinated attacks against independent
+  local leaders. Read on to uncover how this political cartel tried to turn our local
+  government into their personal playground.
 ---
 One of the architects of Catalyst, Chris Elliott, is now going down and dirty on his run off for the State Senate Seat 32. Elliott gave up his County commission seat, even sold his business, in what he thought was a shoe in. He is bought and paid for, Goat Hill already owns his ass.
 

@@ -15,7 +15,8 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: A historical photograph of Big Head Gully overlaid with a black-and-white line drawing of a person bending over the edge
+alttags: A historical photograph of Big Head Gully overlaid with a black-and-white
+  line drawing of a person bending over the edge
 related_articles:
 - slug: big-heads
   title: BIG HEADS
@@ -87,6 +88,10 @@ related_articles:
   recency_score: 0.4092373591718279
   category_score: 0
   rank: 10
+summary: Continuing our investigation, corrupt officials keep forcing taxpayers to
+  take the fall for greedy development plans. Records show a key board chairman held
+  dual leadership roles to secretly approve questionable sewer waivers. We pull back
+  the curtain on this outrageous institutional betrayal.
 ---
 The Fairhope City Council is the worst council in the history of the community. Public trust, oath of office and conflict of interest are ignored and leadership is non existent. Their primary goal has been to obstruct the Mayor in any way possible. The Mayor’s office has been reduced to 2500 dollars for discretionary funds, the previous administration was allocated 15 thousand dollars, make no mistake you are the loser.
 

@@ -13,7 +13,8 @@ tags:
 - sheriff-mack
 authors:
 - ripp-report
-alttags: Chris Elliott and David Northcutt, candidates in a runoff election, pose for a photo amid campaign activity
+alttags: Chris Elliott and David Northcutt, candidates in a runoff election, pose
+  for a photo amid campaign activity
 related_articles:
 - slug: catalyst-candidate-elliott-panic-mode
   title: CATALYST CANDIDATE ELLIOTT - PANIC MODE
@@ -95,6 +96,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: As our coverage deepens, Chris Elliott amassed a massive campaign war chest
+  by selling his vote to dark money groups. Financial disclosures show hundreds of
+  thousands flowing from special interest lobbyists straight to his political machine.
+  We expose the price tag attached to Baldwin County's political integrity.
 ---
 All you Roy Moore fans take notice: DUI, Chris Elliott sucking up to Doug Jones, you know the Democrat. Elliott has sold his soul and is in panic mode, he will do anything to advance his personal and political ambitions. Elliott is starting out to be worse than Pittman, please spare us the grief vote David Northcutt July 17th run off.
 

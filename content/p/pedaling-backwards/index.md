@@ -10,7 +10,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Black silhouette of a person riding a bicycle toward the right, with motion blur streaks indicating backward movement against a white background
+alttags: Black silhouette of a person riding a bicycle toward the right, with motion
+  blur streaks indicating backward movement against a white background
 related_articles:
 - slug: honey-bees
   title: HONEY BEES
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell and his coalition forced a multi-million dollar
+  legal settlement on taxpayers while misrepresenting the deal as a park purchase.
+  Court papers and municipal contracts expose a calculated scheme to cover up a disastrous
+  lawsuit loss with a fancy bike trail proposal. Discover how local officials turned
+  a total courtroom failure into a costly public victory parade.
 ---
 The Fairhope City Council is in full re-election mode, for 2020, and are trying desperately to accomplish anything they can claim for a victory. So far, going on three years, they have yet to produce anything they can claim as a major accomplishment.
 

@@ -11,7 +11,8 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Three red circles with white X marks inside, arranged horizontally on a white background
+alttags: Three red circles with white X marks inside, arranged horizontally on a white
+  background
 related_articles:
 - slug: gold-mine-for-sale
   title: GOLD MINE FOR SALE
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope council members secretly handed over millions in public land to
+  favor wealthy developers. Financial paper trails prove three politicians pushed
+  through high-priced land deals without voter approval. Read on to see why three
+  strikes must mean these insiders are finally out.
 ---
 If you attended or watched on YouTube, the 3 hour and 34 minute Fairhope City Council meeting, May 29th, then there should be no doubt in your mind how dysfunctional the Council is. It makes no difference what attorneys, city staff, citizens or the Mayor recommend to the council the council does the opposite and acts like a Dictatorship. It is all political and the Fairhope City Council is holding up the progress of the city.
 

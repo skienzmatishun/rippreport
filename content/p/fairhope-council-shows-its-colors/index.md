@@ -87,6 +87,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope Council members blatantly ignored over eight hundred petition signers
+  to protect their own special interest machine. Official documents confirm the council
+  acted on bad legal advice just to sabotage a legitimate citizen referendum. Their
+  true motives become glaringly obvious once you inspect the official paper trail.
 ---
 The present Fairhope City Council is going to try and pull every dirty trick they can to derail the Oct. 2nd election. The City Attorney is carrying out the Catalyst Council’s instructions as we speak. The City Attorney is and has been representing the City Council, not the citizens of Fairhope and not the Mayor.
 

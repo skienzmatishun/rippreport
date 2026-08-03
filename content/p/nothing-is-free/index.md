@@ -11,7 +11,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Overlapping United States one-dollar bills displaying George Washingtons portrait and the word ONE
+alttags: Overlapping United States one-dollar bills displaying George Washingtons
+  portrait and the word ONE
 related_articles:
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our investigation into regional power grabs, State Senator Chris
+  Elliott is pushing legislative deals that strip municipal control from local voters.
+  State records and campaign ledger entries show how backroom horse-trading dictates
+  who gets a piece of public tax revenue. The Ripp Report follows the money behind
+  Baldwin County's newest legislative power play.
 ---
 For the last 15 years one complaint in Fairhope has been consistent. Why do I have to comply with Fairhope municipal regulations when I live outside the city limits and I cannot vote in Fairhope elections?
 

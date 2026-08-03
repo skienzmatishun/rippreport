@@ -11,7 +11,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A sunny park scene in Fairhope, Alabama with a central fountain and green lawn. A large American flag waves on a pole near streetlights
+alttags: A sunny park scene in Fairhope, Alabama with a central fountain and green
+  lawn. A large American flag waves on a pole near streetlights
 related_articles:
 - slug: good-ole-boys-alive-and-well
   title: GOOD OLE BOYS ALIVE AND WELL
@@ -73,6 +74,10 @@ related_articles:
   llm_score: 75
   recency_score: 1.8365887523621547
   rank: 10
+summary: Fairhope's corrupt old guard continues to sacrifice public trust to enrich
+  wealthy developers and political cronies. Courthouse deeds and city council minutes
+  prove how officials accepted wetland parcels and bypassed environmental protections
+  for Fly Creek. Party loyalty always comes before civic duty in Fauxhope.
 ---
 > “While the State of Alabama's total electorate ultimately denied Roy Moore from taking the oath of office as a United States Senator, the City of Fairhope and Baldwin County as a whole, voted for an alleged pedophile and a man twice removed for being unfit to hold office. It should be noted that the City of Daphne voted for the winner, Doug Jones, providing hope for the future. Alabama needs to move away from straight ticket voting. One third of the ballots cast in the election were straight ticket checkoffs. Straight ticket voting is what gave Alabama Roy Moore. Interestingly, with consideration to the heavy black turnout statewide and that Jones received an unprecedented 97 percent of the black vote, one could argue it was straight ticket voting that elected Jones. Moving forward, Jones must appeal to Alabama's total electorate--not just the left; or he won't be re-elected. His term is only for two years, so he has but a little time to acquaint himself with the voters who put him in office. The republicans are going to come at him hard so it will be interesting to see how Jones defines himself once he takes the oath.”
 

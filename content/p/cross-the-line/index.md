@@ -9,7 +9,8 @@ tags:
 - chris-elliott
 authors:
 - ripp-report
-alttags: A close-up of the American flag waving in the wind, showing its blue field with white stars and red and white stripes
+alttags: A close-up of the American flag waving in the wind, showing its blue field
+  with white stars and red and white stripes
 related_articles:
 - slug: catalyst-does-baldwin-county
   title: CATALYST DOES BALDWIN COUNTY
@@ -91,6 +92,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking Catalyst operatives abused public resources and dark money funds
+  to steal local state senate elections. Exposure on social media and campaign finance
+  disclosures expose the vast pay-to-play network backing political insiders. See
+  how far corrupt machine politicians will go when their absolute power is threatened.
 ---
 Mid-Term elections are less than 60 days away. Is Baldwin County going to elect the Catalyst good ole boy, who is bought and paid for, just because he is republican? That is doing the same thing over and over again and expecting a different outcome, that’s insanity.
 

@@ -12,7 +12,8 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: 'A cartoon illustration of the Chucky doll dragging a brown and white horse with #ME TOO written on its flank'
+alttags: 'A cartoon illustration of the Chucky doll dragging a brown and white horse
+  with #ME TOO written on its flank'
 related_articles:
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE
@@ -74,6 +75,11 @@ related_articles:
   llm_score: 65
   recency_score: 63.63193019587483
   rank: 10
+summary: Following up on our special meeting investigation, Jack Burrell and his tabloid
+  allies launched a smear campaign to protect their power. Internal communications
+  reveal a coordinated effort between council members and media stooges to sabotage
+  mayoral reform and sewer repairs. Read the full scoop on Fairhope's dirtiest media
+  circus.
 ---
 We are talking super stupid, I mean extraordinary ignorance. But I get it, it is part of the moore factor, little m deliberate, the people that will believe fiction for truth.
 

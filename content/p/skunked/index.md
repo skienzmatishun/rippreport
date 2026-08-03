@@ -11,7 +11,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A black and white skunk standing in dry grass with a white stripe down its back
+alttags: A black and white skunk standing in dry grass with a white stripe down its
+  back
 related_articles:
 - slug: crystal-ball
   title: CRYSTAL BALL
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on the government reform battle, the Catalyst political machine
+  filed shady injunctions to stop voters from establishing council districts. Court
+  documents and internal emails prove incumbent council members sabotaged the referendum
+  purely to save their own political seats. Read the shocking evidence showing how
+  corrupt insiders stole your right to equal representation.
 ---
 What started out to be a “Fresh Start for Fairhope” has turned into a political PAC raising money and preparing for the 2020 Fairhope Municipal elections. All their talk and advertising promotes a change of Government for Fairhope, this part of the equation most agree on. A Council Mayor form of government also has a green light. The sticking point is the City Council being At Large or Districts
 

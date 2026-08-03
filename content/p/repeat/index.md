@@ -8,7 +8,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A black circular icon featuring three curved arrows arranged in a clockwise loop
+alttags: A black circular icon featuring three curved arrows arranged in a clockwise
+  loop
 related_articles:
 - slug: switching-hats
   title: SWITCHING HATS
@@ -70,6 +71,10 @@ related_articles:
   llm_score: 70
   recency_score: 1.2722495392642252
   rank: 10
+summary: Our investigation continues to uncover how Jack Burrell and his council majority
+  recycle the same abusive tactics to control city hall. Secret financial logs expose
+  millions in transferred utility funds and non-level public projects managed by crony
+  committees. Discover how the city council keeps hitting replay on taxpayer betrayal.
 ---
 Freaky Friday is a repeat of Jan 1st. Please read carefully the post it is not fiction or a conspiracy theory.
 

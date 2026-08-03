@@ -11,7 +11,8 @@ tags:
 - orange-beach
 authors:
 - ripp-report
-alttags: A cartoon illustration of a pink piggy bank with four gold coins falling into its slot on a white background
+alttags: A cartoon illustration of a pink piggy bank with four gold coins falling
+  into its slot on a white background
 related_articles:
 - slug: look-in-the-mirror
   title: LOOK IN THE MIRROR
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State and county politicians treated local tax dollars like a private wallet
+  to fund state-level special interests. Financial records reveal how officials diverted
+  local education funds and backed massive fuel tax hikes without public approval.
+  We follow the money from Baldwin County straight into Montgomery backrooms.
 ---
 Baldwin County is the piggy-Bank for Goat Hill supported by the same elected officials, we elected, to represent us. The Tax Man Chris Elliott, as a county commissioner, taxed the citizens of Baldwin County without any vote of his constituents. Mr Elliott then raided the 1% school tax to the tune of 200,000 dollars a year, for the county. He is living up to his reputation as the Tax Man by supporting the gas tax, again without any vote by the public. Over 80% of the voters opposed the gas tax. Did our elected officials listen? Hell NO. This is the political plan, tax them right after being elected, because the voters will forget in 4 years.
 

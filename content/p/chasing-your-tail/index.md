@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage of Fairhope’s legal blunders, Council President Jack
+  Burrell and former Mayor Tim Kant dragged the city into an endless loop of costly
+  litigation. Court transcripts prove city leaders created bogus regulations after
+  the fact to block legitimate property development. Discover how council leadership
+  spent eleven years running in circles on the taxpayers' dime.
 ---
 Fairhope is being held back by a City Council that is chasing its tail. The Catalyst, at large council, was successful in derailing any change of government.
 

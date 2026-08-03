@@ -68,6 +68,10 @@ related_articles:
   llm_score: 75
   recency_score: 0.14890915527650286
   rank: 10
+summary: High-ranking state prosecutors turned a blind eye while a prominent senator
+  pocketed hundreds of thousands in spill disaster funds. Financial audits and legislative
+  records detail how political kingmakers protected their cronies from criminal prosecution.
+  How long will voters allow this blatant self-dealing to govern the state?
 ---
 Only 17% of the registered voters in the state, voted in the senate primary. Fairhope had only 14% vote.
 

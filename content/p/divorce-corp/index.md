@@ -8,7 +8,8 @@ tags:
 - thomason
 authors:
 - ripp-report
-alttags: A man in a gray suit and a woman in a black skirt stand on stacks of coins, pulling opposite ends of a rope against a background of scattered dollar bills
+alttags: A man in a gray suit and a woman in a black skirt stand on stacks of coins,
+  pulling opposite ends of a rope against a background of scattered dollar bills
 related_articles:
 - slug: baldwin-county-family-court
   title: BALDWIN COUNTY FAMILY COURT
@@ -74,12 +75,18 @@ related_articles:
   category_score: 0
   rank: 9
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 54.07762382000342
   llm_score: 65
   recency_score: 42.88811910001705
   category_score: 0
   rank: 10
+summary: Judge Michelle Thomason ran a predatory family court racket that enriched
+  insider attorneys at the expense of local children. Court dockets and case records
+  reveal a shocking pattern of ignored perjury, illegally obtained records, and dismissed
+  expert testimony. Discover how this rigged courtroom systematically tore vulnerable
+  families apart for cash.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/REOuslPVZD4" frameborder="0" allowfullscreen></iframe>
 

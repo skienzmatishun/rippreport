@@ -6,7 +6,8 @@ categories:
 - terrible-tuesday
 authors:
 - ripp-report
-alttags: A red triangular warning sign with rounded corners containing a white inner triangle and a black exclamation mark
+alttags: A red triangular warning sign with rounded corners containing a white inner
+  triangle and a black exclamation mark
 related_articles:
 - slug: quid-quo-pro
   title: QUID QUO PRO
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell orchestrated another secret land deal behind
+  closed doors, completely cutting the public out of the decision. Paper trails and
+  rushed special meeting notices expose a scheme that drains municipal savings reserves
+  to cover up bad appraisals. Uncover how political insider dealing directly betrays
+  Fairhope taxpayers.
 ---
 As predicted Mr Jack Burrell plans to make decisions for the whole community without a single public hearing. This is the after hours e-mail, 5:05 pm on a Friday, before a three day vacation. This should prove to you how the entire council, led by Jack Burrell is about to pull off the most rotten trick on Fairhope citizens since the settlement of the triangle lawsuit, Jack was part of that as well.
 

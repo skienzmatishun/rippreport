@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Wooden tiles scattered on a surface, with five arranged to spell the word LOSER
+alttags: Wooden tiles scattered on a surface, with five arranged to spell the word
+  LOSER
 related_articles:
 - slug: see-ya-in-court-jack
   title: SEE YA IN COURT JACK
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell illegally silenced public input at city council
+  meetings to duck personal accountability. Court records show taxpayers paid the
+  massive legal bills for his constitutional violations and failed defenses. Learn
+  how his legal shield completely collapsed in federal court.
 ---
 The Ripp Report is a Non-Profit Consumer Organization. The Ripp Report handles consumer issues, offers consultation on specific issues, family court issues and exposes political corruption. We cannot give legal advice, as we are not attorneys, we can however assist in finding competent attorneys. The intent of our non-profit is to inform the public on numerous issues, political and non political.
 

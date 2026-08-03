@@ -8,7 +8,8 @@ tags:
 - sewer
 authors:
 - ripp-report
-alttags: Vintage beige rubber gas mask with gold metal trim, black corrugated hose, and perforated filter cartridge against a plain white background
+alttags: Vintage beige rubber gas mask with gold metal trim, black corrugated hose,
+  and perforated filter cartridge against a plain white background
 related_articles:
 - slug: wetlands
   title: WETLANDS
@@ -80,6 +81,10 @@ related_articles:
   recency_score: 7.226630806668228
   category_score: 0
   rank: 10
+summary: Former Mayor Tim Kant and Councilman Kevin Boone funneled millions out of
+  the utility fund while raw sewage overflowed across Fairhope. Engineering reports
+  and meeting minutes expose how leaders ignored blatant environmental disasters to
+  shield private developers. We follow the trail of stench right back to City Hall.
 ---
 For years I have witnessed authorities and non-profit environmental groups ignore obvious environmental issues while publicly professing their concerns for the protection of the environment. For example:
 

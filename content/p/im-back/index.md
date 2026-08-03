@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: A sunlit paved driveway forks through a lush, landscaped area with green grass, trees, and shrubs under a clear blue sky
+alttags: A sunlit paved driveway forks through a lush, landscaped area with green
+  grass, trees, and shrubs under a clear blue sky
 related_articles:
 - slug: police-report
   title: POLICE REPORT
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Powerful municipal figures spent millions in taxpayer dollars to line developer
+  pockets and silence investigative reporting. Sealed court filings and airport lease
+  audits document extensive bid-rigging and hidden conflict-of-interest networks.
+  Nothing will stop us from dragging these backroom cabals into the harsh light of
+  day.
 ---
 The Ripp Report is back. Sorry for missing a week but some old injuries caught up with me, I suffered a body concussion in Vietnam, 50 years ago, as a result I have had 14 surgeries, two infections, a muscle tear and my kidney removed, Agent Orange. My operation Dec. 2017, a total reverse shoulder, went well for 4 months, then I discovered slippage in the shoulder. July 20th I had surgery to correct that and discovered that the shoulder was infected. Now I am having to deal with recovery and daily infusions for a month. My other shoulder is scheduled for a total reverse Dec. of this year, providing all current conditions are cleared up. That is my excuse for missing last week posts, it is the first weeks posts that The Ripp Report has missed in several years. So I am back, not quite 100%, but getting better every week.
 

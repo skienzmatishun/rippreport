@@ -8,7 +8,8 @@ tags:
 - mega-site
 authors:
 - ripp-report
-alttags: A white sign on wooden posts reads 3000-Acre Certified South Alabama MEGA SITE with a QR code, contact details, and the Baldwin County seal
+alttags: A white sign on wooden posts reads 3000-Acre Certified South Alabama MEGA
+  SITE with a QR code, contact details, and the Baldwin County seal
 related_articles:
 - slug: cattle-gate-mega-site
   title: CATTLE GATE MEGA-SITE
@@ -80,6 +81,10 @@ related_articles:
   recency_score: 10.20602676551906
   category_score: 0
   rank: 10
+summary: County leaders blew tens of millions on an empty mega-site project while
+  delivering zero real economic growth. Land records and debt filings confirm that
+  years of grand promises yielded nothing more than a rusted cattle gate. See how
+  local economic planners placed our community at the very bottom.
 ---
 Mid term elections will again bring up all the advantages of the Baldwin County Mega site. Politicians, county commissioners and their hacks, all on board with the annual round of promises that the mega site, will soon pay off. Never mind that this is the same story since the purchase in mid 2011.
 

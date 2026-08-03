@@ -8,7 +8,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A black silhouette of a level balance scale with two identical pans suspended from a horizontal beam and central pivot on a white background
+alttags: A black silhouette of a level balance scale with two identical pans suspended
+  from a horizontal beam and central pivot on a white background
 related_articles:
 - slug: fairhope-change-of-government
   title: FAIRHOPE - CHANGE OF GOVERNMENT
@@ -90,6 +91,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: An entrenched good-old-boy council systematically blocked basic rights and
+  representation for minority neighborhoods. City records uncover how politicians
+  funneled millions into pet projects while leaving whole communities behind. We break
+  down the corrupt system keeping ordinary citizens in the dark.
 ---
 {{< socialpreview url="https://www.al.com/opinion/2019/05/karin-wilson-we-need-equal-representation.html" >}}
 

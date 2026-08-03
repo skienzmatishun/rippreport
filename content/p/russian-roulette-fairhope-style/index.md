@@ -6,7 +6,8 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: Black circular graphic with scalloped edges containing six white circles arranged around a central black circle enclosed in a white ring
+alttags: Black circular graphic with scalloped edges containing six white circles
+  arranged around a central black circle enclosed in a white ring
 related_articles:
 - slug: in-the-dark
   title: IN THE DARK
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our probe into city hall mismanagement, former Mayor Tim Kant
+  and council leaders gambled with millions in taxpayer funds on losing court battles.
+  Sworn court testimony reveals how city officials hid massive insurance problems
+  while claiming bad legal deals were actually victories. Find out how close Fairhope
+  came to financial ruin under these corrupt high-stakes gamblers.
 ---
 Fairhope is playing Russian Roulette in court and the city council has not said a word to the general public. The gun is cocked and aimed at the head of the Fairhope council, the absolute worst in 20 years, who is asleep at the wheel.
 

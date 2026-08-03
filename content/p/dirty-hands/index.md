@@ -16,7 +16,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A human hand with brown dirt stains covering the palm and fingers against a white background
+alttags: A human hand with brown dirt stains covering the palm and fingers against
+  a white background
 related_articles:
 - slug: catalyst-bullies
   title: CATALYST BULLIES
@@ -98,6 +99,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A shadow network of city councilmen raided public utility funds to reward
+  campaign allies and fight legal battles. Financial ledgers reveal how millions vanished
+  while critical sewer infrastructure was left to rot. Dive into the details to see
+  whose hands are actually filthy.
 ---
 When it comes to dirty hands, Baldwin County cannot be beat. Our new State Senator the TAX MAN, Elliott, hands are as dirty as they can get. The lottery and taxes Elliott supports does nothing for education. The “Education” Lottery has been dissolved into a lottery to pay past debts of the State, as far back as 2013. Be sure to read the comments for the article below.
 

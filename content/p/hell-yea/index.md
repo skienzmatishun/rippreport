@@ -6,7 +6,8 @@ categories:
 - monday-madness
 authors:
 - ripp-report
-alttags: Black and white line drawing of a distressed person with spiky hair holding their head with both hands
+alttags: Black and white line drawing of a distressed person with spiky hair holding
+  their head with both hands
 related_articles:
 - slug: fairhope-catalyst-a-dirty-little-secret
   title: FAIRHOPE - CATALYST a Dirty Little Secret
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Entrenched council members engaged in ruthless political retaliation to preserve
+  an outdated election system that favors special interests. Sworn court documents
+  demonstrate how corrupt officials actively violated constitutional rights to silence
+  vocal critics. Read on to see how outraged citizens are finally striking back against
+  years of bad behavior.
 ---
 FAIRHOPE CHANGE OF GOVERNMENT
 

@@ -16,7 +16,8 @@ tags:
 - triangle-lawsuit
 authors:
 - ripp-report
-alttags: A crowd of stylized blue, black, and gray human silhouettes arranged in rows facing forward
+alttags: A crowd of stylized blue, black, and gray human silhouettes arranged in rows
+  facing forward
 related_articles:
 - slug: fairhope-state-of-the-city
   title: FAIRHOPE STATE OF THE CITY
@@ -98,6 +99,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell pushed shady multi-million dollar property
+  schemes while shutting taxpayers out of the planning process. Official documents
+  indicate council members arranged questionable land appraisals months before giving
+  any public notice. Discover why their version of public participation is nothing
+  more than a dangerous illusion.
 ---
 Fairhope citizens need to watch the first 30 minutes of the Fairhope Work Session, March 27: The first 15 minutes involves the K-1 Center, the next 15 minutes is discussing a Conservation Easement on the Triangle property 109 acres.
 

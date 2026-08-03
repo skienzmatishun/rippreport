@@ -6,7 +6,8 @@ categories:
 - alabama
 authors:
 - ripp-report
-alttags: A gray circular icon featuring a diagonal black line and two black curved shapes inside the circle
+alttags: A gray circular icon featuring a diagonal black line and two black curved
+  shapes inside the circle
 related_articles:
 - slug: ayatollah-of-alabama
   title: “Ayatollah of Alabama”
@@ -78,6 +79,11 @@ related_articles:
   recency_score: 1.4118433816184552
   category_score: 0
   rank: 10
+summary: Following up on the state party's moral decay, Republican operatives turned
+  a blind eye to Roy Moore’s notorious personal scandals just to retain legislative
+  power. Sworn testimonies and community records detail the disturbing habits that
+  got him banned from local gathering spots years before his federal run. We break
+  down the stark reality behind the candidate Washington politicians tried to hide.
 ---
 Alabama has now reached a new low. From the most political corrupt state to a state that is considering
 

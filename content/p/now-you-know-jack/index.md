@@ -10,7 +10,8 @@ tags:
 - ethics-complaint
 authors:
 - ripp-report
-alttags: Jack Burrell waves in front of a white Legacy 65 jet wearing a yellow and blue costume with red gloves, holding a sign that reads JACK IN THE BOX
+alttags: Jack Burrell waves in front of a white Legacy 65 jet wearing a yellow and
+  blue costume with red gloves, holding a sign that reads JACK IN THE BOX
 related_articles:
 - slug: see-ya-in-court-jack
   title: SEE YA IN COURT JACK
@@ -72,6 +73,11 @@ related_articles:
   llm_score: 65
   recency_score: 2.9180734193940348
   rank: 10
+summary: Council President Jack Burrell manipulated municipal bidding processes to
+  funnel taxpayer money directly to his political allies. City hall records and meeting
+  transcripts reveal secret letters of intent and backroom deals involving disaster
+  cleanup contracts. Taxpayers deserve to know exactly how much this good ole boy
+  network costs them.
 ---
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the wrong road.
 

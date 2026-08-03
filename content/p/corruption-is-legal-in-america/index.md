@@ -8,7 +8,8 @@ tags:
 - ethics-commission
 authors:
 - ripp-report
-alttags: A distressed American flag featuring a blue field of gold stars and alternating red and cream stripes
+alttags: A distressed American flag featuring a blue field of gold stars and alternating
+  red and cream stripes
 related_articles:
 - slug: pandemic-corruption
   title: PANDEMIC CORRUPTION
@@ -80,6 +81,10 @@ related_articles:
   recency_score: 1.7578198077556138
   category_score: 0
   rank: 10
+summary: High-ranking Alabama ethics officials actively protect corrupt politicians
+  instead of holding them accountable. Confidential financial paper trails prove state
+  commission members provided legal cover for systemic self-dealing. The Ripp Report
+  exposes how these political insiders turned state watchdogs into willing accomplices.
 ---
 How do you clean up corruption? Legislatively, or simply vote them out. However one common denominator is the citizens themselves. When elections results show only 17% of the voters are exercising their right to vote, then it is a good indicator political corruption is flourishing.
 

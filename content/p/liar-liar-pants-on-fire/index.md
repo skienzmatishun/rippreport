@@ -10,7 +10,8 @@ tags:
 - ethics-commission
 authors:
 - admin
-alttags: A man in a light blue shirt and glasses reads from papers at a microphone during a legislative meeting. A cartoon flame graphic covers his torso
+alttags: A man in a light blue shirt and glasses reads from papers at a microphone
+  during a legislative meeting. A cartoon flame graphic covers his torso
 related_articles:
 - slug: legal-corruption
   title: LEGAL CORRUPTION
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County legislators ran a shameless self-dealing network that shielded
+  corrupt politicians from criminal prosecution. Financial filings prove high-ranking
+  state officials accepted shady incentives while funneling hundreds of thousands
+  into private company bank accounts. Uncover the exact paper trail that exposes these
+  lying politicians for what they truly are.
 ---
 Baldwin County legislators are having a field day under, puppet Governor, Poison Ivy. Goat Hill is throwing one bill after another in the pot of corruption. The whole time they are playing the Alabama citizens as patsies. Your elected officials are testing the gullibility of the citizens of the State.
 

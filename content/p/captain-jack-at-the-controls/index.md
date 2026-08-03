@@ -12,7 +12,8 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: Airplane cockpit interior with instrument panels, a control yoke, and fuzzy-covered seats, overlooking trees and fountains through the windshield
+alttags: Airplane cockpit interior with instrument panels, a control yoke, and fuzzy-covered
+  seats, overlooking trees and fountains through the windshield
 related_articles:
 - slug: police-report
   title: POLICE REPORT
@@ -94,6 +95,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell manipulated municipal airport leases and traded
+  official favors for personal luxury vacations. Internal board records confirm that
+  airport leaders bypassed legal bidding processes to hand prime locations to favoured
+  insiders. Can anyone stop this rogue politician from steering public assets straight
+  off the cliff?
 ---
 The Fairhope Airport Authority, under control of Fairhope Council President Jack Burrell, continues to raise eyebrows,”What the hell is really going on at the Airport.” Millions of development dollars from federal agencies have expanded the airport with additional runways. Hangers are being offered on long term leases and no specific long range plan has been presented to the public.
 

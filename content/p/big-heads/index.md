@@ -16,7 +16,8 @@ tags:
 - upchurch
 authors:
 - ripp-report
-alttags: A blue stick figure with a large circular head, diagonal arms, and angled legs on a black background
+alttags: A blue stick figure with a large circular head, diagonal arms, and angled
+  legs on a black background
 related_articles:
 - slug: big-head-gully-and-the-fruit-nuts
   title: BIG HEAD GULLY AND THE FRUIT NUTS
@@ -88,6 +89,10 @@ related_articles:
   recency_score: 37.39767520343444
   category_score: 0
   rank: 10
+summary: Local leaders traded away public land near Big Head Gully to benefit connected
+  insider developers. Secret deals and meeting logs prove officials ignored massive
+  sewage spills and public protests to push the project through. Read how corporate
+  greed completely drowned out the voice of taxpayers.
 ---
 Notice: CITY OF FAIRHOPE CITY COUNCIL AGENDA THURSDAY, 15 FEBRUARY 2018 - 6:00 P.M. - CITY COUNCIL CHAMBER
 

@@ -10,7 +10,8 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: A large shark swims through clear blue water surrounded by a school of smaller fish
+alttags: A large shark swims through clear blue water surrounded by a school of smaller
+  fish
 related_articles:
 - slug: black-hole
   title: BLACK HOLE
@@ -82,6 +83,10 @@ related_articles:
   recency_score: 5.50986459802539
   category_score: 0
   rank: 10
+summary: Roy Moore and Luther Strange weaponized state politics while turning a blind
+  eye to illegal BP fund payouts. Court documents and campaign trails expose a deeply
+  compromised political machine scrambling to survive. See how the political sharks
+  quickly circled Alabama's most desperate candidates.
 ---
 Here is the first post I saw this morning:
 

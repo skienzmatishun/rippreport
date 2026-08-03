@@ -15,7 +15,8 @@ tags:
 - robinson
 authors:
 - admin
-alttags: Multiple tightly bundled stacks of US one hundred dollar bills secured with white paper bands and yellow tape, scattered across a light surface
+alttags: Multiple tightly bundled stacks of US one hundred dollar bills secured with
+  white paper bands and yellow tape, scattered across a light surface
 related_articles:
 - slug: happy-days
   title: HAPPY DAYS
@@ -97,6 +98,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State and municipal leaders converted disaster recovery dollars into personal
+  slush funds with total impunity. Public records document how a former state senator
+  siphoned lucrative city contracts using his political trustee position. We break
+  down how systemic backroom deals turned legal oversight into a complete joke.
 ---
 Kyle Whitmire of Al.com has written a series of articles that most people in Alabama will not read. The sad truth is corruption is inbred in Alabama and our elected officials are more interested in special interests than their constituents.
 

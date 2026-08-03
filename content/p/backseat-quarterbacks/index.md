@@ -80,6 +80,11 @@ related_articles:
   recency_score: 5.884333461142748
   category_score: 0
   rank: 10
+summary: Fairhope council members intentionally sabotaged vital municipal projects
+  to cripple the mayor's administration. Meeting logs and budget records show officials
+  rejected cheaper insurance and ignored crumbling infrastructure. The Ripp Report
+  details how petty political revenge cost local taxpayers hundreds of thousands of
+  dollars.
 ---
 Being a Mayor has challenges that most of us cannot relate to. From the mundane to serious issues, everyday brings something different Fairhope’s Mayor Wilson took office with no transition from the last administration. One day she is a businesswomen the next she is Mayor, now that is a learning curve. Her next experience was that the elected City Council went into obstruction mode and made it perfectly clear they would oppose the Mayor’s every effort. The sad thing is that the Council’s actions has hurt the city and they have the dubious reputation of being the worst council in recent history.
 

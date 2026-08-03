@@ -6,7 +6,8 @@ categories:
 - Special-Report
 authors:
 - ripp-report
-alttags: A black-and-white bald eagle head facing right beside an American flag with the yellow text We the People overlaid on the stars and stripes
+alttags: A black-and-white bald eagle head facing right beside an American flag with
+  the yellow text We the People overlaid on the stars and stripes
 related_articles:
 - slug: snakes-in-the-schools
   title: SNAKES IN THE SCHOOLS
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on local political schemes, Chris Elliott traded away millions
+  in school funding to appease his wealthy special interest donors. Financial records
+  reveal massive PAC contributions funneling directly into his bloated campaign fund.
+  Can true government accountability survive when politicians treat public education
+  like a bargaining chip?
 ---
 Penny Sales Tax Debacle
 

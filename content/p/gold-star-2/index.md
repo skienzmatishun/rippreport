@@ -91,6 +91,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on our school funding investigation, City Council members are
+  actively sabotaging local education while funneling cash into pet projects. Public
+  records and budget documents expose how elected leaders prioritized airport expansion
+  over reducing overcrowded classrooms. Read on to see how municipal leaders left
+  thousands of local students out in the cold.
 ---
 Sorry for the delay of Freaky Friday - technical difficulties.
 

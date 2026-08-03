@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Five clenched fists illustrated in black and red outlines against a white background, arranged side by side at varying heights
+alttags: Five clenched fists illustrated in black and red outlines against a white
+  background, arranged side by side at varying heights
 related_articles:
 - slug: people-power-wake-up-gulf-shores
   title: PEOPLE POWER - WAKE UP GULF SHORES
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Municipal leaders bulldozed neighborhood protections and silenced outraged
+  homeowners to enrich wealthy out-of-town developers. Economic studies and meeting
+  transcripts show a reckless disregard for property values and public input. Will
+  grassroots outrage finally force these arrogant politicians out of office?
 ---
 Baldwin County is changing, for the better, when it comes to public participation and citizens standing up to local municipal governments who have traditionally run roughshod over it’s own citizens. In the past small municipalities in Baldwin County did “their own thing”, when it came down to running city government. Mayors and Councils, sometime just the Mayor or just the council, would bully issues and controversial projects, through the process of approval, crying all the time to the citizens, that their was nothing they could do.
 

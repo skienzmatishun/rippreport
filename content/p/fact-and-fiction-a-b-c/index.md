@@ -87,6 +87,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Jack Burrell spun a web of lies to cover up illegal dealings and hide his
+  own law enforcement encounters from voters. Suppressed police files and dark Airport
+  Authority meeting minutes uncover an ongoing effort to scrub public records. Truth
+  replaces political fiction once you examine the official paper trail for yourself.
 ---
 Hard to tell what the truth is these days but some information leaking out, if true, will set Fairhope’s hair on fire.
 

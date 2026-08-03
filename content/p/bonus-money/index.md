@@ -10,7 +10,8 @@ tags:
 - fairhope-airport
 authors:
 - ripp-report
-alttags: A black silhouette of a hand gripping a money bag, featuring a white dollar sign centered on the bag
+alttags: A black silhouette of a hand gripping a money bag, featuring a white dollar
+  sign centered on the bag
 related_articles:
 - slug: airport-diversion
   title: AIRPORT DIVERSION
@@ -82,6 +83,11 @@ related_articles:
   recency_score: 49.45487298761609
   category_score: 0
   rank: 10
+summary: Following up on the Airport Authority scandal, Jack Burrell orchestrated
+  secret payouts to former employees using public funds to buy silence. Confidential
+  financial audits and closed-door vote transcripts detail how unapproved bonuses
+  were laundered through secret executive sessions. The Ripp Report brings light to
+  the shady financial schemes hidden behind closed doors.
 ---
 The good ole boy tabloid, the Courier, with assistance from the editor Chucky Cheeze, have produced another spin article that they expect to end the allegations of wrong doing at the Fairhope Airport. WRONG First off Chucky keeps calling me a blogger and ignoring that The Ripp Report has been around for over ten years and is a non profit corporation, consumer watchdog organization. But what the hell if I call him Chucky Cheeze he can call me a blogger.
 

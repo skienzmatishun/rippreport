@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Powerful state representatives walked away with hundreds of thousands in
+  public funds while minor players faced federal charges. Our investigation continues
+  as financial trails show how connected politicians manipulated ethics rules to escape
+  criminal prosecution. Can justice ever prevail when the corrupt get to write their
+  own rules?
 ---
 “According to court records filed Friday, State Rep. Randy Davis of Daphne is attempting to avoid prosecution from federal conspiracy and bribery charges through pretrial diversion regarding an indictment unsealed in Montgomery last year.”
 

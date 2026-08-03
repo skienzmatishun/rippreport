@@ -14,7 +14,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Aerial view showing Highway 98 and Parker Road intersection in Fairhope, potentially impacted by new apartment development
+alttags: Aerial view showing Highway 98 and Parker Road intersection in Fairhope,
+  potentially impacted by new apartment development
 related_articles:
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
@@ -86,6 +87,11 @@ related_articles:
   recency_score: 38.96658299571869
   category_score: 0
   rank: 10
+summary: City officials traded public environmental protections for developer perks
+  to push high-density apartment complexes through council meetings. Official minutes
+  and land transfer records reveal how insider deals stuck residents with severe infrastructure
+  costs. Our sharp-eyed investigation exposes who actually profited from destroyed
+  wetlands.
 ---
 The Ripp Report has called on the Baldwin county Legal Eagle to dispatch the Eagle for a bird’s eye view of what developers do not want you to see. The Kant Corte Apartments on Fly Creek are busy clearing the property for the Apartments and their entrance and exit.
 

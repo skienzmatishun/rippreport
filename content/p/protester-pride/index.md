@@ -8,7 +8,8 @@ tags:
 - moore
 authors:
 - ripp-report
-alttags: A black silhouette illustration of a group of people holding protest flags and signs against a white background
+alttags: A black silhouette illustration of a group of people holding protest flags
+  and signs against a white background
 related_articles:
 - slug: ayatollah-of-alabama
   title: “Ayatollah of Alabama”
@@ -70,6 +71,11 @@ related_articles:
   llm_score: 70
   recency_score: 10.518287316771712
   rank: 10
+summary: Continuing our coverage of disgraced Judge Roy Moore, political bosses pushed
+  an ousted magistrate who repeatedly broke his sworn oath onto local voters. Leaked
+  campaign schedules and constitutional filings reveal how national party hacks ignored
+  glaring legal disqualifications to stage local rallies. Will local citizens allow
+  party elites to parade disgraced officials through their backyard without a fight?
 ---
 The Moore and Bannon show did not count on any protesters, no they thought everyone would just roll over as usual. Wrong, and thank God for it. Fairhope should be proud that many women in Baldwin County did not allow themselves to be silenced and exercised their constitutional right to peacefully protest the candidacy of Roy Moore. Please note I said Roy Moore because he is not a judge, he lost that job twice, by violating his oath of office.
 

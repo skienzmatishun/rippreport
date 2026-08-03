@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Fishing rod and reel against a white background, reflecting the articles theme of taking time off for fishing instead of ...
+alttags: Fishing rod and reel against a white background, reflecting the articles
+  theme of taking time off for fishing instead of ...
 related_articles:
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 8.75
   category_score: 0
   rank: 10
+summary: Fairhope political insiders abandoned their sworn public duties while pulling
+  dirty strings behind closed doors. Official records reveal how key officials ducked
+  critical public forums to quietly push a dark agenda. The Ripp Report exposes what
+  these hypocrites hid while pretending to be off the clock.
 ---
 No FREAKY FRIDAY today, gone fishing.
 

@@ -6,7 +6,8 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: 'A black steam locomotive with gold trim flies through a blue sky, emitting smoke and sparks. A sign reads City'
+alttags: A black steam locomotive with gold trim flies through a blue sky, emitting
+  smoke and sparks. A sign reads City
 related_articles:
 - slug: citizens-fighting-back
   title: CITIZENS FIGHTING BACK
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our investigation into county development, local planners are
+  allowing reckless growth to steamroll right over local infrastructure. Internal
+  reports reveal how uncoordinated zoning decisions and private sewer deals created
+  a ticking time bomb for coastal residents. Can anyone stop this out-of-control machine
+  before our communities completely collapse?
 ---
 I apologize that The Ripp Report missed the last two Wonderful Wednesday’s, we should be back on schedule by the first of the new year.
 

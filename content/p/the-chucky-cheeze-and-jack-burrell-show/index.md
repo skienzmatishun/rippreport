@@ -11,7 +11,8 @@ tags:
 - sullivan
 authors:
 - ripp-report
-alttags: A close-up of the Chucky doll making a middle finger gesture, with a cutout of Boone Burrell in a black and yellow striped shirt superimposed on the left
+alttags: A close-up of the Chucky doll making a middle finger gesture, with a cutout
+  of Boone Burrell in a black and yellow striped shirt superimposed on the left
 related_articles:
 - slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
   title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
@@ -73,6 +74,11 @@ related_articles:
   llm_score: 65
   recency_score: 4.804503694165815
   rank: 10
+summary: Councilman Jack Burrell and his council allies colluded with local media
+  hacks to orchestrate fraudulent lawsuits designed to undermine the Mayor of Fairhope.
+  Financial ledgers and secret settlement demands detail a coordinated campaign aimed
+  at draining municipal funds for political revenge. This blatant abuse of municipal
+  power reveals the dark side of local governance.
 ---
 Well Chucky Cheeze and “come fly with me” Burrell have come up with their new hit piece on the Mayor of Fairhope. They are reminding the general public of their support for fired employees and how they support the same employees lawsuits that are seeking 100,000 dollars from the city of Fairhope. Councilmen Jay Robinson abstained on voting for a settlement for Sherry Sullivan due to his close family friendship with her. This was the right thing to do but what about the rest of the council? Boone Burrell and Brown, the three B’s, have wholeheartedly supported Sullivan. Fact is many believe that they encouraged those fired to sue the city in order to push their anti-Mayor campaign. The three B’s are also very close friends with Sullivan and also should have abstained.
 

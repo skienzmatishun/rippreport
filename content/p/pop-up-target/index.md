@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A red and white concentric circle target graphic centered on a plain white background
+alttags: A red and white concentric circle target graphic centered on a plain white
+  background
 related_articles:
 - slug: back-stabber
   title: BACK STABBER
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Our investigation continues into Council President Jack Burrell, who drafted
+  secret letters of intent to secure backroom property deals. Confidential correspondence
+  proves council leaders worked frantically to suppress competitive bids and keep
+  the mayor in the dark. We break down the precise moments where secretive politics
+  turned into legally binding corporate handshakes.
 ---
 Jack Burrell is like a pop up target. He is involved in one controversy after the other. The newest “sketchy and secretive” project is the K-1 Center. I eluded to it in the last post under B.
 

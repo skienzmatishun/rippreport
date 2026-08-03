@@ -10,7 +10,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A wooden gavel rests on its sound block on a dark table, with blurred stacks of white papers in the background
+alttags: A wooden gavel rests on its sound block on a dark table, with blurred stacks
+  of white papers in the background
 related_articles:
 - slug: see-ya-in-court-jack
   title: SEE YA IN COURT JACK
@@ -72,6 +73,11 @@ related_articles:
   llm_score: 65
   recency_score: 60.404318271535175
   rank: 10
+summary: Continuing our exposure of Fairhope's legal circus, Jack Burrell and the
+  city council repeatedly wasted millions of taxpayer dollars on frivolous settlements
+  and lost land disputes. Court dockets and executive session records reveal a toxic
+  pattern of circumventing public hearings to payoff political allies and suppress
+  free speech. We lay bare the staggering bill left behind by council reckless litigation.
 ---
 Fairhope City Council has decided to pay fired employees rather than going to court, so we the public never know the whole truth surrounding the firing in the first place. Remember it was the council who came to the defense of the those fired, they then assisted them in their efforts to sue the city. Ultimately, in executive session the same council votes to pay up. It’s only insurance money, but we pay the insurance.
 

@@ -82,6 +82,11 @@ related_articles:
   recency_score: 25.27530217272481
   category_score: 0
   rank: 10
+summary: Continuing our coverage of municipal sabotage, Jack Burrell held the city
+  budget hostage to protect his airport buddies and secret payouts. Financial records
+  and executive session logs confirm the council quietly funneled tax dollars into
+  sealed settlements for fired insiders. Demand to know where your hard-earned tax
+  dollars are really going!
 ---
 Sorry I did not get Freaky Friday published last week, It was a real freaky for me. I had a total reverse shoulder operation in Birmingham veteran hospital, my 13th shoulder operation since Vietnam, on Friday. The first three days of recovery are no fun and the drug fog does not allow you to think. I hope to recover fast enough that I may be able to give a special Christmas present to a well deserving recipient.
 

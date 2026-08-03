@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Lagniappe Weekly logo with large purple serif text reading Lagniappe, a vertical dotted line, and smaller purple text spelling Weekly vertically on white
+alttags: Lagniappe Weekly logo with large purple serif text reading Lagniappe, a vertical
+  dotted line, and smaller purple text spelling Weekly vertically on white
 related_articles:
 - slug: chuckie-cheeze
   title: CHUCKIE CHEEZE
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Lagniappe implemented an online paywall just as local officials and Lee Lawson
+  moved to mismanage millions in public land deals across Baldwin County. Records
+  show how key media outlets ignored massive government scandals while suppressing
+  critical news from the taxpayers paying for these blunders. The Ripp Report exposes
+  what local papers tried to hide behind a paywall.
 ---
 This is an endorsement not an advertisement. By that I mean no one is paying the Ripp Report to endorse Lagniappe. Lagniappe has become the only publication that is not considered a coupon paper. The Mobile paper has little to offer with more fluff stories than real investigative reporting. The Sunday Paper is $3.00, over $150.00 a year just for Sunday.
 

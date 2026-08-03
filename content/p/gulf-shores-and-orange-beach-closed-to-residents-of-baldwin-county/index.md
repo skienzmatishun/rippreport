@@ -11,7 +11,8 @@ tags:
 - jeff-boyd
 authors:
 - ripp-report
-alttags: Condo buildings line a beach in Orange Beach/Gulf Shores, illustrating rapid development discussed in the article
+alttags: Condo buildings line a beach in Orange Beach/Gulf Shores, illustrating rapid
+  development discussed in the article
 related_articles:
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Expanding on coastal corruption, local mayors and Chris Elliott pushed unchecked
+  condo developments while ignoring massive infrastructure breakdowns. Public records
+  expose insider real estate deals that prioritize developer profits over public access.
+  Discover how greedy politicians are cutting off taxpayer access to our own public
+  shores.
 ---
 Make no mistake Orange Beach and Gulf Shores are committed to unbridled development. Chris Elliott and Tucker Dorsey,
 

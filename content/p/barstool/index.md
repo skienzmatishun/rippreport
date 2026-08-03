@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A side-view 3D model of a table with a circular red underside and a metallic support frame, isolated against a white background
+alttags: A side-view 3D model of a table with a circular red underside and a metallic
+  support frame, isolated against a white background
 related_articles:
 - slug: mcsharry-madness
   title: McSHARRY MADNESS
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Powerful city officials actively protected a violent bar owner from criminal
+  prosecution to shield their own political interests. Court filings and surveillance
+  footage show prosecutor Marcus McDowell intentionally botched legal paperwork to
+  drop serious assault charges. Read the shocking truth behind the local elite who
+  cover up crimes over drinks.
 ---
 Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan McSharry, drew little more than a paragraph of coverage and little or no print media has covered the story.
 

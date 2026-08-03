@@ -1,5 +1,6 @@
 ---
-title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+  ONE
 date: 2018-07-12
 thumbnail: img/public-service-announcement-alabama-court-of-civil-appeals-judge-place-one.jpg
 categories:
@@ -9,7 +10,8 @@ tags:
 - family court
 authors:
 - ripp-report
-alttags: Illustration depicting a woman in judicial robes and a witch hat standing behind scales of justice
+alttags: Illustration depicting a woman in judicial robes and a witch hat standing
+  behind scales of justice
 related_articles:
 - slug: catalyst-queen-remember-family-court
   title: CATALYST QUEEN - REMEMBER FAMILY COURT
@@ -91,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Our investigation continues into Judge Michelle Thomason, whose reckless
+  family court rulings ripped local children away from their parents. Court records
+  and citizen complaints uncover systemic bias and reckless judicial misconduct. The
+  Ripp Report breaks down how voters rejected the Catalyst Queen's bid for higher
+  office.
 ---
 ALABAMA BEWARE OF THE CATALYST QUEEN
 

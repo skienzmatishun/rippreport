@@ -14,7 +14,8 @@ tags:
 - orange-beach
 authors:
 - ripp-report
-alttags: Two black boot prints with detailed tread patterns are arranged diagonally on a white background
+alttags: Two black boot prints with detailed tread patterns are arranged diagonally
+  on a white background
 related_articles:
 - slug: catalyst-busted
   title: CATALYST BUSTED
@@ -96,6 +97,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State and local politicians diverted critical disaster funds to line their
+  own pockets and fund pet projects. Following up on our investigation, financial
+  records reveal millions in BP settlement funds were quietly siphoned away from public
+  infrastructure. Will anyone finally hold these corrupt leaders accountable for their
+  greed?
 ---
 I do not want the Ripp Report readers thinking I am getting soft for complimenting some of the Baldwin County Mayors, but they deserve it. Fairhope definitely is on the right track and may be debt free by 2020.
 

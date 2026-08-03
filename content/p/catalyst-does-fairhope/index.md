@@ -10,7 +10,8 @@ tags:
 - kant
 authors:
 - ripp-report
-alttags: Black text reading Catalyst is overlaid with a red circle and diagonal line on a white background
+alttags: Black text reading Catalyst is overlaid with a red circle and diagonal line
+  on a white background
 related_articles:
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
@@ -82,6 +83,11 @@ related_articles:
   recency_score: 1.6824291625241752
   category_score: 0
   rank: 10
+summary: Local politicians surrendered city planning to wealthy land developers and
+  stuck ordinary residents with the bill for utility upgrades. Public utility logs
+  and financial records prove that city leaders funneled tax dollars into private
+  apartment projects. Will Fairhope citizens fight back against the political machine
+  taking over their town?
 ---
 Sorry folks about being late for Wonderful Wednesday, which is now FREAKY FRIDAY but I have been in Facebook Jail for three days. The Ripp Report pushed someone’s button and they complained to Facebook who took us offline for three days to investigate the complaint. Catalyst has no sense of humor.
 

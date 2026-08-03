@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A small brown frog sits on a metal pot handle, with the blurred interior of the cooking vessel in the background
+alttags: A small brown frog sits on a metal pot handle, with the blurred interior
+  of the cooking vessel in the background
 related_articles:
 - slug: going-down
   title: GOING DOWN
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City planners rammed high-density apartment developments through approval
+  without giving residents a chance to speak. Continuing our coverage, internal traffic
+  studies prove officials knew these developments would paralyze key local intersections.
+  Discover how local officials slowly trapped taxpayers in an infrastructure nightmare.
 ---
 “The boiling frog is a fable describing a frog being slowly boiled alive. The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water which is then brought to a boil slowly, it will not perceive the danger and will be cooked to death.”
 

@@ -9,7 +9,8 @@ tags:
 - pittman
 authors:
 - ripp-report
-alttags: Two hands covered in thick black oil, palms facing upward against a rough surface
+alttags: Two hands covered in thick black oil, palms facing upward against a rough
+  surface
 related_articles:
 - slug: blood-in-the-water
   title: BLOOD IN THE WATER
@@ -81,6 +82,10 @@ related_articles:
   recency_score: 18.044508835680173
   category_score: 0
   rank: 10
+summary: Power-hungry politicians skimmed massive disaster relief funds intended to
+  repair coastal damage and save local businesses. State audit papers and contract
+  filings expose a cozy network of local leaders divvying up millions in BP settlement
+  cash. We trace every dollar from the Gulf cleanup straight into insider pockets.
 ---
 Senate candidate, and BP contractor, Trip Pittman could not get the oil off him. He was rejected by his constituents and barely got 7% of the vote. Many in Baldwin County predicted he would receive less than 10%, they were right.
 

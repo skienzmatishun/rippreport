@@ -29,7 +29,8 @@ related_articles:
   category_score: 100
   rank: 2
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 65.79130132366383
   llm_score: 66
   recency_score: 88.64345860381478
@@ -92,6 +93,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Political brokers successfully installed puppet judges to bend the local
+  court system to their own will. Court transcripts and ethics reports uncover illegal
+  eviction orders and ignored state safety laws that led to tragedy. Learn how political
+  loyalties replaced actual justice inside Baldwin County courtrooms.
 ---
 Alabama has a proud legal system ripe with attorneys who plan a career as a judge. In Baldwin and Mobile Counties, there is a specified gateway to the sought-after bench. It is called an appointment. When a judgeship is vacated, typically before the term ends, challengers also submit themselves to the closed committees and the approval of presiding judges and the glorious appointment is made. There is then a silent rule among the attorneys and judges. Sitting Judges, even the appointed ones, shall NOT be challenged in elections.
 

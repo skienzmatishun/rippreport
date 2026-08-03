@@ -8,7 +8,8 @@ tags:
 - mega-site
 authors:
 - ripp-report
-alttags: Close-up of a brown and white cow with its mouth open, looking at the camera. Other cattle are visible in the green field background
+alttags: Close-up of a brown and white cow with its mouth open, looking at the camera.
+  Other cattle are visible in the green field background
 related_articles:
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
@@ -80,6 +81,10 @@ related_articles:
   recency_score: 10.460810480314583
   category_score: 0
   rank: 10
+summary: County officials squandered tens of millions in taxpayer funds on an empty
+  plot of land that yields zero returns. Government memos and land records reveal
+  how commissioners hid massive losses behind empty promises. What went wrong with
+  this multi-million dollar waste of public resources?
 ---
 The Ripp Report has written about the Baldwin County Mega-site numerous times. In May last year we had an update on it’s sales status, nothing new.
 

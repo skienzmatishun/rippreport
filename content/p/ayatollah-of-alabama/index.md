@@ -80,6 +80,11 @@ related_articles:
   recency_score: 22.404902018468416
   category_score: 0
   rank: 10
+summary: Our investigation into Roy Moore continues as institutional leaders attempted
+  to whitewash a career defined by constitutional violations and predatory scandals.
+  Official judicial removal records and Senate committee warnings outline the unprecedented
+  institutional pushback against his Senate bid. Uncover how grassroots outrage exposed
+  the moral hypocrisy running rampant through the state political machine.
 ---
 Roy Moore disqualified himself long before the sexual allegations were levied at him, by multiple and creditable sources. Moore violated his oath of office, twice, and was removed from office for violating the same constitutional rights he swore to protect. Yet he uses the same Constitution as his rally cry for votes. This is a fact not fake news, yet some voters are willing to overlook Moore’s defiance for the law, putting party first, at all costs.
 

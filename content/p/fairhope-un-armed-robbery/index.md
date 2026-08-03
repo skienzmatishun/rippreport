@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: As our investigation into city land theft continues, Jack Burrell and Diana
+  Brewer orchestrated a multi-million-dollar land heist under the guise of conservation.
+  Internal correspondence confirms council members traded public assets for perpetual
+  control by outside interests without citizen approval. Will Fairhope citizens let
+  political bandits steal their future?
 ---
 Fairhope is being robbed of 20 million dollars and 106 acres of land. The bandits are The Weeks Bay Foundation and their collaborative partners the Fairhope City Council.
 

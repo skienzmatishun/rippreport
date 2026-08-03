@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Senator Tripp Pittman stands with his hand on his hip, wearing a blue plaid shirt and looking seriously at the camera
+alttags: Senator Tripp Pittman stands with his hand on his hip, wearing a blue plaid
+  shirt and looking seriously at the camera
 related_articles:
 - slug: green-acres-on-acid
   title: GREEN ACRES ON ACID
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Senator Tripp Pittman skimmed hundreds of thousands in BP disaster funds
+  meant for coastal recovery in Baldwin County. Paper trails reveal how uncertified
+  contracts funneled public cleanup cash straight into private business accounts.
+  Uncover the full story behind his quiet exit from public life.
 ---
 The infamous BP Sen. Tripp Pittman is finally leaving Baldwin County political life, covered in BP oil, and a legacy that is as dark as the oil.
 

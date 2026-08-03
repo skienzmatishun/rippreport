@@ -11,7 +11,8 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: A person wearing a black and white skunk costume with a hood, gloves, and tail stands against a plain white background
+alttags: A person wearing a black and white skunk costume with a hood, gloves, and
+  tail stands against a plain white background
 related_articles:
 - slug: catalyst-birds-of-the-same-feather
   title: CATALYST  “BIRDS OF THE SAME FEATHER”
@@ -83,6 +84,11 @@ related_articles:
   recency_score: 9.45237541324223
   category_score: 0
   rank: 10
+summary: A ruthless political machine orchestrated the mass firing of key county staff
+  to secure total institutional control. Corporate filings and email trails expose
+  a hidden web of shell companies tied directly to greedy insiders. Read our full
+  investigation to see how this political syndicate hijacked county government for
+  personal profit.
 ---
 County Commission place three has three candidates trying to run over the skunk of the County Commission, Tucker Dorsey. Democrat Heather Brown and Republicans Will McDaniel and Billy Joe Underwood.
 

@@ -8,7 +8,8 @@ tags:
 - ethics-commission
 authors:
 - ripp-report
-alttags: A red prohibition sign over a handshake where one hand holds a green dollar bill featuring a dollar sign
+alttags: A red prohibition sign over a handshake where one hand holds a green dollar
+  bill featuring a dollar sign
 related_articles:
 - slug: alabama-ethics-a-political-tool
   title: ALABAMA ETHICS, A POLITICAL TOOL
@@ -70,6 +71,10 @@ related_articles:
   llm_score: 75
   recency_score: 2.966438179061387
   rank: 10
+summary: High-ranking state ethics directors siphoned money from charitable trust
+  funds to cover private family expenses. Sworn complaints and financial audits expose
+  unchecked self-dealing at the highest levels of oversight. Uncover the dirty details
+  behind Alabama's most shameless protection racket before they bury the truth.
 ---
 The Alabama Ethics Commission has become the facilitator for corruption in the state, they now want to expand on their role. They want to change existing Ethics laws which would allow things, illegal today, to become legal, all because of the Mike Hubbard conviction.
 

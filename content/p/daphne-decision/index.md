@@ -6,7 +6,8 @@ categories:
 - daphne
 authors:
 - ripp-report
-alttags: Daphne City Hall building with a yellow facade, red-tiled roof, arched entryways, palm trees, and an American flag
+alttags: Daphne City Hall building with a yellow facade, red-tiled roof, arched entryways,
+  palm trees, and an American flag
 related_articles:
 - slug: catalyst-attack
   title: CATALYST ATTACK
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on our Catalyst investigation, political insiders in Daphne
+  moved quickly to stack local government with hand-picked puppets. Documents expose
+  how high-ranking operatives secretly maneuvered candidates into vacant seats to
+  keep total control over Baldwin County. Our investigation exposes the shadow network
+  deciding who really runs local councils.
 ---
 ## NOTICE OF CITY COUNCIL VACANCY
 

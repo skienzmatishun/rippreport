@@ -16,7 +16,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Sunset over a waterfront pier with a paved walkway and large white text reading 2020
+alttags: Sunset over a waterfront pier with a paved walkway and large white text reading
+  2020
 related_articles:
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY
@@ -98,6 +99,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Powerful Fairhope council members engineered political coups and blocked
+  legal settlements to enrich their cronies. Court records and internal communications
+  expose how city officials intentionally dragged out multi-million dollar lawsuits
+  at taxpayer expense. The Ripp Report reveals how this corrupt cabal plotted to hijack
+  the municipal election.
 ---
 Get ready, Fairhope Catalyst Council is making their move to capture the Fairhope general election. Everything and anything in Fairhope is connected to politics. I have said more than once that the major negative in Fairhope is the politics.
 

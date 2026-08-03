@@ -6,7 +6,8 @@ categories:
 - events
 authors:
 - ripp-report
-alttags: Satellite view of Hurricane Harvey over Texas and Louisiana, displaying the storms eye and extensive cloud formation
+alttags: Satellite view of Hurricane Harvey over Texas and Louisiana, displaying the
+  storms eye and extensive cloud formation
 related_articles:
 - slug: backstory-podcast-no-93-delta-hits-baldwin-county
   title: Delta hits Baldwin County
@@ -68,6 +69,11 @@ related_articles:
   llm_score: 40
   recency_score: 4.5234717035402
   rank: 10
+summary: Fairhope politicians used storm disaster recovery as cover to ignore citizen
+  grievances and advance secret airport deals. Investigative timelines and recorded
+  meeting logs show officials shutting down public commentary while handing out lucrative
+  airport hangar leases. We bring you the hidden facts behind this shameless betrayal
+  of public trust.
 ---
 Get down on your knees and pray for the folks in Texas and Louisiana. Thousands of people lost everything and many more thousands will be affected by the devastating effects of flood water.
 

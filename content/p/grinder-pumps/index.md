@@ -10,7 +10,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A damaged grinder pump with a cracked casing and mud-covered impellers sits in shallow water near vegetation
+alttags: A damaged grinder pump with a cracked casing and mud-covered impellers sits
+  in shallow water near vegetation
 related_articles:
 - slug: fairhope-sewer-backstory
   title: FAIRHOPE SEWER BACKSTORY
@@ -72,6 +73,10 @@ related_articles:
   llm_score: 65
   recency_score: 1.0359378713394423
   rank: 10
+summary: Our ongoing investigation exposes how city insiders let connected developers
+  bypass strict sewer rules using cheap equipment. Inspection files demonstrate how
+  these backroom exemptions directly caused environmental contamination in local streams.
+  Is taxpayer money funding another toxic municipal cover-up?
 ---
 Grinder pumps exist all over Baldwin County and a large percentage of them are installed unnecessarily.
 

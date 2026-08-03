@@ -6,7 +6,8 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: The World Trade Center towers in New York City with thick dark smoke plumes rising against a clear blue sky
+alttags: The World Trade Center towers in New York City with thick dark smoke plumes
+  rising against a clear blue sky
 related_articles:
 - slug: shut-up
   title: SHUT UP
@@ -68,6 +69,11 @@ related_articles:
   llm_score: 55
   recency_score: 4.6110604229232885
   rank: 10
+summary: Fairhope City Council President Jack Burrell illegally silenced local citizens
+  during public council meetings to protect his backroom deals. Official records and
+  secret lease documents expose how council leadership weaponized meeting rules while
+  granting shady favors to developers. Why are local officials so terrified of letting
+  everyday residents speak their minds?
 ---
 Hard to believe a week later we are expecting another hurricane, IRMA, headed towards the United States. Landfall is expected in the Miami area and the destructive route may travel through the entire state of Florida. Please pray for those in Irma’s path and be prepared to help those in need as the storm passes.
 

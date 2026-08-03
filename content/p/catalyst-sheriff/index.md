@@ -6,7 +6,8 @@ categories:
 - bcso
 authors:
 - ripp-report
-alttags: Satirical depiction of a police chief in uniform and another figure in handcuffs, referencing Fairhope’s recent events and...
+alttags: Satirical depiction of a police chief in uniform and another figure in handcuffs,
+  referencing Fairhope’s recent events and...
 related_articles:
 - slug: shadow-government
   title: SHADOW GOVERNMENT
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Powerful political operatives quietly turned local law enforcement into a
+  weapon for countywide control. Public records expose secret deals between Sheriff
+  Hoss Mack and shadow handlers seeking total political authority. Can Baldwin County
+  citizens trust a sheriff who answers to political bosses instead of the public?
 ---
 When Police Chiefs or Sheriff’s get wrapped up playing politics, sometimes it bites them in the ass. Just ask the former Police Chief of Fairhope, Bill Press. Maybe you could ask the current Fairhope Police Chief who, today, just announced his retirement after 36 years, Chief Joseph Pettis.
 

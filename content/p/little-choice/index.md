@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A circular campaign button with red and blue sections, each containing five white stars. The center white area displays the word VOTE
+alttags: A circular campaign button with red and blue sections, each containing five
+  white stars. The center white area displays the word VOTE
 related_articles:
 - slug: countdown
   title: COUNTDOWN
@@ -68,6 +69,11 @@ related_articles:
   llm_score: 65
   recency_score: 1.0416298233849144
   rank: 10
+summary: A corrupt political machine stacked the state senate race with compromised
+  candidates who enriched themselves through public office. Election filings and ethics
+  records expose deep financial ties between political action committees and shady
+  disaster trustees. Alabama voters must break free from this relentless cycle of
+  backroom corruption.
 ---
 The US Senate seat sought by a total of 19 candidates, 11 Republicans and 8 Democrats, primary is less than 4 days away.
 

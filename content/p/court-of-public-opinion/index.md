@@ -10,7 +10,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Black silhouette of a balance scale with a thumbs-up hand in the left pan and a thumbs-down hand in the right pan
+alttags: Black silhouette of a balance scale with a thumbs-up hand in the left pan
+  and a thumbs-down hand in the right pan
 related_articles:
 - slug: repeat
   title: REPEAT
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Building on our recent findings, Fairhope insiders are working overtime to
+  hide millions in public debt from local taxpayers. Official records reveal a pattern
+  of illegal executive sessions, unverified architectural payouts, and shadow government
+  maneuvers. We break down the damning evidence that political bosses tried to lock
+  away.
 ---
 In 2017 The Ripp Report covered many different political issues in Baldwin County. Many of these issues will travel into 2018 and raise their ugly head again.
 

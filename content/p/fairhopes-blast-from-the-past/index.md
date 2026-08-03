@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Comic book style explosion representing a blast from the past reshaping Fairhope’s government
+alttags: Comic book style explosion representing a blast from the past reshaping Fairhope’s
+  government
 related_articles:
 - slug: skunked
   title: SKUNKED
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Uncovering Fairhope's political history, Jack Burrell and old-guard politicians
+  manipulated city council structures to retain absolute authority over public assets.
+  Official transcripts and meeting records reveal strategic maneuvers aimed at blocking
+  citizen voting rights and hiding airport deals. Why are these former officials so
+  desperate to cling to power at any cost?
 ---
 The Fairhope’s political Zoo is alive and well. Their is a full blown blast from the past party going on. The party goers are former City Council persons, Catalyst Council persons, three bees, fired employees, employees who quit, a skunk, W.A.C.O am radio, and of course Chucky Cheeze. This blast from the past now wants to reshape Fairhope’s government. They have all failed at their former positions however have united their wisdom to bless the City of Fairhope with their version of “new” government. Uniting their wisdom was necessary.
 

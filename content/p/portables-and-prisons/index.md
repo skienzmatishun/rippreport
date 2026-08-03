@@ -14,7 +14,8 @@ tags:
 - schools
 authors:
 - ripp-report
-alttags: A correctional facility with a tall guard tower, barbed wire fencing, and white modular buildings under an overcast sky
+alttags: A correctional facility with a tall guard tower, barbed wire fencing, and
+  white modular buildings under an overcast sky
 related_articles:
 - slug: faux-tax-gas-tax
   title: FAUX TAX, GAS TAX
@@ -96,6 +97,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corrupt state politicians sold out public schools to special interest lobbyists
+  and foreign gambling cash. Campaign finance reports show millions flowing directly
+  from private interests into key legislative pockets. How long will Alabama let moneyed
+  bosses buy away our children's future?
 ---
 Alabama is the most political corrupt state in the United States. Why? because it is so easy for lobbyist to buy the needed politicians to keep it corrupt.
 

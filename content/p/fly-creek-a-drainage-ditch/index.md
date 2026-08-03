@@ -69,7 +69,12 @@ related_articles:
   llm_score: 70
   recency_score: 22.466369475216847
   rank: 10
-alttags: 'Muddy water flows under a concrete culvert in Fly Creek east of Hwy 98, with grassy banks. Caption: Dec. 27, 2014'
+alttags: 'Muddy water flows under a concrete culvert in Fly Creek east of Hwy 98,
+  with grassy banks. Caption: Dec. 27, 2014'
+summary: City council members traded Fairhope's pristine wetlands for developer payoffs
+  while driving a catastrophic drainage plan forward. Court documents and site plans
+  show councilmen granting illegal extension votes to bypass municipal zoning restrictions.
+  Read the full report to see who profited off the destruction of our natural resources.
 ---
 The Fly Creek Apartments was the subject of a six day trial in Bay Minette. I spent 6 days observing the trial, listening to evidence and legal arguments. It went to trial because our city council let us down and ignored their campaign promises. Mr Adam Milam, the plaintiff's attorney, Friends of Fly Creek, put it best:
 

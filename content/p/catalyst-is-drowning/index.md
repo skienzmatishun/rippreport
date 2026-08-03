@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: A persons hand and forearm emerge from rippling water, with the index finger and pinky extended
+alttags: A persons hand and forearm emerge from rippling water, with the index finger
+  and pinky extended
 related_articles:
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Wealthy developers dumped hundreds of thousands of dollars into local races
+  to buy political favors from desperate candidates. Campaign records reveal massive
+  cash infusions from Montgomery special interest groups attempting to rescue a failing
+  political cartel. Can money buy an election when voters finally see the truth?
 ---
 The People’s Choice almost made a clean sweep of Catalyst. PEOPLE’S CHOICE 2 CATALYST ½
 

@@ -11,7 +11,8 @@ tags:
 - zundel-road
 authors:
 - ripp-report
-alttags: Chainsaw graphic symbolizing forceful action; article advocates for using votes instead to influence political decisions
+alttags: Chainsaw graphic symbolizing forceful action; article advocates for using
+  votes instead to influence political decisions
 related_articles:
 - slug: public-access
   title: PUBLIC ACCESS
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Ambitious local politicians used county machinery and backroom clout to carve
+  up public land for private developers. Hidden corporate filings reveal a tangled
+  web of limited liability companies designed to mask massive self-dealing. Can voters
+  slice through the web of dark money before the next election?
 ---
 It does not take a chain saw, it only takes a vote.
 

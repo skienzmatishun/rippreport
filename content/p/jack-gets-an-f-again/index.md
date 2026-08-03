@@ -11,7 +11,8 @@ tags:
 - k-1-center
 authors:
 - ripp-report
-alttags: Fairhope City Council President Burrell in a suit smiles while wearing a white party hat with DUNCE printed on it
+alttags: Fairhope City Council President Burrell in a suit smiles while wearing a
+  white party hat with DUNCE printed on it
 related_articles:
 - slug: full-plate
   title: FULL PLATE
@@ -93,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell botched a major grant deal for the K-1 property
+  while hiding severe environmental issues from the public. Documents reveal how city
+  leadership ignored critical structural warnings and alternative bids to force their
+  own backroom plan. Why does City Hall keep rewarding total incompetence at taxpayer
+  expense?
 ---
 Fairhope Council President fails, again. The Fairhope City Council rushed into a deal to obtain grant money to purchase the K-1 center. Council president Burrell would not consider any other options or the best use for the K-1 Center. It was his plan or no plan.
 

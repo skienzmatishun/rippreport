@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A glossy, metallic trash can with vertical grooves and a slightly ajar lid featuring a handle
+alttags: A glossy, metallic trash can with vertical grooves and a slightly ajar lid
+  featuring a handle
 related_articles:
 - slug: honey-bees
   title: HONEY BEES
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Completing our look into Fairhope’s land disposal scheme, Jack Burrell manipulated
+  council procedures to surrender twenty million dollars in municipal assets. Documents
+  show how city attorneys and outside lobbyists collaborated behind closed doors to
+  bypass public input and property laws. See how seven years of unchecked power led
+  directly to this massive betrayal.
 ---
 The President of the Fairhope City Council has held on to that title for over 7 years. This is extremely rare, most often Councils share the position of Council President with other Council members. Not Jack Burrell, he has to maintain “control”. His Control has been very costly for the City of Fairhope. His lack of leadership and his favoritism to special interests, CATALYST, is all to apparent.
 

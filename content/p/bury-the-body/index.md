@@ -6,7 +6,8 @@ categories:
 - monday-madness
 authors:
 - ripp-report
-alttags: A close-up of a metal shovel with a yellow handle digging into dry, rocky soil
+alttags: A close-up of a metal shovel with a yellow handle digging into dry, rocky
+  soil
 related_articles:
 - slug: crystal-ball
   title: CRYSTAL BALL
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City officials illegally weaponized legal technicalities to kill a citizen-backed
+  initiative aimed at cleaning up local political corruption. Leaked records expose
+  how council members schemed with private attorneys to cover up their tracks before
+  the public noticed. Discover the dirty political plot that local elites hoped would
+  stay six feet under forever.
 ---
 Last week, I knew that the Fairhope City Council was going to do what ever was necessary to stop the Oct. 2 2018 vote, to change the Government in Fairhope. The Council instructed the City Attorney, aka Council Attorney, to find any loophole he could to delay the election, he did as they instructed. The vote now will join the general election ballot, Nov. 6th 2018.
 

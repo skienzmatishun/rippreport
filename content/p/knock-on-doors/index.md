@@ -8,7 +8,8 @@ tags:
 - baldwin-county-commission
 authors:
 - ripp-report
-alttags: A clenched hand wearing a light blue striped shirt sleeve presses against a dark wooden door
+alttags: A clenched hand wearing a light blue striped shirt sleeve presses against
+  a dark wooden door
 related_articles:
 - slug: shovel-ready
   title: SHOVEL READY
@@ -90,6 +91,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County officials squandered millions on a vacant industrial site
+  while falsely claiming economic growth. Continuing our coverage, internal documents
+  show how development leaders hid job losses and passive sales strategies behind
+  PR spin. Read how their refusal to do real work cost taxpayers millions.
 ---
 There are two types of salesman. The ones that put a sign up and wait for the phone to ring, they usually have the most bravado and produce the least. Then you have the ones that knock on doors, they are used to being turned down however they keep knocking on those doors and are the successful ones.
 

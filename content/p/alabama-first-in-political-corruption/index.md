@@ -6,7 +6,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A gold medal with a large number one, attached to a red, white, and blue striped ribbon
+alttags: A gold medal with a large number one, attached to a red, white, and blue
+  striped ribbon
 related_articles:
 - slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
   title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: High-ranking state officials built a free protection plan for politicians
+  who break the law. Bank records and internal documents reveal millions in private
+  funds flowing directly to corrupt political insiders. Discover how state regulators
+  turned public oversight into a total scam.
 ---
 You want to know why Alabama is first in political corruption and last in education? CORRUPTION,
 

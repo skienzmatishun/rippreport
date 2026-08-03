@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Nighttime Gulf Shores beach scene with a bright full moon and stars. Tall buildings line the left, while a pier extends into the ocean
+alttags: Nighttime Gulf Shores beach scene with a bright full moon and stars. Tall
+  buildings line the left, while a pier extends into the ocean
 related_articles:
 - slug: victory
   title: VICTORY
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local planning directors systematically bypassed mandatory zoning rules to
+  greenlight profitable developments for favored insiders. Public records reveal a
+  secret pattern of ignoring land use plans at the expense of surrounding neighborhoods.
+  Taxpayers deserve to know what city hall has been hiding under the rug all along.
 ---
 This is the early edition of FREAKY FRIDAY, The evening edition will feature the change of government in Fairhope. It is Fairhope’s dirty little secret.
 

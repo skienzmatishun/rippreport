@@ -6,7 +6,8 @@ categories:
 - alabama
 authors:
 - ripp-report
-alttags: A sketch of Kay Ivey with text above reading KAY IVEYS COLD, COLD HEART and a chest emblem stating NO MEDICAID EXPANSION
+alttags: A sketch of Kay Ivey with text above reading KAY IVEYS COLD, COLD HEART and
+  a chest emblem stating NO MEDICAID EXPANSION
 related_articles:
 - slug: peoples-choice
   title: PEOPLE'S CHOICE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Chris Elliott dumped massive corporate campaign money into a local Senate
+  race to secure his personal political ladder. Campaign filing records expose tens
+  of thousands from special interest groups seeking county favors. Dive into the records
+  to see what that cash really bought.
 ---
 The Eastern Shore was blessed that Hurricane Michael spared us. Please pray for those in the storm’s path and if you have the opportunity to donate time or items for those impacted from the storm, it will be greatly appreciated.
 

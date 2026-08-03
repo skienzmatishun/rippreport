@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A red plastic plate on grass contains green peas, diced tomatoes, onions, and flatbread pieces with a metal spoon resting inside
+alttags: A red plastic plate on grass contains green peas, diced tomatoes, onions,
+  and flatbread pieces with a metal spoon resting inside
 related_articles:
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage of local land deals, Council President Jack Burrell
+  rushed through a multi-million dollar property purchase without public input or
+  a real plan. Internal documents and delayed grant filings reveal city leaders deliberately
+  ignored toxic contamination risks and alternative proposals. How much more taxpayer
+  money will city officials waste before citizens demand real accountability?
 ---
 Fairhope always has some political drama going on but the plate is getting full.
 

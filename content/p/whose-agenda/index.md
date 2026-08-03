@@ -15,7 +15,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A black question mark with two small squares at the base, centered on a white background
+alttags: A black question mark with two small squares at the base, centered on a white
+  background
 related_articles:
 - slug: jack-gets-an-f-again
   title: JACK GETS AN F - AGAIN
@@ -97,6 +98,12 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage of local land deals, Council President Jack Burrell
+  and his allies rushed a million-dollar property purchase behind closed doors while
+  ignoring viable alternatives. City Council agendas and meeting records reveal a
+  frantic push to lock taxpayers into costly commitments before the public could ask
+  questions. The Ripp Report exposes whose interests are truly being served at City
+  Hall.
 ---
 Fairhope’s City Council agenda, March 8th, was loaded with resolutions that should catch the eye of the voters and raise many questions about the City Council, NOT informing the public about the facts surrounding each resolution.
 

@@ -13,7 +13,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A waving American flag on a tall pole stands beside a central fountain and flower beds in a sunny public park
+alttags: A waving American flag on a tall pole stands beside a central fountain and
+  flower beds in a sunny public park
 related_articles:
 - slug: no-more-silence-we-want-answers
   title: NO MORE SILENCE — WE WANT ANSWERS
@@ -95,6 +96,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Previous city leaders treated municipal utility accounts like personal slush
+  funds to pay off disastrous legal settlements. Our investigation continues as financial
+  audits expose how former officials double-dipped on city paychecks while deepening
+  public debt. The Ripp Report breaks down the true cost of years of backroom political
+  deals.
 ---
 Congratulations to the Mayor, Department heads, employees and the production staff who produced the 2019 State of the City booklet. The State of the City was presented by the Mayor last night in the civic center. It was not just a speech but an expo. Tables lined the walls representing different departments, with department heads and employees present to answer questions. The atmosphere was positive, the employees moral was high and their sense of pride was obvious.
 

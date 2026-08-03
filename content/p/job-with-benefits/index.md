@@ -11,7 +11,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Two black silhouetted hands shaking in a handshake, wearing suit sleeves with white cuffs and visible buttons
+alttags: Two black silhouetted hands shaking in a handshake, wearing suit sleeves
+  with white cuffs and visible buttons
 related_articles:
 - slug: hi-jack-ed
   title: Hi-JACK-ed
@@ -73,6 +74,11 @@ related_articles:
   llm_score: 65
   recency_score: 31.641996913461323
   rank: 10
+summary: Our investigation reveals Council President Jack Burrell used his airport
+  position to cover personal legal fees and redirect millions in city utility funds.
+  Expense logs and agency billing records prove public authorities were manipulated
+  to shield council members from ethics charges and financial accountability. Discover
+  how local officials turn public service into a personal slush fund.
 ---
 The Ripp Report recently changed it’s business status from a tax deductible non profit to a corporation. It is still a non profit, without any federal tax deductibility. This also allows the Ripp Report/Baldwin County Legal Eagle to become more engaged in the election process by sponsoring or contributing to specific candidates.
 

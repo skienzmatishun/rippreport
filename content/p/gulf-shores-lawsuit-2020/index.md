@@ -9,7 +9,8 @@ tags:
 - pete-sims
 authors:
 - admin
-alttags: A Gulf Shores beachfront at sunset with gentle ocean waves meeting sand beside a row of tall residential apartment buildings
+alttags: A Gulf Shores beachfront at sunset with gentle ocean waves meeting sand beside
+  a row of tall residential apartment buildings
 related_articles:
 - slug: gulf-shores-shoot-the-messenger
   title: Gulf Shores - SHOOT THE MESSENGER
@@ -91,6 +92,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City leaders shoved a high-density apartment deal down residents' throats
+  while claiming citizens had no choice. Official emails and court filings show officials
+  intentionally bypassed mandatory public hearings to protect developer profits. Will
+  local taxpayers stand by while power brokers steal their neighborhood peace?
 ---
 Fairhope set the stage for citizens to fight back against City Government and elected officials who stop listening to the citizens. Now Gulf Shores citizens are filing a lawsuit and fighting back about an apartment complex the City of Gulf Shores approved over the objections of the area residents.
 

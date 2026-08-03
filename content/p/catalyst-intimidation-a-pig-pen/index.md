@@ -82,6 +82,11 @@ related_articles:
   recency_score: 10.150256266614415
   category_score: 0
   rank: 10
+summary: Shadowy political operatives deployed mob-style intimidation tactics and
+  media leaks to smash local political opposition. Internal consultant reports and
+  money trails expose how operative Scott Boone built an aggressive machine to hijack
+  local elections. See how dirty politics turned local municipal government into a
+  trough for insider greed.
 ---
 Baldwin County politics has always been a good ole boys club and Catalyst hopes to swell those ranks with a slate of candidates that are like minded. Catalyst is a Fairhope based operation that has done it’s best to destabilize Fairhope’s Government by attacking the Mayor, often using the Gulf Coast Courier, editor Chuckee Cheeze, to spread the rumor of the day. Mr Kevin Boone is a councilman in Fairhope and farther to Scott “baby” Boone who is the “brains” of Catalyst. “Baby” Boone wants everyone to believe his father has nothing to do with Catalyst. I guess that means that all those documents and information leaked to Chuckee about Fairhope just fell out of the sky, because he did not get them by formal Freedom of Information requests.
 

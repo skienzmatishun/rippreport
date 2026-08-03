@@ -8,7 +8,8 @@ tags:
 - moore
 authors:
 - ripp-report
-alttags: A digital rendering of a black hole featuring a glowing accretion disk and an upward jet against a dark, star-filled space background
+alttags: A digital rendering of a black hole featuring a glowing accretion disk and
+  an upward jet against a dark, star-filled space background
 related_articles:
 - slug: protester-pride
   title: PROTESTER PRIDE
@@ -80,6 +81,11 @@ related_articles:
   recency_score: 0.8934740095286622
   category_score: 0
   rank: 10
+summary: Expanding on our coverage of economic self-sabotage, party loyalists pushed
+  a toxic candidate whose extremist antics threatened to drag Alabama into financial
+  isolation. Internal Senate communications and corporate expansion reports illustrate
+  how major employers planned to pull billions in investments from the state. Can
+  taxpayers afford the crippling price tag of radical political posturing?
 ---
 Alabamians have got to stop looking right and left, voting a straight party ticket, and putting party before country and that means Republican and Democrat. What is good for your state and community should come before party. Why vote for someone who will divide us? Why vote for someone so different in beliefs and convictions that there is not one Senator or Congressman remotely close to his thinking?
 

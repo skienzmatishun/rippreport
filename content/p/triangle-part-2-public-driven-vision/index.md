@@ -12,7 +12,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A black outlined triangle with two crossed arrows passing through it, each featuring pointed tips and green and orange fletching
+alttags: A black outlined triangle with two crossed arrows passing through it, each
+  featuring pointed tips and green and orange fletching
 related_articles:
 - slug: fairhopes-triangle-mega-site
   title: FAIRHOPE’S “TRIANGLE” MEGA-SITE
@@ -74,6 +75,10 @@ related_articles:
   llm_score: 70
   recency_score: 19.9696032889225
   rank: 10
+summary: Fairhope politicians misled the public about a multi-million dollar property
+  deal while secretly lining lawyer pockets. Court documents and settlement files
+  show council members hid massive debt and bypassed required public input. Discover
+  why their sudden concern for a public park was nothing more than a cover-up.
 ---
 Fairhope’s Triangle, is Fairhope’s most valuable land asset. This vacant piece of land has been the focus of litigation, on and off for over 25 years. Ultimately, Fairhope purchased the land as part of the legal settlement, for 11.25 Million which included the legal fees of approximately 3 million. Estimated land value today would be between 18 and 20 million.
 

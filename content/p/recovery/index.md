@@ -6,7 +6,8 @@ categories:
 - none
 authors:
 - ripp-report
-alttags: A bald eagle with wings spread grips a caduceus staff featuring two coiled snakes against a solid blue background
+alttags: A bald eagle with wings spread grips a caduceus staff featuring two coiled
+  snakes against a solid blue background
 related_articles:
 - slug: go-to-hell-veterans
   title: GO TO HELL VETERANS
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City council members deliberately stalled the municipal budget while veterans
+  and local citizens suffered from their political games. Public filings reveal how
+  officials prioritized airport slush funds and personal grudges over basic government
+  duties. This investigation proves that personal strength always outlasts political
+  corruption.
 ---
 My right total reverse shoulder revision went well last Friday. The Birmingham V.A. is the number one V.A. hospital in the United States, I have had 14 operations their. No matter my health conditions I am always humbled by veterans with far worse injuries than myself. I have one more total reverse shoulder on the left side in December, I hope that is it. The Ripp Report hopes to be back on schedule by Freaky Friday.
 

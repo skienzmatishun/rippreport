@@ -82,6 +82,11 @@ related_articles:
   recency_score: 56.25121946541366
   category_score: 0
   rank: 10
+summary: A secret political network used dark money and press stooges to bully local
+  officials and hijack public elections. Business registry documents reveal how outside
+  engineering firms funded hand-picked candidates across the county. Learn how three
+  entrenched insiders pulled the strings behind Baldwin County's most corrupt political
+  scheme.
 ---
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr. Chris Elliott became a county commissioner and Haygood became the Mayor of Daphne. Catalyst represents the old guard or good ole boys. They carefully “select” candidates to represent their interests and place them in as many different races as possible. From probate judge to State Senate seats and all four Baldwin County commission races.
 

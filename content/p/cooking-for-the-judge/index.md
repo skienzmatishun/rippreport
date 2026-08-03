@@ -94,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: County insiders orchestrated private backroom deals to guarantee unchallenged
+  judicial seats and secure total political dominance. Leaked records and corporate
+  filings track shadowy campaign money flowing through developer-funded shell companies
+  directly to favored candidates. Read how Sheriff Mack served up political favors
+  behind closed doors.
 ---
 Catalyst represents the good ole boys and they want total control over Baldwin County Government. That means control of the County Commission, Probate Judge, Circuit Judge, Sheriff, District Attorney, and the State Senate seat. As a voter you better damn well wake up because if Catalyst succeeds and gets their selected seeded candidates into office, Baldwin County will be run by Catalyst, behind closed doors. The public will be prohibited from participating and development will swallow us whole. 
 

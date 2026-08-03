@@ -68,6 +68,10 @@ related_articles:
   llm_score: 70
   recency_score: 5.6319619186017045
   rank: 10
+summary: Following up on our coverage, top politicians continue operating an unchecked
+  system of financial exploitation and self-dealing. Financial paper trails show how
+  hundreds of thousands in public funds quietly vanished into private bank accounts.
+  Truth remains our sharpest weapon against Baldwin County corruption.
 ---
 Facebook fans on the Ripp Report and Baldwin County Legal Eagle can sign up for the Ripp Report on [https://rippreport.com/](https://rippreport.com/). The Ripp Report is a consumer group who’s major goal is to expose political corruption. We do however assist in many areas of consumerism not related to politics. The mid term election are going to be very important to the citizens of Baldwin County which has 14 municipalities.
 

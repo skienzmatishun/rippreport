@@ -10,7 +10,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: John Merrill, Alabama Secretary of State, smiling in a light blue button-up shirt against a black background
+alttags: John Merrill, Alabama Secretary of State, smiling in a light blue button-up
+  shirt against a black background
 related_articles:
 - slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
   title: “They're screwing us, Alabama. And telling us to like it.” -  John Archibald
@@ -82,6 +83,11 @@ related_articles:
   recency_score: 3.816816740944404
   category_score: 0
   rank: 10
+summary: State officials quietly attempted to rewrite ethics laws to protect corrupt
+  Baldwin County politicians from prosecution. Internal complaints and agency records
+  reveal a paper trail of ignored violations and shameless self-dealing. The Ripp
+  Report exposes how power players tried to legalise their own corruption before anyone
+  noticed.
 ---
 Baldwin County has only one example of a state elected official, who received, and took action, on multiple complaints from the general public, related to possible election tampering. ONLY ONE, think about that!
 

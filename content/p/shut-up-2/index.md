@@ -90,6 +90,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City officials spent public funds to gag former employees and cover up embarrassing
+  police incidents. Confidential settlement papers demonstrate a pattern of using
+  court gag orders to hide political misconduct from citizens. See what happens when
+  local dictators try to muzzle free speech and hide their own scandals.
 ---
 Baldwin County’s legal system relies to much on shutting people up. Criminal acts, political misconduct, court proceedings and civil litigation are “sealed” or CONFIDENTIALITY agreements are required to settle issues. Often this allows the guilty party to go on their merry way, until the next incident. Of course money is also an ingredient to grease the wheel while keeping everything out of the eye of the public domain.
 

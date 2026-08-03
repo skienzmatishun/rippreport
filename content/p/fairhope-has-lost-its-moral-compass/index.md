@@ -6,7 +6,8 @@ categories:
 - monday-madness
 authors:
 - ripp-report
-alttags: Antique compass on a map, symbolizing ethics and moral guidance lost by Fairhope City Council
+alttags: Antique compass on a map, symbolizing ethics and moral guidance lost by Fairhope
+  City Council
 related_articles:
 - slug: police-report
   title: POLICE REPORT
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City Council President Jack Burrell and his allies completely tossed ethics
+  aside to protect their cronies from fallout. Sealed legal records expose secret
+  lawsuits, illegal perks, and ongoing financial liabilities forced onto local taxpayers.
+  We detail how deep the moral decay goes inside Fairhope leadership.
 ---
 “(ethics) An inner sense which distinguishes what is right from what is wrong, functioning as a guide (like the needle of a compass) for morally appropriate behavior.”
 

@@ -11,7 +11,8 @@ tags:
 - robert-brown
 authors:
 - ripp-report
-alttags: Yellow sign divided horizontally. The top says RIGHT with a right arrow, and the bottom says WRONG with a left arrow
+alttags: Yellow sign divided horizontally. The top says RIGHT with a right arrow,
+  and the bottom says WRONG with a left arrow
 related_articles:
 - slug: flying-high
   title: FLYING HIGH
@@ -73,6 +74,11 @@ related_articles:
   llm_score: 75
   recency_score: 37.809766650982276
   rank: 10
+summary: A corrupt councilman used his official position to steer lucrative municipal
+  contracts directly to his business partner. State ethics filings and board meeting
+  minutes confirm a blatant conflict of interest ignored by city leaders. We lay out
+  the plain evidence of backroom dealing that officials thought they could force past
+  the public.
 ---
 Well it seems Mr. Jack Burrell is now worried about the accountability of school funds donated by the city, approximately $350,000 a year. He is demanding accountability or he no longer will support school funds for Fairhope.
 

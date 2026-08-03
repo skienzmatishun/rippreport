@@ -13,7 +13,8 @@ tags:
 - turner
 authors:
 - ripp-report
-alttags: A top-down view of various black, brown, beige, and gray wide-brimmed hats arranged on a white surface
+alttags: A top-down view of various black, brown, beige, and gray wide-brimmed hats
+  arranged on a white surface
 related_articles:
 - slug: broken-eggs
   title: BROKEN EGGS
@@ -75,6 +76,11 @@ related_articles:
   llm_score: 75
   recency_score: 36.88887119828122
   rank: 10
+summary: Council President Jack Burrell stacked appointed boards with loyal cronies
+  to bypass public oversight and hide financial blunders. Municipal records prove
+  city leaders handed control to conflicted insiders who routinely protected private
+  interests. Uncover the shameless game of musical chairs being played with your tax
+  dollars.
 ---
 Two area’s lacking in leadership in Fairhope are the City Council and Planning and Zoning. The City Council President for the last 5 years has been Jack Burrell. All the previous councils rotated the position of City Council President every 6 months or after a short term in order to give other council members a chance of leadership. In fact, and it is a fact, this council has accomplished absolutely nothing, except to obstruct the Mayor at every opportunity. Mr. Burrell has not shown any leadership skills, he claimed that the council was the mediator for issues involving the city. The council has not mediated any issues with the Mayor and continues it’s game of obstruction at taxpayers expense.
 

@@ -66,5 +66,10 @@ related_articles:
   llm_score: 50
   recency_score: 15.90787105439613
   rank: 10
+summary: Expanding our recent reports on county-wide cover-ups, corrupt state and
+  local officials keep getting a free pass from weak ethics boards. Insider documents
+  and public archives reveal how political insiders skimmed trust funds and rigged
+  contracts for private gain. We bring you the ugly truth that local authorities refuse
+  to investigate.
 ---
 Sorry, no Wonderful Wednesday this week. Stay tuned for Freaky Friday.

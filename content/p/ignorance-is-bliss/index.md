@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A cartoon illustration of an ostrichs legs and lower body standing on a sandy desert landscape
+alttags: A cartoon illustration of an ostrichs legs and lower body standing on a sandy
+  desert landscape
 related_articles:
 - slug: catalyst-central
   title: CATALYST CENTRAL
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage of the government reform vote, political front men
+  deliberately pushed a campaign of public ignorance to keep corrupt leaders in power.
+  Campaign records highlight how dark-money PACs weaponized misleading slogans to
+  stop citizens from changing the city structure. Exposing how special interests profit
+  when voters are kept blind and uninformed.
 ---
 I knew I could count on the Lagniappe to produce a comprehensive article about the recent referendum election in Fairhope. Well done.
 

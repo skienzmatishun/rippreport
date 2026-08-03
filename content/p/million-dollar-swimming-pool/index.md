@@ -11,7 +11,8 @@ tags:
 - tucker-dorsey
 authors:
 - ripp-report
-alttags: Two men in suits stand before a pool backdrop; a life ring labeled Catalyst floats above them, referencing concerns abou...
+alttags: Two men in suits stand before a pool backdrop; a life ring labeled Catalyst
+  floats above them, referencing concerns abou...
 related_articles:
 - slug: catalyst-trifecta
   title: CATALYST TRIFECTA
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Pushing further into local shadow deals, Fairhope insiders manipulated property
+  transactions to hide massive personal gains. Corporate filings reveal a maze of
+  connected LLCs designed to bury high-dollar real estate payouts. Real estate corruption
+  always leaves a trail if you know where to dig.
 ---
 Catalyst players have developed a shell game called follow the LLC’s. Daphne Mayor, a catalyst charter member, explains that “Alabama is a buyer beware state.” BUYER BEWARE OF CATALYST is what consumers should be aware of.
 

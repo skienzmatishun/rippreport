@@ -6,7 +6,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A black line drawing of a Y-shaped arrow splitting into two upward-pointing arrows, with a light gray shadow behind it
+alttags: A black line drawing of a Y-shaped arrow splitting into two upward-pointing
+  arrows, with a light gray shadow behind it
 related_articles:
 - slug: catalyst-colors
   title: 🚫 CATALYST COLORS 🚫
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Furthering our coverage of Fairhope’s land giveaway, Jack Burrell lied about
+  city property rights to push through a shady real estate transfer. Financial records
+  reveal an anonymous donor put up thirty-nine thousand dollars to grease the wheels
+  of this questionable land deal. Our investigation unpacks their deceptive word games
+  and hidden motives.
 ---
 The Fairhope City Council and Weeks Bay are trying to tell the general public that a Conservation Easement does not mean Weeks Bay owns the property. True they also have no lease or title to the land.
 

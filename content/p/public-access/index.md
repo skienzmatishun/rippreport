@@ -10,7 +10,8 @@ tags:
 - zundel-road
 authors:
 - ripp-report
-alttags: Red graphic depicting a blocked public access point, referencing county officials’ actions and citizen response
+alttags: Red graphic depicting a blocked public access point, referencing county officials’
+  actions and citizen response
 related_articles:
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corrupt county commissioners conspired with wealthy shoreline donors to block
+  ordinary citizens from accessing public water access points. Private text messages
+  and secret land deals expose how officials prioritized campaign cash over the rights
+  of taxpayers. The Ripp Report reveals how far politicians went to keep voters away
+  from the waterfront.
 ---
 Once again the voters can see the true colors, and arrogance, of Commissioner’s Dorsey and Elliott.
 

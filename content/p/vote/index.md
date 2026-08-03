@@ -6,7 +6,8 @@ categories:
 - terrible-tuesday
 authors:
 - ripp-report
-alttags: A gray ballot box with a top slot containing a red flag, set against a black background
+alttags: A gray ballot box with a top slot containing a red flag, set against a black
+  background
 related_articles:
 - slug: catalyst-vs-the-people
   title: CATALYST VS THE PEOPLE
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corruption thrives in Baldwin County because corrupt insiders count on low
+  voter turnout to keep their machine alive. Election data shows how a small fraction
+  of uninformed voters repeatedly allows special interests to seize municipal control.
+  Take back your local government before these insiders steal the rest of your tax
+  dollars.
 ---
 https://cdn.rippreport.com/wp-content/uploads/2018/07/Sample-ballottt-1.pdf
 

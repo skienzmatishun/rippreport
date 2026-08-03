@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage of the underage drinking bust, Council President
+  Jack Burrell actively covered up his family's role in the wild house party. Incident
+  logs and attorney emails confirm dozens of juveniles were detained while political
+  connections shielded key adults from charges. Will local law enforcement ever hold
+  powerful politicians to the same standards as ordinary citizens?
 ---
 The Fairhope Police have responded and given further information about the recent “party” busted in Fairhope.
 

@@ -8,7 +8,8 @@ tags:
 - moore
 authors:
 - ripp-report
-alttags: Three small dark brown monkey figurines sit on a wooden surface, each with hands covering different facial features
+alttags: Three small dark brown monkey figurines sit on a wooden surface, each with
+  hands covering different facial features
 related_articles:
 - slug: ayatollah-of-alabama
   title: “Ayatollah of Alabama”
@@ -80,6 +81,11 @@ related_articles:
   recency_score: 0.8140050426301118
   category_score: 0
   rank: 10
+summary: Big Luther Strange shielded high-ranking officials from fraud charges to
+  protect his own political ambitions during the Senate race. Investigative files
+  show how backroom deals and legal favors threatened to cost the state billions in
+  economic damage. Is there any line these desperate politicians will not cross to
+  keep power?
 ---
 Many thought that the Trump/Clinton campaign left little choice as two polarizing candidates split the political parties and beliefs. The Independents eroded the voting pool even further.
 

@@ -14,7 +14,8 @@ tags:
 - schools
 authors:
 - ripp-report
-alttags: A black silhouette of a person riding a bicycle forwards against a white background
+alttags: A black silhouette of a person riding a bicycle forwards against a white
+  background
 related_articles:
 - slug: money-on-the-table
   title: MONEY ON THE TABLE
@@ -96,6 +97,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: As national media praises Fairhope's charm, city leaders continue to delay
+  critical funding solutions for our collapsing school system. Internal committee
+  proposals and council records show a deliberate effort to stall property tax relief
+  for overcrowded classrooms. We uncover the truth behind Fairhope's polished public
+  image.
 ---
 Fairhope City Council has been pedaling backwards their whole term. They now have a chance to pedal forward, putting Fairhope on the map, when it comes to the city supporting education.
 

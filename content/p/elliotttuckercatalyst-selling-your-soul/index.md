@@ -93,6 +93,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Self-serving politicians sold out local taxpayers to fund a multi-million-dollar
+  real estate scheme. Real estate files and tax documents reveal how officials skimmed
+  school revenues to bankroll a vacant cow pasture. What did these officials trade
+  away just to secure their piece of the political pie?
 ---
 By now you have seen the slick ads of Elliott and Tucker. However, when you read them you do not recognize any similarity between the written fluff and the candidates. These guys are dumping tens of thousands of dollars, donated by developers and Catalyst, to be elected at all costs. They will do anything, I repeat anything, to get elected.
 

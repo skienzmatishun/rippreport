@@ -12,7 +12,8 @@ tags:
 - sewer
 authors:
 - ripp-report
-alttags: The Fairhope Jester in colorful costume, holding a hammer, referenced in an article about local development controversies
+alttags: The Fairhope Jester in colorful costume, holding a hammer, referenced in
+  an article about local development controversies
 related_articles:
 - slug: fairhope-jester
   title: THE FAIRHOPE JESTER
@@ -74,6 +75,10 @@ related_articles:
   llm_score: 75
   recency_score: 44.32157398237182
   rank: 10
+summary: A self-serving councilman abused his public position to win lucrative contracts
+  while defending environmental destruction along Fly Creek. Formal ethics complaints
+  and internal email chains disclose blatant conflicts of interest hidden behind public
+  bluster. Discover why the court jester's joke is costing Fairhope taxpayers millions.
 ---
 The Fairhope Jester supports the Kant-Corte Apartments on Fly Creek, at the same time he is building his own home on Fly Creek. Surely you jest! The Jester supports the developer, who is responsible for the damage to the creek from the Publix project. The same developer is now building 230 apartments next to the creek. Jester neighbors are not going to be laughing.
 

@@ -8,7 +8,8 @@ tags:
 - chucky
 authors:
 - ripp-report
-alttags: A close-up of the Chucky doll with red hair and blue eyes, wearing a blue denim outfit and pointing its finger forward
+alttags: A close-up of the Chucky doll with red hair and blue eyes, wearing a blue
+  denim outfit and pointing its finger forward
 related_articles:
 - slug: chuckee-cheeze
   title: CHUCKEE CHEEZE
@@ -90,6 +91,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Local media operatives manufactured fake news stories using back-room leaks
+  to manipulate public opinion and humiliate city leaders. Records expose how council
+  members secretly shared confidential files to reward friendly journalists with bogus
+  scoops. Will the public finally wake up to these media deceptions?
 ---
 I had major surgery June 20th and it took a full week of some serious pain medication to come back to earth. In fact it took 8 days to totally rid myself of wild dreams and hallucinations.
 

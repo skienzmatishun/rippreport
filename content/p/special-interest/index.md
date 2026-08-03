@@ -10,7 +10,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: An American flag waves on a tall pole beside a public fountain and green trees under a clear sky
+alttags: An American flag waves on a tall pole beside a public fountain and green
+  trees under a clear sky
 related_articles:
 - slug: crystal-ball
   title: CRYSTAL BALL
@@ -92,6 +93,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Special interest groups poured dark money into Fairhope to defeat crucial
+  government reform and protect their political leverage. Financial disclosures reveal
+  exactly who funded the opposition network to stall progress across the city. Why
+  was their sudden outrage just a calculated act?
 ---
 It is easy to see that people with special interests, Catalyst connections, or are from the Tim Can’t Club, do not want to see any change in Fairhope Government. They represent about 30% of the City’s population. They know a change of Government will cut off their access to slate candidates and greatly reduce their ability to “control” Fairhope, not Govern but “control.” The current Fairhope City Council is an “at Large Catalyst council” that has the most dismal record of any Fairhope Council in 20 years, they cannot even deliver a budget on time. WHY ? Would the citizens of Fairhope want to go backwards rather than forward?
 

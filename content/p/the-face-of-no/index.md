@@ -6,7 +6,8 @@ categories:
 - thursday-thunder
 authors:
 - ripp-report
-alttags: A black-and-white photo of a man in business attire bent forward with his head tucked between his legs and hands clasped behind him
+alttags: A black-and-white photo of a man in business attire bent forward with his
+  head tucked between his legs and hands clasped behind him
 related_articles:
 - slug: chuckee-cheeze
   title: CHUCKEE CHEEZE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The Catalyst Council and local media operatives worked together to protect
+  special interests and stall key governance reform in Fairhope. Public documents
+  show how backroom media deals and biased reporting hid the true financial cost of
+  their ongoing obstruction. The Ripp Report exposes what they pretended not to know.
 ---
 ## FAIRHOPE
 

@@ -6,7 +6,8 @@ categories:
 - sunday-sunrise
 authors:
 - ripp-report
-alttags: A red alarm clock with a motion-blurred bell and surrounding lightning bolt graphics, showing approximately four oclock
+alttags: A red alarm clock with a motion-blurred bell and surrounding lightning bolt
+  graphics, showing approximately four oclock
 related_articles:
 - slug: fly-creek-a-drainage-ditch
   title: FLY CREEK - A DRAINAGE DITCH ?
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Gulf Shores officials pushed through high-density development plans while
+  completely ignoring resident warnings and local zoning rules. Public records prove
+  city staff tossed out established planning criteria just to favor wealthy developers.
+  We explain how the whole scheme fell apart under citizen scrutiny.
 ---
 ## BREAKING NEWS.....
 

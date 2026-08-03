@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Four pairs of white cartoon eyes with black pupils scattered across a solid black background
+alttags: Four pairs of white cartoon eyes with black pupils scattered across a solid
+  black background
 related_articles:
 - slug: catalyst-council-lawsuits
   title: CATALYST COUNCIL LAWSUITS
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on our recent coverage, Fairhope City Council members secretly
+  pushed through costly legal moves while hiding the truth from taxpayers. Records
+  show how officials completely ignored a unanimous Supreme Court ruling just to protect
+  their own disastrous decisions. The Ripp Report shines a light on the backroom deals
+  they desperately tried to hide.
 ---
 Fairhope in 2018 is IN THE DARK, refusing to look forward and recognize the lighting speed of change. The last city council meeting in Fairhope for 2018 was more of the same:
 

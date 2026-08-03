@@ -41,7 +41,8 @@ related_articles:
   category_score: 0
   rank: 4
 - slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns
   score: 54.0173713434122
   llm_score: 69
   recency_score: 0.11291373217919946
@@ -73,7 +74,8 @@ related_articles:
   category_score: 0
   rank: 8
 - slug: know-before-you-vote-2
-  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns '
+  title: 'MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
+    Concerns '
   score: 11.555549659774183
   llm_score: 0
   recency_score: 0.11107278853218952
@@ -88,6 +90,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Entrenched council members used shady legal tricks to delay a crucial public
+  vote on restructuring city hall governance. Leaked documents prove officials sought
+  legal loopholes to silence voters and protect their council seats. Can citizens
+  finally break the grip of special interests at the ballot box?
 ---
 ## PLEASE ATTEND TONIGHT'S INFORMATIVE MEETING, MOVE FAIRHOPE FORWARD.  
 VOTE YES NOV 6TH 2018 NEXT TUESDAY

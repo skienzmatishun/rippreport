@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Black silhouette of a megaphone with sound waves radiating from the right side on a white background
+alttags: Black silhouette of a megaphone with sound waves radiating from the right
+  side on a white background
 related_articles:
 - slug: laugh-out-loud-baldwin
   title: Laugh Out Loud Baldwin
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: A shadowy political machine tried to hijack local elections until online
+  exposures blew their hidden schemes wide open. Internal communications reveal how
+  key operatives panicked after voters uncovered their backroom candidate selection
+  process. See how social media completely destroyed their secret political empire.
 ---
 Today I enter V.A. for my 14th shoulder operation, so if ya do not see a Wonderful Wednesday next week, you will know why. One more operation in December and if I follow the instructions of the doctors, I should be swimming by next summer.
 

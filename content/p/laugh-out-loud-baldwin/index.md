@@ -14,7 +14,8 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: A yellow emoji face with black eyes, a long orange nose, and a downward-curved mouth
+alttags: A yellow emoji face with black eyes, a long orange nose, and a downward-curved
+  mouth
 related_articles:
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
@@ -96,6 +97,11 @@ related_articles:
   length_score: 100
   category_score: 100
   rank: 10
+summary: Political operatives and state candidates imposed unvoted taxes on local
+  families to fund private political agendas. Leaked campaign communications show
+  a secret political network pulling strings and manipulating local school board lawsuits.
+  The joke is on Baldwin County taxpayers until this shadow syndicate gets exposed
+  for good.
 ---
 Baldwin County is full of laughs lately. Politics can cause mental damage and in Baldwin County we need an insane asylum for a few of them.
 

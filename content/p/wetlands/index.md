@@ -11,7 +11,8 @@ tags:
 - sewer
 authors:
 - ripp-report
-alttags: A shallow creek with reddish-brown water flows through sandy banks lined with green grass, casting long tree shadows across the surface
+alttags: A shallow creek with reddish-brown water flows through sandy banks lined
+  with green grass, casting long tree shadows across the surface
 related_articles:
 - slug: can-you-smell-it
   title: CAN YOU SMELL IT?
@@ -73,6 +74,10 @@ related_articles:
   llm_score: 85
   recency_score: 0.7580381272263648
   rank: 10
+summary: Developer Arthur Corte and corrupt city officials allowed toxic sewage spills
+  to destroy local waterways around Fly Creek. Leaked documents and meeting logs prove
+  political figures blocked environmental testing to cover up massive utility failures.
+  What else are these power brokers hiding beneath the polluted mud?
 ---
 It seems as if the public has gotten the attention of elected officials and environmental groups about the sewer systems of Fairhope, Daphne and Spanish Fort. It is hard to believe in 2017 that we still have regular sewer spills and that we still dump sewage into the bay.
 

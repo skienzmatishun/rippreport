@@ -75,6 +75,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 7
+summary: Holdover officials from previous administrations are actively undermining
+  the current mayor to protect their political allies from legal fallout. Court transcripts
+  and internal memos reveal a systematic pattern of delaying criminal charges and
+  stonewalling costly lawsuit settlements. Real accountability starts when backroom
+  political immunity comes to an end.
 ---
 ## FAIRHOPE THE GOOD
 

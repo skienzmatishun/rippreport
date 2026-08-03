@@ -6,10 +6,12 @@ categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: The Statue of Liberty, symbolizing America’s welcoming spirit as described in Emma Lazaruss “New Colossus” poem
+alttags: The Statue of Liberty, symbolizing America’s welcoming spirit as described
+  in Emma Lazaruss “New Colossus” poem
 related_articles:
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
-  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE ONE
+  title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
+    ONE
   score: 58.63856232685347
   llm_score: 53
   recency_score: 94.15065512454748
@@ -88,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Extending our family court coverage, Judge Michelle Thomason forced painful
+  separations between loving mothers and their vulnerable young children. Dozens of
+  sworn testimonies and court filings detail a pattern of arbitrary rulings that shattered
+  local families. Cruelty inside the courtroom must be called out whenever power is
+  abused.
 ---
 AMERICA
 

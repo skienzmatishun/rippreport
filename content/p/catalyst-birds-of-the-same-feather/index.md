@@ -16,7 +16,8 @@ tags:
 - william-scully
 authors:
 - ripp-report
-alttags: Close-up of an orange plastic bird figurine with a long beak, large eyes, and feather tuft. A red prohibition symbol appears in the upper right corner
+alttags: Close-up of an orange plastic bird figurine with a long beak, large eyes,
+  and feather tuft. A red prohibition symbol appears in the upper right corner
 related_articles:
 - slug: catalyst-candidates
   title: CATALYST CANDIDATES
@@ -88,6 +89,10 @@ related_articles:
   recency_score: 1.6504708270693496
   category_score: 0
   rank: 10
+summary: A tightly knit cabal of county officials banded together to control local
+  courts, commissions, and profitable land developments. Secret coordination notes
+  and shared campaign accounts expose how key politicians systematically rigged county
+  government. The time has come to tear down the corrupt flock ruling Baldwin County.
 ---
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr. Chris Elliott became a county commissioner and Haygood became the Mayor of Daphne. Catalyst represents the old guard or good ole boys. They carefully “select” candidates to represent their interests and place them in as many different races as possible. From probate judge to State Senate and all four Baldwin County commission races.
 

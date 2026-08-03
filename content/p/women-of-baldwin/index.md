@@ -6,7 +6,8 @@ categories:
 - thursday-thunder
 authors:
 - ripp-report
-alttags: A pink symbol combining the female gender sign with a raised fist inside the circle
+alttags: A pink symbol combining the female gender sign with a raised fist inside
+  the circle
 related_articles:
 - slug: catalyst-trifecta
   title: CATALYST TRIFECTA
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: The old boy network in Baldwin County tried to undermine female leaders who
+  threatened their cozy backroom control. Investigative details show how political
+  fixers targeted specific reform candidates to protect insider contracts. Unmasking
+  their plot reveals how deep the insider network really runs.
 ---
 Vote candidate not party. Straight ticket voting is voting blind and allows corruption to flourish and compromises elected officials. It strengthens the good ole boy network and Catalyst candidates, something all parties should be against.
 

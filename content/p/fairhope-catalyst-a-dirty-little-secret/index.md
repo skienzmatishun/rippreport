@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: A paved pathway beside grass leads to a long pier extending into water at sunset, featuring silhouetted pedestrians and streetlights along the shoreline
+alttags: A paved pathway beside grass leads to a long pier extending into water at
+  sunset, featuring silhouetted pedestrians and streetlights along the shoreline
 related_articles:
 - slug: hell-yea
   title: HELL YEA
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Hand-picked council puppets filed frivolous court injunctions to block voters
+  from replacing their corrupt political machine. Insider evidence details how political
+  elites manipulated legal filings to stop citizen representation in its tracks. We
+  pull back the curtain on the backroom deals controlling your city government.
 ---
 The Fairhope City Council is an “at Large” elected Council. Each of the members of the Council is deeply connected to the machine named for now, Catalyst; some by blood. The present council was hand-picked for the last election by the former Mayor, Tim Kant. They were a slate of Catalyst candidates, who had pledged their loyalty to Tim; who lost to Mayor Karin Wilson when we demanded the head of the legal division for the Elections Department drove down and oversaw the election, allowing for the first legitimate election in decades.
 

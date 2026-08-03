@@ -70,6 +70,11 @@ related_articles:
   llm_score: 65
   recency_score: 1.5970910561661857
   rank: 10
+summary: Our ongoing investigation exposes how zealots and corrupt councilmen actively
+  sabotage local and state economic interests to protect their insular power bases.
+  Commercial site documents and internal memos confirm that major job creators actively
+  turned away from communities infected by political circus antics. See how arrogant
+  elected officials gamble away our community's financial future for personal gain.
 ---
 One thing is certain Alabama will lose hundreds of millions if not BILLIONS of dollars if Roy Moore is Alabama’s next senator. We are in a global economy at a time when companies and public figures have used their position and stature to protest against social injustice, bigoted views and religious hypocrisy. International companies as well as US Companies are going to stay away from a state that promotes such views. The commercial dollar loss will be matched by the isolation Alabama will feel from existing international companies who will also reconsider any plans for future expansion. Mr. Moore would find himself neutered and isolated in Washington rendering him useless and firmly putting Alabama in the dark ages.
 

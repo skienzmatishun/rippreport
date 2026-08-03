@@ -8,7 +8,8 @@ tags:
 - burrell
 authors:
 - ripp-report
-alttags: A red diamond-shaped road sign with a black border, displaying an upward-pointing arrow and the word OBSTRUCTION in bold letters
+alttags: A red diamond-shaped road sign with a black border, displaying an upward-pointing
+  arrow and the word OBSTRUCTION in bold letters
 related_articles:
 - slug: broken-eggs
   title: BROKEN EGGS
@@ -70,6 +71,10 @@ related_articles:
   llm_score: 65
   recency_score: 24.727349839834638
   rank: 10
+summary: Jack Burrell and Kevin Boone rejected a competitive insurance bid to spite
+  the Mayor, burning $60,000 in taxpayer money. Meeting transcripts prove council
+  members leaked confidential documents and handed budget powers to an appointed committee.
+  Read the full story behind their relentless campaign to block legitimate progress.
 ---
 Fairhope should now begin to see the writing on the wall. The Fairhope City Council is voting as a unit and the council president, Jack Burrell, is calling the shots. One thing that is perfectly clear is that any recommendations from the mayor will be meet with stiff resistance, regardless of it’s merit.
 

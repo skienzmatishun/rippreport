@@ -87,6 +87,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State oversight agencies systematically buried corruption complaints to protect
+  corrupt Baldwin County politicians. Records show how state ethics officials used
+  loop-hole advisory opinions to grant total immunity to dishonest officeholders.
+  The Ripp Report brings these dark room deals directly into the light of day.
 ---
 The Ripp Report is a non-profit organization, politically non-partisan. The focus of The Ripp Report is political corruption and exposing the elected officials involved.
 

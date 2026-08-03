@@ -9,7 +9,8 @@ tags:
 - turner
 authors:
 - ripp-report
-alttags: 'Black-and-white photo of Big Head Gulley in Fairhope, Alabama. A tree-lined stream is visible. Text reads: SCENE IN BIG HEAD GULLY FAIRHOPE, ALA 1910-1...'
+alttags: 'Black-and-white photo of Big Head Gulley in Fairhope, Alabama. A tree-lined
+  stream is visible. Text reads: SCENE IN BIG HEAD GULLY FAIRHOPE, ALA 1910-1...'
 related_articles:
 - slug: bend-over-fairhope
   title: BEND OVER FAIRHOPE
@@ -81,6 +82,10 @@ related_articles:
   recency_score: 8.850842495685942
   category_score: 0
   rank: 10
+summary: Council members pushed a risky residential project right over fragile gulley
+  lands to line insider pockets. Newly obtained petitions and utility reports reveal
+  severe environmental hazards that leaders deliberately glossed over. Discover why
+  this reckless arrangement threatens the entire neighborhood.
 ---
 FAIRHOPE WAKE UP THIS MUST BE STOPPED: PLEASE SIGN THE PETITION
 

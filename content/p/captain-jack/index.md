@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Jack Burrell smiles while wearing a blue pilot cap with gold wings and a black leather jacket
+alttags: Jack Burrell smiles while wearing a blue pilot cap with gold wings and a
+  black leather jacket
 related_articles:
 - slug: captain-jack-at-the-controls
   title: CAPTAIN JACK AT THE CONTROLS
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell rigged airport authority bids to favor political
+  cronies and private business partners. Documents reveal how airport officials altered
+  lease agreements and canceled public broadcasts to hide suspicious land deals. See
+  how a network of self-serving insiders quietly took control of public assets.
 ---
 Fairhope Airport Authority recently held a special meeting, Jan 8th to discuss a “notice of availability”.
 

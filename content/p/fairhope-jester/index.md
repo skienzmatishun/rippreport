@@ -72,6 +72,11 @@ related_articles:
   llm_score: 65
   recency_score: 0.4553856503092191
   rank: 10
+summary: City Councilman Robert Brown continues to use his public office to enrich
+  his private real estate holdings along Fly Creek. Official records expose how the
+  ethics-challenged politician pushed favorable development deals while building his
+  own home nearby. The Ripp Report exposes the self-serving joke behind his political
+  game.
 ---
 The Public Doctrine: Our government is a democracy which means the "people rule." At this time in our democracy it seems there are less people involved, which results in a serious challenge to the system, as politicians love it when the people "forget to rule" and are allowed to operate with impunity. The Public Doctrine is the often forgotten tenet that elected public officials are held to a slightly higher standard when it comes to scrutiny of their actions on behalf of the public. In other words, public officials understand when getting into politics, that their actions on the purported behalf of the people are fair game. Fairhope's city council should be reminded of this, because it is every voter's right to know all.
 

@@ -88,6 +88,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Powerful political insiders tried to rewrite local history and turn a painful
+  personal loss into a cheap PR stunt. Records show how Baldwin County power brokers
+  used a friend's tragic memory to mask their own dirty dealings. The Ripp Report
+  exposes what corrupt leaders tried to bury behind a veil of false sympathy.
 ---
 RAYMOND WATKINS
 

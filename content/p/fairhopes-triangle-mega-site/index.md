@@ -11,7 +11,8 @@ tags:
 - triangle
 authors:
 - ripp-report
-alttags: A black triangular outline with an arrow piercing through it diagonally from the bottom left to the top right
+alttags: A black triangular outline with an arrow piercing through it diagonally from
+  the bottom left to the top right
 related_articles:
 - slug: triangle-part-2-public-driven-vision
   title: TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”
@@ -73,6 +74,10 @@ related_articles:
   llm_score: 65
   recency_score: 38.33127246238332
   rank: 10
+summary: City leaders saddled taxpayers with millions in legal debt while falsely
+  claiming they purchased land for a park. Financial records and lawsuit filings prove
+  officials drained public utility reserves without community approval. We uncover
+  how self-serving politicians sacrificed the city's future to satisfy outside developers.
 ---
 Baldwin County Commissioners have their Mega “dump” Site.
 

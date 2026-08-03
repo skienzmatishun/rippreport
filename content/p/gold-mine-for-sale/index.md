@@ -6,7 +6,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A cartoon of a green mountain with a tunnel entrance marked by a red FOR SALE sign. Curving train tracks lead to a gray mining cart filled with yellow m...
+alttags: A cartoon of a green mountain with a tunnel entrance marked by a red FOR
+  SALE sign. Curving train tracks lead to a gray mining cart filled with yellow m...
 related_articles:
 - slug: fairhope-un-armed-robbery
   title: FAIRHOPE UN-ARMED ROBBERY
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our look into municipal land corruption, the Fairhope City Council
+  attempted an unarmed robbery of prime city property worth twenty million dollars.
+  Official votes and secret agreements reveal a calculated scheme to transfer city
+  land control to Weeks Bay without public consent. Public outrage derailed their
+  secret deal, but the fight is far from over.
 ---
 The Fairhope Conservation Easement is in limbo while Weeks Bay and the city council, does damage control. Let me make it clear that there is nothing wrong with conservation easements. The Fairhope Conservation Easement that is proposed is a political football being thrown around by the City Council. It is an excuse by special interests, developers, that want the property out of the control of the city. The property in question is prime property in the Fairhope municipal city limits, that cost us 13 million.
 

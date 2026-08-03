@@ -7,7 +7,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A person wearing a yellow jester shirt, striped pants, and a pointed hat stands against a white background holding a small pistol
+alttags: A person wearing a yellow jester shirt, striped pants, and a pointed hat
+  stands against a white background holding a small pistol
 related_articles:
 - slug: deliberate-distortion-or-twisting-of-meaning
   title: DELIBERATE DISTORTION OR TWISTING OF MEANING
@@ -89,6 +90,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Moving forward in our land grab investigation, Council President Jack Burrell
+  exploited his elected office to line his pockets and favor wealthy developers over
+  citizens. Internal records expose secret land deals and suspect contracts designed
+  to strip Fairhope of twenty million dollars in public assets. Step inside the dirty
+  game behind the council’s fake conservation effort.
 ---
 The Jester is back and now he wants to give away 106 acres of municipal land to Weeks Bay. The very same Jester who used his elected position for personal gain by securing the Fairhope Art Center Contract. The same Jester who favored the Fly Creek Apartments and it’s developer over his constituents.
 

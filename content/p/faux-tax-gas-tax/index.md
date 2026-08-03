@@ -94,6 +94,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State politicians are treating taxpayers like a personal piggy bank by skimming
+  school funds to bankroll infrastructure projects. Legislative records and campaign
+  disclosures show how lobbyists orchestrated a massive tax hike without a single
+  constituent vote. How much longer will Baldwin County let career politicians raid
+  our public accounts?
 ---
 Governor Kay Ivey is a puppet on a string. In a recent article she announces a special session for a gas tax. In one paragraph she talks about money for infrastructure two paragraphs later we find out the State Docks are going to get between 400,000 and 600,000 for dredging the ship channel.
 

@@ -6,7 +6,8 @@ categories:
 - saturday-sunshine
 authors:
 - ripp-report
-alttags: Black and white pictogram of a stick figure running through an open doorway, set against a black background with a white border
+alttags: Black and white pictogram of a stick figure running through an open doorway,
+  set against a black background with a white border
 related_articles:
 - slug: catalyst-top-dogs
   title: CATALYST TOP DOGS
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Continuing our coverage, Baldwin County officials lined their pockets through
+  shady deals while squeezing local taxpayers dry. Documents expose a tangled web
+  of private LLCs and millions missing from county coffers. Step inside the Ripp Report's
+  latest exposure to see how the Catalyst political machine finally reached its exit
+  door.
 ---
 Baldwin County Commission, District No. 3, Please show Tucker Dorsey, not his real name, the exit door. Mr. Dorsey is the equivalent to Mr Burrell in Fairhope. Both men are about both men, they do not represent their constituents and have very poor performance records. Dorsey has burnt so many bridges that it is a miracle that he can find Clarence Burke’s house.
 

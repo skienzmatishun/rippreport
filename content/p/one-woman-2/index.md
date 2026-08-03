@@ -102,6 +102,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City officials hijacked an assault victim's fight for justice to launch a
+  political hit job against the mayor. Court transcripts prove prosecutors deliberately
+  dropped key criminal charges to shield a well-connected insider. We reveal how the
+  political machine tried to silence one courageous woman.
 ---
 {{< socialpreview url="https://www.lagniappemobile.com/news/fairhope-restaurateur-found-guilty-of-assault/article_0e5c5049-1acc-5ee1-9c28-6e7bd4dc1cea.html" >}}
 

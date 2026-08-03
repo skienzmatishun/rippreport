@@ -72,6 +72,10 @@ related_articles:
   llm_score: 65
   recency_score: 59.25691693705903
   rank: 10
+summary: Powerful council members are intentionally blocking critical sewer repairs
+  to sabotage municipal leadership and protect political insiders. Uncovered documents
+  reveal how a shadow organization pulls the strings behind local government decisions.
+  Will voters finally reclaim control from this corrupt political machine?
 ---
 Congratulations Fairhope citizens your 2276 signatures on a petition convinced the Fairhope Single Tax to back off the proposed Tuberville subdivision.
 

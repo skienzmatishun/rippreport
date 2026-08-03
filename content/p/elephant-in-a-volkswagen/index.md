@@ -13,7 +13,8 @@ tags:
 - turner
 authors:
 - ripp-report
-alttags: A yellow vintage Volkswagen Beetle with an elephants head and trunk sticking out of the drivers window against a white background
+alttags: A yellow vintage Volkswagen Beetle with an elephants head and trunk sticking
+  out of the drivers window against a white background
 related_articles:
 - slug: fairhope-special-meeting
   title: Fairhope Special Meeting
@@ -85,6 +86,10 @@ related_articles:
   recency_score: 19.91496692554393
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell manipulated public meeting schedules to hide
+  major procedural conflicts from taxpayers. Whistleblower evidence exposes how officials
+  crammed shady land transfers into rushed special sessions. The Ripp Report squeezes
+  the truth out of their bloated excuses.
 ---
 Some people will believe anything they are told without question. The last Fairhope City Council meeting is a perfect example, items 5 and 13, smell like a pig pen. It was all smoke and mirrors orchestrated to smell like roses. You can go on the city site, the council agenda, and get details.
 

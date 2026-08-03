@@ -87,6 +87,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Extending our investigation into Fairhope's land grab, Councilmen Brown and
+  Burrell pushed through a dirty conservation easement to enrich outside interests.
+  Public meeting files document how council members ignored conflicts of interest
+  and shut citizens out of critical land decisions. Read the evidence exposing this
+  backroom betrayal.
 ---
 In Fairhope, a conservation easement involving city property has become an issue for the entire county, all 14 municipalities. A conservation easement in a municipality is radically different than one in rural or coastal areas. In a municipality you have limited land and at the rate of growth our county is experiencing, why would a municipality give away control and management to a third party?
 

@@ -6,7 +6,8 @@ categories:
 - thursday-thunder
 authors:
 - ripp-report
-alttags: Political figures Eddie Tyler and Jonathan Gray depicted alongside a snake, referencing alleged questionable dealings in B...
+alttags: Political figures Eddie Tyler and Jonathan Gray depicted alongside a snake,
+  referencing alleged questionable dealings in B...
 related_articles:
 - slug: catalyst-sold-to-the-highest-bidder
   title: CATALYST - SOLD TO THE HIGHEST BIDDER
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Following up on education scandals, Chris Elliott weaponized the school system
+  and used Superintendent Eddie Tyler to advance his own political agenda. Payroll
+  records and lobbyist contracts expose shared consultants drawing double payouts
+  from public school funds. The Ripp Report shines a light on the backroom bargaining
+  that sold out our local classrooms.
 ---
 Political campaigns are always dirty, however when the politician uses veterans or schools as a political tool, he reaches the bottom of the political barrel. Chris Elliott has pulled Baldwin County Superintendent Eddie Tyler into the Barrel. It is interesting that Jonathan Gray works for both. How can a school board consultant be drawing a pay check from the school system while he is lining his pockets with Elliott Campaign money?
 

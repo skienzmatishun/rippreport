@@ -14,7 +14,8 @@ categories:
 - citycouncil
 authors:
 - ripp-report
-alttags: The Fairhope Downtown Clock on a black and gold pole stands beside flower-lined sidewalks, overlooking an empty street leading to downtown buildings
+alttags: The Fairhope Downtown Clock on a black and gold pole stands beside flower-lined
+  sidewalks, overlooking an empty street leading to downtown buildings
 related_articles:
 - slug: marble-mouth
   title: MARBLE MOUTH
@@ -96,6 +97,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope council members secretly cut deals with private developers to trade
+  off prime downtown property. Building on previous coverage, council minutes and
+  meeting records expose how councilmen ignored zoning laws to protect favored insiders.
+  Time is running out for the politicians who sold out the town's character.
 ---
 The two most photographed places in Fairhope, are the Pier and the Downtown Clock. The Clock and adjoining patio are subjects of photography by tourists and locals daily. It is not only an iconic location, it is the soul of downtown. Change it and you have changed Fairhope. It is a TOURIST ATTRACTION.
 

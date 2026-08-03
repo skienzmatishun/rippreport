@@ -14,7 +14,8 @@ tags:
 - ronan
 authors:
 - ripp-report
-alttags: Three dark gray silhouette figures of people, each with a differently colored speech bubble above their head
+alttags: Three dark gray silhouette figures of people, each with a differently colored
+  speech bubble above their head
 related_articles:
 - slug: the-good-the-bad-and-the-ugly
   title: THE GOOD THE BAD AND THE UGLY
@@ -96,6 +97,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City Attorney Marcus McDowell and Council leadership routinely make secret
+  municipal decisions while completely freezing out the elected Mayor. Meeting minutes
+  and police records demonstrate how city hall insiders deliberately hid key files
+  and altered prosecution documents. See how local power brokers weaponized city offices
+  to control the municipal agenda.
 ---
 Can you hear me now! How many times in the last 18 months has the Mayor of Fairhope gone on record, with the City Council, about the lack of communication between the Mayor’s office and the City Attorney.
 
