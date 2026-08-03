@@ -13,7 +13,8 @@
 <script>
   (function () {
     const COMMENTS_API = 'https://comments.rippreport.com/api/comments/latest';
-    const COMMENT_LIMIT = 7;
+    const COMMENT_LIMIT = 7; // Default limit for single post pages
+    const COMMENT_LIMIT_LIST = 10; // Limit for front page and paginated pages
     const MAX_CONTENT_LENGTH = 80;
 
     // Custom pageId mappings for shared comment threads
@@ -188,6 +189,28 @@
     }
 
     /**
+     * Detect if we're on a list page (home or paginated list)
+     * Returns true for home page, category pages, tag pages, and paginated versions
+     */
+    function isListPage() {
+      const path = window.location.pathname;
+      // Home page
+      if (path === '/' || path === '') return true;
+      // Paginated pages (/page/2/, /page/3/, etc.)
+      if (path.match(/^\/page\/\d+\/?$/)) return true;
+      // Category or tag list pages
+      if (path.match(/^\/(categories|tags)\//)) return true;
+      return false;
+    }
+
+    /**
+     * Get the appropriate comment limit based on page type
+     */
+    function getCommentLimit() {
+      return isListPage() ? COMMENT_LIMIT_LIST : COMMENT_LIMIT;
+    }
+
+    /**
      * Fetch and render recent comments
      */
     async function loadRecentComments() {
@@ -195,7 +218,8 @@
       if (!container) return;
 
       try {
-        const response = await fetch(`${COMMENTS_API}?limit=${COMMENT_LIMIT}`, {
+        const limit = getCommentLimit();
+        const response = await fetch(`${COMMENTS_API}?limit=${limit}`, {
           method: 'GET',
           headers: {
             'Accept': 'application/json'
