@@ -1,12 +1,97 @@
 ---
-title: "Phenix City Corruption is Eerily Similar to Fairhope"
+title: Phenix City Corruption is Eerily Similar to Fairhope
 date: 2012-08-01
-description: "Fairhope's city administrator receives vanity award while Phenix City administrator faces corruption charges"
-tags: ["archive", "historical", "gregg-mims", "city-administrator", "accma-award"]
+description: Fairhope's city administrator receives vanity award while Phenix City administrator faces corruption charges
+tags:
+- archive
+- historical
+- gregg-mims
+- city-administrator
+- accma-award
 authors:
 - admin
+related_articles:
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 79.13712543851099
+  llm_score: 95
+  recency_score: 0.03847127143819452
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: fairhope-epicenter-corruption
+  title: Fairhope - Epicenter of Political Corruption via Conflict of Interest
+  score: 78.05568689997538
+  llm_score: 92
+  recency_score: 5.820199674858366
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 72.52642885378295
+  llm_score: 85
+  recency_score: 2.0269659092518943
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 69.05499380527077
+  llm_score: 80
+  recency_score: 2.0662143803069033
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: jack-ass
+  title: JACK ASS
+  score: 65.33618926496962
+  llm_score: 75
+  recency_score: 0.6830882735752963
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: absolute-power
+  title: ABSOLUTE POWER
+  score: 61.74451896982043
+  llm_score: 70
+  recency_score: 0.0309840764674679
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 54.78967619297708
+  llm_score: 60
+  recency_score: 0.040638109618195
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-eat-their-own
+  title: CATALYST - EAT THEIR OWN
+  score: 51.305306931930154
+  llm_score: 55
+  recency_score: 0.005514858598370741
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: backseat-quarterbacks
+  title: BACKSEAT QUARTERBACKS
+  score: 44.4109151563598
+  llm_score: 45
+  recency_score: 0.3627621490688241
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: fairhope-going-backwards
+  title: FAIRHOPE GOING BACKWARDS?
+  score: 37.39682740249685
+  llm_score: 35
+  recency_score: 0.03175756435685505
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **Wed, Aug 1, 2012, 1:03 PM**
 
 ## Phenix City Corruption is Eerily Similar to Fairhope

@@ -1,12 +1,98 @@
 ---
-title: "A Stark Reality"
+title: A Stark Reality
 date: 2016-03-25
-description: "Baldwin County is the most corrupt county in Alabama, and Monday's Fly Creek Apartments vote will prove it"
-tags: ["archive", "historical", "corruption", "fly-creek", "governor-bentley", "family-court"]
+description: Baldwin County is the most corrupt county in Alabama, and Monday's Fly Creek Apartments vote will prove it
+tags:
+- archive
+- historical
+- corruption
+- fly-creek
+- governor-bentley
+- family-court
 authors:
 - admin
+related_articles:
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 79.954632576033
+  llm_score: 95
+  recency_score: 4.7391373121897375
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 77.99637493105743
+  llm_score: 93
+  recency_score: 1.4791558535802596
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 77.89872230134371
+  llm_score: 90
+  recency_score: 12.9176532327263
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: shackled-chained-handcuffed-bc-un-family-court
+  title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+  score: 72.25160616334516
+  llm_score: 85
+  recency_score: 0.44673543923461945
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: black-cloud
+  title: BLACK CLOUD
+  score: 68.76377142466133
+  llm_score: 80
+  recency_score: 0.39168569180259616
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 65.39804868674214
+  llm_score: 75
+  recency_score: 1.0387799487673255
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: southern-gothic
+  title: SOUTHERN GOTHIC
+  score: 58.37519717258541
+  llm_score: 65
+  recency_score: 0.6573837423660799
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: baldwin-county-legal-eagle
+  title: Baldwin County Legal Eagle
+  score: 57.77275075347052
+  llm_score: 55
+  recency_score: 37.193316832455444
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 40.91779874521702
+  llm_score: 40
+  recency_score: 0.2773427849978641
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: eyes-on-you-👀
+  title: EYES ON YOU 👀
+  score: 37.411266989219406
+  llm_score: 35
+  recency_score: 0.11478518801156337
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **THE RIPP REPORT/BALDWIN COUNTY LEGAL EAGLE**  
 **FREAKY FRIDAY 2 of 2**  
 **March 25, 2016**

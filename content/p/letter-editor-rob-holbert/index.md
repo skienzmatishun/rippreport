@@ -1,12 +1,98 @@
 ---
-title: "Letter to Editor Rob Holbert of Lagniappe"
+title: Letter to Editor Rob Holbert of Lagniappe
 date: 2015-09-11
-description: "Social media fills the gap left by traditional media refusing to cover Baldwin County corruption"
-tags: ["archive", "historical", "lagniappe", "media", "legal-schnauzer", "journalistic-ethics"]
+description: Social media fills the gap left by traditional media refusing to cover Baldwin County corruption
+tags:
+- archive
+- historical
+- lagniappe
+- media
+- legal-schnauzer
+- journalistic-ethics
 authors:
 - admin
+related_articles:
+- slug: deaf-ears
+  title: DEAF EARS
+  score: 79.13447622769438
+  llm_score: 95
+  recency_score: 0.02323830924263325
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: exposure-2
+  title: EXPOSURE
+  score: 77.677064957017
+  llm_score: 92
+  recency_score: 3.6431235028476214
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: game-on-mayor-kant-hubbard-goes-down-youre-next
+  title: GAME ON MAYOR KANT HUBBARD GOES DOWN, YOU’RE NEXT
+  score: 73.42683695272878
+  llm_score: 75
+  recency_score: 47.204312478190445
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: perfect-puzzle
+  title: PERFECT PUZZLE
+  score: 72.20760133241595
+  llm_score: 85
+  recency_score: 0.19370766139163936
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: alabama-black-hole
+  title: ALABAMA BLACK HOLE
+  score: 68.70978721809722
+  llm_score: 80
+  recency_score: 0.08127650405896042
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: letter-to-the-alabama-attorney-general
+  title: Letter to the Alabama Attorney General
+  score: 61.78924995421631
+  llm_score: 70
+  recency_score: 0.2881872367437651
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: pot-calling-the-kettle-black
+  title: POT CALLING THE KETTLE BLACK
+  score: 54.81019033382403
+  llm_score: 60
+  recency_score: 0.1585944194881516
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: top-shelf-corruption
+  title: TOP SHELF CORRUPTION
+  score: 51.32314278373893
+  llm_score: 55
+  recency_score: 0.10807100649883039
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: anonymous-bb
+  title: ANONYMOUS-BB
+  score: 40.869969853326936
+  llm_score: 40
+  recency_score: 0.0023266566298650814
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: lagniappe
+  title: LAGNIAPPE
+  score: 34.26846861855962
+  llm_score: 30
+  recency_score: 2.043694556717812
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **FREAKY FRIDAY**  
 **Sept 11 2015 {NEVER EVER EVER FORGET}**
 

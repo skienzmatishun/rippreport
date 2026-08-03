@@ -1,12 +1,98 @@
 ---
-title: "Pittman & Kant Caught"
+title: Pittman & Kant Caught
 date: 2014-02-13
-description: "Mayor Kant lies about who signed BP Boom documents, Leigh Anne Ryals denies involvement"
-tags: ["archive", "historical", "bp-boom-scandal", "trip-pittman", "tim-kant", "leigh-anne-ryals"]
+description: Mayor Kant lies about who signed BP Boom documents, Leigh Anne Ryals denies involvement
+tags:
+- archive
+- historical
+- bp-boom-scandal
+- trip-pittman
+- tim-kant
+- leigh-anne-ryals
 authors:
 - admin
+related_articles:
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 84.19072758969203
+  llm_score: 100
+  recency_score: 9.096683640729124
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: what-triangle-lawsuit-details
+  title: What? - Triangle Lawsuit Details Exposed
+  score: 84.15420006640238
+  llm_score: 80
+  recency_score: 88.88665038181365
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-epicenter-corruption
+  title: Fairhope - Epicenter of Political Corruption via Conflict of Interest
+  score: 83.83776547834998
+  llm_score: 95
+  recency_score: 27.067151500512303
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: new-sweep-the-ripp-report-27-political-corruption-and-deceit-in-fairhope
+  title: 'New Sweep: The Ripp Report #27'
+  score: 82.92931046796872
+  llm_score: 90
+  recency_score: 41.84353519082013
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 73.58785467845136
+  llm_score: 85
+  recency_score: 8.130164401095277
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 66.88852888033442
+  llm_score: 75
+  recency_score: 9.609041061922857
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: investigative-reporting
+  title: INVESTIGATIVE REPORTING
+  score: 63.39205415853633
+  llm_score: 70
+  recency_score: 9.504311411583915
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: fraud
+  title: FRAUD
+  score: 59.80860406546074
+  llm_score: 65
+  recency_score: 8.899473376399213
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: judge-sentences-bayou-la-batre-mayor
+  title: Judge Sentences Ex-Bayou La Batre Mayor
+  score: 57.13816988903388
+  llm_score: 50
+  recency_score: 53.544476861944815
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 37.756601782599716
+  llm_score: 35
+  recency_score: 2.100460249948362
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 ## Pittman & Kant Caught
 
 ### New and Material Evidence in the Ongoing Fairhope BP Boom Scandal Investigation

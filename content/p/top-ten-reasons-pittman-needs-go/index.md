@@ -1,12 +1,98 @@
 ---
-title: "Top Ten Reasons Slippery Trip Pittman NEEDS TO GO!"
+title: Top Ten Reasons Slippery Trip Pittman NEEDS TO GO!
 date: 2014-04-29
-description: "From BP Boom Scandal to AAA education act, a comprehensive list of Senator Pittman's corrupt dealings"
-tags: ["archive", "historical", "trip-pittman", "bp-boom-scandal", "corruption", "contracts"]
+description: From BP Boom Scandal to AAA education act, a comprehensive list of Senator Pittman's corrupt dealings
+tags:
+- archive
+- historical
+- trip-pittman
+- bp-boom-scandal
+- corruption
+- contracts
 authors:
 - admin
+related_articles:
+- slug: alabama-political-corruption-exposed
+  title: Alabama Political Corruption Exposed
+  score: 86.12875591032127
+  llm_score: 92
+  recency_score: 52.24034648434724
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: demand-the-truth
+  title: DEMAND THE TRUTH
+  score: 83.16030647261586
+  llm_score: 98
+  recency_score: 11.171762217541199
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: jack-ass
+  title: JACK ASS
+  score: 79.80893852417178
+  llm_score: 95
+  recency_score: 3.9013965139876725
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: dont-let-the-door-hit-you-in-the-ass
+  title: DON’T LET THE DOOR HIT YOU IN THE ASS
+  score: 72.37275150291609
+  llm_score: 85
+  recency_score: 1.1433211417674878
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+  title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+  score: 63.47561159201176
+  llm_score: 70
+  recency_score: 9.984766654067629
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: green-acres-on-acid
+  title: GREEN ACRES ON ACID
+  score: 59.50738735145484
+  llm_score: 65
+  recency_score: 7.167477270865283
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alabama-education-accountability-act
+  title: The Alabama Education Accountability Act - Just How Stupid Are We?
+  score: 55.06940391403539
+  llm_score: 40
+  recency_score: 81.64907250570349
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: memorial-day-special-edition
+  title: Memorial Day Special Edition - R&R Billboards
+  score: 53.542558908694446
+  llm_score: 35
+  recency_score: 92.86971372499306
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: halloween-characters
+  title: HALLOWEEN CHARACTERS
+  score: 51.49570401773608
+  llm_score: 55
+  recency_score: 1.100298101982455
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: primary-election-endorsements-2014
+  title: Primary Election Endorsements - Vote Out the Machine
+  score: 40.72869439974821
+  llm_score: 75
+  recency_score: 93.37998559710435
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **April 29, 2014 Ripp Report #13**
 
 ## The Top Ten Reasons Slippery Trip Pittman NEEDS TO GO!

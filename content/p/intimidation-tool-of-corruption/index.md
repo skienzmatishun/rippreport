@@ -1,13 +1,99 @@
 ---
-title: "Intimidation - A Tool of Corruption"
+title: Intimidation - A Tool of Corruption
 date: 2016-02-26
 thumbnail: img/intimidation-tool-of-corruption.png
-description: "How intimidation and bullying tactics are used by politicians, judges and attorneys in Baldwin County"
-tags: ["archive", "historical", "intimidation", "corruption", "family-court", "good-ole-boys"]
+description: How intimidation and bullying tactics are used by politicians, judges and attorneys in Baldwin County
+tags:
+- archive
+- historical
+- intimidation
+- corruption
+- family-court
+- good-ole-boys
 authors:
 - admin
+related_articles:
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 88.44802540382446
+  llm_score: 90
+  recency_score: 73.57614607199059
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: stark-reality
+  title: A Stark Reality
+  score: 84.80271728342176
+  llm_score: 80
+  recency_score: 92.61562437967505
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: one-woman-2
+  title: ONE WOMAN
+  score: 79.8550519122966
+  llm_score: 95
+  recency_score: 4.16654849570544
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: one-woman
+  title: ONE WOMAN
+  score: 78.48796653196514
+  llm_score: 93
+  recency_score: 4.305807558799547
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 72.41216163988555
+  llm_score: 85
+  recency_score: 1.3699294293418693
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: exposure
+  title: EXPOSURE
+  score: 70.50651752148397
+  llm_score: 70
+  recency_score: 50.412475748532785
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: catalyst-intimidation-a-pig-pen
+  title: CATALYST INTIMIDATION - A PIG PEN
+  score: 67.21975132568349
+  llm_score: 75
+  recency_score: 11.51357012268003
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: judicial-trick
+  title: JUDICIAL TRICK
+  score: 55.058090100612695
+  llm_score: 60
+  recency_score: 1.5840180785229494
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: saturday-apology
+  title: SATURDAY APOLOGY
+  score: 48.26139519627416
+  llm_score: 50
+  recency_score: 2.5030223785763788
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: newsletter-the-ripp-report
+  title: NEWSLETTER - THE RIPP REPORT
+  score: 43.342202729691465
+  llm_score: 40
+  recency_score: 14.217665695725898
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **Intimidation:** to make timid; make afraid; daunt, to force or deter with threats or violence; simply put bullying.
 
 Intimidation is as common as pecan trees in Baldwin County, used by some politician's judges and attorneys very effectively. A bully's major weapon is intimidation, they go hand in hand. The intimidation may be subtle, such as rumors, or aggressive, threatening additional legal action if you do not comply. Municipal Intimidation is a Mayor exceeding his or her authority over employees, forcing employees to follow instructions, even if they are wrong, or risk losing their jobs. A good example is Mayor Kant and his heavy handed tactics against his own employees and citizens on the issue of Fly Creek Apartments. Intimidation in the family court system in Baldwin County is so woven into the judicial system that the very justice we seek is unavailable. Threatening someone's job or reputation to further the "good Ole Boy" machine is the cardinal rule among bullies.

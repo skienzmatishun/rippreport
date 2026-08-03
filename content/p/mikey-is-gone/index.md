@@ -1,12 +1,98 @@
 ---
-title: "Mikey Is Gone! - Fairhope Courier's Demise"
+title: Mikey Is Gone! - Fairhope Courier's Demise
 date: 2013-09-13
-description: "Mike Odom and Fairhope Courier are history, Attorney General Luther Strange affair allegations go viral"
-tags: ["archive", "historical", "fairhope-courier", "mike-odom", "luther-strange", "governor-bentley"]
+description: Mike Odom and Fairhope Courier are history, Attorney General Luther Strange affair allegations go viral
+tags:
+- archive
+- historical
+- fairhope-courier
+- mike-odom
+- luther-strange
+- governor-bentley
 authors:
 - admin
+related_articles:
+- slug: alabama-political-corruption-exposed
+  title: Alabama Political Corruption Exposed
+  score: 96.09815616473466
+  llm_score: 95
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: alabama-education-accountability-act
+  title: The Alabama Education Accountability Act - Just How Stupid Are We?
+  score: 89.14413804446691
+  llm_score: 93
+  recency_score: 65.57879375568477
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: baldwin-county-legal-eagle
+  title: Baldwin County Legal Eagle
+  score: 72.41483724641289
+  llm_score: 80
+  recency_score: 21.385314166874046
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: insanity-2
+  title: INSANITY
+  score: 72.18411551217146
+  llm_score: 85
+  recency_score: 0.05866419498583656
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: alabama-first-in-political-corruption
+  title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+  score: 65.27393187736146
+  llm_score: 75
+  recency_score: 0.3251082948283822
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 61.800179068198766
+  llm_score: 70
+  recency_score: 0.3510296421428962
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 54.87881215684775
+  llm_score: 60
+  recency_score: 0.5531699018745336
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 44.68894077893473
+  llm_score: 45
+  recency_score: 1.961409478874682
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: stark-reality
+  title: A Stark Reality
+  score: 38.77459263542634
+  llm_score: 35
+  recency_score: 7.953907653701443
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: what-the
+  title: What the
+  score: 30.43523534801487
+  llm_score: 25
+  recency_score: 0.0026032510855052765
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **Fri, Sep 13, 2013**
 
 Dear Fairhopians and Alabamians,

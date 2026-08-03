@@ -1,12 +1,98 @@
 ---
-title: "The Alabama Education Accountability Act - Just How Stupid Are We?"
+title: The Alabama Education Accountability Act - Just How Stupid Are We?
 date: 2014-02-14
-description: "Governor Bentley and Senator Pittman deceive legislature, rob $300 million from education for tax credits"
-tags: ["archive", "historical", "education", "trip-pittman", "governor-bentley", "accountability-act"]
+description: Governor Bentley and Senator Pittman deceive legislature, rob $300 million from education for tax credits
+tags:
+- archive
+- historical
+- education
+- trip-pittman
+- governor-bentley
+- accountability-act
 authors:
 - admin
+related_articles:
+- slug: mikey-is-gone
+  title: Mikey Is Gone! - Fairhope Courier's Demise
+  score: 90.535442392293
+  llm_score: 95
+  recency_score: 65.57879375568477
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: top-ten-reasons-pittman-needs-go
+  title: Top Ten Reasons Slippery Trip Pittman NEEDS TO GO!
+  score: 86.37375174012234
+  llm_score: 85
+  recency_score: 81.64907250570349
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: halloween-characters
+  title: HALLOWEEN CHARACTERS
+  score: 75.80841446870723
+  llm_score: 90
+  recency_score: 0.8983831950665335
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: baldwin-county-legal-eagle
+  title: Baldwin County Legal Eagle
+  score: 70.88871408950875
+  llm_score: 75
+  recency_score: 32.61010601467527
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: what-the
+  title: What the
+  score: 54.783299070228
+  llm_score: 60
+  recency_score: 0.003969653810961732
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: portables-and-prisons
+  title: PORTABLES AND PRISONS
+  score: 47.91917899118708
+  llm_score: 50
+  recency_score: 0.535279199325722
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: alabama-national-news
+  title: ALABAMA NATIONAL NEWS
+  score: 40.96088893601799
+  llm_score: 40
+  recency_score: 0.5251113821034047
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-ethics-self-dealing-immunity
+  title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+  score: 37.40211102247549
+  llm_score: 35
+  recency_score: 0.062138379234063006
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: self-dealing-self-stealing
+  title: SELF-DEALING-SELF-STEALING
+  score: 33.92364487631303
+  llm_score: 30
+  recency_score: 0.060958038799876775
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: scumbag
+  title: SCUMBAG
+  score: 30.434869141361723
+  llm_score: 25
+  recency_score: 0.0004975628298810515
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **The Alabama Education "Accountability Act" - Just How Stupid Are We?**
 
 The Republican-dominated Alabama legislature and Reverend Dr. Robert Bentley, the Governor of the State of Alabama, pulled a major fast one on the citizens they pretend to serve.

@@ -1,12 +1,98 @@
 ---
-title: "Alabama Political Corruption Exposed"
+title: Alabama Political Corruption Exposed
 date: 2013-09-04
-description: "Deep dive into Alabama Republican machine, Mike Hubbard investigations, and BP Boom Scandal"
-tags: ["archive", "historical", "alabama-corruption", "mike-hubbard", "bp-boom-scandal", "matt-hart"]
+description: Deep dive into Alabama Republican machine, Mike Hubbard investigations, and BP Boom Scandal
+tags:
+- archive
+- historical
+- alabama-corruption
+- mike-hubbard
+- bp-boom-scandal
+- matt-hart
 authors:
 - admin
+related_articles:
+- slug: covered-in-oil
+  title: COVERED IN OIL
+  score: 79.46506988067732
+  llm_score: 95
+  recency_score: 1.9241518138945364
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: legal-corruption
+  title: LEGAL CORRUPTION
+  score: 77.10743751063215
+  llm_score: 92
+  recency_score: 0.36776568613484334
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: mikey-is-gone
+  title: Mikey Is Gone! - Fairhope Courier's Demise
+  score: 75.22859094734335
+  llm_score: 65
+  recency_score: 97.56439794722424
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: reading-in-the-rain
+  title: READING IN THE RAIN
+  score: 72.18921696603513
+  llm_score: 85
+  recency_score: 0.0879975547019304
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: stark-reality
+  title: A Stark Reality
+  score: 70.0452490635847
+  llm_score: 80
+  recency_score: 7.760182115612004
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: no-guardrails
+  title: NO GUARDRAILS
+  score: 65.31125163206768
+  llm_score: 75
+  recency_score: 0.5396968843891398
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: look-in-the-mirror
+  title: LOOK IN THE MIRROR
+  score: 51.637154321625026
+  llm_score: 55
+  recency_score: 1.9136373493438719
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: alabama-sec-of-state-the-only-one
+  title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+  score: 44.522162333203966
+  llm_score: 45
+  recency_score: 1.002433415922802
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: slap-in-the-face
+  title: SLAP IN THE FACE
+  score: 33.927062820139966
+  llm_score: 30
+  recency_score: 0.08061121580480553
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: primary-election-endorsements-2014
+  title: Primary Election Endorsements - Vote Out the Machine
+  score: 22.937567654170508
+  llm_score: 35
+  recency_score: 48.78202802296086
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 Dear Fairhopians and Alabama citizens,
 
 I apologize for being so quiet lately. I have not forgotten you. It is just that I have been busy researching public corruption in Alabama. It is an exhausting task. Alabama is much worse off than I ever imagined.

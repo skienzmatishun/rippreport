@@ -1,13 +1,99 @@
 ---
-title: "Fairhope - Epicenter of Political Corruption via Conflict of Interest"
+title: Fairhope - Epicenter of Political Corruption via Conflict of Interest
 date: 2015-06-05
 thumbnail: img/fairhope-epicenter-of-corruption.jpg
-description: "Complete breakdown of the good ole boy network's conflicts of interest costing Fairhope millions"
-tags: ["archive", "historical", "conflicts-of-interest", "good-ole-boys", "corruption", "city-council"]
+description: Complete breakdown of the good ole boy network's conflicts of interest costing Fairhope millions
+tags:
+- archive
+- historical
+- conflicts-of-interest
+- good-ole-boys
+- corruption
+- city-council
 authors:
 - admin
+related_articles:
+- slug: independence-day-2014
+  title: Independence Day – What does it Mean?
+  score: 86.0384520502921
+  llm_score: 95
+  recency_score: 39.72109928917947
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 81.82621692586275
+  llm_score: 90
+  recency_score: 35.500747323710755
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+  title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+  score: 78.7135924208328
+  llm_score: 85
+  recency_score: 37.60315641978851
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: no-more-silence-we-want-answers
+  title: NO MORE SILENCE — WE WANT ANSWERS
+  score: 73.97704317005349
+  llm_score: 80
+  recency_score: 30.367998227807558
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: there-are-more-of-us-than-them
+  title: THERE ARE MORE OF US THAN THEM
+  score: 67.79589532254835
+  llm_score: 70
+  recency_score: 34.826398104653
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: moratorium-party
+  title: MORATORIUM PARTY
+  score: 65.24231403849001
+  llm_score: 75
+  recency_score: 0.14330572131750796
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: game-on
+  title: GAME ON
+  score: 63.90120159281472
+  llm_score: 65
+  recency_score: 32.43190915868462
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: catalyst-bullies
+  title: CATALYST BULLIES
+  score: 51.4002880768828
+  llm_score: 55
+  recency_score: 0.5516564420760771
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: bend-over-fairhope
+  title: BEND OVER FAIRHOPE
+  score: 42.056102032015055
+  llm_score: 40
+  recency_score: 6.822586684086551
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: judge-sentences-bayou-la-batre-mayor
+  title: Judge Sentences Ex-Bayou La Batre Mayor
+  score: 39.9118199430225
+  llm_score: 35
+  recency_score: 14.49296467237936
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 The foundation of a "good ole boy" government is a solid base of individuals who hold office while maintaining a conflict of interest which promotes their agenda while holding the population hostage to any change.
 
 Fairhope aka Fauxhope is a classic example, until these individuals are removed the general public will suffer through tax waste and remain disconnected from municipal government.

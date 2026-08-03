@@ -3,7 +3,7 @@ title: Paradise Lost II
 date: 2020-06-03
 thumbnail: img/paradise-lost-ii.png
 categories:
-- authors
+- external
 tags:
 - baldwin-county
 - chris-warner

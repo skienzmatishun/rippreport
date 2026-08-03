@@ -3,7 +3,7 @@ title: PARADISE LOST
 date: 2018-06-07
 thumbnail: img/paradise-lost.png
 categories:
-- authors
+- external
 authors:
 - ripp-report
 alttags: Map outline of Florida highlighting coastal areas impacted by population growth and infrastructure challenges

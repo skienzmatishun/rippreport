@@ -1,12 +1,97 @@
 ---
-title: "Judge Sentences Ex-Bayou La Batre Mayor"
+title: Judge Sentences Ex-Bayou La Batre Mayor
 date: 2013-06-30
-description: "BP corruption case mirrors Fairhope's Mayor Kant and Senator Pittman scandal"
-tags: ["archive", "historical", "bp-corruption", "bayou-la-batre", "coverup"]
+description: BP corruption case mirrors Fairhope's Mayor Kant and Senator Pittman scandal
+tags:
+- archive
+- historical
+- bp-corruption
+- bayou-la-batre
+- coverup
 authors:
 - admin
+related_articles:
+- slug: pittman-kant-caught-new-evidence
+  title: Pittman & Kant Caught
+  score: 90.52947423685997
+  llm_score: 98
+  recency_score: 53.544476861944815
+  length_score: 100
+  category_score: 0
+  rank: 1
+- slug: alabama-political-corruption-exposed
+  title: Alabama Political Corruption Exposed
+  score: 90.16667773922586
+  llm_score: 90
+  recency_score: 83.45839700054867
+  length_score: 100
+  category_score: 0
+  rank: 2
+- slug: a-decade-of-corruption
+  title: A DECADE OF CORRUPTION
+  score: 79.14709528311454
+  llm_score: 95
+  recency_score: 0.09579787790851671
+  length_score: 100
+  category_score: 0
+  rank: 3
+- slug: fairhope-epicenter-corruption
+  title: Fairhope - Epicenter of Political Corruption via Conflict of Interest
+  score: 71.21616776910946
+  llm_score: 80
+  recency_score: 14.49296467237936
+  length_score: 100
+  category_score: 0
+  rank: 4
+- slug: new-sweep-the-ripp-report-27-political-corruption-and-deceit-in-fairhope
+  title: 'New Sweep: The Ripp Report #27'
+  score: 65.63563513364669
+  llm_score: 70
+  recency_score: 22.404902018468416
+  length_score: 100
+  category_score: 0
+  rank: 5
+- slug: catalyst-justice
+  title: CATALYST JUSTICE
+  score: 65.23499018321353
+  llm_score: 75
+  recency_score: 0.10119355347771856
+  length_score: 100
+  category_score: 0
+  rank: 6
+- slug: political-intimidation
+  title: POLITICAL INTIMIDATION
+  score: 55.67741056835758
+  llm_score: 60
+  recency_score: 5.1451107680560595
+  length_score: 100
+  category_score: 0
+  rank: 7
+- slug: cover-up
+  title: COVER UP
+  score: 47.827122533239624
+  llm_score: 50
+  recency_score: 0.0059545661278087745
+  length_score: 100
+  category_score: 0
+  rank: 8
+- slug: moore-of-the-chucky-cheeze-and-jack-burrell-show
+  title: MOORE OF THE CHUCKY CHEEZE AND JACK BURRELL SHOW
+  score: 37.58690094826573
+  llm_score: 35
+  recency_score: 1.1246804525279486
+  length_score: 100
+  category_score: 0
+  rank: 9
+- slug: happy-days
+  title: HAPPY DAYS
+  score: 33.91616733407266
+  llm_score: 30
+  recency_score: 0.017962170917773253
+  length_score: 100
+  category_score: 0
+  rank: 10
 ---
-
 **Judge sentences ex-Bayou La Batre Mayor**  
 **June 30, 2013 - Mobile Press Register**  
 **Brendan Kirby**
