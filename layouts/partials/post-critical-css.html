@@ -1014,6 +1014,52 @@ margin-bottom:-10px;
   .alabama__widget__link p.widget__summary {
     margin-top: 0;
   }
+
+  /* Repost widget styles */
+  .repost__widget__link h4 {
+    position: relative;
+    overflow: hidden;
+    background: #8c8c8c;
+    font-family: monospace;
+    filter: blur(0.7px);
+  }
+
+  /* Elections widget styles */
+  .elections__widget__link h4 {
+    background: linear-gradient(
+      to bottom,
+      #dc143c 0%,
+      #dc143c 2.5%,
+      #ffffff 2.5%,
+      #ffffff 5%,
+      #1e3a8a 5%,
+      #1e3a8a 100%
+    );
+    color: white;
+    font-weight: bold;
+  }
+
+  /* Dixie widget styles */
+  .dixie__widget__link h4 {
+    background-color: rgb(84, 0, 0);
+  }
+
+  /* Backstory widget styles */
+  .backstory__widget__link h4 {
+    font-family: "Amatic SC", cursive;
+    background: linear-gradient(
+      to right,
+      #646464 0%,
+      #dfe2e7 50%,
+      #646464 100%
+    );
+    color: black;
+  }
+
+  /* Alabama widget item margin */
+  .widget-recent .widget__item:has(.alabama__widget__link) {
+    margin-bottom: 20px;
+  }
   
   .is-selection-disabled {
     pointer-events: none;
