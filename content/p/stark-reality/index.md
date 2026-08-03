@@ -2,6 +2,7 @@
 title: A Stark Reality
 date: 2016-03-25
 description: Baldwin County is the most corrupt county in Alabama, and Monday's Fly Creek Apartments vote will prove it
+thumbnail: img/stark-reality.png
 tags:
 - archive
 - historical

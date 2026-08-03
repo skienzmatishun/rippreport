@@ -2,6 +2,7 @@
 title: Letter to Editor Rob Holbert of Lagniappe
 date: 2015-09-11
 description: Social media fills the gap left by traditional media refusing to cover Baldwin County corruption
+thumbnail: img/letter-editor-rob-holbert.png
 tags:
 - archive
 - historical
@@ -93,8 +94,6 @@ related_articles:
   category_score: 0
   rank: 10
 ---
-**FREAKY FRIDAY**  
-**Sept 11 2015 {NEVER EVER EVER FORGET}**
 
 ## Letter to the Editor: Rob Holbert
 
