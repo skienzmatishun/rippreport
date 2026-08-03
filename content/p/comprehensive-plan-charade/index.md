@@ -2,6 +2,7 @@
 title: Comprehensive Plan Charade
 date: 2014-11-14
 description: City spends $80,000 updating comprehensive plan it routinely ignores for developer deals
+thumbnail: img/comprehensive-plan-charade.png
 tags:
 - archive
 - historical

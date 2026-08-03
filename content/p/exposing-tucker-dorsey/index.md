@@ -1,13 +1,12 @@
 ---
 title: "Exposing Jasper Tucker Dorsey and the Sicko Six"
 date: 2014-05-31
+thumbnail: img/exposing-tucker-dorsey.jpg
 description: "Commissioner Dorsey is a micromanager who doesn't pay taxes while raising ours - vote for Will McDaniel"
 tags: ["archive", "historical", "tucker-dorsey", "county-commission", "lynn-stacey", "elections"]
 authors:
 - admin
 ---
-
-**May 31, 2014 Ripp Report #18**
 
 ## Exposing Jasper "Tucker" Dorsey and the Sicko Six...VOTE ON TUESDAY, JUNE 3, 2014
 
