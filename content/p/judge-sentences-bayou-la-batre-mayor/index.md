@@ -1,6 +1,7 @@
 ---
 title: Judge Sentences Ex-Bayou La Batre Mayor
 date: 2013-06-30
+thumbnail: img/judge-sentences-bayou-la-batre-mayor.png
 description: BP corruption case mirrors Fairhope's Mayor Kant and Senator Pittman scandal
 tags:
 - archive

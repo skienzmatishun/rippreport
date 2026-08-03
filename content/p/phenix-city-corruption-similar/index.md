@@ -1,6 +1,7 @@
 ---
 title: Phenix City Corruption is Eerily Similar to Fairhope
 date: 2012-08-01
+thumbnail: img/phenix-city-corruption-similar.png
 description: Fairhope's city administrator receives vanity award while Phenix City administrator faces corruption charges
 tags:
 - archive
