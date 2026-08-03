@@ -2,6 +2,7 @@
 title: Mikey Is Gone! - Fairhope Courier's Demise
 date: 2013-09-13
 description: Mike Odom and Fairhope Courier are history, Attorney General Luther Strange affair allegations go viral
+thumbnail: img/mikey-is-gone.png
 tags:
 - archive
 - historical
