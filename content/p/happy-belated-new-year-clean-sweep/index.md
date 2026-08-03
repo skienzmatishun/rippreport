@@ -1,6 +1,7 @@
 ---
 title: "Happy Belated New Year Clean Sweep"
 date: 2013-03-15
+thumbnail: img/happy-belated-new-year-clean-sweep.png
 description: "Looking back at the 2012 election results and forward to addressing remaining issues with Mayor Kant, the Triangle Lawsuit, and Planning & Zoning."
 tags: ["archive", "historical", "fairhope-politics", "clean-sweep", "tim-kant", "trip-pittman", "election-2012"]
 ---
