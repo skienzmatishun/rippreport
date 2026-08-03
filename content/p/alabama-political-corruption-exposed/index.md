@@ -2,12 +2,10 @@
 title: Alabama Political Corruption Exposed
 date: 2013-09-04
 description: Deep dive into Alabama Republican machine, Mike Hubbard investigations, and BP Boom Scandal
+thumbnail: img/alabama-political-corruption-exposed.png
 tags:
-- archive
-- historical
-- alabama-corruption
 - mike-hubbard
-- bp-boom-scandal
+- Trip Pittman
 - matt-hart
 authors:
 - admin

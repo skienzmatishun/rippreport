@@ -94,7 +94,6 @@ related_articles:
   category_score: 0
   rank: 10
 ---
-## Pittman & Kant Caught
 
 ### New and Material Evidence in the Ongoing Fairhope BP Boom Scandal Investigation
 
