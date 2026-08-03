@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Two individuals in a small white boat on calm water near a pier at sunset, one pointing ahead and the other wearing a captains hat
+alttags: Two individuals in a small white boat on calm water near a pier at sunset,
+  one pointing ahead and the other wearing a captains hat
 related_articles:
 - slug: people-power-2
   title: PEOPLE POWER
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: City council bosses blocked critical utility repairs while environmental
+  groups turned a blind eye to massive raw sewage spills. Official records document
+  how local leaders wasted millions on legal fees instead of fixing decaying pipes.
+  Their cozy arrangement left everyday residents drowning in local corruption.
 ---
 Long before Fairhope Mayor Wilson even thought about running for office, Fairhope had major infrastructure and sewer problems. Baykeeper was contacted time and time again through the years about various issues. I know because I called. Now the Director of Baykeeper is claiming that all you got to do, if you have an environmental problem, is to contact Baykeeper.
 

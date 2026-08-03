@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A man with a long white beard wears a brown robe and yellow hat while holding a sword and a red stop sign with pedestrian symbols
+alttags: A man with a long white beard wears a brown robe and yellow hat while holding
+  a sword and a red stop sign with pedestrian symbols
 related_articles:
 - slug: backstory-podcast-4
   title: 'BACKSTORY PODCAST #4'
@@ -78,6 +79,10 @@ related_articles:
   recency_score: 43.718568735808944
   category_score: 0
   rank: 10
+summary: The Fairhope City Council sabotaged municipal oversight to secure free insurance
+  and unchecked salary control for themselves. Insider podcast interviews and ignored
+  study reports expose the true motives behind these political power plays. We uncover
+  the arrogant decisions stripping accountability from city hall.
 ---
 [Backstory Podcast](https://www.facebook.com/BackstoryPodcast/) @BackstoryPodcast
 

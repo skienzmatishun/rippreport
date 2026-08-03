@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A city budget document with financial figures is reflected in glass, overlaid with calculator symbols and blue-handled scissors
+alttags: A city budget document with financial figures is reflected in glass, overlaid
+  with calculator symbols and blue-handled scissors
 related_articles:
 - slug: cut-nose-off-spite-face
   title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope Council members deliberately blocked balanced budgets to protect
+  their secret slush funds and political allies. Leaked letters and financial audits
+  show how city leaders violated state laws to stall administrative reform. Will city
+  officials ever answer for breaking state law to keep taxpayers in the dark?
 ---
 The Fairhope City Council has not approved a single Fairhope City Budget, on time, in the last 3 years. Their only accomplishment, so far, has been to pass an ordinance for sleeping in cars, a perfect example of a lack of compassion and leadership.
 

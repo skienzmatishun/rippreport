@@ -6,7 +6,8 @@ categories:
 - bcso
 authors:
 - admin
-alttags: A mans head peeks from a black and white duvet with ornate designs and the text The Boss and The Real, on a bed near white chairs
+alttags: A mans head peeks from a black and white duvet with ornate designs and the
+  text The Boss and The Real, on a bed near white chairs
 related_articles:
 - slug: straw-man
   title: STRAW MAN
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County corrupt insiders labeled whistleblowers as unhinged while
+  covering up dirty land deals and illegal straw purchases. Sealed court filings and
+  hidden financial logs unravel a complex web of corporate deception. How much longer
+  can these powerful power brokers hide their illegal paper trail?
 ---
 CRAZY, that is the lame ass excuse that people use to describe people that they do not agree with, or they simply want to shoot the messenger. While covering the Family Court in Baldwin County I interviewed over three dozen women and men entangled in a corrupt inept system. Every attorney defending his or her client would sooner or later say that the spouse was CRAZY. That was ultimately the main argument.
 

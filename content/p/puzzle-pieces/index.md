@@ -10,7 +10,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: A jigsaw puzzle of a harbor bridge and port scene, featuring missing pieces that display the word Alabama and dollar bills
+alttags: A jigsaw puzzle of a harbor bridge and port scene, featuring missing pieces
+  that display the word Alabama and dollar bills
 related_articles:
 - slug: fairhope-citizens-citizens-citizens
   title: FAIRHOPE “CITIZENS CITIZENS CITIZENS”
@@ -92,6 +93,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State power brokers engineered a massive infrastructure scheme that quietly
+  opens the door to secretive foreign investors. Investigative files reveal how officials
+  pieced together private partnerships to shield multi-billion dollar port deals from
+  public scrutiny. Discover how every piece of this dirty deal fits into a much larger
+  conspiracy.
 ---
 _**This is not a proven fact, it's just a collection of puzzle pieces that needs to be looked into.**_
 

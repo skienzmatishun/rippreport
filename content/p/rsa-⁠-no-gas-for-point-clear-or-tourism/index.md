@@ -6,7 +6,8 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: A red circle with a diagonal slash crossing over a black silhouette of a gas pump
+alttags: A red circle with a diagonal slash crossing over a black silhouette of a
+  gas pump
 related_articles:
 - slug: gulf-shores-lawsuit-2020
   title: GULF SHORES LAWSUIT & 2020
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Powerful state entities cut off local fuel access to force through an unwanted
+  high-density development project. Internal records expose how corporate power plays
+  directly targeted community access and local jobs to crush opposition. The Ripp
+  Report exposes how state officials choked off local tourism just to flex their control.
 ---
 Several weeks ago Lagniappe published the story below:
 

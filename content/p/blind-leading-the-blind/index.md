@@ -88,6 +88,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council members Burrell, Boone, and Brown repeatedly shut out local residents
+  to push through self-serving real estate deals. Official state ethics filings and
+  internal memos reveal a blatant disregard for proper bidding procedures. This ongoing
+  investigation brings these shadowy backroom maneuvers into the spotlight.
 ---
  In Fairhope Transparency is being promoted by a Jester. His followers do not care about facts only the Jester spin. The Jester, Boone and Burrell are now calling for community engagement in reference to the Greeno Road Overlay District. Citizens agree and the Mayor has already implemented several public meetings, so what the hell are they talking about? DISTRACTION. The same three hypocrites had NO Community Engagement when they voted themselves full family insurance. They had NO community engagement for the 2.6 million dollar recreation land and they unanimously said NO to the black community when it came to recreation land. Remember that in 2020.
 

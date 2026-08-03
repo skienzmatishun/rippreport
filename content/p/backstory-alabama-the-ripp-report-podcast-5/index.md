@@ -78,5 +78,9 @@ related_articles:
   recency_score: 47.33381668370766
   category_score: 0
   rank: 10
+summary: Fairhope officials continue pushing self-serving policies while hiding behind
+  a well-entrenched good ole boy network. Secret audio recordings and insider records
+  expose how top leaders plan to pad their own pockets. Are you ready to hear the
+  truth about the quiet deals made behind closed doors?
 ---
 {{< youtubecomments >}}

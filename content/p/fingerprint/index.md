@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A hand making a stop gesture with the index finger pointing up and other fingers curled, featuring a green highlight on the fingertip
+alttags: A hand making a stop gesture with the index finger pointing up and other
+  fingers curled, featuring a green highlight on the fingertip
 related_articles:
 - slug: goat-hill-piggy-bank
   title: GOAT HILL PIGGY-BANK
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County politicians lined their own pockets with disaster relief funds
+  while pushing an unwanted toll bridge scheme on working families. Leaked documents
+  expose how insider deals funneled hundreds of thousands of BP dollars straight to
+  private corporate accounts. We reveal whose fingerprints are smeared across this
+  multi-million dollar betrayal.
 ---
 After a 4 and half hour meeting of the Eastern Shore Metropolitan Planning Organization, they voted to stand firm against Poison Ivy.
 

@@ -8,10 +8,12 @@ categories:
 - thursday-thunder
 authors:
 - admin
-alttags: Side-by-side logos of the City of Fairhope seal and Mobile Baykeeper emblem, featuring a sun with sailboats on the left and a heron on a green backgroun...
+alttags: Side-by-side logos of the City of Fairhope seal and Mobile Baykeeper emblem,
+  featuring a sun with sailboats on the left and a heron on a green backgroun...
 related_articles:
 - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
-  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
+  title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor
+    Karin Wilson'
   score: 87.80171196773843
   llm_score: 100
   recency_score: 95.71112779029973
@@ -90,6 +92,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope officials traded scathing letters with environmental watchdogs after
+  secret utility slush funds drained city coffers dry. Newly uncovered correspondence
+  proves how local leaders knew about decaying sewer lines long before public spills
+  occurred. Why did environmental watchdogs remain silent while city coffers bled
+  cash?
 ---
 August 7, 2019
 

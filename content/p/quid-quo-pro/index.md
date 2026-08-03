@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A black and white silhouette of two hands shaking, with suit sleeve cuffs visible
+alttags: A black and white silhouette of two hands shaking, with suit sleeve cuffs
+  visible
 related_articles:
 - slug: honey-bees
   title: HONEY BEES
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilmen Burrell, Boone, and Brown traded backroom political favors to
+  buy millions in overpriced property without public oversight. Court records and
+  questionable appraisals expose the exact kickbacks driving these secret deals. The
+  Ripp Report unveils how this shady network turned city taxpayers into cash cows.
 ---
 Please read the Mayor’s comments and file written complaints to those listed at the end of the article. Stop being silent gullible pawns of a council that does nothing for nothing and always does something for something. The Council and the Single tax Colony are willing to ignore the 2400 plus people who have already signed a petition opposing development of the gully.
 

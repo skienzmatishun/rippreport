@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A smiling person in a straw man costume made of burlap and yellow fringe wears a pointed blue hat with white X marks. Their arms are outstretched
+alttags: A smiling person in a straw man costume made of burlap and yellow fringe
+  wears a pointed blue hat with white X marks. Their arms are outstretched
 related_articles:
 - slug: your-rights-your-money
   title: YOUR RIGHTS YOUR MONEY
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Corrupt county officials used shell companies and dummy buyers to secretly
+  funnel millions in real estate deals. Court records expose the paper trail hiding
+  who actually profited from a multi-million dollar land grab. Who really pulled the
+  strings behind this multi-million dollar dummy front?
 ---
 Well folks you are going to have to get a Lagniappe paper or go on line to read this article, this is called investigative reporting. The article is a little long but tells a big story.
 

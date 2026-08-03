@@ -12,7 +12,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: A white calendar icon with a dark blue grid of squares and three top rings, centered on a solid blue circular background
+alttags: A white calendar icon with a dark blue grid of squares and three top rings,
+  centered on a solid blue circular background
 related_articles:
 - slug: bend-over-fairhope
   title: BEND OVER FAIRHOPE
@@ -94,6 +95,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Council President Jack Burrell and his allies systematically drained municipal
+  utility funds to cover up legal blunders. Financial records reveal a long pattern
+  of council members sabotaging emergency infrastructure repairs to spite city leadership.
+  Check out the complete record of failures before they rewrite history.
 ---
 This is a comment that the Ripp Report received. It accurately describes the Fairhope City council and their obstruction in infrastructure repairs.
 

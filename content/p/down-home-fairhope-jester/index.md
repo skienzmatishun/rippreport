@@ -88,6 +88,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Fairhope leaders siphoned millions into unneeded construction projects while
+  hand-delivering lucrative construction contracts to their own buddies. Federal court
+  transcripts and hidden budget line items document the full extent of this pay-to-play
+  scheme. Public service was never part of their agenda when private profits were
+  on the line.
 ---
 The last Fairhope City Council meeting should prove to everyone that this “Catalyst” Council is not going to listen to their constituents, they are benefiting, with an insurance package, from a part time job, that other part time employees are exempt from.
 

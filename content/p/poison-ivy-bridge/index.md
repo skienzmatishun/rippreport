@@ -11,7 +11,8 @@ categories:
 - alabama
 authors:
 - admin
-alttags: The Mobile River Bridge spanning a waterway, overlaid with large green leaves and shoreline buildings
+alttags: The Mobile River Bridge spanning a waterway, overlaid with large green leaves
+  and shoreline buildings
 related_articles:
 - slug: congratulations-fairhope
   title: CONGRATULATIONS FAIRHOPE
@@ -93,6 +94,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: State leaders tried to force a costly bridge toll down local throats while
+  ignoring massive infrastructure fund misdirection. Public records detail how frantic
+  politicians scrambled when tens of thousands of angry taxpayers united against the
+  tax grab. Learn why state bosses ran for cover the moment voters stood their ground.
 ---
 Last nights meeting opposing the Mobile Bridge Toll, is just one of many springing up around Mobile and Baldwin County.
 

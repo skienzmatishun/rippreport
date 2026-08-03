@@ -6,7 +6,8 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: White sign on US currency displays a QR code, 3000-Acre Certified South Alabama MEGA SITE text, contact details, and the City of Mobile seal
+alttags: White sign on US currency displays a QR code, 3000-Acre Certified South Alabama
+  MEGA SITE text, contact details, and the City of Mobile seal
 related_articles:
 - slug: repeat
   title: REPEAT
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Baldwin County economic planners squandered fifty million taxpayer dollars
+  on a vacant industrial site that remains a total ghost town. Financial audits reveal
+  how county commissioners keep dumping millions more into a failed property to protect
+  their political allies. See how these reckless insiders wasted your hard-earned
+  dollars for the record.
 ---
 The Ripp Report has been covering the Baldwin County Mega-Site since it was purchased.
 

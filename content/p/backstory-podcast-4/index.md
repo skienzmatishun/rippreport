@@ -78,5 +78,9 @@ related_articles:
   recency_score: 76.03529065620016
   category_score: 0
   rank: 10
+summary: Fairhope City Council members routinely ignore public transparency while
+  quietly granting themselves lavish government perks. Newly uncovered documents highlight
+  a pattern of unanimous block voting designed to bypass open debate. We expose the
+  secret deals driving this entrenched political machine.
 ---
 {{< youtubecomments >}}

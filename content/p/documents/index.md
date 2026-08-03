@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A black and white line drawing of three overlapping documents with horizontal bars representing text
+alttags: A black and white line drawing of three overlapping documents with horizontal
+  bars representing text
 related_articles:
 - slug: marble-mouth
   title: MARBLE MOUTH
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Councilman Robert Brown manipulated his public position to secure lucrative
+  contracts for personal gain. A damning forty-two page criminal complaint sitting
+  on the Attorney General’s desk details every single ethical violation. Read the
+  paper trail that local officials prayed would never see the light of day.
 ---
 Fairhope City Councilman Robert Brown has been defending his contract with the Eastern Shore Art Center since the publication of:
 

@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A blue cartoon bottle character labeled Crystal Clean stands in water splashes. A pink arrow points to an acidic pH scale above it
+alttags: A blue cartoon bottle character labeled Crystal Clean stands in water splashes.
+  A pink arrow points to an acidic pH scale above it
 related_articles:
 - slug: stinking-ticking-time-bomb
   title: STINKING TICKING TIME BOMB
@@ -88,6 +89,11 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Greedy utility bosses and corrupt county officials teamed up to trap local
+  residents in an unregulated private sewer monopoly. Leaked corporate records and
+  massive petition numbers confirm how politicians protected corporate profits over
+  public health. Join thousands of fed-up citizens standing up against this blatant
+  corporate shakedown.
 ---
 Remember those who lost their lives 18 years ago, September 11 2001, NEVER FORGET
 

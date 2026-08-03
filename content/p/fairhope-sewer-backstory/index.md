@@ -6,7 +6,8 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: A top-down view of a rusted, circular metal storm drain cover set in grass with scattered dry leaves
+alttags: A top-down view of a rusted, circular metal storm drain cover set in grass
+  with scattered dry leaves
 related_articles:
 - slug: people-power-2
   title: PEOPLE POWER
@@ -88,6 +89,10 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
+summary: Former Mayor Can't and his council cronies siphoned off millions from the
+  city utility fund to line lawyer pockets and hide debt. Investigative documents
+  show years of complete infrastructure neglect while top officials collected double
+  paychecks. Can you believe how long they kept taxpayers in the dark?
 ---
 The Ripp Report is a consumer, citizen, group. The intent of the Ripp Report is to inform the public of current political events as well as consumer complaints. The Ripp Report is a non profit and for the greater part, self funded, no-one owns us.
 
