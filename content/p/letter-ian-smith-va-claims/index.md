@@ -1,7 +1,7 @@
 ---
 title: "Letter to Ian Smith - VA Claims and Benefits"
 date: 2015-02-19
-thumbnail: img/letter-ian-smith-va-claims.png
+thumbnail: img/letter-ian-smith-va-claims.jpg
 description: "46-year battle with VA over clear and unmistakable error claim highlights broken system"
 tags: ["archive", "historical", "veterans-affairs", "va-claims", "bureaucracy"]
 authors:

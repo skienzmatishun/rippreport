@@ -93,9 +93,6 @@ related_articles:
   category_score: 0
   rank: 10
 ---
-**Wed, Aug 1, 2012, 1:03 PM**
-
-## Phenix City Corruption is Eerily Similar to Fairhope
 
 Dear Fairhopians,
 
