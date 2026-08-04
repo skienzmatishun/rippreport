@@ -2,6 +2,7 @@
 title: GOING DOWN
 date: 2019-10-18
 youtube: HgDzN6pDwgc
+thumbnail: img/going-down.png
 categories:
 - citycouncil
 authors:

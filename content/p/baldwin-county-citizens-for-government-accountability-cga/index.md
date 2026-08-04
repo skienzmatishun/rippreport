@@ -3,7 +3,7 @@ title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
 date: 2018-07-13
 thumbnail: img/baldwin-county-citizens-for-government-accountability-cga.jpg
 categories:
-- Special-Report
+- external
 authors:
 - ripp-report
 alttags: A black-and-white bald eagle head facing right beside an American flag with
