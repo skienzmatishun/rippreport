@@ -1,6 +1,7 @@
 ---
 title: "The Restore Act: Where's the Accountability?"
 date: 2014-04-01
+thumbnail: img/restore-act-accountability.png
 description: "Questioning the lack of audits and accountability for BP Oil Spill grant funds distributed to Baldwin County politicians and connected contractors."
 tags: ["archive", "historical", "bp-oil-spill", "restore-act", "trip-pittman", "bob-riley", "grant-fraud", "accountability"]
 ---
