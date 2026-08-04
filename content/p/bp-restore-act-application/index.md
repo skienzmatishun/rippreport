@@ -1,6 +1,7 @@
 ---
 title: "Fairhope's BP Restore Act Application"
 date: 2014-04-08
+thumbnail: img/bp-restore-act-application.png
 description: "The city's flawed Fly Creek Watershed study omits Arthur Corte's environmental damage and excludes public participation in a multi-million dollar lawsuit settlement."
 tags: ["archive", "historical", "restore-act", "fly-creek", "arthur-corte", "triangle-lawsuit", "tim-kant", "thompson-engineering"]
 ---

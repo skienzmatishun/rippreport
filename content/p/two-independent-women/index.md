@@ -1,6 +1,9 @@
 ---
 title: "Two Independent Women Challenge the Machine"
+thumbnail: img/two-independent-women.png
 date: 2014-04-14
+categories: 
+- elections
 description: "Ginger Poynter and Kim McCuiston seek ballot access as independents to challenge Baldwin County's corrupt political establishment."
 tags: ["archive", "historical", "baldwin-county", "ginger-poynter", "kim-mccuiston", "independent-candidates", "trip-pittman", "elections"]
 ---
