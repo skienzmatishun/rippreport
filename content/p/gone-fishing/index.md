@@ -3,7 +3,7 @@ title: GONE FISHING
 date: 2018-06-15
 thumbnail: img/gone-fishing.jpg
 categories:
-- freaky-friday
+- holiday
 authors:
 - ripp-report
 alttags: Fishing rod and reel against a white background, reflecting the articles
