@@ -36,8 +36,6 @@
     <link rel="stylesheet" href="{{ . | relURL }}">
 {{- end }}
 
-{{/* Brevo Form Styles */}}
-<link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
 
 {{/* Conditional Critical CSS */}}
 {{ if .IsHome }}
@@ -104,8 +102,6 @@
       };
       var AUTOHIDE = Boolean(0);
     </script>
-    <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
-    <script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
     
     {{/* Small JavaScript Bundle - only lightweight files */}}
     {{ $jsFiles := slice }}
