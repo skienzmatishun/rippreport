@@ -1,6 +1,6 @@
 ---
 title: LOST OPPORTUNITY
-thumbnail: img/lost-opportunity.jpg
+thumbnail: img/lost-opportunity.png
 date: 2020-03-26
 categories:
 - thursday-thunder
