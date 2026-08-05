@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a267b6b97c69c53a-MIA
+Content-Type: application/json
+Date: Wed, 05 Aug 2026 18:02:39 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PQNKS%2Fs3wNRpY6BdbPwuDFEYqSPUXnxVCbl9pHUp%2BbMrmGNA4KuKW5aoYl1M9RZ41KXXrt0jiNB8XsZ47esWYY7JwEQMMmPuaAsxi08cGWuYyCpbm067A9x5xAQDkrTd9F0kvdKJmg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=3260
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: f95e7b8957ade087b6b24e952b8ca878
+X-Etags-2: f95e7b8957ade087b6b24e952b8ca878
+
+{"error":"Upstream returned 403","url":"https://www.wkrg.com/news/crime/owner-of-irish-pub-in-fairhope-arrested-on-assault-charges/1624556533","title":"Preview unavailable","description":"Could not fetch preview data"}
