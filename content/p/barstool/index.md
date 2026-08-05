@@ -88,7 +88,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-summary: Powerful city officials actively protected a violent bar owner from criminal
+summary: City officials actively protected a violent bar owner from criminal
   prosecution to shield their own political interests. Court filings and surveillance
   footage show prosecutor Marcus McDowell intentionally botched legal paperwork to
   drop serious assault charges. Read the shocking truth behind the local elite who
