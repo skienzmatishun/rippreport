@@ -1,7 +1,7 @@
 ---
 title: PANDEMIC CORRUPTION
 date: 2017-10-04
-thumbnail: img/pandemic-corruption.jpg
+thumbnail: img/pandemic-corruption.png
 categories:
 - alabama
 tags:
