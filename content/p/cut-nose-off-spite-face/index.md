@@ -1,7 +1,7 @@
 ---
 title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
 date: 2017-04-21
-thumbnail: img/cut-your-nose-off-to-spite-your-face.jpg
+thumbnail: img/cut-your-nose-off-to-spite-your-face.png
 categories:
 - freaky-friday
 tags:
