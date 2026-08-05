@@ -1,7 +1,7 @@
 ---
 title: Fairhope Special Meeting
 date: 2017-12-28
-thumbnail: img/fairhope-special-meeting.jpg
+thumbnail: img/fairhope-special-meeting.png
 categories:
 - wonderful-wednesday
 tags:
