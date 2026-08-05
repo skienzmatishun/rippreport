@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a225727548de03e0-MIA
+Cf-Ray: a261c7d549c2f366-MIA
 Content-Type: application/json
-Date: Tue, 28 Jul 2026 17:01:40 GMT
+Date: Wed, 05 Aug 2026 00:45:42 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=X0A2%2BsbSYvOzMGUX5ltOYZXYLrjSr9g3Y4Qu6fpfXfDbpMXgxIo5feUu6Lya4fkcHOk0hnp7Hl1fwlAMFpMF9kFI99gNCFWEuOjOG5Eii0%2FyZjkUTdG0iBDh3M10GVKq2jcB1lZ%2FjqBTF%2BQ%2BQGiScQ9Zpw%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=w4H%2Ft3gGc8LRY7E%2B2wtDJGz%2FsxD43PF0h4bV7m5Ng%2BtsA097opB0o0ilVudCoy2vO6fNary6Pg1mLiTivg8QCkp3bK74G%2Bsfz50d71z%2FMxsVIfKk5xCo2ECJGGCTM9GxlRhvjSyi%2FX9KnwU%2FuFa4SmvCoA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=491
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=384
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 5816270ca3b19f9acd296c38531060e7
-X-Etags-2: 5816270ca3b19f9acd296c38531060e7
+X-Etags-1: f404f971aba56d42802dc40dc7f01de3
+X-Etags-2: f404f971aba56d42802dc40dc7f01de3
 
-{"title":"COURT OF PUBLIC OPINION","description":"The Executive Director of the Alabama Ethics Commission, Mr Tom Albritton should resign his position. His failure to do so will only further erode the little trust Alabama citizens have in the Ethics Commission.\nIf you are not familiar with this case please read this article first:\nSelf-dealing? — Ethics director’s kids’ tuition paid from trust he oversees As director of the Alabama Ethics Commission, Tom Albritton is the state’s policeman for conflicts of interest and ethical breaches that can arise throughout all levels of government, but having","url":"https://rippreport.com/p/court-of-public-opinion-2/","image":"https://rippreport.com/img/court-of-public-opinion.png","charset":"utf-8"}
+{"title":"COURT OF PUBLIC OPINION","description":"Continuing our coverage, top ethics enforcer Tom Albritton weaponized his position to hide a massive private financial conflict. Secret trust documents and official filings show over one hundred thousand dollars steered straight to personal tuition payments. Will the mainstream press finally report on this obvious statehouse betrayal?","url":"https://rippreport.com/p/court-of-public-opinion-2/","image":"https://rippreport.com/img/court-of-public-opinion.png","charset":"utf-8"}

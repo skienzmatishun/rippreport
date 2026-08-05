@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a22572267c4803e0-MIA
+Cf-Ray: a261c7995a50f366-MIA
 Content-Type: application/json
-Date: Tue, 28 Jul 2026 17:01:27 GMT
+Date: Wed, 05 Aug 2026 00:45:33 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=C9ekxsn%2BfjmArxwKH9ICVfX0h0pnk1GdPYGAivc7P6wWEM1upChnfq%2B8OeK1vdBCizmDenz33CcBReRQ7zpZXLYfpjzhL25V9PDihkE3%2FcCznQjqTISesTjoqTk5bVQZnpuevVspnoGiHZek40tCPtTtAg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tCEMpIJU3hcrj2LXDw%2BTwx5Tf0R4kt8YF0NaADEprfJUkIW8tmKYQ4KzZ6hgRs%2FY%2BngQO5%2BEVbsZH293jRAS4jUhJb3qrutw1EyrTZxYvGg5bQiW1VfgrSbTYtsR0ePGtx37jwWl7FMCVW5Jj9QfKIoHhw%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=398
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=358
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: f9de817698abb833fc93b17e647a8a86
-X-Etags-2: f9de817698abb833fc93b17e647a8a86
+X-Etags-1: 4c7437bb5618682b369917dd12feb0cc
+X-Etags-2: 4c7437bb5618682b369917dd12feb0cc
 
-{"title":"KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 2","description":"The Ripp Report is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with: Alabama Exposure and Accountability LLC.\nRipp Report operates as an independent, not for profit consumer organization. No political group, candidate for office or outside source has contributed to this post. We are NOT attorneys and do not give legal counsel. We are ADVOCATES for justice.\nTO WHOM IT MAY CONCERN:\nKRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 1 This is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with: Alabama Exposure and Accountability LLC. We operate as an independent, not for profit consumer organization. No political group, candidate for office or outside source has contributed to this post. We are NOT attorneys and do not give legal council. We are ADVOCATES for justice. The Duty to Seek Justice","url":"https://rippreport.com/p/kristy-haygood-is-not-qualified-2/","image":"https://rippreport.com/img/kristy-hagood-is-not-qualified-2.png","charset":"utf-8"}
+{"title":"KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 2","description":"In our coverage of the 28th Judicial Circuit judge race, we detail how candidate Kristi Hagood lacks the competence to sit on the bench. Hagood hid crucial evidence as a prosecutor and helped lock up an innocent man for over twenty years. Voters must reject Hagood and elect Jeremiah Giles to stop prosecutor misconduct in our courthouses.","url":"https://rippreport.com/p/kristy-haygood-is-not-qualified-2/","image":"https://rippreport.com/img/kristy-hagood-is-not-qualified-2.png","charset":"utf-8"}

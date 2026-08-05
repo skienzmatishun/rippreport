@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2257209992503e0-MIA
+Cf-Ray: a261c77e6b07f366-MIA
 Content-Type: application/json
-Date: Tue, 28 Jul 2026 17:01:23 GMT
+Date: Wed, 05 Aug 2026 00:45:29 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tx%2BsDFY62nx9D%2FqAJVk3abR5UQPivkgXLAO%2FQT7sG8kvfnTzaS6pcxoMUGhrknvsOPruGcSm8mj0zQIt9djajfaE2o32J9bG9Bj%2BsGEPj2JCEOYCNsom0YdC0Wn4cjJbr5coeeKm0WyYF7qybt0PGytnZg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DODtmi2SkX8O20T4ZEvutq6g5DwEmTdaHRdmByTa3qm4SCNDUCBGrCLhwf70AoXFOatY8wZyZrqfR71gv%2BBTk4K%2F0VT6ZjVDe%2Bd0Tq1%2Bn13ZvEMbF93ZoAWdeEEuiiI3E4Dl7%2FGfyhMtVc7WVjCXdG2zeA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=441
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=406
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: e4a1da6ae5884c18485543e1ba88c1f6
-X-Etags-2: e4a1da6ae5884c18485543e1ba88c1f6
+X-Etags-1: 947fd2f8613b4b320b0834bafaa26ea9
+X-Etags-2: 947fd2f8613b4b320b0834bafaa26ea9
 
-{"title":"RE-GIFT GIFT ??","description":"ATTENTION FAIRHOPE TAXPAYERS. Fly Creek PUD Amendment & the Deed to the City of the Most Sensitive 4 Acres. Mitsy, email to all council members and Mayor Wilson would greatly benefit the City. It concerns the importance and impact of the Deed of Gift from Corte to the City of the lowest 4 acres between the retention pond outfall pipe and Fly Creek.","url":"https://rippreport.com/p/re-gift-gift-2/","image":"https://rippreport.com/img/re-gift-gift-2.png","charset":"utf-8"}
+{"title":"RE-GIFT GIFT ??","description":"We revisit how Mayor Tim Kant and developer Corte tricked Fairhope into accepting a shady four-acre land gift along Fly Creek. This dirty transaction made taxpayers liable for severe environmental damage and illegal runoff from a private development project. This toxic deal shows exactly how local politicians still sacrifice public wetlands to protect rich private developers today.","url":"https://rippreport.com/p/re-gift-gift-2/","image":"https://rippreport.com/img/re-gift-gift-2.png","charset":"utf-8"}

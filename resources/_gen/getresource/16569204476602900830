@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a261c86b7d62f366-MIA
+Content-Type: application/json
+Date: Wed, 05 Aug 2026 00:46:06 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IaEzP2Lg%2B3EZu9sXgNRt70n4b7IWB00veu4%2BzGk9DO8eMSUimzpdmmOeE8VPDRR3PxiY2m0FxHlq2MUwqvoRrW2YxkLl5MvI2t0udLHxb76mDmSxPiHCrchxiK1lWlkOSjYo66qvXYizdsU6b3lj8CoeuA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=97
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 10517dcbc909b16eb06852b9bb9aa08f
+X-Etags-2: 10517dcbc909b16eb06852b9bb9aa08f
+
+{"title":"ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL","description":"Self-serving politicians sold out local taxpayers to fund a multi-million-dollar real estate scheme. Real estate files and tax documents reveal how officials skimmed school revenues to bankroll a vacant cow pasture. What did these officials trade away just to secure their piece of the political pie?","url":"https://rippreport.com/p/elliotttuckercatalyst-selling-your-soul/","image":"https://rippreport.com/img/elliott-tucker-catalyst-selling-your-soul.jpg","charset":"utf-8"}

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a261c86cb961f366-MIA
+Content-Type: application/json
+Date: Wed, 05 Aug 2026 00:46:10 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=RzcZws3o%2B%2BZiCRcutGgQqjy3OyPkENnvoS3BlEq2BUp8oPO%2B6h8apk3evgj9IUV1btj%2B7db87c%2F1%2F5qX3J4HMXgkjAWQqyth2iZF2YY3Wi%2Bq8JwnQ1xO01sH%2B0nFZWM0w%2BnUkjG6d5P9jdeOX%2F5tJ5ZePA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=3501
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e6c95893df41c16d2eee783c7de96320
+X-Etags-2: e6c95893df41c16d2eee783c7de96320
+
+{"error":"Upstream returned 403","url":"https://www.al.com/news/2018/05/in_baldwin_county_school_tax_i.html","title":"Preview unavailable","description":"Could not fetch preview data"}

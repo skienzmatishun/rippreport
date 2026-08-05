@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2257268a9f303e0-MIA
+Cf-Ray: a261c7d6ce2af366-MIA
 Content-Type: application/json
-Date: Tue, 28 Jul 2026 17:01:38 GMT
+Date: Wed, 05 Aug 2026 00:45:43 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MFcHhl7UvPxBuKe2SGbNsX2ncExDwwG%2F4LUkFRMiTlIx37l5sVExbC9L1IClR0YPZ5cK3c73FhY%2FCCVaSWwRryAbqQ%2FCH5pecWqxUJEL4PopWLEYlUZ%2F6PymD%2BIThFDhnqPo4gsY0wSgbBOHpWhfhS8aXA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=T1RHxlIlz6erB4kiEEu7n4bc%2FbD8ek1iVnribGO3swzMRMW6ERqkF92rf%2Bc3O1Y8x8n3Uy3DXeJGXHTyVp%2BCfwtjunjx6SiOzOO59J5uf1c3oFhojfLPjKYPix7GZigY3MzO6BLlOXPnVkSov0b8GJeZlw%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=475
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=400
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 90d588fb3b0ddbd91e969f15e5304695
-X-Etags-2: 90d588fb3b0ddbd91e969f15e5304695
+X-Etags-1: dcacd8598c467990aa4d77085e5ac647
+X-Etags-2: dcacd8598c467990aa4d77085e5ac647
 
-{"title":"TO THE SECRETARY OF STATE AND THE DIRECTOR OF ELECTIONS","description":"To: May 17, 2026\nSec. of State Mr. Wes Allen\nMr. Jeff Elrod Director of Elections\nDear Sirs:\nThe primary election cycle in Baldwin County has had more public participation than in any election in 20 years plus. The most attention has been on the Sheriff’s race.\nThe Ripp Report has been in contact with the Sec of State in reference to suspected and strongly alleged reports of elections being fixed involving numerous races in Baldwin County, in the past.","url":"https://rippreport.com/p/letter-to-ag-elections/","image":"https://rippreport.com/img/letter-to-ag-elections.png","charset":"utf-8"}
+{"title":"TO THE SECRETARY OF STATE AND THE DIRECTOR OF ELECTIONS","description":"As part of our investigative coverage on the Baldwin County sheriff’s race, we demand state oversight against local voter fraud. The current sheriff controls the ballot boxes directly, creating a major conflict of interest for an office with a 20-year history of cover-ups. State election officials must monitor this vote before the Good Ole Boys steal another election.","url":"https://rippreport.com/p/letter-to-ag-elections/","image":"https://rippreport.com/img/letter-to-ag-elections.png","charset":"utf-8"}
