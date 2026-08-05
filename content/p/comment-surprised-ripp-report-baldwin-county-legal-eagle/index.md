@@ -3,7 +3,7 @@ title: WHO’S RESPONSIBLE?
 date: 2017-05-03
 thumbnail: img/comment-are-you-surprised-at-all.png
 categories:
-- citycouncil
+- external
 tags:
 - boone
 - burrell

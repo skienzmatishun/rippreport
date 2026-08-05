@@ -1,7 +1,7 @@
 ---
 title: FOLLOW THE BOUNCING BALL
 date: 2017-01-20
-thumbnail: img/follow-bouncing-ball.jpg
+thumbnail: img/follow-bouncing-ball.png
 categories:
 - freaky-friday
 tags:
