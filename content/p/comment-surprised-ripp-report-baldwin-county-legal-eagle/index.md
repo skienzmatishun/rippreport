@@ -1,7 +1,7 @@
 ---
 title: WHO’S RESPONSIBLE?
 date: 2017-05-03
-thumbnail: img/who-is-responsible.gif
+thumbnail: img/comment-are-you-surprised-at-all.png
 categories:
 - citycouncil
 tags:
