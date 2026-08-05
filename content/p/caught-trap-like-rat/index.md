@@ -1,7 +1,7 @@
 ---
 title: CAUGHT IN A TRAP LIKE A RAT
 date: 2017-02-03
-thumbnail: img/caught-in-a-trap-like-a-rat.jpg
+thumbnail: img/caught-in-a-trap-like-a-rat.png
 categories:
 - freaky-friday
 tags:
