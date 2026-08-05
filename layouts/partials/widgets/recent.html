@@ -47,7 +47,9 @@
 
 {{- if gt (len $finalRecent) 0 -}}
 <div class='widget-recent widget'>
+  {{- if not .IsHome }}
   <h3 class='widget__title'>{{ if and .IsHome .Paginator.HasPrev }}Latest{{ else if .IsHome }}More Posts{{ else if eq .Kind "section" }}Latest{{ else }}Related{{ end }}</h3>
+  {{- end }}
   <div class='widget__content'>
     <ul class='widget__list'>
       {{- $shown := 0 -}}
