@@ -1,7 +1,7 @@
 ---
 title: LEAKS AND COLLUSION
 date: 2017-06-02
-thumbnail: img/leaks-and-collusion.jpg
+thumbnail: img/leaks-and-collusion.png
 categories:
 - freaky-friday
 tags:
