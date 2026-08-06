@@ -1,7 +1,7 @@
 ---
 title: YOU WIN SOME YOU LOSE SOME
 date: 2018-11-07
-thumbnail: img/you-win-some-you-lose-some.jpg
+thumbnail: img/you-win-some-you-lose-some.png
 tags:
 - Elections
 - City Council
