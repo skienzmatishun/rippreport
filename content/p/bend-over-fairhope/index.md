@@ -1,7 +1,7 @@
 ---
 title: BEND OVER FAIRHOPE
 date: 2018-02-09
-thumbnail: img/bend-over-fairhope.jpg
+thumbnail: img/bend-over-fairhope.png
 categories:
 - freaky-friday
 tags:

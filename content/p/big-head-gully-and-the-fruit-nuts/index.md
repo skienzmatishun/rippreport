@@ -1,7 +1,7 @@
 ---
 title: BIG HEAD GULLY AND THE FRUIT NUTS
 date: 2018-02-06
-thumbnail: img/big-head-gully-and-the-fruit-nuts.jpg
+thumbnail: img/big-head-gully-and-the-fruit-nuts.png
 categories:
 - terrific-tuesday
 tags:
