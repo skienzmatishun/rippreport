@@ -1,7 +1,7 @@
 ---
 title: MEMORIAL DAY
 date: 2019-05-24
-thumbnail: img/memorial-day-2.jpg
+thumbnail: img/memorial-day-2.png
 categories:
 - holiday
 authors:

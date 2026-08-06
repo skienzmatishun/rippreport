@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Special Edition - R&R Billboards"
 date: 2014-05-26
-thumbnail: img/memorial-day-special-edition.jpg
+thumbnail: img/memorial-day-special-edition.png
 description: "Fairhope Public Works Director's husband owns billboard featuring Pittman and Hoss Mack - another conflict of interest"
 tags: ["archive", "historical", "jennifer-fidler", "trip-pittman", "hoss-mack", "conflicts-of-interest"]
 authors:
