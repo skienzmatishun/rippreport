@@ -1,7 +1,7 @@
 ---
 title: Warner to Sign Copies of New “Tailgater's Guide to SEC Football” at Page & Palette June 6th
 date: 2020-06-04
-thumbnail: img/warner-to-sign-copies-of-new-tailgaters-guide-to-sec.jpg
+thumbnail: img/warner-to-sign-copies-of-new-tailgaters-guide-to-sec.png
 categories:
 - authors
 tags:
