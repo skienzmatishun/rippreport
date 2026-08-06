@@ -3,7 +3,7 @@ title: Challengers emerge in Daphne mayoral race
 date: 2016-07-21
 thumbnail: img/lagniappe.png
 categories:
-- elections
+- external
 tags:
 - daphne
 - lake
