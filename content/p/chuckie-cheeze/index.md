@@ -1,7 +1,7 @@
 ---
 title: CHUCKIE CHEEZE
 date: 2018-04-04
-thumbnail: img/chuckie-cheeze.png
+thumbnail: img/chuckee-cheeze.png
 categories:
 - wonderful-wednesday
 tags:
