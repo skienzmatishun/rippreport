@@ -1,7 +1,7 @@
 ---
 title: CATALYST CANDIDATES
 date: 2018-03-16
-thumbnail: img/catalyst.jpg
+thumbnail: img/
 categories:
 - elections
 tags:

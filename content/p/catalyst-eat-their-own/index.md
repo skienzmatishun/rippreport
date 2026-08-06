@@ -1,7 +1,7 @@
 ---
 title: CATALYST - EAT THEIR OWN
 date: 2022-05-20
-thumbnail: img/catalyst.jpg
+thumbnail: img/catalyst.png
 categories:
 - freaky-friday
 authors:
