@@ -4,6 +4,7 @@ date: 2023-03-04
 categories:
 - backstory-podcast
 youtube: ZpyCDG50Lhk
+thumbnail: img/alabamas-ethics-director-should-resign.png
 authors:
 - admin
 related_articles:
