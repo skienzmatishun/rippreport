@@ -1,7 +1,7 @@
 ---
 title: CATALYST VS THE PEOPLE
 date: 2018-05-30
-thumbnail: img/catalyst-vs-the-people.jpg
+thumbnail: img/catalyst.png
 categories:
 - wonderful-wednesday
 authors:

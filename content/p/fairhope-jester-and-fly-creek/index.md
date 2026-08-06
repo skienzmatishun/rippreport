@@ -1,7 +1,7 @@
 ---
 title: FAIRHOPE JESTER AND FLY CREEK
 date: 2018-04-30
-thumbnail: img/fairhope-jester-and-fly-creek.jpg
+thumbnail: img/the-jester.png
 gif: img/the-jester1.gif
 categories:
 - ethics
