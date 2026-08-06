@@ -1,7 +1,7 @@
 ---
 title: BALDWIN COUNTY FAMILY COURT - A COTTAGE INDUSTRY
 date: 2016-10-28
-thumbnail: img/baldwin-county-family-court-a-cottage-industry.jpg
+thumbnail: img/baldwin-county-family-court-a-cottage-industry.png
 categories:
 - familycourt
 tags:
