@@ -1,7 +1,7 @@
 ---
 title: FLYING HIGH
 date: 2018-05-25
-thumbnail: img/flying-high.jpg
+thumbnail: img/flying-high.png
 categories:
 - freaky-friday
 tags:
