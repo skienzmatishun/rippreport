@@ -3,6 +3,7 @@ title: SOME THINGS NEED TO GO AWAY
 date: 2026-01-10
 thumbnail: img/some-things-need-to-go-away.png
 webp_animated: img/some-things-need-to-go-away.webp
+summary: Baldwin County really made a mistake when they elected Chris Elliott to replace Tripp Boom Boom Pittman as State Senator.
 categories:
 - citycouncil
 authors:
