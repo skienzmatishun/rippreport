@@ -1,7 +1,7 @@
 ---
 title: DIVORCE CORP
 date: 2017-09-06
-thumbnail: img/divorce-corp.jpg
+thumbnail: img/divorce-corp.png
 categories:
 - familycourt
 tags:
