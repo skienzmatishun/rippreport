@@ -1,7 +1,7 @@
 ---
 title: CHUCKEE CHEEZE
 date: 2018-10-30
-thumbnail: img/chuckee-cheeze.jpg
+thumbnail: img/chuckee-cheeze.png
 categories:
 - terrible-tuesday
 authors:
