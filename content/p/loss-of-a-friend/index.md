@@ -3,7 +3,7 @@ title: LOSS OF A FRIEND
 date: 2019-06-07
 thumbnail: img/loss-of-a-friend.jpg
 categories:
-- freaky-friday
+- holiday
 authors:
 - admin
 alttags: White roses and tulips in a floral arrangement with green foliage
@@ -88,10 +88,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-summary: Powerful political insiders tried to rewrite local history and turn a painful
-  personal loss into a cheap PR stunt. Records show how Baldwin County power brokers
-  used a friend's tragic memory to mask their own dirty dealings. The Ripp Report
-  exposes what corrupt leaders tried to bury behind a veil of false sympathy.
+summary: Carolyn, Mariah and I, as well as a few hundred other people, are saddened by the news of a very dear friend’s passing. Raymond Watkins, he was one of a kind and I for one will smile every time I think of Raymond.
 ---
 RAYMOND WATKINS
 
