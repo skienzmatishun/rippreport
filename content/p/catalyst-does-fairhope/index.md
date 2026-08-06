@@ -1,7 +1,7 @@
 ---
 title: CATALYST DOES FAIRHOPE
 date: 2018-04-20
-thumbnail: img/catalyst-does-fairhope.jpg
+thumbnail: img/catalyst.png
 categories:
 - freaky-friday
 tags:

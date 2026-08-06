@@ -1,13 +1,12 @@
 ---
 title: CATALYST HELD BACK
 date: 2018-06-06
-thumbnail: img/catalyst-held-back.jpg
+thumbnail: img/catalyst.png
 categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: Red circle with a slash through the word Catalyst, symbolizing the group’s
-  limited success in Baldwin County elections
+alttags: Red circle with a slash through the word Catalyst
 related_articles:
 - slug: peoples-choice
   title: PEOPLE'S CHOICE

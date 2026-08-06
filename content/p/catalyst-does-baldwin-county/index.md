@@ -1,13 +1,12 @@
 ---
 title: CATALYST DOES BALDWIN COUNTY
 date: 2018-06-29
-thumbnail: img/catalyst-does-baldwin-county.jpg
+thumbnail: img/catalyst.png
 categories:
 - freaky-friday
 authors:
 - ripp-report
-alttags: Red circle with a slash through the word CATALYST, symbolizing opposition
-  to the political group discussed in the article
+alttags: Red circle with a slash through the word CATALYST
 related_articles:
 - slug: catalyst-alabama-values
   title: CATALYST - ALABAMA VALUES

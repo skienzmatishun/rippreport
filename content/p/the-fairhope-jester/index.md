@@ -1,7 +1,7 @@
 ---
 title: THE FAIRHOPE JESTER
 date: 2020-04-08
-thumbnail: img/the-jester.jpg
+thumbnail: img/the-jester.png
 gif: img/the-jester-1.gif
 categories:
 - citycouncil
