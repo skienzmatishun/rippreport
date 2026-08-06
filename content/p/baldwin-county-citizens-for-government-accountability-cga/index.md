@@ -1,7 +1,7 @@
 ---
 title: BALDWIN COUNTY CITIZENS For GOVERNMENT ACCOUNTABILITY (CGA)
 date: 2018-07-13
-thumbnail: img/baldwin-county-citizens-for-government-accountability-cga.jpg
+thumbnail: img/baldwin-county-citizens-for-government-accountability-cga.png
 categories:
 - external
 authors:
