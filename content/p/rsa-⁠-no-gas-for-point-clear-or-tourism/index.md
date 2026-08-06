@@ -1,7 +1,7 @@
 ---
 title: RSA ⁠— NO GAS FOR POINT CLEAR OR TOURISM
 date: 2019-08-30
-thumbnail: img/rsa-no-gas-for-point-clear-or-tourism.png
+thumbnail: img/public-access.png
 categories:
 - citycouncil
 authors:
