@@ -1,7 +1,7 @@
 ---
 title: COVERED IN OIL
 date: 2017-08-16
-thumbnail: img/covered-in-oil.jpg
+thumbnail: img/covered-in-oil.png
 categories:
 - wonderful-wednesday
 tags:
