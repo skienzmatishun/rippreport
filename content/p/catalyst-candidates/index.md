@@ -9,7 +9,7 @@ tags:
 authors:
 - ripp-report
 alttags: A brown suitcase with two light gray stripes and a dark handle. A tag on
-  the handle shows a red prohibition symbol over ATTAYES
+  the handle shows catalyst crossed out
 related_articles:
 - slug: catalyst-intimidation-a-pig-pen
   title: CATALYST INTIMIDATION - A PIG PEN

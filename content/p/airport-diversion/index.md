@@ -1,7 +1,7 @@
 ---
 title: AIRPORT DIVERSION
 date: 2017-07-19
-thumbnail: img/airport-diversion.jpg
+thumbnail: img/airport-diversion.png
 categories:
 - wonderful-wednesday
 tags:
