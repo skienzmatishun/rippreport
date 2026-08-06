@@ -1,7 +1,7 @@
 ---
 title: CATALYST
 date: 2018-11-28
-thumbnail: img/catalyst.jpg
+thumbnail: img/catalyst.png
 categories:
 - freaky-friday
 authors:
