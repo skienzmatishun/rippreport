@@ -1,7 +1,7 @@
 ---
 title: “DOWN HOME” FAIRHOPE JESTER
 date: 2019-09-13
-thumbnail: img/down-home-jester.jpg
+thumbnail: img/the-jester.png
 gif: img/the-jester-1.gif
 categories:
 - citycouncil
