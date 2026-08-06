@@ -1,7 +1,7 @@
 ---
 title: ECONOMIC DEVELOPMENT - BALDWIN COUNTY STYLE
 date: 2017-05-17
-thumbnail: img/economic-development-baldwin-county-style.jpg
+thumbnail: img/dead-last.png
 categories:
 - wonderful-wednesday
 tags:
