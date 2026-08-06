@@ -1,13 +1,13 @@
 ---
 title: THE FACE OF NO
 date: 2018-11-01
-thumbnail: img/the-face-of-no.jpg
+thumbnail: img/the-face-of-no.png
 categories:
 - thursday-thunder
 authors:
 - ripp-report
 alttags: A black-and-white photo of a man in business attire bent forward with his
-  head tucked between his legs and hands clasped behind him
+  head in his ass
 related_articles:
 - slug: chuckee-cheeze
   title: CHUCKEE CHEEZE
