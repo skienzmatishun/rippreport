@@ -1,7 +1,7 @@
 ---
 title: CATALYST CENTRAL
 date: 2020-02-01
-thumbnail: img/catalyst-central.jpg
+thumbnail: img/catalyst.png
 categories:
 - elections
 authors:
