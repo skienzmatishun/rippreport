@@ -2,612 +2,283 @@ metadata:
   generated_at: '2026-08-03T02:30:18.215661Z'
   generator_version: 1.0.0
   post_slug: you-dont-know-jack
+  refined_by: gemini
+  refined_at: '2026-08-06T23:30:46.916529Z'
 hooks:
   jack-box-airport:
-    brief: "THE CONFLICT\n* September 21, 2015: Fairhope Airport Authority sent Request\
-      \ for Proposal (RFP) for a ground lease for a commercial hanger on plat 2.\n\
-      * October 20, 2015: Three bids were submitted; RFP opening held.\n* November\
-      \ 2015: Jack Burrell and Vince Boothe served on the committee reviewing bids/making\
-      \ recommendations.\n* November 17, 2015: Ray Hix (Airport Board member) recused\
-      \ himself before discussion began.\n* December 17, 2015: Memorandum of lease\
-      \ for Mid-Bay Air, LLC was recorded.\n* January 30, 2016: Jack Burrell moved\
-      \ to award the bid to Hix/Snedecker Companies DBA Mid-Bay Air, LLC (second by\
-      \ Vince Booth).\n\nTHE DISCOVERY\n* Post-conflict period (around 2017): Fairhope\
-      \ Airport Authority hired a \"top ethics attorney in Alabama\" using tax dollars.\n\
-      * Purpose of hiring: To investigate Ripp Report and defend board members Jack\
-      \ Burrell and Ray Hix against scrutiny from the Attorney General’s office and\
-      \ Ethics Commission.\n* Revelation regarding counsel: The lawyer hired to represent\
-      \ the Authority was actually the one who prepared the lease for Mid-Bay Air,\
-      \ LLC and had been paid by Mr. Ray Hix.\n* Subsequent events: Fairhope resident\
-      \ inquired with Ethics Commission Chief Council Hugh Evens (confidential inquiry).\
-      \ \n* Breach of confidentiality: Mr. Evens blind copied Mr. Bailey, who was\
-      \ confirmed to be Ray Hix’s attorney.\n\nTHE PIVOT\n* Article 1 established\
-      \ a potential conflict of interest during the Mid-Bay Air bid process involving\
-      \ Jack Burrell and Vince Boothe facilitating a deal for Ray Hix/Judge Snedecker.\n\
-      * Article 2 proves that subsequent attempts by the involved parties (Ray Hix,\
-      \ Jack Burrell) to neutralize accountability used taxpayer funds to hire counsel\
-      \ who were personally connected to the original conflicted deal, while simultaneously\
-      \ leaking sensitive information from Ethics Commission inquiries to their own\
-      \ defense attorney.\n\nKEY ENTITIES\n* Fairhope City Council\n* Mayor Wilson\n\
-      * Jack Burrell (Council President/Board Member)\n* Ray Hix (Airport Authority\
-      \ Board Member/Municipal Judge)\n* Vince Boothe (Airport Authority Board Member)\n\
-      * Snedecker (Fairhope Municipal Judge/Hix Partner in Mid-Bay Air, LLC)\n* Mr.\
-      \ Bailey (Ray Hix’s attorney)\n* Hugh Evens (Ethics Commission Chief Council)\n\
-      * Ripp Report"
+    brief: "THE CONFLICT\n* September 21, 2015: Fairhope Airport Authority sent Request for Proposal (RFP) for a ground lease for a commercial hanger on plat 2.\n* October 20, 2015: Three bids were submitted; RFP opening held.\n* November 2015: Jack Burrell and Vince Boothe served on the committee reviewing bids/making recommendations.\n* November 17, 2015: Ray Hix (Airport Board member) recused himself before discussion began.\n* December 17, 2015: Memorandum of lease for Mid-Bay Air, LLC was recorded.\n* January 30, 2016: Jack Burrell moved to award the bid to Hix/Snedecker Companies DBA Mid-Bay Air, LLC (second by Vince Booth).\n\nTHE DISCOVERY\n* Post-conflict period (around 2017): Fairhope Airport Authority hired a \"top ethics attorney in Alabama\" using tax dollars.\n* Purpose of hiring: To investigate Ripp Report and defend board members Jack Burrell and Ray Hix against scrutiny from the Attorney General’s office and Ethics Commission.\n* Revelation regarding counsel: The lawyer\
+      \ hired to represent the Authority was actually the one who prepared the lease for Mid-Bay Air, LLC and had been paid by Mr. Ray Hix.\n* Subsequent events: Fairhope resident inquired with Ethics Commission Chief Council Hugh Evens (confidential inquiry). \n* Breach of confidentiality: Mr. Evens blind copied Mr. Bailey, who was confirmed to be Ray Hix’s attorney.\n\nTHE PIVOT\n* Article 1 established a potential conflict of interest during the Mid-Bay Air bid process involving Jack Burrell and Vince Boothe facilitating a deal for Ray Hix/Judge Snedecker.\n* Article 2 proves that subsequent attempts by the involved parties (Ray Hix, Jack Burrell) to neutralize accountability used taxpayer funds to hire counsel who were personally connected to the original conflicted deal, while simultaneously leaking sensitive information from Ethics Commission inquiries to their own defense attorney.\n\nKEY ENTITIES\n* Fairhope City Council\n* Mayor Wilson\n* Jack Burrell (Council President/Board Member)\n\
+      * Ray Hix (Airport Authority Board Member/Municipal Judge)\n* Vince Boothe (Airport Authority Board Member)\n* Snedecker (Fairhope Municipal Judge/Hix Partner in Mid-Bay Air, LLC)\n* Mr. Bailey (Ray Hix’s attorney)\n* Hugh Evens (Ethics Commission Chief Council)\n* Ripp Report"
     generated_at: '2026-07-18T02:29:22.006286Z'
+    text: Fairhope officials loved spending public money to hide their track records. When regulators questioned Council President Jack Burrell over a shady airport hangar deal, board members used tax dollars to hire the exact attorney who wrote the dirty lease to defend them.
   fairhope-airport-un_authorized:
-    brief: 'THE CONFLICT
-
-      *   September 21, 2015: Fairhope Airport Authority (FAA) sent Request for Proposal
-      (RFP) for a ground lease on plat 2 (a commercial hanger).
-
+    brief: |-
+      THE CONFLICT
+      *   September 21, 2015: Fairhope Airport Authority (FAA) sent Request for Proposal (RFP) for a ground lease on plat 2 (a commercial hanger).
       *   October 13, 2015: RFP submittal deadline.
-
       *   October 20, 2015: FAA opened bids. Three bidders submitted proposals.
-
-      *   November 17, 2015: Jack Burrell made a motion to award the bid for the commercial
-      hanger on plat 2 to Hix/Snedecker Companies DBA Mid-Bay Air, LLC, after Ray
-      Hix recused himself from discussion.
-
-      *   December 17, 2015: Memorandum of lease for the Mid-Bay Air LLC ground lease
-      was recorded (30 years long).
-
+      *   November 17, 2015: Jack Burrell made a motion to award the bid for the commercial hanger on plat 2 to Hix/Snedecker Companies DBA Mid-Bay Air, LLC, after Ray Hix recused himself from discussion.
+      *   December 17, 2015: Memorandum of lease for the Mid-Bay Air LLC ground lease was recorded (30 years long).
 
       THE DISCOVERY
-
-      *   An advisory ethics opinion (No. 2016-04) existed, outlining standards that
-      prohibited an FAA member from using confidential information gained in their
-      position to benefit a company or bid.
-
-      *   The Ethics Opinion required any contract/lease between an FAA Board member
-      and the Authority must be filed with the Alabama Ethics Commission within ten
-      days of entry.
-
-      *   On November 8, 2016, The Ripp Report requested a written report/remarks
-      regarding the Mid-Bay Air Lease awarded in December 2015 from the Alabama Ethics
-      Commission.
-
-      *   The Alabama Ethics Commission replied on December 2, 2016: "No lease has
-      ever been submitted to us regarding this issue."
-
+      *   An advisory ethics opinion (No. 2016-04) existed, outlining standards that prohibited an FAA member from using confidential information gained in their position to benefit a company or bid.
+      *   The Ethics Opinion required any contract/lease between an FAA Board member and the Authority must be filed with the Alabama Ethics Commission within ten days of entry.
+      *   On November 8, 2016, The Ripp Report requested a written report/remarks regarding the Mid-Bay Air Lease awarded in December 2015 from the Alabama Ethics Commission.
+      *   The Alabama Ethics Commission replied on December 2, 2016: "No lease has ever been submitted to us regarding this issue."
 
       THE PIVOT
-
-      *   Article 2 proves that while Article 1 presented a conflict of interest (Board
-      member Hix awarded the bid), there was a pre-existing legal framework (Ethics
-      Opinion No. 2016-04) defining these conflicts, including the obligation to file
-      contracts with the Alabama Ethics Commission.
-
-      *   The commission''s confirmation that "No lease has ever been submitted" suggests
-      not only a conflict of interest but also a deliberate failure in compliance
-      and transparency regarding the Mid-Bay Air LLC deal.
-
+      *   Article 2 proves that while Article 1 presented a conflict of interest (Board member Hix awarded the bid), there was a pre-existing legal framework (Ethics Opinion No. 2016-04) defining these conflicts, including the obligation to file contracts with the Alabama Ethics Commission.
+      *   The commission's confirmation that "No lease has ever been submitted" suggests not only a conflict of interest but also a deliberate failure in compliance and transparency regarding the Mid-Bay Air LLC deal.
 
       KEY ENTITIES
-
-      *   Ray Hix (Airport Authority Board Member, Airport Operations Committee, Municipal
-      Judge)
-
+      *   Ray Hix (Airport Authority Board Member, Airport Operations Committee, Municipal Judge)
       *   Snedecker (Fairhope Municipal judge, partner with Hix/Mid-Bay Air LLC)
-
-      *   Jack Burrell (President of Fairhope City Council, Airport Authority Board
-      Member)
-
+      *   Jack Burrell (President of Fairhope City Council, Airport Authority Board Member)
       *   Vince Boothe (FAA Board member)
-
       *   Hix/Snedecker Companies DBA Mid-Bay Air, LLC (Winning bidder)
-
       *   Fairhope Airport Authority (FAA)
-
       *   Alabama Ethics Commission
-
       *   Fairhope Municipal Pier (location of Shux restaurant contract reference)
-
-      *   Ripp Report'
+      *   Ripp Report
     generated_at: '2026-07-18T02:29:22.006311Z'
+    text: Local power brokers constantly act like ethics laws do not apply to them. Council President Jack Burrell pushed through a thirty-year airport lease for his pal Ray Hix, but state officials later confirmed Hix never filed the required paperwork.
   fairhope-voters-important-notice:
-    brief: 'THE CONFLICT
-
-      *   Allegation of unethical business dealing occurred during a Fairhope Airport
-      Authority process in 2015.
-
-      *   On September 21, 2015, the Airport Authority issued an RFP for a ground
-      lease on Plat 2 (a second commercial hanger), with a submittal deadline of October
-      13, 2015.
-
-      *   October 20, 2015, was the date of the bid opening. On November 17, 2015,
-      it was noted that Ray Hix recused himself and left the room before a recommendation
-      was discussed.
-
-      *   Jack Burrell (Fairhope City Council President) reviewed materials with Vince
-      Boothe to select the winning bidder for the hanger on Plat 2.
-
-      *   On November 17, 2015, Jack Burrell moved to award the bid to Hix/Snedecker
-      Companies DBA Mid-Bay Air, LLC, which was seconded by Vince Boothe.
-
-      *   Ray Hix (Airport Authority Board member) and Mr. Snedecker (Fairhope Municipal
-      Judge) were awarded a 30-year lease; this memorandum of lease was recorded on
-      December 17, 2015.
-
+    brief: |-
+      THE CONFLICT
+      *   Allegation of unethical business dealing occurred during a Fairhope Airport Authority process in 2015.
+      *   On September 21, 2015, the Airport Authority issued an RFP for a ground lease on Plat 2 (a second commercial hanger), with a submittal deadline of October 13, 2015.
+      *   October 20, 2015, was the date of the bid opening. On November 17, 2015, it was noted that Ray Hix recused himself and left the room before a recommendation was discussed.
+      *   Jack Burrell (Fairhope City Council President) reviewed materials with Vince Boothe to select the winning bidder for the hanger on Plat 2.
+      *   On November 17, 2015, Jack Burrell moved to award the bid to Hix/Snedecker Companies DBA Mid-Bay Air, LLC, which was seconded by Vince Boothe.
+      *   Ray Hix (Airport Authority Board member) and Mr. Snedecker (Fairhope Municipal Judge) were awarded a 30-year lease; this memorandum of lease was recorded on December 17, 2015.
 
       THE DISCOVERY
-
-      *   The second article reveals that council members Michael Scott Boone and
-      Jack Burrell are actively working to slow down city business, including the
-      budget approval process and challenging Mayor Wilson''s appointments (e.g.,
-      Airport Authority board choices).
-
-      *   This opposition is attributed to "Catalyst Associates," described as a political
-      group representing an old network of powerful figures.
-
-      *   Michael Scott Boone manages Catalyst; his registered agent was Coley M.
-      Boone, who is the son of Councilman Boone.
-
-      *   Key founders/supporters of this political machine include Elliott and Haygood
-      (previous politicians) and Lynn Stacey, whose "dirty tricks" are said to have
-      influenced council behavior against Mayor Wilson’s reform platform.
-
+      *   The second article reveals that council members Michael Scott Boone and Jack Burrell are actively working to slow down city business, including the budget approval process and challenging Mayor Wilson's appointments (e.g., Airport Authority board choices).
+      *   This opposition is attributed to "Catalyst Associates," described as a political group representing an old network of powerful figures.
+      *   Michael Scott Boone manages Catalyst; his registered agent was Coley M. Boone, who is the son of Councilman Boone.
+      *   Key founders/supporters of this political machine include Elliott and Haygood (previous politicians) and Lynn Stacey, whose "dirty tricks" are said to have influenced council behavior against Mayor Wilson’s reform platform.
 
       THE PIVOT
-
-      *   Article 1 presents a specific instance of alleged conflict of interest (the
-      2015 Mid-Bay deal).
-
-      *   Article 2 reveals the systemic political structure ("Catalyst") used by
-      council members Boone and Burrell to operate outside public oversight, effectively
-      enabling the type of "cozy inside deal" described in Article 1.
-
-      *   The existence of Catalyst explains how long-serving figures maintained undue
-      influence over city decisions despite a change in mayoral leadership, allowing
-      them to bypass ethical requirements (such as Hix''s failure to resign) and push
-      through self-serving contracts that Mayor Wilson now faces.
-
+      *   Article 1 presents a specific instance of alleged conflict of interest (the 2015 Mid-Bay deal).
+      *   Article 2 reveals the systemic political structure ("Catalyst") used by council members Boone and Burrell to operate outside public oversight, effectively enabling the type of "cozy inside deal" described in Article 1.
+      *   The existence of Catalyst explains how long-serving figures maintained undue influence over city decisions despite a change in mayoral leadership, allowing them to bypass ethical requirements (such as Hix's failure to resign) and push through self-serving contracts that Mayor Wilson now faces.
 
       KEY ENTITIES
-
-      *   Jack Burrell (Council President / Councilman - implicated in 2015 deal;
-      opposing Mayor Wilson).
-
-      *   Michael Scott Boone (Manager of Catalyst Associates; son of Councilman Boone;
-      political opponent).
-
-      *   Vince Boothe (Airport Authority Board member; assisted Jack Burrell in 2015
-      deal).
-
-      *   Ray Hix (Fairhope Airport Authority Board Member/Municipal Judge - recipient
-      of 2015 contract).
-
+      *   Jack Burrell (Council President / Councilman - implicated in 2015 deal; opposing Mayor Wilson).
+      *   Michael Scott Boone (Manager of Catalyst Associates; son of Councilman Boone; political opponent).
+      *   Vince Boothe (Airport Authority Board member; assisted Jack Burrell in 2015 deal).
+      *   Ray Hix (Fairhope Airport Authority Board Member/Municipal Judge - recipient of 2015 contract).
       *   Snedecker (Fairhope Municipal Judge - partner on Mid-Bay Air, LLC).
-
-      *   Catalyst Associates (Political group and organization established by Michael
-      Scott Boone and Lynn Stacey; represents the "political machine").
-
-      *   Mayor Wilson (Current Mayor seeking transparency; target of political obstruction
-      from Council members/Catalyst).'
+      *   Catalyst Associates (Political group and organization established by Michael Scott Boone and Lynn Stacey; represents the "political machine").
+      *   Mayor Wilson (Current Mayor seeking transparency; target of political obstruction from Council members/Catalyst).
     generated_at: '2026-07-18T02:29:22.006331Z'
+    text: Council President Jack Burrell and his insider group Catalyst routinely hijack city business to shield their political machine. Their shadowy network engineered the rigged 2015 airport hangar deal to guarantee long-term control over public assets without oversight.
   court-public-opinion-now-session:
-    brief: 'THE CONFLICT
-
-      • September 21, 2015: Fairhope Airport Authority sent out a Request for Proposal
-      (RFP) for a ground lease on Plat 2 for a second commercial hangar.
-
-      • October minutes show Jack Burrell and Vince Boothe were appointed to the committee
-      reviewing the RFP bids.
-
-      • November 17th meeting minutes document Ray Hix recused himself before discussion
-      of the recommendation.
-
-      • The vote was taken after Jack Burrell presented material used by him and Vince
-      Boothe in selecting the bidder.
-
-      • December 17, 2015: Memorandum of lease was recorded for a ground lease awarded
-      to Hix/Snedecker Companies DBA Mid-Bay Air, LLC.
-
-      • Allegation of conflict: Jack Burrell was simultaneously President of the Fairhope
-      City Council and an Airport Authority board member on the review committee.
-
+    brief: |-
+      THE CONFLICT
+      • September 21, 2015: Fairhope Airport Authority sent out a Request for Proposal (RFP) for a ground lease on Plat 2 for a second commercial hangar.
+      • October minutes show Jack Burrell and Vince Boothe were appointed to the committee reviewing the RFP bids.
+      • November 17th meeting minutes document Ray Hix recused himself before discussion of the recommendation.
+      • The vote was taken after Jack Burrell presented material used by him and Vince Boothe in selecting the bidder.
+      • December 17, 2015: Memorandum of lease was recorded for a ground lease awarded to Hix/Snedecker Companies DBA Mid-Bay Air, LLC.
+      • Allegation of conflict: Jack Burrell was simultaneously President of the Fairhope City Council and an Airport Authority board member on the review committee.
 
       THE DISCOVERY
-
-      • Today, Council President Jack Burrell is adamant that the airport property
-      should remain owned by the Airport Authority, not transferred to the City of
-      Fairhope for tax appropriation.
-
-      • The dispute involves paying down an $8 million debt while providing ~$310,000
-      annually to the Authority (which has received $500,000/year for six years).
-
-      • Burrell controls the council agenda and prevents ordinances regarding airport
-      structure from being moved forward or discussed.
-
+      • Today, Council President Jack Burrell is adamant that the airport property should remain owned by the Airport Authority, not transferred to the City of Fairhope for tax appropriation.
+      • The dispute involves paying down an $8 million debt while providing ~$310,000 annually to the Authority (which has received $500,000/year for six years).
+      • Burrell controls the council agenda and prevents ordinances regarding airport structure from being moved forward or discussed.
 
       THE PIVOT
-
-      • The second article directly links Burrell''s current influence over municipal
-      policy (airport ownership) to his past role as the elected official who negotiated,
-      reviewed bids, and selected the winner for the Mid-Bay Air lease in 2015.
-
-      • It establishes a pattern of entrenched power where Burrell maintains control
-      over key assets despite public outcry regarding the transparency or ethics of
-      decisions—from past contract rigging to current debt management.
-
+      • The second article directly links Burrell's current influence over municipal policy (airport ownership) to his past role as the elected official who negotiated, reviewed bids, and selected the winner for the Mid-Bay Air lease in 2015.
+      • It establishes a pattern of entrenched power where Burrell maintains control over key assets despite public outcry regarding the transparency or ethics of decisions—from past contract rigging to current debt management.
 
       KEY ENTITIES
-
       • Jack Burrell (Council President, Airport Authority member)
-
       • Ray Hix (Airport Authority Board Member, recipient of 2015 lease)
-
       • Vince Boothe (Board member, seconded the 2015 award motion)
-
-      • Snedecker/Snedeker Companies DBA Mid-Bay Air, LLC (Recipient of 30-year ground
-      lease in 2015)
-
-      • City Council members: Karin Wilson, Jimmy Conyers, Robert Brown, Kevin Boone,
-      Jay Robinson.
-
+      • Snedecker/Snedeker Companies DBA Mid-Bay Air, LLC (Recipient of 30-year ground lease in 2015)
+      • City Council members: Karin Wilson, Jimmy Conyers, Robert Brown, Kevin Boone, Jay Robinson.
       • Fairhope Airport Authority Board of Directors
-
-      • Executive Aviation (one of the non-winning bidders from 2015)'
+      • Executive Aviation (one of the non-winning bidders from 2015)
     generated_at: '2026-07-18T02:29:22.006338Z'
+    text: Public assets suffer whenever Council President Jack Burrell tightens his control over the city agenda. He engineered a sweetheart airport lease for his buddies in 2015 and still hides critical airport debt records from voters today.
   fairhope-catalyst-a-dirty-little-secret:
-    brief: 'THE CONFLICT
-
-      *   2015 Airport Contract Scandal: Fairhope City Council President Jack Burrell
-      was involved in a conflict of interest regarding the ground lease for a commercial
-      hanger on Plat 2 at the Fairhope Airport Authority.
-
-      *   November 17, 2015: Jack Burrell motion to award bid to Hix/Snedecker Companies
-      DBA Mid-Bay Air, LLC.
-
-      *   The winning bid was seconded by board member Vince Boothe despite Ray Hix
-      being an Airport Authority Board member and associate of Burrell.
-
-      *   2018 Political Resistance: The "Catalyst" City Council attempted to undermine
-      a referendum proposed by residents (supported by Chuck Zunk/Fresh Start Fairhope)
-      seeking to change the government form from "At Large" to district-based governance
-      on October 2, 2018.
-
-      *   Council members, including Jack Burrell and Jay Robinson, allegedly failed
-      to seek formal legal advice from Alabama Attorney General Steve Marshall prior
-      to voting to file an injunction against the referendum.
-
+    brief: |-
+      THE CONFLICT
+      *   2015 Airport Contract Scandal: Fairhope City Council President Jack Burrell was involved in a conflict of interest regarding the ground lease for a commercial hanger on Plat 2 at the Fairhope Airport Authority.
+      *   November 17, 2015: Jack Burrell motion to award bid to Hix/Snedecker Companies DBA Mid-Bay Air, LLC.
+      *   The winning bid was seconded by board member Vince Boothe despite Ray Hix being an Airport Authority Board member and associate of Burrell.
+      *   2018 Political Resistance: The "Catalyst" City Council attempted to undermine a referendum proposed by residents (supported by Chuck Zunk/Fresh Start Fairhope) seeking to change the government form from "At Large" to district-based governance on October 2, 2018.
+      *   Council members, including Jack Burrell and Jay Robinson, allegedly failed to seek formal legal advice from Alabama Attorney General Steve Marshall prior to voting to file an injunction against the referendum.
 
       THE DISCOVERY
-
-      *   Article 2 reveals that the current Fairhope City Council is "hand-picked"
-      by former Mayor Tim Kant and operates under a cohesive political machine (Catalyst).
-
-      *   This Catalyst Council actively worked to prevent democratic reform, attempting
-      to block the October 2, 2018 referendum.
-
+      *   Article 2 reveals that the current Fairhope City Council is "hand-picked" by former Mayor Tim Kant and operates under a cohesive political machine (Catalyst).
+      *   This Catalyst Council actively worked to prevent democratic reform, attempting to block the October 2, 2018 referendum.
 
       THE PIVOT
-
-      *   Article 2 proves that the systemic political structure (the "Catalyst" Machine)
-      is designed to protect and enforce the interests of long-term incumbents, enabling
-      individual members like Jack Burrell to maintain influence while engaging in
-      high-conflict deals (like the 2015 Mid-Bay Air contract).
-
-      *   The Catalyst Council''s refusal to seek outside legal counsel on major policy
-      matters mirrors their ability to ignore or circumvent ethical conflicts within
-      city contracts and airport operations.
-
+      *   Article 2 proves that the systemic political structure (the "Catalyst" Machine) is designed to protect and enforce the interests of long-term incumbents, enabling individual members like Jack Burrell to maintain influence while engaging in high-conflict deals (like the 2015 Mid-Bay Air contract).
+      *   The Catalyst Council's refusal to seek outside legal counsel on major policy matters mirrors their ability to ignore or circumvent ethical conflicts within city contracts and airport operations.
 
       KEY ENTITIES
-
       *   Jack Burrell (Council President, Airport Authority involvement)
-
       *   Vince Boothe (Airport Authority Board member/seconded the bid)
-
       *   Ray Hix (Airport Authority Board Member; recipient of 2015 bid)
-
       *   Snedecker (Fairhope Municipal Judge; partner in 2015 bid)
-
       *   Catalyst City Council / Catalyst Political Organization
-
       *   Tim Kant (Former Mayor, allegedly hand-picked the current council)
-
       *   Jay Robinson (Councilman/Attorney, involved in referendum legal proceedings)
-
       *   Steve Marshall (Alabama Attorney General referenced in refusal to seek counsel)
-
-      *   Chuck Zunk (Fresh Start Fairhope spokesman; criticized Catalyst Council''s
-      actions)'
+      *   Chuck Zunk (Fresh Start Fairhope spokesman; criticized Catalyst Council's actions)
     generated_at: '2026-07-18T02:29:22.006343Z'
+    text: Former Mayor Tim Kant hand-picked a ruthless political machine that repeatedly crushes democratic voter reforms. Council President Jack Burrell relies on this corrupt network to protect self-serving moves like the shady 2015 Mid-Bay Air lease deal.
   jack-gets-an-f-again:
-    brief: 'THE CONFLICT
-
-      *   Fairhope Airport Authority ground lease for commercial hanger on plat 2
-      was awarded in December 2015.
-
-      *   The bid award (Mid Bay Air, LLC) was made via a motion by Jack Burrell at
-      November 17th meeting of the Fairhope Airport Authority Board.
-
-      *   The winning bidder was Hix/Snedecker Companies DBA Mid-Bay Air, LLC, awarded
-      to Ray Hix and Snedecker in December 2015.
-
-      *   Council President Jack Burrell served on the committee reviewing bids for
-      the airport ground lease and made the motion awarding the bid to Mid Bay Air,
-      LLC, which included Board Member Ray Hix and Judge Snedecker.
-
-      *   Article 2 mentions a previous "legal Settlement" concerning the Triangle
-      that cost taxpayers $11.25 million (attributed to Captain Jack Burrell during
-      his time as Council President).
-
+    brief: |-
+      THE CONFLICT
+      *   Fairhope Airport Authority ground lease for commercial hanger on plat 2 was awarded in December 2015.
+      *   The bid award (Mid Bay Air, LLC) was made via a motion by Jack Burrell at November 17th meeting of the Fairhope Airport Authority Board.
+      *   The winning bidder was Hix/Snedecker Companies DBA Mid-Bay Air, LLC, awarded to Ray Hix and Snedecker in December 2015.
+      *   Council President Jack Burrell served on the committee reviewing bids for the airport ground lease and made the motion awarding the bid to Mid Bay Air, LLC, which included Board Member Ray Hix and Judge Snedecker.
+      *   Article 2 mentions a previous "legal Settlement" concerning the Triangle that cost taxpayers $11.25 million (attributed to Captain Jack Burrell during his time as Council President).
 
       THE DISCOVERY
-
-      *   The K-1 Center purchase was driven by Fairhope City Council, led by Council
-      President Burrell, despite warnings about lead/asbestos issues and failure to
-      consider alternatives (e.g., boutique hotel, additional parking).
-
-      *   Burrell''s leadership is characterized as failing repeatedly ("JACK GETS
-      AN F - AGAIN") in handling major city decisions, suggesting a pattern of poor
-      governance.
-
+      *   The K-1 Center purchase was driven by Fairhope City Council, led by Council President Burrell, despite warnings about lead/asbestos issues and failure to consider alternatives (e.g., boutique hotel, additional parking).
+      *   Burrell's leadership is characterized as failing repeatedly ("JACK GETS AN F - AGAIN") in handling major city decisions, suggesting a pattern of poor governance.
 
       THE PIVOT
-
-      *   Article 1 details a specific instance of perceived conflict of interest
-      and questionable contract practices (the Airport lease) involving Jack Burrell.
-
-      *   Article 2 reinforces the core theme that Burrell''s alleged misconduct is
-      not isolated; his decision-making failure extends across different civic responsibilities—from
-      private contracts to public real estate/grant acquisitions (K-1 Center).
-
+      *   Article 1 details a specific instance of perceived conflict of interest and questionable contract practices (the Airport lease) involving Jack Burrell.
+      *   Article 2 reinforces the core theme that Burrell's alleged misconduct is not isolated; his decision-making failure extends across different civic responsibilities—from private contracts to public real estate/grant acquisitions (K-1 Center).
 
       KEY ENTITIES
-
       *   Jack Burrell / Council President Jack Burrell
-
       *   Ray Hix (Board Member, Municipal Judge)
-
       *   Snedecker (Fairhope Municipal Judge)
-
       *   Vince Boothe
-
       *   Mayor Wilson
-
       *   Hix/Snedecker Companies DBA Mid-Bay Air, LLC
-
       *   Fairhope Airport Authority / City Council
-
       *   Catalyst (Political group/organization)
-
       *   K-1 Center
-
-      *   Triangle (Land/Property Entity related to settlement)'
+      *   Triangle (Land/Property Entity related to settlement)
     generated_at: '2026-07-18T02:29:22.006349Z'
+    text: Costly real estate blunders follow Council President Jack Burrell wherever he goes. He ignored toxic asbestos warnings on the K-1 Center purchase just like he handed out a conflicted airport hangar lease to his close allies.
   all-mouth:
-    brief: '**THE CONFLICT:**
-
-      *   Jack Burrell was on the Fairhope City Council and Airport Authority at the
-      time of a 2015 ground lease bid for a commercial hangar on plat 2.
-
-      *   The RFP was sent Sept 21, 2015; bids opened Oct 20, 2015; recommendation
-      approved Nov 17, 2015; the memorandum of lease recorded Dec 17, 2015 (a 30-year
-      term).
-
+    brief: |-
+      **THE CONFLICT:**
+      *   Jack Burrell was on the Fairhope City Council and Airport Authority at the time of a 2015 ground lease bid for a commercial hangar on plat 2.
+      *   The RFP was sent Sept 21, 2015; bids opened Oct 20, 2015; recommendation approved Nov 17, 2015; the memorandum of lease recorded Dec 17, 2015 (a 30-year term).
       *   Jack Burrell and Vince Boothe sat on the committee reviewing the bids.
-
-      *   On November 17, 2015, Ray Hix recused himself prior to discussion; Burrell
-      then nominated Mid-Bay Air, LLC (owned by Hix/Snedecker) as the winner.
-
+      *   On November 17, 2015, Ray Hix recused himself prior to discussion; Burrell then nominated Mid-Bay Air, LLC (owned by Hix/Snedecker) as the winner.
       *   Vince Boothe seconded the motion unanimously.
 
-
       **THE DISCOVERY:**
-
-      *   Article 2 identifies Jack Burrell as a "professional B.S. artist" regarding
-      public funds and infrastructure management in Fairhope.
-
-      *   Burrell led efforts to upgrade the failing sewer plant; instead of an original
-      2013 proposal for ~$20 million, he championed a $13 million approval (which
-      had ballooned from a previous \$10 million).
-
+      *   Article 2 identifies Jack Burrell as a "professional B.S. artist" regarding public funds and infrastructure management in Fairhope.
+      *   Burrell led efforts to upgrade the failing sewer plant; instead of an original 2013 proposal for ~$20 million, he championed a $13 million approval (which had ballooned from a previous \$10 million).
       *   The council passed a family insurance package valued at $17,000 per year.
-
-      *   In Sept 2022, an anonymous source noted the utilities superintendent position
-      was assigned to Mayor Sullivan to increase her salary and gain access to utility
-      funds, despite concerns over lack of professional engineering experience.
-
+      *   In Sept 2022, an anonymous source noted the utilities superintendent position was assigned to Mayor Sullivan to increase her salary and gain access to utility funds, despite concerns over lack of professional engineering experience.
 
       **THE PIVOT:**
-
-      *   Article 1 establishes a specific conflict of interest where Burrell utilized
-      his dual role on City Council and Airport Authority to facilitate a sweetheart
-      deal (30-year lease) for associates (Hix/Snedecker).
-
-      *   Article 2 proves that the airport deal was not an isolated event but part
-      of a larger pattern demonstrating Burrell’s repeated misuse of political power,
-      including mismanaging public funds (sewer upgrades), misleading taxpayers, and
-      using political appointments to control city finances (utility fund access via
-      Mayor Sullivan).
-
+      *   Article 1 establishes a specific conflict of interest where Burrell utilized his dual role on City Council and Airport Authority to facilitate a sweetheart deal (30-year lease) for associates (Hix/Snedecker).
+      *   Article 2 proves that the airport deal was not an isolated event but part of a larger pattern demonstrating Burrell’s repeated misuse of political power, including mismanaging public funds (sewer upgrades), misleading taxpayers, and using political appointments to control city finances (utility fund access via Mayor Sullivan).
 
       **KEY ENTITIES:**
-
       *   Jack Burrell
-
       *   Vince Boothe
-
       *   Ray Hix
-
       *   Snedecker
-
       *   Mid-Bay Air, LLC
-
       *   Fairhope City Council
-
       *   Fairhope Airport Authority Board of Directors
-
       *   Mayor Wilson
-
       *   Mayor Sullivan
-
-      *   Catalyst'
+      *   Catalyst
     generated_at: '2026-07-18T02:29:22.006368Z'
+    text: Taxpayer dollars disappear rapidly whenever Council President Jack Burrell manages major infrastructure projects. He rigged a thirty-year airport lease for insiders and repeatedly blew up sewer budgets to keep control of utility money.
   fairhope-council-shows-its-colors:
-    brief: "THE CONFLICT:\n- Timeline: Late 2015 to late 2016 in Fairhope.\n- Event:\
-      \ A ground lease (30 years) was awarded for a commercial hanger on plat 2 by\
-      \ the Fairhope Airport Authority.\n- Key Players/Actions:\n  - Jack Burrell,\
-      \ then President of the Fairhope City Council and member of the Airport Authority\
-      \ Board, sat on the committee reviewing bids with Vince Boothe.\n  - Ray Hix\
-      \ recused himself before any discussion occurred but later was a winning bidder\
-      \ for Mid-Bay Air, LLC (with partner Snedecker).\n  - Jack Burrell made a motion\
-      \ to award the bid to Hix/Snedecker Companies DBA Mid-Bay Air,llc on November\
-      \ 17, 2015.\n  - The motion was second by Vince Boothe and unanimously carried.\n\
-      \  - Mr. Snedecker (Fairhope Municipal Judge) and Ray Hix both were connected\
-      \ to the decision despite having conflicts of interest/access to confidential\
-      \ information.\n\nTHE DISCOVERY:\n- Present Action: Fairhope City Council is\
-      \ actively attempting to derail or obstruct a change in government structure.\n\
-      - Catalyst Role: The City Attorney is acting under instructions from Catalyst,\
-      \ allegedly ignoring citizen interests and legal opinions (e.g., Mayor’s offer\
-      \ of 06/26/2018).\n- Citizen Action: Over 800 Fairhope citizens submitted a\
-      \ petition to trigger an election for the Council-Manager form of government,\
-      \ bypassing City Council influence via the Alabama petition process.\n\nTHE\
-      \ PIVOT:\n- Article 1 reveals systemic corruption and unethical practices (conflict\
-      \ of interest deals) were historically protected by City officials like Jack\
-      \ Burrell/Vince Boothe within the local power structure.\n- Article 2 demonstrates\
-      \ that this institutional resistance to transparency and external accountability\
-      \ persists today, as current Council members attempt to use established bureaucratic\
-      \ means (City Attorney actions, delays in elections) to thwart a citizen-led\
-      \ democratic initiative for reform. The historical \"cozy inside deals\" provide\
-      \ the motive and pattern for current recalcitrance.\n\nKEY ENTITIES:\n- Jack\
-      \ Burrell\n- Vince Boothe\n- Ray Hix\n- Snedecker (Fairhope Municipal Judge)\n\
-      - Fairhope Airport Authority Board of Directors\n- City Attorney\n- Catalyst"
+    brief: |-
+      THE CONFLICT:
+      - Timeline: Late 2015 to late 2016 in Fairhope.
+      - Event: A ground lease (30 years) was awarded for a commercial hanger on plat 2 by the Fairhope Airport Authority.
+      - Key Players/Actions:
+        - Jack Burrell, then President of the Fairhope City Council and member of the Airport Authority Board, sat on the committee reviewing bids with Vince Boothe.
+        - Ray Hix recused himself before any discussion occurred but later was a winning bidder for Mid-Bay Air, LLC (with partner Snedecker).
+        - Jack Burrell made a motion to award the bid to Hix/Snedecker Companies DBA Mid-Bay Air,llc on November 17, 2015.
+        - The motion was second by Vince Boothe and unanimously carried.
+        - Mr. Snedecker (Fairhope Municipal Judge) and Ray Hix both were connected to the decision despite having conflicts of interest/access to confidential information.
+
+      THE DISCOVERY:
+      - Present Action: Fairhope City Council is actively attempting to derail or obstruct a change in government structure.
+      - Catalyst Role: The City Attorney is acting under instructions from Catalyst, allegedly ignoring citizen interests and legal opinions (e.g., Mayor’s offer of 06/26/2018).
+      - Citizen Action: Over 800 Fairhope citizens submitted a petition to trigger an election for the Council-Manager form of government, bypassing City Council influence via the Alabama petition process.
+
+      THE PIVOT:
+      - Article 1 reveals systemic corruption and unethical practices (conflict of interest deals) were historically protected by City officials like Jack Burrell/Vince Boothe within the local power structure.
+      - Article 2 demonstrates that this institutional resistance to transparency and external accountability persists today, as current Council members attempt to use established bureaucratic means (City Attorney actions, delays in elections) to thwart a citizen-led democratic initiative for reform. The historical "cozy inside deals" provide the motive and pattern for current recalcitrance.
+
+      KEY ENTITIES:
+      - Jack Burrell
+      - Vince Boothe
+      - Ray Hix
+      - Snedecker (Fairhope Municipal Judge)
+      - Fairhope Airport Authority Board of Directors
+      - City Attorney
+      - Catalyst
     generated_at: '2026-07-18T02:29:22.006374Z'
+    text: Fairhope politicians actively fight hundreds of citizens demanding a fresh, transparent form of local government. Council President Jack Burrell blocks civic reform today so his machine can protect the cozy insider deals he engineered back in 2015.
   down-home-fairhope-jester:
-    brief: '**THE CONFLICT:**
-
-      *   **Event:** Fairhope Airport Authority ground lease for a commercial hanger
-      on Plat 2.
-
-      *   **Dates:** September 21, 2015 (RFP issued) to December 17, 2015 (memorandum
-      of lease recorded).
-
-      *   **Involved Parties:** Jack Burrell (Fairhope City Council President and
-      Airport Authority Board member), Vince Boothe (Airport Authority Board Member/Committee
-      member), Ray Hix, and Snedecker Companies DBA Mid-Bay Air, LLC.
-
-      *   **Allegation:** Conflict of interest; Jack Burrell made the motion to award
-      the bid while serving on the committee that reviewed bids for the same project.
-
-      *   **Related Allegations (Past):** Councilman Brown was accused of violating
-      public policy and ethics regarding contracts awarded through ESAC, leading to
-      an Ethics Complaint filed in May 2018 which allegedly remained in limbo until
-      sent to the Attorney General.
-
+    brief: |-
+      **THE CONFLICT:**
+      *   **Event:** Fairhope Airport Authority ground lease for a commercial hanger on Plat 2.
+      *   **Dates:** September 21, 2015 (RFP issued) to December 17, 2015 (memorandum of lease recorded).
+      *   **Involved Parties:** Jack Burrell (Fairhope City Council President and Airport Authority Board member), Vince Boothe (Airport Authority Board Member/Committee member), Ray Hix, and Snedecker Companies DBA Mid-Bay Air, LLC.
+      *   **Allegation:** Conflict of interest; Jack Burrell made the motion to award the bid while serving on the committee that reviewed bids for the same project.
+      *   **Related Allegations (Past):** Councilman Brown was accused of violating public policy and ethics regarding contracts awarded through ESAC, leading to an Ethics Complaint filed in May 2018 which allegedly remained in limbo until sent to the Attorney General.
 
       **THE DISCOVERY:**
-
-      *   The "Catalyst" Council structure led by Jack Burrell has faced accusations
-      of systemic self-enrichment and lack of transparency across multiple projects
-      (e.g., $2.6 million property purchase for recreation, soccer field clubhouse
-      contract over $750,000).
-
+      *   The "Catalyst" Council structure led by Jack Burrell has faced accusations of systemic self-enrichment and lack of transparency across multiple projects (e.g., $2.6 million property purchase for recreation, soccer field clubhouse contract over $750,000).
 
       **THE PIVOT:**
-
-      *   Article 2 reveals that the patterns of alleged corruption detailed in Article
-      1—specifically the misuse of office to benefit associated businesses and bypass
-      public scrutiny—are not isolated incidents from 2015. These issues extend into
-      Burrell’s later tenure as City Council President, showing a persistent pattern
-      of behavior by key council members (Burrell, Boone, Brown) that violates Ethics
-      Commission standards regarding personal gain versus official duty.
-
+      *   Article 2 reveals that the patterns of alleged corruption detailed in Article 1—specifically the misuse of office to benefit associated businesses and bypass public scrutiny—are not isolated incidents from 2015. These issues extend into Burrell’s later tenure as City Council President, showing a persistent pattern of behavior by key council members (Burrell, Boone, Brown) that violates Ethics Commission standards regarding personal gain versus official duty.
 
       **KEY ENTITIES:**
-
       *   Fairhope Airport Authority Board
-
       *   Jack Burrell / Mr. Burrell (Council President)
-
       *   Vince Boothe
-
       *   Ray Hix
-
       *   Snedecker Companies DBA Mid-Bay Air, LLC
-
       *   Robert Brown (City Councilman)
-
       *   Eastern Shore Art Center (EASC)
-
       *   "Catalyst" Council
-
       *   Boone / Burrell Boone
-
-      *   Fairhope City Council'
+      *   Fairhope City Council
     generated_at: '2026-07-18T02:29:22.006380Z'
+    text: The Catalyst machine turns public office into a private goldmine for its favorite council members. Council President Jack Burrell awarded conflict-ridden airport leases while his allies landed lavish city contracts without public scrutiny.
   jackass-jack:
-    brief: 'THE CONFLICT
-
+    brief: |-
+      THE CONFLICT
       *   Date: September – December 2015
-
-      *   Event: Fairhope Airport Authority sent an RFP for a ground lease for a commercial
-      hanger on plat 2.
-
-      *   Timeline: RFP submittal date was October 13, 2015; RFP opening was October
-      20, 2015.
-
-      *   Action: On November 17th minutes of the Airport Authority meeting, Jack
-      Burrell (then President of Fairhope City Council) and Vince Boothe were involved
-      in selecting the winning bidder.
-
-      *   Controversy: Ray Hix recused himself before discussion began on the November
-      17th meeting.
-
-      *   Outcome: Burrell made a motion to award the bid to Mid-Bay Air, LLC (owned
-      by Ray Hix and Judge Snedecker), subject to State Ethics Commission approval.
-      The motion was seconded by Vince Boothe.
-
-      *   Conclusion of Conflict: Memorandum of lease was recorded on December 17,
-      2015.
-
+      *   Event: Fairhope Airport Authority sent an RFP for a ground lease for a commercial hanger on plat 2.
+      *   Timeline: RFP submittal date was October 13, 2015; RFP opening was October 20, 2015.
+      *   Action: On November 17th minutes of the Airport Authority meeting, Jack Burrell (then President of Fairhope City Council) and Vince Boothe were involved in selecting the winning bidder.
+      *   Controversy: Ray Hix recused himself before discussion began on the November 17th meeting.
+      *   Outcome: Burrell made a motion to award the bid to Mid-Bay Air, LLC (owned by Ray Hix and Judge Snedecker), subject to State Ethics Commission approval. The motion was seconded by Vince Boothe.
+      *   Conclusion of Conflict: Memorandum of lease was recorded on December 17, 2015.
 
       THE DISCOVERY
-
-      *   Article 2 reveals that Jack Burrell has a documented history of corruption
-      beyond the Airport Authority deal (e.g., FEMA Fraud, $600,000 clock, K-1 fiasco,
-      Fly Creek Apartments).
-
-      *   The article frames this past behavior as defining his current character
-      and influence over Mayor Sullivan''s administration ("Jackass Jack").
-
-      *   It connects Burrell’s historical pattern of "Airport bid rigging" to his
-      current actions regarding the $6.2 million Waterfront Project, where he is allegedly
-      undermining public consensus on ADA compliance walkways and bank stabilization.
-
+      *   Article 2 reveals that Jack Burrell has a documented history of corruption beyond the Airport Authority deal (e.g., FEMA Fraud, $600,000 clock, K-1 fiasco, Fly Creek Apartments).
+      *   The article frames this past behavior as defining his current character and influence over Mayor Sullivan's administration ("Jackass Jack").
+      *   It connects Burrell’s historical pattern of "Airport bid rigging" to his current actions regarding the $6.2 million Waterfront Project, where he is allegedly undermining public consensus on ADA compliance walkways and bank stabilization.
 
       THE PIVOT
-
-      *   Article 1 provides specific, documented evidence of a major ethical breach
-      involving Jack Burrell (the Mid-Bay Air/Hix deal).
-
-      *   Article 2 uses this confirmed historical misconduct to provide the context
-      for his current role as an obstructionist figure who is actively working against
-      Mayor Sullivan’s agenda and public data on the Waterfront Project.
-
+      *   Article 1 provides specific, documented evidence of a major ethical breach involving Jack Burrell (the Mid-Bay Air/Hix deal).
+      *   Article 2 uses this confirmed historical misconduct to provide the context for his current role as an obstructionist figure who is actively working against Mayor Sullivan’s agenda and public data on the Waterfront Project.
 
       KEY ENTITIES
-
-      *   Jack Burrell: Council President (at time of conflict), Current political
-      figure, alleged "Jackass Jack."
-
-      *   Ray Hix: Airport Authority Board Member, Municipal Judge at time of conflict;
-      linked to Mid-Bay Air, LLC.
-
-      *   Snedecker: Fairhope Municipal Judge at time of conflict; partner in Mid-Bay
-      Air, LLC.
-
-      *   Vince Boothe: Airport Authority Board Member and voting committee member
-      on the 2015 deal.
-
-      *   Mayor Sullivan: Current Mayor accused of poor leadership and being compromised
-      by Burrell’s influence regarding Waterfront Project spending ($6.2 million).
-
-      *   Fairhope City Council / Fairhope: Governing bodies mentioned in both articles
-      (Waterfront Project, Tree Lighting event, Airport Authority oversight).
-
-      *   Mid-Bay Air, LLC: Winning bidder for the 2015 commercial hanger ground lease.'
+      *   Jack Burrell: Council President (at time of conflict), Current political figure, alleged "Jackass Jack."
+      *   Ray Hix: Airport Authority Board Member, Municipal Judge at time of conflict; linked to Mid-Bay Air, LLC.
+      *   Snedecker: Fairhope Municipal Judge at time of conflict; partner in Mid-Bay Air, LLC.
+      *   Vince Boothe: Airport Authority Board Member and voting committee member on the 2015 deal.
+      *   Mayor Sullivan: Current Mayor accused of poor leadership and being compromised by Burrell’s influence regarding Waterfront Project spending ($6.2 million).
+      *   Fairhope City Council / Fairhope: Governing bodies mentioned in both articles (Waterfront Project, Tree Lighting event, Airport Authority oversight).
+      *   Mid-Bay Air, LLC: Winning bidder for the 2015 commercial hanger ground lease.
     generated_at: '2026-07-18T02:29:22.006385Z'
+    text: Backroom deals define how Council President Jack Burrell operates behind closed city doors. He rigged the 2015 airport hangar contract and now undermines Mayor Sullivan’s $6.2 million Waterfront Project to maintain control.
