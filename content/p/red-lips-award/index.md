@@ -161,6 +161,6 @@ Cliff McCollum
 Email Cliff
 Phone: 251.990.4615 
 
-{{< subscribe >}}
+ 
 
 {{< aicomments "lips" >}}

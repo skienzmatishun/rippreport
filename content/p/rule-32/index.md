@@ -126,4 +126,4 @@ Stay tuned for legal updates:
 
 {{< aicomments "rule32" >}}
 
-{{< subscribe >}}
+ 

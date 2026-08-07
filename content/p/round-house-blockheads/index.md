@@ -139,4 +139,4 @@ BEWARE DO NOT BECOME A FAUXHOPE SQUAREHEAD IN A ROUNDHOUSE
 
 {{< aicomments "roundhouse" >}}
 
-{{< subscribe >}}
+ 

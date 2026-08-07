@@ -238,4 +238,4 @@ The Ripp Reporter
 
 {{< aicomments "alagasdasd27" >}}
 
-{{< subscribe >}}
+ 
