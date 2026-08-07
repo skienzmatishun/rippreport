@@ -1,7 +1,7 @@
 ---
 title: ??? WHO’S ON FIRST ???
 date: 2017-03-17
-thumbnail: img/whos-on-first.jpg
+thumbnail: img/whos-on-first.png
 categories:
 - airport
 tags:
