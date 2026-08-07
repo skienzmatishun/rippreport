@@ -1,7 +1,7 @@
 ---
 title: HORRIBLE HURRICANE HARVEY
 date: 2017-09-01
-thumbnail: img/horrible-hurricane-harvey.jpg
+thumbnail: img/horrible-hurricane-harvey.png
 categories:
 - events
 authors:
