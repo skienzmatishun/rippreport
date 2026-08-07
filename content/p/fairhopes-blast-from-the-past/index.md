@@ -109,7 +109,6 @@ The three bee’s are totally against any change, they know to hold on to power,
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/" >}}
 
-</div>
 The Mayor’s recommendation, that reduces the Mayors “power”, is to support the council/manager form of government that has only two, at large positions, Mayor and one Council person and three councilpersons representing three districts. This has been discussed for years but City Council’s in the past enjoyed NOT being responsible to anyone. At large means just that “at large” not one council person is responsible to any one area or district in town. The end result is citizens find it hard to get any councilperson to accept responsibility for anything, they can stay hidden.
 
 The Mayor is putting the City first. The City Council is putting themselves first.
