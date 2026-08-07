@@ -1,7 +1,7 @@
 ---
 title: DAPHNE DECISION
 date: 2018-12-07
-thumbnail: img/daphne-decision.jpg
+thumbnail: img/daphne-decision.png
 categories:
 - daphne
 authors:
