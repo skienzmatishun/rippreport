@@ -119,7 +119,7 @@ Another issue the Council has failed at, is making the complaints of former empl
 
 {{< socialpreview url="https://rippreport.com/p/pandoras-box/" >}}
 
-Here comes the third sour grapes lawsuit and you better believe the Catalyst group has their dirty hands in on it. This article only covers one side of the story, the Catalyst side.
+Here comes the third sour grapes lawsuit and you better believe CATALYST has their dirty hands in on it. This article only covers one side of the story, the Catalyst side.
 
 {{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/former-fairhope-public-works-director-sues-city-mayor-karin-wilson,73996" >}}
 

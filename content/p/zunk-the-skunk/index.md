@@ -151,7 +151,7 @@ Zunk slipped this in last night to an unsuspecting crowd. Mr Zunk asked the crow
 
 At that point the crowd was evacuating the auditorium at full speed, the skunk smell was so foul paint was peeling off the walls.
 
-Zunk’s plan is to keep the Council AT LARGE why? Because the Catalyst group has failed to get the Mayor to resign and they see Burrell as damaged goods. Zunk’s, alternative group, comprised of councilman that have been voted out of office, think they are the new salvation. They know the Council must stay AT LARGE in order for Zunk’s, alternative group, to organize a slate of candidates for the next election.
+Zunk’s plan is to keep the Council AT LARGE why? Because CATALYST has failed to get the Mayor to resign and they see Burrell as damaged goods. Zunk’s, alternative group, comprised of councilman that have been voted out of office, think they are the new salvation. They know the Council must stay AT LARGE in order for Zunk’s, alternative group, to organize a slate of candidates for the next election.
 
 **Fairhope’s major problem is the AT LARGE Council, it has not worked in 20 years, why do the same damn thing again? The Districts prevent alternative groups from forming candidate slates. The districts give citizens someone to hold accountable, their representative. The skunk plan holds no one accountable, they are AT LARGE.**
 

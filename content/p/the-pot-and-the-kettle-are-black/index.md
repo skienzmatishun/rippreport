@@ -98,7 +98,7 @@ District one is the site of the infamous mega site that cost us 35 million, plus
 
 {{< socialpreview url="https://rippreport.com/p/dead-last/" >}}
 
-This is going to be a very interesting race as the Catalyst group has selected Mr Burt’s replacement, Jeb Ball.
+This is going to be a very interesting race as CATALYST has selected Mr Burt’s replacement, Jeb Ball.
 
 {{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/ball-seeks-election-to-commission-district-1,51284" >}}
 
