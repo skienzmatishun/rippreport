@@ -34,7 +34,7 @@ hooks:
       - Joshua Brown
       - Danielle Duggar (Contextual figure, less relevant to primary conflict)
     generated_at: '2026-06-13T17:45:28.463682Z'
-    text: Judge Marcus McDowell found Harry Still not guilty in a kangaroo court after Still challenged the local power structure. This wasn't just a simple skirmish but a politically motivated hit job designed to keep Matt Franklin and his cronies in control of Bay Minette.
+    text: Judge Marcus McDowell found Harry Still guilty in a kangaroo court after Still challenged the local power structure. This wasn't just a simple skirmish but a politically motivated hit job designed to keep Matt Franklin and his cronies in control of Bay Minette.
   former-summerdale-police-chief-kevin-brock:
     brief: |-
       THE CONFLICT:
