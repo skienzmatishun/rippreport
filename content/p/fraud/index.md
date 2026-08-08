@@ -118,7 +118,7 @@ The Fairhope government is built on Fraud. Citizens deserve better.  We are bet
 
 What about the soccer fields which are financially spinning out of control, closing in on 6 million in costs? The Mayor and Mayor in Training, Sherry Sullivan, are now trying to talk Single Tax out of $666,000 for bathrooms. However, Single Tax is not biting the apple.
 
-Fairhope only has a few days left in the qualifying for Mayor and Council. I have had several calls saying The Ripp Report may have spilled the beans and spoiled one of Kant’s dirty little campaign tricks. The Mayor will have faux candidates in place in council races; he also was planning on a faux candidate for Mayor, none other than Mayor in Training and noted “travel companion to the mayor,” Sherry Sullivan. The Mayor has yet to explain why Sherry Sullivan started traveling out of town with him on our tax dollars.  Is this yet another FRAUD?
+Fairhope only has a few days left in the qualifying for Mayor and Council. I have had several calls saying The Ripp Report may have spilled the beans and spoiled one of Kant’s dirty little campaign tricks. The Mayor will have faux candidates in place in council races. He also was planning on a faux candidate for Mayor, none other than Mayor in Training and noted “travel companion to the mayor,” Sherry Sullivan. The Mayor has yet to explain why Sherry Sullivan started traveling out of town with him on our tax dollars.  Is this yet another FRAUD?
 
 This is going to be a hell of an election.  Please vote and please vote Tim F. Kant out.
 

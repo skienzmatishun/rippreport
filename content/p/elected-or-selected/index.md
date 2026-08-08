@@ -98,7 +98,7 @@ Why do you know who has changed their Name? Wait till you hear this one.
 
 The sheer number of tips to the Rippster is a reflection of the disgust by the general public of its elected officials. Please keep them coming. Fairhope employees, thank you especially. Please keep the information coming and understand voting out Kant will improve your jobs. Live in Baldwin County? Know of corruption? Please message us.
 
-How did Mayor Kant become Mayor? He was **SELECTED** by Fairhope's former Mayor, Jim Nix, who was forced out of office for alleged criminal activity. Mayor Nix faced the threat of criminal prosecution if he did not step down from office. He SELECTED Tim Kant to replace him. Mr. Nix needed someone he could control and would take orders; he picked the right person.
+How did Mayor Kant become Mayor? He was **SELECTED** by Fairhope's former Mayor, Jim Nix, who was forced out of office for alleged criminal activity. Mayor Nix faced the threat of criminal prosecution if he did not step down from office. He SELECTED Tim Kant to replace him. Mr. Nix needed someone he could control and would take orders. He picked the right person.
 
 Kant was hired in 1983 as the city's first horticulturist and became Mayor in 2000. Mayor Kant is a paid Mayor and a pad utility director, double dipping on our taxes. Ironically, one of former Mayor Nix's "problems" stemmed from him holding both job titles.
 

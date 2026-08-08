@@ -166,7 +166,7 @@ Mayor Wilson is clear on her position,
 > 
 > The rest of the meeting was spent talking about working together to get the loan closed. I told Joe that I wanted the covenant to remain for the land to be transferred to the city and the prepayment penalties were not in the best interest of the city. Joe agreed and said it would not be a problem to have the banks remove all prepayment penalties.
 > 
-> Feb 9, 2017 Airport Authority special meeting. Joe said the authority needs to hire a new bond attorney; he found one willing to negotiate on behalf of the airport authority without the mayor’s involvement and the board members unanimously vote for his recommendation. Indeed, this happened 24 hours hours after Joe agreed to work with me.
+> Feb 9, 2017 Airport Authority special meeting. Joe said the authority needs to hire a new bond attorney. He found one willing to negotiate on behalf of the airport authority without the mayor’s involvement and the board members unanimously vote for his recommendation. Indeed, this happened 24 hours hours after Joe agreed to work with me.
 > 
 > Airport Authority Board member Vince Booth had phoned into the meeting because he was unable to attend. He stated that I was responsible for costing the city $160k by delaying the loan. I had to object as I refused to play the blame game or continue to stand by while being accused of something for which I was blameless. Joe was ultimately responsible for costing the city money by missing deadlines and not staying on top of the process.
 > 

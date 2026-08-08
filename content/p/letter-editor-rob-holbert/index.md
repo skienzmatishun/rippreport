@@ -109,7 +109,7 @@ Baldwin County Legal Eagle and the Ripp Report, a nonprofit, see it a little dif
 
 I read your article about Kim Hastie, after she was found not guilty of all charges. You still called into question her ethics; how she ran her departments and the lies she told lagniappe. I appreciate your concern about ethics and political corruption.
 
-As far as the schnauzer getting the first bite on the story of OUR good Christian governor and his "alleged" affair, who else is saying anything? The Governor's political advisor is silent, oh yea she's involved! The Attorney General is silent, the speaker of the house faces 23 felony counts, the Governor has said his divorce should not be a distraction; he did not address an alleged affair.
+As far as the schnauzer getting the first bite on the story of OUR good Christian governor and his "alleged" affair, who else is saying anything? The Governor's political advisor is silent, oh yea she's involved! The Attorney General is silent, the speaker of the house faces 23 felony counts, the Governor has said his divorce should not be a distraction. He did not address an alleged affair.
 
 BCLE and the Ripp Report will be expanding our social media footprint in coming months. Lagniappe boasts of a circulation of 25 thousand and 80 thousand readers that is once a week, social media in Alabama, especially Baldwin County, has an equal if not greater readership. Why? Well we can address issues that do not affect our bottom line, advertising dollars. WE are not afraid of the status quo and are not compromised with a payroll.
 

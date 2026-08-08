@@ -134,7 +134,7 @@ First and foremost if you find yourself in Judge Thomason's court and your ex ha
 
 6. E-mails, beware like the tape recordings they will bait you to say something that they will turn into a major event, the result of an email or tape recording will be so twisted when you hear it in court that you may not even recognize the event.
 
-7. Brackin will use any contacts such as DHR, investigators or police to further his case; he will put forth allegations to be looked into when little or no evidence exists to support the claim.
+7. Brackin will use any contacts such as DHR, investigators or police to further his case. He will put forth allegations to be looked into when little or no evidence exists to support the claim.
 
 8. Most alarming is his success rate in cases before Judge Thomason, who is incompetent, complicit or extremely gullible.
 

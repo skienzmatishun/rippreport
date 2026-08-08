@@ -167,7 +167,7 @@ hooks:
     text: Chucky claims to be a journalist, but he only prints what his Catalyst masters
       allow. This hack editor ignores massive scandals involving Jack Burrell and
       Kevin Boone while running a blog for his political donors. He isn’t reporting
-      the news; he is burying the truth to protect the local good ole boy network.
+      the news. He is burying the truth to protect the local good ole boy network.
     character_count: 309
   caught-trap-like-rat:
     brief: '**THE CONFLICT:**
@@ -468,7 +468,7 @@ hooks:
       - Widget Article reveals Chuckee Cheeze received an award from the Alabama Press
       Association for a story that was later deemed "bogus."
 
-      - The article proves Chucky’s journalistic sources are compromised; he allegedly
+      - The article proves Chucky’s journalistic sources are compromised. He allegedly
       relies on confidential, back-door information supplied by Catalyst members and
       City Council personnel rather than legitimate FOIA research.
 

@@ -164,7 +164,7 @@ The Mayor blamed the geese at the bay for pollution, actually it was our own sew
 
 ## 8\. Mayor/Utilities Head
 
-The Mayor is double dipping; he gets paid as a Mayor and as Utility director and has 30 years as an employee which gives him a 100% pension. Vote him OUT and let him enjoy his pension. We must have change; current policies will negatively affect YOUR quality of life.
+The Mayor is double dipping. He gets paid as a Mayor and as Utility director and has 30 years as an employee which gives him a 100% pension. Vote him OUT and let him enjoy his pension. We must have change; current policies will negatively affect YOUR quality of life.
 
 ## 9\. Committee Games
 

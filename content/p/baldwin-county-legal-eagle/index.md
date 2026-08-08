@@ -104,7 +104,7 @@ The lack of education funds is a state wide problem, not exclusive to Baldwin Co
 
 Our Governor promised no new taxes and in the same sentence said Alabama finances were in good shape and he has saved the state 1 billion dollars in cuts to a bloated system. It only took a few months, after being elected, before the Governor started screaming the sky is falling and that our state finances were 700 million short. Do you really think he did not know that before the election? This is a creditability problem, that the Governor ignores and now is using intimidation to force legislators to support tax increases.
 
-Our last Governor enjoys a lucrative contract from the Alabama Accountability Act; he is making money off the backs of our school children while we are being told by goat hill that all is well.
+Our last Governor enjoys a lucrative contract from the Alabama Accountability Act. He is making money off the backs of our school children while we are being told by goat hill that all is well.
 
 The Republican Speaker of the House is facing 23 felony counts for corruption and we re-elect him to represent Alabama under a cloud of corruption.
 
