@@ -324,7 +324,7 @@ hooks:
       \ Output this as a raw list. No flowely language needed.\"\n    The prompt repeats\
       \ the instruction in the [INSTRUCTION] block.\n\n    Okay, I will generate the\
       \ brief exactly as requested using only verifiable info from the text.\n\n \
-      \   *Wait, if I look at \"The Ripp Report\" context:* It's a conservative news/commentary\
+      \   *Wait, if I look at \"The Ripp Report\" context:* It''s a conservative news/commentary\
       \ outlet. These articles are likely generic sidebar content or filler during\
       \ Memorial Day week.\n    There is no investigative hook here.\n    I will report\
       \ the lack of substantive linkage while adhering to the format.\n\n    *Refining\

@@ -562,7 +562,7 @@ hooks:
       \    Actually, looking at the instruction: \"No preamble or labels - start directly\
       \ with the brief\".\n    Maybe they want raw text under the headers? Or just\
       \ the content?\n    \"Output a Bridge Brief containing... 1. THE CONFLICT...\"\
-      \n    Okay, I will use the headers as the structure of the brief itself. It's\
+      \n    Okay, I will use the headers as the structure of the brief itself. It''s\
       \ impossible to have a \"Bridge Brief\" defined by those 4 points without indicating\
       \ which text belongs to which point. I'll keep the headers.\n\n    Wait, checking\
       \ the \"No labels\" line again. Usually this means: Do not say \"Here is the\
