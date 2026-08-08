@@ -90,7 +90,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: Self-serving lawmakers pocketed disaster recovery funds while funneling lucrative
-  city contracts to their political allies. New evidence proves that state leaders
+  city contracts to their political allies. Evidence proves that state leaders
   quietly siphoned off hundreds of thousands of dollars meant for public recovery
   efforts. Read our full report to see how deep the insider trading really goes.
 ---
