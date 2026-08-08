@@ -174,7 +174,7 @@ hooks:
 
       - Event: City Council President Jack Burrell allegedly denied Francis Paul Ripp
       (a public figure/consumer advocate) his right to free speech during a city council
-      meeting in Fairhope, Alabama.
+      meeting in Fairhope.
 
       - Action: Ripp filed a federal lawsuit (Southern District filing) against Jack
       Burrell on December 29, 2017, claiming violation of the First and Fourteenth
@@ -360,7 +360,7 @@ hooks:
   catalyst-council-lawsuits:
     brief: '**THE CONFLICT:**
 
-      *   August 28, 2017: Council meeting held in Fairhope, Alabama.
+      *   August 28, 2017: Council meeting held in Fairhope.
 
       *   Council President Jack Burrell allegedly denied Francis Paul Ripp his right
       to free speech during this meeting.
@@ -419,7 +419,7 @@ hooks:
     brief: 'THE CONFLICT
 
       - December 29, 2017: Francis Paul Ripp filed a federal lawsuit against Jack
-      Burrell in the Southern District court of Fairhope, Alabama.
+      Burrell in the Southern District court of Fairhope.
 
       - Event in question: A City Council meeting held on August 28, 2017.
 

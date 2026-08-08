@@ -125,7 +125,7 @@ Dear District Attorney Wilters:
 
 In light of recent events, I am calling on you as the Chief Law Enforcement Officer in Baldwin County to right the ship. Ronan McSharry’s appeal denovo from Fairhope Municipal Court (of
 
-his conviction upon evidence that he knocked Paula DiNardi off of a bar stool at the Little Whiskey Christmas Club in Fairhope, Alabama on November 23, 2018) has been dismissed.
+his conviction upon evidence that he knocked Paula DiNardi off of a bar stool at the Little Whiskey Christmas Club in Fairhope on November 23, 2018) has been dismissed.
 
 According to the Order issued by Judge J. Clark Stankoski the City is outside of their time to amend the charging document, 365 days.
 

@@ -107,7 +107,7 @@ No one knows the council’s intent, no one is expect to, so today’s meeting w
 
 What is not news is the Mayor’s position:
 
-> Mayor Karin Wilson of Fairhope, Alabama
+> Mayor Karin Wilson of Fairhope
 > file:///home/ryan/rr/rippreport/content/img/fairhope-a-city-owned-by-outside-interests-and-good-ole-boys.jpg
 > 12 hrs ·
 > 

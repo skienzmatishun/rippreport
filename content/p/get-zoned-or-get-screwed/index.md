@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 authors:
 - admin
-alttags: Circular seal reading City of Fairhope, Alabama, with a silver screw in a
+alttags: Circular seal reading City of Fairhope, with a silver screw in a
   yellow sun above blue water and three sailboats
 related_articles:
 - slug: fried-chicken-and-watermelon

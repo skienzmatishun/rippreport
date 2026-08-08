@@ -117,7 +117,7 @@ If the police chief has to approve liquor serving establishments then the chief 
 
 The council last action of the year, was deliberately last on the agenda was:
 
-23\. Resolution – That Mayor Karin Wilson is hereby authorized to execute an Engagement Letter with Tobias McCormick and Comer Lawyers, LLC for Professional Legal Services for representation of The City of Fairhope, Alabama, on the Third-Party Complaint against Charter Oak Fire Insurance Company in the matter of Charles K/ Breland, Jr. V. The City of Fairhope, Alabama, et al., CV-2013-901096.
+23\. Resolution – That Mayor Karin Wilson is hereby authorized to execute an Engagement Letter with Tobias McCormick and Comer Lawyers, LLC for Professional Legal Services for representation of The City of Fairhope, on the Third-Party Complaint against Charter Oak Fire Insurance Company in the matter of Charles K/ Breland, Jr. V. The City of Fairhope, et al., CV-2013-901096.
 
 The Council spent the majority of the meeting kissing the feet of the non-drinking Baptist. That was a dog and pony show meant to distract you from much more serious issues. They invited the good Baptist to leave the council chambers, once they voted no on the entertainment district, so “you could wrap Christmas presents.” No one person asked a single question about item 23. When it came to item 23 NOT A WORD, from the Council and the Baptist were all gone home.
 

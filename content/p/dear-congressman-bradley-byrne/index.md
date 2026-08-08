@@ -96,7 +96,7 @@ Dear Congressman Bradley Byrne:
 
 The Ripp Report, a nonprofit, was formed to expose political and judicial corruption in Baldwin County, which is unequivocally a target-rich environment. We are not constrained from telling the truth or influenced by the powers that be. Our intention is to inform our “constituents." You are similarly intended.
 
-Our site, along with our sister site, Baldwin County Baldwin Legal Eagle, makes weekly posts we call "Freaky Friday." Our last post reached 15,950 people. These are your constituents. Today’s post will be boosted for maximum exposure and we will let you know how many people have been informed of the real truth about Fly Creek in Fairhope, Alabama (Fauxhope).
+Our site, along with our sister site, Baldwin County Baldwin Legal Eagle, makes weekly posts we call "Freaky Friday." Our last post reached 15,950 people. These are your constituents. Today’s post will be boosted for maximum exposure and we will let you know how many people have been informed of the real truth about Fly Creek in Fairhope (Fauxhope).
 
 I must admit I am surprised you had such an opportunity to talk about Fly Creek in Washington DC. You said that you have pressured the Corp of Engineers to keep it dredged. I am somewhat confused how a self proclaimed conservative, like yourself, while claiming to fight government waste, would support correcting damage caused by private contractors and land developers.
 

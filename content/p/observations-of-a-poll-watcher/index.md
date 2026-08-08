@@ -105,6 +105,6 @@ Will Sutton Elections Division State Capitol Building 600 Dexter Avenue Suite E-
 >
 >I urge you to please look seriously into this matter.  The Alabama law enforcement officials have done nothing to ensure fair and impartial elections. In closing, I can think of no other non-violent crime that steals more from our American way of life.  Without fair and impartial elections there is no way for Alabama to ever improve its plight. It is for this reason that I make this impassioned plea. Help us for God’s sake!  We are being held captive by a corrupt, self-serving regime that will do whatever it takes to maintain their stranglehold on Baldwin County. Sincerely,
 >
->Chris Warner, Ph.D. Fairhope, Alabama
+>Chris Warner, Ph.D. Fairhope
 
 HAVE A WONDERFUL WET WEDNESDAY

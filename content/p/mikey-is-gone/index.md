@@ -141,7 +141,7 @@ Because then, they get what they want.
 Paul Ripp  
 Veteran, USMC  
 Retired  
-Fairhope, Alabama  
+Fairhope  
 "Tired of the Republican Hypocrites"
 
 {{< aicomments "/p/mikey-is-gone/" >}}

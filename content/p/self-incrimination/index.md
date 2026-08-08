@@ -102,7 +102,7 @@ Fairhope loves holes and now Jack is digging one for himself and at the same tim
 
 {{< socialpreview url="https://rippreport.com/p/holes/" >}}
 
-The mayor posted this comment on June 11th, Mayor Karin Wilson of Fairhope, Alabama June 11 at 7:30pm.
+The mayor posted this comment on June 11th, Mayor Karin Wilson of Fairhope June 11 at 7:30pm.
 
 I am posting this statement to provide the citizens of Fairhope an accurate account of the events of the past few weeks.
 

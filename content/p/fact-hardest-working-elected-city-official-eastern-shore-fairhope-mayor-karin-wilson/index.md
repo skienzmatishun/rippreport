@@ -122,7 +122,7 @@ A new report lists beaches in 29 coastal and Great Lakes states prone to bacteri
 Source: [www.usatoday.com/story/news/nation/2019/07/23/americas-dirtiest-beaches-prone-bacteria-report/1801372001/](https://www.usatoday.com/story/news/nation/americas-dirtiest-beaches-prone-bacteria-report/1801372001/)
 
 </div>
-FACT :Mayor Karin Wilson of Fairhope, Alabama
+FACT :Mayor Karin Wilson of Fairhope
 
 July 23 2019
 

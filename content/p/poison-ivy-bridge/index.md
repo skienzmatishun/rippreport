@@ -111,7 +111,7 @@ State Senator Chris Elliott (R - Daphne ) said the meeting should be moved, not 
 
 Fairhope Mayor Wilson said it best:
 
-Mayor Karin Wilson of Fairhope, AlabamaJuly 30 at 10:06 PM ·
+Mayor Karin Wilson of FairhopeJuly 30 at 10:06 PM ·
 
 My Thoughts on the Proposed Toll for the Long-Awaited New Bridge:
 

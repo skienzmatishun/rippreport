@@ -150,7 +150,7 @@ Working Waterfront
 
 Scope of Work:
 
-This scope of work entails all project work related to improvements to the shoreline and bluffs along the Eastern Shore of Mobile Bay in Fairhope, Alabama. This project’s main criterion involves improvements
+This scope of work entails all project work related to improvements to the shoreline and bluffs along the Eastern Shore of Mobile Bay in Fairhope. This project’s main criterion involves improvements
 to the bay shore to insure resiliency, sustainability and human interaction of the City of Fairhope’s most precious resource: its waterfront. More specifically, this SOW concentrates on the First Phase of the overall Working Waterfront and Greenspace Project –Fairhope Municipal Pier and South Beach Park Improvements.”
 
 This project is 3 years behind schedule. Has the Council and Mayor lost or abandoned the project??? Fairhope needs to clean house the next election.

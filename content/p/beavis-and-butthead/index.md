@@ -88,7 +88,7 @@ summary: Councilmen Jack Burrell and Kevin Boone launched an aggressive campaign
 ---
 BEAVIS AND BUTTHEAD invade Fairhope
 
-Everyone in Fairhope, Alabama is now aware of the rude conduct of the two councilmen who were elected with little or no opposition in the last election. The mainstream news media, as well as social media has covered their bullying and condescending actions leveled at the newly elected mayor for months. Citizens have confronted councilmen Burrell and Boone directly and publicly at city council meetings using public participation, voicing their disgust about the bullying tactics. Preachers and pastors have even weighed in all to no avail.
+Everyone in Fairhope is now aware of the rude conduct of the two councilmen who were elected with little or no opposition in the last election. The mainstream news media, as well as social media has covered their bullying and condescending actions leveled at the newly elected mayor for months. Citizens have confronted councilmen Burrell and Boone directly and publicly at city council meetings using public participation, voicing their disgust about the bullying tactics. Preachers and pastors have even weighed in all to no avail.
 
 What the hell is going on?
 

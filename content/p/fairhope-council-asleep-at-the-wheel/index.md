@@ -98,7 +98,7 @@ Fairhope is facing many major issues at one time and the CATALYST council is asl
 
 The Mayor has been very vocal and the CATALYST Council has been as quite as a mouse.
 
-Mayor Karin Wilson of Fairhope, Alabama Coronavirus and The Fairhope Arts & Crafts Festival
+Mayor Karin Wilson of Fairhope Coronavirus and The Fairhope Arts & Crafts Festival
 
 As you know, the Coronavirus Disease (COVID-19) has received a great deal of attention and discussion within the press and social media. I am happy to report as of yesterday, no COVID-19 cases have been identified in Alabama.
 
@@ -120,7 +120,7 @@ The Mayor’s comments about the boundaries being more defined is common sense. 
 
 citizens can contribute to the conservation.
 
-Mayor Karin Wilson of Fairhope, Alabama
+Mayor Karin Wilson of Fairhope
 
 THIS WILL LIKELY PASS IF STATE SENATORS DON'T HEAR FROM YOU.
 

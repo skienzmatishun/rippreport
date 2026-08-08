@@ -9,7 +9,7 @@ tags:
 - turner
 authors:
 - ripp-report
-alttags: 'Black-and-white photo of Big Head Gulley in Fairhope, Alabama. A tree-lined
+alttags: 'Black-and-white photo of Big Head Gulley in Fairhope. A tree-lined
   stream is visible. Text reads: SCENE IN BIG HEAD GULLY FAIRHOPE, ALA 1910-1...'
 related_articles:
 - slug: bend-over-fairhope

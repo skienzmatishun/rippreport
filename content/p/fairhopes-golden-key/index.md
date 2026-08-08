@@ -20,7 +20,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: City seal of Fairhope, Alabama featuring a golden key over a yellow sun,
+alttags: City seal of Fairhope featuring a golden key over a yellow sun,
   three sailboats on blue water, and the city name encircling the design
 related_articles:
 - slug: fairhope-going-backwards

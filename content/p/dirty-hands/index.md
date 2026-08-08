@@ -114,7 +114,7 @@ Fairhope was proud in March of 2017 to welcome 3 highly qualified people to a ne
 
 Fairhope has now lost two, of the three original staff hired. The Council did everything possible to discourage the new hires. First the council set it sights on the female of the three, Sherry- Lea Bloodworth Botop. The Council has a well established reputation for bulling women. Sherry-Lea relocated to Fairhope for the position and immediately the council moved to de-fund her position. Fairhope is the loser in her departure and the Fairhope Catalyst Council has dirty hands in her resigning.
 
-Mayor Karin Wilson of Fairhope, Alabama
+Mayor Karin Wilson of Fairhope
 
 April 28 at 5:00 PM ·
 

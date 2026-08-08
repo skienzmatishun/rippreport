@@ -113,7 +113,7 @@ That is true the council appointed the City Attorney:
 
 ![](https://4.bp.blogspot.com/-E0yYX7p-Z-w/WkZfs-edKAI/AAAAAAAAOEQ/WuIdfOAsaHgmspujMbu-Cdb5MslVu3kMwCLcBGAs/w1200-h630-p-k-no-nu/council%2Bspec.jpg)
 
-Fairhope, Alabama: newspaper, information, government, events, arts, music, entertainment, travel, arts and crafts,
+Fairhope: newspaper, information, government, events, arts, music, entertainment, travel, arts and crafts,
 
 Source: [thefairhopetimes.blogspot.com/2017/12/city-attorney-rift-settled.html](https://thefairhopetimes.blogspot.com/2017/12/city-attorney-rift-settled.html)
 

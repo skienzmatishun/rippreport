@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 authors:
 - admin
-alttags: Circular city seal for Fairhope, Alabama with curved text and a central graphic
+alttags: Circular city seal for Fairhope with curved text and a central graphic
   of a sun, flying bird, and three sailboats
 related_articles:
 - slug: off-the-rails
@@ -94,7 +94,7 @@ summary: The council machine drained public savings and stalled urgent building 
   reveal a systematic effort to mislead taxpayers while bankrolling local cronies.
   What else are city hall insiders hiding from Fairhope residents?
 ---
-Mayor Karin Wilson of Fairhope, AlabamaHope to See You Thursday for Our State of the City Expo This Thursday, 5pm, Fairhope Civic Center.
+Mayor Karin Wilson of FairhopeHope to See You Thursday for Our State of the City Expo This Thursday, 5pm, Fairhope Civic Center.
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2020/02/84426288_2556415757938125_6766964379234598912_n.jpg)
 

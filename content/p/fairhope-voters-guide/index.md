@@ -23,7 +23,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Circular city seal for Fairhope, Alabama featuring a black lighthouse behind
+alttags: Circular city seal for Fairhope featuring a black lighthouse behind
   a pale circle, with blue water and three white sailboats at the base
 related_articles:
 - slug: fairhopes-golden-key
@@ -96,7 +96,7 @@ DEAR NEW FAIRHOPE VOTERS: This municipal elections can be won by the young voter
 
 Today, less than a third of Fairhope's citizens can say they are actually from Fairhope. Most of us are not from here; but we all call it home. We were drawn to the Eastern Shore because of its picturesque, postage stamp vitality, quaint quality of life, and eclectic nature. Many of us in our twilight years, have chosen to retire here; others are just beginning a life, a career and a family. Every resident values Fairhope Every one of us wants to maintain what we have; we agree that there must be a limit to growth, and that which is allowed must be controlled, so that our investment here is not lost to the blissful ignorance of the times. We still believe that Fairhope is a special place worth fighting for.
 
-If you share these concerns, and value your home, your property and your rightful place in Fairhope, Alabama, then this voter guide is written with you in mind.
+If you share these concerns, and value your home, your property and your rightful place in Fairhope, then this voter guide is written with you in mind.
 
 ## THE RECENT PAST
 

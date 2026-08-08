@@ -192,7 +192,7 @@ Mayor Wilson is clear on her position,
 > 
 > I will continue to keep you posted. I thank you for your time and support!
 > 
-> Posted by [Mayor Karin Wilson of Fairhope, Alabama](https://cdn.rippreport.com/wp-content/uploads/2017/02/MayorKarinWilson) on [Thursday, February 23, 2017](https://cdn.rippreport.com/wp-content/uploads/2017/02/1875742586005449:0)
+> Posted by [Mayor Karin Wilson of Fairhope](https://cdn.rippreport.com/wp-content/uploads/2017/02/MayorKarinWilson) on [Thursday, February 23, 2017](https://cdn.rippreport.com/wp-content/uploads/2017/02/1875742586005449:0)
 
  
 

@@ -19,7 +19,7 @@ tags:
 - wilson
 authors:
 - admin
-alttags: Circular Fairhope, Alabama city seal with arched text and a central design
+alttags: Circular Fairhope city seal with arched text and a central design
   showing a yellow sky, white clouds, a flying bird, and three sailboats
 related_articles:
 - slug: freaky-fairhope

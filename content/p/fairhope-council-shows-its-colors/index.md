@@ -118,4 +118,4 @@ Anonymous
 
 {{< socialpreview url="https://rippreport.com/p/fairhope-catalyst-a-dirty-little-secret/" >}}
 
-From Facebook: Mayor Karin Wilson of Fairhope, Alabama Your special election for the Council-Manager form of government scheduled on 10/2 will NOW be delayed until the general election on 11/6. This is a decision which will be announced directly from the Judge of Probate’s office and I will share more details when these become available. Rest assured, I will make certain municipal voters are well-informed and that this change will not disenfranchise citizens on YOUR referendum to vote on a new form of government.
+From Facebook: Mayor Karin Wilson of Fairhope Your special election for the Council-Manager form of government scheduled on 10/2 will NOW be delayed until the general election on 11/6. This is a decision which will be announced directly from the Judge of Probate’s office and I will share more details when these become available. Rest assured, I will make certain municipal voters are well-informed and that this change will not disenfranchise citizens on YOUR referendum to vote on a new form of government.

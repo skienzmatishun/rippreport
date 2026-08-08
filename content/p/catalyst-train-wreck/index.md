@@ -15,7 +15,7 @@ tags:
 - ronan-mcsharry
 authors:
 - admin
-alttags: Modified circular seal for Fairhope, Alabama, reading City of Faux Hope and
+alttags: Modified circular seal for Fairhope, reading City of Faux Hope and
   showing flames, a yellow circle, and a military tank
 related_articles:
 - slug: communication

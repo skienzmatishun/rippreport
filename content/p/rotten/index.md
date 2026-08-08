@@ -6,7 +6,7 @@ categories:
 - citycouncil
 authors:
 - admin
-alttags: Circular municipal seal for Fairhope, Alabama, misspelled as Faux Hope, featuring
+alttags: Circular municipal seal for Fairhope, misspelled as Faux Hope, featuring
   a yellow sun, white clouds, a flying bird, and three sailboats
 related_articles:
 - slug: freaky-fairhope
