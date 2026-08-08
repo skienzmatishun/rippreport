@@ -78,7 +78,7 @@ related_articles:
   rank: 10
 summary: Fairhope municipal officials repeatedly kicked the can down the road to protect
   developer Arthur Corte's controversial Fly Creek project at the expense of local
-  taxpayers. Records prove that political insider networks like Catalyst have quietly
+  taxpayers. Records show that political insider networks like Catalyst have quietly
   influenced these critical council votes behind closed doors for years. Read how
   deep this web of political favors really goes before the next council meeting.
 ---

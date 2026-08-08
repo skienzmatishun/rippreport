@@ -104,7 +104,7 @@ related_articles:
   rank: 10
 summary: Fairhope council members and their political puppets are trying to kill a
   crucial $6.2 million waterfront grant to score cheap election points. Leaked documents
-  and meeting records prove these vocal critics never even showed up to public planning
+  and meeting records show these vocal critics never even showed up to public planning
   sessions. Where were these self-proclaimed guardians when local leaders wiped out
   the city surplus?
 ---

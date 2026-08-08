@@ -78,7 +78,7 @@ related_articles:
   recency_score: 1.8165716355019172
   rank: 10
 summary: Fairhope City Council President Jack Burrell manipulated airport authority
-  bids to benefit his political allies. Official records prove the ethics commission
+  bids to benefit his political allies. Official records show the ethics commission
   never received required lease filings for the lucrative 30-year deal. The Ripp Report
   uncovers what Jack tried to hide from the public.
 ---

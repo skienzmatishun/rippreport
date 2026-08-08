@@ -89,7 +89,7 @@ related_articles:
   rank: 10
 summary: Fairhope city officials repeatedly broke municipal rules and handed local
   taxpayers a multi-million-dollar bill for their arrogant legal blunders. Court transcripts
-  and public records prove council leaders lied about lawyer fees while secretly bleeding
+  and public records show council leaders lied about lawyer fees while secretly bleeding
   municipal utility funds dry. The Ripp Report pulls back the curtain on Fairhope's
   costliest political farce.
 ---

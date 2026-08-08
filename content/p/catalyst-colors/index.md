@@ -90,7 +90,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: Building on our recent exposure of local backroom deals, three council members
-  raided taxpayer accounts to buy millions in unapproved land. Financial records prove
+  raided taxpayer accounts to buy millions in unapproved land. Financial records show
   the council bypassed public meetings and ignored federal guidelines to reward their
   political ring. Can Fairhope taxpayers afford to keep funding Catalyst's secret
   spending spree?

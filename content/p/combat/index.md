@@ -90,7 +90,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: Corrupt politicians used public utility funds like a private slush fund while
-  ignoring critical city repairs. Public records prove former leaders wasted millions
+  ignoring critical city repairs. Public records show former leaders wasted millions
   on legal fees instead of fixing broken infrastructure. Join the fight for honest
   government by diving into our latest report.
 ---

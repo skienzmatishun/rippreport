@@ -97,7 +97,7 @@ related_articles:
   rank: 10
 summary: Fairhope officials fabricated official stories to cover up major sewage contamination
   at the public pier while shifting blame away from a favored city contractor. Investigative
-  records prove city staff secretly gathered water samples to hide municipal infrastructure
+  records show city staff secretly gathered water samples to hide municipal infrastructure
   failures from state environmental regulators. The Ripp Report cuts through the official
   lies to reveal what really polluted the bay.
 ---

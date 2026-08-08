@@ -81,7 +81,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: Councilmen Jack Burrell and Kevin Boone launched an aggressive campaign to
-  obstruct Mayor Wilson and paralyze city operations. Internal council records prove
+  obstruct Mayor Wilson and paralyze city operations. Internal council records show
   they engineered a targeted city hiring freeze purely to inflict political punishment
   on the new administration. Will Fairhope citizens tolerate public office being weaponized
   for personal revenge?

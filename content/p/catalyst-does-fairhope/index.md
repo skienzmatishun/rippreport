@@ -85,7 +85,7 @@ related_articles:
   rank: 10
 summary: Local politicians surrendered city planning to wealthy land developers and
   stuck ordinary residents with the bill for utility upgrades. Public utility logs
-  and financial records prove that city leaders funneled tax dollars into private
+  and financial records show that city leaders funneled tax dollars into private
   apartment projects. Will Fairhope citizens fight back against the political machine
   taking over their town?
 ---

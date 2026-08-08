@@ -89,7 +89,7 @@ related_articles:
 alttags: A man wearing metallic Alabama sheriff armor with a red laser eye sits in
   an office
 summary: Senator Trip Pittman and Sheriff Huey Mack built a backroom alliance to crush
-  political competition and hijack local government. Legislative records prove Pittman
+  political competition and hijack local government. Legislative records show Pittman
   intentionally passed unconstitutional laws just to keep his hand-picked sheriff
   in total control. Dig into the full investigation to see how deep the insider network
   really goes.
