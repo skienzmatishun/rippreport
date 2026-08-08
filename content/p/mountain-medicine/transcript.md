@@ -246,7 +246,7 @@ hooks:
       * Mayor Bob Wills
       * Joshua Brown
     generated_at: '2026-06-13T17:45:28.463752Z'
-    text: Marcus McDowell intentionally stalled cases to protect the well-connected while railroading his political enemies like Harry Still. This isn't an isolated mistake; it is a calculated judicial trick designed to maintain the status quo for the Baldwin County power brokers.
+    text: Marcus McDowell intentionally stalled cases to protect the well-connected while railroading his political enemies like Harry Still. This isn't an isolated mistake. It's a calculated judicial trick designed to maintain the status quo for the Baldwin County power brokers.
   cover-up:
     brief: |-
       THE CONFLICT:

@@ -134,7 +134,7 @@ A well known sod farmer, who has worked on numerous soccer fields, said the FIX 
 
 No alternatives were researched; this complex will cost several million dollars more than a site that was more conducive to soccer. The final price tag will ultimately top 5 million. Auburn University and the city have discussed joint ventures in the past that have included Auburn property boarding hwy98 across from the Recreation center; it's flat, not prone to flooding but, has not even been considered.
 
-The city Education Committee has requested $350,000 for our schools as a donation from Fairhope; it is going to cost five times that amount just to seek the right grade for soccer fields. THINK ABOUT IT.
+The city Education Committee has requested $350,000 for our schools as a donation from Fairhope. It's going to cost five times that amount just to seek the right grade for soccer fields. THINK ABOUT IT.
 
 Francis Paul Ripp
 

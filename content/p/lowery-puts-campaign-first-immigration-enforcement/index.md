@@ -80,7 +80,7 @@ We understand that politics is complicated. We understand that campaigns require
 To Sheriff Lowery, we ask this directly and respectfully:
 Is it true that immigration enforcement cooperation has been reduced or suspended in Baldwin County? And if so, is that decision in any way connected to your  campaign?
 The citizens of Baldwin County deserve a straight answer  not campaign talking points, not deflection, and not silence. If these allegations are inaccurate, say so publicly and clearly. If there is a legitimate law enforcement reason for any change in policy, explain it openly and transparently. That is what accountability looks like. That is what the people of this county have every right to demand.
-What is most disheartening is not just the possibility that enforcement has slowed or stopped; it is the suggestion that votes may have been placed above the safety and security of the very community you swore to protect. That is a profound breach of public trust, and it demands an immediate and honest response.
+What is most disheartening is not just the possibility that enforcement has slowed or stopped. It's the suggestion that votes may have been placed above the safety and security of the very community you swore to protect. That is a profound breach of public trust, and it demands an immediate and honest response.
 Baldwin County residents are watching. They are paying attention. And on May 19th, they will be voting.
 We call on Sheriff Lowery to step forward, face this issue directly, and put the people of Baldwin County first  before the campaign, before the politics, and before himself.
 

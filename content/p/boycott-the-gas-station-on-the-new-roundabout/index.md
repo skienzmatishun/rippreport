@@ -98,7 +98,7 @@ The Fairhope City Council unanimously refuses to support economic and community 
 
 {{< socialpreview url="https://www.al.com/news/mobile/index.ssf/2016/04/why_baldwin_county_is_alabamas.html" >}}
 
-Let us not forget the “Jack Burrell Come Fly With Me Municipal Airport” serving less than 1% of the community and receiving more in appropriation funds than any of its schools, which are overcrowded because of the good ole boy developers. The present and past Fairhope City Councils have all had education committees strive to increase school performance. A city school system has been beat to death by an overwhelming opposition. Our schools are facing the same problem as the entire county: unbridled growth; and we did not rank in the top 25 schools in the state. This is not a teacher problem; it is a population problem, fitting too many people into an area without the needed infrastructure investment.
+Let us not forget the “Jack Burrell Come Fly With Me Municipal Airport” serving less than 1% of the community and receiving more in appropriation funds than any of its schools, which are overcrowded because of the good ole boy developers. The present and past Fairhope City Councils have all had education committees strive to increase school performance. A city school system has been beat to death by an overwhelming opposition. Our schools are facing the same problem as the entire county: unbridled growth; and we did not rank in the top 25 schools in the state. This is not a teacher problem. It's a population problem, fitting too many people into an area without the needed infrastructure investment.
 
 {{< socialpreview url="https://www.usnews.com/education/best-high-schools/alabama/districts/baldwin-county/fairhope-high-school-28" >}}
 

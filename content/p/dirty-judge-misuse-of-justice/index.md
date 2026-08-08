@@ -126,7 +126,7 @@ First and foremost if you find yourself in Judge Thomason's court and your ex ha
 
 2. From the beginning of your divorce proceedings you will hear yourself described as crazy. This is standard procedure; Brackin and his partners have employed this tactic in their own divorces. If you are a woman you are crazy. Be aware they will push you until you react, then will use it against you.
 
-3. Your children will be used as pawns; it is more about one person losing control over the other, than divorce or children.
+3. Your children will be used as pawns. It's more about one person losing control over the other, than divorce or children.
 
 4. To push you as far as possible a protective order may be filed against you, in turn this will affect custody and visitation. This comes into play when they wish to separate you from all assets or access to those assets. Remember you're crazy, you may not in your whole marriage have imaged your spouse filing a protective order against you and limiting access to your children, thank Brackin.
 
