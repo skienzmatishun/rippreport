@@ -97,10 +97,10 @@ The Baldwin County Sheriffs office has consistently, for 20 years, had criminal 
 People have questioned the honesty of the Sheriff, doubted the Judges and sickened by some prosecutors. Their concerns, the citizens, were dismissed by District Attorneys who are equally corrupt and in inept.
 
 
-Several legal cases are pending against the Sheriff Hoss Mack. Recently new evidence was discovered in a case so “riddled with failures by the state”, that the totality of the case calls into question the motive to convict an innocent man. The most glaring motive is for self promotion, at all costs.
+Several legal cases are pending against the Sheriff Hoss Mack. Recently evidence was discovered in a case so “riddled with failures by the state”, that the totality of the case calls into question the motive to convict an innocent man. The most glaring motive is for self promotion, at all costs.
 
 
-The new evidence was “suppressed willfully rather than inadvertently” and was never divulged to the defense of Murray Lawrence. Mr. Lawrence has been incarcerated for 20 years. The evidence suppressed proves he was innocent. Sheriff Hoss, Mack District Attorney Robert Wilters who was the Judge, and David Whetstone the prosecutor, knowingly and willfully withheld the newly found evidence. Their signatures appear in the evidence. Not only does this prove Mr. Lawrence was innocent but it also supports allegations against authorities in previous cases alleging judicial misconduct.
+The evidence was “suppressed willfully rather than inadvertently” and was never divulged to the defense of Murray Lawrence. Mr. Lawrence has been incarcerated for 20 years. The evidence suppressed proves he was innocent. Sheriff Hoss, Mack District Attorney Robert Wilters who was the Judge, and David Whetstone the prosecutor, knowingly and willfully withheld the newly found evidence. Their signatures appear in the evidence. Not only does this prove Mr. Lawrence was innocent but it also supports allegations against authorities in previous cases alleging judicial misconduct.
 
 
 REAL CHRISTIANS WOULD NEVER CONVICT AN INNOCENT MAN.
