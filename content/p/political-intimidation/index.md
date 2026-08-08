@@ -75,7 +75,7 @@ related_articles:
   llm_score: 70
   recency_score: 2.5796041048141145
   rank: 10
-summary: Political bosses in Fairhope weaponized city government to silence public
+summary: Good Ole Boys in Fairhope weaponized city government to silence public
   opposition and protect corrupt election tactics. Internal memos and security logs
   reveal how municipal leaders installed physical barriers to lock citizens out of
   local governance. Can the public break free from a system designed to suppress their

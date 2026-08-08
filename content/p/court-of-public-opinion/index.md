@@ -96,7 +96,7 @@ related_articles:
 summary: Building on our recent findings, Fairhope insiders are working overtime to
   hide millions in public debt from local taxpayers. Official records reveal a pattern
   of illegal executive sessions, unverified architectural payouts, and shadow government
-  maneuvers. We break down the damning evidence that political bosses tried to lock
+  maneuvers. We break down the damning evidence that the Good Ole Boys tried to lock
   away.
 ---
 In 2017 The Ripp Report covered many different political issues in Baldwin County. Many of these issues will travel into 2018 and raise their ugly head again.

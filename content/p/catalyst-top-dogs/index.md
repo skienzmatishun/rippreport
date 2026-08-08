@@ -97,7 +97,7 @@ related_articles:
 summary: Political kingpins funneled hundreds of thousands of dollars into local races
   to install puppet candidates across Baldwin County. Campaign ledgers prove that
   shadowy political action committees bought influence for a price taxpayers are still
-  paying. Uncover the real cost of letting corrupt political bosses run our government.
+  paying. Uncover the real cost of letting corrupt Good Ole Boys run our government.
 ---
 Catalyst is fully supporting Tucker Dorsey for Baldwin County commission and also is hoping Chris Elliott fills the State Senate Race. These Catalyst dogs need to be kicked to the curb, they need to go.
 

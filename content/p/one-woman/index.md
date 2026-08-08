@@ -102,7 +102,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-summary: Local political bosses weaponized a violent assault trial to wage an unethical
+summary: Local Good Ole Boys weaponized a violent assault trial to wage an unethical
   smear campaign against the Mayor. Transcripts reveal that city prosecutors deliberately
   suppressed medical evidence and concealed key details to protect a favoured businessman.
   How many more victims will suffer before citizens demand accountability from this

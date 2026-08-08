@@ -70,7 +70,7 @@ related_articles:
   recency_score: 59.41948725206741
   rank: 10
 summary: As part of our coverage on the 2020 congressional primary, we highlight how
-  Fairhope's political bosses back Bill Hightower for Congress. Council President
+  Fairhope's GOB's back Bill Hightower for Congress. Council President
   Jack Burrell publicly praised Hightower to ensure their shadowy network maintains
   absolute political control. Working families cannot afford to send another corrupt
   machine puppet to represent Baldwin County in the United States Congress.

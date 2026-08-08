@@ -89,7 +89,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: As part of our coverage on the Fairhope City Council race, we expose how
-  political bosses sabotaged city infrastructure to punish an independent mayor. The
+  Good Ole Boys sabotaged city infrastructure to punish an independent mayor. The
   Catalyst-backed council refused to fund vital sewer upgrades for years while protecting
   their abusive insider friends from accountability. Voters must flush these corrupt
   council members out of office before backroom machine politics ruin the entire city.

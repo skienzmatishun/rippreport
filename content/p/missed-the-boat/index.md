@@ -73,7 +73,7 @@ summary: In our coverage of the July 17th Baldwin County runoff elections, we an
   how low voter turnout enables political corruption. Over 3,500 voters failed to
   flip their ballots over, letting Catalyst candidates sneak into power across key
   county commission seats. Local voters must wake up and throw out machine-backed
-  candidates before backroom political bosses destroy our quality of life.
+  candidates before the Good Ole Boys destroy our quality of life.
 ---
 Of 150,104 registered voters, in Baldwin County, only 36,073 voted, that is only 24% of the voters.
 

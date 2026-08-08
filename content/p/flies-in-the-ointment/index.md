@@ -78,7 +78,7 @@ related_articles:
 summary: Entrenched machine politicians used party loyalty to smuggle corrupt insiders
   into public office. Campaign finance filings expose tens of thousands in special
   interest cash flowing directly to handpicked puppet candidates. See how a tight
-  network of political bosses polluted local government for personal profit.
+  network of Good Ole Boys polluted local government for personal profit.
 ---
 There is no arguing that Alabama is in very sad shape when it comes to the state’s political structure and the lack of any leadership. Alabama’s republican and democrat’s are in an abyss, wandering aimlessly, clueless as to what it will take to bring Alabama out of not the third world but the dark ages. They have done a good job of selling the voters in the state a bill of goods that serves them the best. Straight ticket voting is their main tool to keep political control; however the downside is corrupt politicians who just ride into office, regardless of vetting or qualifications. The voters are dumb down to believe they must be loyal to their party and not question the candidates selected by party chiefs. The voters not the elected officials are the only ones that can break the cycle.
 

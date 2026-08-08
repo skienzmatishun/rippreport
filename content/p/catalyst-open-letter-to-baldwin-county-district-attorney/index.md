@@ -90,7 +90,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: Our ongoing coverage of the Baldwin County shadow government exposes how
-  high-ranking law enforcement officials colluded with political bosses to sabotage
+  high-ranking law enforcement officials colluded with GOB's to sabotage
   local leaders. Leaked letters and financial disclosures expose an intricate web
   of shell companies funding hand-picked political candidates. Why is the District
   Attorney protecting a political machine instead of prosecuting clear public corruption?

@@ -99,7 +99,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-summary: Fairhope political bosses subverted the democratic process by filling vacant
+summary: Fairhope Good Ole Boys subverted the democratic process by filling vacant
   council seats through secret political machine deals. Property probate records and
   meeting transcripts highlight how officials coordinated candidate exits months before
   telling the public. Dive into the paper trail that proves local leaders traded public
