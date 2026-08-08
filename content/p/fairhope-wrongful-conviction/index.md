@@ -85,7 +85,7 @@ related_articles:
 summary: Baldwin County officials railroaded Murray Lawrence Jr. into a life sentence
   without a single shred of physical evidence linking him to the crime. Court records
   and suppressed autopsy files reveal how prosecutors traded leniency for a manufactured
-  confession to close the book. The book exposes the sinister machine that
+  confession to close the case. The book exposes the sinister machine that
   stole over twenty years from an innocent man.
 ---
 TO GET MURRAY OUT OF PRISON, WE MUST GET HIS STORY OUT.
