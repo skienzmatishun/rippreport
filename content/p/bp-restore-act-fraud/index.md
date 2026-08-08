@@ -97,7 +97,7 @@ related_articles:
 alttags: A BP Restore Act application document for Fairhopes Fly Creek Watershed Restoration
   Project, stained with oil
 summary: Fairhope officials fabricated an environmental grant request to bail out
-  a favored developer at taxpayer expense. Internal testing files prove red clay destroyed
+  a favored developer at taxpayer expense. Internal testing files show red clay destroyed
   Fly Creek, yet the city hid the developer’s guilt to obtain BP money. Our latest
   report highlights the blatant deception driving this twenty-two million dollar cash
   grab.

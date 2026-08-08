@@ -83,7 +83,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: Corrupt lawyers and abusive judges turned the county divorce court into an
-  endless cash generator. Case files prove local attorneys deliberately dragged out
+  endless cash generator. Case files show local attorneys deliberately dragged out
   custody battles to extract maximum legal fees from desperate parents. Public exposure
   is finally tearing down this abusive family court racket.
 ---

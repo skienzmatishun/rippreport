@@ -90,7 +90,7 @@ alttags: A gray ballot box with a black slot and a red rectangular marker sticki
   out, set against a white background
 summary: Corrupt Baldwin County politicians manipulated public contracts and stole
   BP disaster grant money to line their own pockets. Secret grand jury records and
-  subpoenaed financial files prove key whistleblowers were fired to protect the money
+  subpoenaed financial files show key whistleblowers were fired to protect the money
   ring. Are you ready to strip these entrenched machine bosses of their unchecked
   power?
 ---

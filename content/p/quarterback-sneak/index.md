@@ -109,7 +109,7 @@ related_articles:
   rank: 10
 summary: Jack Burrell rammed through questionable judicial appointments behind closed
   doors while the public was looking the other way. Court dockets and airport authority
-  files prove how city attorneys buried criminal charges to protect well-connected
+  files show how city attorneys buried criminal charges to protect well-connected
   allies. The Ripp Report shines a light directly inside Fairhope’s cozy network of
   legal immunity.
 ---

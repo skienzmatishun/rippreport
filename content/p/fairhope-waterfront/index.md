@@ -96,7 +96,7 @@ related_articles:
   rank: 10
 summary: The city council hijacked a $6.2 million federal waterfront grant to strip
   out public amenities and serve political allies. Project meeting minutes and budget
-  files prove council members approved massive spending while quietly eliminating
+  files show council members approved massive spending while quietly eliminating
   citizen-requested features. See how a major community victory was turned into a
   backroom deal.
 ---

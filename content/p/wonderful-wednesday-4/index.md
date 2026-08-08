@@ -68,7 +68,7 @@ related_articles:
   recency_score: 0.37798075181147806
   rank: 10
 summary: Council leadership weaponized city subpoenas to gather evidence for friendly
-  litigants suing the municipality for cash payouts. Internal municipal files prove
+  litigants suing the municipality for cash payouts. Internal municipal files show
   politicians pushed hidden resolutions to channel taxpayer dollars straight into
   personal legal settlements. The Ripp Report uncovers the secret deals happening
   right under the public's nose.
