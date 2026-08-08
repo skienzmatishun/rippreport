@@ -77,7 +77,7 @@ related_articles:
 summary: We revisit how Mayor Tim Kant and developer Corte tricked Fairhope into accepting
   a shady four-acre land gift along Fly Creek. This dirty transaction made taxpayers
   liable for severe environmental damage and illegal runoff from a private development
-  project. This toxic deal shows exactly how local politicians still sacrifice public
+  project. This bad deal shows exactly how local politicians still sacrifice public
   wetlands to protect rich private developers today.
 ---
 

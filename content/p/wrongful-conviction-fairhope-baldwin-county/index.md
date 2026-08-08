@@ -95,7 +95,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: Local prosecutors and sheriff deputies framed an innocent Fairhope resident
-  and locked him away for nearly two decades. Withheld coroner reports and coerced
+  and locked him away for over two decades. Withheld coroner reports and coerced
   witness statements prove key officials hid the actual cause of death from the jury.
   Discover how the local justice system worked together to lock up an innocent man.
 ---

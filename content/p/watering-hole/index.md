@@ -90,7 +90,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-summary: Following up on our Judicial Trick report, local legal elites protected a
+summary: Following up on our Judicial Trick report, Good Ol' Boys protected a
   favored bar owner from serious assault charges after violent barroom attacks. Internal
   court files demonstrate how municipal attorneys intentionally bungled charges so
   a circuit judge could throw out the victim's case. The Ripp Report shines a light
