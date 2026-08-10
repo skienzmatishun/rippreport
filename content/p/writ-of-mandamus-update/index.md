@@ -97,7 +97,7 @@ related_articles:
 summary: Ethics Director Tom Albritton improperly siphoned private trust funds to
   line his family pockets and benefit judicial allies. Formal court filings and bank
   records reveal over a hundred thousand dollars in illicit tuition payouts and suspicious
-  fees. This bombshell case exposes the rot hiding behind Alabama ethics enforcement.
+  fees. This case exposes the rot hiding behind Alabama ethics enforcement.
 ---
 The Ripp Report is a consumer organization first. We also maintain a blog site, Facebook pages and a Podcast production. The Ripp Report is a not for profit. We expose political corruption and file appropriate complaints.
 
