@@ -100,7 +100,7 @@ related_articles:
 summary: Local judges and council members granted legal immunity to a bar owner with
   a history of violent public disturbances. Arrest logs and probation records reveal
   a systemic cover-up designed to buy victim silence and suppress evidence. Exposing
-  these secret deals shows how deep the local rot really goes.
+  these secret deals shows how deep the corruption really goes.
 ---
 The last edition of the Ripp Report we exposed, again, how the Fairhope City Council President and former councilman lied to the citizens of Fairhope.
 

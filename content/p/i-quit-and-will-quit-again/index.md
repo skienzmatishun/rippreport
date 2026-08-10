@@ -74,7 +74,7 @@ related_articles:
   rank: 10
 summary: In our 2018 Baldwin County Commission District 2 election coverage, we reveal
   how Catalyst candidate Joe Davis abandoned his voters on the Daphne City Council.
-  Davis quit his public office when he did not get his way, proving he puts personal
+  Davis quit his public office when he did not get his way, he puts personal
   temper tantrums over public duty. Electing a quitter like Davis hands local government
   to political insiders, while proven servants like John Lake actually protect residents.
 ---

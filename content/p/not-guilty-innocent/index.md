@@ -99,7 +99,7 @@ related_articles:
 alttags: Live news broadcast featuring a female anchor and a screen showing Shelby
   Myers in an orange shirt, with lower third text reading continuing coverage
 summary: Continuing our coverage, municipal court judges and city officials conspired
-  to convict an innocent attorney despite clear audio proving he acted in self-defense.
+  to convict an innocent attorney despite clear audio he acted in self-defense.
   Secret audio recordings capture a council member making death threats before staging
   a physical attack inside city office space. How long can corrupt municipal judges
   hide behind rigged verdicts when juries keep setting victims free?
