@@ -1,6 +1,6 @@
 ---
 title: THEY DON'T WANT YOU TO SEE THIS
-date: 2026-07-21
+date: 2026-08-10
 thumbnail: img/they-dont-want-you-to-see-this.png
 youtube: wq7Hddq7sn4
 categories:
