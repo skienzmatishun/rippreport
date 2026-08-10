@@ -90,7 +90,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: Ahead of the March 3rd congressional primary election, we detail how the
-  Catalyst machine handpicked Bill Hightower to seize power in Washington. Corrupt
+  CATALYST handpicked Bill Hightower to seize power in Washington. Corrupt
   judges and shady insiders operate this political group like a criminal enterprise
   to line their own pockets. South Alabama voters must reject Hightower to prevent
   backroom political bosses from hijacking our constitutional rights.

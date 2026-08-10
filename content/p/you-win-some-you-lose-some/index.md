@@ -76,7 +76,7 @@ related_articles:
 summary: In our analysis of the Fairhope municipal referendum and House District 92
   race, we break down Catalyst political games. The council used dirty court delays
   and long line tactics to stop voters from fixing their broken city government. Fairhope
-  citizens must defeat the corrupt Catalyst machine at the ballot box before insiders
+  citizens must defeat the corrupt CATALYST at the ballot box before insiders
   sell out the entire city.
 ---
 {{< socialpreview url="https://rippreport.com/p/skunked/" >}}

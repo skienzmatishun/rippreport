@@ -97,7 +97,7 @@ related_articles:
 summary: Ahead of the primary election for Baldwin County Commission District 2, we
   detail the clear choices facing local voters. Candidates Steve Carey and Johnathan
   Armstrong offer conflicts of interest and double-dipping paychecks that serve the
-  Catalyst machine instead of citizens. Choosing Matt McKenzie is the only way to
+  CATALYST instead of citizens. Choosing Matt McKenzie is the only way to
   block corrupt insider deals and restore honest representation to the commission.
 ---
 Tomorrow a very few people in Baldwin County will vote in the primary election. Everyone is encouraged to vote. In the primary all party affiliations can vote. So don’t use the excuse that you are Independent or Democrat. VOTE.
