@@ -94,7 +94,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: As part of our coverage on the Baldwin County Commission District 2 race,
-  we expose how the Catalyst political machine manipulates candidates Steve Carney
+  we expose how CATALYST manipulates candidates Steve Carney
   and Jonathan Armstrong. Armstrong and Commissioner Jeb Ball profit directly from
   court-ordered arrests through their private business while Carney answers to discredited
   politicians. Voters must reject these conflicted insiders to stop shady machine

@@ -82,7 +82,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: As part of our coverage on the 2018 Baldwin County primary elections, we
-  expose how the Catalyst political machine planted candidates across local government.
+  expose how CATALYST planted candidates across local government.
   Insiders like Michelle Thomason use shadowy machine backing to grab court seats
   and advance private interests. Citizens must reject these puppet candidates before
   corporate operatives capture complete control of county offices.

@@ -99,7 +99,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: As part of our coverage on the 2020 Baldwin County municipal elections, we
-  reveal how the CATALYST political machine rebranded as Scott Boone Consulting
+  reveal how CATALYST rebranded as Scott Boone Consulting
   to flood local races with political signs. Backroom developers use these signs to
   prop up candidates like Sherry Snedeker and Jack Burrell in Fairhope and Daphne.
   Voters must reject these machine-backed puppets on August 25th to protect local

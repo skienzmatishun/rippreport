@@ -97,7 +97,7 @@ related_articles:
   rank: 10
 alttags: Chris Elliott wears a superhero costume with a green mask, cape, and gray
   shirt featuring a red shield reading TAX MAN. He holds a vacuum cleaner with a...
-summary: Looking back at our exposé on how the Catalyst political machine pushed shady
+summary: Looking back at our exposé on how CATALYST pushed shady
   taxes and puppet candidates like Sherry Sullivan. Senator Chris Elliott and Jack
   Burrell manipulated public funds while hiding behind media allies to protect special
   interest money. These same insiders still control local policy and line their pockets

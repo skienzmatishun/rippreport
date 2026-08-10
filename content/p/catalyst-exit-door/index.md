@@ -92,7 +92,7 @@ related_articles:
 summary: Continuing our coverage, Baldwin County officials lined their pockets through
   shady deals while squeezing local taxpayers dry. Documents expose a tangled web
   of private LLCs and millions missing from county coffers. Step inside the Ripp Report's
-  latest exposure to see how the Catalyst political machine finally reached its exit
+  latest exposure to see how CATALYST finally reached its exit
   door.
 ---
 Baldwin County Commission, District No. 3, Please show Tucker Dorsey, not his real name, the exit door. Mr. Dorsey is the equivalent to Mr Burrell in Fairhope. Both men are about both men, they do not represent their constituents and have very poor performance records. Dorsey has burnt so many bridges that it is a miracle that he can find Clarence Burke’s house.

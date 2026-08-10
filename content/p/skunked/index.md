@@ -94,7 +94,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-summary: Following up on the government reform battle, the Catalyst political machine
+summary: Following up on the government reform battle, CATALYST
   filed shady injunctions to stop voters from establishing council districts. Court
   documents and internal emails prove incumbent council members sabotaged the referendum
   purely to save their own political seats. Read the shocking evidence showing how

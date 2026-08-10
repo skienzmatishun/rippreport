@@ -106,7 +106,7 @@ related_articles:
 alttags: A water tower with SUMMERDALE printed on its side, featuring a metal walkway
   and silhouetted against a bright sun creating a lens flare in the sky
 summary: Ahead of the Summerdale primary election forum, we track the ugly backstabbing
-  inside the Catalyst political machine. Operatives Scott Boone and Jon Gray rigged
+  inside CATALYST. Operatives Scott Boone and Jon Gray rigged
   speaking schedules to prop up flawed candidates like Kristi Hagood and silence opponents.
   This forum exposes why voters must reject Donna Givens and pick Jeremiah Giles to
   restore public integrity.

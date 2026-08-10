@@ -70,7 +70,7 @@ related_articles:
   recency_score: 0.23083255747252965
   rank: 10
 summary: In our analysis of the March 5, 2024 Baldwin County primary election, we
-  expose how the Catalyst political machine installs puppet candidates. Board of Education
+  expose how CATALYST installs puppet candidates. Board of Education
   contender Andrea Lindsey switched parties right before qualifying to serve as a
   rubber stamp for Superintendent Eddie Tyler. Voters must reject machine-backed stooges
   and elect Carrie Hosier and Kim Earl to restore honest public service.
