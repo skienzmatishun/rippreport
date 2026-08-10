@@ -117,7 +117,7 @@ Is Mr. Burrell a surrogate of Mayor Kant? Through his actions Burrell has certai
 
 DON’T THROW ROCKS IF YOU LIVE IN A GLASS HOUSE
 
-In the coming months details of the last administration will be scrutinized and some of the good ole boy deals will come to light. The New council members were elected for change, as was the Mayor; they pledged cooperation with the Mayor not with the status quo voted out.
+In the coming months details of the last administration will be scrutinized and some of the good ole boy deals will come to light. The New council members were elected for change, as was the Mayor. They pledged cooperation with the Mayor not with the status quo voted out.
 
 NOVEMBER 14th is the first city council meeting of the new administration. SHOW UP. Phone fax e-mail or face book your councilmen that we expect them to represent us and that we expect cooperation with the Mayor.  That is what we voted for. We elected them.  Now we must support them fully so they are not sucked into a power vacuum created by those already defeated.
 

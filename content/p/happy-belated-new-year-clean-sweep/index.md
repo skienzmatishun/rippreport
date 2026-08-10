@@ -10,7 +10,7 @@ Well the election of 2012 finally ended on the patriotic day of September 11th. 
 
 Mr. Kant and Mr. Ford were "re-elected." I predict this is their final term.
 
-Many Fairhope citizens are suspicious of the election process in Fairhope; they believe it to be flawed and/or corrupt. Dr. Chris Warner, candidate for mayor in 2012, attempted to have a simple, democratic, recount of the votes tallied for all candidates, not just mayor.
+Many Fairhope citizens are suspicious of the election process in Fairhope. They believe it to be flawed and/or corrupt. Dr. Chris Warner, candidate for mayor in 2012, attempted to have a simple, democratic, recount of the votes tallied for all candidates, not just mayor.
 
 The city said that such a recount (done by machine) would cost $4,000. Dr. Warner explained he wanted a full recount to validate all election results. However, to do so would have cost many thousands of dollars more.
 

@@ -116,7 +116,7 @@ Councilman Brown now has his eyes on the new recreation property and the potenti
 
 {{< socialpreview url="https://www.gulfcoastnewstoday.com/stories/ethics-complaint-filed-against-fairhope-councilman-robert-brown,58187" >}}
 
-“I did not use my position as Fairhope city councilman to get it rewarded. We were awarded the project because of our reputation. The ESAC is a nonprofit; they don’t follow municipal bid law where projects are publicly bid.”
+“I did not use my position as Fairhope city councilman to get it rewarded. We were awarded the project because of our reputation. The ESAC is a nonprofit. They don’t follow municipal bid law where projects are publicly bid.”
 
 Mr Brown’s reputation is based on HIS actions. The EASC being a non-profit is moot. Councilman Mr. Brown holds a board position with EASC, His sole responsibility is to be Ethical, Transparent and Accountable to EASC and the Citizens of Fairhope. He has failed. The EASC Board made a horrible mistake by awarding the sole bid to Mr. Brown.
 

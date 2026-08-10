@@ -114,7 +114,7 @@ subjective point-of-view.
 
 Within the legal process, victimized women may be placed under a microscope wherein
 every action, facial expression, and verbal innuendo within the courtroom may be scrutinized
-and judged. These women have already been severely traumatized; they have fled their
+and judged. These women have already been severely traumatized. They have fled their
 abusers under dire circumstances, and now the additional terror of being branded as an unfit
 mother hangs over their heads like a guillotine. The stakes are inconceivable. Considering
 the reality that their child could be temporarily, or permanently, taken away provokes

@@ -130,7 +130,7 @@ The property will have to be completely stripped of trees, even if construction 
 
 Most important is that the city has no enforcement powers or uses them selectively. The first phase broke every promise made by the land owner and contractors. So how are we to believe them now with such a track record? The Tree committee evaluated trees removed in phase 1 at a million dollars and the city turned a blind eye.
 
-The project refuses to provide any safeguards; they want us to TRUST them, like before. There should be a comprehensive traffic study, a watershed management plan, an environmental impact study, and a bond posted by the development that would insure any further damage to the creek, can be repaired by the developers not the taxpayers. The contractors and sub-contractors should be libel for their actions and not allowed to "INSULATE" themselves from litigation.
+The project refuses to provide any safeguards. They want us to TRUST them, like before. There should be a comprehensive traffic study, a watershed management plan, an environmental impact study, and a bond posted by the development that would insure any further damage to the creek, can be repaired by the developers not the taxpayers. The contractors and sub-contractors should be libel for their actions and not allowed to "INSULATE" themselves from litigation.
 
 This will go before Council early next year. Pay attention the Mayor is going to try and restrict notification to the public, (another TIP THE RIPPSTER), and slip it into council while everyone is distracted with their daily lives. This is what he did to settle the triangle lawsuit that cost us 11.25 million dollars, and then told us it's a Park.
 

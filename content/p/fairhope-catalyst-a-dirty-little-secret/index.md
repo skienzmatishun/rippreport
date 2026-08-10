@@ -98,7 +98,7 @@ The Fairhope City Council is an “at Large” elected Council. Each of the memb
 
 {{< socialpreview url="https://rippreport.com/p/catalyst-does-fairhope/" >}}
 
-This council will NEVER vote for districts and will do everything possible to stop that from happening. They are lying to the public; they got caught. What happens next is their undoing.
+This council will NEVER vote for districts and will do everything possible to stop that from happening. They are lying to the public. They got caught. What happens next is their undoing.
 
 ## Fairhope council votes to file injunction against Oct. 2 referendum - Lagniappe Mobile
 
