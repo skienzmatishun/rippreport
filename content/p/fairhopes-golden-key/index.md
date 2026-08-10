@@ -83,7 +83,7 @@ related_articles:
   llm_score: 65
   recency_score: 3.0655858073605606
   rank: 10
-summary: Ahead of the Fairhope municipal election, we expose how the Catalyst machine
+summary: Ahead of the Fairhope municipal election, we expose how CATALYST
   backs Sherry Sullivan to control city appointments and land development. Councilmen
   Jack Burrell, Kevin Boone, and Robert Brown repeatedly protect insider developers
   while trying to strip power from Mayor Karin Wilson. Fairhope voters must elect

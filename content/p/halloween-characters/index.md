@@ -134,7 +134,7 @@ PITTMAN, FAUST and DAVIS are all singing the same ole song and the have maintain
 
 {{< socialpreview url="https://yellowhammernews.com/reflecting-on-11-years-of-representing-baldwin-county-in-the-alabama-legislature/" >}}
 
-A VOTE for Chris Elliott, to replace Pittman, will change nothing. Elliott is also depending on a straight ticket vote. Elliott is bought and paid for and he will be a mule of the CATALYST machine.
+A VOTE for Chris Elliott, to replace Pittman, will change nothing. Elliott is also depending on a straight ticket vote. Elliott is bought and paid for and he will be a mule of CATALYST.
 
 {{< socialpreview url="https://rippreport.com/catalyst-does-baldwin-county/" >}}
 
@@ -142,6 +142,6 @@ You have an option:
 
 ## DO NOT VOTE PARTY, DEMOCRAT OR REPUBLICAN, VOTE CANDIDATE.
 
-## JASON FISHER DISTRICT 32 IS NOT A PART OF THE CATALYST MACHINE.
+## JASON FISHER DISTRICT 32 IS NOT A PART OF CATALYST.
 
 [https://fisherforsenate.com/](https://fisherforsenate.com/)

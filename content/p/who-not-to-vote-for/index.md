@@ -75,7 +75,7 @@ related_articles:
   llm_score: 70
   recency_score: 0.11605002583978188
   rank: 10
-summary: Ahead of the Alabama State Senate primary, we expose how the Catalyst machine
+summary: Ahead of the Alabama State Senate primary, we expose how CATALYST
   maneuvers shady insiders into higher office. Senator Tripp Pittman pocketed BP funds
   before seeking higher office, while DUI-tainted Commissioner Chris Elliott grabs
   his open seat. Voters must reject these corrupt Good Ole Boys before insiders steal

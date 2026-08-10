@@ -77,7 +77,7 @@ related_articles:
   recency_score: 17.082369330376963
   rank: 10
 summary: As part of our investigative analysis on the Fairhope mayoral race, we dissect
-  how disgruntled candidate Sherry Sullivan teamed up with the Catalyst machine to
+  how disgruntled candidate Sherry Sullivan teamed up with CATALYST to
   oust Mayor Karin Wilson. Sullivan brings a high school education, a trail of workplace
   failures, and revenge motives funded by corrupt developers. Fairhope voters must
   choose between Wilson's proven financial reform or Sullivan's backroom deals.

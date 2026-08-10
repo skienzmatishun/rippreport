@@ -94,7 +94,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-summary: The Catalyst machine rebranded under a new name to launch a secret offensive
+summary: CATALYST rebranded under a new name to launch a secret offensive
   across Baldwin County elections. Financial disclosures uncover a massive network
   of developers secretly funding a slate of hand-picked candidates. Learn the truth
   about who really pulls the strings in our local elections.

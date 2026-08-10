@@ -95,7 +95,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: Ahead of the July 14th runoff for Alabama's 1st Congressional District, we
-  detail how the Catalyst machine backed Bill Hightower to seize federal influence.
+  detail how CATALYST backed Bill Hightower to seize federal influence.
   Out-of-state PACs and Washington insiders flooded the district with dark money to
   prop up Hightower as their puppet against Jerry Carl. Voters face a critical choice
   between sending a local business leader to Congress or empowering political bosses.
