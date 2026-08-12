@@ -5,8 +5,8 @@ thumbnail: img/public-access.png
 categories:
 - freaky-friday
 tags:
-- chris-elliott
-- tucker-dorsey
+- Chris Elliott
+- Tucker Dorsey
 - zundel-road
 authors:
 - ripp-report

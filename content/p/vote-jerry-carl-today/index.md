@@ -7,7 +7,7 @@ categories:
 tags:
 - carl
 - election
-- jerry-carl
+- Jerry Carl
 authors:
 - admin
 alttags: Close-up portrait of Jerry Carl, an older man with white hair and glasses

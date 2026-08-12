@@ -7,7 +7,7 @@ categories:
 tags:
 - boone
 - burrell
-- fairhope-airport
+- Fairhope Airport
 - hix
 - preble-rish
 - robinson

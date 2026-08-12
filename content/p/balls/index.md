@@ -7,7 +7,7 @@ categories:
 tags:
 - burrell
 - corte
-- fly-creek
+- Fly Creek
 authors:
 - ripp-report
 alttags: A collection of bright yellow-green tennis balls scattered on a dark red

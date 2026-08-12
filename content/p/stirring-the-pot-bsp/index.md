@@ -3,7 +3,7 @@ title: Stirring The Pot
 date: 2024-10-18
 thumbnail: img/stirring-the-pot-bsp.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 rumble: v5gydsy

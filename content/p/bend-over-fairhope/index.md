@@ -10,7 +10,7 @@ tags:
 - boone
 - burrell
 - fairhope-single-tax
-- robert-brown
+- Robert Brown
 - tatumville
 - triangle
 authors:

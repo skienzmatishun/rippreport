@@ -12,7 +12,7 @@ tags:
 - mcmillian
 - mike-mcmillian
 - pittman
-- tripp-pittman
+-  Tripp Pittman
 authors:
 - admin
 alttags: Black silhouette of an open hand with fingers spread

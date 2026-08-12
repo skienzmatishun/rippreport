@@ -7,7 +7,7 @@ description: Mayor Kant claims Triangle settlement is finished and a win, but re
 tags:
 - archive
 - historical
-- triangle-lawsuit
+- Triangle Lawsuit
 - tim-kant
 - hand-arendall
 authors:

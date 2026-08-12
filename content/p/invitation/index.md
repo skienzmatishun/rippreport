@@ -6,8 +6,8 @@ categories:
 - citycouncil
 tags:
 - city-council
-- fairhope-pier
-- fairhope-waterfront
+- Fairhope Waterfront
+- Fairhope Waterfront
 - wilson
 authors:
 - admin

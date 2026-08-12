@@ -11,11 +11,11 @@ tags:
 - burrell
 - catalyst
 - city-council
-- dyas-triangle
+- Triangle Lawsuit
 - hatch
 - jack-burrell
-- kevin-boone
-- robert-brown
+- Kevin Boone
+- Robert Brown
 - tria
 - wilson
 authors:

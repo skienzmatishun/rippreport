@@ -7,10 +7,10 @@ categories:
 tags:
 - burrell
 - catalyst
-- city-attorney
+- City Attorney
 - election
 - jack-burrell
-- mayor-sullivan
+- Sherry Sullivan
 - sullivan
 authors:
 - admin

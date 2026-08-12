@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 tags:
 - burt
-- business-council-of-alabamama
+- Business Council of Alabama
 - elliott
 - page
 - schools

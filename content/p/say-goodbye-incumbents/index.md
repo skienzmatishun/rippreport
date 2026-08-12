@@ -7,12 +7,12 @@ categories:
 tags:
 - billy-jo-underwood
 - callaghan
-- chris-elliott
+- Chris Elliott
 - gruber
 - jeb-ball
 - lake
 - pittman
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - ripp-report
 alttags: A light-skinned hand with multiple semi-transparent, overlapping copies radiating

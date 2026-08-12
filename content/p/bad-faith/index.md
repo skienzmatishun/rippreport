@@ -2,7 +2,7 @@
 title: Bad Faith
 date: 2023-05-20
 categories:
-- backstory-podcast
+- Backstory Podcast
 rumble: v2m7d78
 thumbnail: img/bad-faith.jpg
 authors:

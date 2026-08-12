@@ -15,7 +15,7 @@ tags:
 - mega-site
 - spanish-fort
 - sullivan
-- tripp-pittman
+-  Tripp Pittman
 authors:
 - admin
 alttags: A balance scale shows a money bag with a dollar sign on the left pan and

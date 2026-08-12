@@ -7,8 +7,8 @@ thumbnail: img/catalyst-associates-exposed.png
 tags:
 - archive
 - historical
-- kevin-boone
-- chris-elliott
+- Kevin Boone
+- Chris Elliott
 - catalyst
 authors:
 - admin

@@ -13,9 +13,9 @@ tags:
 - election
 - hightower
 - jack-burrell
-- jerry-carl
-- kevin-boone
-- robert-brown
+- Jerry Carl
+- Kevin Boone
+- Robert Brown
 authors:
 - admin
 alttags: Two men in black and yellow bee costumes flank a red prohibition sign over

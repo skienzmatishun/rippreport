@@ -10,7 +10,7 @@ tags:
 - elections
 - endorsements
 - bp-boom-scandal
-- trip-pittman
+- Trip Pittman
 authors:
 - admin
 related_articles:

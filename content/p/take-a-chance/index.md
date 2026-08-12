@@ -9,8 +9,8 @@ tags:
 - brown
 - covid-19
 - jack-burrell
-- mayor-sullivan
-- robert-brown
+- Sherry Sullivan
+- Robert Brown
 - sullivan
 authors:
 - admin

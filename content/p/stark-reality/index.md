@@ -8,9 +8,9 @@ tags:
 - archive
 - historical
 - corruption
-- fly-creek
+- Fly Creek
 - governor-bentley
-- family-court
+- Family Court
 authors:
 - admin
 related_articles:

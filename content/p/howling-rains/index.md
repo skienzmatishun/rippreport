@@ -9,7 +9,7 @@ tags:
 - chuckee
 - covid-19
 - election
-- fairhope-pier
+- Fairhope Waterfront
 - raines
 authors:
 - admin

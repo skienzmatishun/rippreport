@@ -7,9 +7,9 @@ categories:
 tags:
 - burrell
 - chucky
-- ethics-complaint
-- fairhope-airport
-- robert-brown
+- Ethics Commission
+- Fairhope Airport
+- Robert Brown
 - wilson
 authors:
 - ripp-report

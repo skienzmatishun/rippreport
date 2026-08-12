@@ -3,7 +3,7 @@ title: THE 180
 date: 2024-08-24
 thumbnail: img/the-180.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 rumble: v59wyw1

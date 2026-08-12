@@ -6,7 +6,7 @@ categories:
 - citycouncil
 tags:
 - burrell
-- fairhope-airport
+- Fairhope Airport
 - hix
 - shux
 - triangle

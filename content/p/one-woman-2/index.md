@@ -9,7 +9,7 @@ tags:
 - boone
 - brown
 - burrell
-- city-attorney
+- City Attorney
 - city-council
 - conyers
 - dinardi

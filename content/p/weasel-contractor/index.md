@@ -9,8 +9,8 @@ tags:
 - hb-188
 - kant
 - lynn-stacy
-- thomasson
-- tucker-dorsey
+- Thomason
+- Tucker Dorsey
 authors:
 - admin
 alttags: Chris Elliotts head emerges from a spring-loaded jack-in-the-box with a black

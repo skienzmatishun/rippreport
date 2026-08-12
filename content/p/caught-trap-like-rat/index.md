@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 tags:
 - burrell
-- ethics-complaint
+- Ethics Commission
 - kant
 authors:
 - ripp-report

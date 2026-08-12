@@ -5,7 +5,7 @@ thumbnail: img/fairhope-airport-flying-without-a-compass.png
 categories:
 - wonderful-wednesday
 tags:
-- fairhope-airport
+- Fairhope Airport
 - wilson
 authors:
 - ripp-report

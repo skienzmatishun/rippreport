@@ -6,7 +6,7 @@ categories:
 - airport
 tags:
 - burrell
-- fairhope-airport
+- Fairhope Airport
 authors:
 - ripp-report
 alttags: Two men in vintage attire converse outdoors; the man on the left wears a

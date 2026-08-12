@@ -3,7 +3,7 @@ title: RIPP REPORT PODCAST
 date: 2019-09-02
 thumbnail: img/ripp-report-podcast.gif
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 related_articles:

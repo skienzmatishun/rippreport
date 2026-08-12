@@ -6,15 +6,15 @@ categories:
 - citycouncil
 tags:
 - csb
-- dyas-triangle
+- Triangle Lawsuit
 - hand-arendall
 - jack-burrell
-- mayor-sullivan
+- Sherry Sullivan
 - mcsharry
 - municipal-attorney
-- scott-boone
+- Scott Boone
 - sullivan
-- triangle-lawsuit
+- Triangle Lawsuit
 authors:
 - admin
 alttags: A woman in a yellow and black bee costume stands before US dollar bills,

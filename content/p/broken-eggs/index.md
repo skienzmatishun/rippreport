@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 tags:
 - burrell
-- fairhope-airport
+- Fairhope Airport
 - hix
 - snedeker
 - soccer-complex

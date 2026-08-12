@@ -9,8 +9,8 @@ tags:
 - carl-hightower
 - catalyst
 - election
-- jay-robinson
-- jerry-carl
+-  Jay Robinson
+- Jerry Carl
 - jimmy-conyers
 - kant
 - melones

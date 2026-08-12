@@ -6,7 +6,7 @@ summary: PLEASE support Mr CARL his opponent is CATALYST. A vote for CATALYST is
 categories:
 - elections
 tags:
-- jerry-carl
+- Jerry Carl
 authors:
 - admin
 alttags: Two men in business attire stand side by side smiling, identified as Bradley Byrne and Jerry Carl. An Alabama flag motif appears in the background

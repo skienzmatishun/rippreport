@@ -3,7 +3,7 @@ title: FAILING OUR CHILDREN IN BALDWIN COUNTY
 date: 2025-03-21
 thumbnail: img/failing-our-children-in-baldwin-county.png
 categories:
-- family-court
+- Family Court
 authors:
 - ripp-report
 alttags: A triptych showing an adult man and young girl covering their faces, flanked

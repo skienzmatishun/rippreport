@@ -9,8 +9,8 @@ tags:
 - burrell
 - chucky
 - pittman
-- robert-brown
-- sheriff-mack
+- Robert Brown
+- Hoss Mack
 authors:
 - ripp-report
 related_articles:

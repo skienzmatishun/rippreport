@@ -5,9 +5,9 @@ thumbnail: img/a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments
 categories:
 - wonderful-wednesday
 tags:
-- fly-creek
+- Fly Creek
 - kant
-- planning-and-zoning
+- Planning and Zoning
 authors:
 - ripp-report
 alttags: A wooden gavel rests on its circular sound block on a dark surface, with

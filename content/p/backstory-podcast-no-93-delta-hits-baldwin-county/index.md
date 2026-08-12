@@ -4,7 +4,7 @@ date: 2021-08-02
 youtube: z-WdA2isvw8
 thumbnail: img/delta-hits-baldwin-county.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 related_articles:

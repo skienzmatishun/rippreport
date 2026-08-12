@@ -3,7 +3,7 @@ title: NOT A HARD LIQUOR
 date: 2023-08-01
 authors: Ripp
 categories:
-- backstory-podcast
+- Backstory Podcast
 rumble: v2zy9vi
 thumbnail: img/not-a-hard-liquor.jpg
 alttags: A beer can featuring Alabama Governor Kay Ivey in glasses and a bow tie,

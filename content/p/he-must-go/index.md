@@ -3,7 +3,7 @@ title: He Must Go
 date: 2022-03-31
 youtube: k7zFLkkpXHQ
 categories:
-- backstory-podcast
+- Backstory Podcast
 thumbnail: img/he-must-go.jpg
 authors:
 - admin

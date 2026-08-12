@@ -3,7 +3,7 @@ title: Assassins Drones and Political Corruption
 date: 2024-12-13
 thumbnail: img/NI0Hv.qR4e-small-Backstory-Podcast-No-188-As.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 rumble: v5wt0e5

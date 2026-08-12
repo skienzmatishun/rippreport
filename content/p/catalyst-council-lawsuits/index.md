@@ -12,7 +12,7 @@ tags:
 - election
 - jack-burrell
 - kant
-- triangle-lawsuit
+- Triangle Lawsuit
 - wilson
 - zoning
 authors:

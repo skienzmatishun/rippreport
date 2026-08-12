@@ -3,9 +3,9 @@ title: BACKSTORY PODCAST 58 - The Rushin Prognostication
 date: 2020-10-31
 thumbnail: img/backstory-podcast.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 tags:
-- backstory-podcast
+- Backstory Podcast
 - covid-19
 - election
 - hurricane

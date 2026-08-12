@@ -6,15 +6,15 @@ categories:
 - citycouncil
 tags:
 - airport
-- city-attorney
+- City Attorney
 - city-council
 - faa
 - jack-burrell
-- kevin-boone
+- Kevin Boone
 - lawsuits
 - marcus-mcdowel
 - raines
-- robert-brown
+- Robert Brown
 - wilson
 authors:
 - admin

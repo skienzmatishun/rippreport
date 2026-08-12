@@ -3,7 +3,7 @@ title: MOTHER BEAR
 date: 2023-07-12
 thumbnail: img/moma-bear.png
 categories:
-- family-court
+- Family Court
 authors:
 - admin
 alttags: A brown bear stands on all fours in a grassy field, looking down at the ground

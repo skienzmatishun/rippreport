@@ -5,7 +5,7 @@ thumbnail: img/fairhope-a-city-owned-by-outside-interests-and-good-ole-boys.jpg
 categories:
 - thursday-thunder
 tags:
-- fly-creek
+- Fly Creek
 - kant
 - sandy-ford
 - triangle

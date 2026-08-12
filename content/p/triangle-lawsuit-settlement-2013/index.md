@@ -7,7 +7,7 @@ description: Mayor Kant's Triangle lawsuit settlement will cost every Fairhope r
 tags:
 - archive
 - historical
-- triangle-lawsuit
+- Triangle Lawsuit
 - tim-kant
 - bp-restore-act
 authors:

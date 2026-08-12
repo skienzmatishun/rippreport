@@ -5,9 +5,9 @@ thumbnail: img/fire.png
 categories:
 - freaky-friday
 tags:
-- boy-scouts
+- Boy Scouts
 - kant
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - ripp-report
 alttags: A lit matchstick with a bright flame and curling smoke rising against a dark,

@@ -13,8 +13,8 @@ tags:
 - HB-188
 - Kant
 - Lynn-Stacy
-- Thomasson
-- Tucker-Dorsey
+- Thomason
+- Tucker Dorsey
 alttags: Weasel Contractor speaking in a blue suit against a dark blue background
 ---
 {{< socialpreview url="https://rippreport.com/p/weasel-contractor/" >}}

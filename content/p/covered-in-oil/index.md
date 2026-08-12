@@ -5,7 +5,7 @@ thumbnail: img/covered-in-oil.png
 categories:
 - wonderful-wednesday
 tags:
-- fairhope-airport
+- Fairhope Airport
 - pittman
 authors:
 - ripp-report

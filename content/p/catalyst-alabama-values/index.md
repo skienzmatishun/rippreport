@@ -7,9 +7,9 @@ categories:
 - freaky-friday
 tags:
 - catalyst
-- chris-elliott
+- Chris Elliott
 - pittman
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - ripp-report
 alttags: Chris Elliott in striped prison uniform behind bars, related to his connection to former Governor Bentley and Senate race

@@ -6,9 +6,9 @@ categories:
 - freaky-friday
 tags:
 - conyers
-- fly-creek
+- Fly Creek
 - kant
-- robert-brown
+- Robert Brown
 - robinson
 - wilson
 authors:

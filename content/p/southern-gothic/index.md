@@ -5,7 +5,7 @@ thumbnail: img/southern-gothic.jpg
 categories:
 - external
 tags:
-- backstory-podcast
+- Backstory Podcast
 - gabriel-tynes
 authors:
 - admin

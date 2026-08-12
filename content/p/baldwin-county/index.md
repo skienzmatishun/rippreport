@@ -6,19 +6,19 @@ categories:
 - elections
 tags:
 - baldwin-county
-- city-attorney
+- City Attorney
 - city-council
 - elections
 - hoss-mack
 - little-whiskey-christmas-club
 - mack
-- mayor-sullivan
+- Sherry Sullivan
 - mcsharry
 - mcsharrys
-- ronan-mcsharry
+- Ronan McSharry
 - sheriff
 - sullivan
-- tripp-pittman
+-  Tripp Pittman
 authors:
 - admin
 alttags: A Crystal Clean mascot stands beside an open toilet bowl containing a bomb

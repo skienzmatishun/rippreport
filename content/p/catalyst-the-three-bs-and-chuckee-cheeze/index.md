@@ -8,7 +8,7 @@ tags:
 - boone
 - burrell
 - chucky
-- robert-brown
+- Robert Brown
 authors:
 - ripp-report
 related_articles:

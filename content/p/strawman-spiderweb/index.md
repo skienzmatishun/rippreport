@@ -6,7 +6,7 @@ categories:
 - stormy-saturday
 tags:
 - boone
-- kevin-boone
+- Kevin Boone
 - mcsharry
 authors:
 - admin

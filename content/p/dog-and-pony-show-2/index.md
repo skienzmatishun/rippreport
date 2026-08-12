@@ -9,10 +9,10 @@ tags:
 - burrell
 - catalyst
 - city-council
-- dyas-triangle
-- fly-creek-apartments
-- kevin-boone
-- triangle-lawsuit
+- Triangle Lawsuit
+- Fly Creek
+- Kevin Boone
+- Triangle Lawsuit
 - wilson
 authors:
 - admin

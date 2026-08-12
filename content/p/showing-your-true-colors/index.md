@@ -5,10 +5,10 @@ thumbnail: img/showing-your-true-colors.png
 categories:
 - freaky-friday
 tags:
-- fly-creek
+- Fly Creek
 - kant
 - perfoming-arts-center
-- planning-and-zoning
+- Planning and Zoning
 - preble-rish
 authors:
 - ripp-report

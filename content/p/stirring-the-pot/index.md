@@ -6,7 +6,7 @@ categories:
 - alabama
 tags:
 - burrell
-- fairhope-airport
+- Fairhope Airport
 authors:
 - ripp-report
 related_articles:

@@ -11,11 +11,11 @@ tags:
 - city-council
 - election
 - jack-burrell
-- kevin-boone
+- Kevin Boone
 - mayor
 - municipal-attorney
-- municipal-judge
-- robert-brown
+- Municipal Judge
+- Robert Brown
 - sullivan
 - wilson
 authors:

@@ -9,21 +9,21 @@ tags:
 - bay-bridge
 - burrell
 - city-council
-- fairhope-airport
-- fairhope-pier
+- Fairhope Airport
+- Fairhope Waterfront
 - fairhope-single-tax
-- fairhope-waterfront
+- Fairhope Waterfront
 - golf-course
 - hawthorn-glen
 - jack-burrell
 - k1-center
 - kant
-- mayor-sullivan
+- Sherry Sullivan
 - sullivan
 - tolls
-- triangle-lawsuit
+- Triangle Lawsuit
 - utilities-director
-- waterfront-project
+- Fairhope Waterfront
 - wilson
 authors:
 - admin

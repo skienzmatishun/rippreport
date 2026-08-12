@@ -7,10 +7,10 @@ description: Mayor plans to blindside public and bring back rejected Fly Creek a
 tags:
 - archive
 - historical
-- fly-creek
+- Fly Creek
 - apartments
 - arthur-corte
-- planning-zoning
+- Planning and Zoning
 authors:
 - admin
 related_articles:

@@ -2,7 +2,7 @@
 title: Offensive
 date: 2023-06-05
 categories:
-- backstory-podcast
+- Backstory Podcast
 rumble: v2prck0
 thumbnail: img/offensive.jpg
 authors:

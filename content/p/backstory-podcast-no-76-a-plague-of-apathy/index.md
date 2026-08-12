@@ -4,9 +4,9 @@ date: 2021-03-21
 youtube: XcGclWOqLSs
 thumbnail: img/a-plague-of-apathy.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 tags:
-- backstory-podcast
+- Backstory Podcast
 - biden
 - city-council
 - covid-19
@@ -15,7 +15,7 @@ tags:
 - mcsharrys
 - medical-cannabis
 - mobile-county-sheriff
-- ronan-mcsharry
+- Ronan McSharry
 - sars-cov-2
 authors:
 - admin

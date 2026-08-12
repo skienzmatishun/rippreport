@@ -10,7 +10,7 @@ tags:
 - contracts
 - conflicts-of-interest
 - single-tax
-- planning-zoning
+- Planning and Zoning
 authors:
 - admin
 related_articles:

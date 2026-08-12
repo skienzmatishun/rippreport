@@ -2,7 +2,7 @@
 title: Alabama's Ethics Director Should Resign
 date: 2023-03-04
 categories:
-- backstory-podcast
+- Backstory Podcast
 youtube: ZpyCDG50Lhk
 thumbnail: img/alabamas-ethics-director-should-resign.png
 authors:

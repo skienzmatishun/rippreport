@@ -7,7 +7,7 @@ description: Mayor railroading Fairhope with corrupt deals, environmental damage
 tags:
 - archive
 - historical
-- fly-creek
+- Fly Creek
 - arthur-corte
 - publix
 - corruption

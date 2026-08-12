@@ -3,7 +3,7 @@ title: The Pete Rose
 date: 2024-10-04
 thumbnail: img/nTNWt.qR4e-small-Backstory-Podcast-No-184-Th.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 rumble: v5f4bf1

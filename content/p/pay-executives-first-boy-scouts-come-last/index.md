@@ -5,9 +5,9 @@ thumbnail: img/pay-executives-first-boy-scouts-last.jpg
 categories:
 - wonderful-wednesday
 tags:
-- boy-scouts
+- Boy Scouts
 - phil-webb
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - ripp-report
 related_articles:

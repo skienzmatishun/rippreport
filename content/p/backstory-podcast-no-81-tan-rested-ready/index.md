@@ -4,17 +4,17 @@ date: 2021-05-03
 youtube: aRsdPzQ0kpc
 thumbnail: img/tan-rested-and-ready.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 tags:
 - art-fest
 - covid-19
 - elliott
-- fairhope-pier
-- fairhope-waterfront
+- Fairhope Waterfront
+- Fairhope Waterfront
 - hoss-mack
 - india
 - sars-cov-3
-- sheriff-mack
+- Hoss Mack
 authors:
 - admin
 related_articles:

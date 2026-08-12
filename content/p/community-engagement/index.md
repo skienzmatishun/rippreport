@@ -13,7 +13,7 @@ tags:
 - k-1-center
 - nix-center
 - robinson
-- triangle-lawsuit
+- Triangle Lawsuit
 authors:
 - ripp-report
 alttags: A crowd of stylized blue, black, and gray human silhouettes arranged in rows

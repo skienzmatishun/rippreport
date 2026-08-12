@@ -6,9 +6,9 @@ categories:
 - freaky-friday
 tags:
 - catalyst
-- chris-elliott
-- kevin-boone
-- tucker-dorsey
+- Chris Elliott
+- Kevin Boone
+- Tucker Dorsey
 authors:
 - ripp-report
 alttags: Two men in suits stand before a pool backdrop; a life ring labeled Catalyst

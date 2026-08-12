@@ -5,7 +5,7 @@ thumbnail: img/all-smoke-and-mirrors.jpg
 categories:
 - freaky-friday
 tags:
-- fairhope-airport
+- Fairhope Airport
 authors:
 - ripp-report
 alttags: A black top hat rests on a dark background as a white wand points toward

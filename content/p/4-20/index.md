@@ -12,7 +12,7 @@ tags:
 - election
 - hemp
 - medical-cannabis
-- tripp-pittman
+-  Tripp Pittman
 authors:
 - admin
 alttags: A digitally added green cannabis leaf graphic overlaid on a body of water

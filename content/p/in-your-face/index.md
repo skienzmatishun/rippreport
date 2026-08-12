@@ -6,9 +6,9 @@ categories:
 - wonderful-wednesday
 tags:
 - burrell
-- ethics-complaint
-- fairhope-airport
-- robert-brown
+- Ethics Commission
+- Fairhope Airport
+- Robert Brown
 authors:
 - ripp-report
 alttags: Yellow sign divided horizontally. The top says RIGHT with a right arrow,

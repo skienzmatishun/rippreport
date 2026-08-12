@@ -5,7 +5,7 @@ thumbnail: img/pandemic-corruption.png
 categories:
 - alabama
 tags:
-- ethics-commission
+- Ethics Commission
 authors:
 - ripp-report
 alttags: A white directional road sign with a black border points left, displaying

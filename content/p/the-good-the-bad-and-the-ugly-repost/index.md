@@ -13,7 +13,7 @@ tags:
 - mcsharry
 - mcsharrys
 - ronan
-- triangle-lawsuit
+- Triangle Lawsuit
 - wilson
 authors:
 - ripp-report

@@ -7,7 +7,7 @@ thumbnail: img/top-ten-reasons-pittman-needs-go.jpg
 tags:
 - archive
 - historical
-- trip-pittman
+- Trip Pittman
 - bp-boom-scandal
 - corruption
 - contracts

@@ -5,7 +5,7 @@ thumbnail: img/green-acres-on-acid.jpg
 categories:
 - freaky-friday
 tags:
-- ethics-commission
+- Ethics Commission
 - pittman
 - steve-russo
 authors:

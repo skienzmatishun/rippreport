@@ -6,10 +6,10 @@ categories:
 - elections
 tags:
 - billy-jo-underwood
-- chris-elliott
+- Chris Elliott
 - david-northcutt
 - thomason
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - ripp-report
 related_articles:

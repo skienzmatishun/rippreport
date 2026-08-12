@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 tags:
 - catalyst
-- chris-elliott
+- Chris Elliott
 authors:
 - ripp-report
 alttags: A close-up of the American flag waving in the wind, showing its blue field

@@ -8,7 +8,7 @@ tags:
 - boone
 - burrell
 - catalyst
-- fairhope-airport
+- Fairhope Airport
 - pandora
 - sullivan
 - wilson

@@ -4,7 +4,7 @@ date: 2022-03-09
 youtube: KXxEGDFOCqc
 thumbnail: img/the-smoky-and-the-bandit-run.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 related_articles:

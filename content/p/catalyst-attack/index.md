@@ -8,7 +8,7 @@ tags:
 - catalyst
 - csb
 - election
-- scott-boone
+- Scott Boone
 authors:
 - admin
 alttags: Campaign signs for Kevin Boone, Sherry, and Jack Burrell stand in grass near

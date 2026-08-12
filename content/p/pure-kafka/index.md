@@ -3,7 +3,7 @@ title: PURE KAFKA
 date: 2023-09-17
 authors: Ripp
 categories:
-- backstory-podcast
+- Backstory Podcast
 rumble: v3fo50k
 thumbnail: img/pure-kafka.jpg
 alttags: A film still featuring two men in a clinical setting, overlaid with text

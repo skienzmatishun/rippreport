@@ -3,7 +3,7 @@ title: Haitians Eating Cats
 date: 2024-09-20
 thumbnail: img/hatians-eating-cats.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 rumble: v5dblkt

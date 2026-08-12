@@ -7,9 +7,9 @@ categories:
 tags:
 - christmas-parade
 - covid-19
-- fairhope-pier
+- Fairhope Waterfront
 - raines
-- waterfront-project
+- Fairhope Waterfront
 - wilson
 authors:
 - admin

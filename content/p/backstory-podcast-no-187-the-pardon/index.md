@@ -3,7 +3,7 @@ title: The Pardon
 date: 2024-12-07
 thumbnail: img/ebutv.qR4e-small-Backstory-Podcast-No-187-Th.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 rumble: v5ujhsq

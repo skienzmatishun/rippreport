@@ -6,8 +6,8 @@ categories:
 - freaky-friday
 tags:
 - boone
-- fly-creek
-- planning-and-zoning
+- Fly Creek
+- Planning and Zoning
 - preble-rish
 authors:
 - ripp-report

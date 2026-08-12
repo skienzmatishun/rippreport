@@ -5,14 +5,14 @@ thumbnail: img/catalyst-train-wreck.png
 categories:
 - freaky-friday
 tags:
-- backstory-podcast
+- Backstory Podcast
 - catalyst
-- city-attorney
+- City Attorney
 - city-council
 - mcsharry
 - mcsharrys
-- municipal-judge
-- ronan-mcsharry
+- Municipal Judge
+- Ronan McSharry
 authors:
 - admin
 alttags: Modified circular seal for Fairhope, reading City of Faux Hope and

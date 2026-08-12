@@ -6,7 +6,7 @@ categories:
 - repost
 tags:
 - burrell
-- fairhope-airport
+- Fairhope Airport
 - wilson
 authors:
 - ripp-report

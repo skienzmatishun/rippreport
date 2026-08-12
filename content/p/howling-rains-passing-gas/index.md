@@ -7,10 +7,10 @@ categories:
 tags:
 - burrell
 - csb
-- fairhope-pier
-- fairhope-waterfront
+- Fairhope Waterfront
+- Fairhope Waterfront
 - jack-burrell
-- mayor-sullivan
+- Sherry Sullivan
 - raines
 - sullivan
 - wilson

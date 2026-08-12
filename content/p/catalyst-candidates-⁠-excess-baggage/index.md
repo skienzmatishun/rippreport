@@ -11,7 +11,7 @@ tags:
 - city-council
 - election
 - jack-burell
-- jerry-carl
+- Jerry Carl
 - kant
 - sullivan
 authors:

@@ -9,8 +9,8 @@ tags:
 - election
 - hoss-mack
 - mack
-- sheriff-mack
-- tripp-pittman
+- Hoss Mack
+-  Tripp Pittman
 authors:
 - admin
 alttags: Text reading STEALING OUR DEMOCRACY appears on the left against a dark background,

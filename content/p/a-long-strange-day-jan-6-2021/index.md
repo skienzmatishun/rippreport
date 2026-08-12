@@ -4,9 +4,9 @@ date: 2021-01-08
 youtube: wdNSu9AN9yM
 thumbnail: img/a-long-strange-day.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 tags:
-- backstory-podcast
+- Backstory Podcast
 - insurrection
 authors:
 - admin

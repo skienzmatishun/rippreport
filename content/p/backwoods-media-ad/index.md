@@ -3,7 +3,7 @@ title: BACKWOODS MEDIA AD
 date: 2020-02-28
 thumbnail: img/backwoods-media-ad.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 alttags: Man with glasses sits at a broadcast desk with microphones before The Ripp

@@ -5,8 +5,8 @@ thumbnail: img/fairhope-townhall-meeting.jpg
 categories:
 - wonderful-wednesday
 tags:
-- fairhope-airport
-- fly-creek
+- Fairhope Airport
+- Fly Creek
 authors:
 - ripp-report
 related_articles:

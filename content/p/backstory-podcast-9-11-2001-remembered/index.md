@@ -2,14 +2,14 @@
 title: Backstory Podcast 9/11, 2001 Remembered
 date: 2020-09-12
 categories:
-- backstory-podcast
+- Backstory Podcast
 youtube: d6FYUlEFneo
 thumbnail: img/9-11-remembered.jpg
 tags:
 - alabama-correctional-facilities
-- backstory-podcast
+- Backstory Podcast
 - covid-19
-- dyas-triangle
+- Triangle Lawsuit
 - election
 - governor-ivey
 - hurricane

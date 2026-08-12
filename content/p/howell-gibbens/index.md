@@ -7,10 +7,10 @@ categories:
 tags:
 - brown
 - catalyst
-- dyas-triangle
+- Triangle Lawsuit
 - election
 - gibbens
-- robert-brown
+- Robert Brown
 authors:
 - admin
 alttags: Campaign poster for Howell Gibbens, City Council Place 4 candidate, on a

@@ -9,7 +9,7 @@ tags:
 - dinardi
 - mcsharry
 - mcsharrys
-- ronan-mcsharry
+- Ronan McSharry
 authors:
 - admin
 related_articles:

@@ -10,7 +10,7 @@ tags:
 - dinardi
 - mcsharry
 - mcsharrys
-- ronan-mcsharry
+- Ronan McSharry
 authors:
 - admin
 alttags: Two red prohibition signs side by side, one crossing out the word CATALYST

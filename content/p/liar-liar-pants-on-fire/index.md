@@ -7,7 +7,7 @@ categories:
 tags:
 - baldwin-county
 - elliott
-- ethics-commission
+- Ethics Commission
 authors:
 - admin
 alttags: A man in a light blue shirt and glasses reads from papers at a microphone

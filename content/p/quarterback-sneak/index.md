@@ -10,7 +10,7 @@ tags:
 - burrell
 - dinardi
 - faa
-- fairhope-airport
+- Fairhope Airport
 - football
 - insurrection
 - jack-burrell
@@ -19,8 +19,8 @@ tags:
 - mcsharry
 - mcsharrys
 - municipal-attorney
-- municipal-judge
-- ronan-mcsharry
+- Municipal Judge
+- Ronan McSharry
 - snedeker
 authors:
 - admin

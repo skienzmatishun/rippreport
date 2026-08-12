@@ -4,7 +4,7 @@ date: 2025-01-13
 rumble: v66c9oy
 thumbnail: img/scalped.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 summary: A terror attack was stopped from reaching a larger crowd by traffic. A vet built a car bomb with AI, blowing up a Tesla. Leaders waste tax money on shady deals. Sheriffs hide their mistakes. Scholarships for students went to insiders. The governor’s health rumors stir worry. Teens with rifles fight in streets. A body found in a sunken car. Politicians let state pick police chiefs, ignoring locals. And finally, a festival and a demand to punish corrupt leaders. Alabama’s rules break like melting snow.

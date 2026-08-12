@@ -7,7 +7,7 @@ categories:
 tags:
 - burke
 - catalyst
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - ripp-report
 alttags: A hand inserts a blank white ballot into the slot of a wooden voting box

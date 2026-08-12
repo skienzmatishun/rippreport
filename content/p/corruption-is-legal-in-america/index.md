@@ -5,7 +5,7 @@ thumbnail: img/memorial-day-2.png
 categories:
 - alabama
 tags:
-- ethics-commission
+- Ethics Commission
 authors:
 - ripp-report
 alttags: A distressed American flag featuring a blue field of gold stars and alternating

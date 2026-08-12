@@ -5,12 +5,10 @@ description: Governor Bentley and Senator Pittman deceive legislature, rob $300 
   from education for tax credits
 thumbnail: img/alabama-education-accountability-act.png
 tags:
-- archive
-- historical
 - education
-- trip-pittman
-- governor-bentley
-- accountability-act
+- Trip Pittman
+- Governor Bentley
+- Accountability Act
 authors:
 - admin
 related_articles:

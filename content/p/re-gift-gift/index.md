@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 tags:
 - corte
-- fly-creek
+- Fly Creek
 - kant
 - sewer
 - wilson

@@ -6,10 +6,10 @@ categories:
 - thursday-thunder
 tags:
 - catalyst
-- chris-elliott
+- Chris Elliott
 - mega-site
 - pittman
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - ripp-report
 related_articles:

@@ -8,7 +8,7 @@ tags:
 - kant
 - nix
 - pittman
-- planning-and-zoning
+- Planning and Zoning
 - triangle
 - wilson
 authors:

@@ -6,8 +6,8 @@ categories:
 - monday-madness
 tags:
 - catalyst
-- chris-elliott
-- tucker-dorsey
+- Chris Elliott
+- Tucker Dorsey
 - zundel-road
 authors:
 - ripp-report

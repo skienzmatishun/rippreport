@@ -6,10 +6,10 @@ categories:
 - freaky-friday
 tags:
 - catalyst
-- chris-elliott
+- Chris Elliott
 - mega-site
 - sewer
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - ripp-report
 alttags: Dorsey & Elliott in dog costumes

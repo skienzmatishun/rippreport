@@ -5,7 +5,7 @@ thumbnail: img/catalyst-candidate-elliott-panic-mode.jpg
 categories:
 - elections
 tags:
-- chris-elliott
+- Chris Elliott
 authors:
 - ripp-report
 alttags: Chris Elliott, Baldwin County Commissioner, in a State Senate runoff election

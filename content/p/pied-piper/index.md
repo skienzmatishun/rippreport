@@ -10,15 +10,15 @@ tags:
 - burrell
 - catalyst
 - city-council
-- fairhope-pier
-- jay-robinson
+- Fairhope Waterfront
+-  Jay Robinson
 - kant
 - mpo
 - richard-shelby
-- robert-brown
+- Robert Brown
 - sullivan
 - tolls
-- waterfront-project
+- Fairhope Waterfront
 authors:
 - admin
 alttags: Jack Burrell stands in a park with a fountain and manicured gardens playing

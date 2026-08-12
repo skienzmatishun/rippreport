@@ -7,9 +7,9 @@ thumbnail: img/put-your-big-boy-pants-on.png
 tags:
 - archive
 - historical
-- tucker-dorsey
+- Tucker Dorsey
 - conflicts-of-interest
-- boy-scouts
+- Boy Scouts
 authors:
 - admin
 related_articles:

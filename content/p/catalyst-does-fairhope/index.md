@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 tags:
 - catalyst
-- fly-creek
+- Fly Creek
 - kant
 authors:
 - ripp-report

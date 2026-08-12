@@ -10,7 +10,7 @@ tags:
 - electoral-college
 - gary-palmer
 - insurrection
-- jerry-carl
+- Jerry Carl
 - mike-rogers
 - robert-aderholt
 - tuberville

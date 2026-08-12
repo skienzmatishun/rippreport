@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 tags:
 - burrell
-- fairhope-airport
+- Fairhope Airport
 - wilson
 authors:
 - ripp-report

@@ -8,8 +8,8 @@ tags:
 - baldwin-insider
 - burrell
 - chucky
-- fairhope-airport
-- kevin-boone
+- Fairhope Airport
+- Kevin Boone
 - tatumville
 authors:
 - ripp-report

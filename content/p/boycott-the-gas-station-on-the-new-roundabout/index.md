@@ -6,7 +6,7 @@ categories:
 - wonderful-wednesday
 tags:
 - burrell
-- chris-elliott
+- Chris Elliott
 - fairhope-schools
 - kant
 - pittman

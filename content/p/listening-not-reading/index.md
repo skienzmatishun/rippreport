@@ -6,8 +6,8 @@ categories:
 - freaky-friday
 tags:
 - burrell
-- ethics-commission
-- fairhope-airport
+- Ethics Commission
+- Fairhope Airport
 - hix
 - pandora
 - pittman

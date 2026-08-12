@@ -11,9 +11,9 @@ tags:
 - city-council
 - csb
 - jack-burrell
-- jay-robinson
-- mayor-sullivan
-- robert-brown
+-  Jay Robinson
+- Sherry Sullivan
+- Robert Brown
 - robinson
 - sherry-sullivan
 authors:

@@ -7,7 +7,7 @@ categories:
 tags:
 - burrell
 - catalyst
-- chris-elliott
+- Chris Elliott
 - pittman
 - sessions
 authors:

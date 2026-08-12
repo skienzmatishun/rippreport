@@ -6,7 +6,7 @@ categories:
 - elections
 tags:
 - city-council
-- dyas-triangle
+- Triangle Lawsuit
 - election
 - kant
 - sullivan

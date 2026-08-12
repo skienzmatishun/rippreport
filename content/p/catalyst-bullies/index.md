@@ -6,13 +6,13 @@ categories:
 - freaky-friday
 tags:
 - boone
-- city-attorney
+- City Attorney
 - election
 - mcdowell
 - mcsharry
 - mcsharrys
 - ronan
-- scott-boone
+- Scott Boone
 - wilson
 authors:
 - admin

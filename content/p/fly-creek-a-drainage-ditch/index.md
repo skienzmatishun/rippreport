@@ -5,7 +5,7 @@ thumbnail: img/fly-creek-a-drainage-ditch.png
 categories:
 - freaky-friday
 tags:
-- fly-creek
+- Fly Creek
 authors:
 - ripp-report
 related_articles:

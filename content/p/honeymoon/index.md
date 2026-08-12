@@ -10,10 +10,10 @@ tags:
 - city-council
 - csb
 - jack-burrell
-- jay-robinson
-- kevin-boone
-- mayor-sullivan
-- robert-brown
+-  Jay Robinson
+- Kevin Boone
+- Sherry Sullivan
+- Robert Brown
 - robinson
 - sherry-sullivan
 authors:

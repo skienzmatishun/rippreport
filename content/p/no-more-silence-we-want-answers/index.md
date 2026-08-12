@@ -7,10 +7,10 @@ categories:
 tags:
 - fairhope-library
 - fairhope-schools
-- fly-creek
+- Fly Creek
 - geese
 - pittman
-- planning-and-zoning
+- Planning and Zoning
 - sewer
 - shux
 - soccer-complex

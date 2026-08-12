@@ -7,9 +7,9 @@ description: Planning and Zoning votes down Fly Creek apartments 5-4 after 300 c
 tags:
 - archive
 - historical
-- fly-creek
+- Fly Creek
 - apartments
-- planning-zoning
+- Planning and Zoning
 - city-council
 authors:
 - admin

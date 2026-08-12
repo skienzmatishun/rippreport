@@ -3,7 +3,7 @@ title: CATALYST QUEEN - REMEMBER FAMILY COURT
 date: 2018-04-27
 thumbnail: img/catalyst-queen-remember-family-court.jpg
 categories:
-- family-court
+- Family Court
 tags:
 - catalyst
 - thomason

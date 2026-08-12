@@ -7,13 +7,13 @@ categories:
 summary: Featured comment. FAIRNESS IS THE DEFINITION OF ANYBODY THAT WE GIVE ANY OF OUR TRUST TO!!!!!!! Let me simply explain to all of you that have actually shown an interest in and am proud to say that Fairhope Citizens DO CARE AFTER ALL!!!!! THANK YOU SO MUCH FOR SHOWING THESE PAST FEW MONTHS.
 
 tags:
-- boy-scouts
+- Boy Scouts
 - bradley-byrne
 - butler
 - pittman
 - russell
 - thompson
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - admin
 alttags: A large white question mark centered on a solid black background

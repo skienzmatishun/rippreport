@@ -7,8 +7,8 @@ categories:
 tags:
 - brewer
 - conyers
-- fly-creek
-- planning-and-zoning
+- Fly Creek
+- Planning and Zoning
 authors:
 - ripp-report
 alttags: A cartoon illustration of a boy with brown hair and large eyes, his hand

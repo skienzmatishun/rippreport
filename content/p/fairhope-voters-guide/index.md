@@ -17,9 +17,9 @@ tags:
 - jack-burrell
 - joshua-gammon
 - kant
-- kevin-boone
+- Kevin Boone
 - mayor
-- robert-brown
+- Robert Brown
 - wilson
 authors:
 - admin

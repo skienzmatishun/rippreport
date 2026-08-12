@@ -6,9 +6,9 @@ gif: img/the-jester1.gif
 categories:
 - ethics
 tags:
-- ethics-commission
-- ethics-complaint
-- robert-brown
+- Ethics Commission
+- Ethics Commission
+- Robert Brown
 - sewer
 authors:
 - ripp-report

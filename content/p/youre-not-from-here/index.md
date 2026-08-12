@@ -7,9 +7,9 @@ thumbnail: img/youre-not-from-here.png
 tags:
 - archive
 - historical
-- fly-creek
+- Fly Creek
 - arthur-corti
-- planning-zoning
+- Planning and Zoning
 - development
 authors:
 - admin

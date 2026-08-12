@@ -3,7 +3,7 @@ title: January 22nd Qualifying Deadline
 date: 2022-01-08
 youtube: -1maB8qyziM
 categories:
-- backstory-podcast
+- Backstory Podcast
 thumbnail: img/january_22nd_qualifying_deadline.jpg
 authors:
 - admin

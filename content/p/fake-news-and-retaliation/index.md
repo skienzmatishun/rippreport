@@ -8,7 +8,7 @@ tags:
 - boone
 - catalyst
 - chucky
-- fairhope-airport
+- Fairhope Airport
 - kant
 - wilson
 authors:

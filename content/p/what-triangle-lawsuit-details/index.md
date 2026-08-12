@@ -7,7 +7,7 @@ description: Citizens excluded from $12.5 million Triangle settlement decision, 
 tags:
 - archive
 - historical
-- triangle-lawsuit
+- Triangle Lawsuit
 - bp-restore-act
 - hand-arendall
 - corruption

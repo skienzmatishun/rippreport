@@ -10,9 +10,9 @@ tags:
 - botop
 - burrell
 - conyers
-- fly-creek
+- Fly Creek
 - prebble-rish
-- robert-brown
+- Robert Brown
 - robinson
 - wilson
 authors:

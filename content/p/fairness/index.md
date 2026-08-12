@@ -7,9 +7,9 @@ categories:
 tags:
 - angelo-corte
 - burrell
-- fly-creek
+- Fly Creek
 - pittman
-- robert-brown
+- Robert Brown
 - wilson
 authors:
 - ripp-report

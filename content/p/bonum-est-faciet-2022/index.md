@@ -4,7 +4,7 @@ date: 2022-12-31
 youtube: 90t8w_tSrHk
 thumbnail: img/bonum.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 related_articles:

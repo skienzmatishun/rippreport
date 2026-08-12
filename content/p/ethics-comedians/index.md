@@ -5,7 +5,7 @@ thumbnail: img/ethics-comedians.jpg
 categories:
 - alabama
 tags:
-- ethics-commission
+- Ethics Commission
 - pittman
 authors:
 - ripp-report

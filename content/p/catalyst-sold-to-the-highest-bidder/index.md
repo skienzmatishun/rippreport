@@ -6,11 +6,11 @@ categories:
 - monday-madness
 tags:
 - catalyst
-- chris-elliott
+- Chris Elliott
 - doug-jones
 - eddie-tyler
 - pittman
-- sheriff-mack
+- Hoss Mack
 authors:
 - ripp-report
 alttags: Chris Elliott and David Northcutt, candidates in a runoff election, pose

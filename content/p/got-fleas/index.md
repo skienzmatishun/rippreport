@@ -5,9 +5,9 @@ thumbnail: img/got-fleas.png
 categories:
 - thursday-thunder
 tags:
-- fairhope-pier
-- fairhope-waterfront
-- mayor-sullivan
+- Fairhope Waterfront
+- Fairhope Waterfront
+- Sherry Sullivan
 - raines
 - restore-act
 - wilson

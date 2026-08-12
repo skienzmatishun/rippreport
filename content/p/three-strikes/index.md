@@ -7,7 +7,7 @@ categories:
 tags:
 - brewer
 - burell
-- dyas-triangle
+- Triangle Lawsuit
 - wilson
 authors:
 - admin

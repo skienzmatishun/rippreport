@@ -10,11 +10,11 @@ tags:
 - catalyst
 - city-council
 - election
-- fairhope-airport
+- Fairhope Airport
 - joshua-gammon
 - kant
-- kevin-boone
-- scott-boone
+- Kevin Boone
+- Scott Boone
 - wilson
 authors:
 - admin

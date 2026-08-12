@@ -8,7 +8,7 @@ tags:
 - airport
 - catalyst
 - election
-- fairhope-airport
+- Fairhope Airport
 - jack-burrell
 - sewer
 authors:

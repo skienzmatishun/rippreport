@@ -7,7 +7,7 @@ description: 'Consumer alert: Baldwin County Family Court corruption involving J
 tags:
 - archive
 - historical
-- family-court
+- Family Court
 - judge-thomason
 - brackin-law-firm
 - corruption

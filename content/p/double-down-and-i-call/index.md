@@ -6,8 +6,8 @@ categories:
 - wonderful-wednesday
 tags:
 - burrell
-- ethics-commission
-- fairhope-airport
+- Ethics Commission
+- Fairhope Airport
 authors:
 - ripp-report
 alttags: Stacks of red, black, and blue poker chips arranged on a felt surface

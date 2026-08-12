@@ -5,8 +5,8 @@ thumbnail: img/you-re-fired.png
 categories:
 - alabama
 tags:
-- ethics-commission
-- tucker-dorsey
+- Ethics Commission
+- Tucker Dorsey
 authors:
 - ripp-report
 alttags: Donald Trump points forward with his mouth open, shouting. Red text on his

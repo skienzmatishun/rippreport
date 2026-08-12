@@ -6,8 +6,8 @@ categories:
 - citycouncil
 tags:
 - catalyst
-- fairhope-pier
-- fairhope-waterfront
+- Fairhope Waterfront
+- Fairhope Waterfront
 - Waterfront
 authors:
 - admin

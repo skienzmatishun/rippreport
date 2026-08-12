@@ -4,7 +4,7 @@ date: 2024-04-01
 thumbnail: img/what-the.jpg
 summary: Senator Katie Britt, once a darling in Alabama political circles, has become an SNL target. Recent events in Montgomery include discussions on the Gaming Bill, Medical Cannabis, School Choice, Alabama Works, and a New Ethics Law. A leaked police body cam footage led to charges against an officer. A love triangle between Alabama Power Company executives, The Matrix LLC, and the McCrary Institute at Auburn University, with a hefty one million dollar contract.
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 rumble: v4kazef

@@ -6,14 +6,14 @@ categories:
 - citycouncil
 tags:
 - burrell
-- dyas-triangle
-- fairhope-pier
-- fly-creek-apartments
+- Triangle Lawsuit
+- Fairhope Waterfront
+- Fly Creek
 - jack-burrell
 - k-1-center
-- mayor-sullivan
+- Sherry Sullivan
 - sullivan
-- waterfront-project
+- Fairhope Waterfront
 - wilson
 authors:
 - admin

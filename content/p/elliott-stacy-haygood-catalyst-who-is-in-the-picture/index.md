@@ -6,11 +6,11 @@ categories:
 - elections
 tags:
 - catalyst
-- chris-elliott
+- Chris Elliott
 - haygood
 - kant
 - thomason
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - ripp-report
 alttags: Group photo of CATALYST political members, including Chris Elliott and local

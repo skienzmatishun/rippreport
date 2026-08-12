@@ -5,7 +5,7 @@ thumbnail: img/the-crime-of-the-century.jpg
 rumble: v6dp8k4
 summary: On today's podcast, Trump’s plans for military changes, free speech limits, and business rules. We look at claims Biden protected his family and allies like Dr. Fauci. Alabama Governor Ivey upsets veterans by making their board political. A court case says people can’t sue police over a wrong SWAT raid. Lawmakers will soon debate new laws, with rumors about Ivey’s future.
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 alttags: Backstory Podcast cover featuring Joe Biden and Kamala Harris seated side by side, flanked by the Baldwin County seal and podcast logo

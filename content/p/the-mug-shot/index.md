@@ -3,7 +3,7 @@ title: The Mugshot
 date: 2023-08-28
 thumbnail: img/the-mugshot.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 rumble: v39h1qo

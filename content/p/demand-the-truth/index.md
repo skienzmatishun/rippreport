@@ -5,7 +5,7 @@ thumbnail: img/demand-the-truth.png
 categories:
 - freaky-friday
 tags:
-- ethics-complaint
+- Ethics Commission
 - kant
 - pittman
 authors:

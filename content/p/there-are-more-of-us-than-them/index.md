@@ -5,7 +5,7 @@ thumbnail: img/there-are-more-of-us-than-them.jpg
 categories:
 - freaky-friday
 tags:
-- fly-creek
+- Fly Creek
 - sewer
 - soccer-complex
 - sullivan

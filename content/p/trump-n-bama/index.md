@@ -3,7 +3,7 @@ title: Trump N Bama
 date: 2023-08-25
 thumbnail: img/trump-n-bama.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 rumble: v377p40

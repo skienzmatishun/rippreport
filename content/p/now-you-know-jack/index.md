@@ -7,7 +7,7 @@ categories:
 - ethics
 tags:
 - burrell
-- ethics-complaint
+- Ethics Commission
 authors:
 - ripp-report
 alttags: Jack Burrell waves in front of a white Legacy 65 jet wearing a yellow and

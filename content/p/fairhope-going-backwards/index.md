@@ -12,9 +12,9 @@ tags:
 - gibbens
 - hopkins
 - jack-burrell
-- kevin-boone
-- robert-brown
-- scott-boone
+- Kevin Boone
+- Robert Brown
+- Scott Boone
 - sullivan
 - wilson
 authors:

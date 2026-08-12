@@ -7,7 +7,7 @@ categories:
 tags:
 - catalyst
 - csb
-- scott-boone
+- Scott Boone
 authors:
 - admin
 alttags: Black-framed glasses overlay a red prohibition sign, with the word CATALYST

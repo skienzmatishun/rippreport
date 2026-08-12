@@ -6,8 +6,8 @@ categories:
 - freaky-friday
 tags:
 - burrell
-- fly-creek
-- robert-brown
+- Fly Creek
+- Robert Brown
 - wilson
 authors:
 - ripp-report

@@ -3,7 +3,7 @@ title: Welcome To The Party Pal
 date: 2022-07-24
 youtube: qzB4yBnwigk
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 related_articles:

@@ -12,7 +12,7 @@ tags:
 - pandora
 - police-chief
 - sullivan
-- thomasson
+- Thomason
 - wilson
 authors:
 - ripp-report

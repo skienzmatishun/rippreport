@@ -7,7 +7,7 @@ categories:
 tags:
 - burrell
 - chucky
-- fairhope-airport
+- Fairhope Airport
 authors:
 - ripp-report
 alttags: A black silhouette of a hand gripping a money bag, featuring a white dollar

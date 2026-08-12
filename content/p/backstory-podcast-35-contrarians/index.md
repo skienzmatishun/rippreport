@@ -4,9 +4,9 @@ date: 2020-05-09
 youtube: X-5Vc457PAE
 thumbnail: img/contrarians.png
 categories:
-- backstory-podcast
+- Backstory Podcast
 tags:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 related_articles:

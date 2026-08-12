@@ -7,12 +7,12 @@ categories:
 - monday-madness
 tags:
 - catalyst
-- city-attorney
+- City Attorney
 - city-council
 - covid-19
 - daphne
 - elections
-- fly-creek-apartments
+- Fly Creek
 - hurricane
 - hurricane-delta
 - mcmillian

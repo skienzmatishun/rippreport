@@ -8,9 +8,9 @@ tags:
 - catalyst
 - csb
 - elections
-- fairhope-pier
+- Fairhope Waterfront
 - raines
-- waterfront-project
+- Fairhope Waterfront
 authors:
 - admin
 alttags: A cardboard box labeled Premium Redneck Repair Kit sits beside a can of WD-40

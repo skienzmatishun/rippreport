@@ -6,10 +6,10 @@ description: Updates on Family Court corruption, Boy Scouts mismanagement, and F
 tags:
 - archive
 - historical
-- fly-creek
+- Fly Creek
 - city-council
-- boy-scouts
-- family-court
+- Boy Scouts
+- Family Court
 authors:
 - admin
 alttags: A digitally rendered white pier extending over choppy ocean water beneath a surreal green and blue sky

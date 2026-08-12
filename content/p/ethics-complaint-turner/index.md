@@ -10,7 +10,7 @@ tags:
 - ethics
 - lee-turner
 - single-tax
-- planning-zoning
+- Planning and Zoning
 authors:
 - admin
 related_articles:

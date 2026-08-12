@@ -6,21 +6,21 @@ categories:
 - repost
 tags:
 - covid-19
-- dyas-triangle
-- fairhope-pier
+- Triangle Lawsuit
+- Fairhope Waterfront
 - fire-station
 - hand-anderall
 - kant
-- mayor-sullivan
-- municipal-judge
+- Sherry Sullivan
+- Municipal Judge
 - parker-road
 - publix
 - publix-project
 - sbc
 - sullivan
-- triangle-lawsuit
+- Triangle Lawsuit
 - utilities-director
-- waterfront-project
+- Fairhope Waterfront
 authors:
 - admin
 related_articles:

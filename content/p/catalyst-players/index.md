@@ -6,15 +6,15 @@ categories:
 - freaky-friday
 tags:
 - catalyst
-- chris-elliott
+- Chris Elliott
 - city-council
 - county-commissioner
 - election
 - elliott
 - mcsharry
 - mcsharrys
-- municipal-judge
-- ronan-mcsharry
+- Municipal Judge
+- Ronan McSharry
 authors:
 - admin
 alttags: A group of people pose around a long table in a dimly lit room, with papers

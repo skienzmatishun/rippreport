@@ -7,10 +7,10 @@ categories:
 tags:
 - botop
 - burrell
-- fairhope-airport
+- Fairhope Airport
 - kant
 - marion-wynne
-- robert-brown
+- Robert Brown
 - sewer
 authors:
 - ripp-report

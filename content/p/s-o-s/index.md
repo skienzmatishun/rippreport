@@ -6,10 +6,10 @@ categories:
 - freaky-friday
 tags:
 - city-council
-- fairhope-waterfront
+- Fairhope Waterfront
 - hoss-mack
 - mobile-baykeeper
-- sheriff-mack
+- Hoss Mack
 authors:
 - admin
 alttags: Circular seal reading City of Faux Hope Alabama, showing a yellow sun, a

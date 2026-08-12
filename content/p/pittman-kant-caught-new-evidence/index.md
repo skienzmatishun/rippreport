@@ -8,7 +8,7 @@ tags:
 - archive
 - historical
 - bp-boom-scandal
-- trip-pittman
+- Trip Pittman
 - tim-kant
 - leigh-anne-ryals
 authors:

@@ -10,12 +10,12 @@ tags:
 - city-council
 - city-prosecutor
 - jack-burrell
-- kevin-boone
+- Kevin Boone
 - marcus-mcdowell
 - mcsharry
 - mcsharrys
-- municipal-judge
-- ronan-mcsharry
+- Municipal Judge
+- Ronan McSharry
 authors:
 - admin
 alttags: A black silhouette of a balanced scale with a female figure in the left pan

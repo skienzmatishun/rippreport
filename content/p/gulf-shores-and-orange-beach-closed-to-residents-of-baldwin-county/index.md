@@ -5,7 +5,7 @@ thumbnail: img/gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-count
 categories:
 - wonderful-wednesday
 tags:
-- chris-elliott
+- Chris Elliott
 - david-northcutt
 - doug-jones
 - jeff-boyd

@@ -9,7 +9,7 @@ tags:
 - historical
 - education
 - budget
-- triangle-lawsuit
+- Triangle Lawsuit
 authors:
 - admin
 related_articles:

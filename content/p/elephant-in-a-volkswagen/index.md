@@ -7,7 +7,7 @@ categories:
 - freaky-friday
 tags:
 - burrell
-- fairhope-airport
+- Fairhope Airport
 - fairhope-single-tax
 - pittman
 - turner

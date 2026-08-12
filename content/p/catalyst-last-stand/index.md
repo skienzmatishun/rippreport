@@ -10,16 +10,16 @@ tags:
 - catalyst
 - city-council
 - conyers
-- cory-martin
+- Cory Martin
 - election
 - jack-burrell
 - jimmy-conyers
 - kant
-- kevin-boone
+- Kevin Boone
 - pittman
-- robert-brown
+- Robert Brown
 - sullivan
-- tripp-pittman
+-  Tripp Pittman
 authors:
 - admin
 alttags: Three men in yellow and black bee costumes stand against a white background,

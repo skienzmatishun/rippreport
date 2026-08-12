@@ -7,8 +7,8 @@ categories:
 - alabama
 tags:
 - burrell
-- ethics-commission
-- fairhope-airport
+- Ethics Commission
+- Fairhope Airport
 - pittman
 authors:
 - ripp-report

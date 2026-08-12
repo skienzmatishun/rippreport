@@ -3,7 +3,7 @@ title: Backstory Podcast No 56 The Lincoln Project
 date: 2020-10-17
 thumbnail: img/backstory-podcast.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 tags:
 - covid-19
 - sars-cov-2

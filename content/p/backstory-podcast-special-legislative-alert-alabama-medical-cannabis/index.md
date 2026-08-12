@@ -2,10 +2,10 @@
 title: 'Special Legislative Alert: Alabama Medical Cannabis'
 date: 2021-05-07
 categories:
-- backstory-podcast
+- Backstory Podcast
 youtube: 773DBogYwSQ
 tags:
-- backstory-podcast
+- Backstory Podcast
 - chey-garrigan
 - ivey
 - medical-cannabis

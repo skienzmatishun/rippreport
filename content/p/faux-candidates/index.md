@@ -7,13 +7,13 @@ categories:
 tags:
 - bill-hightower
 - catalyst
-- chris-elliott
+- Chris Elliott
 - daphne
 - election
 - elliott
 - haygood
 - jack-burrell
-- jerry-carl
+- Jerry Carl
 - lynn-stacy
 authors:
 - admin

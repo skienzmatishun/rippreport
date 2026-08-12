@@ -6,9 +6,9 @@ gif: img/the-jester-1.gif
 categories:
 - ethics
 tags:
-- ethics-complaint
+- Ethics Commission
 - pittman
-- robert-brown
+- Robert Brown
 authors:
 - ripp-report
 related_articles:

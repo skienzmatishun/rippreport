@@ -4,9 +4,9 @@ date: 2021-03-19
 youtube: Di-bGbcEBM4
 thumbnail: img/a-year-of-the-plague.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 tags:
-- backstory-podcast
+- Backstory Podcast
 - brandon-hughes
 - covid-19
 - cuomo
@@ -15,7 +15,7 @@ tags:
 - mcsharry
 - mcsharrys
 - mo-brooks
-- ronan-mcsharry
+- Ronan McSharry
 - sars-cov-2
 - stankoski
 authors:

@@ -9,7 +9,7 @@ tags:
 - historical
 - single-tax
 - lee-turner
-- planning-zoning
+- Planning and Zoning
 authors:
 - admin
 related_articles:

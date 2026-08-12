@@ -5,7 +5,7 @@ thumbnail: img/hate.png
 categories:
 - freaky-friday
 tags:
-- robert-brown
+- Robert Brown
 authors:
 - ripp-report
 alttags: Four overlapping jester hats in red, green, blue, and yellow with gold pom-poms

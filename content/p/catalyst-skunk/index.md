@@ -8,7 +8,7 @@ tags:
 - catalyst
 - mega-site
 - sewer
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - ripp-report
 alttags: A person wearing a black and white skunk costume with a hood, gloves, and

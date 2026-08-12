@@ -8,7 +8,7 @@ categories:
 tags:
 - catalyst
 - election
-- jerry-carl
+- Jerry Carl
 authors:
 - admin
 alttags: Close-up portrait of candidate Jerry Carl wearing wire-rimmed glasses and

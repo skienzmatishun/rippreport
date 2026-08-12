@@ -3,7 +3,7 @@ title: The McSharry Will Out
 date: 2022-08-01
 thumbnail: /img/The-McSharry-Will-Out.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 alttags: YouTube video screenshot titled Backstory Podcast No 132 on Ronin McSharry,

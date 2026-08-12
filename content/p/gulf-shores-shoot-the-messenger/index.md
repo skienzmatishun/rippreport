@@ -5,7 +5,7 @@ thumbnail: img/gulf-shores-shoot-the-messenger.jpg
 categories:
 - wonderful-wednesday
 tags:
-- fly-creek-apartments
+- Fly Creek
 - gulf-shores
 - kant
 - the-enclave

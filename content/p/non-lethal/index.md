@@ -9,7 +9,7 @@ tags:
 - bay-minette
 - bay-minette-police
 - johnathan-victor
-- sheriff-mack
+- Hoss Mack
 authors:
 - admin
 alttags: A black Taser X26 device lying on a light wood surface, with a yellow label

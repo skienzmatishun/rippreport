@@ -9,15 +9,15 @@ tags:
 - brown
 - catalyst
 - city-council
-- dyas-triangle
+- Triangle Lawsuit
 - elections
-- fairhope-pier
-- fairhope-waterfront
+- Fairhope Waterfront
+- Fairhope Waterfront
 - k1-center
-- kevin-boone
+- Kevin Boone
 - raines
-- robert-brown
-- waterfront-project
+- Robert Brown
+- Fairhope Waterfront
 - wilson
 authors:
 - admin

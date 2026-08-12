@@ -4,7 +4,7 @@ date: 2021-09-23
 youtube: gJB31uJz7lE
 thumbnail: img/star.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 related_articles:

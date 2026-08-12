@@ -6,13 +6,13 @@ categories:
 - wonderful-wednesday
 tags:
 - burrell
-- city-attorney
+- City Attorney
 - city-council
 - dinardi
 - mcsharry
 - mcsharrys
-- municipal-judge
-- ronan-mcsharry
+- Municipal Judge
+- Ronan McSharry
 authors:
 - admin
 alttags: United States flag

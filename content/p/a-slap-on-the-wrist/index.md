@@ -5,13 +5,13 @@ thumbnail: img/a-slap-on-the-wrist.png
 categories:
 - freaky-friday
 tags:
-- city-attorney
+- City Attorney
 - diniardi
 - fairhope-police
 - mcsharrys
-- municipal-judge
+- Municipal Judge
 - ronan
-- ronan-mcsharry
+- Ronan McSharry
 - sbc
 - stankoski
 authors:

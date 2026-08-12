@@ -6,12 +6,12 @@ categories:
 - saturday-special
 tags:
 - burell
-- city-attorney
+- City Attorney
 - jack-burrell
 - marcus-mcdowel
 - mcsharry
 - mcsharrys
-- ronan-mcsharry
+- Ronan McSharry
 authors:
 - admin
 alttags: A cartoon illustration of a man in a green suit and hat drinking from a large

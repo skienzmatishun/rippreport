@@ -11,8 +11,8 @@ tags:
 - csb
 - elections
 - jack-burrell
-- jay-robinson
-- robert-brown
+-  Jay Robinson
+- Robert Brown
 - robinson
 authors:
 - admin

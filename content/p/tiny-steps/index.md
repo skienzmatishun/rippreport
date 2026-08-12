@@ -9,7 +9,7 @@ tags:
 - board-of-education
 - brian-powell
 - chip-brown
-- chris-elliott
+- Chris Elliott
 - elliott
 - gambling
 - healthcare

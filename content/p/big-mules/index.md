@@ -2,7 +2,7 @@
 title: Big Mules
 date: 2023-05-28
 categories:
-- backstory-podcast
+- Backstory Podcast
 rumble: v2o1sr6
 thumbnail: img/big-mules.jpg
 authors:

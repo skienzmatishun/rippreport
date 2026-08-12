@@ -6,8 +6,8 @@ categories:
 - freaky-friday
 tags:
 - bp
-- fairhope-pier
-- fairhope-waterfront
+- Fairhope Waterfront
+- Fairhope Waterfront
 - raines
 authors:
 - admin

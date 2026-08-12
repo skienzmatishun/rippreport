@@ -7,8 +7,8 @@ categories:
 tags:
 - burrell
 - chucky
-- fairhope-airport
-- robert-brown
+- Fairhope Airport
+- Robert Brown
 authors:
 - ripp-report
 alttags: Airplane wing view from above clouds, symbolizing a standstill in Fairhope

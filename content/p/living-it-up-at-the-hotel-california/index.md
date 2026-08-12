@@ -6,7 +6,7 @@ categories:
 - freaky-friday
 tags:
 - kant
-- planning-and-zoning
+- Planning and Zoning
 - sullivan
 - wilson
 authors:

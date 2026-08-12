@@ -5,7 +5,7 @@ thumbnail: img/theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archiba
 categories:
 - freaky-friday
 tags:
-- ethics-commission
+- Ethics Commission
 authors:
 - ripp-report
 alttags: A red prohibition sign over a handshake where one hand holds a green dollar

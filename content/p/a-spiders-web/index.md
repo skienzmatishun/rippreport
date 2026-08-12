@@ -7,10 +7,10 @@ categories:
 tags:
 - boone
 - burrell
-- chris-elliott
-- ethics-commission
+- Chris Elliott
+- Ethics Commission
 - sewer
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - ripp-report
 alttags: Black and white close-up of an intricate spider web covered in dew drops

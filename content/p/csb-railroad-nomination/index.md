@@ -10,8 +10,8 @@ tags:
 - city-council
 - csb
 - jack-burrell
-- jay-robinson
-- mayor-sullivan
+-  Jay Robinson
+- Sherry Sullivan
 - robinson
 authors:
 - admin

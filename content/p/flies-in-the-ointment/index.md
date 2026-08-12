@@ -9,7 +9,7 @@ tags:
 - catalyst
 - pittman
 - thomason
-- tucker-dorsey
+- Tucker Dorsey
 authors:
 - ripp-report
 alttags: An open amber jar of white ointment sits on a tiled countertop with several

@@ -10,8 +10,8 @@ tags:
 - city-council
 - csb
 - election
-- municipal-judge
-- scott-boone
+- Municipal Judge
+- Scott Boone
 - sullivan
 authors:
 - admin

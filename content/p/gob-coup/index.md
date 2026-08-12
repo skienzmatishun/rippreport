@@ -7,7 +7,7 @@ categories:
 tags:
 - burrell
 - catalyst
-- fairhope-airport
+- Fairhope Airport
 - kant
 - snedecker
 - sullivan

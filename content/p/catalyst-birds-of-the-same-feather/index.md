@@ -6,13 +6,13 @@ categories:
 - freaky-friday
 tags:
 - catalyst
-- chris-elliott
+- Chris Elliott
 - jeb-ball
 - joe-davis
 - lake
 - lynn-perry
 - skip-gruber
-- tucker-dorsey
+- Tucker Dorsey
 - william-scully
 authors:
 - ripp-report

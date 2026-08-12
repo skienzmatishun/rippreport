@@ -3,7 +3,7 @@ title: Change Is Coming Alabama
 date: 2024-11-27
 thumbnail: img/tsnav.qR4e-small-Backstory-Podcast-No-186-Ch.jpg
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 rumble: v5rjhyn

@@ -5,7 +5,7 @@ thumbnail: img/the-murray-lawrence-jr-project.jpg
 tags:
 - Murray Lawrence Jr
 categories:
-- backstory-podcast
+- Backstory Podcast
 authors:
 - admin
 rumble: v3kukqp

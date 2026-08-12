@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a261c854686bf366-MIA
+Cf-Ray: a2a0e87119a53cea-MIA
 Content-Type: application/json
-Date: Wed, 05 Aug 2026 00:46:03 GMT
+Date: Wed, 12 Aug 2026 16:38:01 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2FqojV2RZx0cs79Wls9DaXXxZFfqAZKB0jJN6O1mV3b75SRL515%2B6aBhd%2B2BIoqO57B9h6wXWqcswMp%2F9XWnb%2BDIZGvc38aT2DNqiBbkBjWCA57fOVSpy5eD1vQf2LAuWMmLo8pnQT6PjaUfy0fggmFlB9g%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6QSQqueACfx7WVKz9dySGzbDl1aLFiBtscFMce4%2BHVUHVWd6FekXNiEvOq7WHFpcCR8GleEg0pbttKrfdaYu5Xa6UJKk2W4676MubkQAn7%2BCdVM1a1z6QB5XZSE5iGNhE5q7sw4%2BJqyjXUWUcWTBmBPlHg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=548
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=321
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 889379c0325c2c31971d1780ce57747a
-X-Etags-2: 889379c0325c2c31971d1780ce57747a
+X-Etags-1: b3ede8d27f31a6b0a334e35c80e24a47
+X-Etags-2: b3ede8d27f31a6b0a334e35c80e24a47
 
-{"title":"Local legislator ensnared in sprawling bribery scheme","description":"Outgoing Alabama Rep. Randy Davis, R-Daphne, was indicted Wednesday for his alleged role in a conspiracy to pressure Blue Cross and Blue Shield to cover medical services offered at clinics","url":"https://www.lagniappemobile.com/news/local/local-legislator-ensnared-in-sprawling-bribery-scheme/article_51f99d60-296c-502e-9931-d4a8b363e449.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/7/c8/7c8d76be-8adb-5064-88ae-8d584f72e771/630ed2b215a62.image.png?crop=208%2C208%2C120%2C0&resize=200%2C200&order=crop%2Cresize","charset":"utf-8"}
+{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/news/local/local-legislator-ensnared-in-sprawling-bribery-scheme/article_51f99d60-296c-502e-9931-d4a8b363e449.html","title":"Preview unavailable","description":"Could not fetch preview data"}
