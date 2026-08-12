@@ -5,12 +5,8 @@ thumbnail: img/fly-creek-special-meeting-request.png
 description: Calling for civic center meeting to accommodate hundreds of residents
   concerned about apartment development
 tags:
-- archive
-- historical
 - Fly Creek
-- apartments
-- city-council
-- development
+- City Council
 authors:
 - admin
 related_articles:
