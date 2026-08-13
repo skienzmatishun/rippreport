@@ -1,6 +1,7 @@
 ---
 title: "Conflict of Interest"
 date: 2014-10-10
+thumbnail: img/conflict-of-interest-summit.png
 description: "Tucker Dorsey's Summit Construction submits the only bid for Fairhope's soccer fields while he sits on the Baldwin County Commission—business as usual."
 tags: ["archive", "historical", "fairhope-politics", "tucker-dorsey", "summit-construction", "trip-pittman", "conflict-of-interest", "soccer-fields"]
 ---
