@@ -1,8 +1,9 @@
 ---
 title: "Baldwin County Legal Eagle Update"
 date: 2015-02-15
+thumbnail: img/legal-eagle-update.png
 description: "The Eagle exposes Judge Thomason, Part-time Judge Bracken, and attorney Steven Johnson while complaints pile up with authorities who refuse to investigate."
-tags: ["archive", "historical", "baldwin-county", "judge-thomason", "judge-bracken", "steven-johnson", "legal-eagle", "judicial-corruption"]
+tags: ["archive", "historical", "baldwin-county", "judge-thomason", "judge-bracken", "steven-johnson"]
 ---
 
 **Attention Court of Public Opinion:**
