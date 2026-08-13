@@ -1,7 +1,7 @@
 ---
 title: CATALYST  “BIRDS OF THE SAME FEATHER”
 date: 2018-04-13
-thumbnail: img/catalyst-birds-of-the-same-feather.jpg
+thumbnail: img/catalyst-birds-of-the-same-feather.png
 categories:
 - freaky-friday
 tags:

@@ -1,7 +1,7 @@
 ---
 title: ALABAMA MOORE STRANGE
 date: 2017-09-22
-thumbnail: img/alabama-moore-strange.jpg
+thumbnail: img/alabama-moore-strange.png
 categories:
 - alabama
 tags:
