@@ -1,7 +1,7 @@
 ---
 title: JOB WITH BENEFITS
 date: 2017-10-20
-thumbnail: img/job-with-benefits.jpg
+thumbnail: img/job-with-benefits.png
 categories:
 - freaky-friday
 tags:
