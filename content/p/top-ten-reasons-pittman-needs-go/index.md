@@ -3,7 +3,7 @@ title: Top Ten Reasons Slippery Trip Pittman NEEDS TO GO!
 date: 2014-04-29
 description: From BP Boom Scandal to AAA education act, a comprehensive list of Senator
   Pittman's corrupt dealings
-thumbnail: img/top-ten-reasons-pittman-needs-go.jpg
+thumbnail: img/top-ten-reasons-pittman-needs-go.png
 tags:
 - archive
 - historical
