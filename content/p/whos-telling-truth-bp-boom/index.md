@@ -1,6 +1,7 @@
 ---
 title: "Who's Telling the Truth?"
 date: 2014-04-10
+thumbnail: img/who-is-telling-the-truth.png
 description: "Timeline of news coverage exposing the BP Boom Grant scandal involving Senator Pittman and Mayor Kant—prove us wrong and collect $10,000 cash."
 tags: ["archive", "historical", "bp-oil-spill", "trip-pittman", "tim-kant", "boom-grant", "oil-recovery", "media-coverage"]
 ---
