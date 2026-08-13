@@ -1,7 +1,7 @@
 ---
 title: BLOOD IN THE WATER
 date: 2017-09-27
-thumbnail: img/blood-in-the-water.jpg
+thumbnail: img/blood-in-the-water.png
 categories:
 - alabama
 tags:
