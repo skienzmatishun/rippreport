@@ -1,7 +1,7 @@
 ---
 title: 50 YEARS AGO
 date: 2018-11-11
-thumbnail: img/50-years-ago.jpg
+thumbnail: img/50-years-ago.png
 categories:
 - holiday
 authors:
