@@ -1,7 +1,7 @@
 ---
 title: BP CATASTROPHE/ ALABAMA DISGRACE
 date: 2016-10-21
-thumbnail: img/bp-catastrophe-alabama-disgrace.jpg
+thumbnail: img/bp-catastrophe-alabama-disgrace.png
 categories:
 - freaky-friday
 tags:
