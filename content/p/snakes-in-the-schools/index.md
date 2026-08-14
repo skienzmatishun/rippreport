@@ -1,7 +1,7 @@
 ---
 title: SNAKES IN THE SCHOOLS
 date: 2018-06-21
-thumbnail: img/snakes-in-the-schools.jpg
+thumbnail: img/snakes-in-the-schools.png
 categories:
 - thursday-thunder
 authors:

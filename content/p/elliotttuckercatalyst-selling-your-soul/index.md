@@ -1,7 +1,7 @@
 ---
 title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
 date: 2018-05-24
-thumbnail: img/elliott-tucker-catalyst-selling-your-soul.jpg
+thumbnail: img/elliott-tucker-catalyst-selling-your-soul.png
 categories:
 - thursday-thunder
 tags:

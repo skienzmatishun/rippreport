@@ -1,7 +1,7 @@
 ---
 title: TAXES, TOLLS AND SCHOOLS
 date: 2019-07-17
-thumbnail: img/taxes-tolls-and-schools.jpg
+thumbnail: img/tax-tax-and-re-tax.png
 tags:
 - Toll Bridge
 - Elliott
