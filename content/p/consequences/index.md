@@ -1,7 +1,7 @@
 ---
 title: CONSEQUENCES
 date: 2019-01-09
-thumbnail: img/consequences.jpg
+thumbnail: img/consequences.png
 categories:
 - wonderful-wednesday
 authors:
