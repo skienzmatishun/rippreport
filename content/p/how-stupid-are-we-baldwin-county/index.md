@@ -3,7 +3,7 @@ title: "How Stupid Are We in Baldwin County?"
 date: 2014-05-30
 thumbnail: img/how-stupid-are-we-baldwin-county.png
 description: "Senator Pittman's endorsement of business partner Bob James for county commission reveals continued pattern of debris removal contract sharing and ethics violations."
-tags: ["archive", "historical", "baldwin-county", "trip-pittman", "bob-james", "corruption", "debris-removal", "ethics"]
+tags: ["baldwin-county", "trip-pittman", "bob-james", "ethics"]
 ---
 
 Senator Lee "Trip" Pittman via email, is endorsing his longtime business partner (in crime) Bob James, as county commissioner. Bob James and Senator Pittman have been annually passing back and forth the Fairhope Emergency Debris Removal contract since 2007. Currently, Senator Pittman has the contract, which has been extended to July 11, 2014, the contract bid deadline in Fairhope.

@@ -102,11 +102,6 @@ summary: Mayor Tim Kant stripped away financial checks and balances to treat mun
   developments. Citizens must demand accountability before these unchecked backroom
   deals completely bankrupt our city.
 ---
-**The Ripp Report #26**  
-**December 5 2014**
-
-## Flowers in town and Marbles for Brains
-### OR: who controls the cost of Fairhope Utilities?
 
 The previous Fairhope city council maintained a check and balance system regarding the city's finances. That city council supported a Finance Committee and was the first time the citizens of Fairhope actually had a check and balance system and some control over the Mayor and spending. However the city has NEVER had a forensic audit.
 
@@ -126,6 +121,5 @@ We need to recruit a viable Mayoral candidate and new council candidates for our
 
 What we have now is Fauxhope and Nohope and it will not change without the removal of Tim Kant and the current city council.
 
-Paul Ripp
 
 {{< aicomments "/p/flowers-marbles-for-brains/" >}}

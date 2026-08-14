@@ -99,11 +99,6 @@ summary: High-ranking state politicians and county judges rigged local courtroom
   deals and kangaroo courts systematically victimized local citizens for years. We
   tear down the curtain to highlight the harsh truth behind Baldwin County power structures.
 ---
-**THE RIPP REPORT/BALDWIN COUNTY LEGAL EAGLE**  
-**FREAKY FRIDAY 2 of 2**  
-**March 25, 2016**
-
-## A Stark Reality
 
 A fact that no one wants to discuss, much less admit, is that Alabama is one of the most corrupt, if not the most corrupt State in America. Baldwin County is unequivocally the most corrupt county in Alabama. That folks put us at the bottom of the barrel. Who wants to admit this sad fact to their children? No one, but it is a fact. If you understood the gravity of the corruption that exists in Baldwin County's judicial system and local municipal governments you would think twice about raising your children here. Most people live their daily lives oblivious to this rampant theft of our rights and way of life. They have heard about it, but they do not realize that they too are the victim. They do not want to hear about it, discuss it or be involved; and there lies the problem.
 

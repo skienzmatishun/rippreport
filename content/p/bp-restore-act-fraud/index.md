@@ -6,7 +6,6 @@ description: City's BP Restore Act application omits Arthur Corte's damage to Fl
   Creek and misrepresents facts
 tags:
 - archive
-- historical
 - bp-restore-act
 - Fly Creek
 - arthur-corte

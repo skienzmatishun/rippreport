@@ -103,9 +103,6 @@ summary: Our ongoing investigation into Baldwin County family court reveals a pr
   coordination and severe procedural ethics violations. Are local family courts running
   a profitable extortion scheme against citizens?
 ---
-**Oct 2 2015**
-
-## the movie, documentary DIVORCE CORP.
 
 Everyone in Baldwin County married or not, with children or no children needs to see this documentary. The news media has ignored this obvious problem and children have paid the price, as pawns of unethical attorneys and judges. This documentary is a mirror image of what is going on in Baldwin County. I cannot stress the comparison of the film to everyday life in family court in Baldwin County. This film will educate you on a system that is designed to fleece you of your money and property while neglecting your children and robbing them of financial stability. Be sure to share this as much as possible and be sure your attorney knows that you know the legal system is corrupt, designed to legally, take advantage of parents and children.
 

@@ -102,9 +102,6 @@ summary: Mayor Tim Kant and city council members secretly traded away millions i
   BP grant money. Read our complete breakdown to discover how local leadership sold
   out Fairhope taxpayers behind closed doors.
 ---
-**March 28, 2014 THE Ripp Report #10**
-
-## "What?"
 
 Your mayor, city council and local press, who have been notified of the documents available, are not telling you the truth. Please consider the following 20 items:
 

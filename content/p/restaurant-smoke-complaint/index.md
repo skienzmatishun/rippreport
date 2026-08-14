@@ -6,8 +6,6 @@ description: Neighbors face commercial cooking smoke from restaurant owner, city
 thumbnail: img/restaurant-smoke-complaint.png
 tags:
 - archive
-- historical
-- code-enforcement
 - city-council
 authors:
 - admin
@@ -100,12 +98,6 @@ summary: City officials repeatedly turned a blind eye to severe commercial pollu
   Burrell and the Mayor systematically ignored desperate appeals from tax-paying citizens.
   Read on to see how municipal indifference protects political insiders at your expense.
 ---
-**Consumer Advocates Exposing Political Corruption**  
-**April 20, 2015**
-
-## DO UNTO OTHERS AS YOU WOULD HAVE THEM DO UNDER YOU
-
-### A POWERFUL STATEMENT, IGNORED BY MOST
 
 Many months ago a group of neighbors meet together to discuss a problem with a fellow neighbor, I was asked to attend and see if I could help. The problem was that one neighbor had secured a building permit to construct an outdoor cooker. Now this isn't your regular BBQ grill but more a commercial cooker. The owner of the cooker also operates three eating establishments, Tamara's, The Venue, and Pelican Patio, all in Fairhope. The Residence on Nichols Street is in the center of town. The problem is the amount of cooking and the thick dense smoke she puts out, it looks like a coal furnace. At first the neighbors tried to talk directly with the owner, she simply told them to f themselves.
 

@@ -94,15 +94,13 @@ related_articles:
   category_score: 0
   rank: 10
 alttags: A crumpled receipt on a wooden table lists Fairhope taxpayer costs, the Triangle
-  Property Settlement and attorney fees, totaling $500 million requested ...
+  Property Settlement and attorney fees, totaling $500 million
 summary: Mayor Tim Kant quietly pushed through a multi-million-dollar land buyout
   that forced taxpayers to cover legal blunders. Meeting minutes reveal an unprinted
   agenda item authorized secret negotiations while hiding three million dollars in
   attorney fees. See how city hall spun an expensive legal surrender as a win for
   the public.
 ---
-**The Ripp Report**  
-**October 28, 2013**
 
 Dear Fairhopians,
 

@@ -14,10 +14,6 @@ authors:
 - admin
 alttags: A digitally rendered white pier extending over choppy ocean water beneath a surreal green and blue sky
 ---
-**The Ripp Report/Baldwin County Legal Eagle**  
-***on face book**  
-**April 14, 2016**  
-**By F. Paul Ripp**
 
 First, I would like to report to those who are involved in the Baldwin County Family Court. BCLE is working on complaints against judge Thomason and Attorney Steven Johnson. If you have a case involving divorce or child custody and feel your rights are being violated by a corrupt judicial system in Baldwin County, contact us; but please be assured we are still on it; there is much more to come.
 

@@ -100,9 +100,6 @@ summary: Building on our family court exposure, Judge Thomason systematically ri
   and unchecked perjury designed to force endless litigation. Can Baldwin County parents
   ever expect real justice from this compromised bench?
 ---
-**8/20/15**
-
-## DIRTY JUDGE AND MISUSE OF JUSTICE
 
 Last week's freaky Friday asked questions related to the pot laced brownies to the DA, Allegedly by Judge Wilters. We also wanted to know where the money was collected by the "Judges" nonprofit Baldwin County Substance Center. We ask these questions as taxpayers of elected officials. Simple answer the questions and let's adhere to your professed standards, "transparency, accountability and creditability", your words your promises. Anyone who misinterprets this into thinking it's a personal thing or a hidden agenda, is simply missing the point. It is about holding elected officials ethically obligated to their promises to taxpayers.
 

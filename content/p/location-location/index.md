@@ -92,11 +92,7 @@ summary: Former Mayor Tim Kant and his council allies repeatedly sacrificed publ
   deadly dead-end street. How many more lives will City Hall risk to protect developer
   profits?
 ---
-NEW SWEEP
-The Ripp Report 2015
-Feb. 8, 2015
-The Ripp Report #30
-LOCATION LOCATION TOTALLY LOCO LOCATIONS
+
 The city of Fairhope has ignored its Comprehensive Plan, Master Plan, violated its own ordinances, recorded wrong plat maps, omitted public participation and made horrible decisions on the location of major venues in Fairhope.
 
 Planning and zoning has been a black hole in our city finances, their decisions are made without any accountability, and they have no enforcement powers. This is the number one financial problem the city has faced for the last ten years.

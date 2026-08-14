@@ -1,5 +1,5 @@
 ---
-title: Fairhope Railroad - Fly Creek Part 2
+title: Fairhope Railroad
 date: 2015-12-04
 thumbnail: img/fairhope-railroad.png
 description: Mayor railroading Fairhope with corrupt deals, environmental damage,
@@ -94,7 +94,7 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: US one and ten dollar bills covered in red mud lie on a muddy forest floor,
+alttags: US one and ten dollar bills covered in red clay mud lie on a muddy forest floor,
   with an out-of-focus wooded background
 summary: Continuing our coverage of the Fly Creek disaster, city leaders secretly
   helped developer Arthur Corte steamroll public opposition to protect his flawed
@@ -102,10 +102,6 @@ summary: Continuing our coverage of the Fly Creek disaster, city leaders secretl
   shifted massive financial liabilities directly onto Fairhope taxpayers. The Ripp
   Report exposes how deep this local political web really goes.
 ---
-**Freaky Friday Dec. 04, 2015**  
-**the Ripp Report Part 2**
-
-## FAIRHOPE RAILROAD
 
 The mayor is railroading Fairhope and the main train terminal is the Publix site. The Fly Creek Planned Unit Development, PUD, which includes Publix's, was suppose to be a village concept that was to include high end townhomes, not apartments. To hear the property owner and developer one would think this was going to be a first class project, it has ended up as a strip center, never fully occupied.
 

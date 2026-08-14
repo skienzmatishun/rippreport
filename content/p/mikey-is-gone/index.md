@@ -100,7 +100,6 @@ summary: House Speaker Mike Hubbard and state political bosses funneled millions
   ring. The Ripp Report breaks down the ultimate fall of Montgomery’s most notorious
   political machine.
 ---
-**Fri, Sep 13, 2013**
 
 Dear Fairhopians and Alabamians,
 

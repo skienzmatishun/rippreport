@@ -94,18 +94,14 @@ related_articles:
   length_score: 100
   category_score: 0
   rank: 10
-alttags: A hand holds a round container with a blue triangular label reading BLINDSIDE,
-  set against a smoky background with a large white question mark
+alttags: A hand holds a magic 8 ball with a blue triangular label reading BLINDSIDE,
+  set against a smokey background with a large white question mark
 summary: City officials staged public votes while secretly plotting behind closed
   doors to approve controversial high-density apartments. Documents confirm that political
   pressure from influential developers forced key leaders to flip their stances overnight.
   We examine whether this unexpected council move was genuine public service or just
   another political blindside.
 ---
-**The Ripp Report**  
-**Dec. 11 2015**
-
-## MIRACLE - BLINDSIDE - REALITY
 
 **MIRACLE** Is it a miracle in Fairhope, that finally the Mayor has seen the light, or shall we say the public? On Dec. 7th, Planning and Zoning in Fairhope had a meeting to vote on a very controversial project, the Fly Creek PUD, Planned Unit Development, about 300 hundred people showed up. There were so many people that the meeting was held in the auditorium, which has no sound or video recording. Prior to the meeting the general consensus was it was a slam dunk to be approved. The audience listened to an engineering firm from Daphne, an environmentalist from Florida explain how a developer from Mississippi was going to build 240 "upscale apartments" on land owned by a non-resident of Fairhope, Arthur Corte. The audience was adamant in its position that they, the citizens of Fairhope, did not want apartments in that location. The original proposal's sales point was that NO apartments would be developed in the PUD. The audience became agitated with the presentation and demanded a hand raised vote. Councilman Ford gave a passionate statement that apartments just did not fit the location. The Mayor then did something never seen in Fairhope, he voted against the project, and listened to the concerns' of the citizens. Jennifer Fiddler, who always follows the Mayors lead, also voted no, resulting in a 5 no 4 yes vote. A Miracle.
 

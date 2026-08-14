@@ -6,7 +6,6 @@ description: 'Final endorsements before June 3rd primary: fight the Lynn Stacey 
   and BP boom scandal cover-up'
 tags:
 - archive
-- historical
 - elections
 - endorsements
 - bp-boom-scandal
@@ -94,7 +93,6 @@ summary: Corrupt Baldwin County politicians manipulated public contracts and sto
   ring. Are you ready to strip these entrenched machine bosses of their unchecked
   power?
 ---
-**May 24, 2014 Ripp Report #15**
 
 Dear Baldwin County residents,
 

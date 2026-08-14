@@ -5,7 +5,7 @@ date: 2014-04-14
 categories: 
 - elections
 description: "Ginger Poynter and Kim McCuiston seek ballot access as independents to challenge Baldwin County's corrupt political establishment."
-tags: ["archive", "historical", "baldwin-county", "ginger-poynter", "kim-mccuiston", "independent-candidates", "trip-pittman", "elections"]
+tags: ["archive", "ginger-poynter", "kim-mccuiston", "trip-pittman", "elections"]
 ---
 
 **Dear Baldwin County Voters,**

@@ -102,10 +102,6 @@ summary: Following up on Fairhope's reckless spending habits, local officials qu
   Kant, big-money donors, and blatant council conflicts of interest. Discover how
   city insiders run their dirty plays right under our noses.
 ---
-**Oct. 23 15**  
-**the Ripp Report**
-
-## FAUXHOPE Football "SNEAK' PLAY
 
 If you like football and are a Fairhope taxpayer, you will be thrilled to know that your city council and mayor have a special bonus for you. If you don't like football but pay taxes in Fairhope, tough, you still get to pay, but not play. This is a special sneak play designed by the good ole boys for photo ops for the mayor and Backseat quarterbacks parties, you're not invited to the party but you still get to pay.
 

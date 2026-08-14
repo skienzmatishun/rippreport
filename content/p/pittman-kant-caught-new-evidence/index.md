@@ -6,7 +6,6 @@ description: Mayor Kant lies about who signed BP Boom documents, Leigh Anne Ryal
 thumbnail: img/pittman-kant-caught-new-evidence.png
 tags:
 - archive
-- historical
 - bp-boom-scandal
 - Trip Pittman
 - tim-kant
@@ -99,8 +98,6 @@ summary: Senator Trip Pittman forged official mayoral documents to cover up his 
   letters using Mayor Kant’s signature to deceive federal investigators. We detail
   how their desperate cover-up completely fell apart under federal scrutiny.
 ---
-
-### New and Material Evidence in the Ongoing Fairhope BP Boom Scandal Investigation
 
 **Cc:** Mobile FBI, Alabama Attorney General, Alabama Attorney General Special Prosecutor, Matt Hart, U.S. Attorney's Offices, Alabama, Alabama Ethics Commission, BP Fraud Division and all media.
 

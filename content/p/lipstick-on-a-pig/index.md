@@ -1,5 +1,5 @@
 ---
-title: Lipstick on a Pig - Fly Creek Apartments
+title: Lipstick on a Pig
 thumbnail: img/lipstick-on-a-pig.png
 date: 2015-12-18
 description: Mayor plans to blindside public and bring back rejected Fly Creek apartment
@@ -102,11 +102,6 @@ summary: Municipal leadership attempted to repackage a rejected development plan
   it down. Dressing up a bad deal with pretty promises cannot hide the environmental
   ruin underneath.
 ---
-**FREAKY FRIDAY**  
-**Dec. 18 2015**  
-**THE RIPP REPORT / BALDWIN COUNTY LEGAL EAGLE**
-
-## LIPSTICK ON A PIG
 
 The Fly Creek PUD, (planned unit development), proposed changes were rejected by the public unanimously and voted down by planning and zoning by a 5/4 vote. The Mayor and Councilman Ford voted against the proposal. You would think this apartment project was a dead issue. That is exactly what they want you to believe.
 

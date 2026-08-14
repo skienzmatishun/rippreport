@@ -99,8 +99,6 @@ summary: Municipal leaders repeatedly ignored Fairhope's official master plan to
   commercial projects. What good is a master plan when city officials throw it in
   the trash for their friends?
 ---
-**The Ripp Report**  
-**11/14/14**
 
 Since 2001, the city of Fairhope has been conducting "reviews" of the comprehensive plan, which is connected to the master plan. These meetings are usually advertised through the city and media, and attendance is good. Citizens are given the warm and fuzzy feeling about taking part in the city's future and their quality of life. Currently a series of meetings is being held, public participation is encouraged, comments and written surveys are recorded. Sounds so Norman Rockwell however did you know it's costing us 80 thousand dollars for this update by an engineering firm. Remember this is just an update to an already published comprehensive plan. Since the first plan, there has been little change in the minds of Fairhope citizens as to where and what they expect.
 

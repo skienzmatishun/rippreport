@@ -6,11 +6,8 @@ description: From BP Boom Scandal to AAA education act, a comprehensive list of 
 thumbnail: img/top-ten-reasons-pittman-needs-go.png
 tags:
 - archive
-- historical
 - Trip Pittman
 - bp-boom-scandal
-- corruption
-- contracts
 authors:
 - admin
 related_articles:
@@ -99,9 +96,7 @@ summary: Senator Trip Pittman abused his public office to land illegal multi-mil
   how he siphoned over $750,000 from BP recovery funds with help from Mayor Kant.
   This shocking breakdown reveals every detail behind his long track record of self-dealing.
 ---
-**April 29, 2014 Ripp Report #13**
 
-## The Top Ten Reasons Slippery Trip Pittman NEEDS TO GO!
 
 10. Lucrative Public Contracts on the Foley Beach Express Extension—How many did he get?
 

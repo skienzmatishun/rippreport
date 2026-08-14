@@ -101,10 +101,6 @@ summary: Pushing forward with our spending investigation, Fairhope leaders drain
   an $12 million legal settlement as a park purchase while inflating education donation
   numbers. Learn where your hard-earned tax dollars are actually disappearing.
 ---
-**Consumer Advocates Exposing Political Corruption**  
-**May 15, 2015**
-
-## TOP PRIORITY ----LAWSUITS—PARKS—OR—EDUCATION?
 
 Since the failed, March 31 referendum vote on property tax, the Politicians and the Baldwin County School System has been trying to figure a way to finance the exploding school system.
 

@@ -1,5 +1,5 @@
 ---
-title: You're Not From Here - Arthur Corti's Entitlement
+title: You're Not From Here
 date: 2016-02-05
 description: Planning commission ignores 300+ residents to approve Fly Creek Apartments
   for entitled developer
@@ -110,9 +110,7 @@ summary: A wealthy outside developer insulted concerned Fairhope residents while
   donations. The Ripp Report exposes the astonishing arrogance behind this developer's
   grip on local government.
 ---
-**Feb. 5 2016**
 
-## YOU'RE NOT FROM HERE
 
 One of Mr. Arthur Corti's statements during his entitlement speech at the Feb. 1st Fairhope Planning meeting was people in the audience, "are not from here". This reminds me of Senator Pittman's explanation about receiving $636,000 in BP money, while he was the designated "trustee" of the money, "we do things different down here". It is alright to take constituency money.
 

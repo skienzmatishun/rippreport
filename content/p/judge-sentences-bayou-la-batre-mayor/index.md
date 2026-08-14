@@ -6,10 +6,8 @@ description: BP corruption case mirrors Fairhope's Mayor Kant and Senator Pittma
   scandal
 tags:
 - archive
-- historical
 - bp-corruption
 - bayou-la-batre
-- coverup
 authors:
 - admin
 related_articles:
@@ -99,7 +97,6 @@ summary: Following up on our ongoing coverage, a disgraced local mayor learned t
   larger BP fund coverup. We pull back the curtain on how far this criminal network
   really spreads.
 ---
-**Judge sentences ex-Bayou La Batre Mayor**  
 **June 30, 2013 - Mobile Press Register**  
 **Brendan Kirby**
 
