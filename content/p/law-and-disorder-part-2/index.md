@@ -1,7 +1,7 @@
 ---
 title: LAW and DisORDER - Part 2
 date: 2018-08-29
-thumbnail: img/law-and-disorder-part-2.jpg
+thumbnail: img/law-and-disorder-part-2.png
 categories:
 - bcso
 authors:
