@@ -1,7 +1,7 @@
 ---
 title: SHUT UP
 date: 2017-02-24
-thumbnail: img/shut-up.jpg
+thumbnail: img/shut-up.png
 categories:
 - freaky-friday
 tags:
