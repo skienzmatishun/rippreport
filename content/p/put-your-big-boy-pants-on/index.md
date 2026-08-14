@@ -101,10 +101,6 @@ summary: Continuing our coverage, Commissioner Tucker Dorsey purged whistleblowe
   dollar deals and BP funds. See why this commissioner needs to face accountability
   for his disastrous financial stewardship.
 ---
-**The Ripp Report/Baldwin County Legal Eagle**  
-**May 13 2016**
-
-## PUT YOUR BIG BOY PANTS ON
 
 We have all listened to politicians give speeches or opinions that give us pause. Sometimes they speak as if we, constituents, have no memory and they expect us to believe whatever comes out of their mouth. Alabama politics, thanks to Bentley, Hubbard and Moore, has dragged us into an abyss of corruption that has made us the laughing stock of the United States.
 
