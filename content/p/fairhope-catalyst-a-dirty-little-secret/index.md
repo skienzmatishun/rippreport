@@ -1,7 +1,7 @@
 ---
 title: FAIRHOPE - CATALYST a Dirty Little Secret
 date: 2018-09-21
-thumbnail: img/fairhope-catalyst-a-dirty-little-secret.jpg
+thumbnail: img/fairhope-catalyst-a-dirty-little-secret.png
 categories:
 - freaky-friday
 authors:
