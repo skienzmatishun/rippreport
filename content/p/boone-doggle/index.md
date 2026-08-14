@@ -1,7 +1,7 @@
 ---
 title: BOONE-DOGGLE
 date: 2017-01-13
-thumbnail: img/boone-doggle.jpg
+thumbnail: img/boone-doggle.png
 categories:
 - freaky-friday
 tags:
