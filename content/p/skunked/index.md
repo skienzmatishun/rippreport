@@ -1,7 +1,7 @@
 ---
 title: SKUNKED
 date: 2018-08-25
-thumbnail: img/skunked.jpg
+thumbnail: img/skunked.png
 tags:
 - Zunk
 - Elections

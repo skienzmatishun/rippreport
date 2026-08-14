@@ -1,13 +1,13 @@
 ---
 title: CATALYST FIRST CHRISTIAN CHURCH OF HYPOCRITES OF BALDWIN COUNTY
 date: 2018-07-15
-thumbnail: img/catalyst-first-christian-church-of-hypocrites-of-baldwin-county.jpg
+thumbnail: img/catalyst-first-christian-church-of-hypocrites-of-baldwin-county.png
 categories:
 - sunday-sermon
 authors:
 - admin
 alttags: Black-and-white photograph of a church interior showing rows of wooden pews
-  facing double doors, with a large pipe organ on an upper balcony and arched ...
+  facing double doors, with a large pipe organ on an upper balcony
 related_articles:
 - slug: catalyst-meets-social-media
   title: CATALYST MEETS SOCIAL MEDIA
