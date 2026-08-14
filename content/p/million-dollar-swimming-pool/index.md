@@ -1,7 +1,7 @@
 ---
 title: MILLION DOLLAR SWIMMING POOL
 date: 2018-07-06
-thumbnail: img/million-dollar-swimming-pool.jpg
+thumbnail: img/million-dollar-swimming-pool.png
 categories:
 - freaky-friday
 tags:

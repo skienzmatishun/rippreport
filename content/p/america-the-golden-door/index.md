@@ -1,13 +1,12 @@
 ---
 title: AMERICA - THE GOLDEN DOOR
 date: 2018-06-20
-thumbnail: img/america-the-golden-door.jpg
+thumbnail: img/america-the-golden-door.png
 categories:
 - wonderful-wednesday
 authors:
 - ripp-report
-alttags: The Statue of Liberty, symbolizing America’s welcoming spirit as described
-  in Emma Lazaruss “New Colossus” poem
+alttags: The Statue of Liberty
 related_articles:
 - slug: public-service-announcement-alabama-court-of-civil-appeals-judge-place-one
   title: PUBLIC SERVICE ANNOUNCEMENT - ALABAMA COURT OF CIVIL APPEALS, JUDGE  - PLACE
