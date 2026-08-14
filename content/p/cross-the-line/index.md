@@ -1,7 +1,7 @@
 ---
 title: CROSS THE LINE
 date: 2018-09-12
-thumbnail: img/cross-the-line.jpg
+thumbnail: img/cross-the-line.png
 categories:
 - wonderful-wednesday
 tags:

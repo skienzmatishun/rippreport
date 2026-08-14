@@ -1,7 +1,7 @@
 ---
 title: FULL PLATE
 date: 2018-09-07
-thumbnail: img/full-plate.jpg
+thumbnail: img/full-plate.png
 categories:
 - freaky-friday
 authors:
