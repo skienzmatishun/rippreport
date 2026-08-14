@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a2b1ee15ed6e49c2-MIA
+Content-Type: application/json
+Date: Fri, 14 Aug 2026 18:12:50 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pnCwX4%2BHwg3T5ml%2BMgExDR2J4a33l5E91JX9lzDuR83hSfTErrHTfjXAeQG7YWfOEo7pm0vVtvAMmXEmTBoubGIHsCnf5K4qoQINM4pP2Av4vRk%2BQ%2Bhts%2BW9peOw9AaMAU4mmxA4jhbtd%2B%2FU6867jEpmrA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=238
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: c7591df6c5180a703dda5f5c8e613879
+X-Etags-2: c7591df6c5180a703dda5f5c8e613879
+
+{"error":"Upstream returned 429","url":"https://lagniappemobile.com/fairhope-spanish-fort-eye-september-referendum-on-school-tax/","title":"Preview unavailable","description":"Could not fetch preview data"}

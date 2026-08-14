@@ -103,19 +103,8 @@ At first I did not understand the logic of Lagniappe as they had hundreds, if no
 
 Then I read this recent article by the Publisher that made things a lot clearer. Lagniappe is worth the price and if you choose not to pay for internet availability, you still have the option of a free weekly paper copy from multiple sites.
 
-<div class="link-preview">
+{{< socialpreview url=https://lagniappemobile.com/thank-you-for-17-years-of-support/ >}}
 
-## Thank you for 17 years of support! - Lagniappe Mobile
-
-### Thank you for 17 years of support! - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2016/11/DTT.jpg)
-
-There’s probably no kid in America right now sitting on the couch mindlessly blowing zombies away in “Resident Evil 2” and thinking, “One day, when I finally escape from Raccoon City, I think I’d like to work for a newspaper.” For most, starting a journalism career these days is a truly scary proposition. More than …
-
-Source: [lagniappemobile.com/thank-you-for-17-years-of-support/](https://lagniappemobile.com/thank-you-for-17-years-of-support/)
-
-</div>
 “One of our new challenges has been launching a paywall on our website. It wasn’t a popular decision, but it’s where all newspapers are going and it’s necessary to continue growing and hopefully to do much, much more to inform and entertain this community. Yes, we’ve repeatedly heard from the pissed off, but it’s only 21 cents a day, $1.50 a week. There probably aren’t many places you can walk in and buy a bottle of Diet Coke for $1.50, much less enjoy it as long as you can all of the information available on these electronic pages each week.”
 
 Baldwin County has no print media except lagniappe, PLEASE, and no one is paying me to say this, read Lagniappe if you want to know what is happening.
@@ -124,19 +113,8 @@ Baldwin County and Fairhope also have four blog sites that report political issu
 
 [https://www.facebook.com/groups/1593293237549165/](https://www.facebook.com/groups/1593293237549165/)
 
-<div class="link-preview">
+{{< socialpreview url=https://thefairhopetimes.blogspot.com/ >}}
 
-## The Fairhope Times
-
-### The Fairhope Times
-
-![](https://resources.blogblog.com/img/icon18_wrench_allbkg.png)
-
-News and information for Fairhope and Baldwin County, Alabama.
-
-Source: [thefairhopetimes.blogspot.com/](https://thefairhopetimes.blogspot.com/)
-
-</div>
 [https://www.facebook.com/TheRippReport/](https://www.facebook.com/TheRippReport/)
 
 [https://www.facebook.com/BaldwinCountyLegalEagle/](https://www.facebook.com/BaldwinCountyLegalEagle/)

@@ -106,15 +106,7 @@ The at large council insists that they represent the people of Fairhope as a who
 
 The council has yet to explain to the public the situation with the Breland case.
 
-## High court rules against Fairhope in development suit - Lagniappe Mobile
-
-### High court rules against Fairhope in development suit - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2015/12/BB_Fairhope.jpg)
-
-Alabama’s Supreme Court ruled against the city of Fairhope last Friday in a lawsuit accusing city leaders of targeting a property owner by adopting multiple city ordinances that have delayed development in a wetland area for 11 years. The case was brought by Charles K. Breland in 2013 but has roots stretching back to 2001, …
-
-Please Read: [lagniappemobile.com/high-court-rules-fairhope-development-suit/](https://lagniappemobile.com/high-court-rules-fairhope-development-suit/)
+{{< socialpreview url=https://lagniappemobile.com/high-court-rules-fairhope-development-suit/ >}}
 
 The same council president handled the Dyas lawsuit, that resulted in a loss, 11.25 million and we had to buy the property. Mr Burrell negotiated the legal settlement without any public participation, in fact the council deliberately keep the public in the dark, until it was settled. In the Breland case the council has again displayed a total lack of leadership in allowing the case to progress to such a state without at least trying to settle.
 

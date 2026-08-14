@@ -116,16 +116,7 @@ The gas tax was a good ole boy deal struck on Goat Hill. Governor Poison Ivey ma
 
 The Tax Man Elliott played everyone like a fiddle saying “no more taxes”, once elected he had a lapse of memory and could not recall his pre- election pledges to his constituents.
 
-<div class="link-preview">
-
-### Fairhope, Spanish Fort eye September referendum on school tax (updated) - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2019/05/Fairhope-Special-Tax-District-e1559156254485.jpeg)
-
-Agreeing to a few minor revisions last week, the Spanish Fort Town Council became the second Eastern Shore municipality within a month to send a resolution to the Baldwin County School Board to approve a special election to establish a special tax district to benefit schools within its city limits. The school board approved a …
-
-Source: [lagniappemobile.com/fairhope-spanish-fort-eye-september-referendum-on-school-tax/](https://lagniappemobile.com/fairhope-spanish-fort-eye-september-referendum-on-school-tax/)
-</div>
+{{< socialpreview url=https://lagniappemobile.com/fairhope-spanish-fort-eye-september-referendum-on-school-tax/ >}}
 
 Schools are starving for money and classroom space, so in addition to the 1% tax the TAX MAN passed on to us in Baldwin County, without a vote, a 3 mil tax is proposed for Fairhope and Spanish Fort. This self imposed tax will at least have the vote of the people in the form of a referendum vote.
 

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a2b1ed19fb2e49c2-MIA
+Content-Type: application/json
+Date: Fri, 14 Aug 2026 18:12:10 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KPYDFAeFOWnt%2FVHLKm8wX95lHag7sYtsBK3wh4T6wgh1yzRGUEbiD859JMlN%2Bz4QkyqKZ6BtfppnjrQtbqz6Q23fQXkotSfzByASqMVP8xV16w5q5u%2BeLo%2BuX22nNbOxgmS%2FuSZikR5o3aiG5lw3O9mIJw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=281
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2084f8021374b5a59c41982b0ba03b70
+X-Etags-2: 2084f8021374b5a59c41982b0ba03b70
+
+{"error":"Upstream returned 404","url":"http://baldwincountyal.gov/all-mobile/government/municipalities","title":"Preview unavailable","description":"Could not fetch preview data"}

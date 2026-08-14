@@ -100,19 +100,8 @@ The Ripp Report is Independent and we vote for the candidate. We have supported 
 
 A casual observer should be able to understand that Governor Kay Ivey is being “handled” and her refusal to even debate her opposition shows a lack of confidence and leadership. If elected you can be assured that we will have four more years of limbo government.
 
-<div class="link-preview">
+{{< socialpreview url=https://lagniappemobile.com/the-great-gubernatorial-cyber-debate/ >}}
 
-## The great gubernatorial cyber debate - Lagniappe Mobile
-
-### The great gubernatorial cyber debate - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2016/11/DTT.jpg)
-
-I’m a firm believer that people who want to hold public office should not only be willing to, but excited to step out on a stage in front of all their would-be constituents and explain exactly what it is they hope to accomplish as dog catcher, city councilor or Alabama governor. But as we move …
-
-Source: [lagniappemobile.com/the-great-gubernatorial-cyber-debate/](https://lagniappemobile.com/the-great-gubernatorial-cyber-debate/)
-
-</div>
 Submitted article:Tuscaloosa Has a Warrior—Walt Maddox, and He’s Ready to Win it All for Alabama In Tuscaloosa, Alabama, there is a rich and storied history. Great things have happened. For the University of Alabama, 17 national championships in football is the lofty standard, if not the pinnacle. Forged on the college gridiron is a special blend of success, born of teamwork, and a fierce commitment to excellence set in motion by the game’s greatest coach, Paul “Bear” Bryant, a simple but talented man who knew football—and human beings, better than anyone. But, it wasn’t always like that.
 
 In the winter of 1967, before there was a black athlete in any sport at Alabama, and only a handful in the SEC, Dock Rone mustered the courage to visit Coach Bryant in his office and announced his intention to join the football team as a walk-on.

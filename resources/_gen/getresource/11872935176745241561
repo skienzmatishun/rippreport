@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a2b1ed1c7c3249c2-MIA
+Content-Type: application/json
+Date: Fri, 14 Aug 2026 18:12:10 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rdwn8IlQ6%2Fd%2BUzPEWbfc4ysRAmBl5oa51P93wQNHx%2Fm1rdSFeJRNmj%2B2HMSygOXoL763fSJ8UdmkqmbCbBhjYgZYFdJGynVmrtb7VU0mSYzIwOR4w133N%2FsdEjRNa3j%2Fr8%2FtiVa2aW4NzS91JCMYAcBQ4w%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=356
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 47520adfddf4ed987dae8e75e2cb47a7
+X-Etags-2: 47520adfddf4ed987dae8e75e2cb47a7
+
+{"error":"Upstream returned 429","url":"https://lagniappemobile.com/group-formed-to-address-south-baldwin-growth/","title":"Preview unavailable","description":"Could not fetch preview data"}

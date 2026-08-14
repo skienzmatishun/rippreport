@@ -100,16 +100,7 @@ The Fairhope City Council is an “at Large” elected Council. Each of the memb
 
 This council will NEVER vote for districts and will do everything possible to stop that from happening. They are lying to the public. They got caught. What happens next is their undoing.
 
-## Fairhope council votes to file injunction against Oct. 2 referendum - Lagniappe Mobile
-
-### Fairhope council votes to file injunction against Oct. 2 referendum - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2018/06/CoverP3.jpg)
-
-Four Fairhope city councilors effectively undermined the intent of more than 1,000 residents last night by voting at a special-called meeting to file an injunction that could delay or even nullify an Oct. 2 referendum on a new form of government. The council claims it received a preliminary opinion from Alabama Attorney General Steve Marshall’s …
-
-Source: [lagniappemobile.com/fairhope-council-votes-to-file-injunction-against-oct-2-referendum/](https://lagniappemobile.com/fairhope-council-votes-to-file-injunction-against-oct-2-referendum/)
-
+{{< socialpreview url=https://lagniappemobile.com/fairhope-council-votes-to-file-injunction-against-oct-2-referendum/ >}}
 
 The most obvious reason for Fairhope to change the form of Government and to go to districts is the present council members. Watch the meeting and see if you think the “At Large” system is working! Districts will take out as many as 3 or 4 of the present Catalyst Council members, which is, in itself, reason enough to go to districts.
 
@@ -171,4 +162,3 @@ Fairhope City Council is in goosestep with one another and have supported the Ai
 
 ## THE ELECTION SHOULD GO FORWARD AND ANY ATTEMPT BY THE COUNCIL TO INTERFERE WITH A FAIR ELECTION, WILL BE THEIR OWN DEMISE.
 
-![](https://cdn.rippreport.com/wp-content/uploads/2018/09/flyer.jpg)

@@ -121,9 +121,8 @@ The Ripp Report has also filed a Writ of Mandamus against the Ethics Commission,
 
 “A (writ of) mandamus is an order from a court to an inferior government official ordering the government official to properly fulfill their official duties or correct an abuse of discretion.”
 
-<iframe src="https://cdn.rippreport.com/7dcf7610-skm_558e21070909400_compressed.pdf" width="700px" height="700px" style="width:700px;height:700px;"></iframe>
+<iframe src="https://cdn.rippreport.com/7dcf7610-skm_558e21070909400_compressed.pdf" width="700px" height="700px" style="width:700px;height:700px; display:none;"></iframe>
 
- [Download](https://cdn.rippreport.com/7dcf7610-skm_558e21070909400_compressed.pdf)
 
 Mr. Albritton, one of three trustees of the Mabel Amos Memorial Fund, is also an attorney. He is well aware of self dealing and the Internal Revenue Codes related to self dealing and taxable expenditures.
 
@@ -131,9 +130,8 @@ Albrittion’s children have received scholarships, valued at 105,000 dollars, f
 
 The Ripp Report has filed a separate, Alabama Bar Complaint against Mr Tom Albritton.
 
-<iframe loading="lazy" src="https://cdn.rippreport.com/4e2819af-skm_c55821071409060-min.pdf" width="700px" height="700px" style="width:700px;height:700px;"></iframe>
+<iframe loading="lazy" src="https://cdn.rippreport.com/4e2819af-skm_c55821071409060-min.pdf" width="700px" height="700px" style="width:700px;height:700px;display:none"></iframe>
 
- [Download](https://cdn.rippreport.com/4e2819af-skm_c55821071409060-min.pdf)
 
 These complaints comply with all the guidelines for filing complaints. We will keep you posted on how the complaints fair.
 

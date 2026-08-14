@@ -97,15 +97,7 @@ summary: Continuing our coverage of the government reform vote, political front 
 ---
 I knew I could count on the Lagniappe to produce a comprehensive article about the recent referendum election in Fairhope. Well done.
 
-## Fairhope voters reject council-manager form of government - Lagniappe Mobile
-
-### Fairhope voters reject council-manager form of government - Lagniappe Mobile
-
-![](https://lagniappemobile.com/wp-content/uploads/2018/11/COVERP3.jpg)
-
-You can’t say it wasn’t a valiant effort. After more than 800 people signed a petition in less than two weeks — at least 779 signatures were certified — a special-interest group in Fairhope forced an election for a new form of government, but it was ultimately defeated Nov. 6. The group, Fresh Start Fairhope, …
-
-Please Read: [lagniappemobile.com/fairhope-voters-reject-council-manager-form-of-government/](https://lagniappemobile.com/fairhope-voters-reject-council-manager-form-of-government/)
+{{< socialpreview url=https://lagniappemobile.com/fairhope-voters-reject-council-manager-form-of-government/ >}}
 
 I read the article while I was in Puerto Rico and wondered how many people in Fairhope actually have any understanding of what motivated the no vote. The Ripp Report posted it’s thoughts after the election:
 

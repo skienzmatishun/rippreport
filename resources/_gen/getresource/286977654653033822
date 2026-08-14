@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a2b1ed19389149c2-MIA
+Content-Type: application/json
+Date: Fri, 14 Aug 2026 18:12:10 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UR5W14Lw1Kv31GqFmw6y05mh%2B%2FLAaz6MXONn4F9Qr4ynjpPd0w4facNXrx2w0iVN0L3uggayVGR4bOdhJrSmfu20yvGdmxivpYzcK%2FViIp97HcF556ukNR2Rys%2FFrvPgfyr0%2FXFU%2F%2FftrVg5P8DqLRqMkw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=589
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: fa247bdaadfc4e738930b00315210e50
+X-Etags-2: fa247bdaadfc4e738930b00315210e50
+
+{"title":"The Fairhope Times ","description":"Community news and events in Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQLHMPHysGPFK7jL2e2e8jE0pw9fgadrG_jGR4AMJRgV1aPkB5oDtxyo4-HJRrIfmC77HyGsujcTsyW3PFWNdT55ufXM2jxfk3BgO4t2qNPiK3XxdsiHH81wmwYmT5_wxycV1vlSZ6QBZOnIPNjrm9QRLYFAEJ-FqsWPieHDOO7bOZcZbD_DGlW1f2hE8/w1200-h630-p-k-no-nu/dogs.jpeg","charset":"utf-8","originalUrl":"https://thefairhopetimes.blogspot.com/","wasRedirected":false}
