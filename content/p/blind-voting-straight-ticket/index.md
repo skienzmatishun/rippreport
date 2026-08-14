@@ -1,7 +1,7 @@
 ---
 title: BLIND VOTING STRAIGHT TICKET
 date: 2018-11-09
-thumbnail: img/blind-voting-straight-ticket.jpg
+thumbnail: img/blind-voting-straight-ticket.png
 categories:
 - elections
 authors:
