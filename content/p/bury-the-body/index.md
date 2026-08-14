@@ -1,7 +1,7 @@
 ---
 title: BURY THE BODY
 date: 2018-10-01
-thumbnail: img/bury-the-body.jpg
+thumbnail: img/bury-the-body.png
 categories:
 - monday-madness
 authors:
