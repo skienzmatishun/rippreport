@@ -1,7 +1,7 @@
 ---
 title: BROKEN EGGS
 date: 2017-10-13
-thumbnail: img/broken-eggs.jpg
+thumbnail: img/broken-eggs.png
 categories:
 - freaky-friday
 tags:

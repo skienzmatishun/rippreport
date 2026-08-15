@@ -13,8 +13,7 @@ tags:
 - wilson
 authors:
 - ripp-report
-alttags: Conceptual site plan for the proposed Fly Creek Apartments showing building
-  clusters, parking lots, roads, and green spaces across multiple development ...
+alttags: Conceptual site plan for the proposed Fly Creek Apartments
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER
