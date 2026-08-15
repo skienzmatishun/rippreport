@@ -1,7 +1,7 @@
 ---
 title: TALE OF TWO CITIES
 date: 2017-06-23
-thumbnail: img/tale-of-two-cities.jpg
+thumbnail: img/tale-of-two-cities.png
 categories:
 - freaky-friday
 tags:
@@ -9,8 +9,7 @@ tags:
 - Fly Creek
 authors:
 - ripp-report
-alttags: Daphne City Hall is a yellow building with a red roof and water tower. Palm
-  trees stand before the entrance sign reading Daphne City Hall
+alttags: Daphne City Hall
 related_articles:
 - slug: community-or-developer
   title: COMMUNITY OR DEVELOPER

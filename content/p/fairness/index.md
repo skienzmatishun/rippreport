@@ -1,7 +1,7 @@
 ---
 title: FAIRNESS
 date: 2017-04-14
-thumbnail: img/fairness.jpg
+thumbnail: img/fairness.png
 categories:
 - citycouncil
 tags:
