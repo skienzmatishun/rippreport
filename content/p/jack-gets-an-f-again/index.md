@@ -108,7 +108,7 @@ The council ignored any issues like lead or asbestos. They did not consider the 
 
 The half baked application for a grant was delayed and the purchase for the K-1 is still set for March 31 deadline.
 
-[http://utv44.com/news/local/federal-grant-delayed-for-fairhope-k-1-renovation](http://utv44.com/news/local/federal-grant-delayed-for-fairhope-k-1-renovation)
+[https://utv44.com/news/local/federal-grant-delayed-for-fairhope-k-1-renovation](https://utv44.com/news/local/federal-grant-delayed-for-fairhope-k-1-renovation)
 
 Jack gets an F and the council as well. Let’s see if the council will listen to reason and explore the best use for the site. The city is posed to purchase the K-1 regardless of the grant failure, or Jack’s failure.
 

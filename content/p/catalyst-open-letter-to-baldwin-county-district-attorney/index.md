@@ -103,7 +103,7 @@ Dear sir:
 
 I recently read an article in the Gulf Coast news, Courier, about City Councilman Kevin Boone submitting a complaint to your office in reference to Fairhope Mayor Wilson. Mr. Boone chose to use the paper to make his complaint public and the radio station WABF 1480 AM, aka WACO radio, to echo the same complaint.
 
-http://gulfcoastnewstoday.com/stories/fairhope-councilman-accuses-mayor-wilson-of-violating-state-law,64372
+https://gulfcoastmedia.com/stories/fairhope-councilman-accuses-mayor-wilson-of-violating-state-law,64372
 
 It should be noted that this is just another attempt to unseat a duly elected official to satisfy the needs of a shadow government, Catalyst. Catalyst should be investigated as well as the Courier and WACO radio for their part in obstructing Fairhope Government.
 
@@ -127,184 +127,184 @@ I have included 88 articles by the Ripp Report that outline a multitude of alleg
 
 2016;
 
-https://rippreport.com/you-dont-know-jack/
+https://rippreport.com/p/you-dont-know-jack/
 
-https://rippreport.com/hi-jack-ed/
+https://rippreport.com/p/hi-jack-ed/
 
-https://rippreport.com/double-down-and-i-call/
+https://rippreport.com/p/double-down-and-i-call/
 
-https://rippreport.com/fairhope-airport-authority-flying-without-a-compass/
+https://rippreport.com/p/fairhope-airport-authority-flying-without-a-compass/
 
 2017:
 
-https://rippreport.com/court-public-opinion-now-session/
+https://rippreport.com/p/court-public-opinion-now-session/
 
-https://rippreport.com/investigative-reporting-business-entity-records/
+https://rippreport.com/p/investigative-reporting-business-entity-records/
 
-https://rippreport.com/conflict-of-interest/
+https://rippreport.com/p/conflict-of-interest/
 
-https://rippreport.com/follow-bouncing-ball/
+https://rippreport.com/p/follow-bouncing-ball/
 
-https://rippreport.com/a-spiders-web/
+https://rippreport.com/p/a-spiders-web/
 
-https://rippreport.com/boone-doggle/
+https://rippreport.com/p/boone-doggle/
 
-https://rippreport.com/bit-dogs-bark-first/
+https://rippreport.com/p/bit-dogs-bark-first/
 
-https://rippreport.com/fairhope-citizens-citizens-citizens/
+https://rippreport.com/p/fairhope-citizens-citizens-citizens/
 
-https://rippreport.com/shut-up/
+https://rippreport.com/p/shut-up/
 
-https://rippreport.com/fairhope-town-hall-meeting/
+https://rippreport.com/p/fairhope-town-hall-meeting/
 
-https://rippreport.com/jack-box-airport/
+https://rippreport.com/p/jack-box-airport/
 
-https://rippreport.com/5000-00-cash-reward/
+https://rippreport.com/p/5000-00-cash-reward/
 
-https://rippreport.com/caught-trap-like-rat/
+https://rippreport.com/p/caught-trap-like-rat/
 
-https://rippreport.com/beavis-and-butthead/
+https://rippreport.com/p/beavis-and-butthead/
 
-https://rippreport.com/balls/
+https://rippreport.com/p/balls/
 
-https://rippreport.com/nuff-said/
+https://rippreport.com/p/nuff-said/
 
-https://rippreport.com/fairhope-voters-important-notice/
+https://rippreport.com/p/fairhope-voters-important-notice/
 
-https://rippreport.com/whos-on-first/
+https://rippreport.com/p/whos-on-first/
 
-https://rippreport.com/listening-not-reading/
+https://rippreport.com/p/listening-not-reading/
 
-https://rippreport.com/investigating-the-investigators/
+https://rippreport.com/p/investigating-the-investigators/
 
-https://rippreport.com/selective-memory/
+https://rippreport.com/p/selective-memory/
 
-https://rippreport.com/help-fairness-killing-us/
+https://rippreport.com/p/help-fairness-killing-us/
 
 https://rippreport.com/fairhopes-broken-relationship-mayor-council-erupts/
 
-https://rippreport.com/cut-nose-off-spite-face/
+https://rippreport.com/p/cut-nose-off-spite-face/
 
-https://rippreport.com/recuse-yourself/
+https://rippreport.com/p/recuse-yourself/
 
-https://rippreport.com/fairness/
+https://rippreport.com/p/fairness/
 
-https://rippreport.com/community-or-developer/
+https://rippreport.com/p/community-or-developer/
 
-https://rippreport.com/pandoras-box/
+https://rippreport.com/p/pandoras-box/
 
-https://rippreport.com/gob-coup/
+https://rippreport.com/p/gob-coup/
 
-https://rippreport.com/how-the-pendulum-swings/
+https://rippreport.com/p/how-the-pendulum-swings/
 
-https://rippreport.com/re-gift-gift/
+https://rippreport.com/p/re-gift-gift/
 
-https://rippreport.com/comment-surprised-ripp-report-baldwin-county-legal-eagle/
+https://rippreport.com/p/comment-surprised-ripp-report-baldwin-county-legal-eagle/
 
-https://rippreport.com/stirring-the-pot/
+https://rippreport.com/p/stirring-the-pot/
 
-https://rippreport.com/tale-of-two-cities/
+https://rippreport.com/p/tale-of-two-cities/
 
-https://rippreport.com/misery-loves-company/
+https://rippreport.com/p/misery-loves-company/
 
-https://rippreport.com/joke/
+https://rippreport.com/p/joke/
 
-https://rippreport.com/self-incrimination/
+https://rippreport.com/p/self-incrimination/
 
-https://rippreport.com/holes/
+https://rippreport.com/p/holes/
 
-https://rippreport.com/leaks-and-collusion/
+https://rippreport.com/p/leaks-and-collusion/
 
-https://rippreport.com/jack-ass/
+https://rippreport.com/p/jack-ass/
 
-https://rippreport.com/airport-diversion/
+https://rippreport.com/p/airport-diversion/
 
-https://rippreport.com/investigations/
+https://rippreport.com/p/investigations/
 
-https://rippreport.com/jester-clone-clown/
+https://rippreport.com/p/jester-clone-clown/
 
-https://rippreport.com/hate/
+https://rippreport.com/p/hate/
 
-https://rippreport.com/mimes-whitewashing/
+https://rippreport.com/p/mimes-whitewashing/
 
 https://rippreport.com/now-you-know-jack/
 
-https://rippreport.com/fly-creek-a-drainage-ditch/
+https://rippreport.com/p/fly-creek-a-drainage-ditch/
 
-https://rippreport.com/alabama-ethics-a-political-tool/
+https://rippreport.com/p/alabama-ethics-a-political-tool/
 
-https://rippreport.com/switching-hats/
+https://rippreport.com/p/switching-hats/
 
-https://rippreport.com/blood-in-the-water/
+https://rippreport.com/p/blood-in-the-water/
 
-https://rippreport.com/opposition-obstruction/
+https://rippreport.com/p/opposition-obstruction/
 
-https://rippreport.com/fairhope-lawsuits/
+https://rippreport.com/p/fairhope-lawsuits/
 
-https://rippreport.com/bonus-money/
+https://rippreport.com/p/bonus-money/
 
-https://rippreport.com/job-with-benefits/
+https://rippreport.com/p/job-with-benefits/
 
-https://rippreport.com/ethics-comedians/
+https://rippreport.com/p/ethics-comedians/
 
-https://rippreport.com/broken-eggs/
+https://rippreport.com/p/broken-eggs/
 
-https://rippreport.com/wetlands/
+https://rippreport.com/p/wetlands/
 
-https://rippreport.com/the-chucky-cheeze-and-jack-burrell-show/
+https://rippreport.com/p/the-chucky-cheeze-and-jack-burrell-show/
 
-https://rippreport.com/see-ya-in-court-jack/
+https://rippreport.com/p/see-ya-in-court-jack/
 
-https://rippreport.com/fairhope-special-meeting/
+https://rippreport.com/p/fairhope-special-meeting/
 
-https://rippreport.com/moore-of-the-chucky-cheeze-and-jack-burrell-show/
+https://rippreport.com/p/moore-of-the-chucky-cheeze-and-jack-burrell-show/
 
-https://rippreport.com/do-your-job-pass-the-budget/
+https://rippreport.com/p/do-your-job-pass-the-budget/
 
 2018:
 
-https://rippreport.com/elephant-in-a-volkswagen/
+https://rippreport.com/p/elephant-in-a-volkswagen/
 
-https://rippreport.com/new-year-new-problems/
+https://rippreport.com/p/new-year-new-problems/
 
-https://rippreport.com/blind-and-deaf/
+https://rippreport.com/p/blind-and-deaf/
 
-https://rippreport.com/repeat/
+https://rippreport.com/p/repeat/
 
-https://rippreport.com/in-your-face/
+https://rippreport.com/p/in-your-face/
 
-https://rippreport.com/fairhope-jester/
+https://rippreport.com/p/fairhope-jester/
 
-https://rippreport.com/bend-over-fairhope/
+https://rippreport.com/p/bend-over-fairhope/
 
-https://rippreport.com/newsletter-the-ripp-report/
+https://rippreport.com/p/newsletter-the-ripp-report/
 
-https://rippreport.com/big-head-gully-and-the-fruit-nuts/
+https://rippreport.com/p/big-head-gully-and-the-fruit-nuts/
 
-https://rippreport.com/grinder-pumps/
+https://rippreport.com/p/grinder-pumps/
 
-https://rippreport.com/fairhopes-triangle-mega-site/
+https://rippreport.com/p/fairhopes-triangle-mega-site/
 
-https://rippreport.com/catalyst-the-three-bs-and-chuckee-cheeze/
+https://rippreport.com/p/catalyst-the-three-bs-and-chuckee-cheeze/
 
-https://rippreport.com/fairhope-jester-and-fly-creek/
+https://rippreport.com/p/fairhope-jester-and-fly-creek/
 
-https://rippreport.com/chuckie-cheeze/
+https://rippreport.com/p/chuckie-cheeze/
 
-https://rippreport.com/flying-high/
+https://rippreport.com/p/flying-high/
 
-https://rippreport.com/police-report/
+https://rippreport.com/p/police-report/
 
-https://rippreport.com/fairhopes-blast-from-the-past/
+https://rippreport.com/p/fairhopes-blast-from-the-past/
 
-https://rippreport.com/zunk-the-skunk/
+https://rippreport.com/p/zunk-the-skunk/
 
 https://rippreport.com/monday-madness/
 
-https://rippreport.com/bushwhacked-hijacked-fairhope-style/
+https://rippreport.com/p/bushwhacked-hijacked-fairhope-style/
 
-https://rippreport.com/shadow-government/
+https://rippreport.com/p/shadow-government/
 
-https://rippreport.com/hallucinations/
+https://rippreport.com/p/hallucinations/
 
 Sometime it is easier to prosecute an impaired bus driver than to go after corrupt elected officials.

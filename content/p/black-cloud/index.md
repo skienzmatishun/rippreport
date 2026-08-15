@@ -126,13 +126,13 @@ ABSOLUTELY NO ETHICS
 
 “As director of the Alabama Ethics Commission, Tom Albritton is the state’s policeman for conflicts of interest and ethical breaches that can arise throughout all levels of government, but having a private charitable trust he helps oversee pay more than $100,000 for his kids’ college tuition”
 
-https://lagniappemobile.com/mabel-amos-memorial-fund-more-scholarship-money-for-ethics-chiefs-kids/
+https://www.lagniappemobile.com/news/local/mabel-amos-memorial-fund-more-scholarship-money-for-ethics-chief-s-kids/article_c4129e00-75ad-53d2-a891-cdee4e6a1106.html
 
 “(1) In general for purposes of this section, the term “self-dealing” means any direct or indirect — (A) sale or exchange, or leasing, of property between a private foundation and a disqualified person; (B) lending of money or other extension of credit between a private foundation and a disqualified person; (C) furnishing of goods, services or facilities between a private foundation and a disqualified person; (D) payment of compensation (or payment or reimbursement of expenses) by a private foundation to a disqualified person; (E) transfer to, or use by or for the benefit of, a disqualified person of the income or assets of a private foundation; and (F) agreement by a private foundation to make any payment of money or other property to a government official (as defined in section 4946(c)), other than an agreement to employ such individual for any period after the termination of his government service if such individual is terminating his government service within a 90-day period.”
 
 This is exactly what the Executive Director of Alabama Ethics Commission, Tom Albritton is guilty of: “Self-Dealing”.
 
-https://rippreport.com/striking-oil/
+https://rippreport.com/p/striking-oil/
 
 Tom Albritton and Regions Bank struck oil in Conecuh County. The population of the county is around 12,000. I guess Tom and the Bank saw no need to tell the citizens of the county or the relatives of Mabel Amos.
 

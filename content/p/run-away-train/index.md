@@ -105,13 +105,13 @@ For instance Daphne allows apartments to be built on Highway 98, within a mile F
 
 At least one person is paying attention, Miriam Boutwell. She has helped to establish, Plan Lower AL Now {PLAN}. Baldwin County desperately needs such an organization as , PLAN. Let’s hope the municipalities and county commission agree and participate.
 
-{{< socialpreview url =https://lagniappemobile.com/group-formed-to-address-south-baldwin-growth/ >}}
+{{< socialpreview url =https://www.lagniappemobile.com/news/local/group-formed-to-address-south-baldwin-growth/article_12f8bcc2-4c5d-5a3d-a85d-dd8bc84dd357.html >}}
 
 The need for PLAN becomes even more apparent when you consider the latest statistics involving residential growth within the county.
 
 Some say Baldwin County is experiencing, “unprecedented growth”, a better description is a Runaway Train and there is no conductor.
 
-{{< socialpreview url=https://lagniappemobile.com/baldwin-residential-growth-continues-to-soar/ >}}
+{{< socialpreview url=https://www.lagniappemobile.com/news/local/baldwin-residential-growth-continues-to-soar/article_6b6f1633-2d0a-5431-b992-2e7f61be58c6.html >}}
 
 Foley: 545% Increase in the number of residential units, added in the last two years. In the final stages are 1276 lots I over 50 subdivisions.
 

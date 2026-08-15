@@ -88,7 +88,7 @@ In Baldwin county straight ticket voting is force feed to the constituents and i
 
 County Commissioner Tucker Dorsey is a fly in the ointment.
 
-His political ambition is obvious and his business connections and llc’s have been called into question, http://lagniappemobile.com/can-baldwin-commissioner-dorsey-avoid-ethics-issues/. Mr. Dorsey is for Mr. Dorsey and he intends to become a connected career politician, with the help of the good ole boys, Catalyst and their political fraternity. His actions as commissioner reflect someone who is in perpetual election mode, not public service mode.
+His political ambition is obvious and his business connections and llc’s have been called into question, https://www.lagniappemobile.com/news/local/can-baldwin-commissioner-dorsey-avoid-ethics-issues/article_9d123964-8191-5442-8247-4d0bc0ff0eb9.html. Mr. Dorsey is for Mr. Dorsey and he intends to become a connected career politician, with the help of the good ole boys, Catalyst and their political fraternity. His actions as commissioner reflect someone who is in perpetual election mode, not public service mode.
 
 Get ready folks Mr. Dorsey will soon tell us what political office he seeks next, maybe State Senator?
 

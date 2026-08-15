@@ -99,7 +99,7 @@ summary: Following up on our Catalyst investigation, political insiders in Daphn
 
 The Daphne City Council is now accepting resumes to fill the Council seat that was vacated on November 13th by District 7 Councilman Joe Davis, III. The City Council intends to interview applicants during a special-called meeting beginning at 6:30pm on December 10, 2018, in Council Chambers at Daphne City Hall.
 
-In order to be eligible for consideration at said meeting, applicants must be a U.S. Citizen of at least 18 years of age, cannot hold any other public office except that of Notary Public, and must be a qualified elector of District 7 in the City of Daphne for at least 90 days. An interactive map of Daphne’s Districts can be viewed online at the following link: [tinyurl.com/DaphneDistrictMap](http://tinyurl.com/DaphneDistrictMap) or by visiting Daphne City Hall. For reference, District 7 includes, but is not limited to the subdivisions of Timbercreek, Historic Malbis, and Canterbury.
+In order to be eligible for consideration at said meeting, applicants must be a U.S. Citizen of at least 18 years of age, cannot hold any other public office except that of Notary Public, and must be a qualified elector of District 7 in the City of Daphne for at least 90 days. An interactive map of Daphne’s Districts can be viewed online at the following link: [tinyurl.com/DaphneDistrictMap](https://cityofdaphne.maps.arcgis.com/apps/webappviewer/index.html?id=505c393b5b3c441093e90748f2a147bf) or by visiting Daphne City Hall. For reference, District 7 includes, but is not limited to the subdivisions of Timbercreek, Historic Malbis, and Canterbury.
 
 Complete resumes with a letter of intent should be delivered to the attention of the Daphne City Clerk, Candace G. Antinarella, by email at [cityclerk@daphneal.com](mailto:cityclerk@daphneal.com), hand delivery at Daphne City Hall, 1705 Main Street, or by mail to P.O. Box 400, Daphne, Alabama 36526. The deadline to apply for the vacant seat is Friday, December 7, 2018, at 5pm.
 
@@ -119,7 +119,7 @@ Catalyst has its candidate in place with Johnathan Armstrong. When Joe Davis won
 
 Publisher correction: With over 300 single publications, without a single correction, The Ripp Report must admit to an error in the: PEOPLE POWER PEOPLE POWER | THE RIPP REPORT /
 
-Please Read: [rippreport.com/2018/03/21/i-quit-and-will-quit-again/](https://rippreport.com/i-quit-and-will-quit-again/)
+Please Read: [rippreport.com/2018/03/21/i-quit-and-will-quit-again/](https://rippreport.com/p/i-quit-and-will-quit-again/)
 
 Catalyst wasted no time recruiting Armstrong, who works for Jeb Ball, newly elected to the same County Commission.
 
@@ -131,7 +131,7 @@ Catalyst wasted no time recruiting Armstrong, who works for Jeb Ball, newly elec
 
 Place one in the County Commissioner’s race is a classic example of getting what you wished for and it backfiring. Mr Frank Burt has solidly held this position since 1988, wow, 29 years. Mr.
 
-Please Read: [rippreport.com/2018/03/09/wrong-ball/](https://rippreport.com/wrong-ball/)
+Please Read: [rippreport.com/2018/03/09/wrong-ball/](https://rippreport.com/p/wrong-ball/)
 
 Both Ball and Armstrong operate the Baldwin County Substance Abuse, a non profit formed by the infamous Judge Michelle Thomasson. The Ripp Report will be detailing this dubious money making scheme, set up by Judges and Lawyers, in the future.
 
@@ -143,7 +143,7 @@ Both Ball and Armstrong operate the Baldwin County Substance Abuse, a non profit
 
 Eliott Haygood and Stacy, Elliott, Like in Chris, Haygood, like in Dane, and Stacy like in Lynn, dissolved and became Catalyst. Catalyst is like a ghost organization under the direction of Scott…
 
-Please Read: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/catalyst-queen-remember-family-court/)
+Please Read: [rippreport.com/2018/04/27/catalyst-queen-remember-family-court/](https://rippreport.com/p/catalyst-queen-remember-family-court/)
 
 The Mayor of Daphne is one of the three grandfathers of Catalyst, Elliott, Haygood and Stacy, that morphed into Catalyst once Elliott and Haygood were elected to office.
 
@@ -155,7 +155,7 @@ The Mayor of Daphne is one of the three grandfathers of Catalyst, Elliott, Haygo
 
 Catalyst is a political cancer found in Baldwin County. It hand picks political candidates. Catalyst was formally Stacy Elliott and Haygood, the birth of the cancer, that morphed into Catalyst when Mr.
 
-Please Read: [rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/](https://rippreport.com/catalyst-birds-of-the-same-feather/)
+Please Read: [rippreport.com/2018/04/13/catalyst-birds-of-the-same-feather/](https://rippreport.com/p/catalyst-birds-of-the-same-feather/)
 
 ## BEWARE DAPHNE, CATALYST, IS A POLITICAL CANCER AND THEY WANT CONTROL OF BALDWIN COUNTY.
 

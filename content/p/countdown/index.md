@@ -115,7 +115,7 @@ The only other person who is active in the race on the republican side is Dr. Ra
 
 {{< socialpreview url="https://www.alreporter.com/2017/08/01/brinson-asks-governor-call-ethics-commission-meeting/" >}}
 
-[Link No Longer Exists](http://local15tv.com/news/election/candidates/know-your-candidates-randy-brinson)
+[Link No Longer Exists](https://mynbc15.com)
 
 Are you not tired of the same old BS from career politicians or politicians that use their office for personal gain, like Pittman? Well your alternative may be Mr. Brinson. He may not be well known and certainly is not a career politician but would be a breath of fresh air compared to the above.
 

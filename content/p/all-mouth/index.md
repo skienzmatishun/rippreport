@@ -117,7 +117,7 @@ Prankster's Sign Causing Confusion
 
 FAKE SIGN
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Prankster&#39;s sign no cause for concern. A sign erected by the property owner near the Gayfer Road roundabout in east Fairhope is not accurate: the material being stockpiled there is for an upcoming project to enlarge sewer pipes under CR 13. <a href="https://t.co/tMaXNcEOFj">pic.twitter.com/tMaXNcEOFj</a></p>&mdash; The Fairhope Times (@Fairhope_Times) <a href="https://twitter.com/Fairhope_Times/status/1656269034495655937?ref_src=twsrc%5Etfw">May 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Prankster&#39;s sign no cause for concern. A sign erected by the property owner near the Gayfer Road roundabout in east Fairhope is not accurate: the material being stockpiled there is for an upcoming project to enlarge sewer pipes under CR 13. <a href="https://x.com/Fairhope_Times/status/1656269034495655937">pic.twitter.com/tMaXNcEOFj</a></p>&mdash; The Fairhope Times (@Fairhope_Times) <a href="https://twitter.com/Fairhope_Times/status/1656269034495655937?ref_src=twsrc%5Etfw">May 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 {{< socialpreview url="https://thefairhopetimes.blogspot.com/2022/09/councilman-wants-second-opinion-on-big.html" >}}
 

@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a2b41354be68fc4a-MIA
+Content-Type: application/json
+Date: Sat, 15 Aug 2026 00:27:48 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uQ1k7E8Q0ByYjXU8RCfjNEfHjSJRezdQqoOM%2BoaVClQSPIHrwv0F16aGtCjrIwmtJ0xhlJGfBuBOKz2gok5vdr7etgPCQAh%2BYeaE269qZzTJYbbjr99ZsHHMBeGCuwVH%2BGtuWr%2BQvCoBnKVYwhvCFk8xZQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=700
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 0be3d99d818ee01c4a3b2db718a3549f
+X-Etags-2: 0be3d99d818ee01c4a3b2db718a3549f
+
+{"title":"About Baldwin Alliance | Baldwin County Economic Development","description":"Learn how Baldwin Alliance drives economic growth, jobs, and investment through partnership in Baldwin County, Alabama.","url":"https://baldwinalliance.com/about-us/","image":"https://baldwinalliance.com/wp-content/uploads/2025/12/Equal.png","charset":"utf-8","originalUrl":"https://baldwinalliance.com//about-us/","wasRedirected":true}

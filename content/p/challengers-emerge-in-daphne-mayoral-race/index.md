@@ -87,7 +87,7 @@ summary: As Baldwin County voters prepare for the August 23rd Daphne mayoral ele
   spending habits and secret backroom deals. This critical vote will decide if Daphne
   gets transparent fiscal accountability or four more years of unguided growth.
 ---
-By: [ERIC MANN](mailto:eric@lagniappemobile.com "More from Eric Mann")  [Lagniappemobile.com](https://lagniappemobile.com)
+By: [ERIC MANN](mailto:eric@lagniappemobile.com "More from Eric Mann")  [Lagniappemobile.com](https://www.lagniappemobile.com/)
 
 As qualifying for municipal election candidates comes to a close this week, three candidates have emerged to challenge incumbent mayor Dane Haygood in Daphne in the Aug. 23 city election.
 

@@ -130,7 +130,7 @@ Last night the Council appointed the interim Police Chief:
 
 Click here to view this video from fox10tv.com.
 
-Source: [www.fox10tv.com/fairhope-names-interim-police-chief/video\_c977bf69-7f8a-57b6-b9df-73a7f82248d9.html](https://www.fox10tv.com/fairhope-names-interim-police-chief/video_c977bf69-7f8a-57b6-b9df-73a7f82248d9.html)
+Source: [www.fox10tv.com/fairhope-names-interim-police-chief/video\_c977bf69-7f8a-57b6-b9df-73a7f82248d9.html](https://www.fox10tv.com/news/)
 
 </div>
 If the Council President is so passionate about traffic then certainly the Police Chief and the City Attorney will apply Mr. Burrell’s words to his actions.
@@ -179,7 +179,7 @@ Fairhope pay attention and let’s see if the “appointed by council” Police 
 
 While the Chief and Attorney are doing their job will they please explain Mr. Burrell’s police record, part of which Mr Burrell has blamed his son for:
 
-https://rippreport.com/police-report/
+https://rippreport.com/p/police-report/
 
 The Police Chief, City Attorney and the City Council need to make a public statement where each one of them stands on this issue.
 

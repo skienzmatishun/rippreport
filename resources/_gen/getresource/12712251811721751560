@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a2b41330ab29fc4a-MIA
+Content-Type: application/json
+Date: Sat, 15 Aug 2026 00:27:43 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=CuTa2NCYDhQeAICFdxy5RHSwDvniGhwyH9bF78XrDbHLaGAJM1MKVF%2BUHxesxoDbK93E%2FYIGtCI8%2BoAdpA8kG1qaYrjH4lJ6QRNMjXVlmaAiVb1mMw3%2FSDWXhf5IPjIzBNXURss7zlshoD0Btly0ezAkCg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=8,cfOrigin;dur=0,cfWorker;dur=1917
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: a7c4df0369a6fe90c635ad1d2471fc8c
+X-Etags-2: a7c4df0369a6fe90c635ad1d2471fc8c
+
+{"title":"Disaster recovery - Small Business Administration","description":"Explore SBA’s low‑interest disaster loans designed to help businesses of all sizes, homeowners, renters, and private nonprofit organizations recover from declared disasters. Repair existing damage, reduce future risks, or get help with financial obligations when essential employees are called to serve.","url":"https://www.sba.gov/disaster/","image":"https://cdn.www.sba.gov/app/uploads/2026/07/28135608/Reversed-disaster-image-3-no-blue-scaled.jpg","charset":"utf-8","originalUrl":"https://www.sba.gov/disaster/","wasRedirected":false}

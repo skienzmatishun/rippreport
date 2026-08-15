@@ -123,7 +123,7 @@ Tucker Dorsey uses the LLC’s to hide his many business interests and you can b
 
 Guess what the address is ?
 
-{{< socialpreview url="https://www.corporationwiki.com/Alabama/Summerdale/13040-Underwood-Rd-Summerdale-AL-36580-a42817393.aspx" >}}
+{{< socialpreview url="https://www.corporationwiki.com/" >}}
 
 Chris Elliott is not State Senate material. He wants our vote, for what? The Mega “Dump” site that cost taxpayers 32 plus MILLION?
 

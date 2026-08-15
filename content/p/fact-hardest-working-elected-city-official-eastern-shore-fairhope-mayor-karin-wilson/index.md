@@ -119,7 +119,7 @@ It is embarrassing to be rated as a dirty beach but maybe it will wake up the Ea
 
 A new report lists beaches in 29 coastal and Great Lakes states prone to bacteria counts that can make you sick.
 
-Source: [www.usatoday.com/story/news/nation/2019/07/23/americas-dirtiest-beaches-prone-bacteria-report/1801372001/](https://www.usatoday.com/story/news/nation/americas-dirtiest-beaches-prone-bacteria-report/1801372001/)
+Source: [www.usatoday.com/story/news/nation/2019/07/23/americas-dirtiest-beaches-prone-bacteria-report/1801372001/](https://www.usatoday.com/story/news/nation/2019/07/23/americas-dirtiest-beaches-prone-bacteria-report/1801372001/)
 
 </div>
 FACT :Mayor Karin Wilson of Fairhope
@@ -162,7 +162,7 @@ FACT: Councilman Boone and Burrell did nothing for four years, except for spendi
 
 The public beach in the city of Fairhope stood out for all the wrong reasons in a nationwide study released today about bacterial contamination. According to a report by the nonprofit Environment America Research & Policy Center, a sampling site at Fairhope Public Beach in Baldwin County tested as “potentially unsafe” for 21 days, more …
 
-Source: [lagniappemobile.com/city-of-fairhope-responds-to-negative-water-quality-report](https://lagniappemobile.com/city-of-fairhope-responds-to-negative-water-quality-report)
+Source: [lagniappemobile.com/city-of-fairhope-responds-to-negative-water-quality-report](https://www.lagniappemobile.com/news/city-of-fairhope-responds-to-negative-water-quality-report/article_13397732-e6ce-526e-8d32-b3b5570b13e8.html)
 
 </div>
 

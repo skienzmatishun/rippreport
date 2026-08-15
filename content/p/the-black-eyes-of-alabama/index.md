@@ -2,6 +2,7 @@
 title: The Black Eyes of Alabama
 date: 2022-01-22
 youtube: boYAAaWCg4w
+thumbnail: img/the-black-eyes-of-alabama.png
 categories:
 - Backstory Podcast
 authors:

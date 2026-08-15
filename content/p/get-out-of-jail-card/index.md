@@ -147,7 +147,7 @@ How about the Strawman case ?
 
 Read this article and you know you will need a computer to keep up with the crooks involved. This case exposes a judge, council and commissioners, lawyers and local developers. It stinks so bad you will need a close pin to read it. No one faced any criminal charges.
 
-https://lagniappemobile.com/judge-recuses-himself-from-fraud-case-after-lagniappe-inquiries/
+https://www.lagniappemobile.com/news/judge-recuses-himself-from-fraud-case-after-lagniappe-inquiries/article_badbb56a-3100-5d1d-b2b0-f0ff7434f1f4.html
 
 “While the Alabama Ethics Commission does not have statements on file from his first two years as a judge, beginning in 2014, he reported earnings of between $10,000 and $50,000 for “referral fees” from his previous law partners. He reported the same amount of earnings in 2015 and 2016, but by 2017, his income from referral fees had increased to between $50,000 and $150,000. It remained in that higher bracket in his 2018 Statement of Economic Interests, the most recent year available.” What does this sound like to you?
 

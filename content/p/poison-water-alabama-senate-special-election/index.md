@@ -91,7 +91,7 @@ Everyone should read the bio’s of all the candidates then compare them with ot
 
 It’s hot. In Mobile, Alabama, in June. Big surprise! But if you think June is hot, just wait until we get to August. We will be sweating by 9 a.m AND we have two political races guaranteed to make things even steamier around here. Time to get our ACs as well as our BS detectors …
 
-Source: [lagniappemobile.com/summer-brings-hot-political-races/](http://lagniappemobile.com/summer-brings-hot-political-races/)
+Source: [lagniappemobile.com/summer-brings-hot-political-races/](https://www.lagniappemobile.com/opinion/columnists/ha/summer-brings-hot-political-races/article_2d24cc6e-7abc-5317-9f58-55bfd8df5fac.html)
 
 Luther Strange, Roy Moore, and BP beneficiary Tripp Pittman, should be crossed off the list intermediately. “Big Luther” sold out to Bentley to get Session’s seat, temporary, by turning a blind eye to Bentley’s investigation. Big Luther also ignored the evidence against Sen. Tripp Pittman and his $750,000 money grab of BP funds, while he was the “trustee” of BP funds. Another reason to reject BL is because the “Washington” Republican party is demanding you vote for BL or else! That’s BS. They know BL, once in, will vote as told.
 

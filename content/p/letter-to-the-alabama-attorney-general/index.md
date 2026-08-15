@@ -119,7 +119,7 @@ Enclose you will find a copy of the Lagniappe article, SELF-DEALING, an Ethics C
 
 The Lagniappe article and the Ripp Report have as many as 80,000 readers. I make note of this because we have found that the Court of Public Opinion is far more effective than those tasked with upholding the law. I assure you we will keep our readers informed on the complaints and actions filed.
 
-{{< socialpreview url="https://rippreport.com/2021/07/15/writ-of-mandamus-and-bar-complaint/" >}}
+{{< socialpreview url="https://rippreport.com/p/writ-of-mandamus-and-bar-complaint/" >}}
 
 The specific complaint against Mr Albritton is spelled out clearly, and I trust your review of the enclosed documents will expose Mr Albritton’s Self Dealing, IRS code violations and his actions as an Alabama Attorney.
 

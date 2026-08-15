@@ -100,7 +100,7 @@ The Fairhope City Council is an “at Large” elected Council. Each of the memb
 
 This council will NEVER vote for districts and will do everything possible to stop that from happening. They are lying to the public. They got caught. What happens next is their undoing.
 
-{{< socialpreview url=https://lagniappemobile.com/fairhope-council-votes-to-file-injunction-against-oct-2-referendum/ >}}
+{{< socialpreview url=https://www.lagniappemobile.com/news/local/fairhope-council-votes-to-file-injunction-against-oct-2-referendum/article_de1f6975-1610-5c7f-a52e-8f44c9c2dca0.html >}}
 
 The most obvious reason for Fairhope to change the form of Government and to go to districts is the present council members. Watch the meeting and see if you think the “At Large” system is working! Districts will take out as many as 3 or 4 of the present Catalyst Council members, which is, in itself, reason enough to go to districts.
 

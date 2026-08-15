@@ -100,11 +100,11 @@ GROWTH is their karma. In the last 10 years Baldwin County has grown in some are
 
 Orange Beach, Gulf Shores and Fairhope are in the forefront of citizens questioning their municipal government.
 
-https://lagniappemobile.com/south-baldwin-residents-told-flyover-bridge-plans-changed/
+https://www.lagniappemobile.com/news/local/south-baldwin-residents-told-flyover-bridge-plans-changed/article_58dd1f63-8fac-51c7-8c7a-25848bf78ef2.html
 
 “they’re finally going to let the citizens in on this and they are suppose to let everyone know what’s going on” resident Mike Powell said.
 
-https://lagniappemobile.com/will-gulf-shores-site-plan-review-make-a-difference/
+https://www.lagniappemobile.com/news/local/will-gulf-shores-site-plan-review-make-a-difference/article_dbf620e3-202d-5802-9f16-c5fcd8be0aec.html
 
 the same U.S. Census Bureau data placed the negative impact on apartments at 13.8% and, the same study found a the negative impact of a "Strip Club" at 14.7% and a "Homeless Shelter" at 12.7%. Finding yourself on a survey of negative impact (dragging down your property values) right between a "Strip Club" and a "Homeless Shelter" is NOT a good place to be.
 

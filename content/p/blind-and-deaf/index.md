@@ -90,7 +90,7 @@ summary: Following up on our media censorship investigation, local power brokers
 ---
 You would think an editor of a newspaper would look at the video and be able to understand the subject at hand, Not Chuckee! Makes ya wonder what he knows about freedom of the press!
 
-{{< socialpreview url="https://youtu.be/kDUoTFc1gOs?t=3602" >}}
+{{< socialpreview url="https://www.youtube.com/watch?t=3602&v=kDUoTFc1gOs&feature=youtu.be" >}}
 
 {{< socialpreview url="https://www.gulfcoastnewstoday.com/the-courier/stories/blogger-paul-ripp-files-federal-lawsuit-against-fairhope-council-president-jack-burrell,56849" >}}
 

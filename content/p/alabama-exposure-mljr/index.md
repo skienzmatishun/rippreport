@@ -111,7 +111,7 @@ Read the book:
 
 [The Framing of Murray Lawrence Jr.](https://drive.google.com/file/d/11oD_0s585nXT-bCsYMEncIXPyXN7-Kq1/view?usp=sharing)
 
-[JusticeForMurrayLawrenceJr.com](https://JusticeForMurrayLawrenceJr.com)
+[JusticeForMurrayLawrenceJr.com](https://www.justiceformurraylawrencejr.com/)
 
 July 2026 Update:
 

@@ -130,11 +130,11 @@ City Council General Number 251-968-2425
 
 Joe Garris, charter boat dottiejocharterservice@yahoo.com http://www.dottiejocharterservice.com/ 251-213-6680 business number Phillip Harris, Construction (also Planning Commission) philip@harrisconstruction.net http://www.harrisconstruction.net/index.htm 251-968-7128 business number 251-747-5431 mobile number
 
-Jason Dyken, Doctor and Author jason@dykenwealthstrategies.com http://www.dykenwealthstrategies.com/ 251-955-2827 work number
+Jason Dyken, Doctor and Author jason@dykenwealthstrategies.com https://www.dykenwealthstrategies.com/ 251-955-2827 work number
 
-Stephen E. Jones, Realtor at Exec Realty gsrealtor56@gmail.com https://www.realtyexecutives.com/agent/steve-jones 251-609-5292 work cell
+Stephen E. Jones, Realtor at Exec Realty gsrealtor56@gmail.com https://www.realtyexecutives.com/ 251-609-5292 work cell
 
-Gary Sinak, retired Battalion Chief of 34 yrs, co-owner GNC Plumbing and the Hardware Store garysinak@hotmail.com http://www.gngplumbing.com/ 251-974-5630 business number
+Gary Sinak, retired Battalion Chief of 34 yrs, co-owner GNC Plumbing and the Hardware Store garysinak@hotmail.com https://gngplumbing.com/ 251-974-5630 business number
 
 * * *
 

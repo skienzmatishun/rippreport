@@ -100,7 +100,7 @@ summary: Self-serving politicians sold out local taxpayers to fund a multi-milli
 ---
 By now you have seen the slick ads of Elliott and Tucker. However, when you read them you do not recognize any similarity between the written fluff and the candidates. These guys are dumping tens of thousands of dollars, donated by developers and Catalyst, to be elected at all costs. They will do anything, I repeat anything, to get elected.
 
-https://lagniappemobile.com/half-million-dollars-contributed-to-senate-district-32-campaign/
+https://www.lagniappemobile.com/news/half-million-dollars-contributed-to-senate-district-32-campaign/article_e95a9f31-822d-589e-9405-1576be6b9cd7.html
 
 The Senate seat Elliott seeks was held by Boom Boom Pittman, electing Elliott would be as bad as having Boom Boom back.
 

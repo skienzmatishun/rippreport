@@ -128,7 +128,7 @@ CATALYST is born, the ultimate good ole boy club on 8/11/14. Mr Scott Boone is a
 
 Company Profile
 
-Source: [Link No Longer Exists](http://www.alabamacorporates.com/corp/630843.html)
+Source: [Link No Longer Exists](http://ww547.alabamacorporates.com)
 
 The absolute one fact about CATALYST that you can count on is that anyone they support, gets elected or is appointed to public office, uses that position for personal gain.
 

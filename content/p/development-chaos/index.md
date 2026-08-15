@@ -101,7 +101,7 @@ That is poor planning and a failure of the politicians.
 
 [Schools in the lower south half of Baldwin are stretched to the max](https://utv44.com/news/local/baldwin-schools-fight-to-keep-up-with-population-boom). Portables are being added and any new construction to schools will be at full occupancy the first day at school. School campus’s are a hodgepodge of portable classrooms and sport utility buildings. Some municipalities are forming their own school districts, which only adds another level of tax and duplicity.
 
-[Baldwin County is the only county in Alabama that has an unregulated sewer system](https://rippreport.com/baldwin-county-sewer-regulation-a-litmus-test/). Spanish Fort is entirely dependent on Baldwin County Sewer Service. Consumers with Baldwin County Sewer should read [the history of the company](https://lagniappemobile.com/series/bcss/). The FBI should step in because the County Commission has had a no see, no hear, no talk approach to a problem that smells worse than the sewage.
+[Baldwin County is the only county in Alabama that has an unregulated sewer system](https://rippreport.com/p/baldwin-county-sewer-regulation-a-litmus-test/). Spanish Fort is entirely dependent on Baldwin County Sewer Service. Consumers with Baldwin County Sewer should read [the history of the company](https://lagniappemobile.com/series/bcss/). The FBI should step in because the County Commission has had a no see, no hear, no talk approach to a problem that smells worse than the sewage.
 
 ### [Baldwin County Sewer Service - Lagniappe Series](https://lagniappemobile.com/series/bcss/)
 
@@ -127,7 +127,7 @@ Today citizens are defining property rights differently. Zoning can protect your
 
 It is not Hell No! It is now Hell Yes to zoning.
 
-The irony of zoning can be best explained by [the recent lawsuit filed by RSA](https://lagniappemobile.com/rsa-sues-baldwin-county-over-point-clear-planning-district/), Retired Systems of Alabama, over the new district 19, Point Clear. RSA is a development bully, they use the excuse of being the representative of retired Alabamians, to abuse the same constituents. The zoning district 19 was formed BECAUSE OF RSA. RSA was making development proposals that were contrary to the community’s wishes. [RSA destroyed the marine gas station at the Grand](https://rippreport.com/p/rsa--no-gas-for-point-clear-or-tourism/) and also proposed housing on a spit of land surrounded by the golf course. Now the bully developer, RSA, wants to sue the county and discredit the voters who voted for the zoning. Is that a neighbor or a bully?
+The irony of zoning can be best explained by [the recent lawsuit filed by RSA](https://www.lagniappemobile.com/news/rsa-sues-baldwin-county-over-point-clear-planning-district/article_54d5a28c-9a72-5fb1-8b08-c9432d4583a4.html), Retired Systems of Alabama, over the new district 19, Point Clear. RSA is a development bully, they use the excuse of being the representative of retired Alabamians, to abuse the same constituents. The zoning district 19 was formed BECAUSE OF RSA. RSA was making development proposals that were contrary to the community’s wishes. [RSA destroyed the marine gas station at the Grand](https://rippreport.com/p/rsa--no-gas-for-point-clear-or-tourism/) and also proposed housing on a spit of land surrounded by the golf course. Now the bully developer, RSA, wants to sue the county and discredit the voters who voted for the zoning. Is that a neighbor or a bully?
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/rsa-sues-baldwin-county-over-point-clear-planning-district/article_54d5a28c-9a72-5fb1-8b08-c9432d4583a4.html" >}}
 
@@ -153,7 +153,7 @@ All of the above has an effect on the quality of life in Baldwin County.
 
 The Baldwin County planning department is trying to put brakes on a runaway train. Zoning is necessary for any kind of development planning. Without zoning, there can be no brake.
 
-[The County Planning Department needs your help please fill out the questionnaire;](https://www.surveymonkey.com/r/BaldwinOurVision)
+[The County Planning Department needs your help please fill out the questionnaire;](https://www.surveymonkey.com/survey-closed/?sm=mtl3R9A8geWQk_2FWlfNT582h861dSoheTVw9OCcSjuuH_2F_2BcwMziawMUTI7M55LvkpX_2Fiex7xZI2DN_2BqwnlN2MuIbFEoKInZ3gR6jmrb5Bk5k0A4nb7pgwCpx9l7CqO1RR6czXKTdfhhgBHkuGSuI_2BTg_3D_3D)
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D288864423286063%26set%3Da.227735429398963%26type%3D3&amp;show_text=true&amp;width=500" width="500" height="367" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span></iframe>
 

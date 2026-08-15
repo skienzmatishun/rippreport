@@ -87,7 +87,7 @@ LET’S GO TO PARIS. Elliott wants to go to the Paris Air Show, which he has att
 
 “Elliott said as a proponent of economic development, he intends to travel more than legislators have typically done in the past. “
 
-{{< socialpreview url=https://lagniappemobile.com/chris-elliott-explains-negotiations-behind-contentious-local-bill/ >}}
+{{< socialpreview url=https://www.lagniappemobile.com/news/chris-elliott-explains-negotiations-behind-contentious-local-bill/article_b8b07dbc-a608-51cc-9735-005905684233.html >}}
 
 Elliott thinks his travel expenses are more important than, what he calls “pet” projects. Elliott’s travel expenses sounds more like a “pet’ project.
 

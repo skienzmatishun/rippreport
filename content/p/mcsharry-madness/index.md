@@ -102,7 +102,7 @@ The Fairhope City Attorney and Fairhope Municipal Judge should be removed from o
 
 McSharry is pissed that everything was captured on video and now he wants to claim that everyone is against him, and that his attorney’s fees are exorbitant. Here’s a tip McSharry, stop filing dumb ass lawsuits, paying “exorbitant” legal fees, and assaulting women. Another tip would be to acknowledge the video and apologize, all you are doing now is pouring gas on a fire.
 
-https://lagniappemobile.com/mcsharry-seeks-to-hold-christmas-bar-liable-for-lawsuit/
+https://www.lagniappemobile.com/news/local/mcsharry-seeks-to-hold-christmas-bar-liable-for-lawsuit/article_d76c67ee-19b4-5a60-9515-6f4352b3ab4e.html
 
 “In McSharry’s third-party complaint, he alleges that because of LWCC’s conduct, he was directly caused to ‘suffer damages.’ A complete reading of the complaint shows that McSharry was not injured in person, property or means of support. In fact, the only injury that McSharry seems to have sustained is his financial cost of defending himself,” LWCC claims.
 
@@ -110,19 +110,19 @@ https://lagniappemobile.com/mcsharry-seeks-to-hold-christmas-bar-liable-for-laws
 
 McSharry has never apologized and has claimed that the “knocking her of the bar stool, stemmed from an argument, total bullshit. McSharry also claims a settlement had been reached, wrong again a settlement was offered early on and DiNardi declined.
 
-https://lagniappemobile.com/supreme-court-drops-mcsharry-assault-charge-after-prosecutor-fails-to-act/
+https://www.lagniappemobile.com/news/appeals-court-drops-mcsharry-assault-charge-after-prosecutor-fails-to-act/article_04668a01-aa5b-504a-a551-9922ed8ff5f4.html
 
 But when police were called to the Little Whiskey Christmas Club in response to DiNardi’s assault claim, they found McSharry had a “strong odor of alcohol,” “slurred his speech” and was so intoxicated “he couldn’t hardly walk,” according to officers’ testimony. Plus, the surveillance video that captured the attack was shown to the court. Fairhope Municipal Judge Haymes Snedeker found McSharry guilty of both counts and imposed a sentence of 180 days
 
-https://rippreport.com/judicial-trick/
+https://rippreport.com/p/judicial-trick/
 
 Baldwin County Circuit Judge Clark Stankoski, who “requested” to hear the case, dismissed the most serious charge, which is on video, of assault, which McSherry already plead guilty to in municipal court.
 
-https://rippreport.com/bar-stool-continued/
+https://rippreport.com/p/bar-stool-continued/
 
 McSherry’s attorney James Pittman wants to float conspiracy theories and challenge the state’s Shield Law. Pittman is blaming everyone else, except McSherry.
 
-https://rippreport.com/boycott-mcsharrys/
+https://rippreport.com/p/boycott-mcsharrys/
 
 This week the Fauxhope city attorney, Marcus McDowell represented Paula DiNardi in a case that was suppose to be an assault and intoxication charge against Ronan McSharry, owner of McSharry’s bar in Fairhope.
 
@@ -130,7 +130,7 @@ This has been a high profile case and another failure of the city attorney, city
 
 Judge Stankowski, after a one day trial where McSharry was found guilty, rendering a sentence of one year, unsupervised probation, without addressing the assault charge or the fact McSharry had already been sentenced to 6 months in jail and was on probation at the time of the assault on DiNardi.
 
-https://rippreport.com/watering-hole/
+https://rippreport.com/p/watering-hole/
 
 How does a bar owner, continuously break the law and walk?
 

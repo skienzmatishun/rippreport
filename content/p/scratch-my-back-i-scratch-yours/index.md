@@ -104,11 +104,11 @@ Sen Tripp Pittman, the worst elected official in Baldwin County, hands down. BP 
 
 The Fairhope City Council Monday voted to award its conditional disaster debris removal and disposal contract to the lowest responsive and responsible vendor — D&J Enterprises Inc., of Auburn — effectively ending an arrangement the city had since 2012 with State Sen. Trip Pittman, who chose not to seek another term in the Legislature this …
 
-Source: [lagniappemobile.com/fairhope-ends-contract-senate-candidates-company/](http://lagniappemobile.com/fairhope-ends-contract-senate-candidates-company/)
+Source: [lagniappemobile.com/fairhope-ends-contract-senate-candidates-company/](https://www.lagniappemobile.com/news/local/fairhope-ends-contract-with-senate-candidate-s-company/article_615c2b1a-6122-57f6-b1b1-617430b5d4fb.html)
 
 has used his elected office to garner many a contract within Baldwin County. He has no shame:
 
-{{< socialpreview url="https://www.montgomeryadvertiser.com/story/news/politics/southunionstreet/autism-bill-passes-senate-committee-after-large-changes/101514376/" >}}
+{{< socialpreview url="https://www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2017/05/10/autism-bill-passes-senate-committee-after-large-changes/101514376/" >}}
 
 Folks have you ever asked yourself “Who elected these people, how did they get elected?” Well, we the citizens are responsible for that. None of the above is really much of a choice.
 

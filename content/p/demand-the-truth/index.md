@@ -103,7 +103,7 @@ The problem is the Mayor and Senator work in tandem to convince the public that 
 
 A whole community has been lied to for years by their Mayor and State Senator. The Debris removal contracts are controlled by the Federal Emergency Management Agency; the city is responsible for 10% of the contract and the balance paid by state or FEMA funds. The contract can be worth millions. The Senator is using his private business and his position as Senator to secure contracts that personally enrich him and his family. I am including one of the many articles about the most recent contract,
 
-[http://lagniappemobile.com/fairhope-extends-contract-state-senators-company-2/](http://lagniappemobile.com/fairhope-extends-contract-state-senators-company-2/)
+[https://www.lagniappemobile.com/news/local/fairhope-extends-contract-with-state-senator-s-company/article_8ff852ed-62f8-5158-8bdf-9e0b4e2dc1fe.html](https://www.lagniappemobile.com/news/local/fairhope-extends-contract-with-state-senator-s-company/article_8ff852ed-62f8-5158-8bdf-9e0b4e2dc1fe.html)
 
 I will be contacting federal officials and informing them that an Alabama Senator is securing municipal contracts that are predominantly paid for by the Federal Government.
 

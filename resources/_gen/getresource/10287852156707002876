@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a2b4134998a2fc4a-MIA
+Content-Type: application/json
+Date: Sat, 15 Aug 2026 00:27:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oorxuenACP9agGvsKJN5E4uFqeVJtQvgbUgZIuNqA%2FbAi4jZ2ka7cw0atodowkMy5rLNK7Rr40vxn7VXsu8mpAQvp9Z9vySNaf38dNhVv7txPFdBI38TbPj6amkDPvLTLpLmw3Mxa8X9IOcAlLmIyodQxQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=500
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 076a0b8d15a13bf017b1f3f385477965
+X-Etags-2: 076a0b8d15a13bf017b1f3f385477965
+
+{"title":"Baldwin residential growth continues to soar","description":"PHOTO: State and local officials participate in the Dec. 10 groundbreaking on a new manufacturing facility in Bay Minette for Southern Visions, LLP, makers of Sweet Brew tea and lemonade.","url":"https://www.lagniappemobile.com/news/local/baldwin-residential-growth-continues-to-soar/article_6b6f1633-2d0a-5431-b992-2e7f61be58c6.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/8/37/83797329-bb6d-5c3f-b0e9-0f765b480567/630ed890c72e8.image.jpg?crop=1000%2C525%2C0%2C71","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/news/local/baldwin-residential-growth-continues-to-soar/article_6b6f1633-2d0a-5431-b992-2e7f61be58c6.html","wasRedirected":false}

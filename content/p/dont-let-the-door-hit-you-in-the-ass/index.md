@@ -120,7 +120,7 @@ and Joe Faust has not hit a lick at a snake in 10 years, he needs to join Pittma
 
 That Gulf Beach Hotel Pittman is bragging about used BP funds:
 
-{{< socialpreview url="https://www.npr.org/366335282/plan-to-use-gulf-oil-spill-funds-for-beach-hotel-stirs-debate" >}}
+{{< socialpreview url="https://www.npr.org/2014/11/25/366335282/plan-to-use-gulf-oil-spill-funds-for-beach-hotel-stirs-debate" >}}
 
 Rumor is Pittman is going to be the Hotel Manager, it would not surprise me.
 

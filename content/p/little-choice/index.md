@@ -113,7 +113,7 @@ The first three selections are a NO, Pittman is a HELL NO, He is the WORST elect
 
 The Fairhope City Council Monday voted to award its conditional disaster debris removal and disposal contract to the lowest responsive and responsible vendor — D&J Enterprises Inc., of Auburn — effectively ending an arrangement the city had since 2012 with State Sen. Trip Pittman, who chose not to seek another term in the Legislature this …
 
-Source: [lagniappemobile.com/fairhope-ends-contract-senate-candidates-company/](http://lagniappemobile.com/fairhope-ends-contract-senate-candidates-company/)
+Source: [lagniappemobile.com/fairhope-ends-contract-senate-candidates-company/](https://www.lagniappemobile.com/news/local/fairhope-ends-contract-with-senate-candidate-s-company/article_615c2b1a-6122-57f6-b1b1-617430b5d4fb.html)
 
 When it comes to compassion he has none, but he’s a “Christian”.
 
@@ -127,7 +127,7 @@ The only other person who is active in the race on the republican side is Dr. Ra
 
 {{< socialpreview url="https://www.alreporter.com/brinson-asks-governor-call-ethics-commission-meeting/" >}}
 
-[Link No Longer Exists](http://local15tv.com/news/election/candidates/know-your-candidates-randy-brinson)
+[Link No Longer Exists](https://mynbc15.com)
 
 Are you not tired of the same old BS from career politicians or politicians that use their office for personal gain, like Pittman? Well your alternative may be Mr Brinson. He may not be well known and certainly is not a career politician but would be a breath of fresh air compared to the above.
 

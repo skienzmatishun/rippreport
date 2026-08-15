@@ -114,7 +114,7 @@ After Elliott declared he would suffer the “consequences” of running a red l
 
 “Elliott continues to be dogged by his efforts to get special treatment, and that makes him a pretty sketchy choice, in my book.”
 
-[lagniappemobile.com/the-plot-thickens-as-runoffs-approach/](https://lagniappemobile.com/the-plot-thickens-as-runoffs-approach/)
+[lagniappemobile.com/the-plot-thickens-as-runoffs-approach/](https://www.lagniappemobile.com/opinion/columnists/dtt/the-plot-thickens-as-runoffs-approach/article_2388fc81-7f1e-5e59-a052-8197d7193d8b.html)
  
 {{< socialpreview url="https://rippreport.com/catalyst-sold-to-the-highest-bidder/" >}}
 

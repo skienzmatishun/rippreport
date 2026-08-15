@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a2b4134deb6efc4a-MIA
+Content-Type: application/json
+Date: Sat, 15 Aug 2026 00:27:46 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OKZtAB3N8zehOyTit6ggrP%2BTf6%2Bl5jdphM7TqplqPF7RDrewFnltVcerly2ySeBfbEnEMIsMn%2FVMrhjzfFqYqe6yz1OOeDYoje2zRQzGOpTmT4i4sYHnEQXRX6Ea5%2BGKJ1eu2yfdpobEqbl5PrVZX%2B%2FXAw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=572
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 554b75cad539afe54320330ad904b973
+X-Etags-2: 554b75cad539afe54320330ad904b973
+
+{"title":"Fairhope, Spanish Fort eye September referendum on school tax (updated)","description":"Agreeing to a few minor revisions last week, the Spanish Fort Town Council became the second Eastern Shore municipality within a month to send a resolution to the Baldwin County","url":"https://www.lagniappemobile.com/news/fairhope-spanish-fort-eye-september-referendum-on-school-tax-updated/article_62e27e28-0a22-5ef2-bedd-42f93d7d4fd1.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/e/7e/e7ea2df9-499a-58d5-8048-f28b0e51b728/631a196cd16a4.image.jpg?crop=1100%2C578%2C0%2C422","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/news/fairhope-spanish-fort-eye-september-referendum-on-school-tax-updated/article_62e27e28-0a22-5ef2-bedd-42f93d7d4fd1.html","wasRedirected":false}

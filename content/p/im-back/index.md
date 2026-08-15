@@ -125,14 +125,14 @@ The Fairhope Airport Authority announced that Mr Ray Hix, Treasurer, has resigne
 
 FAIRHOPE “CITIZENS CITIZENS CITIZENS” WAKE UP! Mayor Wilson told Jack Burrell, Council President, Airport Authority Board member and liaison to the city, and who also sits on the committee to select…
 
-Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/fairhope-citizens-citizens-citizens/)
+Source: [rippreport.com/2017/01/06/fairhope-citizens-citizens-citizens/](https://rippreport.com/p/fairhope-citizens-citizens-citizens/)
 
 </div>
 Pay attention Fairhope Jack and friends have “confidential” plans for the airport, and you are going to pay for it. Mr. Burrell has fought hard for the Airport Authority to maintain the title to the land, while citizens pay for it. The City of Fairhope pays for it and Fairhope should have the title.
 
 Speaking of paying for it, Citizens paid Mr Burrell’s attorney fees and for the “investigation” of the Ripp Report ethics complaint against Mr. Burrell and Mr. Hix. The citizens are now paying for the pending Federal lawsuit against Mr. Burrell’s abuse of the constitutional rights afforded all citizens. Who authorized the City Attorney to defend Jack Burrell?
 
-https://lagniappemobile.com/lawsuit-alleges-fairhope-council-president-denied-citizens-free-speech/
+https://www.lagniappemobile.com/news/local/lawsuit-alleges-fairhope-council-president-denied-citizen-s-free-speech/article_0e9f0952-4287-5dd2-a569-77bb3e49975d.html
 
 The same City Attorney has also threatened the Mayor of Fairhope with legal action. How can the City Attorney, who is suppose to represent the Council and Mayor threaten the Mayor on behalf of the Council? A City Attorney the Council wanted, from the same ole beleaguered firm who has made a living off the taxes of Fairhope for decades. A City attorney representing the council, not anyone else.
 

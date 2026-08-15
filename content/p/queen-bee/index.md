@@ -109,7 +109,7 @@ Fairhope you made the biggest mistake voters could make, you let the bees eat th
 
 Well Fairhope “I told ya so”, Queen Bee Sullivan is getting her just reward. The three B’s on the council, Boone Brown and Burrell, are making sure Sullivan gets her share of the honey, right out of the hive. Her honey pot reward has been announced even before the Queen Bee has been sworn in.
 
-https://lagniappemobile.com/incoming-fairhope-mayor-to-get-112000-salary-boost/
+https://www.lagniappemobile.com/news/incoming-fairhope-mayor-to-get-112-000-salary-boost/article_35148d63-51da-503c-8b44-a77ea4120d39.html
 
 The queen bee is getting a $112,000 salary boost per year above former Mayor Wilson’s salary.
 

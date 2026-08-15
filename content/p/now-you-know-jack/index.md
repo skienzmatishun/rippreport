@@ -81,7 +81,7 @@ summary: Council President Jack Burrell manipulated municipal bidding processes 
 ---
 Fairhope is at a crossroads and if the community allows Council President Jack Burrell to ban people from speaking during the city council meetings, at public participation, then we have chosen the wrong road.
 
-https://youtu.be/kDUoTFc1gOs?t=3602
+https://www.youtube.com/watch?t=3602&v=kDUoTFc1gOs&feature=youtu.be
 
 Mr Burrell has orchestrated a campaign of obstructing the office of the Mayor from day one. He is complicit with leaking documents and fueling the Courier’s continued assault on the Mayor. He has convince the rest of the council to be in lockstep with his every move. His personal attacks on the Mayor are well documented and his rampage and revenge stem from an Ethics complaint the Mayor was required by law to file.
 

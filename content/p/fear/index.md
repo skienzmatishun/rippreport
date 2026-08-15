@@ -98,7 +98,7 @@ summary: Following up on our recent investigation, corporate elites used fear ta
 
 Mr. Gary Thorson, of Forever Fairhope, a political action committee, is another NO vote.
 
-https://lagniappemobile.com/fairhope-voters-will-decide-on-new-form-of-government/
+https://www.lagniappemobile.com/news/local/fairhope-voters-will-decide-on-new-form-of-government/article_333eacb0-4ada-5408-9a8b-730012c8f21f.html
 
 Gary says that “the whole purpose is to change the whole power structure of the city.”
 

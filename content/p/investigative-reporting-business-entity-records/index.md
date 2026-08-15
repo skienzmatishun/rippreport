@@ -78,7 +78,7 @@ summary: An elected city official concealed his co-ownership of a real estate de
   directly to engineering contractors. Hard corporate evidence exposes the hidden
   financial engine driving local corruption.
 ---
-Source: [http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL](http://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL)
+Source: [https://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL](https://arc-sos.state.al.us/cgi/corpdetail.mbr/detail?corp=420935&page=agent&file=&type=I&place=ALL)
 
 | North Ridge, LLC |
 | --- |

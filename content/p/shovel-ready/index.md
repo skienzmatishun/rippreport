@@ -103,7 +103,7 @@ Mr. Lawson should consider writing fiction, especially when it comes to the mega
 
 “Lawson hopes 2019 will be the year for that “mega” deal for the county’s Mega Site on Interstate 65 near Bay Minette. The site, Lawson said, was a finalist for the Toyota-Mazda complex, which went to Limestone County near Huntsville, and has been in the conversation for several other large projects”.
 
-{{< socialpreview url="https://baldwineda.com/about-us/" >}}
+{{< socialpreview url="https://baldwinalliance.com//about-us/" >}}
 
 “We are truly an alliance in Baldwin County, being funded and supported by our county government, 14 municipalities, 5 Chambers of Commerce, 8 Industrial Development Boards, and over 100 privately owned businesses. We have 17 voting members on our board of directors, of which each of our 5 Chambers of Commerce appoints three members in staggering terms. Additionally, our board consists of two ex-officio members, which are a rotating Mayor and County Commissioner each year.”
 

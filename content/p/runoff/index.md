@@ -110,7 +110,7 @@ This is a very serious race and the citizens of First Congressional District des
 
 Backwoods Media LLC Ad
 
-Source: [rippreport.com/2020/02/28/backwoods-media-ad/](https://rippreport.com/backwoods-media-ad/)
+Source: [rippreport.com/2020/02/28/backwoods-media-ad/](https://rippreport.com/p/backwoods-media-ad/)
 
 </div>
 

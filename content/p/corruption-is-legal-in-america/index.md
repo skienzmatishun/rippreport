@@ -102,7 +102,7 @@ CORRUPTION IS LEGAL IN AMERICA
 
 I had no idea how bad things actually were until I saw one simple graph.
 
-Source: [act.represent.us/sign/the-problem/?source=homepage](http://act.represent.us/sign/the-problem/?source=homepage)
+Source: [act.represent.us/sign/the-problem/?source=homepage](https://represent.us/americas-corruption-problem/?source=homepage)
 </div>
 
 Many times people come up with the problem but no solutions, here is a solution:

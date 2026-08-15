@@ -99,7 +99,7 @@ They were caught like rats in a trap.
 
 A complaint was filed with both BP and the Ethics Commission and resulted in an FBI investigation, Grand jury and subpoena of City records and Pittman's financials. The complaint slowly worked its way to the Alabama Attorney General, where it was later transferred to the Ag's white collar crime division. There it has remained collecting dust. Some have speculated that the recent protracted trial of Speaker of the House Mike Hubbard spared Pittman his day in court.
 
-[Pittman has maintained Fairhope municipal contracts for hurricane emergency debris removal claiming there is no conflict of interest and he has in the past been supported by the previous Mayor and City Council of Fairhope](https://lagniappemobile.com/fairhope-extends-debris-removal-contract-state-senators-company/). What other contracts has he secured in Baldwin County?
+[Pittman has maintained Fairhope municipal contracts for hurricane emergency debris removal claiming there is no conflict of interest and he has in the past been supported by the previous Mayor and City Council of Fairhope](https://www.lagniappemobile.com/news/fairhope-extends-debris-removal-contract-with-state-senator-s-company/article_7e79772e-deb4-50f8-97f6-5a581328eb29.html). What other contracts has he secured in Baldwin County?
 
 You can bet many.
 

@@ -103,7 +103,7 @@ At first I did not understand the logic of Lagniappe as they had hundreds, if no
 
 Then I read this recent article by the Publisher that made things a lot clearer. Lagniappe is worth the price and if you choose not to pay for internet availability, you still have the option of a free weekly paper copy from multiple sites.
 
-{{< socialpreview url=https://lagniappemobile.com/thank-you-for-17-years-of-support/ >}}
+{{< socialpreview url=https://www.lagniappemobile.com/opinion/columnists/dtt/thank-you-for-17-years-of-support/article_798f57e3-994a-5650-9395-92e5169bf357.html >}}
 
 “One of our new challenges has been launching a paywall on our website. It wasn’t a popular decision, but it’s where all newspapers are going and it’s necessary to continue growing and hopefully to do much, much more to inform and entertain this community. Yes, we’ve repeatedly heard from the pissed off, but it’s only 21 cents a day, $1.50 a week. There probably aren’t many places you can walk in and buy a bottle of Diet Coke for $1.50, much less enjoy it as long as you can all of the information available on these electronic pages each week.”
 

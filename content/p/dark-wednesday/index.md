@@ -103,7 +103,7 @@ Covid-19 is no hoax.
 
 Masks and Social Distancing works.
 
-Source: [Link No Longer Exists](https://www.usatoday.com/story/news/health/coronavirus-updates-100-000-deaths-cdc-surface-spread-brazil/5263058002/)
+Source: [Link No Longer Exists](https://www.usatoday.com/story/news/health/2020/05/27/coronavirus-updates-100-000-deaths-cdc-surface-spread-brazil/5263058002/)
 
 Alabama is one of three states who’s Covid-19 cases are up by 50%.
 

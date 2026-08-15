@@ -132,7 +132,7 @@ PLEASE LIKE OUR FACEBOOK PAGE AND FOLLOW USE ON THE DOT COM SITE
 
  
 
-[Sign the Petition](https://chng.it/pv4xJVYLPR)!
+[Sign the Petition](https://www.change.org/p/free-wrongfully-convicted-murray-bubba-lawrence?utm_content=cl_sharecopy_32685858_en-US%3A3&recruiter=974376445&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition&redirect_reason=deprecated-url)!
 
 SHARE SHARE SHARE SHARE SHARE SHARE
 

@@ -82,7 +82,7 @@ Why did a judge suddenly seal a case against the City of Fairhope after details 
 
 The case is a land dispute involving a street where the several major supporters of Mayor Tim Kant live including his Campaign Chairman.
 
-[Could it be because the article revealed that Kant had accepted money from an interested party in the suit, Bobby Faust? And](https://lagniappemobile.com/conditional-settlement-reached-property-lawsuit-involving-baldwin-politicos/) [he had loan documents to prove it?](https://lagniappemobile.com/conditional-settlement-reached-property-lawsuit-involving-baldwin-politicos/)
+[Could it be because the article revealed that Kant had accepted money from an interested party in the suit, Bobby Faust? And](https://www.lagniappemobile.com/news/local/conditional-settlement-reached-in-property-lawsuit-involving-baldwin-politicos/article_a5c74345-2cd5-5294-b2cf-6d6807f02f8b.html) [he had loan documents to prove it?](https://www.lagniappemobile.com/news/local/conditional-settlement-reached-in-property-lawsuit-involving-baldwin-politicos/article_a5c74345-2cd5-5294-b2cf-6d6807f02f8b.html)
 
 **Why would Kant need to borrow money from Bobby Faust?**
 

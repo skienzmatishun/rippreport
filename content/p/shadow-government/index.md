@@ -130,7 +130,7 @@ Thank You.
 
 I disagree about the “department Heads” being included with the misfits. All of the department heads support the Mayor and each has received push back by the Council. The department heads today are far more qualified, experienced and competent, than anytime in Fairhope’s past.
 
-https://lagniappemobile.com/fairhope-police-chief-announces-aug-10-retirement/
+https://www.lagniappemobile.com/news/local/fairhope-police-chief-announces-aug-10-retirement/article_f3a55a7b-4b0f-5c8b-9d7b-0a8b96eca671.html
 
 Let’s not leave out the Catalyst media outlet:
 

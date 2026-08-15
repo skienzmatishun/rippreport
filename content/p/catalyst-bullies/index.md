@@ -130,7 +130,7 @@ The CATALYST city attorney Marcus McDowell is supporting Sullivan and has her si
 
 McDowell also helped out Burrell’s best friend Ronan McSharry by failing, numerous times, to file necessary charges of assault against McSharry. McDowell conveniently allowed the statute of limitations to run out on the assault charge, recorded on video. He then made it a political issue by saying the Mayor should not listen to citizens complaints. McDowell has been a horrible legal representative of the city, he has however made the 3 B’s, who appointed him, and Catalyst proud.
 
-[Link No Longer Exists](https://youtu.be/9-aaK6I4_g4)
+[Link No Longer Exists](https://www.youtube.com/watch?v=9-aaK6I4_g4&feature=youtu.be)
 
 CSB has placed signs all over Fairhope encouraging voters to block vote for all four CATALYST candidates Burrell Boone Brown and Sherry Sullivan.
 

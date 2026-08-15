@@ -121,7 +121,7 @@ BCEDA is funded by:
 
 We are truly an alliance in Baldwin County, being funded and supported by our county government, 14 municipalities, 5 Chambers of Commerce, 8 Industrial Development Boards, and over 100 privately owned businesses. We have 17 voting members on our board of directors, of which each of our 5 Chambers of Commerce appoints three members in staggering terms. Additionally, our board consists of two ex-officio members, which are a rotating Mayor and County Commissioner each year.
 
-https://baldwineda.com/about-us/
+https://baldwinalliance.com//about-us/
 
 Let’s see if the City Council and BCEDA are truthful with the citizens that financially support them and elect them to office.
 

@@ -6,6 +6,7 @@ categories:
 tags:
 - Harry Still
 - Elections
+thumbnail: img/audio-of-bay-minette-attorney-councilman-fight-offers-new-details.jpg
 authors:
 - admin
 related_articles:

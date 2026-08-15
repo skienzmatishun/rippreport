@@ -163,19 +163,19 @@ All the info is online leading to this story, I am shocked nobody uncovered it l
 
 [https://tvnews.vanderbilt.edu/broadcasts/842184](https://tvnews.vanderbilt.edu/broadcasts/842184)
 
-[https://www.cullmantimes.com/archives/riley-visit-to-white-house-awe-inspiring/article\_a86856c0-367e-5f9a-8dbe-6f1f16b48844.html](https://www.cullmantimes.com/archives/riley-visit-to-white-house-awe-inspiring/article_a86856c0-367e-5f9a-8dbe-6f1f16b48844.html)
+[https://www.cullmantimes.com/archives/riley-visit-to-white-house-awe-inspiring/article\_a86856c0-367e-5f9a-8dbe-6f1f16b48844.html](https://cullmantimes.com/2006/03/02/riley-visit-to-white-house-awe-inspiring/)
 
 [http://archive.decaturdaily.com/decaturdaily/news/060222/port.shtml](http://archive.decaturdaily.com/decaturdaily/news/060222/port.shtml)
 
-[https://www.portstrategy.com/news101/world/americas/mobile\_to\_lure\_business\_with\_new\_terminal](https://www.portstrategy.com/news101/world/americas/mobile_to_lure_business_with_new_terminal)
+[https://www.portstrategy.com/news101/world/americas/mobile\_to\_lure\_business\_with\_new\_terminal](https://www.portstrategy.com/mobile-to-lure-business-with-new-terminal/176869.article)
 
 [https://www.rickeystokesnews.com/article.php/alabama-governor-kay-ivey-into-recycling-bob-riley-administration-147837](https://www.rickeystokesnews.com/article.php/alabama-governor-kay-ivey-into-recycling-bob-riley-administration-147837)
 
 [https://whyy.org/articles/uae-based-gulftainer-signs-50-year-lease-for-port-of-wilmington/](https://whyy.org/articles/uae-based-gulftainer-signs-50-year-lease-for-port-of-wilmington/)
 
-[https://www.centerforsecuritypolicy.org/president-trump-just-say-no-to-gulftainer/](https://www.centerforsecuritypolicy.org/2018/04/17/president-trump-just-say-no-to-gulftainer/)
+[https://www.centerforsecuritypolicy.org/president-trump-just-say-no-to-gulftainer/](https://centerforsecuritypolicy.org/president-trump-just-say-no-to-gulftainer/)
 
-[https://www.joc.com/port-news/us-ports/trump-asked-review-gulftainer-lease-delaware-port\_20180412.html](https://www.joc.com/port-news/us-ports/trump-asked-review-gulftainer-lease-delaware-port_20180412.html)
+[https://www.joc.com/port-news/us-ports/trump-asked-review-gulftainer-lease-delaware-port\_20180412.html](https://www.joc.com/article/trump-asked-to-review-gulftainer-lease-of-delaware-port-5209251)
 
 [https://www.breitbart.com/national-security/saddam-hussein-port-canaveral/](https://www.breitbart.com/national-security/2016/11/04/saddam-hussein-port-canaveral/)
 
@@ -187,11 +187,11 @@ All the info is online leading to this story, I am shocked nobody uncovered it l
 
 [https://www.al.com/news/mobile/2018/03/in\_mobile\_transformative\_effor.html](https://www.al.com/news/mobile/2018/03/in_mobile_transformative_effor.html)
 
-[https://www.alabamanews.net/alabama-balks-at-funding-for-restored-coastal-amtrak-service/](https://www.alabamanews.net/2018/06/20/alabama-balks-at-funding-for-restored-coastal-amtrak-service/)
+[https://www.alabamanews.net/alabama-balks-at-funding-for-restored-coastal-amtrak-service/](https://www.waka.com/2018/06/20/alabama-balks-at-funding-for-restored-coastal-amtrak-service/)
 
 [https://www.al.com/news/2019/06/birmingham-and-mobile-ranked-among-the-top-american-cities-of-the-future.html](https://www.al.com/news/2019/06/birmingham-and-mobile-ranked-among-the-top-american-cities-of-the-future.html)
 
-[https://www.thenational.ae/business/gulftainer-subsidiary-wins-50-year-us-port-concession-1.717579](https://www.thenational.ae/business/gulftainer-subsidiary-wins-50-year-us-port-concession-1.717579)
+[https://www.thenationalnews.com/business/gulftainer-subsidiary-wins-50-year-us-port-concession-1.717579](https://www.thenationalnews.com/business/gulftainer-subsidiary-wins-50-year-us-port-concession-1.717579)
 
 [https://www.joc.com/port-news/terminal-operators/gulftainer](https://www.joc.com/port-news/terminal-operators/gulftainer)
 

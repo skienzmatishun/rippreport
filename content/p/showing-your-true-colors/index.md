@@ -89,7 +89,7 @@ The Mayor’s first transition move was his announcement of a Performing Arts Ce
 
 The cost of $35,000 may not be enough, so the Mayor is saying we should be prepared for the price to increase.  Go ahead and remove your taxpayer wallet from your pocket. Once this is completed the Mayor will form a handpicked committee to follow his every order.
 
-Please see related article: [http://thefairhopetimes.blogspot.com/2016/09/performing-arts-facility-consultant.html](http://thefairhopetimes.blogspot.com/2016/09/performing-arts-facility-consultant.html)
+Please see related article: [https://thefairhopetimes.blogspot.com/2016/09/performing-arts-facility-consultant.html](https://thefairhopetimes.blogspot.com/2016/09/performing-arts-facility-consultant.html)
 
 The Mayor does not know anything of a Performing Arts Center. Ironically, Mayor Kant is the reason that a performing arts center was never built. His futile efforts now, in the 11th hour of his 16 year reign, are to establish a legacy by naming the Performing Arts Center the “Timothy Kant Performing Arts Center.” We do hope the Mayor uses removable lettering when he writes his name.
 

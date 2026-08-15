@@ -199,7 +199,7 @@ The first units of the controversial 240-unit 'Retreat at Fairhope Village' apar
 
 According to its website theretreatatfairhopevillage.com, rent ranges from $1060/month for one bedroom to $2085 for three.
 
-The project survived several lawsuits by neighborhood residents in a futile attempt to stop it ... and was a major factor in the 2016 municipal election. (http://thefairhopetimes.blogspot.com/…/judge-reverses-fly-c…)
+The project survived several lawsuits by neighborhood residents in a futile attempt to stop it ... and was a major factor in the 2016 municipal election. (https://thefairhopetimes.blogspot.com/…/judge-reverses-fly-c…)
 
 Additional traffic congestion along U.S. 98 especially at the Parker Road intersection is the main concern now, according to our polling.
 

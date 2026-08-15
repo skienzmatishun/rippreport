@@ -94,7 +94,7 @@ summary: Fairhope Council members blatantly ignored over eight hundred petition 
 ---
 The present Fairhope City Council is going to try and pull every dirty trick they can to derail the Oct. 2nd election. The City Attorney is carrying out the Catalyst Council’s instructions as we speak. The City Attorney is and has been representing the City Council, not the citizens of Fairhope and not the Mayor.
 
-https://lagniappemobile.com/attorney-generals-opinion-fairhope-petition-and-election-are-valid/
+https://www.lagniappemobile.com/news/local/attorney-general-s-opinion-fairhope-petition-and-election-are-valid/article_450beb79-9daa-5ff4-8b87-02f2513b053a.html
 
 Stay tuned for an update later. The Ripp Report has hired an attorney to represent the constituents the council is ignoring and hopes to be able to provide some clarity to the Council’s recent, today’s, actions.
 

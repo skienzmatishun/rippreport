@@ -2,7 +2,7 @@
 title: Bonum Est Faciet 2022
 date: 2022-12-31
 youtube: 90t8w_tSrHk
-thumbnail: img/bonum.jpg
+thumbnail: img/bonum.png
 categories:
 - Backstory Podcast
 authors:

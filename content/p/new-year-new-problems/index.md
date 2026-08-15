@@ -87,7 +87,7 @@ Fairhope entered the new year hoping there would be change and cooperation among
 
 This is no way to run a municipal government. The city council should be encouraging public participation from all it’s citizens. It certainly reflects a lack of leadership when the public is discouraged from participation.
 
-https://youtu.be/kDUoTFc1gOs?t=3602
+https://www.youtube.com/watch?t=3602&v=kDUoTFc1gOs&feature=youtu.be
 
 Fairhope now has a new problem that also can be identified as a lack of leadership. The first city council meeting of the new year had two agenda items that were very important. First was the change of zoning for property on Greeno road.
 

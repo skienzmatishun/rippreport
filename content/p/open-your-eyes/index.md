@@ -100,7 +100,7 @@ The Ripp Report is Independent and we vote for the candidate. We have supported 
 
 A casual observer should be able to understand that Governor Kay Ivey is being “handled” and her refusal to even debate her opposition shows a lack of confidence and leadership. If elected you can be assured that we will have four more years of limbo government.
 
-{{< socialpreview url=https://lagniappemobile.com/the-great-gubernatorial-cyber-debate/ >}}
+{{< socialpreview url=https://www.lagniappemobile.com/opinion/columnists/dtt/the-great-gubernatorial-cyber-debate/article_30b78361-168f-5f77-bfa0-b7f828ee91ad.html >}}
 
 Submitted article:Tuscaloosa Has a Warrior—Walt Maddox, and He’s Ready to Win it All for Alabama In Tuscaloosa, Alabama, there is a rich and storied history. Great things have happened. For the University of Alabama, 17 national championships in football is the lofty standard, if not the pinnacle. Forged on the college gridiron is a special blend of success, born of teamwork, and a fierce commitment to excellence set in motion by the game’s greatest coach, Paul “Bear” Bryant, a simple but talented man who knew football—and human beings, better than anyone. But, it wasn’t always like that.
 

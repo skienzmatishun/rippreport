@@ -100,7 +100,7 @@ Our site, along with our sister site, Baldwin County Baldwin Legal Eagle, makes 
 
 I must admit I am surprised you had such an opportunity to talk about Fly Creek in Washington DC. You said that you have pressured the Corp of Engineers to keep it dredged. I am somewhat confused how a self proclaimed conservative, like yourself, while claiming to fight government waste, would support correcting damage caused by private contractors and land developers.
 
-In a recent Lagniappe article,[http://lagniappemobile.com/fly-creek-protection-remains-concern/](http://lagniappemobile.com/fly-creek-protection-remains-concern/) you mention the damage to fly creek was caused by “historic flooding.”
+In a recent Lagniappe article,[https://www.lagniappemobile.com/news/local/fly-creek-protection-remains-a-concern-for-some/article_feabffd3-3474-582c-8ff9-3834153eb986.html](https://www.lagniappemobile.com/news/local/fly-creek-protection-remains-a-concern-for-some/article_feabffd3-3474-582c-8ff9-3834153eb986.html) you mention the damage to fly creek was caused by “historic flooding.”
 
 No Sir, the damage was caused by the Publix project development, which is abundantly clear to anyone who lives in the area.  You Sir, live in the area. A past lawsuit, photo documentation, violations, a dozen plus news articles, and numerous filed complaints all support the facts.  The cause of the damage is incontrovertible.
 

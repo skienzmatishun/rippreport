@@ -115,7 +115,7 @@ The murder was committed in Baldwin County, Alabama, and the body was disposed o
 
 In the 2200 page trial transcript,
 
-[Court Transcripts](https://1drv.ms/u/s!AjkiMTnxOg5Whs8_OXITUR9ssyxHzw?e=HW1V3s)
+[Court Transcripts](https://onedrive.live.com/?id=560E3AF139312239!108479&resid=560E3AF139312239!108479&e=HW1V3s&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBamtpTVRueE9nNVdoczhfT1hJVFVSOXNzeXhIenc_ZT1IVzFWM3M&cid=560e3af139312239)
 
 the prosecution, defense and police have testimony, to times, dates, individuals and places. An accurate timeline is established throughout the course of the 10 day trial, however no one including the jury, ever attempted to construct a written documented timeline.
 
@@ -147,7 +147,7 @@ The case will also be discussed on the podcast:
 
 We are researching several potential producers that may be interested in a documentary of the case. Our . Com site is:
 
-[https://justiceformurraylawrencejr.com](https://justiceformurraylawrencejr.com/)
+[https://www.justiceformurraylawrencejr.com/](https://www.justiceformurraylawrencejr.com//)
 
 Please sign the petition, 100% of the money donated on the petition page goes towards promoting the petition:
 
@@ -155,7 +155,7 @@ Please sign the petition, 100% of the money donated on the petition page goes to
 
 You can read the entire transcript we welcome comments:
 
-[Court Transcripts](https://1drv.ms/u/s!AjkiMTnxOg5Whs8_OXITUR9ssyxHzw?e=HW1V3s)
+[Court Transcripts](https://onedrive.live.com/?id=560E3AF139312239!108479&resid=560E3AF139312239!108479&e=HW1V3s&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBamtpTVRueE9nNVdoczhfT1hJVFVSOXNzeXhIenc_ZT1IVzFWM3M&cid=560e3af139312239)
 
 July 2026 Update:
 

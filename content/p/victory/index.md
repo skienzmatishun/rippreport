@@ -99,7 +99,7 @@ Never Ever give up. The Ripp Report has been reporting, and going to court, rela
 
 The City Council sided with the developer and the Mayor’s hands were tied because the council rejected her pleas and turned a deaf ear to caution.
 
-https://lagniappemobile.com/judge-halts-work-on-fairhopes-fly-creek-apartment/
+https://www.lagniappemobile.com/news/local/judge-halts-work-on-fairhope-s-fly-creek-apartment-complex/article_8a567560-ed55-5c1a-88e3-fc6290b57f7a.html
 
 This, Victory, is for the citizens of Fairhope and should be a shining example of what citizens, and a damn good attorney, can accomplish when citizens are abandoned by their elected officials.
 

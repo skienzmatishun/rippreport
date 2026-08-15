@@ -80,7 +80,7 @@ summary: Following up on county ethics abuses, Commissioner Dorsey openly ignore
 ---
 To Alabama Ethics Commission Statement of Facts: July 29, 2016
 
-I reference to: [http://lagniappemobile.com/commissioners-ties-to-businesses-raise-questions/](http://lagniappemobile.com/commissioners-ties-to-businesses-raise-questions/), in particular paragraphs 15 and 16. I realize the Commission pays little attention to print media and you rely on your own investigation to reach a determination, or not, as to any violations of Ethics. I do however hope the very good investigative reporting of Eric Mann, Lagniappe, assists you in what appears a rather obvious conclusion.
+I reference to: [https://www.lagniappemobile.com/news/local/commissioner-s-ties-to-businesses-raise-questions/article_bfb8d7bf-bbd1-530f-b375-87f5b6baab5f.html](https://www.lagniappemobile.com/news/local/commissioner-s-ties-to-businesses-raise-questions/article_bfb8d7bf-bbd1-530f-b375-87f5b6baab5f.html), in particular paragraphs 15 and 16. I realize the Commission pays little attention to print media and you rely on your own investigation to reach a determination, or not, as to any violations of Ethics. I do however hope the very good investigative reporting of Eric Mann, Lagniappe, assists you in what appears a rather obvious conclusion.
 
 > “In October 2010, the Alabama Ethics Commission issued an advisory opinion on whether or not Dorsey would be legally able to rule on matters related to BCSS because Burke was his employer.
 > 

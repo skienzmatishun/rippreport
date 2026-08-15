@@ -97,7 +97,7 @@ summary: Continuing our coverage of the government reform vote, political front 
 ---
 I knew I could count on the Lagniappe to produce a comprehensive article about the recent referendum election in Fairhope. Well done.
 
-{{< socialpreview url=https://lagniappemobile.com/fairhope-voters-reject-council-manager-form-of-government/ >}}
+{{< socialpreview url=https://www.lagniappemobile.com/news/fairhope-voters-reject-council-manager-form-of-government/article_3054d9e7-b19f-5e50-836c-1eb6c0266a9a.html >}}
 
 I read the article while I was in Puerto Rico and wondered how many people in Fairhope actually have any understanding of what motivated the no vote. The Ripp Report posted it’s thoughts after the election:
 

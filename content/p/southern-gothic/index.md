@@ -174,7 +174,7 @@ Baldwin County, AL formerly of Ocean Springs, MS
 
 {{< socialpreview url="https://www.pbs.org/video/alabama-public-television-presents-americas-amazon/" >}}
 
-[http://www.encyclopediaofalabama.org/article/h-3026](http://www.encyclopediaofalabama.org/article/h-3026)
+[https://encyclopediaofalabama.org/article/treaty-of-fort-jackson/](https://encyclopediaofalabama.org/article/treaty-of-fort-jackson/)
 
 [http://www.fort-morgan.org/](http://www.fort-morgan.org/)
 

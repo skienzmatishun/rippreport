@@ -143,8 +143,8 @@ PLEASE Contact the owners of the Courier and tell them how their paper is being 
 
 ## VOTE YES VOTE YES VOTE YES VOTE YES
 
-GCN Owners http://www.theitem.com/contact/: graham@theitem.com kyle@theitem.com jack@theitem.com
+GCN Owners https://www.theitem.com/contact/: graham@theitem.com kyle@theitem.com jack@theitem.com
 
-http://theitem.com/about/
+https://www.theitem.com/about/
 
 Vince Johnson Editor and Publisher vince@theitem.com 803-774-1201 36 West Liberty St. Sumter, S.C. 29150

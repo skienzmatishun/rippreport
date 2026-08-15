@@ -98,7 +98,7 @@ summary: Continuing our coverage, Attorney General Steve Marshall handed dirty p
 ---
 The Alabama Attorney General has gone public numerous times saying he was going after white collar crime and political corruption.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It is my highest priority to ensure that those who serve the people of AL do so with the utmost integrity, and I've worked to bring more transparency to government by building on ethics laws. You deserve honest leaders that HELP you. I'm here to make that happen. <a href="https://t.co/cXERUvBqnt">pic.twitter.com/cXERUvBqnt</a></p>— Steve Marshall (@SteveMarshallAL) <a href="https://twitter.com/SteveMarshallAL/status/978674258963345409?ref_src=twsrc%5Etfw">March 27, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It is my highest priority to ensure that those who serve the people of AL do so with the utmost integrity, and I've worked to bring more transparency to government by building on ethics laws. You deserve honest leaders that HELP you. I'm here to make that happen. <a href="https://x.com/SteveMarshallAL/status/978674258963345409">pic.twitter.com/cXERUvBqnt</a></p>— Steve Marshall (@SteveMarshallAL) <a href="https://twitter.com/SteveMarshallAL/status/978674258963345409?ref_src=twsrc%5Etfw">March 27, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This is all campaign talk!
 

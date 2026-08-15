@@ -117,7 +117,7 @@ What Irony is it that Tommy Tuberville is going in the opposite direction of Sab
 
 >“Tuberville was forced out, of Auburn, because he has been frustrating Auburn's fans, powerful boosters, and administration with his machinations for years. And there is more evidence that he was simply losing control of his situation at Auburn: it was filtering down to the players.” He was paid over 5 million to just leave with a 85/40 record.
 
-{{< socialpreview url="https://www.theringer.com/2020/11/3/21547185/tommy-tuberville-alabama-senate-election-campaign" >}}
+{{< socialpreview url="https://www.theringer.com/2020/11/03/politics/tommy-tuberville-alabama-senate-election-campaign" >}}
 
 Take your pick who do you want your kids to emulate.
 

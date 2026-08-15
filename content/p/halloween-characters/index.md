@@ -106,7 +106,7 @@ Pittman is going out the back door with his pockets full of BP money, Davis may 
 
 They all three said the Alabama Accountable Act was the best thing for education since sliced bread. Pittman is not out the door and educators, in his own district, are asking for the repeal of AAA.
 
-https://lagniappemobile.com/local-schools-call-for-repeal-of-alabama-accountability-act/
+https://www.lagniappemobile.com/news/local/local-schools-call-for-repeal-of-alabama-accountability-act/article_02781cc4-7866-51e6-b26c-c560a9472ca4.html
 
 Joe Faust says “We must invest in education” AAA was a bad investment.
 

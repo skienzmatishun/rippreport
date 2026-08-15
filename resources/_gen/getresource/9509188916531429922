@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a2b41349f963fc4a-MIA
+Content-Type: application/json
+Date: Sat, 15 Aug 2026 00:27:45 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=m5mCuHWtCYQbDBhen9iJ5kXKw1rIhNT%2FVDrsE7q7DxUsEm2sniyH8xe6jKqnKhcz4gq25Pk7erlQgCdG9ktJhcuRDOQoS83z2EFov%2FhQY%2FjgUFJQurzhM6drURmjsWNtXNnFiC9tX0aFUM2zwnO22RxkEg%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=251
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e169c0c7747fb4c900ff7fd563f82c64
+X-Etags-2: e169c0c7747fb4c900ff7fd563f82c64
+
+{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/news/fairhope-voters-reject-council-manager-form-of-government/article_3054d9e7-b19f-5e50-836c-1eb6c0266a9a.html","title":"Preview unavailable","description":"Could not fetch preview data"}

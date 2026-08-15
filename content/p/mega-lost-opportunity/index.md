@@ -108,7 +108,7 @@ In 2015, with no sign, no identity, no infrastructure, no rail, no water or powe
 
 The county makes annual payments of $392,790 for the General Obligation Warrant and starting in 2020 it will make annual payments of $762,790. It pays $1,297,508 per year to the oil and gas trust fund.”
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is a very big deal advanced manufacturing in the U.S., for car manufacturing states like Alabama and particularly for Baldwin County’s certified Mega Site. <a href="https://t.co/1YHtClAiIb">https://t.co/1YHtClAiIb</a></p>— Senator Chris Elliott (@SenatorElliott) <a href="https://twitter.com/SenatorElliott/status/1034398036213022720?ref_src=twsrc%5Etfw">August 28, 2018</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is a very big deal advanced manufacturing in the U.S., for car manufacturing states like Alabama and particularly for Baldwin County’s certified Mega Site. <a href="https://www.forbes.com/sites/charleswallace1/2018/08/27/trump-secures-a-trade-deal-with-mexico/#2004cb0e7806">https://www.forbes.com/sites/charleswallace1/2018/08/27/trump-secures-a-trade-deal-with-mexico/#2004cb0e7806</a></p>— Senator Chris Elliott (@SenatorElliott) <a href="https://twitter.com/SenatorElliott/status/1034398036213022720?ref_src=twsrc%5Etfw">August 28, 2018</a></blockquote>
 
 One thing that has been consistent is the flow of false and misleading information from the Baldwin County Economic Development Alliance. President and CEO of BCEDA, Lee Lawson who has claimed the site was “shovel ready” for years when in fact the site did not even have a sign, or gate, for years.
 

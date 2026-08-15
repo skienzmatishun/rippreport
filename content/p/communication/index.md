@@ -115,7 +115,7 @@ The Council President and the City Attorney cannot direct employees nor interfer
 
 Do ya want to know why people do not go to the Council meetings? Just watch this 39 minute circus. Keep in mind this discussion about the equipment began in Oct. 2018.
 
-https://youtu.be/Pr0YLTTHDaM?t=2340
+https://www.youtube.com/watch?t=2340&v=Pr0YLTTHDaM&feature=youtu.be
 
 COMMUNICATION or shall we say lack there of, should be the topic of conversation. Captain Jack and the City Attorney Marcus McDowell start rambling about everything but the issue, a total lack of communication.
 

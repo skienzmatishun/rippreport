@@ -96,7 +96,7 @@ summary: State and local leaders failed the public by delaying critical health o
 ---
 Stay home. Since the report below was posted, in less than 12 hours, the number of cases has risen by 136 cases and deaths are at 36.
 
-{{< socialpreview url="https://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html" >}}
+{{< socialpreview url="https://www.alabamapublichealth.gov/404page.html" >}}
 
 The Governor has resisted giving the statewide order for “stay at home” or “Shelter in Place”. Her foolish decision is based on the people pulling her strings.
 

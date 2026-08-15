@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a2b4133f5d42fc4a-MIA
+Content-Type: application/json
+Date: Sat, 15 Aug 2026 00:27:44 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XuKRT5vpPL9ePEnn9iPPmb0jfQ3M6dtPCTZ9CmvXlHTgwdU6gEdG9EhSW9VLL2FyZQsXFIhPJsyMvBoRfAxSV7T%2FFFCW4MipoeSW0iXg6BpjDuUYNvR0k8iyfk6LPpM%2B8k5k%2FHUBxJl0rv7UVpdvzh0V3Q%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=359
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 2a39948071c37df89c2ddb1723a38e87
+X-Etags-2: 2a39948071c37df89c2ddb1723a38e87
+
+{"error":"Upstream returned 520","url":"https://www.npr.org/2014/11/25/366335282/plan-to-use-gulf-oil-spill-funds-for-beach-hotel-stirs-debate","title":"Preview unavailable","description":"Could not fetch preview data"}

@@ -116,7 +116,7 @@ The Ripp Report has obtained thousands of documents, over the last 12 years, thr
 
 The second part of Chuckee’s award had to do with your Constitutional Right of Free Speech.
 
-https://lagniappemobile.com/lawsuit-alleges-fairhope-council-president-denied-citizens-free-speech/
+https://www.lagniappemobile.com/news/local/lawsuit-alleges-fairhope-council-president-denied-citizen-s-free-speech/article_0e9f0952-4287-5dd2-a569-77bb3e49975d.html
 
 The Fairhope Courier was a fixture in Fairhope, part of the city’s history, when it was sold to tabloid news and moved from Fairhope, it became simply The Courier. Chuckee is a disgrace to journalism and the Alabama Press Association needs to vet it’s awards more closely.
 

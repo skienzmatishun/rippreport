@@ -134,7 +134,7 @@ Pay attention to the track record of the 3 B’s and you will realize this is an
 
 The Catalyst Council wishes to silence anyone who questions their actions.
 
-https://lagniappemobile.com/lawsuit-alleges-fairhope-council-president-denied-citizens-free-speech/
+https://www.lagniappemobile.com/news/local/lawsuit-alleges-fairhope-council-president-denied-citizen-s-free-speech/article_0e9f0952-4287-5dd2-a569-77bb3e49975d.html
 
 “Ripp has filed a suit in the United States District Court, Southern District, alleging Burrell denied him his First Amendment rights to free speech and his 14th Amendment rights to due process and equal protection under the law.”
 

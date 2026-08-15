@@ -114,7 +114,7 @@ Mr Elliott is for the gas tax which is a horse of another color. The Senator is 
 
 State Sen. Chris Elliott is sponsoring a bill to amend a 43-year-old law extending municipal police and planning jurisdictions beyond city corporate limits. Currently, police jurisdictions of municipalities with more than 6,000 people extend for three miles beyond their corporate limits while the police jurisdictions of municipalities with fewer than 6,000 people extend for one …
 
-Source: [lagniappemobile.com/elliott-introduces-bill-to-roll-back-extraterritorial-jurisdictions/](https://lagniappemobile.com/elliott-introduces-bill-to-roll-back-extraterritorial-jurisdictions/)
+Source: [lagniappemobile.com/elliott-introduces-bill-to-roll-back-extraterritorial-jurisdictions/](https://www.lagniappemobile.com/news/local/elliott-introduces-bill-to-roll-back-extraterritorial-jurisdictions-updated/article_f56d62c5-3947-508f-b715-de5e4a9acc5e.html)
 
 In Fairhope, Mayor Wilson is in favor of Elliott’s proposal. Of course the City Council President Jack Burrell is against the idea and wants the rest of the council to join in his opposition. Opposition and obstruction have been the two mainstays of present Catalyst council who has not achieved anything, but obstruction. Regardless of the issue, if the Mayor is for it, then the Catalyst Council is against it.
 
@@ -126,7 +126,7 @@ In Fairhope, Mayor Wilson is in favor of Elliott’s proposal. Of course the Cit
 
 Can you hear me now! How many times in the last 18 months has the Mayor of Fairhope gone on record, with the City Council, about the lack of communication between the Mayor’s office and the City…
 
-Source: [rippreport.com/2019/02/06/communication/](https://rippreport.com/communication/)
+Source: [rippreport.com/2019/02/06/communication/](https://rippreport.com/p/communication/)
 
 </div>
 We are one of three states that allows this taxation without representation to exist. Captain Jack knows the good ole boys do not want to see any annexation, mainly because they know they would be voted out of office.
@@ -139,7 +139,7 @@ You want city services? Then you need to be in the City limits? Then you can vot
 
 Editor: Just before the Revolutionary War and largely in response to the Stamp Act imposed by the British on the colonies in America, James Otis proclaimed “Taxation without representation is tyranny.” Today, Alabama is one of only three states that permits municipalities to impose police, planning, and other exterritorial jurisdictions in areas well outside of …
 
-Source: [lagniappemobile.com/taxation-without-representation/](https://lagniappemobile.com/taxation-without-representation/)
+Source: [lagniappemobile.com/taxation-without-representation/](https://www.lagniappemobile.com/opinion/letters_to_editor/taxation-without-representation/article_e3b486e6-d8b0-5fd7-9b88-4b95fdd20b71.html)
 
 Senator Elliott should consider legislation that would bring the Grand Hotel into the City Limits of Fairhope. Wal-Mart was legislatively brought into the city after Mayor Can’t realized Fairhope was losing a million a year in taxes. This was after many years of losing many millions.
 

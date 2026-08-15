@@ -138,7 +138,7 @@ How can the Fairhope Authority engage Mr. Bailey, as he truly has a major confli
 
 The Ethics Commission was contacted by a Fairhope resident who inquired about the lease’s in question. The Resident had every expectation of confidentiality, however later learned their information was shared by the Ethics Commission and Mr Dennis Bailey ESQ. The same Mr. Bailey hired by the Fairhope Airport Authority to quash any investigation involving his client or clients.
 
-Feb. 3 2016 Ethics Advisory Opinion: [http://ethics.alabama.gov/docs/pdf/AO2016-04.pdf.pdf](http://ethics.alabama.gov/docs/pdf/AO2016-04.pdf.pdf) “A copy of any contract/lease agreement entered into between the Board member and the Airport authority must be filed with the Alabama Ethics Commission within 10 days of it’s having been entered into.” Entered into would be signed and notarized which happened Dec 17th 2016. [https://rippreport.com/p/whos-on-first/](https://rippreport.com/p/whos-on-first/)
+Feb. 3 2016 Ethics Advisory Opinion: [https://ethics.alabama.gov/docs/pdf/AO2016-04.pdf.pdf](https://ethics.alabama.gov/docs/pdf/AO2016-04.pdf.pdf) “A copy of any contract/lease agreement entered into between the Board member and the Airport authority must be filed with the Alabama Ethics Commission within 10 days of it’s having been entered into.” Entered into would be signed and notarized which happened Dec 17th 2016. [https://rippreport.com/p/whos-on-first/](https://rippreport.com/p/whos-on-first/)
 
 Feb. 8th 2016 EXHIBIT C was submitted to the Ethics Commission, that lease is dated Dec.21st and is different than the recorded lease Dec.17th
 

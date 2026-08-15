@@ -120,7 +120,7 @@ Prepare yourself for what may be the most financially stressful time of your lif
 
 A covid-19 economic injury disaster loan for $10,000.00 is available through the Small Business Administration.
 
-{{< socialpreview url="https://www.sba.gov/funding-programs/disaster-assistance" >}}
+{{< socialpreview url="https://www.sba.gov/disaster/" >}}
 
 A very informative article, covering many options is:
 

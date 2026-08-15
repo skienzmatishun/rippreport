@@ -157,7 +157,7 @@ Pay attention. The 1% who use the airport are the ones creating the issues that 
 
 The Ripp Report knows more about this story, however we are going to wait and see how deep Jack digs a hole for himself, and the taxpayers.
 
-Remember when Jack was on his soapbox screaming about NO TOLLS on the proposed Bay Bridge and how it could be built without federal government money? [He now is on his knees begging](https://www.alreporter.com/eastern-shore-mobile-mpos-announce-aldot-support-of-i-10-bridge-and-bayway-framework/) the federal government for money and has become an advocate FOR TOLLS.
+Remember when Jack was on his soapbox screaming about NO TOLLS on the proposed Bay Bridge and how it could be built without federal government money? [He now is on his knees begging](https://www.alreporter.com/2022/01/11/eastern-shore-mobile-mpos-announce-aldot-support-of-i-10-bridge-and-bayway-framework/) the federal government for money and has become an advocate FOR TOLLS.
 
 Jack claims to be a rocket scientist and some actually believe him. The only rockets Jack knows anything about are Lego’s.
 

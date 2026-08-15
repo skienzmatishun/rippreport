@@ -89,7 +89,7 @@ summary: Council President Jack Burrell approved an undocumented thousands-dolla
 ---
 The Baldwin County Mega-Site and the Fairhope Airport Authority have a lot in common. They both are all smoke and mirrors. The Representative of each will give all kinds of useless data and tell you how Baldwin is the fastest growing county in Alabama and opportunity is right around the corner.
 
-In the case of the Mega-Site, Baldwins 3000 acres, that cost 32 million, [http://www.lagniappemobile.com/south-alabama-mega-site-remains-vacant-despite-development-coups/](http://www.lagniappemobile.com/south-alabama-mega-site-remains-vacant-despite-development-coups/) five years have gone by with the same sales pitch— just no buyers.
+In the case of the Mega-Site, Baldwins 3000 acres, that cost 32 million, [https://www.lagniappemobile.com/news/local/south-alabama-mega-site-remains-vacant-despite-other-development-coups/article_216deb2c-0da1-5f91-9361-8c4ec89de95f.html](https://www.lagniappemobile.com/news/local/south-alabama-mega-site-remains-vacant-despite-other-development-coups/article_216deb2c-0da1-5f91-9361-8c4ec89de95f.html) five years have gone by with the same sales pitch— just no buyers.
 
 Many county salaries contributed to this must have project at the time. Take into consideration lost opportunity and interest on the 32 million and you would easily top 50 million tied up in vacant land. The county commission and Economic Development Alliance are still waiting on the phone to ring from that buyer with 350 Million. In the mean time we here the same song and dance that never produces hard sales statistics only promises and projections and how everything is confidential. Confidential from who? Us the taxpayers that financed the 32 million?
 
@@ -99,7 +99,7 @@ Please remember the County Commission just skimmed 5 Million from schools with t
 
 Fairhope Airport Authority takes the cake. Smoke, mirrors and enough BS to fill a 100 barns. We, the citizens, assume the Airport debt, which is 21% of the city’s debt, pay the mortgage, through appropriation, and the Authority gets to keep control and ownership of the land under the Airport Authority. If you as a private citizen file legitimate complaints against any of the board of the Authority then they will hire attorneys to “investigate” you and try and determine your motives for filing complaints. Oh, and by the way, they, the “Authority”, will pay the attorneys with tax dollars. Please wrap your head around that. You are paying for the defense of the board members accused of wrongdoing in order to discredit the whistle blower! It is all a smokescreen intended to divert your attention and to intimidate any one who may challenge their “Authority”.
 
-[http://www.lagniappemobile.com/controversy-fairhope-escalates-mayor-council-airport-authority/](http://www.lagniappemobile.com/controversy-fairhope-escalates-mayor-council-airport-authority/)
+[https://www.lagniappemobile.com/news/local/controversy-in-fairhope-escalates-for-mayor-council-airport-authority/article_8432444f-8f8e-5b7d-9b88-9c32f4bb5714.html](https://www.lagniappemobile.com/news/local/controversy-in-fairhope-escalates-for-mayor-council-airport-authority/article_8432444f-8f8e-5b7d-9b88-9c32f4bb5714.html)
 
 It sure as hell is not intimidating the Ripp Report. It only encourages us that we are knocking on the door of corruption and we will continue knocking.
 

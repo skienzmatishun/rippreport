@@ -119,7 +119,7 @@ Murray could not conceive of actually going to jail, because knew he was innocen
 
 It is a twisted tale of greed, violence, and treachery – one you will never forget. 
 
-Please check out <a href=https://justiceformurraylawrencejr.com>justiceformurraylawrencejr.com</a> for the FULL STORY. Please DONATE to our <a href="https://spot.fund/7p2k2se">fundraiser</a>, sign the <a href=https://chng.it/pv4xJVYLPR>PETITION</a>, and then stay tuned to <a href=https://rippreport.com>The Ripp Report</a> for further developments – as we, the social justice advocates for Murray “Bubba” Lawrence, Jr. continue to pursue his vindication and exoneration. 
+Please check out <a href=https://www.justiceformurraylawrencejr.com/>justiceformurraylawrencejr.com</a> for the FULL STORY. Please DONATE to our <a href="https://www.spotfund.com/story/f2814173-6d70-4515-9b20-1a6900b30f97?referral_id=94db72e9-2b46-4eb6-8b0e-e2bf126523f7&source=s&share_location=e&SFID=7p2k2se">fundraiser</a>, sign the <a href=https://www.change.org/p/free-wrongfully-convicted-murray-bubba-lawrence?utm_content=cl_sharecopy_32685858_en-US%3A3&recruiter=974376445&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition&redirect_reason=deprecated-url>PETITION</a>, and then stay tuned to <a href=https://rippreport.com>The Ripp Report</a> for further developments – as we, the social justice advocates for Murray “Bubba” Lawrence, Jr. continue to pursue his vindication and exoneration. 
 
 July 2026 Update:
 

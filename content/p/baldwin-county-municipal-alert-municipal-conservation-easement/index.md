@@ -108,17 +108,17 @@ Political corruption is an accurate description of what is happening in Fairhope
 looks like and who the players are.
 
 {{< socialpreview url=https://rippreport.com/freaky-friday-fraud/ >}}
-{{< socialpreview url=https://rippreport.com/recuse-yourself/ >}}
+{{< socialpreview url=https://rippreport.com/p/recuse-yourself/ >}}
 
 Councilman Boone and Burrell stuck Fairhope citizens with wetlands while letting the developer off the hook. This dirty trick was at the last council meeting of the Can’t term and was the last item on the agenda. AGAIN they favor the developer over the community and hid the facts from the public.
 
-{{< socialpreview url=https://rippreport.com/re-gift-gift >}}
+{{< socialpreview url=https://rippreport.com/p/re-gift-gift/ >}}
 
-{{< socialpreview url=https://rippreport.com/going-down-with-the-ship/ >}}
+{{< socialpreview url=https://rippreport.com/p/going-down-with-the-ship/ >}}
 
 {{< socialpreview url=https://rippreport.com/fairhope-un-armed-robbery/ >}}
 
-{{< socialpreview url=https://rippreport.com/triangle-part-2-public-driven-vision/ >}}
+{{< socialpreview url=https://rippreport.com/p/triangle-part-2-public-driven-vision/ >}}
 
 ## PLEASE SUPPORT MAYOR WILSON, CITIZEN RIGHTS, OUR QUALITY OF LIFE AND FAIRHOPE’S MOST VALUABLE ASSET, OUR LAND
 

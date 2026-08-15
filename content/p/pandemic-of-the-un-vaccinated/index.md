@@ -94,7 +94,7 @@ summary: Fairhope politicians played dirty games with public health safety while
 ---
 Fairhope City Council and the Mayor are giving away money like green stamps. They scream and yell about taking federal money for anything, but when it is available they cash the check. Hypocrites does not even come close to describing Fairhope’s present government.
 
-https://rippreport.com/fairhope-council-asleep-at-the-wheel/
+https://rippreport.com/p/fairhope-council-asleep-at-the-wheel/
 
 Remember the 2020 Arts and Craft show, where the city council and then candidate Sherry Sullivan, made Covid a political issue? They wanted to “TAKE A CHANCE” with the communities health and proceed with the scheduled Arts and Craft Show. They pushed the mask debate, defending everyone’s right to do what ever the hell they wanted. How about the Christmas parade, where Mayor Sullivan turned a bind eye to masks, health experts, and the Covid Pandemic.
 
@@ -104,7 +104,7 @@ This scenario is the last thing I’d want for our City. However, as the City’
 
 That was leadership then. Now we have no leadership.
 
-https://lagniappemobile.com/city-of-fairhope-approves-vaccine-incentive-for-employees/
+https://www.lagniappemobile.com/news/city-of-fairhope-approves-vaccine-incentive-for-employees/article_decc074d-5606-57d5-80b6-68215f887ad6.html
 
 Now it is a different story, the feds have sent Fairhope some money so they will eat their hat and cash the check. NOW the mayor and council see the problem with Covid because Now Fairhope has employees that are sick or not vaccinated. Now we have a pandemic of the UN-vaccinated created by our own lack of leadership and ignorance.
 

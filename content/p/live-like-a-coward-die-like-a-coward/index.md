@@ -116,7 +116,7 @@ I witnessed dozens of people arrested over the years by U.S. authorities and oth
 
 McAfee was running from a wrongful death lawsuit in the U.S. He picked Belize as a new home to avoid any accountability for the wrongful death charge in Arizona.
 
-{{< socialpreview url="https://www.dailymail.co.uk/news/article-2247689/Now-John-McAfee-faces-5m-lawsuit-death-businessman-Arizona-dramatic-escape-U-S.html" >}}
+{{< socialpreview url="https://www.dailymail.com/news/article-2247689/Now-John-McAfee-faces-5m-lawsuit-death-businessman-Arizona-dramatic-escape-U-S.html" >}}
 
 My best friend and sometimes business partner is Tom Mangar. Tom lived on the mainland in Belize City. Mariah Reef Resort was the location of the dive resort my family established in 1979 on the island of Ambergris Caye in San Pedro.
 

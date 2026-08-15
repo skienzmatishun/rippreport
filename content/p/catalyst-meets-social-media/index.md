@@ -124,7 +124,7 @@ Don’t forget about that Million dollar swimming pool, The Mayor and planning a
 
 GULF SHORES
 
-https://lagniappemobile.com/gulf-shores-residents-rally-against-apartment-complex/
+https://www.lagniappemobile.com/news/local/gulf-shores-residents-rally-against-apartment-complex/article_4ef06c63-a5f3-5376-b772-d688d12030f1.html
 
 Mayor Craft and staff are getting push back from citizens of the community for a planned apartment complex in the middle of single family homes condo’s and townhouses. Sound familiar? Like maybe the Fairhope apartments that have had three lawsuits, brought by citizens, and one lawsuit pending. Let’s not forget Fairhope’s Mayor and three council members also bit the dust. Why! Because the City of Fairhope stood behind the developer and not it’s citizens. It has cost the city hundreds of thousands of dollars in attorney fees, and it is still climbing.
 
@@ -132,7 +132,7 @@ The Gulf Shores apartments have the same talking points as did the Fairhope apar
 
 ORANGE BEACH is still reeling over Jeff, Judas, Boyd and Tony, King, Kennon, with the assistance of Gulf Shores Mayor Craft, throwing their support to Elliott. But what the hell, they want those bridges and more development, that Elliott will support, plus the 12% gas tax. Let’s say two more bridges are built, do you really believe that is going to REDUCE traffic? Your on an island!
 
-https://lagniappemobile.com/money-moving-in-land-acquisitions-for-road-bridge-project/
+https://www.lagniappemobile.com/news/local/money-moving-in-land-acquisitions-for-road-bridge-project/article_a4798bff-1749-59d4-8649-89943469a139.html
 
 Another tip the Rippster was that the District Attorney for Baldwin County discouraged Harry D Olive, from running for Probate Judge. The DA said they already had a man running, Lynn Perry. They, being Catalyst. Harry was not intimidated and pushed back. Perry lost, Harry won and now the DA has confirmed his Catalyst standing. That should not be surprising since the DA was placed into office by Catalyst and needed not one vote of the public. It will be interesting to see if Baldwin County’s DA investigates any allegations Catalyst members submit.
 

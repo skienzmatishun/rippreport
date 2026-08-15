@@ -129,11 +129,11 @@ The below information is that of the Ripp Report and Mr. Gibbens was not consult
 
 Mr Gibbens opponent is Robert Brown. Councilman Brown has done very well as a city councilman. He has used his office for personal gain. He fully supported the Fly Creek Apartments and his mentor Developer Angelo Corte.
 
-https://rippreport.com/fairness/
+https://rippreport.com/p/fairness/
 
 Brown sided with the developer and his mentor. He ignored his constituents and proceeded to use his office for personal gain.
 
-https://rippreport.com/fairhope-jester-and-fly-creek/
+https://rippreport.com/p/fairhope-jester-and-fly-creek/
 
 Mr Brown presently has an Ethics complaint and Attorney General complaint filed against him for contracts, closely related to the city, that benefited him personally.
 
@@ -141,7 +141,7 @@ Mr Brown presently has an Ethics complaint and Attorney General complaint filed 
 
 Brown was involved with the Recreation land purchase, without public participation, to the tune of 2.65 million. He is in favor of giving up control of the triangle property to a conservation easement, a taxpayer cost of 11.25 million. He was willing to “take a chance” on the Arts and Craft Show and is a naysayer of covid.
 
-https://rippreport.com/fairhope-jester/
+https://rippreport.com/p/fairhope-jester/
 
 The Ripp Report ‘s long range prediction is that if Mr. Brown loses the council race, he may escape complaint charges. If Mr Brown wins he will face the music of the complaints sooner or later.
 

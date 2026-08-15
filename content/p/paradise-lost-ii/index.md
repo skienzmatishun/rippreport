@@ -108,7 +108,7 @@ Baldwin County – Alabama's Fastest-Growing Coastal Community
 
 ![](https://cdn.rippreport.com/wp-content/uploads/2020/06/top-baldwin.png)
 
-Source: [https://www.fox10tv.com/news/baldwin-has-four-of-alabama-s-eight-fastest-growing-cities/article\_a63ce4b0-7cc0-11e9-b13c-275876541b9e.html](https://www.fox10tv.com/news/baldwin-has-four-of-alabama-s-eight-fastest-growing-cities/article_a63ce4b0-7cc0-11e9-b13c-275876541b9e.html)
+Source: [https://www.fox10tv.com/news/baldwin-has-four-of-alabama-s-eight-fastest-growing-cities/article\_a63ce4b0-7cc0-11e9-b13c-275876541b9e.html](https://www.fox10tv.com/news/)
 
 A perceived quality of life conducive to raising a family and/or retiring is doubly attractive, as it is what most young and old people want. However, it is not what most people can afford—and that's the rub. Developers, bankers, real estate investors and brokers make money off of a booming housing industry—particularly one fueled by the retiring Midwestern baby boomer generation bent on lower taxes and snow-free winters. Little foresight is given, however, by these vast, relocating herds, to the level of professional growth management, land use planning and zoning provided by Deep South local and county governments. But in their defense—when you're fleeing the unforgiving taxing capacities and service delivery failures of Chicago, Detroit or Minneapolis, lower taxes and snow-free winters are an admitted sizable improvement over the dismal status quo.
 
@@ -128,7 +128,7 @@ Chris Warner is a concerned citizen, speaker, author and publisher. A former pro
 
 Visit his web page: [chriswarnerauthor.com](https://chriswarnerauthor.com)
 
-[https://rippreport.com/paradise-lost/](https://rippreport.com/2018/06/07/paradise-lost/)
+[https://rippreport.com/paradise-lost/](https://rippreport.com/p/paradise-lost/)
 
 This article was published June 7 2018, This was the original article.
 

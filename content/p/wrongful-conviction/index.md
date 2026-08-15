@@ -121,7 +121,7 @@ On the other hand, Neily said there are departments that “play games” when d
 
 WRONGFUL CONVICTION
 
-[Justice For Murray Lawrence Jr](https://justiceformurraylawrencejr.com/)
+[Justice For Murray Lawrence Jr](https://www.justiceformurraylawrencejr.com/)
 
 Please sign the petition and read all the details.
 
