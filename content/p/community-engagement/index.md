@@ -1,7 +1,7 @@
 ---
 title: COMMUNITY ENGAGEMENT
 date: 2019-03-27
-thumbnail: img/community-engagement.jpg
+thumbnail: img/community-engagement.png
 categories:
 - wonderful-wednesday
 tags:
