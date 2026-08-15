@@ -1,7 +1,7 @@
 ---
 title: 100 VOICES
 date: 2019-04-06
-thumbnail: img/100-voices.jpg
+thumbnail: img/100-voices.png
 categories:
 - citycouncil
 tags:
