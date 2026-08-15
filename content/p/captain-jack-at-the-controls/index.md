@@ -1,7 +1,7 @@
 ---
 title: CAPTAIN JACK AT THE CONTROLS
 date: 2019-03-15
-thumbnail: img/captain-jack-at-the-controls.jpg
+thumbnail: img/captain-jack-at-the-controls.png
 categories:
 - freaky-friday
 tags:

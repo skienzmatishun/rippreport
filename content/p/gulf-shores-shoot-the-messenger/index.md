@@ -1,7 +1,7 @@
 ---
 title: Gulf Shores - SHOOT THE MESSENGER
 date: 2019-02-21
-thumbnail: img/gulf-shores-shoot-the-messenger.jpg
+thumbnail: img/gulf-shores-shoot-the-messenger.png
 categories:
 - wonderful-wednesday
 tags:
@@ -12,7 +12,7 @@ tags:
 - the-regency-club
 authors:
 - ripp-report
-alttags: Silhouette of a person viewed from behind with both arms raised
+alttags: Silhouette of a person with both arms raised
 related_articles:
 - slug: dirty-little-secrets
   title: DIRTY LITTLE SECRETS
