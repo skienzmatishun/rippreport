@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a261c8504912f366-MIA
+Cf-Ray: a2b49d461fbc2c27-MIA
 Content-Type: application/json
-Date: Wed, 05 Aug 2026 00:46:02 GMT
+Date: Sat, 15 Aug 2026 02:01:57 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Idh4aZOGYxzvdEcPPX1K1%2FkzY4BXuDBKZjOyeXvB5TlqVRYIsf7GytUJSbJajr4R%2Fn5USrYJaPBg%2BknIHh5tsSspnJuARjoLwQwIhr3DR7t3LlIyU8NJZuxz8Y1l75jGRHCfN05ZvEQK2dS6EH1LzQiRlA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gsmaB%2FNAljhSkLibm1JfEtprflzcAtQvhhGlTAV9RrsryfTtTAL6mBeJMxaZk0LC4C4bMM42ZP%2FuvPbtEGAZZYzGtAIhT1fq0YH23GyKHGHK44JaalJb9wvpe%2BFk6a5UeMg9%2FlTazVcs9WHKtFHwAy1HBA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=181
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=209
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
 X-Etags-1: 283b2b30a2eea3ddde5f1505da83f073
 X-Etags-2: 283b2b30a2eea3ddde5f1505da83f073
 
-{"title":"Evidence emerges in deadly BCSO shooting of unarmed man","description":"Roughly 30 minutes elapsed between the time the Baldwin County Sheriff’s Office (BCSO) was dispatched to the scene of a single-vehicle traffic accident on eastbound Interstate 10 on May 12,","url":"https://www.lagniappemobile.com/news/new-evidence-emerges-in-deadly-bcso-shooting-of-unarmed-man/article_d84b62b0-b609-5921-ba9b-0ac3cae1b844.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/6/6f/66f92cee-5215-582c-b120-f2487f597937/631a34449e90b.image.jpg?crop=720%2C378%2C0%2C50&resize=720%2C378&order=crop%2Cresize","charset":"utf-8"}
+{"title":"New evidence emerges in deadly BCSO shooting of unarmed man","description":"Roughly 30 minutes elapsed between the time the Baldwin County Sheriff’s Office (BCSO) was dispatched to the scene of a single-vehicle traffic accident on eastbound Interstate 10 on May 12,","url":"https://www.lagniappemobile.com/news/new-evidence-emerges-in-deadly-bcso-shooting-of-unarmed-man/article_d84b62b0-b609-5921-ba9b-0ac3cae1b844.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/6/6f/66f92cee-5215-582c-b120-f2487f597937/631a34449e90b.image.jpg?crop=720%2C378%2C0%2C50&resize=720%2C378&order=crop%2Cresize","charset":"utf-8"}

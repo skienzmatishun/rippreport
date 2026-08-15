@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a2b48b2c5f616c87-MIA
+Content-Type: application/json
+Date: Sat, 15 Aug 2026 01:49:36 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jfmaVVssD0zNSNZiP9f09BjBwtDQoE5ot1CxnYmsYwGknrLNPd1I0TUnSfIHA1X9m57NQ8cbyrdYiDxOFNbcD3Y%2FfOsKj9x4SQqruf6BUhLUoDBM48dAPcWMMN0VRkUukUG4osXZm05rt9Vkl0sslqj84g%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=9,cfOrigin;dur=0,cfWorker;dur=454
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 4ebcddb455d36d8d5dcb9ec303b0b8fe
+X-Etags-2: 4ebcddb455d36d8d5dcb9ec303b0b8fe
+
+{"title":"BOILING FROG","description":"City planners rammed high-density apartment developments through approval without giving residents a chance to speak. Continuing our coverage, internal traffic studies prove officials knew these developments would paralyze key local intersections. Discover how local officials slowly trapped taxpayers in an infrastructure nightmare.","url":"https://rippreport.com/p/boiling-frog/","image":"https://rippreport.com/img/boiling-frog.jpg","charset":"utf-8","originalUrl":"https://rippreport.com/p/boiling-frog/","wasRedirected":false}
