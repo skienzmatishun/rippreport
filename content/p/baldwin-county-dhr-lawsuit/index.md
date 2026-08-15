@@ -108,7 +108,7 @@ They are wicked to the core and harm children.
 
 But there is change in the midst and it's happening now!
 
-There's a federal class action lawsuit forming against DHR with a law firm in Spanish Fort, see more here: {{< socialpreview url="https://www.facebook.com/share/p/16JtQE9UHt/" >}}
+There's a federal class action lawsuit forming against DHR with a law firm in Spanish Fort, see more here: https://www.facebook.com/share/p/16JtQE9UHt/
 
 If you've been harmed by Baldwin County "family" court, DHR and GAL or mediation systems it is definitely time to raise your hand and be heard!
 
@@ -116,11 +116,11 @@ Please like the Page and join the Group. There's much more information within th
 
 Baldwin County Family Court Reform Project - Page
 
-{{< socialpreview url="https://www.facebook.com/familycourtreformproject/" >}}
+https://www.facebook.com/familycourtreformproject/
 
 Baldwin County Family Court Reform Project - Group
 
-{{< socialpreview url="https://www.facebook.com/groups/courtreformproject" >}}
+https://www.facebook.com/groups/courtreformproject
 
 Here's the brief story of what was allowed to happen with my then 13 year old daughter and an 11 year old boy while in the mother's custody and control.
 
