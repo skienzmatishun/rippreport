@@ -1,7 +1,7 @@
 ---
 title: WHOSE AGENDA?
 date: 2019-03-08
-thumbnail: img/whose-agenda.jpg
+thumbnail: img/whose-agenda.png
 categories:
 - freaky-friday
 tags:
