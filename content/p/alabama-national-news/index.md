@@ -1,14 +1,14 @@
 ---
 title: ALABAMA NATIONAL NEWS
 date: 2019-05-15
-thumbnail: img/alabama-national-news.jpg
+thumbnail: img/alabama-national-news.png
 categories:
 - alabama
 tags:
 - alabama
 authors:
 - ripp-report
-alttags: A map of Alabama counties overlaid with a central gold medal featuring red
+alttags: A map of Alabama overlaid with a central gold medal featuring red
   ribbons and the text LAST PLACE
 related_articles:
 - slug: alabama-first-in-political-corruption
