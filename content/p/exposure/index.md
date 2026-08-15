@@ -1,7 +1,7 @@
 ---
 title: EXPOSURE
 date: 2016-11-02
-thumbnail: img/exposure.jpg
+thumbnail: img/exposure.png
 categories:
 - wonderful-wednesday
 tags:

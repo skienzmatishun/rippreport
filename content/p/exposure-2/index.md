@@ -1,7 +1,7 @@
 ---
 title: EXPOSURE
 date: 2019-01-02
-thumbnail: img/exposure-2.jpg
+thumbnail: img/exposure-2.png
 categories:
 - wonderful-wednesday
 authors:
