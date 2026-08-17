@@ -1,258 +1,561 @@
 metadata:
-  generated_at: '2026-08-03T02:32:57.310191Z'
+  generated_at: '2026-08-15T23:38:23.230332Z'
   generator_version: 1.0.0
   post_slug: theyre-screwing-us-alabama-and-telling-us-to-like-it-john-archibald
-  refined_by: gemini
-  refined_at: '2026-08-10T03:08:59.712389Z'
 hooks:
   alabama-ethics-a-political-tool:
-    brief: |-
-      THE CONFLICT
+    brief: 'THE CONFLICT
+
       *   Mike Hubbard was convicted on 12 counts of felony public corruption.
-      *   The Alabama Ethics Commission is attempting to change existing ethics laws, allowing previously illegal actions to become legal.
-      *   The Ethics Commission has failed to hold individuals accountable in Baldwin County despite dozens of filed complaints.
+
+      *   The Alabama Ethics Commission is attempting to change existing ethics laws,
+      allowing previously illegal actions to become legal.
+
+      *   The Ethics Commission has failed to hold individuals accountable in Baldwin
+      County despite dozens of filed complaints.
+
 
       THE DISCOVERY
+
       *   Fairhope officials Jack Burrell and Ray Hix faced ethics complaints.
+
       *   Fairhope Municipal Judge Snedeker’s partner was involved.
-      *   Senator Tripp Pittman used his elected office for personal gain by securing Fairhope municipal contracts while violating ethics rules with impunity, assisted by former Mayor Tim Kant.
-      *   Pittman's complaint was abandoned by the Attorney General's office and ignored an FBI investigation/grand jury.
+
+      *   Senator Tripp Pittman used his elected office for personal gain by securing
+      Fairhope municipal contracts while violating ethics rules with impunity, assisted
+      by former Mayor Tim Kant.
+
+      *   Pittman''s complaint was abandoned by the Attorney General''s office and
+      ignored an FBI investigation/grand jury.
+
 
       THE PIVOT
-      *   Article 2 provides specific, localized evidence (Fairhope officials and Senator Pittman's actions) the Ethics Commission is ineffective and manipulated to shield elected officials from accountability.
-      *   This proves Article 1’s claim that the commission facilitates corruption by showing how politicians manipulate ethics guidelines rather than following them.
+
+      *   Article 2 provides specific, localized evidence (Fairhope officials and
+      Senator Pittman''s actions) the Ethics Commission is ineffective and manipulated
+      to shield elected officials from accountability.
+
+      *   This proves Article 1’s claim that the commission facilitates corruption
+      by showing how politicians manipulate ethics guidelines rather than following
+      them.
+
 
       KEY ENTITIES
+
       *   Mike Hubbard
+
       *   Alabama Ethics Commission
+
       *   Jack Burrell
+
       *   Ray Hix
+
       *   Snedeker
+
       *   Tripp Pittman
+
       *   Tim Kant
-      *   Luther Strange (Attorney General's office)
+
+      *   Luther Strange (Attorney General''s office)
+
       *   FBI investigation
-      *   Fairhope Airport Authority
+
+      *   Fairhope Airport Authority'
     generated_at: '2026-07-11T05:57:49.904418Z'
-    text: State politicians manipulate ethics guidelines to protect their own dirty deals. Senator Tripp Pittman used his public office for private contracts with aid from former Mayor Tim Kant, while the Ethics Commission looked the other way.
+    text: State politicians manipulate ethics guidelines to protect their own dirty
+      deals. Senator Tripp Pittman used his public office for private contracts with
+      aid from former Mayor Tim Kant, while the Ethics Commission looked the other
+      way.
+    character_count: 234
   no-guardrails:
-    brief: |-
-      THE CONFLICT:
-      *   Mike Hubbard (former Speaker of the House) was involved in crafting ethics rules.
-      *   Matt Hart served as Public Corruption Prosecutor for the Alabama Attorney General's Office.
-      *   Hart was removed from his duties while Hubbard's allies were reportedly involved in his removal.
+    brief: 'THE CONFLICT:
+
+      *   Mike Hubbard (former Speaker of the House) was involved in crafting ethics
+      rules.
+
+      *   Matt Hart served as Public Corruption Prosecutor for the Alabama Attorney
+      General''s Office.
+
+      *   Hart was removed from his duties while Hubbard''s allies were reportedly
+      involved in his removal.
+
 
       THE DISCOVERY:
-      *   The Ethics Commission is now seen as a facilitator of corruption within the state.
-      *   The Commission is seeking to change Ethics laws, potentially making current illegal activities legal.
-      *   This institutional pursuit of deregulation is happening in the context of Hubbard's conviction (mentioned generally as a catalyst).
+
+      *   The Ethics Commission is now seen as a facilitator of corruption within
+      the state.
+
+      *   The Commission is seeking to change Ethics laws, potentially making current
+      illegal activities legal.
+
+      *   This institutional pursuit of deregulation is happening in the context of
+      Hubbard''s conviction (mentioned generally as a catalyst).
+
 
       THE PIVOT:
-      *   The combination of Hubbards' influence on the rules and the perceived failure/neutralization of checks like Hart’s office suggests institutional acceptance or enablement of corruption.
-      *   The pursuit of favorable ethics law changes undermines the accountability functions suggested by bodies like the Ethics Commission.
+
+      *   The combination of Hubbards'' influence on the rules and the perceived failure/neutralization
+      of checks like Hart’s office suggests institutional acceptance or enablement
+      of corruption.
+
+      *   The pursuit of favorable ethics law changes undermines the accountability
+      functions suggested by bodies like the Ethics Commission.
+
 
       KEY ENTITIES:
+
       *   Mike Hubbard
+
       *   Matt Hart
+
       *   Alabama Ethics Commission
-      *   Alabama Attorney General's Office
-      *   Love of political corruption / Lack of guardrails
+
+      *   Alabama Attorney General''s Office
+
+      *   Love of political corruption / Lack of guardrails'
     generated_at: '2026-08-03T02:32:57.310659Z'
-    text: The Alabama Ethics Commission wants to rewrite public corruption laws to make crooked behavior legal. Discarding tough prosecutor Matt Hart cleared the path for insiders to dismantle the few remaining guardrails guarding taxpayer dollars.
+    text: The Alabama Ethics Commission wants to rewrite public corruption laws to
+      make crooked behavior legal. Discarding tough prosecutor Matt Hart cleared the
+      path for insiders to dismantle the few remaining guardrails guarding taxpayer
+      dollars.
+    character_count: 238
   alabama-ethics-self-dealing-immunity:
-    brief: |-
-      THE CONFLICT:
-      *   Alabama Ethics Commission facilitates corruption and changes laws to allow illegal actions.
-      *   The Ethics Commission has failed to hold individuals accountable in Baldwin County despite dozens of filed complaints.
-      *   Politicians receive immunity from prosecution for legal graft via Ethics Opinion.
+    brief: 'THE CONFLICT:
+
+      *   Alabama Ethics Commission facilitates corruption and changes laws to allow
+      illegal actions.
+
+      *   The Ethics Commission has failed to hold individuals accountable in Baldwin
+      County despite dozens of filed complaints.
+
+      *   Politicians receive immunity from prosecution for legal graft via Ethics
+      Opinion.
+
 
       THE DISCOVERY:
-      *   The Alabama Ethics Commission Director, Tom Albritton, is skimming a trust for personal gain (self-dealing).
-      *   Albritton’s conduct violates IRS Section 4941(d) by using a trust to pay tuition for his children.
+
+      *   The Alabama Ethics Commission Director, Tom Albritton, is skimming a trust
+      for personal gain (self-dealing).
+
+      *   Albritton’s conduct violates IRS Section 4941(d) by using a trust to pay
+      tuition for his children.
+
       *   Regions Bank received over $1 million managing the fund.
 
+
       THE PIVOT:
-      *   Article 2 proves that the Ethics Commission's guarantee of immunity is hypocritical, as its own Director (Albritton) is engaging in self-dealing and financial misconduct, directly undermining the integrity of the commission it oversees.
-      *   The specific financial details regarding Albritton’s theft ($105,000.00) expose the system failure described in Article 1.
+
+      *   Article 2 proves that the Ethics Commission''s guarantee of immunity is
+      hypocritical, as its own Director (Albritton) is engaging in self-dealing and
+      financial misconduct, directly undermining the integrity of the commission it
+      oversees.
+
+      *   The specific financial details regarding Albritton’s theft ($105,000.00)
+      expose the system failure described in Article 1.
+
 
       KEY ENTITIES:
+
       *   Alabama Ethics Commission
+
       *   Mike Hubbard conviction
+
       *   Baldwin County
+
       *   Senator boom boom Pittman ($750,000.00 skimmed)
+
       *   Jack Burrell
+
       *   Robert Brown
+
       *   Tom Albritton (Director of the State Ethics Commission)
+
       *   Regions Bank
-      *   Fairhope, "Jack Burrell Airport"
+
+      *   Fairhope, "Jack Burrell Airport"'
     generated_at: '2026-07-11T05:57:49.904431Z'
-    text: Baldwin County complaints hit a brick wall while state watchdogs give free passes to dirty politicians. Commission Director Tom Albritton took over $100,000 from a charity trust for his kids' college tuition while promising integrity to the public.
+    text: Baldwin County complaints hit a brick wall while state watchdogs give free
+      passes to dirty politicians. Commission Director Tom Albritton took over $100,000
+      from a charity trust for his kids' college tuition while promising integrity
+      to the public.
+    character_count: 248
   license-to-steal:
-    brief: |-
-      THE CONFLICT:
-      *   Alabama Ethics Commission seeks to expand its role and change ethics laws to allow previously illegal actions to become legal following the Mike Hubbard conviction.
-      *   The Ethics Commission has failed to hold anyone in Baldwin County accountable despite numerous complaints filed over the years.
+    brief: 'THE CONFLICT:
+
+      *   Alabama Ethics Commission seeks to expand its role and change ethics laws
+      to allow previously illegal actions to become legal following the Mike Hubbard
+      conviction.
+
+      *   The Ethics Commission has failed to hold anyone in Baldwin County accountable
+      despite numerous complaints filed over the years.
+
 
       THE DISCOVERY:
-      *   The Alabama Attorney General’s office is implicated, as the Ethics Commission acts with a "license to steal."
-      *   The Ethics Commission Director, Tom Allbritton, is facing questions regarding his actions as a lawyer and director.
-      *   Director Tom Allbritton oversees a private charitable trust that pays over $100,000 for his children’s college tuition.
-      *   Vice-Chair John Plunk is accused of helping a sheriff disguise political money flowing to a Republican campaign consultant.
+
+      *   The Alabama Attorney General’s office is implicated, as the Ethics Commission
+      acts with a "license to steal."
+
+      *   The Ethics Commission Director, Tom Allbritton, is facing questions regarding
+      his actions as a lawyer and director.
+
+      *   Director Tom Allbritton oversees a private charitable trust that pays over
+      $100,000 for his children’s college tuition.
+
+      *   Vice-Chair John Plunk is accused of helping a sheriff disguise political
+      money flowing to a Republican campaign consultant.
+
 
       THE PIVOT:
-      *   Article 2 proves Article 1's assertion that the Ethics Commission is corrupt by pointing out that key leadership figures (Director and Vice Chair) are either under scrutiny or involved in activities (like handling campaign money for consultants) that directly contradict the Commission's stated purpose of policing ethics.
+
+      *   Article 2 proves Article 1''s assertion that the Ethics Commission is corrupt
+      by pointing out that key leadership figures (Director and Vice Chair) are either
+      under scrutiny or involved in activities (like handling campaign money for consultants)
+      that directly contradict the Commission''s stated purpose of policing ethics.
+
 
       KEY ENTITIES:
+
       *   Alabama Ethics Commission
+
       *   Mike Hubbard
+
       *   Tom Allbritton (Ethics Commission Director)
+
       *   John Plunk (Ethics Commission Vice-Chair)
+
       *   Steve Marshall (Alabama Attorney General)
+
       *   Sheriff Mike Blakely
-      *   Baldwin County
+
+      *   Baldwin County'
     generated_at: '2026-07-11T05:57:49.904436Z'
-    text: Public officials treat the Ethics Commission as a license to steal without any fear of punishment. Vice-Chair John Plunk hid political funds for a sheriff while Director Tom Allbritton lined his pockets with private trust money.
+    text: Public officials treat the Ethics Commission as a license to steal without
+      any fear of punishment. Vice-Chair John Plunk hid political funds for a sheriff
+      while Director Tom Allbritton lined his pockets with private trust money.
+    character_count: 228
   self-dealing-self-stealing:
-    brief: |-
-      THE CONFLICT:
+    brief: 'THE CONFLICT:
+
       *   Alabama Ethics Commission role questioned regarding corruption facilitation.
-      *   Allegations of inaction by the Ethics Commission concerning complaints from Baldwin County over the years.
+
+      *   Allegations of inaction by the Ethics Commission concerning complaints from
+      Baldwin County over the years.
+
       *   Mike Hubbard conviction mentioned in context of Ethics Bill needing protection/change.
 
+
       THE DISCOVERY:
-      *   Allegations surfaced regarding financial improprieties involving Greg Albritton (Head/Executive Director of Ethics Commission) and his children receiving scholarship money from a trust Mabel Amos Memorial Fund that he also oversaw.
+
+      *   Allegations surfaced regarding financial improprieties involving Greg Albritton
+      (Head/Executive Director of Ethics Commission) and his children receiving scholarship
+      money from a trust Mabel Amos Memorial Fund that he also oversaw.
+
       *   The Widget Article directly compares this to "self-dealing" and "self-stealing."
 
+
       THE PIVOT:
-      *   Article 2 provides a specific, actionable instance (financial benefit to Albritton's children from the trust) that substantiates the general claims in Article 1 regarding systemic corruption and failure of oversight within the Ethics Commission structure.
+
+      *   Article 2 provides a specific, actionable instance (financial benefit to
+      Albritton''s children from the trust) that substantiates the general claims
+      in Article 1 regarding systemic corruption and failure of oversight within the
+      Ethics Commission structure.
+
 
       KEY ENTITIES:
+
       *   Greg Albritton (Ethics Commissioner/Executive Director)
-      *   Tom Albritton (Ethics Commission Executive Director, mentioned in Widget context)
+
+      *   Tom Albritton (Ethics Commission Executive Director, mentioned in Widget
+      context)
+
       *   Mike Hubbard (Conviction referenced)
+
       *   Mabel Amos Memorial Fund/Trust
+
       *   Francis Paul Ripp (Author)
-      *   Baldwin County
+
+      *   Baldwin County'
     generated_at: '2026-08-03T02:32:57.310691Z'
-    text: Local whistleblowers face a wall of silence whenever they report corrupt politicians. Executive Director Tom Albritton exposed the entire system when he pocketed scholarship cash from the Mabel Amos Trust for his own family.
+    text: Local whistleblowers face a wall of silence whenever they report corrupt
+      politicians. Executive Director Tom Albritton exposed the entire system when
+      he pocketed scholarship cash from the Mabel Amos Trust for his own family.
+    character_count: 224
   top-shelf-corruption:
-    brief: |-
-      **BRIDGE BRIEF**
+    brief: '**BRIDGE BRIEF**
 
-      1. THE CONFLICT: Ethics Commission facilitated corruption; Albritton (Executive Director) received scholarships for his children from a trust he oversaw while in office; McCallum faced transgression regarding which the Commission fined but the Attorney General declined criminal investigation.
-      2. THE DISCOVERY: Tom Albritton was confirmed Executive Director of the Ethics Commission in March 2015; between 2014 and 2018, his children received scholarships totaling $105,000 from the trust he managed.
-      3. THE PIVOT: The pursuit of legislative changes allowing current illegal acts to become legal mirrors the inaction and institutional enablement detailed in the specific financial misconduct involving Albritton's use of the Trust/Commission office.
-      4. KEY ENTITIES: Tom Albritton, Kyle Whitmire, John Archibald, McCallum, Mike Hubbard, Alabama Ethics Commission, Regions Bank.
+
+      1. THE CONFLICT: Ethics Commission facilitated corruption; Albritton (Executive
+      Director) received scholarships for his children from a trust he oversaw while
+      in office; McCallum faced transgression regarding which the Commission fined
+      but the Attorney General declined criminal investigation.
+
+      2. THE DISCOVERY: Tom Albritton was confirmed Executive Director of the Ethics
+      Commission in March 2015; between 2014 and 2018, his children received scholarships
+      totaling $105,000 from the trust he managed.
+
+      3. THE PIVOT: The pursuit of legislative changes allowing current illegal acts
+      to become legal mirrors the inaction and institutional enablement detailed in
+      the specific financial misconduct involving Albritton''s use of the Trust/Commission
+      office.
+
+      4. KEY ENTITIES: Tom Albritton, Kyle Whitmire, John Archibald, McCallum, Mike
+      Hubbard, Alabama Ethics Commission, Regions Bank.'
     generated_at: '2026-08-03T02:32:57.310696Z'
-    text: Insiders now demand new law changes that turn illegal political favors into standard legal business. Ethics Director Tom Albritton proved why they want these changes after taking $105,000 from a private trust while running the watchdog agency.
+    text: Insiders now demand new law changes that turn illegal political favors into
+      standard legal business. Ethics Director Tom Albritton proved why they want
+      these changes after taking $105,000 from a private trust while running the watchdog
+      agency.
+    character_count: 243
   alabama-black-hole:
-    brief: |-
-      THE CONFLICT:
-      *   Complaint filed against Ethics Executive Director Tom Albritton regarding "Self Dealing" activity involving the Mabel Amos Trust.
-      *   Albritton, as trustee, allegedly failed to disclose his role and acceptance of $\$120,000$ in spared family expenses (scholarships) for his children through the trust.
-      *   The pool of funds was generated by oil/gas discovery on Mabel Amos land (potential $\$80$ million+).
-      *   Trustees and Regions Bank are alleged to have altered handling practices (e.g., listing schools instead of students) since 2014, benefiting beneficiaries and trustees including those associated with Albritton.
-      *   Cynthia Raulston (Albritton's associate) defended the practices, citing statute of limitations and suggesting Albritton's filings were acceptable.
-      *   Allegations implicate Albritton’s law partners, including Circuit Judge Ben Bowden, who allegedly received $\$45,000$ for his children's scholarships.
-      *   The initial complaint was made following inaction/cover-up by the Ethics Commission and Alabama Bar regarding past cases.
+    brief: 'THE CONFLICT:
+
+      *   Complaint filed against Ethics Executive Director Tom Albritton regarding
+      "Self Dealing" activity involving the Mabel Amos Trust.
+
+      *   Albritton, as trustee, allegedly failed to disclose his role and acceptance
+      of $\$120,000$ in spared family expenses (scholarships) for his children through
+      the trust.
+
+      *   The pool of funds was generated by oil/gas discovery on Mabel Amos land
+      (potential $\$80$ million+).
+
+      *   Trustees and Regions Bank are alleged to have altered handling practices
+      (e.g., listing schools instead of students) since 2014, benefiting beneficiaries
+      and trustees including those associated with Albritton.
+
+      *   Cynthia Raulston (Albritton''s associate) defended the practices, citing
+      statute of limitations and suggesting Albritton''s filings were acceptable.
+
+      *   Allegations implicate Albritton’s law partners, including Circuit Judge
+      Ben Bowden, who allegedly received $\$45,000$ for his children''s scholarships.
+
+      *   The initial complaint was made following inaction/cover-up by the Ethics
+      Commission and Alabama Bar regarding past cases.
+
 
       THE DISCOVERY:
-      *   The second article (dated August 2022) serves as a direct follow-up complaint detailing the alleged corruption scheme surrounding the Mabel Amos Trust and Albritton's position on the Ethics Commission.
-      *   It details specific instances of potential illegality (e.g., Albritton's failure to disclose his trustee role and accepted expenses) at the time of his appointment.
-      *   It establishes that Albritton was concurrently serving as Ethics Executive Director while facing allegations regarding the Trust mismanagement.
+
+      *   The second article (dated August 2022) serves as a direct follow-up complaint
+      detailing the alleged corruption scheme surrounding the Mabel Amos Trust and
+      Albritton''s position on the Ethics Commission.
+
+      *   It details specific instances of potential illegality (e.g., Albritton''s
+      failure to disclose his trustee role and accepted expenses) at the time of his
+      appointment.
+
+      *   It establishes that Albritton was concurrently serving as Ethics Executive
+      Director while facing allegations regarding the Trust mismanagement.
+
 
       THE PIVOT:
-      *   The second article connects Albritton's official capacity as Ethics Executive Director (2023-03-21 mentioned in metadata) with the pattern of corruption he was allegedly investigating, suggesting hypocrisy or self-preservation concerning his own involvement in the Trust misconduct.
-      *   It provides detailed evidence of financial malfeasance (\$120k, $\$45k$) during the tenure Albritton was involved with the bodies meant to police such behavior.
+
+      *   The second article connects Albritton''s official capacity as Ethics Executive
+      Director (2023-03-21 mentioned in metadata) with the pattern of corruption he
+      was allegedly investigating, suggesting hypocrisy or self-preservation concerning
+      his own involvement in the Trust misconduct.
+
+      *   It provides detailed evidence of financial malfeasance (\$120k, $\$45k$)
+      during the tenure Albritton was involved with the bodies meant to police such
+      behavior.
+
 
       KEY ENTITIES:
+
       *   Tom Albritton (Ethics Executive Director)
+
       *   Cynthia Raulston
+
       *   Mabel Amos
+
       *   Ben Bowden (Circuit Court Judge)
+
       *   Regions Bank
+
       *   Francis Paul Ripp (Compiler/Author of The Ripp Report)
-      *   Clark Morris (Attorney General mentioned in pursuit)
+
+      *   Clark Morris (Attorney General mentioned in pursuit)'
     generated_at: '2026-08-03T02:32:57.310707Z'
-    text: State watchdogs routinely bury complaints to shield corrupt officials from criminal investigation. Ethics Director Tom Albritton ran this cover-up while taking $120,000 from the Mabel Amos Trust for his own kids alongside Circuit Judge Ben Bowden.
+    text: State watchdogs routinely bury complaints to shield corrupt officials from
+      criminal investigation. Ethics Director Tom Albritton ran this cover-up while
+      taking $120,000 from the Mabel Amos Trust for his own kids alongside Circuit
+      Judge Ben Bowden.
+    character_count: 247
   go-to-hell-ethics:
-    brief: |-
-      THE CONFLICT:
-      *   Baldwin County Legislative Delegation secured office space from Mayor Bob Wills’ building.
-      *   Original lease: $4,090/month for the entire ground floor of 125 D’Olive Street (as reported by Lagniappe).
-      *   Revised lease: $1,750/month for two offices, conference rooms, parking lot through December 2027.
-      *   This arrangement occurred despite complaints being filed regarding potential impropriety.
+    brief: 'THE CONFLICT:
+
+      *   Baldwin County Legislative Delegation secured office space from Mayor Bob
+      Wills’ building.
+
+      *   Original lease: $4,090/month for the entire ground floor of 125 D’Olive
+      Street (as reported by Lagniappe).
+
+      *   Revised lease: $1,750/month for two offices, conference rooms, parking lot
+      through December 2027.
+
+      *   This arrangement occurred despite complaints being filed regarding potential
+      impropriety.
+
 
       THE DISCOVERY:
-      *   Brad Hicks, Baldwin Commission Attorney, reportedly advised against seeking an official ethics opinion regarding the arrangement between Wills and the Delegation.
-      *   Hicks's role is to ensure lack of ethics violation, yet he dismissed seeking oversight.
+
+      *   Brad Hicks, Baldwin Commission Attorney, reportedly advised against seeking
+      an official ethics opinion regarding the arrangement between Wills and the Delegation.
+
+      *   Hicks''s role is to ensure lack of ethics violation, yet he dismissed seeking
+      oversight.
+
 
       THE PIVOT:
-      *   The Ethics Commission has allegedly failed to hold anyone accountable despite numerous complaints against the use of elected office for potential personal gain (landlord/tenant relationship).
-      *   The combination of the lease renegotiation and the failure/advice from the county attorney (Hicks) to bypass official ethics review suggests a conflict of interest favoring Mayor Wills.
+
+      *   The Ethics Commission has allegedly failed to hold anyone accountable despite
+      numerous complaints against the use of elected office for potential personal
+      gain (landlord/tenant relationship).
+
+      *   The combination of the lease renegotiation and the failure/advice from the
+      county attorney (Hicks) to bypass official ethics review suggests a conflict
+      of interest favoring Mayor Wills.
+
 
       KEY ENTITIES:
+
       *   Bob Wills (Mayor, Bay Minette)
+
       *   Brad Hicks (Baldwin Commission Attorney)
+
       *   Baldwin County Legislative Delegation
-      *   Ethics Commission
+
+      *   Ethics Commission'
     generated_at: '2026-08-03T02:32:57.310711Z'
-    text: Local politicians routinely bypass ethics checks to execute shady government leases behind closed doors. Bay Minette Mayor Bob Wills scored thousands in lease money after Commission Attorney Brad Hicks warned him to avoid official ethics oversight.
+    text: Local politicians routinely bypass ethics checks to execute shady government
+      leases behind closed doors. Bay Minette Mayor Bob Wills scored thousands in
+      lease money after Commission Attorney Brad Hicks warned him to avoid official
+      ethics oversight.
+    character_count: 248
   TOP-TO-BOTTOM-CORRUPTION:
-    brief: |-
-      THE CONFLICT:
+    brief: 'THE CONFLICT:
+
       - Mabel Amos Memorial Fund (MAMF) founded by deceased benefactor.
-      - Tom Albritton and Rick Clifton (firm attorneys) became board members of MAMF Trust.
+
+      - Tom Albritton and Rick Clifton (firm attorneys) became board members of MAMF
+      Trust.
+
       - John Bell (Regions Bank Officer) also served on the Board.
+
       - In 2013, oil discovery led to large payouts from MAMF.
-      - Albritton's children reportedly received $120,000 in tuition aid from MAMF.
+
+      - Albritton''s children reportedly received $120,000 in tuition aid from MAMF.
+
       - This payments arrangement constitutes potential self-dealing by board members.
+
       - Tom Albritton later appointed Executive Director of the Alabama Ethics Commission.
-      - Civil suit filed against Regions Bank over $1M in fees, involving potential fraud/self-dealing accusations.
-      - Alabama AG Steve Marshall attempted to join the suit, accusing Albritton of criminal offenses.
+
+      - Civil suit filed against Regions Bank over $1M in fees, involving potential
+      fraud/self-dealing accusations.
+
+      - Alabama AG Steve Marshall attempted to join the suit, accusing Albritton of
+      criminal offenses.
+
 
       THE DISCOVERY:
-      - The Ethics Commission (under Albritton's watch) has been accused of facilitating corruption.
-      - The Ethics Commission is now being pressured to expand powers and suggests changing laws to legalize current actions.
-      - The expansion pushes back against the gravity of Mike Hubbard's conviction.
-      - The complaint process in Baldwin County has seen no accountability despite numerous filings.
+
+      - The Ethics Commission (under Albritton''s watch) has been accused of facilitating
+      corruption.
+
+      - The Ethics Commission is now being pressured to expand powers and suggests
+      changing laws to legalize current actions.
+
+      - The expansion pushes back against the gravity of Mike Hubbard''s conviction.
+
+      - The complaint process in Baldwin County has seen no accountability despite
+      numerous filings.
+
 
       THE PIVOT:
-      - The MAMF/Ethics Commission connection establishes a pattern of compromised governance involving individuals (Albritton, bodies) whose actions are now allegedly being covered up or legalized via the Ethics Commission's proposed changes.
-      - The financial conflict (MAMF payouts to Albritton’s family while he chairs the Ethics Commission) provides a concrete example of the type of systemic conflict that the current push for ethics law changes seeks to normalize or protect.
+
+      - The MAMF/Ethics Commission connection establishes a pattern of compromised
+      governance involving individuals (Albritton, bodies) whose actions are now allegedly
+      being covered up or legalized via the Ethics Commission''s proposed changes.
+
+      - The financial conflict (MAMF payouts to Albritton’s family while he chairs
+      the Ethics Commission) provides a concrete example of the type of systemic conflict
+      that the current push for ethics law changes seeks to normalize or protect.
+
 
       KEY ENTITIES:
+
       - Tom Albritton
+
       - Rick Clifton
+
       - John Bell
+
       - Mabel Amos Memorial Fund (MAMF)
+
       - Alabama Ethics Commission
+
       - Steve Marshall (AG)
-      - Mike Hubbard
+
+      - Mike Hubbard'
     generated_at: '2026-08-03T02:32:57.310714Z'
-    text: 'Proposed ethics law revisions exist for one single purpose: protecting corrupt state bosses from prison. Attorney General Steve Marshall called out Ethics Director Tom Albritton for taking $120,000 in trust payouts while heading the state ethics board.'
+    text: 'Proposed ethics law revisions exist for one single purpose: protecting
+      corrupt state bosses from prison. Attorney General Steve Marshall called out
+      Ethics Director Tom Albritton for taking $120,000 in trust payouts while heading
+      the state ethics board.'
+    character_count: 252
   your-rights-your-money:
-    brief: |-
-      THE CONFLICT:
-      *   Baldwin County has a history of alleged corruption, including election rigging (Don Sigleman, Fairhope, Judge Thomasson).
+    brief: 'THE CONFLICT:
+
+      *   Baldwin County has a history of alleged corruption, including election rigging
+      (Don Sigleman, Fairhope, Judge Thomasson).
+
       *   Huey Hoss Mack served as Baldwin County Sheriff.
-      *   The Ethics Commission faced accusations of inaction despite numerous complaints regarding corruption in Baldwin County.
+
+      *   The Ethics Commission faced accusations of inaction despite numerous complaints
+      regarding corruption in Baldwin County.
+
 
       THE DISCOVERY:
-      *   The Alabama Supreme Court, influenced by rulings concerning the BCSO and Ethics Commission, limited public transparency regarding investigations.
-      *   This includes restricting access to investigation materials and pre-existing substantive evidence (video/documentary) related to BCSO matters, despite the BCSO spending $662,597.00 on body cameras purported for transparency.
-      *   Tom Albritton, Executive Director of the Ethics Commission (and trustee of the Mabel Amos Trust), and his former law partner, Covington County Circuit Court Judge Ben Bowden, benefited from the Mabel Amos Memorial Foundation through scholarships awarded to their children.
+
+      *   The Alabama Supreme Court, influenced by rulings concerning the BCSO and
+      Ethics Commission, limited public transparency regarding investigations.
+
+      *   This includes restricting access to investigation materials and pre-existing
+      substantive evidence (video/documentary) related to BCSO matters, despite the
+      BCSO spending $662,597.00 on body cameras purported for transparency.
+
+      *   Tom Albritton, Executive Director of the Ethics Commission (and trustee
+      of the Mabel Amos Trust), and his former law partner, Covington County Circuit
+      Court Judge Ben Bowden, benefited from the Mabel Amos Memorial Foundation through
+      scholarships awarded to their children.
+
 
       THE PIVOT:
-      *   The Supreme Court decisions shield the BCSO (under Sheriff Mack) from transparency and accountability regarding taxpayer funds and criminal investigations.
-      *   The financial benefits accrued by Albritton/Bowden from the Mabel Amos Trust, while simultaneously heading the Ethics Commission (which should hold officials accountable), reveals a systemic entanglement between law enforcement/judicial structures and the body meant to uphold ethics.
+
+      *   The Supreme Court decisions shield the BCSO (under Sheriff Mack) from transparency
+      and accountability regarding taxpayer funds and criminal investigations.
+
+      *   The financial benefits accrued by Albritton/Bowden from the Mabel Amos Trust,
+      while simultaneously heading the Ethics Commission (which should hold officials
+      accountable), reveals a systemic entanglement between law enforcement/judicial
+      structures and the body meant to uphold ethics.
+
 
       KEY ENTITIES:
+
       *   Huey Hoss Mack / Sheriff Mack (Baldwin County Sheriff)
+
       *   Tom Albritton (Ethics Commission Executive Director)
+
       *   Ben Bowden (Covington County Circuit Court Judge)
+
       *   Alabama Supreme Court
+
       *   Ethics Commission
-      *   Mabel Amos Memorial Foundation / Trust
+
+      *   Mabel Amos Memorial Foundation / Trust'
     generated_at: '2026-08-03T02:32:57.310717Z'
-    text: Court decisions hide how law enforcement spends taxpayer dollars while blocking public oversight. Former Sheriff Huey Hoss Mack hid body camera records while Ethics Director Tom Albritton and Circuit Judge Ben Bowden took cash from a trust they controlled.
+    text: Court decisions hide how law enforcement spends taxpayer dollars while blocking
+      public oversight. Former Sheriff Huey Hoss Mack hid body camera records while
+      Ethics Director Tom Albritton and Circuit Judge Ben Bowden took cash from a
+      trust they controlled.
+    character_count: 256

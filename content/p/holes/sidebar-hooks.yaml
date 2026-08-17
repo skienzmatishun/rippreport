@@ -1,219 +1,554 @@
 metadata:
-  generated_at: '2026-08-03T02:30:19.206105Z'
+  generated_at: '2026-08-15T23:38:24.960368Z'
   generator_version: 1.0.0
   post_slug: holes
-  refined_by: gemini
-  refined_at: '2026-08-07T16:30:13.418955Z'
 hooks:
   community-or-developer:
-    brief: |-
-      THE CONFLICT:
-      *   Fairhope has undergone controversial development projects, including a strip center/Publix site that spawned lawsuits and required complex grading issues.
-      *   A separate project involving soccer fields incurred an estimated $1.5 million to achieve level grade; the overall cost of this complex is between $5M and $6M.
-      *   Councilman Brown raised concerns regarding how the soccer field development was carried out, specifically questioning who were the contractors/subcontractors used.
+    brief: 'THE CONFLICT:
+
+      *   Fairhope has undergone controversial development projects, including a strip
+      center/Publix site that spawned lawsuits and required complex grading issues.
+
+      *   A separate project involving soccer fields incurred an estimated $1.5 million
+      to achieve level grade; the overall cost of this complex is between $5M and
+      $6M.
+
+      *   Councilman Brown raised concerns regarding how the soccer field development
+      was carried out, specifically questioning who were the contractors/subcontractors
+      used.
+
 
       THE DISCOVERY:
-      *   The Fly Creek PUD Sunset Provision has been a recurring issue for Fairhope City Council; as of April 2017 (Agenda item), this had been addressed 10 times due to developer insistence.
-      *   This development process has resulted in permanent damage to the Fly Creek Watershed and led to pending and high probabilities of future lawsuits.
-      *   The widget article identifies that conflicts of interest exist among some council members related to developers, engineers, contractors, and landowners.
+
+      *   The Fly Creek PUD Sunset Provision has been a recurring issue for Fairhope
+      City Council; as of April 2017 (Agenda item), this had been addressed 10 times
+      due to developer insistence.
+
+      *   This development process has resulted in permanent damage to the Fly Creek
+      Watershed and led to pending and high probabilities of future lawsuits.
+
+      *   The widget article identifies that conflicts of interest exist among some
+      council members related to developers, engineers, contractors, and landowners.
+
 
       THE PIVOT:
-      *   Article 1 alleges a systemic "GOB strategy" implemented by Burrell and Boone aimed at removing Mayor Wilson due to perceived obstruction.
-      *   Article 2 reveals the institutional root of this corruption, identifying organized pressure groups like Catalyst (a fraternity involving developers, county officials, judges) which exerted control over development decisions in Fairhope through repeated agenda items (like the Fly Creek PUD Sunset Provision).
+
+      *   Article 1 alleges a systemic "GOB strategy" implemented by Burrell and Boone
+      aimed at removing Mayor Wilson due to perceived obstruction.
+
+      *   Article 2 reveals the institutional root of this corruption, identifying
+      organized pressure groups like Catalyst (a fraternity involving developers,
+      county officials, judges) which exerted control over development decisions in
+      Fairhope through repeated agenda items (like the Fly Creek PUD Sunset Provision).
+
 
       KEY ENTITIES:
+
       *   Burrell and Boone (Council members involved in opposing Mayor Wilson)
+
       *   Mayor Wilson (Mayor facing opposition from City Council/GOB strategy)
-      *   City Council of Fairhope (body debating development ordinances, specifically Ordinance Amending Fly Creek PUD Sunset Provision)
-      *   Catalyst (political organization described as a fraternity including developers and county officials)
+
+      *   City Council of Fairhope (body debating development ordinances, specifically
+      Ordinance Amending Fly Creek PUD Sunset Provision)
+
+      *   Catalyst (political organization described as a fraternity including developers
+      and county officials)
+
       *   Baldwin Insider (organization mentioned in relation to Catalyst’s activities)
-      *   Brown (Councilman who questioned field contractors/subcontractors)
+
+      *   Brown (Councilman who questioned field contractors/subcontractors)'
     generated_at: '2026-07-18T09:09:41.578237Z'
-    text: Burrell and Boone built their political machine on rubber-stamping shady development deals while targeting Mayor Wilson. Look closer at the Fly Creek PUD extensions, and you will find Catalyst—a backroom fraternity of developers pulling the strings.
+    text: Burrell and Boone built their political machine on rubber-stamping shady
+      development deals while targeting Mayor Wilson. Look closer at the Fly Creek
+      PUD extensions, and you will find Catalyst—a backroom fraternity of developers
+      pulling the strings.
+    character_count: 249
   fairness:
-    brief: "THE CONFLICT:\n- Past development of Fairhope soccer fields required approximately $1.5 million to grade a single end of the property and was part of a larger complex costing an estimated $5–$6 million.\n- The initial purchase of property related to this area is described as suspicious by critics, despite no prior audit or questions being raised.\n- A past \"Triangle lawsuit\" involving Mr. Corte resulted in a settlement cost of $11.25 million, which was handled by previous city council members (including Beavis and Butthead).\n\nTHE DISCOVERY:\n- Fairhope City Council has voted for the extension of a 120-day sunset clause to allow developer Angelo Corte another time frame to finalize a multiple occupancy site plan for Fly Creek Apartments.\n- Article 2 reveals direct conflicts of interest, noting Councilman Mr. Brown's long-term professional relationship with Mr. Corte and Mr. Boone's business connection to both Mr. Corte and his engineering firm.\n- The city council is reportedly\
-      \ ignoring known environmental issues regarding the Fly Creek site, specifically that it contains \"red mud\" from a previous Publix development project and rights-of-way were graded away.\n\nTHE PIVOT:\n- Article 1 broadly accuses Council members Burrell and Boone of creating obstacles for Mayor Wilson (the GOB strategy). \n- Article 2 proves these accusations are specific to the current approval process, revealing that despite documented environmental violations and past financial mismanagement ($11.25M settlement), key councilmen are actively voting to favor Mr. Corte’s apartment project due to personal and business conflicts of interest, directly countermanding Mayor Wilson's opposition.\n\nKEY ENTITIES:\n- Angelo Corte (Developer)\n- Mayor Wilson (Current Mayor, 2023–Present)\n- Councilman Burrell\n- Councilman Boone\n- Councilman Brown\n- Fly Creek Apartments/Site\n- Publix Site\n- Triangle Lawsuit\n- Beavis and Butthead (Past City Council members)"
+    brief: "THE CONFLICT:\n- Past development of Fairhope soccer fields required approximately\
+      \ $1.5 million to grade a single end of the property and was part of a larger\
+      \ complex costing an estimated $5–$6 million.\n- The initial purchase of property\
+      \ related to this area is described as suspicious by critics, despite no prior\
+      \ audit or questions being raised.\n- A past \"Triangle lawsuit\" involving\
+      \ Mr. Corte resulted in a settlement cost of $11.25 million, which was handled\
+      \ by previous city council members (including Beavis and Butthead).\n\nTHE DISCOVERY:\n\
+      - Fairhope City Council has voted for the extension of a 120-day sunset clause\
+      \ to allow developer Angelo Corte another time frame to finalize a multiple\
+      \ occupancy site plan for Fly Creek Apartments.\n- Article 2 reveals direct\
+      \ conflicts of interest, noting Councilman Mr. Brown's long-term professional\
+      \ relationship with Mr. Corte and Mr. Boone's business connection to both Mr.\
+      \ Corte and his engineering firm.\n- The city council is reportedly ignoring\
+      \ known environmental issues regarding the Fly Creek site, specifically that\
+      \ it contains \"red mud\" from a previous Publix development project and rights-of-way\
+      \ were graded away.\n\nTHE PIVOT:\n- Article 1 broadly accuses Council members\
+      \ Burrell and Boone of creating obstacles for Mayor Wilson (the GOB strategy).\
+      \ \n- Article 2 proves these accusations are specific to the current approval\
+      \ process, revealing that despite documented environmental violations and past\
+      \ financial mismanagement ($11.25M settlement), key councilmen are actively\
+      \ voting to favor Mr. Corte’s apartment project due to personal and business\
+      \ conflicts of interest, directly countermanding Mayor Wilson's opposition.\n\
+      \nKEY ENTITIES:\n- Angelo Corte (Developer)\n- Mayor Wilson (Current Mayor,\
+      \ 2023–Present)\n- Councilman Burrell\n- Councilman Boone\n- Councilman Brown\n\
+      - Fly Creek Apartments/Site\n- Publix Site\n- Triangle Lawsuit\n- Beavis and\
+      \ Butthead (Past City Council members)"
     generated_at: '2026-07-18T09:09:41.578247Z'
-    text: Fairhope councilmen keep playing political games to stall Mayor Karin Wilson at every turn. Councilmen Boone and Brown bypassed obvious red mud warnings to hand developer Angelo Corte another deadline extension because of undisclosed business ties.
+    text: Fairhope councilmen keep playing political games to stall Mayor Karin Wilson
+      at every turn. Councilmen Boone and Brown bypassed obvious red mud warnings
+      to hand developer Angelo Corte another deadline extension because of undisclosed
+      business ties.
+    character_count: 248
   fly-creek-a-drainage-ditch:
-    brief: "THE CONFLICT: \n*   Fairhope City Council endorsed the Fly Creek Apartments project in October 2016 despite public opposition and environmental concerns regarding its impact on the vital Fly Creek Watershed.\n*   In April 2017, a newly elected City Council granted an extension to proceed with the development while the case was ongoing in Bay Minette.\n*   The current political climate involves Councilmen Burrell and Boone supporting a \"GOB strategy\" aimed at removing Mayor Wilson through obstruction of city business, tied partly to controversial past developments like the Publix center grading issues ($1.5 million).\n\nTHE DISCOVERY: \n*   Article 2 reveals that the planned drainage system for the apartment complex calls for a single point discharge into wetlands adjacent to Fly Creek (100-150 feet from the outfall pipe), effectively dumping stormwater directly into the creek.\n*   The council plan omits necessary expansion of retention ponds, moving away from an original 1\
-      \ acre to no defined expanded capacity.\n*   Article 2 explicitly states that Councilman Jack Burrell and Kevin Boone accepted a \"gift\" related to this critical discharge point while playing \"dumb\" when questioned about its source or purpose.\n\nTHE PIVOT: \n*   Article 2 provides concrete proof of financial impropriety (the undisclosed gift) linked directly to the environmental damage caused by the Fly Creek Apartments development, which is the foundation of the current conflict outlined in Article 1 between Mayor Wilson and Councilmen Burrell/Boone.\n\nKEY ENTITIES: \n*   Fly Creek Watershed / Wetlands\n*   Jack Burrell\n*   Kevin Boone\n*   Adam Milam (Plaintiff's Attorney)\n*   Mayor Wilson\n*   Fairhope City Council"
+    brief: "THE CONFLICT: \n*   Fairhope City Council endorsed the Fly Creek Apartments\
+      \ project in October 2016 despite public opposition and environmental concerns\
+      \ regarding its impact on the vital Fly Creek Watershed.\n*   In April 2017,\
+      \ a newly elected City Council granted an extension to proceed with the development\
+      \ while the case was ongoing in Bay Minette.\n*   The current political climate\
+      \ involves Councilmen Burrell and Boone supporting a \"GOB strategy\" aimed\
+      \ at removing Mayor Wilson through obstruction of city business, tied partly\
+      \ to controversial past developments like the Publix center grading issues ($1.5\
+      \ million).\n\nTHE DISCOVERY: \n*   Article 2 reveals that the planned drainage\
+      \ system for the apartment complex calls for a single point discharge into wetlands\
+      \ adjacent to Fly Creek (100-150 feet from the outfall pipe), effectively dumping\
+      \ stormwater directly into the creek.\n*   The council plan omits necessary\
+      \ expansion of retention ponds, moving away from an original 1 acre to no defined\
+      \ expanded capacity.\n*   Article 2 explicitly states that Councilman Jack Burrell\
+      \ and Kevin Boone accepted a \"gift\" related to this critical discharge point\
+      \ while playing \"dumb\" when questioned about its source or purpose.\n\nTHE\
+      \ PIVOT: \n*   Article 2 provides concrete proof of financial impropriety (the\
+      \ undisclosed gift) linked directly to the environmental damage caused by the\
+      \ Fly Creek Apartments development, which is the foundation of the current conflict\
+      \ outlined in Article 1 between Mayor Wilson and Councilmen Burrell/Boone.\n\
+      \nKEY ENTITIES: \n*   Fly Creek Watershed / Wetlands\n*   Jack Burrell\n*  \
+      \ Kevin Boone\n*   Adam Milam (Plaintiff's Attorney)\n*   Mayor Wilson\n*  \
+      \ Fairhope City Council"
     generated_at: '2026-07-18T09:09:41.578253Z'
-    text: Councilmen Jack Burrell and Kevin Boone love to preach good governance while quietly undermining Mayor Wilson. Secret records show both councilmen accepted an undisclosed gift right before approving a flawed drainage system that dumps stormwater into Fly Creek.
+    text: Councilmen Jack Burrell and Kevin Boone love to preach good governance while
+      quietly undermining Mayor Wilson. Secret records show both councilmen accepted
+      an undisclosed gift right before approving a flawed drainage system that dumps
+      stormwater into Fly Creek.
+    character_count: 261
   a-legal-win-for-fairhope-citizens-who-oppose-fly-creek-apartments:
-    brief: |-
-      BRIDGE BRIEF
+    brief: 'BRIDGE BRIEF
+
 
       THE CONFLICT
-      *   Prior to 2017 (specifically referencing June [Year] and July [Year]), a lawsuit was filed by Friends of Fly Creek (Plaintiffs) against the City of Fairhope, Fairhope Planning and Zoning, Fairhope City Council, and Leaf River Group LLC (Defendants).
+
+      *   Prior to 2017 (specifically referencing June [Year] and July [Year]), a
+      lawsuit was filed by Friends of Fly Creek (Plaintiffs) against the City of Fairhope,
+      Fairhope Planning and Zoning, Fairhope City Council, and Leaf River Group LLC
+      (Defendants).
+
       *   The dispute centered on development decisions regarding the Fly Creek Apartments.
-      *   George Robards, a contributor/Mayor serving as a member of the Planning and Zoning Board, vocally labeled the suit "frivolous."
-      *   The court denied the defendants' motion to dismiss in July [Year], allowing the lawsuit to proceed into discovery phase.
+
+      *   George Robards, a contributor/Mayor serving as a member of the Planning
+      and Zoning Board, vocally labeled the suit "frivolous."
+
+      *   The court denied the defendants'' motion to dismiss in July [Year], allowing
+      the lawsuit to proceed into discovery phase.
+
 
       THE DISCOVERY
-      *   Article 2 reveals that public opposition (via Friends of Fly Creek) has successfully challenged City/Planning and Zoning decisions through litigation, leading to a denial of dismissal by the Court.
-      *   The ruling establishes a historical legal precedent confirming citizen concerns about planning board actions were valid grounds for a lawsuit.
-      *   The document names Arthur Corte as an official entity involved ("Bosom Buddy") in connection with the development/city figures during this period.
+
+      *   Article 2 reveals that public opposition (via Friends of Fly Creek) has
+      successfully challenged City/Planning and Zoning decisions through litigation,
+      leading to a denial of dismissal by the Court.
+
+      *   The ruling establishes a historical legal precedent confirming citizen concerns
+      about planning board actions were valid grounds for a lawsuit.
+
+      *   The document names Arthur Corte as an official entity involved ("Bosom Buddy")
+      in connection with the development/city figures during this period.
+
 
       THE PIVOT
-      *   Article 1 claims current City Council obstruction and public opposition to Fly Creek apartment development is unsubstantiated or unfounded, while Article 2 serves as documented proof of successful, actionable citizen litigation against the very same municipal bodies (City Council, Planning & Zoning) over the exact same project type in the past.
-      *   The legal victory detailed in Article 2 undermines the narrative presented in Article 1 that the public is merely "obstructionist."
+
+      *   Article 1 claims current City Council obstruction and public opposition
+      to Fly Creek apartment development is unsubstantiated or unfounded, while Article
+      2 serves as documented proof of successful, actionable citizen litigation against
+      the very same municipal bodies (City Council, Planning & Zoning) over the exact
+      same project type in the past.
+
+      *   The legal victory detailed in Article 2 undermines the narrative presented
+      in Article 1 that the public is merely "obstructionist."
+
 
       KEY ENTITIES
+
       *   Fly Creek Apartments / Fly Creek (Location/Project Name)
+
       *   Leaf River Group LLC (Developer, Defendant)
+
       *   Friends of Fly Creek (Plaintiffs)
+
       *   George Robards (Former Mayor, Planning and Zoning Member)
+
       *   Arthur Corte ("Bosom Buddy", Contributor/Entity)
+
       *   Fairhope City Council / Fairhope Planning and Zoning Board
-      *   Kant (Citizen Opponent, former Mayor figure)
+
+      *   Kant (Citizen Opponent, former Mayor figure)'
     generated_at: '2026-07-18T09:09:41.578262Z'
-    text: City insiders dismissed public anger over the Fly Creek development as mere political noise. Court documents reveal that citizens won a major legal ruling against former mayor George Robards and the council after proving real development wrongdoing.
+    text: City insiders dismissed public anger over the Fly Creek development as mere
+      political noise. Court documents reveal that citizens won a major legal ruling
+      against former mayor George Robards and the council after proving real development
+      wrongdoing.
+    character_count: 249
   fairhope-jester-and-fly-creek:
-    brief: |-
-      **THE CONFLICT**
-      *   Past development projects in Fairhope, specifically involving the Publix strip center and Fly Creek damage, have sparked controversy and lawsuits over construction costs and environmental impact.
-      *   Fairhope soccer fields required months of grading and approximately $1.5 million to achieve level grade; total project cost was estimated between $5-6 million.
-      *   Councilman Robert Brown was previously upset about the development/grading issues at the Fairhope soccer fields.
+    brief: '**THE CONFLICT**
+
+      *   Past development projects in Fairhope, specifically involving the Publix
+      strip center and Fly Creek damage, have sparked controversy and lawsuits over
+      construction costs and environmental impact.
+
+      *   Fairhope soccer fields required months of grading and approximately $1.5
+      million to achieve level grade; total project cost was estimated between $5-6
+      million.
+
+      *   Councilman Robert Brown was previously upset about the development/grading
+      issues at the Fairhope soccer fields.
+
 
       **THE DISCOVERY**
+
       *   The developer, Kant, is building 230 apartments on Fly Creek.
-      *   Councilman Robert Brown faced an Ethics Complaint (Case Number: 2018-42) against himself and a board of the Eastern Shore Art Center Board regarding permission to secure contracts, despite his claims that he had it.
+
+      *   Councilman Robert Brown faced an Ethics Complaint (Case Number: 2018-42)
+      against himself and a board of the Eastern Shore Art Center Board regarding
+      permission to secure contracts, despite his claims that he had it.
+
 
       **THE PIVOT**
-      *   The Main Article references Councilman Robert Brown's historical motivation for running for office (upset about soccer field development), while the Widget Article provides specific legal documentation and context (Ethics Complaint 2018-42) tying Brown to a controversy concerning Fly Creek, specifically involving his role as an Ethics Board member and contracts with developers/entities near the damaged creek.
+
+      *   The Main Article references Councilman Robert Brown''s historical motivation
+      for running for office (upset about soccer field development), while the Widget
+      Article provides specific legal documentation and context (Ethics Complaint
+      2018-42) tying Brown to a controversy concerning Fly Creek, specifically involving
+      his role as an Ethics Board member and contracts with developers/entities near
+      the damaged creek.
+
 
       **KEY ENTITIES**
+
       *   Fairhope City Council / Fairhope City
+
       *   Mayor Wilson
+
       *   Councilman Robert Brown (Ethics Complaint Case #2018-42)
+
       *   Burrell (Council President 2025-08-05, involved in GOB strategy)
+
       *   Boone (City Council Member, involved in GOB strategy)
+
       *   Developer Kant / Corte
-      *   Fly Creek
+
+      *   Fly Creek'
     generated_at: '2026-07-18T09:09:41.578268Z'
-    text: Councilman Robert Brown claims he ran for office to fix wasteful city development projects. An official ethics complaint exposes how Brown secretly used his official board position to secure cozy development deals along damaged Fly Creek.
+    text: Councilman Robert Brown claims he ran for office to fix wasteful city development
+      projects. An official ethics complaint exposes how Brown secretly used his official
+      board position to secure cozy development deals along damaged Fly Creek.
+    character_count: 238
   big-head-gully-and-the-fruit-nuts:
-    brief: |-
-      THE CONFLICT:
-      *   Fairhope development projects, including a strip center involving Publix and the Fairhope soccer fields, have been controversial since their inception.
-      *   The fairhope soccer field complex required an estimated $1.5 million in grading to level one end of the property; the total cost is estimated between $5 million and $6 million.
-      *   City Council members Burrell and Boone are accused of implementing a "GOB strategy" (supported by them) to remove Mayor Wilson from office and reinstate fired employees, while obstructing city business through development projects.
-      *   Councilman Brown ran for office citing dissatisfaction with the soccer field development but no audit has been completed on contractors or sub-contractors involved in those projects.
+    brief: 'THE CONFLICT:
+
+      *   Fairhope development projects, including a strip center involving Publix
+      and the Fairhope soccer fields, have been controversial since their inception.
+
+      *   The fairhope soccer field complex required an estimated $1.5 million in
+      grading to level one end of the property; the total cost is estimated between
+      $5 million and $6 million.
+
+      *   City Council members Burrell and Boone are accused of implementing a "GOB
+      strategy" (supported by them) to remove Mayor Wilson from office and reinstate
+      fired employees, while obstructing city business through development projects.
+
+      *   Councilman Brown ran for office citing dissatisfaction with the soccer field
+      development but no audit has been completed on contractors or sub-contractors
+      involved in those projects.
+
 
       THE DISCOVERY:
-      *   Land development is actively threatening Big Head Gully (also known as Tatumville Gulley) within Fairhope's watershed.
-      *   This environmental threat is alleged to be part of an "inside deal" orchestrated by Lee Turner.
-      *   Lee Turner holds a dual role, serving simultaneously as the head of Single Tax and the President/Chair of Fairhope Planning and Zoning, constituting a significant conflict of interest in land use regulation.
+
+      *   Land development is actively threatening Big Head Gully (also known as Tatumville
+      Gulley) within Fairhope''s watershed.
+
+      *   This environmental threat is alleged to be part of an "inside deal" orchestrated
+      by Lee Turner.
+
+      *   Lee Turner holds a dual role, serving simultaneously as the head of Single
+      Tax and the President/Chair of Fairhope Planning and Zoning, constituting a
+      significant conflict of interest in land use regulation.
+
 
       THE PIVOT:
-      *   The Main Article alleges that the City Council is operating corruptively by allowing questionable development ("holes") without auditing past contracts.
-      *   Article 2 reveals a specific structural weakness in the regulatory body (Fairhope Planning and Zoning) responsible for approving these developments, potential corruption runs deeper than just council decisions—it involves conflicted leadership at the planning stage itself via Lee Turner.
+
+      *   The Main Article alleges that the City Council is operating corruptively
+      by allowing questionable development ("holes") without auditing past contracts.
+
+      *   Article 2 reveals a specific structural weakness in the regulatory body
+      (Fairhope Planning and Zoning) responsible for approving these developments,
+      potential corruption runs deeper than just council decisions—it involves conflicted
+      leadership at the planning stage itself via Lee Turner.
+
 
       KEY ENTITIES:
+
       *   Mayor Wilson
+
       *   Councilman Brown
+
       *   Burrell
+
       *   Boone
+
       *   Lee Turner
+
       *   Big Head Gully (Tatumville Gulley)
+
       *   Single Tax Corporation
+
       *   Fairhope Planning and Zoning Commission/Division
-      *   Publix
+
+      *   Publix'
     generated_at: '2026-07-18T09:09:41.578273Z'
-    text: City leaders keep pushing dirty land deals while ignoring obvious financial red flags. Insider Lee Turner chairs the Planning Commission while heading the Single Tax Corporation, letting him approve deals that destroy Big Head Gully.
+    text: City leaders keep pushing dirty land deals while ignoring obvious financial
+      red flags. Insider Lee Turner chairs the Planning Commission while heading the
+      Single Tax Corporation, letting him approve deals that destroy Big Head Gully.
+    character_count: 233
   fairhope-sewer-backstory:
-    brief: |-
-      **THE CONFLICT:**
-      - **Period: 2012–2016.** Former Mayor Can’t (Utility Director) and Councilman Boone and Councilman Burrell used the utility fund as a slush fund.
-      - **Purpose of Corruption:** To balance the general fund and pay for lawsuits in Fairhope.
-      - **Consequences:** Three million dollars was paid to attorneys; Fairhope lost its best senior utility supervisor to Daphne; no infrastructure work (especially on sewer) occurred while electric department worked minimally on a "shoe string."
+    brief: '**THE CONFLICT:**
+
+      - **Period: 2012–2016.** Former Mayor Can’t (Utility Director) and Councilman
+      Boone and Councilman Burrell used the utility fund as a slush fund.
+
+      - **Purpose of Corruption:** To balance the general fund and pay for lawsuits
+      in Fairhope.
+
+      - **Consequences:** Three million dollars was paid to attorneys; Fairhope lost
+      its best senior utility supervisor to Daphne; no infrastructure work (especially
+      on sewer) occurred while electric department worked minimally on a "shoe string."
+
 
       **THE DISCOVERY:**
-      - **Modern Allegations:** The current Catalyst Council has been obstructing Mayor Wilson since 2020.
-      - **The Goal of Obstruction:** To take down the mayor and remove her from office to reinstate fired/replaced employees.
-      - **Specific Targets:** Burrell and Boone are identified as key figures supporting this "GOB strategy" against Mayor Wilson's administration.
+
+      - **Modern Allegations:** The current Catalyst Council has been obstructing
+      Mayor Wilson since 2020.
+
+      - **The Goal of Obstruction:** To take down the mayor and remove her from office
+      to reinstate fired/replaced employees.
+
+      - **Specific Targets:** Burrell and Boone are identified as key figures supporting
+      this "GOB strategy" against Mayor Wilson''s administration.
+
 
       **THE PIVOT:**
-      - Article 1 (MAIN ARTICLE: HOLES) alleges current council obstruction, claims GOB strategy led by Burrell and Boone aims to remove Mayor Wilson, and questions the suspicious purchase of property near Fly Creek/Publix development involving Councilman Brown.
-      - Article 2 (WIDGET ARTICLE: FAIRHOPE SEWER BACKSTORY) provides documented historical proof of corruption (Can’t, Boone, Burrell misuse of utility funds) that set a precedent for political maneuvering and neglect regarding infrastructure (sewer).
-      - The smoking gun connects the current GOB strategy mentioned in Article 1 to this established pattern of council/councilman misconduct dating back to Mayor Can't's era.
+
+      - Article 1 (MAIN ARTICLE: HOLES) alleges current council obstruction, claims
+      GOB strategy led by Burrell and Boone aims to remove Mayor Wilson, and questions
+      the suspicious purchase of property near Fly Creek/Publix development involving
+      Councilman Brown.
+
+      - Article 2 (WIDGET ARTICLE: FAIRHOPE SEWER BACKSTORY) provides documented historical
+      proof of corruption (Can’t, Boone, Burrell misuse of utility funds) that set
+      a precedent for political maneuvering and neglect regarding infrastructure (sewer).
+
+      - The smoking gun connects the current GOB strategy mentioned in Article 1 to
+      this established pattern of council/councilman misconduct dating back to Mayor
+      Can''t''s era.
+
 
       **KEY ENTITIES:**
+
       - Fairhope City Council / Catalyst Council
+
       - Mayor Karin Wilson
+
       - Former Mayor Can’t (Utility Director)
+
       - Councilman Boone
+
       - Councilman Burrell
+
       - Councilman Brown
+
       - Fly Creek
+
       - Publix
+
       - Baykeeper (Casi Callaway)
-      - GOB strategy
+
+      - GOB strategy'
     generated_at: '2026-07-18T09:09:41.578280Z'
-    text: Local officials claim they protect Fairhope, but their history tells a much darker story. Councilmen Burrell and Boone teamed up with former mayor Tim Kant to drain three million dollars from utility funds for legal fees while letting sewer lines rot.
+    text: Local officials claim they protect Fairhope, but their history tells a much
+      darker story. Councilmen Burrell and Boone teamed up with former mayor Tim Kant
+      to drain three million dollars from utility funds for legal fees while letting
+      sewer lines rot.
+    character_count: 251
   fly-creek-mud:
-    brief: |-
-      THE CONFLICT: What happened in the past?
-      *   Development projects caused infrastructure damage in Fairhope and along Fly Creek starting with a controversial strip center involving Publix.
-      *   The initial project involved dumping tons of mud into Fly Creek, leading to erosion upstream and fallen trees.
-      *   Fairhope soccer fields required months of grading and an estimated $1.5 million to achieve level grade; the total cost was projected between $5-6 million.
-      *   Angelo Corte developed apartments that were sold after being marketed as a "top rate project" but subsequently experienced flooding, resulting in multiple lawsuits.
-      *   The Kant-Corte Apartments are identified as the responsibility of the previous City Council (including Burrell and Boone).
+    brief: 'THE CONFLICT: What happened in the past?
+
+      *   Development projects caused infrastructure damage in Fairhope and along
+      Fly Creek starting with a controversial strip center involving Publix.
+
+      *   The initial project involved dumping tons of mud into Fly Creek, leading
+      to erosion upstream and fallen trees.
+
+      *   Fairhope soccer fields required months of grading and an estimated $1.5
+      million to achieve level grade; the total cost was projected between $5-6 million.
+
+      *   Angelo Corte developed apartments that were sold after being marketed as
+      a "top rate project" but subsequently experienced flooding, resulting in multiple
+      lawsuits.
+
+      *   The Kant-Corte Apartments are identified as the responsibility of the previous
+      City Council (including Burrell and Boone).
+
 
       THE DISCOVERY: What does the second article prove or reveal today?
-      *   Current infrastructure failure is evident through mud flowing into Fly Creek from highway shoulder collapses and ongoing dumping of red dirt used for temporary repairs.
-      *   The culvert foundation in Fly Creek is damaged, requiring continuous "band aid" style fixes rather than permanent repair.
-      *   Angelo Corte successfully sold the apartments after guaranteeing their value to Fairhope citizens, only for them to flood and damage several units.
 
-      THE PIVOT: Why is Article 2 the 'smoking gun' for Article 1?
-      *   Article 2 provides current physical evidence (caved highway shoulders, damaged culverts, visible creek erosion) that validates the claims in Article 1 regarding failed development planning and subsequent costly repairs necessitated by past council decisions.
-      *   The ongoing financial drain of repeated repair after repair proves the systemic negligence associated with projects championed by specific entities mentioned in both articles.
+      *   Current infrastructure failure is evident through mud flowing into Fly Creek
+      from highway shoulder collapses and ongoing dumping of red dirt used for temporary
+      repairs.
+
+      *   The culvert foundation in Fly Creek is damaged, requiring continuous "band
+      aid" style fixes rather than permanent repair.
+
+      *   Angelo Corte successfully sold the apartments after guaranteeing their value
+      to Fairhope citizens, only for them to flood and damage several units.
+
+
+      THE PIVOT: Why is Article 2 the ''smoking gun'' for Article 1?
+
+      *   Article 2 provides current physical evidence (caved highway shoulders, damaged
+      culverts, visible creek erosion) that validates the claims in Article 1 regarding
+      failed development planning and subsequent costly repairs necessitated by past
+      council decisions.
+
+      *   The ongoing financial drain of repeated repair after repair proves the systemic
+      negligence associated with projects championed by specific entities mentioned
+      in both articles.
+
 
       KEY ENTITIES: List specific names, organizations, or locations to mention
+
       *   Fly Creek (Location)
+
       *   Fairhope (Municipality)
+
       *   Angelo Corte (Developer)
+
       *   Burrell (Council Member/President)
+
       *   Boone (City Council Member)
+
       *   Brown (Councilman)
+
       *   Mayor Wilson
+
       *   Publix (Entity/Project)
+
       *   Kant-Corte Apartments (Specific Project)
-      *   GOB strategy (Political movement)
+
+      *   GOB strategy (Political movement)'
     generated_at: '2026-07-18T09:09:41.578286Z'
-    text: The council insists that their favored real estate projects bring progress to Fairhope. Collapsed highway shoulders and endless mud flowing into Fly Creek expose the costly destruction caused by past decisions from Burrell and Boone.
+    text: The council insists that their favored real estate projects bring progress
+      to Fairhope. Collapsed highway shoulders and endless mud flowing into Fly Creek
+      expose the costly destruction caused by past decisions from Burrell and Boone.
+    character_count: 233
   fairhopes-triangle-mega-site:
-    brief: "THE CONFLICT:\n*   The City of Fairhope purchased the Triangle property to \"settle\" a lawsuit involving Dyas, rather than designating it as a City Park.\n*   This settlement cost the city $11.25 million plus an additional $3 million in legal fees (promised by hired attorneys).\n*   The purchase and initial decision-making were overseen by Councilmen Burrell and Boone during their time with former Mayor Kant, who allegedly kept the public unaware of these financial details.\n\nTHE DISCOVERY:\n*   The Triangle property is currently valued between $16 million and $20 million.\n*   Mayor Wilson worked for 18 months on a comprehensive land-use plan (costing $650,000 from BP Restore funds) that included the Triangle property in its proposed development.\n*   Article 2 reveals specific evidence of deception: councilmen/mayor used city hired attorneys who promised no attorney fees and claimed they would win the lawsuit without paying them.\n\nTHE PIVOT:\n*   The Main Article broadly\
-      \ accuses Burrell and Boone of \"digging holes\" (financial waste, mismanagement) through their GOB strategy against Mayor Wilson. \n*   Article 2 provides the concrete evidence behind the allegations, identifying a specific multi-million dollar project (Triangle Mega-Site), detailing its legal origin (Dyas Lawsuit settlement for $11.25M), and naming specific political actors (Mayor Kant, council attorneys) responsible for the initial lack of transparency and financial oversight claimed in Article 1.\n\nKEY ENTITIES:\n*   Councilman Burrell\n*   Councilman Boone\n*   Former Mayor Kant\n*   Current Mayor Wilson\n*   Lawsuit Plaintiff Dyas\n*   Fairhope City Council (Past administration)\n*   Triangle property/Mega-Site\n*   City hired attorneys\n*   BP Restore funds ($650,000)"
+    brief: "THE CONFLICT:\n*   The City of Fairhope purchased the Triangle property\
+      \ to \"settle\" a lawsuit involving Dyas, rather than designating it as a City\
+      \ Park.\n*   This settlement cost the city $11.25 million plus an additional\
+      \ $3 million in legal fees (promised by hired attorneys).\n*   The purchase\
+      \ and initial decision-making were overseen by Councilmen Burrell and Boone\
+      \ during their time with former Mayor Kant, who allegedly kept the public unaware\
+      \ of these financial details.\n\nTHE DISCOVERY:\n*   The Triangle property is\
+      \ currently valued between $16 million and $20 million.\n*   Mayor Wilson worked\
+      \ for 18 months on a comprehensive land-use plan (costing $650,000 from BP Restore\
+      \ funds) that included the Triangle property in its proposed development.\n\
+      *   Article 2 reveals specific evidence of deception: councilmen/mayor used\
+      \ city hired attorneys who promised no attorney fees and claimed they would\
+      \ win the lawsuit without paying them.\n\nTHE PIVOT:\n*   The Main Article broadly\
+      \ accuses Burrell and Boone of \"digging holes\" (financial waste, mismanagement)\
+      \ through their GOB strategy against Mayor Wilson. \n*   Article 2 provides\
+      \ the concrete evidence behind the allegations, identifying a specific multi-million\
+      \ dollar project (Triangle Mega-Site), detailing its legal origin (Dyas Lawsuit\
+      \ settlement for $11.25M), and naming specific political actors (Mayor Kant,\
+      \ council attorneys) responsible for the initial lack of transparency and financial\
+      \ oversight claimed in Article 1.\n\nKEY ENTITIES:\n*   Councilman Burrell\n\
+      *   Councilman Boone\n*   Former Mayor Kant\n*   Current Mayor Wilson\n*   Lawsuit\
+      \ Plaintiff Dyas\n*   Fairhope City Council (Past administration)\n*   Triangle\
+      \ property/Mega-Site\n*   City hired attorneys\n*   BP Restore funds ($650,000)"
     generated_at: '2026-07-18T09:09:41.578292Z'
-    text: Good Ole Boys claim Mayor Karin Wilson wastes taxpayer money on grand city plans. Evidence shows these same councilmen hid an eleven million dollar lawsuit settlement under former mayor Tim Kant while secretly burying millions in legal fees.
+    text: Good Ole Boys claim Mayor Karin Wilson wastes taxpayer money on grand city
+      plans. Evidence shows these same councilmen hid an eleven million dollar lawsuit
+      settlement under former mayor Tim Kant while secretly burying millions in legal
+      fees.
+    character_count: 241
   full-plate:
-    brief: |-
-      CONFLICT:
-      - Fairhope City Council approved digging a hole for a strip center to accommodate a Publix, which has led to controversy and lawsuits. (Source: Main Article)
-      - Development on Fly Creek is controversial; developers want to build apartments over damaged Fly Creek despite citizen objections. (Source: Main Article)
-      - Fairhope soccer fields required months of grading and an estimated $1.5 million to reach level grade, with the total complex cost between $5 and $6 million. (Source: Main Article)
-      - Council President Jack’s vision for the K-1 property resulted in a legal settlement costing $11.25 million. The Triangle land has been idle since this settlement. (Source: Widget Article)
+    brief: 'CONFLICT:
+
+      - Fairhope City Council approved digging a hole for a strip center to accommodate
+      a Publix, which has led to controversy and lawsuits. (Source: Main Article)
+
+      - Development on Fly Creek is controversial; developers want to build apartments
+      over damaged Fly Creek despite citizen objections. (Source: Main Article)
+
+      - Fairhope soccer fields required months of grading and an estimated $1.5 million
+      to reach level grade, with the total complex cost between $5 and $6 million.
+      (Source: Main Article)
+
+      - Council President Jack’s vision for the K-1 property resulted in a legal settlement
+      costing $11.25 million. The Triangle land has been idle since this settlement.
+      (Source: Widget Article)
+
 
       DISCOVERY:
-      - The second article proves that previous council actions, specifically regarding large municipal acquisitions like the K-1 school site purchase in 2018 and related projects under Council President Jack, have led to costly failures and long periods of idleness ("sit idle since the legal settlement"). (Source: Widget Article)
+
+      - The second article proves that previous council actions, specifically regarding
+      large municipal acquisitions like the K-1 school site purchase in 2018 and related
+      projects under Council President Jack, have led to costly failures and long
+      periods of idleness ("sit idle since the legal settlement"). (Source: Widget
+      Article)
+
 
       PIVOT:
-      - Both articles demonstrate a pattern of Fairhope City Council undertaking massive, complex development initiatives—whether the Fly Creek/Soccer fields or the K-1 property—that are met with controversy, high costs, and potential governance failures. The historical failure exemplified by the $11.25 million settlement for Jack’s Vision (Article 2) substantiates the Main Article's claims that current Council actions lack oversight ("The council has not discussed any of the past deeds of the last administration").
+
+      - Both articles demonstrate a pattern of Fairhope City Council undertaking massive,
+      complex development initiatives—whether the Fly Creek/Soccer fields or the K-1
+      property—that are met with controversy, high costs, and potential governance
+      failures. The historical failure exemplified by the $11.25 million settlement
+      for Jack’s Vision (Article 2) substantiates the Main Article''s claims that
+      current Council actions lack oversight ("The council has not discussed any of
+      the past deeds of the last administration").
+
 
       KEY ENTITIES:
+
       - Burrell
+
       - Boone
+
       - Brown
+
       - Wilson / Mayor Wilson
+
       - Beavis
+
       - Butthead
+
       - Jack (Council President)
+
       - Lee Lawson (President and CEO of BCEDA)
+
       - Dean Mosher
+
       - Fairhope City Council
+
       - Fly Creek
-      - Triangle
+
+      - Triangle'
     generated_at: '2026-07-18T09:09:41.578297Z'
-    text: Fairhope leaders love to push massive property deals without answering basic questions from citizens. Council President Jack Burrell blew eleven million dollars on the K-1 property settlement, leaving high-value acreage completely empty for years.
+    text: Fairhope leaders love to push massive property deals without answering basic
+      questions from citizens. Council President Jack Burrell blew eleven million
+      dollars on the K-1 property settlement, leaving high-value acreage completely
+      empty for years.
+    character_count: 247

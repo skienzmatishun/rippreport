@@ -1,5 +1,5 @@
 metadata:
-  generated_at: '2026-08-03T02:36:33.910113Z'
+  generated_at: '2026-08-15T23:38:09.745979Z'
   generator_version: 1.0.0
   post_slug: read-the-comments
 hooks:
@@ -122,9 +122,9 @@ hooks:
     generated_at: '2026-03-11T09:54:11.441279Z'
     text: Sheriff Hoss Mack built a career on zero evidence and a "good ole boy" culture
       that rewards silence over justice. These trial transcripts prove Mack and Tony
-      Lowery knowingly sent a man to prison for over twenty years without a single fingerprint,
-      weapon, or shred of physical proof.
-    character_count: 278
+      Lowery knowingly sent a man to prison for over twenty years without a single
+      fingerprint, weapon, or shred of physical proof.
+    character_count: 283
   wrongful-conviction:
     brief: '1. THE CONFLICT
 
@@ -708,4 +708,4 @@ hooks:
       and his circle of protected officers. This post exposes how Mack and Robert
       Wilters use secret grand juries to rubber-stamp every police killing as "justified"
       while they ignore the rot inside.
-    character_count: 271
+    character_count: 266

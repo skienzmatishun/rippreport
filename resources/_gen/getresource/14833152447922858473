@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a261c8538cbaf366-MIA
+Cf-Ray: a2bc4a6c9bb09fe7-MIA
 Content-Type: application/json
-Date: Wed, 05 Aug 2026 00:46:02 GMT
+Date: Sun, 16 Aug 2026 00:23:30 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VwmXW6m0k8MV5HdXl6jqYsU4k1tF8uXZV5ElbygL7FE4bw3OGPdTIIbLPhJ%2BxYxDl9XwUMB9Jfns0spZHtcOFJjTXWCgsqhkSXOSxuRQNAwc4gVT8ZojLv1YaJ0FhY0k9iyCDx3kzBlNBOCQyivTDF6a2w%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8PMIb9FJ9PovzMJSXOfL53UacYbounWS91rDlWu2KDYnJ3QwWyCVkF45aEpiDbpkK989fzsLxsE3sMO2neRHd53QqkoG7AI%2FHHtcVvNEOHNFRcg7cp1VPa1uaAvdRa%2BCHWAoyH6BPJkgqZaVFj6cPGhCBg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=140
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=154
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
 X-Etags-1: c7e5e3af37870284b7ff8e469c126216
 X-Etags-2: c7e5e3af37870284b7ff8e469c126216
 
-{"title":"Wrongful Conviction Fairhope, Baldwin County","description":"Many people have seen the movie Just Mercy, a true story of the wrongful conviction of Walter McMillan, Baldwin County, Alabama. A second case that parallels the Just Mercy story is that of Murray Lawrence Jr, Fairhope, Baldwin County. This case involves the Judge, Prosecutor and Sheriff, lead investigator at the time of withholding evidence from the defense, an inefficient police investigation. Please take a few minutes and review the links below, they will inform you of the facts of the wrongful conviction.","url":"https://rippreport.com/p/wrongful-conviction-fairhope-baldwin-county/","image":"https://rippreport.com/img/wrongful-conviction-fairhope-baldwin-county.jpg","charset":"utf-8"}
+{"title":"Wrongful Conviction Fairhope, Baldwin County","description":"Many people have seen the movie Just Mercy, a true story of the wrongful conviction of Walter McMillan, Baldwin County, Alabama. A second case that parallels the Just Mercy story is that of Murray Lawrence Jr, Fairhope, Alabama, Baldwin County. This case involves the Judge, Prosecutor and Sheriff, lead investigator at the time of withholding evidence from the defense, an inefficient police investigation. Please take a few minutes and review the links below, they will inform you of the facts of the wrongful conviction.","url":"https://rippreport.com/p/wrongful-conviction-fairhope-baldwin-county/","image":"https://rippreport.com/img/wrongful-conviction-fairhope-baldwin-county.jpg","charset":"utf-8"}

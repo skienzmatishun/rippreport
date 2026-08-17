@@ -1,5 +1,5 @@
 metadata:
-  generated_at: '2026-08-03T02:36:31.705892Z'
+  generated_at: '2026-08-15T23:38:12.196978Z'
   generator_version: 1.0.0
   post_slug: Baldwin-county-wrongful-conviction
 hooks:
@@ -386,9 +386,9 @@ hooks:
     generated_at: '2026-03-12T04:01:19.670817Z'
     text: A single autopsy report buried for twenty years destroys the state's entire
       narrative against Murray Lawrence. We mapped the timeline the prosecution ignored,
-      while Hoss Mack was building a case, he was actually ignoring the
-      science that would have cleared an innocent man’s name.
-    character_count: 293
+      while Hoss Mack was building a case, he was actually ignoring the science that
+      would have cleared an innocent man’s name.
+    character_count: 280
   innocent:
     brief: 'THE CONFLICT:
 
@@ -580,8 +580,8 @@ hooks:
 
       2. THE DISCOVERY:
 
-      - Evidence discovered in Murray Lawrence case was suppressed "willfully
-      rather than inadvertently."
+      - Evidence discovered in Murray Lawrence case was suppressed "willfully rather
+      than inadvertently."
 
       - Evidence never divulged to defense team during original trial (20-year period).
 

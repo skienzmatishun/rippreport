@@ -1,5 +1,5 @@
 metadata:
-  generated_at: '2026-08-03T02:36:31.646523Z'
+  generated_at: '2026-08-15T23:38:12.258379Z'
   generator_version: 1.0.0
   post_slug: judge-vs-sheriff
 hooks:
@@ -79,7 +79,7 @@ hooks:
       even ignoring court orders to return seized property. This inside look at the
       FBI’s interest proves Mack’s "Boss" status isn't just a nickname. It''s a criminal
       enterprise that has captured every local judge.
-    character_count: 289
+    character_count: 290
   po-po-hoss-mack-ccuo:
     brief: '**THE CONFLICT:**
 
@@ -161,10 +161,10 @@ hooks:
       - Jon Grey (Public Relations Consultant)'
     generated_at: '2026-03-12T06:11:25.052503Z'
     text: The decades-long alliance between Hoss Mack and Robert Wilters isn't built
-      on justice; it's built on burying the truth. Evidence in the Lawrence case
-      shows these men allegedly hid autopsies to keep an innocent man in a cage while
-      hiring PR hacks like Jon Grey to spin the fallout.
-    character_count: 284
+      on justice; it's built on burying the truth. Evidence in the Lawrence case shows
+      these men allegedly hid autopsies to keep an innocent man in a cage while hiring
+      PR hacks like Jon Grey to spin the fallout.
+    character_count: 280
   new-sheriff-no-changes:
     brief: 'THE CONFLICT:
 
@@ -635,9 +635,9 @@ hooks:
     generated_at: '2026-03-12T06:11:25.052615Z'
     text: Sheriff Anthony Lowery wants you to believe he’s a fresh start, but he’s
       the same investigator who helped put an innocent man away. This look at the
-      2024 election shows how CATALYST is working overtime to keep the Hoss
-      Mack dynasty alive through the upcoming June primary.
-    character_count: 282
+      2024 election shows how CATALYST is working overtime to keep the Hoss Mack dynasty
+      alive through the upcoming June primary.
+    character_count: 272
   catalyst-sheriff:
     brief: 'THE CONFLICT
 

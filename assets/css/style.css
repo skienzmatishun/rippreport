@@ -314,6 +314,8 @@ select {
 
 .post__title {
 	margin: 0;
+	font-size: 90%;
+	overflow-wrap: initial;
 }
 
 .post__thumbnail {

@@ -1,319 +1,771 @@
 metadata:
-  generated_at: '2026-08-03T02:30:19.949368Z'
+  generated_at: '2026-08-15T23:38:24.124184Z'
   generator_version: 1.0.0
   post_slug: broken-eggs
-  refined_by: gemini
-  refined_at: '2026-08-07T01:20:31.075740Z'
 hooks:
   switching-hats:
-    brief: |-
-      **THE CONFLICT:**
-      *   Fairhope City Council under President Jack Burrell has been criticized for dysfunction and lack of rotation in leadership.
-      *   Burrell served as Council President for approximately 7 years (Main Article). The Widget Article states he has been Council President for the last 5 years.
-      *   The City Council is alleged to have obstructed the Mayor's office, specifically regarding budget oversight (Main Article/Widget Article).
-      *   Past major projects implicated in poor policy include: Triangle lawsuit, soccer fields (cost increased from $3.5M to nearly $6M), sewer plant issues ($10 million transfer for non-utility expenses), and the Airport debacle (Main Article).
-      *   Ray Hix, who resigned from the Fairhope Airport Authority, accepted free jet service provided by another board member while Chunk Zunk was a Finance Committee Member (Main Article).
+    brief: '**THE CONFLICT:**
+
+      *   Fairhope City Council under President Jack Burrell has been criticized for
+      dysfunction and lack of rotation in leadership.
+
+      *   Burrell served as Council President for approximately 7 years (Main Article).
+      The Widget Article states he has been Council President for the last 5 years.
+
+      *   The City Council is alleged to have obstructed the Mayor''s office, specifically
+      regarding budget oversight (Main Article/Widget Article).
+
+      *   Past major projects implicated in poor policy include: Triangle lawsuit,
+      soccer fields (cost increased from $3.5M to nearly $6M), sewer plant issues
+      ($10 million transfer for non-utility expenses), and the Airport debacle (Main
+      Article).
+
+      *   Ray Hix, who resigned from the Fairhope Airport Authority, accepted free
+      jet service provided by another board member while Chunk Zunk was a Finance
+      Committee Member (Main Article).
+
 
       **THE DISCOVERY:**
-      *   The second article reveals leadership failure is not limited to City Council but extends to Planning and Zoning.
-      *   Lee Turner holds dual roles as Head of Fairhope Planning and Zoning and President of the Single Tax Corporation, raising conflict of interest concerns regarding development approval processes (Widget Article).
-      *   Turner is alleged to have promoted the Tatumville Project for the Tatumville Subdivision without following proper procedure, using his position and "his good buddy Burrell" to circumvent standards (Widget Article).
+
+      *   The second article reveals leadership failure is not limited to City Council
+      but extends to Planning and Zoning.
+
+      *   Lee Turner holds dual roles as Head of Fairhope Planning and Zoning and
+      President of the Single Tax Corporation, raising conflict of interest concerns
+      regarding development approval processes (Widget Article).
+
+      *   Turner is alleged to have promoted the Tatumville Project for the Tatumville
+      Subdivision without following proper procedure, using his position and "his
+      good buddy Burrell" to circumvent standards (Widget Article).
+
 
       **THE PIVOT:**
-      *   Article 1 frames council obstruction around budget control and conflicts of interest involving Burrell's associations (Hix/Snedeker).
-      *   Article 2 provides a systemic extension of this alleged corruption, the pattern of "bad policy" and "manipulation" spans both governing bodies: City Council (Burrell's political dominance) and Planning and Zoning (Turner's dual role in approving problematic projects like Tatumville Gully).
-      *   It connects Burrell’s actions to specific development manipulation via Lee Turner, moving the narrative from simple financial mismanagement to systemic procedural abuse.
+
+      *   Article 1 frames council obstruction around budget control and conflicts
+      of interest involving Burrell''s associations (Hix/Snedeker).
+
+      *   Article 2 provides a systemic extension of this alleged corruption, the
+      pattern of "bad policy" and "manipulation" spans both governing bodies: City
+      Council (Burrell''s political dominance) and Planning and Zoning (Turner''s
+      dual role in approving problematic projects like Tatumville Gully).
+
+      *   It connects Burrell’s actions to specific development manipulation via Lee
+      Turner, moving the narrative from simple financial mismanagement to systemic
+      procedural abuse.
+
 
       **KEY ENTITIES:**
+
       *   Jack Burrell / Mr. Burrell: Council President/City Council Member.
+
       *   Lee Turner: Head of Planning and Zoning; President of Single Tax Corporation.
+
       *   Chunk Zunk: Finance Committee Member (Fairhope Airport Authority).
+
       *   Ray Hix: Former Airport Authority Board Member; Municipal Judge/Board Member.
+
       *   Judge Snedeker / Snedeker: Municipal Judge (associated with Ray Hix).
-      *   Robert Brown: Council Member criticized for postponing votes regarding impact fees.
-      *   Boone: City Council Member associated with past policy failures and voting patterns.
+
+      *   Robert Brown: Council Member criticized for postponing votes regarding impact
+      fees.
+
+      *   Boone: City Council Member associated with past policy failures and voting
+      patterns.
+
       *   Fairhope Planning and Zoning Commission / Board.
+
       *   Single Tax Corporation.
-      *   Tatumville Project/Subdivision.
+
+      *   Tatumville Project/Subdivision.'
     generated_at: '2026-07-18T14:05:46.385329Z'
-    text: Council President Jack Burrell ran Fairhope into political dysfunction while blowing millions on broken utility budgets and failed projects. Now, evidence proves Planning and Zoning Head Lee Turner abused his dual roles to bypass safety standards for his buddy Burrell on the Tatumville project.
+    text: Council President Jack Burrell ran Fairhope into political dysfunction while
+      blowing millions on broken utility budgets and failed projects. Now, evidence
+      proves Planning and Zoning Head Lee Turner abused his dual roles to bypass safety
+      standards for his buddy Burrell on the Tatumville project.
+    character_count: 295
   opposition-obstruction:
-    brief: |-
-      THE CONFLICT
-      *   Fairhope City Council has a long history of dysfunction and political maneuvering, led by Council President Jack Burrell for approximately 7 years.
-      *   Concerns exist regarding poor city planning and infrastructure, including $6 million sub-standard soccer fields that are not level, sewer spills, and issues related to the Fairhope Airport Authority (FAA).
-      *   Council members Robert Brown and Council Member Boone have been observed voting patterns supporting Burrell/his faction on various issues, such as postponing a vote on impact fees.
+    brief: 'THE CONFLICT
+
+      *   Fairhope City Council has a long history of dysfunction and political maneuvering,
+      led by Council President Jack Burrell for approximately 7 years.
+
+      *   Concerns exist regarding poor city planning and infrastructure, including
+      $6 million sub-standard soccer fields that are not level, sewer spills, and
+      issues related to the Fairhope Airport Authority (FAA).
+
+      *   Council members Robert Brown and Council Member Boone have been observed
+      voting patterns supporting Burrell/his faction on various issues, such as postponing
+      a vote on impact fees.
+
 
       THE DISCOVERY
-      *   During the September 11 City Council meeting, the council actively obstructed an insurance procurement process by refusing to open a second bid received only 23 hours after the deadline.
-      *   The Mayor had presented a favorable bid; the Council rejected this Mayoral recommendation and accepted their preferred company's bid, costing taxpayers $60,000 and resulting in inferior coverage.
-      *   Councilman Boone publicly labeled city document leaks as "transparency," while two lawyers reportedly warned the council about leaking information related to three pending claims against the city.
+
+      *   During the September 11 City Council meeting, the council actively obstructed
+      an insurance procurement process by refusing to open a second bid received only
+      23 hours after the deadline.
+
+      *   The Mayor had presented a favorable bid; the Council rejected this Mayoral
+      recommendation and accepted their preferred company''s bid, costing taxpayers
+      $60,000 and resulting in inferior coverage.
+
+      *   Councilman Boone publicly labeled city document leaks as "transparency,"
+      while two lawyers reportedly warned the council about leaking information related
+      to three pending claims against the city.
+
 
       THE PIVOT
-      *   The insurance bid blockage provides a specific, quantifiable example of the generalized claim (from Article 1) that the Council uses appointed committees and political agendas to further obstruct the Mayor’s office and derail the City's financial health.
-      *   Burrell’s assertion that this obstruction "had nothing to do with the Mayor" directly contradicts the evidence of the council voting as a unit against his own administration’s recommendations.
+
+      *   The insurance bid blockage provides a specific, quantifiable example of
+      the generalized claim (from Article 1) that the Council uses appointed committees
+      and political agendas to further obstruct the Mayor’s office and derail the
+      City''s financial health.
+
+      *   Burrell’s assertion that this obstruction "had nothing to do with the Mayor"
+      directly contradicts the evidence of the council voting as a unit against his
+      own administration’s recommendations.
+
 
       KEY ENTITIES
+
       *   Fairhope City Council / Fairhope City Council of Fairhope (Collective Body)
+
       *   Jack Burrell (Council President/City Council Member)
+
       *   Mayor (unnamed in articles, but targeted by obstruction)
-      *   Chunk Zunk (Finance Committee Member; former Fairhope Airport Authority member)
-      *   Ray Hix (Board member; Partner to Snedeker; connected to free jet service provided to Burrell)
+
+      *   Chunk Zunk (Finance Committee Member; former Fairhope Airport Authority
+      member)
+
+      *   Ray Hix (Board member; Partner to Snedeker; connected to free jet service
+      provided to Burrell)
+
       *   Judge Snedeker / Municipal Judge Snedeker
+
       *   Robert Brown (Council Member; property owner/developer connection cited)
+
       *   Boone / Councilman Boone
-      *   Conyers (Councilman)
+
+      *   Conyers (Councilman)'
     generated_at: '2026-07-18T14:05:46.385337Z'
-    text: Council President Jack Burrell built a legacy of stalling city projects and letting Fairhope taxpayers swallow massive financial losses. The council's recent rejection of a cheaper municipal insurance bid wasted $60,000 just to spite the Mayor and shield political allies.
+    text: Council President Jack Burrell built a legacy of stalling city projects
+      and letting Fairhope taxpayers swallow massive financial losses. The council's
+      recent rejection of a cheaper municipal insurance bid wasted $60,000 just to
+      spite the Mayor and shield political allies.
+    character_count: 272
   hell-yea:
-    brief: |-
-      THE CONFLICT
-      *   Jack Burrell served as Council President for an extended period (over 7 years).
-      *   The Fairhope City Council has been criticized for budget obstruction, specifically failing to discuss budgets with the Mayor in the last two weeks.
-      *   In 2015 and 2016, $10 million was transferred from utilities to general budget funds under Burrell’s leadership, allegedly affecting infrastructure (sewer spills).
-      *   Councilman Robert Brown postponed a vote on impact fees, which was only delayed after Burrell seconded the motion.
-      *   The council faced issues related to triangle lawsuits, sewer plants, wetland gifts, and the $6 million soccer complex, which critics stated was sub-standard compared to its initial $3.5 million estimate.
-      *   A dispute existed concerning free jet service provided by Ray Hix (an Airport Authority member) to Council President Burrell.
+    brief: 'THE CONFLICT
+
+      *   Jack Burrell served as Council President for an extended period (over 7
+      years).
+
+      *   The Fairhope City Council has been criticized for budget obstruction, specifically
+      failing to discuss budgets with the Mayor in the last two weeks.
+
+      *   In 2015 and 2016, $10 million was transferred from utilities to general
+      budget funds under Burrell’s leadership, allegedly affecting infrastructure
+      (sewer spills).
+
+      *   Councilman Robert Brown postponed a vote on impact fees, which was only
+      delayed after Burrell seconded the motion.
+
+      *   The council faced issues related to triangle lawsuits, sewer plants, wetland
+      gifts, and the $6 million soccer complex, which critics stated was sub-standard
+      compared to its initial $3.5 million estimate.
+
+      *   A dispute existed concerning free jet service provided by Ray Hix (an Airport
+      Authority member) to Council President Burrell.
+
 
       THE DISCOVERY
-      *   The Fairhope City Council operates as an "at Large" body resistant to change, while Mayor Karin Wilson has supported a move toward a District Council or Council-Manager form of government.
-      *   Chuckee Cheeze, editor of the *Courier*, created articles suggesting political intimidation by linking Kevin Boone’s complaint against Mayor Wilson's efforts to the Catalyst Council, which is alleged to be turning into a "Catalyst political tabloid."
-      *   In 2018, Ripp filed a lawsuit in the Southern District alleging Burrell denied First Amendment and 14th Amendment rights regarding free speech.
+
+      *   The Fairhope City Council operates as an "at Large" body resistant to change,
+      while Mayor Karin Wilson has supported a move toward a District Council or Council-Manager
+      form of government.
+
+      *   Chuckee Cheeze, editor of the *Courier*, created articles suggesting political
+      intimidation by linking Kevin Boone’s complaint against Mayor Wilson''s efforts
+      to the Catalyst Council, which is alleged to be turning into a "Catalyst political
+      tabloid."
+
+      *   In 2018, Ripp filed a lawsuit in the Southern District alleging Burrell
+      denied First Amendment and 14th Amendment rights regarding free speech.
+
 
       THE PIVOT
-      *   The Widget Article transitions the critique of administrative dysfunction (Article 1) into an accusation of targeted political maneuvering, intimidation tactics by associated groups like Catalyst/Boone, and documented legal challenges against Council leadership (Burrell).
-      *   It reveals that the council's refusal to engage in transparent budgetary review is not just a policy failure but potentially tied to active efforts to silence critics (e.g., Ripp’s 2018 lawsuit) while pushing specific political agendas (e.g., favoring certain land developers via impact fee discussions).
+
+      *   The Widget Article transitions the critique of administrative dysfunction
+      (Article 1) into an accusation of targeted political maneuvering, intimidation
+      tactics by associated groups like Catalyst/Boone, and documented legal challenges
+      against Council leadership (Burrell).
+
+      *   It reveals that the council''s refusal to engage in transparent budgetary
+      review is not just a policy failure but potentially tied to active efforts to
+      silence critics (e.g., Ripp’s 2018 lawsuit) while pushing specific political
+      agendas (e.g., favoring certain land developers via impact fee discussions).
+
 
       KEY ENTITIES
+
       *   Fairhope City Council / Fairhope-Airport Authority
+
       *   Jack Burrell (Council President)
+
       *   Kevin Boone
+
       *   Ray Hix
+
       *   Judge Snedeker
+
       *   Chunk Zunk (Former Airport Authority/Finance Committee Member)
+
       *   Robert Brown
+
       *   Karin Wilson (Mayor)
+
       *   Chuckee Cheeze (*The Courier*)
+
       *   Ripp (Lawsuit Filer)
-      *   Catalyst Council / Catalyst Organization
+
+      *   Catalyst Council / Catalyst Organization'
     generated_at: '2026-07-18T14:05:46.385344Z'
-    text: Council President Jack Burrell drained $10 million from local utilities while freezing out former Mayor Karin Wilson from basic budget talks. Court documents from a federal First Amendment lawsuit expose how Burrell used dirty media tricks and intimidation to gag his loudest critics.
+    text: Council President Jack Burrell drained $10 million from local utilities
+      while freezing out former Mayor Karin Wilson from basic budget talks. Court
+      documents from a federal First Amendment lawsuit expose how Burrell used dirty
+      media tricks and intimidation to gag his loudest critics.
+    character_count: 284
   chasing-your-tail:
-    brief: |-
-      THE CONFLICT: What happened in the past?
-      - Fairhope City Council faced accusations of dysfunction and poor leadership under Council President Jack Burrell, who has served for seven years.
-      - The council was criticized for failing to discuss budget issues with the Mayor’s office as promised.
-      - Specific historical failures include sewer spills and a transfer of $10 million from utilities to the general budget in 2015 and 2016 for non-utility expenses.
-      - Council President Burrell faced accusations regarding conflicts of interest, specifically accepting free jet service provided by Ray Hix, an Airport Authority board member who is partner with Municipal Judge Snedeker.
-      - The council was criticized for allowing the soccer complex to exceed its estimated $3.5 million budget and result in a sub-standard facility costing nearly $6 million.
+    brief: 'THE CONFLICT: What happened in the past?
+
+      - Fairhope City Council faced accusations of dysfunction and poor leadership
+      under Council President Jack Burrell, who has served for seven years.
+
+      - The council was criticized for failing to discuss budget issues with the Mayor’s
+      office as promised.
+
+      - Specific historical failures include sewer spills and a transfer of $10 million
+      from utilities to the general budget in 2015 and 2016 for non-utility expenses.
+
+      - Council President Burrell faced accusations regarding conflicts of interest,
+      specifically accepting free jet service provided by Ray Hix, an Airport Authority
+      board member who is partner with Municipal Judge Snedeker.
+
+      - The council was criticized for allowing the soccer complex to exceed its estimated
+      $3.5 million budget and result in a sub-standard facility costing nearly $6
+      million.
+
 
       THE DISCOVERY: What does the second article prove or reveal today?
-      - The City Attorney allegedly takes orders from the Council President rather than serving the Mayor, leading to lack of transparency.
-      - In the Breland case (rooted back to 2001/2013), Alabama’s Supreme Court ruled against Fairhope after the city was found to have targeted a property owner by delaying development in a wetland area for over 11 years.
-      - The council under Burrell faced a $11.25 million loss in the Dyas lawsuit, which Mr. Burrell negotiated without public participation or notification until it settled.
 
-      THE PIVOT: Why is Article 2 the 'smoking gun' for Article 1?
-      - Article 1 alleges general obstruction and poor leadership by Jack Burrell; Article 2 provides concrete evidence of legal failure (Dyas suit) and systematic procedural neglect resulting in significant financial losses and governmental loss (Breland case, $11.25M and 11+ years).
-      - These specific, costly lawsuits prove the generalized claim in Article 1 that Burrell's administration lacks leadership and has a poor track record regarding city finances and public duty.
+      - The City Attorney allegedly takes orders from the Council President rather
+      than serving the Mayor, leading to lack of transparency.
+
+      - In the Breland case (rooted back to 2001/2013), Alabama’s Supreme Court ruled
+      against Fairhope after the city was found to have targeted a property owner
+      by delaying development in a wetland area for over 11 years.
+
+      - The council under Burrell faced a $11.25 million loss in the Dyas lawsuit,
+      which Mr. Burrell negotiated without public participation or notification until
+      it settled.
+
+
+      THE PIVOT: Why is Article 2 the ''smoking gun'' for Article 1?
+
+      - Article 1 alleges general obstruction and poor leadership by Jack Burrell;
+      Article 2 provides concrete evidence of legal failure (Dyas suit) and systematic
+      procedural neglect resulting in significant financial losses and governmental
+      loss (Breland case, $11.25M and 11+ years).
+
+      - These specific, costly lawsuits prove the generalized claim in Article 1 that
+      Burrell''s administration lacks leadership and has a poor track record regarding
+      city finances and public duty.
+
 
       KEY ENTITIES: A list of specific names, organizations, or locations to mention
+
       - Fairhope City Council (collective body)
+
       - Jack Burrell (Council President/Mayor/Councilman)
+
       - Chunk Zunk (Finance Committee Member)
+
       - Ray Hix (Airport Authority Board Member/Municipal Judge)
+
       - Charles K. Breland (Lawsuit Plaintiff / Property Owner)
+
       - Dyas (Lawsuit Plaintiff)
+
       - Snedeker (Municipal Judge)
+
       - Boone (City Council Member)
+
       - Robert Brown (Council Member)
+
       - Conyers (Mayor/Councilman)
+
       - Robinson (Councilman)
+
       - City Attorney for Fairhope
-      - Triangle (Land/Property Entity)
+
+      - Triangle (Land/Property Entity)'
     generated_at: '2026-07-18T14:05:46.385349Z'
-    text: Council President Jack Burrell left Fairhope taxpayers holding the bag for millions in bloated soccer fields and utility blunders. Shocking court records expose how Burrell's secret backroom deals triggered an $11.25 million legal payout in the costly Dyas disaster.
+    text: Council President Jack Burrell left Fairhope taxpayers holding the bag for
+      millions in bloated soccer fields and utility blunders. Shocking court records
+      expose how Burrell's secret backroom deals triggered an $11.25 million legal
+      payout in the costly Dyas disaster.
+    character_count: 266
   communication:
-    brief: |-
-      THE CONFLICT
-      *   Fairhope City Council under Council President Jack Burrell is accused of dysfunction and obstruction against the Mayor’s office.
-      *   The council has failed to review the city budget with the Mayor as promised, shifting control to an appointed Finance Committee led by Chunk Zunk.
-      *   Past administrative failures occurred during Burrell's presidency, including issues regarding sewer spills (10 million dollars transferred from utilities to general budget in 2015 and 2016) and subpar $6 million soccer fields.
-      *   A pattern of political maneuvering was established where Jack Burrell and Marcus McDowell selected each other, positioning them as a "Catalyst" group to overthrow the prior administration (Can’t era/Sherry Sullivan).
+    brief: 'THE CONFLICT
+
+      *   Fairhope City Council under Council President Jack Burrell is accused of
+      dysfunction and obstruction against the Mayor’s office.
+
+      *   The council has failed to review the city budget with the Mayor as promised,
+      shifting control to an appointed Finance Committee led by Chunk Zunk.
+
+      *   Past administrative failures occurred during Burrell''s presidency, including
+      issues regarding sewer spills (10 million dollars transferred from utilities
+      to general budget in 2015 and 2016) and subpar $6 million soccer fields.
+
+      *   A pattern of political maneuvering was established where Jack Burrell and
+      Marcus McDowell selected each other, positioning them as a "Catalyst" group
+      to overthrow the prior administration (Can’t era/Sherry Sullivan).
+
 
       THE DISCOVERY
-      *   The second article reveals that the alleged operational obstruction is rooted in systemic insubordination.
-      *   City Attorney Marcus McDowell has been actively circumventing the Mayor by making decisions on city business (e.g., Golf Course equipment on January 28th meeting) without mayoral approval, indicating he serves Burrell rather than the City.
-      *   McDowell and Jack Burrell were involved in handling a Federal lawsuit that resulted in thousands of dollars lost to taxpayers, and they ignored Burrell’s police report.
-      *   McDowell has repeatedly prosecuted citizens victims of Ronan McSharry (at least three times in 18 months) while maintaining a public connection to the perpetrator (J. Burrell sandwich on his menu).
+
+      *   The second article reveals that the alleged operational obstruction is rooted
+      in systemic insubordination.
+
+      *   City Attorney Marcus McDowell has been actively circumventing the Mayor
+      by making decisions on city business (e.g., Golf Course equipment on January
+      28th meeting) without mayoral approval, indicating he serves Burrell rather
+      than the City.
+
+      *   McDowell and Jack Burrell were involved in handling a Federal lawsuit that
+      resulted in thousands of dollars lost to taxpayers, and they ignored Burrell’s
+      police report.
+
+      *   McDowell has repeatedly prosecuted citizens victims of Ronan McSharry (at
+      least three times in 18 months) while maintaining a public connection to the
+      perpetrator (J. Burrell sandwich on his menu).
+
 
       THE PIVOT
+
       *   Article 1 establishes the symptom: council obstruction and mismanagement.
-      *   Article 2 provides the mechanism for that obstruction, proving it is driven by personal allegiance and political self-preservation rather than civic duty (McDowell being a "holdover" serving Burrell's agenda).
-      *   It shifts the focus from general incompetence to documented acts of insubordination, ignored criminal records, and compromised integrity within the City Attorney’s office.
+
+      *   Article 2 provides the mechanism for that obstruction, proving it is driven
+      by personal allegiance and political self-preservation rather than civic duty
+      (McDowell being a "holdover" serving Burrell''s agenda).
+
+      *   It shifts the focus from general incompetence to documented acts of insubordination,
+      ignored criminal records, and compromised integrity within the City Attorney’s
+      office.
+
 
       KEY ENTITIES
+
       *   Jack Burrell: Council President/Councilman (associated with 7-year presidency)
+
       *   Marcus McDowell: City Attorney / Public Prosecutor
-      *   Chunk Zunk: Finance Committee Member / Former Fairhope Airport Authority official
-      *   Ray Hix: Board member for Airport Authority (linked to Snedeker and FAA service provided to Burrell)
+
+      *   Chunk Zunk: Finance Committee Member / Former Fairhope Airport Authority
+      official
+
+      *   Ray Hix: Board member for Airport Authority (linked to Snedeker and FAA
+      service provided to Burrell)
+
       *   Judge Snedeker/Snedeker: Municipal Judge
-      *   Ronan McSharry: Restaurant Owner / Suspected Serial Domestic Abuser (Public Nuisance)
+
+      *   Ronan McSharry: Restaurant Owner / Suspected Serial Domestic Abuser (Public
+      Nuisance)
+
       *   Boone: Council Member (allegedly voting in lockstep with Burrell)
+
       *   Robert Brown: Council Member (noted for postponing impact fee votes)
+
       *   Fairhope City Attorney
+
       *   Fairhope Airport Authority
+
       *   The Ripp Report / Ripp
-      *   Mayor/Mayors: Sherry Sullivan, Kant
+
+      *   Mayor/Mayors: Sherry Sullivan, Kant'
     generated_at: '2026-07-18T14:05:46.385368Z'
-    text: Council President Jack Burrell spent years systematically blocking the mayor's office to protect his own political machine. Insider reports reveal City Attorney Marcus McDowell operates as Burrell's personal attack dog, running city business behind the Mayor's back.
+    text: Council President Jack Burrell spent years systematically blocking the mayor's
+      office to protect his own political machine. Insider reports reveal City Attorney
+      Marcus McDowell operates as Burrell's personal attack dog, running city business
+      behind the Mayor's back.
+    character_count: 266
   in-the-dark:
-    brief: |-
-      THE CONFLICT: What happened in the past (Names/Dates)?
-      *   1960s–2024: Fairhope City Council has struggled with fiscal mismanagement and failed infrastructure projects (e.g., sewer spills in 2015-2016, triangle lawsuit costing $3M legal fees).
-      *   2018 (CityCouncil Meeting): The council debated an engagement letter authorizing the representation of The City of Fairhope in *Charles K/ Breland, Jr. V. The City of Fairhope*, CV-2013-901096.
-      *   1975–Present: Jack Burrell has served as Council President for an extended period (at least 7 years prior to the article's writing).
-      *   Previous Incidents: There were allegations of conflicts of interest involving free jet service provided by board member Ray Hix to Council President Burrell.
+    brief: 'THE CONFLICT: What happened in the past (Names/Dates)?
+
+      *   1960s–2024: Fairhope City Council has struggled with fiscal mismanagement
+      and failed infrastructure projects (e.g., sewer spills in 2015-2016, triangle
+      lawsuit costing $3M legal fees).
+
+      *   2018 (CityCouncil Meeting): The council debated an engagement letter authorizing
+      the representation of The City of Fairhope in *Charles K/ Breland, Jr. V. The
+      City of Fairhope*, CV-2013-901096.
+
+      *   1975–Present: Jack Burrell has served as Council President for an extended
+      period (at least 7 years prior to the article''s writing).
+
+      *   Previous Incidents: There were allegations of conflicts of interest involving
+      free jet service provided by board member Ray Hix to Council President Burrell.
+
 
       THE DISCOVERY: What does Article 2 prove or reveal today?
-      *   Article 2 reveals a pattern of political capture and opacity in Fairhope City governance stretching back to 2018.
-      *   It highlights that the council's voting record is heavily influenced by specific voting blocs, such as "non-drinking Christians" (Baptists), who deliver vetoes or no votes on key items like the Entertainment District proposal.
-      *   Article 2 shows the City Council was deliberately choosing to ignore serious legal liabilities and property owner rights (e.g., ignoring an Alabama Supreme Court ruling in *Breland*) during a period when it should have been settling major lawsuits to protect taxpayers.
 
-      THE PIVOT: Why is Article 2 the 'smoking gun' for Article 1?
-      *   Article 1 focuses on current obstruction and appointment issues (e.g., Chunk Zunk appointed to Finance Committee, Burrell refusing budget review).
-      *   Article 2 proves this isn't a new problem, but a systemic failure of accountability dating back years—the council's decision-making is dictated by political expediency (kissings feet of Baptist bloc) rather than fiscal responsibility. The current obstruction in Article 1 is simply the latest iteration of the "dark" lack of oversight detailed in 2018.
+      *   Article 2 reveals a pattern of political capture and opacity in Fairhope
+      City governance stretching back to 2018.
+
+      *   It highlights that the council''s voting record is heavily influenced by
+      specific voting blocs, such as "non-drinking Christians" (Baptists), who deliver
+      vetoes or no votes on key items like the Entertainment District proposal.
+
+      *   Article 2 shows the City Council was deliberately choosing to ignore serious
+      legal liabilities and property owner rights (e.g., ignoring an Alabama Supreme
+      Court ruling in *Breland*) during a period when it should have been settling
+      major lawsuits to protect taxpayers.
+
+
+      THE PIVOT: Why is Article 2 the ''smoking gun'' for Article 1?
+
+      *   Article 1 focuses on current obstruction and appointment issues (e.g., Chunk
+      Zunk appointed to Finance Committee, Burrell refusing budget review).
+
+      *   Article 2 proves this isn''t a new problem, but a systemic failure of accountability
+      dating back years—the council''s decision-making is dictated by political expediency
+      (kissings feet of Baptist bloc) rather than fiscal responsibility. The current
+      obstruction in Article 1 is simply the latest iteration of the "dark" lack of
+      oversight detailed in 2018.
+
 
       KEY ENTITIES: A list of specific names to mention
+
       *   Jack Burrell (Council President, Councilman, Mayor [de facto])
+
       *   Chunk Zunk (Finance Committee Member, Former Fairhope Airport Authority)
-      *   Ray Hix (Board Member/former Board Member of Fairhope Airport Authority, Municipal Judge)
+
+      *   Ray Hix (Board Member/former Board Member of Fairhope Airport Authority,
+      Municipal Judge)
+
       *   Judge Snedeker / Snedecker (Municipal Judge)
+
       *   Charles K/ Breland, Jr. (Litigant in CV-2013-901096 vs The City of Fairhope)
+
       *   Karin Wilson (Former Mayor, Mayor [in various dates])
+
       *   Robert Brown (Council Member)
+
       *   Boone (City Council Member/de facto political ally to Burrell)
+
       *   Fairhope Airport Authority (FAA)
-      *   City Council / Fairhope City Council
+
+      *   City Council / Fairhope City Council'
     generated_at: '2026-07-18T14:05:46.385375Z'
-    text: Council President Jack Burrell turned Fairhope city hall into a black box of hidden agendas and unchecked fiscal incompetence. Uncovered transcripts from the Breland legal fight expose how council members intentionally ignored state law just to cater to special interest voting blocs.
+    text: Council President Jack Burrell turned Fairhope city hall into a black box
+      of hidden agendas and unchecked fiscal incompetence. Uncovered transcripts from
+      the Breland legal fight expose how council members intentionally ignored state
+      law just to cater to special interest voting blocs.
+    character_count: 284
   three-strikes:
-    brief: |-
-      THE CONFLICT
-      *   Jack Burrell served as Council President and was implicated in various city issues, including infrastructure failures (level soccer fields, estimated cost increase from $3.5M to nearly $6M) and budget obstruction.
-      *   Allegations surfaced regarding conflicts of interest involving Burrell accepting free jet service from board member Ray Hix, who is affiliated with Municipal Judge Snedeker and the Fairhope Airport Authority.
-      *   Councilman Robert Brown faced scrutiny for postponing votes on impact fees, a motion which he subsequently had Burrell second. This was linked to developer interests (Arthur Corte) and the $6M cost of "world class" soccer fields built under contractor Brown's purview.
+    brief: 'THE CONFLICT
+
+      *   Jack Burrell served as Council President and was implicated in various city
+      issues, including infrastructure failures (level soccer fields, estimated cost
+      increase from $3.5M to nearly $6M) and budget obstruction.
+
+      *   Allegations surfaced regarding conflicts of interest involving Burrell accepting
+      free jet service from board member Ray Hix, who is affiliated with Municipal
+      Judge Snedeker and the Fairhope Airport Authority.
+
+      *   Councilman Robert Brown faced scrutiny for postponing votes on impact fees,
+      a motion which he subsequently had Burrell second. This was linked to developer
+      interests (Arthur Corte) and the $6M cost of "world class" soccer fields built
+      under contractor Brown''s purview.
+
 
       THE DISCOVERY
-      *   The May 29th City Council meeting revealed Resolution 28: The authorization for a Conservation Easement Agreement involving Dyas/Triangle property.
-      *   Dyas/Triangle property is valued at over $18 million, and the agreement carries a cost of $39,025.00 to Weeks Bay Foundation, Inc., due diligence, and closing fees.
-      *   Council President Burrell stated he "could not remember" proposing this easement despite his role in leading the council during its discussion.
-      *   Diana Brewer (former Councilwoman/pro-developer) is reported by staff sources as having reached out regarding the Conservation Easement to advance a political agenda supported by certain council members.
+
+      *   The May 29th City Council meeting revealed Resolution 28: The authorization
+      for a Conservation Easement Agreement involving Dyas/Triangle property.
+
+      *   Dyas/Triangle property is valued at over $18 million, and the agreement
+      carries a cost of $39,025.00 to Weeks Bay Foundation, Inc., due diligence, and
+      closing fees.
+
+      *   Council President Burrell stated he "could not remember" proposing this
+      easement despite his role in leading the council during its discussion.
+
+      *   Diana Brewer (former Councilwoman/pro-developer) is reported by staff sources
+      as having reached out regarding the Conservation Easement to advance a political
+      agenda supported by certain council members.
+
 
       THE PIVOT
-      *   While Article 1 alleges Burrell and other officials are engaging in systemic obstruction, Article 2 provides concrete transactional evidence of that "obstruction" being used for specific developer interests.
-      *   Article 2 directly connects the abstract allegations in Article 1 (favoritism toward developers) to a tangible, high-value asset ($18 million Dyas/Triangle property) and names Diana Brewer's allegedly political maneuvering with Weeks Bay Foundation, Inc., confirming Councilman Brown’s ties to developer Arthur Corte regarding land disposition and fees.
-      *   Article 2 proves Burrell's claim of disinterest in the matter by having him unable to remember proposing Resolution 28—a specific example used to bolster Article 1's overall critique of his leadership and council dysfunction.
+
+      *   While Article 1 alleges Burrell and other officials are engaging in systemic
+      obstruction, Article 2 provides concrete transactional evidence of that "obstruction"
+      being used for specific developer interests.
+
+      *   Article 2 directly connects the abstract allegations in Article 1 (favoritism
+      toward developers) to a tangible, high-value asset ($18 million Dyas/Triangle
+      property) and names Diana Brewer''s allegedly political maneuvering with Weeks
+      Bay Foundation, Inc., confirming Councilman Brown’s ties to developer Arthur
+      Corte regarding land disposition and fees.
+
+      *   Article 2 proves Burrell''s claim of disinterest in the matter by having
+      him unable to remember proposing Resolution 28—a specific example used to bolster
+      Article 1''s overall critique of his leadership and council dysfunction.
+
 
       KEY ENTITIES
+
       *   Jack Burrell (Council President, Councilman)
+
       *   Arthur Corte (Developer, Land Owner, Contractor)
+
       *   Robert Brown (Council Member/Former, Contractor for Art Center/Soccer Fields)
+
       *   Ray Hix (Board Member of Airport Authority, Municipal Judge)
+
       *   Chunk Zunk (Finance Committee Member, former Fairhope Airport Authority)
+
       *   Diana Brewer (Former Councilwoman, Weeks Bay Foundation connection)
+
       *   Weeks Bay Foundation, Inc.
+
       *   Dyas/Triangle property ($18 million valuation, 109 acres)
-      *   Fairhope City Council
+
+      *   Fairhope City Council'
     generated_at: '2026-07-18T14:05:46.385381Z'
-    text: Council Member Robert Brown and Council President Jack Burrell routinely backed developer interests over public accountability. Fresh evidence links former Councilwoman Diana Brewer to an $18 million land deal that Burrell suddenly claims he cannot remember proposing.
+    text: Council Member Robert Brown and Council President Jack Burrell routinely
+      backed developer interests over public accountability. Fresh evidence links
+      former Councilwoman Diana Brewer to an $18 million land deal that Burrell suddenly
+      claims he cannot remember proposing.
+    character_count: 268
   going-down:
-    brief: |-
-      **THE CONFLICT**
-      *   Fairhope City Council has faced allegations of dysfunction, obstruction of the Mayor’s office, and poor policy decisions regarding municipal infrastructure since the tenure of Council President Jack Burrell.
-      *   The council, including members Burrell and Boone, was involved in policies (15 and 16) that resulted in $10 million transfer from utilities to the general budget for non-utility expenses while sewer spills were ongoing.
-      *   Conflicts arose regarding the hiring of consultants for impact fees; Council Member Robert Brown postponed a vote on this consultant, requiring Burrell’s second for his motion.
-      *   Allegations exist that Jack Burrell accepted free jet service from Ray Hix during the time Zunk resigned as Fairhope Airport Authority representative.
+    brief: '**THE CONFLICT**
+
+      *   Fairhope City Council has faced allegations of dysfunction, obstruction
+      of the Mayor’s office, and poor policy decisions regarding municipal infrastructure
+      since the tenure of Council President Jack Burrell.
+
+      *   The council, including members Burrell and Boone, was involved in policies
+      (15 and 16) that resulted in $10 million transfer from utilities to the general
+      budget for non-utility expenses while sewer spills were ongoing.
+
+      *   Conflicts arose regarding the hiring of consultants for impact fees; Council
+      Member Robert Brown postponed a vote on this consultant, requiring Burrell’s
+      second for his motion.
+
+      *   Allegations exist that Jack Burrell accepted free jet service from Ray Hix
+      during the time Zunk resigned as Fairhope Airport Authority representative.
+
 
       **THE DISCOVERY**
-      *   Baldwin County operates without established sewer regulations and experiences regular sewer spills into the Bay across the county.
-      *   Fairhope is experiencing rapid, unbridled development, with over 566 apartments currently under construction or proposed within city limits alone.
-      *   Specific developments (e.g., "181/Fairhope at Wal-Mart" and traffic corridor between Parker Road and Publix) are creating density and connectivity issues in Fairhope.
-      *   Current development trends suggest impact fees and taxes will be insufficient to correct future infrastructure failures and quality of life declines.
+
+      *   Baldwin County operates without established sewer regulations and experiences
+      regular sewer spills into the Bay across the county.
+
+      *   Fairhope is experiencing rapid, unbridled development, with over 566 apartments
+      currently under construction or proposed within city limits alone.
+
+      *   Specific developments (e.g., "181/Fairhope at Wal-Mart" and traffic corridor
+      between Parker Road and Publix) are creating density and connectivity issues
+      in Fairhope.
+
+      *   Current development trends suggest impact fees and taxes will be insufficient
+      to correct future infrastructure failures and quality of life declines.
+
 
       **THE PIVOT**
-      *   Article 2 provides concrete, large-scale evidence (sewer spills, massive traffic congestion at specific intersections like Parker Road) confirming the infrastructural neglect and civic decline warned about in Article 1's criticism of Burrell’s leadership and council mismanagement.
-      *   The rise of developers and the stated goals of a "Catalyst Council" in Article 2 directly illustrates the political pressures (impact fees, zoning, density debates) that were criticized in Article 1 as being used to obstruct or delay sound city governance.
+
+      *   Article 2 provides concrete, large-scale evidence (sewer spills, massive
+      traffic congestion at specific intersections like Parker Road) confirming the
+      infrastructural neglect and civic decline warned about in Article 1''s criticism
+      of Burrell’s leadership and council mismanagement.
+
+      *   The rise of developers and the stated goals of a "Catalyst Council" in Article
+      2 directly illustrates the political pressures (impact fees, zoning, density
+      debates) that were criticized in Article 1 as being used to obstruct or delay
+      sound city governance.
+
 
       **KEY ENTITIES**
+
       *   Jack Burrell (Council President, Fairhope City Council)
-      *   Ray Hix (Former Airport Authority Board Member, Organizer of Gayfer Village Partners, Llc)
-      *   Chunk Zunk (Finance Committee Member, Former Fairhope Airport Authority FAA representative)
+
+      *   Ray Hix (Former Airport Authority Board Member, Organizer of Gayfer Village
+      Partners, Llc)
+
+      *   Chunk Zunk (Finance Committee Member, Former Fairhope Airport Authority
+      FAA representative)
+
       *   Robert Brown (City Councilman, property owner in Fairhope)
+
       *   Boone (Council Member/Councilman for Fairhope City Council)
+
       *   Catalyst Council (Political group promoting high density and developer interests)
+
       *   Baldwin County (Government entity experiencing infrastructure failure)
+
       *   Fairhope (Municipality under rapid development pressure)
+
       *   Snedeker (Municipal Judge, connected to Ray Hix)
+
       *   Parker Road (Major intersection impacted by new developments)
-      *   Publix (Commercial location at Parker/98 intersection)
+
+      *   Publix (Commercial location at Parker/98 intersection)'
     generated_at: '2026-07-18T14:05:46.385387Z'
-    text: Council President Jack Burrell delayed developer impact fees while city sewer lines spilled waste across Baldwin County. New development records reveal over 566 new apartments driving massive traffic chaos near Parker Road because the council refused to make builders pay up.
+    text: Council President Jack Burrell delayed developer impact fees while city
+      sewer lines spilled waste across Baldwin County. New development records reveal
+      over 566 new apartments driving massive traffic chaos near Parker Road because
+      the council refused to make builders pay up.
+    character_count: 275
   the-face-of-no:
-    brief: |-
-      THE CONFLICT
-      *   Fairhope City Council dysfunction led by Council President Jack Burrell (in office for over 7 years).
-      *   Burrell accepted free jet service from board member Ray Hix while resigning from his position at the Fairhope Airport Authority (FAA) as part of an investigation into a hangar bid.
-      *   Jack Burrell (formerly FAA Board Member) handled a 1 million dollar corporate jet/hanger RFP bid for Special Interest actors, including Judge Snedeker and Ray Hix.
-      *   Councilor Robert Brown’s motion to delay impact fee discussions was seconded by Jack Burrell.
-      *   Sewer spills occurred despite Council members (Burrell and Boone) making no public statements regarding the 10 million dollar transfer from utilities to the general budget in 2015-2016.
+    brief: 'THE CONFLICT
+
+      *   Fairhope City Council dysfunction led by Council President Jack Burrell
+      (in office for over 7 years).
+
+      *   Burrell accepted free jet service from board member Ray Hix while resigning
+      from his position at the Fairhope Airport Authority (FAA) as part of an investigation
+      into a hangar bid.
+
+      *   Jack Burrell (formerly FAA Board Member) handled a 1 million dollar corporate
+      jet/hanger RFP bid for Special Interest actors, including Judge Snedeker and
+      Ray Hix.
+
+      *   Councilor Robert Brown’s motion to delay impact fee discussions was seconded
+      by Jack Burrell.
+
+      *   Sewer spills occurred despite Council members (Burrell and Boone) making
+      no public statements regarding the 10 million dollar transfer from utilities
+      to the general budget in 2015-2016.
+
 
       THE DISCOVERY
-      *   Former Chief of Staff for Mayor of Mobile, Colby Cooper, was recruited by Catalyst/special interests to campaign against government change (voting 'No' on a referendum).
-      *   Colby Cooper’s professional history reveals he became COO for the company owned by Fairhope Municipal Judge Ray Hix and Board member Ray Hix.
-      *   This connection links Cooper directly to the "Special Interests" benefiting from decisions related to the Airport Authority bid handled by Jack Burrell.
+
+      *   Former Chief of Staff for Mayor of Mobile, Colby Cooper, was recruited by
+      Catalyst/special interests to campaign against government change (voting ''No''
+      on a referendum).
+
+      *   Colby Cooper’s professional history reveals he became COO for the company
+      owned by Fairhope Municipal Judge Ray Hix and Board member Ray Hix.
+
+      *   This connection links Cooper directly to the "Special Interests" benefiting
+      from decisions related to the Airport Authority bid handled by Jack Burrell.
+
 
       THE PIVOT
-      *   Article 1 identifies a pattern of obstruction, flawed RFPs, and conflicts of interest involving Council President Jack Burrell, Zunk, Ray Hix, and Judge Snedeker regarding the Fairhope Airport and municipal budget.
-      *   Article 2 provides the specific mechanism these decision-makers (Burrell) are directly colluding or being influenced by powerful outside actors like Colby Cooper who represents special interests tied to key players in the controversy (Hix/Snedeker).
+
+      *   Article 1 identifies a pattern of obstruction, flawed RFPs, and conflicts
+      of interest involving Council President Jack Burrell, Zunk, Ray Hix, and Judge
+      Snedeker regarding the Fairhope Airport and municipal budget.
+
+      *   Article 2 provides the specific mechanism these decision-makers (Burrell)
+      are directly colluding or being influenced by powerful outside actors like Colby
+      Cooper who represents special interests tied to key players in the controversy
+      (Hix/Snedeker).
+
 
       KEY ENTITIES
+
       *   Jack Burrell / Mr. Jack Burrell
+
       *   Ray Hix
+
       *   Judge Snedeker
+
       *   Chuck Zunk
+
       *   Colby Cooper
+
       *   Catalyst (Political organization)
+
       *   Robert Brown
+
       *   Boone
-      *   Fairhope Airport Authority
+
+      *   Fairhope Airport Authority'
     generated_at: '2026-07-18T14:05:46.385392Z'
-    text: Council President Jack Burrell helped land-grant insiders steer airport deals while accepting free corporate jet trips from former board member Ray Hix. Paperwork exposes how political operative Colby Cooper joined Hix's payroll to run dirty opposition campaigns against government reforms.
+    text: Council President Jack Burrell helped land-grant insiders steer airport
+      deals while accepting free corporate jet trips from former board member Ray
+      Hix. Paperwork exposes how political operative Colby Cooper joined Hix's payroll
+      to run dirty opposition campaigns against government reforms.
+    character_count: 290
   pedaling-backwards:
-    brief: |-
-      THE CONFLICT: What happened in the past? (Include specific names, dates, events)
-      - Fairhope City Council has been operating under the leadership of Council President Jack Burrell for 7 years.
-      - The council was involved in a Triangle legal settlement resulting in the purchase of an 11.25 million dollar property.
-      - Past administrations, including those served by Burrell and Boone, oversaw infrastructure issues such as sewer spills and $3.5 million to $6 million soccer field renovations which were reported as sub-standard facilities.
-      - Councilman Robert Brown postponed a vote on impact fees for developers until Jack Burrell seconded the motion (date not specified).
+    brief: 'THE CONFLICT: What happened in the past? (Include specific names, dates,
+      events)
+
+      - Fairhope City Council has been operating under the leadership of Council President
+      Jack Burrell for 7 years.
+
+      - The council was involved in a Triangle legal settlement resulting in the purchase
+      of an 11.25 million dollar property.
+
+      - Past administrations, including those served by Burrell and Boone, oversaw
+      infrastructure issues such as sewer spills and $3.5 million to $6 million soccer
+      field renovations which were reported as sub-standard facilities.
+
+      - Councilman Robert Brown postponed a vote on impact fees for developers until
+      Jack Burrell seconded the motion (date not specified).
+
 
       THE DISCOVERY: What does the second article prove or reveal today?
-      - The Fairhope City Council has failed to achieve major accomplishments in three years and recently missed a federal grant intended for a K-1 center.
-      - The council and city attorney use legal tactics, such as feasibility studies costing $10,000 (unbudgeted), to push agenda items that contradict official narratives.
-      - The Council attempted to justify a bike trail on the Triangle property as a park but lost the lawsuit concerning its intended purpose.
 
-      THE PIVOT: Why is Article 2 the 'smoking gun' for Article 1?
-      - Article 2 establishes a proven pattern of systemic obstruction and agenda manipulation (using legal settlements/lawsuits against city needs), validating the claim in Article 1 that council actions are political rather than progressive or financially sound.
-      - Article 2 provides historical evidence that Burrell and Boone leveraged the Triangle settlement to mislead voters, connecting their current perceived lack of leadership to long-term deceit over city assets.
+      - The Fairhope City Council has failed to achieve major accomplishments in three
+      years and recently missed a federal grant intended for a K-1 center.
+
+      - The council and city attorney use legal tactics, such as feasibility studies
+      costing $10,000 (unbudgeted), to push agenda items that contradict official
+      narratives.
+
+      - The Council attempted to justify a bike trail on the Triangle property as
+      a park but lost the lawsuit concerning its intended purpose.
+
+
+      THE PIVOT: Why is Article 2 the ''smoking gun'' for Article 1?
+
+      - Article 2 establishes a proven pattern of systemic obstruction and agenda
+      manipulation (using legal settlements/lawsuits against city needs), validating
+      the claim in Article 1 that council actions are political rather than progressive
+      or financially sound.
+
+      - Article 2 provides historical evidence that Burrell and Boone leveraged the
+      Triangle settlement to mislead voters, connecting their current perceived lack
+      of leadership to long-term deceit over city assets.
+
 
       KEY ENTITIES: List specific names, organizations, or locations to mention
+
       - Fairhope City Council
+
       - Jack Burrell (Council President)
+
       - Chunk Zunk (Appointed Finance Committee Member)
-      - Ray Hix (Former Airport Authority Board Member/Board member of committee linked to Burrell's free jet service)
-      - Judge Snedeker (Fairhope Municipal Judge, connected via relationship with Ray Hix)
-      - Robert Brown (Council Member who delayed impact fee votes and second the motion for him)
-      - Boone (City Council Member involved in questionable policy votes/Triangle settlement)
+
+      - Ray Hix (Former Airport Authority Board Member/Board member of committee linked
+      to Burrell''s free jet service)
+
+      - Judge Snedeker (Fairhope Municipal Judge, connected via relationship with
+      Ray Hix)
+
+      - Robert Brown (Council Member who delayed impact fee votes and second the motion
+      for him)
+
+      - Boone (City Council Member involved in questionable policy votes/Triangle
+      settlement)
+
       - The Triangle ($11.25 million property purchased through legal settlement)
-      - Catalyst political loyalists
+
+      - Catalyst political loyalists'
     generated_at: '2026-07-18T14:05:46.385397Z'
-    text: Council President Jack Burrell and Councilman Boone spent years misleading voters about botched construction deals and sewer failures. Public records expose a wasted $10,000 study that council members cooked up to hide their illegal bike trail plot on the Triangle land.
+    text: Council President Jack Burrell and Councilman Boone spent years misleading
+      voters about botched construction deals and sewer failures. Public records expose
+      a wasted $10,000 study that council members cooked up to hide their illegal
+      bike trail plot on the Triangle land.
+    character_count: 270

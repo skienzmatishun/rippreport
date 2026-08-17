@@ -1,7 +1,9 @@
 metadata:
-  generated_at: '2026-08-03T02:36:34.511731Z'
+  generated_at: '2026-08-15T23:40:03.883619Z'
   generator_version: 1.0.0
   post_slug: fairhope-wrongful-conviction
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
   alabama-exposure-mljr:
     brief: 'THE CONFLICT:
@@ -294,9 +296,9 @@ hooks:
       - Ripp Report (implied context/investigative body)'
     generated_at: '2026-08-01T16:49:03.756183Z'
     text: Law enforcement rigged the scales of justice to frame Murray Lawrence Jr.
-      for a fatal crime he did not commit. This record exposes how
-      Baldwin County power players buried the real truth to protect themselves.
-    character_count: 223
+      for a fatal crime he did not commit. This record exposes how Baldwin County
+      power players buried the real truth to protect themselves.
+    character_count: 208
   innocent:
     brief: 'THE CONFLICT:
 

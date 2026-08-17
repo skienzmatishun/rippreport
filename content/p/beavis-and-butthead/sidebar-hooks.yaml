@@ -1,244 +1,589 @@
 metadata:
-  generated_at: '2026-08-03T02:30:18.827225Z'
+  generated_at: '2026-08-15T23:38:25.328808Z'
   generator_version: 1.0.0
   post_slug: beavis-and-butthead
-  refined_by: gemini
-  refined_at: '2026-08-04T23:08:44.953039Z'
 hooks:
   help-fairness-killing-us:
-    brief: |-
-      **THE CONFLICT:**
-      *   Councilmen Burrell and Boone faced public criticism for bullying and condescending actions against a newly elected mayor (Main Article).
-      *   Burrell was overheard planning to "drive the mayor out of office in less than a year" (Main Article).
-      *   Boone received support from "Catalyst," described as a dark political organization representing self-interest (Main Article).
+    brief: '**THE CONFLICT:**
+
+      *   Councilmen Burrell and Boone faced public criticism for bullying and condescending
+      actions against a newly elected mayor (Main Article).
+
+      *   Burrell was overheard planning to "drive the mayor out of office in less
+      than a year" (Main Article).
+
+      *   Boone received support from "Catalyst," described as a dark political organization
+      representing self-interest (Main Article).
+
 
       **THE DISCOVERY:**
-      *   Council implements hiring freeze and rejects public objections by siding with developer Angelo Corte, citing a "threat of a lawsuit."
-      *   Economic Development Director Sherry-Lea Bloodworth-Botop’s position was eliminated via budget cuts (Widget Article).
-      *   Boone previously claimed he had no conflict regarding LLC issues when questioned; however, a specific legal filing showed the entity BA-101, LLC, registered to Kevin Boone, was dissolved on January 31, 2017, six days after public documents concerning it were released (Widget Article).
+
+      *   Council implements hiring freeze and rejects public objections by siding
+      with developer Angelo Corte, citing a "threat of a lawsuit."
+
+      *   Economic Development Director Sherry-Lea Bloodworth-Botop’s position was
+      eliminated via budget cuts (Widget Article).
+
+      *   Boone previously claimed he had no conflict regarding LLC issues when questioned;
+      however, a specific legal filing showed the entity BA-101, LLC, registered to
+      Kevin Boone, was dissolved on January 31, 2017, six days after public documents
+      concerning it were released (Widget Article).
+
 
       **THE PIVOT:**
-      *   The Main Article accuses Burrell and Boone of rude, cruel behavior driven by internal political sabotage. The Widget Article provides concrete evidence that this behavior is rooted in specific self-serving actions: financial decisions like the budget cut targeting Bloodworth-Botop's office; political maneuvering involving developer Angelo Corte (where Boone claimed no conflict); and the use of a former political organization "Catalyst" for personal gain, as implied by past support structures.
+
+      *   The Main Article accuses Burrell and Boone of rude, cruel behavior driven
+      by internal political sabotage. The Widget Article provides concrete evidence
+      that this behavior is rooted in specific self-serving actions: financial decisions
+      like the budget cut targeting Bloodworth-Botop''s office; political maneuvering
+      involving developer Angelo Corte (where Boone claimed no conflict); and the
+      use of a former political organization "Catalyst" for personal gain, as implied
+      by past support structures.
+
 
       **KEY ENTITIES:**
+
       *   Councilman Kevin Boone / Mr. Boone
+
       *   Councilman Burrell / Council President Burrell
+
       *   Mayor (unnamed)
+
       *   Angelo Corte
+
       *   Sherry-Lea Bloodworth-Botop
+
       *   Catalyst (political organization)
+
       *   BA-101, LLC (Dissolved on January 31, 2017; Registered Agent: Kevin Boone)
-      *   Conyers and Robinson (cited as counter-voices to Burrell/Boone)
+
+      *   Conyers and Robinson (cited as counter-voices to Burrell/Boone)'
     generated_at: '2026-07-18T06:33:13.555024Z'
-    text: Councilmen Burrell and Boone claim they only want good governance while browbeating the new mayor. Public records expose their true agenda, showing Boone dissolved his secret LLC BA-101 right after exposure and cut key staff to favor developer Corte.
+    text: Councilmen Burrell and Boone claim they only want good governance while
+      browbeating the new mayor. Public records expose their true agenda, showing
+      Boone dissolved his secret LLC BA-101 right after exposure and cut key staff
+      to favor developer Corte.
+    character_count: 250
   cut-nose-off-spite-face:
-    brief: |-
-      THE CONFLICT: WHAT HAPPENED IN THE PAST?
-      *   Political friction exists between Council Members Burrell and Boone and the newly elected Mayor Wilson in Fairhope.
-      *   Jack Burrell allegedly decided to run for City Council instead of Mayor due to a fear he could not beat the previous mayor in 2020.
-      *   Burrell was overheard stating he "will drive the mayor out of office" within less than a year (Main Article).
-      *   A historical record (April 24, 2017 City Council Agenda) shows Mr. Burrell placed a Mayor's veto before public participation, according to sources cited in the Widget Article.
+    brief: 'THE CONFLICT: WHAT HAPPENED IN THE PAST?
+
+      *   Political friction exists between Council Members Burrell and Boone and
+      the newly elected Mayor Wilson in Fairhope.
+
+      *   Jack Burrell allegedly decided to run for City Council instead of Mayor
+      due to a fear he could not beat the previous mayor in 2020.
+
+      *   Burrell was overheard stating he "will drive the mayor out of office" within
+      less than a year (Main Article).
+
+      *   A historical record (April 24, 2017 City Council Agenda) shows Mr. Burrell
+      placed a Mayor''s veto before public participation, according to sources cited
+      in the Widget Article.
+
 
       THE DISCOVERY: WHAT DOES THE SECOND ARTICLE PROVE OR REVEAL TODAY?
-      *   Article 2 reveals that Council Members Burrell and Boone implemented a hiring freeze specifically intended "TO PUNISH" Mayor Wilson.
-      *   They are engaged in an obstructionist campaign to undermine Mayor Wilson, which is impacting community quality of life and employee morale.
-      *   The Widget Article identifies their primary motivation as revenge for the "good ole boy network that lost the election."
 
-      THE PIVOT: WHY IS ARTICLE 2 THE 'SMOKING GUN' FOR ARTICLE 1?
-      *   Article 1 accuses Burrell and Boone of rudeness, bullying, and acting like "Beavis and Butthead."
-      *   Article 2 shifts this from subjective behavior (rudeness) to objective evidence of deliberate political action: the implementation of a hiring freeze designed as direct punishment against Mayor Wilson, proving malicious intent.
+      *   Article 2 reveals that Council Members Burrell and Boone implemented a hiring
+      freeze specifically intended "TO PUNISH" Mayor Wilson.
+
+      *   They are engaged in an obstructionist campaign to undermine Mayor Wilson,
+      which is impacting community quality of life and employee morale.
+
+      *   The Widget Article identifies their primary motivation as revenge for the
+      "good ole boy network that lost the election."
+
+
+      THE PIVOT: WHY IS ARTICLE 2 THE ''SMOKING GUN'' FOR ARTICLE 1?
+
+      *   Article 1 accuses Burrell and Boone of rudeness, bullying, and acting like
+      "Beavis and Butthead."
+
+      *   Article 2 shifts this from subjective behavior (rudeness) to objective evidence
+      of deliberate political action: the implementation of a hiring freeze designed
+      as direct punishment against Mayor Wilson, proving malicious intent.
+
 
       KEY ENTITIES: LIST SPECIFIC NAMES, ORGANIZATIONS, OR LOCATIONS TO MENTION
+
       *   Fairhope City Council
+
       *   Mayor Wilson
+
       *   Council Member Burrell (Jack Burrell) / Council President Jack Burrell
+
       *   Councilman Boone (Kevin Boone)
+
       *   Catalyst (Political organization supporting Mr. Boone)
+
       *   Baldwin County
-      *   Beavis and Butthead (Used by author as a descriptor for the councilmen's behavior)
+
+      *   Beavis and Butthead (Used by author as a descriptor for the councilmen''s
+      behavior)'
     generated_at: '2026-07-18T06:33:13.555030Z'
-    text: Jack Burrell and Kevin Boone love playing the victim while publicly harassing Mayor Wilson. Their retaliatory hiring freeze proves this isn't politics as usual, but a deliberate plot to punish the mayor and protect their good ole boy network.
+    text: Jack Burrell and Kevin Boone love playing the victim while publicly harassing
+      Mayor Wilson. Their retaliatory hiring freeze proves this isn't politics as
+      usual, but a deliberate plot to punish the mayor and protect their good ole
+      boy network.
+    character_count: 242
   comment-surprised-ripp-report-baldwin-county-legal-eagle:
-    brief: |-
-      THE CONFLICT:
-      *   Councilmen Burrell and Boone were publicly criticized for "rude conduct," "bullying tactics," and acting condescending toward a newly elected mayor at city council meetings.
-      *   The main article questions if their actions are driven by bitterness over past mayoral attempts or influenced by political organizations like Catalyst, which supports Mr. Boone.
+    brief: 'THE CONFLICT:
+
+      *   Councilmen Burrell and Boone were publicly criticized for "rude conduct,"
+      "bullying tactics," and acting condescending toward a newly elected mayor at
+      city council meetings.
+
+      *   The main article questions if their actions are driven by bitterness over
+      past mayoral attempts or influenced by political organizations like Catalyst,
+      which supports Mr. Boone.
+
 
       THE DISCOVERY:
-      *   The second article reveals specific allegations of ethical violations regarding the 2016 Fairhope City Council tenure (including Boone and Burrell).
-      *   Mr. Boone reportedly had business interests that conflicted with his voting record. He failed to list these on his ethics election form for five years but dissolved related LLC's upon exposure.
-      *   A past council accepted a gift of 4 acres of wetlands next to Fly Creek, filed under the pretense of land under a lift station (only 100 square feet), with the deed filed three days prior to acceptance without due diligence.
-      *   Resolution 2606-16 was signed by Mayor Kant in October 2016 and subsequently signed by the newly elected Mayor weeks later, involving both individuals' signatures regarding the land/gift incident.
+
+      *   The second article reveals specific allegations of ethical violations regarding
+      the 2016 Fairhope City Council tenure (including Boone and Burrell).
+
+      *   Mr. Boone reportedly had business interests that conflicted with his voting
+      record. He failed to list these on his ethics election form for five years but
+      dissolved related LLC''s upon exposure.
+
+      *   A past council accepted a gift of 4 acres of wetlands next to Fly Creek,
+      filed under the pretense of land under a lift station (only 100 square feet),
+      with the deed filed three days prior to acceptance without due diligence.
+
+      *   Resolution 2606-16 was signed by Mayor Kant in October 2016 and subsequently
+      signed by the newly elected Mayor weeks later, involving both individuals''
+      signatures regarding the land/gift incident.
+
 
       THE PIVOT:
-      *   Article 1 describes ongoing political hostility (behavior); Article 2 provides concrete evidence of past, documented conflicts of interest and unethical acquisitions (systemic failures) that justify citizen skepticism regarding their integrity and motives for behavior described in Article 1.
-      *   The allegations move the narrative from general "rude conduct" to specific breaches of trust involving property acquisition and undisclosed business interests.
+
+      *   Article 1 describes ongoing political hostility (behavior); Article 2 provides
+      concrete evidence of past, documented conflicts of interest and unethical acquisitions
+      (systemic failures) that justify citizen skepticism regarding their integrity
+      and motives for behavior described in Article 1.
+
+      *   The allegations move the narrative from general "rude conduct" to specific
+      breaches of trust involving property acquisition and undisclosed business interests.
+
 
       KEY ENTITIES:
-      *   Councilman Boone / Mr. Boone (Allegations of conflicted voting and failure to disclose ethics election form).
-      *   Councilman Burrell / Mr. Burrell (Mentioned for both political behavior in Article 1 and handling airport issues in Article 2).
-      *   Jack (Politician mentioned as a failed mayoral candidate potentially fueling bitterness toward the new mayor).
-      *   Catalyst (Political organization supporting Mr. Boone's interests).
+
+      *   Councilman Boone / Mr. Boone (Allegations of conflicted voting and failure
+      to disclose ethics election form).
+
+      *   Councilman Burrell / Mr. Burrell (Mentioned for both political behavior
+      in Article 1 and handling airport issues in Article 2).
+
+      *   Jack (Politician mentioned as a failed mayoral candidate potentially fueling
+      bitterness toward the new mayor).
+
+      *   Catalyst (Political organization supporting Mr. Boone''s interests).
+
       *   Mayor Kant (Former Mayor who signed Resolution 2606-16).
-      *   Fairhope City Council (Accused of turning a blind eye to conflicts of interest and failing to address allegations against councilmen).
-      *   Fly Creek / Wetlands (Specific location related to the controversial land acquisition gift in 2016).
+
+      *   Fairhope City Council (Accused of turning a blind eye to conflicts of interest
+      and failing to address allegations against councilmen).
+
+      *   Fly Creek / Wetlands (Specific location related to the controversial land
+      acquisition gift in 2016).'
     generated_at: '2026-07-18T06:33:13.555034Z'
-    text: Councilmen Burrell and Boone brush off their toxic meeting behavior as simple political theater. Tax records reveal deeper corruption, showing Boone hid conflicts of interest for five years while former Mayor Kant pushed through questionable Fly Creek land deals.
+    text: Councilmen Burrell and Boone brush off their toxic meeting behavior as simple
+      political theater. Tax records reveal deeper corruption, showing Boone hid conflicts
+      of interest for five years while former Mayor Kant pushed through questionable
+      Fly Creek land deals.
+    character_count: 263
   fake-news-and-retaliation:
-    brief: |-
-      THE CONFLICT: What happened in the past? (Specific names, dates, events)
-      - In 2017 through 2025, Councilmen Burrell and Boone have held positions on the Fairhope City Council or as Council President.
-      - Article 1 alleges that Councilmen Burrell and Boone engage in "rude conduct" and bullying tactics against a newly elected Mayor at city council meetings, leading to public complaints from citizens.
-      - In 2025, Councilman Burrell allegedly made comments suggesting he would “drive the mayor out of office” within one year.
+    brief: 'THE CONFLICT: What happened in the past? (Specific names, dates, events)
+
+      - In 2017 through 2025, Councilmen Burrell and Boone have held positions on
+      the Fairhope City Council or as Council President.
+
+      - Article 1 alleges that Councilmen Burrell and Boone engage in "rude conduct"
+      and bullying tactics against a newly elected Mayor at city council meetings,
+      leading to public complaints from citizens.
+
+      - In 2025, Councilman Burrell allegedly made comments suggesting he would “drive
+      the mayor out of office” within one year.
+
 
       THE DISCOVERY: What does the second article prove or reveal today?
-      - Article 2 confirms that GCN Courier (a source frequently cited by critics and potentially associated with "Chucky") is a media outlet supported by CATALYST, which is linked to Councilman Boone's son.
-      - Article 2 reveals that the criticism of the Mayor originating from sources like CHUCKY relies heavily on testimony from three former employees: Jennifer Fidler (State Representative), Sherry Sullivan, and Pandora Heathcoat.
-      - Article 2 asserts that these three women were under the employment or direction of Tim Kant before they allegedly turned against the newly elected Mayor to file lawsuits and obstruct her office.
 
-      THE PIVOT: Why is Article 2 the 'smoking gun' for Article 1?
-      - While Article 1 focuses on Councilmen Burrell and Boone’s alleged misconduct, Article 2 exposes a deeper political connection: it confirms that Councilman Boone relies on CATALYST to influence media (GCN/Courier) against the Mayor.
-      - Article 2 shifts the focus from simply describing "bullying" by council members to revealing systemic influence—that Burrell and Boone operate within a powerful, self-centered base supported by organizations like CATALYST that seek to maintain power over Fairhope's community decisions (e.g., regarding the Fairhope Airport Authority).
+      - Article 2 confirms that GCN Courier (a source frequently cited by critics
+      and potentially associated with "Chucky") is a media outlet supported by CATALYST,
+      which is linked to Councilman Boone''s son.
+
+      - Article 2 reveals that the criticism of the Mayor originating from sources
+      like CHUCKY relies heavily on testimony from three former employees: Jennifer
+      Fidler (State Representative), Sherry Sullivan, and Pandora Heathcoat.
+
+      - Article 2 asserts that these three women were under the employment or direction
+      of Tim Kant before they allegedly turned against the newly elected Mayor to
+      file lawsuits and obstruct her office.
+
+
+      THE PIVOT: Why is Article 2 the ''smoking gun'' for Article 1?
+
+      - While Article 1 focuses on Councilmen Burrell and Boone’s alleged misconduct,
+      Article 2 exposes a deeper political connection: it confirms that Councilman
+      Boone relies on CATALYST to influence media (GCN/Courier) against the Mayor.
+
+      - Article 2 shifts the focus from simply describing "bullying" by council members
+      to revealing systemic influence—that Burrell and Boone operate within a powerful,
+      self-centered base supported by organizations like CATALYST that seek to maintain
+      power over Fairhope''s community decisions (e.g., regarding the Fairhope Airport
+      Authority).
+
 
       KEY ENTITIES:
+
       - Councilman Burrell / Jack Burrell
+
       - Councilman Boone
+
       - Catalyst
+
       - GCN Courier / CHUCKY
+
       - Mayor of Fairhope (newly elected)
+
       - Jennifer Fidler
+
       - Sherry Sullivan
+
       - Pandora Heathcoat
+
       - Tim Kant
+
       - Francis Paul Ripp
-      - Fairhope City Council
+
+      - Fairhope City Council'
     generated_at: '2026-07-18T06:33:13.555037Z'
-    text: Jack Burrell openly vowed to drive the new mayor out of office within a single year. Behind the scenes, Kevin Boone uses the dark-money organization CATALYST to feed fake news to local media while former Kant staffers launch legal attacks.
+    text: Jack Burrell openly vowed to drive the new mayor out of office within a
+      single year. Behind the scenes, Kevin Boone uses the dark-money organization
+      CATALYST to feed fake news to local media while former Kant staffers launch
+      legal attacks.
+    character_count: 239
   the-pot-and-the-kettle-are-black:
-    brief: |-
-      **THE CONFLICT:**
-      *   Councilmen Burrell and Boone engaged in bullying behavior toward the newly-elected mayor in Fairhope (specific dates unlisted but recent).
-      *   Mr. Burrell stated he would "drive [the mayor] out of office in less than a year."
-      *   The main article alleges Councilman Boone is supported by Catalyst, his son's dark political organization that allegedly ignored community concerns regarding the hiring freeze and previously opposed the Mayor (who was financed by Catalyst).
+    brief: '**THE CONFLICT:**
+
+      *   Councilmen Burrell and Boone engaged in bullying behavior toward the newly-elected
+      mayor in Fairhope (specific dates unlisted but recent).
+
+      *   Mr. Burrell stated he would "drive [the mayor] out of office in less than
+      a year."
+
+      *   The main article alleges Councilman Boone is supported by Catalyst, his
+      son''s dark political organization that allegedly ignored community concerns
+      regarding the hiring freeze and previously opposed the Mayor (who was financed
+      by Catalyst).
+
 
       **THE DISCOVERY:**
-      *   Catalyst successfully selected Jeb Ball as the replacement candidate for eight-time incumbent County Commissioner Frank Burt in District 1.
-      *   Frank Burt has held office since 1989, controlling his "turf" for 28 years and embodying the "good ole boys" political machine in Baldwin County.
-      *   Jeb Ball is a Catalyst candidate and Director of Baldwin Substance Abuse Services Inc. (BSAS), an LLC formed by Judges and Lawyers.
+
+      *   Catalyst successfully selected Jeb Ball as the replacement candidate for
+      eight-time incumbent County Commissioner Frank Burt in District 1.
+
+      *   Frank Burt has held office since 1989, controlling his "turf" for 28 years
+      and embodying the "good ole boys" political machine in Baldwin County.
+
+      *   Jeb Ball is a Catalyst candidate and Director of Baldwin Substance Abuse
+      Services Inc. (BSAS), an LLC formed by Judges and Lawyers.
+
 
       **THE PIVOT:**
-      *   The Widget Article proves that Catalyst has moved beyond vague influence into actively engineering the replacement of long-term power holders like Frank Burt to secure commissioner seats for themselves.
-      *   This confirms the Main Article’s underlying accusation that Councilman Boone is backed by a politically manipulative organization (Catalyst) designed to serve "the connected few."
+
+      *   The Widget Article proves that Catalyst has moved beyond vague influence
+      into actively engineering the replacement of long-term power holders like Frank
+      Burt to secure commissioner seats for themselves.
+
+      *   This confirms the Main Article’s underlying accusation that Councilman Boone
+      is backed by a politically manipulative organization (Catalyst) designed to
+      serve "the connected few."
+
 
       **KEY ENTITIES:**
+
       *   Burrell (Council President, City Council Member 2021/2025)
+
       *   Boone (City Council Member 2021/2025)
+
       *   Jack (Politician supporter, former council president/councilman)
+
       *   Beavis and Butthead (described as conduct models for Burrell and Boone)
+
       *   Catalyst (political organization founded by Elliott Haygood, Stacy, etc.)
+
       *   Frank Burt (86-year-old, 8-time County Commissioner in District 1)
+
       *   Jeb Ball (Baldwin County Commissioner candidate/Director of BSAS)
-      *   Michell Thomason (Judge and founder of BCSA)
+
+      *   Michell Thomason (Judge and founder of BCSA)'
     generated_at: '2026-07-18T06:33:13.555040Z'
-    text: Burrell and Boone mask their relentless bullying of the mayor behind cheap political excuses. The takeover of District 1 proves their backers at Catalyst actively purge long-term officials like Frank Burt to install puppets like Jeb Ball.
+    text: Burrell and Boone mask their relentless bullying of the mayor behind cheap
+      political excuses. The takeover of District 1 proves their backers at Catalyst
+      actively purge long-term officials like Frank Burt to install puppets like Jeb
+      Ball.
+    character_count: 238
   the-good-the-bad-and-the-ugly-repost:
-    brief: |-
-      THE CONFLICT: What happened in the past? (Names/Dates)
-      • Councilmen Burrell and Boone were accused of bullying and condescending behavior towards the newly elected mayor.
-      • Mr. Burrell was overheard stating he "will drive the mayor out of office in less than a year."
-      • Catalyst, an organization supporting Mr. Boone, previously supported and financed the administration of the previous mayor.
+    brief: 'THE CONFLICT: What happened in the past? (Names/Dates)
+
+      • Councilmen Burrell and Boone were accused of bullying and condescending behavior
+      towards the newly elected mayor.
+
+      • Mr. Burrell was overheard stating he "will drive the mayor out of office in
+      less than a year."
+
+      • Catalyst, an organization supporting Mr. Boone, previously supported and financed
+      the administration of the previous mayor.
+
 
       THE DISCOVERY: What does the second article prove or reveal today?
-      • City Councilmen Boone and Burrell were responsible for a Triangle lawsuit that cost the city $11.25 million.
-      • This loss occurred because they refused to settle or even discuss settlement, despite an estimated settlement being possible under $1 million.
-      • A recent case involving developer Buddy Breland shows the council's continued pattern of obstruction and refusal to engage in legal settlements.
 
-      THE PIVOT: Why is Article 2 the 'smoking gun' for Article 1?
-      • Article 1 describes the council's behavior as "rudeness," "crude," and "bullying" tactics against the mayor.
-      • Article 2 reframes this vague behavioral description into concrete evidence of political sabotage, specifically showing how their obstructionism (refusing settlement) led to a massive financial loss ($11.25 million).
-      • It proves that the alleged bad character is tied directly to tangible municipal damage and corruption linked to Catalyst's agenda to obstruct the city government.
+      • City Councilmen Boone and Burrell were responsible for a Triangle lawsuit
+      that cost the city $11.25 million.
+
+      • This loss occurred because they refused to settle or even discuss settlement,
+      despite an estimated settlement being possible under $1 million.
+
+      • A recent case involving developer Buddy Breland shows the council''s continued
+      pattern of obstruction and refusal to engage in legal settlements.
+
+
+      THE PIVOT: Why is Article 2 the ''smoking gun'' for Article 1?
+
+      • Article 1 describes the council''s behavior as "rudeness," "crude," and "bullying"
+      tactics against the mayor.
+
+      • Article 2 reframes this vague behavioral description into concrete evidence
+      of political sabotage, specifically showing how their obstructionism (refusing
+      settlement) led to a massive financial loss ($11.25 million).
+
+      • It proves that the alleged bad character is tied directly to tangible municipal
+      damage and corruption linked to Catalyst''s agenda to obstruct the city government.
+
 
       KEY ENTITIES: List of specific names, organizations, or locations to mention
+
       • Councilmen Burrell and Boone
+
       • Mayor Wilson
+
       • Catalyst (political organization)
+
       • Buddy Breland / Mr. Breland
+
       • Triangle Lawsuit (Lawsuit involving Tribe land/property)
+
       • Jack (Council President figure in the previous administration)
+
       • Beavis and Butthead (council nicknames used by Francis Paul Ripp)
-      • Marcus McDowell (City Attorney)
+
+      • Marcus McDowell (City Attorney)'
     generated_at: '2026-07-18T06:33:13.555044Z'
-    text: Jack Burrell and Kevin Boone treat city council meetings like personal fight clubs against Mayor Wilson. Their stubborn refusal to negotiate cost Fairhope taxpayers $11.25 million in the Triangle lawsuit when a simple settlement was on the table.
+    text: Jack Burrell and Kevin Boone treat city council meetings like personal fight
+      clubs against Mayor Wilson. Their stubborn refusal to negotiate cost Fairhope
+      taxpayers $11.25 million in the Triangle lawsuit when a simple settlement was
+      on the table.
+    character_count: 246
   crazy:
-    brief: |-
-      1. THE CONFLICT: Council members Mr. Burrell and Mr. Boone, both elected officials on the Fairhope City Council, have been accused of "rude conduct" and bullying towards the newly elected Mayor, identified as Jack. In a statement to the public, Mr. Burrell reportedly declared he intends to "drive the mayor out of office in less than a year." The council is noted for having strong ties to 'Catalyst,' a political organization linked to Mr. Boone.
+    brief: '1. THE CONFLICT: Council members Mr. Burrell and Mr. Boone, both elected
+      officials on the Fairhope City Council, have been accused of "rude conduct"
+      and bullying towards the newly elected Mayor, identified as Jack. In a statement
+      to the public, Mr. Burrell reportedly declared he intends to "drive the mayor
+      out of office in less than a year." The council is noted for having strong ties
+      to ''Catalyst,'' a political organization linked to Mr. Boone.
 
-      2. THE DISCOVERY: Article 2 reveals pervasive corruption and institutional failure within Baldwin County (the county where Fairhope is located). It describes widespread use of the label "CRAZY" by authority figures—including attorneys in Family Court, law enforcement like the Sheriff, and political adversaries—to dismiss critics or challenge those with strong convictions. The article claims Alabama is number one in political corruption, citing Baldwin County as highly corrupt.
 
-      3. THE PIVOT: Article 2 provides systemic context to the behavioral issues detailed in Article 1. The aggressive, condescending tactics used by Mr. Burrell and Mr. Boone are presented not as mere personal disagreement, but as a tactical deployment of power within a politically corrupt structure where dissent is dismissed or neutralized by characterizing opposition (like Mayor Jack) through labels such as "CRAZY" to protect entrenched interests like 'Catalyst.'
+      2. THE DISCOVERY: Article 2 reveals pervasive corruption and institutional failure
+      within Baldwin County (the county where Fairhope is located). It describes widespread
+      use of the label "CRAZY" by authority figures—including attorneys in Family
+      Court, law enforcement like the Sheriff, and political adversaries—to dismiss
+      critics or challenge those with strong convictions. The article claims Alabama
+      is number one in political corruption, citing Baldwin County as highly corrupt.
+
+
+      3. THE PIVOT: Article 2 provides systemic context to the behavioral issues detailed
+      in Article 1. The aggressive, condescending tactics used by Mr. Burrell and
+      Mr. Boone are presented not as mere personal disagreement, but as a tactical
+      deployment of power within a politically corrupt structure where dissent is
+      dismissed or neutralized by characterizing opposition (like Mayor Jack) through
+      labels such as "CRAZY" to protect entrenched interests like ''Catalyst.''
+
 
       4. KEY ENTITIES:
+
       *   Mr. Burrell (City Council/Councilman 2017-01-11, 2025-08-05)
+
       *   Mr. Boone (Councilman 2017-01-11, 2021-12-20, 2025-08-05)
+
       *   Jack (Mayor; Councilman/President connections since 2019)
+
       *   Fairhope City Council (collective body)
+
       *   Catalyst (political organization/network active 2017-2020)
+
       *   Baldwin County (government entity)
-      *   Francis Paul Ripp (Author of The Ripp Report, Blogger)
+
+      *   Francis Paul Ripp (Author of The Ripp Report, Blogger)'
     generated_at: '2026-07-18T06:33:13.555048Z'
-    text: Burrell and Boone use ugly mudslinging tactics to silence any opposition on the council. This smear campaign reflects a broader Baldwin County playbook where corrupt insiders label whistleblowers as crazy to shield groups like Catalyst from exposure.
+    text: Burrell and Boone use ugly mudslinging tactics to silence any opposition
+      on the council. This smear campaign reflects a broader Baldwin County playbook
+      where corrupt insiders label whistleblowers as crazy to shield groups like Catalyst
+      from exposure.
+    character_count: 250
   liar-liar-pants-on-fire-2:
-    brief: |-
-      **1. THE CONFLICT:**
-      *   Main Article accuses Councilmen Burrell and Boone of bullying, condescending actions, and rude conduct toward a newly elected mayor in Fairhope, AL.
-      *   The article speculates whether this behavior is motivated by professional jealousy (Jack's failure to run for Mayor) or external influence from "Catalyst," which allegedly supports Mr. Boone’s self-interests while ignoring community effects like hiring freezes.
-      *   Burrell is noted for publicly stating he "will drive the mayor out of office in less than a year and assume her position."
+    brief: '**1. THE CONFLICT:**
+
+      *   Main Article accuses Councilmen Burrell and Boone of bullying, condescending
+      actions, and rude conduct toward a newly elected mayor in Fairhope, AL.
+
+      *   The article speculates whether this behavior is motivated by professional
+      jealousy (Jack''s failure to run for Mayor) or external influence from "Catalyst,"
+      which allegedly supports Mr. Boone’s self-interests while ignoring community
+      effects like hiring freezes.
+
+      *   Burrell is noted for publicly stating he "will drive the mayor out of office
+      in less than a year and assume her position."
+
 
       **2. THE DISCOVERY:**
-      *   Widget Article reveals significant corruption surrounding the Fly Creek apartments (Fairhope Village Apartments) involving developer Mr. Stewart “The Liar” Speed of Leaf River Group and City Council members.
-      *   It proves that then Mayor [Name not specified] and benefactor Developer Arthur Corte misled the public regarding environmental soundness, luxury status, and contamination risks related to polluting Fly Creek.
-      *   It confirms a "behind the scenes" communication link between developer Mr. Speedy and Council President Jack Burrell ("Burrell was responsible for the gift").
+
+      *   Widget Article reveals significant corruption surrounding the Fly Creek
+      apartments (Fairhope Village Apartments) involving developer Mr. Stewart “The
+      Liar” Speed of Leaf River Group and City Council members.
+
+      *   It proves that then Mayor [Name not specified] and benefactor Developer
+      Arthur Corte misled the public regarding environmental soundness, luxury status,
+      and contamination risks related to polluting Fly Creek.
+
+      *   It confirms a "behind the scenes" communication link between developer Mr.
+      Speedy and Council President Jack Burrell ("Burrell was responsible for the
+      gift").
+
 
       **3. THE PIVOT:**
-      *   The Main Article accuses council members of generalized "bullying" and being part of a negative political climate against the mayor. The Widget Article provides concrete evidence of high-level, unethical conduct (lying about environmental safety, back door deals with developers) involving Council President Jack Burrell and major local entities like Arthur Corte.
-      *   The Widget Article transforms the Main Article’s accusation of "rude conduct" into a documented pattern of corruption and deceit tied to specific political figures in Fairhope City Council.
+
+      *   The Main Article accuses council members of generalized "bullying" and being
+      part of a negative political climate against the mayor. The Widget Article provides
+      concrete evidence of high-level, unethical conduct (lying about environmental
+      safety, back door deals with developers) involving Council President Jack Burrell
+      and major local entities like Arthur Corte.
+
+      *   The Widget Article transforms the Main Article’s accusation of "rude conduct"
+      into a documented pattern of corruption and deceit tied to specific political
+      figures in Fairhope City Council.
+
 
       **4. KEY ENTITIES:**
+
       *   Councilmen: Mr. Burrell, Mr. Boone (Main focus).
-      *   Political/Corporate Figures: Arthur Corte (Developer/Benefactor), Jack Burrell (Council President), Mr. Stewart “The Liar” Speed (Leaf River Group Developer).
-      *   Organizations: Catalyst (political organization supporting Mr. Boone), Fly Creek Apartments / Fairhope Village Apartments, Leaf River Group.
-      *   Locations: Fairhope; Fly Creek; Baldwin County.
+
+      *   Political/Corporate Figures: Arthur Corte (Developer/Benefactor), Jack Burrell
+      (Council President), Mr. Stewart “The Liar” Speed (Leaf River Group Developer).
+
+      *   Organizations: Catalyst (political organization supporting Mr. Boone), Fly
+      Creek Apartments / Fairhope Village Apartments, Leaf River Group.
+
+      *   Locations: Fairhope; Fly Creek; Baldwin County.'
     generated_at: '2026-07-18T06:33:13.555051Z'
-    text: Jack Burrell and Kevin Boone claim they harass the mayor to keep Fairhope honest. Secret deals reveal Burrell helped developer Stewart Speed dump toxic runoff into Fly Creek while lying to citizens about environmental risks.
+    text: Jack Burrell and Kevin Boone claim they harass the mayor to keep Fairhope
+      honest. Secret deals reveal Burrell helped developer Stewart Speed dump toxic
+      runoff into Fly Creek while lying to citizens about environmental risks.
+    character_count: 224
   boycott-mcsharry:
-    brief: |-
-      THE CONFLICT:
-      *   Councilman Jack Burrell publicly claimed he would "drive the mayor out of office in less than a year."
-      *   In 2020, Councilmen and City leadership were allegedly part of a plot for "Catalyst to overthrow Fairhope Government," with Captain Jack and others selecting Marcus McDowell as City Attorney.
-      *   Councilman Boone was reported to be supported by Catalyst, described as his son’s political organization that represents self-interests.
+    brief: 'THE CONFLICT:
+
+      *   Councilman Jack Burrell publicly claimed he would "drive the mayor out of
+      office in less than a year."
+
+      *   In 2020, Councilmen and City leadership were allegedly part of a plot for
+      "Catalyst to overthrow Fairhope Government," with Captain Jack and others selecting
+      Marcus McDowell as City Attorney.
+
+      *   Councilman Boone was reported to be supported by Catalyst, described as
+      his son’s political organization that represents self-interests.
+
 
       THE DISCOVERY:
-      *   Article 2 proves that the municipal attorney, Marcus McDowell, is accused of enabling a "Catalyst" agenda for an alleged government takeover starting in 2020.
-      *   McDowell (as City Attorney/Prosecutor) presided over cases involving public menaces and serial domestic abusers like Ronan McSharry (e.g., Paula DiNardi case), where the prosecution failed to secure charges or convictions due to legal maneuvers influenced by council interests.
+
+      *   Article 2 proves that the municipal attorney, Marcus McDowell, is accused
+      of enabling a "Catalyst" agenda for an alleged government takeover starting
+      in 2020.
+
+      *   McDowell (as City Attorney/Prosecutor) presided over cases involving public
+      menaces and serial domestic abusers like Ronan McSharry (e.g., Paula DiNardi
+      case), where the prosecution failed to secure charges or convictions due to
+      legal maneuvers influenced by council interests.
+
 
       THE PIVOT:
-      *   Article 2 proves that the "Catalyst" organization supporting Councilman Boone is not merely a political distraction, but an organized faction whose influence is tied directly to Marcus McDowell’s appointment and actions as City Attorney/Prosecutor—the same body currently failing to police public menaces like Ronan McSharry. This links the disruptive behavior of Councilmen Burrell and Boone (Article 1) to systemic government failure rooted in a specific political agenda (McDowell/Catalyst).
+
+      *   Article 2 proves that the "Catalyst" organization supporting Councilman
+      Boone is not merely a political distraction, but an organized faction whose
+      influence is tied directly to Marcus McDowell’s appointment and actions as City
+      Attorney/Prosecutor—the same body currently failing to police public menaces
+      like Ronan McSharry. This links the disruptive behavior of Councilmen Burrell
+      and Boone (Article 1) to systemic government failure rooted in a specific political
+      agenda (McDowell/Catalyst).
+
 
       KEY ENTITIES:
+
       *   Councilman Jack Burrell
+
       *   Councilman John (Jack) Boone
+
       *   Marcus McDowell
+
       *   "Catalyst" / "llc. Boone"
+
       *   Ronan McSharry
+
       *   Paula DiNardi
+
       *   Clark Stankoski
+
       *   Captain Jack
-      *   Francis Paul Ripp (Paul Ripp)
+
+      *   Francis Paul Ripp (Paul Ripp)'
     generated_at: '2026-07-18T06:33:13.555054Z'
-    text: Councilmen Jack Burrell and Kevin Boone rely on dark-money political groups to wage war on local leadership. City Attorney Marcus McDowell advances this corrupt Catalyst agenda by letting serial abusers like Ronan McSharry dodge legal prosecution.
+    text: Councilmen Jack Burrell and Kevin Boone rely on dark-money political groups
+      to wage war on local leadership. City Attorney Marcus McDowell advances this
+      corrupt Catalyst agenda by letting serial abusers like Ronan McSharry dodge
+      legal prosecution.
+    character_count: 247
   mcsharry-madness:
-    brief: "THE CONFLICT:\n*   Councilmen Burrell and Boone were criticized for bullying tactics against the newly elected mayor in Fairhope.\n*   Mr. Burrell reportedly considered running as Mayor but opted to run for City Council instead after fearing he couldn't beat a previous incumbent supported by Catalyst.\n*   The Main Article characterizes the behavior of Mr. Burrell and Mr. Boone as \"bullying,\" \"rude,\" and driven by potential motives such as bitter failure or adherence to the \"game plan\" of political organization CATALYST, which supports Mr. Boone.\n\nTHE DISCOVERY:\n*   The Widget Article links Council President Jack Burrell to Ronan McSharry’s bar (\"McSharry’s\") through the description of it being a \"watering hole.\"\n*   This establishment is alleged to be frequented by Fairhope Municipal Judge Haymes Snedeker, City Attorney Marcus McDowell, and \"McSharry's best friend,\" Council President Jack Burrell.\n*   Article 2 claims Burrell has an undisclosed police report\
-      \ related to McSharry’s bar, connecting his political sphere directly to the environment where judicial misconduct occurred (e.g., Judge Snedeker convicting McSharry of assault and imposing a sentence).\n\nTHE PIVOT:\n*   While Article 1 critiques Council members Burrell and Boone for aggressive, socially unacceptable political bullying, Article 2 provides a specific mechanism for how their influence is maintained—through \"the watering hole\" culture at McSharry's Irish Pub. \n*   Article 2 suggests the perceived ambition or bad character of leaders like Jack Burrell (A1) is symptomatic of an entrenched elite structure (\"good ole boys rule\") that includes powerful developers (McSharry), compromised judicial figures, and political connections to private establishments rather than just being isolated \"politicians.\"\n\nKEY ENTITIES:\n*   Boone\n*   Burrell (Councilman/President Jack Burrell)\n*   Catalyst\n*   Mayor (unnamed in A1)\n*   Ronan McSharry\n*   Paula DiNardi (Victim of\
-      \ assault case)\n*   Haymes Snedeker (Municipal Judge)\n*   Clark Stankoski (Baldwin County Circuit Court Judge)\n*   Marcus McDowell (Fairhope City Attorney)\n*   Francis Paul Ripp"
+    brief: "THE CONFLICT:\n*   Councilmen Burrell and Boone were criticized for bullying\
+      \ tactics against the newly elected mayor in Fairhope.\n*   Mr. Burrell reportedly\
+      \ considered running as Mayor but opted to run for City Council instead after\
+      \ fearing he couldn't beat a previous incumbent supported by Catalyst.\n*  \
+      \ The Main Article characterizes the behavior of Mr. Burrell and Mr. Boone as\
+      \ \"bullying,\" \"rude,\" and driven by potential motives such as bitter failure\
+      \ or adherence to the \"game plan\" of political organization CATALYST, which\
+      \ supports Mr. Boone.\n\nTHE DISCOVERY:\n*   The Widget Article links Council\
+      \ President Jack Burrell to Ronan McSharry’s bar (\"McSharry’s\") through the\
+      \ description of it being a \"watering hole.\"\n*   This establishment is alleged\
+      \ to be frequented by Fairhope Municipal Judge Haymes Snedeker, City Attorney\
+      \ Marcus McDowell, and \"McSharry's best friend,\" Council President Jack Burrell.\n\
+      *   Article 2 claims Burrell has an undisclosed police report related to McSharry’s\
+      \ bar, connecting his political sphere directly to the environment where judicial\
+      \ misconduct occurred (e.g., Judge Snedeker convicting McSharry of assault and\
+      \ imposing a sentence).\n\nTHE PIVOT:\n*   While Article 1 critiques Council\
+      \ members Burrell and Boone for aggressive, socially unacceptable political\
+      \ bullying, Article 2 provides a specific mechanism for how their influence\
+      \ is maintained—through \"the watering hole\" culture at McSharry's Irish Pub.\
+      \ \n*   Article 2 suggests the perceived ambition or bad character of leaders\
+      \ like Jack Burrell (A1) is symptomatic of an entrenched elite structure (\"\
+      good ole boys rule\") that includes powerful developers (McSharry), compromised\
+      \ judicial figures, and political connections to private establishments rather\
+      \ than just being isolated \"politicians.\"\n\nKEY ENTITIES:\n*   Boone\n* \
+      \  Burrell (Councilman/President Jack Burrell)\n*   Catalyst\n*   Mayor (unnamed\
+      \ in A1)\n*   Ronan McSharry\n*   Paula DiNardi (Victim of assault case)\n*\
+      \   Haymes Snedeker (Municipal Judge)\n*   Clark Stankoski (Baldwin County Circuit\
+      \ Court Judge)\n*   Marcus McDowell (Fairhope City Attorney)\n*   Francis Paul\
+      \ Ripp"
     generated_at: '2026-07-18T06:33:13.555057Z'
-    text: Jack Burrell and Kevin Boone abuse their council seats to bully anyone who challenges their control. Uncovered police records link Burrell to shady late-night deals at McSharry's pub with Judge Snedeker and City Attorney Marcus McDowell.
+    text: Jack Burrell and Kevin Boone abuse their council seats to bully anyone who
+      challenges their control. Uncovered police records link Burrell to shady late-night
+      deals at McSharry's pub with Judge Snedeker and City Attorney Marcus McDowell.
+    character_count: 237

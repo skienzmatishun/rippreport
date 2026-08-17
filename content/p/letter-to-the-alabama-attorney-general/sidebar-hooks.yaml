@@ -1,13 +1,13 @@
 metadata:
-  generated_at: '2026-08-03T02:36:28.723868Z'
+  generated_at: '2026-08-15T23:38:15.683724Z'
   generator_version: 1.0.0
   post_slug: letter-to-the-alabama-attorney-general
 hooks:
   license-to-steal:
     brief: 'Conflict:
 
-      - Francis Ripp (The Ripp  Report) sent a formal letter to Alabama Attorney
-      General Steve Marshall regarding political corruption.
+      - Francis Ripp (The Ripp  Report) sent a formal letter to Alabama Attorney General
+      Steve Marshall regarding political corruption.
 
       - Letter details Ripp  personally delivering an ethics complaint to AG investigators
       in Montgomery which Marshall’s office did not respond to or investigate.
@@ -53,8 +53,8 @@ hooks:
       as promised, linking Article 1''s allegation of inaction to Article 2''s "License
       to Steal" thesis.
 
-      - Connection validates Ripp ’s claim that oversight bodies (AG, Commission) act
-      as insulators when high-profile members like Albritton or Plunk are involved.
+      - Connection validates Ripp ’s claim that oversight bodies (AG, Commission)
+      act as insulators when high-profile members like Albritton or Plunk are involved.
 
 
       Key Entities:
@@ -77,24 +77,24 @@ hooks:
       evidence of Tom Albritton’s massive scholarship scam. This total silence proves
       the Ethics Commission is just a shield for insiders like John Plunk to hide
       dirty campaign cash and protect crooked mayors.
-    character_count: 275
+    character_count: 276
   alabama-ethics-self-dealing-immunity:
     brief: '1. THE CONFLICT
 
-      - Francis Ripp (The Ripp  Report) sends formal letter to Alabama Attorney
-      General Steve Marshall.
+      - Francis Ripp (The Ripp  Report) sends formal letter to Alabama Attorney General
+      Steve Marshall.
 
       - Letter references a past conversation where Ripp  warned Marshall about corruption
       in Baldwin County.
 
-      - Ripp  claims AG office failed to investigate a complaint Ripp  personally delivered
-      regarding a Fairhope councilman enriching himself.
+      - Ripp  claims AG office failed to investigate a complaint Ripp  personally
+      delivered regarding a Fairhope councilman enriching himself.
 
       - Ripp  alleges the Alabama Ethics Commission under Director Tom Albritton is
       an insulator for corruption, rarely holding anyone accountable.
 
-      - Ripp  specifically flags Tom Albritton as a trustee/attorney of the Mabel Amos
-      Memorial Fund.
+      - Ripp  specifically flags Tom Albritton as a trustee/attorney of the Mabel
+      Amos Memorial Fund.
 
       - Ripp  alleges Albritton’s daughters received $105,000 in scholarships from
       the fund he oversees.
@@ -136,7 +136,7 @@ hooks:
       - Evidence confirms the Letter’s warning: The Trustee/Authority (Albritton)
       is benefiting from the fund he oversees.
 
-      - Lagniappe article linked in Letter contains Fording’s findings; confirms Ripp 
+      - Lagniappe article linked in Letter contains Fording’s findings; confirms Ripp
       is not fabricating the Albritton connection but reporting data obtained externally.
 
       - Proves AG Marshall was asked to investigate specific self-dealing that actually
@@ -167,22 +167,22 @@ hooks:
 
       - University of Texas'
     generated_at: '2026-03-16T08:46:45.147474Z'
-    text: Ripp warned AG Steve Marshall that Ethics Director Tom Albritton was
-      using his office to protect self-serving politicians. Now we have proof Albritton
+    text: Ripp warned AG Steve Marshall that Ethics Director Tom Albritton was using
+      his office to protect self-serving politicians. Now we have proof Albritton
       skimmed $105,000 from a charity trust for his own kids’ tuition while the AG
       refused to lift a finger.
-    character_count: 258
+    character_count: 253
   self-dealing-self-stealing:
-    brief: "THE CONFLICT\n- 2020 Election Cycle: Francis Ripp (The Ripp  Report)\
-      \ spoke with AG Steve Marshall in Fairhope.\n- Marshall promised to take ethics\
-      \ complaints seriously if elected.\n- Ripp  alleges AG office ignored a complaint\
-      \ delivered in Montgomery regarding a Fairhope councilman.\n- Councilman case:\
-      \ Ethics Commission believed him without independent investigation; Ripp  claims\
-      \ this shows inaction.\n- Current Date (Letter): Francis Ripp sends letter\
-      \ to AG Marshall enclosing:\n    - Lagniappe article “Self-Dealing”.\n    -\
-      \ Ethics Complaint.\n    - Alabama Bar Complaint.\n    - Writ of Mandamus.\n\
-      - Target: Tom Albritton, Director of Alabama Ethics Commission.\n- Foundation\
-      \ date: The Ripp  Report founded 2008; cited as “Consumer organization” monitoring\
+    brief: "THE CONFLICT\n- 2020 Election Cycle: Francis Ripp (The Ripp  Report) spoke\
+      \ with AG Steve Marshall in Fairhope.\n- Marshall promised to take ethics complaints\
+      \ seriously if elected.\n- Ripp  alleges AG office ignored a complaint delivered\
+      \ in Montgomery regarding a Fairhope councilman.\n- Councilman case: Ethics\
+      \ Commission believed him without independent investigation; Ripp  claims this\
+      \ shows inaction.\n- Current Date (Letter): Francis Ripp sends letter to AG\
+      \ Marshall enclosing:\n    - Lagniappe article “Self-Dealing”.\n    - Ethics\
+      \ Complaint.\n    - Alabama Bar Complaint.\n    - Writ of Mandamus.\n- Target:\
+      \ Tom Albritton, Director of Alabama Ethics Commission.\n- Foundation date:\
+      \ The Ripp  Report founded 2008; cited as “Consumer organization” monitoring\
       \ political corruption.\n\nTHE DISCOVERY\n- Second article (Self-Dealing-Self-Stealing)\
       \ validates allegations from the first letter.\n- Confirms Albritton is one\
       \ of three trustees on Mabel Amos Memorial Fund.\n- Confirms Albritton’s daughters\
@@ -209,7 +209,7 @@ hooks:
       then he buried the evidence against Fairhope’s elite. These leaked records show
       Ethics Director Tom Albritton treated a charity trust like a personal ATM to
       pay $105,000 for his daughters’ college degrees.
-    character_count: 282
+    character_count: 277
   this-is-a-test:
     brief: 'THE CONFLICT
 
@@ -223,8 +223,8 @@ hooks:
       - The letter asserts the Ethics Commission believed the Councilman without independent
       investigation in a prior case.
 
-      - Ripp  alleges Albritton is engaging in "Self Dealing" regarding the Mabel Amos
-      Memorial Fund.
+      - Ripp  alleges Albritton is engaging in "Self Dealing" regarding the Mabel
+      Amos Memorial Fund.
 
       - Letter states Albritton’s daughters received $105,000 in scholarships to the
       University of Texas paid through this fund.
@@ -297,8 +297,8 @@ hooks:
       - Ripp  states AG Marshall’s office failed to investigate an ethics complaint
       Ripp  personally delivered in Montgomery regarding a Fairhope councilman.
 
-      - Ripp  specifically targets Tom Albritton (Director of Alabama Ethics) for self-dealing
-      and IRS violations.
+      - Ripp  specifically targets Tom Albritton (Director of Alabama Ethics) for
+      self-dealing and IRS violations.
 
       - Ripp  asserts Ripp  Report audience (80,000 readers) is using public opinion
       where law enforcement failed.
@@ -339,7 +339,7 @@ hooks:
 
       KEY ENTITIES:
 
-      - Francis Paul Ripp 
+      - Francis Paul Ripp
 
       - Steve Marshall (Alabama Attorney General)
 
@@ -355,11 +355,11 @@ hooks:
 
       - Alabama Bar Association'
     generated_at: '2026-03-16T08:46:45.147498Z'
-    text: Ripp exposed the "protective triad" of state officials who keep each
-      other out of handcuffs. IRS filings show Tom Albritton illegally grabbed
-      $105,000 from a trust for his family, but AG Steve Marshall and the Bar Association
-      still refuse to file criminal charges.
-    character_count: 274
+    text: Ripp exposed the "protective triad" of state officials who keep each other
+      out of handcuffs. IRS filings show Tom Albritton illegally grabbed $105,000
+      from a trust for his family, but AG Steve Marshall and the Bar Association still
+      refuse to file criminal charges.
+    character_count: 264
   deaf-ears:
     brief: 'THE CONFLICT:
 
@@ -447,16 +447,16 @@ hooks:
 
       - Mabel Amos Memorial Fund'
     generated_at: '2026-03-16T08:46:45.147510Z'
-    text: AG Steve Marshall ignored Ripp ’s warnings about Tom Albritton, just
-      like he ignores the innocent man rotting in prison. While Albritton admitted
-      to skimming $120,000, DA Robert Wilters and Sheriff Hoss Mack allegedly buried
-      evidence to protect their 30-year power grab.
-    character_count: 274
+    text: AG Steve Marshall ignored Ripp ’s warnings about Tom Albritton, just like
+      he ignores the innocent man rotting in prison. While Albritton admitted to skimming
+      $120,000, DA Robert Wilters and Sheriff Hoss Mack allegedly buried evidence
+      to protect their 30-year power grab.
+    character_count: 270
   alabama-ag:
     brief: 'THE CONFLICT
 
-      - Francis Ripp (The Ripp  Report) met Alabama AG Steve Marshall during a
-      Fairhope, AL campaign stop and accused Baldwin County of corruption and non-investigative
+      - Francis Ripp (The Ripp  Report) met Alabama AG Steve Marshall during a Fairhope,
+      AL campaign stop and accused Baldwin County of corruption and non-investigative
       conduct by the Ethics Commission.
 
       - Ripp  submitted a letter with attached documents (Lagniappe article, Ethics
@@ -473,8 +473,8 @@ hooks:
 
       THE DISCOVERY
 
-      - Ripp  clarifies in second letter that he filed a formal complaint with AG office,
-      Attention Clark Morris, in Sept 2022 against Tom Albritton.
+      - Ripp  clarifies in second letter that he filed a formal complaint with AG
+      office, Attention Clark Morris, in Sept 2022 against Tom Albritton.
 
       - Confirms AG office initiated a lawsuit against Albritton; however, Albritton
       remains Executive Director with salary active.
@@ -485,8 +485,8 @@ hooks:
       - Second letter introduces evidence complaint regarding 2005 wrongful conviction
       of Murray “Bubba” Lawrence.
 
-      - Ripp  claims Alabama Bar found no reason to pursue prior ethics complaint against
-      Albritton, siding with him.
+      - Ripp  claims Alabama Bar found no reason to pursue prior ethics complaint
+      against Albritton, siding with him.
 
       - Ripp  alleges Baldwin County Sheriff Hoss Mack, Prosecutor David Whetstone,
       and Judge Robert Wilters colluded to withhold Coroner''s Report exculpatory
@@ -532,11 +532,11 @@ hooks:
 
       - Robert Wilters (Baldwin County Judge, current District Attorney)'
     generated_at: '2026-03-16T08:46:45.147527Z'
-    text: Ripp handed Steve Marshall proof of corruption, but the AG chose to
-      protect his friends instead of the law. Even after Tom Albritton admitted to
-      a $120,000 theft, Marshall let him keep his job while ignoring claims that Sheriff
-      Hoss Mack tampered with murder evidence.
-    character_count: 273
+    text: Ripp handed Steve Marshall proof of corruption, but the AG chose to protect
+      his friends instead of the law. Even after Tom Albritton admitted to a $120,000
+      theft, Marshall let him keep his job while ignoring claims that Sheriff Hoss
+      Mack tampered with murder evidence.
+    character_count: 268
   elephants-in-alabama:
     brief: 'THE CONFLICT
 
@@ -587,8 +587,8 @@ hooks:
       - Widget article validates Ripp ’s claim that oversight bodies have "covered
       the backs" of unethical actors.
 
-      - The civil lawsuit (mentioned in Widget) provides formal legal context to Ripp ’s
-      enclosed Writ of Mandamus and Bar Complaint from the letter.
+      - The civil lawsuit (mentioned in Widget) provides formal legal context to Ripp
+      ’s enclosed Writ of Mandamus and Bar Complaint from the letter.
 
       - McCallum payroll data proves agencies knowingly overpaid staff after resignation,
       supporting Ripp ’s argument that rules are selectively enforced.
@@ -606,19 +606,19 @@ hooks:
 
       - Mabel Amos Memorial Fund'
     generated_at: '2026-03-16T08:46:45.147547Z'
-    text: Ripp caught Steve Marshall ignoring local corruption, but the state’s
-      rot goes much deeper than one councilman. Secret payroll data shows the Bar
-      Association paid thousands to insiders like McCallum long after they quit, proving
-      the elite play by a different set of rules.
-    character_count: 277
+    text: Ripp caught Steve Marshall ignoring local corruption, but the state’s rot
+      goes much deeper than one councilman. Secret payroll data shows the Bar Association
+      paid thousands to insiders like McCallum long after they quit, proving the elite
+      play by a different set of rules.
+    character_count: 272
   alabama-black-hole:
     brief: 'THE CONFLICT:
 
-      Francis Ripp (The Ripp  Report) contacted Alabama Attorney General Steve
-      Marshall regarding a failure to investigate corruption in Baldwin County and
-      specific ethics complaints.
+      Francis Ripp (The Ripp  Report) contacted Alabama Attorney General Steve Marshall
+      regarding a failure to investigate corruption in Baldwin County and specific
+      ethics complaints.
 
-      Ripp  alleged that AG Marshall’s office failed to investigate a complaint Ripp 
+      Ripp  alleged that AG Marshall’s office failed to investigate a complaint Ripp
       personally delivered in Montgomery regarding a Fairhope Councilman enriching
       himself via board position.
 
@@ -635,15 +635,15 @@ hooks:
       In August 21, 2022, Ripp  sent a second letter (Widget Article) to AG Marshall
       and Special Prosecutions Officer Clark Morris as follow-up.
 
-      Ripp  confirmed no response from any agency to a 100+ page packet submitted July
-      16, 2021.
+      Ripp  confirmed no response from any agency to a 100+ page packet submitted
+      July 16, 2021.
 
       Ripp  detailed specific "self-dealing" involving Tom Albritton:
 
       - Albritton is one of three trustees on the Mabel Amos Memorial Fund.
 
-      - Ripp  states Albritton failed to disclose this trust role on his economic statement
-      prior to appointment.
+      - Ripp  states Albritton failed to disclose this trust role on his economic
+      statement prior to appointment.
 
       - In 2014, Albritton and two other trustees altered trust handling; switched
       from listing scholarship recipients by name to school names.
@@ -688,11 +688,11 @@ hooks:
 
       Fairhope City Council (Councilman target of original complaint)'
     generated_at: '2026-03-16T08:46:45.147557Z'
-    text: Ripp sent a mountain of evidence to Steve Marshall, only to watch it
-      vanish into a black hole of state silence. While the AG stayed quiet, Tom Albritton
+    text: Ripp sent a mountain of evidence to Steve Marshall, only to watch it vanish
+      into a black hole of state silence. While the AG stayed quiet, Tom Albritton
       and Judge Ben Bowden scrubbed financial records to hide the thousands they siphoned
       from the Mabel Amos Memorial Fund.
-    character_count: 276
+    character_count: 271
   top-shelf-corruption:
     brief: 'THE CONFLICT
 
@@ -746,7 +746,7 @@ hooks:
 
       - Steve Marshall (Alabama Attorney General)
 
-      - Francis Paul Ripp 
+      - Francis Paul Ripp
 
       - Tom Albritton (Director of Alabama Ethics Commission)
 
@@ -758,4 +758,4 @@ hooks:
       and Tom Albritton’s bank account proves it. New records show Albritton grabbed
       $105,000 for his family while Steve Marshall refused to prosecute any of the
       insiders involved in this top-shelf scam.
-    character_count: 275
+    character_count: 270

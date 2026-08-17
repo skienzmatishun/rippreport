@@ -1,5 +1,5 @@
 metadata:
-  generated_at: '2026-08-03T02:30:19.553012Z'
+  generated_at: '2026-08-15T23:38:24.574407Z'
   generator_version: 1.0.0
   post_slug: fake-news-and-retaliation
 hooks:
@@ -60,9 +60,9 @@ hooks:
     generated_at: '2026-07-18T11:25:28.348000Z'
     text: The GCN Courier uses fake news to smear city leaders and protect the Catalyst
       machine. Now we see Councilmen Jack Burrell and Kevin Boone acting as the boots
-      on the ground to bully the new Mayor. Catalyst controls the Council to sabotage 
+      on the ground to bully the new Mayor. Catalyst controls the Council to sabotage
       the city and drive out the current administration.
-    character_count: 320
+    character_count: 288
   cut-nose-off-spite-face:
     brief: 'THE CONFLICT
 
@@ -420,7 +420,7 @@ hooks:
       from their own dirty laundry. Burrell’s close ties to Sen. Tripp Pittman reveal
       a corruption involving alleged theft and the Fairhope Airport scandal. They
       aren't protecting the city. They are protecting a massive criminal enterprise.
-    character_count: 315
+    character_count: 313
   catalyst-the-three-bs-and-chuckee-cheeze:
     brief: "1. THE CONFLICT: Media controversy involving GCN/Chucky and Mayor Tim\
       \ Kant regarding allegations based on leaked documents and testimonies from\
@@ -445,10 +445,10 @@ hooks:
       \ Ethics Commission, Fairhope Airport Authority, Ripple Report."
     generated_at: '2026-07-18T11:25:28.348044Z'
     text: The GCN Courier hides behind a mask of local news while serving as a mouthpiece
-      for CATALYST. We tracked the money from Kevin Boone’s LLCs to his
-      son Scott, who runs the entire Catalyst operation. This pay-to-play scheme ensures
-      that the chosen candidates stay in power and the public stays in the dark.
-    character_count: 315
+      for CATALYST. We tracked the money from Kevin Boone’s LLCs to his son Scott,
+      who runs the entire Catalyst operation. This pay-to-play scheme ensures that
+      the chosen candidates stay in power and the public stays in the dark.
+    character_count: 303
   hallucinations:
     brief: 'THE CONFLICT:
 
@@ -507,10 +507,10 @@ hooks:
       - Alabama Press Association / McCollum'
     generated_at: '2026-07-18T11:25:28.348049Z'
     text: Chucky won awards for stories that were nothing more than coordinated political
-      hits funded by CATALYST. His confidential sources are actually Jack
-      Burrell and Council insiders feeding him lies to destroy their enemies. This
-      isn't journalism. It''s a paid propaganda machine masquerading as a newspaper.
-    character_count: 313
+      hits funded by CATALYST. His confidential sources are actually Jack Burrell
+      and Council insiders feeding him lies to destroy their enemies. This isn't journalism.
+      It''s a paid propaganda machine masquerading as a newspaper.
+    character_count: 303
   chuckee-cheeze:
     brief: 'THE CONFLICT
 

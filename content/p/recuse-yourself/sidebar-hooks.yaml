@@ -1,280 +1,646 @@
 metadata:
-  generated_at: '2026-08-03T02:30:18.888065Z'
+  generated_at: '2026-08-15T23:38:25.270882Z'
   generator_version: 1.0.0
   post_slug: recuse-yourself
-  refined_by: gemini
-  refined_at: '2026-08-07T17:49:42.125681Z'
 hooks:
   fairhope-voters-important-notice:
-    brief: |-
-      1. THE CONFLICT
-      *   Fairhope City Council members failed to recuse themselves when voting on issues tied to personal business interests, including the extension of the sunset clause for Fly Creek Apartments and Preble-Rish projects. (Main Article)
-      *   Councilman Mr. Boone has undisclosed past business interests with developers Angelo Corte and Preble-Rish that conflict with his council duties. He is alleged to have hidden these conflicts prior to election. (Main Article)
-      *   Catalyst Associates, a political entity, was formed on August 11, 2014, involving Michael Scott Boone and Lynn Stacey as managers. (Widget Article)
+    brief: '1. THE CONFLICT
+
+      *   Fairhope City Council members failed to recuse themselves when voting on
+      issues tied to personal business interests, including the extension of the sunset
+      clause for Fly Creek Apartments and Preble-Rish projects. (Main Article)
+
+      *   Councilman Mr. Boone has undisclosed past business interests with developers
+      Angelo Corte and Preble-Rish that conflict with his council duties. He is alleged
+      to have hidden these conflicts prior to election. (Main Article)
+
+      *   Catalyst Associates, a political entity, was formed on August 11, 2014,
+      involving Michael Scott Boone and Lynn Stacey as managers. (Widget Article)
+
 
       2. THE DISCOVERY
-      *   The Widget Article proves that Catalyst Associates is tied directly to Councilman Mr. Boone's family through Coley M. Boone, who served as its registered agent. (Widget Article)
-      *   Catalyst Associates connects Councilmen Boone and Burrell to former political figures such as Elliott and Haygood. (Widget Article)
+
+      *   The Widget Article proves that Catalyst Associates is tied directly to Councilman
+      Mr. Boone''s family through Coley M. Boone, who served as its registered agent.
+      (Widget Article)
+
+      *   Catalyst Associates connects Councilmen Boone and Burrell to former political
+      figures such as Elliott and Haygood. (Widget Article)
+
 
       3. THE PIVOT
-      *   The Main Article alleges that Mr. Boone uses his council position for self-interest, citing a "trail of LLC’s" and undisclosed conflicts with Angelo Corte and Preble-Rish. The Widget Article provides the corporate structure—Catalyst Associates—that substantiates *how* these interests are organized and connects them directly to Councilman Boone's immediate family (his son, Coley M. Boone). Catalyst is presented as the vehicle for Mr. Boone’s political/business influence within city government.
+
+      *   The Main Article alleges that Mr. Boone uses his council position for self-interest,
+      citing a "trail of LLC’s" and undisclosed conflicts with Angelo Corte and Preble-Rish.
+      The Widget Article provides the corporate structure—Catalyst Associates—that
+      substantiates *how* these interests are organized and connects them directly
+      to Councilman Boone''s immediate family (his son, Coley M. Boone). Catalyst
+      is presented as the vehicle for Mr. Boone’s political/business influence within
+      city government.
+
 
       4. KEY ENTITIES
+
       *   Angelo Corte
+
       *   Councilman Mr. Boone / Michael Scott Boone / Scott Boone
+
       *   City Council of Fairhope
+
       *   Preble-Rish
+
       *   Fly Creek Apartments
+
       *   Catalyst Associates (August 11, 2014)
+
       *   Lynn Stacey
+
       *   Coley M. Boone (Registered Agent for Catalyst Associates)
+
       *   Councilman Burrell
+
       *   Mayor Wilson
+
       *   Elliott
-      *   Haygood
+
+      *   Haygood'
     generated_at: '2026-07-18T06:56:16.517258Z'
-    text: Fairhope council members constantly vote on massive development deals tied to their own hidden business partners. Corporate records for Catalyst Associates expose the way Councilman Boone used his own son to anchor the shell entity driving his political empire.
+    text: Fairhope council members constantly vote on massive development deals tied
+      to their own hidden business partners. Corporate records for Catalyst Associates
+      expose the way Councilman Boone used his own son to anchor the shell entity
+      driving his political empire.
+    character_count: 261
   conflict-of-interest:
-    brief: |-
-      THE CONFLICT:
-      * Kevin Boone has undisclosed business interests with Preble-Rish and Angelo Corte that predate his election to City Council.
-      * Allegations center on conflicts of interest regarding Fly Creek Apartments and various Preble-Rish related projects.
+    brief: 'THE CONFLICT:
+
+      * Kevin Boone has undisclosed business interests with Preble-Rish and Angelo
+      Corte that predate his election to City Council.
+
+      * Allegations center on conflicts of interest regarding Fly Creek Apartments
+      and various Preble-Rish related projects.
+
 
       THE DISCOVERY:
-      * Article 2 proves a direct, long-standing business connection exists between Kevin Boone and John Avent (Representative for Dewberry Preble-Rish, LLC) prior to Boone serving on the council.
-      * The conflict is concretely documented regarding "The Retreat at Fairhope" (Fly Creek Apartments); Kevin Boone attended and voted in favor of the project twice during a Sept 2016 Planning and Zoning meeting while John Avent was representing Preble-Rish.
+
+      * Article 2 proves a direct, long-standing business connection exists between
+      Kevin Boone and John Avent (Representative for Dewberry Preble-Rish, LLC) prior
+      to Boone serving on the council.
+
+      * The conflict is concretely documented regarding "The Retreat at Fairhope"
+      (Fly Creek Apartments); Kevin Boone attended and voted in favor of the project
+      twice during a Sept 2016 Planning and Zoning meeting while John Avent was representing
+      Preble-Rish.
+
 
       THE PIVOT:
-      * Article 1 raises general accusations about Mr. Boone's trail of LLC's, Catalyst ties, and conflicts with Preble-Rish/Angelo Corte.
-      * Article 2 functions as the 'smoking gun' by providing specific dates (Sept 2016) and individuals (John Avent) to prove that these alleged conflicts were not new, but pre-existing relationships that Boone repeatedly failed to recuse himself from while voting on city matters.
+
+      * Article 1 raises general accusations about Mr. Boone''s trail of LLC''s, Catalyst
+      ties, and conflicts with Preble-Rish/Angelo Corte.
+
+      * Article 2 functions as the ''smoking gun'' by providing specific dates (Sept
+      2016) and individuals (John Avent) to prove that these alleged conflicts were
+      not new, but pre-existing relationships that Boone repeatedly failed to recuse
+      himself from while voting on city matters.
+
 
       KEY ENTITIES:
+
       * Kevin Boone (City Councilman/Councilman)
+
       * Angelo Corte (Developer)
-      * John Avent (Representative for Dewberry Preble-Rish, LLC; Business partner of Mr. Boone)
+
+      * John Avent (Representative for Dewberry Preble-Rish, LLC; Business partner
+      of Mr. Boone)
+
       * Preble-Rish / Dewberry Preble-Rish, LLC (Engineering Company)
+
       * Fly Creek Apartments / The Retreat at Fairhope (Development Project)
+
       * Catalyst (Political Organization/Connection Network)
+
       * John Robinson (Councilman who acknowledged conflict and abstained)
+
       * Conyers (Councilman who acknowledged conflict and abstained)
-      * Brown (Councilman who acknowledged conflict and abstained)
+
+      * Brown (Councilman who acknowledged conflict and abstained)'
     generated_at: '2026-07-18T06:56:16.517268Z'
-    text: Councilman Kevin Boone claims his shady developer connections are just wild rumors cooked up by political enemies. Official meeting records expose the ultimate smoking gun, proving Boone voted twice for developer John Avent while hiding their lucrative personal business deal.
+    text: Councilman Kevin Boone claims his shady developer connections are just wild
+      rumors cooked up by political enemies. Official meeting records expose the ultimate
+      smoking gun, proving Boone voted twice for developer John Avent while hiding
+      their lucrative personal business deal.
+    character_count: 276
   good-ole-boys-alive-and-well:
-    brief: |-
-      **THE CONFLICT**
-      *   Past council proceedings, specifically a meeting in April 2017 during the term of Mayor Tim Kant, involved City Council members Jack Burrell and Mr. Boone.
-      *   A resolution (Resolution 2606-16) was introduced to accept a deed for a city lift station from Angelo A. Corte.
-      *   Mr. Burrell reviewed and approved this Resolution before October 24th despite being copied on documents showing the resolution was already recorded three days prior, on October 21st.
-      *   The transfer involved property that included wetlands (storm water runoff site for Publix) under an outfall pipe from a retention pond, covering more than just the house-sized lift station area described in Exhibit A.
-      *   Council members, including Mr. Burrell and City Attorney Marion Wynne, were aware of or should have been aware of these undisclosed details but proceeded with the resolution despite concerns.
+    brief: '**THE CONFLICT**
+
+      *   Past council proceedings, specifically a meeting in April 2017 during the
+      term of Mayor Tim Kant, involved City Council members Jack Burrell and Mr. Boone.
+
+      *   A resolution (Resolution 2606-16) was introduced to accept a deed for a
+      city lift station from Angelo A. Corte.
+
+      *   Mr. Burrell reviewed and approved this Resolution before October 24th despite
+      being copied on documents showing the resolution was already recorded three
+      days prior, on October 21st.
+
+      *   The transfer involved property that included wetlands (storm water runoff
+      site for Publix) under an outfall pipe from a retention pond, covering more
+      than just the house-sized lift station area described in Exhibit A.
+
+      *   Council members, including Mr. Burrell and City Attorney Marion Wynne, were
+      aware of or should have been aware of these undisclosed details but proceeded
+      with the resolution despite concerns.
+
 
       **THE DISCOVERY**
-      *   Current council scrutiny reveals continued conflict issues involving Councilmember Boone regarding Fly Creek Apartments/PUD and Preble-Rish engineering.
-      *   Boone is identified as directly related to Catalyst, a political group linked to Angelo Corte (specifically, he reportedly never exposed past business interests with Preble-Rish or Angelo Corte).
-      *   The current council faced pressure to address Boone's "trail of LLC’s" and recuse himself from voting on issues related to Fly Creek Apartments/PUD due to these connections.
+
+      *   Current council scrutiny reveals continued conflict issues involving Councilmember
+      Boone regarding Fly Creek Apartments/PUD and Preble-Rish engineering.
+
+      *   Boone is identified as directly related to Catalyst, a political group linked
+      to Angelo Corte (specifically, he reportedly never exposed past business interests
+      with Preble-Rish or Angelo Corte).
+
+      *   The current council faced pressure to address Boone''s "trail of LLC’s"
+      and recuse himself from voting on issues related to Fly Creek Apartments/PUD
+      due to these connections.
+
 
       **THE PIVOT**
-      *   Article 2 reveals the historical basis for Boone's ongoing conflicts, specifically his involvement with Angelo A. Corte in 2017 via a resolution (Resolution 2606-16) handled by Burrell and Mr. Boone during Kant’s administration.
-      *   This incident establishes long-term "good ole boy" patterns of the Council intentionally obscuring major financial or legal dealings involving developers like Angelo Corte, which provides historical proof supporting current calls for recusal regarding Fly Creek/Preble-Rish.
+
+      *   Article 2 reveals the historical basis for Boone''s ongoing conflicts, specifically
+      his involvement with Angelo A. Corte in 2017 via a resolution (Resolution 2606-16)
+      handled by Burrell and Mr. Boone during Kant’s administration.
+
+      *   This incident establishes long-term "good ole boy" patterns of the Council
+      intentionally obscuring major financial or legal dealings involving developers
+      like Angelo Corte, which provides historical proof supporting current calls
+      for recusal regarding Fly Creek/Preble-Rish.
+
 
       **KEY ENTITIES**
+
       *   Angelo A. Corte
+
       *   Boone (City Council Member)
+
       *   Jack Burrell (Council President/Councilman)
+
       *   Tim Kant (Former Mayor)
+
       *   Fly Creek Apartments / PUD
+
       *   Preble Rish
+
       *   CATALYST
+
       *   Marion Wynne (City Attorney)
-      *   Publix
+
+      *   Publix'
     generated_at: '2026-07-18T06:56:16.517273Z'
-    text: Calls for Councilman Boone to step down over developer conflicts hit a brick wall in City Hall. Hard paper trails prove former mayor Tim Kant and Jack Burrell ran this cover-up scheme back in 2017, sneaking through an illegal land transfer to protect developer Angelo Corte.
+    text: Calls for Councilman Boone to step down over developer conflicts hit a brick
+      wall in City Hall. Hard paper trails prove former mayor Tim Kant and Jack Burrell
+      ran this cover-up scheme back in 2017, sneaking through an illegal land transfer
+      to protect developer Angelo Corte.
+    character_count: 274
   selective-memory:
-    brief: |-
-      THE CONFLICT
-      *   Fairhope City Council members exhibited conflicts of interest during votes regarding Fly Creek Apartments and Preble-Rish issues.
-      *   Kevin Boone is specifically cited for having undeclared business interests with Angelo Corte and Preble-Rish dating back prior to his election.
-      *   The Fairhope City Council took action against Mayor Wilson for exercising her mayoral authority to hire and fire staff, resulting in a special council meeting chaired by Kevin Boone and the imposition of a 60-day hiring freeze.
+    brief: 'THE CONFLICT
+
+      *   Fairhope City Council members exhibited conflicts of interest during votes
+      regarding Fly Creek Apartments and Preble-Rish issues.
+
+      *   Kevin Boone is specifically cited for having undeclared business interests
+      with Angelo Corte and Preble-Rish dating back prior to his election.
+
+      *   The Fairhope City Council took action against Mayor Wilson for exercising
+      her mayoral authority to hire and fire staff, resulting in a special council
+      meeting chaired by Kevin Boone and the imposition of a 60-day hiring freeze.
+
 
       THE DISCOVERY
-      *   The second article reveals that the Fairhope City Council's alleged bias extends beyond financial conflicts (Article 1). The Council is actively using its internal political power to discipline mayoral authority and control municipal operations, such as dictating hiring freezes.
-      *   It demonstrates a pattern of political agenda ("the good ole boys") overriding factual evidence or constituent desires in council decision-making processes.
+
+      *   The second article reveals that the Fairhope City Council''s alleged bias
+      extends beyond financial conflicts (Article 1). The Council is actively using
+      its internal political power to discipline mayoral authority and control municipal
+      operations, such as dictating hiring freezes.
+
+      *   It demonstrates a pattern of political agenda ("the good ole boys") overriding
+      factual evidence or constituent desires in council decision-making processes.
+
 
       THE PIVOT
-      *   The second article serves as the smoking gun by Kevin Boone's actions and the Council’s behavior are not merely isolated conflicts of interest, but part of a broader pattern of political gatekeeping and institutional power abuse used to obstruct change and punish opposing mayoral administrations.
+
+      *   The second article serves as the smoking gun by Kevin Boone''s actions and
+      the Council’s behavior are not merely isolated conflicts of interest, but part
+      of a broader pattern of political gatekeeping and institutional power abuse
+      used to obstruct change and punish opposing mayoral administrations.
+
 
       KEY ENTITIES
+
       *   Kevin Boone (Councilman)
+
       *   Angelo Corte (Developer)
+
       *   CATALYST (Political organization/network)
+
       *   Fairhope City Council
+
       *   Mayor Wilson
+
       *   Sherry Sullivan
+
       *   Jennifer Fidler
-      *   Mr. Burrell (Council member)
+
+      *   Mr. Burrell (Council member)'
     generated_at: '2026-07-18T06:56:16.517291Z'
-    text: Fairhope councilmen routinely ignore massive conflicts of interest to enrich their political pals. Council actions reveal how Kevin Boone weaponized his seat to strip Mayor Wilson's authority and freeze city hiring to protect his machine.
+    text: Fairhope councilmen routinely ignore massive conflicts of interest to enrich
+      their political pals. Council actions reveal how Kevin Boone weaponized his
+      seat to strip Mayor Wilson's authority and freeze city hiring to protect his
+      machine.
+    character_count: 238
   fairhope-a-city-owned-by-outside-interests-and-good-ole-boys:
-    brief: |-
-      THE CONFLICT
-      *   Fairhope City Council members ignored past conflicts of interest when voting on issues personally involved with or related to applicants, including the Fly Creek Apartments extension of a sunset clause.
-      *   Councilman Boone has been identified as having multiple undisclosed LLC business interests and direct relations with Catalyst (a political organization).
-      *   Boone reportedly failed to expose prior business interests in Preble-Rish and Angelo Corte before being elected.
+    brief: 'THE CONFLICT
+
+      *   Fairhope City Council members ignored past conflicts of interest when voting
+      on issues personally involved with or related to applicants, including the Fly
+      Creek Apartments extension of a sunset clause.
+
+      *   Councilman Boone has been identified as having multiple undisclosed LLC
+      business interests and direct relations with Catalyst (a political organization).
+
+      *   Boone reportedly failed to expose prior business interests in Preble-Rish
+      and Angelo Corte before being elected.
+
 
       THE DISCOVERY
-      *   The corruption involving the Fly Creek Apartments approval is part of a larger, "thought out plan" between Mayor Kant, Arthur Corte, and other external interests ("good ole boys").
-      *   Mayor Kant’s network utilizes cronies (e.g., Thompson Engineering) who receive unapproved projects.
-      *   Councilman Boone and Councilman Mueller are noted to be influenced by or vote 100% in line with Mayor Kant’s dictates despite their stated one-term pledges.
+
+      *   The corruption involving the Fly Creek Apartments approval is part of a
+      larger, "thought out plan" between Mayor Kant, Arthur Corte, and other external
+      interests ("good ole boys").
+
+      *   Mayor Kant’s network utilizes cronies (e.g., Thompson Engineering) who receive
+      unapproved projects.
+
+      *   Councilman Boone and Councilman Mueller are noted to be influenced by or
+      vote 100% in line with Mayor Kant’s dictates despite their stated one-term pledges.
+
 
       THE PIVOT
-      *   The second article elevates the conflict from an individual issue (Boone's LLC conflicts) to a systemic institutional failure, local council behavior is tied into a larger "good ole boy" network led by Mayor Kant and executed through associates like Arthur Corte.
-      *   It provides concrete examples of external interests capturing city assets without public participation (e.g., the Triangle lawsuit settlement valued at $11.25 million).
+
+      *   The second article elevates the conflict from an individual issue (Boone''s
+      LLC conflicts) to a systemic institutional failure, local council behavior is
+      tied into a larger "good ole boy" network led by Mayor Kant and executed through
+      associates like Arthur Corte.
+
+      *   It provides concrete examples of external interests capturing city assets
+      without public participation (e.g., the Triangle lawsuit settlement valued at
+      $11.25 million).
+
 
       KEY ENTITIES
+
       *   Angelo Corte / Arthur Corte
+
       *   Boone (Councilman)
+
       *   Catalyst (Political organization/group)
+
       *   Mayor Kant
+
       *   Fly Creek Apartments
+
       *   Preble-Rish
+
       *   Triangle (Property/Land Entity)
+
       *   Diana Brewer (Councilwoman)
+
       *   Mueller (Councilman)
-      *   Thompson Engineering
+
+      *   Thompson Engineering'
     generated_at: '2026-07-18T06:56:16.517295Z'
-    text: Councilman Boone continues to hide his secret LLCs and conflicts with massive real estate developments. Internal records blow open the entire operation, proving former mayor Tim Kant engineered multi-million dollar insider deals with Arthur Corte to rob Fairhope taxpayers blind.
+    text: Councilman Boone continues to hide his secret LLCs and conflicts with massive
+      real estate developments. Internal records blow open the entire operation, proving
+      former mayor Tim Kant engineered multi-million dollar insider deals with Arthur
+      Corte to rob Fairhope taxpayers blind.
+    character_count: 279
   fairhope-has-lost-its-moral-compass:
-    brief: |-
-      THE CONFLICT:
-      - Main Article alleges Fairhope City Council historically ignored conflicts of interest regarding personal business involvement or applicant ties while voting on local issues.
-      - Specific conflict cited involves Mr. Boone having connections to LLC’s requiring investigation, and a direct relationship with Catalyst (political group formed in 2018).
-      - Conflict centers specifically on Fly Creek Apartments and Preble-Rish related votes; Art 1 alleges Mr. Boone failed to disclose business interests regarding these entities even before his election dates (Councilman since 2021/2017).
+    brief: 'THE CONFLICT:
+
+      - Main Article alleges Fairhope City Council historically ignored conflicts
+      of interest regarding personal business involvement or applicant ties while
+      voting on local issues.
+
+      - Specific conflict cited involves Mr. Boone having connections to LLC’s requiring
+      investigation, and a direct relationship with Catalyst (political group formed
+      in 2018).
+
+      - Conflict centers specifically on Fly Creek Apartments and Preble-Rish related
+      votes; Art 1 alleges Mr. Boone failed to disclose business interests regarding
+      these entities even before his election dates (Councilman since 2021/2017).
+
 
       THE DISCOVERY:
-      - Widget Article reveals ongoing ethical failure by the Council, specifically targeting City Council President Jack Burrell and the Police Chief.
-      - Burrell is accused of misconduct related to securing a bid for the Fairhope Airport Authority from bidders who provided him free private plane transportation before awarding them the contract/bid (details related to Municipal Judge).
-      - Burrell allegedly lied about his police record when running for office, and is currently involved in a Federal lawsuit where the City of Fairhope is reportedly paying his legal bills.
+
+      - Widget Article reveals ongoing ethical failure by the Council, specifically
+      targeting City Council President Jack Burrell and the Police Chief.
+
+      - Burrell is accused of misconduct related to securing a bid for the Fairhope
+      Airport Authority from bidders who provided him free private plane transportation
+      before awarding them the contract/bid (details related to Municipal Judge).
+
+      - Burrell allegedly lied about his police record when running for office, and
+      is currently involved in a Federal lawsuit where the City of Fairhope is reportedly
+      paying his legal bills.
+
 
       THE PIVOT:
-      - Both articles argue that the collective body (Fairhope City Council) lacks moral compass/discipline and enables corruption through unethical behavior by its members.
-      - While Article 1 presents specific allegations regarding Mr. Boone’s undisclosed business conflicts with Angelo Corte, Article 2 provides evidence of systemic ethical rot at the leadership level (Jack Burrell as Council President), reinforcing the argument that council officials are prioritizing personal gain or political maneuvering over public integrity.
+
+      - Both articles argue that the collective body (Fairhope City Council) lacks
+      moral compass/discipline and enables corruption through unethical behavior by
+      its members.
+
+      - While Article 1 presents specific allegations regarding Mr. Boone’s undisclosed
+      business conflicts with Angelo Corte, Article 2 provides evidence of systemic
+      ethical rot at the leadership level (Jack Burrell as Council President), reinforcing
+      the argument that council officials are prioritizing personal gain or political
+      maneuvering over public integrity.
+
 
       KEY ENTITIES:
+
       - Angelo Corte (Developer)
+
       - Mr. Boone (Councilman/Politician)
+
       - Catalyst (Political organization since 2018)
+
       - Fly Creek Apartments / Preble-Rish
+
       - Fairhope City Council
+
       - Jack Burrell (Council President)
+
       - Police Chief
-      - Mayor Wilson (Former Mayor mentioned in Art 2's context)
-      - Fairhope Airport Authority
+
+      - Mayor Wilson (Former Mayor mentioned in Art 2''s context)
+
+      - Fairhope Airport Authority'
     generated_at: '2026-07-18T06:56:16.517298Z'
-    text: Fairhope council members routinely protect their own shady votes for backroom developers like Angelo Corte. Damning evidence exposes Council President Jack Burrell taking free private plane rides from airport bidders before handing them lucrative city contracts on your dime.
+    text: Fairhope council members routinely protect their own shady votes for backroom
+      developers like Angelo Corte. Damning evidence exposes Council President Jack
+      Burrell taking free private plane rides from airport bidders before handing
+      them lucrative city contracts on your dime.
+    character_count: 275
   special-interest:
-    brief: |-
-      I. THE CONFLICT
-      *   Mr. Boone faces allegations of significant conflicts of interest regarding business interests dating back prior to his election (Article 1).
-      *   Allegations involve a trail of LLC's and undisclosed business relationships between Mr. Boone, Angelo Corte, Preble-Rish, and the Fly Creek Apartments project (Article 1).
-      *   The conflict was noted in Council decisions regarding the extension of the "sunset clause" for Fly Creek Apartments during recent council meetings (Article 1).
+    brief: 'I. THE CONFLICT
+
+      *   Mr. Boone faces allegations of significant conflicts of interest regarding
+      business interests dating back prior to his election (Article 1).
+
+      *   Allegations involve a trail of LLC''s and undisclosed business relationships
+      between Mr. Boone, Angelo Corte, Preble-Rish, and the Fly Creek Apartments project
+      (Article 1).
+
+      *   The conflict was noted in Council decisions regarding the extension of the
+      "sunset clause" for Fly Creek Apartments during recent council meetings (Article
+      1).
+
 
       II. THE DISCOVERY
-      *   The current Fairhope City Council is characterized as an "at Large Catalyst council," revealing a specific political affiliation and influence structure within the municipal government (Article 2).
-      *   This group, representing approximately 30% of the city’s population, utilizes its control to oppose changes in governance, such as referendums for a new Council-Manager system (Article 2).
+
+      *   The current Fairhope City Council is characterized as an "at Large Catalyst
+      council," revealing a specific political affiliation and influence structure
+      within the municipal government (Article 2).
+
+      *   This group, representing approximately 30% of the city’s population, utilizes
+      its control to oppose changes in governance, such as referendums for a new Council-Manager
+      system (Article 2).
+
 
       III. THE PIVOT
-      *   The discovery that Mr. Boone is directly related to Catalyst and the entire City Council operates as an "at Large Catalyst council" serves as context for Article 1's accusations of systemic conflicts of interest.
-      *   Article 2 reveals the political network (Catalyst) whose special interests are allegedly driving the governance issues described in Article 1, making Mr. Boone's alleged conflicts a function of this specific local power structure.
+
+      *   The discovery that Mr. Boone is directly related to Catalyst and the entire
+      City Council operates as an "at Large Catalyst council" serves as context for
+      Article 1''s accusations of systemic conflicts of interest.
+
+      *   Article 2 reveals the political network (Catalyst) whose special interests
+      are allegedly driving the governance issues described in Article 1, making Mr.
+      Boone''s alleged conflicts a function of this specific local power structure.
+
 
       IV. KEY ENTITIES
+
       *   Mr. Boone
+
       *   Angelo Corte
+
       *   Fly Creek Apartments
+
       *   Preble-Rish
+
       *   Catalyst (political group/organization)
+
       *   Fairhope City Council
-      *   "at Large Catalyst council"
+
+      *   "at Large Catalyst council"'
     generated_at: '2026-07-18T06:56:16.517303Z'
-    text: Developer ties and secret LLCs follow Councilman Boone through every vote on Fly Creek projects. Leaked political strategies expose the true smoking gun, proving the entire Catalyst-backed council works together to block citizen votes and protect their private machine.
+    text: Developer ties and secret LLCs follow Councilman Boone through every vote
+      on Fly Creek projects. Leaked political strategies expose the true smoking gun,
+      proving the entire Catalyst-backed council works together to block citizen votes
+      and protect their private machine.
+    character_count: 269
   documents:
-    brief: |-
-      **THE CONFLICT:**
-      *   Mr. Boone allegedly failed to disclose pre-election business interests with Preble-Rish and Angelo Corte, a developer who has multiple roles since 2017-04-14.
-      *   Conflicts of interest occurred during recent Fairhope City Council voting sessions regarding the extension of sunset clauses for Fly Creek Apartments and related Preble-Rish issues.
+    brief: '**THE CONFLICT:**
+
+      *   Mr. Boone allegedly failed to disclose pre-election business interests with
+      Preble-Rish and Angelo Corte, a developer who has multiple roles since 2017-04-14.
+
+      *   Conflicts of interest occurred during recent Fairhope City Council voting
+      sessions regarding the extension of sunset clauses for Fly Creek Apartments
+      and related Preble-Rish issues.
+
 
       **THE DISCOVERY:**
-      *   Robert Brown, a Fairhope City Councilman, is accused of using his elected office for personal financial gain via a contract with Eastern Shore Art Center (ESAC).
-      *   Brown acted as ESAC Board member/Liaison to the City Council while defending this contract.
-      *   The entire "Catalyst" Council allegedly voted for preferential full family insurance for part-time employees, valued at approximately $17,000 per year, which other staff do not receive.
+
+      *   Robert Brown, a Fairhope City Councilman, is accused of using his elected
+      office for personal financial gain via a contract with Eastern Shore Art Center
+      (ESAC).
+
+      *   Brown acted as ESAC Board member/Liaison to the City Council while defending
+      this contract.
+
+      *   The entire "Catalyst" Council allegedly voted for preferential full family
+      insurance for part-time employees, valued at approximately $17,000 per year,
+      which other staff do not receive.
+
 
       **THE PIVOT:**
-      *   Article 1 identifies systemic conflicts of interest tied to Mr. Boone and Angelo Corte via the "Catalyst" connection.
-      *   Article 2 transforms this critique from an isolated investigation into a broader exposé by labeling the entire body as the "Catalyst Council." It proves the conflict is not limited to specific votes (Boone's business interests) but is systemic misconduct involving preferential contracts and employee benefits across the whole council, implying complicity beyond Mr. Boone.
+
+      *   Article 1 identifies systemic conflicts of interest tied to Mr. Boone and
+      Angelo Corte via the "Catalyst" connection.
+
+      *   Article 2 transforms this critique from an isolated investigation into a
+      broader exposé by labeling the entire body as the "Catalyst Council." It proves
+      the conflict is not limited to specific votes (Boone''s business interests)
+      but is systemic misconduct involving preferential contracts and employee benefits
+      across the whole council, implying complicity beyond Mr. Boone.
+
 
       **KEY ENTITIES:**
+
       *   Angelo Corte (Developer)
+
       *   Mr. Boone (City Councilman)
+
       *   Robert Brown (Councilman/Property Owner 2021-03-12)
+
       *   Fairhope City Council
+
       *   Catalyst (Political Organization)
+
       *   Fly Creek Apartments
+
       *   Preble-Rish
-      *   Eastern Shore Art Center (ESAC)
+
+      *   Eastern Shore Art Center (ESAC)'
     generated_at: '2026-07-18T06:56:16.517306Z'
-    text: Councilman Boone insists his pre-election developer ties are just isolated coincidences. Explosive council documents uncover a far wider racket, proving Councilman Robert Brown and his Catalyst allies handed themselves custom family insurance perks worth thousands every year.
+    text: Councilman Boone insists his pre-election developer ties are just isolated
+      coincidences. Explosive council documents uncover a far wider racket, proving
+      Councilman Robert Brown and his Catalyst allies handed themselves custom family
+      insurance perks worth thousands every year.
+    character_count: 276
   opposition-obstruction:
-    brief: |-
-      **THE CONFLICT:**
-      *   Fairhope City Council has historically ignored conflicts of interest when voting on personal business or related applicant issues.
-      *   Specific allegation: Several council members had undisclosed conflicts regarding votes on the Fly Creek Apartments extension (sunset clause).
-      *   Mr. Boone is accused of having an unexposed trail of LLC's and pre-election business interests with Preble-Rish and Angelo Corte, prior to his election as Councilman/City Council member.
+    brief: '**THE CONFLICT:**
+
+      *   Fairhope City Council has historically ignored conflicts of interest when
+      voting on personal business or related applicant issues.
+
+      *   Specific allegation: Several council members had undisclosed conflicts regarding
+      votes on the Fly Creek Apartments extension (sunset clause).
+
+      *   Mr. Boone is accused of having an unexposed trail of LLC''s and pre-election
+      business interests with Preble-Rish and Angelo Corte, prior to his election
+      as Councilman/City Council member.
+
 
       **THE DISCOVERY:**
-      *   Fairhope City Council exhibits a systemic pattern of opposition and obstruction against the Mayor’s recommendations (e.g., rejecting a second insurance bid on Sept 11).
-      *   Council President Jack Burrell is directing this resistance, insisting that decisions are independent of mayoral input despite evidence to the contrary.
-      *   Mr. Boone defended the leaking of city documents related to three pending claims against the City as "transparency," while using these leaks for political attacks against the Mayor.
+
+      *   Fairhope City Council exhibits a systemic pattern of opposition and obstruction
+      against the Mayor’s recommendations (e.g., rejecting a second insurance bid
+      on Sept 11).
+
+      *   Council President Jack Burrell is directing this resistance, insisting that
+      decisions are independent of mayoral input despite evidence to the contrary.
+
+      *   Mr. Boone defended the leaking of city documents related to three pending
+      claims against the City as "transparency," while using these leaks for political
+      attacks against the Mayor.
+
 
       **THE PIVOT:**
-      *   Article 1 establishes the council's failure to address specific, personal financial conflicts (Corte/Preble-Rish). Article 2 proves that this lack of discipline extends to a coordinated political agenda of obstruction and politically motivated resistance led by Council President Burrell against the Mayor.
-      *   The pivot shifts the narrative from individual conflict-of-interest cases to systemic governmental failure: The council is accused of both ignoring private business interests (Boone/Corte) and actively obstructing public processes for political gain (Burrell).
+
+      *   Article 1 establishes the council''s failure to address specific, personal
+      financial conflicts (Corte/Preble-Rish). Article 2 proves that this lack of
+      discipline extends to a coordinated political agenda of obstruction and politically
+      motivated resistance led by Council President Burrell against the Mayor.
+
+      *   The pivot shifts the narrative from individual conflict-of-interest cases
+      to systemic governmental failure: The council is accused of both ignoring private
+      business interests (Boone/Corte) and actively obstructing public processes for
+      political gain (Burrell).
+
 
       **KEY ENTITIES:**
+
       *   Mr. Boone (Councilman)
+
       *   Angelo Corte (Developer)
+
       *   Preble-Rish
+
       *   Fly Creek Apartments / Fly Creek
+
       *   Jack Burrell (Council President)
+
       *   Fairhope City Council
-      *   Catalyst (Organization connected to Mr. Boone)
+
+      *   Catalyst (Organization connected to Mr. Boone)'
     generated_at: '2026-07-18T06:56:16.517310Z'
-    text: Hidden business deals continue to taint Councilman Boone's votes on major land developments. Shocking council leaks reveal Jack Burrell's calculated sabotage, proving the council weaponized confidential legal files to attack the mayor and cover for their corporate allies.
+    text: Hidden business deals continue to taint Councilman Boone's votes on major
+      land developments. Shocking council leaks reveal Jack Burrell's calculated sabotage,
+      proving the council weaponized confidential legal files to attack the mayor
+      and cover for their corporate allies.
+    character_count: 272
   honey-bees:
-    brief: |-
-      THE CONFLICT:
-      *   Fairhope City Council has historically ignored conflicts of interest regarding votes that members are personally involved in or have business interests with. (Main Article)
-      *   Specific recent conflict cited involves Fly Creek Apartments and extending the sunset clause related to Angelo Corte. (Main Article)
-      *   Councilman Mr. Boone is heavily criticized for having a trail of undisclosed LLC's, business interests in Preble-Rish, and being directly related to the political organization Catalyst prior to his election. (Main Article)
+    brief: 'THE CONFLICT:
+
+      *   Fairhope City Council has historically ignored conflicts of interest regarding
+      votes that members are personally involved in or have business interests with.
+      (Main Article)
+
+      *   Specific recent conflict cited involves Fly Creek Apartments and extending
+      the sunset clause related to Angelo Corte. (Main Article)
+
+      *   Councilman Mr. Boone is heavily criticized for having a trail of undisclosed
+      LLC''s, business interests in Preble-Rish, and being directly related to the
+      political organization Catalyst prior to his election. (Main Article)
+
 
       THE DISCOVERY:
-      *   Council members Burrell, Boone, and Brown ("the three b’s") are identified as using their elected office for personal gain through property deals involving Fairhope. (Widget Article)
-      *   On May 29th, the Council considered a conservation easement for Triangle property (102 acres, $20 million value), which the council was willing to give away while also proposing a purchase on Hwy 13. (Widget Article)
-      *   Councilmen Burrell and Boone supported a lawsuit regarding this issue that Fairhope ultimately lost ($8.25M paid plus $3M in fees). (Widget Article)
-      *   In September, the Council passed a resolution to purchase the Hwy 13 property for $2.6 million without public comment or addressing the questionable appraisal. (Widget Article)
+
+      *   Council members Burrell, Boone, and Brown ("the three b’s") are identified
+      as using their elected office for personal gain through property deals involving
+      Fairhope. (Widget Article)
+
+      *   On May 29th, the Council considered a conservation easement for Triangle
+      property (102 acres, $20 million value), which the council was willing to give
+      away while also proposing a purchase on Hwy 13. (Widget Article)
+
+      *   Councilmen Burrell and Boone supported a lawsuit regarding this issue that
+      Fairhope ultimately lost ($8.25M paid plus $3M in fees). (Widget Article)
+
+      *   In September, the Council passed a resolution to purchase the Hwy 13 property
+      for $2.6 million without public comment or addressing the questionable appraisal.
+      (Widget Article)
+
 
       THE PIVOT:
-      *   While Article 1 details specific financial and corporate conflicts related to developers like Angelo Corte involving Mr. Boone, Article 2 reveals that these council members—including Boone—are actively engaging in similar patterns of self-dealing by pushing highly lucrative land purchases (Hwy 13 property) despite legal losses on previous deals (Triangle property).
-      *   The discovery proves the conflict is not isolated to specific developer relationships but is a systemic behavior where Councilmen, specifically "the b's," prioritize financial gain ("the honey") and private interests over the public trust and constitutional rights of citizens.
+
+      *   While Article 1 details specific financial and corporate conflicts related
+      to developers like Angelo Corte involving Mr. Boone, Article 2 reveals that
+      these council members—including Boone—are actively engaging in similar patterns
+      of self-dealing by pushing highly lucrative land purchases (Hwy 13 property)
+      despite legal losses on previous deals (Triangle property).
+
+      *   The discovery proves the conflict is not isolated to specific developer
+      relationships but is a systemic behavior where Councilmen, specifically "the
+      b''s," prioritize financial gain ("the honey") and private interests over the
+      public trust and constitutional rights of citizens.
+
 
       KEY ENTITIES:
+
       *   Angelo Corte (Developer)
+
       *   Mr. Boone (Councilman/LLC ownership)
+
       *   Mr. Burrell (Council President/Bee leader)
+
       *   Mr. Brown (Councilman/Bee leader)
+
       *   Catalyst (Political organization/Connection Network linked to Mr. Boone)
+
       *   Fly Creek Apartments
+
       *   Preble-Rish
+
       *   Triangle property (102 acres / $20 million value)
-      *   Hwy 13 recreation land ($2.6 million purchase)
+
+      *   Hwy 13 recreation land ($2.6 million purchase)'
     generated_at: '2026-07-18T06:56:16.517313Z'
-    text: Councilman Boone routinely casts votes that line the pockets of his undisclosed real estate partners. Land purchase records reveal the ultimate smoking gun, proving Boone, Jack Burrell, and Robert Brown ram through multi-million dollar property deals to cash in on public funds.
+    text: Councilman Boone routinely casts votes that line the pockets of his undisclosed
+      real estate partners. Land purchase records reveal the ultimate smoking gun,
+      proving Boone, Jack Burrell, and Robert Brown ram through multi-million dollar
+      property deals to cash in on public funds.
+    character_count: 278

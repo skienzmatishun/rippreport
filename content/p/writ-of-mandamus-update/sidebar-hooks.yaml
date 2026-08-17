@@ -1,5 +1,5 @@
 metadata:
-  generated_at: '2026-08-03T02:36:29.285176Z'
+  generated_at: '2026-08-15T23:38:15.056184Z'
   generator_version: 1.0.0
   post_slug: writ-of-mandamus-update
 hooks:
@@ -79,10 +79,10 @@ hooks:
       - Alabama Ethics Commission'
     generated_at: '2026-03-15T12:47:24.403629Z'
     text: Francis Paul Ripp filed a Writ of Mandamus to expose Tom Albritton’s sickening
-      self-dealing at the Ethics Commission. Albritton funneled
-      over $100,000 in scholarship cash to his own children while he was legally bound
-      to guard the trust for those in need.
-    character_count: 276
+      self-dealing at the Ethics Commission. Albritton funneled over $100,000 in scholarship
+      cash to his own children while he was legally bound to guard the trust for those
+      in need.
+    character_count: 255
   court-of-public-opinion-2:
     brief: '1. THE CONFLICT:
 
@@ -587,7 +587,7 @@ hooks:
       light switch to expose Albritton’s hidden millions. These records show Albritton
       lied on his financial forms to hide a trusteeship that paid his family $120,000
       and handed Regions Bank a million-dollar payday.
-    character_count: 285
+    character_count: 284
   alabama-ethics-self-dealing-immunity:
     brief: 'CONFLICT
 

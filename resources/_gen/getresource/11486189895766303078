@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a261c77e6b07f366-MIA
+Cf-Ray: a2bc4a5afdf59fe7-MIA
 Content-Type: application/json
-Date: Wed, 05 Aug 2026 00:45:29 GMT
+Date: Sun, 16 Aug 2026 00:23:27 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DODtmi2SkX8O20T4ZEvutq6g5DwEmTdaHRdmByTa3qm4SCNDUCBGrCLhwf70AoXFOatY8wZyZrqfR71gv%2BBTk4K%2F0VT6ZjVDe%2Bd0Tq1%2Bn13ZvEMbF93ZoAWdeEEuiiI3E4Dl7%2FGfyhMtVc7WVjCXdG2zeA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=vjtI5KGYT3TIdD%2F41Lhjbf%2FRgvIJpUaNPETiywiD15f2zY2E73uPgeFhcNGnUzO1rHzqmtz%2FAlS5mn8jBkbJKFbbjq9bXvzM4xqw%2B2zAzOeL7tveN29Tlk1YV3X7LkC56Spv0sXOYzNLy%2FUsOonFPfO3Zg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=406
+Server-Timing: cfEdge;dur=8,cfOrigin;dur=0,cfWorker;dur=571
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 947fd2f8613b4b320b0834bafaa26ea9
-X-Etags-2: 947fd2f8613b4b320b0834bafaa26ea9
+X-Etags-1: 099fde1498fb9422fa6501c5b52912d6
+X-Etags-2: 099fde1498fb9422fa6501c5b52912d6
 
-{"title":"RE-GIFT GIFT ??","description":"We revisit how Mayor Tim Kant and developer Corte tricked Fairhope into accepting a shady four-acre land gift along Fly Creek. This dirty transaction made taxpayers liable for severe environmental damage and illegal runoff from a private development project. This bad deal shows exactly how local politicians still sacrifice public wetlands to protect rich private developers today.","url":"https://rippreport.com/p/re-gift-gift-2/","image":"https://rippreport.com/img/re-gift-gift-2.png","charset":"utf-8"}
+{"title":"RE-GIFT GIFT ??","description":"We revisit how Mayor Tim Kant and developer Corte tricked Fairhope into accepting a shady four-acre land gift along Fly Creek. This dirty transaction made taxpayers liable for severe environmental damage and illegal runoff from a private development project. This bad deal shows exactly how local politicians still sacrifice public wetlands to protect rich private developers today.","url":"https://rippreport.com/p/re-gift-gift-2/","image":"https://rippreport.com/img/re-gift-gift-2.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/re-gift-gift-2/","wasRedirected":false}

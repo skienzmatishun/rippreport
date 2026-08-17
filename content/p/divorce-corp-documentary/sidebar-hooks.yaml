@@ -1,252 +1,544 @@
 metadata:
-  generated_at: '2026-08-03T02:01:30.807856Z'
+  generated_at: '2026-08-15T23:38:27.085788Z'
   generator_version: 1.0.0
   post_slug: divorce-corp-documentary
-  refined_by: gemini
-  refined_at: '2026-08-08T21:18:34.486499Z'
 hooks:
   baldwin-county-family-court-a-cottage-industry:
-    brief: |-
-      THE CONFLICT:
-      - Divorce cases in Baldwin County existed as a prolonged, fee-driven "cottage industry."
-      - Brackin Johnson and McGriff's law firm, coupled with Judge Thomason's court, were cited in 2015 as examples of the worst practices.
-      - Main Article frames family courts as systems designed to enrich insiders while harming litigants/children.
+    brief: 'THE CONFLICT:
+
+      - Divorce cases in Baldwin County existed as a prolonged, fee-driven "cottage
+      industry."
+
+      - Brackin Johnson and McGriff''s law firm, coupled with Judge Thomason''s court,
+      were cited in 2015 as examples of the worst practices.
+
+      - Main Article frames family courts as systems designed to enrich insiders while
+      harming litigants/children.
+
 
       THE DISCOVERY:
-      - The Widget Article (dated later) details procedural changes involving presiding Judge Floyd.
-      - These changes sought to move temporary custody/support hearings away from Judge Thomason, citing her bad judgment regarding immediate 50/50 custody assignments.
-      - The Article also mentions complaints against Thomason and notes the potential for appellate review if two judges disagree.
+
+      - The Widget Article (dated later) details procedural changes involving presiding
+      Judge Floyd.
+
+      - These changes sought to move temporary custody/support hearings away from
+      Judge Thomason, citing her bad judgment regarding immediate 50/50 custody assignments.
+
+      - The Article also mentions complaints against Thomason and notes the potential
+      for appellate review if two judges disagree.
+
 
       THE PIVOT:
-      - The Widget Article describes the tangible institutional problems (Thomason's influence, bad judgment in status quo orders) that align with the systemic corruption alleged in the 2015 Main Article regarding Brackin Johnson/McGriff and Judge Thomason's court.
-      - The Widget Article details procedural mechanisms put in place (rotation of judges, Floyd/Bishop overseeing Thomason's cases) directly addressing the bottlenecks and potential for bias described generally in 2015.
+
+      - The Widget Article describes the tangible institutional problems (Thomason''s
+      influence, bad judgment in status quo orders) that align with the systemic corruption
+      alleged in the 2015 Main Article regarding Brackin Johnson/McGriff and Judge
+      Thomason''s court.
+
+      - The Widget Article details procedural mechanisms put in place (rotation of
+      judges, Floyd/Bishop overseeing Thomason''s cases) directly addressing the bottlenecks
+      and potential for bias described generally in 2015.
+
 
       KEY ENTITIES:
+
       - Judge Michelle Thomason
+
       - Presiding Judge Floyd
+
       - Attorney Brackin Johnson (and McGriff)
-      - Ripp Report
+
+      - Ripp Report'
     generated_at: '2026-08-03T02:01:30.808234Z'
-    text: Baldwin County insider lawyers turned local divorce court into a cash cow for years. New procedural records reveal Presiding Judge Floyd stepped in to yank temporary custody cases away from Judge Thomason to curb her biased rulings.
+    text: Baldwin County insider lawyers turned local divorce court into a cash cow
+      for years. New procedural records reveal Presiding Judge Floyd stepped in to
+      yank temporary custody cases away from Judge Thomason to curb her biased rulings.
+    character_count: 232
   divorce-corp:
-    brief: |-
-      THE CONFLICT:
-      *   Documentary "Divorce Corp" circulated regarding alleged corruption in Baldwin County family courts. (Oct 2, 2015)
-      *   Complaints against the law firm of Brackin Johnson and McGriff, and Judge Thomason's court were documented.
-      *   The judicial system was accused of being biased and enabling protracted, costly divorces.
+    brief: 'THE CONFLICT:
+
+      *   Documentary "Divorce Corp" circulated regarding alleged corruption in Baldwin
+      County family courts. (Oct 2, 2015)
+
+      *   Complaints against the law firm of Brackin Johnson and McGriff, and Judge
+      Thomason''s court were documented.
+
+      *   The judicial system was accused of being biased and enabling protracted,
+      costly divorces.
+
 
       THE DISCOVERY:
-      *   The Ripp Report is actively targeting the judicial system, specifically naming Judge Michelle Thomason (District Court Place 1).
-      *   The report details ongoing concerns regarding Judge Thomason's court producing a "cottage industry" of divorce cases.
-      *   Stephen Johnson is specifically named as the most frequently complained-about attorney in this system.
+
+      *   The Ripp Report is actively targeting the judicial system, specifically
+      naming Judge Michelle Thomason (District Court Place 1).
+
+      *   The report details ongoing concerns regarding Judge Thomason''s court producing
+      a "cottage industry" of divorce cases.
+
+      *   Stephen Johnson is specifically named as the most frequently complained-about
+      attorney in this system.
+
 
       THE PIVOT:
-      *   Article 2 moves from generalized critique (Divorce Corp documentary) to specific, ongoing action and target identification.
-      *   Article 2 provides contemporary context to the systemic failures highlighted in Article 1, tying them directly to current judicial performance and specific practitioners.
+
+      *   Article 2 moves from generalized critique (Divorce Corp documentary) to
+      specific, ongoing action and target identification.
+
+      *   Article 2 provides contemporary context to the systemic failures highlighted
+      in Article 1, tying them directly to current judicial performance and specific
+      practitioners.
+
 
       KEY ENTITIES:
+
       *   Judge Michelle Thomason
+
       *   Stephen Johnson (Attorney)
+
       *   Brackin (Mentioned in relation to law firm/mentor roles)
+
       *   Jack Burrell (Friend of Judge Thomason)
-      *   Baldwin County
+
+      *   Baldwin County'
     generated_at: '2026-08-03T02:01:30.808244Z'
-    text: National documentaries exposed how family courts trap parents in endless legal debt. Local records prove Judge Thomason and attorney Stephen Johnson ran that exact scheme, turning Baldwin County custody fights into a private piggy bank.
+    text: National documentaries exposed how family courts trap parents in endless
+      legal debt. Local records prove Judge Thomason and attorney Stephen Johnson
+      ran that exact scheme, turning Baldwin County custody fights into a private
+      piggy bank.
+    character_count: 236
   exposure:
-    brief: |-
-      THE CONFLICT:
-      *   Documentary "Divorce Corp" parallels corruption in Baldwin County family court system.
-      *   Complaints cited against Brackin Johnson and McGriff law firm, and Judge Thomason's court.
+    brief: 'THE CONFLICT:
+
+      *   Documentary "Divorce Corp" parallels corruption in Baldwin County family
+      court system.
+
+      *   Complaints cited against Brackin Johnson and McGriff law firm, and Judge
+      Thomason''s court.
+
       *   Documentary/articles suggest system drags cases out, enriching insiders.
 
+
       THE DISCOVERY:
+
       *   Article details ongoing scrutiny of the Baldwin County family court system.
-      *   Allegations target Judge Thomason and Attorney Stephen Johnson regarding unethical behavior in family court cases.
-      *   The role of citizen action (social media, voting) is positioned as crucial for change.
+
+      *   Allegations target Judge Thomason and Attorney Stephen Johnson regarding
+      unethical behavior in family court cases.
+
+      *   The role of citizen action (social media, voting) is positioned as crucial
+      for change.
+
 
       THE PIVOT:
-      *   Article 2 (EXPOSURE) provides context and amplifies the initial complaints from Article 1 regarding systemic failure in Baldwin County courts.
-      *   Article 2 focuses on the necessity of vetting elected officials, specifically referencing the defeat of Tim Kant as a related example impacting local governance structures.
+
+      *   Article 2 (EXPOSURE) provides context and amplifies the initial complaints
+      from Article 1 regarding systemic failure in Baldwin County courts.
+
+      *   Article 2 focuses on the necessity of vetting elected officials, specifically
+      referencing the defeat of Tim Kant as a related example impacting local governance
+      structures.
+
 
       KEY ENTITIES:
+
       *   Judge Thomason
+
       *   Attorney Stephen Johnson
+
       *   Brackin Johnson and McGriff (Law Firm)
+
       *   Baldwin County
-      *   Tim Kant
+
+      *   Tim Kant'
     generated_at: '2026-08-03T02:01:30.808247Z'
-    text: Systemic corruption in Baldwin County courts thrives when corrupt officials face zero public accountability. Investigative findings expose Judge Thomason and attorney Stephen Johnson, proving voters can tear down this rigged court system just like they unseated former mayor Tim Kant.
+    text: Systemic corruption in Baldwin County courts thrives when corrupt officials
+      face zero public accountability. Investigative findings expose Judge Thomason
+      and attorney Stephen Johnson, proving voters can tear down this rigged court
+      system just like they unseated former mayor Tim Kant.
+    character_count: 284
   baldwin-county-un-family-court:
-    brief: |-
-      THE CONFLICT:
-      *   10+ year period of complaints filed against Baldwin County Family Court (BCFC) and related practices.
-      *   Main Article (Oct 2, 2015): Documented systemic corruption in family courts; cited Brackin Johnson and McGriff law firm alongside Judge Thomason's court as examples of worst practices.
-      *   Main Article: Documented courts enabling corruption, dragging out cases leading to financial ruin, home foreclosure, and suicide.
+    brief: 'THE CONFLICT:
+
+      *   10+ year period of complaints filed against Baldwin County Family Court
+      (BCFC) and related practices.
+
+      *   Main Article (Oct 2, 2015): Documented systemic corruption in family courts;
+      cited Brackin Johnson and McGriff law firm alongside Judge Thomason''s court
+      as examples of worst practices.
+
+      *   Main Article: Documented courts enabling corruption, dragging out cases
+      leading to financial ruin, home foreclosure, and suicide.
+
 
       THE DISCOVERY:
-      *   Widget Article (2018): Confirms the severity and continuity of complaints against BCFC.
-      *   Widget Article: Compiles anonymous accounts establishing the pattern of damage caused by BCFC.
-      *   Widget Article: Specifically targets Judge Michelle Thomasson, detailing complaints regarding "poor decisions," favoritism toward certain attorneys, and inconsistent rulings causing familial destruction.
+
+      *   Widget Article (2018): Confirms the severity and continuity of complaints
+      against BCFC.
+
+      *   Widget Article: Compiles anonymous accounts establishing the pattern of
+      damage caused by BCFC.
+
+      *   Widget Article: Specifically targets Judge Michelle Thomasson, detailing
+      complaints regarding "poor decisions," favoritism toward certain attorneys,
+      and inconsistent rulings causing familial destruction.
+
 
       THE PIVOT:
-      *   Article 1 establishes the theoretical corruption and provides the backdrop (Brackin Johnson, Judge Thomason's court).
-      *   Article 2 provides the empirical evidence collected *after* Article 1, naming Judge Michelle Thomasson and quantifying the harm inflicted by her court following the general accusations made in Article 1.
+
+      *   Article 1 establishes the theoretical corruption and provides the backdrop
+      (Brackin Johnson, Judge Thomason''s court).
+
+      *   Article 2 provides the empirical evidence collected *after* Article 1, naming
+      Judge Michelle Thomasson and quantifying the harm inflicted by her court following
+      the general accusations made in Article 1.
+
 
       KEY ENTITIES:
+
       *   The Ripp Report
+
       *   Baldwin County Family Court (BCFC)
+
       *   Judge Michelle Thomasson
+
       *   Brackin Johnson
+
       *   McGriff
-      *   Alleged "bottom feeding attorneys"
+
+      *   Alleged "bottom feeding attorneys"'
     generated_at: '2026-08-03T02:01:30.808253Z'
-    text: For years, local court insiders enriched themselves while family court dragged parents into financial ruin. Fresh victim testimonies expose Judge Michelle Thomasson, proving her reckless bench decisions and lawyer favoritism caused direct, quantifiable devastation to local homes.
+    text: For years, local court insiders enriched themselves while family court dragged
+      parents into financial ruin. Fresh victim testimonies expose Judge Michelle
+      Thomasson, proving her reckless bench decisions and lawyer favoritism caused
+      direct, quantifiable devastation to local homes.
+    character_count: 280
   baldwin-county-family-court:
-    brief: |-
-      THE CONFLICT:
-      - Divorce proceedings occurring in Baldwin County Family Court involving Judge Thomason.
-      - Allegations of systemic corruption within the family court system regarding property division and child welfare negatively impacting litigants.
-      - Documented instances of protracted, high-conflict custody battles involving financial expenditure and potential legal malfeasance.
+    brief: 'THE CONFLICT:
+
+      - Divorce proceedings occurring in Baldwin County Family Court involving Judge
+      Thomason.
+
+      - Allegations of systemic corruption within the family court system regarding
+      property division and child welfare negatively impacting litigants.
+
+      - Documented instances of protracted, high-conflict custody battles involving
+      financial expenditure and potential legal malfeasance.
+
 
       THE DISCOVERY:
-      - Detailed firsthand account from litigants' perspective regarding serious judicial misconduct by Judge Thomason.
-      - Specific allegations include failure to hold opposing counsel accountable for illegally obtained medical records; overruling professional psychological evaluations despite clear findings; refusing admissible evidence; and failing to sanction perjury committed in her courtroom.
+
+      - Detailed firsthand account from litigants'' perspective regarding serious
+      judicial misconduct by Judge Thomason.
+
+      - Specific allegations include failure to hold opposing counsel accountable
+      for illegally obtained medical records; overruling professional psychological
+      evaluations despite clear findings; refusing admissible evidence; and failing
+      to sanction perjury committed in her courtroom.
+
 
       THE PIVOT:
-      - Article 1 establishes the existence of a corrupt, slow, high-stakes system in Baldwin County Family Court. Article 2 provides granular, chronological evidence of *how* Judge Thomason personally presided over procedural abuses and demonstrated judicial bias against clear evidence or due process, validating the sweeping corruption claims of Article 1.
+
+      - Article 1 establishes the existence of a corrupt, slow, high-stakes system
+      in Baldwin County Family Court. Article 2 provides granular, chronological evidence
+      of *how* Judge Thomason personally presided over procedural abuses and demonstrated
+      judicial bias against clear evidence or due process, validating the sweeping
+      corruption claims of Article 1.
+
 
       KEY ENTITIES:
+
       - Judge Thomason
+
       - Baldwin County Family Court
+
       - Brackin Johnson (Law Firm mentioned in Article 1)
-      - Ripp Report / Baldwin County Legal Eagle
+
+      - Ripp Report / Baldwin County Legal Eagle'
     generated_at: '2026-08-03T02:01:30.808256Z'
-    text: High-stakes custody battles in Baldwin County routinely destroy innocent parents for profit. Firsthand evidence catches Judge Thomason actively hiding court perjury, ignoring psychological evaluations, and validating illegal medical records to rig outcomes for her favorite attorneys.
+    text: High-stakes custody battles in Baldwin County routinely destroy innocent
+      parents for profit. Firsthand evidence catches Judge Thomason actively hiding
+      court perjury, ignoring psychological evaluations, and validating illegal medical
+      records to rig outcomes for her favorite attorneys.
+    character_count: 284
   shackled-chained-handcuffed-bc-un-family-court:
-    brief: |-
-      THE CONFLICT:
-      *   Family court proceedings in Baldwin County allegedly used to fleece families and control custody.
-      *   Specific complaint detailed regarding Chey Garrigan, attended by unresponsive counsel like Steven Johnson and presiding over by Judge Michelle Thomason.
-      *   Garrigan faced wrongful arrest by Fairhope Police; sought representation from Attorney Brian Chun.
-      *   Case went through multiple legal hurdles, including unsuccessful attempts at recusal for Thomason and filings against her appointment.
-      *   The case eventually reached the Federal Court system involving Burdick, Garrigan, and seeking redress against Thomason's tenure.
+    brief: 'THE CONFLICT:
+
+      *   Family court proceedings in Baldwin County allegedly used to fleece families
+      and control custody.
+
+      *   Specific complaint detailed regarding Chey Garrigan, attended by unresponsive
+      counsel like Steven Johnson and presiding over by Judge Michelle Thomason.
+
+      *   Garrigan faced wrongful arrest by Fairhope Police; sought representation
+      from Attorney Brian Chun.
+
+      *   Case went through multiple legal hurdles, including unsuccessful attempts
+      at recusal for Thomason and filings against her appointment.
+
+      *   The case eventually reached the Federal Court system involving Burdick,
+      Garrigan, and seeking redress against Thomason''s tenure.
+
 
       THE DISCOVERY:
-      *   The protracted fight in the local system resulted in Garrigan being incarcerated (30 days jail time) and ultimately subjected to extreme conditions.
-      *   In the Jody Bishop Court, Garrigan was "Shackled, chained and handcuffed" during her extended legal battle.
-      *   The entire decade-long struggle, costing Garrigan financial ruin and personal strife, was sustained by the failures of the previous judicial oversight.
+
+      *   The protracted fight in the local system resulted in Garrigan being incarcerated
+      (30 days jail time) and ultimately subjected to extreme conditions.
+
+      *   In the Jody Bishop Court, Garrigan was "Shackled, chained and handcuffed"
+      during her extended legal battle.
+
+      *   The entire decade-long struggle, costing Garrigan financial ruin and personal
+      strife, was sustained by the failures of the previous judicial oversight.
+
 
       THE PIVOT:
-      *   Article 1 establishes the pervasive, corrupt environment of Baldwin County Family Court under Thomason.
-      *   Article 2 provides the ultimate physical manifestation and consequence of that corruption: Garrigan enduring inhumane detention conditions (shackled/chained) while pursuing custody matters, proving the system's toxicity and inertia.
+
+      *   Article 1 establishes the pervasive, corrupt environment of Baldwin County
+      Family Court under Thomason.
+
+      *   Article 2 provides the ultimate physical manifestation and consequence of
+      that corruption: Garrigan enduring inhumane detention conditions (shackled/chained)
+      while pursuing custody matters, proving the system''s toxicity and inertia.
+
 
       KEY ENTITIES:
+
       *   Chey Garrigan
+
       *   Judge Michelle Thomason
+
       *   Steven Johnson
+
       *   Attorney Brian Chun
+
       *   Attorney Burdick (contesting appointment/jurisdiction)
+
       *   Jody Bishop (handling subsequent case phase)
-      *   Fairhope Police
+
+      *   Fairhope Police'
     generated_at: '2026-08-03T02:01:30.808259Z'
-    text: Insiders use the Baldwin County legal system to drain families dry and punish target parents. Court dockets show the horrifying result for Chey Garrigan, who ended up shackled, chained, and jailed in Judge Jody Bishop's court after fighting Judge Thomason's ruthless tactics.
+    text: Insiders use the Baldwin County legal system to drain families dry and punish
+      target parents. Court dockets show the horrifying result for Chey Garrigan,
+      who ended up shackled, chained, and jailed in Judge Jody Bishop's court after
+      fighting Judge Thomason's ruthless tactics.
+    character_count: 275
   dirty-judge-misuse-of-justice:
-    brief: |-
-      THE CONFLICT:
-      *   Divorce cases in Baldwin County utilizing the Brackin Law Firm and Judge Thomason's court presided over high financial disputes.
-      *   The environment was characterized by perceived corruption and unfair advantage within the family court system concerning property division and child custody.
+    brief: 'THE CONFLICT:
+
+      *   Divorce cases in Baldwin County utilizing the Brackin Law Firm and Judge
+      Thomason''s court presided over high financial disputes.
+
+      *   The environment was characterized by perceived corruption and unfair advantage
+      within the family court system concerning property division and child custody.
+
 
       THE DISCOVERY:
-      *   The Widget Article reveals a pattern of unethical conduct by Brackin Law Firm and Judge Thomason.
-      *   Specific allegations include: Brackin being allowed to practice law while presiding on the bench (municipal judge issue) and having a long-standing, potentially influential relationship with Judge Thomason regarding her appointment.
-      *   Brackin has reportedly faced a private reprimand and public Censure from the Disciplinary Commission, Alabama State Bar.
-      *   The Widget Article details specific "Brackin Law Firm Tactics" used to intimidate opposing counsel and litigants.
+
+      *   The Widget Article reveals a pattern of unethical conduct by Brackin Law
+      Firm and Judge Thomason.
+
+      *   Specific allegations include: Brackin being allowed to practice law while
+      presiding on the bench (municipal judge issue) and having a long-standing, potentially
+      influential relationship with Judge Thomason regarding her appointment.
+
+      *   Brackin has reportedly faced a private reprimand and public Censure from
+      the Disciplinary Commission, Alabama State Bar.
+
+      *   The Widget Article details specific "Brackin Law Firm Tactics" used to intimidate
+      opposing counsel and litigants.
+
 
       THE PIVOT:
-      *   The Main Article provides the broad context (Divorce Corp documentary, general corruption in Baldwin County family court).
-      *   The Widget Article provides the specific, actionable evidence (the "smoking gun") targeting Judge Thomason and Brackin Law Firm regarding procedural abuses, conflicts of interest, and disciplinary issues that substantiate the claims made generally in the Main Article.
+
+      *   The Main Article provides the broad context (Divorce Corp documentary, general
+      corruption in Baldwin County family court).
+
+      *   The Widget Article provides the specific, actionable evidence (the "smoking
+      gun") targeting Judge Thomason and Brackin Law Firm regarding procedural abuses,
+      conflicts of interest, and disciplinary issues that substantiate the claims
+      made generally in the Main Article.
+
 
       KEY ENTITIES:
+
       *   Judge Thomason
+
       *   Brackin Law Firm
+
       *   Baldwin County
-      *   Francis Paul Ripp (The Ripp Report)
+
+      *   Francis Paul Ripp (The Ripp Report)'
     generated_at: '2026-08-03T02:01:30.808263Z'
-    text: Unchecked authority turns local divorce courts into lucrative rackets for political insiders. Disciplinary records expose how the Brackin Law Firm weaponized its cozy relationship with Judge Thomason, hiding state bar censures while using strong-arm tactics on vulnerable families.
+    text: Unchecked authority turns local divorce courts into lucrative rackets for
+      political insiders. Disciplinary records expose how the Brackin Law Firm weaponized
+      its cozy relationship with Judge Thomason, hiding state bar censures while using
+      strong-arm tactics on vulnerable families.
+    character_count: 281
   baldwin-county-dhr-lawsuit:
-    brief: |-
-      THE CONFLICT:
-      *   Systemic failures in Baldwin County family court regarding divorce cases and child welfare.
-      *   Main Article (Oct 2, 2015) critiques the system regarding Brackin Johnson and McGriff law firm involvement and Judge Thomason's court.
-      *   Documentary "Divorce Corp" alleges courts are unregulated fiefdoms causing harm, financial fleece, and neglect of children.
+    brief: 'THE CONFLICT:
+
+      *   Systemic failures in Baldwin County family court regarding divorce cases
+      and child welfare.
+
+      *   Main Article (Oct 2, 2015) critiques the system regarding Brackin Johnson
+      and McGriff law firm involvement and Judge Thomason''s court.
+
+      *   Documentary "Divorce Corp" alleges courts are unregulated fiefdoms causing
+      harm, financial fleece, and neglect of children.
+
 
       THE DISCOVERY:
+
       *   Current action targets the DHR system in Baldwin County.
-      *   A federal class action lawsuit is forming against DHR, advised by a law firm in Spanish Fort.
-      *   Specific case involves two minor children (then 13 and 11) unprotected for over five months despite abuse signs, law enforcement involvement, and a court-appointed guardian.
+
+      *   A federal class action lawsuit is forming against DHR, advised by a law
+      firm in Spanish Fort.
+
+      *   Specific case involves two minor children (then 13 and 11) unprotected for
+      over five months despite abuse signs, law enforcement involvement, and a court-appointed
+      guardian.
+
 
       THE PIVOT:
-      *   Article 1 established the pattern of systemic corruption and failure within Baldwin County courts (Judge Thomason, etc.).
-      *   Article 2 provides a contemporary, specific legal instance (DHR/GAL involvement) matching the documented pattern of failure identified in Article 1, culminating in a present-day lawsuit.
+
+      *   Article 1 established the pattern of systemic corruption and failure within
+      Baldwin County courts (Judge Thomason, etc.).
+
+      *   Article 2 provides a contemporary, specific legal instance (DHR/GAL involvement)
+      matching the documented pattern of failure identified in Article 1, culminating
+      in a present-day lawsuit.
+
 
       KEY ENTITIES:
+
       *   Baldwin County
+
       *   Judge Thomason
+
       *   Brackin Johnson and McGriff (Law Firm)
+
       *   Divorce Corp (Documentary/Allegation)
+
       *   DHR (Department of Human Resources)
+
       *   GAL (Guardian Ad Litem)
-      *   Ripp Report
+
+      *   Ripp Report'
     generated_at: '2026-08-03T02:01:30.808266Z'
-    text: Unregulated family courts routinely ignore institutional abuse while shielding corrupt legal cronies. A federal class-action lawsuit against Baldwin County DHR exposes the tragic consequences, proving officials ignored severe child abuse for five months despite clear law enforcement warnings.
+    text: Unregulated family courts routinely ignore institutional abuse while shielding
+      corrupt legal cronies. A federal class-action lawsuit against Baldwin County
+      DHR exposes the tragic consequences, proving officials ignored severe child
+      abuse for five months despite clear law enforcement warnings.
+    character_count: 293
   public-service-announcement-alabama-court-of-civil-appeals-judge-place-one:
-    brief: |-
-      THE CONFLICT:
-      - Main Article (Oct 2, 2015) documents systemic corruption in Baldwin County family court involving the law firm of Brackin Johnson and McGriff and Judge Thomason's court.
-      - Main Article frames this corruption through the lens of a documentary titled "Divorce Corp."
-      - The Main Article describes family court as enriching insiders through drawn-out cases, leading to social ills.
+    brief: 'THE CONFLICT:
+
+      - Main Article (Oct 2, 2015) documents systemic corruption in Baldwin County
+      family court involving the law firm of Brackin Johnson and McGriff and Judge
+      Thomason''s court.
+
+      - Main Article frames this corruption through the lens of a documentary titled
+      "Divorce Corp."
+
+      - The Main Article describes family court as enriching insiders through drawn-out
+      cases, leading to social ills.
+
 
       THE DISCOVERY:
-      - Widget Article (Circa July 2018) singles out Michelle Thomasson as the "absolute worst Family Court Judge in the state" presiding over Baldwin County.
-      - Widget Article urges removal of this specific judge based on complaints and promotes Christy Olinger Edwards as a superior candidate for the Court of Civil Appeals.
+
+      - Widget Article (Circa July 2018) singles out Michelle Thomasson as the "absolute
+      worst Family Court Judge in the state" presiding over Baldwin County.
+
+      - Widget Article urges removal of this specific judge based on complaints and
+      promotes Christy Olinger Edwards as a superior candidate for the Court of Civil
+      Appeals.
+
 
       THE PIVOT:
-      - The Widget Article provides a contemporary, specific target (Judge Thomasson) and platform (running for office/judiciary positions in 2018) that validates the broad systemic corruption alleged vaguely against "Judge Thomason's court" in the 2015 Main Article.
+
+      - The Widget Article provides a contemporary, specific target (Judge Thomasson)
+      and platform (running for office/judiciary positions in 2018) that validates
+      the broad systemic corruption alleged vaguely against "Judge Thomason''s court"
+      in the 2015 Main Article.
+
 
       KEY ENTITIES:
+
       - Judge Thomason (Michelle Thomasson)
+
       - Brackin Johnson and McGriff (Law Firm)
+
       - Baldwin County Family Court
+
       - Ripp Report / Baldwin County Legal Eagle
-      - Christy Olinger Edwards
+
+      - Christy Olinger Edwards'
     generated_at: '2026-08-03T02:01:30.808269Z'
-    text: Systemic corruption ruined countless lives inside Baldwin County family courts for years. Voters can finally stop Judge Michelle Thomasson from expanding her toxic bench legacy statewide by backing Christy Olinger Edwards for the Court of Civil Appeals.
+    text: Systemic corruption ruined countless lives inside Baldwin County family
+      courts for years. Voters can finally stop Judge Michelle Thomasson from expanding
+      her toxic bench legacy statewide by backing Christy Olinger Edwards for the
+      Court of Civil Appeals.
+    character_count: 253
   slap-in-the-face:
-    brief: |-
-      THE CONFLICT:
-      - Divorce proceedings in Baldwin County are characterized as corrupt, with legal system insiders exploiting litigants and children.
-      - Brackin Johnson and McGriff law firm usage cited regarding these issues (circa 2015).
-      - Judge Thomason's court practices are cited as an example of the flawed system (circa 2015).
+    brief: 'THE CONFLICT:
+
+      - Divorce proceedings in Baldwin County are characterized as corrupt, with legal
+      system insiders exploiting litigants and children.
+
+      - Brackin Johnson and McGriff law firm usage cited regarding these issues (circa
+      2015).
+
+      - Judge Thomason''s court practices are cited as an example of the flawed system
+      (circa 2015).
+
 
       THE DISCOVERY:
-      - The judicial and political bodies in Baldwin County are depicted as systemic sources of corruption.
-      - Specific allegations include: Slapping Mike McMillian (Mayor, Spanish Fort) walks free/not guilty.
-      - Allegations involve misappropriation and failure to prosecute, such as Marcus McDowell (Fairhope Municipal Attorney) failing to file charges against McSherry.
-      - Allegations connect to past issues like Pittman's BP fraud and Chris Elliott's DUI.
+
+      - The judicial and political bodies in Baldwin County are depicted as systemic
+      sources of corruption.
+
+      - Specific allegations include: Slapping Mike McMillian (Mayor, Spanish Fort)
+      walks free/not guilty.
+
+      - Allegations involve misappropriation and failure to prosecute, such as Marcus
+      McDowell (Fairhope Municipal Attorney) failing to file charges against McSherry.
+
+      - Allegations connect to past issues like Pittman''s BP fraud and Chris Elliott''s
+      DUI.
+
 
       THE PIVOT:
-      - Article 1 establishes the generalized claim of endemic corruption within Baldwin County family/legal structures (Divorce Corp).
-      - Article 2 provides contemporary, specific examples of that same alleged corruption playing out in current local governance (e.g., McDowell's inaction, McMillian's acquittal), illustrating the "Divorce Corp" system is active and producing impunity.
+
+      - Article 1 establishes the generalized claim of endemic corruption within Baldwin
+      County family/legal structures (Divorce Corp).
+
+      - Article 2 provides contemporary, specific examples of that same alleged corruption
+      playing out in current local governance (e.g., McDowell''s inaction, McMillian''s
+      acquittal), illustrating the "Divorce Corp" system is active and producing impunity.
+
 
       KEY ENTITIES:
+
       - Brackin Johnson
+
       - McGriff
+
       - Judge Thomason
+
       - Chris Elliot (or Tripp Pittman/Sen. Tripp Pittman)
+
       - Marcus McDowell
+
       - Mike McMillian
+
       - Timothy Pittsman (Tripp Pittman)
+
       - Paula DiNiardi
-      - Muradle McCSharry
+
+      - Muradle McCSharry'
     generated_at: '2026-08-03T02:01:30.808272Z'
-    text: Baldwin County legal insiders protect their own while destroying ordinary citizens in rigged courtrooms. Recent scandals reveal local prosecutor Marcus McDowell refused to file charges against favored cronies, letting former mayor Mike McMillian walk free after a public assault.
+    text: Baldwin County legal insiders protect their own while destroying ordinary
+      citizens in rigged courtrooms. Recent scandals reveal local prosecutor Marcus
+      McDowell refused to file charges against favored cronies, letting former mayor
+      Mike McMillian walk free after a public assault.
+    character_count: 279

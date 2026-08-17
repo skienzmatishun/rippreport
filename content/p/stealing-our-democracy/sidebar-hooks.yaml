@@ -1,5 +1,5 @@
 metadata:
-  generated_at: '2026-08-03T02:36:26.664209Z'
+  generated_at: '2026-08-15T23:38:18.109813Z'
   generator_version: 1.0.0
   post_slug: stealing-our-democracy
 hooks:
@@ -659,11 +659,11 @@ hooks:
 
       - CATALYST (Organization/Network)'
     generated_at: '2026-03-19T14:35:11.062375Z'
-    text: CATALYST built a shadow government that guarantees wins to anyone
-      willing to sign their soul away. Chris Elliott and consultant Bill Stacy are
-      the masterminds using this secret network to hijack every local office from
-      the bench to the mayor's seat.
-    character_count: 261
+    text: CATALYST built a shadow government that guarantees wins to anyone willing
+      to sign their soul away. Chris Elliott and consultant Bill Stacy are the masterminds
+      using this secret network to hijack every local office from the bench to the
+      mayor's seat.
+    character_count: 249
   roll-of-the-dice:
     brief: '1. THE CONFLICT
 
@@ -743,7 +743,7 @@ hooks:
       bleeding the state dry of billions in revenue. While they fix races for people
       like Hoss Mack, they block the lottery and dump our tax dollars into other states,
       leaving Alabama schools behind.
-    character_count: 268
+    character_count: 265
   catalyst-candidate-elliott-panic-mode:
     brief: 'CONFLICT:
 

@@ -1,285 +1,543 @@
 metadata:
-  generated_at: '2026-08-03T02:30:20.014406Z'
+  generated_at: '2026-08-15T23:38:24.064057Z'
   generator_version: 1.0.0
   post_slug: bonus-money
-  refined_by: gemini
-  refined_at: '2026-08-04T23:04:26.397672Z'
 hooks:
   airport-diversion:
-    brief: |-
-      THE CONFLICT
-      *   The Ripp Report filed complaints against Jack Burrell (Council President) and Ray Hix (Airport Board Member).
-      *   These ethics complaints related to alleged wrongdoing at Fairhope Airport Authority and were associated with Sherry Sullivan's firing.
-      *   Following these disputes, the City Council used taxpayer money in executive session to settle a claim made by Sherry Sullivan for bonus payments without a trial or explanation.
+    brief: 'THE CONFLICT
+
+      *   The Ripp Report filed complaints against Jack Burrell (Council President)
+      and Ray Hix (Airport Board Member).
+
+      *   These ethics complaints related to alleged wrongdoing at Fairhope Airport
+      Authority and were associated with Sherry Sullivan''s firing.
+
+      *   Following these disputes, the City Council used taxpayer money in executive
+      session to settle a claim made by Sherry Sullivan for bonus payments without
+      a trial or explanation.
+
 
       THE DISCOVERY
-      *   The Widget Article suggests Jack Burrell’s push for an investigation into invoices and computer work (contracted through Elias Technologies) is not motivated by fiscal prudence but as a tactical distraction ("to try and get the heat off his ass").
-      *   Councilman Brown stated that ethics complaints against Council President Jack Burrell and Airport Board Member Ray Hix have been "ruled baseless," though the Widget Article claims investigations into both men remain ongoing.
+
+      *   The Widget Article suggests Jack Burrell’s push for an investigation into
+      invoices and computer work (contracted through Elias Technologies) is not motivated
+      by fiscal prudence but as a tactical distraction ("to try and get the heat off
+      his ass").
+
+      *   Councilman Brown stated that ethics complaints against Council President
+      Jack Burrell and Airport Board Member Ray Hix have been "ruled baseless," though
+      the Widget Article claims investigations into both men remain ongoing.
+
 
       THE PIVOT
-      *   Article 1 details the Ethics Commission's finding of "not probable cause" regarding the ethical violations; Article 2 reframes this outcome, arguing that Burrell is now manufacturing financial controversies (invoices/computer work) to deflect public attention from his and Hix’s unproven—and potentially ongoing—ethics investigations.
+
+      *   Article 1 details the Ethics Commission''s finding of "not probable cause"
+      regarding the ethical violations; Article 2 reframes this outcome, arguing that
+      Burrell is now manufacturing financial controversies (invoices/computer work)
+      to deflect public attention from his and Hix’s unproven—and potentially ongoing—ethics
+      investigations.
+
 
       KEY ENTITIES
+
       *   Fairhope City Council / Fairhope Airport Authority
+
       *   Jack Burrell (Council President / Mayor candidate)
+
       *   Ray Hix (Airport Board Member / Subject of Ethics Complaint)
+
       *   Sherry Sullivan (Former Mayor; Fired Employee Claimant)
+
       *   The Ripp Report (Non-profit Watchdog/Complaints Filer)
+
       *   Chucky Cheese (Editor, *The Courier*)
+
       *   Councilman Brown
+
       *   Elias Technologies (Contractor for City of Fairhope)
-      *   Deborah Smith (Resigned official; source suspected in document transfer to Burrell)
+
+      *   Deborah Smith (Resigned official; source suspected in document transfer
+      to Burrell)'
     generated_at: '2026-07-18T14:29:04.694281Z'
-    text: Jack Burrell led the charge to pay off former mayor Sherry Sullivan in secret using city funds. But the latest records show Burrell manufactured fake drama over IT invoices just to distract taxpayers from his own dirty ethics investigation.
+    text: Jack Burrell led the charge to pay off former mayor Sherry Sullivan in secret
+      using city funds. But the latest records show Burrell manufactured fake drama
+      over IT invoices just to distract taxpayers from his own dirty ethics investigation.
+    character_count: 240
   stirring-the-pot:
-    brief: |-
-      THE CONFLICT:
-      - Allegations of wrong doing regarding Fairhope Airport Authority exist since 2017.
-      - Hix and Snedeker filed complaints against Jack Burrell with the Alabama Ethics Commission.
-      - On Oct 19 [Year unspecified], Hix and Snedeker sent letters to Mayor Karin Wilson and Burrell claiming exoneration after the Ethics Commission stated there was "not probable cause" for violations by Jack Burrell or Hix.
-      - Fairhope City Council settled a claim made by Sherry Sullivan, allegedly using taxpayer money in an executive session vote, with Jack Burrell described as leading the charge to reward "bad behavior."
+    brief: 'THE CONFLICT:
+
+      - Allegations of wrong doing regarding Fairhope Airport Authority exist since
+      2017.
+
+      - Hix and Snedeker filed complaints against Jack Burrell with the Alabama Ethics
+      Commission.
+
+      - On Oct 19 [Year unspecified], Hix and Snedeker sent letters to Mayor Karin
+      Wilson and Burrell claiming exoneration after the Ethics Commission stated there
+      was "not probable cause" for violations by Jack Burrell or Hix.
+
+      - Fairhope City Council settled a claim made by Sherry Sullivan, allegedly using
+      taxpayer money in an executive session vote, with Jack Burrell described as
+      leading the charge to reward "bad behavior."
+
 
       THE DISCOVERY:
-      - Article 2 asserts that Jack Burrell has "no answers" regarding the financial state of Fairhope Airport.
-      - It claims the Airport has cost the municipality "millions" while schools remain underfunded.
-      - Article 2 frames Burrell's actions (including statements referencing "come fly with me") as evasive and subject to negative consequences ("Karma and Fate").
+
+      - Article 2 asserts that Jack Burrell has "no answers" regarding the financial
+      state of Fairhope Airport.
+
+      - It claims the Airport has cost the municipality "millions" while schools remain
+      underfunded.
+
+      - Article 2 frames Burrell''s actions (including statements referencing "come
+      fly with me") as evasive and subject to negative consequences ("Karma and Fate").
+
 
       THE PIVOT:
-      - Article 1 focuses on a past administrative battle, detailing the dispute over Ethics Commission exoneration letters vs. public corruption accusations (the Sullivan claim/Bonus Money).
-      - Article 2 pivots from this static legal defense to an ongoing indictment of Burrell's active governance and his refusal to provide financial accountability concerning Fairhope Airport's substantial costs.
+
+      - Article 1 focuses on a past administrative battle, detailing the dispute over
+      Ethics Commission exoneration letters vs. public corruption accusations (the
+      Sullivan claim/Bonus Money).
+
+      - Article 2 pivots from this static legal defense to an ongoing indictment of
+      Burrell''s active governance and his refusal to provide financial accountability
+      concerning Fairhope Airport''s substantial costs.
+
 
       KEY ENTITIES:
-      - Jack Burrell
-      - Hix
-      - Snedeker
-      - Sherry Sullivan
-      - Karin Wilson (Mayor)
-      - Chucky Cheeze / The Courier
-      - Alabama Ethics Commission
-      - Fairhope City Council
-      - The Ripp Report
-      - Fairhope Airport Authority
-    generated_at: '2026-07-18T14:29:04.694290Z'
-    text: Council President Jack Burrell boasts about his ethics exoneration while hiding secret payouts to former mayor Sherry Sullivan. Now public records show Burrell burned millions at the Fairhope Airport without accountability while local schools starve.
-  in-your-face:
-    brief: |-
-      THE CONFLICT: WHAT HAPPENED IN THE PAST?
 
-      *   February 26, 2018: Ethics Commission received a complaint against Fairhope City Councilman Robert Brown regarding his contracting with the Eastern Shore Art Center.
-      *   The Commission advised Mr. Brown not to use his office/position to create benefits for himself or associated businesses (Eastern Shore Art Center).
-      *   Mr. Brown proceeded with the contract despite this clear warning, allegedly failing to request a formal opinion from the Ethics Commission as required.
-      *   Robert Brown is connected to Cliff Pittman via Pittman Brown Development Co., which is also involved in the Single Tax Corp.
+      - Jack Burrell
+
+      - Hix
+
+      - Snedeker
+
+      - Sherry Sullivan
+
+      - Karin Wilson (Mayor)
+
+      - Chucky Cheeze / The Courier
+
+      - Alabama Ethics Commission
+
+      - Fairhope City Council
+
+      - The Ripp Report
+
+      - Fairhope Airport Authority'
+    generated_at: '2026-07-18T14:29:04.694290Z'
+    text: Council President Jack Burrell boasts about his ethics exoneration while
+      hiding secret payouts to former mayor Sherry Sullivan. Now public records show
+      Burrell burned millions at the Fairhope Airport without accountability while
+      local schools starve.
+    character_count: 250
+  in-your-face:
+    brief: 'THE CONFLICT: WHAT HAPPENED IN THE PAST?
+
+
+      *   February 26, 2018: Ethics Commission received a complaint against Fairhope
+      City Councilman Robert Brown regarding his contracting with the Eastern Shore
+      Art Center.
+
+      *   The Commission advised Mr. Brown not to use his office/position to create
+      benefits for himself or associated businesses (Eastern Shore Art Center).
+
+      *   Mr. Brown proceeded with the contract despite this clear warning, allegedly
+      failing to request a formal opinion from the Ethics Commission as required.
+
+      *   Robert Brown is connected to Cliff Pittman via Pittman Brown Development
+      Co., which is also involved in the Single Tax Corp.
+
 
       THE DISCOVERY: WHAT DOES THE SECOND ARTICLE PROVE OR REVEAL TODAY?
 
+
       *   Jack Burrell demands accountability for city school funds (approx. $350,000/year).
-      *   Burrell simultaneously fails to demand accountability regarding funding received by Fairhope Airport (>$500,000).
-      *   Article 1 reveals that the Fairhope City Council approved using taxpayer money in executive session to settle claims (e.g., Sherry Sullivan), which Burrell reportedly "led the charge" on.
 
-      THE PIVOT: WHY IS ARTICLE 2 THE 'SMOKING GUN' FOR ARTICLE 1?
+      *   Burrell simultaneously fails to demand accountability regarding funding
+      received by Fairhope Airport (>$500,000).
 
-      *   Article 1 accuses Jack Burrell of leading efforts to reward bad behavior using taxpayer money for settlements/bonuses, while Article 2 establishes a history of selective accountability by Burrell and his circle.
-      *   The historical ethical failures (Brown/Pittman/Art Center) provide context to the present accusations of misuse of public funds at the Airport and City level.
+      *   Article 1 reveals that the Fairhope City Council approved using taxpayer
+      money in executive session to settle claims (e.g., Sherry Sullivan), which Burrell
+      reportedly "led the charge" on.
+
+
+      THE PIVOT: WHY IS ARTICLE 2 THE ''SMOKING GUN'' FOR ARTICLE 1?
+
+
+      *   Article 1 accuses Jack Burrell of leading efforts to reward bad behavior
+      using taxpayer money for settlements/bonuses, while Article 2 establishes a
+      history of selective accountability by Burrell and his circle.
+
+      *   The historical ethical failures (Brown/Pittman/Art Center) provide context
+      to the present accusations of misuse of public funds at the Airport and City
+      level.
+
 
       KEY ENTITIES: LIST OF SPECIFIC NAMES
 
+
       *   Jack Burrell
+
       *   Robert Brown
+
       *   Cliff Pittman
+
       *   Eastern Shore Art Center
+
       *   Theresa Davis / Thomas B. Albritton (Ethics Commission)
+
       *   Sherry Sullivan
+
       *   Fairhope City Council
+
       *   Nicholas (The Ripp Report/Author of the article)
+
       *   Chucky Cheeze
-      *   Hix and Snedeker
+
+      *   Hix and Snedeker'
     generated_at: '2026-07-18T14:29:04.694296Z'
-    text: Councilman Robert Brown ignored clear ethics warnings while Jack Burrell tossed public money at secret payouts for former mayor Sherry Sullivan. Burrell screams about school accountability today, yet he silently pumps half a million taxpayer dollars into the airport.
+    text: Councilman Robert Brown ignored clear ethics warnings while Jack Burrell
+      tossed public money at secret payouts for former mayor Sherry Sullivan. Burrell
+      screams about school accountability today, yet he silently pumps half a million
+      taxpayer dollars into the airport.
+    character_count: 267
   flying-high:
-    brief: |-
-      THE CONFLICT:
-      *   Allegations of corruption regarding the Fairhope Airport Authority and local residents were investigated by the Alabama Ethics Commission.
-      *   In a related matter to "Bonus Money," the Fairhope City Council settled a claim submitted by Sherry Sullivan without a trial or public explanation.
-      *   Jack Burrell led efforts in this settlement, allegedly rewarding behavior that resulted in Sherry Sullivan’s firing (fired employee).
-      *   Hix and Snedeker filed letters with Mayor Karin Wilson and Burrell expressing hope the Ethics Commission findings would end "slanderous and conspiratorial behavior" by local residents.
-      *   The Alabama Ethics Commission concluded there was not probable cause to believe Jack Burrell or Hix violated the Alabama Ethics Act.
+    brief: 'THE CONFLICT:
+
+      *   Allegations of corruption regarding the Fairhope Airport Authority and local
+      residents were investigated by the Alabama Ethics Commission.
+
+      *   In a related matter to "Bonus Money," the Fairhope City Council settled
+      a claim submitted by Sherry Sullivan without a trial or public explanation.
+
+      *   Jack Burrell led efforts in this settlement, allegedly rewarding behavior
+      that resulted in Sherry Sullivan’s firing (fired employee).
+
+      *   Hix and Snedeker filed letters with Mayor Karin Wilson and Burrell expressing
+      hope the Ethics Commission findings would end "slanderous and conspiratorial
+      behavior" by local residents.
+
+      *   The Alabama Ethics Commission concluded there was not probable cause to
+      believe Jack Burrell or Hix violated the Alabama Ethics Act.
+
 
       THE DISCOVERY:
-      *   Jack Burrell, utilizing assistance from Catalyst (the political organization), is actively obstructing governance today.
-      *   Burrell has been pushing an ongoing obstruction process since Tim Kant lost his post.
-      *   The Fairhope City Council currently lacks function regarding budget approval, which the Mayor must prepare and obtain council vote on.
-      *   Councilman Robert Brown supports Burrell's hand-picked financial committee despite having previously been instructed by Jack Burrell on how to control bid committees.
+
+      *   Jack Burrell, utilizing assistance from Catalyst (the political organization),
+      is actively obstructing governance today.
+
+      *   Burrell has been pushing an ongoing obstruction process since Tim Kant lost
+      his post.
+
+      *   The Fairhope City Council currently lacks function regarding budget approval,
+      which the Mayor must prepare and obtain council vote on.
+
+      *   Councilman Robert Brown supports Burrell''s hand-picked financial committee
+      despite having previously been instructed by Jack Burrell on how to control
+      bid committees.
+
 
       THE PIVOT:
-      *   Article 1 documents buried corruption allegations (Hix/Burrell) and a settlement using taxpayer money ("Bonus Money"). Article 2 proves these alleged corrupt patterns have not ended but have evolved into institutional obstruction today.
-      *   The connection is that Burrell, having previously been cleared of ethical violations in Article 1, has used his position to establish a "farce" hand-picked financial committee and block the City Council's ability to approve the budget (Article 2), demonstrating a continuation of self-serving control over city finances.
-      *   Burrell is shown leveraging Robert Brown to further this obstruction under the guise of controlling bid committees and preparing the budget, mirroring the alleged misuse of public funds mentioned in Article 1.
+
+      *   Article 1 documents buried corruption allegations (Hix/Burrell) and a settlement
+      using taxpayer money ("Bonus Money"). Article 2 proves these alleged corrupt
+      patterns have not ended but have evolved into institutional obstruction today.
+
+      *   The connection is that Burrell, having previously been cleared of ethical
+      violations in Article 1, has used his position to establish a "farce" hand-picked
+      financial committee and block the City Council''s ability to approve the budget
+      (Article 2), demonstrating a continuation of self-serving control over city
+      finances.
+
+      *   Burrell is shown leveraging Robert Brown to further this obstruction under
+      the guise of controlling bid committees and preparing the budget, mirroring
+      the alleged misuse of public funds mentioned in Article 1.
+
 
       KEY ENTITIES:
+
       *   Jack Burrell (Councilman/de facto Mayor)
+
       *   Sherry Sullivan
+
       *   Hix
+
       *   Snedeker
+
       *   Karin Wilson (Mayor at time of Ethics complaint letter)
+
       *   Robert Brown (City Councilman)
+
       *   Chucky Cheeze / The Courier
+
       *   Catalyst (political organization)
+
       *   Fairhope City Council
-      *   Fairhope Airport Authority
+
+      *   Fairhope Airport Authority'
     generated_at: '2026-07-18T14:29:04.694303Z'
-    text: City officials buried airport scandals and rewarded bad behavior with secret taxpayer cash. Evidence reveals Jack Burrell now uses Councilman Robert Brown and Catalyst to hijack city council budget votes, turning municipal governance into a complete farce.
+    text: City officials buried airport scandals and rewarded bad behavior with secret
+      taxpayer cash. Evidence reveals Jack Burrell now uses Councilman Robert Brown
+      and Catalyst to hijack city council budget votes, turning municipal governance
+      into a complete farce.
+    character_count: 256
   nuff-said:
-    brief: |-
-      THE CONFLICT:
+    brief: 'THE CONFLICT:
+
       - Ripp Report has reported on the Fairhope Airport scandal since November 2016.
-      - Allegations of unethical behavior and corruption involved City Council members, specifically Jack Burrell and Hix.
-      - Complaints were filed against these individuals and the council's handling of matters (e.g., settling Sherry Sullivan’s claim).
-      - The Alabama Ethics Commission ruled that there was no probable cause to believe Jack Burrell or Hix violated the Alabama Ethics Act.
-      - City Council settled a Sherry Sullivan claim without a trial, using taxpayer money in executive session.
+
+      - Allegations of unethical behavior and corruption involved City Council members,
+      specifically Jack Burrell and Hix.
+
+      - Complaints were filed against these individuals and the council''s handling
+      of matters (e.g., settling Sherry Sullivan’s claim).
+
+      - The Alabama Ethics Commission ruled that there was no probable cause to believe
+      Jack Burrell or Hix violated the Alabama Ethics Act.
+
+      - City Council settled a Sherry Sullivan claim without a trial, using taxpayer
+      money in executive session.
+
 
       THE DISCOVERY:
-      - All complaints filed regarding the Fairhope Airport scandal have been processed and closed by authorities ("put this story to rest").
-      - The second article reveals the official investigation is concluding despite ongoing questions of ethics and council accountability.
-      - It critiques the City Council for ignoring facts and lacking transparency compared to the Mayor's policies.
+
+      - All complaints filed regarding the Fairhope Airport scandal have been processed
+      and closed by authorities ("put this story to rest").
+
+      - The second article reveals the official investigation is concluding despite
+      ongoing questions of ethics and council accountability.
+
+      - It critiques the City Council for ignoring facts and lacking transparency
+      compared to the Mayor''s policies.
+
 
       THE PIVOT:
-      - Article 1 details specific allegations, financial settlements (e.g., bonus money), and formal ethical inquiries into Burrell and Hix.
-      - Article 2 reveals that all such complaints have reached a legal conclusion by authorities, marking the end of the official investigative phase for the scandal reported since 2016.
+
+      - Article 1 details specific allegations, financial settlements (e.g., bonus
+      money), and formal ethical inquiries into Burrell and Hix.
+
+      - Article 2 reveals that all such complaints have reached a legal conclusion
+      by authorities, marking the end of the official investigative phase for the
+      scandal reported since 2016.
+
 
       KEY ENTITIES:
+
       - Fairhope Airport (Authority)
+
       - Jack Burrell
+
       - Sherry Sullivan
+
       - Hix
+
       - Snedeker
+
       - Alabama Ethics Commission
+
       - Fairhope City Council
+
       - The Ripp Report
-      - Chucky Cheeze / The Courier
+
+      - Chucky Cheeze / The Courier'
     generated_at: '2026-07-18T14:29:04.694309Z'
-    text: Taxpayers funded secret payouts to former mayor Sherry Sullivan while leaders brushed off massive airport corruption claims. Official state investigators closed these complaints, but internal documents confirm Jack Burrell still refuses to account for missing funds.
+    text: Taxpayers funded secret payouts to former mayor Sherry Sullivan while leaders
+      brushed off massive airport corruption claims. Official state investigators
+      closed these complaints, but internal documents confirm Jack Burrell still refuses
+      to account for missing funds.
+    character_count: 266
   5000-00-cash-reward:
-    brief: |-
-      THE CONFLICT:
-      *   Allegations of wrong doing regarding the Fairhope Airport authority and local ethics complaints involving Councilman Jack Burrell and Mr. Hix.
-      *   Involvement of city officials in settling a claim for former employee Sherry Sullivan without a trial, allegedly led by Jack Burrell's push.
+    brief: 'THE CONFLICT:
+
+      *   Allegations of wrong doing regarding the Fairhope Airport authority and
+      local ethics complaints involving Councilman Jack Burrell and Mr. Hix.
+
+      *   Involvement of city officials in settling a claim for former employee Sherry
+      Sullivan without a trial, allegedly led by Jack Burrell''s push.
+
 
       THE DISCOVERY:
-      *   The Ripp Report/BCLE posted a $5,000 cash reward seeking proof that formal complaint claims against Councilman Jack Burrell are false.
-      *   A major allegation involves Mr. Burrell receiving free airplane transportation for himself and family from the winning bidder while serving as an elected official.
+
+      *   The Ripp Report/BCLE posted a $5,000 cash reward seeking proof that formal
+      complaint claims against Councilman Jack Burrell are false.
+
+      *   A major allegation involves Mr. Burrell receiving free airplane transportation
+      for himself and family from the winning bidder while serving as an elected official.
+
 
       THE PIVOT:
-      *   Article 2 specifies the exact nature of the financial corruption (free flights/bid conflict) tied to Councilman Jack Burrell's position on the Airport Authority, providing concrete allegations that drive the broader political controversy over his leadership and "wrong doing" discussed in Article 1.
+
+      *   Article 2 specifies the exact nature of the financial corruption (free flights/bid
+      conflict) tied to Councilman Jack Burrell''s position on the Airport Authority,
+      providing concrete allegations that drive the broader political controversy
+      over his leadership and "wrong doing" discussed in Article 1.
+
 
       KEY ENTITIES:
+
       *   Jack Burrell
+
       *   The Ripp Report
+
       *   Sherry Sullivan
+
       *   $5000 cash award
+
       *   Fairhope-Airport Authority
-      *   Hix (Mr.)
+
+      *   Hix (Mr.)'
     generated_at: '2026-07-18T14:29:04.694314Z'
-    text: Council members engineered secret deals for former mayor Sherry Sullivan while ignoring widespread airport corruption claims. We put five thousand dollars on the line for anyone who can prove Jack Burrell did not take free private plane rides from the winning bidder.
+    text: Council members engineered secret deals for former mayor Sherry Sullivan
+      while ignoring widespread airport corruption claims. We put five thousand dollars
+      on the line for anyone who can prove Jack Burrell did not take free private
+      plane rides from the winning bidder.
+    character_count: 267
   fairhope-airport-un_authorized:
-    brief: |-
-      *   THE CONFLICT
-          *   Allegations of "wrong doing" at Fairhope Airport were subject to complaints filed by The Ripp Report against Jack Burrell and Ray Hix.
-          *   The Alabama Ethics Commission concluded, based on its investigation, that there was no probable cause to believe Jack Burrell or Hix violated the Alabama Ethics Act (per Article 1).
-          *   In parallel municipal conflicts involved City Council members voting in executive session to settle claims against fired employees, specifically Sherry Sullivan.
-
-      *   THE DISCOVERY
-          *   Advisory Ethics Opinion #2016-04 exists concerning a Board member (Hix) entering a lease with the Fairhope Airport Authority while serving as Secretary/Treasurer (Ray Hix).
-          *   On December 23, 2015, the Airport Authority signed a memorandum of lease with Mid-Bay Air LLC.
-          *   Jack Burrell chaired an ad hoc committee responsible for reviewing bids and determining that his associate board member was the winner in this process.
-          *   An ethics request filed on November 8, 2016, regarding this specific Mid-Bay Air Lease (awarded December 2015) was met with a response on December 2, 2016, stating: "No lease has ever been submitted to us regarding this issue."
-
-      *   THE PIVOT
-          *   Article 2 provides the concrete evidence of an unaddressed and unreported conflict of interest (Mid-Bay Air LLC/Hix) that predates and forms the core of the ethical violations alleged in Article 1.
-          *   The Ethics Opinion (#2016-04) established rules for conflicts, which Burrell’s management of the ad hoc committee and Hix's undisclosed role in Mid-Bay Air LLC appear to have bypassed, thereby justifying the initial complaints filed against them.
-
-      *   KEY ENTITIES
-          *   Jack Burrell (City Council President / Airport Authority Board Member)
-          *   Ray Hix (Secretary/Treasurer of Fairhope Airport Authority)
-          *   The Ripp Report (Complaints Filer)
-          *   Alabama Ethics Commission
-          *   Mid-Bay Air LLC (Lease recipient)
-          *   Sherry Sullivan (Fired employee subject to "bonus money" claim)
-          *   City Council / Fairhope City Council
+    brief: "*   THE CONFLICT\n    *   Allegations of \"wrong doing\" at Fairhope Airport\
+      \ were subject to complaints filed by The Ripp Report against Jack Burrell and\
+      \ Ray Hix.\n    *   The Alabama Ethics Commission concluded, based on its investigation,\
+      \ that there was no probable cause to believe Jack Burrell or Hix violated the\
+      \ Alabama Ethics Act (per Article 1).\n    *   In parallel municipal conflicts\
+      \ involved City Council members voting in executive session to settle claims\
+      \ against fired employees, specifically Sherry Sullivan.\n\n*   THE DISCOVERY\n\
+      \    *   Advisory Ethics Opinion #2016-04 exists concerning a Board member (Hix)\
+      \ entering a lease with the Fairhope Airport Authority while serving as Secretary/Treasurer\
+      \ (Ray Hix).\n    *   On December 23, 2015, the Airport Authority signed a memorandum\
+      \ of lease with Mid-Bay Air LLC.\n    *   Jack Burrell chaired an ad hoc committee\
+      \ responsible for reviewing bids and determining that his associate board member\
+      \ was the winner in this process.\n    *   An ethics request filed on November\
+      \ 8, 2016, regarding this specific Mid-Bay Air Lease (awarded December 2015)\
+      \ was met with a response on December 2, 2016, stating: \"No lease has ever\
+      \ been submitted to us regarding this issue.\"\n\n*   THE PIVOT\n    *   Article\
+      \ 2 provides the concrete evidence of an unaddressed and unreported conflict\
+      \ of interest (Mid-Bay Air LLC/Hix) that predates and forms the core of the\
+      \ ethical violations alleged in Article 1.\n    *   The Ethics Opinion (#2016-04)\
+      \ established rules for conflicts, which Burrell’s management of the ad hoc\
+      \ committee and Hix's undisclosed role in Mid-Bay Air LLC appear to have bypassed,\
+      \ thereby justifying the initial complaints filed against them.\n\n*   KEY ENTITIES\n\
+      \    *   Jack Burrell (City Council President / Airport Authority Board Member)\n\
+      \    *   Ray Hix (Secretary/Treasurer of Fairhope Airport Authority)\n    *\
+      \   The Ripp Report (Complaints Filer)\n    *   Alabama Ethics Commission\n\
+      \    *   Mid-Bay Air LLC (Lease recipient)\n    *   Sherry Sullivan (Fired employee\
+      \ subject to \"bonus money\" claim)\n    *   City Council / Fairhope City Council"
     generated_at: '2026-07-18T14:29:04.694321Z'
-    text: The state ethics board claimed Jack Burrell and Ray Hix did nothing wrong at the airport authority. Uncovered documents expose how Burrell ran a fake selection committee to hand Hix's company, Mid-Bay Air, an unapproved lease behind closed doors without telling state officials.
+    text: The state ethics board claimed Jack Burrell and Ray Hix did nothing wrong
+      at the airport authority. Uncovered documents expose how Burrell ran a fake
+      selection committee to hand Hix's company, Mid-Bay Air, an unapproved lease
+      behind closed doors without telling state officials.
+    character_count: 278
   fairhope-airport-authority-flying-without-a-compass:
-    brief: |-
-      1. THE CONFLICT
-          *   October 2015: Fairhope Airport Authority held an illegal meeting at which local players, including the Mayor and City Council, were reportedly involved in covering for misconduct.
-          *   November 2015: Following the illegal meeting, the Fairhope City Council failed additional required training in Alabama Ethics.
-
-      2. THE DISCOVERY
-          *   The Widget Article reveals that serious ethical issues (illegal meetings and subsequent failure to pass ethics training) have been present at Fairhope Airport and involving the local government since 2015.
-          *   This historical record proves a pattern of alleged misconduct within the City Council and Fairhope Airport Authority preceding current political controversies (e.g., Ethics Commission dismissals, Bonus Money claims).
-
-      3. THE PIVOT
-          *   The 2015 incidents serve as historical evidence demonstrating that systemic corruption or ethical failures at the Fairhope Airport/City Council level are not recent aberrations but an established pattern of behavior.
-          *   This past record provides context for the current events (Article 1), suggesting that the dismissals by the Ethics Commission regarding Jack Burrell and Hix, and the controversial use of taxpayer money for "Bonus Money," are part of a deeper history of institutional disregard for ethics at Fairhope.
-
-      4. KEY ENTITIES
-          *   Fairhope City Council
-          *   Fairhope Airport Authority
-          *   Jack Burrell
-          *   Hix (and his involvement with the Ethics Commission)
-          *   Snedeker
-          *   Sherry Sullivan
-          *   Chris
-          *   Chucky Cheeze
+    brief: "1. THE CONFLICT\n    *   October 2015: Fairhope Airport Authority held\
+      \ an illegal meeting at which local players, including the Mayor and City Council,\
+      \ were reportedly involved in covering for misconduct.\n    *   November 2015:\
+      \ Following the illegal meeting, the Fairhope City Council failed additional\
+      \ required training in Alabama Ethics.\n\n2. THE DISCOVERY\n    *   The Widget\
+      \ Article reveals that serious ethical issues (illegal meetings and subsequent\
+      \ failure to pass ethics training) have been present at Fairhope Airport and\
+      \ involving the local government since 2015.\n    *   This historical record\
+      \ proves a pattern of alleged misconduct within the City Council and Fairhope\
+      \ Airport Authority preceding current political controversies (e.g., Ethics\
+      \ Commission dismissals, Bonus Money claims).\n\n3. THE PIVOT\n    *   The 2015\
+      \ incidents serve as historical evidence demonstrating that systemic corruption\
+      \ or ethical failures at the Fairhope Airport/City Council level are not recent\
+      \ aberrations but an established pattern of behavior.\n    *   This past record\
+      \ provides context for the current events (Article 1), suggesting that the dismissals\
+      \ by the Ethics Commission regarding Jack Burrell and Hix, and the controversial\
+      \ use of taxpayer money for \"Bonus Money,\" are part of a deeper history of\
+      \ institutional disregard for ethics at Fairhope.\n\n4. KEY ENTITIES\n    *\
+      \   Fairhope City Council\n    *   Fairhope Airport Authority\n    *   Jack\
+      \ Burrell\n    *   Hix (and his involvement with the Ethics Commission)\n  \
+      \  *   Snedeker\n    *   Sherry Sullivan\n    *   Chris\n    *   Chucky Cheeze"
     generated_at: '2026-07-18T14:29:04.694327Z'
-    text: Fairhope council members failed mandatory ethics training right after holding illegal airport meetings in secret. This forgotten paper trail proves Jack Burrell and Ray Hix did not just make a simple mistake. They built a decade-long habit of trampling rules and burning city tax dollars.
+    text: Fairhope council members failed mandatory ethics training right after holding
+      illegal airport meetings in secret. This forgotten paper trail proves Jack Burrell
+      and Ray Hix did not just make a simple mistake. They built a decade-long habit
+      of trampling rules and burning city tax dollars.
+    character_count: 288
   5000-00-cash-reward-rerun:
-    brief: |-
-      1. THE CONFLICT
-      - Allegations of corruption and wrong doing exist at Fairhope Airport/City Council concerning a bonus money settlement claim filed by Sherry Sullivan.
-      - Ethics Commission investigated complaints alleging "slanderous and conspiratorial behavior" involving Jack Burrell and Mr. Hix on the basis of letters sent Oct 19 (The Ripp Report claims these were malicious complaints filed against Hix and Burrell).
-      - The Alabama Ethics Commission concluded there was no probable cause to believe Jack Burrell or Hix committed a violation of the Alabama Ethics Act.
+    brief: '1. THE CONFLICT
+
+      - Allegations of corruption and wrong doing exist at Fairhope Airport/City Council
+      concerning a bonus money settlement claim filed by Sherry Sullivan.
+
+      - Ethics Commission investigated complaints alleging "slanderous and conspiratorial
+      behavior" involving Jack Burrell and Mr. Hix on the basis of letters sent Oct
+      19 (The Ripp Report claims these were malicious complaints filed against Hix
+      and Burrell).
+
+      - The Alabama Ethics Commission concluded there was no probable cause to believe
+      Jack Burrell or Hix committed a violation of the Alabama Ethics Act.
+
 
       2. THE DISCOVERY
-      - The Ripp Report is offering a $5,000 cash reward for anyone who can prove that the formal complaint against Councilman Jack Burrell is false.
-      - This complaint includes specific allegations regarding Mr. Burrell and his family receiving free airplane transportation from the winning bid while he served as an elected official (and was involved in selecting that same entity/bid).
+
+      - The Ripp Report is offering a $5,000 cash reward for anyone who can prove
+      that the formal complaint against Councilman Jack Burrell is false.
+
+      - This complaint includes specific allegations regarding Mr. Burrell and his
+      family receiving free airplane transportation from the winning bid while he
+      served as an elected official (and was involved in selecting that same entity/bid).
+
 
       3. THE PIVOT
-      - Article 1 generally discusses ethics complaints being dismissed by the Commission but provides no details on what those underlying "complaints" were.
-      - Article 2 reveals the exact content of the formal complaint against Burrell: allegations regarding free airplane transportation provided by a winning bidder tied to his role in bid selection, providing specific substantiation for the general accusations mentioned in the first article.
+
+      - Article 1 generally discusses ethics complaints being dismissed by the Commission
+      but provides no details on what those underlying "complaints" were.
+
+      - Article 2 reveals the exact content of the formal complaint against Burrell:
+      allegations regarding free airplane transportation provided by a winning bidder
+      tied to his role in bid selection, providing specific substantiation for the
+      general accusations mentioned in the first article.
+
 
       4. KEY ENTITIES
+
       - Jack Burrell (Councilman / Council President)
+
       - Fairhope City Council
+
       - Hix and Snedeker (Exonerated via Ethics Commission review)
-      - The Ripp Report (Non profit/consumer watchdog organization, complainant in ethics case)
+
+      - The Ripp Report (Non profit/consumer watchdog organization, complainant in
+      ethics case)
+
       - Alabama Ethics Commission
-      - Sherry Sullivan / Jenniffer Fidler (Cited regarding bonus money claims)
+
+      - Sherry Sullivan / Jenniffer Fidler (Cited regarding bonus money claims)'
     generated_at: '2026-07-18T14:29:04.694332Z'
-    text: Ethics officials whitewashed vague corruption claims against Jack Burrell and Ray Hix without digging deeper. The Ripp Report now offers a five thousand dollar cash reward to prove Burrell did not accept free airplane trips for his family from the very vendor he selected for the airport contract.
+    text: Ethics officials whitewashed vague corruption claims against Jack Burrell
+      and Ray Hix without digging deeper. The Ripp Report now offers a five thousand
+      dollar cash reward to prove Burrell did not accept free airplane trips for his
+      family from the very vendor he selected for the airport contract.
+    character_count: 297
   jack-box-airport:
-    brief: |-
-      BRIDGE BRIEF
-
-      1. THE CONFLICT
-          * Complaint(s) filed by The Ripp Report against Jack Burrell, Ray Hix, and/or Snedeker regarding alleged misconduct involving the Fairhope Airport Authority.
-          * The Alabama Ethics Commission investigated these complaints.
-          * The Ethics Commission officially concluded there was "not probable cause" to believe that Jack Burrell or Ray Hix committed a violation of the Alabama Ethics Act (as reported by The Ripp Report).
-
-      2. THE DISCOVERY
-          * The Fairhope Airport Authority has hired an attorney, allegedly "the top ethics attorney in Alabama," to investigate and defend against existing complaints involving board members Jack Burrell and Ray Hix.
-          * This appointed authority attorney is revealed to be the same legal counsel previously retained by Ray Hix (who paid for the services) who prepared a lease and requested an Advisory Opinion from the Ethics Commission.
-          * The process involves utilizing taxpayer dollars to engage in this defense/investigation.
-
-      3. THE PIVOT
-          * Article 1 established that Burrell and Hix were formally cleared by the Ethics Commission (a governmental body).
-          * Article 2 reveals a subsequent attempt to control the narrative or evade accountability by hiring one of the involved parties' own lawyers to conduct an official investigation for the Authority, demonstrating procedural conflict and self-interest in the ongoing defense.
-
-      4. KEY ENTITIES
-          * Jack Burrell (Council President/Councilman)
-          * Ray Hix (Board Member / Sec. Treasurer)
-          * Fairhope Airport Authority
-          * Alabama Ethics Commission / Hugh Evens (Ethics Commission Chief Council)
-          * The Ripp Report
-          * Sherry Sullivan (Subject of City Council bonus settlement)
+    brief: "BRIDGE BRIEF\n\n1. THE CONFLICT\n    * Complaint(s) filed by The Ripp\
+      \ Report against Jack Burrell, Ray Hix, and/or Snedeker regarding alleged misconduct\
+      \ involving the Fairhope Airport Authority.\n    * The Alabama Ethics Commission\
+      \ investigated these complaints.\n    * The Ethics Commission officially concluded\
+      \ there was \"not probable cause\" to believe that Jack Burrell or Ray Hix committed\
+      \ a violation of the Alabama Ethics Act (as reported by The Ripp Report).\n\n\
+      2. THE DISCOVERY\n    * The Fairhope Airport Authority has hired an attorney,\
+      \ allegedly \"the top ethics attorney in Alabama,\" to investigate and defend\
+      \ against existing complaints involving board members Jack Burrell and Ray Hix.\n\
+      \    * This appointed authority attorney is revealed to be the same legal counsel\
+      \ previously retained by Ray Hix (who paid for the services) who prepared a\
+      \ lease and requested an Advisory Opinion from the Ethics Commission.\n    *\
+      \ The process involves utilizing taxpayer dollars to engage in this defense/investigation.\n\
+      \n3. THE PIVOT\n    * Article 1 established that Burrell and Hix were formally\
+      \ cleared by the Ethics Commission (a governmental body).\n    * Article 2 reveals\
+      \ a subsequent attempt to control the narrative or evade accountability by hiring\
+      \ one of the involved parties' own lawyers to conduct an official investigation\
+      \ for the Authority, demonstrating procedural conflict and self-interest in\
+      \ the ongoing defense.\n\n4. KEY ENTITIES\n    * Jack Burrell (Council President/Councilman)\n\
+      \    * Ray Hix (Board Member / Sec. Treasurer)\n    * Fairhope Airport Authority\n\
+      \    * Alabama Ethics Commission / Hugh Evens (Ethics Commission Chief Council)\n\
+      \    * The Ripp Report\n    * Sherry Sullivan (Subject of City Council bonus\
+      \ settlement)"
     generated_at: '2026-07-18T14:29:04.694338Z'
-    text: State investigators gave Jack Burrell and Ray Hix a temporary pass on airport corruption charges. Internal records show the Airport Authority then spent public tax money hiring Hix's personal lawyer to investigate his own client, creating a rigged defense to cover their tracks.
+    text: State investigators gave Jack Burrell and Ray Hix a temporary pass on airport
+      corruption charges. Internal records show the Airport Authority then spent public
+      tax money hiring Hix's personal lawyer to investigate his own client, creating
+      a rigged defense to cover their tracks.
+    character_count: 278

@@ -1,7 +1,9 @@
 metadata:
-  generated_at: '2026-08-03T02:36:34.496530Z'
+  generated_at: '2026-08-15T23:40:03.900449Z'
   generator_version: 1.0.0
   post_slug: court-of-public-opinion-3
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
   bcso-culture-2:
     brief: 'THE CONFLICT:
@@ -120,8 +122,7 @@ hooks:
 
       THE DISCOVERY:
 
-      *   Evidence emerged questioning the initial conviction of Murray Lawrence
-      Jr.
+      *   Evidence emerged questioning the initial conviction of Murray Lawrence Jr.
 
       *   Sheriff Hoss Mack, District Attorney Robert Wilters (Judge), and prosecutor
       David Whetstone knowingly withheld this exculpatory evidence.
@@ -150,10 +151,10 @@ hooks:
       *   BCSO'
     generated_at: '2026-07-31T17:43:00.805183Z'
     text: Framing Murray Lawrence Jr. took more than just bad police work; it required
-      an active cover-up at the top. Evidence reveals former Sheriff Hoss Mack,
-      DA Robert Wilters, and prosecutor David Whetstone knowingly buried clearing
-      evidence to lock up an innocent man and protect their own reputations.
-    character_count: 301
+      an active cover-up at the top. Evidence reveals former Sheriff Hoss Mack, DA
+      Robert Wilters, and prosecutor David Whetstone knowingly buried clearing evidence
+      to lock up an innocent man and protect their own reputations.
+    character_count: 297
   cameras:
     brief: 'THE CONFLICT:
 

@@ -1,229 +1,532 @@
 metadata:
-  generated_at: '2026-08-03T02:30:18.439207Z'
+  generated_at: '2026-08-15T23:38:25.808687Z'
   generator_version: 1.0.0
   post_slug: boone-doggle
-  refined_by: gemini
-  refined_at: '2026-08-04T23:11:53.368148Z'
 hooks:
   follow-bouncing-ball:
-    brief: |-
-      THE CONFLICT
-      * Main Article claims Councilman Boone has undisclosed conflicts of interest involving LLC's and side deals in municipal business.
-      * Claims he voted on hundreds of thousands of dollars for engineering companies connected to his private interests.
-      * Main article alleges a "pattern" of corruption spanning years, comparing him to past councilman Ford (19th/20th-century era).
+    brief: 'THE CONFLICT
+
+      * Main Article claims Councilman Boone has undisclosed conflicts of interest
+      involving LLC''s and side deals in municipal business.
+
+      * Claims he voted on hundreds of thousands of dollars for engineering companies
+      connected to his private interests.
+
+      * Main article alleges a "pattern" of corruption spanning years, comparing him
+      to past councilman Ford (19th/20th-century era).
+
 
       THE DISCOVERY
-      * Widget Article provides specific Planning and Zoning Commission Meeting Minutes from 2016 demonstrating Boone's involvement in projects related to Dewberry/Preble-Rish LLC.
-      * Sept. 3, 2016: Jay Robinson voted against the staff recommendation (to deny) for Retreat at Fairhope Village project request by John Avent, who is cited as a "business partner of Mr. Boone." Kevin Boone was recorded as voting NAY.
-      * Oct. 3, 2016: Kevin Boone made a motion to approve Old Battles Place multiple occupancy application and granted waiver to LID practices (Presented by Scott Hutchinson). Motion carried AYE Bob Clark and Lee Turner; NAY Hollie MacKellar, Jay Robinson.
-      * Sept. 6, 2016 Public hearing: John Avent's project request was brought up. Kevin Boone voted NAY against the motion tabled by Jay Robinson, Jennifer Fidler, etc., indicating opposition to delaying/denial process.
+
+      * Widget Article provides specific Planning and Zoning Commission Meeting Minutes
+      from 2016 demonstrating Boone''s involvement in projects related to Dewberry/Preble-Rish
+      LLC.
+
+      * Sept. 3, 2016: Jay Robinson voted against the staff recommendation (to deny)
+      for Retreat at Fairhope Village project request by John Avent, who is cited
+      as a "business partner of Mr. Boone." Kevin Boone was recorded as voting NAY.
+
+      * Oct. 3, 2016: Kevin Boone made a motion to approve Old Battles Place multiple
+      occupancy application and granted waiver to LID practices (Presented by Scott
+      Hutchinson). Motion carried AYE Bob Clark and Lee Turner; NAY Hollie MacKellar,
+      Jay Robinson.
+
+      * Sept. 6, 2016 Public hearing: John Avent''s project request was brought up.
+      Kevin Boone voted NAY against the motion tabled by Jay Robinson, Jennifer Fidler,
+      etc., indicating opposition to delaying/denial process.
+
 
       THE PIVOT
-      * Article 1 makes a general accusation of undisclosed conflicts and voting for connected firms; Article 2 provides specific dated minutes (Sept./Oct. 2016) proving Boone voted on applications from entities like Dewberry/Preble-Rich LLC, which also employed his business partner John Avent and later donated $2500 to his re-election campaign.
-      * Article 2 establishes a direct timeline connecting the private business of Mr. Boone (via Preble-Rish) to the public voting record regarding municipal infrastructure projects.
+
+      * Article 1 makes a general accusation of undisclosed conflicts and voting for
+      connected firms; Article 2 provides specific dated minutes (Sept./Oct. 2016)
+      proving Boone voted on applications from entities like Dewberry/Preble-Rich
+      LLC, which also employed his business partner John Avent and later donated $2500
+      to his re-election campaign.
+
+      * Article 2 establishes a direct timeline connecting the private business of
+      Mr. Boone (via Preble-Rish) to the public voting record regarding municipal
+      infrastructure projects.
+
 
       KEY ENTITIES
+
       * Councilman Kevin Boone / Mr. Boone
+
       * John Avent
+
       * Dewberry/Preble-Rich LLC / Preble-Rish, LLC
+
       * HMR, LLC
+
       * Bob Clark
+
       * Jay Robinson
+
       * Hollie MacKellar
+
       * Lee Turner
+
       * Jennifer Fidler
+
       * Scott Hutchinson
-      * Paul Ripp / Francis Paul Ripp (Author of The Ripp Report)
+
+      * Paul Ripp / Francis Paul Ripp (Author of The Ripp Report)'
     generated_at: '2026-07-18T03:52:48.113471Z'
-    text: Councilman Kevin Boone spent years hiding behind claims that his municipal votes had nothing to do with his private business partners. Official 2016 meeting minutes prove Boone pushed approvals for projects represented by Preble-Rish, an engineering firm linked to his own business associate John Avent.
+    text: Councilman Kevin Boone spent years hiding behind claims that his municipal
+      votes had nothing to do with his private business partners. Official 2016 meeting
+      minutes prove Boone pushed approvals for projects represented by Preble-Rish,
+      an engineering firm linked to his own business associate John Avent.
+    character_count: 303
   conflict-of-interest:
-    brief: |-
-      THE CONFLICT:
-      - Councilman Kevin Boone has generally faced allegations of undisclosed conflicts of interest regarding his private involvement in multiple Limited Liability Companies (LLCs) and personal connections to engineering firms.
-      - Main Article asserts Mr. Boone votes on council resolutions involving hundreds of thousands of dollars concerning companies he is linked to, particularly those connected through LLC side deals.
+    brief: 'THE CONFLICT:
+
+      - Councilman Kevin Boone has generally faced allegations of undisclosed conflicts
+      of interest regarding his private involvement in multiple Limited Liability
+      Companies (LLCs) and personal connections to engineering firms.
+
+      - Main Article asserts Mr. Boone votes on council resolutions involving hundreds
+      of thousands of dollars concerning companies he is linked to, particularly those
+      connected through LLC side deals.
+
 
       THE DISCOVERY:
-      - The second article proves Kevin Boone’s direct business connection with John Avent (Preble-Rish, LLC) dates back prior to his tenure as a city council member and continues during it.
-      - It reveals that in September 2016 (P&Z meeting), Mr. Boone voted favorably on the Retreat at Fairhope / Fly Creek Apartments (SD 16.14), while John Avent was present representing Preble-Rish.
+
+      - The second article proves Kevin Boone’s direct business connection with John
+      Avent (Preble-Rish, LLC) dates back prior to his tenure as a city council member
+      and continues during it.
+
+      - It reveals that in September 2016 (P&Z meeting), Mr. Boone voted favorably
+      on the Retreat at Fairhope / Fly Creek Apartments (SD 16.14), while John Avent
+      was present representing Preble-Rish.
+
 
       THE PIVOT:
-      - Article 1 presents a general critique of "undisclosed conflicts" and "side deals."
-      - Article 2 serves as the smoking gun by providing specific evidence—linking Boone's voting record on major projects (Fly Creek Apartments, Firefly) directly to his private business partner (Avent/Preble-Rish) during municipal meetings in 2016.
+
+      - Article 1 presents a general critique of "undisclosed conflicts" and "side
+      deals."
+
+      - Article 2 serves as the smoking gun by providing specific evidence—linking
+      Boone''s voting record on major projects (Fly Creek Apartments, Firefly) directly
+      to his private business partner (Avent/Preble-Rish) during municipal meetings
+      in 2016.
+
 
       KEY ENTITIES:
+
       - Kevin Boone
+
       - John Avent
+
       - Preble-Rish, LLC
+
       - Firefly project
+
       - Retreat at Fairhope / Fly Creek Apartments
-      - September 2016 (SD 16.14 Planning & Zoning meeting)
+
+      - September 2016 (SD 16.14 Planning & Zoning meeting)'
     generated_at: '2026-07-18T03:52:48.113477Z'
-    text: Kevin Boone routinely steers public funds toward engineering firms while insisting his private corporate network presents no conflict of interest. Leaked 2016 planning documents expose the way Boone voted directly on the Fly Creek development while his business partner John Avent stood at the podium.
+    text: Kevin Boone routinely steers public funds toward engineering firms while
+      insisting his private corporate network presents no conflict of interest. Leaked
+      2016 planning documents expose the way Boone voted directly on the Fly Creek
+      development while his business partner John Avent stood at the podium.
+    character_count: 301
   recuse-yourself:
-    brief: |-
-      **THE CONFLICT:**
-      - Councilman Mr Boone has a history of voting on municipal issues (planning/zoning) involving companies connected to his business interests via LLC's (Main Article).
-      - Boone allegedly failed to disclose conflicts when serving on planning and zoning committees and City Council.
-      - Conflicts involve hundreds of thousands of dollars in council resolutions favoring engineering companies with which Boone has connections.
+    brief: '**THE CONFLICT:**
+
+      - Councilman Mr Boone has a history of voting on municipal issues (planning/zoning)
+      involving companies connected to his business interests via LLC''s (Main Article).
+
+      - Boone allegedly failed to disclose conflicts when serving on planning and
+      zoning committees and City Council.
+
+      - Conflicts involve hundreds of thousands of dollars in council resolutions
+      favoring engineering companies with which Boone has connections.
+
 
       **THE DISCOVERY:**
-      - The Widget Article explicitly names Mr Angelo Corte as a key entity, noting that the investigation into Boone’s involvement with him was requested by citizens in January (date unspecified).
-      - Documents were reportedly provided to Fairhope City Council detailing Boone's conflicts of interest regarding the extension of the sunset clause for Fly Creek Apartments and Preble-Rish related issues.
-      - The Widget Article asserts some of Mr Boone’s business conflicts predate his election as a council member in 2017 (Entity Timeline).
+
+      - The Widget Article explicitly names Mr Angelo Corte as a key entity, noting
+      that the investigation into Boone’s involvement with him was requested by citizens
+      in January (date unspecified).
+
+      - Documents were reportedly provided to Fairhope City Council detailing Boone''s
+      conflicts of interest regarding the extension of the sunset clause for Fly Creek
+      Apartments and Preble-Rish related issues.
+
+      - The Widget Article asserts some of Mr Boone’s business conflicts predate his
+      election as a council member in 2017 (Entity Timeline).
+
 
       **THE PIVOT:**
-      - While Article 1 alleges general undisclosed LLC interests by Councilman Boone, Article 2 pinpoints specific development projects (Fly Creek Apartments and Preble-Rish) tied to these conflicts.
-      - Article 2 specifically identifies Mr Angelo Corte as a connection point for Mr. Boone's business dealings that the council was warned about but allegedly ignored regarding his voting behavior.
+
+      - While Article 1 alleges general undisclosed LLC interests by Councilman Boone,
+      Article 2 pinpoints specific development projects (Fly Creek Apartments and
+      Preble-Rish) tied to these conflicts.
+
+      - Article 2 specifically identifies Mr Angelo Corte as a connection point for
+      Mr. Boone''s business dealings that the council was warned about but allegedly
+      ignored regarding his voting behavior.
+
 
       **KEY ENTITIES:**
+
       - Councilman/Mr Boone
+
       - Mr Angelo Corte (Developer, entity with multiple roles since 1970s)
+
       - CATALYST (Political organization related to Mr Boone)
+
       - Fly Creek Apartments (Development project tied to conflicted votes)
-      - Preble-Rish (Entity tied to undisclosed conflicts)
+
+      - Preble-Rish (Entity tied to undisclosed conflicts)'
     generated_at: '2026-07-18T03:52:48.113481Z'
-    text: For years, Councilman Kevin Boone cast critical zoning votes without disclosing his personal ties to local developers. Records name developer Angelo Corte as Boone's key associate, proving citizens warned the city council about Boone's hidden conflicts before members pushed through the Fly Creek deals.
+    text: For years, Councilman Kevin Boone cast critical zoning votes without disclosing
+      his personal ties to local developers. Records name developer Angelo Corte as
+      Boone's key associate, proving citizens warned the city council about Boone's
+      hidden conflicts before members pushed through the Fly Creek deals.
+    character_count: 303
   cut-nose-off-spite-face:
-    brief: |-
-      THE CONFLICT
-      *   Past council leadership included a "good ole boy network" structure within Fairhope City Council, characterized by political obstruction and entrenched power structures.
-      *   Jack Burrell (past/current Council President) and Kevin Boone were associated with this network.
-      *   Mayor Wilson recently fired two city employees, an action the council viewed as undermining her authority.
-      *   Councilman Ford was cited in Article 1 for past behavior being "obstructionist" and engaging in networking within this existing power structure.
+    brief: 'THE CONFLICT
+
+      *   Past council leadership included a "good ole boy network" structure within
+      Fairhope City Council, characterized by political obstruction and entrenched
+      power structures.
+
+      *   Jack Burrell (past/current Council President) and Kevin Boone were associated
+      with this network.
+
+      *   Mayor Wilson recently fired two city employees, an action the council viewed
+      as undermining her authority.
+
+      *   Councilman Ford was cited in Article 1 for past behavior being "obstructionist"
+      and engaging in networking within this existing power structure.
+
 
       THE DISCOVERY
-      *   Article 2 reveals that Council leadership (Burrell and Boone) has actively slowed city government operations as a retaliatory measure against Mayor Wilson’s appointment of new staff.
-      *   This opposition was codified through the installation of a hiring freeze by the council, which the article claims is designed to "PUNISH" the mayor for her recent actions.
-      *   The obstructionist behavior is framed not merely as policy disagreement but as an act of revenge by a political group ("good ole boy network") that lost the electoral process.
+
+      *   Article 2 reveals that Council leadership (Burrell and Boone) has actively
+      slowed city government operations as a retaliatory measure against Mayor Wilson’s
+      appointment of new staff.
+
+      *   This opposition was codified through the installation of a hiring freeze
+      by the council, which the article claims is designed to "PUNISH" the mayor for
+      her recent actions.
+
+      *   The obstructionist behavior is framed not merely as policy disagreement
+      but as an act of revenge by a political group ("good ole boy network") that
+      lost the electoral process.
+
 
       THE PIVOT
-      *   Article 1 details Mr. Boone’s alleged financial conflicts of interest (LLCs, connections with engineering companies) and his use of his position on Planning and Zoning to vote for these entities.
-      *   Article 2 provides the political context and motivation: Boone's alleged self-dealing (Art 1) is part of a larger, sustained campaign by him and Burrell to maintain an obstructionist "good ole boy" power structure that opposes Mayor Wilson’s administration, which they feel threatened due to electoral results.
+
+      *   Article 1 details Mr. Boone’s alleged financial conflicts of interest (LLCs,
+      connections with engineering companies) and his use of his position on Planning
+      and Zoning to vote for these entities.
+
+      *   Article 2 provides the political context and motivation: Boone''s alleged
+      self-dealing (Art 1) is part of a larger, sustained campaign by him and Burrell
+      to maintain an obstructionist "good ole boy" power structure that opposes Mayor
+      Wilson’s administration, which they feel threatened due to electoral results.
+
 
       KEY ENTITIES
-      *   Kevin Boone / Mr. Boone: Councilman; accused of undisclosed conflicts of interest/LLC involvement.
-      *   Jack Burrell: Past and current Council President; alleged co-conspirator in the obstruction campaign against Mayor Wilson.
-      *   Mayor Wilson: Current Mayor of Fairhope; targeted by council actions (hiring freeze, budget stalemates).
-      *   Fairhope City Council: The body carrying out hiring freezes and slowing municipal processes.
-      *   Councilman Ford: Past councilman referenced as an example of the obstructionist path Mr. Boone follows.
-      *   Baldwin County / Fairhope: Municipal entities where these conflicts and political maneuvers are occurring.
+
+      *   Kevin Boone / Mr. Boone: Councilman; accused of undisclosed conflicts of
+      interest/LLC involvement.
+
+      *   Jack Burrell: Past and current Council President; alleged co-conspirator
+      in the obstruction campaign against Mayor Wilson.
+
+      *   Mayor Wilson: Current Mayor of Fairhope; targeted by council actions (hiring
+      freeze, budget stalemates).
+
+      *   Fairhope City Council: The body carrying out hiring freezes and slowing
+      municipal processes.
+
+      *   Councilman Ford: Past councilman referenced as an example of the obstructionist
+      path Mr. Boone follows.
+
+      *   Baldwin County / Fairhope: Municipal entities where these conflicts and
+      political maneuvers are occurring.'
     generated_at: '2026-07-18T03:52:48.113485Z'
-    text: Undisclosed LLCs and insider self-dealing only scratch the surface of Councilman Kevin Boone's political playbook. Boone teamed up with Council President Jack Burrell to slap a hiring freeze on municipal government, deliberately crippling city operations to punish Mayor Wilson after she fired their political cronies.
+    text: Undisclosed LLCs and insider self-dealing only scratch the surface of Councilman
+      Kevin Boone's political playbook. Boone teamed up with Council President Jack
+      Burrell to slap a hiring freeze on municipal government, deliberately crippling
+      city operations to punish Mayor Wilson after she fired their political cronies.
+    character_count: 318
   comment-surprised-ripp-report-baldwin-county-legal-eagle:
-    brief: |-
-      THE CONFLICT
-      *   Councilman Mr. Boone failed to disclose numerous conflicts of interest through LLC involvement in municipal business while serving on planning and zoning/City Council.
-      *   Mr. Boone has allegedly voted in favor of engineering companies linked to his private LLC interests during council resolutions involving hundreds of thousands of dollars.
-      *   The past City Council (including Mr. Boone and Mr. Burrell) accepted a gift of wetlands near Fly Creek. This land was acquired under the pretense it was only 100 square feet of land beneath a lift station, resulting in the city receiving four acres of prime wetlands instead.
+    brief: 'THE CONFLICT
+
+      *   Councilman Mr. Boone failed to disclose numerous conflicts of interest through
+      LLC involvement in municipal business while serving on planning and zoning/City
+      Council.
+
+      *   Mr. Boone has allegedly voted in favor of engineering companies linked to
+      his private LLC interests during council resolutions involving hundreds of thousands
+      of dollars.
+
+      *   The past City Council (including Mr. Boone and Mr. Burrell) accepted a gift
+      of wetlands near Fly Creek. This land was acquired under the pretense it was
+      only 100 square feet of land beneath a lift station, resulting in the city receiving
+      four acres of prime wetlands instead.
+
 
       THE DISCOVERY
-      *   Mr. Boone's business interests were allegedly never listed on his ethics election form for economic interests despite serving five years on council.
-      *   While Mr. Boone dissolved some LLC's when exposed, evidence suggests other interests remain undisclosed/unacknowledged.
-      *   Public documents (Resolution 2606-16) show Mayor Kant signed a related resolution in October 2016 and the newly elected Mayor signed it weeks later, documenting the land transaction involving Boone and Burrell's tenure.
+
+      *   Mr. Boone''s business interests were allegedly never listed on his ethics
+      election form for economic interests despite serving five years on council.
+
+      *   While Mr. Boone dissolved some LLC''s when exposed, evidence suggests other
+      interests remain undisclosed/unacknowledged.
+
+      *   Public documents (Resolution 2606-16) show Mayor Kant signed a related resolution
+      in October 2016 and the newly elected Mayor signed it weeks later, documenting
+      the land transaction involving Boone and Burrell''s tenure.
+
 
       THE PIVOT
-      *   Article 1 focuses on Mr. Boone’s current undisclosed conflicts (LLCs and voting).
-      *   Article 2 pivots the investigation from recent ethics violations to a documented historical pattern of institutional misconduct, alleging that both Councilmen Boone and Burrell engaged in financial impropriety regarding land acquisition as early as October 2016 (Resolution 2606-16), suggesting systemic corruption rather than isolated incidents.
+
+      *   Article 1 focuses on Mr. Boone’s current undisclosed conflicts (LLCs and
+      voting).
+
+      *   Article 2 pivots the investigation from recent ethics violations to a documented
+      historical pattern of institutional misconduct, alleging that both Councilmen
+      Boone and Burrell engaged in financial impropriety regarding land acquisition
+      as early as October 2016 (Resolution 2606-16), suggesting systemic corruption
+      rather than isolated incidents.
+
 
       KEY ENTITIES
+
       *   Councilman Mr. Boone
+
       *   Mr. Burrell
+
       *   Fairhope City Council
+
       *   Mayor Kant
+
       *   City of Fairhope
-      *   Ripp Report
+
+      *   Ripp Report'
     generated_at: '2026-07-18T03:52:48.113491Z'
-    text: Councilman Kevin Boone claims his failure to report private ties on ethics forms was just a harmless oversight. Public records from Resolution 2606-16 prove Boone and Jack Burrell orchestrated a suspect wetland deal under former Mayor Tim Kant, exposing a decade-long pattern of municipal corruption.
+    text: Councilman Kevin Boone claims his failure to report private ties on ethics
+      forms was just a harmless oversight. Public records from Resolution 2606-16
+      prove Boone and Jack Burrell orchestrated a suspect wetland deal under former
+      Mayor Tim Kant, exposing a decade-long pattern of municipal corruption.
+    character_count: 300
   how-the-pendulum-swings:
-    brief: "THE CONFLICT:\n- During the administration of former Mayor Tim Kant in Fairhope, a council action authorized payments of $32,510.97 to Walcott, Adams, Verneuille Architects for exterior repairs and maintenance on the Fairhope Public Library.\n- This work was performed via an unauthorized \"handshake deal\" between former Mayor Kant and the architects, as current city staffers could not find evidence of a formal contract or authorization paperwork.\n- Councilman Mr. Boone was serving on the council at the time these transactions were taking place alongside Mr. Burrell, who held the position of Council President.\n\nTHE DISCOVERY:\n- The second article reveals concrete historical instances of unauthorized municipal spending and lack of transparency in Fairhope's local government (e.g., library payments, alleged airport scandal, $13 million sewer plant funding).\n- It specifically ties Mr. Boone and Mr. Burrell to the oversight failures during these transactions, noting they did\
-      \ not question Mayor Kant's handshake deals or other ethical issues of that era.\n\nTHE PIVOT:\n- The first article alleges Mr. Boone has undisclosed conflicts of interest and votes on company/LLC interests. \n- The second article provides a specific historical example where Mr. Boone was a member of the governing body during an unauthorized financial deal (the Library payment) under former Mayor Kant, demonstrating his presence at the nexus of the \"handshake deals\" and lack of adherence to proper municipal procedure detailed in the first article.\n\nKEY ENTITIES:\n- Mr. Boone (Councilman/City Council Member 2025-08-05)\n- Mr. Burrell (Council President/Council Member 2025-08-05)\n- Tim Kant (Former Mayor)\n- Fairhope Public Library\n- Walcott, Adams, Verneuille Architects\n- Baldwin County"
+    brief: "THE CONFLICT:\n- During the administration of former Mayor Tim Kant in\
+      \ Fairhope, a council action authorized payments of $32,510.97 to Walcott, Adams,\
+      \ Verneuille Architects for exterior repairs and maintenance on the Fairhope\
+      \ Public Library.\n- This work was performed via an unauthorized \"handshake\
+      \ deal\" between former Mayor Kant and the architects, as current city staffers\
+      \ could not find evidence of a formal contract or authorization paperwork.\n\
+      - Councilman Mr. Boone was serving on the council at the time these transactions\
+      \ were taking place alongside Mr. Burrell, who held the position of Council\
+      \ President.\n\nTHE DISCOVERY:\n- The second article reveals concrete historical\
+      \ instances of unauthorized municipal spending and lack of transparency in Fairhope's\
+      \ local government (e.g., library payments, alleged airport scandal, $13 million\
+      \ sewer plant funding).\n- It specifically ties Mr. Boone and Mr. Burrell to\
+      \ the oversight failures during these transactions, noting they did not question\
+      \ Mayor Kant's handshake deals or other ethical issues of that era.\n\nTHE PIVOT:\n\
+      - The first article alleges Mr. Boone has undisclosed conflicts of interest\
+      \ and votes on company/LLC interests. \n- The second article provides a specific\
+      \ historical example where Mr. Boone was a member of the governing body during\
+      \ an unauthorized financial deal (the Library payment) under former Mayor Kant,\
+      \ demonstrating his presence at the nexus of the \"handshake deals\" and lack\
+      \ of adherence to proper municipal procedure detailed in the first article.\n\
+      \nKEY ENTITIES:\n- Mr. Boone (Councilman/City Council Member 2025-08-05)\n-\
+      \ Mr. Burrell (Council President/Council Member 2025-08-05)\n- Tim Kant (Former\
+      \ Mayor)\n- Fairhope Public Library\n- Walcott, Adams, Verneuille Architects\n\
+      - Baldwin County"
     generated_at: '2026-07-18T03:52:48.113495Z'
-    text: Councilman Kevin Boone built a career voting for city deals that funneled tax cash to his corporate network. Historical records reveal Boone approved thousands in shady payments to library architects under former Mayor Tim Kant, he enabled illegal handshake deals for years.
+    text: Councilman Kevin Boone built a career voting for city deals that funneled
+      tax cash to his corporate network. Historical records reveal Boone approved
+      thousands in shady payments to library architects under former Mayor Tim Kant,
+      he enabled illegal handshake deals for years.
+    character_count: 274
   catalyst-signs:
-    brief: |-
-      1. THE CONFLICT
-          *   Mr. Boone, Councilman in Fairhope, has multiple undisclosed conflicts of interest involving LLC's and family members' names.
-          *   Mr. Boone, while serving on planning, zoning, and council, voted for municipal resolutions (involving hundreds of thousands of dollars) to favor engineering companies with whom he maintains connections through these undisclosed LLC’s.
-          *   Past political machine control was evidenced by a "cocktail" of candidates in Fairhope: Sherry [Snedeker], Boone (father of Scott B??ne), Brown, and Burrell, who were linked to the CSB political alliance during past administrations.
-
-      2. THE DISCOVERY
-          *   The political organization CATALYST/CSB functioned as a comprehensive political entity that controlled candidates across multiple municipalities (Fairhope, Daphne, Spanish Fort, Bay Minette).
-          *   Evidence shows CSB used standardized PVC framed signs to saturate communities and establish dominance among core groups of the past administration.
-          *   Specific ties include Municipal Judge Sherry [Snedeker] supporting city council votes repeatedly, and Burrell arranging himself on a bid committee that awarded Snedeker a prime location for his jet plane hanger.
-
-      3. THE PIVOT
-          *   Article 1 details Mr. Boone’s individual conflict of interest concerning undisclosed LLC’s and voting patterns favoring certain companies.
-          *   Article 2 provides the operational framework by revealing that these local actions are not isolated incidents but are facilitated by a centralized political machine (CSB/Catalyst) designed to ensure candidate unity, shared gratuities, and control over municipal outcomes across entire regions like Baldwin County.
-          *   The second article connects Mr. Boone’s sphere of influence directly into a larger, coordinated alliance that uses its financial structure and sign saturation campaign to maintain power.
-
-      4. KEY ENTITIES
-          *   Mr. Boone (Councilman)
-          *   Councilman Ford (Past Councilman/Comparison Point)
-          *   Mr. Robinson (Councilman)
-          *   Mr. Conyers (Councilman/Former Mayor)
-          *   Mr. Brown (City Council Member)
-          *   Burrell (Council Member/Council President)
-          *   Sherry [Snedeker] (Municipal Judge)
-          *   Scott Boone Consulting / CSB / CATALYST
-          *   Fairhope City Council
-          *   Daphne Municipality
-          *   Spanish Fort Municipality
+    brief: "1. THE CONFLICT\n    *   Mr. Boone, Councilman in Fairhope, has multiple\
+      \ undisclosed conflicts of interest involving LLC's and family members' names.\n\
+      \    *   Mr. Boone, while serving on planning, zoning, and council, voted for\
+      \ municipal resolutions (involving hundreds of thousands of dollars) to favor\
+      \ engineering companies with whom he maintains connections through these undisclosed\
+      \ LLC’s.\n    *   Past political machine control was evidenced by a \"cocktail\"\
+      \ of candidates in Fairhope: Sherry [Snedeker], Boone (father of Scott B??ne),\
+      \ Brown, and Burrell, who were linked to the CSB political alliance during past\
+      \ administrations.\n\n2. THE DISCOVERY\n    *   The political organization CATALYST/CSB\
+      \ functioned as a comprehensive political entity that controlled candidates\
+      \ across multiple municipalities (Fairhope, Daphne, Spanish Fort, Bay Minette).\n\
+      \    *   Evidence shows CSB used standardized PVC framed signs to saturate communities\
+      \ and establish dominance among core groups of the past administration.\n  \
+      \  *   Specific ties include Municipal Judge Sherry [Snedeker] supporting city\
+      \ council votes repeatedly, and Burrell arranging himself on a bid committee\
+      \ that awarded Snedeker a prime location for his jet plane hanger.\n\n3. THE\
+      \ PIVOT\n    *   Article 1 details Mr. Boone’s individual conflict of interest\
+      \ concerning undisclosed LLC’s and voting patterns favoring certain companies.\n\
+      \    *   Article 2 provides the operational framework by revealing that these\
+      \ local actions are not isolated incidents but are facilitated by a centralized\
+      \ political machine (CSB/Catalyst) designed to ensure candidate unity, shared\
+      \ gratuities, and control over municipal outcomes across entire regions like\
+      \ Baldwin County.\n    *   The second article connects Mr. Boone’s sphere of\
+      \ influence directly into a larger, coordinated alliance that uses its financial\
+      \ structure and sign saturation campaign to maintain power.\n\n4. KEY ENTITIES\n\
+      \    *   Mr. Boone (Councilman)\n    *   Councilman Ford (Past Councilman/Comparison\
+      \ Point)\n    *   Mr. Robinson (Councilman)\n    *   Mr. Conyers (Councilman/Former\
+      \ Mayor)\n    *   Mr. Brown (City Council Member)\n    *   Burrell (Council\
+      \ Member/Council President)\n    *   Sherry [Snedeker] (Municipal Judge)\n \
+      \   *   Scott Boone Consulting / CSB / CATALYST\n    *   Fairhope City Council\n\
+      \    *   Daphne Municipality\n    *   Spanish Fort Municipality"
     generated_at: '2026-07-18T03:52:48.113499Z'
-    text: Moneyed interests line Councilman Kevin Boone's pockets while he channels city contracts to friendly firms. An explosive investigation links Boone directly to CATALYST, an aggressive political machine using illegal sign campaigns and cozy deals to seize control across Baldwin County.
+    text: Moneyed interests line Councilman Kevin Boone's pockets while he channels
+      city contracts to friendly firms. An explosive investigation links Boone directly
+      to CATALYST, an aggressive political machine using illegal sign campaigns and
+      cozy deals to seize control across Baldwin County.
+    character_count: 284
   catalyst-bullies:
-    brief: |-
-      THE CONFLICT:
-      *   Councilman Boone has undisclosed conflicts of interest through various LLC affiliations and those of family members.
+    brief: 'THE CONFLICT:
+
+      *   Councilman Boone has undisclosed conflicts of interest through various LLC
+      affiliations and those of family members.
+
       *   He serves on planning, zoning, and city council committees.
-      *   Boone has voted in favor of engineering companies he is connected to via these LLC interests on council resolutions involving hundreds of thousands of dollars.
+
+      *   Boone has voted in favor of engineering companies he is connected to via
+      these LLC interests on council resolutions involving hundreds of thousands of
+      dollars.
+
 
       THE DISCOVERY:
-      *   Burrell Boone and Brown are identified as representatives for the political organization CATALYST/Scott Boone Consulting (CSB).
-      *   CATALYST/CSB is financed by special interests, including Baldwin County Sewer and various developers.
-      *   Scott Boone (son of Councilman Boone) works with his father and possesses privileged access to Fairhope executive committee details and confidential city information.
-      *   City Attorney Marcus McDowell supported CATALYST candidates and failed to file necessary assault charges against Ronan McSharry, allowing the statute of limitations to run out on recorded video evidence.
+
+      *   Burrell Boone and Brown are identified as representatives for the political
+      organization CATALYST/Scott Boone Consulting (CSB).
+
+      *   CATALYST/CSB is financed by special interests, including Baldwin County
+      Sewer and various developers.
+
+      *   Scott Boone (son of Councilman Boone) works with his father and possesses
+      privileged access to Fairhope executive committee details and confidential city
+      information.
+
+      *   City Attorney Marcus McDowell supported CATALYST candidates and failed to
+      file necessary assault charges against Ronan McSharry, allowing the statute
+      of limitations to run out on recorded video evidence.
+
 
       THE PIVOT:
-      *   Article 1 asserts that Councilman Boone is engaged in financial self-interest through undisclosed LLC connections.
-      *   Article 2 proves this by identifying Burrell Boone and Brown as members of CATALYST/CSB, an organization financed by major special interests like Baldwin County Sewer.
-      *   This establishes the organized political machinery and financial backers driving Councilman Boone's alleged conflicts.
+
+      *   Article 1 asserts that Councilman Boone is engaged in financial self-interest
+      through undisclosed LLC connections.
+
+      *   Article 2 proves this by identifying Burrell Boone and Brown as members
+      of CATALYST/CSB, an organization financed by major special interests like Baldwin
+      County Sewer.
+
+      *   This establishes the organized political machinery and financial backers
+      driving Councilman Boone''s alleged conflicts.
+
 
       KEY ENTITIES:
+
       *   Councilman Boone (Mr. Boone)
+
       *   Burrell Boone
+
       *   Brown
+
       *   CATALYST
+
       *   Scott Boone Consulting (CSB)
+
       *   Scott Boone
+
       *   Baldwin County Sewer
+
       *   Marcus McDowell (City Attorney)
-      *   Ronan McSharry
+
+      *   Ronan McSharry'
     generated_at: '2026-07-18T03:52:48.113502Z'
-    text: Undisclosed LLC deals allow Councilman Kevin Boone to vote tax dollars to his business associates. Explosive files reveal CATALYST funding Boone, showing how sewer developers enrich his family while City Attorney Marcus McDowell shields their political enforcers from criminal charges.
+    text: Undisclosed LLC deals allow Councilman Kevin Boone to vote tax dollars to
+      his business associates. Explosive files reveal CATALYST funding Boone, showing
+      how sewer developers enrich his family while City Attorney Marcus McDowell shields
+      their political enforcers from criminal charges.
+    character_count: 285
   strawman-spiderweb:
-    brief: "THE CONFLICT\n*   Mr. Boone, serving as a Councilman/City Council member for Fairhope, was accused of having undisclosed conflicts of interest through various LLC involvement and family members' names.\n*   He allegedly voted on council resolutions involving hundreds of thousands of dollars in favor of engineering companies with which he had connections via personal LLC’s while serving on planning, zoning, and City Councils.\n\nTHE DISCOVERY\n*   A new lawsuit filed by the Baldwin County Property Association (Daphne’s Bellaton) reveals an intricate corporate web designed to conceal interrelationships and insulate defendants from liability. \n*   This legal discovery provides a direct \"spider graph\" connection linking Councilman Boone (via LLC Boone/Scott Boone), his son Scott Boone, CATALYST (political organization), Tucker Dorsey (\"The Strawman\"), John Avant, Judge Norton, DeLaney, and Burke.\n\nTHE PIVOT\n*   Article 1 makes generalized accusations regarding Mr. Boone’s\
-      \ failure to disclose conflicts of interest through business ties.\n*   Article 2 serves as the 'smoking gun' because it provides specific, legally documented evidence—a new lawsuit involving Baldwin County property and a judicial inquiry into CATALYST—which places Councilman Boone directly within a documented conspiracy network alongside Judge Norton, Tucker Dorsey, DeLaney, and Burke.\n\nKEY ENTITIES\n*   Mr. Boone / Councilman Boone\n*   LLC Boone\n*   Scott Boone (son of Kevin Boone/CATALYST frontman)\n*   CATALYST (political organization)\n*   Tucker Dorsey (\"The Strawman\")\n*   John Avant\n*   Judge Norton\n*   Baldwin County Property Association (Daphne’s Bellaton)\n*   DeLaney / Burke"
+    brief: "THE CONFLICT\n*   Mr. Boone, serving as a Councilman/City Council member\
+      \ for Fairhope, was accused of having undisclosed conflicts of interest through\
+      \ various LLC involvement and family members' names.\n*   He allegedly voted\
+      \ on council resolutions involving hundreds of thousands of dollars in favor\
+      \ of engineering companies with which he had connections via personal LLC’s\
+      \ while serving on planning, zoning, and City Councils.\n\nTHE DISCOVERY\n*\
+      \   A new lawsuit filed by the Baldwin County Property Association (Daphne’s\
+      \ Bellaton) reveals an intricate corporate web designed to conceal interrelationships\
+      \ and insulate defendants from liability. \n*   This legal discovery provides\
+      \ a direct \"spider graph\" connection linking Councilman Boone (via LLC Boone/Scott\
+      \ Boone), his son Scott Boone, CATALYST (political organization), Tucker Dorsey\
+      \ (\"The Strawman\"), John Avant, Judge Norton, DeLaney, and Burke.\n\nTHE PIVOT\n\
+      *   Article 1 makes generalized accusations regarding Mr. Boone’s failure to\
+      \ disclose conflicts of interest through business ties.\n*   Article 2 serves\
+      \ as the 'smoking gun' because it provides specific, legally documented evidence—a\
+      \ new lawsuit involving Baldwin County property and a judicial inquiry into\
+      \ CATALYST—which places Councilman Boone directly within a documented conspiracy\
+      \ network alongside Judge Norton, Tucker Dorsey, DeLaney, and Burke.\n\nKEY\
+      \ ENTITIES\n*   Mr. Boone / Councilman Boone\n*   LLC Boone\n*   Scott Boone\
+      \ (son of Kevin Boone/CATALYST frontman)\n*   CATALYST (political organization)\n\
+      *   Tucker Dorsey (\"The Strawman\")\n*   John Avant\n*   Judge Norton\n*  \
+      \ Baldwin County Property Association (Daphne’s Bellaton)\n*   DeLaney / Burke"
     generated_at: '2026-07-18T03:52:48.113506Z'
-    text: Councilman Kevin Boone insists his complex web of corporate LLCs represents normal private business investment. A bombshell lawsuit uncovers a massive corporate paper trail, trapping Boone and his son Scott in a dirty political ring alongside local developers and Judge Norton.
+    text: Councilman Kevin Boone insists his complex web of corporate LLCs represents
+      normal private business investment. A bombshell lawsuit uncovers a massive corporate
+      paper trail, trapping Boone and his son Scott in a dirty political ring alongside
+      local developers and Judge Norton.
+    character_count: 277
   catalyst-last-stand:
-    brief: |-
-      THE CONFLICT:
-      - Kevin Boone (Councilman/Mr. Boone) has been criticized for undisclosed conflicts of interest regarding his financial ties.
-      - Boone served on planning and zoning and City Council, voting on resolutions involving hundreds of thousands of dollars that favored engineering companies connected through LLC's with which he had interests.
+    brief: 'THE CONFLICT:
+
+      - Kevin Boone (Councilman/Mr. Boone) has been criticized for undisclosed conflicts
+      of interest regarding his financial ties.
+
+      - Boone served on planning and zoning and City Council, voting on resolutions
+      involving hundreds of thousands of dollars that favored engineering companies
+      connected through LLC''s with which he had interests.
+
 
       THE DISCOVERY:
-      - The Widget Article explicitly identifies Kevin Boone as one of three councilmen ("the three B’s": Burrell, Boone, Brown) belonging to the "CATALYST" group.
-      - It confirms that Boone has numerous Limited Liability Companies (LLCs) linking him directly to developers and "good ole boys," asserting these connections prove his interest is personal gain.
+
+      - The Widget Article explicitly identifies Kevin Boone as one of three councilmen
+      ("the three B’s": Burrell, Boone, Brown) belonging to the "CATALYST" group.
+
+      - It confirms that Boone has numerous Limited Liability Companies (LLCs) linking
+      him directly to developers and "good ole boys," asserting these connections
+      prove his interest is personal gain.
+
 
       THE PIVOT:
-      - The Main Article alleges potential conflicts of interest; the Widget Article moves this from an accusation to a systemic indictment, framing Boone’s LLC involvement as definitive proof that he uses public office for private enrichment under the political banner of CATALYST.
+
+      - The Main Article alleges potential conflicts of interest; the Widget Article
+      moves this from an accusation to a systemic indictment, framing Boone’s LLC
+      involvement as definitive proof that he uses public office for private enrichment
+      under the political banner of CATALYST.
+
 
       KEY ENTITIES:
+
       - Kevin Boone (Councilman)
+
       - Burrell (Jack Burrell - Council President/Candidate)
+
       - Robert Brown (Councilman/Candidate)
+
       - CATALYST (Political Organization)
+
       - Joshua Gammon (Boone’s opponent)
-      - Fairhope City Council
+
+      - Fairhope City Council'
     generated_at: '2026-07-18T03:52:48.113509Z'
-    text: Councilman Kevin Boone claims accusations of backroom self-dealing and hidden business conflicts are empty political chatter. Hard evidence connects Boone to the infamous "Three Bs" of CATALYST, he used multiple secret LLCs to enrich his cronies and secure power over Fairhope City Council.
+    text: Councilman Kevin Boone claims accusations of backroom self-dealing and hidden
+      business conflicts are empty political chatter. Hard evidence connects Boone
+      to the infamous "Three Bs" of CATALYST, he used multiple secret LLCs to enrich
+      his cronies and secure power over Fairhope City Council.
+    character_count: 290

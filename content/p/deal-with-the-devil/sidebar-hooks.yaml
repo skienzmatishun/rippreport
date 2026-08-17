@@ -1,5 +1,5 @@
 metadata:
-  generated_at: '2026-08-03T02:36:29.832670Z'
+  generated_at: '2026-08-15T23:38:14.423686Z'
   generator_version: 1.0.0
   post_slug: deal-with-the-devil
 hooks:
@@ -152,11 +152,11 @@ hooks:
 
       - Lagniappe Mobile (Source linked for autopsy discovery)'
     generated_at: '2026-03-14T20:40:15.027017Z'
-    text: Bubba Lawrence has been locked up  for over 7,432 days because the system broke
-      its own rules. This discovery shows how David Whetstone and Hoss Mack buried
-      a vital autopsy report to ensure a conviction that violated every constitutional
+    text: Bubba Lawrence has been locked up  for over 7,432 days because the system
+      broke its own rules. This discovery shows how David Whetstone and Hoss Mack
+      buried a vital autopsy report to ensure a conviction that violated every constitutional
       right Lawrence had left.
-    character_count: 256
+    character_count: 262
   baldwin-county-judicial-corruption:
     brief: 'THE CONFLICT:
 
@@ -183,8 +183,8 @@ hooks:
 
       THE DISCOVERY:
 
-      - Evidence discovered in state case described as "riddled with failures
-      by the state".
+      - Evidence discovered in state case described as "riddled with failures by the
+      state".
 
       - Evidence was suppressed willfully rather than inadvertently.
 
@@ -205,8 +205,8 @@ hooks:
 
       THE PIVOT:
 
-      - Evidence suppression directly links the officials named in Article 1 to
-      active obstruction.
+      - Evidence suppression directly links the officials named in Article 1 to active
+      obstruction.
 
       - Proves motive for self-promotion at all costs regarding the Lawrence conviction
       (matching Whetstone’s "deal with the devil" statement).
@@ -347,7 +347,7 @@ hooks:
       the strings in Baldwin County today. From suppressed body cams to missing physical
       evidence, the corruption led by Hoss Mack and Robert Wilters keeps the truth
       buried to protect their own chairs.
-    character_count: 276
+    character_count: 274
   Baldwin-county-wrongful-conviction:
     brief: 'THE CONFLICT:
 
@@ -419,7 +419,7 @@ hooks:
       to ignore the parts that proved Bubba Lawrence was innocent. This report exposes
       the "smoking gun" autopsy that David Whetstone and Hoss Mack conveniently left
       out of the murder trial for over twenty years.
-    character_count: 279
+    character_count: 284
   justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
     brief: 'CONFLICT: 2005 capital murder trial in Baldwin County. Murray "Bubba"
       Lawrence Jr convicted of killing Brandon Hastings. Prosecution relied solely
@@ -573,10 +573,10 @@ hooks:
       Walter McMillan, Paul McGarry, Baldwin County Sheriff’s Office.'
     generated_at: '2026-03-14T20:40:15.027328Z'
     text: Baldwin County is repeating the same shameful history that made "Just Mercy"
-      famous across the country. Robert Wilters and Hoss
-      Mack suppressed critical medical data to ensure Bubba Lawrence never had a fair
-      shot at proving his innocence in court.
-    character_count: 272
+      famous across the country. Robert Wilters and Hoss Mack suppressed critical
+      medical data to ensure Bubba Lawrence never had a fair shot at proving his innocence
+      in court.
+    character_count: 247
   alabama-ag:
     brief: 'THE CONFLICT:
 
