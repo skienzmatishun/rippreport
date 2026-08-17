@@ -128,4 +128,6 @@ There is also a legal question still open. This book follows it all the way to i
     </a>
 </div>
 
+{{< socialpreview url=https://rippreport.com/p/guilty-audiobook >}}
+
 {{< aicomments >}}
