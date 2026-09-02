@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a0e8a6cdcf3cea-MIA
+Cf-Ray: a34fec691e5fb4aa-MIA
 Content-Type: application/json
-Date: Wed, 12 Aug 2026 16:38:11 GMT
+Date: Wed, 02 Sep 2026 22:24:13 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=sUgnI5v654jxpQ9T5fXz2G0IkeoA3kZtHbaBNBi0wNH0FFz8Xjay%2FGrDRg19bdbFlvI9C%2B2HmHqRDSXXg187BOYohfoZl3l7z1NJhijKR%2BRMj8R7SGTrGYpDw5IFBeu4lTl%2F3oyHQ8Q%2BuHnOkMdO2l8MUw%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KuUmfJKF27GQKE8uy1ga%2BlDKDyZGohABpU2sb8g5p6zemgU6h0MFKlhW7JC2g%2FrEOk28m3ik%2BLWOpZbciXK2LTGBABtWDiPD7EkIoljkaDVkR4twyAN7lCwT3wFoWlyCyDjtJsJ97UUNO2zCKQV8QvxTwQ%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=1627
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=1490
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 17e66e1eee044a51475ac47772291ceb
-X-Etags-2: 17e66e1eee044a51475ac47772291ceb
+X-Etags-1: 3a3a30f3b357e370c17efb0b57dddd93
+X-Etags-2: 3a3a30f3b357e370c17efb0b57dddd93
 
-{"title":"BP oil spill money to go to Alabama governor's mansion and a new hotel","description":"The mansion was destroyed decades before the BP oil spill.","url":"https://grist.org/climate-energy/bp-oil-spill-money-to-go-to-alabama-governors-mansion-and-a-new-hotel/","charset":"utf-8"}
+{"title":"BP oil spill money to go to Alabama governor's mansion and a new hotel","description":"The mansion was destroyed decades before the BP oil spill.","url":"https://grist.org/climate-energy/bp-oil-spill-money-to-go-to-alabama-governors-mansion-and-a-new-hotel/","charset":"utf-8","originalUrl":"https://grist.org/climate-energy/bp-oil-spill-money-to-go-to-alabama-governors-mansion-and-a-new-hotel/","wasRedirected":false}

@@ -2,7 +2,8 @@ metadata:
   generated_at: '2026-07-13T16:25:13.407589Z'
   post_slug: oust-elliott
   status: staged
-  hooks_generated: false
+  hooks_generated: true
+  hooks_generated_at: '2026-09-01T20:25:39.064889Z'
 related_articles:
 - slug: some-things-never-change
   title: SOME THINGS NEVER CHANGE

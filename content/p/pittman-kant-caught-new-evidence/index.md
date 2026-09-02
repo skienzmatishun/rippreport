@@ -5,7 +5,6 @@ description: Mayor Kant lies about who signed BP Boom documents, Leigh Anne Ryal
   denies involvement
 thumbnail: img/pittman-kant-caught-new-evidence.png
 tags:
-- archive
 - bp-boom-scandal
 - Trip Pittman
 - tim-kant

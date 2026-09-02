@@ -1,8 +1,99 @@
 metadata:
-  generated_at: '2026-08-15T23:38:09.682475Z'
+  generated_at: '2026-09-02T00:36:41.963324Z'
   generator_version: 1.0.0
   post_slug: by-appointment-only
+  main_date: 2026-04-10
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
+  a-reckoning-is-predicted:
+    brief: 'THE CONFLICT:
+
+      - Baldwin County judiciary and law enforcement operated under a "Good Old Boy"
+      network where judges were appointed after early retirements and then ran unopposed
+      (e.g., Judge Lang Floyd).
+
+      - Anthony Lowery won the Baldwin County Sheriff election despite having only
+      10% turnout in his district, beating Matt McKenzie by using 5x more money and
+      political influence ("GOB control").
+
+      - The Alabama Gaming Commission and state judiciary appointments were criticized
+      as lacking transparency, favoring insiders over competitive processes.
+
+      - Judge Kristi Hagood was elected District Judge supported by DA Robert Wilters,
+      former Sheriff Hoss Mack, and paid consultants Jon Gray and Scott Boone, despite
+      being "not qualified."
+
+      - David Whitstone served as the former prosecutor (DA) in Baldwin County with
+      a record of judicial malfeasance.
+
+
+      THE DISCOVERY:
+
+      Article 2 reveals that the individuals involved in these appointments and elections
+      are directly implicated in the wrongful conviction of Murray Lawrence Jr.:
+
+      - Kristi Hagood was "recruited" by Wilters, who was the judge in the Lawrence
+      trial.
+
+      - Robert Wilters (DA/architect of Hagood) was the judge at the trial and later
+      prosecuted cases with bias.
+
+      - Anthony Lowery was the lead investigator in the Lawrence case but found "not
+      one shred of evidence."
+
+      - Hoss Mack (former Sheriff, now ALEA head candidate) was the overseeing officer
+      ("over-sheriff") who allegedly controlled Lowery.
+
+      - Murray Lawrence was used as a vehicle for GOB self-promotion; none of these
+      officials spoke in his defense after incarceration.
+
+      - A book and TV documentary are being produced to expose this wrongful conviction,
+      creating public accountability pressure not previously present.
+
+
+      THE PIVOT:
+
+      Article 2 is the smoking gun because it connects every key player from Article
+      1''s "appointment only" judiciary and gambling-funded politics to a single criminal
+      justice scandal (Murray Lawrence). The article demonstrates that the "corrupt
+      system" Article 1 warns about has concrete evidence—the wrongful conviction—which
+      proves the GOB network uses the courts for self-promotion. This creates a reckoning:
+      with a book/documentary releasing, the alleged malfeasance of Judge Hagood,
+      DA Wilters, Sheriff Lowery, and Hoss Mack moves from theoretical accusations
+      to actionable legal/purview scrutiny, making their continued dominance in Baldwin
+      County''s upcoming May 19 primaries politically untenable.
+
+
+      KEY ENTITIES:
+
+      - Anthony Lowery (Sheriff)
+
+      - Matt McKenzie (Sheriff Candidate)
+
+      - Kristi Hagood (District Judge)
+
+      - Robert Wilters (District Attorney)
+
+      - Hoss Mack (Former Sheriff, ALEA Candidate)
+
+      - Murray Lawrence Jr. (Incarcerated Individual)
+
+      - Jon Gray (Legal Consultant)
+
+      - Scott Boone (Legal Consultant)
+
+      - David Whitstone (Former DA/Prosecutor)
+
+      - Chris Elliott (State Senator)
+
+      - Mike Vann/Vanden Heuvel (State Senate Candidate)
+
+      - Grant Blackburn (District Judge Candidate)
+
+      - American Conservative Fund / DraftKings (Gambling Interests)'
+    widget_date: 2026-06-23
+    generated_at: '2026-09-02T00:36:41.967266Z'
   the-enforcer-hoss-macks-rise-to-statewide-power:
     brief: 'THE CONFLICT: Judicial appointments in Baldwin County are criticized as
       non-competitive and "pre-arranged" after early retirements. Concerns exist that
@@ -47,114 +138,363 @@ hooks:
       seats to protect their own interests. Look no further than Hoss Mack’s sudden
       rise to state power to see how this unchecked system rewards its loyal enforcers.
     character_count: 235
-  reading-in-the-rain:
+  red-lips-award:
     brief: 'THE CONFLICT:
 
-      - Bob Riley administration exploited state influence regarding Exxon-Mobil tax
-      dispute ($3.1 billion owed) via Riley Jr. serving Exxon-Mobil; resulting award
-      diminished to $51 million (past corruption example).
+      *   The Alabama State Senate passed legislation on June 9, 2023 (noted in text
+      as "earlier this month" relative to the article) with a 21-9 vote to "restructure"
+      the State Board of Veterans Affairs (ADVA).
+
+      *   ADVA Commissioner Admiral Kent Davis filed an ethics complaint against Department
+      of Mental Health Director Kimberly Boswell.
+
+      *   The complaint alleged Boswell "colluded" with other state officials to prevent
+      the ADVA from receiving $7 million in American Rescue Plan Act funds.
+
+      *   The Ethics Commission dismissed the complaint.
 
 
       THE DISCOVERY:
 
-      - Current political environment in Baldwin County is dominated by a "Cabal"
-      embedded in government and judiciary.
+      *   The Ethics Commission was allegedly highly unethical, specifically involving
+      Director Tom Albritton.
 
-      - Pro-gambling interests, specifically linked to American Conservative Fund/DraftKings,
-      are influencing primary elections across Alabama.
+      *   Tom Albritton used the trust of the Mabel Amos Memorial Fund to award himself
+      $120,000 for his kids’ scholarships.
 
+      *   Albritton had enjoyed a salary of over $100,000 for four years while court
+      cases proceeded regarding the fleecing of the trust''s millions.
 
-      THE PIVOT:
-
-      - Article 2 establishes a historical precedent of powerful, entrenched cabals
-      leveraging political influence (e.g., Riley''s family involvement with Exxon)
-      for massive financial gain in the state. This sets a framework demonstrating
-      that systemic corruption is possible and recurring, directly relating to Article
-      1''s concerns about current judicial appointments and gambling industry influence
-      ("thumb on the scale").
-
-
-      KEY ENTITIES:
-
-      - Bob Riley
-
-      - Rob Jr. (Riley)
-
-      - Exxon-Mobil
-
-      - Albert Patterson
-
-      - Frank Tennille
-
-      - Big Jim Folsum
-
-      - Choctaw Indians
-
-      - Eric Holder
-
-      - Big Luther Strange
-
-      - Baldwin County
-
-      - Thomas Gallion
-
-      - Chris E. Warner'
-    generated_at: '2026-04-11T00:10:51.348582Z'
-    text: The Riley family turned state influence into a billion-dollar payday for
-      Exxon while the public got pennies. This old-school corruption provides the
-      perfect roadmap for the current Baldwin County cabal as they sell out our local
-      courts to gambling interests.
-    character_count: 258
-  portables-and-prisons:
-    brief: 'THE CONFLICT:
-
-      *   Local politics in Baldwin County involves controversial judicial appointments
-      and "good old boy" networks influencing decisions.
-
-      *   Allegations exist that campaign donations influence political allies and
-      outcomes (Main Article).
-
-
-      THE DISCOVERY:
-
-      *   The Poarch Creek Indians (PCI) have contributed $4.5 million in campaign
-      contributions to Alabama politics since 2013, ranking near the Business Council
-      of Alabama’s Progress PAC (Widget Article).
-
-      *   Senator Chris Elliott received $27,000 from the PCI Tribe during his election
-      campaign (Widget Article).
+      *   The "restructuring" bill is claimed to be retaliation for the ethics complaint
+      filed by Admiral Davis against Boswell.
 
 
       THE PIVOT:
 
-      *   Article 2 provides specific financial evidence ($4.5M total from PCI since
-      2013; $27k to Elliott) connecting tribal gaming interests directly to local/state
-      political funding, substantiating the Main Article''s claims that "gambling
-      interests are putting a thumb on the scale" and judicial decisions favor political
-      allies in Baldwin County (where Chris Elliott is running for State Senate).
+      *   Article 1 (BY APPOINTMENT ONLY) discusses the opaque and pre-arranged judicial
+      appointments in Baldwin County, including Lang Floyd''s appointment and claims
+      that decisions favor political allies.
+
+      *   Article 2 (RED LIPS AWARD) provides the "smoking gun" context by exposing
+      the corrupt mechanisms behind the ADVA restructuring bill—specifically showing
+      that politicians (like Jones, Oliver, and Albritton) are using government positions
+      for personal financial gain ("the rot" buried by the AG).
+
+      *   Article 2 proves that the legislative environment pushing through the "unopposed"
+      or "pre-arranged" political appointments described in Article 1 is undergirded
+      by systemic corruption (e.g., Albritton’s fiduciary fraud), thereby explaining
+      why incumbents like Elliott are protected and why new appointments are rigged.
 
 
       KEY ENTITIES:
 
-      *   Chris Elliott
+      *   Kay Ivey
 
       *   Mike Vann
 
-      *   Poarch Creek Indians (PCI-Tribe)
+      *   Chris Elliott
 
-      *   Business Council of Alabama
+      *   Lang Floyd
 
-      *   DraftKings
+      *   Kimberly Boswell
 
-      *   Alabama Gaming Commission
+      *   Admiral Kent Davis
 
-      *   Baldwin County'
-    generated_at: '2026-04-11T00:10:51.348603Z'
-    text: We keep hearing that judicial decisions in this county favor political allies
-      instead of the law. The proof is in the ledger, where Chris Elliott pocketed
-      thousands from the Poarch Creek Indians while they flooded the state with millions
-      to buy power.
-    character_count: 251
+      *   Tom Albritton (Ethics Director; $120,000 fiduciary fraud)
+
+      *   Andrew Jones
+
+      *   Ed Oliver
+
+      *   Greg Albritton
+
+      *   Donna Givens
+
+      *   Alan Baker
+
+      *   Jennifer Fidler
+
+      *   Frances Holk-Jones
+
+      *   Matt Simpson
+
+      *   Shane Stringer
+
+      *   Vivian Davis Figures
+
+      *   Cliff McCollum (A.L.I.S.O.N. Director)
+
+      *   Tom Albritton (Mabel Amos Trust/Albritton connection)'
+    widget_date: 2025-03-03
+    generated_at: '2026-09-02T00:36:41.967499Z'
+  TOP-TO-BOTTOM-CORRUPTION:
+    brief: 'THE CONFLICT:
+
+      *   Alabama Ethics Commission and its Executive Director, Tom Albritton, were
+      accused by Attorney General Steve Marshall in early 2023 of "fraud" and "self-dealing"
+      regarding the Mabel Amos Memorial Fund (MAMF).
+
+      *   The accusations stemmed from the fact that two children of Albritton received
+      $120,000 in tuition scholarships to the University of Texas while he served
+      on the board of a tax-exempt trust.
+
+      *   This conflict began after wildcatter Jed Clampit discovered crude oil (a
+      "mother load") on trust-owned land in Conecuh County in 2011-2013, causing millions
+      to flow into the trust and increasing scholarship payouts.
+
+      *   A civil suit was filed against Regions Bank for collecting over $1 million
+      in fees from the trust. Marshall attempted to join this case and publicly accused
+      Albritton of criminal offenses but did not open a criminal investigation.
+
+      *   A previous fight between Albritton and Marshall regarding whether the Ethics
+      Commission must provide exculpatory "Brady" evidence was resolved by state legislation,
+      leaving a legacy of tension between the AG''s office and the Ethics Commission.
+
+
+      THE DISCOVERY:
+
+      *   Attorney General Steve Marshall reversed his legal strategy in July 2023
+      to dismiss a student plaintiff (Tyra Lindsey) from the MAMF civil lawsuit, citing
+      conflicts of interest as reasons why he should not be involved.
+
+      *   The motion to dismiss was filed by Byron Mathews Jr., noting that Marshall''s
+      office had paid millions to the same attorneys representing Regions Bank, and
+      that Marshall received significant campaign funds from both Regions and these
+      lawyers.
+
+      *   Judge Johnny Hardwick was identified as having ruled on nearly none of the
+      70+ motions filed in the case, despite ruling on other cases during the same
+      period.
+
+      *   The Ethics Commission''s failure to disclose scholarship recipient names
+      after 2014, required by IRS 990 forms, compounded the suspicions of financial
+      impropriety and political maneuvering behind the scenes.
+
+
+      THE PIVOT:
+
+      *   The "smoking gun" for Main Article 1 is the public revelation that AG Steve
+      Marshall—a figure central to the "Ethics Commission... from top to bottom" corruption
+      narrative in Widget Article—was directly involved in a legal battle with the
+      Ethics Commission (Albritton) regarding self-dealing, yet failed to pursue criminal
+      charges.
+
+      *   The connection bridges the two articles because the political influence
+      described in the main article (e.g., "dark money," "thumb on the scale" in primary
+      elections, connections like Regions/Albritton/Marshall) is demonstrated by the
+      actual legal and financial ties between Alabama''s top law enforcement and ethics
+      regulators.
+
+      *   The presence of "Jed Clampit" (linked to DraftKings as per Main Article
+      1 context regarding Poarch Creek Indians/DraftKings speculations, though his
+      specific connection to the main article topics is tangential) highlights the
+      intersection of gambling interests, local land/wildcatter deals, and political/legal
+      manipulation.
+
+
+      KEY ENTITIES:
+
+      *   Tom Albritton (Executive Director, Ethics Commission; partner, Albritton
+      Law Firm)
+
+      *   Steve Marshall (Alabama Attorney General)
+
+      *   Mabel Amos Memorial Fund (MAMF)
+
+      *   Regions Bank (Bank officer John Bell; Trust manager; Legal defendant)
+
+      *   Tyra Lindsey (Student plaintiff)
+
+      *   Byron Mathews Jr. (Lindsey''s attorney)
+
+      *   Judge Johnny Hardwick (Presiding judge in the MAMF suit)
+
+      *   Jed Clampit (Wildcatter who found oil)
+
+      *   Mike Vann / Chris Elliott (State Senate candidates, Dist 32)
+
+      *   Matt McKenzie / Lowry (Sheriff candidates)'
+    widget_date: 2023-07-21
+    generated_at: '2026-09-02T00:36:41.967888Z'
+  lt-governor-ainsworth-breaks-with-governor:
+    brief: 'THE CONFLICT:
+
+
+      *   Governor Kay Ivey (R) fought for direct control of the Alabama Department
+      of Veterans Affairs (ADVA).
+
+      *   ADVA Commissioner Kent Davis (a retired Navy Rear Admiral serving since
+      2019) filed an ethics complaint in August 2024 against Department of Mental
+      Health Commissioner Kim Boswell. The complaint alleged Boswell improperly killed
+      an inter-agency agreement for $7 million in American Rescue Plan Act (ARPA)
+      funds intended for veteran mental health programs.
+
+      *   The Ethics Commission dismissed the complaint in August 2024, calling it
+      "entirely frivolous."
+
+      *   In September 2024, Ivey demanded Davis''s resignation and accused him of
+      mishandling grants and "weaponizing" the ethics process.
+
+      *   On October 19, 2024, the State Board of Veterans Affairs (SBVA) voted to
+      retain Davis against Ivey''s wishes.
+
+      *   On October 22, 2024, despite the board''s vote and without board approval,
+      Ivey fired Davis by exercising "supreme executive power." She immediately appointed
+      retired Brigadier General Jeffrey Newton as interim Commissioner.
+
+      *   SB67 (Veterans Affairs restructuring bill) was sponsored in the Senate by
+      Andrew Jones (R-Centre) and in the House by Edward Oliver (R-Dadeville). The
+      bill was carried at Ivey''s request to strip authority from the board, give
+      the Governor sole power to appoint a new board, and appoint the new Commissioner
+      without board input.
+
+      *   On February 5, 2025, during her State of the State Address, Ivey announced
+      plans to incorporate ADVA into her cabinet and restructure the board so veterans
+      "are best represented," arguing the new structure would create a "team player"
+      aligned with executive vision.
+
+
+      THE DISCOVERY:
+
+
+      *   On February 11, 2025, Alabama Lieutenant Governor Will Ainsworth (R), also
+      a Republican legislator, publicly broke ranks with Governor Ivey by releasing
+      a statement opposing SB67 and Ivey''s takeover of the Veterans Affairs department.
+
+      *   Ainsworth argued that "men and women who have actually worn a uniform should
+      remain in charge" rather than having the Commissioner hand-picked by the governor
+      alone as a "team player."
+
+      *   This marked the first public, vocal dissent from the Lieutenant Governor
+      against Ivey''s veterans agenda within the Republican leadership, directly contradicting
+      her narrative that this was a broad-based legislative reform to strengthen services.
+
+
+      THE PIVOT:
+
+
+      *   Article 1 presents a generalized grievance about judicial "pre-arranged"
+      appointments and lack of transparency in Alabama governance (e.g., Lang Floyd''s
+      appointment).
+
+      *   The Ainsworth statement in Article 2 is the "smoking gun" because it reveals
+      that the same power-grabbing political apparatus under Ivey was recently used
+      to unconstitutionally fire a veteran commissioner despite board approval, strip
+      his agency of independence, and centralize control.
+
+      *   It validates the podcast''s core critique that "good old boy" networks and
+      executive overreach are bypassing established legal or democratic checks (the
+      Board). The Ainsworth dissent shows this isn''t just theoretical: Ivey exercised
+      "supreme executive power" to override a voting board, creating precedent for
+      the "pre-arranged" nature of other appointments mentioned in Article 1.
+
+
+      KEY ENTITIES:
+
+
+      *   Kay Ivey (Alabama Governor, R)
+
+      *   Will Ainsworth (Alabama Lieutenant Governor, R)
+
+      *   Kent Davis (Retired Navy Rear Admiral / Former ADVA Commissioner)
+
+      *   Kim Boswell (Former Alabama Department of Mental Health Commissioner)
+
+      *   Jeffrey Newton (Retired Brigadier General / Interim ADVA Commissioner)
+
+      *   Andrew Jones (State Senator, R-Centre, SB67 Senate Sponsor)
+
+      *   Edward Oliver (State Representative, R-Dadeville, SB67 House Sponsor)
+
+      *   April Weaver (State Senator, R-Briarfield, SB67 Opposer)
+
+      *   Chris Elliott (State Senator, R-Josephine, SB67 Opposer)
+
+      *'
+    widget_date: 2025-02-12
+    generated_at: '2026-09-02T00:36:41.967891Z'
+  gambling-money-run-amok:
+    brief: 'THE CONFLICT:
+
+      - The Heart of Dixie Podcast panel criticized Alabama judicial appointments
+      in Baldwin County, specifically the appointment of Judge Lang Floyd. They alleged
+      these appointments were "pre-arranged," allowing incumbents to run unopposed
+      after early retirements, and that Judicial Inquiry Commission processes lack
+      transparency (Main Article).
+
+      - Gambling interests, specifically the American Conservative Fund linked to
+      DraftKings, are funded glossy mailers and ads for pro-gambling candidates in
+      Baldwin County, Madison/Huntsville (HD 50), and other areas. The panel argued
+      gambling money is "putting a thumb on the scale" in primary elections (Main
+      Article).
+
+      - Steve Raby was identified as a political consultant moving money for Republican
+      candidates in Alabama, potentially in violation of pack-to-pack transfer laws
+      (Widget Article).
+
+
+      THE DISCOVERY:
+
+      - Rep. Juandalynn Givens (House District 60) detailed ethics filing discrepancies
+      involving Joshua Coleman, an aide to Birmingham Mayor Randall Woodfin. Coleman
+      allegedly failed to disclose a 20% ownership stake in Iron City Communications,
+      a consulting firm receiving payments from Givens'' opponent (Lumpkin).
+
+      - Out-of-state gambling interests, including DraftKings, were identified as
+      funneling funds through PACs like SVB PAC to influence Alabama legislative races.
+      Steve Raby was described as the "key operator" moving this money.
+
+      - Rep. Givens discussed attack radio ads funded by a political group tied to
+      Woodfin, targeting her re-election campaign.
+
+
+      THE PIVOT:
+
+      - The Main Article posits that gambling interests and opaque PACs are funding
+      pro-gambling candidates in Baldwin County (where Judge Lang Floyd''s appointment
+      was criticized).
+
+      - The Widget Article provides the specific mechanism and actors (Steve Raby,
+      SVB PAC, DraftKings/Joshua Coleman/Iron City Communications) behind this alleged
+      "dark money" influence. It confirms the existence of the financial network the
+      Main Article suspects is corrupting local elections and judicial appointments.
+
+
+      KEY ENTITIES:
+
+      - Judge Lang Floyd
+
+      - Steve Raby
+
+      - DraftKings
+
+      - American Conservative Fund
+
+      - SVB PAC
+
+      - Joshua Coleman
+
+      - Iron City Communications
+
+      - Rep. Juandalynn Givens (Wanda Lynn Givens)
+
+      - Randall Woodfin
+
+      - Deborah Lumpkin
+
+      - Chris Elliott
+
+      - Mike Vann/Vanden Heuvel
+
+      - Matt McKenzie
+
+      - Lowry
+
+      - Grant Blackburn
+
+      - Whitney Scappecce'
+    widget_date: 2026-04-16
+    generated_at: '2026-09-02T00:36:41.967892Z'
   war:
     brief: 'THE CONFLICT: Judicial appointment process criticism in Baldwin County;
       pattern of judges appointed after early retirements and running unopposed; concerns
@@ -179,238 +519,6 @@ hooks:
       in Baldwin County where judges are hand-picked behind closed doors to keep the
       machine running smooth.
     character_count: 262
-  tiny-steps:
-    brief: 'THE CONFLICT:
-
-      - Judicial appointment controversies in Baldwin County.
-
-      - Allegations that appointments are "pre-arranged" and lack transparency.
-
-      - Local elections upcoming on May 19th, involving races like District 32 State
-      Senate (Mike Vann vs. Chris Elliott).
-
-
-      THE DISCOVERY:
-
-      - The Alabama Legislature failed to pass significant legislation, including
-      gambling/lottery bills, during the last session.
-
-      - Chris Elliott is linked to opposing funding for SAH (Strengthen Alabama Homes)
-      in 2021.
-
-      - Chip Brown introduced a bill in February to increase SAH funding; State Sen.
-      Chris Elliott stalled it, citing transparency concerns.
-
-      - Elliott was removed from the contractor program in 2016 due to accusations
-      of "profiling" and "cherry-picking."
-
-
-      THE PIVOT:
-
-      - Article 2 demonstrates a specific instance (SAH bill blockage) where an incumbent
-      politician, Chris Elliott, used his position (State Senator) against public
-      good/funding interests.
-
-      - This action mirrors the larger systemic concern raised in Article 1 regarding
-      political influence and "good old boy" networks undermining local governance
-      decisions.
-
-
-      KEY ENTITIES:
-
-      - Chris Elliott
-
-      - Mike Vann
-
-      - Chip Brown
-
-      - Brian Powell
-
-      - Baldwin County
-
-      - Alabama Legislature
-
-      - SAH (Strengthen Alabama Homes)
-
-      - DraftKings'
-    generated_at: '2026-04-11T00:10:51.348615Z'
-    text: Chris Elliott claims he cares about transparency, but his record shows he
-      only cares about control. He actively stalled home-strengthening funds for families
-      after getting kicked out of the program for his own shady profiling and cherry-picking
-      tactics.
-    character_count: 253
-  priorities:
-    brief: 'THE CONFLICT:
-
-      - Concerns raised regarding pre-arranged judicial appointments in Baldwin County,
-      citing examples like Lang Floyd''s appointment process lacking transparency.
-
-      - Allegations that local politics and judicial decisions favor political allies
-      or "good old boy" networks.
-
-
-      THE DISCOVERY:
-
-      - The Widget Article highlights the current need for a new, large County Jail
-      (near 1,000 beds) in Baldwin County, requiring hiring of 6 Deputy Sheriffs and
-      6 Correction Officers annually for 5 years, all supported by County Commission
-      action.
-
-      - It also points to Baldwin County Sewer Service expansion hearings at Fort
-      Morgan Road, noting local legislative inability to regulate the private utility.
-
-
-      THE PIVOT:
-
-      - Article 2 details concrete actions (County Jail hiring plans, specific infrastructure
-      approvals) taken by Baldwin County entities whose operations and staffing directly
-      influence judicial/law enforcement volume and resource needs, illustrating the
-      "local dynamics" mentioned in Article 1''s discussion of patronage and political
-      influence pathways.
-
-
-      KEY ENTITIES:
-
-      - Alabama Gaming Commission
-
-      - Baldwin County
-
-      - Lang Floyd
-
-      - Mike Vann
-
-      - Chris Elliott
-
-      - Matt McKenzie
-
-      - Lowry
-
-      - Fort Morgan Road
-
-      - ADEM
-
-      - County Commission'
-    generated_at: '2026-04-11T00:10:51.348621Z'
-    text: The same good old boy network that rigs judicial seats is now fast-tracking
-      a massive new jail for Baldwin County. They are building a patronage empire
-      where hiring cronies and approving private utility deals take priority over
-      actual justice or public oversight.
-    character_count: 263
-  flies-in-the-ointment:
-    brief: 'THE CONFLICT:
-
-      - General criticism exists regarding Alabama''s judicial appointment process
-      being "pre-arranged" and lacking transparency in Baldwin County.
-
-      - Article 1 discusses upcoming May 19th primaries for judges, state senate (Mike
-      Vann vs. Chris Elliott), school board, and county commissions.
-
-
-      THE DISCOVERY:
-
-      - Article 2 names specific individuals operating within the Baldwin County political
-      structure as "flies in the ointment."
-
-      - Specific officials named include Tucker Dorsey (County Commissioner), Judge
-      Michelle Thomason, Kevin Boone (Fairhope City Council), catalyst group members
-      including Scott Boone.
-
-      - Article 2 alleges that elected officials are controlled or aligned with the
-      "Catalyst" political group.
-
-
-      THE PIVOT:
-
-      - Article 1 raises general concerns about judicial/law enforcement decisions
-      favoring political allies and "good old boy" networks in Baldwin County.
-
-      - Article 2 moves from general allegation to specific evidence, naming Tucker
-      Dorsey, Judge Thomason, and Kevin Boone as examples of these politically connected
-      officials operating within the county structure.
-
-
-      KEY ENTITIES:
-
-      - Alabama Gaming Commission
-
-      - Bay Minette
-
-      - Lang Floyd
-
-      - Mike Vann
-
-      - Chris Elliott
-
-      - American Conservative Fund
-
-      - DraftKings
-
-      - Baldwin County
-
-      - Tucker Dorsey
-
-      - Michelle Thomason
-
-      - Kevin Boone
-
-      - Catalyst
-
-      - Scott Boone
-
-      - Grant Blackburn
-
-      - Whitney Scappecce'
-    generated_at: '2026-04-11T00:10:51.348626Z'
-    text: Rumors of a rigged judicial system in Baldwin County aren't just talk. They
-      have specific names and faces. Officials like Tucker Dorsey and Judge Michelle
-      Thomason operate as the local muscle for CATALYST to ensure the machine stays
-      in total control.
-    character_count: 250
-  bonum-est-faciet-2022:
-    brief: 'THE CONFLICT:
-
-      * Concerns regarding non-competitive judicial appointments in Baldwin County;
-      mentions Lang Floyd''s appointment process.
-
-      * Allegations within Article 1 that local politics favors political allies and
-      "Good Old Boy" networks.
-
-
-      THE DISCOVERY:
-
-      * Widget Article reveals Robert A Bob Wills (Mayor of Bay Minette) has available
-      office space relevant to the Baldwin County Legislative Delegation, implying
-      possible conflicts or undue influence in county matters.
-
-      * Widget Article names Chris Elliott as a person associated with certain news/political
-      circles (Yellow Hammer News, Alabama Political Reporter).
-
-
-      THE PIVOT:
-
-      * Article 1 discusses political networks benefiting from appointments and local
-      dynamics; Article 2 directly connects named individuals (like Chris Elliott)
-      to specific local power structures in Baldwin County (Bay Minette Mayor/Delegation
-      office rentals), suggesting these "networks" are operating locally.
-
-
-      KEY ENTITIES:
-
-      * Lang Floyd
-
-      * Baldvin County Commission
-
-      * Robert A Bob Wills
-
-      * Bay Minette
-
-      * Chris Elliott'
-    generated_at: '2026-04-11T00:10:51.348631Z'
-    text: Power in Bay Minette isn't found in the courthouse, but in the private offices
-      where political deals are cut. Chris Elliott sits at the center of this web,
-      using his connections to local mayors and media mouthpieces to keep the county’s
-      rigged system alive.
-    character_count: 257
   trump-n-bama:
     brief: 'THE CONFLICT:
 
@@ -476,49 +584,130 @@ hooks:
       Karol Kemp and Michael Hoyt are moving into position to ensure the local bench
       remains a closed shop.
     character_count: 264
-  bsp-128:
+  stealing-from-kids:
     brief: 'THE CONFLICT:
 
-      *   Concerns about judicial appointments in Baldwin County being "pre-arranged"
-      rather than competitive.
+      - Alabama''s judicial appointment process in Baldwin County is described as
+      "pre-arranged" rather than competitive.
 
-      *   Allegations that political networks influence local decisions favoring allies
-      over merit, discussed generally around upcoming May 19th primaries (judges,
-      state senate, county commissions).
+      - Judges were appointed after early retirements and ran unopposed, including
+      Lang Floyd.
+
+      - The Judicial Inquiry Commission lacks transparency and public input.
+
+      - Upcoming May 19th primaries target judges, state senate (Mike Vann vs. Chris
+      Elliott), school boards, and county commissions.
 
 
       THE DISCOVERY:
 
-      *   Novelis is building a $2.5 Billion low-carbon aluminum plant in Bay Minette,
-      Baldwin County.
+      - Tom Albritton, Executive Director of the Alabama Ethics Commission, maintains
+      his position despite "criminal behavior."
 
-      *   Baldwin County Commission Meeting involved the repeal of the Comprehensive
-      Plan.
+      - Judge Johnny Hardwick has not ruled on nearly 70 motions in the case involving
+      Albritton.
+
+      - The case is referred to as a "soap opera" with allegations of political maneuvering
+      and lack of transparency/accountability in any settlement.
 
 
       THE PIVOT:
 
-      *   Article 1 discusses political influence, "Good Old Boy" networks, and decision
-      pathways favoring allies. Article 2 provides a concrete example of large-scale
-      local governance actions (major economic development deals, comprehensive plan
-      repeal) happening within Baldwin County—the exact location flagged for appointment
-      controversies and political network discussions in Article 1.
+      - Article 2 reveals systemic judicial delays and suspected whitewashing by the
+      very Ethics Commission meant to police corruption, mirroring the "pre-arranged"
+      outcomes cited in Article 1.
+
+      - The stagnation under Judge Hardwick serves as evidence that Alabama''s judiciary
+      prioritizes settlement over accountability, reinforcing the claim that judges
+      protect political allies rather than fiduciaries.
 
 
       KEY ENTITIES:
 
-      *   Baldwin County
+      - Lang Floyd (Judge)
 
-      *   Bay Minette
+      - Tom Albritton (Executive Director of Ethics Commission)
 
-      *   Novelis
+      - Judge Johnny Hardwick (Civil Court Judge)
 
-      *   Lance LaCour
+      - Mike Vann (Candidate for State Senate District 32)
 
-      *   Chambers of Commerce'
-    generated_at: '2026-04-11T00:10:51.348641Z'
-    text: The Baldwin County Commission just cleared the deck for big developers by
-      nuking the local comprehensive plan. This massive shift for the Novelis project
-      proves that when billions are on the line, the good old boys will rewrite any
-      rule to favor their preferred corporate partners.
-    character_count: 281
+      - Chris Elliott (Incumbent State Senator, District 32)
+
+      - Matt McKenzie (Candidate for Sheriff)
+
+      - Lowry (Incumbent Sheriff, referenced as "Lowry" in text, prompt notes "Lowery")
+
+      - Grant Blackburn (Candidate for District Judge)
+
+      - Whitney Scappecce (Candidate for School Board District 5)
+
+      - Brock (Candidate for County Commission District 3)
+
+      - Kay Ivey (Governor of Alabama)
+
+      - American Conservative Fund / DraftKings
+
+      - Poarch Creek Indians
+
+      - EPA, Silicon Ranch'
+    widget_date: 2023-11-04
+    generated_at: '2026-09-02T00:36:41.967893Z'
+  reading-in-the-rain:
+    brief: 'THE CONFLICT:
+
+      - Bob Riley administration exploited state influence regarding Exxon-Mobil tax
+      dispute ($3.1 billion owed) via Riley Jr. serving Exxon-Mobil; resulting award
+      diminished to $51 million (past corruption example).
+
+
+      THE DISCOVERY:
+
+      - Current political environment in Baldwin County is dominated by a "Cabal"
+      embedded in government and judiciary.
+
+      - Pro-gambling interests, specifically linked to American Conservative Fund/DraftKings,
+      are influencing primary elections across Alabama.
+
+
+      THE PIVOT:
+
+      - Article 2 establishes a historical precedent of powerful, entrenched cabals
+      leveraging political influence (e.g., Riley''s family involvement with Exxon)
+      for massive financial gain in the state. This sets a framework demonstrating
+      that systemic corruption is possible and recurring, directly relating to Article
+      1''s concerns about current judicial appointments and gambling industry influence
+      ("thumb on the scale").
+
+
+      KEY ENTITIES:
+
+      - Bob Riley
+
+      - Rob Jr. (Riley)
+
+      - Exxon-Mobil
+
+      - Albert Patterson
+
+      - Frank Tennille
+
+      - Big Jim Folsum
+
+      - Choctaw Indians
+
+      - Eric Holder
+
+      - Big Luther Strange
+
+      - Baldwin County
+
+      - Thomas Gallion
+
+      - Chris E. Warner'
+    generated_at: '2026-04-11T00:10:51.348582Z'
+    text: The Riley family turned state influence into a billion-dollar payday for
+      Exxon while the public got pennies. This old-school corruption provides the
+      perfect roadmap for the current Baldwin County cabal as they sell out our local
+      courts to gambling interests.
+    character_count: 258

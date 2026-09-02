@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2b4134deb6efc4a-MIA
+Cf-Ray: a34fecc6fc9fb4aa-MIA
 Content-Type: application/json
-Date: Sat, 15 Aug 2026 00:27:46 GMT
+Date: Wed, 02 Sep 2026 22:24:26 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OKZtAB3N8zehOyTit6ggrP%2BTf6%2Bl5jdphM7TqplqPF7RDrewFnltVcerly2ySeBfbEnEMIsMn%2FVMrhjzfFqYqe6yz1OOeDYoje2zRQzGOpTmT4i4sYHnEQXRX6Ea5%2BGKJ1eu2yfdpobEqbl5PrVZX%2B%2FXAw%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UCzVKImIY%2F2wcTKvdhriLnUwa8sIxaMPDt974SuvAjm6BT7A4ATR0a%2FgvuwuBmCXxeLsopGEQKbo%2B6TMmJ2c58vaMdbI55GdE7B7amdByLlDu0f%2F0gcywTLfPGpOl2i8UoyT3TgKh5R%2BfS7EWyp3kncOYA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=572
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=236
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 554b75cad539afe54320330ad904b973
-X-Etags-2: 554b75cad539afe54320330ad904b973
+X-Etags-1: 9747564a07540c691a7eae058552bb02
+X-Etags-2: 9747564a07540c691a7eae058552bb02
 
-{"title":"Fairhope, Spanish Fort eye September referendum on school tax (updated)","description":"Agreeing to a few minor revisions last week, the Spanish Fort Town Council became the second Eastern Shore municipality within a month to send a resolution to the Baldwin County","url":"https://www.lagniappemobile.com/news/fairhope-spanish-fort-eye-september-referendum-on-school-tax-updated/article_62e27e28-0a22-5ef2-bedd-42f93d7d4fd1.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/e/7e/e7ea2df9-499a-58d5-8048-f28b0e51b728/631a196cd16a4.image.jpg?crop=1100%2C578%2C0%2C422","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/news/fairhope-spanish-fort-eye-september-referendum-on-school-tax-updated/article_62e27e28-0a22-5ef2-bedd-42f93d7d4fd1.html","wasRedirected":false}
+{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/news/fairhope-spanish-fort-eye-september-referendum-on-school-tax-updated/article_62e27e28-0a22-5ef2-bedd-42f93d7d4fd1.html","title":"Preview unavailable","description":"Could not fetch preview data"}

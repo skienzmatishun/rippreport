@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a0e815a9f23cea-MIA
+Cf-Ray: a34febc558b4b4aa-MIA
 Content-Type: application/json
-Date: Wed, 12 Aug 2026 16:37:47 GMT
+Date: Wed, 02 Sep 2026 22:23:46 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=S2MEynI8qs6boK6owp6DPjTJgkKUb%2FwwaxxKwBQgUm9JCtILEaxy8mXGR8BQDjLYSfGTFqUA7SbTTvkveWzBBD9q3L5RmaRFgF8Yb9DYF2HLrdCa1J5xFPIzE4w3b6ISfFVepedqvaRouht8jYX9dxpfpw%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XaYMbV3XQfysKdMRJWAmnKctV0c9JB7gXuLHn4XVkBmNqWkq1TmHijvrb%2BqsjfwGwGPSr5qDjhyBL4txiySLL5i4gYbRdcbsl%2Bj%2FrrZlg6WN%2FyGWHmMtKaTHjALdifYH2X%2BXXpT7isfUzrLFXG%2F51LiAbg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=792
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=758
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: db5a0fc34cd54a1088f86b1d5b72f313
-X-Etags-2: db5a0fc34cd54a1088f86b1d5b72f313
+X-Etags-1: 1615d202c84f408afd06d6f54fe00595
+X-Etags-2: 1615d202c84f408afd06d6f54fe00595
 
-{"title":"Marina Channel Dredging Plan Approved","description":"Community news and events in Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2025/11/marina-channel-dredging-plan-approved.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUMCirbsn8KHi6EC_jxwTf31fuF5D53OeC2UuTwmdRpwTFQPL9TS6FtUloxBGpBMWzJ1XqvMMl_frUcOUr0rMU2KhXsK0rk2s2RfTMFr6BjeO_B8afQghk9SkOvQNyoEPtXQF1N5-0kE23WPHTjnw5AxNjKWsmjGWeC-XUs_gSjAnY6iS_pkXEQsCRI-A/w1200-h630-p-k-no-nu/DSCF8351.JPG","charset":"utf-8"}
+{"title":"Marina Channel Dredging Plan Approved","description":"Community news and events in Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/2025/11/marina-channel-dredging-plan-approved.html","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUMCirbsn8KHi6EC_jxwTf31fuF5D53OeC2UuTwmdRpwTFQPL9TS6FtUloxBGpBMWzJ1XqvMMl_frUcOUr0rMU2KhXsK0rk2s2RfTMFr6BjeO_B8afQghk9SkOvQNyoEPtXQF1N5-0kE23WPHTjnw5AxNjKWsmjGWeC-XUs_gSjAnY6iS_pkXEQsCRI-A/w1200-h630-p-k-no-nu/DSCF8351.JPG","charset":"utf-8","originalUrl":"https://thefairhopetimes.blogspot.com/2025/11/marina-channel-dredging-plan-approved.html","wasRedirected":false}

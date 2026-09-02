@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a0e814dfc03cea-MIA
+Cf-Ray: a34febcd3d88b4aa-MIA
 Content-Type: application/json
-Date: Wed, 12 Aug 2026 16:37:46 GMT
+Date: Wed, 02 Sep 2026 22:23:47 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aebZYalO9lqiROfMc7NJO%2By6O28mzk07gKftKk1X1KNLYsz7sGXmp%2Br%2BZkp0sMh2zfwQZjTD4xnLY4RAzAjIts%2BZwFFmXPNTYDattVrlLFupClEF29VLFm0tUcch%2F1uwKqPFXje3i2cPQR8oqDZ9YXc04w%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mOuIt6iRlDWY8fUF5uiLPqANi%2BLoMAwsbtVOUM7iZep5UD3sXhnMsT8ySk3TWQIWZJeLMsBjzJ2x9Jzs4l%2FuLoyDLHHLz4M4w14s%2FxyW9Mih%2F6GdmDdHqmgu71X85%2FdnvqBB5E9YWL5pPupPVAu6pOwakA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=428
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=381
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 4c7437bb5618682b369917dd12feb0cc
-X-Etags-2: 4c7437bb5618682b369917dd12feb0cc
+X-Etags-1: 49bd9747d487d1b77e42a1b5702eca51
+X-Etags-2: 49bd9747d487d1b77e42a1b5702eca51
 
-{"title":"KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 2","description":"In our coverage of the 28th Judicial Circuit judge race, we detail how candidate Kristi Hagood lacks the competence to sit on the bench. Hagood hid crucial evidence as a prosecutor and helped lock up an innocent man for over twenty years. Voters must reject Hagood and elect Jeremiah Giles to stop prosecutor misconduct in our courthouses.","url":"https://rippreport.com/p/kristy-haygood-is-not-qualified-2/","image":"https://rippreport.com/img/kristy-hagood-is-not-qualified-2.png","charset":"utf-8"}
+{"title":"KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 2","description":"In our coverage of the 28th Judicial Circuit judge race, we detail how candidate Kristi Hagood lacks the competence to sit on the bench. Hagood hid crucial evidence as a prosecutor and helped lock up an innocent man for over twenty years. Voters must reject Hagood and elect Jeremiah Giles to stop prosecutor misconduct in our courthouses.","url":"https://rippreport.com/p/kristy-haygood-is-not-qualified-2/","image":"https://rippreport.com/img/kristy-hagood-is-not-qualified-2.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/kristy-haygood-is-not-qualified-2/","wasRedirected":false}

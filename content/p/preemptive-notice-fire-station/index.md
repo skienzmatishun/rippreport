@@ -2,7 +2,7 @@
 title: "Preemptive Notice: Parker Road Fire Station"
 date: 2015-09-15
 description: "Fairhope's fourth attempt to place a fire station on dangerous Parker Road intersection reveals Arthur Corte's development plans and Mayor Kant's corruption."
-tags: ["archive", "historical", "parker-road", "arthur-corte", "tim-kant", "fly-creek", "fire-station"]
+tags: ["parker-road", "arthur-corte", "tim-kant", "fly-creek", "fire-station"]
 thumbnail: img/preemptive-notice-fire-station.png
 ---
 

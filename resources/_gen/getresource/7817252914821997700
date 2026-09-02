@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2b413348f54fc4a-MIA
+Cf-Ray: a34fec17cc23b4aa-MIA
 Content-Type: application/json
-Date: Sat, 15 Aug 2026 00:27:42 GMT
+Date: Wed, 02 Sep 2026 22:24:00 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aF0rPwOE1%2FX3PAzmikVkDCVUQM60z3tDEdbHjchrubf0xrwqYWhWkuRmeJzejnmkqCk6cusMZBNIVwUNArBOsHT1p2oWasW%2BOm7i9521jBGQdMg4UimwYMk0B7CH%2F8%2FbA79%2BQp2NhXfRyh49XGuutxo1mg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VQi2j2GUhaYBE1CRnAPJmhz10nkoSoiV3eT3jJOf3TpFzLNs8TcSBEahSJcmLK8j%2BA37HdIkVWSKbIyvbqpGj0mRCUCISnIggcm7VF71Nx2ffcJPPcOAGkN8slrHX1zOPV8PHZWwf3wtw%2FS9H0XtkoUTmg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=644
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=1349
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: b37d7b1d9a08632254b089a6e0114bcf
-X-Etags-2: b37d7b1d9a08632254b089a6e0114bcf
+X-Etags-1: 1a5c246576546dac56dae713ddccccea
+X-Etags-2: 1a5c246576546dac56dae713ddccccea
 
-{"error":"Upstream returned 429","url":"https://www.youtube.com/watch?t=3602","title":"Preview unavailable","description":"Could not fetch preview data"}
+{"title":"YouTube is not currently available on this device.","description":"To learn more, please visit the YouTube Help Center: https://www.youtube.com/help","url":"https://www.youtube.com/watch?v=9xp1XWmJ_Wo","image":"https://i.ytimg.com/vi/9xp1XWmJ_Wo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAs9YunhmCZvNCUXY_lxSowLVfvVA","charset":"utf-8","originalUrl":"https://www.youtube.com/watch?t=3602","wasRedirected":false}

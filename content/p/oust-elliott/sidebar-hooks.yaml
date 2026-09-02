@@ -1,71 +1,11 @@
 metadata:
-  generated_at: '2026-08-15T23:38:09.649466Z'
+  generated_at: '2026-09-01T20:25:39.029141Z'
   generator_version: 1.0.0
   post_slug: oust-elliott
+  main_date: 2026-04-13
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
-  foot-in-his-mouth:
-    brief: '**THE CONFLICT:**
-
-      *   Mike Vandenheuvel (Mike Van) challenged State Senator Chris Elliott in Baldwin
-      County, alleging unethical/dirty political practices.
-
-      *   The Ripp Report previously alleged Elliott’s connection to gaming interests
-      and the formation of Catalyst and the GOB of Baldwin.
-
-      *   Allegations regarding Elliott''s knowledge of solar fields were previously
-      reported by The Ripp Report.
-
-
-      **THE DISCOVERY:**
-
-      *   Chris Elliott is characterized as a professional politician who serves as
-      a "legislature puppet" for the Baldwin County Sheriff department (specifically
-      mentioned: Hoss Mack, Anthony Lowery).
-
-      *   Elliott repeatedly bypasses proper legislative processes and fails to provide
-      adequate review or notice regarding bills.
-
-      *   Elliott has passed legislation that benefited developers while lacking constitutional
-      oversight ("passed while constitutions were asleep").
-
-      *   Elliott frequently makes false statements, including claims about Mayors
-      in Baldwin County endorsing him.
-
-
-      **THE PIVOT:**
-
-      *   The Widget Article provides documented evidence of a consistent and long-term
-      pattern of political misconduct (puppetry for law enforcement/developers; legislative
-      maneuvering) that extends beyond the single conflict cited by Mike Van.
-
-      *   It supports the initial general allegation from Article 1—that Elliott is
-      a "sneaky dirty politician"—by detailing multiple instances of abuse of power
-      within local government structure.
-
-
-      **KEY ENTITIES:**
-
-      *   Chris Elliott (State Senator, Candidate)
-
-      *   Mike Vandenheuvel (Mike Van) (Candidate)
-
-      *   Baldwin County Sheriff’s department
-
-      *   Hoss Mack (Sheriff/Former official)
-
-      *   Anthony Lowery (Sheriff/Official)
-
-      *   Catalyst
-
-      *   GOB (Good Ole Boys of Baldwin)
-
-      *   Baldwin County Legislature'
-    generated_at: '2026-04-13T19:41:14.572838Z'
-    text: Mike Van calls Chris Elliott a dirty politician, but he barely scratched
-      the surface of this puppet show. Evidence proves Elliott bypasses the law to
-      serve Sheriff Hoss Mack and developers while lying about who actually supports
-      his crooked career.
-    character_count: 248
   some-things-never-change:
     brief: '**THE CONFLICT:**
 
@@ -141,6 +81,221 @@ hooks:
       officials like Sherry Sullivan, use your gas tax money to buy back the power
       they lost.
     character_count: 241
+  good-ole-boys-lose-front-teeth:
+    brief: 'THE CONFLICT:
+
+      - Mike Vandenheuvel (aka "Mike Van") is challenging incumbent Alabama State
+      Senator Chris Elliott in the 2026 Republican primary for Baldwin County Senate
+      District 32.
+
+      - The Ripp Report (April 13, 2026) describes a "hit piece" mailed flier targeting
+      Mike Van, claiming Elliott was "a sneaky dirty politician."
+
+      - The article states that Elliott''s shadow PACs (Catalyst/Scott Boone Consulting)
+      smeared Mike Van with false or exaggerated allegations, including calling him
+      a "lying dirt bag politician" and "self serving christian hypocrite," which
+      is denied by the Ripp Report.
+
+      - Chris Elliott is accused of taking money from gaming interests and having
+      ambitions to become Alabama''s gaming commissioner.
+
+      - The solar field issue: The Ripp Report claims Elliott knew about the proposed
+      4,500-acre solar development (Silicon Ranch, powering a Meta data center in
+      Montgomery) near Stockton/Baldwin County "a very long time ago," while his public
+      stance opposed it or was silent.'
+    widget_date: 2025-08-27
+    generated_at: '2026-09-01T20:25:39.031577Z'
+  end-the-good-ole-boy-culture-in-baldwin-county:
+    brief: "THE CONFLICT: \n- Mike Van (aka \"Mike Vandenheuvel\") challenged State\
+      \ Senator Chris Elliott in a 2018 Alabama Senate election campaign.\n- Elliott\
+      \ was accused by Van's opponents of being a dirty politician, self-serving Christian\
+      \ hypocrite, and head of the \"Catalyst\" good ole boys network.\n- Elliott's\
+      \ alleged connections included gaming interests and ambition to become the Alabama\
+      \ Gaming Commissioner.\n- The Ripp Report had previously exposed Elliott's connection\
+      \ to solar field development (\"solar fields\") that Elliott knew about long\
+      \ before it happened (implying insider knowledge/earmarking).\n- Van refrained\
+      \ from using these specific allegations in his campaign, choosing the \"high\
+      \ road\" while leaving Elliott in the \"mud.\"\n\nTHE DISCOVERY: \n- The widget\
+      \ article documents the history of the \"Catalyst\" network in Baldwin County.\n\
+      - Original group was Stacy, Elliot (Chris Elliott), and Haygood formed.\n- Chris\
+      \ Elliott became a county commissioner; Haygood became Mayor of Daphne.\n- Once\
+      \ elected, the group rebranded as \"Catalyst.\"\n- After public scrutiny increased,\
+      \ Catalyst rebranded again to Scott Boone Consulting.\n- The article states:\
+      \ \"IF it is a Scott Boone candidate then they are confirmed CATALYST.\"\n-\
+      \ Former Sheriff Hoss Mack was described as the \"driving force\" of all named\
+      \ groups, putting Judges and Mayors in office.\n- Hoss retired and handed over\
+      \ control to Anthony Lowery (new sheriff), who also retained responsibility\
+      \ to maintain good ole boy connections.\n- The article claims some Mayors/Judges\
+      \ have been in office 15, 20, or 30+ years, making the system ripe for corruption.\n\
+      \nTHE PIVOT: \nArticle 2 is the \"smoking gun\" because it confirms what Van's\
+      \ flier was trying to prove but chose not to state directly: Chris Elliott IS\
+      \ a confirmed member of the Catalyst good ole boys network, currently operating\
+      \ under the Scott Boone Consulting banner. It provides the historical chain\
+      \ (Stacy/Elliot/Haygood → Catalyst → Scott Boone Consulting) and identifies\
+      \ the current steward (Sheriff Anthony Lowery, former Sheriff Hoss Mack). It\
+      \ validates the Ripp Report's earlier claim that Elliott \"knew about the solar\
+      \ fields a very long time ago\" by establishing his longstanding influence in\
+      \ Baldwin County politics through this network.\n\nKEY ENTITIES: \n- Chris Elliott\
+      \ (Alabama State Senator; original Catalyst member; former county commissioner)\n\
+      - Mike Van / Mike Vandenheuvel (Elliot's challenger)\n- Lynn Stacy (founding\
+      \ member of Stacy/Elliot/Haygood)\n- Haygood (founding member; Mayor of Daphne)\n\
+      - Scott Boone Consulting (current operating name for the Catalyst network)\n\
+      - Hoss Mack (former Baldwin County Sheriff; driving force of the group)\n- Anthony\
+      \ Lowery (current Baldwin County Sheriff; successor to Hoss Mack)\n- Doug Snow\
+      \ (administrator of Baldwin County Citizens for Accountability)\n- Brad Bass\
+      \ (Mayor candidate, Spanish Fort)\n- Angie Swiger (Gulf Shores Mayor candidate)\n\
+      - Craft (Gulf Shores incumbent, \"put on a raft\")"
+    widget_date: 2025-08-25
+    generated_at: '2026-09-01T20:25:39.032504Z'
+  good-news:
+    brief: 'THE CONFLICT:
+
+      - Mike Vandenheuvel ("Mike Van") challenged State Senator Chris Elliott in an
+      upcoming election.
+
+      - Vandenheuvel mailed a flier/campaign hit piece against Elliott, which the
+      Main Article frames as "high road" because it avoided naming specific charges
+      directly; the Ripp Report claims they previously documented those allegations.
+
+      - The main charge: Elliott allegedly knows about Baldwin County solar fields
+      "a very long time ago."
+
+      - Past local political context referenced: Bob Wills was voted out of office
+      in Bay Minette after a GOB-aligned term; his investigation (Steelwood, a pipeline
+      company) is still pending.
+
+
+      THE DISCOVERY:
+
+      - The GOB network (Good Ole Boys) in Baldwin County is "eroding and panicking"
+      due to pushback from the 14 incorporated municipalities.
+
+      - In the last election, voters flipped 4 GOB-controlled municipalities; Bay
+      Minette''s loss of Bob Wills was the largest win.
+
+      - Catalyst (formerly Scott Boone Consulting), identified as a "political manipulator,"
+      teamed with Jon Grey to represent Baldwin County GOB candidates for the upcoming
+      primary.
+
+      - Billie Jo Underwood posted campaign signs late and hired Scott Boone, marking
+      her as a GOB-aligned candidate.
+
+      - Chris Elliott is described as having daily communications with the sheriff''s
+      office; his communication director is his wife, who works for the sheriff department
+      (described as a "perk of being a GOB").
+
+
+      THE PIVOT:
+
+      - Article 2 provides the organizational context ("the under-the-rock" network)
+      that makes Vandenheuvel''s omission in Article 1 the main article’s central
+      criticism.
+
+      - It explicitly names Catalyst/Scott Boone Consulting as the hidden political
+      operator behind Baldwin County candidates, including Elliott, and ties the "snake
+      head" narrative (Catalyst vs. GOB politicians) directly to Elliott.
+
+      - It confirms that Vandenheuvel did NOT call Elliott "the head of the snake
+      known as Catalyst," i.e., he avoided the specific accusation the Ripp Report
+      alleges they made earlier.
+
+
+      KEY ENTITIES:
+
+      - Mike Vandenheuvel / "Mike Van" (challenger)
+
+      - Chris Elliott (State Senator, GOB-linked)
+
+      - Hoss Mack (GOB member; described as "gone" with his own problems at a new
+      job; alleged rival for "head of the snake")
+
+      - Bob Wills (former mayor of Bay Minette, voted out)
+
+      - Harry Still (associated with Mayor Wills investigation; wants to be silenced)
+
+      - Scott Boone / Catalyst (formerly Scott Boone Consulting; political manipulator;
+      hired by Billie Jo Underwood)
+
+      - Jon Grey (political operator; represents GOB candidates for primary)
+
+      - Anthony Lowery (wrongful conviction investigator re: Murray Lawrence Jr.;
+      previously voted out; GOB-aligned)
+
+      - Jerry Carl (previously voted out; GOB-aligned; competing with Lowery)
+
+      - Billie Jo Underwood (GOB-affiliated candidate who hired Scott Boone)
+
+      - B.P. Pittman (referred to as a comparison; "Elliott... is worse than B.P.
+      Pittman")
+
+      - Murray Lawrence Jr. (wrongfully convicted, referenced for Lowery/Carl criticism)
+
+      - Doug Snow (social media administrator for Baldwin County Citizens for Accountability)'
+    widget_date: 2026-03-12
+    generated_at: '2026-09-01T20:25:39.032512Z'
+  foot-in-his-mouth:
+    brief: '**THE CONFLICT:**
+
+      *   Mike Vandenheuvel (Mike Van) challenged State Senator Chris Elliott in Baldwin
+      County, alleging unethical/dirty political practices.
+
+      *   The Ripp Report previously alleged Elliott’s connection to gaming interests
+      and the formation of Catalyst and the GOB of Baldwin.
+
+      *   Allegations regarding Elliott''s knowledge of solar fields were previously
+      reported by The Ripp Report.
+
+
+      **THE DISCOVERY:**
+
+      *   Chris Elliott is characterized as a professional politician who serves as
+      a "legislature puppet" for the Baldwin County Sheriff department (specifically
+      mentioned: Hoss Mack, Anthony Lowery).
+
+      *   Elliott repeatedly bypasses proper legislative processes and fails to provide
+      adequate review or notice regarding bills.
+
+      *   Elliott has passed legislation that benefited developers while lacking constitutional
+      oversight ("passed while constitutions were asleep").
+
+      *   Elliott frequently makes false statements, including claims about Mayors
+      in Baldwin County endorsing him.
+
+
+      **THE PIVOT:**
+
+      *   The Widget Article provides documented evidence of a consistent and long-term
+      pattern of political misconduct (puppetry for law enforcement/developers; legislative
+      maneuvering) that extends beyond the single conflict cited by Mike Van.
+
+      *   It supports the initial general allegation from Article 1—that Elliott is
+      a "sneaky dirty politician"—by detailing multiple instances of abuse of power
+      within local government structure.
+
+
+      **KEY ENTITIES:**
+
+      *   Chris Elliott (State Senator, Candidate)
+
+      *   Mike Vandenheuvel (Mike Van) (Candidate)
+
+      *   Baldwin County Sheriff’s department
+
+      *   Hoss Mack (Sheriff/Former official)
+
+      *   Anthony Lowery (Sheriff/Official)
+
+      *   Catalyst
+
+      *   GOB (Good Ole Boys of Baldwin)
+
+      *   Baldwin County Legislature'
+    generated_at: '2026-04-13T19:41:14.572838Z'
+    text: Mike Van calls Chris Elliott a dirty politician, but he barely scratched
+      the surface of this puppet show. Evidence proves Elliott bypasses the law to
+      serve Sheriff Hoss Mack and developers while lying about who actually supports
+      his crooked career.
+    character_count: 248
   elliott-history-lesson:
     brief: '**THE CONFLICT:**
 
@@ -207,6 +362,228 @@ hooks:
       from the Sheriff, Elliott ignores the law to cut dirty property deals with the
       Poarch Creek Indians.
     character_count: 252
+  a-reckoning-is-predicted:
+    brief: "THE CONFLICT:\n- Mike Vandenheuvel (\"Mike Van\") is challenging State\
+      \ Senator Chris Elliott in his final term.\n- A mailed flier (Ripp Report hit\
+      \ piece) accused Elliott of being \"a sneaky dirty politician,\" the head of\
+      \ the \"Catalyst\" and \"good ole boys (GOB)\" of Baldwin, connected to gaming\
+      \ interests, and ambitious to become Alabama Gaming Commissioner.\n- Mike Van\
+      \ publicly refrained from using these accusations in his own campaign materials,\
+      \ taking a \"high road.\"\n- Chris Elliott was previously exposed by the Ripp\
+      \ Report for knowing about solar fields long ago.\n- Past elections: Sheriff\
+      \ Anthony Lowery won against Matt McKenzie with five times the money of his\
+      \ opponent; former Sheriff Hoss Mack allegedly supported Lowery.\n\nTHE DISCOVERY:\n\
+      Article 2 reveals:\n- Elliott’s secret ambition to become Director of Gaming\
+      \ for the State of Alabama is \"no longer a secret.\"\n- The Ripp Report previously\
+      \ notified ALEA that Hoss Mack was trying to become head of ALEA.\n- Murray\
+      \ Lawrence Jr.'s case documents (transcript, case records) and an audio book\
+      \ expose involvement by:\n  - Anthony Lowery: Lead investigator who found \"\
+      not one shred of evidence.\"\n  - Robert Wilters: District Attorney / trial\
+      \ judge for Lawrence; architect and recruiter of Judge Kristi Hagood.\n  - Hoss\
+      \ Mack: Sheriff during the Lawrence case; now alleged to be \"over-sheriff\"\
+      \ to Lowery and shadow puppet behind him.\n  - David Whitstone: Retired DA/prosecutor\
+      \ described as \"worst of the worst.\"\n  - Kristi Hagood: New judge endorsed\
+      \ by top GOB figures; qualified for GOB service, not a judgeship; her consultants\
+      \ Jon Gray and Scott Boone prioritized fees over credentialing.\n- The book\
+      \ is with a publisher and a TV documentary is in progress; national attention\
+      \ is expected outside GOB control.\n\nTHE PIVOT:\nArticle 2 is the \"smoking\
+      \ gun\" for Article 1 because:\n- It directly confirms Elliott’s gaming ambition\
+      \ and \"Catalyst\"/GOB alignment mentioned in Mike Van’s flier, validating Elliott\
+      \ as a known corrupt figure rather than a neutral candidate.\n- It documents\
+      \ the systemic network (Lowery, Wilters, Hagood, Mack, Whitstone) behind the\
+      \ wrongful conviction of Murray Lawrence Jr., showing how GOB machinery protects\
+      \ allies from accountability—including judges and prosecutors.\n- It exposes\
+      \ Elliott’s solar field connections, which are cited as evidence he knew about\
+      \ solar fields before Mike Van's campaign flier; Article 2 ties this to his\
+      \ gambling interests and PAC/dark money use that will \"do him in\" in his final\
+      \ term.\n- It implies that any accountability from the Ripp Report on Elliott\
+      \ (solar, gaming, GOB) is backed by documentary proof of GOB self-promotion\
+      \ through the Lawrence case, undermining Mike Van’s \"high road\" restraint\
+      \ as insufficient against proven corruption.\n\nKEY ENTITIES:\n- Chris Elliott\
+      \ (State Senator, final term, Gaming Commissioner ambition, solar fields connection,\
+      \ GOB/Catalyst)\n- Mike Vandenheuvel / Mike Van (challenger to Elliott)\n- Anthony\
+      \ Lowery (Sheriff; winner vs. Matt McKenzie by money; lead Lawrence investigator)\n\
+      - Hoss Mack (\"Little Hoss\"; former Sheriff; ALEA ambitions; shadow control\
+      \ of BCSO; key figure in GOB hierarchy)\n- Matt McKenzie (opponent to Lowery\
+      \ who lost despite lower funding)\n- Robert Wilters (District Attorney; trial\
+      \ judge for Lawrence; recruiter of Kristi Hagood)\n- David Whitstone (retired\
+      \ DA/prosecutor from Lawrence case)\n- Kristi Hagood (new Baldwin County Judge;\
+      \ GOB-endorsed; flawed qualifications; linked to wrongful conviction of Murray\
+      \ Lawrence Jr.)\n- Jon Gray and Scott Boone (attorney consultants for Hagood;\
+      \ prioritized payment over due diligence)\n- Murray Lawrence Jr. (wrongfully\
+      \ convicted individual; his case documents the network’s misconduct; book +\
+      \ TV documentary in production)\n- ALEA (Alabama Law Enforcement Agency; target\
+      \ of Hoss Mack’s ambition)\n- GOB (\"good ole boys\" of Baldwin; Catalyst organization;\
+      \ political machine protecting low-turnout elections)"
+    widget_date: 2026-06-23
+    generated_at: '2026-09-01T20:25:39.032522Z'
+  anonymous-bb:
+    brief: 'THE CONFLICT:
+
+      - Mike Vandenheuvel ("Mike Van"), challenger against State Senator Chris Elliott,
+      released a mailed flier criticizing Elliott without naming him a "lying dirt
+      bag politician," a "self serving christian hypocrite," the "head of the snake
+      known as Catalyst," or the "good ole Boys (GOB) of Baldwin."
+
+      - Mike Vandenheuvel avoided explicitly linking Elliott to gaming interests in
+      Alabama and his ambition to become the Alabama State Gaming Commissioner.
+
+      - Mike Vandenheuvel did not mention Elliott''s long prior knowledge of solar
+      fields, a fact highlighted by The Ripp Report.
+
+      - Chris Elliott is being challenged by Mike Vandenheuvel in an upcoming state
+      senate race.
+
+
+      THE DISCOVERY:
+
+      - Baldwin Beat (BB) revealed that the Baldwin County Sheriff Office (BCSO) operated
+      as a GOB-supported political cabal for almost 20 years under Hoss Mack''s influence,
+      rather than functioning as a neutral law enforcement agency.
+
+      - BCSO embedded judges in the judicial system who prioritized loyalty to BCSO
+      culture over impartial justice.
+
+      - Robert Yeats was killed after a five-hour BCSO siege involving an armored
+      BearCat vehicle, tear gas, concussion grenades, flash bangs, and over 100 rounds
+      fired through his residence; BCSO refused to mediate with his family beforehand.
+
+      - Deputy Justin Correa (son of police officer Robert Correa) allegedly participated
+      in the deadly SWAT action despite his father warning him about a conflict of
+      interest.
+
+      - The death of O J French (after a stop for a tail light) was covered up by
+      the Baldwin County Major Crimes Unit and is currently under a pending federal
+      lawsuit.
+
+      - A wrong-way I-10 chase resulted in five deaths (three burned to death), with
+      Hoss Mack attributing the cause to law enforcement actions.
+
+      - Judge Kristi Hagood''s use of Affidavits of Interview (A-I) allegedly contained
+      factual inaccuracies leading to an innocent man (Murray Lawrence Jr.) being
+      imprisoned for 20 years based on a Rule 32 statement.
+
+
+      THE PIVOT:
+
+      - Article 1 focuses narrowly on Chris Elliott''s personal reputation and political
+      maneuvering, avoiding his direct ties to the local criminal justice establishment
+      that Baldwin Beat documents.
+
+      - Article 2 acts as the "smoking gun" by exposing the BCSO/GOB judicial system
+      that Elliott, as State Senator, likely protects and benefits from politically.
+
+      - The systemic corruption, cover-ups, and loyalty structures documented in Article
+      2 (Mack, Lowery, Wilters, Whetstone, Hagood) provide the structural context
+      for why Elliott remains entrenched in Baldwin County power despite his political
+      controversies and solar field controversies mentioned in Article 1.
+
+
+      KEY ENTITIES:
+
+      - Chris Elliott
+
+      - Mike Vandenheuvel ("Mike Van")
+
+      - Hoss Mack
+
+      - Anthony Lowery
+
+      - Robert Wilters
+
+      - David Whetstone
+
+      - Kristi Hagood
+
+      - Murray Lawrence Jr.
+
+      - Robert Yeats
+
+      - Justin Correa
+
+      - Robert Correa
+
+      - O J French
+
+      - Johnathan Victor
+
+      - BCSO (Baldwin County Sheriff Office)
+
+      - GOB (Good Ole Boys)
+
+      - Baldwin County Major Crimes Unit'
+    widget_date: 2026-05-10
+    generated_at: '2026-09-01T20:25:39.032523Z'
+  sheriff-huey-boss-mack-secret-police-2:
+    brief: "The bridge brief was rendered. Below are the raw facts:\n\n---\n\n**THE\
+      \ CONFLICT (Past Events)**\n- Baldwin County’s political machine, **Catalyst**,\
+      \ controlled power for 30+ years: County Commission, State Senate Seat 32 (**Chris\
+      \ Elliott**), Mayor of Fairhope, Probate Judge, Sheriff, DA, and judges. Described\
+      \ as \"run Baldwin County in a dark closet... much the same as a criminal enterprise.\"\
+      \n- **Chris Elliott** was appointed to the County Commission by Gov. Bob Bentley;\
+      \ later became State Senator. Ripp Report: he kept \"Catalyst\" sheriff-qualification\
+      \ standards so **Huey 'Boss' Mack** (put in power by \"Boom Boom Pittman\")\
+      \ could win re-election despite scandal.\n- **Hoss/Huey \"Boss\" Mack** (BCSO\
+      \ Sheriff) was alleged in 15+ officer deaths:\n  - **May 2017:** Jonathan Victor\
+      \ shot to death; BCSO had no crisis intervention team, no de-escalation training.\n\
+      \  - **March 5, 2018:** Robert Yates shot dead after a warning shot; SWAT fired\
+      \ over **114 rounds**, concussion grenades, and tear gas — \"not an exigent\
+      \ one, nor an emergency.\" Deputy Justin Correa (son of Robert Correa) said:\
+      \ \"gonna go in and kill this f*cker if I have to.\"\n  - **Peyton Little:**\
+      \ found strangled with seat belt in moving car; declared suicide without questions.\
+      \ BCSO investigation didn't inform the deputy that Little was a confidential\
+      \ informant receiving threats.\n  - **Murry Lawrence Jr.:** sentenced to life\
+      \ without physical evidence (no gun, witnesses, fiber, fingerprints, blood,\
+      \ DNA) with multiple alibis.\n  - **Kevin J Andrews** and **William 'Bill' Smith**:\
+      \ additional BCSO officer deaths; BCSO policy on motor vehicle pursuits was\
+      \ ignored.\n- Mack's private business, **Hoss Mack Funeral Home**, held a county\
+      \ contract to handle deceased persons — \"an obvious conflict of interest.\"\
+      \ BCSO investigated its own deaths and never called the FBI or ALEA.\n\n**THE\
+      \ DISCOVERY (What Article 2 Proves Today)**\n- The **Lagniappe legal decision\
+      \ (September 30, 2021)** \"spells the end of public access to law-enforcement\
+      \ records that are connected in any way to an investigation.\" All evidence\
+      \ in law enforcement custody became exempt from citizen record-access — \"the\
+      \ statute might as well be titled the Closed Records Act\" (Chief Justice Tom\
+      \ Parker).\n- As a result, BCSO body-cam footage, 911 transcripts, and autopsy\
+      \ information for **Mack's cases** are now legally unobtainable by the public.\
+      \ The criminal record documented in Article 2 is now officially insulated from\
+      \ scrutiny — yet Mack remains in office, backed by Elliott.\n\n**THE PIVOT (Why\
+      \ Article 2 Is Elliott's Smoking Gun)**\n- Article 1 accuses **Elliott** of\
+      \ being \"the head of the snake known as Catalyst\" and a \"sneaky dirty politician.\"\
+      \ Article 2 proves that Elliott protected Mack's secret-police record — keeping\
+      \ his qualifications in place, refusing to back him during the Yates scandal,\
+      \ covering up officer deaths.\n- Elliott refrained from Vandenheuvel’s harshest\
+      \ attacks (calling him a \"lying dirt bag,\" \"self-serving christian hypocrite,\"\
+      \ head of Catalyst), but Article 2 documents exactly what those accusations\
+      \ refer to: Mack's crimes and Elliott's complicity.\n- The chain: **Catalyst\
+      \ machine → Elliott as political protector → Mack as secret police enforcer\
+      \ → Lagniappe decision walling off accountability**. Elliott’s \"high road\"\
+      \ defense doesn't change that he kept a criminal sheriff in power.\n\n**KEY\
+      \ ENTITIES**\n1. **Chris Elliott** — Baldwin County Commissioner (appointed\
+      \ by Gov. Bentley), State Senator Seat 32, alleged head of Catalyst. Pushed\
+      \ gas-tax increase, covered for Superintendent Eddie Tyler’s broken promise\
+      \ on the Gulf Shores school-split lawsuit.\n2. **Huey \"Boss\" Mack / Hoss Mack**\
+      \ — BCSO Sheriff; his funeral home (Hoss Mack Funeral Home) holds a county contract\
+      \ for deceased persons under special circumstances. Alleged in the Victor, Yates,\
+      \ Little, Lawrence, and Smith deaths.\n3. **Jack Burrell** — Fairhope Council\
+      \ President; undisclosed police record; Catalyst ally with an airport-authority\
+      \ role. Article 1’s \"catalyst\" key topic ties him to Elliott’s network.\n\
+      4. **Doug Snow** — administrator of **Baldwin County Citizens for Accountability**,\
+      \ the outlet Ripp Report cites as evidence of how long it has been tracking\
+      \ Elliott’s behavior. (No other \"Snow\" name appears.)\n5. **Mike Vandenheuvel\
+      \ (Mike Van)** — candidate challenging Elliott; refrained from the harshest\
+      \ allegations (\"took the high road\").\n6. **Stacy Haygood / Lynn Stacy**,\
+      \ **Dane Haygood** — founders of the Elliott-Haygood-Stacy group that became\
+      \ Catalyst (2016). \"Tried to stay in the shadows while maintaining status.\"\
+      \n7. **Michelle Thomasson, \"Catalyst Queen\"** — family court judge; other\
+      \ appointed judges also named as part of the machine Elliott protected.\n8.\
+      \ **Joseph \"Boom Boom\" Pittman** — former State Senator who took \"$750,000\
+      \ from BP\" before leaving; earlier member of the group that put Mack in power.\n\
+      9. **Dennis Baily** (Alabama Press Association Chief Legal Counsel) and **Tom\
+      \ Parker** (Chief Justice of Alabama) — both quoted condemning the Lagniappe\
+      \ decision for closing public access to all law-enforcement evidence."
+    widget_date: 2023-11-20
+    generated_at: '2026-09-01T20:25:39.032525Z'
   laugh-out-loud-baldwin:
     brief: '**THE CONFLICT: What happened in the past?**
 
@@ -268,353 +645,3 @@ hooks:
       and failed professional records. He covers for Superintendent Eddie Tyler’s
       tax schemes while CATALYST smears anyone brave enough to challenge his reign.
     character_count: 231
-  elliotttuckercatalyst-selling-your-soul:
-    brief: 'THE CONFLICT:
-
-      *   State Senator Chris Elliott was challenged by candidate Mike Vandenheuvel
-      (Mike Van).
-
-      *   Prior investigative reports from The Ripp Report highlighted Elliott''s
-      connections to "Catalyst" and the GOB of Baldwin.
-
-      *   Past issues raised included Elliott’s alleged ambition regarding gaming
-      interests and his knowledge of solar fields in Alabama.
-
-
-      THE DISCOVERY:
-
-      *   Elliott and Tucker Dorsey are spending tens of thousands/hundreds of thousands
-      of dollars (citing a $500,000 donation to Senate District 32) for election purposes,
-      funded by developers and Catalyst.
-
-      *   They allegedly approved a "mega-site," costing taxpayers $35 million, which
-      was described as inadequate land ("a cow pasture with a gate to no where").
-
-      *   This deal supposedly depleted county reserves, preventing the use of BP
-      money for necessary infrastructure repairs.
-
-
-      THE PIVOT:
-
-      *   Article 1 establishes Elliott’s alleged professional ambitions and questionable
-      dealings (gaming, solar fields). Article 2 moves beyond general accusations
-      by providing specific proof of recent financial misconduct, demonstrating how
-      Catalyst-backed interests translate into measurable taxpayer waste and misuse
-      of county funds for private gain (the mega-site and depletion of reserves).
-
-
-      KEY ENTITIES:
-
-      *   **People:** Chris Elliott, Tucker Dorsey, Mike Vandenheuvel (Mike Van),
-      Doug Snow.
-
-      *   **Organizations/Groups:** Catalyst, Baldwin County, Developers, Boom Boom
-      Pittman.
-
-      *   **Locations/Concepts:** Alabama Values, State Senator District 32, Mega-site,
-      BP money.'
-    generated_at: '2026-04-13T19:41:14.572859Z'
-    text: Chris Elliott and Tucker Dorsey claim to be fiscal conservatives, yet they
-      blew $35 million on a cow pasture to nowhere. They drained our BP disaster reserves
-      to fund this developer fantasy while CATALYST keeps the campaign cash flowing.
-    character_count: 237
-  catalyst-alabama-values:
-    brief: 'THE CONFLICT: What happened in the past?
-
-      *   Catalyst formed as a structure to seize control of the Baldwin County Commission
-      and Mayor’s seats across all 14 municipalities in Baldwin County.
-
-      *   The plan required manipulating political systems, beginning with an attack
-      on newly elected Mayor Karin Wilson via the assistance of Fairhope City Council.
-
-      *   Chris Elliott was appointed to the Baldwin County Commission by Governor
-      Robert Bentley (July 2014).
-
-      *   Elliott later ran for the State Senate seat vacated by Senator Tripp Pittman.
-
-
-      THE DISCOVERY: What does the second article prove or reveal today?
-
-      *   Elliott''s position/career advancement is viewed as an "orchestration" rather
-      than a true democratic victory, serving Catalyst''s interests.
-
-      *   Article 2 alleges Elliott misused his office to pass unvoted taxes (e.g.,
-      the 1c sales tax renewal of the 2012 penny tax) while using school support for
-      political gain.
-
-      *   Elliott is alleged to have been involved in approving a $8 million property
-      tax (Build Baldwin Now, 2015) and toll road proposals.
-
-      *   Article 2 links Elliott’s actions (e.g., sewer line rights-of-way beneath
-      Fish River) to maintaining systemic control that benefits Catalyst/local power
-      brokers.
-
-
-      THE PIVOT: Why is Article 2 the ''smoking gun'' for Article 1?
-
-      *   Article 1 accuses Elliott of hypocrisy and corruption regarding gaming interests,
-      suggesting he controls the Commission ("head of the snake").
-
-      *   Article 2 proves *how* that control was achieved by detailing specific instances
-      where Elliott used his appointed authority (taxes, approvals, appointments)
-      to advance a structured power agenda rather than following true "Alabama values."
-
-      *   Article 2 confirms that Elliott''s initial entry into power through Bentley’s
-      appointment provided the foundation for Catalyst''s eventual total control over
-      local governance.
-
-
-      KEY ENTITIES:
-
-      *   Chris Elliott (State Senator/Baldwin County Commissioner)
-
-      *   Mike Vandenheuvel (aka Mike Van)
-
-      *   Governor Robert Bentley
-
-      *   Catalyst (political group/power structure)
-
-      *   Tripp Pittman (Former State Senator)
-
-      *   Fairhope City Council
-
-      *   Elliott Haygood and Stacy
-
-      *   Baldwin County Commission
-
-      *   Karin Wilson (Mayor)
-
-      *   Doug Snow (Administrator, Baldwin County Citizens for Accountability)
-
-      *   Judge Tim Russell'
-    generated_at: '2026-04-13T19:41:14.572860Z'
-    text: Forget "Alabama Values" when you look at how Chris Elliott used an appointment
-      by Robert Bentley to seize control of our wallets. He bypasses the voters to
-      push unvoted taxes and toll roads that benefit the Catalyst puppets pulling
-      his strings.
-    character_count: 244
-  weasel-contractor:
-    brief: '**THE CONFLICT:**
-
-      *   Chris Elliott is challenged politically by Mike Vandenheuvel aka Mike Van
-      in Baldwin County politics.
-
-      *   Elliott''s deep political connections are tied to a "political machine"
-      involving Catalyst and general partners including Stacy Elliott and Haygood,
-      which later transitioned into Scott Boone Consulting.
-
-
-      **THE DISCOVERY:**
-
-      *   Article 2 reveals that Elliott''s current focus is targeting HB-188 (a bill
-      strengthening grants for fortified homes).
-
-      *   Documentation confirms in 2016 that the DOI wrote to remove Elliott Builders
-      Inc. as an eligible contractor because he repeatedly tried to gain confidential
-      information, giving himself an "unfair competitive advantage" over other program
-      contractors.
-
-      *   Allegations surfaced that Elliott attempted to profile applicants and "cherry
-      pick" applications rather than providing fair bids for the grant program (citing
-      complaints from Powell).
-
-
-      **THE PIVOT:**
-
-      *   The Main Article generally raises suspicion about Elliott''s interests (gaming,
-      solar fields) but lacks concrete proof.
-
-      *   Article 2 provides a documented instance of professional failure and conflict
-      of interest: in his role as a Baldwin County commissioner/contractor, Elliott
-      was already removed from the program due to suspicious behavior regarding bids
-      and confidential information—directly paralleling potential corruption risk
-      when serving as State Senator on HB-'
-    generated_at: '2026-04-13T19:41:14.572862Z'
-    text: While Chris Elliott plays senator, his history as a shady contractor proves
-      he cannot be trusted with public funds. Documents show the state kicked his
-      company out of a grant program for trying to steal confidential data and rig
-      the bidding process.
-    character_count: 249
-  catalyst-sold-to-the-highest-bidder:
-    brief: 'THE CONFLICT:
-
-      *   Mike Vandenheuvel ("Mike Van") challenged State Senator Chris Elliott over
-      alleged dirty political practices.
-
-      *   Concerns focused on Elliott’s ambitions for Alabama''s gaming commission
-      and his prior knowledge of local solar field developments.
-
-
-      THE DISCOVERY:
-
-      *   Elliott collected almost $500,000 in campaign funds (most from Montgomery);
-      final take estimated near $750,000 for a State Senate Seat ($42,000 salary).
-
-      *   Elliott is accused of trying to pass a 12% gas tax and securing the Education
-      1% tax without a public vote.
-
-      *   Elliott paid Catalyst $8640.00 before shifting involvement/money flow to
-      Stragtegy ($140,951.80 collected).
-
-
-      THE PIVOT:
-
-      *   Article 2 upgrades the general accusations of corruption (from Article 1)
-      into specific financial misconduct and interlocking political dependencies involving
-      current local officials.
-
-      *   It explicitly links Elliott’s efforts to powerful figures like Superintendent
-      Eddie Tyler and Sheriff Hoss Mack, proving a web of special interest support
-      beyond simply gaming interests.
-
-
-      KEY ENTITIES:
-
-      *   Chris Elliott
-
-      *   Mike Vandenheuvel ("Mike Van")
-
-      *   Catalyst
-
-      *   David Northcutt
-
-      *   Hoss Mack (Sheriff)
-
-      *   Eddie Tyler (Superintendent of Education)
-
-      *   Stragtegy
-
-      *   Baldwin County
-
-      *   Commissioner for gaming in Alabama'
-    generated_at: '2026-04-13T19:41:14.572863Z'
-    text: Chris Elliott raised nearly a million dollars to keep a job that only pays
-      forty-two thousand. That massive pile of Montgomery cash explains why he is
-      so obsessed with hiking your gas taxes and serving special interests over the
-      people.
-    character_count: 236
-  snakes-in-the-schools:
-    brief: 'THE CONFLICT:
-
-      *   Chris Elliott''s political ambition and alleged connections to questionable
-      interests (Catalyst, GOB of Baldwin).
-
-      *   Past documented allegations regarding Elliott''s connection to gaming interests
-      and his desire to become Alabama Commissioner for Gaming.
-
-      *   Previous reports detailed Elliott’s supposed knowledge of solar field opportunities
-      in the region.
-
-
-      THE DISCOVERY:
-
-      *   Elliott allegedly manipulated local institutions (schools) using political
-      resources.
-
-      *   Jonathan Gray, a consultant, profits by serving both the school system and
-      the Elliott campaign.
-
-      *   The Business Council of Alabama (BCA) contributed $35,000 to Elliott''s
-      campaign.
-
-      *   In January 2017, the Baldwin County Commission approved extending the penny
-      tax for school construction; this decision was made permanent by Gray''s statement
-      and required no School Board approval.
-
-
-      THE PIVOT:
-
-      *   Article 2 provides concrete evidence of institutional manipulation (schools/taxes)
-      that supports Article 1’s general critique of Elliott being a "dirty politician."
-
-      *   It links specific funding sources ($35,000 from BCA) and professional roles
-      (Jonathan Gray serving both campaign and school system) to the political maneuvering
-      surrounding local elections.
-
-      *   It shifts the focus from broad conspiracy theory to actionable evidence
-      regarding tax mandates and public sector exploitation by Elliott’s allies.
-
-
-      KEY ENTITIES:
-
-      *   People: Chris Elliott, Mike Vandenheuvel (Mike Van), Eddie Tyler, Jonathan
-      Gray, David Northcutt.
-
-      *   Organizations/Groups: Catalyst, Good Old Boys (GOB) of Baldwin, Business
-      Council of Alabama (BCA).
-
-      *   Locations/Issues: Baldwin County, Alabama Commissioner for Gaming, penny
-      tax.'
-    generated_at: '2026-04-13T19:41:14.572864Z'
-    text: The Business Council of Alabama bought Chris Elliott for thirty-five thousand
-      dollars to ensure your school taxes stay permanent. He uses consultants like
-      Jonathan Gray to double-dip on public funds while manipulating our schools to
-      feed his political machine.
-    character_count: 260
-  hair-on-fire:
-    brief: 'THE CONFLICT
-
-      *   Chris Elliott faced political attacks regarding his associations with Catalyst
-      and the Good Old Boys (GOB) of Baldwin.
-
-      *   Accusations included links to gaming interests and undisclosed knowledge
-      regarding solar fields.
-
-      *   Mike Vandenheuvel challenged State Senator Chris Elliott, framing him as
-      a "sneaky dirty politician."
-
-
-      THE DISCOVERY
-
-      *   Elliott attempted to pass Senate Bill 306, which would create a full-time,
-      non-rotating commissioner for Baldwin County.
-
-      *   Senator Greg Albritton voted against and spoke out against SB 306 due to
-      lack of public support.
-
-      *   Opposition was registered by the letters from the Baldwin County Commission
-      and the Association of County Commissioners of Alabama (ACCA).
-
-      *   Elliott''s wife has worked for Sheriff Hoss Mack since Elliott was elected
-      in Baldwin County.
-
-
-      THE PIVOT
-
-      *   Article 1 alleged that Elliott was self-serving in pursuit of gaming commissioner
-      ambitions/private interests.
-
-      *   Article 2 shows a recent instance where Elliott attempted to use his legislative
-      position (SB 306) for personal or political gain (establishing a permanent,
-      non-rotating commission), which lacked institutional support and faced direct
-      opposition from Sen. Albritton.
-
-      *   Both articles establish a pattern of Elliott pursuing power and self-serving
-      legislation/ambition against the documented wishes or interests of the community/commissioners.
-
-
-      KEY ENTITIES
-
-      *   Chris Elliott (State Senator)
-
-      *   Mike Vandenheuvel (Mike Van)
-
-      *   Baldwin County Commission
-
-      *   Sheriff Hoss Mack
-
-      *   Sen. Greg Albritton (R-Range)
-
-      *   SB 306
-
-      *   Catalyst
-
-      *   Good Old Boys (GOB)
-
-      *   Association of County Commissioners of Alabama (ACCA)'
-    generated_at: '2026-04-13T19:41:14.572865Z'
-    text: Chris Elliott tried to crown himself king of Baldwin County by creating
-      a permanent commission seat with Senate Bill 306. Even his fellow senators turned
-      their backs on this desperate power grab that ignored the will of the people
-      and the local commission.
-    character_count: 256

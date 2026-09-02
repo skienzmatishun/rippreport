@@ -2,7 +2,8 @@ metadata:
   generated_at: '2026-07-13T16:18:58.935748Z'
   post_slug: a-new-hope
   status: staged
-  hooks_generated: false
+  hooks_generated: true
+  hooks_generated_at: '2026-09-01T14:00:44.633510Z'
 related_articles:
 - slug: not-guilty-innocent
   title: NOT GUILTY - INNOCENT

@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a93e044ff9aea4-MIA
+Cf-Ray: a34fec3b5f46b4aa-MIA
 Content-Type: application/json
-Date: Thu, 13 Aug 2026 16:54:32 GMT
+Date: Wed, 02 Sep 2026 22:24:04 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=67LM%2BZa7qyaYS8U0YNkjit%2F%2B%2BHt0Av72IVpNhMrr99J6TCnc020dKsMl3cHGi4%2FkwpzxQQdwTe9mnkIy9TsHsFvBLkhUb75gyrkaRdKRF3FHopivkbflmSK1lRxD6dacXwRR7mCzhi2qcxWBNEmuY0pkQA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Tk7JfsLf4rNukkOxNbqhAzOaG5JrGIuL3m%2BwQo1QfLKKetB7WLsUq%2FLf0cG6XxnnsBxZ4H0sQTsCcD73fa5xLsiyxDbDK1yBUB9QmJ10omj8pc3FlAggUjt70jElgQd4goXXrR77dMB4DxbZIoF02Jlq9A%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=566
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=496
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 58a019ca5fce0094216db2e31ae6f65b
-X-Etags-2: 58a019ca5fce0094216db2e31ae6f65b
+X-Etags-1: c5eda146ca33be3c39a2961dcf73996b
+X-Etags-2: c5eda146ca33be3c39a2961dcf73996b
 
-{"title":"NO GUARDRAILS","description":"State ethics officials and legal watchdog agencies completely abandoned their duty, allowing systemic corruption to run wild across Alabama. Financial documents reveal how key regulators received private tuition payouts and provided get-out-of-jail-free advisory letters to political allies. Why are corrupt politicians allowed to drive state government straight off a cliff?","url":"https://rippreport.com/p/no-guardrails/","image":"https://rippreport.com/img/no-guardrails.jpg","charset":"utf-8"}
+{"title":"NO GUARDRAILS","description":"State ethics officials and legal watchdog agencies completely abandoned their duty, allowing systemic corruption to run wild across Alabama. Financial documents reveal how key regulators received private tuition payouts and provided get-out-of-jail-free advisory letters to political allies. Why are corrupt politicians allowed to drive state government straight off a cliff?","url":"https://rippreport.com/p/no-guardrails/","image":"https://rippreport.com/img/no-guardrails.jpg","charset":"utf-8","originalUrl":"https://rippreport.com/p/no-guardrails/","wasRedirected":false}

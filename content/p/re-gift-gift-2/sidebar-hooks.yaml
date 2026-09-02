@@ -1,7 +1,10 @@
 metadata:
-  generated_at: '2026-08-15T23:38:09.139529Z'
+  generated_at: '2026-09-01T09:45:39.435444Z'
   generator_version: 1.0.0
   post_slug: re-gift-gift-2
+  main_date: 2026-07-16
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
   community-or-developer:
     brief: 'THE CONFLICT:

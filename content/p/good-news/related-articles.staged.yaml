@@ -2,7 +2,8 @@ metadata:
   generated_at: '2026-07-13T16:28:12.227705Z'
   post_slug: good-news
   status: staged
-  hooks_generated: false
+  hooks_generated: true
+  hooks_generated_at: '2026-09-02T01:39:24.646478Z'
 related_articles:
 - slug: bcso-culture-2
   title: BCSO CULTURE

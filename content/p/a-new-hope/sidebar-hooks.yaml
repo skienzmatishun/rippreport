@@ -1,8 +1,98 @@
 metadata:
-  generated_at: '2026-08-15T23:38:09.349791Z'
+  generated_at: '2026-09-01T17:36:56.135410Z'
   generator_version: 1.0.0
   post_slug: a-new-hope
+  main_date: 2026-05-25
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
+  not-guilty-innocent:
+    brief: 'THE CONFLICT:
+
+      - On Sept 3, 2025, Harry Still attacked Matt Franklin in downtown Bay Minette
+      office and then street after a heated conversation; fight ended with several
+      witnesses seeing Still restraining Franklin, and he was arrested/charged with
+      assault
+
+      - Prosecution led by prosecutor Liam Scully (described as son of a judge); trial
+      concluded early 2025 when Still found "not guilty" in jury trial de novo, jury
+      deliberated five minutes to return verdict
+
+      - Still alleged the prosecution was politically motivated because Matt Franklin
+      was a Bay Minette City Councilman and would have been voting on his reappointment
+      as city prosecutor
+
+      - In court, Matt Franklin admitted multiple times that he threatened to kill
+      Harry Still and his dog
+
+
+      THE DISCOVERY:
+
+      - Marcus McDowell should have recused himself due to Alabama Bar complaints
+      against him in the Ronan McSherry assault case represented by Harry Still; he
+      ignored audio evidence provided by Still and failed to follow legal process,
+      lied to Mayor/Council
+
+      - Al Tolbert (former Bay Minette Police Chief, now BCSO) had long-standing conflicts
+      with Still because Still represented victims of police misconduct
+
+      - Baldwin County Sheriff Lowery issued a bulletin prior to his conviction telling
+      officers to "beware of Harry Still''s presence"
+
+      - State Senator Chris Elliott filed legislation for harsher punishment on attacks
+      against local politicians citing the incident as inspiration; it did not pass
+      by end of session
+
+      - The fight made news in the state Legislature and was part of broader scrutiny
+
+
+      THE PIVOT:
+
+      - Article 2 documents systemic evidence of pre-trial intimidation (Sheriff Lowery''s
+      bulletin) that supports Still''s claim of "political motivated" prosecution
+
+      - McDowell''s failure to recuse himself undermines the credibility of the municipal
+      court proceeding where he initially found him guilty
+
+      - Sheriff Lowery''s pre-verdict bulletin shows institutional hostility predating
+      the trial, which contradicts a clean fair trial narrative
+
+      - These details confirm that the legal apparatus itself was compromised in favor
+      of the local government side (Franklin, city leadership)
+
+
+      KEY ENTITIES:
+
+      - Harry Still (attorney and defendant in Bay Minette incident)
+
+      - Matt Franklin (Bay Minette City Councilman; accuser/prosecutorial-side party)
+
+      - Marcus McDowell (Bay Minette Municipal Court Judge / Fairhope Municipal Attorney)
+
+      - Al Tolbert (former Bay Minette Police Chief, now BCSO)
+
+      - Scott Tayor (Circuit Court Judge who dismissed mental commitment motion)
+
+      - Clark Stankowski (Circuit Court Judge for Appeal)
+
+      - Bob Wills (Former Mayor of Bay Minette)
+
+      - Joshua Brown (Newly Elected Mayor of Bay Minette)
+
+      - Chris Elliott (State Senator; author of failed anti-attack legislation)
+
+      - Doug Jones (U.S. Senate race referenced in the "A New Hope" article''s general
+      election context)
+
+      - Matt Franklin, Scott Tayor, Clark Stankowski, Lowery, Wilters, Hoss Mack,
+      David Whetstone, Kristy Haygood, Robert Wilters'
+    widget_date: 2026-06-13
+    generated_at: '2026-09-01T14:00:44.619564Z'
+    text: City Councilman Matt Franklin swore in court that attorney Harry Still launched
+      an unprovoked attack against him. Jury records and internal police memos expose
+      Sheriff Anthony Lowery’s pre-trial hit-list bulletin, proving the entire prosecution
+      was a corrupt setup from the start.
+    character_count: 280
   audio-of-bay-minette-attorney-councilman-fight-offers-new-details:
     brief: 'THE CONFLICT:
 
@@ -50,11 +140,11 @@ hooks:
 
       *   Mayor Wills'
     generated_at: '2026-05-25T21:57:03.679776Z'
-    text: Mayor Bob Wills and Chief Al Tolbert peddled a fairy tale about Harry Still
-      attacking a city councilman. This leaked audio is the smoking gun that proves
-      Matt Franklin was the real aggressor while the city leadership lied to protect
-      their own political interests.
-    character_count: 263
+    text: Bay Minette officials tried to frame attorney Harry Still as an unprovoked
+      violent attacker to protect their own political circle. Leaked audio shatters
+      the fairy tale pushed by former Mayor Bob Wills and Al Tolbert, catching Councilman
+      Matt Franklin starting the fight himself.
+    character_count: 278
   heart-of-dixie-podcast:
     brief: 'THE CONFLICT:
 
@@ -104,109 +194,45 @@ hooks:
 
       - Al Tolbert (Former Police Chief mentioned in Article 1 context)'
     generated_at: '2026-05-25T21:57:03.679790Z'
-    text: Harry Still calls his prosecution a political hit job by the Bay Minette
-      elite, and the evidence finally backs him up. Leaked recordings of Matt Franklin’s
-      death threats and Sheriff Lowery’s orders to target Still prove this wasn't
-      justice, it was a coordinated ambush.
-    character_count: 269
-  guilty-audiobook:
-    brief: 'THE CONFLICT:
-
-      * Harry Still was convicted in Bayminette Municipal Court for an altercation
-      with Matt Franklin.
-
-      * Harry Still later found not guilty in a jury trial de novo.
-
-      * Harry Still accuses local officials of political retaliation and corruption
-      against him.
-
-
-      THE DISCOVERY:
-
-      * The Widget Article details the wrongful conviction of Murray Lawrence Jr.
-
-      * It names Anthony Lowery (Sheriff candidate) and Kristy Haygood (Asst. D.A.
-      candidate for judge) as involved in lying/fraud to secure the conviction.
-
-      * It alleges Robert Wilters (former D.A.) and Hoss Mack (Former Sheriff) were
-      responsible parties in Lawrence''s wrongful conviction.
-
-
-      THE PIVOT:
-
-      * Both articles detail instances of local officials (judges, prosecutors, police
-      leadership) allegedly misusing their power or engaging in corruption/malicious
-      prosecution within Baldwin County jurisdiction (Bayminette/Baldwin County).
-
-      * Article 2 provides a concrete example of judicial and prosecutorial misconduct
-      leading to wrongful conviction (Lawrence Jr.), paralleling the systemic accusations
-      made by Still in Article 1 against Judge Marcus McDowell and prosecutor Liam
-      Scully.
-
-
-      KEY ENTITIES:
-
-      * Harry Still
-
-      * Matt Franklin
-
-      * Al Talbert (former Police Chief)
-
-      * Marcus McDowell (Judge, linked to 2022 bar complaint)
-
-      * Liam Scully (Prosecutor)
-
-      * Mayor Wills (City of Bayminette)
-
-      * Murray Lawrence Jr.
-
-      * Anthony Lowery (Sheriff candidate)
-
-      * Kristy Haygood (Asst. D.A. candidate)
-
-      * Hoss Mack (Former sheriff)
-
-      * Robert Wilters (Judge in Lawrence case)
-
-      * Maxwell-Tillman'
-    generated_at: '2026-05-25T21:57:03.679794Z'
-    text: Harry Still’s battle against local corruption isn't just an isolated case
-      of Baldwin County’s dirty politics. The wrongful conviction of Murray Lawrence
-      shows how Robert Wilters and Anthony Lowery use fraud and lies to bury anyone
-      who stands in the way of the machine.
-    character_count: 268
-  bay-minette-vote-out-mayor-wills-remember-oj-french:
+    text: Small-town power plays usually stay hidden behind closed courthouse doors,
+      but Harry Still's bogus conviction reeked of a setup from day one. Explosive
+      audio reveals Councilman Matt Franklin threatening murder, while Sheriff Anthony
+      Lowery explicitly ordered deputies to hunt Still down.
+    character_count: 287
+  FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT:
     brief: 'THE CONFLICT:
 
       - Harry Still was convicted in Bayminette Municipal Court for an altercation
-      with Matt Franklin.
+      with Matt Franklin but later found not guilty in a jury trial de novo.
 
-      - Still later found not guilty in a jury trial de novo.
+      - Still claims the prosecution was politically motivated, involving city council
+      member Matt Franklin who would vote on Still''s reappointment as city prosecutor.
 
-      - Still alleges local officials, including former Police Chief Al Tolbert and
-      Judge Marcus McDowell, engaged in political retaliation/corruption against him.
+      - Sheriff Mack and his team faced scrutiny regarding the murder of O J French
+      by Bay Minette police officer Brandon Thompson.
 
 
       THE DISCOVERY:
 
-      - Widget article highlights Mayor Bob Wills'' alleged misrepresentation to the
-      family regarding O. J. French’s death.
+      - Federal civil rights lawsuits are actively involved against the Baldwin County
+      Sheriff’s Office (BCSO) and its Major Crimes Unit.
 
-      - Widget article notes federal lawsuits are necessary for justice in Baldwin
-      County, specifically referencing cases involving the BCMCU and Sheriff Department.
+      - The lawsuit detailed in the Widget Article pertains to violations of civil
+      rights related to prior incidents, including those investigated by BCMCU.
 
-      - Widget article attacks Mayor Wills for involvement in questionable self-serving
-      deals resulting in ethics complaints.
+      - Video evidence from federal court filings shows footage related to deadly
+      incidents, such as the 2017 shooting of Jonathan Victor where Mack''s office
+      denied immunity after a judge denied it for Deputy Hunady.
 
 
       THE PIVOT:
 
-      - Article 1 cites Al Tolbert''s alleged corruption/retaliation within the local
-      system.
-
-      - Article 2 directly names Al Tolbert as Chairman of the BCMCU and ties him
-      to criticizing Mayor Wills, linking him into a broader narrative of systemic
-      failure in Baldwin County law enforcement (BCMCU credibility).
+      - Article 1 alleges systemic corruption and political retaliation within Baldwin
+      County’s legal system (involving Judge Marcus McDowell and former Police Chief
+      Al Talbert). Article 2 provides evidence of federal civil rights lawsuits actively
+      targeting BCSO leadership (Sheriff Mack) over past police conduct (French murder,
+      Jonathan Victor shooting), corroborating the claims of institutional failure
+      mentioned in Article 1.
 
 
       KEY ENTITIES:
@@ -215,81 +241,84 @@ hooks:
 
       - Matt Franklin
 
-      - Mayor Wills (Bob Wills)
+      - Liam Scully
 
-      - Al Tolbert (Former Police Chief/BCMCU Chairman)
+      - Al Talbert
 
-      - Marcus McDowell (Judge)
+      - Marcus McDowell
 
-      - O. J. French
+      - Mayor Wills
 
-      - BCMCU (Baldwin County Major Crimes Unit)'
-    generated_at: '2026-05-25T21:57:03.679826Z'
-    text: Al Tolbert and Mayor Bob Wills managed to fix the legal system against Harry
-      Still for years to protect their power. Now we see the same players covering
-      up the death of O.J. French while Wills lines his pockets with shady deals that
-      rot Bay Minette from the inside.
-    character_count: 266
-  justified:
+      - BCSO / Hoss Mack
+
+      - O J French
+
+      - Brandon Thompson
+
+      - Bay Minette
+
+      - Anthony Lowery
+
+      - Judge William Cassady'
+    generated_at: '2026-05-25T21:57:03.679877Z'
+    text: Judge Marcus McDowell and former Chief Al Tolbert ran Bay Minette like a
+      personal racket, targeting anyone who challenged local power. Federal lawsuits
+      now expose a bigger nightmare, catching Sheriff Hoss Mack's office in brutal
+      cover-ups and deadly civil rights violations.
+    character_count: 274
+  no-justice:
     brief: 'THE CONFLICT:
 
-      - Harry Still was convicted in Bayminette Municipal Court for an altercation
-      with Matt Franklin.
+      - 2003 murder of Brandon Hastings in Baldwin County.
 
-      - Still later found not guilty in a jury trial de novo.
+      - Murray Lawrence Jr. sentenced to life without parole for the murder.
 
-      - Still accused local officials of political retaliation and corruption regarding
-      his legal issues.
+      - David Whetstone was prosecutor; Robert Wilters presided as Judge; Hoss Mack
+      was lead investigator (at time).
 
 
       THE DISCOVERY:
 
-      - Article 2 details systemic failures within the Baldwin County Major Crimes
-      Unit, specifically regarding police shootings (e.g., O.J. French killing).
+      - Criminal rights advocates unearthed a second autopsy of Brandon Hastings,
+      ordered by District Attorney Robert Wilters and signed by Judge Robert Wilters.
 
-      - Article 2 alleges that Bob "cover-up" Wills, Mayor of Bay Minette, lied to
-      the City Council about the O. J. French shooting investigation.
+      - This coroner''s report was suppressed from the defense during the original
+      trial.
 
-      - Article 2 claims Robert Wilters and David Whetstone colluded with Anthony
-      Lowery (then lead investigator) to wrongfully convict Murray Lawrence.
+      - The suppression was willful and deliberate; it potentially supports death
+      by suffocation rather than gunshot.
 
 
       THE PIVOT:
 
-      - Article 1 alleges corruption involving local officials regarding Harry Still''s
-      case; Article 2 provides concrete, documented examples of self-investigating
-      police units (Major Crimes Unit), political cover-ups by the Mayor (Wills),
-      and alleged collusion between prosecutors/law enforcement (Wilters/Lowery) in
-      wrongful convictions within Baldwin County.
+      - Article 1 discusses allegations of systemic issues, political retaliation,
+      and corruption within Baldwin County''s legal system (referencing Al Talbert,
+      Judge Marcus McDowell).
+
+      - Article 2 provides concrete evidence—the willful suppression of a second autopsy
+      report by the presiding Judge (Robert Wilters) and lead investigator (Hoss Mack)—demonstrating
+      potential prosecutorial misconduct and obstruction in a capital murder case.
 
 
       KEY ENTITIES:
 
-      - Harry Still
+      - Brandon Hastings
 
-      - Matt Franklin
+      - Murray Lawrence Jr.
 
-      - Al Tolbert (Police Chief, Bay Minette)
+      - Robert Wilters (District Attorney/Judge)
 
-      - Bob "cover-up" Wills (Mayor of Bay Minette)
+      - Hoss Mack (Sheriff/Lead Investigator)
 
-      - Robert Wilters (Baldwin County District Attorney)
+      - David Whetstone (Prosecutor)
 
-      - David Whetstone (Former DA)
-
-      - Anthony Lowery (Current Sheriff/Former Lead Investigator)
-
-      - Murray Lawrence JR
-
-      - O.J. French
-
-      - Al Tolbert (mentioned in both articles concerning systemic issues)'
-    generated_at: '2026-05-25T21:57:03.679845Z'
-    text: The legal hit on Harry Still is just one chapter in Baldwin County's long
-      history of state-sponsored corruption. From Mayor Wills lying about police shootings
-      to Lowery and Wilters framing innocent men, the Major Crimes Unit has become
-      a factory for official cover-ups.
-    character_count: 269
+      - Hayden Kristi Deason (Assistant Baldwin County District Attorney)'
+    generated_at: '2026-05-25T21:57:03.679881Z'
+    text: Local officials claim Baldwin County courts deliver fair trials, but dirty
+      prosecutors keep proving otherwise. The smoking gun reveals Judge Robert Wilters
+      and Sheriff Hoss Mack deliberately buried a hidden autopsy report to lock up
+      Murray Lawrence Jr. for life on false pretenses.
+    character_count: 281
   the-law-enforcement-narrative-2:
     brief: 'THE CONFLICT:
 
@@ -354,45 +383,84 @@ hooks:
 
       * Baldwin County Major Crimes Unit'
     generated_at: '2026-05-25T21:57:03.679851Z'
-    text: Prosecutor Liam Scully wants you to believe Harry Still is the problem,
-      but the real rot sits in the Sheriff’s office. Sheriff Huey Mack and his Major
-      Crimes Unit have spent years spinning fictions to protect the system while destroying
-      lives through malicious prosecution.
-    character_count: 273
-  FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT:
+    text: Prosecutor Liam Scully tried to brush off Harry Still's arrest as a routine
+      municipal squabble. This damning report exposes Sheriff Huey Mack’s web of lies,
+      proving local law enforcement built an entire system around fairy tales, frame-jobs,
+      and cover-ups.
+    character_count: 256
+  primary-postpartum:
+    brief: 'THE CONFLICT: Harry Still, a defense attorney in Bay Minette, was arrested
+      and convicted for an altercation with city councilman Matt Franklin. This occurred
+      after he was actively leading an independent investigation into the May 2022
+      death of Danny Williams (Orange Beach Mayor Tony Kennan’s close friend) at Perdido
+      Pass. The prosecution, led by Liam Scully (son of a judge), allegedly included
+      inconsistent witness testimony and framed Still to disrupt his legal digging
+      into local law enforcement misconduct and potential police misconduct.
+
+
+      THE DISCOVERY: Article 2 proves today that the charges against Harry Still were
+      fully proven innocent in a jury trial de novo. It reveals that this outcome
+      came despite the alleged political motive to silence him, specifically because
+      he was investigating Orange Beach Mayor Tony Kennan and local police (including
+      the Pritchard Police Department scandal involving an FBI/Mobile County Sheriff
+      raid on disorganized evidence) and potential misconduct connected to the Danny
+      Williams case.
+
+
+      THE PIVOT: Article 2 is the ''smoking gun'' because it explicitly frames Still''s
+      Bay Minette assault prosecution as a political setup intended to disrupt his
+      independent investigation into local corruption, including Mayor Tony Kennan’s
+      city, the Pritchard police department, and potential police misconduct. This
+      directly supports the main article’s narrative that still’s legal battles are
+      part of a broader pattern of political retaliation by local authorities (like
+      Judge Marcus McDowell and former Police Chief Al Talbert) and validates his
+      claims of systemic corruption in Baldwin County’s legal system.
+
+
+      KEY ENTITIES:
+
+      Harry Still, Matt Franklin, Liam Scully, Grant Blackburn, Tony Kennan, Danny
+      Williams, Mayor Wills, Judge Marcus McDowell, Former Police Chief Al Talbert,
+      Barry Moore, Tommy Tuberville, Roy Moore, Pritchard Police Department, Mobile
+      County Sheriff, Baldwin County, Heart of Dixie Podcast'
+    widget_date: 2026-06-20
+    generated_at: '2026-09-01T14:00:44.619567Z'
+    text: Bay Minette police targeted attorney Harry Still under the guise of a street
+      brawl, but his real crime was asking dangerous questions. Still's full acquittal
+      confirms Mayor Tony Kennan and local officers orchestrated a dirty scheme to
+      stop his digging into police misconduct.
+    character_count: 275
+  justified:
     brief: 'THE CONFLICT:
 
       - Harry Still was convicted in Bayminette Municipal Court for an altercation
-      with Matt Franklin but later found not guilty in a jury trial de novo.
+      with Matt Franklin.
 
-      - Still claims the prosecution was politically motivated, involving city council
-      member Matt Franklin who would vote on Still''s reappointment as city prosecutor.
+      - Still later found not guilty in a jury trial de novo.
 
-      - Sheriff Mack and his team faced scrutiny regarding the murder of O J French
-      by Bay Minette police officer Brandon Thompson.
+      - Still accused local officials of political retaliation and corruption regarding
+      his legal issues.
 
 
       THE DISCOVERY:
 
-      - Federal civil rights lawsuits are actively involved against the Baldwin County
-      Sheriff’s Office (BCSO) and its Major Crimes Unit.
+      - Article 2 details systemic failures within the Baldwin County Major Crimes
+      Unit, specifically regarding police shootings (e.g., O.J. French killing).
 
-      - The lawsuit detailed in the Widget Article pertains to violations of civil
-      rights related to prior incidents, including those investigated by BCMCU.
+      - Article 2 alleges that Bob "cover-up" Wills, Mayor of Bay Minette, lied to
+      the City Council about the O. J. French shooting investigation.
 
-      - Video evidence from federal court filings shows footage related to deadly
-      incidents, such as the 2017 shooting of Jonathan Victor where Mack''s office
-      denied immunity after a judge denied it for Deputy Hunady.
+      - Article 2 claims Robert Wilters and David Whetstone colluded with Anthony
+      Lowery (then lead investigator) to wrongfully convict Murray Lawrence.
 
 
       THE PIVOT:
 
-      - Article 1 alleges systemic corruption and political retaliation within Baldwin
-      County’s legal system (involving Judge Marcus McDowell and former Police Chief
-      Al Talbert). Article 2 provides evidence of federal civil rights lawsuits actively
-      targeting BCSO leadership (Sheriff Mack) over past police conduct (French murder,
-      Jonathan Victor shooting), corroborating the claims of institutional failure
-      mentioned in Article 1.
+      - Article 1 alleges corruption involving local officials regarding Harry Still''s
+      case; Article 2 provides concrete, documented examples of self-investigating
+      police units (Major Crimes Unit), political cover-ups by the Mayor (Wills),
+      and alleged collusion between prosecutors/law enforcement (Wilters/Lowery) in
+      wrongful convictions within Baldwin County.
 
 
       KEY ENTITIES:
@@ -401,114 +469,60 @@ hooks:
 
       - Matt Franklin
 
-      - Liam Scully
+      - Al Tolbert (Police Chief, Bay Minette)
 
-      - Al Talbert
+      - Bob "cover-up" Wills (Mayor of Bay Minette)
 
-      - Marcus McDowell
+      - Robert Wilters (Baldwin County District Attorney)
 
-      - Mayor Wills
+      - David Whetstone (Former DA)
 
-      - BCSO / Hoss Mack
+      - Anthony Lowery (Current Sheriff/Former Lead Investigator)
 
-      - O J French
+      - Murray Lawrence JR
 
-      - Brandon Thompson
+      - O.J. French
 
-      - Bay Minette
-
-      - Anthony Lowery
-
-      - Judge William Cassady'
-    generated_at: '2026-05-25T21:57:03.679877Z'
-    text: While Judge Marcus McDowell helps the local machine target Harry Still,
-      federal courts are finally pulling back the curtain on Sheriff Mack’s office.
-      New lawsuits and video evidence expose a pattern of civil rights violations
-      and deadly cover-ups that the county can’t ignore.
-    character_count: 276
-  no-justice:
-    brief: 'THE CONFLICT:
-
-      - 2003 murder of Brandon Hastings in Baldwin County.
-
-      - Murray Lawrence Jr. sentenced to life without parole for the murder.
-
-      - David Whetstone was prosecutor; Robert Wilters presided as Judge; Hoss Mack
-      was lead investigator (at time).
-
-
-      THE DISCOVERY:
-
-      - Criminal rights advocates unearthed a second autopsy of Brandon Hastings,
-      ordered by District Attorney Robert Wilters and signed by Judge Robert Wilters.
-
-      - This coroner''s report was suppressed from the defense during the original
-      trial.
-
-      - The suppression was willful and deliberate; it potentially supports death
-      by suffocation rather than gunshot.
-
-
-      THE PIVOT:
-
-      - Article 1 discusses allegations of systemic issues, political retaliation,
-      and corruption within Baldwin County''s legal system (referencing Al Talbert,
-      Judge Marcus McDowell).
-
-      - Article 2 provides concrete evidence—the willful suppression of a second autopsy
-      report by the presiding Judge (Robert Wilters) and lead investigator (Hoss Mack)—demonstrating
-      potential prosecutorial misconduct and obstruction in a capital murder case.
-
-
-      KEY ENTITIES:
-
-      - Brandon Hastings
-
-      - Murray Lawrence Jr.
-
-      - Robert Wilters (District Attorney/Judge)
-
-      - Hoss Mack (Sheriff/Lead Investigator)
-
-      - David Whetstone (Prosecutor)
-
-      - Hayden Kristi Deason (Assistant Baldwin County District Attorney)'
-    generated_at: '2026-05-25T21:57:03.679881Z'
-    text: Harry Still warned us about the corruption in the Baldwin County courthouse,
-      and this murder case proves he was right. Judge Robert Wilters and Sheriff Hoss
-      Mack knowingly hid a second autopsy to secure a conviction, showing exactly
-      how far these men will go to cheat.
-    character_count: 268
-  bonum-est-faciet-2022:
+      - Al Tolbert (mentioned in both articles concerning systemic issues)'
+    generated_at: '2026-05-25T21:57:03.679845Z'
+    text: Harry Still's fight against local legal abuse pulled back the curtain on
+      Bay Minette's rotten leadership. Proof shows Mayor Bob Wills lied directly to
+      city council about police killings while DA Robert Wilters and Sheriff Anthony
+      Lowery framed innocent men to shield their machine.
+    character_count: 281
+  guilty-audiobook:
     brief: 'THE CONFLICT:
 
       * Harry Still was convicted in Bayminette Municipal Court for an altercation
       with Matt Franklin.
 
-      * Later, Still was found not guilty in a jury trial de novo.
+      * Harry Still later found not guilty in a jury trial de novo.
 
-      * Still accused local officials of political retaliation and corruption concerning
-      his case.
+      * Harry Still accuses local officials of political retaliation and corruption
+      against him.
 
 
       THE DISCOVERY:
 
-      * The Baldwin County Legislative Delegation is renting office space from Mayor
-      Robert A Bob Wills'' building in Bay Minette.
+      * The Widget Article details the wrongful conviction of Murray Lawrence Jr.
 
-      * This transaction involves alleged lack of oversight ("No one at the County
-      or State Level ''GIVES A DAMN''").
+      * It names Anthony Lowery (Sheriff candidate) and Kristy Haygood (Asst. D.A.
+      candidate for judge) as involved in lying/fraud to secure the conviction.
 
-      * Chris Elliott is mentioned as a relevant figure in broader political commentary
-      regarding news organizations and legal actions.
+      * It alleges Robert Wilters (former D.A.) and Hoss Mack (Former Sheriff) were
+      responsible parties in Lawrence''s wrongful conviction.
 
 
       THE PIVOT:
 
-      * Article 2 reveals that Mayor Wills, who is implicated by Still in Article
-      1 (planning to sue him for defamation), is involved in questionable business
-      dealings with the County Delegation, suggesting potential local corruption or
-      conflicts of interest related to the system Still criticized.
+      * Both articles detail instances of local officials (judges, prosecutors, police
+      leadership) allegedly misusing their power or engaging in corruption/malicious
+      prosecution within Baldwin County jurisdiction (Bayminette/Baldwin County).
+
+      * Article 2 provides a concrete example of judicial and prosecutorial misconduct
+      leading to wrongful conviction (Lawrence Jr.), paralleling the systemic accusations
+      made by Still in Article 1 against Judge Marcus McDowell and prosecutor Liam
+      Scully.
 
 
       KEY ENTITIES:
@@ -517,24 +531,32 @@ hooks:
 
       * Matt Franklin
 
-      * Liam Scully
+      * Al Talbert (former Police Chief)
 
-      * Al Tolbert
+      * Marcus McDowell (Judge, linked to 2022 bar complaint)
 
-      * Marcus McDowell
+      * Liam Scully (Prosecutor)
 
-      * Mayor Wills (Robert A Bob Wills)
+      * Mayor Wills (City of Bayminette)
 
-      * Bay Minette
+      * Murray Lawrence Jr.
 
-      * Chris Elliott'
-    generated_at: '2026-05-25T21:57:03.679883Z'
-    text: Mayor Bob Wills is too busy threatening Harry Still with lawsuits to explain
-      why he’s using public office for private gain. Wills is renting his own building
-      to the county delegation, in Bay Minette, the people in power only look out
-      for their own wallets.
-    character_count: 256
-  southern-gothic:
+      * Anthony Lowery (Sheriff candidate)
+
+      * Kristy Haygood (Asst. D.A. candidate)
+
+      * Hoss Mack (Former sheriff)
+
+      * Robert Wilters (Judge in Lawrence case)
+
+      * Maxwell-Tillman'
+    generated_at: '2026-05-25T21:57:03.679794Z'
+    text: When Judge Marcus McDowell and prosecutor Liam Scully weaponized the law
+      against Harry Still, they relied on a familiar county playbook. Hard evidence
+      shows Sheriff candidate Anthony Lowery and former DA Robert Wilters committed
+      outright fraud to steal a man's life in court.
+    character_count: 275
+  bay-minette-vote-out-mayor-wills-remember-oj-french:
     brief: 'THE CONFLICT:
 
       - Harry Still was convicted in Bayminette Municipal Court for an altercation
@@ -542,30 +564,30 @@ hooks:
 
       - Still later found not guilty in a jury trial de novo.
 
-      - Still claims prosecution by Liam Scully (son of a judge) was politically motivated,
-      related to Franklin''s role as city council member voting on Still''s reappointment
-      as city prosecutor.
+      - Still alleges local officials, including former Police Chief Al Tolbert and
+      Judge Marcus McDowell, engaged in political retaliation/corruption against him.
 
 
       THE DISCOVERY:
 
-      - The Widget Article confirms Harry Still has confronted judicial and municipal
-      corruption in Baldwin County for years.
+      - Widget article highlights Mayor Bob Wills'' alleged misrepresentation to the
+      family regarding O. J. French’s death.
 
-      - The Widget Article states that the podcast shared by Harry Still and the author
-      ("Backstory Podcast") has had a "chilling effect on the status quo" and resulted
-      in further pressure on Mr. Still.
+      - Widget article notes federal lawsuits are necessary for justice in Baldwin
+      County, specifically referencing cases involving the BCMCU and Sheriff Department.
+
+      - Widget article attacks Mayor Wills for involvement in questionable self-serving
+      deals resulting in ethics complaints.
 
 
       THE PIVOT:
 
-      - Article 2 frames Harry Still''s legal troubles (like the confrontation mentioned
-      in Article 1) not as isolated incidents, but as part of a decades-long pattern
-      of systemic judicial and municipal corruption in Baldwin County.
+      - Article 1 cites Al Tolbert''s alleged corruption/retaliation within the local
+      system.
 
-      - Article 2 validates Still''s claim in Article 1 that local issues are tied
-      to deeper political rot by establishing his history as an anti-corruption figure
-      within the county.
+      - Article 2 directly names Al Tolbert as Chairman of the BCMCU and ties him
+      to criticizing Mayor Wills, linking him into a broader narrative of systemic
+      failure in Baldwin County law enforcement (BCMCU credibility).
 
 
       KEY ENTITIES:
@@ -574,16 +596,18 @@ hooks:
 
       - Matt Franklin
 
-      - Liam Scully
+      - Mayor Wills (Bob Wills)
 
-      - Bayminette Municipal Court/City of Bayminette
+      - Al Tolbert (Former Police Chief/BCMCU Chairman)
 
-      - Baldwin County
+      - Marcus McDowell (Judge)
 
-      - Backstory Podcast'
-    generated_at: '2026-05-25T21:57:03.679886Z'
-    text: Harry Still’s recent legal battle is just the latest attempt by the local
-      machine to silence a man who knows where the bodies are buried. This deep dive
-      reveals a decades-long pattern of municipal rot that explains why the status
-      quo is so desperate to break him.
-    character_count: 263
+      - O. J. French
+
+      - BCMCU (Baldwin County Major Crimes Unit)'
+    generated_at: '2026-05-25T21:57:03.679826Z'
+    text: The political hit job against attorney Harry Still showed how far city hall
+      goes to protect its own. Mayor Bob Wills got caught deceiving a grieving family
+      about the police killing of O.J. French while former Chief Al Tolbert shielded
+      his rotten task force from public scrutiny.
+    character_count: 278

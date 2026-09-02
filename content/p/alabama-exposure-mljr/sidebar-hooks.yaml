@@ -1,7 +1,10 @@
 metadata:
-  generated_at: '2026-08-15T23:38:09.812030Z'
+  generated_at: '2026-09-02T02:10:28.177874Z'
   generator_version: 1.0.0
   post_slug: alabama-exposure-mljr
+  main_date: 2026-02-20
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
   justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
     brief: 1. THE CONFLICT - Murray Lawrence Jr spent over 20 years in prison for
@@ -21,15 +24,90 @@ hooks:
       they knew was based on a lie.
     generated_at: '2026-03-07T21:09:38.965009Z'
     character_count: 273
-  wrongful-conviction-fairhope-baldwin-county:
-    brief: 'THE CONFLICT: - Subject: Murray Lawrence Jr., resident of Fairhope, Baldwin
-      County...'
-    text: Fairhope looks like a postcard on the outside, but its local legal system
-      hides a dark and dangerous reality for those without connections. See how Murray
-      Lawrence Jr. became a pawn in a judicial machine that values political wins
-      over finding the actual killer and keeping our streets safe.
-    generated_at: '2026-03-07T21:09:38.965011Z'
-    character_count: 291
+  7432-days-in-jail:
+    brief: "The Bridge Brief is ready. Here are the raw facts connecting these two\
+      \ articles:\n\n---\n\n## THE CONFLICT: What happened in the past?\n\n- **Victim:**\
+      \ Brandon Hastings, a young man from Foley, Alabama. Found dead near Gutmil/Vancleva,\
+      \ Mississippi (body disposed in MS, ~2+ hours away from the alleged scene).\n\
+      - **The Accused:** Murray \"Little Bubba\" Lawrence Jr., a Black man convicted\
+      \ of capital/first-degree murder for Hastings' 2003 killing.\n- **Arrest/incarceration:**\
+      \ Lawrence was arrested and jailed roughly 11 months and 10 days before his\
+      \ conviction (estimated ~May 27, 2004).\n- **Conviction date:** May 13, 2005,\
+      \ in Baldwin County, Alabama. Sentenced to **life without parole**.\n- **The\
+      \ Trial's \"Evidence\" (no physical proof):** No murder weapon, no fingerprints,\
+      \ no DNA, no blood, no fiber, no ballistics. The case rested on the testimony\
+      \ of **Jarius McNeil** — Lawrence's lifelong childhood friend and alleged co-conspirator.\n\
+      - **Co-Conspirator Deal:** McNeil had been charged with federal counterfeiting;\
+      \ BCSO told him he faced the death penalty if he didn't name a co-conspirator.\
+      \ He named Lawrence to get a lighter sentence. David Whetstone called this \"\
+      a deal with the devil.\"\n- **Defense Failure:** Defense attorney **Willie Huntley**\
+      \ (former Auburn football player) did not call a single witness after the prosecution\
+      \ rested.\n\n## THE DISCOVERY: What Article 2 revealed today\n\n- **7,432 days\
+      \ in jail.** As of October 12, 2023, Lawrence had already spent 7,432 days incarcerated\
+      \ for a crime he did not commit (his sentence is life-without-parole; this count\
+      \ continues to grow).\n- **A hidden second autopsy was found.** Criminal rights\
+      \ advocates unearthed a second autopsy of Brandon Hastings that:\n  - was ordered\
+      \ by then-District Attorney **David Whetstone** and signed/approved by the presiding\
+      \ Judge **Robert Wilters**.\n  - had been ordered/processed during the case\
+      \ but **never disclosed to Lawrence or presented at trial**.\n  - Contradicted\
+      \ key elements of the prosecution's theory. While the original autopsy supported\
+      \ strangulation and McNeil claimed Lawrence shot Hastings, the second autopsy\
+      \ (done by Alabama Department of Forensic Sciences) found **no bullet wounds**\
+      \ and concluded decomposition made it impossible to determine exact cause of\
+      \ death.\n- **Brady Violation:** The suppression of this exculpatory report\
+      \ was characterized as a potential **Brady v. Maryland violation** — suppression\
+      \ of evidence favorable to the accused that violates due process, regardless\
+      \ of prosecutor good/bad faith.\n- **New Trial Motion:** Attorney Rebecca Chambliss\
+      \ (pro bono) filed a Rule 32 petition alleging evidence was \"willfully suppressed,\"\
+      \ arguing the omission warrants a new trial. Alabama Supreme Court denied a\
+      \ writ of certiorari without an opinion in June 2025; his legal team continues\
+      \ pursuing relief (Maxwell-Tillman Law Firm, Birmingham).\n- **Other exculpatory\
+      \ claims:** Advocates say there was a \"missing autopsy\" and suppressed reports;\
+      \ the first autopsy showed strangulation while the prosecution theory was shooting\
+      \ — inconsistency noted.\n\n## THE PIVOT: Why is Article 2 the 'smoking gun'\
+      \ or key context for Article 1?\n\n- Article 1 (The Framing of Murray Lawrence\
+      \ Jr.) states that the entire system failed across law enforcement, prosecutors,\
+      \ defense counsel, courts, and the prison system — an \"implausible\" chain\
+      \ of complicity.\n- **Article 2 supplies the hard, specific proof of that systemic\
+      \ failure:** it documents that three key players — Sheriff Hoss Mack, Prosecutor\
+      \ David Whetstone, and Judge Wilters (now DA) — were involved in a case where\
+      \ vital evidence favorable to the defendant (the second autopsy) was held back\
+      \ from the defense.\n- The hidden autopsy is the concrete \"smoking gun\" showing:\
+      \ (a) the prosecution possessed material exculpatory evidence; (b) it was never\
+      \ disclosed (Brady violation); (c) this directly caused an innocent man to remain\
+      \ in prison for over 7,400 days.\n- Because Article 2 names the same three individuals\
+      \ (Mack, Whetstone, Wilters) as responsible for withholding evidence in a wrongful\
+      \ conviction, it gives factual backbone to Article 1's claim that \"corruption\
+      \ runs deep\" in Baldwin County and that these officials conspired against Lawrence.\n\
+      \n## KEY ENTITIES: Specific names, organizations, or locations to mention\n\n\
+      - **Murray \"Little Bubba\"/\"Bubba\" Lawrence Jr.** — the convicted, wrongfully\
+      \ incarcerated defendant.\n- **Brandon Hastings** — victim; from Foley, AL;\
+      \ body found/disposed of in Mississippi (near Gutmill/Vancleva).\n- **Jarius\
+      \ McNeil** — Lawrence's lifelong friend; alleged co-conspirator; provided the\
+      \ sole testimony used to convict Lawrence (named him after facing death penalty\
+      \ threat from BCSO for counterfeiting charges).\n- **David Whetstone** — then-District\
+      \ Attorney of Baldwin County (retired); ordered the second autopsy; called the\
+      \ McNeil deal \"a deal with the devil.\"\n- **Robert Wilters** — Judge at Lawrence's\
+      \ trial; currently serving as District Attorney (second term) for Baldwin County.\
+      \ Signed/authorized the withheld autopsy.\n- **Hoss Mack / Lt. Huey \"Hoss\"\
+      \ Mack** — lead investigator of the original case; now 5th-term Sheriff of Baldwin\
+      \ County (BCSO).\n- **Willie Huntley** — defense attorney; former Auburn football\
+      \ player; did not call any witnesses after prosecution rested.\n- **Paul Ripp**\
+      \ — Fairhope resident/advocate who helped bring the case back into public view\
+      \ and organized support for Lawrence.\n- **Nancy R. Koerner** — author of \"\
+      A Verbal Lynching in Alabama,\" the 1 hour 35 minute podcast; researcher in\
+      \ the case.\n- **Rebecca Chambliss** — pro bono attorney now leading Lawrence's\
+      \ fight for a new trial (Maxwell-Tillman Law Firm, Birmingham).\n- **Alabama\
+      \ Department of Forensic Sciences** — conducted the second autopsy.\n- **Baldwin\
+      \ County / BCSO** — the county and sheriff's office where Mack served as lead\
+      \ investigator.\n- **Fairhope, Alabama** — Lawrence's home community; named\
+      \ in the book's call that \"Fairhope, Baldwin County and the State of Alabama\
+      \ will never look the same.\"\n- **JusticeForMurrayLawrenceJr.com** — website\
+      \ exposing the case details (missing autopsy, coerced testimony, suppressed\
+      \ reports).\n- **Brady v. Maryland (1963)** — U.S. Supreme Court ruling that\
+      \ suppression of exculpatory evidence by prosecutors violates due process."
+    widget_date: 2023-10-12 00:00:00+00:00
+    generated_at: '2026-09-02T02:10:28.179731Z'
   Baldwin-county-wrongful-conviction:
     brief: 'THE CONFLICT: Murray Lawrence Jr., known as "Bubba," is accused of being
       framed...'
@@ -39,6 +117,15 @@ hooks:
       walk free while an innocent man suffered behind bars.
     generated_at: '2026-03-07T21:09:38.965012Z'
     character_count: 289
+  wrongful-conviction-fairhope-baldwin-county:
+    brief: 'THE CONFLICT: - Subject: Murray Lawrence Jr., resident of Fairhope, Baldwin
+      County...'
+    text: Fairhope looks like a postcard on the outside, but its local legal system
+      hides a dark and dangerous reality for those without connections. See how Murray
+      Lawrence Jr. became a pawn in a judicial machine that values political wins
+      over finding the actual killer and keeping our streets safe.
+    generated_at: '2026-03-07T21:09:38.965011Z'
+    character_count: 291
   earful:
     brief: THE CONFLICT - Murray Lawrence Jr. is the subject of a wrongful conviction
       case...
@@ -48,41 +135,142 @@ hooks:
       entire corrupt house of cards once and for all.
     generated_at: '2026-03-07T21:09:38.965013Z'
     character_count: 289
-  deal-with-the-devil:
-    brief: '**THE CONFLICT** - Murray "Bubba" Lawrence Jr wrongfully convicted in
-      Baldwin County...'
-    text: Power-hungry prosecutors will make a deal with the devil himself if it means
-      they can brag about another capital murder conviction. This case reveals the
-      dirty trade Wilters made to put "Bubba" Lawrence away while protecting the real
-      monsters hiding in plain sight in our community.
-    generated_at: '2026-03-07T21:09:38.965014Z'
-    character_count: 282
-  baldwin-county-judicial-corruption:
-    brief: 'THE CONFLICT: - Murray Lawrence Jr. has been incarcerated for 20 years...'
-    text: Twenty years of a man's life means nothing to the bureaucrats running the
-      Baldwin County courthouse today. We finally have the smoking gun that shows
-      how they twisted the law to keep Murray Lawrence Jr. in chains despite knowing
-      their entire case against him was a total sham.
-    generated_at: '2026-03-07T21:09:38.965015Z'
-    character_count: 276
-  but-i-didnt-do-it:
-    brief: 'THE CONFLICT: Murray Lawrence Jr. arrested in 2004 at age 24 while working
-      at Grand Hotel...'
-    text: Imagine going to work at the Grand Hotel and ending up with a life sentence
-      for a crime you never committed. The system snatched Murray Lawrence Jr. at
-      just 24 years old, and evidence shows they ignored his innocence to protect
-      the real killer's identity from coming to light.
-    generated_at: '2026-03-07T21:09:38.965016Z'
-    character_count: 276
-  alabama-ag:
-    brief: '**THE CONFLICT** - Murray "Bubba" Lawrence Jr. wrongfully convicted of
-      murder in 2005...'
-    text: The Alabama Attorney General claims to represent the people, but they often
-      just protect the mistakes of corrupt local judges. This closer look into the
-      Lawrence case shows why the AG refuses to look at the evidence that clears "Bubba"
-      and shames the entire state legal system.
-    generated_at: '2026-03-07T21:09:38.965016Z'
-    character_count: 277
+  guilty-audiobook:
+    brief: 'THE CONFLICT:
+
+      - Murray Lawrence Jr. was wrongfully convicted in Baldwin County for murder
+
+      - Anthony Lowery served as lead investigator and found no evidence against Lawrence;
+      promoted by Sheriff Hoss Mack with minimal field experience (described as carrying
+      Mack’s water)
+
+      - Robert Wilters served as Judge in the Lawrence case (later District Attorney,
+      now retired)
+
+      - Infamous prosecutor David Whetstone played a role in the wrongful conviction
+
+      - Kristy Haygood served as Assistant D.A. and filed inaccurate/false statements
+      about Lawrence to protect Wilters from exposure of malicious prosecution
+
+      - Maxwell-Tillman attorneys and Gabby Humber ultimately abandoned the case to
+      seek justice; Bar Complaints filed against both attorneys in two states
+
+
+      THE DISCOVERY:
+
+      - Article 2 reveals a July 2026 update that the book *The Framing of Murray
+      Lawrence Jr.* (published under "Alabama Exposure and Accountability") is now
+      available for purchase at Page and Pallet Bookstore or online
+
+      - The story is described as implausible in fiction but grounded in documented
+      fact, spanning law enforcement, prosecutors, defense counsel, courts, and the
+      prison system
+
+      - A separate Lagniapp Mobile article ("Advocates Discover Autopsy Never Included
+      in Baldwin Man''s Murder Trial") indicates the autopsy was never included in
+      Lawrence’s murder trial
+
+      - Lowery and Haygood are currently running for sheriff/judge positions despite
+      allegations of lying, fraud, unethical behavior, and self-serving conduct tied
+      to the wrongful conviction
+
+
+      THE PIVOT:
+
+      - Article 2 provides concrete evidence (the book, a July 2026 update, and the
+      autopsy-missing article) that substantiates Article 1’s claim that "every part
+      of this story is grounded in documented fact"
+
+      - The missing autopsy from trial (per Lagniapp Mobile link) directly supports
+      the malicious prosecution narrative named by Wilters/Haygood/Lowery
+
+      - It frames Lowery and Haygood as current candidates with prior guilt for the
+      conviction, connecting past judicial failure to present-day electoral stakes
+
+      - Article 2 confirms the book’s publication mechanism, making it a verifiable
+      artifact rather than an unsubstantiated accusation
+
+
+      KEY ENTITIES:
+
+      - Murray Lawrence Jr. (conviction subject)
+
+      - Anthony Lowery (lead investigator; sheriff candidate)
+
+      - Hoss Mack (former Sheriff; promoted Lowery)
+
+      - Robert Wilters (Judge in case; former D.A.; currently retired)
+
+      - David Whetstone (prosecutor)
+
+      - Kristy Haygood (Assistant D.A.; judge candidate)
+
+      - Maxwell-Tillman attorneys (defense counsel)
+
+      - Gabby Humber (defense attorney who abandoned the case in 11th hour)
+
+      - Page and Pallet Bookstore (sales location for the book)
+
+      - Lagniapp Mobile (source of autopsy-missing article)'
+    widget_date: 2026-04-16
+    generated_at: '2026-09-02T02:10:28.179733Z'
+  tides-end:
+    brief: 'THE CONFLICT:
+
+      - Murray Lawrence Jr. ("Bubba") was wrongfully convicted in Baldwin County,
+      Alabama.
+
+      - The case involved failures spanning law enforcement, prosecutors, defense
+      counsel, courts, and the prison system.
+
+      - A Rule 32 Petition regarding "Brady Information" (evidence favorable to the
+      defendant) withheld by the State of Alabama.
+
+      - The book "The Framing of Murray Lawrence Jr." (published/updated July 2026)
+      documents these systemic failures in Fairhope and Baldwin County.
+
+
+      THE DISCOVERY:
+
+      - Judge William Wilters, currently serving as District Attorney for the 28th
+      Judicial District, answered the Rule 32 Petition filed by Murray "Bubba" Lawrence
+      Jr.
+
+      - Judge Wilters ruled that the withholding of Brady Information by the State
+      of Alabama is NOT reversible error.
+
+      - Judge Wilters was the same judge who sat on and decided this very case previously.
+
+
+      THE PIVOT:
+
+      - Article 2 proves that the man (Judge Wilters) currently prosecuting/closing
+      the legal battle over the withheld evidence (as DA for the 28th District) is
+      also the judge who previously ruled against Lawrence on the exact issue.
+
+      - This dual role confirms the "corruption" and "framing" alleged in Article
+      1, demonstrating that the system failed to reverse the conviction because the
+      decision-maker is conflicted with the prosecutor.
+
+
+      KEY ENTITIES:
+
+      - Murray Lawrence Jr. / "Bubba" Lawrence Jr.
+
+      - Judge William Wilters (Judge on the original case; current District Attorney
+      for the 28th Judicial District)
+
+      - Baldwin County, Alabama
+
+      - Fairhope, Alabama
+
+      - State of Alabama
+
+      - Rule 32 Petition
+
+      - Brady Information'
+    widget_date: 2024-01-18
+    generated_at: '2026-09-02T02:10:28.179734Z'
   lee-county-no-justice-center:
     brief: 'THE CONFLICT: * Murray Lawrence Jr., capital murder conviction (Baldwin
       County, 2005)...'
@@ -92,3 +280,12 @@ hooks:
       is the power of the men sitting on the bench.
     generated_at: '2026-03-07T21:09:38.965017Z'
     character_count: 274
+  but-i-didnt-do-it:
+    brief: 'THE CONFLICT: Murray Lawrence Jr. arrested in 2004 at age 24 while working
+      at Grand Hotel...'
+    text: Imagine going to work at the Grand Hotel and ending up with a life sentence
+      for a crime you never committed. The system snatched Murray Lawrence Jr. at
+      just 24 years old, and evidence shows they ignored his innocence to protect
+      the real killer's identity from coming to light.
+    generated_at: '2026-03-07T21:09:38.965016Z'
+    character_count: 276

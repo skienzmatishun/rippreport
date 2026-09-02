@@ -2,7 +2,8 @@ metadata:
   generated_at: '2026-07-13T16:19:25.882647Z'
   post_slug: vote-2026
   status: staged
-  hooks_generated: false
+  hooks_generated: true
+  hooks_generated_at: '2026-09-01T15:17:30.671966Z'
 related_articles:
 - slug: a-reckoning-is-predicted
   title: A RECKONING IS PREDICTED

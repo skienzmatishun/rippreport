@@ -1,514 +1,912 @@
 metadata:
-  generated_at: '2026-08-15T23:38:09.367939Z'
+  generated_at: '2026-09-01T17:36:56.163847Z'
   generator_version: 1.0.0
   post_slug: vote-2026
+  main_date: 2026-05-18
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
-  guilty-audiobook:
-    brief: 'THE CONFLICT
-
-      Murray Lawrence Jr. was wrongfully convicted in Baldwin County, Alabama. Involved
-      parties include Hoss Mack (Former sheriff), Robert Wilters (Judge in the case),
-      and David Whetstone (Infamous prosecutor).
-
-
-      THE DISCOVERY
-
-      Candidates running for office in Baldwin County elections are linked to individuals
-      involved in the wrongful conviction and systemic corruption of the county''s
-      legal and law enforcement system.
-
-
-      THE PIVOT
-
-      The specific figures involved in past injustice serve as evidence that the current
-      political structure, voted upon in the elections (e.g., Matt McKenzie, Richard
-      Cox, Jeremiah Giles), is built upon or protected by the same institutional misconduct.
-
-
-      KEY ENTITIES
-
-      Matt McKenzie, Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill, Jeremiah
-      Giles, Grant Blackburn, Whitney Scapecchi, Terry Waters, Mike Van, Danielle
-      Dugger, Joe Freeman, Anthony Lowery, Hoss Mack, Kristy Haygood, Robert Wilters,
-      David Whetstone, Maxwell-Tillman Attorneys.'
-    generated_at: '2026-05-18T15:00:21.066722Z'
-    text: Baldwin County elections keep the same corrupt faces in power while the
-      legal system rots from the inside out. This list of candidates is directly tied
-      to the Wilters and Mack machine that stole Murray Lawrence Jr.'s life for a
-      crime he never committed.
-    character_count: 253
-  railroaded-by-the-law:
+  a-reckoning-is-predicted:
     brief: 'THE CONFLICT:
 
-      Collusion between Sheriff, District Attorney, Presiding Judge, and prosecutor
-      regarding a murder case involving Hastings and Lawrence.
+      - Anthony Lowery served as Baldwin County Sheriff (BCSO) and was the lead investigator
+      in the case of Murray Lawrence Jr.
 
-      The authorities withheld a coroner''s report from the Defense during the trial.
+      - Hoss Mack was the former Sheriff of Baldwin County, described as "over-sheriff"
+      to Lowery.
 
-      An innocent man was sent to jail for over 18 years based on a bogus theory.
+      - District Attorney Robert Wilters acted as judge in the trial of Murray Lawrence
+      Jr. and recruited Kristi Hagood.
+
+      - David Whitstone served as prosecutor/DA at the time of the Lawrence case.
+
+      - Former DA Jon Gray and Scott Boone were paid to represent Kristi Hagood in
+      a judicial campaign.
+
+      - Kristi Hagood was elected Judge despite being deemed "not qualified" for the
+      position.
+
+      - Murray Lawrence Jr. was wrongfully convicted; Lowery, Mack, Wilters, Whitstone,
+      and Hagood are accused of participating in his wrongful conviction without issuing
+      any defense statements.
 
 
       THE DISCOVERY:
 
-      An autopsy on Hastings was performed on May 14, 2003, resulting in a second
-      report that was never mentioned or made available to the defense.
+      - Hoss Mack is attempting to become head of ALEA (Alabama Law Enforcement Agency),
+      which the report claims would be a "horrible mistake."
 
-      The Alabama autopsy report indicates it was authorized by Hoss Mack under the
-      authority granted by the District Attorney Office.
+      - The Ripp Report states it personally notified ALEA about "Little Hoss" Mack''s
+      plan.
 
-      Letters and documents from the second autopsy report indicate awareness among
-      Hoss Mack, his father, Wilters, and Whetstone regarding the autopsy before Lawrence’s
-      trial.
+      - Anthony Lowery had five times as much campaign money as his opponent Matt
+      McKenzie but still lost; this is attributed to "money and GOB control" overriding
+      merit.
+
+      - Senator Chris Elliott has a secret ambition to become the Director of gaming
+      for the State of Alabama, fueled by PAC money and dark money he keeps hidden.
+
+      - A book regarding the Murray Lawrence case is with the publisher, and a TV
+      documentary is in production.
+
+      - Jon Gray and Scott Boone prioritized cashing their checks over conducting
+      proper candidate research on Hagood.
 
 
       THE PIVOT:
 
-      Article 2 provides concrete evidence of systemic corruption and withheld information
-      within the law enforcement/judicial structure (Sheriff, DA, Judge), which serves
-      as a specific example of the "corruption in Baldwin County" and lack of accountability
-      highlighted in Article 1''s call for political change and voting.
+      - The Main Article calls for Matt McKenzie to be voted for Sheriff against the
+      "corrupt culture" of the BCSO and "internal issues."
+
+      - The Widget article explains WHY the BCSO is corrupt by linking specific former
+      leaders (Mack, Lowery) to the wrongful conviction of Murray Lawrence Jr.
+
+      - The Widget proves that the current and past leadership of the BCSO was built
+      on self-promotion using the Lawrence case for political gain, directly justifying
+      the Main Article''s demand for a "clean up" rather than supporting incumbents.
+
+      - The Widget identifies Hoss Mack as the root cause ("Mack will be Lowery’s
+      downfall") and provides concrete evidence of judicial malfeasance that the Main
+      article only vaguely references as "internal issues."
 
 
       KEY ENTITIES:
 
-      Matt McKenzie
+      - Anthony Lowery (former Sheriff, low key investigator in Lawrence case)
 
-      Richard Cox
+      - Matt McKenzie (current candidate for Sheriff)
 
-      Angelo Fermo
+      - Hoss Mack (former Sheriff, seeking ALEA leadership)
 
-      Kevin Brock
+      - Robert Wilters (DA who judged Lawrence trial)
 
-      Tracey Gambill
+      - Kristi Hagood (elected Judge, accused of judicial malfeasance)
 
-      Jeremiah Giles
+      - Murray Lawrence Jr. (victim of wrongful conviction)
 
-      Grant Blackburn
+      - Jon Gray and Scott Boone (Hagood''s paid consultants)
 
-      Whitney Scapecchi
+      - David Whitstone (former DA/prosecutor in Lawrence case)
 
-      Terry Waters
+      - Chris Elliott (State Senator, aiming for gaming director role)'
+    widget_date: 2026-06-23
+    generated_at: '2026-09-01T15:17:30.644078Z'
+    text: Baldwin County voters must back Matt McKenzie to smash the corrupt Sheriff's
+      office. The Murray Lawrence case exposes how Anthony Lowery and Hoss Mack built
+      careers on a wrongful conviction while Robert Wilters protected the lie.
+    character_count: 229
+  letter-to-ag-elections:
+    brief: 'THE CONFLICT:
 
-      Mike Van
+      - Baldwin County Sheriff Huey "Hoss" Mack served as top law enforcement officer
+      for approximately 17 years (retired July 2024) to become executive director
+      of the Alabama Sheriffs Association.
 
-      Danielle Dugger
+      - Mack''s departure was mid-term; he resigned to seek another political position
+      (executive director role).
 
-      Joe Freeman
+      - Governor Kay Ivey appointed Anthony Lowery to fill the vacancy effective September
+      1, 2024. Lowery had ~20 years at BCSO (Civil Affairs Commander 2007, Chief Deputy
+      2018).
 
-      Hastings
+      - Ripp Report claims BCSO built a "culture of absolute immunity" with no transparency
+      or accountability; BCSO investigates itself via the Major Crimes Division.
 
-      Lawrence
+      - Culture attributed to Mack and passed to Lowery: self-investigation, suppressed
+      exculpatory evidence, wrongful convictions (example: Murray Lawrence Jr., 20+
+      years in prison for a murder he did not commit; Lowery was lead investigator).
 
-      Willie Huntley
+      - Political "good ole boy" cabal described as Stacy/Elliott/Haygood, then "Catalyst,"
+      now Scott Boone Consulting, controlling county office elections.
 
-      Whetstone
 
-      Hoss Mack
+      THE DISCOVERY:
 
-      Wilters'
-    generated_at: '2026-05-18T15:00:21.066731Z'
-    text: You think your vote matters, but the Baldwin County machine hides evidence
-      like secret autopsies to keep their power secure. Hoss Mack and Robert Wilters
-      buried a second coroner’s report just to railroad an innocent man for eighteen
-      years of his life.
+      - May 17, 2026 letter to Alabama Secretary of State Wes Allen and Director of
+      Elections Jeff Elrod by Francis Paul Ripp (33 years of experience).
+
+      - Letter states the primary election cycle had "more public participation than
+      in any election in 20 years plus," with most attention on the Sheriff''s race.
+
+      - The Ripp Report claims it has been "in contact with the Sec of State in reference
+      to suspected and strongly alleged reports of elections being fixed involving
+      numerous races in Baldwin County, in the past."
+
+      - Letter notes the sheriff is the custodian of ballot boxes, which "raises red
+      flags right away" given 20-year BCSO culture of no transparency/accountability.
+
+      - Elrod allegedly explained safeguards in place and advised Ripp to follow up
+      with Baldwin County officials (Ripp claims this was done).
+
+      - Ripp asks Allen/Elrod to take complaints of voter fraud in any Baldwin County
+      primary election seriously, citing "33 years of experience" as reason for caution.
+
+
+      THE PIVOT:
+
+      - Article 1 frames the May 19 primary as a chance to break the "Good Ole Boy
+      culture" and end a "20 year culture of BCSO" with no transparency or accountability.
+      It urges voters to support Matt McKenzie (vs. Lowery) for Sheriff and other
+      anti-incumbent candidates, and warns voters to watch for "alleged rigged elections,
+      fixed qualifications and absentee boxes regulated by the GOB."
+
+      - Article 2 is the smoking gun because it formally documents Ripp''s direct
+      contact with the state election officials about suspected past election-fixing
+      in Baldwin County, tying the same BCSO custody-of-ballots problem to actual
+      voter fraud allegations. It converts the "conspiracy" language of Article 1
+      into a documented request for investigation by the Secretary of State, giving
+      concrete credibility and an official channel (Wes Allen / Jeff Elrod) for the
+      complaints that Article 1 only alludes to.
+
+
+      KEY ENTITIES:
+
+      - Francis Paul Ripp (Ripp Report author/33 years experience)
+
+      - Anthony Lowery (appointed Baldwin County Sheriff, Aug/Sept 2024; former Chief
+      Deputy)
+
+      - Huey "Hoss" Mack (former Baldwin County Sheriff, ~17 years; resigned July
+      2024)
+
+      - Governor Kay Ivey (appointed Lowery in 2024)
+
+      - Wes Allen (Alabama Secretary of State)
+
+      - Jeff Elrod (Director of Elections)
+
+      - Matt McKenzie (Sheriff candidate opposing Lowery)
+
+      - Richard Cox (County Commission District 1 challenger)
+
+      - Angelo Fermo (District 2 challenger)
+
+      - Kevin Brock (District 3 challenger)
+
+      - Tracey Gambill (District 4 challenger)
+
+      - Jeremiah Giles (Circuit Court Judge, 28th Judicial Circuit, Place 7)
+
+      - Grant Blackburn (County District Court Judge, Place 1)
+
+      - Whitney Scapecchi (School Board candidate)
+
+      - Terry Waters (Senate District 22 incumbent to be voted out)
+
+      - Mike Van (Senate District 32 challenger)
+
+      - Danielle Dugger (House District 96 challenger)
+
+      - Joe Freeman (House District 95 challenger)
+
+      - Baldwin County Sheriff''s Office (BCSO) / Major Crimes Division
+
+      - Catalyst / Scott Boone Consulting ("good ole boy" political group)
+
+      - Lynn Stacy, Chris Elliott, Haygood (early good ole boy cohort)
+
+      - Murray Lawrence Jr. (wrongfully convicted case cited by Ripp)'
+    widget_date: 2026-05-17
+    generated_at: '2026-09-01T15:17:30.644083Z'
+    text: The May primary offers a rare chance to break the Sheriff Department's twenty-year
+      streak of zero accountability. State records show Francis Ripp formally warned
+      Secretary Wes Allen that Anthony Lowery holds total control over the very ballot
+      boxes used in rigged elections.
+    character_count: 274
+  good-ole-boys-lose-front-teeth:
+    brief: "THE CONFLICT:\n- The \"GOB\" (Good Ole Boy) political machine in Baldwin\
+      \ County, AL has long controlled local and state elections.\n- Past candidates/officeholders\
+      \ associated with GOB/Catalyst include: former Mayors of Bay Minette (Bob Willis),\
+      \ Spanish Fort (\"Slappin Mike\"), Robertsdale (Charlie Murphy), and others\
+      \ from the past decade or more.\n- The GOB is described as \"deaf to the voices\"\
+      \ of constituents, supported by PACs and lobbyists for \"costly fliers.\"\n\
+      - Baldwin County has a reputation for \"alleged rigged elections,\" \"fixed\
+      \ qualifications,\" and absentee boxes regulated by the GOB.\n\nTHE DISCOVERY:\n\
+      - Article 2 reveals that the GOB/Catalyst machine suffered major losses in municipal\
+      \ elections:\n    - Bay Minette: Joshua Brown defeated incumbent Mayor Bob Willis\
+      \ (two incumbent council seats also lost).\n    - Spanish Fort: Mayor Brad Bass\
+      \ won with three times the votes of Mike.\n    - Summerdale: Randy Farris won\
+      \ after 17 years without a vote for Mayor.\n    - Robertsdale: Eight-term incumbent\
+      \ Charlie Murphy finished third, triggering a runoff between Ruthie Campbell\
+      \ and Russell Johnson.\n- Article 2 explicitly states: \"A Catalyst candidate\
+      \ is a GOB candidate, plain and simple.\"\n- Catalyst (aka Scott Boone Consulting)\
+      \ is identified as the \"political promoter of GOB.\"\n\nTHE PIVOT:\n- Article\
+      \ 1 advocates voting out incumbent \"GOB\" politicians in county and state offices\
+      \ (McKenzie for Sheriff, Cox/Fermo/Brock/Gambill for County Commission, Giles/Blackburn\
+      \ for Court Judges, Scapecchi for School District, Waters/Van for Senate/Districts,\
+      \ Dugger/Freeman for House).\n- Article 2 provides the \"smoking gun\" by proving\
+      \ that the GOB machine is already being broken in local municipal elections\
+      \ (Bay Minette, Spanish Fort, Summerdale, Robertsdale).\n- The public has \"\
+      fed up with blatant corruption\" and this election proves that voters can defeat\
+      \ GOB candidates, validating Article 1's call for a county-wide anti-GOB vote.\n\
+      \nKEY ENTITIES:\n- Matt McKenzie\n- Richard Cox\n- Angelo Fermo\n- Kevin Brock\n\
+      - Tracey Gambill\n- Jeremiah Giles\n- Grant Blackburn\n- Whitney Scapecchi\n\
+      - Terry Waters\n- Mike Van\n- Danielle Dugger\n- Joe Freeman\n- Bob Willis (Mayor)\n\
+      - Joshua Brown\n- Brad Bass\n- Randy Farris\n- Charlie Murphy\n- Ruthie Campbell\n\
+      - Russell Johnson"
+    widget_date: 2025-08-27
+    generated_at: '2026-09-01T15:17:30.644504Z'
+    text: Cleaning out Baldwin County requires citizens to vote down every Good Ole
+      Boy candidate on the primary ballot. Recent municipal victories in Bay Minette
+      and Robertsdale prove voters can smash Scott Boone's corrupt Catalyst machine
+      when they show up.
+    character_count: 249
+  sheriff-huey-boss-mack-secret-police-2:
+    brief: 'THE CONFLICT:
+
+      - May 12, 2017: Jonathan Victor (unarmed) shot to death by Baldwin County Deputy
+      Matt Hunady on I-10; BCSO lacked crisis intervention teams and de-escalation
+      training per Sheriff Mack''s admission.
+
+      - March 5, 2018: Robert Yates shot to death by BCSO SWAT; >114 rounds fired
+      after one warning shot; not exigent emergency; Deputy Justin Correa (son of
+      Robert Correa) alleged "gonna go in and kill this f*cker if I have to"; video
+      described as "selective."
+
+      - 2020–2021: BCSO received >$65M funding; $700K on body/vehicle cameras pitched
+      as "accountability/transparency" while accountability was undermined.
+
+      - 2021: General fund rose $39.8M → $47.5M (19.2%); BCSO flat-funded at $33.6M
+      despite budget growth.
+
+      - Sheriff Huey "Hoss" Mack served BCSO since 1989, in office since 2007; retired
+      ~2024 to become Executive Director of Alabama Sheriffs Association; Governor
+      Kay Ivey appointed Anthony Lowery as successor in 2024.
+
+
+      THE DISCOVERY:
+
+      - September 24, 2021 (Lagniappe v. Mack et al., Ala. Supreme Court): Court held
+      law-enforcement investigative files exempt from public records under § 12-21-3.1(b)
+      even after case closure; denied Lagniappe''s ORA request for Victor body/dash
+      cam, 911 audio, photos, autopsy, and communications.
+
+      - Chief Justice Tom Parker: "end of public access to law-enforcement records
+      that are connected in any way to an investigation … the statute might as well
+      be titled the Closed Records Act."
+
+      - Alabama Press Association Chief Legal Counsel Dennis Baily: ruling would reduce
+      access to body cam video, 911 transcripts, and autopsy info available elsewhere.
+
+      - This sealed off public scrutiny of BCSO misconduct, including the Lawrence
+      wrongful conviction case (Murry Lawrence Jr., life without parole for a murder
+      with no physical evidence, DNA, fingerprints, or murder weapon; multiple alibi
+      witnesses).
+
+
+      THE PIVOT:
+
+      - Article 1 (May 2026 primary) frames "change from career politicians" and attacks
+      incumbent Sheriff Huey Mack''s record of unaccountable killings and self-investigated
+      misconduct.
+
+      - Article 2 (2021 Lagniappe ruling) is the smoking gun because it legally locked
+      down the only mechanism for public access to BCSO evidence (body cams, recordings,
+      autopsies), shielding Mack, Lowery, Wilters, Whetstone, and others from scrutiny.
+
+      - It explains why "accountability" rhetoric is hollow: even if citizens demand
+      records of deadly-force or wrongful convictions, the law now prevents it until
+      after indefinite delay.
+
+      - It connects directly to the 2026 race: Anthony Lowery (appointed by Ivey in
+      2024) and District Attorney Robert Wilters are both still in power from the
+      very case system that produced Mack''s scandals; the primary fight over "change"
+      is undercut because the legal barrier preventing public oversight was established
+      by the Lagniappe decision.
+
+
+      KEY ENTITIES:
+
+      - Huey "Hoss" Mack (BCSO Sheriff, 1989–2024)
+
+      - Anthony Lowery (BCSO Chief Deputy 2018–2024; Appointed Sheriff 2024; Running
+      in May 2026 primary against Matt McKenzie)
+
+      - Robert Wilters (Baldwin County District Attorney ~2015–present; Presiding
+      Circuit Court Judge in Murray Lawrence case)
+
+      - David Whetstone (Baldwin County DA, former prosecutor in Lawrence case)
+
+      - Jonathan Victor (Victor of May 2017 I-10 shooting)'
+    widget_date: 2023-11-20
+    generated_at: '2026-09-01T15:17:30.644511Z'
+    text: Anthony Lowery wants your vote while hiding behind decades of police brutality
+      and dead-end investigations. The Lagniappe Supreme Court ruling handed Hoss
+      Mack and DA Robert Wilters a legal iron curtain to seal bodycam footage and
+      cover up deputy shootings.
+    character_count: 257
+  lowery-puts-campaign-first-immigration-enforcement:
+    brief: 'THE CONFLICT:
+
+      - Sheriff Huey "Hoss" Mack served as Baldwin County Sheriff from 1987 until
+      his retirement effective Aug. 30, 2024 (mid-term departure to become Executive
+      Director of the Alabama Sheriffs Association).
+
+      - Gov. Kay Ivey appointed Anthony Lowery, previously BCSO Chief Deputy (2018–2024),
+      on July 27, 2024; sworn in Aug. 30, 2024. Lowery now runs for his first full
+      elected term on May 19, 2026.
+
+      - The Ripp Report (Oct. 1, 2021) alleged Mack buried evidence and concealed
+      wrongdoing by the BCSO, including: Jonathan Victor killed unarmed in May 2017;
+      Robert Yates killed during an eviction in March 2018; five people died in a
+      wrong-way BCSO pursuit on I-10 (2019); Peyon Little ruled "suicide" in a moving
+      car in 2014.
+
+      - In June 2023, former deputy Kiel filed a discrimination lawsuit against Lowery
+      (formerly against Mack), citing Christian Facebook posts posted by Kiel; the
+      case is currently active under Lowery''s administration.
+
+
+      THE DISCOVERY:
+
+      - A citizen complaint ("CONCERNED BALDWIN COUNTY CITIZEN") alleges BCSO has
+      "quietly stepped back from active cooperation with federal immigration enforcement"
+      and suggests this is tied to Lowery''s campaign.
+
+      - The complaint demands Lowery answer directly whether immigration enforcement
+      (ICE, Title 8) has been reduced or suspended and whether that decision is connected
+      to his political standing.
+
+
+      THE PIVOT:
+
+      - Article 2 is the smoking gun because it links Lowery''s current tenure (2024–2026)
+      to a direct, operational change in public safety enforcement (immigration cooperation)
+      timed with his candidacy — mirroring the Ripp Report''s core allegation that
+      BCSO leadership (Mack, then Lowery) prioritizes political survival over citizen
+      safety and conceals wrongdoing.
+
+      - The discovery undermines any narrative of "transparency and accountability"
+      (promoted in Article 1 by candidates like Whitney Scapecchi and Matt McKenzie),
+      showing the incumbent sheriff may be deprioritizing enforcement for campaign
+      protection — a factual predicate for the voter message that BCSO leadership
+      is unreliable.
+
+
+      KEY ENTITIES:
+
+      - Anthony Lowery (BCSO Sheriff, appointed Aug. 30, 2024; candidate for first
+      full term, May 19, 2026)
+
+      - Huey "Hoss" Mack (former BCSO Sheriff, 1987–2024; now Executive Director of
+      Alabama Sheriffs Association)
+
+      - Matt McKenzie (Baldwin County Commissioner District 2 candidate; former ALEA
+      officer; opponent of Lowery in the sheriff race)
+
+      - Kay Ivey (Alabama Governor who appointed Lowery)
+
+      - Francis Ripp (author/publisher of The Ripp Report)
+
+      - David Whetstone (former Baldwin County District Attorney, involved in the
+      Murray "Bubba" Lawrence wrongful conviction case)
+
+      - Robert Wilters (Baldwin County judge in the Murray Lawrence trial; later DA)
+
+      - Dale Bass (appointed by Gov. Ivey to conduct appointments review for the sheriff
+      seat)
+
+      - The Citizens of Baldwin County / Concerned Baldwin County Citizen (petitioners
+      in Article 2)'
+    widget_date: 2026-05-11
+    generated_at: '2026-09-01T15:17:30.644516Z'
+    text: Matt McKenzie promises real leadership while Anthony Lowery plays dirty
+      politics with public safety. Citizen complaints reveal Lowery quietly pulled
+      back ICE immigration enforcement to protect his re-election campaign instead
+      of protecting county residents.
+    character_count: 257
+  JUDGE-VS-SHERIFF:
+    brief: 'THE CONFLICT:
+
+      * **Lagniappe v. Mack (2021):** Lawsuit filed against Baldwin County Sheriff
+      Huey "Hoss" Mack for withholding bodycam footage of Deputy Matt Hunady shooting
+      an unarmed motorist on I-10.
+
+      * **Court Ruling:** The Alabama Supreme Court ruled that the video was not public
+      record and was protected as a privileged communication. Associate Justice Greg
+      Shaw wrote the majority opinion; Chief Justice Tom Parker dissented.
+
+      * **Sheriff Qualifications Law (Senate Bill 312):** Roughly ten years prior
+      to 2021, Senator Trip Pittman sponsored legislation requiring sheriffs to meet
+      "above the minimum standards." This allowed Sheriff Hoss Mack to eliminate competition
+      and secure his position for two terms; Baldwin County was the only county in
+      Alabama with this rule.
+
+      * **B/P Money:** Three years before SB 312 (approximately 2015), Pittman awarded
+      himself $750,000 of BP money.
+
+      * **BCSO Internal Investigations:** The Baldwin County Sheriff’s Office maintains
+      a Major Crimes Division to investigate its own cases, meaning the department
+      has never been held responsible for misconduct or officer-involved killings.
+
+      * **Election Manipulation Allegations:** The main article cites a history of
+      "rigged elections," fixed qualifications, and absentee boxes regulated by the
+      "GOB" (Good Ole Boys).
+
+
+      THE DISCOVERY:
+
+      * **Current Dispute:** Sheriff Mack and District Attorney Robert Wilters have
+      asked a judge to reverse his ruling compelling the Sheriff’s Office to return
+      a car seized by deputies earlier this month.
+
+      * **Intimidation Tactics:** The widget article describes "chicken shit intimidation
+      tactics" used in Baldwin County when officials upset "the Boss." It states the
+      judge was told his actions are unacceptable and he must reverse his decision
+      "to the satisfaction of the Sheriff."
+
+      * **Political Influence:** Sheriff Mack is noted to have "greatly influenced
+      which judges got elected," creating a power dynamic where the court risks becoming
+      a lackey for the sheriff and DA rather than an independent branch.
+
+
+      THE PIVOT:
+
+      * Article 2 serves as the "smoking gun" for Article 1 because it explicitly
+      demonstrates the active political corruption and "unbridled power" Sheriff Mack
+      exercises over the courts, which is the central argument in Article 1.
+
+      * Article 1 calls for voting out incumbents (like current Sheriff Mack) to clean
+      up a department "riddled with internal issues," but Article 2 proves that the
+      current judicial system is already compromised by Mack’s influence, validating
+      the main article’s call for accountability and transparency.
+
+      * The connection between the 2021 Lagniappe ruling (Article 2) and the current
+      car dispute (Article 2) shows a consistent pattern of the Sheriff using his
+      power to override legal mandates and intimidate judges, supporting Article 1’s
+      narrative that "the BOSS is the BOSS."
+
+
+      KEY ENTITIES:
+
+      * **Huey “Hoss” Mack** (Baldwin County Sheriff)
+
+      * **Robert Wilters** (Baldwin County District Attorney)
+
+      * **Trip Pittman** (Senator, sponsored SB 312; awarded $750,000 in BP money)
+
+      * **Deputy Matt Hunady** (Involved in Lagniappe shooting incident on I-10)
+
+      * **Lagniappe v. Mack** (2021 lawsuit regarding bodycam footage)
+
+      * **Associate Justice Greg Shaw** (Author of majority opinion in Lagniappe ruling)
+
+      * **Chief Justice Tom Parker** (Dissented in Lagniappe ruling)
+
+      * **Matt McKenzie** (Candidate for Sheriff, endorsed by main article)'
+    widget_date: 2023-09-22
+    generated_at: '2026-09-01T15:17:30.644518Z'
+    text: Real reform in Baldwin County starts with stripping unbridled power from
+      the Sheriff's Office. Sheriff Hoss Mack and DA Robert Wilters used crude intimidation
+      tactics to force a local judge to rewrite a car seizure ruling in their favor.
+    character_count: 237
+  newsletter:
+    brief: 'THE CONFLICT:
+
+      - Baldwin County has a long history of alleged rigged elections, fixed qualifications,
+      and absentee ballot boxes "regulated by the GOB" (Good Old Boys).
+
+      - A senior political figure ("the incumbent") in Senate District 32 is accused
+      of stealing BP money, passing legislation limiting sheriff qualifications, and
+      enacting laws without constituent participation.
+
+      - The County Commission and Sheriff positions are described as having internal
+      issues and being dominated by career politicians.
+
+      - The local election on May 19 was seen as a vote for "change from the status
+      quo."
+
+
+      THE DISCOVERY:
+
+      - The Ripp Report is a consumer group whose major goal is to expose political
+      corruption in Baldwin County.
+
+      - They will cover all 14 municipalities and help citizens expose problems within
+      municipal government.
+
+      - They offer free assistance, can keep identities anonymous, and publish facts
+      about candidates'' history not found elsewhere.
+
+      - A statistic is cited: approximately 30% of the population votes, and 20% of
+      those vote straight ticket, leaving only 10% who actually participate in municipal
+      government. This low participation is linked to a "high level of corruption."
+
+
+      THE PIVOT:
+
+      - The main article (VOTE) calls for specific candidates on May 19 while warning
+      of voter irregularities and corrupt governance. It frames the election as a
+      chance to fight back against career politicians and rigged processes.
+
+      - The widget article (NEWSLETTER) provides the organizational mechanism for
+      the "exposure" campaign promised in Article 1. It confirms that the Ripp Report
+      is an entity dedicated specifically to exposing political corruption in Baldwin
+      County and offering citizen tools (newsletter, fact-checking, municipal oversight).
+
+      - Article 2 is the "smoking gun" because it reveals the identity of the group
+      issuing the main article''s warnings (The Ripp Report) and establishes their
+      credibility/purpose as a watchdog group fighting the very corruption described
+      in the voter appeal. It shifts the tone from a partisan or generic "change"
+      plea to an organized consumer/civic action against specific named corruption.
+
+
+      KEY ENTITIES:
+
+      - Matt McKenzie (Sheriff candidate)
+
+      - Richard Cox (County Commission District 1 candidate)
+
+      - Angelo Fermo (County Commission District 2 candidate)
+
+      - Kevin Brock (County Commission District 3 candidate)
+
+      - Tracey Gambill (County Commission District 4 candidate)
+
+      - Jeremiah Giles (Circuit Court Judge, 28th Judicial Circuit Place 7 candidate)
+
+      - Grant Blackburn (County District Court Judge Place 1 candidate)
+
+      - Whitney Scapecchi (Baldwin County School District 5 candidate)
+
+      - Terry Waters (Senate District 22 incumbent)
+
+      - Mike Van (Senate District 32 candidate against "the worst incumbent")
+
+      - Danielle Dugger (House District 96 candidate)
+
+      - Joe Freeman (House District 95 candidate)
+
+      - Baldwin County'
+    widget_date: 2025-08-25
+    generated_at: '2026-09-01T15:17:30.644914Z'
+    text: Career politicians thrive when low voter turnout lets corrupt cabals control
+      our local elections. The Ripp Report arms citizens with cold facts across fourteen
+      municipalities to rip the lid off shady candidate records and expose courthouse
+      corruption.
     character_count: 251
-  advocates:
+  anonymous-bb:
+    brief: 'THE CONFLICT: What happened in the past? (Names/Dates)
+
+      - Nearly 20 years under Hoss Mack''s leadership, BCSO operated as a "cabal"
+      supporting the GOB rather than a functioning police agency (per Ripp Report).
+
+      - August 2018 (approximate timeframe based on "past 6 months" context): Robert
+      Yeats was killed after a five-hour siege by BCSO SWAT using armored BearCat
+      vehicle, tear gas, concussion grenades, flashbangs, and over 100 rounds fired
+      through his residence.
+
+      - BCSO refused to mediate with Yeats'' family before taking fatal action.
+
+      - Deputy Justin Correa, son of victim Robert Yeates (note: different Robert),
+      allegedly stated he was "gonna go in and kill this f*cker if I have to" during
+      the siege.
+
+      - O J French was killed by Bay Minette police officer Brandon Thompson after
+      a stop for a tail light violation; death covered up by BCMCU (Baldwin County
+      Multi-Agency Commission) which investigated itself.
+
+      - Jonathan Victor was shot four times by Deputy Hunady in April 2021; Lowery
+      claimed suicide by cop while Wilters alleged he had ketamine (later administered
+      by first responders to save him).
+
+      - Murray Lawrence Jr. spent 20+ years imprisoned for a murder he did not commit;
+      exculpatory evidence suppressed during trial.
+
+      - Wrong-way chase on I-10 killed five people, three burned to death; Mack quoted:
+      "that''s what happens when you run from the law."
+
+
+      THE DISCOVERY: What Article 2 revealed
+
+      - BB (Baldin Beat) is described as anonymous political propaganda by "political
+      operatives" attempting to elevate bad actors through anonymous messaging.
+
+      - The Ripp Report identifies itself as independent, not-for-profit, produced
+      by Francis Paul Ripp in conjunction with Alabama Exposure and Accountability
+      LLC, with no outside funding or candidate support.
+
+      - BCSO culture involves blanket immunity for self-investigating the Major Crimes
+      Unit, suppression of evidence (including autopsies), and protecting guilty parties
+      at all costs.
+
+      - Judge Kristi Hagood allegedly used inaccurate Affidavits of Interview to support
+      Rule 32 statements leading to innocent persons'' imprisonment.
+
+      - Anthony Lowery appointed by Governor Kay Ivey; described as lacking compassion
+      for victims and continuing Mack''s "culture."
+
+      - Matt McKenzie described as having "10 years" interest in sheriff position,
+      "Marine clean" record, and potential to change BCSO culture.
+
+
+      THE PIVOT: Why is Article 2 the ''smoking gun'' for Article 1?
+
+      - Article 1 (VOTE) promotes democratic change in Baldwin County elections with
+      candidates like Matt McKenzie for Sheriff, asserting need to replace "career
+      politicians" and clean up BCSO''s internal issues.
+
+      - Article 2 (ANONYMOUS-BB) provides the documented evidence base explaining
+      WHY that change is needed: decades of suppressed evidence, wrongful convictions
+      (Murray Lawrence), police killings (Yeates, Victor, French), and institutional
+      self-protection through BCMCU and Major Crimes Unit.
+
+      - BB''s anonymity is contextualized as "political consultants attempting to
+      elevate the bad" while the Ripp Report presents verifiable court filings, autopsy
+      reports, and federal lawsuit dockets that substantiate the corruption narrative.
+
+      - The pivot: Article 1 calls for action (VOTE) but lacks the specific documented
+      violations; Article 2 supplies those concrete facts, making the vote request
+      evidence-based rather than merely political rhetoric.
+
+
+      KEY ENTITIES: Specific names, organizations, locations to mention
+
+      - Francis Paul Ripp (producer of Ripp Report)
+
+      - Alabama Exposure and Accountability LLC (partner organization)
+
+      - The Ripp Report (independent consumer organization)
+
+      - Baldwin Beat / BB (anonymous political newsletter)
+
+      - Baldwin County Sheriff Office (BCSO)
+
+      - Anthony Lowery (current sheriff, appointed by Governor Kay Ivey)
+
+      - Huey "Hoss" Mack (former sheriff, retired to state position)
+
+      - Matt McKenzie (candidate for sheriff)
+
+      - Robert Yeats (victim of police siege/kill)
+
+      - Justin Correa (deputy, son of another Robert)
+
+      - Jonathan Victor (killed by deputy Hunady, 2021)
+
+      - O J French (killed by Bay Minette officer Brandon Thompson)
+
+      - Murray Lawrence Jr. (wrongfully imprisoned citizen)
+
+      - David Whetstone (prosecutor in Lawrence case)
+
+      - Kristi Hagood (judge, alleged A-I inaccuracies)
+
+      - Robert Wilters (DA and judge)
+
+      - Brandon Thompson (Bay Minette officer who killed French)'
+    widget_date: 2026-05-10
+    generated_at: '2026-09-01T15:17:30.644916Z'
+    text: Voters can back Matt McKenzie to end decades of blood and cover-ups inside
+      the Sheriff's department. While anonymous hit pieces defend the machine, public
+      records prove Anthony Lowery and Hoss Mack buried evidence in officer killings
+      and wrongful convictions.
+    character_count: 259
+  summerdale-sunshine:
     brief: 'THE CONFLICT:
 
-      Murray "Bubba" Lawrence Jr. murder trial occurred in 2003.
+      - Baldwin County political machine ("Good ole boys" / GOB) is accused of dominating
+      elections and suppressing challengers.
 
-      Criminal rights advocates discovered a second autopsy related to Lawrence Jr.''s
-      murder that was never revealed during his trial.
+      - Incumbent Sheriff named "Lowery" (implied from the context of deputies praying
+      for his removal and him being tied to "Catalyst" management).
+
+      - Lowery is the campaign manager or boss figure for "Scott Boone Consulting
+      aka Catalyst."
+
+      - Scott Boone is identified as a toxic political operator whose presence has
+      caused some loyalists to "want a divorce."
+
+      - Incumbents in multiple offices (Sheriff, County Commission, State House/Senate)
+      have been criticized for being career politicians supported by PACs and lobbyists.
+
+      - Lowery was reportedly kicked off the team by Judge Taylor; some candidates
+      now view any "Scott Boone aka Catalyst Candidate" as one NOT to vote for.
+
+      - The GOB is alleged to have rigged elections, fixed qualifications, and controlled
+      absentee boxes.
+
+      - Senate District 32 and House Districts 95/96 incumbents are described as long-term
+      holdouts (20+ years) with bad records (stealing BP money, limiting sheriff qualifications).
 
 
       THE DISCOVERY:
 
-      A second autopsy of Murray Lawrence Jr.''s 2003 murder was hidden and not included
-      in his official trial proceedings.
+      - Rep. Donna Black Givens was caught posting a "private" comment publicly on
+      Facebook (which she later deleted but screenshots of it exist).
+
+      - The comment detailed secret coordination regarding who was invited/allowed
+      to speak at the Summerdale candidate forum.
+
+      - Donna Givens is accused of trying to silence Jeremiah Giles by turning him
+      against Kristy Haygood and limiting his ability to speak.
+
+      - Donna Givens''s bill, HB51, raised "free speech" issues but died after media
+      coverage allowed her to soften it; private audio reveals a different intent
+      regarding silencing dissenting voices.
+
+      - Chris Elliott had a breakup with Jon Gray and Eddie Tyler. Jon Gray, formerly
+      Elliott’s campaign manager, is now working with Eddie Tyler to remove Elliott
+      from office.
+
+      - Jon Gray is representing multiple candidates (Kristy Haygood, Frances Jones)
+      and is described as someone who will "represent anyone who can pay his fee."
+
+      - Kristy Haygood''s legal mistakes in a Rule 32 filing for the Murray Lawrence
+      Jr. wrongful conviction case are being highlighted as disqualifying factors
+      for her judge candidacy.
 
 
       THE PIVOT:
 
-      The election process in Baldwin County (Article 1) involves individuals who
-      hold positions of power, including judges (Giles, Blackburn), county commissioners
-      (Cox, Fermo, Brock, Gambill), and state legislators (Waters, Van), suggesting
-      a systemic control or collusion that parallels the cover-up discovered in the
-      criminal justice context.
+      - The Summerdale forum (Widget Article) exposes the specific mechanisms of control
+      and intimidation used by the GOB machine (Lowery/Boone/Givens) that the Main
+      Article vaguely accuses of rigging elections.
+
+      - Givens’s deleted Facebook comment is direct evidence ("receipts") of pre-planned
+      voter manipulation and speech suppression at a key event, validating the Main
+      Article''s claim of "alleged rigged elections" and "fixed qualifications."
+
+      - The connection between Lowery (Sheriff boss) and Donna Givens (politician
+      pushing silence legislation) suggests a coordinated effort to protect the GOB
+      status quo against challengers like McKenzie, Cox, and Freeman.
+
+      - It proves that "PACs and free money from lobbyists" are not just financial
+      issues but operational control over who gets heard in elections.
 
 
       KEY ENTITIES:
 
-      Matt McKenzie, Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill, Jeremiah
-      Giles, Grant Blackburn, Whitney Scapecchi, Terry Waters, Mike Van, Danielle
-      Dugger, Joe Freeman, Murray Lawrence Jr.'
-    generated_at: '2026-05-18T15:00:21.066736Z'
-    text: The names on your ballot like Jeremiah Giles and Richard Cox thrive in a
-      system built on professional secrets and flat-out lies. Advocates just found
-      a hidden autopsy that Wilters and the gang kept in the dark to ensure another
-      wrongful conviction.
-    character_count: 248
-  justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
-    brief: 'THE CONFLICT
+      - Matt McKenzie (Sheriff candidate)
 
-      Murray Lawrence Jr was wrongfully convicted for a murder in 2005. Key figures
-      involved in the case are Robert Wilters, Anthony Lowery, Huey ''Hoss'' Mack,
-      and David Whetstone.
+      - Lowery (Incumbent Sheriff / Catalyst boss)
 
+      - Richard Cox (County Commission District 1 candidate)
 
-      THE DISCOVERY
+      - Angelo Fermo (County Commission District 2 candidate)
 
-      Key exculpatory evidence was suppressed during Murray Lawrence Jr''s trial.
-      The prosecution used unreliable testimony and ignored forensic evidence. A pattern
-      of prosecutorial misconduct existed regarding the handling of evidence and guilt
-      narrative.
+      - Kevin Brock (County Commission District 3 candidate)
 
+      - Tracey Gambill (County Commission District 4 candidate)
 
-      THE PIVOT
+      - Jeremiah Giles (Judge candidate; target of Givens’ suppression)
 
-      Article 2 reveals how power structures (legal/law enforcement) were manipulated
-      to achieve a conviction, which serves as the foundation for the political critique
-      in Article 1 regarding career politicians'' control over law enforcement and
-      the justice system.
+      - Grant Blackburn (Court Judge candidate)
 
+      - Whitney Scapecchi (School Board candidate)
 
-      KEY ENTITIES
+      - Terry Waters (Sen. candidate)
 
-      Murray Lawrence Jr
+      - Mike Van (Sen. candidate)
 
-      David Whetstone
+      - Danielle Dugger (House candidate)
 
-      Robert Wilters
+      - Joe Freeman (House candidate)
 
-      Anthony Lowery
+      - Scott Boone (Political consultant / Catalyst boss)
 
-      Huey ''Hoss'' Mack
+      - Jon Gray (Campaign manager / Political operator)
 
-      Sheriff Lowery (current)
+      - Kristy Haygood (Judge candidate; tied to gray areas of the judicial system)
 
-      Baldwin County Sheriff (current position of Anthony Lowery)
+      - Frances "WOKE" Jones (Fort Morgan official/target)
 
-      Baldwin County District Attorney (current position of Robert Wilters)'
-    generated_at: '2026-05-18T15:00:21.066739Z'
-    text: Career politicians run this county like a private club where law enforcement
-      manipulates the truth to get a win. See how Robert Wilters and Anthony Lowery
-      used suppressed evidence to bury Murray Lawrence Jr. while they climbed the
-      political ladder.
-    character_count: 248
-  justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
-    brief: 'THE CONFLICT
+      - Murray Lawrence JR (Wrongful conviction case subject)
 
-      Murray Lawrence Jr. received a wrongful conviction in 2005 following a murder
-      investigation, involving suppression of exculpatory evidence and prosecutorial
-      misconduct. Key figures involved in the case include Robert Wilters, Anthony
-      Lowery, Huey ''Hoss'' Mack, and David Whetstone.
+      - Robert Wilters (District Judge involved in Lawrence case)
 
+      - Jodi Bishop (Judge)
 
-      THE DISCOVERY
+      - Judge Scott (Judge; ally of Giles vs. Boone)
 
-      The actions taken by key figures (Wilters, Lowery, Mack, Whetstone) in the 2005
-      case were part of a pattern of suppressing evidence and misconduct, and these
-      individuals have subsequently risen to high-ranking positions in law enforcement
-      and the judiciary, demonstrating institutional power.
+      - Eddie Tyler (Candidate/Political figure allied with Gray to remove Elliott)
 
+      - Chris Elliott (Candidate being targeted by Gray/Tyler)
 
-      THE PIVOT
-
-      Article 2 provides the context for the political concerns raised in Article
-      1 by revealing that the officials running Baldwin County elections (Sheriff,
-      Judges, District Attorneys) are the same figures who participated in or benefited
-      from systemic misconduct and suppressed evidence related to wrongful convictions.
-
-
-      KEY ENTITIES
-
-      Murray Lawrence Jr., Robert Wilters, Anthony Lowery, Huey ''Hoss'' Mack, David
-      Whetstone, Matt McKenzie, Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill,
-      Jeremiah Giles, Grant Blackburn, Whitney Scapecchi, Terry Waters, Mike Van,
-      Danielle Dugger, Joe Freeman.'
-    generated_at: '2026-05-18T15:00:21.066742Z'
-    text: The same men asking for your vote today are the ones who ignored the law
-      to secure a fake conviction in 2005. Robert Wilters and Anthony Lowery traded
-      a man’s freedom for high-ranking positions, and now they want to run the whole
-      show forever.
-    character_count: 243
-  7432-days-in-jail:
+      - Donna Black Givens (Rep.; HB51 sponsor; accused of voter suppression tactics)'
+    widget_date: 2026-01-24
+    generated_at: '2026-09-01T15:17:30.644917Z'
+    text: The Good Ole Boy network relies on fixed rules and secret deals to keep
+      corrupt incumbents in power. A leaked Facebook post exposes how Representative
+      Donna Givens plotted to silence candidate Jeremiah Giles and protect political
+      insider Kristy Haygood at a public forum.
+    character_count: 271
+  end-the-good-ole-boy-culture-in-baldwin-county:
     brief: 'THE CONFLICT:
 
-      Murray Lawrence Jr. spent 7432 days in jail for a crime he did not commit.
+      *   **The "Catalyst" Network:** The article identifies a political cabal operating
+      in Baldwin County for decades under various names, specifically Stacy, Elliot,
+      and Haygood, which later became Catalyst, and is now represented by Scott Boone
+      Consulting.
 
-      Sheriff Hoss Mack, Prosecutor David Whetstone, and Judge Robert Wilters are
-      implicated in withholding vital information during the trial.
+      *   **Sheriff Hoss Mack:** Former Sheriff of Baldwin County described as the
+      "driving force" of this network who put many Judges and Mayors into office.
+
+      *   **Long-Term Incumbency:** Key officials (Mayors, Judges) held power for
+      15 to 30+ years, creating a system described as ripe for corruption where incumbents
+      are deemed deaf to constituents but alert to the cabal''s influence.
+
+      *   **Recent Election Irregularities:** The main article references Baldwin
+      County''s reputation for "alleged rigged elections," "fixed qualifications,"
+      and "absentee boxes regulated by the GOB."
 
 
       THE DISCOVERY:
 
-      The officials responsible for Murray Lawrence Jr.''s wrongful imprisonment (Sheriff,
-      Prosecutor, Judge) allegedly conspired to withhold evidence, leading to an innocent
-      man spending 7432 days in jail.
+      *   **The Identity of the Shadow Operations:** Article 2 reveals that the public-facing
+      entity Scott Boone Consulting is the current front for the political machine
+      known as Catalyst/Cristian.
+
+      *   **Specific Corruption Claims:** It alleges that this network controls Mayors,
+      council members, and Judges, and specifically criticizes Bay Minette for a Mayor
+      who prioritizes himself over constituents.
+
+      *   **The "Slappin Mike" Reference:** The text explicitly refers to a candidate
+      named "Slappin Mike," asserting they should have been shown the door, and lists
+      Brad Bass (Spanish Fort) as an alternative.
 
 
       THE PIVOT:
 
-      Article 2 reveals that the systemic issues of rigged elections and corruption
-      alleged in Article 1 are connected to the potential for law enforcement/judicial
-      figures within Baldwin County (or similar jurisdictions) to engage in criminal
-      conspiracies and cover-ups regarding incarceration.
+      *   **Concrete Evidence of Manipulation:** While Article 1 calls for voting
+      out incumbents generally, citing vague issues like lack of transparency or PAC
+      influence, Article 2 provides the *operational model* behind those elections—the
+      specific network that allegedly rigs qualifications and controls outcomes.
+
+      *   **The "Smoking Gun" Connection:** The main article''s warning about a sheriff
+      department riddled with internal issues and qualified judges being blocked directly
+      correlates with the "Catalyst" network''s history of placing judges in office
+      (mentioned by Hoss Mack). Article 2 explains *how* those positions were secured,
+      providing context for why the candidates in Article 1 are fighting a rigged
+      system.
+
+      *   **The Name Change:** The revelation that Catalyst is now Scott Boone Consulting
+      connects the public''s suspicion of "GOB" politics (referenced in both articles)
+      to a specific, nameless corporate entity behind the scenes.
 
 
       KEY ENTITIES:
 
-      Murray Lawrence Jr
+      *   Hoss Mack (Former Baldwin County Sheriff)
 
-      Hoss Mack
+      *   Anthony Lowery (Successor to Hoss Mack)
 
-      David Whetstone
+      *   Scott Boone Consulting (Current front for "Catalyst")
 
-      Robert Wilters
+      *   Lynn Stacy (Founder of Stacy, Elliot and Haygood)
 
-      Matt McKenzie
+      *   Chris Elliott (County Commissioner/Co-founder of network)
 
-      Richard Cox
+      *   Brad Brass (Spanish Fort candidate; note text says "Brad Bass" in one line
+      and "Brad Bass" in another, likely a typo for Bass/Bass)
 
-      Angelo Fermo
+      *   Slappin Mike (Candidate to be voted out)
 
-      Kevin Brock
-
-      Tracey Gambill
-
-      Jeremiah Giles
-
-      Grant Blackburn
-
-      Whitney Scapecchi
-
-      Terry Waters
-
-      Mike Van
-
-      Danielle Dugger
-
-      Joe Freeman'
-    generated_at: '2026-05-18T15:00:21.066746Z'
-    text: Baldwin County's rigged elections ensure that the men who run the jail never
-      have to answer for their own criminal acts. Hoss Mack and Robert Wilters conspired
-      to steal 7,432 days from an innocent man by hiding the truth from the jury during
-      his trial.
-    character_count: 252
-  no-justice:
-    brief: 'THE CONFLICT:
-
-      Murray Lawrence Jr. murder case involving Brandon Hastings. Evidence regarding
-      the autopsy was suppressed from the defense during the trial.
-
-
-      THE DISCOVERY:
-
-      A second autopsy of Brandon Hastings existed which was ordered by the District
-      Attorney and signed by the judge, but was never revealed in the trial. The official
-      cause of death was suffocation, not a gunshot.
-
-
-      THE PIVOT:
-
-      The suppression of evidence (Article 2) establishes a pattern of willful misconduct
-      by legal authorities (Judge Robert Wilters, District Attorney Robert Wilters,
-      Sheriff Hoss Mack) which provides context for the alleged rigged elections and
-      lack of accountability discussed in Article 1 regarding Baldwin County politicians.
-
-
-      KEY ENTITIES:
-
-      Matt McKenzie
-
-      Richard Cox
-
-      Angelo Fermo
-
-      Kevin Brock
-
-      Tracey Gambill
-
-      Jeremiah Giles
-
-      Grant Blackburn
-
-      Whitney Scapecchi
-
-      Terry Waters
-
-      Mike Van
-
-      Danielle Dugger
-
-      Joe Freeman
-
-      Murray Lawrence Jr.
-
-      Hoss Mack
-
-      David Whetstone
-
-      Robert Wilters
-
-      Brandon Hastings
-
-      Ballwin County'
-    generated_at: '2026-05-18T15:00:21.066749Z'
-    text: Local politicians claim they want law and order, but they really want a
-      system that ignores the facts of the case. Sheriff Hoss Mack and Robert Wilters
-      buried an autopsy showing a man suffocated just so they could close a murder
-      case with a convenient lie.
-    character_count: 256
-  bcso-how-to-become-sheriff:
-    brief: 'THE CONFLICT:
-
-      *   Sheriff Matt McKenzie is a key political figure being voted upon in Baldwin
-      County elections.
-
-      *   The Sheriff''s office operates under alleged control by the "Good ole boys"
-      (GOB).
-
-      *   A murder case involving Murray "Bubba" Lawrence Jr. and Brandon Hastings
-      took place, resulting in a wrongful conviction.
-
-      *   Sheriff Hoss Mack was elected and promoted for assisting in the wrongful
-      conviction of Murray Lawrence Jr.
-
-
-      THE DISCOVERY:
-
-      *   Investigators (Mack, Lowery, McGowan) failed to produce evidence in the
-      murder case of Lawrence and Hastings.
-
-      *   Exculpatory evidence regarding the murder was held back from the defense
-      by Sheriff Mack, District Attorney David Whetstone, and Judge Robert Wilters.
-
-      *   The investigation revealed that Jarius McNeal was the sole person responsible
-      for Brandon Hastings'' death.
-
-      *   Sheriff Mack sent an innocent man to life without parole, while the actual
-      killer received a path to parole.
-
-
-      THE PIVOT:
-
-      *   Article 2 reveals the criminal and systemic corruption within the Sheriff''s
-      office (including Sheriff Mack) that is implicitly endorsed or protected by
-      the political figures being elected in Article 1.
-
-      *   The failure of the legal system (as detailed in Article 2) demonstrates
-      why voters should change positions like Sheriff McKenzie (Article 1).
-
-
-      KEY ENTITIES:
-
-      *   Matt McKenzie
-
-      *   Hoss Mack
-
-      *   Anthony Lowery
-
-      *   Dean McGowan
-
-      *   Murray "Bubba" Lawrence Jr.
-
-      *   Brandon Hastings
-
-      *   Jarius McNeal
-
-      *   David Whetstone
-
-      *   Robert Wilters'
-    generated_at: '2026-05-18T15:00:21.066753Z'
-    text: In this county, you don’t become Sheriff by following the law; you get the
-      badge by helping the Good Old Boys bury their mistakes. Hoss Mack sent an innocent
-      man to prison for life while giving the actual killer a clear path to early
-      parole.
-    character_count: 241
-  innocent:
-    brief: 'THE CONFLICT
-
-      Murray "Bubba" Lawrence was convicted of capital murder in Baldwin County, Alabama,
-      on May 13, 2005.
-
-
-      THE DISCOVERY
-
-      The investigation and trial for Murray Lawrence''s case were characterized by
-      inept police work, lack of evidence (no fingerprints, no weapon, no DNA), and
-      a timeline that proved it was impossible for the defendant to travel to the
-      murder and disposal sites. The prosecution relied solely on testimony from an
-      accomplice (Jarius McNeil).
-
-
-      THE PIVOT
-
-      The failure and alleged corruption within the legal and law enforcement system
-      regarding the Murray Lawrence case suggest a systemic lack of justice in Baldwin
-      County, which aligns with the Main Article''s concerns about rigged elections
-      and GOB influence affecting local political appointments.
-
-
-      KEY ENTITIES
-
-      Murray "Bubba" Lawrence Jr
-
-      Jarius McNeil
-
-      Brandon Hastings
-
-      David Whetstone (District Attorney)
-
-      Hoss Mack (Lead Investigator/Sheriff of Baldwin County)
-
-      Robert Wilters (Judge/District Attorney)
-
-      Baldwin County, Alabama
-
-      May 6, 2003 (Murder Date)
-
-      May 13, 2005 (Conviction Date)'
-    generated_at: '2026-05-18T15:00:21.066756Z'
-    text: The GOB machine picks its winners at the ballot box and its victims in the
-      courtroom to maintain control. David Whetstone and Hoss Mack ignored a lack
-      of DNA and an impossible timeline just to put Murray Lawrence behind bars to
-      satisfy the mob.
-    character_count: 244
-  lee-county-no-justice-center:
-    brief: 'THE CONFLICT:
-
-      Matt McKenzie, Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill, Jeremiah
-      Giles, Grant Blackburn, Whitney Scapecchi, Terry Waters, Mike Van, Danielle
-      Dugger, Joe Freeman were involved in recent Baldwin County elections. The main
-      article alleges rigged elections and control by "GOB."
-
-
-      THE DISCOVERY:
-
-      The Auburn Police Department officer, who later worked for Lee County Jail,
-      fired a weapon through a door at Cole Barkley after responding to a call regarding
-      an alleged threat, resulting in Barkley being charged with attempted murder
-      and sentenced to 45 years. The sentencing occurred in the Lee County Justice
-      Center presided over by Judge Tickle, a former prosecutor.
-
-
-      THE PIVOT:
-
-      Article 2 provides a specific case study (Cole Barkley) demonstrating the systemic
-      failure of accountability described in Article 1 regarding law enforcement and
-      the judiciary ("Justice Center Fraternity") within the context of Baldwin County/Lee
-      County jurisdictions.
-
-
-      KEY ENTITIES:
-
-      Matt McKenzie, Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill, Jeremiah
-      Giles, Grant Blackburn, Whitney Scapecchi, Terry Waters, Mike Van, Danielle
-      Dugger, Joe Freeman, Cole Barkley, Auburn Police department, Lee County Jail,
-      Judge Tickle.'
-    generated_at: '2026-05-18T15:00:21.066759Z'
-    text: The Justice Center Fraternity protects its own members while they throw
-      the book at any citizen standing in their way. Judge Tickle helped sentence
-      Cole Barkley to 45 years after an officer blindly fired a gun through a closed
-      door at the victim.
-    character_count: 246
+      *   Angie Swiger (Gulf Shores candidate)'
+    widget_date: 2025-08-25
+    generated_at: '2026-09-01T15:17:30.644918Z'
+    text: Throwing out long-term incumbents requires understanding the hidden machinery
+      controlling Baldwin County. Scott Boone Consulting operates as the secret front
+      for the old Catalyst network that Hoss Mack used to handpick compliant judges
+      and mayors for decades.
+    character_count: 259

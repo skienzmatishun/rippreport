@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a0e8e90fb93cea-MIA
+Cf-Ray: a34fec9aa980b4aa-MIA
 Content-Type: application/json
-Date: Wed, 12 Aug 2026 16:38:20 GMT
+Date: Wed, 02 Sep 2026 22:24:20 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=j7etPIu4vA5Xj84o2YB8%2Fg0uiTrmWH1wciQDb4QwoPWug6r0UgNwB7pr9HcV7AYQVZe%2FGfCVdcMIa1mmf4f1pbR1p%2B4r0FGiHaOok7ED5S%2FLXEsJIPfYgqTK%2BRCFK%2BXC9IQMLwuRGnoYN60t4LjY7XxKAQ%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=oAdcdBMtSA8tVLzRy7x4aDmEEkRdTetpL7frX8xVJ1AwSESVeRtVXYIGjdsHXbw942Y7nAkXJaA6T4Pg7%2Fe9RZ3W8h0GNIPf1DIfgjZyO8IrPaXFt78QOsL4RZT0tPV5xu1peLpLffaBD0xnu8aJNPAOXQ%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=618
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=446
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 10517dcbc909b16eb06852b9bb9aa08f
-X-Etags-2: 10517dcbc909b16eb06852b9bb9aa08f
+X-Etags-1: 9e0c74f668ffd897aedddd85ae303d89
+X-Etags-2: 9e0c74f668ffd897aedddd85ae303d89
 
-{"title":"ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL","description":"Self-serving politicians sold out local taxpayers to fund a multi-million-dollar real estate scheme. Real estate files and tax documents reveal how officials skimmed school revenues to bankroll a vacant cow pasture. What did these officials trade away just to secure their piece of the political pie?","url":"https://rippreport.com/p/elliotttuckercatalyst-selling-your-soul/","image":"https://rippreport.com/img/elliott-tucker-catalyst-selling-your-soul.jpg","charset":"utf-8"}
+{"title":"ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL","description":"Self-serving politicians sold out local taxpayers to fund a multi-million-dollar real estate scheme. Real estate files and tax documents reveal how officials skimmed school revenues to bankroll a vacant cow pasture. What did these officials trade away just to secure their piece of the political pie?","url":"https://rippreport.com/p/elliotttuckercatalyst-selling-your-soul/","image":"https://rippreport.com/img/elliott-tucker-catalyst-selling-your-soul.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/elliotttuckercatalyst-selling-your-soul/","wasRedirected":false}

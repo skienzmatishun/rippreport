@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a0e82ccd823cea-MIA
+Cf-Ray: a34febe26c1eb4aa-MIA
 Content-Type: application/json
-Date: Wed, 12 Aug 2026 16:37:50 GMT
+Date: Wed, 02 Sep 2026 22:23:50 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BspMSrBM1Mzl2KN%2BjX%2FbOQXeAGpAWuNsbEczlczv1XDDvzcaY9vcGUDwtPsfI5m0fEAQGV3CTLwFBsqsqTYZBWNNhR1EJhTNwWT5IBdIlme9rYJm7E5e3MGa0l%2FPoJTmLiM%2B9AXiS90PNTWE3iU%2BwRGC2A%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nkEIS%2FV%2BbP5NJb0CHup06ru2IUZBCZ9P6v4gTbVK37Zegsv%2FKo06siqujcY5Yfg888Uz%2Fe%2BqCZ0EC0PD51ps3IRQ082Lh4aXickK6gmxgm4eWu4k9ivIRzjPO9Yh%2B8NfkSUidAvohN5wmp4rHVGyWVw5Ow%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=426
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=400
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: c14bd2711c17c17eaf3ff18db7a1d02f
-X-Etags-2: c14bd2711c17c17eaf3ff18db7a1d02f
+X-Etags-1: 5bec37e1ffdb3c3216a9fbb82ef22e77
+X-Etags-2: 5bec37e1ffdb3c3216a9fbb82ef22e77
 
-{"title":"ALABAMA ATTORNEY GENERAL","description":"The Ripp Report filed two complaints with the Alabama Attorney General’s office. For misconduct by the Alabama Ethics Commission’s director and requests a review of past dismissed complaints. And the wrongful conviction of Murray Lawrence in Baldwin County.","url":"https://rippreport.com/p/alabama-attorney-general/","image":"https://rippreport.com/img/alabama-attorney-general1.jpg","charset":"utf-8"}
+{"title":"ALABAMA ATTORNEY GENERAL","description":"The Ripp Report filed two complaints with the Alabama Attorney General’s office. For misconduct by the Alabama Ethics Commission’s director and requests a review of past dismissed complaints. And the wrongful conviction of Murray Lawrence in Baldwin County.","url":"https://rippreport.com/p/alabama-attorney-general/","image":"https://rippreport.com/img/alabama-attorney-general1.jpg","charset":"utf-8","originalUrl":"https://rippreport.com/p/alabama-attorney-general/","wasRedirected":false}

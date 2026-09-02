@@ -1,22 +1,11 @@
 metadata:
-  generated_at: '2026-08-15T23:38:10.070250Z'
+  generated_at: '2026-09-02T22:00:17.607556Z'
   generator_version: 1.0.0
   post_slug: audio-of-bay-minette-attorney-councilman-fight-offers-new-details
+  main_date: 2025-11-23
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
-  FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT:
-    text: Harry Still’s audio reveals a deep-seated fear of Al Tolbert’s police department
-      for good reason. This federal lawsuit proves Tolbert and Hoss Mack lead a "Major
-      Crimes Unit" designed to bury evidence and protect their own from the O.J. French
-      murder investigation.
-    generated_at: '2026-03-07T09:53:09.284277Z'
-    character_count: 265
-  heart-of-dixie-podcast:
-    text: The Bay Minette police claim they acted on a spontaneous street fight to
-      arrest Harry Still. However, a leaked internal email proves Sheriff Anthony
-      Lowery ordered deputies to target Still long before any charges were filed,
-      exposing a high-level hit job against a political enemy.
-    generated_at: '2026-03-07T09:53:09.284342Z'
-    character_count: 281
   former-summerdale-police-chief-kevin-brock:
     text: Harry Still’s shady arrest in downtown Bay Minette looks like a rerun of
       the same illegal tactics used to crush Chief Kevin Brock. Anthony Lowery’s propaganda
@@ -24,13 +13,325 @@ hooks:
       even has a chance to work.
     generated_at: '2026-03-07T09:53:09.284345Z'
     character_count: 262
-  the-law-enforcement-narrative-2:
-    text: Trying to commit Harry Still to a mental institution is a classic move to
-      silence someone who knows where the bodies are buried. This investigation connects
-      Still’s legal persecution to a string of suspicious deaths under Sheriff Huey
-      Mack’s watch that the "Major Crimes Unit" keeps hidden.
-    generated_at: '2026-03-07T09:53:09.284827Z'
-    character_count: 290
+  heart-of-dixie-podcast:
+    text: The Bay Minette police claim they acted on a spontaneous street fight to
+      arrest Harry Still. However, a leaked internal email proves Sheriff Anthony
+      Lowery ordered deputies to target Still long before any charges were filed,
+      exposing a high-level hit job against a political enemy.
+    generated_at: '2026-03-07T09:53:09.284342Z'
+    character_count: 281
+  not-guilty-innocent:
+    brief: 'THE CONFLICT:
+
+      - Sept. 3, 2025: Harry Still (Bay Minette attorney) and Matthew Franklin (City
+      Councilman) physically fought in Franklin’s downtown Bay Minette office; the
+      scuffle continued onto the street.
+
+      - Still was arrested on a misdemeanor assault charge after being restrained
+      while allegedly grabbing or touching him.
+
+      - Former Mayor Bob Wills, former Police Chief Al Tolbert, and police statements
+      claimed Still attacked Franklin first.
+
+      - Still countered that Franklin attacked him first and grabbed his dog, threatening
+      to kill both of them.
+
+      - In 2019–2020, Still’s Baldwin County courthouse security pass was revoked
+      for “suspicious” cellphone behavior and alleged aggression toward city officials.
+
+      - BMPD unsuccessfully filed a petition to have Still committed to a mental institution.
+
+      - The death of O.J./Otis French in Bay Minette (ruling: “justified”) remained
+      tied to police misconduct that Still represented victims of.
+
+
+      THE DISCOVERY:
+
+      - A jury returned a NOT GUILTY verdict for Harry Still after five minutes of
+      deliberation; he was declared “INNOCENT.”
+
+      - Judge Marcus McDowell (Bay Minette Municipal Court) ignored the audio recordings
+      Still provided, which showed officers asking witnesses what they saw, and failed
+      to follow legal process.
+
+      - Circuit Court Judge Scott Taylor dismissed the mental-commitment petition;
+      McDowell should have recused himself due to Alabama Bar complaints in the Ronan
+      McSherry assault case represented by Still.
+
+      - Baldwin County Sheriff Lowery issued a “beware of Harry Still” bulletin to
+      officers before his conviction.
+
+      - State Sen. Chris Elliott filed (and failed) legislation citing Still’s incident
+      as inspiration for harsher punishments for attacking local politicians.
+
+      - Al Tolbert, now with BCSO, denied telling his officers to “get the f_ck out”
+      before Joshua Brown took office; Still claimed to have relayed this conversation
+      to Franklin.
+
+      - Matt Franklin admitted in court multiple times that he threatened to kill
+      Harry Still and his dog.
+
+      - Lowery’s bulletin, the defamation for “challenging status quo,” and the failed
+      legislation all surfaced as part of the legal fallout.
+
+
+      THE PIVOT:
+
+      - Article 2 is the smoking gun because it proves the NOT GUILD verdict, exposing
+      municipal court Judge McDowell’s failure to use the audio evidence and his conflict
+      of interest.
+
+      - It reveals Sheriff Lowery’s pre-arrest “beware” bulletin and police defamatory
+      actions that cost Still $tens of thousands in legal costs.
+
+      - The legislation by Sen. Chris Elliott citing Still’s case as inspiration further
+      corroborates political weaponization, while Franklin’s in-court admission of
+      threats validates Still’s account that he was the aggressor.
+
+      - These facts directly counter the official timeline promoted by Wills and Tolbert
+      in Article 1.
+
+
+      KEY ENTITIES:
+
+      - Harry Still (Bay Minette Attorney)
+
+      - Matt/ Matthew Franklin (Bay Minette City Councilman)
+
+      - Al Tolbert (Former Bay Minette Police Chief / BCSO)
+
+      - Bob Wills (Former Mayor of Bay Minette)
+
+      - Joshua Brown (Newly Elected Mayor of Bay Minette)
+
+      - Otis/O.J. French (Victim of fatal police shooting)
+
+      - Baldwin County Sheriff Lowery
+
+      - Marcus McDowell (Bay Minette Municipal Court Judge / Fairhope Municipal Attorney)
+
+      - Scott Taylor (Circuit Court Judge)
+
+      - Clark Stankowski (Circuit Court Judge for Appeal)
+
+      - Chris Elliott (State Senator)
+
+      - Robert Wilters (District Attorney)
+
+      - Hoss Mack (Former Sheriff)
+
+      - David Whetstone (Former Prosecutor)
+
+      - Kristy Haygood (Recently Elected Judge)
+
+      - Ronan McSherry (Defendant in Assault Case)'
+    widget_date: 2026-06-13
+    generated_at: '2026-09-02T12:40:28.135842Z'
+    text: Local officials tried to frame defense attorney Harry Still as a violent
+      lunatic who started a street fight with Councilman Matt Franklin. But a jury
+      needed only five minutes to declare Still innocent, exposing how Judge McDowell
+      hid audio evidence while Sheriff Lowery spread defamatory warnings.
+    character_count: 297
+  primary-postpartum:
+    brief: 'THE CONFLICT:
+
+      - September 3, 2025: Physical altercation between Bay Minette defense attorney
+      Harry Still and City Councilman Matthew Franklin occurred in downtown Bay Minette;
+      audio evidence suggests Franklin initiated the fight and threatened to kill
+      Still’s dog.
+
+      - Official Version: Former Mayor Bob Wills and former Police Chief Al Tolbert
+      stated that Still attacked Franklin in his office, leading to Still''s arrest
+      by the Baldwin County Sheriff’s Office (BCSO) and Bay Minette Police Department
+      (BMPD).
+
+      - Judicial Outcome: Despite the initial charges, a jury subsequently acquitted
+      Harry Still of the assault charges.
+
+      - Political Context: Joshua Brown won the mayoral election against Bob Wills
+      on August 26; Al Tolbert resigned from his role as BMPD Chief on November 3,
+      amid claims (alleged by Still) that Tolbert instructed officers to leave before
+      Brown took office.
+
+      - Additional Allegations: Harry Still alleged that BSO and Pritchard authorities
+      targeted him because of his independent investigation into the death of Danny
+      Williams (Orange Beach Mayor Tony Kennon''s close friend) in May 2022, specifically
+      citing missing body camera footage and a "dry drowning" diagnosis.
+
+
+      THE DISCOVERY:
+
+      - The widget article confirms that Harry Still was legally proven innocent and
+      acquitted by a jury for the assault charges brought against him by local law
+      enforcement.
+
+      - Still asserts on the podcast ("Heart of Dixie") that the arrest and prosecution
+      were a coordinated "setup" designed to silence him while he investigated local
+      corruption involving Mayor Tony Kennon and the police department.
+
+      - The podcast links Still''s legal troubles to the investigation into Danny
+      Williams'' death in Perdido Pass, suggesting motive for local officials to discredit
+      or remove Still from his investigative role.
+
+      - It explicitly states that the initial news narrative (that Still had a history
+      of aggression and was tied to building lockdowns) was misleading because it
+      ignored the jury verdict of innocence.
+
+
+      THE PIVOT:
+
+      Article 2 serves as the "smoking gun" for Article 1 because it reframes the
+      conflict depicted in the main article from one of an alleged violent assault
+      by a suspect attorney to one of government overreach and wrongful prosecution
+      against a legitimate investigator. The main article presents the fight as a
+      contested incident where police "didn''t get his side," while the widget article
+      proves that the criminal charge itself was baseless (acquittal), thereby validating
+      Still''s claim that he was targeted for his independent work rather than simply
+      having a physical altercation. It shifts the focus from a personal dispute to
+      systemic misconduct by local law enforcement and political leadership.
+
+
+      KEY ENTITIES:
+
+      - Harry Still (Bay Minette Defense Attorney, Investigator)
+
+      - Matthew Franklin (Bay Minette City Councilman)
+
+      - Bob Wills (Former Bay Minette Mayor)
+
+      - Al Tolbert (Former Bay Minette Police Chief)
+
+      - Joshua Brown (Elected Mayor of Bay Minette)
+
+      - Danny Williams (Victim of May 2022 fatal incident at Perdido Pass)
+
+      - Tony Kennon (Orange Beach Mayor)
+
+      - Tommy Tuberville (U.S. Senator, Alabama, Residency Lawsuit)
+
+      - Roy Moore (Former Chief Justice of Alabama, Defamation Award $8.2M)
+
+      - Brandon Moseley (Podcast Co-Host, Heart of Dixie)
+
+      - Baldwin County Sheriff’s Office (BCSO)
+
+      - Bay Minette Police Department (BMPD)
+
+      - Pritchard Police Department
+
+      - U.S. Supreme Court'
+    widget_date: 2026-06-20
+    generated_at: '2026-09-02T12:40:28.135849Z'
+    text: City bosses painted Harry Still as a rogue lawyer who attacked Councilman
+      Matt Franklin without warning. The jury's total acquittal proves the arrest
+      was a sham, exposing a dirty cover-up meant to stop Still from investigating
+      Mayor Tony Kennon and a suspicious death.
+    character_count: 268
+  a-new-hope:
+    brief: 'THE CONFLICT:
+
+      - Sept. 3: Harry Still (Bay Minette attorney and former city prosecutor) fought
+      with Matthew Franklin (city councilman) in downtown Bay Minette.
+
+      - Still was arrested; official timeline from former Mayor Bob Wills and former
+      Police Chief Al Tolbert stated Still attacked Franklin in his office.
+
+      - Still claimed Franklin attacked him first, including grabbing at Still’s dog
+      and threatening to kill him and the dog.
+
+      - Sept. 4: Still told Lagniappe that police failed to get his side of the story
+      before arresting him; audio later showed officers asking witnesses what happened.
+
+      - Nov. 3 (implied by timeline context): Al Tolbert resigned from Bay Minette
+      Police Chief position.
+
+      - Aug. 26: Joshua Brown wins mayoral election against Bob Wills.
+
+      - Dec. 14, 2021 (inferred): Still scheduled to appear in Baldwin County Municipal
+      Court.
+
+      - 2019/2020: Still’s Baldwin County Courthouse security pass revoked for “suspicious”
+      phone behavior and alleged aggression toward city officials; BMPD unsuccessfully
+      petitioned court to commit him to a mental institution; he was barred from city
+      facilities by bond conditions.
+
+
+      THE DISCOVERY:
+
+      - Article 2 reveals Still was convicted in Bay Minette Municipal Court for the
+      Franklin altercation but later found not guilty in a jury trial de novo.
+
+      - Still argues the prosecution was politically motivated because Franklin, as
+      a councilman, would vote on Still’s reappointment as city prosecutor; witnesses’
+      testimony was inconsistent.
+
+      - Still cites audio evidence proving Franklin was the initial aggressor.
+
+      - Prosecutor Liam Scully (son of a judge) is criticized as unprepared; Scully
+      recently lost an election to Grant Blackburn.
+
+      - Still claims systemic retaliation involving former Police Chief Al Talbert,
+      Judge Marcus McDowell (2022 bar complaint), and other local officials; he was
+      removed from a police station by officers in tactical gear.
+
+      - Still plans to sue Mayor Wills, local news outlets, and the City of Bay Minette
+      for defamation and malicious prosecution.
+
+      - Sen. Chris Elliott state legislation is alleged by Still to be retaliatory
+      in response to his case.
+
+
+      THE PIVOT:
+
+      - Article 2’s not-guilty de novo verdict directly contradicts Article 1’s premise
+      that police and city officials had secured a conviction against Still for attacking
+      Franklin.
+
+      - The audio evidence highlighted in both articles shows inconsistencies between
+      Still’s account and the official version, making the jury acquittal the pivotal
+      legal counterpoint.
+
+      - Article 2 reframes the conflict from “attacker vs. victim” to “victimized
+      by politically motivated prosecution,” which is why it is the key context for
+      understanding Article 1’s fight over narrative control in the public audio.
+
+
+      KEY ENTITIES:
+
+      - Harry Still (Bay Minette attorney, former city prosecutor)
+
+      - Matthew / Matt Franklin (Bay Minette City Councilman)
+
+      - Bob Wills (Former Bay Minette Mayor)
+
+      - Al Tolbert / Al Talbert (Former Bay Minette Police Chief)
+
+      - Joshua Brown (Mayor-Elect of Bay Minette)
+
+      - Otis French (Victim of fatal police shooting, referenced context)
+
+      - Baldwin County Sheriff’s Office
+
+      - Bay Minette Police Department (BMPD)
+
+      - Liam Scully (Prosecutor, son of a judge; lost election to Grant Blackburn)
+
+      - Grant Blackburn
+
+      - Judge Marcus McDowell
+
+      - Sen. Chris Elliott (Alabama Senate legislation referenced)
+
+      - Danielle Duggar (Candidate running against Terry; general election context)
+
+      - Doug Jones (U.S. Senate candidate)'
+    widget_date: 2026-05-25
+    generated_at: '2026-09-02T12:40:28.135851Z'
+    text: Mayor Bob Wills and Chief Al Tolbert rushed to blame Harry Still for the
+      downtown brawl with Councilman Matt Franklin. The de novo jury trial shattered
+      their fake story, revealing that Franklin made death threats while prosecutor
+      Liam Scully pushed a bogus political hit job.
+    character_count: 275
   bay-minette-vote-out-mayor-wills-remember-oj-french:
     text: Still refused to call 911 because he knew Bob Wills and Al Tolbert ran a
       "good ole boy" system built on lies. See the proof of how Wills misled the community
@@ -38,6 +339,121 @@ hooks:
       face real justice.
     generated_at: '2026-03-07T09:53:09.284837Z'
     character_count: 254
+  sheriff-huey-boss-mack-secret-police-2:
+    brief: 'THE CONFLICT:
+
+      *   September 3, 2025 (implied current year based on Sept. 4 follow-up): Harry
+      Still, Bay Minette attorney and former security at Baldwin County Courthouse,
+      engaged in a physical altercation with Matthew Franklin, City Councilman, in
+      downtown Bay Minette.
+
+      *   Former Mayor Bob Wills and Police Chief Al Tolbert officially claimed Still
+      attacked Franklin in his office; audio from the incident shows Franklin yelling
+      "Get the f_ck out of my office" at Still and threatening to kill Still’s dog.
+
+      *   Al Tolbert resigned as Bay Minette Police Chief on Nov. 3, following Joshua
+      Brown''s victory over Bob Wills in the Aug. 26 mayoral election; video evidence
+      revealed Tollbert allegedly told officers to "quit before [Brown gets in]" office.
+
+      *   In Dec. 2021, Still was scheduled for court regarding a prior incident (implied
+      Oct/Nov) where he was arrested after being barred from city facilities due to
+      revoked security pass for “suspicious” phone use and aggression toward officials;
+      his competency was unsuccessfully challenged by the BMPD.
+
+      *   The Lagniappe lawsuit (filed circa 2019-2020, decision Sept. 30, 2021) sought
+      public access to law enforcement investigative records including body cam footage,
+      autopsies, and 911 transcripts.
+
+
+      THE DISCOVERY:
+
+      *   The *Lagniappe v. Baldwin County* legal decision (Sept. 30, 2021) granted
+      a blanket exemption for "investigative privilege" that barred public access
+      to ANY law enforcement records connected in any way to an investigation in Alabama.
+
+      *   Judge William Cassady (U.S. District Court) ruled that plaintiffs made an
+      adequate showing of recurring potential violations, triggering liability even
+      without established patterns.
+
+      *   Chief Justice Tom Parker called it a "Closed Records Act" and the Alabama
+      Press Association noted citizens lose access to body cams, surveillance video,
+      911 transcripts, and autopsies.
+
+      *   This legal framework enabled the BCSO to suppress or withhold video/audio
+      evidence in high-profile cases: the May 2017 death of Jonathan Victor (alleged
+      lack of crisis intervention training), March 5, 2018 shooting of Robert Yates
+      by SWAT firing >114 rounds into his home after he was silent for hours and fired
+      only one warning shot; the uninvestigated strangulation of confidential informant
+      Peyton Little in a moving car (no questions asked); and other BCSO cases without
+      FBI/ALEA involvement.
+
+      *   BCSO received over $65M in 2020-2021 despite lacking de-escalation training
+      as of 2017; Sheriff Huey “Boss” Mack’s private business (Hoss Mack Funeral Home)
+      held a county contract for deceased persons under special circumstances, creating
+      conflicts of interest.
+
+
+      THE PIVOT:
+
+      *   The Lagniappe decision is the "smoking gun" because it legally insulated
+      BCSO and municipal law enforcement from public oversight by sealing all investigative
+      records, including the audio recordings central to Harry Still’s dispute with
+      Matthew Franklin (Sept. 2025), Al Tolbert’s resignation video, and prior BCSO
+      shootings.
+
+      *   Without the Lagniappe precedent, the Bay Minette police could have been
+      held accountable for suppressing or denying access to the Sept. 3 fight audio
+      that contradicted Wills and Tolbert''s official account; instead, this decision
+      allows agencies to cite "investigative privilege" to withhold evidence in cases
+      involving officers like Al Tolbert (resigning Nov. 3) or BCSO deputies involved
+      in Victor, Yates, Little deaths.
+
+      *   The Lagniappe ruling created a legal vacuum where police misconduct, including
+      the "secret police" dynamics of Sheriff Mack and his deputies'' participation
+      in the Yates incident, can be investigated internally without external scrutiny,
+      directly enabling the concealment that Harry Still alleges regarding the Sept.
+      3 fight.
+
+
+      KEY ENTITIES:
+
+      *   Harry Still (Bay Minette Attorney)
+
+      *   Matthew Franklin (City Councilman)
+
+      *   Bob Wills (Former Bay Minette Mayor)
+
+      *   Al Tolbert (Former Bay Minette Police Chief)
+
+      *   Joshua Brown (Mayor-Elect of Bay Minette)
+
+      *   Otis French (Victim of fatal police shooting, likely unrelated but listed
+      in original context)
+
+      *   Huey “Boss” Mack (Baldwin County Sheriff)
+
+      *'
+    widget_date: 2023-11-20
+    generated_at: '2026-09-02T12:40:28.135852Z'
+    text: Police chiefs and politicians hid behind official statements after Harry
+      Still brawled with Councilman Matt Franklin. A catastrophic court ruling gave
+      Sheriff Huey "Boss" Mack the legal power to lock away audio recordings, letting
+      corrupt cops like Al Tolbert bury critical evidence without public oversight.
+    character_count: 308
+  the-law-enforcement-narrative-2:
+    text: Trying to commit Harry Still to a mental institution is a classic move to
+      silence someone who knows where the bodies are buried. This investigation connects
+      Still’s legal persecution to a string of suspicious deaths under Sheriff Huey
+      Mack’s watch that the "Major Crimes Unit" keeps hidden.
+    generated_at: '2026-03-07T09:53:09.284827Z'
+    character_count: 290
+  FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT:
+    text: Harry Still’s audio reveals a deep-seated fear of Al Tolbert’s police department
+      for good reason. This federal lawsuit proves Tolbert and Hoss Mack lead a "Major
+      Crimes Unit" designed to bury evidence and protect their own from the O.J. French
+      murder investigation.
+    generated_at: '2026-03-07T09:53:09.284277Z'
+    character_count: 265
   biased-investigation:
     text: Al Tolbert’s sudden jump from Bay Minette Chief to the Sheriff’s Office
       confirms the deck was always stacked against Harry Still. This report uncovers
@@ -45,31 +461,3 @@ hooks:
       protects the very officers they are supposed to investigate.
     generated_at: '2026-03-07T09:53:09.285602Z'
     character_count: 287
-  foot-in-his-mouth:
-    text: The political heat between Harry Still and Councilman Franklin is just the
-      tip of the iceberg in Baldwin County. Follow the money and the laws to see how
-      Chris Elliott acts as a puppet for the Sheriff’s Office to keep local police
-      departments under his thumb.
-    generated_at: '2026-03-07T09:53:09.285609Z'
-    character_count: 259
-  cover-up:
-    text: Harry Still’s distrust of Bob Wills isn’t just a personal grudge; it’s a
-      response to years of documented corruption. Documents show Wills engaged in
-      $867,000 self-dealing schemes while Al Tolbert used his position to scrub any
-      real investigation into the death of Otis French.
-    generated_at: '2026-03-07T09:53:09.285616Z'
-    character_count: 276
-  communication:
-    text: The chaos in Bay Minette mirrors a county-wide rot where police reports
-      vanish and city attorneys play favorites. See how the same communication breakdowns
-      used to target Harry Still are being used in Fairhope to protect the powerful
-      and bury the truth from the public.
-    generated_at: '2026-03-07T09:53:09.285780Z'
-    character_count: 269
-  one-woman-2:
-    text: Harry Still’s fight against the Bay Minette establishment is the same battle
-      being fought by victims of the "witch hunt" in Fairhope. We expose how Baldwin
-      County officials use assault cases as political weapons to destroy their rivals
-      and protect the "good ole boy" network.
-    generated_at: '2026-03-07T09:53:09.285782Z'
-    character_count: 275

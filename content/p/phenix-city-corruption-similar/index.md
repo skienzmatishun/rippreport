@@ -5,8 +5,6 @@ thumbnail: img/phenix-city-corruption-similar.png
 description: Fairhope's city administrator receives vanity award while Phenix City
   administrator faces corruption charges
 tags:
-- archive
-- historical
 - gregg-mims
 - city-administrator
 - accma-award

@@ -2,7 +2,8 @@ metadata:
   generated_at: '2026-07-13T16:25:44.337430Z'
   post_slug: some-things-never-change
   status: staged
-  hooks_generated: false
+  hooks_generated: true
+  hooks_generated_at: '2026-09-01T22:00:23.440464Z'
 related_articles:
 - slug: eddie-tyler-exits-stage-left
   title: Eddie Tyler Exits Stage Left

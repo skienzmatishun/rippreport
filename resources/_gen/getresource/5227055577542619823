@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2b4133a4f66fc4a-MIA
+Cf-Ray: a34fec495ddbb4aa-MIA
 Content-Type: application/json
-Date: Sat, 15 Aug 2026 00:27:58 GMT
+Date: Wed, 02 Sep 2026 22:24:06 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hCDI9j8CDOpiYAdCfDqogXA8JHEf4uiuUosDsrYePuTKPhLVPwrsps3uVWZ81LtcHiy7JXF6TPW%2BO7gY6Qc6be0N%2BVczTfI%2Fm7PS3nNMpS%2F%2FnkIrC1wAMfyDPUB%2Fcs5fxR1wPu1swUnitbyW%2FoDLkYliXA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rgYXnv%2Fuk6ehUfTAwwEG9WezAGyWGPMJVlwSKX4a%2FU8K%2Bm7xPcycjzqD2IJaUjRMSYlvHPIlY94ggSxJG7VxdnOUJPQBJx9MTynXdAsam%2BTUEUAOBiLA57J%2BJb1%2B5xsfcPZbJeU3xKX4Y0V%2FQ58uN2lESQ%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=15841
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=143
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 8327535a7aecaf1c53461e86cba0caab
-X-Etags-2: 8327535a7aecaf1c53461e86cba0caab
+X-Etags-1: ce5b3a932dbb6acad364d53528e4cc9d
+X-Etags-2: ce5b3a932dbb6acad364d53528e4cc9d
 
-{"title":"Corporation Wiki - Find Connections between People and Companies","description":"The future of corporate history. Discover more about the companies and people that you do business with.","url":"https://www.corporationwiki.com/","image":"https://cdn.corporationwiki.com/public/images/corporationwiki-icon-fb.png","charset":"utf-8","originalUrl":"https://www.corporationwiki.com/","wasRedirected":false}
+{"error":"Upstream returned 410","url":"https://www.corporationwiki.com/","title":"Preview unavailable","description":"Could not fetch preview data"}

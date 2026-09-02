@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a93e0218c5aea4-MIA
+Cf-Ray: a34fec347d11b4aa-MIA
 Content-Type: application/json
-Date: Thu, 13 Aug 2026 16:54:32 GMT
+Date: Wed, 02 Sep 2026 22:24:04 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=D5Bc3tjTZlnJbDJr16PEmY6mMV5gXMzwzIp%2Fa9Uvq3x2RgDsLjdz36llZ7nq59lBdop1FUS46v0fUcIk1%2FMSyLiO03uB69pz0fY8Fl3SKNT%2F7MzLlLi3t8AWhBmjLc74KtgnNraEcFmcsbf4oe0hJ3l2lA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2gjswmYVAbOJtATLNSqAdtCQD%2Bc9MhSfy8P6qq24X08hylEpVQycqQ8BnPCbCmPPwviBdRNnB8hHskknr1SF74xVP9g5icsik7Ru3wyoClCLCcnWeXfVRk6Dw5aQ95oSCqTpu933BJCoNHm%2FMaa5adYljA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=227
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=902
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: a4985acb6fc98f1ebc67f7c8ce8e031a
-X-Etags-2: a4985acb6fc98f1ebc67f7c8ce8e031a
+X-Etags-1: 008bb5a479b89176b9d3be30928ebaf1
+X-Etags-2: 008bb5a479b89176b9d3be30928ebaf1
 
-{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/opinion/columnists/dtt/marshall-reveals-a-lot-with-hart-firing/article_20eb7d0d-8996-561e-8bd7-642f64fd0a28.html","title":"Preview unavailable","description":"Could not fetch preview data"}
+{"title":"Marshall reveals a lot with Hart firing","description":"At least we didn’t have to wait long to find out what Steve Marshall is all about. Alabama’s newly elected attorney general took just 13 days before giving comfort to","url":"https://www.lagniappemobile.com/opinion/columnists/dtt/marshall-reveals-a-lot-with-hart-firing/article_20eb7d0d-8996-561e-8bd7-642f64fd0a28.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/b/53/b5395e7e-804e-531f-b153-0d3ba858fef7/630ebc0bdf119.image.jpg?crop=1625%2C853%2C0%2C1&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/opinion/columnists/dtt/marshall-reveals-a-lot-with-hart-firing/article_20eb7d0d-8996-561e-8bd7-642f64fd0a28.html","wasRedirected":false}

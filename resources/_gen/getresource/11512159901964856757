@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a0e8025c863cea-MIA
+Cf-Ray: a34febb148bcb4aa-MIA
 Content-Type: application/json
-Date: Wed, 12 Aug 2026 16:37:43 GMT
+Date: Wed, 02 Sep 2026 22:23:42 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yju0LhSQmsAwzLhb%2FPgJ3CLm3aJPAl8phrRbRf1kAimC7IwMFHVV0IZytG3D7XjuC91HxtP0VRfA4S91sqlE8WD0r%2Bmw6GLs%2BB4JFhcEvjUxsQhDIYbtvg3hC8y3SCoJ4sxeGugZcGHW6Ct%2Fu9Hq4miKyQ%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8zpbQ7PSfwe3BmUaMy4eZUMMvCnA0fOjTA6q%2Fhr0a93oTHp60aHpYhp%2BkFmv5j2zo0eSuBQztOYovTCQrMYVCtuKFZCExumhb8foPV2icekyZ1d271JslcVEX8KyBCbl7sOOUv56Dkdhcqw1i5k8n6BE7w%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=567
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=440
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: a69a1b8fa87086f667ad6d0712745c68
-X-Etags-2: a69a1b8fa87086f667ad6d0712745c68
+X-Etags-1: 19ff7411c2cd5d5eece7fe777eba27d8
+X-Etags-2: 19ff7411c2cd5d5eece7fe777eba27d8
 
-{"title":"FAUXHOPE - KNOW THE BACKSTORY","description":"Former Mayor Tim Kant and developer Angelo Corte forced reckless developments through city channels at the expense of local infrastructure. Environmental soil analysis and city records link severe Fly Creek damage directly to developer construction runoff. Fairhope citizens were left holding the multi-million dollar bill for years of backroom political favors.","url":"https://rippreport.com/p/fauxhope-know-the-backstory/","image":"https://rippreport.com/img/fauxhope-know-the-backstory.png","charset":"utf-8"}
+{"title":"FAUXHOPE - KNOW THE BACKSTORY","description":"Former Mayor Tim Kant and developer Angelo Corte forced reckless developments through city channels at the expense of local infrastructure. Environmental soil analysis and city records link severe Fly Creek damage directly to developer construction runoff. Fairhope citizens were left holding the multi-million dollar bill for years of backroom political favors.","url":"https://rippreport.com/p/fauxhope-know-the-backstory/","image":"https://rippreport.com/img/fauxhope-know-the-backstory.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/fauxhope-know-the-backstory/","wasRedirected":false}

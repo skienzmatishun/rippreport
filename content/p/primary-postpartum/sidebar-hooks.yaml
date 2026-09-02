@@ -1,7 +1,10 @@
 metadata:
-  generated_at: '2026-08-15T23:38:09.233771Z'
+  generated_at: '2026-09-01T11:40:46.387616Z'
   generator_version: 1.0.0
   post_slug: primary-postpartum
+  main_date: 2026-06-20
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
   not-guilty-innocent:
     brief: 'THE CONFLICT:
@@ -59,56 +62,6 @@ hooks:
       exposing how Judge Marcus McDowell rigged the game to protect Orange Beach Mayor
       Tony Kennon.
     character_count: 245
-  a-new-hope:
-    brief: 'THE CONFLICT:
-
-      Harry Still was arrested and charged with assaulting Bay Minette City Councilman
-      Matt Franklin for alleged aggressive behavior toward city officials and prior
-      building lockouts. Still later became acquitted by a jury, claiming the charges
-      were a setup to stop his investigation into Mayor Tony Kennan regarding the
-      May 2022 death of Danny Williams at Perdido Pass.
-
-
-      THE DISCOVERY:
-
-      Article 2 confirms Harry Still was initially convicted in Bayminette Municipal
-      Court for an altercation with Matt Franklin before later being found not guilty
-      in a jury trial de novo. Article 2 reveals Still plans to file civil lawsuits
-      against Mayor Wills, the City of Bayminette, and local news outlets for defamation
-      and malicious prosecution. It also alleges Al Tolbert (former Police Chief)
-      and Judge Marcus McDowell are part of systemic political retaliation.
-
-
-      THE PIVOT:
-
-      Article 1 claims Still was framed by "local officials" to disrupt his investigation
-      into Mayor Kennan’s circle. Article 2 provides specific, documented details
-      of the legal sequence concerning Still''s case—listing a prior conviction followed
-      by an acquittal, naming Matt Franklin as the alleged initial aggressor in court
-      testimony, and outlining future civil litigation against local figures like
-      Mayor Wills, confirming the localized political/legal battle referenced in Article
-      1.
-
-
-      KEY ENTITIES:
-
-      Harry Still
-
-      Matt Franklin (Bay Minette City Councilman)
-
-      Tony Kennan (Mayor, mentioned in Art 1) / Mayor Wills (Art 2 target)
-
-      Liam Scully (Prosecutor cited in both contexts)
-
-      Al Tolbert (Former Police Chief, referenced in Art 2 allegations)
-
-      Marcus McDowell (Judge, referenced in Art 2 allegations)'
-    generated_at: '2026-06-20T16:23:43.253927Z'
-    text: The political hit squad in Bay Minette thought they could silence Harry
-      Still with a sham arrest. Now the tables have turned as Still prepares to sue
-      Mayor Wills and Al Tolbert for the systemic retaliation that nearly destroyed
-      his life.
-    character_count: 237
   audio-of-bay-minette-attorney-councilman-fight-offers-new-details:
     brief: 'THE CONFLICT: Harry Still was arrested for allegedly assaulting Bay Minette
       City Councilman Matt Franklin on September 3. Still alleged he was framed while
@@ -221,269 +174,428 @@ hooks:
       political event, using a jailhouse photo to turn a local attorney into a marked
       man.
     character_count: 238
-  bsp118:
-    brief: 'THE CONFLICT:
-
-      - Harry Still was arrested for allegedly assaulting Bay Minette City Councilman
-      Matt Franklin.
-
-      - The podcast host noted Still was subsequently acquitted of these charges.
-
-      - Still alleged the arrest/charges were a setup to silence his investigation
-      into Mayor Tony Kennon regarding the May 2022 death of Danny Williams at Perdido
-      Pass.
+  a-reckoning-is-predicted:
+    brief: 'THE CONFLICT: In May 2022, Danny Williams, close friend to Orange Beach
+      Mayor Tony Kennan, died at Perdido Pass under circumstances that included an
+      alleged "dry drowning" diagnosis and missing body camera footage. Local defense
+      attorney Harry Still began an independent investigation into these anomalies
+      and was seeking subpoenas regarding potential misconduct. Shortly after, Still
+      was arrested for allegedly assaulting Bay Minette City Councilman Matt Franklin;
+      a news broadcast prior to the trial highlighted his history of aggressive behavior
+      toward officials and involvement in a previous city building lockdown.
 
 
-      THE DISCOVERY:
-
-      - Harry Still is confirmed as a Republican candidate running for Attorney General
-      of Alabama.
-
-      - The Backstory Podcast highlights public corruption in Alabama, linking Mr.
-      Ripp''s watchdog work to observations by Mr. Still in his law practice.
-
-      - It mentions the FBI raid on Prichard Water Board (a specific event discussed
-      generally in Article 1).
-
-
-      THE PIVOT:
-
-      - Article 2 establishes Harry Still''s current political status and affiliation
-      (Republican/AG candidate) alongside explicit references to public corruption
-      issues, connecting his alleged past "setup" narrative directly into the contemporary
-      political landscape being investigated by figures like Francis Paul Ripp.
+      THE DISCOVERY: The widget article reveals that former Sheriff Hoss Mack is currently
+      trying to become head of the Alabama Law Enforcement Agency (ALEA). The article
+      identifies specific individuals from the wrongful conviction of Murray Lawrence
+      Jr.—Anthony Lowery (BCSO Chief Investigator), Robert Wilters (District Attorney
+      who served as judge in the trial), Kristi Hagood (elected Judge recruited by
+      Wilters and supported by consultants Jon Gray and Scott Boone), and Hoss Mack
+      (Sheriff acting as "over-sheriff" to Lowery)—as all being complicit in that
+      case. It further states that The Ripp Report has personally notified ALEA of
+      Mack''s plans and predicts his appointment would be a "horrible mistake."
 
 
-      KEY ENTITIES:
-
-      - Harry Still
-
-      - Tony Kennon
-
-      - Danny Williams
-
-      - Bay Minette City Councilman Matt Franklin
-
-      - Tommy Tuberville
-
-      - Barry Moore
-
-      - Prichard Police Department (and/or Water Board)
-
-      - Attorney General Steve Marshall
-
-      - Troy King
-
-      - Francis Paul Ripp
-
-      - Raines Rushin'
-    generated_at: '2026-06-20T16:23:43.253974Z'
-    text: Harry Still isn't just a victim of a local setup. He is taking the fight
-      all the way to the Attorney General’s office. His run for AG connects the dots
-      between Bay Minette’s small-town thuggery and the massive FBI raids rocking
-      the Prichard Water Board.
-    character_count: 253
-  black-cloud:
-    brief: 'THE CONFLICT:
-
-      Harry Still was arrested for allegedly assaulting Bay Minette City Councilman
-      Matt Franklin. He later received an acquittal in that case.
-
-      Still alleged the arrest was part of a setup while investigating the May 2022
-      death of Danny Williams at Perdido Pass, which involved Tony Kennan (Orange
-      Beach Mayor).
-
-
-      THE DISCOVERY:
-
-      The second article reveals widespread themes across Alabama governance, including
-      land fraud (Strawman lawsuit involving Burke and Delaney), judicial overreach/disenfranchisement
-      (Buridick motion against Thomason''s appointments), ethics violations (Tom Albritton
-      using his position for personal financial gain), and a pattern of officials
-      hiding information from the public.
-
-
-      THE PIVOT:
-
-      Article 1 centers on Harry Still’s specific claims of being framed by local
-      officials to stop an investigation into corruption involving Tony Kennan and
-      the death of Danny Williams. Article 2 provides systemic evidence—documenting
-      land fraud, judicial misconduct, ethics breaches (Albritton), and governmental
-      lack of transparency in Baldwin County and statewide—which validates Still''s
-      core premise that "The Machine" is engaged in widespread, unchecked institutional
-      corruption.
+      THE PIVOT: Article 1 features Harry Still investigating police misconduct and
+      local corruption in Baldwin County (specifically targeting Mayor Tony Kennan
+      and the handling of Danny Williams'' death). Article 2 provides the context
+      that the very institutions and individuals Still is attacking—the BCSO leadership
+      (Lowery, Mack), the judicial system (Hagood, Wilters), and the broader "GOB"
+      political machine—were previously implicated in a specific case of wrongful
+      conviction (Murray Lawrence Jr.) and are currently involved in other abuses
+      (BCSO internal lack of transparency). It shows that the police corruption Still
+      is investigating today is not isolated but part of a systemic pattern involving
+      these specific named officials.
 
 
       KEY ENTITIES:
 
-      Harry Still, Matt Franklin, Danny Williams, Tony Kennan, Tommy Tuberville, Pritchard
-      Police Department, Mobile County Sheriff, Tom Albritton, Burke, Delaney, John
-      Wall, Councilman Boone, Thomason.'
-    generated_at: '2026-06-20T16:23:43.253999Z'
-    text: Institutional rot in Baldwin County goes far deeper than a single fake arrest.
-      From Tom Albritton’s ethics breaches to widespread land fraud, 'The Machine'
-      works overtime to hide the corruption that Harry Still was busy digging up.
-    character_count: 231
-  southern-gothic:
-    brief: 'THE CONFLICT:
+      * Harry Still
 
-      - Harry Still was arrested and subsequently acquitted of allegedly assaulting
-      Bay Minette City Councilman Matt Franklin.
+      * Tony Kennan (Mayor, Orange Beach)
 
-      - Still claimed the arrest was a setup stemming from his investigation into
-      Danny Williams'' death in May 2022 at Perdido Pass, involving Tony Kennan (Mayor).
+      * Matt Franklin (City Councilman, Bay Minette)
 
+      * Danny Williams
 
-      THE DISCOVERY:
+      * Anthony Lowery (BCSO Sheriff)
 
-      - The Widget Article establishes a long-standing conflict in Baldwin County
-      against corruption.
+      * Hoss Mack (Former BCSO Sheriff, ALEA aspirant)
 
-      - It identifies Harry Still as an attorney who challenged local corruption and
-      paid a price for his candor within Baldwin County.
+      * Robert Wilters (District Attorney/Judge)
 
-      - It references past corruption events like the 2010 actions of "familiar faces"
-      on the Baldwin County Commission and Steve Russo/Larry Sutley''s 2005 prosecution.
+      * Kristi Hagood (Judge)
 
+      * Jon Gray
 
-      THE PIVOT:
+      * Scott Boone
 
-      - Article 2 contextualizes Harry Still’s actions (from Article 1) not as isolated
-      legal issues, but as part of a historical pattern of corruption in Baldwin County
-      that he has consistently challenged over time. It frames his current struggles
-      as an ongoing battle against entrenched interests.
+      * Murray Lawrence Jr.
+
+      * David Whitstone
+
+      * Matt McKenzie'
+    widget_date: 2026-06-23
+    generated_at: '2026-09-01T11:40:46.392683Z'
+  alabama-ethics-vs-tony-kennon:
+    brief: 'THE CONFLICT: Harry Still was arrested in Bay Minette for allegedly assaulting
+      City Councilman Matt Franklin. He claims this was a setup by Orange Beach Mayor
+      Tony Kennon and local officials to stop an independent investigation into the
+      May 2022 "dry drowning" death of Danny Williams, who is described as a close
+      friend of Mayor Kennon.
 
 
-      KEY ENTITIES:
-
-      - Harry Still
-
-      - Bay Minette City Councilman Matt Franklin
-
-      - Tony Kennan
-
-      - Danny Williams
-
-      - Baldwin County
-
-      - Steve Russo
-
-      - Larry Sutley'
-    generated_at: '2026-06-20T16:23:43.254005Z'
-    text: Baldwin County has a long, nasty history of punishing anyone who talks too
-      much about local graft. Harry Still is just the latest target in a decades-long
-      war where 'familiar faces' use the badge to protect their own interests and
-      bank accounts.
-    character_count: 245
-  moore-of-the-chucky-cheeze-and-jack-burrell-show:
-    brief: 'THE CONFLICT:
-
-      *   Harry Still was arrested for allegedly assaulting Bay Minette City Councilman
-      Matt Franklin. He was later acquitted.
-
-      *   Still alleged he was framed while investigating the May 2022 death of Danny
-      Williams at Perdido Pass, implicating Orange Beach Mayor Tony Kennan and local
-      law enforcement.
+      THE DISCOVERY: A formal ethics complaint has been filed against Tony Kennon
+      for conflicts of interest, improper influence, threats toward elected officials,
+      and transparency failures. The Ethics Commission is described by the Ripp Report
+      as corrupt and ineffective. Tom Albritton, the Ethics Director, was previously
+      forced off the Mabel Amos Memorial Fund trusteeship but retained $120,000 and
+      sought to have his legal fees covered through insurance claims. Three Ethics
+      Commissioners (Greg Pappas, George Pierce, David Pruet) allegedly did not know
+      about Albritton’s litigation or self-dealing accusations until the public was
+      aware. The Attorney General and Alabama Bar are accused of "whitewashing" complaints
+      regarding the trust and protecting each other and politicians from legal consequences.
+      Katherine Robertson, currently running for AG, avoided debate on the Ethics
+      Director''s misconduct during her campaign.
 
 
-      THE DISCOVERY:
-
-      *   Jack Burrell and Chuckee are actively engaged in smear campaigns against
-      Fairhope''s Mayor (unnamed specific person in widget article) and related political
-      figures.
-
-      *   Chuckee is using these attacks to deflect from past failures, specifically
-      noting that nothing Chuckee printed about the Fairhope Mayor since 2017 proved
-      anything.
-
-      *   Tripp Pittman is alleged to have stolen $750,000 from BP and served on the
-      Alabama Ethics Commission without proper accountability.
-
-
-      THE PIVOT:
-
-      *   The Main Article details a specific legal setup involving an accusation
-      against Still intended to silence him while investigating Mayor Kennan; the
-      Widget Article reveals that similar coordinated political attacks (using "Chucky"
-      imagery) are currently being deployed in Fairhope, suggesting a pattern of using
-      fabricated narratives or smears to undermine local leadership.
+      THE PIVOT: Article 2 establishes the institutional breakdown that allowed the
+      corruption alleged in Article 1 to persist. It demonstrates that the very bodies
+      (Ethics Commission, Bar, AG) charged with policing attorneys like Harry Still
+      are themselves corrupted by Albritton’s self-dealing and have an active history
+      of dismissing or ignoring complaints filed by The Ripp Report. This explains
+      why Kennon can survive a "setup" and allegations of violence without facing
+      real legal accountability, as the oversight systems in Article 2 are proven
+      to be non-functional and complicit with local power figures.
 
 
       KEY ENTITIES:
 
-      *   Harry Still
+      * Harry Still (Attorney, Ripp Report)
 
-      *   Matt Franklin
+      * Tony Kennon / Kennan (Orange Beach Mayor)
 
-      *   Tony Kennan
+      * Matt Franklin (Bay Minette City Councilman)
 
-      *   Danny Williams
+      * Danny Williams (Deceased friend of Mayor Kennon, died May 2022)
 
-      *   Jack Burrell
+      * Tom Albritton (Ethics Director)
 
-      *   Chuckee
+      * Greg Pappas (Ethics Commissioner)
 
-      *   Tripp Pittman
+      * George Pierce (Ethics Commissioner)
 
-      *   Fairhope Mayor (unspecified)
+      * David “Chips” Pruet (Ethics Commissioner)
 
-      *   Orange Beach
+      * Byron B Mathews (Attorney, Mabel Amos Trust counsel)
 
-      *   Bay Minette'
-    generated_at: '2026-06-20T16:23:43.254009Z'
-    text: Jack Burrell is using the same dirty playbook against Fairhope that officials
-      used to trap Harry Still. These political hacks manufacture fake narratives
-      and character attacks to shield corrupt leaders like Tony Kennon from real accountability.
-    character_count: 244
-  investigative-reporting:
+      * Allen Dodd (Deputy Alabama Attorney General)
+
+      * Tommy Gallion (Attorney for Megan Carmack)
+
+      * Ashby Pate (Attorney for Albritton and Clifton)
+
+      * Steve Marshall (Alabama Attorney General)
+
+      * Katherine Robertson (Chief Counsel, AG Candidate)
+
+      * Jay Mitchell (Opponent in AG Runoff)
+
+      * Roy Moore (Former Chief Justice)
+
+      * Tommy Tuberville (Senator, Residency Lawsuit)
+
+      * Barry Moore (Primary Candidate)
+
+      * John Wall (Primary Candidate)'
+    widget_date: 2026-06-21
+    generated_at: '2026-09-01T11:40:46.392686Z'
+  sheriff-huey-boss-mack-secret-police-2:
     brief: 'THE CONFLICT:
 
-      - Harry Still was arrested for allegedly assaulting Bay Minette City Councilman
-      Matt Franklin.
+      - Harry Still, an Alabama defense attorney based in Prichard, was arrested for
+      allegedly assaulting Bay Minette City Councilman Matt Franklin.
 
-      - Still was later acquitted by a jury of the charges.
+      - Prior to the trial, local media framed Still as aggressive toward officials
+      and involved in a prior lockdown of city buildings.
 
-      - Still alleged he was being targeted to derail his investigation into Tony
-      Kennan regarding Danny Williams’ May 2022 death at Perdido Pass.
+      - Still claims these charges were a setup to silence him because he was leading
+      an independent investigation into the May 2022 death of Danny Williams (close
+      friend of Orange Beach Mayor Tony Kennan) at Perdido Pass.
+
+      - Still identifies anomalies in the Williams case: alleged missing body camera
+      footage and a “dry drowning” diagnosis.
 
 
       THE DISCOVERY:
 
-      - The second article reveals past corruption and legal issues involving BP Fraud
-      contracts, specifically implicating Mayor Kant and Senator Trip Pittman.
+      - Article 2 (Sheriff Huey “Boss” Mack - Secret Police) reveals that Baldwin
+      County Sheriff’s Office (BCSO), run by Mack, has a documented pattern of excessive
+      force, self-investigation without outside help, and obstruction of public records
+      access.
 
-      - It notes Connie Baggett''s November 20, 2010 al.com article on a company awarded
-      $639,000 linked to the issue.
+      - Key BCSO incidents cited: Jonathan Victor shot to death (May 2017); Robert
+      Yates shot to death after being fired on with 114+ rounds while not in an exigency/emergency
+      (March 5, 2018), with Deputy Justin Correa alleged to participate; Peyton Little
+      found strangled and ruled suicide without inquiry into his status as a confidential
+      informant; Kevin J Andrews killed during a motor vehicle pursuit contrary to
+      policy.
 
-      - The investigation led by Special Council Matt Hart resulted in the conviction
-      of Speaker of the House Mike Hubbard for related complaints.
+      - Judge Scully is alleged to have issued biased rulings favoring BCSO.
+
+      - Hoss Mack Funeral Home (Mack’s private business) holds a county contract handling
+      deaths in special circumstances, creating a conflict of interest.
+
+      - The Lagniappe legal decision (issued September 30, 2021) closed public access
+      to law enforcement records connected to investigations.
 
 
       THE PIVOT:
 
-      - Connect potential pattern of political targeting/corruption (Still''s claim
-      against Kennan) with documented evidence of past corruption and legal maneuvering
-      involving local elected officials (Pittman, Kantor).
+      - Article 1 (Primary Postpartum podcast/Still’s narrative) positions Still as
+      a local attorney “going after” county officials and being silenced by a criminal
+      charge framed against him.
+
+      - Article 2 provides the systemic backdrop proving the BCSO under Mack is effectively
+      a secret police apparatus: it self-investigates its own officers, judges are
+      biased in its favor, private interests (funeral home) sit above public records
+      access, and state law has been judicially reshaped (Lagniappe decision) to close
+      off the very records that would be needed to investigate the Williams death
+      or any local misconduct.
+
+      - Therefore, Article 2’s “smoking gun” is that the legal system in Baldwin County—judges,
+      sheriff’s office, records access statute—was engineered to protect Sheriff Mack
+      and his deputies from scrutiny; the BCSO record shows this protection would
+      have been applied to suppress Still’s independent investigation into Williams.
 
 
       KEY ENTITIES:
 
-      - Harry Still
+      - Harry Still (defense attorney, Prichard)
 
-      - Matt Franklin
+      - Matt Franklin (Bay Minette City Councilman)
 
-      - Tony Kennon (or Mayor Kant)
+      - Tony Kennan (Orange Beach Mayor)
 
-      - Danny Williams
+      - Danny Williams (May 2022 death at Perdido Pass)
 
-      - Speaker of the House Mike Hubbard
+      - Roy Moore (former Chief Justice of Alabama)
 
-      - Senator Trip Pittman
+      - Tommy Tuberville (senator/residency lawsuit)
 
-      - Connie Baggett'
-    generated_at: '2026-06-20T16:23:43.254012Z'
-    text: The attempt to derail Harry Still’s investigation into Danny Williams’ death
-      follows a familiar trail of local greed. History repeats itself as the same
-      players who profited from BP fraud contracts now use legal maneuvers to bury
-      the truth about their misconduct.
-    character_count: 263
+      - Pritchard Police Department (FBI/Mobile County Sheriff raid)
+
+      - Huey “Boss” Mack (Baldwin County Sheriff)
+
+      - Jonathan Victor (May 2017 fatality, BCSO)
+
+      - Robert Yates (March 5, 2018 fatality, BCSO SWAT)
+
+      - Justin Correa (BCSO deputy, son of Robert Correa)
+
+      - Robert Correa (father of Deputy Justin Correa)
+
+      - Peyton Little (confidential informant for BCSO drug task force, ruled suicide)
+
+      - Kevin J Andrews (traffic pursuit death)
+
+      - William ‘Bill’ Smith (BCSO deputy died patrolling on four-wheeler without
+      life vest)
+
+      - Murry Lawrence Jr. (life sentence with no physical evidence/multiple alibis)
+
+      - Judge Scully (allegedly biased toward BCSO)
+
+      - U.S. District Court Judge William Cassady (qualified immunity/adequacy of
+      training ruling)
+
+      - Chief Justice Tom Parker (Lagniappe decision statement)
+
+      - Dennis Baily (Alabama Press Association Chief Legal Counsel)'
+    widget_date: 2023-11-20
+    generated_at: '2026-09-01T11:40:46.392691Z'
+  a-new-hope:
+    brief: 'THE CONFLICT:
+
+      Harry Still was arrested and charged with assaulting Bay Minette City Councilman
+      Matt Franklin for alleged aggressive behavior toward city officials and prior
+      building lockouts. Still later became acquitted by a jury, claiming the charges
+      were a setup to stop his investigation into Mayor Tony Kennan regarding the
+      May 2022 death of Danny Williams at Perdido Pass.
+
+
+      THE DISCOVERY:
+
+      Article 2 confirms Harry Still was initially convicted in Bayminette Municipal
+      Court for an altercation with Matt Franklin before later being found not guilty
+      in a jury trial de novo. Article 2 reveals Still plans to file civil lawsuits
+      against Mayor Wills, the City of Bayminette, and local news outlets for defamation
+      and malicious prosecution. It also alleges Al Tolbert (former Police Chief)
+      and Judge Marcus McDowell are part of systemic political retaliation.
+
+
+      THE PIVOT:
+
+      Article 1 claims Still was framed by "local officials" to disrupt his investigation
+      into Mayor Kennan’s circle. Article 2 provides specific, documented details
+      of the legal sequence concerning Still''s case—listing a prior conviction followed
+      by an acquittal, naming Matt Franklin as the alleged initial aggressor in court
+      testimony, and outlining future civil litigation against local figures like
+      Mayor Wills, confirming the localized political/legal battle referenced in Article
+      1.
+
+
+      KEY ENTITIES:
+
+      Harry Still
+
+      Matt Franklin (Bay Minette City Councilman)
+
+      Tony Kennan (Mayor, mentioned in Art 1) / Mayor Wills (Art 2 target)
+
+      Liam Scully (Prosecutor cited in both contexts)
+
+      Al Tolbert (Former Police Chief, referenced in Art 2 allegations)
+
+      Marcus McDowell (Judge, referenced in Art 2 allegations)'
+    generated_at: '2026-06-20T16:23:43.253927Z'
+    text: The political hit squad in Bay Minette thought they could silence Harry
+      Still with a sham arrest. Now the tables have turned as Still prepares to sue
+      Mayor Wills and Al Tolbert for the systemic retaliation that nearly destroyed
+      his life.
+    character_count: 237
+  letter-to-ag-elections:
+    brief: 'THE CONFLICT:
+
+      - May 2022: Danny Williams, close friend of Orange Beach Mayor Tony Kennan,
+      died at Perdido Pass; diagnosis cited "dry drowning," alleged lack of body camera
+      footage.
+
+      - Local defense attorney Harry Still independently investigated the Williams
+      death and was tracking subpoenas for potential misconduct by local law enforcement/mayor''s
+      office.
+
+      - While investigating, Harry Still was arrested for allegedly assaulting Bay
+      Minette City Councilman Matt Franklin.
+
+      - Background history: prior incident where local officials allegedly locked
+      down city buildings; documented pattern of aggressive behavior toward officials
+      (per the broadcast clip cited).
+
+
+      THE DISCOVERY:
+
+      - May 17, 2026: Francis Paul Ripp writes to Alabama Secretary of State Wes Allen
+      and Director of Elections Jeff Elrod.
+
+      - Ripp reports Baldwin County Republican primary elections saw "more public
+      participation than in any election in 20 years plus."
+
+      - Ripp states the Ripp Report has contacted the Secretary of State regarding
+      "suspected and strongly alleged reports of elections being fixed involving numerous
+      races in Baldwin County, in the past."
+
+      - Highlights that the Baldwin County Sheriff''s Office (BCSO) is custodian of
+      ballot boxes; describes 20-year culture of BCSO: no transparency, no accountability,
+      claiming immunity for all actions ("Good Ole Boy" culture).
+
+      - Notes current sheriff was appointed by the Governor after the elected sheriff
+      resigned to pursue another political position.
+
+      - Ripp (33 years of experience) asks the Secretary of State and Director of
+      Elections to take all complaints of voter fraud in any Baldwin County primary
+      elections seriously.
+
+
+      THE PIVOT:
+
+      - Article 1 (podcast, Harry Still''s defense/investigation narrative) describes
+      a local power structure allegedly sabotaging independent legal scrutiny of mayor
+      Tony Kennan’s conduct and associated law enforcement.
+
+      - Article 2 provides the election-integrity counterweight: it shows that the
+      same Baldwin County political apparatus where Still was targeted has an institutional
+      history (BCSO custodianship of ballots, "Good Ole Boy" culture) consistent with
+      Ripp’s alleged pattern of fixed or manipulated elections.
+
+      - The BCSO’s role as ballot-box custodian plus a 20-year culture of immunity
+      is the structural "smoking gun": it connects the local power dynamics that allegedly
+      framed Still in Article 1 to concrete, present-day election-integrity concerns
+      raised to state authorities in Article 2.
+
+
+      KEY ENTITIES:
+
+      - Harry Still (local defense attorney, acquitted; led investigation into Danny
+      Williams death)
+
+      - Tony Kennan / Tony Kennen (Orange Beach Mayor; subject of Still’s investigation;
+      local law enforcement target in framing allegations)
+
+      - Matt Franklin (Bay Minette City Councilman; alleged victim of assault by Still)
+
+      - Danny Williams (deceased May 2022, Perdido Pass; close friend of Kenan)
+
+      - Barry Moore (primary candidate/outperformed polls)
+
+      - Tommy Tuberville (Senator; residency lawsuit filed in Montgomery County)
+
+      - John Wall (candidate; satirical ad featuring fictional raccoon "Charlie")
+
+      - Katherine Robertson, Caroline Dobson, Young Boozer (other primary candidates
+      mentioned)
+
+      - Roy Moore (former Chief Justice, $8.2M defamation award to U.S. Supreme Court)
+
+      - Wes Allen (Secretary of State, recipient of letter)
+
+      - Jeff Elrod (Director of Elections, recipient of letter)
+
+      - Francis Paul Ripp (author; 33 years of experience)
+
+      - Baldwin County Sheriff''s Office (BCSO; custodian of ballot boxes; "Good Ole
+      Boy" culture, immunity claims)'
+    widget_date: 2026-05-17
+    generated_at: '2026-09-01T11:40:46.392692Z'
+  guilty-audiobook:
+    brief: "THE CONFLICT:  \n- **Murray Lawrence Jr.** was convicted in Baldwin County\
+      \ for murder (alleged May 2022? — actually case pre-dates 2024 per LagniApp\
+      \ article; exact date not given in widget) by prosecutors despite a finding\
+      \ of innocence.  \n- The trial judge was **Robert Wilters**, then current District\
+      \ Attorney (retired), now described as “infamous.”  \n- Lead investigator on\
+      \ the Lawrence case, **Anthony Lowery**, allegedly found no evidence against\
+      \ Lawrence but still participated in the conviction.  \n- Prosecutors included\
+      \ **David Whetstone** (described as “infamous prosecutor”).  \n- Defense attorneys\
+      \ **Maxwell-Tillman** and **Gabby Humber** abandoned the case at the 11th hour;\
+      \ bar complaints filed in two states against both.\n\nTHE DISCOVERY:  \n- The\
+      \ audio-book (“GUILTY – HEAR THE AUDIOBOOK”) reveals that Lowery and Haygood\
+      \ (Assistant District Attorney candidate) are now running for office despite\
+      \ being accused of lying, fraud, unethical behavior, and self-serving conduct\
+      \ leading to the wrongful conviction of Lawrence.  \n- It asserts the autopsy\
+      \ was never included in Baldwin Man’s murder trial (per LagniApp link in widget).\
+      \  \n- It frames Lowery as “a product of Hoss Mack” — promoted by former Sheriff\
+      \ **Hoss Mack** — and Haygood as having filed inaccurate/false statements to\
+      \ protect Wilters from exposure for malicious prosecution.\n\nTHE PIVOT:  \n\
+      - Article 1 (Primary Postpartum) features attorney **Harry Still** claiming\
+      \ he was set up by local officials (specifically Orange Beach Mayor Tony Kennan)\
+      \ because he was investigating the May 2022 death of Danny Williams and possible\
+      \ police misconduct/missing body-camera footage.  \n- Article 2 provides context\
+      \ that Baldwin County has a pattern of: (a) wrongful convictions without proper\
+      \ forensics (Lawrence case, missing autopsy), (b) officials from that system\
+      \ being promoted or elected into power despite corruption allegations (Lowery\
+      \ as sheriff candidate; Haygood as judge candidate; Wilters as former D.A.),\
+      \ and (c) local political machines protecting themselves (Mack promoting Lowery;\
+      \ the hosts in Article 1 noting county “machine” corruption).  \n- This makes\
+      \ Article 2 a “smoking gun” for Article 1 because it establishes that Baldwin\
+      \ County officials involved in Lawrence’s prosecution are now seeking office\
+      \ — directly tying Still’s accusations of local corruption and silencing to\
+      \ a documented pattern of misconduct by the same people.\n\nKEY ENTITIES:  \n\
+      - Murray Lawrence Jr.  \n- Anthony Lowery (Lead investigator, former officer/candidate\
+      \ for sheriff)  \n- Kristy Haygood (Assistant D.A., candidate for judge)  \n\
+      - Robert Wilters (Judge in Lawrence case; former D.A., now retired)  \n- David\
+      \ Whetstone (Prosecutor)  \n- Hoss Mack (Former Baldwin County Sheriff; promoted\
+      \ Lowery)  \n- Maxwell-Tillman and Gabby Humber (Defense attorneys; bar complaints\
+      \ filed)  \n- Danny Williams (Victim in May 2022 case; subject of Still’s investigation)\
+      \  \n- Tony Kennan (Orange Beach Mayor; alleged architect of the “setup”)"
+    widget_date: 2026-04-16
+    generated_at: '2026-09-01T11:40:46.392693Z'

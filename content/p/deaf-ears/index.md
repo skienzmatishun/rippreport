@@ -13,7 +13,7 @@ categories:
 - alabama
 authors:
 - admin
-alttags: Steve Marshall in a suit points both index fingers toward his ears, flanked
+alttags: Steve Marshall in a suit puts both index fingers in his ears, flanked
   by ornate wooden cabinet doors
 related_articles:
 - slug: alabama-ag
@@ -237,5 +237,3 @@ The Ripp Reporter
 <script async src="https://assets.bluesky.lol/js/b1.js" data-handle="rippreport.com" data-skeet="3km4knktq5t2h" ></script>
 
 {{< aicomments "alagasdasd27" >}}
-
- 

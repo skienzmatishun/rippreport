@@ -1,7 +1,10 @@
 metadata:
-  generated_at: '2026-08-15T23:38:09.159420Z'
+  generated_at: '2026-09-01T09:45:39.466026Z'
   generator_version: 1.0.0
   post_slug: the-blueprint
+  main_date: 2026-07-14
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
   poison-ivy-bridge:
     brief: 'THE CONFLICT

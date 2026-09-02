@@ -1,140 +1,353 @@
 metadata:
-  generated_at: '2026-08-15T23:38:09.290154Z'
+  generated_at: '2026-09-01T17:36:56.045291Z'
   generator_version: 1.0.0
   post_slug: scum-bag
+  main_date: 2026-06-19
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
-  shackled-chained-handcuffed-bc-un-family-court:
+  not-guilty-innocent:
     brief: 'THE CONFLICT:
 
-      *   James Pittman is Baldwin County Attorney.
+      - Tripp Pittman, trustee of Baldwin Parish funds, self-dealt approximately $750,000
+      from BP funds (brother James Pittman).
 
-      *   Pittman ran for and was elected to the Baldwin Judicial Commission.
+      - James Pittman, attorney, uses “creative” legal tactics and unethical methods
+      to take an 98-year-old dementia patient’s house.
 
-      *   Baldwin County Presiding Circuit Court Judge Clark Stankoski heads the commission.
+      - James Pittman claims the elderly woman is a partner in “Pirate Paul’s,” but
+      she has never been.
 
-      *   Pittman practices before Stankoski in civil litigation and serves as an
-      indigent defense attorney for him.
+      - James Pittman fails to pay SERVPRO and passes the $35,106.38 bill (plus interest/fees
+      totaling ~$67,000) to Mediacom under pretext.
 
-      *   Pittman submitted the appointment for Judge Brackin.
-
-      *   Within 6 months, a case against Paul Shalhoub was assigned to Judge Brackin.
-
-      *   Pittman alleged he used SERVPRO''s inflated bill alongside his own expert’s
-      bill to coerce Mediacom into payment without paying SERVPRO $35,106.38 plus
-      interest/fees.
-
-      *   James Pittman is related by name to Tripp Pittman, who self-dealt BP funds
-      totaling approximately $750 thousand.
+      - James Pittman submitted an appointment for Judge Brackin; within 6 months,
+      the case against Paul Shalhoub was assigned to Judge Brackin.
 
 
       THE DISCOVERY:
 
-      *   The Ripp Report details extensive systemic corruption within Baldwin County
-      legal and judicial bodies, including the Judiciary, Bar, attorneys, and elected
-      officials.
+      - Bay Minette’s newly elected Mayor Joshua Brown issued a public statement:
+      “There is absolutely no place for intimidation, physical threats, or violence
+      in this community.” (Context: Following the attack on Councilman Matt Franklin.)
 
-      *   It alleges that Judge Michelle Thomson’s court is a "kangaroo court" used
-      to fleece families in divorce proceedings.
+      - State Senator Chris Elliott filed legislation to provide steeper punishments
+      for attacking local politicians. The bill cited the incident involving Harry
+      Still as inspiration.
 
-      *   It outlines cases where ethical concerns are ignored or protected by powerful
-      figures (Judiciary/Bar).
+      - The legislation did not pass through the Legislature by the end of the session.
 
-      *   A specific case involving Chey Garrigan details procedural abuses, including
-      being arrested without Miranda rights and later held in jail with handcuffs
-      after facing a jurisdictional challenge regarding Judge Thomason’s appointment.
+      - Former Bay Minette Mayor Bob Wills, former police chief Al Tolbert, and police
+      statements corroborate the Sept. 3, 2025 attack on Councilman Matt Franklin.
 
 
       THE PIVOT:
 
-      *   Article 1 focuses on James Pittman''s unethical conduct related to judicial
-      influence (appointment of Brackin under Stankoski''s commission) and financial
-      impropriety (SERVPRO/Mediacom).
+      The connection is the specific judicial appointment context in Article 1, specifically
+      Judge Clark Stankowski (Stankoski).
 
-      *   Article 2 proves the systemic environment in Baldwin County that allows
-      behaviors like those described in Article 1. It demonstrates a pattern where
-      judges/attorneys are protected from accountability by other entrenched powers,
-      validating the skepticism implied in Article 1 regarding conflicts of interest
-      and judicial bias.
+      - In Article 1, James Pittman is the representative of the Baldwin County Bar
+      Association to the Baldwin Judicial Commission, which selects nominees for appointment
+      to vacant judicial positions.
+
+      - The Commission is headed by Baldwin County Presiding Circuit Court Judge **Clark
+      Stankoski**.
+
+      - Critically, in Article 2 (Bay Minette context), **Clark Stankoski** appears
+      as "Circuit Court Judge for Appeal" involved in the legal battles of Harry Still
+      and others.
+
+      - The pivot: If James Pittman (the accused unethical attorney from Article 1)
+      has an established relationship with Judge Stankoski (who heads the Commission
+      that selects judges, and whom Pittman frequently practices before), this explains
+      why Judge Brackin was appointed by Pittman to handle cases in his interest.
+      It implies a network of judicial favoritism where Pittman uses his position
+      on the Judicial Commission to secure favorable rulings.
+
+
+      Key Entities:
+
+      - James Pittman (Attorney / Judicial Commission Rep)
+
+      - Tripp Pittman (Brother / Self-dealing Trustee)
+
+      - Judge Clark Stankoski (Stankowski)
+
+      - Judge Brackin
+
+      - Paul Shalhoub
+
+      - SERVPRO
+
+      - Mediacom
+
+      - Southland Properties LLC
+
+      - Pirate Paul’s
+
+      - Matt Franklin (Bay Minette Councilman)
+
+      - Joshua Brown (Mayor Elect of Bay Minette)
+
+      - Chris Elliott (State Senator)'
+    widget_date: 2026-06-13
+    generated_at: '2026-09-01T12:18:03.844989Z'
+    text: James Pittman pulls the strings on the Baldwin Judicial Commission while
+      stealing from dementia patients. Judge Clark Stankoski sits right at the center
+      of this rotten network, letting cronies like Pittman handpick judges and control
+      the courtroom outcomes.
+    character_count: 257
+  scumbag:
+    brief: 'THE CONFLICT:
+
+      *   James Pittman served as the Baldwin County Bar Association representative
+      on the Baldwin Judicial Commission, the only practicing attorney on the five-member
+      panel headed by Judge Clark Stankoski.
+
+      *   Pittman submitted the appointment for Judge Brackin and within six months,
+      a case against Paul Shalhoub was assigned to Judge Brackin.
+
+      *   In a lawsuit regarding Southland Properties units (dubbed "Pirate Paul''s"),
+      James Pittman claimed an 98-year-old woman with dementia was a partner in the
+      LLC.
+
+      *   Pittman sought to seize the house of this elderly woman by leveraging a
+      ServPro bill he had not paid, attempting to coerce payment from Mediacom under
+      the pretense that Mediacom owed ServPro.
+
+      *   James Pittman''s brother, Tripp Pittman, was identified as a trustee who
+      self-dealt approximately $750,000 from BP funds.
+
+
+      THE DISCOVERY:
+
+      *   Tom Albritton, an attorney serving as the Alabama Ethics Director and Trustee
+      of the Mabel Amos Memorial Fund, was found to have used the trust for self-enrichment;
+      he was forced out of his trustee position.
+
+      *   The Lagniappe exposed that three members of the Ethics Commission (Greg
+      Pappas, George Pierce, David "Chips" Pruet) had no knowledge of Albritton’s
+      ongoing litigation or accusations of self-dealing until after the public spectacle.
+
+      *   Former Ripp Report attorney Harry Still filed a Writ of Mandamus and complaints
+      to the AG, Bar, and Ethics Commission, all of which were ignored or dismissed.
+
+      *   Attorney General Steve Marshall''s office is currently under federal investigation
+      complicating his Senate run; Chief Counsel Katherine Robertson also faces potential
+      conflict issues regarding her brother in the AG''s Office.
+
+
+      THE PIVOT:
+
+      *   Both articles feature "trust" abuse by legal professionals operating within
+      systems lacking checks and balances.
+
+      *   James Pittman used his position on the Judicial Commission (under Judge
+      Stankoski) to manipulate case assignments; Tom Albritton used his position as
+      Ethics Director/Trustee to rob a school scholarship fund, while the Ethics Commission
+      members failed to investigate him.
+
+      *   Article 2 serves as the "smoking gun" because it reveals the systemic failure
+      of the state''s oversight bodies (AG, Ethics, Bar) to hold attorneys accountable
+      for self-dealing—precisely the same system James Pittman leveraged and exploited
+      through his judicial appointment connections in Article 1.
 
 
       KEY ENTITIES:
 
-      *   James Pittman (Baldwin County Attorney)
+      *   James Pittman (Attorney/Judicial Commission member)
 
-      *   Tripp Pittman
+      *   Tripp Pittman (Brother/Trustee)
 
-      *   Clark Stankoski (Presiding Circuit Court Judge)
+      *   Clark Stankoski (Baldwin County Presiding Circuit Court Judge)
+
+      *   Judge Brackin (Recipient of appointed judge)
+
+      *   Paul Shalhoub (Defendant in the case assigned to Brackin)
+
+      *   ServPro (Contractor billed for $35,106.38 plus interest/fees)
+
+      *   Mediacom (The party Pittman attempted to bill through ServPro)
+
+      *   Southland Properties LLC (The business at dispute)
+
+      *   "Pirate Paul''s" (The alias used for the unit)
+
+      *   Tom Albritton (Alabama Ethics Director / Trustee)
+
+      *   Greg Pappas, George Pierce, David "Chips" Pruet (Ethics Commission members)
+
+      *   Steve Marshall (Alabama Attorney General)
+
+      *   Katherine Robertson (AG Chief Counsel)
+
+      *   Allen Dodd (Deputy AG appointed during the litigation)
+
+      *   Byron B Mathews (Attorney for trust beneficiaries)
+
+      *   Ashby Pate (Defense attorney for Albritton/Clifton)
+
+      *   Mabel Amos Memorial Fund (The defrauded trust)'
+    widget_date: 2026-04-29
+    generated_at: '2026-09-01T12:18:03.844995Z'
+    text: James Pittman manipulates local judicial seats to protect his dirty legal
+      schemes. Tom Albritton and state ethics bosses actively hide trust fund theft,
+      proving the entire legal system protects corrupt insiders instead of holding
+      them accountable.
+    character_count: 247
+  deaf-ears:
+    brief: 'THE CONFLICT:
+
+      *   James Pittman is the only practicing attorney on the Baldwin Judicial Commission,
+      chaired by Judge Clark Stankoski, where he serves as a member.
+
+      *   Pittman was assigned to Stankoski’s courtroom for indigent defense and frequently
+      practices before him in civil cases.
+
+      *   In September 2022, a complaint was filed with the Attorney General against
+      Tom Albritton (Executive Director of the Alabama Ethics Commission) for allegedly
+      skimming $120,000 from the Mabel Amos Trust.
+
+      *   The Ethics Commission has been described in the past 15 years as a "political
+      tool" covering up misdeeds of politicians and local officials.
+
+
+      THE DISCOVERY:
+
+      *   Steve Marshall’s complaint reveals that the Ethics Commission is complicit
+      in shielding local power figures, specifically Sheriff Hoss Mack, DA Robert
+      Wilters, and Judge Clark Stankoski (via their ties to the Mabel Amos Trust case).
+
+      *   The investigation into 9 deaths over the last 10 years in Baldwin County
+      has been handled by the Sheriff’s own Major Crimes Division, with no fault found.
+
+      *   Sheriff Mack, DA Wilters, and Prosecutor David Whetstone colluded to withhold
+      vital evidence (Coroner''s Report) from defense attorney Willy Huntley for Murray
+      "Bubba" Lawrence’s wrongful conviction in 2005.
+
+      *   The Coroner’s Report allegedly proved Brandon Hastings was not a gunshot
+      victim, yet this evidence was withheld.
+
+
+      THE PIVOT:
+
+      *   Article 1 (SCUMBAG) highlights the specific conflict of interest between
+      Pittman (Legal Committee rep) and Judge Stankoski, who is the chair of that
+      committee.
+
+      *   Article 2 (DEAF EARS) reveals that Stankoski and his allies (Mack, Wilters)
+      have a history of corrupt judicial conduct involving withheld evidence in high-profile
+      criminal cases (Lawrence case), directly contradicting Pittman’s claim that
+      no conflict of interest exists on the committee.
+
+      *   The systemic ethical failure exposed by the Ethics Commission’s alleged
+      coverups supports Pittman’s suspicion of favoritism and corruption among local
+      judges.
+
+
+      KEY ENTITIES:
+
+      *   James Pittman, Tripp Pittman
+
+      *   Judge Clark Stankoski
 
       *   Judge Brackin
 
-      *   Paul Shalhoub
+      *   Steve Marshall
 
-      *   SERVPRO
+      *   Tom Albritton
 
-      *   Mediacom
+      *   Sheriff Hoss Mack
 
-      *   Southland Properties
+      *   Robert Wilters (DA)
 
-      *   Michelle Thomson (Judge, Family Court)
+      *   David Whetstone
 
-      *   Chey Garrigan
+      *   Willy Huntley
 
-      *   Steven Johnson
+      *   Murray “Bubba” Lawrence
 
-      *   Brian Chun
+      *   Mabel Amos Trust
 
-      *   Buddy Brackin
-
-      *   John Merrill (Secretary of State)
-
-      *   Austin Burdick'
-    generated_at: '2026-06-19T17:26:03.535046Z'
-    text: James Pittman uses his seat on the Judicial Commission to hand-pick judges
-      like Brackin while pulling strings for Stankoski. This isn't just one bad apple.
-      The entire Baldwin County system operates as a kangaroo court where Judge Thomason
-      fleeced families and protected the elite.
-    character_count: 280
-  canons-no-powder:
+      *   Andrea Williams (Secretary of State)'
+    widget_date: 2024-01-21
+    generated_at: '2026-09-01T12:18:03.845521Z'
+    text: James Pittman claims no conflict exists while serving on Judge Clark Stankoski's
+      judicial committee. Sheriff Hoss Mack and DA Robert Wilters hid vital evidence
+      in criminal cases, proving Stankoski heads a judicial ring built on complete
+      systemic protection.
+    character_count: 257
+  alabama-ag:
     brief: 'THE CONFLICT:
 
-      - James Pittman, Baldwin County attorney, was involved in a case regarding an
-      98-year-old woman''s house, alleging Pittman sought to take the property by
-      claiming she was a partner in "Pirate Paul''s," which he had never been.
+      - Tripp Pittman, former trustee of Baldwin County pension funds, self-dealt
+      approximately $750,000 from the fund (per Ripp Report).
 
-      - Pittman used inflated bills from SERVPRO and his own expert to coerce payment
-      from Mediacom while allegedly not paying SERVPRO $35,106.38 plus interest/fees.
+      - James Pittman is a Baldwin County attorney and practicing lawyer in Judge
+      Clark Stankoski’s courtroom, also serving as an indigent defense attorney.
 
-      - James Pittman ran for and was elected to the Baldwin Judicial Commission,
-      a five-member panel headed by Baldwin County Presiding Circuit Court Judge Clark
+      - James Pittman was elected as the sole practicing attorney member of the five-member
+      Baldwin Judicial Commission, which selects nominees for vacant judicial positions.
+
+      - The commission is headed by Baldwin County Presiding Circuit Court Judge Clark
       Stankoski.
 
+      - James Pittman submitted a judicial appointment for Judge Brackin; within six
+      months, a case against Paul Shalhoub was assigned to Judge Brackin.
+
+      - James Pittman claims a 98-year-old woman with dementia is a partner in "Pirate
+      Paul’s" and is trying to take her house.
+
 
       THE DISCOVERY:
 
-      - The Widget Article asserts that the Alabama Judicial Canons lack enforcement
-      ("NO powder") in Baldwin County.
+      - Steve Marshall (Ripp Report) reported that Tom Albritton, Executive Director
+      of the Alabama Ethics Commission, admitted to skimming $120,000 from the Mabel
+      Amos Trust.
 
-      - It raises general questions about judges (like those with real estate interests
-      or involvement in personal matters, e.g., Judge Norton’s son) violating ethical
-      canons (Canon 2 and Canon 5).
+      - Despite the lawsuit filed by the Alabama Attorney General''s office in Sept.
+      2022, Albritton remained in his role receiving a “handsome paycheck.”
 
-      - The article highlights examples of potential impropriety involving development
-      plans, personal jet hangers, and political connections among Baldwin County
-      judges, citing Judge Norton and Judge Snedeker specifically as problematic figures
-      regarding their real estate interests.
+      - The Ethics Commission and Alabama Bar failed to pursue complaints against
+      Albritton despite irrefutable evidence; decisions made by Albritton blocked
+      accountability.
+
+      - Ripp Report filed a Mandamus to force the Ethics Commission or get a hearing,
+      which failed.
+
+      - Baldwin County Sheriff Hoss Mack is investigating his own department with
+      a Major Crimes Division composed of members from various county police departments
+      (self-investigation).
+
+      - In the past 10 years, 9 people known to Ripp Report died after contact with
+      the Baldwin County Sheriff''s Office.
+
+      - Murray “Bubba” Lawrence was wrongly convicted in 2005 for the murder of Brandon
+      Hastings despite lacking any exculpatory evidence; he served over 18 years (6,570
+      days).
+
+      - Sheriff Hoss Mack, District Attorney Robert Wilters, and retired prosecutor
+      David Whetstone colluded to withhold the Coroners Report from Lawrence’s defense.
+
+      - Two pending lawsuits involve the deaths of six unarmed people arrested without
+      warrants.
 
 
       THE PIVOT:
 
-      - Article 1 details specific instances of Pittman''s alleged misconduct (fraud
-      with SERVPRO bills) while holding a position on the body that appoints judges,
-      which is chaired by Stankoski, who also sees him in court.
+      - Article 2 (Alabama Ethics Commission) serves as a "smoking gun" for Article
+      1 (James Pittman''s judicial appointment and legal misconduct) because it reveals
+      a broader pattern of systemic ethical decay in Baldwin County’s legal system.
 
-      - Article 2 provides the overarching ethical framework (the Canons) and argues
-      that this structure fails to hold individuals in power accountable for "impropriety"
-      or conflicts of interest—a context under which Pittman’s alleged actions, combined
-      with his influence on judicial appointments, become relevant to systemic ethics
-      failure.
+      - The same individuals (Stankoski, Wilters, Mack, Albritton) who control the
+      ethics, law enforcement, and judicial systems are shown to suppress accountability,
+      shield misconduct, and block due process — directly enabling James Pittman’s
+      appointment to the Judicial Commission.
+
+      - Article 2 proves that the institutions Pittman manipulates (Ethics Commission,
+      Bar Association, Courts) have no teeth to hold anyone — including himself —
+      accountable, making his “creative legal maneuvers” and favoritism in judicial
+      appointments systemic rather than isolated.
 
 
       KEY ENTITIES:
@@ -143,589 +356,584 @@ hooks:
 
       - Tripp Pittman
 
-      - Clark Stankoski
+      - Clark Stankoski (Presiding Circuit Court Judge)
 
       - Judge Brackin
+
+      - Paul Shalhoub
+
+      - Southland Properties LLC
 
       - SERVPRO
 
       - Mediacom
 
-      - Southland Properties
+      - Tom Albritton (Executive Director, Alabama Ethics Commission)
 
-      - Andrea Williams (Secretary of State)
+      - Steve Marshall (Ripp Report)
 
-      - Baldwin Judicial Commission
+      - Hoss Mack (Baldwin County Sheriff)
 
-      - Judge Norton
+      - Robert Wilters (Baldin County District Attorney)
 
-      - Judge Snedeker'
-    generated_at: '2026-06-19T17:26:03.535057Z'
-    text: James Pittman tried to steal a 98-year-old woman's home and pull a billing
-      scam on Mediacom. He gets away with it because Baldwin County judges treat ethical
-      canons like suggestions, allowing powerful insiders like Judge Norton to trade
-      influence for real estate deals.
-    character_count: 269
-  a-decade-of-corruption:
+      - David Whetstone (Retired Prosecutor)
+
+      - Willy Huntley (Defense Attorney)
+
+      - Murray “Bubba” Lawrence
+
+      - Brandon Hastings
+
+      - Jarius Ireland'
+    widget_date: 2023-10-30 00:00:00+00:00
+    generated_at: '2026-09-01T12:18:03.845974Z'
+    text: James Pittman uses his judicial seat to route cases to friendly judges while
+      picking on helpless old women. State Ethics Chief Tom Albritton skimmed thousands
+      while DA Robert Wilters and Sheriff Hoss Mack locked up innocent men, proving
+      top-to-bottom decay.
+    character_count: 257
+  TOP-TO-BOTTOM-CORRUPTION:
     brief: 'THE CONFLICT:
 
-      - James Pittman used "creative" avenues in arguing cases while acting unethically.
+      * Attorney James Pittman (Baldwin County) acted as the sole practicing attorney
+      member on the Baldwin Judicial Commission, headed by Judge Clark Stankoski.
 
-      - James Pittman ran for and was elected to the Baldwin Judicial Commission with
-      Judge Clark Stankoski (presiding circuit court judge) as head of the commission.
+      * Pittman simultaneously served as an indigent defense attorney and civil litigant
+      before Judge Stankoski.
 
-      - James Pittman is assigned to Stankoski’s courtroom as an indigent defense
-      attorney and practices civil litigation before him.
+      * Pittman submitted the appointment of Judge Brackin to the commission; within
+      6 months, a case involving Paul Shalhoub was assigned to Judge Brackin.
 
-      - James Pittman submitted the appointment for Judge Brackin; within 6 months,
-      the case against Paul Shalhoub was assigned to Judge Brackin.
+      * In a civil dispute over SERVPRO services for Southland Properties (LLC), Pittman
+      claimed he was trying to take an 98-year-old woman’s house, alleging she was
+      a partner in "Pirate Paul''s."
 
-      - James Pittman attempted to take a 98-year-old woman''s house under false pretenses
-      regarding her partnership in "Pirate Paul’s."
+      * Pittman used inflated bills from both SERVPRO ($35,106.38 claim) and his own
+      expert to coerce payment from Mediacom while failing to pay SERVPRO for two-and-a-half
+      weeks of work.
 
-      - James Pittman tried to coerce payment from Mediacom using inflated bills from
-      Servpro ($35,106.38 owed plus interest/fees) without actually paying Servpro
-      for their work on Southland Properties.
+      * The case involves the use of an LLC titled "Big Cheese," which Pittman defends
+      as legally acceptable per Secretary of State regulations but uses it to shield
+      personal liability while attacking others for similar structures.
 
 
       THE DISCOVERY:
 
-      - Tripp Pittman (James''s brother) was the trustee of BP funds, which he self-dealt
-      approximately $750,000.
+      * Article 2 (Lagniappe, July 15, 2023) reveals that Alabama Attorney General
+      Steve Marshall is in an "incestuous" financial relationship with Regions Bank
+      and the same law firm attorneys who represent them in the Mabel Amos Memorial
+      Fund litigation.
 
-      - In 2010 (or around that time), State Senator Tripp "Boom Boom" Pittman and
-      Fairhope Mayor Tim Kant secured a bid for $636,000.00 from Fairhope to Senator
-      Pittman for BP work.
+      * The AG office received significant campaign cash from both Regions and their
+      counsel, while simultaneously accusing trust board member Tom Albritton of fraud
+      and self-dealing ($120,000 in tuition for his children) without criminally investigating
+      him.
 
-      - On June 4th, 2010, the Fairhope City Council awarded a contract to Pittman
-      Tractor, which was later paid $372,165.90 for "COMPLETED" boom work without
-      proper licensing or approval.
+      * Judge Johnny Hardwick has delayed ruling on approximately 70 motions in the
+      Amos fund case, despite having capacity to rule on other civil cases at the
+      same time.
 
-      - Tripp Pittman helped maintain an 8-year debris contract with the City of Fairhope
-      before Karin Wilson was elected Mayor.
-
-
-      THE PIVOT:
-
-      - Article 2 connects James Pittman''s alleged professional malpractice and conflicts
-      of interest (Article 1) to a history of large-scale financial corruption involving
-      his brother, Tripp Pittman, in Baldwin County public contracts.
-
-      - It establishes a pattern of financial impropriety and systemic corruption
-      within the county that spans political figures, attorneys/judges, and major
-      contractors like those involved with BP/CATALYST, suggesting James Pittman''s
-      actions are not isolated but part of a wider pattern connected to his family
-      and professional sphere.
-
-
-      KEY ENTITIES:
-
-      - James Pittman
-
-      - Tripp Pittman
-
-      - Judge Clark Stankoski
-
-      - Judge Brackin
-
-      - Servpro
-
-      - Mediacom
-
-      - Southland Properties LLC
-
-      - Paul Shalhoub
-
-      - Tim Kant
-
-      - Fairhope City Council
-
-      - BP (and CATALYST)'
-    generated_at: '2026-06-19T17:26:03.535059Z'
-    text: James Pittman builds his legal empire through suspicious judicial appointments
-      and strong-arming seniors for their property. Look at his brother Tripp Pittman’s
-      $750,000 BP fund grab to see that this family treats the entire county like
-      a private ATM for their own benefit.
-    character_count: 273
-  catalyst-judges:
-    brief: 'THE CONFLICT:
-
-      - James Pittman is an attorney in Baldwin County and served on the Baldwin Judicial
-      Commission alongside Judge Clark Stankoski.
-
-      - Pittman submitted the appointment for Judge Brackin, leading to Paul Shalhoub''s
-      case being assigned to Judge Brackin within six months.
-
-      - Pittman attempted to coerce payment from Mediacom by using Servpro’s bill
-      (amount claimed: $35,106.38 + interest/fees) while not having paid the company
-      for work benefiting Southland Properties.
-
-
-      THE DISCOVERY:
-
-      - Catalyst Judge Bill Scully was appointed in part due to backing from Michelle
-      Thomason and used his position to gain a District Court appointment through
-      connections within "Catalyst."
-
-      - Article 2 details patterns of judicial appointments in Baldwin/Mobile Counties
-      being controlled by this "insider" system, specifically mentioning the uncontented
-      nature of these appointments.
+      * The Ethics Commission under Albritton previously refused to provide exculpatory
+      ("Brady") evidence to the AG, a fight settled by legislation requiring such
+      information to be shared.
 
 
       THE PIVOT:
 
-      - Article 1 highlights Pittman''s position on the Judicial Commission (the selection
-      body) and his association with Judge Stankoski (a presiding judge), showcasing
-      a link between practicing attorneys and judicial appointment bodies. Article
-      2 reveals that these appointment structures are often controlled by powerful
-      groups like Catalyst (including Thomason), providing context for how judges/attorneys
-      advance within these closed systems, suggesting Pittman’s influence is part
-      of this larger, potentially biased mechanism.
+      * Article 2 provides the systemic context explaining how James Pittman’s "creative"
+      legal maneuvers and judicial appointments could succeed in Baldwin County: an
+      Attorney General who avoids prosecuting unethical behavior when it benefits
+      his campaign donors/law firms, and a judiciary that is slow (Hardwick) or influenced
+      by overlapping legal relationships.
 
+      * The failure to prosecute Albritton despite admitted self-dealing sets the
+      precedent for why Judge Stankoski’s appointment of Brackin (linked to Pittman’s
+      committee service) was not challenged or investigated by the AG office, reinforcing
+      the "top to bottom corruption" narrative that justifies scrutiny of Pittman’s
+      use of LLCs and false claims against vulnerable elderly clients.
 
-      KEY ENTITIES:
-
-      - James Pittman
-
-      - Tripp Pittman
-
-      - Baldwin Judicial Commission
-
-      - Judge Clark Stankoski
-
-      - Judge Brackin
-
-      - Paul Shalhoub
-
-      - Servpro
-
-      - Mediacom
-
-      - Southland Properties
-
-      - Catalyst (and Michelle Thomason)
-
-      - Bill Scully
-
-      - Brian Dasinger'
-    generated_at: '2026-06-19T17:26:03.535061Z'
-    text: James Pittman secured Judge Brackin's seat on the bench just in time to
-      see his own cases land in that very courtroom. This insider game reveals how
-      CATALYST rigs the system to ensure their hand-picked judges stay in power.
-    character_count: 223
-  divorce-corp:
-    brief: 'THE CONFLICT:
-
-      - James Pittman (Baldwin County attorney) is involved in legal issues regarding
-      an 98 year old woman''s house and Southland Properties LLC.
-
-      - Pittman attempted to coerce payment from Mediacom using a bill from Servpro
-      ($35,106.38 plus interest/fees).
-
-      - Pittman was on the five-member Baldwin Judicial Commission selecting nominees
-      for judicial appointments.
-
-      - Judge Clark Stankoski is the head of the Baldwin Judicial Commission and serves
-      as an official in Pittman''s courtroom (civil litigation/indigent defense).
-
-      - Pittman submitted an appointment for Judge Brackin; a case against Paul Shalhoub
-      was assigned to Brackin within 6 months.
-
-
-      THE DISCOVERY:
-
-      - Judge "buddy" Bracken is identified by the second article as a judge in Baldwin
-      County and a mentor to Judge Thomason.
-
-      - The second article links Judge Bracken with Stephen Johnson, stating they
-      are law partners ("peas in a pod").
-
-      - The second article suggests a pattern of judicial misconduct across various
-      Baldwin County judges (Thomason, Bracken).
-
-
-      THE PIVOT:
-
-      - Article 2 establishes Judge Brackin''s presence and connections within the
-      local legal power structure (partner with Stephen Johnson) which aligns with
-      Article 1 detailing Pittman using influence to get Judge Brackin assigned cases
-      quickly.
-
-
-      KEY ENTITIES:
-
-      - James Pittman
-
-      - Tripp Pittman
-
-      - Baldwin Judicial Commission
-
-      - Clark Stankoski
-
-      - Judge Brackin ("buddy" Bracken)
-
-      - Stephen Johnson
-
-      - Servpro
-
-      - Mediacom
-
-      - Southland Properties LLC
-
-      - Paul Shalhoub'
-    generated_at: '2026-06-19T17:26:03.535063Z'
-    text: James Pittman didn't just help appoint Judge "Buddy" Brackin. He guaranteed
-      his own cases a friendly face on the bench. Brackin’s tight bond with Stephen
-      Johnson proves the local judiciary is a closed loop designed to favor the well-connected
-      and crush everyone else.
-    character_count: 267
-  green-acres-on-acid:
-    brief: 'THE CONFLICT:
-
-      * James Pittman, Baldwin County attorney, is accused of manipulating legal systems
-      and engaging in unethical conduct while seeking assets from an elderly woman
-      with dementia.
-
-      * James Pittman ran for and was elected to the Baldwin Judicial Commission,
-      which appoints judges.
-
-      * Pittman practices before Judge Clark Stankoski.
-
-      * Pittman submitted the appointment for Judge Brackin; a case against Paul Shalhoub
-      was assigned to Judge Brackin within six months.
-
-      * Pittman is accused of attempting to take an innocent 98-year-old woman’s house
-      based on his claim she is a partner in "Pirate Paul''s."
-
-
-      THE DISCOVERY:
-
-      * The Widget Article establishes a pattern of unchecked corruption and lack
-      of accountability in Baldwin County politics, noting that the last conviction
-      was Mayor Steve Russo in 2006.
-
-      * It details State Senator Tripp Pittman (related to James Pittman), who allegedly
-      received $750,000 from BP contracts while acting as trustee, using a tractor
-      company without the required general contractor’s license for environmental
-      work.
-
-      * The Widget Article confirms that both James and Tripp Pittman exhibit behaviors
-      of not returning calls or emails unless it benefits them.
-
-
-      THE PIVOT:
-
-      * Article 2 provides historical evidence (Tripp Pittman''s $750k BP contract
-      fraud) demonstrating a pattern of financial misconduct, misuse of position,
-      and lack of accountability among members of the Pittman family in Baldwin County.
-      This contextualizes James Pittman''s current accusations regarding legal manipulation
-      and conflicts of interest by showing that such actions are established behavior
-      within his sphere of influence.
+      * It demonstrates that when state legal guardians (AG, Ethics Commission) are
+      financially tied to the defendants/lawyers, local judges like Stankoski and
+      Brackin operate without accountability, validating Lagniappe’s suspicion that
+      "no conflict of interest exists" is a false claim.
 
 
       KEY ENTITIES:
 
       * James Pittman
 
-      * Tripp Pittman
-
-      * Clark Stankoski
-
-      * Judge Brackin
-
-      * Paul Shalhoub
-
-      * Servpro
-
-      * Mediacom
-
-      * Southland Properties
-
-      * Baldwin County Bar Association
-
-      * Alabama Ethics Commission
-
-      * Steve Russo (Former Mayor, convicted)'
-    generated_at: '2026-06-19T17:26:03.535073Z'
-    text: James Pittman targets the most vulnerable citizens while he builds a wall
-      of protection through hand-picked judicial appointments. His brother Tripp’s
-      $750,000 BP contract scam proves the Pittman family operates on the belief that
-      Baldwin County is a lawless playground for their greed.
-    character_count: 286
-  exposure:
-    brief: 'THE CONFLICT:
-
-      - James Pittman is Baldwin County attorney and serves on the Baldwin Judicial
-      Commission selecting judicial nominees.
-
-      - Pittman practices in Judge Clark Stankoski''s courtroom as an indigent defense
-      attorney.
-
-      - In one case, Pittman submitted the appointment for Judge Brackin within 6
-      months of a related assignment (case against Paul Shalhoub).
-
-      - Pittman is accused of attempting to take property from an elderly woman and
-      using inflated bills from SERVPRO ($35,106.38 owed plus interest/fees totaling
-      nearly $67,000) while allegedly never paying them.
-
-      - James Pittman''s brother, Tripp Pittman, was trustee who self-dealt approximately
-      $750 thousand in BP funds.
-
-
-      THE DISCOVERY:
-
-      - The second article highlights concerns regarding the practices within Baldwin
-      County Family Court.
-
-      - It specifically names allegations leveled against Judge Thomason and Attorney
-      Stephen Johnson.
-
-      - The article calls for citizens to vote out unethical judges via non-straight-ticket
-      voting.
-
-
-      THE PIVOT:
-
-      - Article 1 details specific instances of alleged ethical misconduct, financial
-      exploitation, and potential conflicts of interest involving James Pittman within
-      the judiciary (e.g., appointment processes, billing fraud).
-
-      - Article 2 broadens the focus from specific allegations against Pittman to
-      a systemic problem ("cottage industry") affecting the entire Baldwin County
-      Family Court, naming other individuals like Judge Thomason who face similar
-      accusations.
-
-
-      KEY ENTITIES:
-
-      - James Pittman
-
-      - Tripp Pittman
-
-      - Clark Stankoski (Judge)
-
-      - Brackin (Judge)
-
-      - Paul Shalhoub
-
-      - SERVPRO
-
-      - Southland Properties
-
-      - Baldwin Judicial Commission
-
-      - Judge Thomason
-
-      - Stephen Johnson'
-    generated_at: '2026-06-19T17:26:03.535075Z'
-    text: James Pittman uses his influence on the Judicial Commission to ensure the
-      courtroom remains a profitable place for his friends. This problem extends deep
-      into Family Court, where Judge Thomason and Stephen Johnson turned human misery
-      into a thriving cottage industry.
-    character_count: 267
-  catalyst-queen-remember-family-court:
-    brief: 'THE CONFLICT:
-
-      - James Pittman, Baldwin County attorney, was on the five-member Baldwin Judicial
-      Commission selecting judicial nominees.
-
-      - This commission is headed by Judge Clark Stankoski, and Pittman also practiced
-      before him in civil litigation.
-
-      - Pittman submitted an appointment for Judge Brackin, within six months a case
-      against Paul Shalhoub was assigned to Judge Brackin.
-
-      - James Pittman tried to take an 98-year-old woman''s house by falsely claiming
-      she was a partner in "Pirate Paul''s."
-
-
-      THE DISCOVERY:
-
-      - Catalyst organization, directed by Scott “baby” Boone, signed up Judge Michelle
-      Thomason as its first client.
-
-      - The second article details concerns regarding Judge Thomason’s conduct and
-      favoritism toward certain attorneys in Family Court.
-
-      - Judge Buddy Brackin of Orange Beach is cited as a corrupt judge alongside
-      Judge Thomason.
-
-
-      THE PIVOT:
-
-      - Article 2 connects judicial figures (Judge Thomason, Judge Brackin) to external
-      entities like Catalyst, suggesting systemic issues or influence within the judiciary.
-
-      - This links directly to Article 1''s concerns regarding potential favoritism
-      and questionable conduct involving Judge Brackin in relation to James Pittman’s
-      appointments.
-
-
-      KEY ENTITIES:
-
-      - James Pittman
-
-      - Tripp Pittman
-
-      - Clark Stankoski
-
-      - Judge Brackin (Buddy Brackin)
-
-      - Southland Properties
-
-      - SERVPRO
-
-      - Mediacom
-
-      - Judge Michelle Thomason
-
-      - Catalyst'
-    generated_at: '2026-06-19T17:26:03.535077Z'
-    text: James Pittman’s suspicious influence over Judge Brackin’s appointment is
-      only the tip of the iceberg in this rigged system. CATALYST pulls the strings
-      for Brackin, Baldwin County justice is bought and paid for by insiders.
-    character_count: 222
-  baldwin-county-family-court:
-    brief: 'THE CONFLICT:
-
-      * James Pittman (Attorney) ran for and was elected to the Baldwin Judicial Commission.
-
-      * The commission selects nominees for vacant judicial positions.
-
-      * Judge Clark Stankoski heads the five-member panel, of which Pittman is the
-      only practicing attorney.
-
-      * Pittman submitted the appointment for Judge Brackin.
-
-      * Within 6 months of this submission, a case against Paul Shalhoub was assigned
-      to Judge Brackin.
-
-      * In another matter, Pittman tried to take an innocent 98-year-old woman’s house
-      while she battled dementia.
-
-
-      THE DISCOVERY:
-
-      * Judge Thomason is running for Court of Appeals to fill the vacancy left by
-      Craig Pittman''s retirement.
-
-      * Concerns exist regarding Judge Thomason''s competence and judicial conduct
-      in family court cases.
-
-      * Testimonies detail perceived misconduct in Thomason''s courtroom, including
-      issues with evidence admissibility, handling medical records, and questionable
-      rulings in custody matters.
-
-
-      THE PIVOT:
-
-      * Article 2 reveals that a judge (Thomason) whose performance is questioned
-      by citizens is seeking to replace another sitting judge (Craig Pittman), while
-      the first article details how James Pittman used his influence on judicial appointments
-      via the Judicial Commission (where he holds sway through connections with Judge
-      Stankoski).
-
-
-      KEY ENTITIES:
-
-      * James Pittman
-
-      * Tripp Pittman
+      * Tripp Pittman (brother, self-dealing trustee)
 
       * Baldwin Judicial Commission
 
-      * Clark Stankoski (Presiding Circuit Court Judge)
+      * Judge Clark Stankoski
 
       * Judge Brackin
 
       * Paul Shalhoub
 
-      * Servpro
+      * SERVPRO
 
       * Mediacom
 
       * Southland Properties LLC
 
-      * Thomason (Judge)
+      * "Big Cheese" LLC / Pirate Paul''s
 
-      * Craig Pittman'
-    generated_at: '2026-06-19T17:26:03.535078Z'
-    text: James Pittman manipulates judicial vacancies to protect his interests, but
-      the rot in the Baldwin County system is about to go statewide. Judge Thomason,
-      her history of courtroom misconduct proves the same people Pittman helps appoint
-      are the ones failing our families.
-    character_count: 269
-  dont-let-the-door-hit-you-in-the-ass:
+      * Andrea Williams (Secretary of State Business Services)
+
+      * Steve Marshall (Alabama Attorney General)
+
+      * Tom Albritton
+
+      * Rick Clifton
+
+      * John Bell
+
+      * Regions Bank
+
+      * Mabel Amos Memorial Fund
+
+      * Tyra Lindsey
+
+      * Byron Mathews, Jr.
+
+      * Judge Johnny Hardwick
+
+      * Jed Clampit'
+    widget_date: 2023-07-21
+    generated_at: '2026-09-01T12:18:03.845978Z'
+    text: James Pittman maneuvers between corporate shell games and picking local
+      judges. Attorney General Steve Marshall takes big campaign cash from Regions
+      Bank while letting state ethics bosses steal, giving local players like Judge
+      Stankoski total cover.
+    character_count: 249
+  foot-in-his-mouth:
     brief: 'THE CONFLICT:
 
-      * James Pittman, Baldwin County attorney, was involved in legal disputes concerning
-      Southland Properties and allegedly used inflated bills from Servpro ($35,106.38
-      claimed plus interest/fees totaling nearly $67,000) to coerce payment from Mediacom
-      while not paying SERVPRO.
+      * James Pittman (Baldwin County attorney) attempted to seize the home of an
+      98-year-old dementia patient via litigation against her property interests.
 
-      * James Pittman ran for and was elected to the Baldwin Judicial Commission (five-member
-      panel selecting judicial nominees). This commission is headed by Judge Clark
-      Stankoski.
+      * Pittman claimed the woman was a partner in "Pirate Paul''s" business and failed
+      to pay SERVPRO $35,106.38 for two weeks of work improving Southland Properties
+      units; he attempted to force payment on third party Mediacom instead of SERVPRO.
 
-      * James Pittman assigned an appointment for Judge Brackin, and within six months,
-      a case against Paul Shalhoub went to Judge Brackin''s assignment.
+      * Pittman filed an LLC with the title "Big Cheese" and argued that the name
+      was illegal/invalid to discredit opponents using LLC structures, despite the
+      Alabama Secretary of State confirming any name is acceptable online and no notice
+      would be required for illegitimate titles.
 
-      * Tripp Pittman was trustee of BP funds and allegedly self-dealt approximately
-      $750 thousand.
+      * Pittman was a member of the Baldwin Judicial Commission (headed by Presiding
+      Circuit Court Judge Clark Stankoski) as the only practicing attorney; he appointed
+      Judge Brackin who, within six months, received the Paul Shalhoub case in civil
+      litigation where Pittman frequently practices before him.
+
+      * Pittman’s brother, Tripp Pittman, was a trustee for BP funds who self-dealing
+      approximately $750,000 to himself.
+
+      * Pittman is described as ignoring email and phone calls from tenants and clients
+      and using "creative" legal arguments.
 
 
       THE DISCOVERY:
 
-      * State Sen. Tripp Pittman is departing Baldwin County politics after a controversial
-      career marked by allegations of personal gain via public office, specifically
-      related to the BP fund contracts.
+      * Senator Chris Elliott passed legislation restricting municipalities from extending
+      police/planning jurisdictions beyond corporate limits; it advanced out of the
+      Alabama Senate Judiciary Committee on Wednesday with debate over expanding protected
+      professions to include elected officials.
 
-      * Former State Sen. Tripp Pittman was involved in securing a first contract
-      from the BP funds awarded to Alabama through Fairhope and his associates (including
-      Mayor Can''t).
+      * Elliott claimed law enforcement officials approached him in support, citing
+      concerns for people whose jobs make them vulnerable to physical assault (unnamed
+      contacts); Senate Judiciary Committee did not fully support him.
 
-      * Tripp Pittman is rumored to be planning on managing the Gulf Beach Hotel,
-      which reportedly used BP funds.
+      * Elliott is Baldwin County Sheriff’s legislative puppet first under Hoss Mack,
+      now under Anthony Lowery; his wife works for the sheriff department and secured
+      that position through Chris Elliott.
+
+      * He presents bills to the Legislature without review/notice; he is currently
+      running for re-election with false endorsements claimed by mayors.
+
+      * The "foot in his mouth" motif connects directly to a disputed claim where
+      Councilman Matt Franklin testified he was threatened by Mr. Still (who weighed
+      close to 300 lbs, 6+ ft) to kill "Harry and his dog"; Franklin was subdued by
+      Still but did not suffer physical stomping; Franklin allegedly threatened violence
+      in public view of the public.
 
 
       THE PIVOT:
 
-      * The two articles establish a pattern of financial impropriety and conflict
-      of interest involving members of the Pittman family in public/legal roles (Tripp
-      as State Senator/Trustee; James as County Attorney/Commission member).
+      * Article 2 shows Elliott’s legislative style—bypassing body review, passing
+      developer-friendly bills under "good ole boy" culture while invoking law enforcement
+      as cover—is structurally identical to how Pittman used his position on the Baldwin
+      Judicial Commission and proximity to Judge Stankoski to appoint Judge Brackin
+      who then received Pittman’s case against a dementia patient, proving the system
+      favors those with political/legislative control rather than due process.
 
-      * Article 2 confirms Tripp Pittman''s history of using political influence (BP
-      funds) for personal benefit, mirroring the allegations in Article 1 regarding
-      James Pittman''s use of professional position to pursue financial advantage
-      (coercion over Mediacom/Servpro).
+      * Elliott’s claim of no conflict of interest despite his wife’s job via Chris
+      Elliott mirrors Pittman’s professed "no conflict of interest" while being the
+      only practicing attorney on a commission that selects judges he frequently litigates
+      before, showing Baldwin County institutional capture by politically connected
+      legal actors.
+
+      * The false-claim pattern: Elliott fabricating law enforcement support for legislation
+      parallels Pittman falsely claiming the dementia patient was in "Pirate Paul''s"
+      and falsely invoking SERVPRO inflation to pass Mediacom a bill he had no obligation
+      to pay.
 
 
       KEY ENTITIES:
 
-      * James Pittman
+      James Pittman, Tripp Pittman, Baldwin County Judicial Commission, Clark Stankoski
+      (Presiding Circuit Court Judge), Judge Brackin, Paul Shalhoub, SERVPRO, Mediacom,
+      Southland Properties, "Big Cheese" LLC, Pirate Paul''s, Anthony Lowery (Baldwin
+      County Sheriff), Hoss Mack, Councilman Matt Franklin, Mr. Still, Bay Minette
+      City Council'
+    widget_date: 2026-01-18
+    generated_at: '2026-09-01T12:18:03.845979Z'
+    text: Attorney James Pittman manipulates judicial choices to bully tenants and
+      evade legitimate bills. Senator Chris Elliott pushes backroom deals and shields
+      Sheriff Lowery, proving how Baldwin County power players use political muscle
+      to bypass basic due process.
+    character_count: 259
+  stealing-from-kids:
+    brief: 'THE CONFLICT:
 
-      * Tripp Pittman
+      - James Pittman submitted Judge Brackin''s appointment to the Baldwin Judicial
+      Commission (headed by Judge Clark Stankoski).
 
-      * Clark Stankoski
+      - Within 6 months, the case against Paul Shalhoub was assigned to Judge Brackin,
+      who is a fellow appointee.
 
-      * Judge Brackin
+      - The case involves Southland Properties and a dispute where Pittman claimed
+      SERVPRO’s bill was inflated to extract $35,106.38 from Mediacom for two-and-a-half
+      weeks of work.
 
-      * Servpro
+      - Pittman protected his financial interests via the LLC "Southland Properties
+      llc" and potentially "Pirate Paul’s," attempting to take an innocent 98-year-old
+      woman''s home while she battled dementia.
 
-      * Mediacom
 
-      * Southland Properties LLC
+      THE DISCOVERY:
 
-      * Paul Shalhoub
+      - The second article (STEALING FROM KIDS) highlights the political corruption
+      of Alabama, specifically the Ethics Commission under Tom Albritton and its role
+      in protecting politicians from accountability.
 
-      * BP funds
+      - It explicitly accuses the judiciary of "running a close second" to state-level
+      corruption and warns of "whitewashing" of criminal activity and lack of transparency.
 
-      * Fairhope
 
-      * Jack Burrell'
-    generated_at: '2026-06-19T17:26:03.535080Z'
-    text: James Pittman uses his legal standing to squeeze companies and elderly residents
-      while stacking the bench with his own appointees. His brother Tripp is finally
-      leaving politics after a career of self-dealing, leaving behind a legacy of
-      BP fund raids that defines the Pittman family’s greed.
-    character_count: 290
+      THE PIVOT:
+
+      - Article 2 provides the systemic "smoking gun" context for why Pittman could
+      manipulate the system in Article 1.
+
+      - The "Ethics Commission" (referenced in the first article’s metadata) is the
+      very body detailed in Article 2 as ineffective, corrupt, and lacking transparency.
+
+      - The lack of judicial accountability mentioned in Article 2 explains the delays,
+      settlements ("sweetest settlement"), and favorable rulings toward appointees
+      like Judge Brackin mentioned in Article 1, making Pittman’s "creative" legal
+      arguments possible without consequence.
+
+
+      KEY ENTITIES:
+
+      - James Pittman
+
+      - Tripp Pittman
+
+      - Baldwin Judicial Commission
+
+      - Judge Clark Stankoski
+
+      - Judge Brackin
+
+      - Paul Shalhoub
+
+      - SERVPRO
+
+      - Mediacom
+
+      - Southland Properties llc
+
+      - Tom Albritton
+
+      - Judge Johnny Hardwick'
+    widget_date: 2023-11-04
+    generated_at: '2026-09-01T12:18:03.845981Z'
+    text: James Pittman put Judge Brackin on the bench and landed his own case in
+      that exact courtroom months later. Tom Albritton gutted the Ethics Commission
+      to safeguard state politicians, guaranteeing self-dealing insiders face zero
+      oversight from local judges.
+    character_count: 255
+  a-new-hope:
+    brief: 'THE CONFLICT: James Pittman is a Baldwin County attorney who serves as
+      the ONLY practicing lawyer on the five-member Baldwin Judicial Commission, which
+      selects nominees for judicial appointments. The commission is headed by Judge
+      Clark Stankoski, and Pittman is assigned to Stankoski''s courtroom as an indigent
+      defense attorney while also frequently practicing before him in civil litigation.
+      Within 6 months of Pittman submitting the appointment for Judge Brackin, the
+      case against Paul Shalhoub was assigned to Judge Brackin. Pittman has never
+      paid SERVPRO, which performed two-and-a-half weeks of work benefiting Southland
+      Properties, yet he used an allegedly inflated SERVPRO bill along with his own
+      expert''s "admittedly inflated bill" to coerce Mediacom into payment under the
+      pretense of paying SERVPRO. Pittman is trying to seize a 98-year-old dementia
+      patient''s house claiming she was a partner in Pirate Paul''s when she never
+      was. His brother Tripp Pittman previously self-dealing from BP funds for approximately
+      $750,000.
+
+
+      THE DISCOVERY: The Dixie Podcast transcript revealed that Harry Still, a BayMinette
+      (Bayonneette) municipal court case, was convicted but later found NOT GUILTY
+      in a jury trial de novo. The prosecution by Liam Scully was deemed politically
+      motivated because the prosecutor Matt Franklin was a city council member who
+      would vote on Still''s reappointment as city prosecutor. Scully (described as
+      "son of a judge") recently lost his election to Grant Blackburn. Judge Marcus
+      McDowell faced a 2022 bar complaint for political retaliation, and former Police
+      Chief Al Talbert was accused of removing Still from a police station in tactical
+      gear. Still plans civil lawsuits against Mayor Wills, local news outlets, and
+      the City of BayMinette for defamation and malicious prosecution. Sen. Chris
+      Elliott introduced state legislation allegedly inspired by Still''s case that
+      Still views as retaliatory.
+
+
+      THE PIVOT: Article 2 (Dixie Podcast/Still case) exposes the same Baldwin County
+      judicial-political system that Article 1 (Pittman/Stankoski) documents in operation.
+      The connection is structural and systemic: Article 1 shows a lawyer (Pittman)
+      who sits on the commission that appoints judges, is assigned to the head judge''s
+      courtroom, and whose appointment choice (Brackin) directly influences case assignments
+      — with no accountability mechanism mentioned. Article 2 shows that when this
+      same system was challenged, the accuser (Still) faced political retaliation,
+      the prosecutor was a son of a judge (Scully), and the accused official (McDowell)
+      already had bar complaints. The "smoking gun" is that Judge Marcus McDowell
+      appears in both contexts — in Baldwin County''s judicial/political structure
+      — demonstrating that the system Pittman operates within (appointments, courtroom
+      assignments, case routing) lacks checks that protect defendants/appellants from
+      insider manipulation. The $67,000 Servpro claim and the 98-year-old woman''s
+      house show what happens when a judge appointed through this process hears a
+      case involving someone connected to the appointing committee.
+
+
+      KEY ENTITIES: James Pittman, Tripp Pittman, Judge Clark Stankoski, Judge Brackin,
+      Paul Shalhoub, SERVPRO, Southland Properties LLC, Mediacom, "Big Cheese" LLC,
+      98-year-old dementia patient, Pirate Paul''s, Baldwin Judicial Commission, BayMinette
+      (Bayonneette), Harry Still, Liam Scully, Grant Blackburn, Matt Franklin, Al
+      Talbert, Judge Marcus McDowell, Mayor Wills, Danielle Duggar, Doug Jones, Chris
+      Elliott, Terry (opponent), Dixie Podcast'
+    widget_date: 2026-05-25
+    generated_at: '2026-09-01T12:18:03.845984Z'
+    text: James Pittman leverages his commission seat to pick friendly judges like
+      Byron Brackin for his own civil battles. When locals challenge this rigged court
+      machine, insiders like Judge Marcus McDowell unleash ruthless political paybacks
+      to silence victims.
+    character_count: 254
+  JUDGE-VS-SHERIFF:
+    brief: 'THE CONFLICT:
+
+      *   Attorney James Pittman represents Southland Properties against Servpro and
+      Mediacom.
+
+      *   Pittman claims the elderly tenant (98-year-old, battling dementia) is a
+      partner in "Pirate Paul''s" to force her into selling/losing her house.
+
+      *   Facts: Pittman has never actually paid Servpro for 2.5 weeks of work; he
+      passed a fabricated bill to Mediacom instead.
+
+      *   Servpro demands ~$67,000 ($35k owed + $2.6k interest + $29k attorney fees).
+
+      *   Pittman alleges "Big Cheese" LLC was improperly formed; State Secretary
+      Andrea Williams confirms the LLC title is legally valid and acceptable.
+
+      *   Pitman submitted Judge Brackin as a nominee to the Baldwin Judicial Commission,
+      after which a case against Paul Shalhoub was assigned to Brackin within 6 months.
+
+      *   James Pittman''s brother, Tripp Pittman (Sen./former Trustee), self-dealt
+      approximately $750,000 in BP funds and sponsored SB 312 to create special Sheriff
+      qualifications eliminating competition, securing the position of Hoss Mack for
+      two terms.
+
+
+      THE DISCOVERY:
+
+      *   Judge Clark Stankoski presides over the Baldwin Judicial Commission, headed
+      by Presiding Circuit Court Judge Stankoski.
+
+      *   Pittman is the *only* practicing attorney on that five-member commission
+      and frequently practices in Stankoski''s courtroom as an indigent defense attorney.
+
+      *   Judge Stankoski has advised a lower court judge to reverse a ruling because
+      it was "not acceptable" to DA Robert Wilters and Sheriff Hoss Mack ("The Boss").
+
+      *   Sheriff Mack and DA Wilters asked for a ruling change to force the return
+      of a car seized by deputies (Baldwin County Sheriff''s Office / BCSO).
+
+
+      THE PIVOT:
+
+      *   Article 1 claims Pittman "professes that no conflict of interest exists"
+      regarding his role on the Judicial Commission.
+
+      *   Article 2 proves that Stankoski, who heads the Commission Pittman sits on
+      and in which Pittman is the only attorney member, is subject to pressure from
+      BCSO/Mack/Wilters and is ruling to appease them ("The Judge has got to be the
+      higher power... if the sheriff dictates to the court").
+
+      *   Article 2 exposes the judicial environment in which Pittman’s potential
+      favoritism toward Stankoski/Brackin operates, confirming the "unbridled power"
+      and "political corruption" that allows Pittman to manipulate outcomes via his
+      commission role.
+
+      *   The relationship between Trip/Tripp Pittman (SB 312 sponsorship) and Sheriff
+      Mack/Hoss Mack (30+ years, "joined at the hip") provides the network that supports
+      both the judicial appointments (Pittman''s influence) and the law enforcement
+      pressure (Mack/Wilters/Stankoski).
+
+
+      KEY ENTITIES:
+
+      *   James Pittman
+
+      *   Tripp/Tripp Pittman
+
+      *   Judge Clark Stankoski
+
+      *   Judge Brackin
+
+      *   Sheriff Hoss Mack ("The Boss")
+
+      *   DA Robert Wilters
+
+      *   Associate Justice Greg Shaw
+
+      *   Chief Justice Tom Parker
+
+      *   Paul Shalhoub
+
+      *   Mediacom
+
+      *   Servpro
+
+      *   Southland Properties LLC
+
+      *   "Big Cheese" LLC / "Pirate Paul''s"
+
+      *   Andrea Williams (Secretary of State Business Services Division)
+
+      *   Deputy Matt Hunady
+
+      *   Sen. Trip Pittman
+
+      *   Senate Bill 312
+
+      *   Baldwin Judicial Commission'
+    widget_date: 2023-09-22
+    generated_at: '2026-09-01T12:18:03.845985Z'
+    text: James Pittman insists his seat on Judge Clark Stankoski's judicial panel
+      creates zero conflict of interest. Stankoski openly changes court rulings to
+      satisfy Sheriff Hoss Mack and DA Robert Wilters, exposing a bench completely
+      subservient to law enforcement.
+    character_count: 258
+  sheriff-huey-boss-mack-secret-police-2:
+    brief: 'Based on my analysis of the provided article contents and limited web
+      verification, here is the Bridge Brief:
+
+
+      ---
+
+
+      **THE CONFLICT:**
+
+      - **James B. Pittman Jr.** (baldwin County attorney) has been elected to the
+      Baldwin Judicial Commission, a five-member panel that selects nominees for appointment
+      to vacant judicial positions. He is the only practicing attorney on the commission.
+
+      - The commission is headed by **Baldwin County Presiding Circuit Court Judge
+      Clark Stankoski**. Pittman is assigned to Stankoski''s courtroom as an indigent
+      defense attorney and frequently practices before him in civil litigation.
+
+      - **Pittman submitted a nomination for Judge Byron Brackin** (circuit court)
+      on the commission. Within 6 months, **the case against Paul Shalhoub was assigned
+      to Judge Brackin**.
+
+      - Pittman is trying to take an innocent **98-year-old woman''s house** while
+      she battles dementia. He claims she is a partner in **Pirate Paul''s Treasure
+      Chest**, which he has never been associated with.
+
+      - The dispute involves a lease at **27900 N. Main St., Daphne, Alabama**. When
+      Pittman allegedly broke the lease and didn''t pay SERVPRO, he tried to pass
+      the $35,106.38 bill (plus over $2,600 in interest and nearly $29,000 in attorney''s
+      fees — totaling almost $67,000) onto Mediacom under the pretense of paying for
+      SERVPRO work that clearly benefited Southland Properties.
+
+      - Pittman used an LLC with the title **"Big Cheese"** to shield himself from
+      liability.
+
+
+      **THE DISCOVERY:**
+
+      The second article (Sheriff Huey "Boss" Mack - Secret Police) reveals a pattern
+      of **systemic corruption and lack of accountability**:
+
+      - BCSO officers shot to death Jonathan Victor (May 2017) and Robert Yates (March
+      5, 2018), with no crisis intervention or de-escalation training.
+
+      - SWAT team shot over 114 rounds into Yates'' residence after one warning shot,
+      despite it not being an emergency.
+
+      - Deputy Justin Correa, son of BCSO officer Robert Correa, allegedly participated
+      in the fatal shooting.
+
+      - Sheriff Mack''s private business, Hoss Mack Funeral Home, received a county
+      contract to handle deceased persons, creating a conflict of interest.
+
+      - The Lagniappe legal decision (September 30, 2021) effectively closed public
+      access to law enforcement records connected to investigations in Alabama.
+
+      - Judge Scully made biased rulings favoring BCSO.
+
+      - Murry Lawrence Jr. was sentenced to life without parole despite no physical
+      evidence and multiple alibi witnesses.
+
+
+      **THE PIVOT:**
+
+      Article 2 is the "smoking gun" because it reveals that **Pittman''s manipulation
+      of the judicial system through his position on the Judicial Commission (selecting
+      Judge Brackin, who then handled the case against Shalhoub) reflects a broader
+      pattern of elite self-preservation and lack of accountability in Baldwin County
+      courts.** The same system that allowed Sheriff Mack to protect himself from
+      scrutiny while his business benefited from state contracts, is being used by
+      Pittman to shield himself. Stankoski (who headed the commission that appointed
+      Brackin) was alleged to have made biased rulings. Both articles show how powerful
+      figures in Baldwin County exploit the legal system to avoid consequences.
+
+
+      **KEY ENTITIES:**
+
+      - James B. Pittman Jr. (attorney, judicial commission member)
+
+      - Tripp Pittman (brother, state senator who self-dealing $750,000)
+
+      - Judge Clark Stankoski (presiding circuit court judge, head of judicial commission)
+
+      - Judge Byron Brackin (circuit court judge, nominated by Pittman)
+
+      - Paul Shalhoub (plaintiff in the lawsuit)
+
+      - Pirate Paul''s Treasure Chest (business name)
+
+      - SERVPRO of Baldwin County (company owed $67,000)
+
+      - Mediacom (entity Pittman tried to pass bill to)
+
+      - Southland Properties LLC (Pittman''s business entity)
+
+      - "Big Cheese" LLC (Pittman''s corporate veil)'
+    widget_date: 2023-11-20
+    generated_at: '2026-09-01T12:18:03.845986Z'
+    text: Attorney James Pittman uses his judicial commission seat to install judges
+      who protect his dirty property deals. Sheriff Hoss Mack hides fatal shootings
+      while lining his pockets with county contracts, exposing the exact same lawless
+      protection machine.
+    character_count: 252

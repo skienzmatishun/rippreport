@@ -1,8 +1,65 @@
 metadata:
-  generated_at: '2026-08-15T23:38:09.528155Z'
+  generated_at: '2026-09-01T18:02:30.718970Z'
   generator_version: 1.0.0
   post_slug: not-qualified
+  main_date: 2026-05-09
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
+  kristy-haygood-is-not-qualified-2:
+    brief: 'THE CONFLICT: Murray Lawrence Jr. was convicted and has been incarcerated
+      for over 20 years on charges that Article 1 argues are "bogus" and based on
+      withheld evidence (a claimed Brady violation). Key past actors cited include
+      Anthony Lowery, Hoss Mack, Robert Wilters, and David Whetstone as prosecutors/judges
+      responsible for the conviction. Specific procedural context: Murray Lawrence
+      Jr.''s trial was presided over by Circuit Judge Robert Wilters; Assistant District
+      Attorney Kristi Hagood was Wilters'' subordinate (boss).
+
+
+      THE DISCOVERY: Article 2 reveals that ADA Kristi Hagood made serious errors
+      in a legal document related to her office''s handling of the case, leading the
+      author to conclude she is "not qualified" for judicial office. It explicitly
+      names her alongside Lowery, Mack, Wilters, and Whetstone as collectively responsible
+      for "convicting and not admitting to convicting an innocent man."
+
+
+      THE PIVOT: Article 2 provides the direct evidentiary context that undermines
+      Article 1''s argument. Article 1 claims Hagood is incompetent ("can''t read"
+      or used hallucinating AI) in responding to a Rule 32 filing on Lawrence''s case;
+      Article 2 turns her specific legal errors into a public disqualifier, linking
+      her to the same "Cabal" that produced the wrongful conviction. Because Wilters
+      (the judge who convicted Lawrence) was also Hagood''s superior, Article 2 frames
+      Hagood not merely as a bad prosecutor but as part of a systemic chain of responsibility
+      for an unjust verdict.
+
+
+      KEY ENTITIES:
+
+      - Murray Lawrence Jr. (Defendant/Inmate)
+
+      - Kristi Hagood (ADA, Candidate)
+
+      - Jerimiah Giles (Opponent Candidate; sometimes spelled Jeremiah)
+
+      - Robert Wilters (Circuit Judge / ADA Boss)
+
+      - Anthony Lowery
+
+      - Hoss Mack
+
+      - David Whetstone
+
+      - Harry Still
+
+      - Willie Huntley (Huntley family reference)
+
+      - Jefferson Beauregard Sessions (US Attorney General context)
+
+      - Dr. Paul McGarry (Pathologist witness)
+
+      - Kevin Brock (Former Summerdale PD Chief, Candidate)'
+    widget_date: 2026-05-14
+    generated_at: '2026-09-01T18:02:30.719819Z'
   guilty-audiobook:
     brief: 'THE CONFLICT
 
@@ -61,275 +118,101 @@ hooks:
       to steal years from Murray Lawrence Jr. in a rigged trial. These people do not
       belong in office. They belong in the unemployment line.
     character_count: 290
-  railroaded-by-the-law:
+  not-guilty-innocent:
     brief: 'THE CONFLICT:
 
-      *   Kristi Hagood, Baldwin County Assistant District Attorney, and Wilters (Circuit
-      Judge) presided over the trial of Murray Lawrence Jr.
+      - Kristi Hagood is a Baldwin County Assistant District Attorney running for
+      Circuit Judge against Jerimiah Giles at the May 19, 2026 Republican Primary
+      (Main Article).
 
-      *   Willie Huntley testified that Jeff Sessions mentored him and they "bankrupt
-      the Ku Klux Klan."
+      - Defendant Murray Bubba Lawrence Jr. filed a Rule 32 motion regarding his trial;
+      his case was presided over by Robert Wilters, who is the current District Attorney
+      (Main Article).
+
+      - Judge Robert Wilters’ daughter, Kristi Hagood, was expected to respond to
+      the Rule 32 filing but instead issued a response described as AI-generated hallucinations
+      or unintelligible text (Main Article).
+
+      - Harry Still was arrested in downtown Bay Minette on September 3, 2025 after
+      an altercation with City Councilman Matt Franklin that continued onto the street;
+      he was charged with assault and subsequently acquitted by jury (Widget Article).
+
+      - Al Tolbert, a former Bay Minette Police Chief, had long-standing conflicts
+      with Harry Still due to Still representing victims of police misconduct; Tolbert
+      is now with BCSO (Baldwin County Sheriff’s Office) (Widget Article).
 
 
       THE DISCOVERY:
 
-      *   The Sheriff, District Attorney, Presiding Judge, and prosecutor colluded
-      to withhold a coroner''s report from the Defense in a murder trial.
+      - Judge Robert Wilters presided over the trial that produced Murray Lawrence
+      Jr.’s conviction and is currently the District Attorney whose office was represented
+      by Kristi Hagood on the Rule 32 motion, creating a direct conflict of interest
+      that required recusal (Main Article/Widget Entity connection).
 
-      *   An innocent man was jailed for over 18 years based on a bogus theory.
+      - Harry Still’s assault trial against Matt Franklin resulted in a “not guilty”
+      verdict after only five minutes of jury deliberation (Widget Article).
 
-      *   Hastings’ body was exhumed on May 14, 2003, and sent for a second autopsy.
+      - District Judge Marcus McDowell failed to follow proper legal procedures in
+      the Ronan McSherry case, ignored audio evidence provided by Harry Still, lied
+      to the Mayor and City Council, and should have recused himself due to Alabama
+      Bar complaints (Widget Article).
 
-
-      THE PIVOT:
-
-      *   Article 2 reveals that the District Attorney''s office (via Wilters) authorized
-      an autopsy on Hastings’ body, confirming collusion between the prosecuting bodies
-      and demonstrating how evidence was deliberately withheld from the defense during
-      the murder trial referenced in Article 1.
-
-
-      KEY ENTITIES:
-
-      *   Kristi Hagood
-
-      *   Murray Lawrence Jr.
-
-      *   Willie Huntley
-
-      *   Jefferson Beauregard Session
-
-      *   Jeff Sessions
-
-      *   Wilters (Circuit Judge/DA Office)
-
-      *   Hoss Mack
-
-      *   Hastings'
-    generated_at: '2026-07-10T16:19:15.083831Z'
-    text: Robert Wilters and his cronies claim to follow the law while they bury the
-      truth for their own gain. This investigation proves they hid a crucial autopsy
-      report to rot an innocent man in prison for 18+ years on a fake theory. The
-      Baldwin County machine finally got caught in its own web of lies.
-    character_count: 295
-  advocates:
-    brief: 'THE CONFLICT:
-
-      *   Murray “Bubba” Lawrence Jr. was convicted and sentenced to life in prison
-      without parole.
-
-      *   The trial of Murray Lawrence Jr. occurred under the jurisdiction of Wilters
-      as the Circuit Judge.
-
-      *   Kristi Hagood is a Baldwin County Assistant District Attorney.
-
-
-      THE DISCOVERY:
-
-      *   Criminal rights advocates discovered a second autopsy related to the 2003
-      murder that was never included or revealed during Murray Lawrence Jr.''s trial.
+      - Baldwin County Sheriff Lowery issued a warning bulletin to officers to be
+      on guard for Harry Still’s presence prior to his conviction, suggesting an ongoing
+      institutional bias (Widget Article).
 
 
       THE PIVOT:
 
-      *   Article 2 provides physical evidence (the hidden autopsy) directly connected
-      to the criminal case mentioned in Article 1, validating scrutiny of the legal
-      proceedings and the entities involved (like Wilters).
+      - The Main Article accuses Kristi Hagood of professional misconduct in handling
+      the Rule 32 filing from Murray Lawrence Jr., specifically because her supervisor
+      is Robert Wilters, who presided over that very trial; without Wilters’ recusal,
+      Hagood’s office was improperly engaged.
+
+      - The Widget Article shows a broader pattern where local prosecutors (Wilters)
+      and judges (McDowell) fail to follow legal duties or properly address conflicts
+      of interest in cases involving criminal defense attorneys like Harry Still.
+
+      - Because Judge McDowell and the local system have been shown to ignore evidence
+      and violate procedural obligations, Hagood’s lack of proper response in Lawrence’s
+      case demonstrates she is operating within a dysfunctional judicial environment
+      where justice is compromised, supporting the Main Article’s argument that she
+      should be rejected for her inability to uphold “Justice.”
 
 
       KEY ENTITIES:
 
-      *   Kristi Hagood (Baldwin County Assistant District Attorney)
+      - Kristi Hagood (Assistant District Attorney / Circuit Judge candidate)
 
-      *   Murray Lawrence Jr.
+      - Jerimiah Giles (Opponent candidate for Circuit Court)
 
-      *   Willie Huntley
+      - Murray Bubba Lawrence Jr. (Defendant in Rule 32 filing)
 
-      *   Jefferson Beauregard Session
+      - Robert Wilters (District Attorney; father of candidate Hagood)
 
-      *   Dr. Paul McGarry
+      - Matt Franklin (Bay Minette City Councilman; victim of assault by Harry Still)
 
-      *   Wilters (Circuit Judge)
+      - Scott Tayor (Circuit Court Judge who dismissed mental institution motion)
 
-      *   Kevin Brock
+      - Marcus McDowell (Bay Minette Municipal Court Judge / Fairhope Municipal Attorney)
 
-      *   Jerimiah Giles'
-    generated_at: '2026-07-10T16:19:15.083842Z'
-    text: The Baldwin County legal machine thinks they can keep their secrets buried
-      forever in a dusty file. Criminal rights advocates just dug up a hidden autopsy
-      that Robert Wilters kept out of court to ensure Murray Lawrence Jr. stayed behind
-      bars. This smoking gun proves the trial was a total scam.
-    character_count: 294
-  justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
-    brief: 'THE CONFLICT
+      - Ronan McSherry (Defendant in assault case represented by Harry Still)
 
-      *   Murray Lawrence Jr. spent over 20 years in prison for a murder he did not
-      commit.
+      - Clark Stankowski (Circuit Court Judge for Appeal)
 
-      *   The prosecution built the case against Murray Lawrence Jr. despite a lack
-      of evidence.
+      - Al Tolbert (Former Bay Minette Police Chief / Current BCSO employee)
 
-      *   Key exculpatory evidence was suppressed during the trial.
+      - David Whetstone (Former Prosecutor)
 
+      - Hoss Mack (Former Sheriff)
 
-      THE DISCOVERY
+      - Lowery (Baldwin County Sheriff)
 
-      *   Key figures responsible for building the case against Murray Lawrence Jr.
-      now hold higher positions of power today.
+      - Harry Still (Defendant in assault case; attorney)
 
-      *   Robert Wilters, who presided over the 2005 trial, currently holds the position
-      of Baldwin County District Attorney (since approximately 2015).
-
-      *   Anthony Lowery is the current Baldwin County Sheriff.
-
-      *   Huey ''Hoss'' Mack, who was a lead investigator and Captain in the BCSC,
-      serves in a newly appointed state-level position.
-
-      *   David Whetstone, the District Attorney who prosecuted Murray Lawrence Jr.,
-      is retired.
-
-
-      THE PIVOT
-
-      *   Article 2 proves that prosecutorial misconduct and suppressed evidence occurred
-      during the Murray Lawrence Jr. trial (2005), establishing a pattern of behavior.
-
-      *   This proven miscarriage of justice provides the context for the systemic
-      critique regarding power, politics, and legal ethics mentioned in Article 1.
-
-      *   The movement of key figures from trial roles to positions of power demonstrates
-      that those responsible for the injustice have risen in rank without accountability.
-
-
-      KEY ENTITIES
-
-      *   Murray Lawrence Jr.
-
-      *   Kristi Hagood (Assistant District Attorney)
-
-      *   Jeff Sessions (United States Attorney General confirmation hearings)
-
-      *   Willie Huntley
-
-      *   Robert Wilters (Presiding Circuit Court Judge/Current DA)
-
-      *   Anthony Lowery (Current Sheriff)
-
-      *   Huey ''Hoss'' Mack
-
-      *   David Whetstone'
-    generated_at: '2026-07-10T16:19:15.083853Z'
-    text: Corruption pays well in Baldwin County if you play by the rules of Robert
-      Wilters. We reveal how Anthony Lowery and Hoss Mack climbed the ladder to power
-      by suppressing evidence and destroying Murray Lawrence Jr. in a sham trial.
-      These men built their careers on the ruins of a man's life.
-    character_count: 289
-  justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
-    brief: 'THE CONFLICT
-
-      *   Murray Lawrence Jr was convicted of a murder he did not commit.
-
-      *   The trial of Murray Lawrence Jr occurred in 2005.
-
-
-      THE DISCOVERY
-
-      *   Key exculpatory evidence was suppressed during Murray Lawrence Jr''s trial.
-
-      *   Four men who built the case against Lawrence Jr now hold higher office.
-
-      *   Robert Wilters, who presided as the Circuit Court Judge in 2005, is now
-      the Baldwin County District Attorney (since approximately 2015).
-
-      *   Anthony Lowery, who testified during the trial and was a Chief Investigator,
-      is now the current Baldwin County Sheriff.
-
-      *   David Whetstone, who prosecuted Murray Lawrence Jr and offered a plea deal,
-      is retired.
-
-
-      THE PIVOT
-
-      *   Article 2 provides specific evidence of prosecutorial misconduct and suppressed
-      evidence in the Murray Lawrence Jr case.
-
-      *   This substantiates the criticism regarding the legal system and figures
-      like Robert Wilters mentioned in Article 1.
-
-
-      KEY ENTITIES
-
-      *   Murray Lawrence Jr
-
-      *   Kristi Hagood (Assistant District Attorney)
-
-      *   Jeff Sessions (US Attorney General confirmation)
-
-      *   Willie Huntley
-
-      *   Robert Wilters (Circuit Judge/DA)
-
-      *   Anthony Lowery (Former Chief Investigator/Current Sheriff)
-
-      *   Huey ''Hoss'' Mack (Lead Investigator)
-
-      *   David Whetstone'
-    generated_at: '2026-07-10T16:19:15.083857Z'
-    text: Robert Wilters and Anthony Lowery turned a wrongful conviction into a direct
-      career path. This proof of suppressed evidence shows exactly how they built
-      their empires on the back of a man they knew was innocent. It is time for Baldwin
-      County to see the rot inside the District Attorney's office.
-    character_count: 295
-  7432-days-in-jail:
-    brief: 'THE CONFLICT
-
-      *   Murray Lawrence Jr. spent 7432 days in jail for a crime he did not commit.
-
-      *   The conflict involves allegations of conspiracy to withhold vital information
-      from the defense during his prosecution.
-
-
-      THE DISCOVERY
-
-      *   Baldwin County Sheriff Hoss Mack, Prosecutor David Whetstone, and Judge
-      Robert Wilters are accused of conspiring to withhold evidence resulting in Lawrence
-      Jr.''s wrongful imprisonment.
-
-
-      THE PIVOT
-
-      *   Article 2 provides the specific case details (7432 days) and identifies
-      the individuals responsible for the legal injustice alluded to in Article 1
-      regarding the judicial system (Judge Wilters, Prosecutor Whetstone). This links
-      the political commentary about legal ethics and corruption to a concrete case
-      of wrongful imprisonment.
-
-
-      KEY ENTITIES
-
-      *   Kristi Hagood
-
-      *   Murray Lawrence Jr.
-
-      *   Jeff Sessions
-
-      *   Willie Huntley
-
-      *   Jefferson Beauregard Session
-
-      *   Dr. Paul McGarry
-
-      *   Hoss Mack (Baldwin County Sheriff)
-
-      *   David Whetstone
-
-      *   Robert Wilters (Judge/DA)'
-    generated_at: '2026-07-10T16:19:15.083860Z'
-    text: Murray Lawrence Jr. lost 7,432 days of his life because the local elite
-      wanted a quick win. Sheriff Hoss Mack and Judge Robert Wilters conspired to
-      hide the facts and keep an innocent man locked in a cage for two decades. Read
-      the specific details of the conspiracy that stole a man's entire life.
-    character_count: 297
+      - Chris Elliott (State Senator)'
+    widget_date: 2026-06-13
+    generated_at: '2026-09-01T18:02:30.720244Z'
   no-justice:
     brief: 'THE CONFLICT
 
@@ -383,113 +266,409 @@ hooks:
       a coroner’s report to fix a murder trial and silence the defense. Their power
       depends on you staying in the dark about their dirty tactics.
     character_count: 294
-  bcso-how-to-become-sheriff:
-    brief: 'THE CONFLICT:
-
-      *   Kristi Hagood is a Baldwin County Assistant District Attorney.
-
-      *   Murray Lawrence Jr. was tried before Circuit Judge Robert Wilters.
-
-      *   Willie Huntley is an attorney testifying on behalf of Jefferson Beauregard
-      Session, who was accused of racism during his confirmation hearings for U.S.
-      Attorney General Jeff Sessions.
-
-
-      THE DISCOVERY:
-
-      *   Sheriff Mack was elected and promoted to Sheriff after assisting in the
-      wrongful conviction of Murray "Bubba" Lawrence Jr.
-
-      *   Sheriff Mack hired Antony Lowery and Dean McGowan, who were involved in
-      the capital murder case of Lawrence.
-
-      *   The prosecution (Mack, David Whetstone) ignored autopsy findings from Mississippi
-      witnessed by Dean McGowen, John Stewart, and Tony Fuqua regarding Brandon Hastings''
-      death (cause of death listed as asphyxiation).
-
-      *   Exculpatory evidence found in 2023 regarding the Hastings murder was withheld
-      from the defense by Mack, Wilters, and Whetstone.
+  a-new-hope:
+    brief: 'THE CONFLICT: Kristi Hagood, Baldwin County Assistant District Attorney,
+      faced legal criticism for failing to recuse her office when presiding over the
+      Rule 32 filing related to Murray Bubba Lawrence Jr.''s case. DA Jeff Wilters
+      was identified as the Circuit Judge who presided over the trial of Lawrence
+      Jr., creating a direct conflict of interest since Hagood serves under him. The
+      main article positions Hagood as a "Cabal Candidate" lacking legal competence
+      in civil law and failing to follow professional conduct rules regarding bias/recusal.
+      The 2025-2026 election cycle was framed around this controversy, with the Republican
+      Primary set for May 19, 2026, and a pending trial on May 22, 2025, referenced
+      as context for Hagood''s credibility deficit.
 
 
-      THE PIVOT:
+      THE DISCOVERY: The widget article revealed that local prosecutors (e.g., Liam
+      Scully, son of a judge) were unprepared and politically motivated in cases involving
+      public figures like Harry Still, who claimed political retaliation from officials
+      including Judge Marcus McDowell and former Police Chief Al Talbert. This established
+      a pattern where Baldwin County legal personnel engage in "malicious prosecution"
+      and "political retaliation," directly contradicting Hagood''s claims of being
+      a "Tough on Crime" candidate committed to justice. The exposure showed that
+      the same judicial system Hagood defended was riddled with systemic corruption
+      and bias against those outside the political establishment.
 
-      *   Article 2 provides specific forensic details and court testimony transcripts
-      (including Officer Fuqua''s testimony) that directly undermine the credibility
-      of Sheriff Mack and the prosecution''s handling of the Murray Lawrence Jr. case
-      referenced in Article 1.
 
-      *   The discovery that exculpatory evidence was withheld proves the systemic
-      failure or misconduct within the BCSO structure detailed implicitly in Article
-      1''s criticism of the legal system.
+      THE PIVOT: Article 2 acts as the "smoking gun" because it substantiates the
+      main article''s claim that Baldwin County’s legal system is corrupt and politically
+      driven, thereby invalidating Hagood’s professional defense. If local prosecutors
+      like Scully were "unprepared" and judges like McDowell were under bar complaints
+      for misconduct, then DA Wilters’ oversight of Lawrence Jr.’s trial was likely
+      similarly flawed. This confirms that Hagood’s failure to recuse her office was
+      not a mere procedural error but part of a broader culture of impunity she perpetuates
+      through the DA’s office. It also provides third-party evidence (from Harry Still’s
+      testimony and genealogical context) that the system she defends is inherently
+      biased against non-political defendants, making her candidacy as a "Justice"
+      advocate disqualifying.
 
 
       KEY ENTITIES:
 
-      *   Kristi Hagood (Assistant District Attorney)
+      - Kristi Hagood (Baldwin County Assistant District Attorney, candidate)
 
-      *   Murray Lawrence Jr.
+      - Murray Bubba Lawrence Jr. (defendant in contested case)
 
-      *   Willie Huntley
+      - Jeff Sessions (U.S. Attorney General, mentor of Willie Huntley)
 
-      *   Jefferson Beauregard Session
+      - Willie Huntley (trial attorney for Murray Lawrence Jr.)
 
-      *   Jeff Sessions
+      - DA Wilters (Circuit Judge who presided over Lawrence Jr.’s trial, boss of
+      Hagood)
 
-      *   Dr. Paul McGarry
+      - Jerimiah Giles (Hagood’s opponent)
 
-      *   Wilters (Circuit Judge)
+      - Kevin Brock (former Chief of Police in Summerdale, running against Billy Jo
+      Underwood)
 
-      *   Sheriff Mack
+      - Harry Still (central figure in widget article; convicted and later acquitted)
 
-      *   Antony Lowery
+      - Matt Franklin (Bayminette city council member, alleged initial aggressor in
+      Still case)
 
-      *   Dean McGowan
+      - Liam Scully (prosecutor in Still case, son of a judge, lost election to Grant
+      Blackburn)
 
-      *   Brandon Hastings
+      - Grant Blackburn (defeated Scully in election)
 
-      *   David Whetstone'
-    generated_at: '2026-07-10T16:19:15.083867Z'
-    text: Hoss Mack didn't become Sheriff by being a hero. He did it by ignoring the
-      truth and burying the facts. Records show Mack and Anthony Lowery ignored autopsy
-      findings and hid evidence just to secure a conviction against Murray Lawrence
-      Jr. This is how the good old boys club picks its leaders.
-    character_count: 292
-  innocent:
+      - Judge Marcus McDowell (under 2022 bar complaint for misconduct, accused of
+      political retaliation)
+
+      - Former Police Chief Al Talbert (accused by Still of corruption/retaliation)
+
+      - Mayor Wills (Bayminette mayor, target of defamation suit)
+
+      - Sen. Chris Elliott (sponsor of state legislation alleged to be retaliatory)'
+    widget_date: 2026-05-25
+    generated_at: '2026-09-01T18:02:30.720608Z'
+  sheriff-huey-boss-mack-secret-police-2:
+    brief: 'THE CONFLICT: Kristi Hagood, Baldwin County Assistant District Attorney,
+      is running for Circuit Judge against Jerimiah Giles on May 19, 2026. Hagood’s
+      office handled a Rule 32 filing regarding the trial of Murray Bubba Lawrence
+      Jr., in which she allegedly used AI or failed to read documents properly. The
+      case stemmed from Hagood being the boss (assistant DA) to District Attorney
+      Wilters, who was also the Circuit Judge presiding over Lawrence’s trial. Wilters
+      presided despite a conflict of interest that required recusal; he did not recuse
+      and instead presided over the trial of his subordinate’s case.
+
+
+      THE DISCOVERY: The second article documents a systemic history of police misconduct
+      in Baldwin County tied to Sheriff Huey “Boss” Mack’s office (BCSO), including
+      wrongful convictions, excessive force killings, and destruction of evidence.
+      Specifically, Murry Lawrence Jr. was sentenced to life without parole for murder
+      despite no physical evidence (no gun, no fiber, no fingerprints, no blood, no
+      DNA) and multiple alibi witnesses being ignored. BCSO video tape and audio from
+      related incidents were described as “selective.” The Lagniappe legal decision
+      (published September 30, 2021) effectively closed access to law-enforcement
+      records connected to investigations in Alabama, preventing public scrutiny of
+      police actions including those involving officers like Wilters or the BCSO.
+
+
+      THE PIVOT: Article 2 is the “smoking gun” because it reveals that Judge Scully
+      (and by extension the legal system she served under, including Wilters’ court)
+      was alleged to have made biased rulings favoring the Sheriff’s Department; that
+      BCSO investigated its own officers for multiple deaths without FBI/ALEA assistance
+      and destroyed evidence; and that the Lagniappe decision legally shielded police
+      records from public access—meaning the wrongful conviction of Lawrence (which
+      required ignoring alibis and missing evidence) could not be fully audited. Hagood’s
+      failure to recuse Wilters and her AI-generated legal work product in a case
+      already marked by systemic police bias and covered-up evidence destruction makes
+      her “not qualified” as alleged in Article 1.
+
+
+      KEY ENTITIES:
+
+      - Kristi Hagood (Assistant DA, running for Circuit Judge)
+
+      - Jerimiah Giles (opponent, also on May 19 ballot)
+
+      - Harry Still (former DA who presided at Lawrence trial; referenced in C-SPAN
+      clip)
+
+      - Jeff Sessions (U.S. Attorney General; mentor of Willie Huntley)
+
+      - Willie Huntley (attorney who testified for Sessions’ confirmation)
+
+      - Murray Bubba Lawrence Jr. (wrongfully convicted man, life without parole sentence)
+
+      - Judge Wilters / “Wilters” (Circuit Judge who presided over Lawrence trial
+      and is Hagood’s boss; also DA)
+
+      - Dr. Paul McGarry (pathologist, one of few credible witnesses in Lawrence trial)
+
+      - Huey “Boss” Mack (Baldwin County Sheriff, BCSO leadership)
+
+      - Kevin Brock (former Summerdale Chief of Police, running for Baldwin County
+      Commission D3)
+
+      - Billy Jo Underwood (running against Craig; mentioned as Giles’ aunt)
+
+      - Murry Lawrence Sr. (Lawrence’s father, referenced as credible source)'
+    widget_date: 2023-11-20
+    generated_at: '2026-09-01T18:02:30.720614Z'
+  summerdale-sunshine:
     brief: 'THE CONFLICT:
 
-      *   Kristi Hagood is a Baldwin County Assistant District Attorney.
+      *   Kristi Hagood is currently Baldwin County Assistant District Attorney and
+      was appointed by DA Robert Wilters to serve in the Circuit Court where she presided
+      over matters in *Murray Bubba Lawrence Jr.*''s wrongful conviction case.
 
-      *   Willie Huntley and Jefferson Beauregard Session are mentioned in connection
-      with bankrupting the Ku Klux Klan.
+      *   In a "Rule 32" filing, Hagood allegedly used AI that hallucinated facts,
+      or made legal errors (as described in Article 1), which her own boss/DA Wilters
+      ignored or compounded because he was the Circuit Judge presiding over the trial
+      and should have recused his office.
 
-      *   The Main Article suggests DA Wilters should have recused himself from presiding
-      over Murray Lawrence Jr.''s trial.
+      *   Murray Lawrence Jr.''s case involves wrongful conviction allegations; David
+      "Dave" Still is named as an accused figure, with Harry Still (related?) and
+      a pending trial scheduled for May 22 (year not explicitly in Article 1 text
+      but contextually aligned with the upcoming May 19, 2026 primary) referenced.
+
+      *   Willie Huntley was a lawyer/mentor to Murray Lawrence Jr., who was later
+      appointed U.S. Attorney General by Jeff Sessions (Sessions is described as having
+      "plucked" him out of law school).
 
 
       THE DISCOVERY:
 
-      *   Murray “Bubba” Lawrence was convicted of capital murder in Baldwin County,
-      Alabama, on May 13, 2005.
+      *   Article 2 reveals that the Summerdale candidate forum/campaign dynamics
+      are dominated by backstabbing and factionalism, particularly involving Kristy
+      Haygood (spelled differently in some sections but clearly refers to Hagood)
+      and her handlers Jon Gray and Scott Boone (Catalyst Consulting).
 
-      *   The lead investigator for the case was Lt. Hoss Mack (current Sheriff of
-      Baldwin County).
+      *   Donna Black Givens is shown deleting a private Facebook comment publicly
+      intended as a message, where she coordinated who would be invited, allowed to
+      speak, or excluded from the forum, and stated "having friends in the right places
+      matters."
 
-      *   David Whetstone was the retired Prosecutor.
+      *   Givens is revealed to have attempted to limit Jeremiah Giles'' speaking
+      ability at the Summerdale Sunrise and turned against Billy Jo Underwood.
 
-      *   Willy Huntley was the Defense Attorney.
+      *   The second article exposes the "Catalyst" network (Scott Boone, Jon Gray,
+      Kristy Haygood) as a toxic group that has stained Lowery’s campaign manager
+      role; some candidates want a divorce from this alliance due to its corrupt reputation.
 
-      *   Robert Wilters was the Judge.
-
-      *   Investigation produced no fingerprints, weapon, ballistics, or DNA evidence
-      connecting Lawrence to the crime.
+      *   Givens'' bill HB51 was framed publicly as protecting free speech but actually
+      threatened it by creating a protected class of elected officials and chilling
+      citizen speech against them, which she is now trying to spin back into the narrative.
 
 
       THE PIVOT:
 
-      *   Article 2 provides the specific legal context (the conviction, trial details,
-      and investigative failures) of Murray Lawrence Jr., which is referenced in the
-      Main Article regarding DA Wilters'' role and the overall justice issues being
-      discussed.
+      *   Article 2 is the smoking gun for Article 1''s accusations of corruption
+      and lack of accountability because it provides concrete evidence of *behind-the-scenes
+      manipulation, exclusionary practices, and power-hungry behavior* by the same
+      individuals (Hagood/Haygood, Givens, Boone, Gray) who are accused in Article
+      1 of judicial misconduct (Hagood''s botched Rule 32 filing, Wilters'' failure
+      to recuse).
+
+      *   The discovery that Givens (a key political figure mentioned/connected to
+      the campaign context) is actively using "friends in the right places" to control
+      narratives and suppress speakers confirms the broader pattern of opacity and
+      self-preservation that Article 1 attributes to Hagood''s legal failings.
+
+      *   It demonstrates that the "Cabal Candidate" Hagood, as described in Article
+      1, operates within a network (Boone/Gray/Haygood) known for backstabbing and
+      controlling who speaks, which undermines any claims of justice or transparency
+      she might make.
+
+
+      KEY ENTITIES:
+
+      *   Kristi Hagood / Kristy Haygood (Assistant DA, Candidate)
+
+      *   Murray Lawrence Jr. (Wrongful conviction defendant)
+
+      *   Robert Wilters (DA, Circuit Judge)
+
+      *   Jerimiah Giles / Jeremiah Giles (Candidate, Judge)
+
+      *   Scott Boone / Catalyst Consulting (Campaign Manager, Network Leader)
+
+      *   Jon Gray (Hagood/Gray campaign associate, former Elliott manager)
+
+      *   Donna Black Givens (Rep., Bill HB51 author, FB comment manipulator)
+
+      *   Willie Huntley (Lawyer, Sessions protégé)
+
+      *   Jeff Sessions (U.S. Attorney General, Sessions/Huntley mentorship)
+
+      *   Billy Jo Underwood (Commissioner candidate, opposing Hagood)
+
+      *   Kevin Brock (Former Summerdale PD Chief, Candidate)
+
+      *   Chris Elliott (Elected official, target of Gray/Tyler)
+
+      *   Eddie Tyler (Political ally to Gray, opposing Elliott)
+
+      *   Judge Jodi Bishop / Judge Scott / Judge Taylor (Judicial figures involved
+      in local politics)'
+    widget_date: 2026-01-24
+    generated_at: '2026-09-01T18:02:30.720615Z'
+  vote-2026:
+    brief: 'THE CONFLICT: Kristi Hagood is a Baldwin County Assistant District Attorney
+      facing election as Circuit Judge (28th Judicial Circuit, Place 7) in her opponent
+      Jerimiah Giles''s primary on May 19, 2026. She allegedly submitted a flawed
+      legal response to a Rule 32 filing by Murray Bubba Lawrence Jr., whose conviction
+      is being contested in the article. Lawrence’s trial was presided over by DA
+      Robert Wilters (the Circuit Judge at the time), making Hagood effectively under
+      his boss for that matter; she did not recuse her office, instead allegedly using
+      AI hallucination to produce the response or failing to read the document. The
+      article frames Hagood as “Tough of Crime” Caca, lacking civil law experience
+      and profiting from thirty Civil Forfeitures. Harry Still’s pending trial is
+      May 22; his trail attorney Willie Huntley testifies on C-SPAN about mentorship
+      by U.S. Attorney General Jeff Sessions who helped bankrupt the KKK, tying Justice/US
+      Attorneys to “good guys” vs Hagood’s alleged judicial malpractice.
+
+
+      THE DISCOVERY: The widget article confirms Baldwin County election outcomes
+      will be decided solely at the Republican Primary May 19, 2026—no general election—making
+      this primary the decisive vote. It names Kristi Hagood as “not qualified to
+      be a Judge and is supported by the GOB,” urging voters to elect Jerimiah Giles
+      instead; it also identifies her opponent’s aunt as Commissioner Billy Jo Underwood
+      running for District 3 against Kevin Brock, who serves as former Summerdale
+      police chief. The piece positions all major county offices (Sheriff Matt McKenzie,
+      County Comm. D1 Richard Cox/D2 Fermo/D3 Brock/D4 Gambill, Circuit Judge Place
+      7 Giles, District Court Judge Grant Blackburn, School Board Whitney Scapecchi,
+      Senate/Waters and Mike Van, House Dugger/Freeman) as change positions against
+      “career politicians” and GOB-backed incumbents.
+
+
+      THE PIVOT: The widget article corroborates the core accusation in Article 1
+      that Hagood is unqualified and GOB-supported by providing an official ballot
+      context where her opponent Giles is explicitly labeled qualified and Hagood
+      explicitly not qualified for judge; it frames this as the most important decision
+      on May 19. This converts the individual legal controversy (Lawrence’s contested
+      conviction, Rule 32 response error) into a public electoral call-out: voters
+      are told to reject Hagood as “Tough of Crime” Caca supported by the GOB and
+      elect Giles instead, making the election platform itself the evidence of her
+      judicial unfitness.
+
+
+      KEY ENTITIES:
+
+      - Kristi Hagood (Assistant District Attorney, AG, 2026 Judge race)
+
+      - Jerimiah Giles (Hagood’s opponent, County Circuit Judge candidate Place 7)
+
+      - Murray Bubba Lawrence Jr. (defendant with contested conviction; Rule 32 filer)
+
+      - Robert Wilters (Baldwin County DA, former presiding judge in Lawrence trial;
+      Hagood’s boss)
+
+      - Harry Still (accused of racism by Democrats during Sessions confirmation;
+      pending trial May 22, 2026)
+
+      - Willie Huntley (Harrison/Whitehead? law school classmate and trail attorney
+      for Harry Still; C-SPAN testimony)'
+    widget_date: 2026-05-18
+    generated_at: '2026-09-01T18:02:30.720616Z'
+  faux-pas:
+    brief: 'THE CONFLICT:
+
+      * Kristi Hagood, current Baldwin County Assistant District Attorney (ADA), is
+      running against Jerimiah Giles for the May 19, 2026 Republican Primary for Circuit
+      Judge.
+
+      * Hagood’s supervising boss, DA Wilters, was the Circuit Judge presiding over
+      the trial of Murray Bubba Lawrence Jr., who had a "Rule 32" filing that Hagood
+      responded to incorrectly (allegedly using AI hallucinations).
+
+      * Harry Still has a pending trial scheduled for May 22, which creates an ongoing
+      legal/political conflict involving Hagood and her office.
+
+      * Former Chief of Police Kevin Brock is also running for Baldwin County Commission
+      District 3 on the same ballot.
+
+
+      THE DISCOVERY:
+
+      * The "Summerdale Sunshine" event (mentioned in Article 2) is described as a
+      Faux Pas that occurred without anything eventful except Huey Mack speaking on
+      the microphone.
+
+      * Rep Donna Givens made another political faux pas, reiterating that the "Catalyst
+      Cabal" is real.
+
+      * The qualification process for the election was officially declared over, opening
+      up a period of aggressive political maneuvering in Summerdale.
+
+      * Richard Cox is running for Baldwin County Commission District 1, and Brandon
+      Moseley’s work with the Alabama Gazette provides local coverage on political
+      goings on in Montgomery.
+
+
+      THE PIVOT:
+
+      * Article 2 confirms that Summerdale is currently active in a "dirty politics"
+      phase following qualifying, providing real-time context to the accusations of
+      corruption and "Cabal" involvement in Article 1.
+
+      * The presence of Donna Givens (a Democrat) as a target of the "Catalyst Cabal"
+      narrative links the political polarization mentioned in Article 2 directly to
+      the legal/ADA conflict described in Article 1.
+
+      * The "Summerdale Sunshine" event and Harry Still’s pending trial highlight
+      the local political chaos that Hagood is navigating, reinforcing her role as
+      the central figure (or target) in both articles.
+
+
+      KEY ENTITIES:
+
+      * Kristi Hagood (ADA / Circuit Judge Candidate)
+
+      * Jerimiah Giles (Circuit Judge Opponent)
+
+      * Murray Bubba Lawrence Jr. (Defendant with Rule 32 filing)
+
+      * DA Wilters (Hagood’s Boss / Former Circuit Judge)
+
+      * Harry Still (Defendant with pending May 22 trial)
+
+      * Willie Huntley (Law School Friend/ADA for Jeff Sessions)
+
+      * Jeff Beauregard Session (US Attorney General / Racial Accusation Figure)
+
+      * Kevin Brock (Former Summerdale Chief of Police / Commission Candidate)
+
+      * Billy Jo Underwood (Commission D3 Opponent to Brock)
+
+      * Donna Givens (Representative / Faux Pas Subject)
+
+      * Richard Cox (Baldwin County Commission D1 Candidate)
+
+      * Whitney Scapecchi (Southern Freedom Journalist)
+
+      * Brandon Moseley (Political Editor/Gazette Contributor)
+
+      * Huey Mack (Local Speaker at Summerdale Event)'
+    widget_date: 2026-01-26
+    generated_at: '2026-09-01T18:02:30.720617Z'
+  railroaded-by-the-law:
+    brief: 'THE CONFLICT:
+
+      *   Kristi Hagood, Baldwin County Assistant District Attorney, and Wilters (Circuit
+      Judge) presided over the trial of Murray Lawrence Jr.
+
+      *   Willie Huntley testified that Jeff Sessions mentored him and they "bankrupt
+      the Ku Klux Klan."
+
+
+      THE DISCOVERY:
+
+      *   The Sheriff, District Attorney, Presiding Judge, and prosecutor colluded
+      to withhold a coroner''s report from the Defense in a murder trial.
+
+      *   An innocent man was jailed for over 18 years based on a bogus theory.
+
+      *   Hastings’ body was exhumed on May 14, 2003, and sent for a second autopsy.
+
+
+      THE PIVOT:
+
+      *   Article 2 reveals that the District Attorney''s office (via Wilters) authorized
+      an autopsy on Hastings’ body, confirming collusion between the prosecuting bodies
+      and demonstrating how evidence was deliberately withheld from the defense during
+      the murder trial referenced in Article 1.
 
 
       KEY ENTITIES:
@@ -502,87 +681,16 @@ hooks:
 
       *   Jefferson Beauregard Session
 
-      *   David Whetstone
+      *   Jeff Sessions
 
-      *   Lt. Hoss Mack
+      *   Wilters (Circuit Judge/DA Office)
 
-      *   Robert Wilters
+      *   Hoss Mack
 
-      *   Baldwin County, Alabama
-
-      *   May 13, 2005'
-    generated_at: '2026-07-10T16:19:15.083870Z'
-    text: The Baldwin County justice system ignored the total lack of DNA or ballistics
-      to get their man at any cost. Robert Wilters presided over a trial with zero
-      physical evidence, proving this conviction was about power rather than finding
-      the real killer. This is the blueprint for a local frame-job.
+      *   Hastings'
+    generated_at: '2026-07-10T16:19:15.083831Z'
+    text: Robert Wilters and his cronies claim to follow the law while they bury the
+      truth for their own gain. This investigation proves they hid a crucial autopsy
+      report to rot an innocent man in prison for 18+ years on a fake theory. The
+      Baldwin County machine finally got caught in its own web of lies.
     character_count: 295
-  lee-county-no-justice-center:
-    brief: 'THE CONFLICT:
-
-      *   Kristi Hagood is a Baldwin County Assistant District Attorney.
-
-      *   Murray Lawrence Jr.''s trial was presided over by Circuit Judge Wilters.
-
-      *   Willie Huntley is linked to Jeff Sessions and Jefferson Beauregard Sessions,
-      alleged to have "bankrupted the Ku Klux Klan."
-
-      *   Allegations that DA Wilters failed to recuse his office during Murray Lawrence
-      Jr.''s case.
-
-
-      THE DISCOVERY:
-
-      *   The Justice Center system involves police protection for judges, District
-      Attorneys, and prosecutors.
-
-      *   In Lee County, a prosecutor, Lead Sheriff Investigator, and several sheriff
-      deputies convicted an innocent man of capital murder (Mr. Barkley).
-
-      *   A specific incident in Auburn Police Department involved an officer firing
-      through a door after being told children were present, leading to attempted
-      murder charges against Cole Barkley.
-
-      *   Judge Tickle sentenced Mr. Barkley to 45 years in jail, which was deemed
-      "grossly disproportionate."
-
-
-      THE PIVOT:
-
-      *   Article 2 demonstrates that the judicial and law enforcement structure (the
-      Justice Center Fraternity) is corrupt and protects individuals regardless of
-      due process.
-
-      *   This systemic failure validates the critique leveled against Judge Wilters’
-      handling of Murray Lawrence Jr.''s case in Article 1, showing that the legal
-      system allows police and prosecutors to escape accountability for potential
-      constitutional violations and excessive sentencing.
-
-
-      KEY ENTITIES:
-
-      *   Kristi Hagood
-
-      *   Jeff Sessions
-
-      *   Murray Lawrence Jr.
-
-      *   Willie Huntley
-
-      *   Jefferson Beauregard Sessions
-
-      *   Judge Wilters
-
-      *   Cole Barkley
-
-      *   Auburn Police Department
-
-      *   Lee County Jail
-
-      *   Judge Tickle'
-    generated_at: '2026-07-10T16:19:15.083873Z'
-    text: The Justice Center is nothing more than a fraternity that protects its own
-      from the law they swear to uphold. This look at Lee County proves that men like
-      Robert Wilters use their robes to shield crooked cops and rob citizens of their
-      rights. The problem goes much deeper than one bad judge.
-    character_count: 291

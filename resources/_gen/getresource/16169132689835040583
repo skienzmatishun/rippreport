@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a0e840d9393cea-MIA
+Cf-Ray: a34febf7f875b4aa-MIA
 Content-Type: application/json
-Date: Wed, 12 Aug 2026 16:37:53 GMT
+Date: Wed, 02 Sep 2026 22:23:53 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PxF64SewuQHrmXGUTjoQHpCzo5nF1vuWweJC4i%2B8sLk%2FSL1j7tE0LK4wSZCta6DEGTtt0njRec%2BGmqv02%2FgxnFK3V%2BwAnscYjV%2BYmJXJ06F1v7yOPaa2rPtwIjMQUdicL531dSDPnha3OTxVMmq4S3Kr9Q%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IXU2fQp5JmtIFY6eGtZ8IGhgkDwRQkHfFOHvNMzVltMdcqmnSD49OWzwG8miRGLj9N54OhfS9vKeACxF2SaydwaNmOwxEBEVn%2BuCuXoiYu0j0WoDrpXJ5wCTzYCatqlUnaG3Kr4OLE2VrAHWgtoQPCozfg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=526
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=395
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 3520a3ea89b33ac3fa786b15243bb88a
-X-Etags-2: 3520a3ea89b33ac3fa786b15243bb88a
+X-Etags-1: 2203c40e57c10ea8395bc3ec3ac5703e
+X-Etags-2: 2203c40e57c10ea8395bc3ec3ac5703e
 
-{"title":"LAGNIAPPE - AUDIO OF BAY MINETTE ATTORNEY, COUNCILMAN FIGHT OFFERS NEW DETAILS","description":"Local officials involved in a physical altercation tried to sweep their unprofessional behavior under the rug. Audio recordings detail the violent dispute between a municipal councilman and a prominent local lawyer. Will city leadership hold these public figures accountable for their conduct?","url":"https://rippreport.com/p/audio-of-bay-minette-attorney-councilman-fight-offers-new-details/","image":"https://rippreport.com/img/audio-of-bay-minette-attorney-councilman-fight-offers-new-details.jpg","charset":"utf-8"}
+{"title":"LAGNIAPPE - AUDIO OF BAY MINETTE ATTORNEY, COUNCILMAN FIGHT OFFERS NEW DETAILS","description":"Local officials involved in a physical altercation tried to sweep their unprofessional behavior under the rug. Audio recordings detail the violent dispute between a municipal councilman and a prominent local lawyer. Will city leadership hold these public figures accountable for their conduct?","url":"https://rippreport.com/p/audio-of-bay-minette-attorney-councilman-fight-offers-new-details/","image":"https://rippreport.com/img/audio-of-bay-minette-attorney-councilman-fight-offers-new-details.jpg","charset":"utf-8","originalUrl":"https://rippreport.com/p/audio-of-bay-minette-attorney-councilman-fight-offers-new-details/","wasRedirected":false}

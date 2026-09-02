@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a0e83f7cf73cea-MIA
+Cf-Ray: a34febe90c16b4aa-MIA
 Content-Type: application/json
-Date: Wed, 12 Aug 2026 16:37:53 GMT
+Date: Wed, 02 Sep 2026 22:23:51 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=r9nRGvNsIww6infOzFq0WzojnO759Vkr21zftoni8AeUdW8k%2BZNnH%2BcZw9DzMsAxPOu6Fh81KPRKGhcb2rfXLFq3wve1fhdR2xq6uVbqLbGhm3IHrunVqzhYHiLgPrgE%2FfJWKGQswEo1Vebg37T%2B4wdMDg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6SLTCbSBe9j5AQqawjiWRkqY4pDV5A52kQBiYcDCeICKrKkfEP4GJXo31scSJ7m43bdC9P6HredwsAG%2Fy0y40quaeuaUCWi97K6DrUu4WgX8JpDwjRQJgHqFu%2BA%2FTSLSnuRm9%2BV4QqPAGWTjd06rnCUjRA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=415
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=474
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 693bb983d17d87f86f6d4bdf4520cc0d
-X-Etags-2: 693bb983d17d87f86f6d4bdf4520cc0d
+X-Etags-1: 44136ff6bb48735c39cde22424adbfc1
+X-Etags-2: 44136ff6bb48735c39cde22424adbfc1
 
-{"title":"JUSTIFIED","description":"High-ranking Baldwin County officials routinely clear their own deputies of brutal misconduct using a self-serving investigative board. Suppressed autopsy reports and hidden body camera footage reveal a pattern of law enforcement protecting their own at all costs. The Ripp Report exposes how these cozy internal reviews shield corrupt badge-holders.","url":"https://rippreport.com/p/justified/","image":"https://rippreport.com/img/justified.png","charset":"utf-8"}
+{"title":"JUSTIFIED","description":"High-ranking Baldwin County officials routinely clear their own deputies of brutal misconduct using a self-serving investigative board. Suppressed autopsy reports and hidden body camera footage reveal a pattern of law enforcement protecting their own at all costs. The Ripp Report exposes how these cozy internal reviews shield corrupt badge-holders.","url":"https://rippreport.com/p/justified/","image":"https://rippreport.com/img/justified.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/justified/","wasRedirected":false}

@@ -1,7 +1,10 @@
 metadata:
-  generated_at: '2026-08-15T23:38:09.120003Z'
+  generated_at: '2026-09-01T09:45:39.386759Z'
   generator_version: 1.0.0
   post_slug: friends-of-fly-creek
+  main_date: 2026-07-16
+  from_staged_rankings: true
+  staged_rankings_source: related-articles.staged.yaml
 hooks:
   fauxhope-know-the-backstory:
     brief: 'THE CONFLICT:

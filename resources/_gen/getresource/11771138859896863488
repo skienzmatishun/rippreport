@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a34feb9eaa2cb4aa-MIA
+Content-Type: application/json
+Date: Wed, 02 Sep 2026 22:23:40 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=7veLrH9j295spnpwMTPeobnCpW6hvakekbgm2vyU4%2B1zJtbcfwfTYs7lDQRZ%2BV%2BdbYeGG5BHAHU9n3WA%2FSsYAo3K82xEGwGTF9cWq1v3ZzFfLco8hPxvV6iBpiFpDbZpsqypr56EGzd6gU3S0XpGGVCHkA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=961
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: e73d02ef29be951f7c74ea19a88fc5c1
+X-Etags-2: e73d02ef29be951f7c74ea19a88fc5c1
+
+{"title":"GUILTY - HEAR THE AUDIOBOOK","description":"Baldwin County officials framed Murray Lawrence Jr. for a brutal murder despite possessing zero physical evidence tying him to the crime. Newly uncovered court transcripts and hidden medical files reveal a deliberate cover-up by law enforcement bosses. Listen to the damning audio evidence exposing a broken system that stole two decades of an innocent man’s life.","url":"https://rippreport.com/p/guilty-audiobook/","image":"https://rippreport.com/img/guilty-hear-the-audiobook.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/guilty-audiobook","wasRedirected":true}

@@ -5,7 +5,6 @@ thumbnail: img/primary-election-endorsements-2014.png
 description: 'Final endorsements before June 3rd primary: fight the Lynn Stacey machine
   and BP boom scandal cover-up'
 tags:
-- archive
 - elections
 - endorsements
 - bp-boom-scandal

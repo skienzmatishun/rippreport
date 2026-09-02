@@ -2,7 +2,8 @@ metadata:
   generated_at: '2026-07-13T16:52:28.471801Z'
   post_slug: the-crime-of-the-century
   status: staged
-  hooks_generated: false
+  hooks_generated: true
+  hooks_generated_at: '2026-09-01T05:08:08.120191Z'
 related_articles:
 - slug: backstory-podcast-no-188-assassins-drones-and-political-corruption
   title: Assassins Drones and Political Corruption

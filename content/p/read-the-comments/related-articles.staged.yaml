@@ -2,7 +2,8 @@ metadata:
   generated_at: '2026-07-13T16:27:43.412242Z'
   post_slug: read-the-comments
   status: staged
-  hooks_generated: false
+  hooks_generated: true
+  hooks_generated_at: '2026-09-02T01:27:57.878567Z'
 related_articles:
 - slug: bcso-sound-off
   title: BCSO SOUND-OFF

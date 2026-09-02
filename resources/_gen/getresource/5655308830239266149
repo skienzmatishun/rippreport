@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a0e83ac93d3cea-MIA
+Cf-Ray: a34febee892cb4aa-MIA
 Content-Type: application/json
-Date: Wed, 12 Aug 2026 16:37:53 GMT
+Date: Wed, 02 Sep 2026 22:23:53 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cQF33S2rPtiRVkqMIR%2BAJNTxsR4QjBgUnbhkNUmJW%2F6DGMPImMObm69ej%2FS5AJ0VtseKQZS8tZQxW0%2BDYdp9N4a4BiFZrthYMccvZicvXotA%2FKuCHL92f9F9z0x%2Bmv9Ahuycbw0YYWbqsXK4doInnRQJuw%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BLEBE5lgSRZ4pXuvUSurWnpBnHSsxsfy2Gg5x9B0X2IissbvyVCglXvwawEKLJ0p95DGxSOLedmEy7DoYl0%2BuZ%2BvAVv97KwCAJ6Z7R5lWOrv7gOECib468PunvjMCasJd7KTM9VrozlRu6v0JjKH1BnR7A%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=880
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=1290
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 3b337e2a3a9d450fbc6cc66deadd3b17
-X-Etags-2: 3b337e2a3a9d450fbc6cc66deadd3b17
+X-Etags-1: f8be63710089eac4d8266f4fbaf1fc71
+X-Etags-2: f8be63710089eac4d8266f4fbaf1fc71
 
-{"title":"Baldwin County Attorney and Podcaster Harry Still found \"Not Guilty\"","description":"May 22, 2026 – BAY MINETTE, Ala. – A Baldwin County jury found prominent attorney Harry Still III \"not guilty\" of assaulting Bay Minette City Councilman Matt Franklin in a one day trial in which the defense rested without calling any witnesses pr presenting any evidence. The prosecution's case was mortally wounded when during cross examination...","url":"https://www.alabamagazette.com/story/2026/05/21/news/span-classbrnwsbreaking-news-spanbaldwin-county-attorney-and-podcaster-harry-still-found-not-guilty/11210.html","image":"https://www.alabamagazette.com/home/cms_data/dfault/photos/stories/id/1/0/11210/s_top","charset":"utf-8"}
+{"title":"Baldwin County Attorney and Podcaster Harry Still found \"Not Guilty\"","description":"May 22, 2026 – BAY MINETTE, Ala. – A Baldwin County jury found prominent attorney Harry Still III \"not guilty\" of assaulting Bay Minette City Councilman Matt Franklin in a one day trial in which the defense rested without calling any witnesses pr presenting any evidence. The prosecution's case was mortally wounded when during cross examination...","url":"https://www.alabamagazette.com/story/2026/05/21/news/span-classbrnwsbreaking-news-spanbaldwin-county-attorney-and-podcaster-harry-still-found-not-guilty/11210.html","image":"https://www.alabamagazette.com/home/cms_data/dfault/photos/stories/id/1/0/11210/s_top","charset":"utf-8","originalUrl":"https://www.alabamagazette.com/story/2026/05/21/news/span-classbrnwsbreaking-news-spanbaldwin-county-attorney-and-podcaster-harry-still-found-not-guilty/11210.html","wasRedirected":false}

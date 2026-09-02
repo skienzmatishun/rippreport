@@ -2,7 +2,8 @@ metadata:
   generated_at: '2026-07-13T16:29:45.177108Z'
   post_slug: faux-pas
   status: staged
-  hooks_generated: false
+  hooks_generated: true
+  hooks_generated_at: '2026-09-02T02:48:26.711292Z'
 related_articles:
 - slug: summerdale-sunshine
   title: SUMMERDALE SUNSHINE

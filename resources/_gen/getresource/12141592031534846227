@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a0e83b6acb3cea-MIA
+Cf-Ray: a34febe33eceb4aa-MIA
 Content-Type: application/json
-Date: Wed, 12 Aug 2026 16:37:53 GMT
+Date: Wed, 02 Sep 2026 22:23:50 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5NWI7EIwkKRO7pIKU9cLWVoZMgFWlhIkCnUKDaPAV23aRaI2SnBRZSDbTa%2FIYDk9CHLZSGgjdVv99JHOHbZDfjYCA5cKvjd5yiRLvtIFNWI1TSO%2BY49QMFfj5cT1gLVfCu%2BIlYrqbvNiYxQsrSqbwM82bA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5c82qtgc7Tioo5Va98XqNekdstiMMj4U%2FD6wCEVQ3%2BMiwRJHUbZB%2BWT0lQUTTWPZQRcbb00G859fBfCvtE36GkGxffBHMsUrC29Zhpmf4MtfIGk8yE%2Fmy%2Fqg3WZW5mQskm6YP10AoPhpCWVIMLfFwgdDDw%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=500
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=585
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: f404f971aba56d42802dc40dc7f01de3
-X-Etags-2: f404f971aba56d42802dc40dc7f01de3
+X-Etags-1: ccac26fa5433bb6e51ce451dcbeac167
+X-Etags-2: ccac26fa5433bb6e51ce451dcbeac167
 
-{"title":"COURT OF PUBLIC OPINION","description":"Continuing our coverage, top ethics enforcer Tom Albritton weaponized his position to hide a massive private financial conflict. Secret trust documents and official filings show over one hundred thousand dollars steered straight to personal tuition payments. Will the mainstream press finally report on this obvious statehouse betrayal?","url":"https://rippreport.com/p/court-of-public-opinion-2/","image":"https://rippreport.com/img/court-of-public-opinion.png","charset":"utf-8"}
+{"title":"COURT OF PUBLIC OPINION","description":"Continuing our coverage, top ethics enforcer Tom Albritton weaponized his position to hide a massive private financial conflict. Secret trust documents and official filings show over one hundred thousand dollars steered straight to personal tuition payments. Will the mainstream press finally report on this obvious statehouse betrayal?","url":"https://rippreport.com/p/court-of-public-opinion-2/","image":"https://rippreport.com/img/court-of-public-opinion.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/court-of-public-opinion-2/","wasRedirected":false}

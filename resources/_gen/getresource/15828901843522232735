@@ -4,13 +4,13 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a2a0e8d49fd13cea-MIA
+Cf-Ray: a34fecb97a6db4aa-MIA
 Content-Type: application/json
-Date: Wed, 12 Aug 2026 16:38:17 GMT
+Date: Wed, 02 Sep 2026 22:24:24 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JsJ9KNWsicWHLHZSjN5yDD%2FYIw8Ba5%2F%2BUa%2FXCVnA78X5rc%2Fwo%2FrnW%2Fn2M%2FLAT4rtV7%2BbOFOLhfbZwpi78GQAbMZhxkHAbacTAmTEjaLRSjmy6ms3HxecrMtG6fyONCc%2BrmDWDvYpfy0G4NTz40GIfYLytg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2qkQ3Y3k0UExhk6YiZqcrEWu0aQec%2BVy36M9%2Bnv6vxo1MORvSlbPAhRLpJNQwJy8Zov0RKhE2HY%2BnNmjn2EwXYCFwXJeJp%2B5xvLupKj6yD2pG69mzE7dZ4gFXOsAEmIGTiEb3Kdu%2BiI7LplsxIRfvp%2B7eg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=151
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=149
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
