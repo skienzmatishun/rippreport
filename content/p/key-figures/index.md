@@ -8,6 +8,7 @@ authors:
 - ripp-report
 ---
 
+
 The wrongful conviction of Murray Lawrence Jr cannot be separated from the power structure that controlled Baldwin County in 2005 and still controls it today.
 
 The same officials who built this case, shaped the narrative and pushed a conviction without evidence have carried their influence forward into higher positions of authority. Their decisions then and their power now continue to block every path to justice.
@@ -98,4 +99,6 @@ His silence in the years that followed speaks volumes. Whetstone never addressed
 
 The people of Alabama deserve to know that the wrongful conviction of Murray Lawrence Jr. did not happen by accident. It happened because officials like John David Whetstone allowed a case with no jurisdiction, no credible evidence, and no legitimate indictment to move forward. His leadership in this prosecution is a reminder of how deeply rooted the corruption runs in Baldwin County. Until those responsible are held accountable, the same system will continue to protect its own while innocent people remain behind bars.
 
+
+**Comments will later today.**
 {{< aicomments >}}
