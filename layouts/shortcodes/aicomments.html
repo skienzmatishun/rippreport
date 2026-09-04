@@ -1,12 +1,32 @@
-{{/* AI Comment System Shortcode for Hugo Usage: {{< aicomments >}} - Uses page
-permalink as ID {{< aicomments "custom-page-id" >}} - Uses custom page ID {{<
-aicomments "custom-page-id" "similarity" >}} - Uses custom page ID with AI
-similarity ordering by default */}} {{- $pageId := .Page.RelPermalink -}} {{-
-$pageTitle := .Page.Title -}} {{-
-$defaultOrdering := "similarity" -}} {{- if .Params -}} {{- if ge (len
-.Params) 1 -}} {{- $pageId = index .Params 0 -}} {{- end -}} {{- if ge (len
-.Params) 2 -}} {{- $defaultOrdering = index .Params 1 -}} {{- end -}} {{- end
--}} {{- $pageId = strings.TrimPrefix "/" $pageId -}} {{- $pageId = strings.TrimSuffix "/" $pageId -}}
+{{/* AI Comment System Shortcode for Hugo 
+Usage: 
+  {{< aicomments >}} - Uses page permalink as ID 
+  {{< aicomments "custom-page-id" >}} - Uses custom page ID 
+  {{< aicomments "custom-page-id" "similarity" >}} - Uses custom page ID with AI similarity ordering by default 
+*/}}
+
+{{- $commentsEnabled := site.Params.comments.enabled | default true -}}
+
+{{- if not $commentsEnabled -}}
+<!-- Comments are currently disabled -->
+<div style="padding: 20px; background: #f8f9fa; border: 1px solid #dee2e6; border-radius: 8px; text-align: center; color: #6c757d; margin: 20px 0;">
+  <p style="margin: 0;">💬 Comments are temporarily disabled.</p>
+</div>
+{{- else -}}
+
+{{- $pageId := .Page.RelPermalink -}}
+{{- $pageTitle := .Page.Title -}}
+{{- $defaultOrdering := "similarity" -}}
+{{- if .Params -}}
+  {{- if ge (len .Params) 1 -}}
+    {{- $pageId = index .Params 0 -}}
+  {{- end -}}
+  {{- if ge (len .Params) 2 -}}
+    {{- $defaultOrdering = index .Params 1 -}}
+  {{- end -}}
+{{- end -}}
+{{- $pageId = strings.TrimPrefix "/" $pageId -}}
+{{- $pageId = strings.TrimSuffix "/" $pageId -}}
 
 <!-- AI Comment System Container -->
 <div
@@ -80,3 +100,5 @@ $defaultOrdering := "similarity" -}} {{- if .Params -}} {{- if ge (len
     }
   });
 </script>
+
+{{- end -}}
