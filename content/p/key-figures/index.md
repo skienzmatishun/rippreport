@@ -100,5 +100,4 @@ His silence in the years that followed speaks volumes. Whetstone never addressed
 The people of Alabama deserve to know that the wrongful conviction of Murray Lawrence Jr. did not happen by accident. It happened because officials like John David Whetstone allowed a case with no jurisdiction, no credible evidence, and no legitimate indictment to move forward. His leadership in this prosecution is a reminder of how deeply rooted the corruption runs in Baldwin County. Until those responsible are held accountable, the same system will continue to protect its own while innocent people remain behind bars.
 
 
-**Comments will return later today.**
 {{< aicomments >}}
