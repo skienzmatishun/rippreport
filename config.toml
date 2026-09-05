@@ -28,11 +28,11 @@ disableKinds = ["taxonomy", "term"]
   mainSections = ["p"]
   mathjax = false
   opengraph = true
-
-[Params.comments]
-  enabled = false
   #customCSS = ["css/custom.css"] # Include custom CSS files
   #googleFontsLink = "https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Vina+Sans&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+
+[Params.comments]
+  enabled = true
 
 [Params.sidebar]
   home = "right"   # layout for home page
