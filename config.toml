@@ -17,7 +17,7 @@ disableKinds = ["taxonomy", "term"]
   avatar = "img/eagle.svg"
 
 [params.comments]
-enabled = false
+enabled = true
 
 [Params]
   description = "Reporting on the political corruption in Fairhope, AL and Baldwin County." 
