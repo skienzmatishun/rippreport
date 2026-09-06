@@ -1,7 +1,7 @@
 ---
 title: The Slap
 date: 2022-04-05
-thumbnail: the-slap.jpg
+thumbnail: img/the-slap.jpg
 youtube: vLknO7zKjxk
 categories:
 - Backstory Podcast
