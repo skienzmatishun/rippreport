@@ -16,3 +16,5 @@ Tommy is a particularly shocking case of "show me the man and I will show you th
 Special thanks to Steve Flowers for the interview of Mr. Gallion from 2020 and Francis "Paul" Ripp of the Ripp Report and Brandon Moseley of the Alabama Gazette for their participation.  As we discover through this collaboration it is the same characters in each of their stories.  But tampering with a Court record is a crime, we presumed, was reserved for Baldwin County.  Contact your bar commissioners.  Help bring this to light.
 
 {{< youtubecomments >}}
+
+{{< aicomments >}}

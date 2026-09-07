@@ -1,6 +1,6 @@
 ---
 title: KEY FIGURES - WRONGFUL CONVICTION
-date: 2026-09-09
+date: 2027-09-09
 thumbnail: img/key-figures-wrongful-conviction.png
 categories:
 - bcso

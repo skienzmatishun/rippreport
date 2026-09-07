@@ -1,13 +1,11 @@
 ---
 title: Privacy Policy
 date: 2000-01-01
-thumbnail: img/privacy-policy.jpg
-categories:
-- privacy
-authors:
-- admin
-alttags: A black-and-white close-up of an eagles head wearing a cloth blindfold against a solid black background
+type: page
+layout: single
+url: /privacy/
 ---
+
 The Ripp Report ("we," "our," or "us") values your privacy and is committed to protecting your personal information. This Privacy Policy outlines the types of information we collect, how we use it, and your rights regarding that information. By using our website, you agree to the practices described in this policy.
 
 ## 1. Information We Collect
@@ -18,7 +16,7 @@ We do not directly collect personal data such as names, email addresses, or paym
 
 The Ripp Report does not use cookies for tracking or advertising purposes.
 
-We rely on Cloudflare’s Beacon service for minimal analytics, such as website performance and security monitoring. For more information about Cloudflare’s data practices, please visit their Privacy Policy.
+We rely on Cloudflare's Beacon service for minimal analytics, such as website performance and security monitoring. For more information about Cloudflare's data practices, please visit their Privacy Policy.
 
 ### 1.2 Embedded Media
 
@@ -26,7 +24,7 @@ Our website includes integrations with the following third-party services:
 
 - **SoundCloud**: Embedded content from SoundCloud may collect usage data as governed by their Privacy Policy.
 - **Rumble**: Embedded content from Rumble may collect usage data as governed by their Privacy Policy.
-- **YouTube**: Embedded content from YouTube operates under Google’s Privacy Policy.
+- **YouTube**: Embedded content from YouTube operates under Google's Privacy Policy.
 
 ## 2. How We Use Your Information
 
