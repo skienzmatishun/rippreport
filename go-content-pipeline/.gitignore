@@ -1,0 +1,67 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+coverage.txt
+*.coverprofile
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Dependency directories
+vendor/
+
+# Build artifacts
+/bin/
+/dist/
+/build/
+cmd/pipeline/pipeline
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Pipeline specific
+*.log
+*.cache
+*.progress.json
+backups/
+staging/
+
+# Test artifacts
+test/fixtures/generated/
+test/tmp/
+
+# Configuration files with secrets (keep example files)
+config.yaml
+!config.yaml.example
+
+# Debug files
+debug
+__debug_bin
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*

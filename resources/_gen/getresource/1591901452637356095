@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a37f9fda2b3474c2-MIA
+Content-Type: application/json
+Date: Tue, 08 Sep 2026 17:20:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rO%2B27FhGRePn5PJozkbjwjkrrd55kHN27XeGWEx653frwfsOxMUTAQL%2FJ%2FbutgRrkHd5czMWQGGjkwln9SsR3gQZhoOjTBmJNpgADbFOJ8rxj0Mh1gumk326HvDIzzk%2FFYiqJ4yfg0oV5PxBDLNdGW0%2BOw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=10,cfOrigin;dur=0,cfWorker;dur=403
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: ba3f0e5af234129981a6b00644478c9e
+X-Etags-2: ba3f0e5af234129981a6b00644478c9e
+
+{"title":"Alabama's Ethics Director Should Resign","description":"State Ethics Director Tom Albritton faces shocking self-dealing allegations after protecting himself and his cronies for years. Exposing a hundred-million-dollar trust heist, the host reveals how top officials ignored over 140 ethics complaints. Watch as Backstory Podcast demands answers and exposes the state’s most protected insider.","url":"https://rippreport.com/p/alabamas-ethics-director-should-resign/","image":"https://rippreport.com/img/alabamas-ethics-director-should-resign.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/alabamas-ethics-director-should-resign/","wasRedirected":false}

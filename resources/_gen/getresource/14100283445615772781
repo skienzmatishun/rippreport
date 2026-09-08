@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a37f9fd8da1f74c2-MIA
+Content-Type: application/json
+Date: Tue, 08 Sep 2026 17:20:32 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=EwpDdW%2FMu5ihzr8Y7QK5Oa99pEy6p%2B8R9UYhvsUJxPMr5MCLqHXexoqVfLMAQkCoHQgPvieKGFVAPjBAy42l7inXwynkLU9WeF625ntyBVei5NIUrc%2By0jYVR7%2FEEbn3a5hANcI9gxocBBWIhmRnZabQOw%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=10,cfOrigin;dur=0,cfWorker;dur=135
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: df7ef677a18bb0a2b3115d6e4f22b846
+X-Etags-2: df7ef677a18bb0a2b3115d6e4f22b846
+
+{"error":"Upstream returned 422","url":"www.lagniappemobile.com/news/mabel-amos-scholarship-list-revealed/article_f4f1338e-80cb-4b5f-8c72-7e772dde69d1.html","title":"Preview unavailable","description":"Could not fetch preview data"}
