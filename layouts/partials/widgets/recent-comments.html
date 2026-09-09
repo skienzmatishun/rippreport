@@ -219,29 +219,45 @@
 
       try {
         const limit = getCommentLimit();
-        const response = await fetch(`${COMMENTS_API}?limit=${limit}`, {
-          method: 'GET',
-          headers: {
-            'Accept': 'application/json'
-          }
-        });
+        let data = null;
 
-        if (!response.ok) {
-          throw new Error(`HTTP ${response.status}`);
+        // 1. Try static CDN cache first (zero D1 reads)
+        try {
+          const staticResp = await fetch('/comments-cache/latest.json', {
+            method: 'GET',
+            headers: { 'Accept': 'application/json' }
+          });
+          if (staticResp.ok) {
+            data = await staticResp.json();
+          }
+        } catch (staticErr) {
+          console.warn('Static comments cache unavailable, falling back to API:', staticErr);
         }
 
-        const data = await response.json();
+        // 2. Fallback to API if static cache unavailable
+        if (!data || !data.comments) {
+          const response = await fetch(`${COMMENTS_API}?limit=${limit}`, {
+            method: 'GET',
+            headers: { 'Accept': 'application/json' }
+          });
+          if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+          }
+          data = await response.json();
+        }
 
         if (!data.success || !data.comments) {
           throw new Error('Invalid response');
         }
 
-        if (data.comments.length === 0) {
+        const commentsToRender = data.comments.slice(0, limit);
+
+        if (commentsToRender.length === 0) {
           container.innerHTML = renderEmpty();
           return;
         }
 
-        const html = data.comments.map(renderComment).join('');
+        const html = commentsToRender.map(renderComment).join('');
         container.innerHTML = html;
 
       } catch (error) {
