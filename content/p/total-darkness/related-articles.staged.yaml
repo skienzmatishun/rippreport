@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T17:53:31.149963Z'
-  post_slug: total-darkness
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 91.30434782608697
-  llm_score: 100
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 81.51655560707708
-  llm_score: 95
-  recency_score: 13.72019474069314
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 72.66230724532478
-  llm_score: 85
-  recency_score: 2.808266660617445
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 70.42738235967153
-  llm_score: 80
-  recency_score: 9.957448568111234
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 68.17200404918256
-  llm_score: 75
-  recency_score: 16.989023282799735
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 58.74659495294801
-  llm_score: 65
-  recency_score: 2.792920979450993
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 50.653980136439
-  llm_score: 50
-  recency_score: 16.26038578452423
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: a-reckoning-is-predicted
-  title: A RECKONING IS PREDICTED
-  score: 44.55959728388464
-  llm_score: 45
-  recency_score: 1.2176843823366823
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: lee-county-no-justice-center
-  title: LEE COUNTY NO-JUSTICE CENTER
-  score: 39.471959164641866
-  llm_score: 35
-  recency_score: 11.96376519669074
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: orange-beach-tyranny
-  title: Orange Beach Tyranny
-  score: 30.637471209610574
-  llm_score: 25
-  recency_score: 1.1654594552607842
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: total-darkness
+generated: 2026-09-09T01:07:36.163938-05:00
+articles:
+  - slug: investigations
+    title: INVESTIGATIONS
+    score: 94
+    rank: 1
+  - slug: police-report
+    title: POLICE REPORT
+    score: 94
+    rank: 2
+  - slug: gob-coup
+    title: GOB COUP
+    score: 76
+    rank: 3
+  - slug: jack-box-airport
+    title: JACK IN THE BOX - AIRPORT
+    score: 26
+    rank: 4
+  - slug: law-and-disorder-part-1
+    title: LAW and DisORDER Part 1
+    score: 25
+    rank: 5
+  - slug: letter-to-the-alabama-attorney-general
+    title: Letter to the Alabama Attorney General
+    score: 25
+    rank: 6
+  - slug: lego-rocket-scientist
+    title: LEGO ROCKET SCIENTIST
+    score: 24
+    rank: 7
+  - slug: no-radar
+    title: NO RADAR
+    score: 24
+    rank: 8
+  - slug: double-down-and-i-call
+    title: DOUBLE DOWN AND I CALL
+    score: 24
+    rank: 9
+  - slug: shut-up
+    title: SHUT UP
+    score: 24
+    rank: 10
+  - slug: self-incrimination
+    title: SELF INCRIMINATION
+    score: 24
+    rank: 11
+  - slug: double-red-flags-faux-hope
+    title: DOUBLE RED FLAGS - FAUX HOPE
+    score: 24
+    rank: 12
+  - slug: you-dont-know-jack
+    title: YOU DON’T KNOW JACK
+    score: 24
+    rank: 13
+  - slug: caught-trap-like-rat
+    title: CAUGHT IN A TRAP LIKE A RAT
+    score: 24
+    rank: 14
+  - slug: alabama-shuffle
+    title: ALABAMA SHUFFLE
+    score: 24
+    rank: 15
+  - slug: happy-days
+    title: HAPPY DAYS
+    score: 24
+    rank: 16
+  - slug: court-public-opinion-now-session
+    title: COURT OF PUBLIC OPINION IS NOW IN SESSION
+    score: 24
+    rank: 17
+  - slug: quarterback-sneak
+    title: QUARTERBACK SNEAK
+    score: 24
+    rank: 18
+  - slug: fauxhope-2
+    title: FAUXHOPE
+    score: 24
+    rank: 19
+  - slug: hi-jack-ed
+    title: Hi-JACK-ed
+    score: 24
+    rank: 20

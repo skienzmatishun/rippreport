@@ -245,3 +245,148 @@ func (sm *StagingManager) listStagedLocked() ([]string, error) {
 
 	return stagedSlugs, nil
 }
+
+const stagedHooksFilename = "sidebar-hooks.staged.yaml"
+
+func (sm *StagingManager) stagedHooksPath(postSlug string) string {
+	return filepath.Join(sm.contentDir, postSlug, stagedHooksFilename)
+}
+
+func (sm *StagingManager) hooksPath(postSlug string) string {
+	return filepath.Join(sm.contentDir, postSlug, "sidebar-hooks.yaml")
+}
+
+// SaveStagedHooks writes staged sidebar hooks to {slug}/sidebar-hooks.staged.yaml.
+func (sm *StagingManager) SaveStagedHooks(postSlug string, meta models.HookMetadata, hooks []*models.Hook) error {
+	sm.mu.Lock()
+	defer sm.mu.Unlock()
+
+	if postSlug == "" {
+		return fmt.Errorf("post slug cannot be empty")
+	}
+	if len(hooks) == 0 {
+		return fmt.Errorf("hooks cannot be empty")
+	}
+	if meta.PostSlug == "" {
+		meta.PostSlug = postSlug
+	}
+	if meta.GeneratorVersion == "" {
+		meta.GeneratorVersion = models.HookGeneratorVersion
+	}
+	if meta.GeneratedAt.IsZero() {
+		meta.GeneratedAt = time.Now().UTC()
+	}
+
+	outPath := sm.stagedHooksPath(postSlug)
+	return writeHookFile(outPath, meta, hooks)
+}
+
+// ReadStagedHooks reads and validates staged hooks for a given post.
+func (sm *StagingManager) ReadStagedHooks(postSlug string) ([]*models.Hook, error) {
+	file, err := sm.ReadStagedHookFile(postSlug)
+	if err != nil {
+		return nil, err
+	}
+	return file.Hooks, nil
+}
+
+// ReadStagedHookFile reads the full staged hooks document.
+func (sm *StagingManager) ReadStagedHookFile(postSlug string) (*models.HookFile, error) {
+	sm.mu.Lock()
+	defer sm.mu.Unlock()
+
+	filePath := sm.stagedHooksPath(postSlug)
+	file, err := LoadHookFile(filePath)
+	if err != nil {
+		return nil, fmt.Errorf("failed to read staged hooks file %s: %w", filePath, err)
+	}
+	return file, nil
+}
+
+// ApplyStagedHooks applies the staged hooks to the post's hooks file,
+// creating a backup before modifying and deleting the staging file upon success.
+func (sm *StagingManager) ApplyStagedHooks(postSlug string) error {
+	file, err := sm.ReadStagedHookFile(postSlug)
+	if err != nil {
+		return fmt.Errorf("cannot apply staged hooks for %s: %w", postSlug, err)
+	}
+
+	hooksFile := sm.hooksPath(postSlug)
+
+	if sm.backupManager != nil {
+		if _, statErr := os.Stat(hooksFile); statErr == nil {
+			if _, err := sm.backupManager.Backup(hooksFile); err != nil {
+				return fmt.Errorf("backup failed prior to applying staged hooks: %w", err)
+			}
+		}
+	}
+
+	postDir := filepath.Dir(hooksFile)
+	if err := SaveHooks(postDir, file.Metadata, file.Hooks); err != nil {
+		return fmt.Errorf("failed to save hooks: %w", err)
+	}
+
+	stagingFile := sm.stagedHooksPath(postSlug)
+	if err := os.Remove(stagingFile); err != nil && !os.IsNotExist(err) {
+		return fmt.Errorf("failed to remove applied staged hooks file %s: %w", stagingFile, err)
+	}
+
+	return nil
+}
+
+// ClearStagedHooks deletes the staged hooks files for the specified post slugs.
+func (sm *StagingManager) ClearStagedHooks(postSlugs []string) error {
+	sm.mu.Lock()
+	defer sm.mu.Unlock()
+
+	if len(postSlugs) == 0 {
+		var err error
+		postSlugs, err = sm.listStagedHooksLocked()
+		if err != nil {
+			return err
+		}
+	}
+
+	var errs []string
+	for _, slug := range postSlugs {
+		path := sm.stagedHooksPath(slug)
+		if err := os.Remove(path); err != nil && !os.IsNotExist(err) {
+			errs = append(errs, fmt.Sprintf("%s: %v", slug, err))
+		}
+	}
+
+	if len(errs) > 0 {
+		return fmt.Errorf("failed clearing some staged hooks files: %v", errs)
+	}
+
+	return nil
+}
+
+// ListStagedHooks scans content directory and returns all slugs that have a staged hooks file.
+func (sm *StagingManager) ListStagedHooks() ([]string, error) {
+	sm.mu.Lock()
+	defer sm.mu.Unlock()
+
+	return sm.listStagedHooksLocked()
+}
+
+func (sm *StagingManager) listStagedHooksLocked() ([]string, error) {
+	var stagedSlugs []string
+
+	err := filepath.Walk(sm.contentDir, func(path string, info os.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+		if !info.IsDir() && info.Name() == stagedHooksFilename {
+			slug := filepath.Base(filepath.Dir(path))
+			stagedSlugs = append(stagedSlugs, slug)
+		}
+		return nil
+	})
+
+	if err != nil {
+		return nil, fmt.Errorf("failed scanning for staged hooks files: %w", err)
+	}
+
+	return stagedSlugs, nil
+}

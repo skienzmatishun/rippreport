@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T17:34:52.458746Z'
-  post_slug: biased-investigation
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 80.87600263748953
-  llm_score: 90
-  recency_score: 30.037015165564775
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: bcso-culture-2
-  title: BCSO CULTURE
-  score: 79.76750271560525
-  llm_score: 95
-  recency_score: 3.663140614730139
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
-  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 73.11652727922173
-  llm_score: 85
-  recency_score: 5.420031855524929
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: justified
-  title: JUSTIFIED
-  score: 70.1892320065442
-  llm_score: 80
-  recency_score: 8.588084037629146
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: blast-from-the-past
-  title: HANKY PANK AT THE PO PO - A BLAST FROM THE PAST
-  score: 65.84064801333963
-  llm_score: 75
-  recency_score: 3.583726076702889
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: read-the-comments
-  title: READ THE COMMENTS
-  score: 58.79547759798181
-  llm_score: 65
-  recency_score: 3.073996188395355
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT
-  title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
-  score: 57.50408858857352
-  llm_score: 60
-  recency_score: 15.648509384297702
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 49.82071134920669
-  llm_score: 45
-  recency_score: 31.469090257938433
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: lee-county-no-justice-center
-  title: LEE COUNTY NO-JUSTICE CENTER
-  score: 41.418042402731714
-  llm_score: 35
-  recency_score: 23.153743815707337
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: wrongful-conviction
-  title: WRONGFUL CONVICTION
-  score: 72.6201939216784
-  llm_score: 75
-  recency_score: 97.03126049090956
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: biased-investigation
+generated: 2026-09-09T01:07:25.160025-05:00
+articles:
+  - slug: po-po-hoss-mack-ccuo
+    title: PO PO Hoss Mack CCUO
+    score: 94
+    rank: 1
+  - slug: a-reckoning-is-predicted
+    title: A RECKONING IS PREDICTED
+    score: 93
+    rank: 2
+  - slug: lethal-force
+    title: LETHAL FORCE
+    score: 70
+    rank: 3
+  - slug: blast-from-the-past
+    title: HANKY PANK AT THE PO PO - A BLAST FROM THE PAST
+    score: 46
+    rank: 4
+  - slug: black-cloud
+    title: BLACK CLOUD
+    score: 25
+    rank: 5
+  - slug: wrongful-conviction
+    title: WRONGFUL CONVICTION
+    score: 24
+    rank: 6
+  - slug: cameras
+    title: CAMERAS
+    score: 24
+    rank: 7
+  - slug: rumors
+    title: RUMORS
+    score: 24
+    rank: 8
+  - slug: sheriff-huey-boss-mack-secret-police
+    title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+    score: 24
+    rank: 9
+  - slug: sheriff-huey-boss-mack-secret-police-2
+    title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+    score: 24
+    rank: 10
+  - slug: baldwin-county-judicial-corruption
+    title: Baldwin County Judicial Corruption
+    score: 24
+    rank: 11
+  - slug: justified
+    title: JUSTIFIED
+    score: 24
+    rank: 12
+  - slug: federal-civil-rights-lawsuit-involves-bcso-and-major-crimes-unit
+    title: FEDERAL CIVIL RIGHTS LAWSUIT INVOLVES BCSO AND MAJOR CRIMES UNIT
+    score: 24
+    rank: 13
+  - slug: read-the-comments
+    title: READ THE COMMENTS
+    score: 24
+    rank: 14
+  - slug: hanky-panky-by-the-po-po
+    title: Hanky Panky by the Po Po
+    score: 24
+    rank: 15
+  - slug: lee-county-no-justice-center
+    title: LEE COUNTY NO-JUSTICE CENTER
+    score: 24
+    rank: 16
+  - slug: court-of-public-opinion-3
+    title: COURT OF PUBLIC OPINION - READ THE BOOK
+    score: 24
+    rank: 17
+  - slug: bcso-culture-2
+    title: BCSO CULTURE
+    score: 24
+    rank: 18
+  - slug: baldwin-county
+    title: BALDWIN COUNTY
+    score: 24
+    rank: 19
+  - slug: non-lethal
+    title: NON-LETHAL
+    score: 24
+    rank: 20

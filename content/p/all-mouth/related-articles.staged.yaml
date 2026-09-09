@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T17:23:40.437373Z'
-  post_slug: all-mouth
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 80.95970214204726
-  llm_score: 95
-  recency_score: 10.518287316771712
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 77.49149216682265
-  llm_score: 90
-  recency_score: 10.576079959230228
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 76.26739109778711
-  llm_score: 85
-  recency_score: 23.53749881227582
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fauxhope-know-the-backstory
-  title: FAUXHOPE - KNOW THE BACKSTORY
-  score: 69.89526364279932
-  llm_score: 80
-  recency_score: 6.897765946096069
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 67.0617556955802
-  llm_score: 75
-  recency_score: 10.605095249586157
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 64.78265653411138
-  llm_score: 65
-  recency_score: 37.500275071140365
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 64.41963553349706
-  llm_score: 55
-  recency_score: 75.41290431760807
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 58.470070230237994
-  llm_score: 45
-  recency_score: 81.20290382386844
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: round-house-blockheads
-  title: ROUND HOUSE SQUARE HEADS
-  score: 46.08695652173913
-  llm_score: 35
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 42.89398958992568
-  llm_score: 40
-  recency_score: 11.640440142072652
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: all-mouth
+generated: 2026-09-09T01:07:19.187368-05:00
+articles:
+  - slug: fact-hardest-working-elected-city-official-eastern-shore-fairhope-mayor-karin-wilson
+    title: 'FACT: Hardest Working Elected City Official- Eastern Shore - Fairhope Mayor Karin Wilson'
+    score: 66
+    rank: 1
+  - slug: cut-nose-off-spite-face
+    title: CUT YOUR NOSE OFF TO SPITE YOUR FACE
+    score: 52
+    rank: 2
+  - slug: self-incrimination
+    title: SELF INCRIMINATION
+    score: 50
+    rank: 3
+  - slug: holes
+    title: HOLES
+    score: 26
+    rank: 4
+  - slug: fauxhope-know-the-backstory-2
+    title: FAUXHOPE - KNOW THE BACKSTORY
+    score: 26
+    rank: 5
+  - slug: bull
+    title: BULL SITTING Fairhope
+    score: 25
+    rank: 6
+  - slug: off-the-rails
+    title: OFF THE RAILS
+    score: 25
+    rank: 7
+  - slug: catalyst-liar
+    title: CATALYST LIAR
+    score: 24
+    rank: 8
+  - slug: fauxhope-2
+    title: FAUXHOPE
+    score: 24
+    rank: 9
+  - slug: fauxhope-3
+    title: FAUXHOPE
+    score: 24
+    rank: 10
+  - slug: no-qualifications
+    title: NO QUALIFICATIONS
+    score: 24
+    rank: 11
+  - slug: people-power-2
+    title: PEOPLE POWER
+    score: 24
+    rank: 12
+  - slug: howling-rains-passing-gas
+    title: HOWLING RAINS PASSING GAS
+    score: 24
+    rank: 13
+  - slug: bit-dogs-bark-first
+    title: BIT DOGS BARK FIRST
+    score: 24
+    rank: 14
+  - slug: last-chance-fauxhope-or-fairhope
+    title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
+    score: 24
+    rank: 15
+  - slug: fauxhope
+    title: FAUXHOPE
+    score: 24
+    rank: 16
+  - slug: pretty-flowers-rotten-roots
+    title: PRETTY FLOWERS ROTTEN ROOTS
+    score: 24
+    rank: 17
+  - slug: pied-piper
+    title: PIED PIPER
+    score: 24
+    rank: 18
+  - slug: moratorium-party
+    title: MORATORIUM PARTY
+    score: 24
+    rank: 19
+  - slug: dog-and-pony-show-2
+    title: DOG AND PONY SHOW
+    score: 24
+    rank: 20

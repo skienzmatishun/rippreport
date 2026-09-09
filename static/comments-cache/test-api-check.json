@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "pageId": "test-api-check",
+  "originalPageId": "/test-api-check",
+  "commentCount": 1,
+  "totalCount": 1,
+  "rootCount": 1,
+  "lastCommentAt": "2025-11-18 18:18:25",
+  "generatedAt": "2026-09-09T21:04:50.137Z",
+  "frozen": false,
+  "comments": [
+    {
+      "id": 667,
+      "pageId": "/test-api-check",
+      "parentId": null,
+      "authorName": "Test",
+      "content": "API test comment",
+      "createdAt": "2025-11-18 18:18:25",
+      "updatedAt": "2025-11-18 18:18:25",
+      "replies": []
+    }
+  ]
+}

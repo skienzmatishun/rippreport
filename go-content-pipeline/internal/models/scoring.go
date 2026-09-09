@@ -42,10 +42,13 @@ type ScoreWeights struct {
 
 // ScoringRequest represents a request to score candidates
 type ScoringRequest struct {
-	CurrentPost *Post
-	Candidates  []Candidate
-	BatchMode   bool
-	VectorOnly  bool
+	CurrentPost   *Post
+	Candidates    []Candidate
+	BatchMode     bool
+	VectorOnly    bool
+	Model         string
+	UseReranker   bool
+	RerankBaseURL string
 }
 
 // Validate checks if the Candidate has valid fields

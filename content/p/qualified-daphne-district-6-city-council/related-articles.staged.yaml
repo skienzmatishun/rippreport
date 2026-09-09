@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T16:41:07.463583Z'
-  post_slug: qualified-daphne-district-6-city-council
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 83.96851637227923
-  llm_score: 95
-  recency_score: 27.818969140605503
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 82.56111345385843
-  llm_score: 75
-  recency_score: 99.72640235968593
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 79.96694975085478
-  llm_score: 85
-  recency_score: 44.809961067414925
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 75.55713970018431
-  llm_score: 65
-  recency_score: 99.45355327605971
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 71.12797584455927
-  llm_score: 80
-  recency_score: 13.985861106215753
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 67.85880303792058
-  llm_score: 55
-  recency_score: 95.18811746804333
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 52.717480203529156
-  llm_score: 50
-  recency_score: 28.125511170292626
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 48.3283685391334
-  llm_score: 40
-  recency_score: 42.88811910001705
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: gambling-money-run-amok
-  title: Gambling Money Run Amok
-  score: 36.06672468888047
-  llm_score: 20
-  recency_score: 52.383666961062694
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: round-house-blockheads
-  title: ROUND HOUSE SQUARE HEADS
-  score: 32.173913043478265
-  llm_score: 15
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: qualified-daphne-district-6-city-council
+generated: 2026-09-09T01:06:55.376639-05:00
+articles:
+  - slug: shut-up
+    title: SHUT UP
+    score: 92
+    rank: 1
+  - slug: blind-leading-the-blind
+    title: BLIND LEADING THE BLIND
+    score: 27
+    rank: 2
+  - slug: happy-belated-new-year-clean-sweep
+    title: Happy Belated New Year Clean Sweep
+    score: 26
+    rank: 3
+  - slug: i-quit-and-will-quit-again
+    title: I QUIT AND WILL QUIT AGAIN
+    score: 25
+    rank: 4
+  - slug: zunk-the-skunk
+    title: ZUNK THE SKUNK
+    score: 25
+    rank: 5
+  - slug: three-strikes
+    title: THREE STRIKES
+    score: 25
+    rank: 6
+  - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+    title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+    score: 25
+    rank: 7
+  - slug: disposal
+    title: DISPOSAL
+    score: 24
+    rank: 8
+  - slug: bit-dogs-bark-first
+    title: BIT DOGS BARK FIRST
+    score: 24
+    rank: 9
+  - slug: challengers-emerge-in-daphne-mayoral-race
+    title: Challengers emerge in Daphne mayoral race
+    score: 24
+    rank: 10
+  - slug: hate
+    title: HATE
+    score: 24
+    rank: 11
+  - slug: game-on
+    title: GAME ON
+    score: 24
+    rank: 12
+  - slug: single-tax-colony-letter
+    title: Letter to Single Tax Colony on Lee Turner
+    score: 24
+    rank: 13
+  - slug: fairhope-jester
+    title: THE FAIRHOPE JESTER
+    score: 24
+    rank: 14
+  - slug: in-the-same-boat
+    title: IN THE SAME BOAT
+    score: 24
+    rank: 15
+  - slug: catalyst-associates-exposed
+    title: Catalyst Associates Exposed
+    score: 24
+    rank: 16
+  - slug: boone-doggle
+    title: BOONE-DOGGLE
+    score: 24
+    rank: 17
+  - slug: conflict-of-interest
+    title: CONFLICT OF INTEREST
+    score: 24
+    rank: 18
+  - slug: self-incrimination
+    title: SELF INCRIMINATION
+    score: 24
+    rank: 19
+  - slug: history-repeating-itself
+    title: History repeating itself
+    score: 24
+    rank: 20

@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "pageId": "p/cannabis-conference",
+  "originalPageId": "/p/cannabis-conference",
+  "commentCount": 2,
+  "totalCount": 2,
+  "rootCount": 2,
+  "lastCommentAt": "2023-08-16T11:57:47.919000Z",
+  "generatedAt": "2026-09-09T21:04:50.020Z",
+  "frozen": false,
+  "comments": [
+    {
+      "id": 121,
+      "pageId": "/p/cannabis-conference",
+      "parentId": null,
+      "authorName": "Anonymous",
+      "content": "How many years has it been since the election of medical marijuana?   Keep on dragging your heals, McMillan.  They sell THC legally in stores now and by the time you finally get your act together, you will irrelevant.",
+      "createdAt": "2023-08-09T22:43:16.901000Z",
+      "updatedAt": "2025-11-18 01:42:23",
+      "replies": []
+    },
+    {
+      "id": 122,
+      "pageId": "/p/cannabis-conference",
+      "parentId": null,
+      "authorName": "Anonymous",
+      "content": "Once the medical marijuana starts going they will ban the THC sold legally.",
+      "createdAt": "2023-08-16T11:57:47.919000Z",
+      "updatedAt": "2025-11-18 01:42:24",
+      "replies": []
+    }
+  ]
+}

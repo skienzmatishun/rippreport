@@ -32,7 +32,7 @@ func normalize(v []float32) []float32 {
 }
 
 // CosineSimilarity calculates the cosine similarity between two float32 vectors.
-// Normalizes both vectors and computes the dot product, clamped to [-1.0, 1.0].
+// Operates in a single zero-allocation pass with float64 accumulation for precision.
 //
 // Requirements: 4.1, 4.4, 23.2
 func CosineSimilarity(a, b []float32) float32 {
@@ -40,21 +40,27 @@ func CosineSimilarity(a, b []float32) float32 {
 		return 0
 	}
 
-	normA := normalize(a)
-	normB := normalize(b)
-
-	var dot float32
-	for i := range normA {
-		dot += normA[i] * normB[i]
+	var dot, sumA, sumB float64
+	for i := range a {
+		ai := float64(a[i])
+		bi := float64(b[i])
+		dot += ai * bi
+		sumA += ai * ai
+		sumB += bi * bi
 	}
 
-	if dot > 1.0 {
+	if sumA <= 0 || sumB <= 0 {
+		return 0
+	}
+
+	sim := float32(dot / (math.Sqrt(sumA) * math.Sqrt(sumB)))
+	if sim > 1.0 {
 		return 1.0
 	}
-	if dot < -1.0 {
+	if sim < -1.0 {
 		return -1.0
 	}
-	return dot
+	return sim
 }
 
 // candidateHeap implements a min-heap for Candidate based on similarity.
@@ -88,7 +94,7 @@ func GetTopCandidates(query []float32, corpus map[string][]float32, n int, exclu
 		return nil
 	}
 
-	excludeSet := make(map[string]struct{}, len(exclude))
+	excludeSet := make(map[string]struct{}, len(exclude)*3)
 	for _, ex := range exclude {
 		excludeSet[ex] = struct{}{}
 		// Also normalize slug and path
@@ -96,7 +102,8 @@ func GetTopCandidates(query []float32, corpus map[string][]float32, n int, exclu
 		excludeSet[filepath.Base(ex)] = struct{}{}
 	}
 
-	h := &candidateHeap{}
+	rawHeap := make(candidateHeap, 0, n+1)
+	h := &rawHeap
 	heap.Init(h)
 
 	for path, vec := range corpus {

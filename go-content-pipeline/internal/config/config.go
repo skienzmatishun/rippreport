@@ -71,6 +71,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"strings"
 	"time"
 
 	"gopkg.in/yaml.v3"
@@ -90,11 +91,81 @@ type Config struct {
 // LlamaServerConfig contains llama.cpp server connection settings
 type LlamaServerConfig struct {
 	BaseURL         string        `yaml:"base_url"`
+	Managed         *bool         `yaml:"managed,omitempty"` // Whether to auto-manage llama-server process (default: true)
+	BinaryPath      string        `yaml:"binary_path,omitempty"`
+	ModelsDir       string        `yaml:"models_dir,omitempty"`
+	ContextSize     int           `yaml:"context_size,omitempty"`
+	GPULayers       int           `yaml:"gpu_layers,omitempty"`
 	EmbeddingModel  string        `yaml:"embedding_model"`
 	LLMModel        string        `yaml:"llm_model"`
+	ScoringModel    string        `yaml:"scoring_model,omitempty"`
+	ScoringType     string        `yaml:"scoring_type,omitempty"`     // "completion" (default) or "reranker"
+	ScoringBaseURL  string        `yaml:"scoring_base_url,omitempty"` // optional separate base URL for scoring / reranker
+	HookModel       string        `yaml:"hook_model,omitempty"`
 	Timeout         time.Duration `yaml:"timeout"`
+	StartupTimeout  time.Duration `yaml:"startup_timeout,omitempty"`
 	MinRequestDelay time.Duration `yaml:"min_request_delay"`
 	MaxRetries      int           `yaml:"max_retries"`
+	// Speculative decoding options
+	DraftModel    string `yaml:"draft_model,omitempty"`      // Path/name of draft model for speculative decoding (DFlash, EAGLE-3, etc.)
+	SpecType      string `yaml:"spec_type,omitempty"`        // Type: draft-dflash, draft-eagle3, draft-dspark, ngram-mod, etc.
+	SpecDraftNMax int    `yaml:"spec_draft_n_max,omitempty"` // Max number of tokens to draft (default: 3)
+	// Qwen 3.8 specific options
+	ReasoningEffort  string `yaml:"reasoning_effort,omitempty"`  // For Qwen 3.8: xhigh, high, medium, low, none
+	PreserveThinking bool   `yaml:"preserve_thinking,omitempty"` // For Qwen 3.8: preserve thinking traces in conversation
+}
+
+// IsManaged returns true if llama-server process management is enabled (default: false unless explicitly configured).
+func (c LlamaServerConfig) IsManaged() bool {
+	if c.Managed != nil {
+		return *c.Managed
+	}
+	return false
+}
+
+// GetBinaryPath returns the path to llama-server binary.
+func (c LlamaServerConfig) GetBinaryPath() string {
+	if c.BinaryPath != "" {
+		return c.BinaryPath
+	}
+	return "/Users/ryandunphy/.unsloth/llama.cpp/build/bin/llama-server"
+}
+
+// GetModelsDir returns the root directory for models.
+func (c LlamaServerConfig) GetModelsDir() string {
+	if c.ModelsDir != "" {
+		return c.ModelsDir
+	}
+	return "/Volumes/1tb/models"
+}
+
+// GetScoringModel returns the configured scoring model, falling back to LLMModel.
+func (c LlamaServerConfig) GetScoringModel() string {
+	if c.ScoringModel != "" {
+		return c.ScoringModel
+	}
+	return c.LLMModel
+}
+
+// IsReranker returns true if scoring_type is configured as "reranker".
+func (c LlamaServerConfig) IsReranker() bool {
+	return strings.EqualFold(c.ScoringType, "reranker")
+}
+
+// GetScoringBaseURL returns the separate base URL for scoring if set, else BaseURL.
+func (c LlamaServerConfig) GetScoringBaseURL() string {
+	if c.ScoringBaseURL != "" {
+		return c.ScoringBaseURL
+	}
+	return c.BaseURL
+}
+
+// GetHookModel returns the configured hook generation model, falling back to LLMModel.
+func (c LlamaServerConfig) GetHookModel() string {
+	if c.HookModel != "" {
+		return c.HookModel
+	}
+	return c.LLMModel
 }
 
 // ProcessingConfig contains post processing settings
@@ -117,6 +188,7 @@ type StorageConfig struct {
 type ScoringConfig struct {
 	Weights       ScoreWeights       `yaml:"weights"`
 	CategoryBoost map[string]float32 `yaml:"category_boost"`
+	UseReranker   bool               `yaml:"use_reranker,omitempty"`
 }
 
 // ScoreWeights defines the weights for composite scoring
@@ -179,11 +251,36 @@ func (c *Config) applyEnvOverrides() {
 	if url := os.Getenv("LLAMA_SERVER_URL"); url != "" {
 		c.LlamaServer.BaseURL = url
 	}
+	if m := os.Getenv("LLAMA_MANAGED"); m != "" {
+		managed := (m == "true" || m == "1")
+		c.LlamaServer.Managed = &managed
+	}
+	if bin := os.Getenv("LLAMA_SERVER_BIN"); bin != "" {
+		c.LlamaServer.BinaryPath = bin
+	}
+	if dir := os.Getenv("MODELS_DIR"); dir != "" {
+		c.LlamaServer.ModelsDir = dir
+	}
 	if model := os.Getenv("EMBEDDING_MODEL"); model != "" {
 		c.LlamaServer.EmbeddingModel = model
 	}
 	if model := os.Getenv("LLM_MODEL"); model != "" {
 		c.LlamaServer.LLMModel = model
+	}
+	if model := os.Getenv("SCORING_MODEL"); model != "" {
+		c.LlamaServer.ScoringModel = model
+	}
+	if st := os.Getenv("SCORING_TYPE"); st != "" {
+		c.LlamaServer.ScoringType = st
+	}
+	if surl := os.Getenv("SCORING_BASE_URL"); surl != "" {
+		c.LlamaServer.ScoringBaseURL = surl
+	}
+	if ur := os.Getenv("USE_RERANKER"); ur != "" {
+		c.Scoring.UseReranker = (ur == "true" || ur == "1")
+	}
+	if model := os.Getenv("HOOK_MODEL"); model != "" {
+		c.LlamaServer.HookModel = model
 	}
 
 	// Processing configuration overrides
@@ -249,11 +346,17 @@ func (c *Config) Validate() error {
 	if c.LlamaServer.EmbeddingModel == "" {
 		return fmt.Errorf("llama_server.embedding_model is required")
 	}
-	if c.LlamaServer.LLMModel == "" {
-		return fmt.Errorf("llama_server.llm_model is required")
+	if c.LlamaServer.ScoringType != "" {
+		st := strings.ToLower(c.LlamaServer.ScoringType)
+		if st != "completion" && st != "reranker" && st != "llm" {
+			return fmt.Errorf("llama_server.scoring_type must be 'completion' or 'reranker', got %s", c.LlamaServer.ScoringType)
+		}
 	}
-	if c.LlamaServer.Timeout <= 0 {
-		return fmt.Errorf("llama_server.timeout must be positive, got %v", c.LlamaServer.Timeout)
+	if c.LlamaServer.LLMModel == "" && (c.LlamaServer.ScoringModel == "" || c.LlamaServer.HookModel == "") {
+		return fmt.Errorf("llama_server.llm_model is required (or both scoring_model and hook_model)")
+	}
+	if c.LlamaServer.Timeout < 0 {
+		return fmt.Errorf("llama_server.timeout cannot be negative, got %v", c.LlamaServer.Timeout)
 	}
 	if c.LlamaServer.MinRequestDelay < 0 {
 		return fmt.Errorf("llama_server.min_request_delay must be non-negative, got %v", c.LlamaServer.MinRequestDelay)
@@ -359,10 +462,14 @@ func DefaultConfig() *Config {
 	return &Config{
 		LlamaServer: LlamaServerConfig{
 			BaseURL:         "http://localhost:8080",
+			BinaryPath:      "/Users/ryandunphy/.unsloth/llama.cpp/build/bin/llama-server",
+			ModelsDir:       "/Volumes/1tb/models",
+			ContextSize:     4096,
+			GPULayers:       99,
 			EmbeddingModel:  "nomic-embed-text-v1.5",
 			LLMModel:        "qwen3-14b",
 			Timeout:         120 * time.Second,
-			MinRequestDelay: 100 * time.Millisecond,
+			MinRequestDelay: 50 * time.Millisecond,
 			MaxRetries:      3,
 		},
 		Processing: ProcessingConfig{
@@ -375,7 +482,7 @@ func DefaultConfig() *Config {
 			BackupDir:        "backups",
 			CacheFile:        ".embedding_cache.json",
 			ProgressFile:     ".progress.json",
-			CompressionCache: ".compression_cache.json",
+			CompressionCache: "internal/cache/compressed_articles.json",
 		},
 		Scoring: ScoringConfig{
 			Weights: ScoreWeights{
@@ -437,4 +544,9 @@ func (c *Config) MakeAbsolutePaths(baseDir string) error {
 	}
 
 	return nil
+}
+
+// ShouldUseReranker returns true if either ScoringType is "reranker" or Scoring.UseReranker is true.
+func (c *Config) ShouldUseReranker() bool {
+	return c.LlamaServer.IsReranker() || c.Scoring.UseReranker
 }

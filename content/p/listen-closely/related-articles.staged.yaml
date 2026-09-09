@@ -1,87 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T16:28:42.013308Z'
-  post_slug: listen-closely
-  status: staged
-  hooks_generated: true
-  hooks_generated_at: '2026-09-02T01:55:57.574908Z'
-related_articles:
-- slug: advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream
-  title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
-  score: 89.13004059688343
-  llm_score: 95
-  recency_score: 57.49773343207967
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: alabama-exposure-mljr
-  title: Alabama Exposure and Accountability - The Framing of Murray Lawrence Jr.
-  score: 88.77378511359088
-  llm_score: 85
-  recency_score: 95.44926440314748
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: Baldwin-county-wrongful-conviction
-  title: BALDWIN COUNTY WRONGFUL CONVICTION
-  score: 84.34782608695653
-  llm_score: 90
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: earful
-  title: EARFUL
-  score: 77.3913043478261
-  llm_score: 80
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 68.31287115252705
-  llm_score: 75
-  recency_score: 17.799009127030544
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 59.92743494822968
-  llm_score: 65
-  recency_score: 9.582750952320627
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 41.40702534243186
-  llm_score: 35
-  recency_score: 23.090395718983192
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 40.20663549157145
-  llm_score: 30
-  recency_score: 36.18815407653578
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: what-the
-  title: What the
-  score: 32.94152492899571
-  llm_score: 25
-  recency_score: 14.41376834172532
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 31.292421887191246
-  llm_score: 20
-  recency_score: 24.93142585134965
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: listen-closely
+generated: 2026-09-09T01:06:44.601261-05:00
+articles:
+  - slug: fairhope-wrongful-conviction-2
+    title: FAIRHOPE WRONGFUL CONVICTION
+    score: 25
+    rank: 1
+  - slug: justice-for
+    title: KEY FIGURES - WRONGFUL CONVICTION
+    score: 24
+    rank: 2
+  - slug: fairhope-wrongful-conviction
+    title: FAIRHOPE WRONGFUL CONVICTION
+    score: 24
+    rank: 3
+  - slug: alabama-national-news
+    title: ALABAMA NATIONAL NEWS
+    score: 24
+    rank: 4
+  - slug: perfect-puzzle
+    title: PERFECT PUZZLE
+    score: 24
+    rank: 5
+  - slug: press-release
+    title: PRESS RELEASE
+    score: 24
+    rank: 6
+  - slug: alabama-black-hole
+    title: ALABAMA BLACK HOLE
+    score: 24
+    rank: 7
+  - slug: wrongful-conviction-fairhope-baldwin-county
+    title: Wrongful Conviction Fairhope, Baldwin County
+    score: 24
+    rank: 8
+  - slug: cameras
+    title: CAMERAS
+    score: 24
+    rank: 9
+  - slug: winner-and-loser
+    title: WINNER AND LOSER
+    score: 24
+    rank: 10
+  - slug: puzzle-pieces
+    title: PUZZLE PIECES
+    score: 24
+    rank: 11
+  - slug: key-figures
+    title: KEY FIGURES - WRONGFUL CONVICTION
+    score: 24
+    rank: 12
+  - slug: red-lips-award
+    title: RED LIPS AWARD
+    score: 24
+    rank: 13
+  - slug: slap-in-the-face
+    title: SLAP IN THE FACE
+    score: 24
+    rank: 14
+  - slug: alabama-exposure-mljr
+    title: Alabama Exposure and Accountability - The Framing of Murray Lawrence Jr.
+    score: 24
+    rank: 15
+  - slug: elephants-in-alabama
+    title: Elephants in Alabama
+    score: 24
+    rank: 16
+  - slug: total-darkness
+    title: TOTAL DARKNESS
+    score: 24
+    rank: 17
+  - slug: stealing-from-kids
+    title: STEALING FROM KIDS
+    score: 24
+    rank: 18
+  - slug: letter-to-the-alabama-attorney-general
+    title: Letter to the Alabama Attorney General
+    score: 24
+    rank: 19
+  - slug: alabama-political-corruption-exposed
+    title: Alabama Political Corruption Exposed
+    score: 24
+    rank: 20

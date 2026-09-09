@@ -1,87 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T16:19:52.990346Z'
-  post_slug: letter-to-ag-elections
-  status: staged
-  hooks_generated: true
-  hooks_generated_at: '2026-09-01T15:29:52.865836Z'
-related_articles:
-- slug: bcso-culture-2
-  title: BCSO CULTURE
-  score: 91.51244095732211
-  llm_score: 95
-  recency_score: 71.19653550460211
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: a-reckoning-is-predicted
-  title: A RECKONING IS PREDICTED
-  score: 89.97563066627698
-  llm_score: 88
-  recency_score: 90.35987633109261
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: vote-2026
-  title: VOTE
-  score: 82.56111345385843
-  llm_score: 75
-  recency_score: 99.72640235968593
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 78.55351610785347
-  llm_score: 92
-  recency_score: 8.6827176201574
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: internal-tensions-bcso
-  title: “INTERNAL” TENSIONS - BCSO
-  score: 75.4155612022566
-  llm_score: 65
-  recency_score: 98.63947691297537
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 73.61523306063353
-  llm_score: 85
-  recency_score: 8.287590098642712
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: newsletter
-  title: NEWSLETTER
-  score: 70.15351705644936
-  llm_score: 70
-  recency_score: 48.38272307458382
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: anonymous-bb
-  title: ANONYMOUS-BB
-  score: 57.93051560397784
-  llm_score: 40
-  recency_score: 98.10046472287257
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: lowery-puts-campaign-first-immigration-enforcement
-  title: LOWERY PUTS CAMPAIGN FIRST - IMMIGRATION ENFORCEMENT AND CITIZEN SAFETY SECOND
-  score: 51.02080028377797
-  llm_score: 30
-  recency_score: 98.36960163172333
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: JUDGE-VS-SHERIFF
-  title: JUDGE VS. SHERIFF
-  score: 38.61749892841643
-  llm_score: 35
-  recency_score: 7.050618838394492
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: letter-to-ag-elections
+generated: 2026-09-09T01:06:37.62165-05:00
+articles:
+  - slug: flies-in-the-ointment
+    title: FLIES IN THE OINTMENT
+    score: 94
+    rank: 1
+  - slug: green-acres-on-acid
+    title: GREEN ACRES ON ACID
+    score: 90
+    rank: 2
+  - slug: sheriff-commission-races-2014
+    title: Sheriff and Commission Races - Fighting the Machine
+    score: 83
+    rank: 3
+  - slug: repeat
+    title: REPEAT
+    score: 81
+    rank: 4
+  - slug: a-reckoning-is-predicted
+    title: A RECKONING IS PREDICTED
+    score: 68
+    rank: 5
+  - slug: sheriff-huey-boss-mack-secret-police
+    title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+    score: 48
+    rank: 6
+  - slug: newsletter-the-ripp-report
+    title: NEWSLETTER - THE RIPP REPORT
+    score: 27
+    rank: 7
+  - slug: vote-2026
+    title: VOTE
+    score: 24
+    rank: 8
+  - slug: primary-election-endorsements-2014
+    title: Primary Election Endorsements - Vote Out the Machine
+    score: 24
+    rank: 9
+  - slug: anonymous-bb
+    title: ANONYMOUS-BB
+    score: 24
+    rank: 10
+  - slug: alabama-sec-of-state-the-only-one
+    title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+    score: 24
+    rank: 11
+  - slug: stealing-our-democracy
+    title: STEALING OUR DEMOCRACY
+    score: 24
+    rank: 12
+  - slug: qualification
+    title: QUALIFICATION
+    score: 24
+    rank: 13
+  - slug: bcso-culture-2
+    title: BCSO CULTURE
+    score: 24
+    rank: 14
+  - slug: lowery-puts-campaign-first-immigration-enforcement
+    title: LOWERY PUTS CAMPAIGN FIRST - IMMIGRATION ENFORCEMENT AND CITIZEN SAFETY SECOND
+    score: 24
+    rank: 15
+  - slug: judge-vs-sheriff
+    title: JUDGE VS. SHERIFF
+    score: 24
+    rank: 16
+  - slug: last-chance
+    title: LAST CHANCE
+    score: 24
+    rank: 17
+  - slug: court-of-public-opinion
+    title: COURT OF PUBLIC OPINION
+    score: 24
+    rank: 18
+  - slug: sheriff-huey-boss-mack-secret-police-2
+    title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
+    score: 24
+    rank: 19
+  - slug: state-senate-seat-district-32-bombs-away
+    title: STATE SENATE SEAT - DISTRICT 32 - BOMBS AWAY
+    score: 24
+    rank: 20

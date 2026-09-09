@@ -1,87 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T16:30:13.054050Z'
-  post_slug: fauxhope-know-the-backstory
-  status: staged
-  hooks_generated: true
-  hooks_generated_at: '2026-09-06T15:34:05.708112Z'
-related_articles:
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 86.47868361381809
-  llm_score: 90
-  recency_score: 62.252430779453995
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: fairhope-infrastructure
-  title: Fairhope Infrastructure
-  score: 82.23440702560076
-  llm_score: 95
-  recency_score: 17.84784039720432
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: FAUXHOPE-4
-  title: FAUXHOPE
-  score: 79.49525089698467
-  llm_score: 75
-  recency_score: 82.09769265766185
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 79.00120294557549
-  llm_score: 80
-  recency_score: 59.25691693705903
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 77.27051008827821
-  llm_score: 85
-  recency_score: 29.305433007599714
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: FAUXHOPE HISTORY
-  title: FAUXHOPE HISTORY
-  score: 63.38302181099865
-  llm_score: 70
-  recency_score: 9.45237541324223
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 59.7381707606134
-  llm_score: 65
-  recency_score: 8.494481873527002
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 52.89507222496968
-  llm_score: 55
-  recency_score: 9.146665293575648
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 44.06850566945609
-  llm_score: 40
-  recency_score: 18.393907599372476
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: fly-creek-mud
-  title: FLY CREEK MUD
-  score: 67.89509953952032
-  llm_score: 95
-  recency_score: 3.2919218917620787
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: fauxhope-know-the-backstory
+generated: 2026-09-09T01:06:45.975453-05:00
+articles:
+  - slug: fly-creek-drainage-ditch
+    title: Fly Creek Becomes Developer's Drainage Ditch
+    score: 71
+    rank: 1
+  - slug: moratorium-party
+    title: MORATORIUM PARTY
+    score: 39
+    rank: 2
+  - slug: cut-the-head-off-the-snake
+    title: CUT THE HEAD OFF THE SNAKE
+    score: 36
+    rank: 3
+  - slug: backpedaling-fauxhope
+    title: BACKPEDALING FAUXHOPE
+    score: 36
+    rank: 4
+  - slug: fauxhope-know-the-backstory-2
+    title: FAUXHOPE - KNOW THE BACKSTORY
+    score: 24
+    rank: 5
+  - slug: friends-of-fly-creek
+    title: FRIENDS OF FLY CREEK
+    score: 24
+    rank: 6
+  - slug: catalyst-does-fairhope
+    title: CATALYST DOES FAIRHOPE
+    score: 24
+    rank: 7
+  - slug: fly-creek-mud
+    title: FLY CREEK MUD
+    score: 24
+    rank: 8
+  - slug: fairhope-railroad
+    title: Fairhope Railroad
+    score: 24
+    rank: 9
+  - slug: fly-creek-erosion-and-hidden-development-threats
+    title: Fly Creek Erosion and Hidden Development Threats
+    score: 24
+    rank: 10
+  - slug: catalyst-shit-creek
+    title: CATALYST SHIT CREEK
+    score: 24
+    rank: 11
+  - slug: community-or-developer
+    title: COMMUNITY OR DEVELOPER
+    score: 24
+    rank: 12
+  - slug: lipstick-on-a-pig
+    title: Lipstick on a Pig
+    score: 24
+    rank: 13
+  - slug: fly-creek-a-drainage-ditch
+    title: FLY CREEK - A DRAINAGE DITCH ?
+    score: 24
+    rank: 14
+  - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+    title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+    score: 24
+    rank: 15
+  - slug: eagles-eye-catalyst-kant-corte
+    title: EAGLES EYE - CATALYST-KANT-CORTE
+    score: 24
+    rank: 16
+  - slug: liar-liar-pants-on-fire-2
+    title: LIAR LIAR PANTS ON FIRE
+    score: 24
+    rank: 17
+  - slug: preemptive-notice-fire-station
+    title: 'Preemptive Notice: Parker Road Fire Station'
+    score: 24
+    rank: 18
+  - slug: can-you-smell-it
+    title: CAN YOU SMELL IT?
+    score: 24
+    rank: 19
+  - slug: no-more-silence-we-want-answers
+    title: NO MORE SILENCE — WE WANT ANSWERS
+    score: 24
+    rank: 20

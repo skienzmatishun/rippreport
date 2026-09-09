@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T18:01:41.318884Z'
-  post_slug: this-is-a-test
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 87.82608695652175
-  llm_score: 95
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 84.40321543280697
-  llm_score: 100
-  recency_score: 10.318488738640012
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 80.96472070504767
-  llm_score: 95
-  recency_score: 10.547144054024043
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: POSTER-BOY-of-CORRUPTION
-  title: POSTER BOY OF CORRUPTION
-  score: 77.24289831192621
-  llm_score: 90
-  recency_score: 9.146665293575648
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 75.21059315994496
-  llm_score: 85
-  recency_score: 17.460910669683468
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 70.37597180145607
-  llm_score: 80
-  recency_score: 9.661837858372358
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: scumbag
-  title: SCUMBAG
-  score: 65.40666189068915
-  llm_score: 75
-  recency_score: 1.0883058714626104
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 59.09643542507232
-  llm_score: 65
-  recency_score: 4.804503694165815
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: alabama-ethics-vs-tony-kennon
-  title: ALABAMA ETHICS VS TONY KENNON
-  score: 47.98977659482407
-  llm_score: 50
-  recency_score: 0.9412154202383868
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: writ-of-mandamus-and-bar-complaint
-  title: WRIT OF MANDAMUS AND BAR COMPLAINT
-  score: 72.49906033015311
-  llm_score: 80
-  recency_score: 76.2438921459952
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: this-is-a-test
+generated: 2026-09-09T01:07:40.985216-05:00
+articles:
+  - slug: alabama-ethics-commission-hide-the-list
+    title: ALABAMA ETHICS COMMISION HIDE THE LIST
+    score: 35
+    rank: 1
+  - slug: elephants-in-alabama
+    title: Elephants in Alabama
+    score: 27
+    rank: 2
+  - slug: writ-of-mandamus-update
+    title: 'WRIT OF MANDAMUS: UPDATE'
+    score: 24
+    rank: 3
+  - slug: letter-to-the-alabama-attorney-general
+    title: Letter to the Alabama Attorney General
+    score: 24
+    rank: 4
+  - slug: deaf-ears
+    title: DEAF EARS
+    score: 24
+    rank: 5
+  - slug: alabama-ethics-self-dealing-immunity
+    title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+    score: 24
+    rank: 6
+  - slug: rock-bottom
+    title: ROCK BOTTOM
+    score: 24
+    rank: 7
+  - slug: alabama-black-hole
+    title: ALABAMA BLACK HOLE
+    score: 24
+    rank: 8
+  - slug: exposure-2
+    title: EXPOSURE
+    score: 24
+    rank: 9
+  - slug: top-to-bottom-corruption
+    title: TOP TO BOTTOM CORRUPTION
+    score: 24
+    rank: 10
+  - slug: alabama-attorney-general
+    title: ALABAMA ATTORNEY GENERAL
+    score: 24
+    rank: 11
+  - slug: stealing-from-kids
+    title: STEALING FROM KIDS
+    score: 24
+    rank: 12
+  - slug: alabama-ugly
+    title: ALABAMA UGLY
+    score: 24
+    rank: 13
+  - slug: scumbag
+    title: SCUMBAG
+    score: 24
+    rank: 14
+  - slug: line-in-the-sand
+    title: LINE IN THE SAND
+    score: 24
+    rank: 15
+  - slug: poster-boy-of-corruption
+    title: POSTER BOY OF CORRUPTION
+    score: 24
+    rank: 16
+  - slug: self-dealing-self-stealing
+    title: SELF-DEALING-SELF-STEALING
+    score: 24
+    rank: 17
+  - slug: writ-of-mandamus-and-bar-complaint
+    title: WRIT OF MANDAMUS AND BAR COMPLAINT
+    score: 24
+    rank: 18
+  - slug: alabama-sec-of-state-the-only-one
+    title: 'ALABAMA SEC. OF STATE: THE ONLY ONE'
+    score: 24
+    rank: 19
+  - slug: perfect-puzzle
+    title: PERFECT PUZZLE
+    score: 24
+    rank: 20

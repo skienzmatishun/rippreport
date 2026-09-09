@@ -203,3 +203,89 @@ func TestTokenBucketRateLimiter(t *testing.T) {
 		t.Errorf("expected TotalWaits > 0, got %d", stats.TotalWaits)
 	}
 }
+
+func TestClient_RerankSuccess(t *testing.T) {
+	ts := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		if r.URL.Path != "/v1/rerank" {
+			t.Errorf("unexpected path: %s", r.URL.Path)
+		}
+		var req models.RerankRequest
+		if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+			t.Errorf("invalid json: %v", err)
+		}
+		w.Header().Set("Content-Type", "application/json")
+		_ = json.NewEncoder(w).Encode(map[string]interface{}{
+			"model": req.Model,
+			"results": []map[string]interface{}{
+				{"index": 0, "relevance_score": 0.95},
+				{"index": 1, "relevance_score": 0.42},
+			},
+		})
+	}))
+	defer ts.Close()
+
+	cfg := config.LlamaServerConfig{
+		BaseURL:         ts.URL,
+		Timeout:         5 * time.Second,
+		MinRequestDelay: 5 * time.Millisecond,
+	}
+
+	c := NewClient(cfg)
+	resp, err := c.Rerank(context.Background(), models.RerankRequest{
+		Model:     "bge-reranker-large",
+		Query:     "ethics complaint investigation",
+		Documents: []string{"deaf-ears", "other-post"},
+	})
+	if err != nil {
+		t.Fatalf("Rerank failed: %v", err)
+	}
+
+	if len(resp.Results) != 2 {
+		t.Fatalf("expected 2 results, got %d", len(resp.Results))
+	}
+	if resp.Results[0].Index != 0 || resp.Results[0].RelevanceScore != 0.95 {
+		t.Errorf("unexpected first result: %+v", resp.Results[0])
+	}
+	if resp.Results[1].Index != 1 || resp.Results[1].RelevanceScore != 0.42 {
+		t.Errorf("unexpected second result: %+v", resp.Results[1])
+	}
+}
+
+func TestClient_RerankFallbackToRerankPath(t *testing.T) {
+	ts := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		if r.URL.Path == "/v1/rerank" {
+			http.NotFound(w, r)
+			return
+		}
+		if r.URL.Path == "/rerank" {
+			w.Header().Set("Content-Type", "application/json")
+			_ = json.NewEncoder(w).Encode(map[string]interface{}{
+				"results": []map[string]interface{}{
+					{"index": 0, "relevance_score": 0.88},
+				},
+			})
+			return
+		}
+		http.NotFound(w, r)
+	}))
+	defer ts.Close()
+
+	cfg := config.LlamaServerConfig{
+		BaseURL:         ts.URL,
+		Timeout:         5 * time.Second,
+		MinRequestDelay: 5 * time.Millisecond,
+	}
+
+	c := NewClient(cfg)
+	resp, err := c.Rerank(context.Background(), models.RerankRequest{
+		Query:     "test",
+		Documents: []string{"doc1"},
+	})
+	if err != nil {
+		t.Fatalf("Rerank fallback failed: %v", err)
+	}
+	if len(resp.Results) != 1 || resp.Results[0].RelevanceScore != 0.88 {
+		t.Errorf("unexpected result: %+v", resp.Results)
+	}
+}
+

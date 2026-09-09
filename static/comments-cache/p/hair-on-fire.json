@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "pageId": "p/hair-on-fire",
+  "originalPageId": "/p/hair-on-fire",
+  "commentCount": 4,
+  "totalCount": 4,
+  "rootCount": 4,
+  "lastCommentAt": "2023-05-21T20:35:18.005000Z",
+  "generatedAt": "2026-09-09T21:04:49.986Z",
+  "frozen": false,
+  "comments": [
+    {
+      "id": 123,
+      "pageId": "/p/hair-on-fire",
+      "parentId": null,
+      "authorName": "Anonymous",
+      "content": "China was Alabama’s second-largest export destination with over $4.8 billion in goods exported.",
+      "createdAt": "2023-05-18T11:45:51.659000Z",
+      "updatedAt": "2025-11-18 01:42:27",
+      "replies": []
+    },
+    {
+      "id": 124,
+      "pageId": "/p/hair-on-fire",
+      "parentId": null,
+      "authorName": "Anonymous",
+      "content": "Alabama's state bird is the Yellowhammer.",
+      "createdAt": "2023-05-18T13:39:51.241000Z",
+      "updatedAt": "2025-11-18 01:42:28",
+      "replies": []
+    },
+    {
+      "id": 125,
+      "pageId": "/p/hair-on-fire",
+      "parentId": null,
+      "authorName": "Anonymous",
+      "content": "Elliott is a fine Christian alcoholic and abuser.",
+      "createdAt": "2023-05-21T09:53:54.592000Z",
+      "updatedAt": "2025-11-18 01:42:29",
+      "replies": []
+    },
+    {
+      "id": 126,
+      "pageId": "/p/hair-on-fire",
+      "parentId": null,
+      "authorName": "Anonymous",
+      "content": "This guy and Burrell are public enemas number one and two.",
+      "createdAt": "2023-05-21T20:35:18.005000Z",
+      "updatedAt": "2025-11-18 01:42:29",
+      "replies": []
+    }
+  ]
+}

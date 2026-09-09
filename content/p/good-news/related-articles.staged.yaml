@@ -1,87 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T16:28:12.227705Z'
-  post_slug: good-news
-  status: staged
-  hooks_generated: true
-  hooks_generated_at: '2026-09-02T01:39:24.646478Z'
-related_articles:
-- slug: bcso-culture-2
-  title: BCSO CULTURE
-  score: 93.9665766445618
-  llm_score: 95
-  recency_score: 85.30781570623031
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: a-reckoning-is-predicted
-  title: A RECKONING IS PREDICTED
-  score: 85.28920075088837
-  llm_score: 85
-  recency_score: 75.41290431760807
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: end-the-good-ole-boy-culture-in-baldwin-county
-  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 78.7777852175317
-  llm_score: 80
-  recency_score: 57.97226500080723
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: guilty-audiobook
-  title: GUILTY - HEAR THE AUDIOBOOK
-  score: 77.54023616042632
-  llm_score: 70
-  recency_score: 90.85635792245131
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 77.37916612587712
-  llm_score: 90
-  recency_score: 9.930205223793392
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: good-ole-boys-lose-front-teeth
-  title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 75.35492054438717
-  llm_score: 75
-  recency_score: 58.29079313022616
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 60.47685314403362
-  llm_score: 65
-  recency_score: 12.741905578193274
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: anonymous-bb
-  title: ANONYMOUS-BB
-  score: 55.665115745296454
-  llm_score: 40
-  recency_score: 85.07441553545459
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: summerdale-sunshine
-  title: SUMMERDALE SUNSHINE
-  score: 52.681368381718585
-  llm_score: 35
-  recency_score: 87.91786819488183
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
-  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 43.940083036159365
-  llm_score: 30
-  recency_score: 57.65547745791634
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: good-news
+generated: 2026-09-09T01:06:44.367996-05:00
+articles:
+  - slug: key-figures
+    title: KEY FIGURES - WRONGFUL CONVICTION
+    score: 27
+    rank: 1
+  - slug: catalyst-players
+    title: CATALYST PLAYERS
+    score: 26
+    rank: 2
+  - slug: a-reckoning-is-predicted
+    title: A RECKONING IS PREDICTED
+    score: 24
+    rank: 3
+  - slug: good-ole-boys-lose-front-teeth
+    title: GOOD OLE BOYS LOSE FRONT TEETH
+    score: 24
+    rank: 4
+  - slug: anonymous-bb
+    title: ANONYMOUS-BB
+    score: 24
+    rank: 5
+  - slug: criminal-conspiracy-lynn-stacy
+    title: A Criminal Conspiracy
+    score: 24
+    rank: 6
+  - slug: get-out-of-jail-card
+    title: GET OUT OF JAIL CARD
+    score: 24
+    rank: 7
+  - slug: end-the-good-ole-boy-culture-in-baldwin-county
+    title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+    score: 24
+    rank: 8
+  - slug: summerdale-sunshine
+    title: SUMMERDALE SUNSHINE
+    score: 24
+    rank: 9
+  - slug: a-time-for-reflection-goobers-on-notice
+    title: A Time for Reflection - Goobers on Notice
+    score: 24
+    rank: 10
+  - slug: guilty-audiobook
+    title: GUILTY - HEAR THE AUDIOBOOK
+    score: 24
+    rank: 11
+  - slug: sheriff-commission-races-2014
+    title: Sheriff and Commission Races - Fighting the Machine
+    score: 24
+    rank: 12
+  - slug: bcso-culture-2
+    title: BCSO CULTURE
+    score: 24
+    rank: 13
+  - slug: primary-election-endorsements-2014
+    title: Primary Election Endorsements - Vote Out the Machine
+    score: 24
+    rank: 14
+  - slug: a-decade-of-corruption
+    title: A DECADE OF CORRUPTION
+    score: 24
+    rank: 15
+  - slug: southern-gothic
+    title: SOUTHERN GOTHIC
+    score: 24
+    rank: 16
+  - slug: happy-days
+    title: HAPPY DAYS
+    score: 24
+    rank: 17
+  - slug: catalyst-attack
+    title: CATALYST ATTACK
+    score: 24
+    rank: 18
+  - slug: Smell-Test
+    title: SMELL TEST
+    score: 24
+    rank: 19
+  - slug: stark-reality
+    title: A Stark Reality
+    score: 24
+    rank: 20

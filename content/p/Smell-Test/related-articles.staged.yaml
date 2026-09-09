@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T17:06:05.166902Z'
-  post_slug: Smell-Test
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: some-things-never-change
-  title: SOME THINGS NEVER CHANGE
-  score: 81.17156682718382
-  llm_score: 95
-  recency_score: 11.736509256306908
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: end-the-good-ole-boy-culture-in-baldwin-county
-  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 79.47466313057771
-  llm_score: 90
-  recency_score: 21.979313000821772
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: summerdale-sunshine
-  title: SUMMERDALE SUNSHINE
-  score: 74.69442863867468
-  llm_score: 85
-  recency_score: 14.49296467237936
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: good-ole-boys-lose-front-teeth
-  title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 72.49725352434508
-  llm_score: 80
-  recency_score: 21.8592077649842
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: elliott-history-lesson
-  title: ELLIOTT HISTORY LESSON
-  score: 67.80541975815699
-  llm_score: 65
-  recency_score: 54.88116360940264
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: good-news
-  title: GOOD NEWS
-  score: 67.43337488316405
-  llm_score: 75
-  recency_score: 12.741905578193274
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: vote-2026
-  title: VOTE
-  score: 53.148712217319336
-  llm_score: 55
-  recency_score: 10.605095249586157
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: a-reckoning-is-predicted
-  title: A RECKONING IS PREDICTED
-  score: 46.01896366294311
-  llm_score: 45
-  recency_score: 9.609041061922857
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: gambling-money-run-amok
-  title: Gambling Money Run Amok
-  score: 39.4046663196981
-  llm_score: 35
-  recency_score: 11.57683133826407
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: anonymous-bb
-  title: ANONYMOUS-BB
-  score: 32.320017686735206
-  llm_score: 25
-  recency_score: 10.840101698727413
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: Smell-Test
+generated: 2026-09-09T01:07:12.09737-05:00
+articles:
+  - slug: flies-in-the-ointment
+    title: FLIES IN THE OINTMENT
+    score: 94
+    rank: 1
+  - slug: catalyst-the-three-bs-and-chuckee-cheeze
+    title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+    score: 89
+    rank: 2
+  - slug: halloween-characters
+    title: HALLOWEEN CHARACTERS
+    score: 28
+    rank: 3
+  - slug: snakes-in-the-schools
+    title: SNAKES IN THE SCHOOLS
+    score: 24
+    rank: 4
+  - slug: summerdale-sunshine
+    title: SUMMERDALE SUNSHINE
+    score: 24
+    rank: 5
+  - slug: women-of-baldwin
+    title: WOMEN OF BALDWIN
+    score: 24
+    rank: 6
+  - slug: catalyst-trifecta
+    title: CATALYST TRIFECTA
+    score: 24
+    rank: 7
+  - slug: good-ole-boys-lose-front-teeth
+    title: GOOD OLE BOYS LOSE FRONT TEETH
+    score: 24
+    rank: 8
+  - slug: good-news
+    title: GOOD NEWS
+    score: 24
+    rank: 9
+  - slug: catalyst-associates-exposed
+    title: Catalyst Associates Exposed
+    score: 24
+    rank: 10
+  - slug: criminal-conspiracy-lynn-stacy
+    title: A Criminal Conspiracy
+    score: 24
+    rank: 11
+  - slug: elliotttuckercatalyst-selling-your-soul
+    title: ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL
+    score: 24
+    rank: 12
+  - slug: catalyst-attack
+    title: CATALYST ATTACK
+    score: 24
+    rank: 13
+  - slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
+    title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
+    score: 24
+    rank: 14
+  - slug: catalyst-intimidation-a-pig-pen
+    title: CATALYST INTIMIDATION - A PIG PEN
+    score: 24
+    rank: 15
+  - slug: catalyst-birds-of-the-same-feather
+    title: CATALYST  “BIRDS OF THE SAME FEATHER”
+    score: 24
+    rank: 16
+  - slug: last-chance
+    title: LAST CHANCE
+    score: 24
+    rank: 17
+  - slug: a-reckoning-is-predicted
+    title: A RECKONING IS PREDICTED
+    score: 24
+    rank: 18
+  - slug: laugh-out-loud-baldwin
+    title: Laugh Out Loud Baldwin
+    score: 24
+    rank: 19
+  - slug: peoples-choice
+    title: PEOPLE'S CHOICE
+    score: 24
+    rank: 20

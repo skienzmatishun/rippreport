@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "pageId": "p/make-8-great",
+  "originalPageId": "/p/make-8-great/",
+  "commentCount": 2,
+  "totalCount": 2,
+  "rootCount": 2,
+  "lastCommentAt": "2021-10-20 04:58:29",
+  "generatedAt": "2026-09-09T21:04:50.017Z",
+  "frozen": false,
+  "comments": [
+    {
+      "id": 8029,
+      "pageId": "/p/make-8-great/",
+      "parentId": null,
+      "authorName": "Easy 💰",
+      "content": "Sounds fraudulent to lease farmland. Kickbacks",
+      "createdAt": "2021-10-15 21:37:11",
+      "updatedAt": "2021-10-15 21:37:11",
+      "replies": []
+    },
+    {
+      "id": 8030,
+      "pageId": "/p/make-8-great/",
+      "parentId": null,
+      "authorName": "Demo Graphic",
+      "content": "Mister Ripp, Sir...the 2020 Census should be done. What is the tally for BC?\nHave we increased our population any since 2010? I have a small hunch that we may have gotten bigger.",
+      "createdAt": "2021-10-20 04:58:29",
+      "updatedAt": "2021-10-20 04:58:29",
+      "replies": []
+    }
+  ]
+}

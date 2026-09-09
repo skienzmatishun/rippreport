@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T16:52:04.881098Z'
-  post_slug: alabama-off-the-rails
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: medical-cannabis-issues-licenses
-  title: Medical Cannabis Licenses Approved
-  score: 85.77850417485634
-  llm_score: 95
-  recency_score: 38.22639900542388
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: cannabis-conference
-  title: Inaugural Alabama Medical Cannabis Conference
-  score: 76.04912542006721
-  llm_score: 85
-  recency_score: 22.28247116538646
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: pure-kafka
-  title: PURE KAFKA
-  score: 69.54142853191718
-  llm_score: 75
-  recency_score: 24.863214058523702
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 56.62743949062612
-  llm_score: 40
-  recency_score: 90.60777707110016
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: hatians-eating-cats
-  title: Haitians Eating Cats
-  score: 42.3182532568592
-  llm_score: 25
-  recency_score: 68.3299562269404
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 41.08004605698973
-  llm_score: 35
-  recency_score: 21.21026482769095
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 31.01649265752461
-  llm_score: 20
-  recency_score: 23.3448327807665
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: tides-end
-  title: Tide's End
-  score: 29.535025757330956
-  llm_score: 15
-  recency_score: 34.826398104653
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: backstory-podcast-special-legislative-alert-alabama-medical-cannabis
-  title: 'Special Legislative Alert: Alabama Medical Cannabis'
-  score: 61.82775139801585
-  llm_score: 85
-  recency_score: 2.337321936606922
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: medical-marijuana-bill-heads-to-first-vote-in-alabama-legislature
-  title: Medical Marijuana Bill
-  score: 59.4639866550528
-  llm_score: 90
-  recency_score: 0.6944099216063174
-  length_score: 54.25
-  category_score: 0
-  rank: 10
+post_slug: alabama-off-the-rails
+generated: 2026-09-09T01:07:04.801486-05:00
+articles:
+  - slug: insanity-2
+    title: INSANITY
+    score: 83
+    rank: 1
+  - slug: april-fool
+    title: APRIL FOOL
+    score: 30
+    rank: 2
+  - slug: portables-and-prisons
+    title: PORTABLES AND PRISONS
+    score: 28
+    rank: 3
+  - slug: dirty-underwear
+    title: DIRTY UNDERWEAR
+    score: 26
+    rank: 4
+  - slug: 4-20
+    title: 4-20
+    score: 25
+    rank: 5
+  - slug: tiny-steps
+    title: TINY STEPS
+    score: 24
+    rank: 6
+  - slug: medical-cannabis-issues-licenses
+    title: Medical Cannabis Licenses Approved
+    score: 24
+    rank: 7
+  - slug: red-lips-award
+    title: RED LIPS AWARD
+    score: 24
+    rank: 8
+  - slug: go-to-hell-veterans
+    title: GO TO HELL VETERANS
+    score: 24
+    rank: 9
+  - slug: cannabis-conference
+    title: Inaugural Alabama Medical Cannabis Conference
+    score: 24
+    rank: 10
+  - slug: above-the-law
+    title: ABOVE THE LAW
+    score: 24
+    rank: 11
+  - slug: mikey-is-gone
+    title: Mikey Is Gone! - Fairhope Courier's Demise
+    score: 24
+    rank: 12
+  - slug: alabama-national-news
+    title: ALABAMA NATIONAL NEWS
+    score: 24
+    rank: 13
+  - slug: alabama-education-accountability-act
+    title: The Alabama Education Accountability Act - Just How Stupid Are We?
+    score: 24
+    rank: 14
+  - slug: letter-to-the-alabama-attorney-general
+    title: Letter to the Alabama Attorney General
+    score: 24
+    rank: 15
+  - slug: look-in-the-mirror
+    title: LOOK IN THE MIRROR
+    score: 24
+    rank: 16
+  - slug: rock-bottom
+    title: ROCK BOTTOM
+    score: 24
+    rank: 17
+  - slug: press-release
+    title: PRESS RELEASE
+    score: 24
+    rank: 18
+  - slug: perfect-puzzle
+    title: PERFECT PUZZLE
+    score: 24
+    rank: 19
+  - slug: alabama-black-hole
+    title: ALABAMA BLACK HOLE
+    score: 24
+    rank: 20

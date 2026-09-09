@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "pageId": "p/rumors",
+  "originalPageId": "/p/rumors/",
+  "commentCount": 1,
+  "totalCount": 1,
+  "rootCount": 1,
+  "lastCommentAt": "2022-10-16 15:37:54",
+  "generatedAt": "2026-09-09T21:04:50.145Z",
+  "frozen": false,
+  "comments": [
+    {
+      "id": 9472,
+      "pageId": "/p/rumors/",
+      "parentId": null,
+      "authorName": "AA voter",
+      "content": "Sheriff Hoss needs to get tossed. He is a racist.",
+      "createdAt": "2022-10-16 15:37:54",
+      "updatedAt": "2022-10-16 15:37:54",
+      "replies": []
+    }
+  ]
+}

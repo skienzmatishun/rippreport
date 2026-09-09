@@ -1,87 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T16:43:57.459985Z'
-  post_slug: know-before-you-vote-2
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: know-before-you-vote
-  title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public
-    Concerns
-  score: 99.71645245769102
-  llm_score: 100
-  recency_score: 98.36960163172333
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 85.47844110378418
-  llm_score: 80
-  recency_score: 96.50103634675902
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: fairhope-infrastructure
-  title: Fairhope Infrastructure
-  score: 84.03524748142189
-  llm_score: 95
-  recency_score: 28.202673018175854
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: fauxhope-3
-  title: FAUXHOPE
-  score: 83.70567824527683
-  llm_score: 90
-  recency_score: 46.30764991034176
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 77.22879192889962
-  llm_score: 85
-  recency_score: 29.065553591172854
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: two-questions-decide-fairhopes-future
-  title: TWO QUESTIONS DECIDE FAIRHOPE'S FUTURE
-  score: 68.22564592289636
-  llm_score: 55
-  recency_score: 97.29746405665401
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 67.73101082835204
-  llm_score: 75
-  recency_score: 14.453312263024177
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 63.26065495121834
-  llm_score: 65
-  recency_score: 28.748765969505406
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 61.45558289247363
-  llm_score: 45
-  recency_score: 98.36960163172333
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: fairhope-catalyst-a-dirty-little-secret
-  title: FAIRHOPE - CATALYST a Dirty Little Secret
-  score: 64.45947721129208
-  llm_score: 90
-  recency_score: 0.10147117622145942
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: know-before-you-vote-2
+generated: 2026-09-09T01:06:58.262963-05:00
+articles:
+  - slug: hell-yea
+    title: HELL YEA
+    score: 94
+    rank: 1
+  - slug: 100-voices
+    title: 100 VOICES
+    score: 94
+    rank: 2
+  - slug: fairhope-council-asleep-at-the-wheel
+    title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
+    score: 94
+    rank: 3
+  - slug: fairhope-town-hall-meeting
+    title: Fairhope Town Hall Meeting
+    score: 32
+    rank: 4
+  - slug: fairhope-sold-to-the-highest-bidder
+    title: FAIRHOPE SOLD TO THE HIGHEST BIDDER
+    score: 29
+    rank: 5
+  - slug: you-win-some-you-lose-some
+    title: YOU WIN SOME YOU LOSE SOME
+    score: 27
+    rank: 6
+  - slug: know-before-you-vote
+    title: MUST SEE! Know Before You Vote! Fairhope City Council Members Ignore Public Concerns
+    score: 26
+    rank: 7
+  - slug: fairhope-catalyst-a-dirty-little-secret
+    title: FAIRHOPE - CATALYST a Dirty Little Secret
+    score: 26
+    rank: 8
+  - slug: bury-the-body
+    title: BURY THE BODY
+    score: 24
+    rank: 9
+  - slug: special-interest
+    title: SPECIAL INTEREST
+    score: 24
+    rank: 10
+  - slug: fairhope-council-shows-its-colors
+    title: FAIRHOPE COUNCIL SHOWS IT'S COLORS
+    score: 24
+    rank: 11
+  - slug: crystal-ball
+    title: CRYSTAL BALL
+    score: 24
+    rank: 12
+  - slug: fairhope-free-year
+    title: FAIRHOPE FREE YEAR
+    score: 24
+    rank: 13
+  - slug: read-and-listen
+    title: READ and LISTEN
+    score: 24
+    rank: 14
+  - slug: backpedaling-fauxhope
+    title: BACKPEDALING FAUXHOPE
+    score: 24
+    rank: 15
+  - slug: repeat
+    title: REPEAT
+    score: 24
+    rank: 16
+  - slug: people-power-2
+    title: PEOPLE POWER
+    score: 24
+    rank: 17
+  - slug: wonderful-wednesday-4
+    title: WONDERFUL WEDNESDAY
+    score: 24
+    rank: 18
+  - slug: catalyst-panic-and-confusion
+    title: CATALYST PANIC and CONFUSION
+    score: 24
+    rank: 19
+  - slug: new-year-new-problems
+    title: NEW YEAR NEW PROBLEMS
+    score: 24
+    rank: 20

@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T16:38:40.741462Z'
-  post_slug: good-ole-boys-lose-front-teeth
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: bcso-culture-2
-  title: BCSO CULTURE
-  score: 91.01390543077225
-  llm_score: 95
-  recency_score: 68.3299562269404
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: end-the-good-ole-boy-culture-in-baldwin-county
-  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 89.47018317844517
-  llm_score: 85
-  recency_score: 99.45355327605971
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: good-news
-  title: GOOD NEWS
-  score: 85.78970315308283
-  llm_score: 90
-  recency_score: 58.29079313022616
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: a-reckoning-is-predicted
-  title: A RECKONING IS PREDICTED
-  score: 76.34065739987345
-  llm_score: 80
-  recency_score: 43.95878004927231
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: bcso-culture-2
-  title: BCSO CULTURE
-  score: 70.14434021338094
-  llm_score: 65
-  recency_score: 68.3299562269404
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: Smell-Test
-  title: SMELL TEST
-  score: 69.01899265477986
-  llm_score: 75
-  recency_score: 21.8592077649842
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: some-things-never-change
-  title: SOME THINGS NEVER CHANGE
-  score: 60.64197829522391
-  llm_score: 55
-  recency_score: 53.69137519753745
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: bay-minette-vote-out-mayor-wills-remember-oj-french
-  title: BAY MINETTE - VOTE OUT MAYOR WILLS - REMEMBER OJ FRENCH
-  score: 54.593059581276606
-  llm_score: 35
-  recency_score: 98.91009259234048
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: vote-2026
-  title: VOTE
-  score: 52.78529743112309
-  llm_score: 45
-  recency_score: 48.51546022895776
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: summerdale-sunshine
-  title: SUMMERDALE SUNSHINE
-  score: 45.44372483824122
-  llm_score: 30
-  recency_score: 66.301417819887
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: good-ole-boys-lose-front-teeth
+generated: 2026-09-09T01:06:52.792137-05:00
+articles:
+  - slug: get-out-of-jail-card
+    title: GET OUT OF JAIL CARD
+    score: 94
+    rank: 1
+  - slug: court-of-public-opinion
+    title: COURT OF PUBLIC OPINION
+    score: 92
+    rank: 2
+  - slug: cross-the-line
+    title: CROSS THE LINE
+    score: 38
+    rank: 3
+  - slug: end-the-good-ole-boy-culture-in-baldwin-county
+    title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
+    score: 24
+    rank: 4
+  - slug: good-news
+    title: GOOD NEWS
+    score: 24
+    rank: 5
+  - slug: catalyst-birds-of-the-same-feather
+    title: CATALYST  “BIRDS OF THE SAME FEATHER”
+    score: 24
+    rank: 6
+  - slug: catalyst-attack
+    title: CATALYST ATTACK
+    score: 24
+    rank: 7
+  - slug: a-time-for-reflection-goobers-on-notice
+    title: A Time for Reflection - Goobers on Notice
+    score: 24
+    rank: 8
+  - slug: elliott-stacy-haygood-catalyst-who-is-in-the-picture
+    title: ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
+    score: 24
+    rank: 9
+  - slug: catalyst-players
+    title: CATALYST PLAYERS
+    score: 24
+    rank: 10
+  - slug: women-of-baldwin
+    title: WOMEN OF BALDWIN
+    score: 24
+    rank: 11
+  - slug: catalyst-the-three-bs-and-chuckee-cheeze
+    title: CATALYST, THE THREE B’s, AND CHUCKEE CHEEZE
+    score: 24
+    rank: 12
+  - slug: a-reckoning-is-predicted
+    title: A RECKONING IS PREDICTED
+    score: 24
+    rank: 13
+  - slug: win-for-baldwin
+    title: WIN FOR BALDWIN
+    score: 24
+    rank: 14
+  - slug: last-chance
+    title: LAST CHANCE
+    score: 24
+    rank: 15
+  - slug: catalyst-central
+    title: CATALYST CENTRAL
+    score: 24
+    rank: 16
+  - slug: catalyst-last-stand
+    title: CATALYST LAST STAND
+    score: 24
+    rank: 17
+  - slug: a-decade-of-corruption
+    title: A DECADE OF CORRUPTION
+    score: 24
+    rank: 18
+  - slug: catalyst-meets-social-media
+    title: CATALYST MEETS SOCIAL MEDIA
+    score: 24
+    rank: 19
+  - slug: qualification
+    title: QUALIFICATION
+    score: 24
+    rank: 20

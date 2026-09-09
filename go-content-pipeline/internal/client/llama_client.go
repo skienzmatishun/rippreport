@@ -29,6 +29,7 @@ const (
 type LlamaClient interface {
 	GenerateEmbedding(ctx context.Context, text string) ([]float32, error)
 	Complete(ctx context.Context, req models.CompletionRequest) (*models.CompletionResponse, error)
+	Rerank(ctx context.Context, req models.RerankRequest) (*models.RerankResponse, error)
 	HealthCheck(ctx context.Context) error
 	GetStats() models.ClientStats
 }
@@ -37,10 +38,10 @@ type LlamaClient interface {
 //
 // Requirements: 2.5, 5.5
 type TokenBucketRateLimiter struct {
-	mu           sync.Mutex
-	minDelay     time.Duration
-	lastRequest  time.Time
-	stats        models.RateLimitStats
+	mu          sync.Mutex
+	minDelay    time.Duration
+	lastRequest time.Time
+	stats       models.RateLimitStats
 }
 
 // NewTokenBucketRateLimiter creates a new rate limiter with the specified minimum delay.
@@ -95,11 +96,11 @@ func (rl *TokenBucketRateLimiter) GetStats() models.RateLimitStats {
 //
 // Requirements: 2.1 through 2.8, 5.1, 5.2, 5.5, 5.8, 24.1 through 24.8
 type Client struct {
-	cfg         config.LlamaServerConfig
-	httpClient  *http.Client
-	rateLimiter *TokenBucketRateLimiter
-	mu          sync.Mutex
-	stats       models.ClientStats
+	cfg           config.LlamaServerConfig
+	httpClient    *http.Client
+	rateLimiter   *TokenBucketRateLimiter
+	mu            sync.Mutex
+	stats         models.ClientStats
 	totalRespTime time.Duration
 }
 
@@ -146,6 +147,11 @@ type embeddingResponseBody struct {
 	Error string `json:"error,omitempty"`
 }
 
+type embeddingArrayResponseItem struct {
+	Index     int         `json:"index"`
+	Embedding [][]float32 `json:"embedding"` // 2D array for batch responses
+}
+
 // GenerateEmbedding calls the /embedding endpoint with automatic retries and rate limiting.
 //
 // Requirements: 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8
@@ -156,9 +162,6 @@ func (c *Client) GenerateEmbedding(ctx context.Context, text string) ([]float32,
 	}
 
 	timeout := c.cfg.Timeout
-	if timeout <= 0 {
-		timeout = defaultEmbeddingTimeout
-	}
 
 	reqBody := embeddingRequestBody{
 		Content: text,
@@ -180,6 +183,18 @@ func (c *Client) GenerateEmbedding(ctx context.Context, text string) ([]float32,
 
 	var resp embeddingResponseBody
 	if err := json.Unmarshal(respBytes, &resp); err != nil {
+		// Try parsing as array of objects with 2D embeddings (newer llama.cpp format)
+		var arrResp []embeddingArrayResponseItem
+		if arrErr := json.Unmarshal(respBytes, &arrResp); arrErr == nil && len(arrResp) > 0 && len(arrResp[0].Embedding) > 0 {
+			// Return the first embedding from the first item
+			return arrResp[0].Embedding[0], nil
+		}
+
+		// Try parsing as raw array (some llama.cpp versions return this)
+		var rawArray []float32
+		if arrErr := json.Unmarshal(respBytes, &rawArray); arrErr == nil && len(rawArray) > 0 {
+			return rawArray, nil
+		}
 		return nil, fmt.Errorf("failed to parse embedding response: %w", err)
 	}
 
@@ -201,7 +216,11 @@ func (c *Client) Complete(ctx context.Context, req models.CompletionRequest) (*m
 		return nil, fmt.Errorf("invalid completion request: %w", err)
 	}
 
-	timeout := defaultCompletionTimeout
+	if len(req.Messages) > 0 {
+		return c.chatComplete(ctx, req)
+	}
+
+	timeout := c.cfg.Timeout
 
 	data, err := json.Marshal(req)
 	if err != nil {
@@ -228,6 +247,159 @@ func (c *Client) Complete(ctx context.Context, req models.CompletionRequest) (*m
 	}
 
 	return &resp, nil
+}
+
+type chatCompletionsBody struct {
+	Model       string               `json:"model,omitempty"`
+	Messages    []models.ChatMessage `json:"messages"`
+	Temperature float32              `json:"temperature,omitempty"`
+	TopP        float32              `json:"top_p,omitempty"`
+	TopK        int                  `json:"top_k,omitempty"`
+	MaxTokens   int                  `json:"max_tokens,omitempty"`
+	Stop        []string             `json:"stop,omitempty"`
+}
+
+type chatCompletionsResponse struct {
+	Choices []struct {
+		Message struct {
+			Content string `json:"content"`
+		} `json:"message"`
+	} `json:"choices"`
+	Usage struct {
+		PromptTokens     int `json:"prompt_tokens"`
+		CompletionTokens int `json:"completion_tokens"`
+	} `json:"usage"`
+}
+
+func (c *Client) chatComplete(ctx context.Context, req models.CompletionRequest) (*models.CompletionResponse, error) {
+	timeout := c.cfg.Timeout
+
+	body := chatCompletionsBody{
+		Model:       req.Model,
+		Messages:    req.Messages,
+		Temperature: req.Temperature,
+		TopP:        req.TopP,
+		TopK:        req.TopK,
+		MaxTokens:   req.MaxTokens,
+		Stop:        req.StopTokens,
+	}
+
+	data, err := json.Marshal(body)
+	if err != nil {
+		return nil, fmt.Errorf("failed to marshal chat completion request: %w", err)
+	}
+
+	endpoint := strings.TrimRight(c.cfg.BaseURL, "/") + "/v1/chat/completions"
+
+	start := time.Now()
+	respBytes, err := c.requestWithRetry(ctx, http.MethodPost, endpoint, data, timeout)
+	if err != nil {
+		return nil, err
+	}
+	duration := time.Since(start)
+
+	var chatResp chatCompletionsResponse
+	if err := json.Unmarshal(respBytes, &chatResp); err != nil {
+		return nil, fmt.Errorf("failed to parse chat completion response: %w", err)
+	}
+	if len(chatResp.Choices) == 0 {
+		return nil, fmt.Errorf("chat completion returned no choices")
+	}
+
+	resp := &models.CompletionResponse{
+		Text:         strings.TrimSpace(chatResp.Choices[0].Message.Content),
+		TokensPrompt: chatResp.Usage.PromptTokens,
+		TokensGen:    chatResp.Usage.CompletionTokens,
+		Duration:     duration,
+	}
+	if err := resp.Validate(); err != nil {
+		return nil, fmt.Errorf("invalid chat completion response from server: %w", err)
+	}
+	return resp, nil
+}
+
+// Rerank calls the /v1/rerank (or /rerank) endpoint using a cross-encoder model.
+func (c *Client) Rerank(ctx context.Context, req models.RerankRequest) (*models.RerankResponse, error) {
+	if err := req.Validate(); err != nil {
+		return nil, fmt.Errorf("invalid rerank request: %w", err)
+	}
+
+	timeout := c.cfg.Timeout
+	data, err := json.Marshal(req)
+	if err != nil {
+		return nil, fmt.Errorf("failed to marshal rerank request: %w", err)
+	}
+
+	baseURL := c.cfg.GetScoringBaseURL()
+	endpoint := strings.TrimRight(baseURL, "/") + "/v1/rerank"
+
+	respBytes, err := c.requestWithRetry(ctx, http.MethodPost, endpoint, data, timeout)
+	if err != nil {
+		// Fallback to /rerank if /v1/rerank is not found
+		altEndpoint := strings.TrimRight(baseURL, "/") + "/rerank"
+		if altRespBytes, altErr := c.requestWithRetry(ctx, http.MethodPost, altEndpoint, data, timeout); altErr == nil {
+			respBytes = altRespBytes
+			err = nil
+		} else {
+			return nil, err
+		}
+	}
+
+	// 1. Check standard object response with "results" or "data"
+	var objResp struct {
+		Model   string `json:"model"`
+		Results []struct {
+			Index          int     `json:"index"`
+			RelevanceScore float64 `json:"relevance_score"`
+			Score          float64 `json:"score"`
+		} `json:"results"`
+		Data []struct {
+			Index          int     `json:"index"`
+			RelevanceScore float64 `json:"relevance_score"`
+			Score          float64 `json:"score"`
+		} `json:"data"`
+	}
+	if uErr := json.Unmarshal(respBytes, &objResp); uErr == nil && (len(objResp.Results) > 0 || len(objResp.Data) > 0) {
+		items := objResp.Results
+		if len(items) == 0 {
+			items = objResp.Data
+		}
+		var results []models.RerankResult
+		for _, item := range items {
+			score := item.RelevanceScore
+			if score == 0 && item.Score != 0 {
+				score = item.Score
+			}
+			results = append(results, models.RerankResult{
+				Index:          item.Index,
+				RelevanceScore: score,
+			})
+		}
+		return &models.RerankResponse{Model: objResp.Model, Results: results}, nil
+	}
+
+	// 2. Check top-level array response
+	var arrResp []struct {
+		Index          int     `json:"index"`
+		RelevanceScore float64 `json:"relevance_score"`
+		Score          float64 `json:"score"`
+	}
+	if uErr := json.Unmarshal(respBytes, &arrResp); uErr == nil && len(arrResp) > 0 {
+		var results []models.RerankResult
+		for _, item := range arrResp {
+			score := item.RelevanceScore
+			if score == 0 && item.Score != 0 {
+				score = item.Score
+			}
+			results = append(results, models.RerankResult{
+				Index:          item.Index,
+				RelevanceScore: score,
+			})
+		}
+		return &models.RerankResponse{Results: results}, nil
+	}
+
+	return nil, fmt.Errorf("failed to parse rerank response from server")
 }
 
 // HealthCheck verifies that the server is reachable and responsive.
@@ -279,14 +451,19 @@ func (c *Client) requestWithRetry(ctx context.Context, method, url string, body 
 
 		c.recordRequest()
 
-		// Context with per-attempt timeout
-		attemptTimeout := timeout
-		if attempt > 0 && errors.Is(lastErr, context.DeadlineExceeded) {
-			// Increase timeout for retry after timeout
-			attemptTimeout += 30 * time.Second
+		// Context with per-attempt timeout (or cancel-only if timeout is disabled)
+		var attemptCtx context.Context
+		var cancel context.CancelFunc
+		if timeout > 0 {
+			attemptTimeout := timeout
+			if attempt > 0 && errors.Is(lastErr, context.DeadlineExceeded) {
+				// Increase timeout for retry after timeout
+				attemptTimeout += 30 * time.Second
+			}
+			attemptCtx, cancel = context.WithTimeout(ctx, attemptTimeout)
+		} else {
+			attemptCtx, cancel = context.WithCancel(ctx)
 		}
-
-		attemptCtx, cancel := context.WithTimeout(ctx, attemptTimeout)
 		req, err := http.NewRequestWithContext(attemptCtx, method, url, bytes.NewReader(body))
 		if err != nil {
 			cancel()

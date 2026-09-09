@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T18:25:28.369827Z'
-  post_slug: super-bowl-lv
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: eddie-tyler-exits-stage-left
-  title: Eddie Tyler Exits Stage Left
-  score: 72.27581382225556
-  llm_score: 85
-  recency_score: 0.585929477969449
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: some-things-never-change
-  title: SOME THINGS NEVER CHANGE
-  score: 68.79345013141189
-  llm_score: 80
-  recency_score: 0.5623382556183302
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: good-news
-  title: GOOD NEWS
-  score: 65.32356702601913
-  llm_score: 75
-  recency_score: 0.6105103996100243
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: PRETTY-FLOWERS-ROTTEN-ROOTS
-  title: PRETTY FLOWERS ROTTEN ROOTS
-  score: 61.94237510832841
-  llm_score: 70
-  recency_score: 1.1686568728883742
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: a-reckoning-is-predicted
-  title: A RECKONING IS PREDICTED
-  score: 58.34093976060991
-  llm_score: 65
-  recency_score: 0.4604036235069545
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: good-ole-boys-lose-front-teeth
-  title: GOOD OLE BOYS LOSE FRONT TEETH
-  score: 51.4864961825763
-  llm_score: 55
-  recency_score: 1.0473530498137102
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: summerdale-sunshine
-  title: SUMMERDALE SUNSHINE
-  score: 44.46859302984458
-  llm_score: 45
-  recency_score: 0.6944099216063174
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 41.52432835965121
-  llm_score: 40
-  recency_score: 3.764888067994434
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 37.77612088967921
-  llm_score: 35
-  recency_score: 2.212695115655463
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 34.342429248911735
-  llm_score: 30
-  recency_score: 2.468968181242455
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: super-bowl-lv
+generated: 2026-09-09T01:07:56.26521-05:00
+articles:
+  - slug: first-congressional-district
+    title: FIRST CONGRESSIONAL DISTRICT
+    score: 60
+    rank: 1
+  - slug: two-for-tuesday-two-hat-turner
+    title: 'Two-For Tuesday: Fairhope''s Two-Hat Turner'
+    score: 57
+    rank: 2
+  - slug: they-dont-want-you-to-see-this
+    title: THEY DON'T WANT YOU TO SEE THIS
+    score: 27
+    rank: 3
+  - slug: wonderful-wednesday-4
+    title: WONDERFUL WEDNESDAY
+    score: 25
+    rank: 4
+  - slug: catalyst-missing-in-action
+    title: CATALYST MISSING IN ACTION
+    score: 24
+    rank: 5
+  - slug: happy-belated-new-year-clean-sweep
+    title: Happy Belated New Year Clean Sweep
+    score: 24
+    rank: 6
+  - slug: football-sneak-play
+    title: Fauxhope Football Sneak Play
+    score: 24
+    rank: 7
+  - slug: winner-and-loser
+    title: WINNER AND LOSER
+    score: 24
+    rank: 8
+  - slug: pay-off-and-election-fraud
+    title: PAY OFF AND ELECTION FRAUD
+    score: 24
+    rank: 9
+  - slug: catalyst-signs
+    title: CATALYST SIGNS
+    score: 24
+    rank: 10
+  - slug: alabama-suicide
+    title: ALABAMA SUICIDE
+    score: 24
+    rank: 11
+  - slug: warner-to-sign-copies-of-new-tailgaters-guide-to-sec-football-at-page-palette-june-6th
+    title: Warner to Sign Copies of New “Tailgater's Guide to SEC Football” at Page & Palette June 6th
+    score: 24
+    rank: 12
+  - slug: there-are-more-of-us-than-them
+    title: THERE ARE MORE OF US THAN THEM
+    score: 24
+    rank: 13
+  - slug: alabama-moore-strange
+    title: ALABAMA MOORE STRANGE
+    score: 24
+    rank: 14
+  - slug: beavis-and-butthead
+    title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
+    score: 24
+    rank: 15
+  - slug: they-dont-want-you-to-see-this-2
+    title: THEY DON'T WANT YOU TO SEE THIS
+    score: 24
+    rank: 16
+  - slug: virus-vs-catalyst
+    title: VIRUS vs. CATALYST
+    score: 24
+    rank: 17
+  - slug: chainsaw
+    title: CHAINSAW
+    score: 24
+    rank: 18
+  - slug: sting
+    title: Sting
+    score: 24
+    rank: 19
+  - slug: good-ole-boys-lose-front-teeth
+    title: GOOD OLE BOYS LOSE FRONT TEETH
+    score: 24
+    rank: 20

@@ -86,6 +86,14 @@ type StagedRankings struct {
 	Articles  []RelatedArticle `yaml:"articles"`
 }
 
+// StagedHooks is the on-disk staging document. Same schema as production
+// sidebar-hooks.yaml (metadata + slug-keyed briefs) so Gemini refinement
+// can consume either file.
+type StagedHooks struct {
+	Metadata HookMetadata `yaml:"metadata"`
+	Hooks    []*Hook      `yaml:"hooks"`
+}
+
 // CacheStats provides statistics about cache performance
 type CacheStats struct {
 	TotalEntries int     `json:"total_entries"`

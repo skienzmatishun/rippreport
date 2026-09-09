@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T17:26:54.604459Z'
-  post_slug: im-back-2
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: notice
-  title: 'NOTICE:'
-  score: 80.98852189730722
-  llm_score: 95
-  recency_score: 13.496500909516493
-  length_score: 96.25
-  category_score: 0
-  rank: 1
-- slug: mia
-  title: M.I.A.
-  score: 75.32933117215254
-  llm_score: 85
-  recency_score: 18.143654239877034
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 71.7936790003006
-  llm_score: 70
-  recency_score: 57.813654251728394
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: faux-pas
-  title: FAUX PAS - HEART OF DIXIE PODCAST
-  score: 69.82509423081868
-  llm_score: 80
-  recency_score: 6.494291827207389
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: food-for-thought
-  title: FOOD FOR THOUGHT
-  score: 66.98749622906413
-  llm_score: 75
-  recency_score: 10.178103317118776
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: some-things-never-change
-  title: SOME THINGS NEVER CHANGE
-  score: 59.18052546928534
-  llm_score: 65
-  recency_score: 5.288021448390664
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 53.12361921396776
-  llm_score: 55
-  recency_score: 10.460810480314583
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 50.723967579005155
-  llm_score: 35
-  recency_score: 76.66281357927963
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: the-good-the-bad-and-the-ugly-repost
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 49.64535834440254
-  llm_score: 50
-  recency_score: 10.460810480314583
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: round-house-blockheads
-  title: ROUND HOUSE SQUARE HEADS
-  score: 49.56521739130435
-  llm_score: 40
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: im-back-2
+generated: 2026-09-09T01:07:20.518482-05:00
+articles:
+  - slug: the-eagle-has-landed-and-the-court-of-public-opinion-has-voted
+    title: THE EAGLE HAS LANDED AND THE COURT OF PUBLIC OPINION HAS VOTED
+    score: 40
+    rank: 1
+  - slug: southern-gothic
+    title: SOUTHERN GOTHIC
+    score: 39
+    rank: 2
+  - slug: loser
+    title: LOSER
+    score: 33
+    rank: 3
+  - slug: saturday-apology
+    title: SATURDAY APOLOGY
+    score: 25
+    rank: 4
+  - slug: catalyst-party
+    title: CATALYST PARTY
+    score: 25
+    rank: 5
+  - slug: m-i-a
+    title: M.I.A
+    score: 24
+    rank: 6
+  - slug: redneck-renovations
+    title: REDNECK RENOVATIONS
+    score: 24
+    rank: 7
+  - slug: im-back
+    title: I'M BACK
+    score: 24
+    rank: 8
+  - slug: mia
+    title: M.I.A.
+    score: 24
+    rank: 9
+  - slug: mega-mistake
+    title: MEGA-MISTAKE
+    score: 24
+    rank: 10
+  - slug: for-the-record-mega-money
+    title: FOR THE RECORD — MEGA-MONEY
+    score: 24
+    rank: 11
+  - slug: fairhope-state-of-the-city
+    title: FAIRHOPE STATE OF THE CITY
+    score: 24
+    rank: 12
+  - slug: tick-tock
+    title: TICK-TOCK
+    score: 24
+    rank: 13
+  - slug: survey
+    title: SURVEY
+    score: 24
+    rank: 14
+  - slug: dear-congressman-bradley-byrne
+    title: Dear Congressman Bradley Byrne
+    score: 24
+    rank: 15
+  - slug: history-repeating-itself
+    title: History repeating itself
+    score: 24
+    rank: 16
+  - slug: weasel-contractor
+    title: WEASEL CONTRACTOR
+    score: 24
+    rank: 17
+  - slug: exit-and-enter
+    title: EXIT AND ENTER
+    score: 24
+    rank: 18
+  - slug: free-speech
+    title: FREE SPEECH
+    score: 24
+    rank: 19
+  - slug: follow-bouncing-ball
+    title: FOLLOW THE BOUNCING BALL
+    score: 24
+    rank: 20

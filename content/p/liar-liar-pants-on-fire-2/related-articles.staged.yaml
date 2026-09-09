@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T18:05:29.615978Z'
-  post_slug: liar-liar-pants-on-fire-2
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: fauxhope-know-the-backstory
-  title: FAUXHOPE - KNOW THE BACKSTORY
-  score: 79.35291128761912
-  llm_score: 95
-  recency_score: 1.2792399038099316
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 76.86168583327306
-  llm_score: 90
-  recency_score: 6.9546935413200295
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 72.53129106426368
-  llm_score: 85
-  recency_score: 2.0549236195161336
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 69.03490285583206
-  llm_score: 80
-  recency_score: 1.9506914210343174
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 65.55850599632603
-  llm_score: 75
-  recency_score: 1.961409478874682
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: deja-vu
-  title: Deja Vu
-  score: 58.65313737244971
-  llm_score: 65
-  recency_score: 2.255539891585818
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: fairhope-infrastructure
-  title: Fairhope Infrastructure
-  score: 52.5508656123244
-  llm_score: 55
-  recency_score: 7.167477270865283
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: FAUXHOPE-4
-  title: FAUXHOPE
-  score: 41.140555178020435
-  llm_score: 40
-  recency_score: 1.558192273617504
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 39.823628018472306
-  llm_score: 35
-  recency_score: 13.985861106215753
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: the-good-the-bad-and-the-ugly-repost
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 34.270421499046286
-  llm_score: 30
-  recency_score: 2.0549236195161336
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: liar-liar-pants-on-fire-2
+generated: 2026-09-09T01:07:43.205023-05:00
+articles:
+  - slug: fairhope-infrastructure
+    title: Fairhope Infrastructure
+    score: 27
+    rank: 1
+  - slug: catalyst-does-fairhope
+    title: CATALYST DOES FAIRHOPE
+    score: 25
+    rank: 2
+  - slug: friends-of-fly-creek
+    title: FRIENDS OF FLY CREEK
+    score: 24
+    rank: 3
+  - slug: fly-creek-mud
+    title: FLY CREEK MUD
+    score: 24
+    rank: 4
+  - slug: fairhope-railroad
+    title: Fairhope Railroad
+    score: 24
+    rank: 5
+  - slug: community-or-developer
+    title: COMMUNITY OR DEVELOPER
+    score: 24
+    rank: 6
+  - slug: fly-creek-a-drainage-ditch
+    title: FLY CREEK - A DRAINAGE DITCH ?
+    score: 24
+    rank: 7
+  - slug: dear-congressman-bradley-byrne
+    title: Dear Congressman Bradley Byrne
+    score: 24
+    rank: 8
+  - slug: fauxhope-know-the-backstory-2
+    title: FAUXHOPE - KNOW THE BACKSTORY
+    score: 24
+    rank: 9
+  - slug: new-sweep-the-ripp-report-27-political-corruption-and-deceit-in-fairhope
+    title: 'New Sweep: The Ripp Report #27'
+    score: 24
+    rank: 10
+  - slug: lipstick-on-a-pig
+    title: Lipstick on a Pig
+    score: 24
+    rank: 11
+  - slug: fairhope-a-city-owned-by-outside-interests-and-good-ole-boys
+    title: FAIRHOPE A CITY OWNED BY OUTSIDE INTERESTS & GOOD OLE BOYS
+    score: 24
+    rank: 12
+  - slug: fly-creek-drainage-ditch
+    title: Fly Creek Becomes Developer's Drainage Ditch
+    score: 24
+    rank: 13
+  - slug: fauxhope-know-the-backstory
+    title: FAUXHOPE - KNOW THE BACKSTORY
+    score: 24
+    rank: 14
+  - slug: eagles-eye-catalyst-kant-corte
+    title: EAGLES EYE - CATALYST-KANT-CORTE
+    score: 24
+    rank: 15
+  - slug: no-more-silence-we-want-answers
+    title: NO MORE SILENCE — WE WANT ANSWERS
+    score: 24
+    rank: 16
+  - slug: youre-not-from-here
+    title: You're Not From Here
+    score: 24
+    rank: 17
+  - slug: preemptive-notice-fire-station
+    title: 'Preemptive Notice: Parker Road Fire Station'
+    score: 24
+    rank: 18
+  - slug: bp-restore-act-application
+    title: Fairhope's BP Restore Act Application
+    score: 24
+    rank: 19
+  - slug: fly-creek-erosion-and-hidden-development-threats
+    title: Fly Creek Erosion and Hidden Development Threats
+    score: 24
+    rank: 20

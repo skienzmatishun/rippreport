@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T17:39:07.947345Z'
-  post_slug: boycott-mcsharry
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: heart-of-dixie-podcast
-  title: HEART OF DIXIE PODCAST
-  score: 79.77276046799975
-  llm_score: 95
-  recency_score: 3.6933726909985176
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: primary-postpartum
-  title: Primary Postpartum
-  score: 72.5342405223155
-  llm_score: 85
-  recency_score: 2.071883003314039
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 71.61806237557418
-  llm_score: 80
-  recency_score: 16.8038586595515
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 66.08088438475875
-  llm_score: 75
-  recency_score: 4.965085212362791
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: the-good-the-bad-and-the-ugly-repost
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 59.12436264562832
-  llm_score: 65
-  recency_score: 4.965085212362791
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 56.07660619876093
-  llm_score: 55
-  recency_score: 27.440485642875306
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: FAIRHOPE-FREE-YEAR
-  title: FAIRHOPE FREE YEAR
-  score: 47.302438831791264
-  llm_score: 45
-  recency_score: 16.989023282799735
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 42.608695652173914
-  llm_score: 30
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 41.418042402731714
-  llm_score: 35
-  recency_score: 23.153743815707337
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: mcsharrys-old-flower-handshake
-  title: McSHARRY’S OLD FLOWER HANDSHAKE
-  score: 73.47607326834745
-  llm_score: 85
-  recency_score: 62.594476244258324
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: boycott-mcsharry
+generated: 2026-09-09T01:07:28.016895-05:00
+articles:
+  - slug: catalyst-justice
+    title: CATALYST JUSTICE
+    score: 94
+    rank: 1
+  - slug: mimes-whitewashing
+    title: MIME'S WHITEWASHING
+    score: 84
+    rank: 2
+  - slug: law-and-disorder-part-1
+    title: LAW and DisORDER Part 1
+    score: 69
+    rank: 3
+  - slug: boycott-mcsharrys
+    title: BOYCOTT McSHARRY’S
+    score: 27
+    rank: 4
+  - slug: im-back
+    title: I'M BACK
+    score: 27
+    rank: 5
+  - slug: mcsharrys-old-flower-handshake
+    title: McSHARRY’S OLD FLOWER HANDSHAKE
+    score: 24
+    rank: 6
+  - slug: where-is-justice
+    title: WHERE IS JUSTICE?
+    score: 24
+    rank: 7
+  - slug: mcsharry-madness
+    title: McSHARRY MADNESS
+    score: 24
+    rank: 8
+  - slug: one-woman-2
+    title: ONE WOMAN
+    score: 24
+    rank: 9
+  - slug: one-woman
+    title: ONE WOMAN
+    score: 24
+    rank: 10
+  - slug: surrender
+    title: SURRENDER
+    score: 24
+    rank: 11
+  - slug: american-citizen
+    title: AMERICAN CITIZEN
+    score: 24
+    rank: 12
+  - slug: a-slap-on-the-wrist
+    title: A SLAP ON THE WRIST
+    score: 24
+    rank: 13
+  - slug: barstool
+    title: BARSTOOL
+    score: 24
+    rank: 14
+  - slug: fairhope-2020
+    title: FAIRHOPE 2020
+    score: 24
+    rank: 15
+  - slug: catalyst-train-wreck
+    title: CATALYST TRAIN WRECK
+    score: 24
+    rank: 16
+  - slug: women-stand-together
+    title: WOMEN STAND TOGETHER
+    score: 24
+    rank: 17
+  - slug: judicial-trick
+    title: JUDICIAL TRICK
+    score: 24
+    rank: 18
+  - slug: baldwin-county
+    title: BALDWIN COUNTY
+    score: 24
+    rank: 19
+  - slug: watering-hole
+    title: WATERING HOLE
+    score: 24
+    rank: 20

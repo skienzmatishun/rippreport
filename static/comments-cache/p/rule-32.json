@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "pageId": "p/rule-32",
+  "originalPageId": "/p/rule-32",
+  "commentCount": 3,
+  "totalCount": 3,
+  "rootCount": 3,
+  "lastCommentAt": "2024-01-01T13:50:33.097000Z",
+  "generatedAt": "2026-09-09T21:04:49.997Z",
+  "frozen": false,
+  "comments": [
+    {
+      "id": 592,
+      "pageId": "/p/rule-32",
+      "parentId": null,
+      "authorName": "Anonymous",
+      "content": "Put that fat pos D.A. Whetstone in prison.",
+      "createdAt": "2023-12-15T17:22:16.377000Z",
+      "updatedAt": "2025-11-18 01:53:24",
+      "replies": []
+    },
+    {
+      "id": 593,
+      "pageId": "/p/rule-32",
+      "parentId": null,
+      "authorName": "Anonymous",
+      "content": "Nothing will happen. The Klan is in charge.",
+      "createdAt": "2023-12-17T06:59:46.427000Z",
+      "updatedAt": "2025-11-18 01:53:25",
+      "replies": []
+    },
+    {
+      "id": 594,
+      "pageId": "/p/rule-32",
+      "parentId": null,
+      "authorName": "Anonymous",
+      "content": "Give ' em hell. My compliments to RIPP Report.",
+      "createdAt": "2024-01-01T13:50:33.097000Z",
+      "updatedAt": "2025-11-18 01:53:26",
+      "replies": []
+    }
+  ]
+}

@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T18:13:44.539324Z'
-  post_slug: self-dealing-self-stealing
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 87.82608695652175
-  llm_score: 95
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 83.86894903336828
-  llm_score: 100
-  recency_score: 7.246456941867555
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 82.56329572877559
-  llm_score: 98
-  recency_score: 7.738950440459613
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 80.5061641366787
-  llm_score: 95
-  recency_score: 7.9104437859025545
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: POSTER-BOY-of-CORRUPTION
-  title: POSTER BOY OF CORRUPTION
-  score: 76.84523014435801
-  llm_score: 90
-  recency_score: 6.86007333005856
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 74.45144781820365
-  llm_score: 85
-  recency_score: 13.095824954670931
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 70.39914825897996
-  llm_score: 80
-  recency_score: 9.795102489134761
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: scumbag
-  title: SCUMBAG
-  score: 58.402824043691275
-  llm_score: 65
-  recency_score: 0.8162382512248036
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 51.93102901389912
-  llm_score: 55
-  recency_score: 3.6034168299198996
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 38.767033701896096
-  llm_score: 35
-  recency_score: 7.9104437859025545
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: self-dealing-self-stealing
+generated: 2026-09-09T01:07:48.016476-05:00
+articles:
+  - slug: alabama-first-in-political-corruption
+    title: ALABAMA -  FIRST IN POLITICAL CORRUPTION
+    score: 31
+    rank: 1
+  - slug: alabama-ethics-self-dealing-immunity
+    title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+    score: 24
+    rank: 2
+  - slug: writ-of-mandamus-and-bar-complaint
+    title: WRIT OF MANDAMUS AND BAR COMPLAINT
+    score: 24
+    rank: 3
+  - slug: rock-bottom
+    title: ROCK BOTTOM
+    score: 24
+    rank: 4
+  - slug: court-of-public-opinion-2
+    title: COURT OF PUBLIC OPINION
+    score: 24
+    rank: 5
+  - slug: alabama-black-hole
+    title: ALABAMA BLACK HOLE
+    score: 24
+    rank: 6
+  - slug: letter-to-the-alabama-attorney-general
+    title: Letter to the Alabama Attorney General
+    score: 24
+    rank: 7
+  - slug: dirty-underwear
+    title: DIRTY UNDERWEAR
+    score: 24
+    rank: 8
+  - slug: where-is-the-media
+    title: WHERE IS THE MEDIA?
+    score: 24
+    rank: 9
+  - slug: scumbag
+    title: SCUMBAG
+    score: 24
+    rank: 10
+  - slug: poster-boy-of-corruption
+    title: POSTER BOY OF CORRUPTION
+    score: 24
+    rank: 11
+  - slug: perfect-puzzle
+    title: PERFECT PUZZLE
+    score: 24
+    rank: 12
+  - slug: alabama-ugly
+    title: ALABAMA UGLY
+    score: 24
+    rank: 13
+  - slug: top-to-bottom-corruption
+    title: TOP TO BOTTOM CORRUPTION
+    score: 24
+    rank: 14
+  - slug: line-in-the-sand
+    title: LINE IN THE SAND
+    score: 24
+    rank: 15
+  - slug: alabama-ethics-commission-hide-the-list
+    title: ALABAMA ETHICS COMMISION HIDE THE LIST
+    score: 24
+    rank: 16
+  - slug: elephants-in-alabama
+    title: Elephants in Alabama
+    score: 24
+    rank: 17
+  - slug: license-to-steal
+    title: LICENSE TO STEAL
+    score: 24
+    rank: 18
+  - slug: fire-albritton
+    title: FIRE ALBRITTON
+    score: 24
+    rank: 19
+  - slug: pandemic-corruption
+    title: PANDEMIC CORRUPTION
+    score: 24
+    rank: 20

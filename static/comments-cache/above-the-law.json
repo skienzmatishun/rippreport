@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "pageId": "p/above-the-law",
+  "originalPageId": "/p/above-the-law/",
+  "commentCount": 4,
+  "totalCount": 4,
+  "rootCount": 4,
+  "lastCommentAt": "2017-06-05 13:52:23",
+  "generatedAt": "2026-09-09T21:04:49.993Z",
+  "frozen": false,
+  "comments": [
+    {
+      "id": 739,
+      "pageId": "/p/above-the-law/",
+      "parentId": null,
+      "authorName": "Sonny nichols",
+      "content": "I like your approach very much. Go get his sorry ass!",
+      "createdAt": "2016-09-01 10:17:25",
+      "updatedAt": "2016-09-01 10:17:25",
+      "replies": []
+    },
+    {
+      "id": 740,
+      "pageId": "/p/above-the-law/",
+      "parentId": null,
+      "authorName": "Ripp Report",
+      "content": "At least everyone will know he is a sorry ass",
+      "createdAt": "2016-09-01 18:11:19",
+      "updatedAt": "2016-09-01 18:11:19",
+      "replies": []
+    },
+    {
+      "id": 737,
+      "pageId": "/p/above-the-law/",
+      "parentId": null,
+      "authorName": "harry",
+      "content": "I have black and white evidence on a hit initiated by mr johnson if anyone is interested",
+      "createdAt": "2017-06-04 20:57:16",
+      "updatedAt": "2017-06-04 20:57:16",
+      "replies": []
+    },
+    {
+      "id": 738,
+      "pageId": "/p/above-the-law/",
+      "parentId": null,
+      "authorName": "Anonymous",
+      "content": "Would you like to get rid of the firm along with their liscences? ????",
+      "createdAt": "2017-06-05 13:52:23",
+      "updatedAt": "2017-06-05 13:52:23",
+      "replies": []
+    }
+  ]
+}

@@ -8,6 +8,8 @@ import (
 	"strings"
 	"sync"
 	"testing"
+
+	"github.com/rippreport/go-content-pipeline/internal/models"
 )
 
 // MockLlamaServer represents a mock llama.cpp HTTP server for testing.
@@ -16,13 +18,15 @@ type MockLlamaServer struct {
 	
 	// Request tracking
 	mu                sync.Mutex
-	EmbeddingRequests []EmbeddingRequest
+	EmbeddingRequests  []EmbeddingRequest
 	CompletionRequests []CompletionRequest
+	RerankRequests     []models.RerankRequest
 	HealthCheckCount   int
 	
 	// Response configuration
 	EmbeddingResponse  func(EmbeddingRequest) ([]float32, error)
 	CompletionResponse func(CompletionRequest) (string, error)
+	RerankResponse     func(models.RerankRequest) (*models.RerankResponse, error)
 	HealthCheckOK      bool
 	
 	// Error simulation
@@ -41,6 +45,7 @@ type EmbeddingRequest struct {
 // CompletionRequest represents a completion API request.
 type CompletionRequest struct {
 	Prompt      string   `json:"prompt"`
+	Model       string   `json:"model,omitempty"`
 	Temperature float32  `json:"temperature,omitempty"`
 	TopP        float32  `json:"top_p,omitempty"`
 	TopK        int      `json:"top_k,omitempty"`
@@ -63,9 +68,31 @@ func NewMockLlamaServer(t *testing.T) *MockLlamaServer {
 		return TestEmbedding(384, 0.5), nil
 	}
 	
-	// Default completion response: return score
+	// Default completion response: return brief for hook generation or score for ranking
 	mock.CompletionResponse = func(req CompletionRequest) (string, error) {
+		if strings.Contains(req.Prompt, "THE CONFLICT") || strings.Contains(req.Prompt, "bridge-brief") || strings.Contains(req.Prompt, "Article 1") {
+			return "THE CONFLICT:\n- High stakes county zoning and coastal planning battle.\n\nTHE DISCOVERY:\n- Secret financial audits revealed conflicts of interest.\n\nTHE PIVOT:\n- The investigation uncovers deep ties to local officials.\n\nKEY ENTITIES:\n- County board, developers", nil
+		}
 		return "85", nil
+	}
+
+	// Default rerank response: return descending relevance scores
+	mock.RerankResponse = func(req models.RerankRequest) (*models.RerankResponse, error) {
+		results := make([]models.RerankResult, len(req.Documents))
+		for i := range req.Documents {
+			score := 0.95 - (float64(i) * 0.05)
+			if score < 0.1 {
+				score = 0.1
+			}
+			results[i] = models.RerankResult{
+				Index:          i,
+				RelevanceScore: score,
+			}
+		}
+		return &models.RerankResponse{
+			Model:   req.Model,
+			Results: results,
+		}, nil
 	}
 	
 	mock.Server = httptest.NewServer(http.HandlerFunc(mock.handler))
@@ -113,11 +140,41 @@ func (m *MockLlamaServer) handler(w http.ResponseWriter, r *http.Request) {
 		m.handleEmbedding(w, r)
 	case "/completion":
 		m.handleCompletion(w, r)
+	case "/v1/chat/completions", "/chat/completions":
+		m.handleChatCompletions(w, r)
+	case "/v1/rerank", "/rerank", "/reranking":
+		m.handleRerank(w, r)
 	case "/health":
 		m.handleHealthCheck(w, r)
 	default:
 		http.NotFound(w, r)
 	}
+}
+
+func (m *MockLlamaServer) handleRerank(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodPost {
+		http.Error(w, "method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	var req models.RerankRequest
+	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+		http.Error(w, "invalid request body", http.StatusBadRequest)
+		return
+	}
+
+	m.mu.Lock()
+	m.RerankRequests = append(m.RerankRequests, req)
+	m.mu.Unlock()
+
+	resp, err := m.RerankResponse(req)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	w.Header().Set("Content-Type", "application/json")
+	_ = json.NewEncoder(w).Encode(resp)
 }
 
 func (m *MockLlamaServer) handleEmbedding(w http.ResponseWriter, r *http.Request) {
@@ -178,6 +235,72 @@ func (m *MockLlamaServer) handleCompletion(w http.ResponseWriter, r *http.Reques
 		"tokens_predicted":  len(strings.Split(content, " ")),
 	}
 	
+	w.Header().Set("Content-Type", "application/json")
+	json.NewEncoder(w).Encode(response)
+}
+
+func (m *MockLlamaServer) handleChatCompletions(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodPost {
+		http.Error(w, "method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	var body struct {
+		Model       string `json:"model"`
+		Messages    []struct {
+			Role    string `json:"role"`
+			Content string `json:"content"`
+		} `json:"messages"`
+		Temperature float32  `json:"temperature"`
+		MaxTokens   int      `json:"max_tokens"`
+		Stop        []string `json:"stop"`
+	}
+	if err := json.NewDecoder(r.Body).Decode(&body); err != nil {
+		http.Error(w, "invalid request body", http.StatusBadRequest)
+		return
+	}
+
+	var prompt strings.Builder
+	for _, msg := range body.Messages {
+		prompt.WriteString(msg.Role)
+		prompt.WriteString(":\n")
+		prompt.WriteString(msg.Content)
+		prompt.WriteString("\n\n")
+	}
+
+	req := CompletionRequest{
+		Prompt:      prompt.String(),
+		Model:       body.Model,
+		Temperature: body.Temperature,
+		MaxTokens:   body.MaxTokens,
+		Stop:        body.Stop,
+	}
+
+	m.mu.Lock()
+	m.CompletionRequests = append(m.CompletionRequests, req)
+	m.mu.Unlock()
+
+	content, err := m.CompletionResponse(req)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	response := map[string]interface{}{
+		"choices": []map[string]interface{}{
+			{
+				"message": map[string]string{
+					"role":    "assistant",
+					"content": content,
+				},
+			},
+		},
+		"usage": map[string]int{
+			"prompt_tokens":     len(strings.Split(req.Prompt, " ")),
+			"completion_tokens": len(strings.Split(content, " ")),
+		},
+	}
+
 	w.Header().Set("Content-Type", "application/json")
 	json.NewEncoder(w).Encode(response)
 }

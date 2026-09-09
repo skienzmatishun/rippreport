@@ -375,16 +375,8 @@ func (pm *PostManager) UpdateRelatedArticles(path models.PostPath, articles []mo
 		return fmt.Errorf("failed to serialize updated front matter: %w", err)
 	}
 
-	// Construct updated document
-	// If body does not begin with a newline, add one between front matter and body
-	var updatedContent string
-	if body == "" {
-		updatedContent = serializedFm
-	} else if strings.HasPrefix(body, "\n") {
-		updatedContent = serializedFm + body[1:]
-	} else {
-		updatedContent = serializedFm + body
-	}
+	// Construct updated document preserving body byte-for-byte
+	updatedContent := serializedFm + body
 
 	// Atomic write using a temporary file in the same directory
 	dir := filepath.Dir(filePath)

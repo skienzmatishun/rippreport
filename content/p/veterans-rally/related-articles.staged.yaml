@@ -1,87 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T16:50:41.951274Z'
-  post_slug: veterans-rally
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: lt-governor-ainsworth-breaks-with-governor
-  title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power
-    grab bill - Alabamagazette.com'
-  score: 96.00543660711472
-  llm_score: 95
-  recency_score: 97.03126049090956
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: war
-  title: WAR
-  score: 92.99589606255408
-  llm_score: 90
-  recency_score: 99.72640235968593
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: go-to-hell-veterans
-  title: GO TO HELL VETERANS
-  score: 88.68307565648547
-  llm_score: 85
-  recency_score: 94.92768502479139
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: red-lips-award
-  title: RED LIPS AWARD
-  score: 85.70992420282673
-  llm_score: 80
-  recency_score: 97.83206416625366
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: faux-pas
-  title: FAUX PAS - HEART OF DIXIE PODCAST
-  score: 65.16888683290078
-  llm_score: 65
-  recency_score: 39.72109928917947
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 63.55140159828531
-  llm_score: 55
-  recency_score: 70.42055919014051
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: backstory-podcast-no-186-change-is-coming-alabama
-  title: Change Is Coming Alabama
-  score: 54.53506565781952
-  llm_score: 40
-  recency_score: 78.57662753246225
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: gambling-money-run-amok
-  title: Gambling Money Run Amok
-  score: 42.939676494080075
-  llm_score: 35
-  recency_score: 31.903139840960442
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 34.309994985284604
-  llm_score: 25
-  recency_score: 22.28247116538646
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: some-things-need-to-go-away
-  title: SOME THINGS NEED TO GO AWAY
-  score: 17.17409134380446
-  llm_score: 10
-  recency_score: 41.50102522687563
-  length_score: 23.0
-  category_score: 0
-  rank: 10
+post_slug: veterans-rally
+generated: 2026-09-09T01:07:03.87887-05:00
+articles:
+  - slug: catalyst-vs-the-people
+    title: CATALYST VS THE PEOPLE
+    score: 64
+    rank: 1
+  - slug: faux-pas
+    title: FAUX PAS - HEART OF DIXIE PODCAST
+    score: 22
+    rank: 2
+  - slug: election-ad
+    title: ELECTION AD
+    score: 20
+    rank: 3
+  - slug: re-run-doing-nothing
+    title: DOING NOTHING
+    score: 20
+    rank: 4
+  - slug: war
+    title: WAR
+    score: 20
+    rank: 5
+  - slug: go-to-hell-veterans
+    title: GO TO HELL VETERANS
+    score: 20
+    rank: 6
+  - slug: bradley-byrne-endorses-jerry-carl-in-gop-runoff-for-his-district-1-seat
+    title: Bradley Byrne endorses Jerry Carl in GOP runoff for his District 1 seat
+    score: 20
+    rank: 7
+  - slug: memorial-day-special-edition
+    title: Memorial Day Special Edition - R&R Billboards
+    score: 20
+    rank: 8
+  - slug: equal-representation
+    title: EQUAL REPRESENTATION
+    score: 20
+    rank: 9
+  - slug: red-lips-award
+    title: RED LIPS AWARD
+    score: 20
+    rank: 10
+  - slug: combat
+    title: COMBAT
+    score: 20
+    rank: 11
+  - slug: fairhope-change-of-government
+    title: FAIRHOPE - CHANGE OF GOVERNMENT
+    score: 20
+    rank: 12
+  - slug: lt-governor-ainsworth-breaks-with-governor
+    title: 'Lt. Governor Ainsworth breaks with Governor: Opposes the Veterans power grab bill - Alabamagazette.com'
+    score: 20
+    rank: 13
+  - slug: some-things-need-to-go-away
+    title: SOME THINGS NEED TO GO AWAY
+    score: 20
+    rank: 14
+  - slug: they-dont-want-you-to-see-this
+    title: THEY DON'T WANT YOU TO SEE THIS
+    score: 20
+    rank: 15
+  - slug: they-dont-want-you-to-see-this-2
+    title: THEY DON'T WANT YOU TO SEE THIS
+    score: 20
+    rank: 16
+  - slug: backstory-podcast-11
+    title: 'BACKSTORY PODCAST #11'
+    score: 20
+    rank: 17
+  - slug: virus-vs-catalyst
+    title: VIRUS vs. CATALYST
+    score: 20
+    rank: 18
+  - slug: CAMPAIGN-KICKOFF-RECEPTION
+    title: CAMPAIGN KICKOFF RECEPTION FOR Matt McKenzie
+    score: 20
+    rank: 19
+  - slug: recovery
+    title: RECOVERY
+    score: 20
+    rank: 20

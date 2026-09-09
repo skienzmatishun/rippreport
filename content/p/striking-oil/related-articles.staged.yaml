@@ -1,86 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T18:11:24.245988Z'
-  post_slug: striking-oil
-  status: staged
-  hooks_generated: false
-related_articles:
-- slug: stealing-from-kids
-  title: STEALING FROM KIDS
-  score: 80.90539595922071
-  llm_score: 95
-  recency_score: 10.20602676551906
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: alabama-attorney-general
-  title: ALABAMA ATTORNEY GENERAL
-  score: 76.96529746168149
-  llm_score: 90
-  recency_score: 7.550460404668479
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 73.60735701461829
-  llm_score: 85
-  recency_score: 8.242302834055081
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: ALABAMA ETHICS COMMISSION HIDE THE LIST
-  title: ALABAMA ETHICS COMMISION HIDE THE LIST
-  score: 70.09801999954604
-  llm_score: 80
-  recency_score: 8.063614997389708
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: POSTER-BOY-of-CORRUPTION
-  title: POSTER BOY OF CORRUPTION
-  score: 66.46049864733602
-  llm_score: 75
-  recency_score: 7.147867222182147
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: fire-albritton
-  title: FIRE ALBRITTON
-  score: 62.39210216053564
-  llm_score: 70
-  recency_score: 3.7545874230799345
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: scumbag
-  title: SCUMBAG
-  score: 58.40877931995419
-  llm_score: 65
-  recency_score: 0.8504810897365797
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: TOP-TO-BOTTOM-CORRUPTION
-  title: TOP TO BOTTOM CORRUPTION
-  score: 53.67742977148077
-  llm_score: 55
-  recency_score: 13.645221186014394
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: alabama-ag
-  title: ALABAMA ATTORNEY GENERAL
-  score: 46.08695652173913
-  llm_score: 35
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: alabama-ethics-vs-tony-kennon
-  title: ALABAMA ETHICS VS TONY KENNON
-  score: 40.99748416519121
-  llm_score: 40
-  recency_score: 0.7355339498494264
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: striking-oil
+generated: 2026-09-09T01:07:46.760176-05:00
+articles:
+  - slug: put-your-big-boy-pants-on
+    title: Put Your Big Boy Pants On - Tucker Dorsey
+    score: 73
+    rank: 1
+  - slug: rock-bottom
+    title: ROCK BOTTOM
+    score: 60
+    rank: 2
+  - slug: cover-up
+    title: COVER UP
+    score: 55
+    rank: 3
+  - slug: deaf-ears
+    title: DEAF EARS
+    score: 54
+    rank: 4
+  - slug: alabama-attorney-general
+    title: ALABAMA ATTORNEY GENERAL
+    score: 25
+    rank: 5
+  - slug: where-is-the-media
+    title: WHERE IS THE MEDIA?
+    score: 24
+    rank: 6
+  - slug: top-to-bottom-corruption
+    title: TOP TO BOTTOM CORRUPTION
+    score: 24
+    rank: 7
+  - slug: alabama-ethics-commission-hide-the-list
+    title: ALABAMA ETHICS COMMISION HIDE THE LIST
+    score: 24
+    rank: 8
+  - slug: alabama-ugly
+    title: ALABAMA UGLY
+    score: 24
+    rank: 9
+  - slug: writ-of-mandamus-and-bar-complaint
+    title: WRIT OF MANDAMUS AND BAR COMPLAINT
+    score: 24
+    rank: 10
+  - slug: line-in-the-sand
+    title: LINE IN THE SAND
+    score: 24
+    rank: 11
+  - slug: poster-boy-of-corruption
+    title: POSTER BOY OF CORRUPTION
+    score: 24
+    rank: 12
+  - slug: court-of-public-opinion-2
+    title: COURT OF PUBLIC OPINION
+    score: 24
+    rank: 13
+  - slug: alabama-ethics-self-dealing-immunity
+    title: ALABAMA ETHICS → SELF DEALING → IMMUNITY
+    score: 24
+    rank: 14
+  - slug: scumbag
+    title: SCUMBAG
+    score: 24
+    rank: 15
+  - slug: alabama-black-hole
+    title: ALABAMA BLACK HOLE
+    score: 24
+    rank: 16
+  - slug: fire-albritton
+    title: FIRE ALBRITTON
+    score: 24
+    rank: 17
+  - slug: self-dealing-self-stealing
+    title: SELF-DEALING-SELF-STEALING
+    score: 24
+    rank: 18
+  - slug: writ-of-mandamus-update
+    title: 'WRIT OF MANDAMUS: UPDATE'
+    score: 24
+    rank: 19
+  - slug: letter-to-the-alabama-attorney-general
+    title: Letter to the Alabama Attorney General
+    score: 24
+    rank: 20

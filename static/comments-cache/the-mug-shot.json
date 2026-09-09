@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "pageId": "p/the-mug-shot",
+  "originalPageId": "/p/the-mug-shot",
+  "commentCount": 1,
+  "totalCount": 1,
+  "rootCount": 1,
+  "lastCommentAt": "2023-08-30T16:27:06.329000Z",
+  "generatedAt": "2026-09-09T21:04:50.142Z",
+  "frozen": false,
+  "comments": [
+    {
+      "id": 521,
+      "pageId": "/p/the-mug-shot",
+      "parentId": null,
+      "authorName": "Anonymous",
+      "content": "Biden had done his job.\nMerica has ruined the Marine Core.",
+      "createdAt": "2023-08-30T16:27:06.329000Z",
+      "updatedAt": "2025-11-18 01:51:46",
+      "replies": []
+    }
+  ]
+}

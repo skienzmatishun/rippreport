@@ -1,87 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T16:47:25.165373Z'
-  post_slug: deja-vu
-  status: staged
-  hooks_generated: true
-  hooks_generated_at: '2026-09-01T07:22:10.737487Z'
-related_articles:
-- slug: end-the-good-ole-boy-culture-in-baldwin-county
-  title: END THE GOOD OLE BOY CULTURE IN BALDWIN COUNTY
-  score: 90.65179778671683
-  llm_score: 90
-  recency_score: 86.24783727362167
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: summerdale-sunshine
-  title: SUMMERDALE SUNSHINE
-  score: 89.02105415237689
-  llm_score: 95
-  recency_score: 56.8710613761671
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: last-chance-fauxhope-or-fairhope
-  title: LAST CHANCE - FAUXHOPE OR FAIRHOPE
-  score: 80.34080779769904
-  llm_score: 75
-  recency_score: 86.95964483676948
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council
-  title: LAST CHANCE FAUXHOPE OR FAIRHOPE VOTE OUT FAUXHOPE CITY COUNCIL
-  score: 76.77990551415806
-  llm_score: 70
-  recency_score: 86.48445670640884
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: bull
-  title: BULL SITTING Fairhope
-  score: 74.77867214157952
-  llm_score: 85
-  recency_score: 14.977364814082216
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: fauxhope-crier
-  title: FAUXHOPE CRIER
-  score: 71.50039765403211
-  llm_score: 80
-  recency_score: 16.127286510684606
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: a-reckoning-is-predicted
-  title: A RECKONING IS PREDICTED
-  score: 64.81849043854209
-  llm_score: 65
-  recency_score: 37.70632002161693
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: anonymous-bb
-  title: ANONYMOUS-BB
-  score: 48.26731455683605
-  llm_score: 40
-  recency_score: 42.537058701807275
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: BACKPEDALING-FAUXHOPE
-  title: BACKPEDALING FAUXHOPE
-  score: 43.03163637542341
-  llm_score: 35
-  recency_score: 32.43190915868462
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: FAUXHOPE-4
-  title: FAUXHOPE
-  score: 42.44919927408233
-  llm_score: 25
-  recency_score: 69.0828958259734
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: deja-vu
+generated: 2026-09-09T01:07:01.701232-05:00
+articles:
+  - slug: catalyst-last-stand
+    title: CATALYST LAST STAND
+    score: 94
+    rank: 1
+  - slug: questions-for-fairhope
+    title: QUESTIONS FOR FAIRHOPE
+    score: 90
+    rank: 2
+  - slug: bit-dogs-bark-first
+    title: BIT DOGS BARK FIRST
+    score: 82
+    rank: 3
+  - slug: catalyst-signs
+    title: CATALYST SIGNS
+    score: 69
+    rank: 4
+  - slug: catalyst-stacking-the-deck
+    title: CATALYST STACKING THE DECK
+    score: 37
+    rank: 5
+  - slug: selected-not-elected
+    title: SELECTED NOT ELECTED
+    score: 27
+    rank: 6
+  - slug: catalyst-players
+    title: CATALYST PLAYERS
+    score: 25
+    rank: 7
+  - slug: catalyst-bullies
+    title: CATALYST BULLIES
+    score: 25
+    rank: 8
+  - slug: secret-society
+    title: SECRET SOCIETY
+    score: 24
+    rank: 9
+  - slug: catalyst-attack
+    title: CATALYST ATTACK
+    score: 24
+    rank: 10
+  - slug: catalyst-aka-scott-boone-consulting
+    title: CATALYST AKA SCOTT BOONE CONSULTING
+    score: 24
+    rank: 11
+  - slug: fairhopes-golden-key
+    title: FAIRHOPE'S GOLDEN KEY
+    score: 24
+    rank: 12
+  - slug: moratorium-party
+    title: MORATORIUM PARTY
+    score: 24
+    rank: 13
+  - slug: honeymoon
+    title: HONEYMOON
+    score: 24
+    rank: 14
+  - slug: catalyst-central
+    title: CATALYST CENTRAL
+    score: 24
+    rank: 15
+  - slug: a-slap-on-the-wrist
+    title: A SLAP ON THE WRIST
+    score: 24
+    rank: 16
+  - slug: elliott-stacy-haygood-catalyst-who-is-in-the-picture
+    title: ELLIOTT STACY HAYGOOD = CATALYST - WHO IS IN THE PICTURE?
+    score: 24
+    rank: 17
+  - slug: freaky-friday-freaky-town
+    title: A Freaky Friday in a Freaky Town
+    score: 24
+    rank: 18
+  - slug: catalyst-eat-their-own
+    title: CATALYST - EAT THEIR OWN
+    score: 24
+    rank: 19
+  - slug: catalyst-intimidation-a-pig-pen
+    title: CATALYST INTIMIDATION - A PIG PEN
+    score: 24
+    rank: 20

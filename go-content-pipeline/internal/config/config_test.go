@@ -206,7 +206,7 @@ func TestValidate_InvalidValues(t *testing.T) {
 					MaxContentLen:  1,
 				},
 			},
-			expectedErr: "llama_server.timeout must be positive",
+			expectedErr: "llama_server.timeout cannot be negative",
 		},
 		{
 			name: "negative min_request_delay",
@@ -837,3 +837,109 @@ func TestMakeAbsolutePaths_AlreadyAbsolute(t *testing.T) {
 		t.Error("Absolute log file was modified")
 	}
 }
+
+func TestLlamaServerConfig_ModelSelection(t *testing.T) {
+	// Fallback to LLMModel when scoring_model and hook_model not specified
+	cfg := LlamaServerConfig{
+		LLMModel: "default-llm",
+	}
+	if cfg.GetScoringModel() != "default-llm" {
+		t.Errorf("expected default-llm for scoring model, got %s", cfg.GetScoringModel())
+	}
+	if cfg.GetHookModel() != "default-llm" {
+		t.Errorf("expected default-llm for hook model, got %s", cfg.GetHookModel())
+	}
+
+	// Distinct scoring and hook models
+	cfgSpecific := LlamaServerConfig{
+		LLMModel:     "fallback-llm",
+		ScoringModel: "qwen-scoring-model",
+		HookModel:    "llama-hook-model",
+	}
+	if cfgSpecific.GetScoringModel() != "qwen-scoring-model" {
+		t.Errorf("expected qwen-scoring-model, got %s", cfgSpecific.GetScoringModel())
+	}
+	if cfgSpecific.GetHookModel() != "llama-hook-model" {
+		t.Errorf("expected llama-hook-model, got %s", cfgSpecific.GetHookModel())
+	}
+}
+
+func TestLlamaServerConfig_EnvOverrides_SeparateModels(t *testing.T) {
+	os.Setenv("SCORING_MODEL", "env-score-model")
+	os.Setenv("HOOK_MODEL", "env-hook-model")
+	defer os.Unsetenv("SCORING_MODEL")
+	defer os.Unsetenv("HOOK_MODEL")
+
+	cfg := DefaultConfig()
+	cfg.applyEnvOverrides()
+
+	if cfg.LlamaServer.ScoringModel != "env-score-model" {
+		t.Errorf("expected env-score-model, got %s", cfg.LlamaServer.ScoringModel)
+	}
+	if cfg.LlamaServer.HookModel != "env-hook-model" {
+		t.Errorf("expected env-hook-model, got %s", cfg.LlamaServer.HookModel)
+	}
+	if cfg.LlamaServer.GetScoringModel() != "env-score-model" {
+		t.Errorf("expected GetScoringModel to return env-score-model, got %s", cfg.LlamaServer.GetScoringModel())
+	}
+	if cfg.LlamaServer.GetHookModel() != "env-hook-model" {
+		t.Errorf("expected GetHookModel to return env-hook-model, got %s", cfg.LlamaServer.GetHookModel())
+	}
+}
+
+func TestLlamaServerConfig_Reranker(t *testing.T) {
+	cfg := DefaultConfig()
+	if cfg.LlamaServer.IsReranker() {
+		t.Errorf("expected default not to be reranker")
+	}
+	if cfg.ShouldUseReranker() {
+		t.Errorf("expected ShouldUseReranker false by default")
+	}
+	if cfg.LlamaServer.GetScoringBaseURL() != cfg.LlamaServer.BaseURL {
+		t.Errorf("expected scoring base URL to match base URL by default")
+	}
+
+	cfg.LlamaServer.ScoringType = "reranker"
+	cfg.LlamaServer.ScoringBaseURL = "http://reranker:8081"
+	if !cfg.LlamaServer.IsReranker() {
+		t.Errorf("expected IsReranker true")
+	}
+	if !cfg.ShouldUseReranker() {
+		t.Errorf("expected ShouldUseReranker true")
+	}
+	if cfg.LlamaServer.GetScoringBaseURL() != "http://reranker:8081" {
+		t.Errorf("expected http://reranker:8081, got %s", cfg.LlamaServer.GetScoringBaseURL())
+	}
+
+	// Test validation error on invalid scoring_type
+	cfg.LlamaServer.ScoringType = "invalid_type"
+	if err := cfg.Validate(); err == nil {
+		t.Errorf("expected validation error on invalid scoring_type")
+	}
+}
+
+func TestLlamaServerConfig_EnvOverrides_Reranker(t *testing.T) {
+	os.Setenv("SCORING_TYPE", "reranker")
+	os.Setenv("SCORING_BASE_URL", "http://env-reranker:8082")
+	os.Setenv("USE_RERANKER", "true")
+	defer os.Unsetenv("SCORING_TYPE")
+	defer os.Unsetenv("SCORING_BASE_URL")
+	defer os.Unsetenv("USE_RERANKER")
+
+	cfg := DefaultConfig()
+	cfg.applyEnvOverrides()
+
+	if !cfg.LlamaServer.IsReranker() {
+		t.Errorf("expected SCORING_TYPE override to enable reranker")
+	}
+	if cfg.LlamaServer.ScoringBaseURL != "http://env-reranker:8082" {
+		t.Errorf("expected SCORING_BASE_URL override, got %s", cfg.LlamaServer.ScoringBaseURL)
+	}
+	if !cfg.Scoring.UseReranker {
+		t.Errorf("expected USE_RERANKER override to set true")
+	}
+	if !cfg.ShouldUseReranker() {
+		t.Errorf("expected ShouldUseReranker true")
+	}
+}
+

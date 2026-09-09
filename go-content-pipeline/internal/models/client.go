@@ -5,14 +5,24 @@ import (
 	"time"
 )
 
-// CompletionRequest represents a request for LLM completion
+// ChatMessage is one turn in an OpenAI-compatible chat completion.
+type ChatMessage struct {
+	Role    string `json:"role"`
+	Content string `json:"content"`
+}
+
+// CompletionRequest represents a request for LLM completion.
+// Prompt is used with llama.cpp /completion. Messages uses /v1/chat/completions
+// so the server applies the model's chat template (required for Gemma 4 and similar).
 type CompletionRequest struct {
-	Prompt     string   `json:"prompt"`
-	Temperature float32  `json:"temperature,omitempty"`
-	TopP       float32  `json:"top_p,omitempty"`
-	TopK       int      `json:"top_k,omitempty"`
-	MaxTokens  int      `json:"n_predict,omitempty"`
-	StopTokens []string `json:"stop,omitempty"`
+	Prompt      string        `json:"prompt,omitempty"`
+	Messages    []ChatMessage `json:"messages,omitempty"`
+	Model       string        `json:"model,omitempty"`
+	Temperature float32       `json:"temperature,omitempty"`
+	TopP        float32       `json:"top_p,omitempty"`
+	TopK        int           `json:"top_k,omitempty"`
+	MaxTokens   int           `json:"n_predict,omitempty"`
+	StopTokens  []string      `json:"stop,omitempty"`
 }
 
 // CompletionResponse represents the response from LLM completion
@@ -49,8 +59,8 @@ type RateLimitStats struct {
 
 // Validate checks if the CompletionRequest is valid
 func (cr *CompletionRequest) Validate() error {
-	if cr.Prompt == "" {
-		return fmt.Errorf("completion request prompt cannot be empty")
+	if cr.Prompt == "" && len(cr.Messages) == 0 {
+		return fmt.Errorf("completion request requires prompt or messages")
 	}
 	if cr.Temperature < 0 || cr.Temperature > 2.0 {
 		return fmt.Errorf("completion request temperature must be between 0 and 2, got %f", cr.Temperature)

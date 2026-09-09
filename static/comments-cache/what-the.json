@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "pageId": "p/what-the",
+  "originalPageId": "/p/what-the",
+  "commentCount": 1,
+  "totalCount": 1,
+  "rootCount": 1,
+  "lastCommentAt": "2024-04-10T17:29:17.371000Z",
+  "generatedAt": "2026-09-09T21:04:50.139Z",
+  "frozen": false,
+  "comments": [
+    {
+      "id": 666,
+      "pageId": "/p/what-the",
+      "parentId": null,
+      "authorName": "Anonymous",
+      "content": "Alabama deserves better than Bob Riley running the state from his winnebago. Damn shame Ripp.",
+      "createdAt": "2024-04-10T17:29:17.371000Z",
+      "updatedAt": "2025-11-18 01:55:16",
+      "replies": []
+    }
+  ]
+}

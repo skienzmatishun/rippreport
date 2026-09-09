@@ -1,87 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T16:33:52.261200Z'
-  post_slug: oil
-  status: staged
-  hooks_generated: true
-  hooks_generated_at: '2026-09-02T09:45:53.116661Z'
-related_articles:
-- slug: scum-bag
-  title: SCUMBAG
-  score: 90.13638532138079
-  llm_score: 95
-  recency_score: 63.2842155979395
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream
-  title: Advocates Say Birmingham Law Firm Abandoned Habeas Petition Effort Midstream
-  score: 77.16615558346597
-  llm_score: 75
-  recency_score: 68.70539460492927
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: delicately-censored
-  title: Delicately Censored
-  score: 70.79347873533978
-  llm_score: 80
-  recency_score: 12.0625027282037
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: the-good-the-bad-and-the-ugly-repost
-  title: THE GOOD THE BAD AND THE UGLY
-  score: 62.80348151395427
-  llm_score: 55
-  recency_score: 66.12001870523703
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: fairhope-infrastructure
-  title: Fairhope Infrastructure
-  score: 61.55768384535805
-  llm_score: 65
-  recency_score: 18.956682110808735
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: some-things-never-change
-  title: SOME THINGS NEVER CHANGE
-  score: 50.68748972701363
-  llm_score: 35
-  recency_score: 76.45306593032835
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: stirring-the-pot-bsp
-  title: Stirring The Pot
-  score: 49.52889519800225
-  llm_score: 45
-  recency_score: 29.79114738851293
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: russian-roulette-fairhope-style-rerun
-  title: RUSSIAN ROULETTE - FAIRHOPE STYLE
-  score: 45.41217716612818
-  llm_score: 30
-  recency_score: 66.12001870523703
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: trump-n-bama
-  title: Trump N Bama
-  score: 28.59591546733182
-  llm_score: 20
-  recency_score: 9.426513937157974
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: sheriff-mack-out-oj-french-lawsuit-in
-  title: Sheriff Mack Out OJ French Lawsuit In
-  score: 27.67392869557193
-  llm_score: 15
-  recency_score: 24.12508999953858
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: oil
+generated: 2026-09-09T01:06:48.761061-05:00
+articles:
+  - slug: baldwin-county-family-court
+    title: BALDWIN COUNTY FAMILY COURT
+    score: 83
+    rank: 1
+  - slug: im-back
+    title: I'M BACK
+    score: 48
+    rank: 2
+  - slug: delight
+    title: FAIRHOPE TAXPAYERS DELIGHT
+    score: 42
+    rank: 3
+  - slug: canons-no-powder
+    title: CANONS — NO POWDER
+    score: 28
+    rank: 4
+  - slug: bp-restore-act-fraud
+    title: BP Restore Act Application - Fraud and Deception
+    score: 27
+    rank: 5
+  - slug: bp-restore-act-application
+    title: Fairhope's BP Restore Act Application
+    score: 25
+    rank: 6
+  - slug: free-speech
+    title: FREE SPEECH
+    score: 25
+    rank: 7
+  - slug: puzzle-pieces
+    title: PUZZLE PIECES
+    score: 24
+    rank: 8
+  - slug: pay-off-and-election-fraud
+    title: PAY OFF AND ELECTION FRAUD
+    score: 24
+    rank: 9
+  - slug: catalyst-judges
+    title: CATALYST JUDGES
+    score: 24
+    rank: 10
+  - slug: threesome
+    title: THREESOME
+    score: 24
+    rank: 11
+  - slug: dirty-judge-misuse-of-justice
+    title: Dirty Judge and Misuse of Justice
+    score: 24
+    rank: 12
+  - slug: triangle-lawsuit-settlement-2013
+    title: Triangle Lawsuit - The Real Cost to Taxpayers
+    score: 24
+    rank: 13
+  - slug: catalyst-queen-remember-family-court
+    title: CATALYST QUEEN - REMEMBER FAMILY COURT
+    score: 24
+    rank: 14
+  - slug: american-citizen
+    title: AMERICAN CITIZEN
+    score: 24
+    rank: 15
+  - slug: russian-roulette-fairhope-style-rerun
+    title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+    score: 24
+    rank: 16
+  - slug: fins-to-the-left-fins-to-the-right
+    title: FINS TO THE LEFT FINS TO THE RIGHT
+    score: 24
+    rank: 17
+  - slug: russian-roulette-fairhope-style
+    title: RUSSIAN ROULETTE - FAIRHOPE STYLE
+    score: 24
+    rank: 18
+  - slug: letter-mayor-kennon-orange-beach
+    title: Letter to Mayor Kennon of Orange Beach
+    score: 24
+    rank: 19
+  - slug: going-down-with-the-ship
+    title: GOING DOWN WITH THE SHIP
+    score: 24
+    rank: 20

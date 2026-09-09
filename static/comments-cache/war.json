@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "pageId": "p/war",
+  "originalPageId": "/p/war",
+  "commentCount": 1,
+  "totalCount": 1,
+  "rootCount": 1,
+  "lastCommentAt": "2025-02-06T15:26:01.928000Z",
+  "generatedAt": "2026-09-09T21:04:50.141Z",
+  "frozen": false,
+  "comments": [
+    {
+      "id": 665,
+      "pageId": "/p/war",
+      "parentId": null,
+      "authorName": "Miscegenation",
+      "content": "Kay is drunk 24-7 and takes pills to wake up and go to sleep",
+      "createdAt": "2025-02-06T15:26:01.928000Z",
+      "updatedAt": "2025-11-18 01:55:13",
+      "replies": []
+    }
+  ]
+}

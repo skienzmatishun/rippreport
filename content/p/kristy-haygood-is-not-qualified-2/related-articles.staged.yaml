@@ -1,87 +1,83 @@
-metadata:
-  generated_at: '2026-07-13T16:20:24.352215Z'
-  post_slug: kristy-haygood-is-not-qualified-2
-  status: staged
-  hooks_generated: true
-  hooks_generated_at: '2026-09-01T15:39:00.364294Z'
-related_articles:
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 91.99763165450848
-  llm_score: 100
-  recency_score: 53.986382013423686
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
-  title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
-  score: 89.11791648074542
-  llm_score: 98
-  recency_score: 45.42801976428615
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: guilty-audiobook
-  title: GUILTY - HEAR THE AUDIOBOOK
-  score: 84.80271728342176
-  llm_score: 80
-  recency_score: 92.61562437967505
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: railroaded-by-the-law
-  title: RAILROADED BY THE LAW
-  score: 84.34782608695653
-  llm_score: 90
-  recency_score: 50
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: no-justice
-  title: NO JUSTICE
-  score: 80.87645702115968
-  llm_score: 95
-  recency_score: 10.039627871668154
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: not-qualified
-  title: NOT QUALIFIED
-  score: 75.4155612022566
-  llm_score: 65
-  recency_score: 98.63947691297537
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: wrongful-conviction-fairhope-baldwin-county
-  title: Wrongful Conviction Fairhope, Baldwin County
-  score: 74.75735090424367
-  llm_score: 85
-  recency_score: 14.854767699401043
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: kristy-haygood-is-not-qualified
-  title: KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 1
-  score: 64.88703734310828
-  llm_score: 50
-  recency_score: 98.10046472287257
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: a-new-hope
-  title: A NEW HOPE
-  score: 43.831523563636445
-  llm_score: 20
-  recency_score: 97.03126049090956
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: deaf-ears
-  title: DEAF EARS
-  score: 35.635310681151786
-  llm_score: 30
-  recency_score: 9.903036416622752
-  length_score: 100
-  category_score: 0
-  rank: 10
+post_slug: kristy-haygood-is-not-qualified-2
+generated: 2026-09-09T01:06:38.255804-05:00
+articles:
+  - slug: key-figures
+    title: KEY FIGURES - WRONGFUL CONVICTION
+    score: 94
+    rank: 1
+  - slug: dear-congressman-bradley-byrne
+    title: Dear Congressman Bradley Byrne
+    score: 94
+    rank: 2
+  - slug: you-show-me-yours-and-i-will-show-you-mine-letter-that-is
+    title: YOU SHOW ME YOURS AND I WILL SHOW YOU MINE, Letter that is.
+    score: 93
+    rank: 3
+  - slug: blast-from-the-past
+    title: HANKY PANK AT THE PO PO - A BLAST FROM THE PAST
+    score: 85
+    rank: 4
+  - slug: this-is-a-test
+    title: THIS IS A TEST
+    score: 80
+    rank: 5
+  - slug: im-back
+    title: I'M BACK
+    score: 72
+    rank: 6
+  - slug: a-slap-on-the-wrist
+    title: A SLAP ON THE WRIST
+    score: 25
+    rank: 7
+  - slug: kristy-haygood-is-not-qualified
+    title: KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 1
+    score: 24
+    rank: 8
+  - slug: no-justice
+    title: NO JUSTICE
+    score: 24
+    rank: 9
+  - slug: not-qualified
+    title: NOT QUALIFIED
+    score: 24
+    rank: 10
+  - slug: guilty-audiobook
+    title: GUILTY - HEAR THE AUDIOBOOK
+    score: 24
+    rank: 11
+  - slug: wrongful-conviction-fairhope-baldwin-county
+    title: Wrongful Conviction Fairhope, Baldwin County
+    score: 24
+    rank: 12
+  - slug: boycott-mcsharrys
+    title: BOYCOTT McSHARRY’S
+    score: 24
+    rank: 13
+  - slug: dirty-judge-misuse-of-justice
+    title: Dirty Judge and Misuse of Justice
+    score: 24
+    rank: 14
+  - slug: mountain-medicine
+    title: Darryl Patton Mountain Medicine
+    score: 24
+    rank: 15
+  - slug: loser
+    title: LOSER
+    score: 24
+    rank: 16
+  - slug: writ-of-mandamus-update
+    title: 'WRIT OF MANDAMUS: UPDATE'
+    score: 24
+    rank: 17
+  - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+    title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+    score: 24
+    rank: 18
+  - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics
+    title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+    score: 24
+    rank: 19
+  - slug: deaf-ears
+    title: DEAF EARS
+    score: 24
+    rank: 20

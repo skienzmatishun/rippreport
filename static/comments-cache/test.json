@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "pageId": "test",
+  "originalPageId": "/test",
+  "commentCount": 1,
+  "totalCount": 1,
+  "rootCount": 1,
+  "lastCommentAt": "2025-11-18 01:26:12",
+  "generatedAt": "2026-09-09T21:04:50.138Z",
+  "frozen": false,
+  "comments": [
+    {
+      "id": 6,
+      "pageId": "/test",
+      "parentId": null,
+      "authorName": "Test User",
+      "content": "Test comment",
+      "createdAt": "2025-11-18 01:26:12",
+      "updatedAt": "2025-11-18 01:26:12",
+      "replies": []
+    }
+  ]
+}
