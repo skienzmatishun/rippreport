@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a34fec018a93b4aa-MIA
+Cf-Ray: a3911c85fe34f70c-MIA
 Content-Type: application/json
-Date: Wed, 02 Sep 2026 22:23:55 GMT
+Date: Thu, 10 Sep 2026 20:16:37 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mk7Syp8EjNXmCnPiKGYK75uVwjm2FiKzxPFLtwdh%2Fuvt8urZhalJqYbQrsngqWI4ch2Op5Yxjgk%2FaZ9YEoqPvA5%2BBxxcUwBEtbY03CmAElEmU2rHrskXhBbhfTwZCUO45kkywN%2BiU%2Fu8goUby%2B0nNK4ZgQ%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Q0qI0w5WC6TKfeKkw0Ci3p1kmFDtq%2BTsTLOfb3cxmSJ35u%2FayUaFGorUBFLcc%2FBbHmWOBH4olgnLM7OISf09%2B2scNrn6k3aARsfq6KIOAeN1Sp%2FvLQHtLDJ0SNdCaeJduzcUxHsc72MEdrYSY9ieKXy6pg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=541
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=214
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 7b387b51ec480f6bbdf8701140c89531
-X-Etags-2: 7b387b51ec480f6bbdf8701140c89531
+X-Etags-1: 6848f4a42370b5f40a826d91c5d5ae8c
+X-Etags-2: 6848f4a42370b5f40a826d91c5d5ae8c
 
-{"title":"Justices blast Mobile attorney, spotlight AI rule gap","description":"Appeal briefs by a Mobile County lawyer containing fake and hallucinated citations have sparked calls for overhauling rules around AI abuse in the courtroom.","url":"https://www.lagniappemobile.com/news/alabama/justices-blast-local-attorney-spotlight-ai-rule-gap/article_18256630-f1d7-46ca-aeb3-6e4d72c352c8.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/5/fa/5fa68951-0cf1-4952-9a6b-ddca7f607a2a/69f111e16b074.image.png?crop=1610%2C845%2C0%2C221&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/news/alabama/justices-blast-local-attorney-spotlight-ai-rule-gap/article_18256630-f1d7-46ca-aeb3-6e4d72c352c8.html","wasRedirected":false}
+{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/news/alabama/justices-blast-local-attorney-spotlight-ai-rule-gap/article_18256630-f1d7-46ca-aeb3-6e4d72c352c8.html","title":"Preview unavailable","description":"Could not fetch preview data"}

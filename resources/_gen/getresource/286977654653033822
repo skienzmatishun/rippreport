@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a34fec9d7b89b4aa-MIA
+Cf-Ray: a3911cfac828f70c-MIA
 Content-Type: application/json
-Date: Wed, 02 Sep 2026 22:24:20 GMT
+Date: Thu, 10 Sep 2026 20:16:56 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8zZPL38n6a1TL0QKVQiXens2RkZOOW%2BRnKBDQkKnSTC4pKkswsUXe01vpc9mBKE4kxei6MeWtyN3H39RO4aOhG%2Bwq3fJ7BSzRegct%2BMyj2Kz6jkqeu5a2ifmQdSye1Xo4glHcDy45LlvWWUJ34mj7LFErA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yy%2BLOuG5yvOIBdxrkJ6R0Zb9rheNA80l6LRnsVJH2aGbW%2Fw1eX9Nq2lJBcoXY3uhtd199Jrezklhxgv%2FQajnY2zD2FxNhxHOH61Wq2859cajnKe8Qdl44nWMlicApA5Kq4Df6rSfFd3PVSLz4LfPOPQ2eA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=650
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=622
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 56c53d3737b60ca157dd1a12014b9716
-X-Etags-2: 56c53d3737b60ca157dd1a12014b9716
+X-Etags-1: c0721ebc295d9809728340091e2cb0ff
+X-Etags-2: c0721ebc295d9809728340091e2cb0ff
 
-{"title":"The Fairhope Times ","description":"Community news and events in Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKUTjl6HBKRyzOOqO3IeU6RNTsTeeKzlTCBORDZHuvXl6LvQ7dRfm-Ffj6tPo26hMd9a8_8Fjdl29qf-qdaQ6U1rLR_ZAKmasV7RUs-UlhQpyo59HN2NXPSCu_SNO6eKrfYEkp3ru5cj8-1SAB1W-iCOuofCtK25Pa20kJbiK5dxN9y8j7GTtCnZCTx58/w1200-h630-p-k-no-nu/odor.jpeg","charset":"utf-8","originalUrl":"https://thefairhopetimes.blogspot.com/","wasRedirected":false}
+{"title":"The Fairhope Times ","description":"Community news and events in Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh650lkCikMmS8D7MJnSZHgEURlHzo3I9UXWG1bvwCfAGreBymPxebT6NOCnUCjH2sLOoiXOaicmM6RJPqTBJiPrnjfrUpj-baRGV8aR7QTdWghdHSM3Xe2B4_KfhvyzD1L9FAobbMMtT9u0k6lI5MkzkwevCmXIs8MFYnbQPt4mI_2RYulLZLy5coBscs/w1200-h630-p-k-no-nu/parker%20road.jpeg","charset":"utf-8","originalUrl":"https://thefairhopetimes.blogspot.com/","wasRedirected":false}

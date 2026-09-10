@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a34fec347d11b4aa-MIA
+Cf-Ray: a3911caa7ca7f70c-MIA
 Content-Type: application/json
-Date: Wed, 02 Sep 2026 22:24:04 GMT
+Date: Thu, 10 Sep 2026 20:16:42 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2gjswmYVAbOJtATLNSqAdtCQD%2Bc9MhSfy8P6qq24X08hylEpVQycqQ8BnPCbCmPPwviBdRNnB8hHskknr1SF74xVP9g5icsik7Ru3wyoClCLCcnWeXfVRk6Dw5aQ95oSCqTpu933BJCoNHm%2FMaa5adYljA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=44SVNd49AYs9Wgx54zD93UWdA9RP9JpHVZSZQsck7%2Bd2d99g0ou6HFOnrVIrBuvFLqKvDyFX2nXeAuL0MAomR2RdRbD4Pw%2BOnyCcWDKdHVv%2B2jXDBbEVE8i72NEeBNySYjXBterCq5LUEbl3mG17s%2BU44A%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=902
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=239
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 008bb5a479b89176b9d3be30928ebaf1
-X-Etags-2: 008bb5a479b89176b9d3be30928ebaf1
+X-Etags-1: a4985acb6fc98f1ebc67f7c8ce8e031a
+X-Etags-2: a4985acb6fc98f1ebc67f7c8ce8e031a
 
-{"title":"Marshall reveals a lot with Hart firing","description":"At least we didn’t have to wait long to find out what Steve Marshall is all about. Alabama’s newly elected attorney general took just 13 days before giving comfort to","url":"https://www.lagniappemobile.com/opinion/columnists/dtt/marshall-reveals-a-lot-with-hart-firing/article_20eb7d0d-8996-561e-8bd7-642f64fd0a28.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/b/53/b5395e7e-804e-531f-b153-0d3ba858fef7/630ebc0bdf119.image.jpg?crop=1625%2C853%2C0%2C1&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/opinion/columnists/dtt/marshall-reveals-a-lot-with-hart-firing/article_20eb7d0d-8996-561e-8bd7-642f64fd0a28.html","wasRedirected":false}
+{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/opinion/columnists/dtt/marshall-reveals-a-lot-with-hart-firing/article_20eb7d0d-8996-561e-8bd7-642f64fd0a28.html","title":"Preview unavailable","description":"Could not fetch preview data"}

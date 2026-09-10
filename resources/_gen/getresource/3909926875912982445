@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a34febec4879b4aa-MIA
+Cf-Ray: a3911c6d5e8cf70c-MIA
 Content-Type: application/json
-Date: Wed, 02 Sep 2026 22:23:51 GMT
+Date: Thu, 10 Sep 2026 20:16:33 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=M0jYV%2FRXLqAHRLoEZKc5Q1d1tiOdYuCp5CfLhSd3T5%2BucdWNC%2FJ8%2BY4%2B3qJg2pM2RZM5w14bCIQK1p%2BVbujiE45tgsGZPfIjVT1EvS%2BmXUbxZHOr1aDEbmhFn%2FmGyDu1c6XmvSh7qO24GGm4ohDGJeWs%2FA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=1BrEeh3EL5nQRgfIsEI9AJIG%2BH35Es96uGKoVc5mtGunGxGNsn9A4wlXLf%2BBV0UJ8xqxt7cTF7YmBqI3a%2FfT4ctojZz3lHY0AGFtdk3F%2F%2FGSQLdU2jcy2NwdkMi5rDufcHjR%2BJXlUT4kuS4J34q%2FSh3EMQ%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=239
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=635
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: eb80e507e7499d54b861712cf2264f9d
-X-Etags-2: eb80e507e7499d54b861712cf2264f9d
+X-Etags-1: e901887185869817e0959d2ec5443434
+X-Etags-2: e901887185869817e0959d2ec5443434
 
-{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/news/big-cheese-title-could-cost-98-year-old-woman-her-home/article_908904fe-6cf6-4ba9-8431-d73f4f039862.html","title":"Preview unavailable","description":"Could not fetch preview data"}
+{"title":"‘Big Cheese’ title could cost 98-year-old woman her home","description":"Paul Shalhub says when his company leased a Daphne office three years ago, he was looking for something he could do that would still allow him to take care of","url":"https://www.lagniappemobile.com/news/big-cheese-title-could-cost-98-year-old-woman-her-home/article_908904fe-6cf6-4ba9-8431-d73f4f039862.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/6/f2/6f242921-dc28-4f94-b440-5acb458a5c53/6a22e5abc404d.image.png?crop=726%2C381%2C0%2C104","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/news/big-cheese-title-could-cost-98-year-old-woman-her-home/article_908904fe-6cf6-4ba9-8431-d73f4f039862.html","wasRedirected":false}

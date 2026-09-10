@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a34fec495ddbb4aa-MIA
+Cf-Ray: a3911cb5cb91f70c-MIA
 Content-Type: application/json
-Date: Wed, 02 Sep 2026 22:24:06 GMT
+Date: Thu, 10 Sep 2026 20:16:45 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rgYXnv%2Fuk6ehUfTAwwEG9WezAGyWGPMJVlwSKX4a%2FU8K%2Bm7xPcycjzqD2IJaUjRMSYlvHPIlY94ggSxJG7VxdnOUJPQBJx9MTynXdAsam%2BTUEUAOBiLA57J%2BJb1%2B5xsfcPZbJeU3xKX4Y0V%2FQ58uN2lESQ%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3aau5cyc7Zmch6EYHJqNshs7AT%2FAcdzj8C1hj6pJuLJn4b27DSf%2F5WIS8%2B8EHzlZTwqEl3nT%2FcO6e2Tcxa%2FsXBx6k5QrvZAJMFlz6owvnf56x96BrkelYnTipRBPJguoouY%2BrWcoCTTKFnevrDoTF1gPDg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=143
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=588
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: ce5b3a932dbb6acad364d53528e4cc9d
-X-Etags-2: ce5b3a932dbb6acad364d53528e4cc9d
+X-Etags-1: dc74370b6425669dd0ad2ce28eb9c0d5
+X-Etags-2: dc74370b6425669dd0ad2ce28eb9c0d5
 
-{"error":"Upstream returned 410","url":"https://www.corporationwiki.com/","title":"Preview unavailable","description":"Could not fetch preview data"}
+{"title":"corp.wiki","url":"https://corp.wiki/?inboundsource=/","charset":"utf-8","originalUrl":"https://www.corporationwiki.com/","wasRedirected":true}

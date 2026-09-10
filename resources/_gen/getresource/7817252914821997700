@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a34fec17cc23b4aa-MIA
+Cf-Ray: a3911c8e0f32f70c-MIA
 Content-Type: application/json
-Date: Wed, 02 Sep 2026 22:24:00 GMT
+Date: Thu, 10 Sep 2026 20:16:39 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VQi2j2GUhaYBE1CRnAPJmhz10nkoSoiV3eT3jJOf3TpFzLNs8TcSBEahSJcmLK8j%2BA37HdIkVWSKbIyvbqpGj0mRCUCISnIggcm7VF71Nx2ffcJPPcOAGkN8slrHX1zOPV8PHZWwf3wtw%2FS9H0XtkoUTmg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=SR7g6xo7ofXyRHRKd0eY1Ka6aie3Z3BolpSfGL8Fv2kIyXWvHsu3qzHNYGKtg0HzMo9PXdupPM4VoUzQjTOk3x63sdVhxxyiy0A81tYZZxlcFxK0Bq3ZAZRq9PpB%2B1Itw3lyrTiZJyZZ1u%2FKcRCtK6k%2FeQ%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=1349
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=1433
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 1a5c246576546dac56dae713ddccccea
-X-Etags-2: 1a5c246576546dac56dae713ddccccea
+X-Etags-1: 09a5e446268d39d2bc999070b5e33553
+X-Etags-2: 09a5e446268d39d2bc999070b5e33553
 
-{"title":"YouTube is not currently available on this device.","description":"To learn more, please visit the YouTube Help Center: https://www.youtube.com/help","url":"https://www.youtube.com/watch?v=9xp1XWmJ_Wo","image":"https://i.ytimg.com/vi/9xp1XWmJ_Wo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAs9YunhmCZvNCUXY_lxSowLVfvVA","charset":"utf-8","originalUrl":"https://www.youtube.com/watch?t=3602","wasRedirected":false}
+{"title":" - YouTube","description":"YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。","url":"https://www.youtube.com/undefined","charset":"utf-8","originalUrl":"https://www.youtube.com/watch?t=3602","wasRedirected":false}
