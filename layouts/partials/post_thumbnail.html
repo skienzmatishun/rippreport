@@ -85,7 +85,10 @@
                         {{ partial "image-url.html" (dict "path" $thumbnail "width" 750 "quality" 85) }} 750w,
                         {{ partial "image-url.html" (dict "path" $thumbnail "width" 1000 "quality" 85) }} 1000w"
                 sizes="(max-width: 480px) 400px, (max-width: 768px) 600px, (max-width: 1024px) 750px, 1000px"
+                width="1200"
+                height="630"
                 alt="{{ if $page.Params.alttags }}{{ $page.Params.alttags }}{{ else }}{{ $page.Title }}{{ end }}"
+                style="width: 100%; height: auto; display: block;"
                 {{- if and (eq $class "list") (gt $index 0) }}
                 loading="lazy"
                 {{- else if or (eq $class "post") (and (eq $class "list") (eq $index 0)) }}

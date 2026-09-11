@@ -261,6 +261,9 @@
   .widget__thumbnail {
     min-height: 175px;
     color: #585858;
+    aspect-ratio: 336 / 174;
+    overflow: hidden;
+    position: relative;
   }
 
 .alabama__widget__link p.widget__summary, .alabama__widget__link .widget__thumbnail {margin-bottom:0;}
@@ -399,8 +402,13 @@
     margin: 1rem;
   }
   .thumbnail__video {
-    min-height: 279px;
     position: relative;
+  }
+  
+  /* Only apply min-height to actual video embeds */
+  .thumbnail__video:has(.video-container) {
+    min-height: 279px;
+    aspect-ratio: 16 / 9;
   }
 
   .video-container {
@@ -409,6 +417,7 @@
     left: 0;
     width: 100%;
     height: 100%;
+    aspect-ratio: 16 / 9;
   }
 
   .thumbnail__iframe {

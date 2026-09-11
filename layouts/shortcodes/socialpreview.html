@@ -145,7 +145,7 @@
                         width="306"
                         height="161"
                         onerror="this.onerror=null; this.style.display='none'; this.parentElement.parentElement.classList.add('no-image');"
-                        style="object-fit: cover; background-color: #eee;"
+                        style="aspect-ratio: 306 / 161; object-fit: cover; background-color: #eee; width: 100%; height: auto; display: block;"
                     >
                 {{- else -}}
                     {{/* Use regular img for local images */}}
@@ -156,7 +156,7 @@
                         width="306"
                         height="161"
                         onerror="this.onerror=null; this.style.display='none'; this.parentElement.parentElement.classList.add('no-image');"
-                        style="object-fit: cover; background-color: #eee;"
+                        style="aspect-ratio: 306 / 161; object-fit: cover; background-color: #eee; width: 100%; height: auto; display: block;"
                     >
                 {{- end -}}
             {{- end -}}

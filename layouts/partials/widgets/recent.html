@@ -71,10 +71,10 @@
         <a class='widget__link {{ if in $page.Params.categories "backstory-podcast" }}backstory__widget__link{{ end }}{{ if in $page.Params.categories "dixie-podcast" }}dixie__widget__link{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__widget__link{{ end }}{{ if in $page.Params.categories "repost" }}repost__widget__link{{ end }}{{ if in $page.Params.categories "elections" }}elections__widget__link{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__widget__link{{ end }}' href='{{ $page.RelPermalink }}'>
           <h4 class='{{ if in $page.Params.categories "backstory-podcast" }}backstory__title{{ end }}{{ if in $page.Params.categories "dixie-podcast" }}dixie__title{{ end }}{{ if in $page.Params.categories "holiday" }}holiday__title{{ end }}{{ if in $page.Params.categories "repost" }}repost__title{{ end }}{{ if in $page.Params.categories "elections" }}elections__title{{ end }}{{ if in $page.Params.categories "alabama" }}alabama__title{{ end }}'>{{ $page.Title | safeHTML }}</h4>
           {{- if $page.Params.thumbnail -}}
-          <div class='widget__thumbnail'>
-            <img width='336' height='174' {{ if gt $shown 1 }}loading='lazy' {{ end }}
+          <div class='widget__thumbnail' style='aspect-ratio: 336 / 174;'>
+            <img width='336' height='174' {{ if gt $shown 1 }}loading='lazy'{{ else }}fetchpriority='high'{{ end }}
               src='{{ partial "image-url.html" (dict "path" $page.Params.thumbnail "width" 336 "quality" 85 "onerror" "redirect") }}'
-              alt='{{ $page.Title | safeHTML }}' class='widget__thumbnail-image'>
+              alt='{{ $page.Title | safeHTML }}' class='widget__thumbnail-image' style='width: 100%; height: 100%; object-fit: cover;'>
             {{- $webpAnimated := $page.Params.webp_animated -}}
             {{- $gif := $page.Params.gif -}}
             {{- $animatedSrc := $webpAnimated | default $gif -}}
