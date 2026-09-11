@@ -875,7 +875,7 @@
       min-width: none;
     }
 
-    .thumbnail__video {
+    .thumbnail__video:has(.video-container) {
       min-height: 200px;
       height: initial;
     }
@@ -901,7 +901,7 @@
   }
   @media (min-width: 768px) and (max-width: 991.98px) {
     /* Styles for medium screens */
-    .thumbnail__video {
+    .thumbnail__video:has(.video-container) {
       min-height: 250px;
     }
     .widget__summary {
@@ -909,7 +909,7 @@
     }
   }
   @media (min-width: 975.98px) {
-    .thumbnail__video {
+    .thumbnail__video:has(.video-container) {
       min-height: 355px;
     }
   }
@@ -921,7 +921,7 @@
 
   /* Extra large devices (large desktops, 1200px and up) */
   @media (min-width: 1200px) {
-    .thumbnail__video {
+    .thumbnail__video:has(.video-container) {
       min-height: 379px;
     }
   }
