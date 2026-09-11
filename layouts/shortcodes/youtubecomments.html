@@ -21,35 +21,20 @@
 {{/* Build worker URL */}}
 {{- $workerURL := printf "%s?videoId=%s&maxResults=%s&order=%s" $workerBaseURL $videoId $maxResults $order -}}
 
-{{/* Fetch comments from worker - only in production */}}
+{{/* Fetch comments from worker - silently fail if unavailable */}}
 {{- $result := try (resources.GetRemote $workerURL) -}}
 {{- $json := "" -}}
-{{- $errorMessage := "" -}}
 
 {{- if hugo.IsProduction -}}
-  {{/* Only check worker in production */}}
-  {{- if $result.Err -}}
-      {{- $errorMessage = printf "Error fetching YouTube comments: %s" $result.Err -}}
-      {{- warnf $errorMessage -}}
-  {{- else if not $result.Value -}}
-      {{- $errorMessage = "No response from YouTube comments worker" -}}
-      {{- warnf $errorMessage -}}
-  {{- else -}}
+  {{/* In production, try to fetch but don't warn on failure */}}
+  {{- if and (not $result.Err) $result.Value -}}
       {{- with $result.Value.Content -}}
           {{- $json = . | unmarshal -}}
           {{- if not (reflect.IsMap $json) -}}
-              {{- $errorMessage = "Invalid JSON from worker" -}}
-              {{- warnf $errorMessage -}}
               {{- $json = "" -}}
           {{- end -}}
-      {{- else -}}
-          {{- $errorMessage = "Empty response from worker" -}}
-          {{- warnf $errorMessage -}}
       {{- end -}}
   {{- end -}}
-{{- else -}}
-  {{/* In development, silently skip worker check */}}
-  {{- $json = "" -}}
 {{- end -}}
 
 {{/* Render comments */}}

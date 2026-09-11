@@ -1,6 +1,6 @@
 ---
 title: Mabel Amos scholarship list revealed - Lagniappe
-date: 2026-10-05
+date: 2026-09-11
 thumbnail: img/mabel-amos-scholarship-list-revealed.png
 categories:
 - external
