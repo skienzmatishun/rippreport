@@ -1,7 +1,7 @@
 ---
 title: Mabel Amos scholarship list revealed - Lagniappe
 date: 2026-09-11
-thumbnail: https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/8/e8/8e857cfa-8c85-11ed-9a05-eff13364b01c/63b6087cd6d6c.image.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize
+thumbnail: img/mabel-amos-scholarship-list-revealed.png
 categories:
 - external
 tags:
