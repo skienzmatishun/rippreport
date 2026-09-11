@@ -1105,3 +1105,5 @@ Ashley Trice contributed to the information gathering for this story.
 Rob Holbert is a co-publisher and managing editor of Lagniappe. He can be emailed at rholbert@lagniappemobile.com
 
 {{< socialpreview url=https://www.lagniappemobile.com/news/mabel-amos-scholarship-list-revealed/article_f4f1338e-80cb-4b5f-8c72-7e772dde69d1.html >}}
+
+{{< aicomments >}}
