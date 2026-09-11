@@ -165,6 +165,11 @@ async function handleRequest(request) {
           margin-top: 60px;
         }
       }
+      
+      /* Hide recent comments widget initially for lazy loading */
+      .widget-recent-comments {
+        display: none;
+      }
     </style>
   `;
 
@@ -262,10 +267,53 @@ async function handleRequest(request) {
     </script>
   `;
 
+  // Desktop lazy loading script
+  const desktopScript = `
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        if (window.innerWidth <= 768) return;
+
+        // Lazy load recent comments widget on desktop when reaching 5th post
+        const recentCommentsWidget = document.querySelector('.widget-recent-comments');
+        const posts = document.querySelectorAll('.list__item');
+        
+        if (recentCommentsWidget && posts.length >= 5) {
+          const fifthPost = posts[4]; // 0-indexed, so 4 = 5th post
+          
+          // Set up Intersection Observer to detect when 5th post comes into view
+          const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+              if (entry.isIntersecting) {
+                // User scrolled to 5th post, show and load comments
+                recentCommentsWidget.style.display = 'block';
+                window.dispatchEvent(new CustomEvent('loadRecentComments'));
+                
+                // Stop observing after first load
+                observer.disconnect();
+              }
+            });
+          }, {
+            rootMargin: '300px' // Start loading 300px before the 5th post
+          });
+          
+          observer.observe(fifthPost);
+        } else if (recentCommentsWidget && posts.length < 5) {
+          // If there are fewer than 5 posts, show and load comments immediately
+          recentCommentsWidget.style.display = 'block';
+          window.dispatchEvent(new CustomEvent('loadRecentComments'));
+        } else if (recentCommentsWidget && posts.length === 0) {
+          // Not a list page (e.g., single post page), show and load immediately
+          recentCommentsWidget.style.display = 'block';
+          window.dispatchEvent(new CustomEvent('loadRecentComments'));
+        }
+      });
+    </script>
+  `;
+
   // Inject styles and scripts
   html = html
     .replace("</head>", `${mobileStyles}</head>`)
-    .replace("</body>", `${mobileScript}</body>`);
+    .replace("</body>", `${mobileScript}${desktopScript}</body>`);
 
   return new Response(html, {
     status: response.status,

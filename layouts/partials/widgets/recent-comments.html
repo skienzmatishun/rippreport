@@ -274,28 +274,18 @@
     }
 
     /**
-     * Initialize lazy loading for mobile
+     * Initialize lazy loading (for both mobile and desktop)
      */
-    function initMobileLazyLoad() {
-      // On mobile, wait for custom event to trigger loading
+    function initLazyLoad() {
+      // Wait for custom event to trigger loading
       window.addEventListener('loadRecentComments', loadRecentComments, { once: true });
     }
 
-    // Load comments based on device type
+    // Always use lazy loading (mobile waits for sidebar, desktop waits for 5th post)
     if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', function() {
-        if (isMobile()) {
-          initMobileLazyLoad();
-        } else {
-          loadRecentComments();
-        }
-      });
+      document.addEventListener('DOMContentLoaded', initLazyLoad);
     } else {
-      if (isMobile()) {
-        initMobileLazyLoad();
-      } else {
-        loadRecentComments();
-      }
+      initLazyLoad();
     }
   })();
 </script>
