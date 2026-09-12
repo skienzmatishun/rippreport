@@ -5,10 +5,29 @@
   <h3 class="widget__title">Recent Comments</h3>
   <div class="widget__content">
     <div id="recent-comments-list" class="recent-comments">
-      <div class="recent-comments__loading">Loading comments...</div>
+      <div class="recent-comments__loading">
+        <span class="eagle-spinner">🦅</span>
+      </div>
     </div>
   </div>
 </div>
+
+<style>
+  .eagle-spinner {
+    display: inline-block;
+    font-size: 2em;
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+</style>
 
 <script>
   (function () {

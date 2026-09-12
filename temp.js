@@ -246,7 +246,11 @@ async function handleRequest(request) {
         if (posts.length === 0 || posts.length < 5) {
           console.log('[Desktop] Loading immediately (posts:', posts.length, ')');
           recentCommentsWidget.style.display = 'block';
-          window.dispatchEvent(new CustomEvent('loadRecentComments'));
+          
+          // Use setTimeout to ensure the widget's event listener is set up first
+          setTimeout(() => {
+            window.dispatchEvent(new CustomEvent('loadRecentComments'));
+          }, 100);
           return;
         }
 
