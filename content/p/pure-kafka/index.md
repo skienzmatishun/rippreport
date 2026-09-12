@@ -98,4 +98,4 @@ We are joined from Pensacola Beach by former Mobile County Commissioner Stephen 
 
 {{< aicomments "kafka" >}}
 
-{{< mailchimp >}}
+ 

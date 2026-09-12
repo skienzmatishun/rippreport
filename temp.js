@@ -6,50 +6,36 @@ async function handleRequest(request) {
   const { pathname, search } = url;
 
   // Never redirect the Hugo/Cactus comment cache.
-  // This must happen before any legacy redirect logic.
   if (pathname.startsWith("/comments-cache/")) {
     return fetch(request, {
-  cf: { cacheEverything: true, cacheTtl: 3600 },
-});
+      cf: { cacheEverything: true, cacheTtl: 3600 },
+    });
   }
 
   // Proxy for Rumble assets
   if (pathname.startsWith("/proxy/rumble/")) {
     const rumbleAssetPath = pathname.replace("/proxy/rumble/", "");
     const rumbleURL = `https://rumble.com/${rumbleAssetPath}`;
-
     return fetch(rumbleURL);
   }
 
   // Handle robots.txt explicitly
   if (pathname === "/robots.txt") {
     return fetch(request, {
-  cf: { cacheEverything: true, cacheTtl: 3600 },
-});
+      cf: { cacheEverything: true, cacheTtl: 3600 },
+    });
   }
 
   // Do not redirect category/tag pages
   if (pathname.includes("/categories/") || pathname.includes("/tags/")) {
     return fetch(request, {
-  cf: { cacheEverything: true, cacheTtl: 3600 },
-});
-  }
-
-  // Redirect legacy dated image/PDF URLs to Google Cloud Storage
-  if (
-    pathname.match(/^\/\d{4}\/\d{2}\/.+?\.(jpe?g|png|gif|pdf)$/i)
-  ) {
-    const destinationURL =
-      `https://storage.googleapis.com/stateless-rippreport-com${pathname}${search}`;
-
-    return Response.redirect(destinationURL, statusCode);
+      cf: { cacheEverything: true, cacheTtl: 3600 },
+    });
   }
 
   // Redirect legacy dated post URLs to /p/
   if (pathname.match(/^\/\d{4}\/\d{2}\/(.+)/i)) {
-    const destinationURL =
-      `${base}/p/${pathname.substring(12)}${search}`;
-
+    const destinationURL = `${base}/p/${pathname.substring(12)}${search}`;
     return Response.redirect(destinationURL, statusCode);
   }
 
@@ -64,9 +50,7 @@ async function handleRequest(request) {
 
   // Legacy redirect: /whatever -> /p/whatever
   if (pathname !== "/" && !skipLegacyPRedirect) {
-    const destinationURL =
-      `${base}/p${pathname}${search}`;
-
+    const destinationURL = `${base}/p${pathname}${search}`;
     return Response.redirect(destinationURL, statusCode);
   }
 
@@ -74,29 +58,22 @@ async function handleRequest(request) {
   const response = await fetch(request);
 
   const userAgent = request.headers.get("User-Agent") || "";
+  const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
-  // Check if mobile device
-  const isMobile =
-    /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
-      userAgent
-    );
-
-  // Leave desktop requests untouched
+  // Leave desktop requests untouched for non-HTML
   if (!isMobile) {
-  return new Response(response.body, {
-    status: response.status,
-    statusText: response.statusText,
-    headers: {
-      ...Object.fromEntries(response.headers),
-      "Cache-Control": "public, max-age=3600",
-    },
-  });
-}
+    return new Response(response.body, {
+      status: response.status,
+      statusText: response.statusText,
+      headers: {
+        ...Object.fromEntries(response.headers),
+        "Cache-Control": "public, max-age=3600",
+      },
+    });
+  }
 
   // Only transform text/html responses
-  const contentType =
-    response.headers.get("Content-Type") || "";
-
+  const contentType = response.headers.get("Content-Type") || "";
   if (!contentType.includes("text/html")) {
     return response;
   }
@@ -107,7 +84,6 @@ async function handleRequest(request) {
   const mobileStyles = `
     <style>
       @media (max-width: 768px) {
-
         .title-logo[style*="margin-right"],
         .title-logo[style*="margin-left"] {
           margin: 0 !important;
@@ -180,7 +156,6 @@ async function handleRequest(request) {
         if (window.innerWidth > 768) return;
 
         const logo = document.querySelector('.logo__link');
-
         if (!logo) return;
 
         let siteTitles = logo.querySelector('.site-titles');
@@ -190,9 +165,7 @@ async function handleRequest(request) {
           siteTitles = document.createElement('div');
           siteTitles.className = 'site-titles';
 
-          const titleSpans =
-            logo.querySelectorAll('.title-logo');
-
+          const titleSpans = logo.querySelectorAll('.title-logo');
           titleSpans.forEach(span => {
             siteTitles.appendChild(span.cloneNode(true));
             span.remove();
@@ -205,25 +178,17 @@ async function handleRequest(request) {
           postTitle = document.createElement('span');
           postTitle.className = 'post-title';
 
-          const currentPath =
-            window.location.pathname;
-
-          if (
-            currentPath !== '/' &&
-            document.querySelector('h1')
-          ) {
-            postTitle.textContent =
-              document.querySelector('h1').textContent;
+          const currentPath = window.location.pathname;
+          if (currentPath !== '/' && document.querySelector('h1')) {
+            postTitle.textContent = document.querySelector('h1').textContent;
           }
 
           logo.appendChild(postTitle);
         }
 
         const scrollThreshold = 100;
-
         window.addEventListener('scroll', () => {
           const currentScroll = window.pageYOffset;
-
           if (window.location.pathname !== '/') {
             if (currentScroll > scrollThreshold) {
               siteTitles.style.display = 'none';
@@ -240,26 +205,17 @@ async function handleRequest(request) {
         const recentArticlesWidget = document.querySelector('.widget-recent');
         
         if (recentCommentsWidget && recentArticlesWidget) {
-          // Initially hide the comments on mobile
           recentCommentsWidget.style.display = 'none';
           
-          // Set up Intersection Observer to detect when recent articles widget is visible
           const observer = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
               if (entry.isIntersecting) {
-                // User scrolled to recent articles widget, show and load comments
                 recentCommentsWidget.style.display = 'block';
-                
-                // Trigger comment loading
                 window.dispatchEvent(new CustomEvent('loadRecentComments'));
-                
-                // Stop observing after first load
                 observer.disconnect();
               }
             });
-          }, {
-            rootMargin: '200px' // Start loading 200px before the widget comes into view
-          });
+          }, { rootMargin: '200px' });
           
           observer.observe(recentArticlesWidget);
         }
@@ -273,39 +229,31 @@ async function handleRequest(request) {
       document.addEventListener('DOMContentLoaded', function() {
         if (window.innerWidth <= 768) return;
 
-        // Lazy load recent comments widget on desktop when reaching 5th post
         const recentCommentsWidget = document.querySelector('.widget-recent-comments');
         const posts = document.querySelectorAll('.list__item');
-        
-        if (recentCommentsWidget && posts.length >= 5) {
-          const fifthPost = posts[4]; // 0-indexed, so 4 = 5th post
-          
-          // Set up Intersection Observer to detect when 5th post comes into view
-          const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-              if (entry.isIntersecting) {
-                // User scrolled to 5th post, show and load comments
-                recentCommentsWidget.style.display = 'block';
-                window.dispatchEvent(new CustomEvent('loadRecentComments'));
-                
-                // Stop observing after first load
-                observer.disconnect();
-              }
-            });
-          }, {
-            rootMargin: '300px' // Start loading 300px before the 5th post
-          });
-          
-          observer.observe(fifthPost);
-        } else if (recentCommentsWidget && posts.length < 5) {
-          // If there are fewer than 5 posts, show and load comments immediately
+
+        if (!recentCommentsWidget) return;
+
+        // Not a list page or fewer than 5 posts - load immediately
+        if (posts.length === 0 || posts.length < 5) {
           recentCommentsWidget.style.display = 'block';
           window.dispatchEvent(new CustomEvent('loadRecentComments'));
-        } else if (recentCommentsWidget && posts.length === 0) {
-          // Not a list page (e.g., single post page), show and load immediately
-          recentCommentsWidget.style.display = 'block';
-          window.dispatchEvent(new CustomEvent('loadRecentComments'));
+          return;
         }
+
+        // List page with 5+ posts - lazy load at 5th post
+        const fifthPost = posts[4];
+        const observer = new IntersectionObserver((entries) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              recentCommentsWidget.style.display = 'block';
+              window.dispatchEvent(new CustomEvent('loadRecentComments'));
+              observer.disconnect();
+            }
+          });
+        }, { rootMargin: '300px' });
+
+        observer.observe(fifthPost);
       });
     </script>
   `;

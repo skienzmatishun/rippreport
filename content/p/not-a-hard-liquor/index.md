@@ -99,4 +99,4 @@ Meemaw AKA Alabama Governor Kay Ivey has a new alcoholic beverage sporting her l
 
 {{< aicomments "notahardliquor" >}}
 
-{{< mailchimp >}}
+ 

@@ -137,4 +137,4 @@ Politicians like Mr Elliott are the foundation of Alabama political corruption. 
 
 {{< aicomments "fascism" >}}
 
-{{< mailchimp >}}
+ 

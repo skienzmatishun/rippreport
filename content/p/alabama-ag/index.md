@@ -253,4 +253,4 @@ The Ripp Reporter
 
 {{< aicomments "alag" >}}
 
-{{< mailchimp >}}
+ 

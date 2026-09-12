@@ -143,4 +143,4 @@ You think this is bad? Stay tuned.
 
 {{< aicomments "jvs" >}}
 
-{{< mailchimp >}}
+ 

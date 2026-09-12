@@ -12,4 +12,4 @@ Happy Birthday to the US Marine Corps, stalwart guardians of valor and resolve! 
 
 {{< aicomments "marinez" >}}
 
-{{< mailchimp >}}
+ 

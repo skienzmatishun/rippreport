@@ -170,4 +170,4 @@ It’s called FAUXHOPE for a reason.
 
 {{< aicomments "tunnel" >}}
 
-{{< mailchimp >}}
+ 

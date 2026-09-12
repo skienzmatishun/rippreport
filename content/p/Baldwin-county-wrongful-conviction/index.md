@@ -121,4 +121,4 @@ You can purchase the book at Page and Pallet Bookstore or order it online
 
 {{< aicomments "bcwc" >}}
 
-{{< mailchimp >}}
+ 

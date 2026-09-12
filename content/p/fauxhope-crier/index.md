@@ -140,4 +140,4 @@ Or there Fairhope Budget Overview?
 
 {{< aicomments "crier" >}}
 
-{{< mailchimp >}}
+ 

@@ -119,4 +119,4 @@ Fairhope voted for the good ole boys to take back TOTAL control of Fairhope city
 
 {{< aicomments "history" >}}
 
-{{< mailchimp >}}
+ 

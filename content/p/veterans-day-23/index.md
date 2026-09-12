@@ -13,4 +13,4 @@ Saluting our courageous veterans this Veterans Day, their sacrifices are the cor
 
 {{< aicomments "vet-23" >}}
 
-{{< mailchimp >}}
+ 

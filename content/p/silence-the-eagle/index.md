@@ -130,4 +130,4 @@ This is the first of many posts that will follow in the next few months, maybe y
 
 {{< aicomments "muzzle" >}}
 
-{{< mailchimp >}}
+ 
