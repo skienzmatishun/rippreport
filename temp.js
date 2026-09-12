@@ -60,8 +60,9 @@ async function handleRequest(request) {
   const userAgent = request.headers.get("User-Agent") || "";
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
-  // Leave desktop requests untouched for non-HTML
-  if (!isMobile) {
+  // Only transform text/html responses
+  const contentType = response.headers.get("Content-Type") || "";
+  if (!contentType.includes("text/html")) {
     return new Response(response.body, {
       status: response.status,
       statusText: response.statusText,
@@ -70,12 +71,6 @@ async function handleRequest(request) {
         "Cache-Control": "public, max-age=3600",
       },
     });
-  }
-
-  // Only transform text/html responses
-  const contentType = response.headers.get("Content-Type") || "";
-  if (!contentType.includes("text/html")) {
-    return response;
   }
 
   let html = await response.text();
@@ -204,20 +199,27 @@ async function handleRequest(request) {
         const recentCommentsWidget = document.querySelector('.widget-recent-comments');
         const recentArticlesWidget = document.querySelector('.widget-recent');
         
-        if (recentCommentsWidget && recentArticlesWidget) {
-          recentCommentsWidget.style.display = 'none';
-          
-          const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-              if (entry.isIntersecting) {
-                recentCommentsWidget.style.display = 'block';
-                window.dispatchEvent(new CustomEvent('loadRecentComments'));
-                observer.disconnect();
-              }
-            });
-          }, { rootMargin: '200px' });
-          
-          observer.observe(recentArticlesWidget);
+        if (recentCommentsWidget) {
+          if (recentArticlesWidget) {
+            // Have the Recent widget to observe
+            recentCommentsWidget.style.display = 'none';
+            
+            const observer = new IntersectionObserver((entries) => {
+              entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                  recentCommentsWidget.style.display = 'block';
+                  window.dispatchEvent(new CustomEvent('loadRecentComments'));
+                  observer.disconnect();
+                }
+              });
+            }, { rootMargin: '200px' });
+            
+            observer.observe(recentArticlesWidget);
+          } else {
+            // No Recent widget (e.g., single post), load immediately
+            recentCommentsWidget.style.display = 'block';
+            window.dispatchEvent(new CustomEvent('loadRecentComments'));
+          }
         }
       });
     </script>
@@ -227,25 +229,34 @@ async function handleRequest(request) {
   const desktopScript = `
     <script>
       document.addEventListener('DOMContentLoaded', function() {
+        console.log('[Desktop] Width:', window.innerWidth, 'isMobile:', window.innerWidth <= 768);
         if (window.innerWidth <= 768) return;
 
         const recentCommentsWidget = document.querySelector('.widget-recent-comments');
         const posts = document.querySelectorAll('.list__item');
 
-        if (!recentCommentsWidget) return;
+        console.log('[Desktop] Widget found:', !!recentCommentsWidget, 'Posts:', posts.length);
+
+        if (!recentCommentsWidget) {
+          console.log('[Desktop] No widget found, exiting');
+          return;
+        }
 
         // Not a list page or fewer than 5 posts - load immediately
         if (posts.length === 0 || posts.length < 5) {
+          console.log('[Desktop] Loading immediately (posts:', posts.length, ')');
           recentCommentsWidget.style.display = 'block';
           window.dispatchEvent(new CustomEvent('loadRecentComments'));
           return;
         }
 
         // List page with 5+ posts - lazy load at 5th post
+        console.log('[Desktop] Setting up lazy load for 5th post');
         const fifthPost = posts[4];
         const observer = new IntersectionObserver((entries) => {
           entries.forEach(entry => {
             if (entry.isIntersecting) {
+              console.log('[Desktop] 5th post visible, loading');
               recentCommentsWidget.style.display = 'block';
               window.dispatchEvent(new CustomEvent('loadRecentComments'));
               observer.disconnect();
