@@ -72,7 +72,6 @@
         {{- $likeCount := $snippet.likeCount -}}
         {{- $publishedAt := $snippet.publishedAt -}}
         {{- $updatedAt := $snippet.updatedAt -}}
-        {{- $linkPreview := $snippet.linkPreview -}}
 
         {{/* Parse and format date */}}
         {{- $date := time.AsTime $publishedAt -}}
@@ -93,16 +92,7 @@
                     <span class="youtube-comment-date">{{ $formattedDate }}</span>
                 </div>
                 <div class="youtube-comment-text">
-                    {{- if and $linkPreview (eq $linkPreview.type "youtube") -}}
-                    <a href="{{ $linkPreview.url }}" target="_blank" rel="noopener noreferrer"
-                        class="youtube-comment-link-preview">
-                        <img src="{{ $linkPreview.thumbnail }}" alt="YouTube video thumbnail"
-                            class="youtube-comment-link-thumbnail" loading="lazy"
-                            onerror="this.onerror=null;this.src='{{ $linkPreview.fallbackThumbnail }}';">
-                    </a>
-                    {{- else -}}
                     {{ $commentText | safeHTML }}
-                    {{- end -}}
                 </div>
                 {{- if gt $likeCount 0 -}}
                 <div class="youtube-comment-likes">
