@@ -27,11 +27,15 @@
     <meta name="twitter:image" content="{{ $imageUrl }}">
     <meta property="og:image" content="{{ $imageUrl }}">
 
-    <link href="https://rippreport.com/fonts/css2?family=Amatic+SC:wght@700&family=Sixtyfour+Convergence:XELA@-60&display=block" rel="stylesheet">
+    {{/* Preconnect to font CDN for faster font loading */}}
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://rippreport.com" crossorigin>
+    <link href="https://rippreport.com/fonts/css2?family=Amatic+SC:wght@700&family=Sixtyfour+Convergence:XELA@-60&display=swap" rel="stylesheet">
 
-{{/* Styles */}}
+{{/* Styles - defer to unblock rendering, critical CSS is inlined below */}}
 {{ $style := resources.Get "css/style.css" | resources.ExecuteAsTemplate "css/style.css" . -}}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="{{ $style.RelPermalink }}"></noscript>
 {{ range .Site.Params.customCSS -}}
     <link rel="stylesheet" href="{{ . | relURL }}">
 {{- end }}
