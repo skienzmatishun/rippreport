@@ -1,0 +1,19 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=86400
+Cf-Ray: a39c25db6c08f2bf-MIA
+Content-Type: application/json
+Date: Sat, 12 Sep 2026 04:25:22 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=wTyRCOO0o1NeNZzeh5KRNLJ0963rO9X0PbATuN7qL%2FC5eb7rIZoqDUaJAhVzkFSjHUAUvHpnqmtD%2FzLefYE7GgKdhqKNcynZN4hmorxFBjYrM6ha%2BKHe99c6BhQuacIADaYliDIIEYME8TK5AAAHFOGpmJl5bbBKx6U781Z0"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=117
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Cache: HIT
+X-Content-Type-Options: nosniff
+X-Etags-1: 42e70b55fe4509f553bccc5a3b9af100
+X-Etags-2: 42e70b55fe4509f553bccc5a3b9af100
+
+{"kind":"youtube#commentThreadListResponse","etag":"O8HlOt5HzK0GVoBjvsNjLW-EwoU","pageInfo":{"totalResults":0,"resultsPerPage":20},"items":[]}

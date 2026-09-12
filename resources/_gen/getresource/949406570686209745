@@ -1,0 +1,19 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=86400
+Cf-Ray: a39c25d65f27f2bf-MIA
+Content-Type: application/json
+Date: Sat, 12 Sep 2026 04:25:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mi0f0qPcYUEq%2FshyQ5s5y6JRnedb%2Bl5ZtfeZ2O4vVnthmhzjh4h6UUIbUtVmSVf4W%2B8uxBLr6m1aGcPdbJg6jImx%2Bl5%2FS5OKyIvziO5GDahITwrUcz3xcc69lT2lsqDDVrNUp%2Foa4%2BsTEPHhs7whesentXqpDDKsgvEMHowc"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=119
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Cache: HIT
+X-Content-Type-Options: nosniff
+X-Etags-1: 399558106ddfb76672e28fbe918a5e19
+X-Etags-2: 399558106ddfb76672e28fbe918a5e19
+
+{"kind":"youtube#commentThreadListResponse","etag":"vKQbOvztutpAWZt-1dex9lwl4CQ","pageInfo":{"totalResults":1,"resultsPerPage":20},"items":[{"kind":"youtube#commentThread","etag":"GgdN66L-arffYjGLYPis0CG193k","id":"Ugy7HZhtOPHBiDjdi2p4AaABAg","snippet":{"channelId":"UCSvF6PajyuctL49EWzMN9wg","videoId":"XcGclWOqLSs","topLevelComment":{"kind":"youtube#comment","etag":"ySDr2ohN0y0hAxMeIeoSdN4iuDo","id":"Ugy7HZhtOPHBiDjdi2p4AaABAg","snippet":{"channelId":"UCSvF6PajyuctL49EWzMN9wg","videoId":"XcGclWOqLSs","textDisplay":"<a href=\"https://www.youtube.com/watch?v=K1ljOcl39PQ\">https://youtu.be/K1ljOcl39PQ</a>","textOriginal":"https://youtu.be/K1ljOcl39PQ","authorDisplayName":"@backstorypodcast3866","authorProfileImageUrl":"https://yt3.ggpht.com/ytc/AIdro_mDZEX56bCBo55BzKM2sc6WND3hFAycl-nmB78Tm2vz4Q=s48-c-k-c0x00ffffff-no-rj","authorChannelUrl":"http://www.youtube.com/@backstorypodcast3866","authorChannelId":{"value":"UCSvF6PajyuctL49EWzMN9wg"},"canRate":true,"viewerRating":"none","likeCount":0,"publishedAt":"2021-03-21T01:47:42Z","updatedAt":"2021-03-21T01:47:42Z"}},"canReply":true,"totalReplyCount":0,"isPublic":true}}]}

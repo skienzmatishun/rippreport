@@ -1,0 +1,19 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=86400
+Cf-Ray: a39c25d2bfc2f2bf-MIA
+Content-Type: application/json
+Date: Sat, 12 Sep 2026 04:25:21 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0OP%2BJpm7hJSMq4AU%2BZk2JoUu%2Bd92ElfxMZEdQZ2jJ2kticlQk7h4Y6CTSL%2BVlyOWdQj70mwv2fAqgeru9%2Fj4cfngz2gsGfdLS53cHy0o5eKoQfeEazlsbFF4AlfC5FASwiXQHCpc6FO8TrY8gXGIqzBeJqekd6UERJYKdE25"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=139
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Cache: HIT
+X-Content-Type-Options: nosniff
+X-Etags-1: 7129c2b14ab1c9f7d3f5e6620998b9b6
+X-Etags-2: 7129c2b14ab1c9f7d3f5e6620998b9b6
+
+{"kind":"youtube#commentThreadListResponse","etag":"BYe3NpoFmebWuPuVRK3Pr67-YqI","pageInfo":{"totalResults":2,"resultsPerPage":20},"items":[{"kind":"youtube#commentThread","etag":"Ek2ERzVYdAo4MPuWgm535XJ_vs0","id":"Ugx44eEw-ezek8Bq5iZ4AaABAg","snippet":{"channelId":"UCjn78nMjSRO3M2X6jCsER0g","videoId":"kuSsRV5Sdik","topLevelComment":{"kind":"youtube#comment","etag":"EcOJ0Bon3Pv0ZNqjepkhB8K0Np8","id":"Ugx44eEw-ezek8Bq5iZ4AaABAg","snippet":{"channelId":"UCjn78nMjSRO3M2X6jCsER0g","videoId":"kuSsRV5Sdik","textDisplay":"The reason that we keep having Whitney as a guest is that a concerned citizen started asking questions and five people have resigned. Makes you wonder if the district attorney&#39;s office is ever going to look into anything, ever. And she is the clear choice for district 5 school board","textOriginal":"The reason that we keep having Whitney as a guest is that a concerned citizen started asking questions and five people have resigned. Makes you wonder if the district attorney's office is ever going to look into anything, ever. And she is the clear choice for district 5 school board","authorDisplayName":"@harrystill6344","authorProfileImageUrl":"https://yt3.ggpht.com/ytc/AIdro_n6Nt-zIl-7LbLEDFjUU4BqSZYlYDpGNXvXE65aehe-U-1a=s48-c-k-c0x00ffffff-no-rj","authorChannelUrl":"http://www.youtube.com/@harrystill6344","authorChannelId":{"value":"UCgq4lwPtHPyXmVxn_AfSe4g"},"canRate":true,"viewerRating":"none","likeCount":1,"publishedAt":"2026-03-24T18:00:47Z","updatedAt":"2026-03-24T18:00:47Z"}},"canReply":true,"totalReplyCount":0,"isPublic":true}},{"kind":"youtube#commentThread","etag":"5OfHhGL8yk8scjOrkOmgFo60o3o","id":"UgyRlJPCLlAMI00IkyB4AaABAg","snippet":{"channelId":"UCjn78nMjSRO3M2X6jCsER0g","videoId":"kuSsRV5Sdik","topLevelComment":{"kind":"youtube#comment","etag":"q5gWG65ywl_-8aU4NfhVrOV8Jfc","id":"UgyRlJPCLlAMI00IkyB4AaABAg","snippet":{"channelId":"UCjn78nMjSRO3M2X6jCsER0g","videoId":"kuSsRV5Sdik","textDisplay":"If you really want to enjoy the song at the 3-minute Mark, turn on your closed captioning. This is an original song that I did not write but it was written for the show&#39;s intro.","textOriginal":"If you really want to enjoy the song at the 3-minute Mark, turn on your closed captioning. This is an original song that I did not write but it was written for the show's intro.","authorDisplayName":"@harrystill6344","authorProfileImageUrl":"https://yt3.ggpht.com/ytc/AIdro_n6Nt-zIl-7LbLEDFjUU4BqSZYlYDpGNXvXE65aehe-U-1a=s48-c-k-c0x00ffffff-no-rj","authorChannelUrl":"http://www.youtube.com/@harrystill6344","authorChannelId":{"value":"UCgq4lwPtHPyXmVxn_AfSe4g"},"canRate":true,"viewerRating":"none","likeCount":2,"publishedAt":"2026-03-23T23:16:30Z","updatedAt":"2026-03-23T23:16:30Z"}},"canReply":true,"totalReplyCount":1,"isPublic":true}}]}

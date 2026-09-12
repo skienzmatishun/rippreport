@@ -18,9 +18,11 @@
   ::after {
     box-sizing: border-box;
   }
+
   .clearfix {
     display: block;
   }
+
   .flex {
     display: flex;
   }
@@ -55,10 +57,12 @@
     margin-right: 5px;
 
   }
+
   .logo__img {
     position: relative;
     bottom: -12px;
   }
+
   .clearfix::after {
     content: "";
     display: table;
@@ -169,9 +173,11 @@
     border: none;
     font-size: 10px;
   }
+
   .pager {
     border-bottom: none !important;
   }
+
   .logo {
     padding: 10px;
     height: 75px;
@@ -202,6 +208,7 @@
     margin: auto;
     margin-top: 0;
   }
+
   .post__title {
     margin: 0;
     background-color: #232323;
@@ -228,10 +235,13 @@
     position: absolute;
     top: 0;
     right: 10px;
-    font-size:30px;
+    font-size: 30px;
   }
-  .top-social a {color:white;}
- 
+
+  .top-social a {
+    color: white;
+  }
+
 
   .sidebar {
     flex: 1 0 31.66%;
@@ -239,6 +249,10 @@
     min-width: 0;
     margin: 0;
     padding: 10px;
+  }
+
+  .widget-recent {
+    min-height: 795px;
   }
 
   .widget__title {
@@ -266,12 +280,15 @@
     position: relative;
   }
 
-.alabama__widget__link p.widget__summary, .alabama__widget__link .widget__thumbnail {margin-bottom:0;}
-  
+  .alabama__widget__link p.widget__summary,
+  .alabama__widget__link .widget__thumbnail {
+    margin-bottom: 0;
+  }
+
   .list__footer-readmore {
     float: none;
     margin: 20px auto;
-    margin-top:0;
+    margin-top: 0;
     display: inline-flex;
     width: auto;
     min-width: 135px;
@@ -324,7 +341,7 @@
     color: #fff !important;
   }
 
-  
+
   .repost__btn {
     padding: 0.75rem 1.5rem !important;
     border: none !important;
@@ -386,25 +403,31 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
     color: #fff;
   }
+
   .primary {
     background: #404040;
   }
+
   .thumbnail__link {
     max-width: 750px;
   }
+
   .pagination__item {
     background: transparent;
   }
+
   .pager__link {
     margin: 2rem;
   }
+
   .pager__title {
     margin: 1rem;
   }
+
   .thumbnail__video {
     position: relative;
   }
-  
+
   /* Only apply min-height to actual video embeds */
   .thumbnail__video:has(.video-container) {
     min-height: 279px;
@@ -437,29 +460,30 @@
   .backstory__title,
   backstory__btn {
     font-family: "Amatic SC", cursive;
-    background: linear-gradient(
-      to right,
-      #646464 0%,
-      #dfe2e7 50%,
-      #646464 100%
-    );
+    background: linear-gradient(to right,
+        #646464 0%,
+        #dfe2e7 50%,
+        #646464 100%);
   }
+
   .backstory__title a {
     color: black;
   }
 
   .content {
     padding: 3.7rem;
-    padding-top:1rem;
+    padding-top: 1rem;
     max-width: 725px;
     color: black;
   }
+
   .pager__title,
   .pager__subtitle,
   .pager__link,
   .pager__link a {
     color: white;
   }
+
   .widget__item {
     border: none;
     background-color: #404040;
@@ -475,6 +499,7 @@
     color: white;
     margin-bottom: 0;
   }
+
   .thumbnail__image {
     min-width: 100%;
   }
@@ -551,22 +576,21 @@
     min-width: 40px;
     border: transparent;
   }
+
   .widget__summary {
     padding: 1rem;
-    padding-top:0;
+    padding-top: 0;
   }
 
   .bcso__list__header {
     color: #000;
     padding: 20px 0;
     min-width: 105%;
-    background: repeating-linear-gradient(
-      45deg,
-      #000,
-      #000 50px,
-      #d5be00 50px,
-      #d5be00 100px
-    );
+    background: repeating-linear-gradient(45deg,
+        #000,
+        #000 50px,
+        #d5be00 50px,
+        #d5be00 100px);
     margin-left: -10px;
     margin-top: -26px;
     box-shadow: 5px 5px 25px rgb(0 0 0/0.6);
@@ -578,16 +602,16 @@
     font-family: sans-serif;
     max-width: 110%;
   }
+
   .bcso__title a {
     color: black;
   }
+
   .bcso__post {
     overflow: hidden;
-    background: radial-gradient(
-      circle,
-      rgb(255, 249, 225) 49%,
-      rgb(0, 0, 0) 75%
-    ) !important;
+    background: radial-gradient(circle,
+        rgb(255, 249, 225) 49%,
+        rgb(0, 0, 0) 75%) !important;
   }
 
   .bcso__content {
@@ -605,15 +629,17 @@
     margin: auto;
     transition: all 0.25s ease-out;
   }
+
   .bcso__btn:hover {
     background: transparent !important;
     filter: hue-rotate(228deg);
   }
 
-  
+
   .alabama__title {
     background: #b10021;
   }
+
   /* Repost Film Effect Styles */
   .repost__title {
     position: relative;
@@ -656,11 +682,9 @@
     opacity: 0.5;
     position: absolute;
     animation: film-scratch 0.45s steps(1) infinite;
-    background: repeating-linear-gradient(
-      90deg,
-      #0002 0 2px,
-      transparent 4px 37vmin
-    );
+    background: repeating-linear-gradient(90deg,
+        #0002 0 2px,
+        transparent 4px 37vmin);
   }
 
   .repost__film-effect .effect:after {
@@ -673,7 +697,7 @@
     height: 100%;
     position: absolute;
   }
-  
+
 
   .repost__film-effect .grain:after {
     content: "";
@@ -683,88 +707,105 @@
     left: -5%;
     opacity: 0.25;
     position: absolute;
-    background-image: repeating-conic-gradient(
-        #000 0%,
+    background-image: repeating-conic-gradient(#000 0%,
         transparent 0.00003%,
         transparent 0.0005%,
-        transparent 0.00095%
-      ),
-      repeating-conic-gradient(
-        #000 0%,
+        transparent 0.00095%),
+      repeating-conic-gradient(#000 0%,
         transparent 0.00005%,
         transparent 0.00015%,
-        transparent 0.0009%
-      );
+        transparent 0.0009%);
     animation: grain 0.5s steps(1) infinite;
     filter: drop-shadow(0px 0px 1px black);
   }
+
   @keyframes grain {
+
     0%,
     100% {
       transform: translate(0, 0);
     }
+
     10% {
       transform: translate(-1%, -1%);
     }
+
     20% {
       transform: translate(1%, 1%);
     }
+
     30% {
       transform: translate(-2%, -2%);
     }
+
     40% {
       transform: translate(3%, 3%);
     }
+
     50% {
       transform: translate(-3%, -3%);
     }
+
     60% {
       transform: translate(4%, 4%);
     }
+
     70% {
       transform: translate(-4%, -4%);
     }
+
     80% {
       transform: translate(2%, 2%);
     }
+
     90% {
       transform: translate(-3%, -3%);
     }
   }
 
   @keyframes film-scratch {
+
     0%,
     100% {
       transform: translateX(0);
       opacity: 0.5;
     }
+
     10% {
       transform: translateX(-1%);
     }
+
     20% {
       transform: translateX(1%);
     }
+
     30% {
       transform: translateX(-2%);
       opacity: 0.75;
     }
+
     40% {
       transform: translateX(3%);
     }
+
     50% {
       transform: translateX(-3%);
       opacity: 0.5;
     }
+
     60% {
       transform: translateX(8%);
     }
+
     70% {
       transform: translateX(-3%);
     }
+
     80% {
       transform: translateX(10%);
       opacity: 0.25;
     }
+
     90% {
       transform: translateX(-2%);
     }
@@ -775,35 +816,45 @@
       transform: translateX(0);
       opacity: 0.75;
     }
+
     10% {
       transform: translateX(-1%);
     }
+
     20% {
       transform: translateX(1%);
     }
+
     30% {
       transform: translateX(-2%);
     }
+
     40% {
       transform: translateX(3%);
     }
+
     50% {
       transform: translateX(-3%);
       opacity: 0.5;
     }
+
     60% {
       transform: translateX(8%);
     }
+
     70% {
       transform: translateX(-3%);
     }
+
     80% {
       transform: translateX(10%);
       opacity: 0.25;
     }
+
     90% {
       transform: translateX(20%);
     }
+
     100% {
       transform: translateX(30%);
     }
@@ -811,15 +862,13 @@
 
   /* Elections Category Styles */
   .elections__title {
-    background: linear-gradient(
-      to bottom,
-      #dc143c 0%,
-      #dc143c 2.5%,
-      #ffffff 2.5%,
-      #ffffff 5%,
-      #1e3a8a 5%,
-      #1e3a8a 100%
-    );
+    background: linear-gradient(to bottom,
+        #dc143c 0%,
+        #dc143c 2.5%,
+        #ffffff 2.5%,
+        #ffffff 5%,
+        #1e3a8a 5%,
+        #1e3a8a 100%);
     color: white;
     font-weight: bold;
   }
@@ -835,6 +884,7 @@
   .widget__summary {
     font-size: 0.9rem;
   }
+
   /* Extra small devices (portrait phones, less than 576px) */
   @media (max-width: 575.98px) {
     .primary {
@@ -851,6 +901,7 @@
     .top-social {
       display: none;
     }
+
     .thumbnail__video:has(.video-container) {
       min-height: 175px;
     }
@@ -858,6 +909,7 @@
     .logo {
       height: initial;
     }
+
     .bcso__list__header {
       font-size: 1.25rem !important;
     }
@@ -867,6 +919,7 @@
     .logo {
       height: initial;
     }
+
     .primary {
       flex: 1 0 55.83%;
     }
@@ -891,6 +944,7 @@
       width: 40%;
       display: initial !important;
     }
+
     .pager__item {
       min-width: none;
     }
@@ -899,20 +953,25 @@
       text-align: left;
     }
   }
+
   @media (min-width: 768px) and (max-width: 991.98px) {
+
     /* Styles for medium screens */
     .thumbnail__video:has(.video-container) {
       min-height: 250px;
     }
+
     .widget__summary {
       font-size: 0.85rem;
     }
   }
+
   @media (min-width: 975.98px) {
     .thumbnail__video:has(.video-container) {
       min-height: 355px;
     }
   }
+
   @media (min-width: 1090px) {
     .sidebar {
       min-width: 335px;
@@ -925,17 +984,20 @@
       min-height: 379px;
     }
   }
+
   .alabama__widget__link h4 {
     background: #b10021;
   }
+
   .alabama__widget__link p.widget__summary,
   .alabama__widget__link .widget__thumbnail {
     background: #fff;
     color: #000;
   }
+
   .alabama__widget__link p.widget__summary {
     margin-top: 0;
-    padding-top:15px;
+    padding-top: 15px;
   }
 
   /* Repost widget styles */
@@ -949,15 +1011,13 @@
 
   /* Elections widget styles */
   .elections__widget__link h4 {
-    background: linear-gradient(
-      to bottom,
-      #dc143c 0%,
-      #dc143c 2.5%,
-      #ffffff 2.5%,
-      #ffffff 5%,
-      #1e3a8a 5%,
-      #1e3a8a 100%
-    );
+    background: linear-gradient(to bottom,
+        #dc143c 0%,
+        #dc143c 2.5%,
+        #ffffff 2.5%,
+        #ffffff 5%,
+        #1e3a8a 5%,
+        #1e3a8a 100%);
     color: white;
     font-weight: bold;
   }
@@ -985,14 +1045,12 @@
   /* Backstory widget styles */
   .backstory__widget__link h4 {
     font-family: "Amatic SC", cursive;
-    background: linear-gradient(
-      to right,
-      #646464 0%,
-      #dfe2e7 50%,
-      #646464 100%
-    );
+    background: linear-gradient(to right,
+        #646464 0%,
+        #dfe2e7 50%,
+        #646464 100%);
     color: black;
-    font-size:2em;
+    font-size: 2em;
   }
 
   /* Alabama widget item margin */
@@ -1000,5 +1058,7 @@
     margin-bottom: 20px !important;
   }
 
-.dixie__title {background-color:rgb(84, 0, 0);}
+  .dixie__title {
+    background-color: rgb(84, 0, 0);
+  }
 </style>
