@@ -7,7 +7,8 @@
     <div id="recent-comments-list" class="recent-comments">
       <div class="recent-comments__loading">
         <span class="eagle-spinner">🦅</span>
-        <p>Loading . . .</p>
+        <span class="eagle-spinner-2">🦅</span>
+        <p>Loading</p>
       </div>
     </div>
   </div>
@@ -18,21 +19,51 @@
     display: inline-block;
     font-size: 11em;
     filter: brightness(0);
-    animation: spin 3s linear infinite;
+    animation: spin 25s linear infinite;
     opacity: .1;
   }
 
+  .eagle-spinner-2 {
+    position: relative;
+    display: inline-block;
+    margin: auto;
+    font-size: 1em;
+    filter: brightness(0);
+    animation: spinning 2s linear infinite;
+    bottom: 47px;
+    left: -33px;
+    opacity: 0.6
+  }
+
+  .recent-comments__loading {
+    overflow: hidden
+  }
+
   .recent-comments__loading p {
-    opacity: .7;
+    opacity: .75;
+    position: relative;
+    bottom: 152px;
   }
 
   @keyframes spin {
+    from {
+      transform: scale(0);
+    }
+
+    to {
+      transform: scale(15);
+
+    }
+  }
+
+  @keyframes spinning {
     from {
       transform: rotate(0deg);
     }
 
     to {
       transform: rotate(360deg);
+
     }
   }
 </style>
