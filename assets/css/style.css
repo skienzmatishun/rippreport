@@ -24,7 +24,8 @@ html {
 
 body {
 	margin: 0;
-	font-family: sans;;
+	font-family: sans;
+	;
 	font-size: 14px;
 	font-size: .875rem;
 	line-height: 1.6;
@@ -329,8 +330,7 @@ select {
 }
 
 .content a,
-.warning a
-{
+.warning a {
 	font-weight: 700;
 	color: #173898;
 }
@@ -803,6 +803,7 @@ textarea {
 }
 
 @media screen and (max-width: 620px) {
+
 	input[type=text],
 	input[type=email],
 	input[type=tel],
@@ -845,9 +846,9 @@ textarea {
 	}
 
 	.title-logo {
-	position:initial !important;
-}
-	
+		position: initial !important;
+	}
+
 }
 
 .visually-hidden {
@@ -866,16 +867,20 @@ textarea {
 /* Recent Comments Widget */
 .widget-recent-comments {
 	margin-bottom: 25px;
+	height: 405px;
 }
 
 .recent-comments__item {
 	padding: 10px 0;
 	border-bottom: 1px dotted #ebebeb;
 }
+
 #recent-comments-list {
-	padding:1rem;
-	background:white;
+	padding: 1rem;
+	background: white;
+	height: 405px;
 }
+
 .recent-comments__item:first-child {
 	padding-top: 0;
 }
@@ -948,7 +953,7 @@ textarea {
 		align-items: flex-start;
 		gap: 2px;
 	}
-	
+
 	.recent-comments__time {
 		font-size: 11px;
 		font-size: .6875rem;

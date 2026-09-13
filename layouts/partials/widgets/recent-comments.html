@@ -7,6 +7,7 @@
     <div id="recent-comments-list" class="recent-comments">
       <div class="recent-comments__loading">
         <span class="eagle-spinner">🦅</span>
+        <p>Loading . . .</p>
       </div>
     </div>
   </div>
@@ -15,8 +16,14 @@
 <style>
   .eagle-spinner {
     display: inline-block;
-    font-size: 2em;
-    animation: spin 2s linear infinite;
+    font-size: 11em;
+    filter: brightness(0);
+    animation: spin 3s linear infinite;
+    opacity: .1;
+  }
+
+  .recent-comments__loading p {
+    opacity: .7;
   }
 
   @keyframes spin {
