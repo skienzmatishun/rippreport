@@ -231,8 +231,9 @@
     }
 
     /**
-     * Fetch and render recent comments
-     */
+ * Fetch and render recent comments
+ * Priority: 1. Live API, 2. Local Static Cache (Fallback)
+ */
     async function loadRecentComments() {
       const container = document.getElementById('recent-comments-list');
       if (!container) return;
@@ -241,33 +242,43 @@
         const limit = getCommentLimit();
         let data = null;
 
-        // 1. Try static CDN cache first (zero D1 reads)
+        // 1. Try the live API first (default behavior for freshest data)
         try {
-          const staticResp = await fetch('/comments-cache/latest.json', {
-            method: 'GET',
-            headers: { 'Accept': 'application/json' }
-          });
-          if (staticResp.ok) {
-            data = await staticResp.json();
-          }
-        } catch (staticErr) {
-          console.warn('Static comments cache unavailable, falling back to API:', staticErr);
-        }
-
-        // 2. Fallback to API if static cache unavailable
-        if (!data || !data.comments) {
           const response = await fetch(`${COMMENTS_API}?limit=${limit}`, {
             method: 'GET',
             headers: { 'Accept': 'application/json' }
           });
-          if (!response.ok) {
-            throw new Error(`HTTP ${response.status}`);
+          if (response.ok) {
+            const apiData = await response.json();
+            if (apiData.success && apiData.comments) {
+              data = apiData;
+            }
           }
-          data = await response.json();
+        } catch (apiErr) {
+          console.warn('Live API unavailable, falling back to static cache:', apiErr);
         }
 
-        if (!data.success || !data.comments) {
-          throw new Error('Invalid response');
+        // 2. Fallback to static local cache if API failed or returned invalid data
+        if (!data || !data.comments) {
+          try {
+            const staticResp = await fetch('/comments-cache/latest.json', {
+              method: 'GET',
+              headers: { 'Accept': 'application/json' }
+            });
+            if (staticResp.ok) {
+              const cacheData = await staticResp.json();
+              if (cacheData.success && cacheData.comments) {
+                data = cacheData;
+              }
+            }
+          } catch (staticErr) {
+            console.warn('Static comments cache also unavailable:', staticErr);
+          }
+        }
+
+        // 3. Final validation: if we still have no data, throw an error to trigger error state
+        if (!data || !data.comments) {
+          throw new Error('Both API and static cache failed to provide comments');
         }
 
         const commentsToRender = data.comments.slice(0, limit);
