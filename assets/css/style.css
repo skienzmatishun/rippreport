@@ -867,7 +867,7 @@ textarea {
 /* Recent Comments Widget */
 .widget-recent-comments {
 	margin-bottom: 25px;
-	height: 405px;
+	height: 500px;
 }
 
 .recent-comments__item {
