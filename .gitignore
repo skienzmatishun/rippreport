@@ -48,3 +48,7 @@ youtube-comments/*
 data/frontpage-hooks.yaml
 archives.txt
 temp.js
+analyze_summaries.py
+summaries.json
+summaries_content.json
+progress.json
