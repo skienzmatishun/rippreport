@@ -52,3 +52,6 @@ analyze_summaries.py
 summaries.json
 summaries_content.json
 progress.json
+progress_sidebar.json
+top_phrases_output.json
+top_sidebar_phrases_output.json
