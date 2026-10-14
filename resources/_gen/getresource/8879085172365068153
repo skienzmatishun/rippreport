@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a4a74271ddcb88da-MIA
+Content-Type: application/json
+Date: Wed, 14 Oct 2026 14:26:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=M4VOQLlSqJfFz33yVKAiWJiiMFOMCZlIREv8Rblkzn%2FDz3AT%2F6Wowifu16E%2FFyPtD3puEe5pK0BUfJN%2B70qik8wkGZaABFIN3Mtef0KihMvdFe9O1N7l5rnlIEYZCLQR9scv%2FeAh3%2F8gvCANYumjrI6JPQ%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=10,cfOrigin;dur=0,cfWorker;dur=526
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 548dec506ee0dda2b01e8fd3dd298b5f
+X-Etags-2: 548dec506ee0dda2b01e8fd3dd298b5f
+
+{"title":"Mabel Amos scholarship list revealed - Lagniappe","description":"ROB HOLBERT - Lagniappe\nThe special fiduciary’s report in the long-running civil suit involving the Mabel Amos Memorial Fund not only states that boar...","url":"https://rippreport.com/p/mabel-amos-scholarship-list-revealed/","image":"https://rippreport.com/img/mabel-amos-scholarship-list-revealed.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/mabel-amos-scholarship-list-revealed/","wasRedirected":false}

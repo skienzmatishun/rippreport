@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911c5089eaf70c-MIA
+Cf-Ray: a4a742b64c8b88da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:29 GMT
+Date: Wed, 14 Oct 2026 14:26:45 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BzMBzHc8SlI6j8b0UFMZ4U3stVTOuG2JZBxwP42yadCd163VZhwxcjBmzGhEQnGXB8orK%2B3sKdaaxjJWnAGwaCCGMzRRopdfOy210RDFGpXVqPfHQ%2BxjDP%2B0JOM4i27ybdqD3JRG9GUmXNgX8dTe65t1Cg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KFn%2BUNWrzQsjGpYh8D4PBL12IlhCeFdpmKA5NsmZ8eyk0wdglF8XMsc5TAoQkYg6pG%2FfdM6xG6vcOFZjoRQXFHLs4gM9%2Bbjj5mhhWWfevGEEso1H%2FkTD6fIgb0TPjX174hpildgY9xnxpoF7psoZRHkvyw%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=1336
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=3184
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 17b4e971cee8ef5b9280357a54931598
-X-Etags-2: 17b4e971cee8ef5b9280357a54931598
+X-Etags-1: 9e31c84af46e6d4b000e8b27226f83ed
+X-Etags-2: 9e31c84af46e6d4b000e8b27226f83ed
 
-{"title":"Allegations and Controversy Surrounding Mayor Tony Kennon of Orange Beach","description":"Mayor Tony Kennon has long been a polarizing figure in Orange Beach, Alabama. As his administration faces mounting scrutiny, a growing number of allegations have drawn attention to Kennon's conduct both in and out of office. These range from ethical concerns and financial conflicts to disturbing accusations of violence and discrimination. Ethical Q...","url":"https://www.alabamagazette.com/story/2025/07/15/news/span-classbrnwsbreaking-news-spanallegations-and-controversy-surrounding-mayor-tony-kennon-of-orange-beach/7253.html","image":"https://www.alabamagazette.com/home/cms_data/dfault/photos/stories/id/5/3/7253/s_top","charset":"utf-8","originalUrl":"https://www.alabamagazette.com/story/2025/07/15/news/span-classbrnwsbreaking-news-spanallegations-and-controversy-surrounding-mayor-tony-kennon-of-orange-beach/7253.html","wasRedirected":false}
+{"error":"Upstream returned 403","url":"https://www.alabamagazette.com/story/2025/07/15/news/span-classbrnwsbreaking-news-spanallegations-and-controversy-surrounding-mayor-tony-kennon-of-orange-beach/7253.html","title":"Preview unavailable","description":"Could not fetch preview data"}

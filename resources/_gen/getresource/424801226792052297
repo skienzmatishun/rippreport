@@ -1,12 +1,12 @@
 HTTP/2.0 404 Not Found
 Alt-Svc: h3=":443"; ma=86400
-Cf-Ray: a39c25d93e5bf2bf-MIA
+Cf-Ray: a4a743111eee57db-MIA
 Content-Type: application/json
-Date: Sat, 12 Sep 2026 04:25:22 GMT
+Date: Wed, 14 Oct 2026 14:26:57 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=forUy73v8PBxRzv0gxu98RuTeCQEbY%2BVlQjMRR4kh%2F3NQqjB4h5dlE7FB4uUnF%2B5qPgtPcSVSAag613Knj4Awzw%2Bx6h%2BpFxyW6NmAUXmwaZSvq5pPRWYWEN16EaNcScfLOkdmRnR%2FrJGd2OBuwJ2cQrA%2FBA4H4sfhXiwa1nd"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QdMi7SJgIT5NZpwKQ72V3vKOCs3slAZu5ZNGKA6VxWewhVRzlaHHg0OG2TS6CnkJ1Mp6PithGvtaF83J8Xg2e3px2p1ldka%2FYm9naeanq9tpNl1kzNZxMcv9u1ev5BBVbBlwqbL4dBAeQI4T0Hj1SiaB0ye3DoUqNKjBn8oa"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=425
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=364
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Cache: MISS

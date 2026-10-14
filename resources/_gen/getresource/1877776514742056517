@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911d1e7df1f70c-MIA
+Cf-Ray: a4a747bcdb2c88da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:17:01 GMT
+Date: Wed, 14 Oct 2026 14:30:08 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qMmBwDZBGM5whZQjkdIUk%2FLSG4bK8CXuJIkWLG2zQQG6XIPwjFYsIDCWf49Un3jh9HkgY9JP6V2UZcHEvFCWRUOBNnWIaYqsxsnY1zBgssoOw8if%2FnYLZAYBmzfyfQyuZ0uPxu2FnIQIabqt74Dl3SFxBA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=sDAbYF5cQy6sQzWj7bUglNH1lGOD4rndrSgwfK8YvO%2FIOso91THcfo8eLHpUYONaJW1%2FzvG5os6u8sy8USoc41zH%2B1XTWTGUHNf%2FevMrGZXahJLrM4FQ%2FCTOd4uoulgrElRscPW6Zo4tsV%2BFpRCXSHvDMw%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=430
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=734
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 4ebcddb455d36d8d5dcb9ec303b0b8fe
-X-Etags-2: 4ebcddb455d36d8d5dcb9ec303b0b8fe
+X-Etags-1: 3aaea53d72c04786e26b1ea1471a2533
+X-Etags-2: 3aaea53d72c04786e26b1ea1471a2533
 
-{"title":"BOILING FROG","description":"City planners rammed high-density apartment developments through approval without giving residents a chance to speak. Continuing our coverage, internal traffic studies prove officials knew these developments would paralyze key local intersections. Discover how local officials slowly trapped taxpayers in an infrastructure nightmare.","url":"https://rippreport.com/p/boiling-frog/","image":"https://rippreport.com/img/boiling-frog.jpg","charset":"utf-8","originalUrl":"https://rippreport.com/p/boiling-frog/","wasRedirected":false}
+{"title":"BOILING FROG","description":"City planners rammed high-density apartment developments through approval without giving residents a chance to speak. Continuing our coverage, interna...","url":"https://rippreport.com/p/boiling-frog/","image":"https://rippreport.com/img/boiling-frog.jpg","charset":"utf-8","originalUrl":"https://rippreport.com/p/boiling-frog/","wasRedirected":false}

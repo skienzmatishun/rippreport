@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911c594d41f70c-MIA
+Cf-Ray: a4a742b60bc988da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:30 GMT
+Date: Wed, 14 Oct 2026 14:26:42 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=43h196q3cSQgI00zQC1uviSe4tZvnY5GloL64zyQPRQ1sBDvhMW4RNQi2IYCiPKTu0c0YOXqf0Raw4McgmAuIz1KM8C7MgeA0tQe9ruvd40uA%2BpmQ2vpGyVG6Zeg4gfmxDaWPvc4Y3GKjLaY6Ca9LIScZw%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=H6EaZuOCU%2FopKmICRnceHS0%2F7ho%2Bo8XQS601yEGWz8ulVT6IG%2F2Vux3oLLthpR9HUPPjZFnpQlZFxdssdpiFu%2FzP0xTgzXanSu60kX1gwYMWkJWRCk%2BFmKvppVoToURLrrq%2Fl7T9sJwXDRxFhxIW5YwTCQ%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=574
+Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=518
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 44136ff6bb48735c39cde22424adbfc1
-X-Etags-2: 44136ff6bb48735c39cde22424adbfc1
+X-Etags-1: 7ed23be991e79575c90b26c104f5d643
+X-Etags-2: 7ed23be991e79575c90b26c104f5d643
 
-{"title":"JUSTIFIED","description":"High-ranking Baldwin County officials routinely clear their own deputies of brutal misconduct using a self-serving investigative board. Suppressed autopsy reports and hidden body camera footage reveal a pattern of law enforcement protecting their own at all costs. The Ripp Report exposes how these cozy internal reviews shield corrupt badge-holders.","url":"https://rippreport.com/p/justified/","image":"https://rippreport.com/img/justified.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/justified/","wasRedirected":false}
+{"title":"JUSTIFIED","description":"High-ranking Baldwin County officials routinely clear their own deputies of brutal misconduct using a self-serving investigative board. Suppressed aut...","url":"https://rippreport.com/p/justified/","image":"https://rippreport.com/img/justified.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/justified/","wasRedirected":false}

@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911cac7de9f70c-MIA
+Cf-Ray: a4a7445e6f3d88da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:43 GMT
+Date: Wed, 14 Oct 2026 14:27:50 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5EVQAkrt9rRH%2B6cay23oNsu5waJEXtC%2FT5sU0S6fUXSMc9EbMAN5qYU1ndY%2BVxGpfwobCSIBU8x9WLYgEOMPC1s3t5YQ8P%2FPlGoRlP5lijXYWJgGima0dq2VRg72%2FMjxWD6eb8xR%2FU%2BOndt711CYml2T2w%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xKEodKXbU%2BXbrncTNXIjDHW4Pj7LQrce6GBn0cEnmJ9sKByAMm4I9enEbMX8KMzxzQ2ohXxEdZKziU5%2B0gdbeuu%2FHMlZPIqdCgXuLmUtCHgyPSupnvFvXiHGFFeyQ6mepE6iZeBqUDbf9i5bnfmWlB3lCw%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=598
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=560
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: c5eda146ca33be3c39a2961dcf73996b
-X-Etags-2: c5eda146ca33be3c39a2961dcf73996b
+X-Etags-1: 934aec35119987ab89959e0d6e188195
+X-Etags-2: 934aec35119987ab89959e0d6e188195
 
-{"title":"NO GUARDRAILS","description":"State ethics officials and legal watchdog agencies completely abandoned their duty, allowing systemic corruption to run wild across Alabama. Financial documents reveal how key regulators received private tuition payouts and provided get-out-of-jail-free advisory letters to political allies. Why are corrupt politicians allowed to drive state government straight off a cliff?","url":"https://rippreport.com/p/no-guardrails/","image":"https://rippreport.com/img/no-guardrails.jpg","charset":"utf-8","originalUrl":"https://rippreport.com/p/no-guardrails/","wasRedirected":false}
+{"title":"NO GUARDRAILS","description":"State ethics officials and legal watchdog agencies completely abandoned their duty, allowing systemic corruption to run wild across Alabama. Financial...","url":"https://rippreport.com/p/no-guardrails/","image":"https://rippreport.com/img/no-guardrails.jpg","charset":"utf-8","originalUrl":"https://rippreport.com/p/no-guardrails/","wasRedirected":false}

@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a37f9fd0099874c2-MIA
+Cf-Ray: a4a74283193c88da-MIA
 Content-Type: application/json
-Date: Tue, 08 Sep 2026 17:20:31 GMT
+Date: Wed, 14 Oct 2026 14:26:34 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0sFBVPAH%2FeUYZMFzCckYhlMab%2BFB2PQwBUboa2uhXnAzBBhS%2Bcxs3apLFaotER8PrDuQg4MSy0vdzDjvaovsvzNQhihxtreQKTCpdEvM3CwhQdEfGyzSWMDWU6tsVx3UYR9YDbNd8%2FSGXufPW6ySO5rG8Q%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fgA7%2BQ0tJHMlYtyg%2B74lVicy4thm3U30gZUfb2A3oIbC7l6oiHdFQF5USxN%2F5BB7K90DTjXNibMWZ%2FCgmGnM1uyRFoW7H9JAQv6%2BG7mKmQEgOPHOdn5cZKfdWPAL51VxDVEms4PCRUCk5JRIGUXDsccvZQ%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=49,cfOrigin;dur=0,cfWorker;dur=729
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=562
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: f4a87729aeba16f7c7af0216eb137aad
-X-Etags-2: f4a87729aeba16f7c7af0216eb137aad
+X-Etags-1: 7fcbf51854dee07e661f6f9f65d7620c
+X-Etags-2: 7fcbf51854dee07e661f6f9f65d7620c
 
-{"title":"The State of the Alabama State Bar","description":"Today we are joined by Jeanetta Pleasant JD, Katherine Church, and Beverly Barber JD, all of whom have had a bad experience with the Alabama State Bar and the personalities who haunt the halls. We discuss their individual experiences/outcomes and those of Montgomery Attorney Thomas Gallion III, now of Destin, Florida.\nTommy is a particularly shocking case of “show me the man and I will show you the crime”. And Tommy’s Florida lawsuit complaint against these bad actors/public servants is like a bad movies script, right down to a kickback scheme with outside Counsel and sexual blackmail for looking the other way. And there are the 17 ethics violations that come from the Church ethics complaints that Mr McCallum has nary a word in his disciplinary record about as he was the Executive Director of the Alabama State Bar when these occurred. Reinforced by 12 bar complaints filed by Harry Still in 2022 that included Roman Shaw, Jeremy McIntyre, and Phillip McCallum.","url":"https://rippreport.com/p/the-state-of-the-alabama-state-bar/","image":"https://rippreport.com/img/the-state-of-the-alabama-state-bar.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/the-state-of-the-alabama-state-bar/","wasRedirected":false}
+{"title":"The State of the Alabama State Bar","description":"Today we are joined by Jeanetta Pleasant JD, Katherine Church, and Beverly Barber JD, all of whom have had a bad experience with the Alabama State Bar...","url":"https://rippreport.com/p/the-state-of-the-alabama-state-bar/","image":"https://rippreport.com/img/the-state-of-the-alabama-state-bar.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/the-state-of-the-alabama-state-bar/","wasRedirected":false}

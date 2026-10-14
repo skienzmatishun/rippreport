@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911c3a5f55f70c-MIA
+Cf-Ray: a4a7429f1cdb88da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:25 GMT
+Date: Wed, 14 Oct 2026 14:26:39 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Pgtjox9adqHs1FnpiQv2kJUscjBmlxygxUcs6JQSEuIKAwrCxGswqljZamRv%2FNolOWdTmQ4taEO%2B2hqiTdgNkE3n0i8q8N4IHQW6lwcwgMvFkzwhpJY8VhT0kZ82W79BDa9H2lSDNn5NwqdFQGYbKcW5CQ%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pqI5i2yLrqWsoXetDeF7s5PT3iIVy42u9SW11uLfSYIuRVPOBD1MNWzMzfQz2iVeW7YAKtGUPx85g1wjSEbJulTVR6gGXQ5bJRGjnugULUszReWgQuxdwTNTmwie3EWvkCtbn6adiDj9J8SkZ5OhqNn5bA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=437
+Server-Timing: cfEdge;dur=8,cfOrigin;dur=0,cfWorker;dur=433
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 1269df9d79a810d1ba5ad3647e2345b9
-X-Etags-2: 1269df9d79a810d1ba5ad3647e2345b9
+X-Etags-1: 8805d73429ad604e2401ec401e8430db
+X-Etags-2: 8805d73429ad604e2401ec401e8430db
 
-{"title":"KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 1","description":"This is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with: Alabama Exposure and Accountability LLC. We operate as an independent, not for profit consumer organization. No political group, candidate for office or outside source has contributed to this post. We are NOT attorneys and do not give legal council. We are ADVOCATES for justice. The Duty to Seek Justice","url":"https://rippreport.com/p/kristy-haygood-is-not-qualified/","image":"https://rippreport.com/img/kristy-hagood-is-not-qualified.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/kristy-haygood-is-not-qualified/","wasRedirected":false}
+{"title":"KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 1","description":"This is a product of rippreport.com, produced by Francis Paul Ripp, in conjunction with: Alabama Exposure and Accountability LLC. We operate as an ind...","url":"https://rippreport.com/p/kristy-haygood-is-not-qualified/","image":"https://rippreport.com/img/kristy-hagood-is-not-qualified.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/kristy-haygood-is-not-qualified/","wasRedirected":false}

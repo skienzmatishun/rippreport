@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911c47be77f70c-MIA
+Cf-Ray: a4a742abafaa88da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:27 GMT
+Date: Wed, 14 Oct 2026 14:26:41 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ILE8olwMh3eg%2FrJKGp0d6fz7PWg1E%2BVZf5fucIc2r9xsykOvJm059RjkcyFbPyhowHi82U4deSfcjesk%2F%2FvdtdT9HjV35bIEaOAtr%2Bwc7oIKgtSgBMqu52Ro4vD%2FrB8%2BpklLHQ58ypH3SO0JlnytF%2F4CZg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Tt1AhGdgZWI6BxldqE31w4%2B7Ni0smIGIzfQcvWCt4g5HYrUfuFo2yXxJppCkFvyicdBnzOtv%2B3bqLKNK8n1ESwowsAvx6uHltwUGES9nnytkRJ1eQntaL0%2BxuuA5tnUQysX9qCjlk36p3NwcLXbNwKGK1A%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=1061
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=979
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 3f532779368cd82a4e49ebd8c2773d33
-X-Etags-2: 3f532779368cd82a4e49ebd8c2773d33
+X-Etags-1: 62ba88fe540dbc09a7eb71ce17f29405
+X-Etags-2: 62ba88fe540dbc09a7eb71ce17f29405
 
-{"title":"Alabama system has employees sign confidentiality agreement","description":"Hours after news of the agreement was published in a local newspaper, legal counsel told employees in the system office that it was investigating a “breach of confidentiality.”","url":"https://www.insidehighered.com/news/2021/10/08/alabama-system-has-employees-sign-confidentiality-agreement","image":"https://www.insidehighered.com/sites/default/files/styles/large/public/media/GettyImages-908187400.jpeg?itok=taGqdSjH","charset":"utf-8","originalUrl":"https://www.insidehighered.com/news/2021/10/08/alabama-system-has-employees-sign-confidentiality-agreement","wasRedirected":false}
+{"title":"Alabama system has employees sign confidentiality agreement","description":"Hours after news of the agreement was published in a local newspaper, legal counsel told employees in the system office that it was investigating a “b...","url":"https://www.insidehighered.com/news/2021/10/08/alabama-system-has-employees-sign-confidentiality-agreement","image":"https://www.insidehighered.com/sites/default/files/styles/large/public/media/GettyImages-908187400.jpeg?itok=taGqdSjH","charset":"utf-8","originalUrl":"https://www.insidehighered.com/news/2021/10/08/alabama-system-has-employees-sign-confidentiality-agreement","wasRedirected":false}

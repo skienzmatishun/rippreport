@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911c60395ff70c-MIA
+Cf-Ray: a4a742dbfaad88da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:31 GMT
+Date: Wed, 14 Oct 2026 14:26:48 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=YmV3LhJsx0bMWVrw%2FmxLUIHTLjw%2FmKGH5q%2BoaGpYAsWRLZhBzvSbYLO6UnFe4yE9gobiiNHF2YUtQnkPg7l%2BZdhz1p%2FbLKLySUFIyLfc2v%2FUBLMyNG6q0de%2F5WXQ8eexrHaeqXHqbHtqumjcREFS6InJRg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cs6OtBrKmt4OeMPSt3z5sXWRiNKwQI1IElnIjgzicTbojg1uV8S19qcu0jEKGDmR1FmiY4%2FdWIFNkhjcER6Aw1BhJ9803rOS1yRNzy8eGB7cq%2BrKbwKKQWJ6LshmkpYC79Yo4%2BOx3t8H3GHplk3wI%2Be5Bg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=639
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=569
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 5bec37e1ffdb3c3216a9fbb82ef22e77
-X-Etags-2: 5bec37e1ffdb3c3216a9fbb82ef22e77
+X-Etags-1: 1a30d034bd2762bb0184fcb0df873579
+X-Etags-2: 1a30d034bd2762bb0184fcb0df873579
 
-{"title":"ALABAMA ATTORNEY GENERAL","description":"The Ripp Report filed two complaints with the Alabama Attorney General’s office. For misconduct by the Alabama Ethics Commission’s director and requests a review of past dismissed complaints. And the wrongful conviction of Murray Lawrence in Baldwin County.","url":"https://rippreport.com/p/alabama-attorney-general/","image":"https://rippreport.com/img/alabama-attorney-general1.jpg","charset":"utf-8","originalUrl":"https://rippreport.com/p/alabama-attorney-general/","wasRedirected":false}
+{"title":"ALABAMA ATTORNEY GENERAL","description":"The Ripp Report filed two complaints with the Alabama Attorney General’s office. For misconduct by the Alabama Ethics Commission’s director and reques...","url":"https://rippreport.com/p/alabama-attorney-general/","image":"https://rippreport.com/img/alabama-attorney-general1.jpg","charset":"utf-8","originalUrl":"https://rippreport.com/p/alabama-attorney-general/","wasRedirected":false}

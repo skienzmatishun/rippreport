@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911c3dbc97f70c-MIA
+Cf-Ray: a4a742a25f8188da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:25 GMT
+Date: Wed, 14 Oct 2026 14:26:39 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HMjb8Y3XfMNN3CnseicScmDb5UteVmR6pjBR3KCHR9ZF8%2FxK9OaX8EE0QY1U53t2VIzAnE0%2FkKG8rvb%2Flx40yl6eF4I0ILW2%2B1KlqPSuTUrgrihA%2FmlGSQI2vjch68%2Fy7g%2BmAElMvewhW3ErnDcRJBo1bA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Q5LmNRVFsXz9VtyvcDkelttltz8aNe7DtDCx3lWtaBrN4iaLxw80WmB%2BNX65rLGIQVYnIVwoV14iITiOPnBcBXiGIZ9fb4Q7YaghQ4jfGp%2ByfQspeQW5yDpvGnBCn7l%2FW9n1TrP98BuYfBqkhdt3CNnCQA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=483
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=429
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 49bd9747d487d1b77e42a1b5702eca51
-X-Etags-2: 49bd9747d487d1b77e42a1b5702eca51
+X-Etags-1: df8393b938cab6958d43b7f9e51ee7e9
+X-Etags-2: df8393b938cab6958d43b7f9e51ee7e9
 
-{"title":"KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 2","description":"In our coverage of the 28th Judicial Circuit judge race, we detail how candidate Kristi Hagood lacks the competence to sit on the bench. Hagood hid crucial evidence as a prosecutor and helped lock up an innocent man for over twenty years. Voters must reject Hagood and elect Jeremiah Giles to stop prosecutor misconduct in our courthouses.","url":"https://rippreport.com/p/kristy-haygood-is-not-qualified-2/","image":"https://rippreport.com/img/kristy-hagood-is-not-qualified-2.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/kristy-haygood-is-not-qualified-2/","wasRedirected":false}
+{"title":"KRISTI HAGOOD IS NOT QUALIFIED TO BE A JUDGE -- Part 2","description":"In our coverage of the 28th Judicial Circuit judge race, we detail how candidate Kristi Hagood lacks the competence to sit on the bench. Hagood hid cr...","url":"https://rippreport.com/p/kristy-haygood-is-not-qualified-2/","image":"https://rippreport.com/img/kristy-hagood-is-not-qualified-2.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/kristy-haygood-is-not-qualified-2/","wasRedirected":false}

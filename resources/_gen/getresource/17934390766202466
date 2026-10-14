@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911c553db8f70c-MIA
+Cf-Ray: a4a742b1edd088da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:29 GMT
+Date: Wed, 14 Oct 2026 14:26:42 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Y%2BO5CFgJi1v3mz0VlYXodOnEM1w07Wrh17gPEUErDBob7VqiKZSLM7rFXRaadRm9ih5EMVOK4yGJP%2FNGtHVpWUo%2FJpvU4FtG4bWBN4k3KTokJHZEeb5mr8z2h6ADGXNEAK33Qann%2Bv1hTbePgo3cHsT5Qg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=RiYnKVKGIBvvgqKdjYn8yj38L0ec2%2BDLjnMPY3PBhAOPCtna9m7LtQf2N4b9sIoZ%2F6akjbgMe%2FmLJ1sCZDDbe79DOYfN9vGGF0x4s4%2BRddzXeSA%2BnW7hhPMCMHjkAFhr7F7ZK0I6tc0D9SYAxYOFxvxZ0Q%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=523
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=570
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 22655a4958b11a83cab4de57c53703c9
-X-Etags-2: 22655a4958b11a83cab4de57c53703c9
+X-Etags-1: 337095eb0022f3fd06e10aae9eb93df6
+X-Etags-2: 337095eb0022f3fd06e10aae9eb93df6
 
-{"title":"BCSO CULTURE","description":"Antony Lowery, Baldwin County’s appointed sheriff has been bragging that the sheriff department has developed, and adopted a culture within the department that has taken years to develop. A culture of lies, wrongful incarceration, deadly shootings, investigating themselves and finding themselves innocent 100 percent of the time. A culture that involves blanket immunity, no transparency and absolutely no accountability.","url":"https://rippreport.com/p/bcso-culture/","image":"https://rippreport.com/img/bcso-culture.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/bcso-culture/","wasRedirected":false}
+{"title":"BCSO CULTURE","description":"Antony Lowery, Baldwin County’s appointed sheriff has been bragging that the sheriff department has developed, and adopted a culture within the depart...","url":"https://rippreport.com/p/bcso-culture/","image":"https://rippreport.com/img/bcso-culture.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/bcso-culture/","wasRedirected":false}

@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a37f9fd59f4b74c2-MIA
+Cf-Ray: a4a74287da9788da-MIA
 Content-Type: application/json
-Date: Tue, 08 Sep 2026 17:20:32 GMT
+Date: Wed, 14 Oct 2026 14:26:35 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xtXjyECD75iw8%2FTRyCCQS3JBwl6pB%2FYTKL8LFwU5B6UfFZ2p1VWrrNrP1bvoEA1kZhPF8kjVg7Tu4azTr%2FcArrjTiIOr%2B2jIrwnNMWWQOqnsPZ0E%2B9EJrCyTGljx6WePeXr0P3Vi8ibiRG0atSb0jG4hoQ%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xI1XUi4DEbtcPVbYndZmPoVSKeLGAh%2B4MH13PG4YpJarR2uFyccPzLVf9bl%2FDuDsvQ2fZLGNrqc5v%2B0idtlNmP5EzOPEjp7ZAl2JX1NPEf3oQb%2B22x0FyUOZLnxMgFpidaYBFy5bunehAd3UqOC0I5Et2A%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=9,cfOrigin;dur=0,cfWorker;dur=434
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=573
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: e20fe6f8ba75b94f4305db274a44178f
-X-Etags-2: e20fe6f8ba75b94f4305db274a44178f
+X-Etags-1: 144396829eb372e74ca10fdafccff7d1
+X-Etags-2: 144396829eb372e74ca10fdafccff7d1
 
-{"title":"SCUMBAG","description":"Ethics Director Tom Albritton pocketed over a hundred thousand dollars in private trust money meant for needy scholarship students to pay his own children’s college bills. Official court filings and bank records detail a calculated scheme to hide scholarship recipient names from the public. See how the state’s top watchdog transformed a public trust into his family’s personal piggy bank.","url":"https://rippreport.com/p/scumbag/","image":"https://rippreport.com/img/scumbag.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/scumbag/","wasRedirected":false}
+{"title":"SCUMBAG","description":"Ethics Director Tom Albritton pocketed over a hundred thousand dollars in private trust money meant for needy scholarship students to pay his own chil...","url":"https://rippreport.com/p/scumbag/","image":"https://rippreport.com/img/scumbag.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/scumbag/","wasRedirected":false}

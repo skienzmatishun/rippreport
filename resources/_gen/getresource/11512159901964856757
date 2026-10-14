@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911c2b0b45f70c-MIA
+Cf-Ray: a4a742a22ec288da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:22 GMT
+Date: Wed, 14 Oct 2026 14:26:39 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LkEDJPHOi2omCwGHsZHT5V%2FSgxtD2Y2UtmZGPsURne6QI2%2FvFGrOda1eIxVGFKucqkUYjZyZCx5R%2FPbuG%2BDiFKNAyjvyz8kNhM4T0qygZgXIpMT4SJseCYEBZW%2F9vnTpypGdrnBgT5xA20lzOGQXFaTfzg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yAYG5l98kLyv3h4Ns61AoHrmzFrBCJNMkSHMwo5df2vYmqXMTuLwRNYSaWC1qj1Ll0sGRqIXSdQJ25KNNLT6%2BE8g8S06XCLQMiZHT3RplakRsnSTqrecEfvfBaVwsWCoeyaBY4I7PfDwZQMstPxgMfq3Fg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=559
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=719
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 19ff7411c2cd5d5eece7fe777eba27d8
-X-Etags-2: 19ff7411c2cd5d5eece7fe777eba27d8
+X-Etags-1: 95c9774e2a97ed96d9d82b68776871f0
+X-Etags-2: 95c9774e2a97ed96d9d82b68776871f0
 
-{"title":"FAUXHOPE - KNOW THE BACKSTORY","description":"Former Mayor Tim Kant and developer Angelo Corte forced reckless developments through city channels at the expense of local infrastructure. Environmental soil analysis and city records link severe Fly Creek damage directly to developer construction runoff. Fairhope citizens were left holding the multi-million dollar bill for years of backroom political favors.","url":"https://rippreport.com/p/fauxhope-know-the-backstory/","image":"https://rippreport.com/img/fauxhope-know-the-backstory.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/fauxhope-know-the-backstory/","wasRedirected":false}
+{"title":"FAUXHOPE - KNOW THE BACKSTORY","description":"Former Mayor Tim Kant and developer Angelo Corte forced reckless developments through city channels at the expense of local infrastructure. Environmen...","url":"https://rippreport.com/p/fauxhope-know-the-backstory/","image":"https://rippreport.com/img/fauxhope-know-the-backstory.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/fauxhope-know-the-backstory/","wasRedirected":false}

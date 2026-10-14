@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911cf5cbbbf70c-MIA
+Cf-Ray: a4a74799188288da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:55 GMT
+Date: Wed, 14 Oct 2026 14:30:03 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UlnCBqXmhpJGL8Rak49%2BRlbAdOExqV%2BJJrCGCcS4xxwd5WIBz5xvczCJ84rlsCFCFQRXzowsnJ5UZgrWiht%2BXhptBT2DJVyAHL3Po7gdocLPGIGFa2mQAseboD%2FH%2BIzWvyKwOGB0MyD6k44eBx6ziIys1A%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MrUI0x%2FInGR99BNsRkh4MfmW3syM%2FT1uOdJhfPVk7MR0GeV%2FzXuHHc6d85RdaMd2s4P9Cx1P2bfGXV2I22HWC7omKMXJULd9RteZmkwrTwOqRtcJOeb8rdGrt%2BG7ef9FlV%2F81zItK5ScInYZIB2%2BulxG1g%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=483
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=587
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 9e0c74f668ffd897aedddd85ae303d89
-X-Etags-2: 9e0c74f668ffd897aedddd85ae303d89
+X-Etags-1: eec16891b30869709c56e48e60767285
+X-Etags-2: eec16891b30869709c56e48e60767285
 
-{"title":"ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL","description":"Self-serving politicians sold out local taxpayers to fund a multi-million-dollar real estate scheme. Real estate files and tax documents reveal how officials skimmed school revenues to bankroll a vacant cow pasture. What did these officials trade away just to secure their piece of the political pie?","url":"https://rippreport.com/p/elliotttuckercatalyst-selling-your-soul/","image":"https://rippreport.com/img/elliott-tucker-catalyst-selling-your-soul.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/elliotttuckercatalyst-selling-your-soul/","wasRedirected":false}
+{"title":"ELLIOTT>TUCKER>CATALYST - SELLING YOUR SOUL","description":"Self-serving politicians sold out local taxpayers to fund a multi-million-dollar real estate scheme. Real estate files and tax documents reveal how of...","url":"https://rippreport.com/p/elliotttuckercatalyst-selling-your-soul/","image":"https://rippreport.com/img/elliott-tucker-catalyst-selling-your-soul.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/elliotttuckercatalyst-selling-your-soul/","wasRedirected":false}

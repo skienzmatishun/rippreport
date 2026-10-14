@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911ce18d3ef70c-MIA
+Cf-Ray: a4a74785daa188da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:51 GMT
+Date: Wed, 14 Oct 2026 14:29:59 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3xsuVYN%2FY8NNA8fcGw2ZIHcv1%2Fg7IXDPscbB3zXApxFtJ9KWYOI%2Fyfe1CNoo%2BzwxRBQs3u%2BHKDx0GMsSLHLW4qgeR8WN3L7A9j06zDclmZYnfG0fh5a6Y4KJTMkBJm2kKTuZMNAxDQRsVEL7WmieVlQSjA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=brMCu88VYh70LzoMTJyyDkfw3MhtrNDl%2Br979vq4Y6fivhSzSCvCTp9i7fGDXYdp5Lx%2F5DFTXoih4E7Kfnru0cXnIXxcId%2FTrEqws5K1%2B5zT83TMmepOupXHNvXLcQKYQEKASiM5%2BhJTPE8Nu%2FpgCUeoXg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=504
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=216
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: dda1678bd9cc714eb6798854798f040a
-X-Etags-2: dda1678bd9cc714eb6798854798f040a
+X-Etags-1: fcc0b987e8a3a471908ebab522719f9e
+X-Etags-2: fcc0b987e8a3a471908ebab522719f9e
 
-{"title":"Group formed to address South Baldwin growth","description":"In the past, if Miriam Boutwell was presented with a problem in her role as Foley’s community development director, she and her staff had to find a way to solve","url":"https://www.lagniappemobile.com/news/local/group-formed-to-address-south-baldwin-growth/article_12f8bcc2-4c5d-5a3d-a85d-dd8bc84dd357.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/4/ce/4ced79b7-15ec-596d-bf8b-d60b4d45893e/630ecef31a911.image.jpg?crop=1008%2C529%2C0%2C115","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/news/local/group-formed-to-address-south-baldwin-growth/article_12f8bcc2-4c5d-5a3d-a85d-dd8bc84dd357.html","wasRedirected":false}
+{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/news/local/group-formed-to-address-south-baldwin-growth/article_12f8bcc2-4c5d-5a3d-a85d-dd8bc84dd357.html","title":"Preview unavailable","description":"Could not fetch preview data"}

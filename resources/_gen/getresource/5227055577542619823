@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911cb5cb91f70c-MIA
+Cf-Ray: a4a746f4f88588da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:45 GMT
+Date: Wed, 14 Oct 2026 14:29:36 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3aau5cyc7Zmch6EYHJqNshs7AT%2FAcdzj8C1hj6pJuLJn4b27DSf%2F5WIS8%2B8EHzlZTwqEl3nT%2FcO6e2Tcxa%2FsXBx6k5QrvZAJMFlz6owvnf56x96BrkelYnTipRBPJguoouY%2BrWcoCTTKFnevrDoTF1gPDg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TT%2B5jgAV1kDZU0ktjZv24ArgA%2BEFnKidAOgSmKZudU7q8Rt%2FSVMlz7n7GnSWS6VAM2rwscMmT7vY5%2FmO9HVnNGuxg1TNYrlHDRPByKSbH6X3Ib3L9aB3r4x88Nc9Xid9cuB71Wnb1FCaE4%2F7n%2FmkrVX5hA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=588
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=464
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: dc74370b6425669dd0ad2ce28eb9c0d5
-X-Etags-2: dc74370b6425669dd0ad2ce28eb9c0d5
+X-Etags-1: 5899d7a9b730ba8b2a4d85c5e9a468b0
+X-Etags-2: 5899d7a9b730ba8b2a4d85c5e9a468b0
 
-{"title":"corp.wiki","url":"https://corp.wiki/?inboundsource=/","charset":"utf-8","originalUrl":"https://www.corporationwiki.com/","wasRedirected":true}
+{"title":"Domain Update — CorporationWiki.com","description":"","url":"https://www.corporationwiki.com/","charset":"utf-8","originalUrl":"https://www.corporationwiki.com/","wasRedirected":false}

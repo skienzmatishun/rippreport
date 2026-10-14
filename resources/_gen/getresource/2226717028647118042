@@ -1,0 +1,20 @@
+HTTP/2.0 200 OK
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: public, max-age=3600
+Cf-Ray: a4a742679a1988da-MIA
+Content-Type: application/json
+Date: Wed, 14 Oct 2026 14:26:31 GMT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=mSwV5C72qKjK%2Bu7v%2B6LeYkpbK%2ByRWBk9iOMg%2BU93jLFzZc4CQczbdlVbp%2FTUESqhfeOmi7ZuNmtMc%2FvU6FdVZfXsuKex%2BwuZrAVeZMLd16%2Bp5a0domkK1w4E5jAQBJ4bZ8LohmmPpDlxDzVVH7u9QCNuaA%3D%3D"}]}
+Server: cloudflare
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=1527
+Speculation-Rules: "/cdn-cgi/speculation"
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Etags-1: 041467846a0093a65872ee60e673b990
+X-Etags-2: 041467846a0093a65872ee60e673b990
+
+{"title":"Montgomery County Circuit Judge Griffin orders $1.27 million in…","description":"Montgomery County Circuit Judge Greg Griffin ordered fiduciaries of the Mabel Amos Trust Fund on Thursday to pay approximately $1.27 million in…","url":"https://1819news.com/news/item/montgomery-county-circuit-judge-griffin-orders-1-27-million-in-restitution-for-mabel-amos-trust-fund-self-dealing","image":"https://al-news.transforms.svdcdn.com/production/images/GriffinAmos.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1698991306&s=51b8367d54f619c3b73536a5e6a6073f","charset":"utf-8","originalUrl":"https://1819news.com/news/item/montgomery-county-circuit-judge-griffin-orders-1-27-million-in-restitution-for-mabel-amos-trust-fund-self-dealing","wasRedirected":false}

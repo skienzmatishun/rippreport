@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911c2f2c4af70c-MIA
+Cf-Ray: a4a742a72fba88da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:23 GMT
+Date: Wed, 14 Oct 2026 14:26:40 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HrFoK2m8dvmcnK70R3jM6%2BPJysdCcfDMXaSdlvIcFrfejIRte0uli5K%2F85XHvQHcZNBaE8sM6enRK7YepzW1MnU6sAr81CaHdFXl8Oxi6znuCnWYvmsjHdpbCwSeZLwGAw62FzAnFvFh7udFGff%2FWu6mCg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dSWiU1jbwQYgf0t08jbD1tAn1KUGRVxvHS%2B2pMi6%2BHlOPaUamJLyWMHGydFWZMOcAvUT9tyk%2FL%2FoNdPH%2BVaFPJN3DD76BOjM9hpeqXg7EDU9qOd8tviaqlSV7kymBet3cnMBZDTOikHXTi7PVLH%2FnIyTrg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=488
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=467
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 099fde1498fb9422fa6501c5b52912d6
-X-Etags-2: 099fde1498fb9422fa6501c5b52912d6
+X-Etags-1: 015d3f83518b67c5126b6eb149bb83da
+X-Etags-2: 015d3f83518b67c5126b6eb149bb83da
 
-{"title":"RE-GIFT GIFT ??","description":"We revisit how Mayor Tim Kant and developer Corte tricked Fairhope into accepting a shady four-acre land gift along Fly Creek. This dirty transaction made taxpayers liable for severe environmental damage and illegal runoff from a private development project. This bad deal shows exactly how local politicians still sacrifice public wetlands to protect rich private developers today.","url":"https://rippreport.com/p/re-gift-gift-2/","image":"https://rippreport.com/img/re-gift-gift-2.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/re-gift-gift-2/","wasRedirected":false}
+{"title":"RE-GIFT GIFT ??","description":"We revisit how Mayor Tim Kant and developer Corte tricked Fairhope into accepting a shady four-acre land gift along Fly Creek. This dirty transaction ...","url":"https://rippreport.com/p/re-gift-gift-2/","image":"https://rippreport.com/img/re-gift-gift-2.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/re-gift-gift-2/","wasRedirected":false}

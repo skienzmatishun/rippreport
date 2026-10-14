@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911c81ff42f70c-MIA
+Cf-Ray: a4a743d7edbb88da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:36 GMT
+Date: Wed, 14 Oct 2026 14:27:29 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Anz2tR1BrMhRfDWWLlm5soQ2TFVHtIbx3OWeX2tn6Brh4rR4%2FTy%2Fg2HWWFwHjc5V1YcU4uKXDfHtTQ8m88VhmFIUkUHLRhShJEna07DrV%2Fj4yE9ncKVA02iD5%2F%2B9JETKVjFYbpEN0rMUmWcOaHKKGc64HA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qJ9pWiEQlHrPhrHF8DI7VD08hNxxFpLUCtJbXZmFOqIUHduDZBfocvl6xKNZAI85ItrhoUSuNGt1PfHTxngsKnJKJH3uzRiwzeDN2UT5MseqTrsYmGQjwHsetbXT9KfjjdIixYMflns6121yZjewntnNfQ%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=611
+Server-Timing: cfEdge;dur=3,cfOrigin;dur=0,cfWorker;dur=473
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 477fd814bb4c0b53bc8665a24ce800ee
-X-Etags-2: 477fd814bb4c0b53bc8665a24ce800ee
+X-Etags-1: 50865b415671e176b6b1e9375e6bfc6d
+X-Etags-2: 50865b415671e176b6b1e9375e6bfc6d
 
-{"title":"TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”","description":"Fairhope politicians misled the public about a multi-million dollar property deal while secretly lining lawyer pockets. Court documents and settlement files show council members hid massive debt and bypassed required public input. Discover why their sudden concern for a public park was nothing more than a cover-up.","url":"https://rippreport.com/p/triangle-part-2-public-driven-vision/","image":"https://rippreport.com/img/triangle-part-2-public-driven-vision.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/triangle-part-2-public-driven-vision/","wasRedirected":false}
+{"title":"TRIANGLE, PART 2  “PUBLIC-DRIVEN VISION”","description":"Fairhope politicians misled the public about a multi-million dollar property deal while secretly lining lawyer pockets. Court documents and settlement...","url":"https://rippreport.com/p/triangle-part-2-public-driven-vision/","image":"https://rippreport.com/img/triangle-part-2-public-driven-vision.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/triangle-part-2-public-driven-vision/","wasRedirected":false}

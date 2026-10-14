@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a3911c1838aaf70c-MIA
+Cf-Ray: a4a742933a6188da-MIA
 Content-Type: application/json
-Date: Thu, 10 Sep 2026 20:16:20 GMT
+Date: Wed, 14 Oct 2026 14:26:37 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kxzS8ZleEi1GVQhU6YFe9Ag5tPBnJjol0k62DROloyFRNLUIqEIp7gQw3W8DEO9bHC%2BfTJ4yPW9C%2FShME027m2McAsa%2FEcQ6GLb0%2BjSdG2plRBIm%2BmrErxG%2Fk4sQ5KrU5lfyGvcu8iMHvibrqgyr3gAakg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=saZn6h5DD%2FOgZohQNaISi79Q2lGQuxwe4o5qIwywUAZSm9TSdIyw62OdgTsdoUGRgY%2FOekFaJdZbUpaEmWCc1NcUs912hZQTFsXQnLI%2B3aIHIsk%2F%2BGkKlSIK02KAcxE2HSuN3ZUTmSXdFtfcJ0h2ppFprA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=10,cfOrigin;dur=0,cfWorker;dur=1019
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=867
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: e73d02ef29be951f7c74ea19a88fc5c1
-X-Etags-2: e73d02ef29be951f7c74ea19a88fc5c1
+X-Etags-1: fb4e397c019ed2dabf8e4e6cfde32293
+X-Etags-2: fb4e397c019ed2dabf8e4e6cfde32293
 
-{"title":"GUILTY - HEAR THE AUDIOBOOK","description":"Baldwin County officials framed Murray Lawrence Jr. for a brutal murder despite possessing zero physical evidence tying him to the crime. Newly uncovered court transcripts and hidden medical files reveal a deliberate cover-up by law enforcement bosses. Listen to the damning audio evidence exposing a broken system that stole two decades of an innocent man’s life.","url":"https://rippreport.com/p/guilty-audiobook/","image":"https://rippreport.com/img/guilty-hear-the-audiobook.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/guilty-audiobook","wasRedirected":true}
+{"title":"GUILTY - HEAR THE AUDIOBOOK","description":"Baldwin County officials framed Murray Lawrence Jr. for a brutal murder despite possessing zero physical evidence tying him to the crime. Newly uncove...","url":"https://rippreport.com/p/guilty-audiobook/","image":"https://rippreport.com/img/guilty-hear-the-audiobook.png","charset":"utf-8","originalUrl":"https://rippreport.com/p/guilty-audiobook","wasRedirected":true}
