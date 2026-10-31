@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a4a7479b889188da-MIA
+Cf-Ray: a52ed8b23e863376-MIA
 Content-Type: application/json
-Date: Wed, 14 Oct 2026 14:30:03 GMT
+Date: Sat, 31 Oct 2026 01:22:03 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rca3z6WpMTtGJziuGrmZLT4SxsBU4Qnv0fPnxRGmLMSvQ755wB9EzPox3XM8ngvjYMmtMCO922iSHvt%2FV1zhPqdyAgKCi1o9qFAKuTlITKTlqGbnw6Kh%2F7iYPclbvgK9me2MMYs%2FoOrK9TYOEOuhzq70EA%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2sbfkczrapMDr4HpLUqt1170%2BJ6xTFTFvA9Ecdsskvij6yIisH7essAhEhG40RoWqQpAlXwS6HPpAC1Y7kqnzHCRECe%2Fo2j8D3U3mAturNZXE8sKG%2FamjKZ4HJns8cR86btUP%2FY%2BiPtqd2hZVlszPweozg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=568
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=597
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 3b20fcbcac254ff74a9aaf7af40da731
-X-Etags-2: 3b20fcbcac254ff74a9aaf7af40da731
+X-Etags-1: 1728550b4a11b6bff43c4b4f77a4a1d4
+X-Etags-2: 1728550b4a11b6bff43c4b4f77a4a1d4
 
-{"title":"The Fairhope Times ","description":"Community news and events in Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35xAM_TaLDESeEvZ2xgc7Ekq8P9UwxF-eEkDdya3WbVBxweCsiV2-Y7KgH_ZBvluvb6NKRKfDk_RPqNynPOoOQbom7wMSgx-YpYc32DZPXQDGXnwUEfzSndUMXgO0lMtROpL3RP8CHxoOw48FeEvTVXZfKDW-CqFKdvmiXUyXGN0ydDeyDd3Ey0SABNU/w1200-h630-p-k-no-nu/river%20park%20fuel%20spill.jpeg","charset":"utf-8","originalUrl":"https://thefairhopetimes.blogspot.com/","wasRedirected":false}
+{"title":"The Fairhope Times ","description":"Community news and events in Fairhope and Baldwin County, Alabama.","url":"https://thefairhopetimes.blogspot.com/","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_DkuM2eZCwg7gU3PM6mutGTIuVhlSmOyhgsRzDrCTFbZ0LagL8Fcp1JfcjOJoiuhf849EObFTASBbnc3DVkLc2WrwOT5-AlND8zhEG2E3iUbViSJZRCmSZZg3u9dPsOdMk9sfHeRpxQ018MT1nita6lCv1lgid6vWo4ZY5dLojjPXJnz2BPEPUjXbpbk/w1200-h630-p-k-no-nu/fullsizeoutput_7cb7.jpeg","charset":"utf-8","originalUrl":"https://thefairhopetimes.blogspot.com/","wasRedirected":false}

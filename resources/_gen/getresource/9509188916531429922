@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a4a74791dd8d88da-MIA
+Cf-Ray: a52ed8a01a0d3376-MIA
 Content-Type: application/json
-Date: Wed, 14 Oct 2026 14:30:01 GMT
+Date: Sat, 31 Oct 2026 01:22:00 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yompJZvCryd1ydQaEK4iuxlcxotJobvqkxAPs0FOVyOCOS1Q8sX88ym%2FoqokIdxkkqRxEa4bUBncgt8cfes3reodKDPou6RjpxGFTzxam%2BeZQ4HU3LfU2TWl5s1rVI5v%2FNgJcQZnBB3Obp%2F8xI6uvgc%2Fvg%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=p6%2Br%2Bn94aO7%2BefIbmPvl0Mbdbun191e%2FUQoSOWHCFb8FhdNMVjKB1Pm6fjlELYnEv%2FxTnwh2U6hfwP3VYifxXQ5YjCDtlEvvSS2UQtodQjEg7cz%2FZj5hmoFB8D5qEanr8IWuxBxjN6ENaOP7SBPF2R%2FG8g%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=247
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=0,cfWorker;dur=526
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: e169c0c7747fb4c900ff7fd563f82c64
-X-Etags-2: e169c0c7747fb4c900ff7fd563f82c64
+X-Etags-1: e69d7034d86b95fed70171bc137831cb
+X-Etags-2: e69d7034d86b95fed70171bc137831cb
 
-{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/news/fairhope-voters-reject-council-manager-form-of-government/article_3054d9e7-b19f-5e50-836c-1eb6c0266a9a.html","title":"Preview unavailable","description":"Could not fetch preview data"}
+{"title":"Fairhope voters reject council-manager form of government","description":"You can’t say it wasn’t a valiant effort. After more than 800 people signed a petition in less than two weeks — at least 779 signatures were certified...","url":"https://www.lagniappemobile.com/news/fairhope-voters-reject-council-manager-form-of-government/article_3054d9e7-b19f-5e50-836c-1eb6c0266a9a.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/f/84/f84ba928-81a4-51b5-b0be-e2812e3ce79b/630ed788ef792.image.jpg?crop=309%2C309%2C52%2C0&resize=200%2C200&order=crop%2Cresize","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/news/fairhope-voters-reject-council-manager-form-of-government/article_3054d9e7-b19f-5e50-836c-1eb6c0266a9a.html","wasRedirected":false}
