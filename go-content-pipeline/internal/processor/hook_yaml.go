@@ -302,3 +302,44 @@ func writeHookFile(path string, meta models.HookMetadata, hooks []*models.Hook) 
 	success = true
 	return nil
 }
+
+// HooksDocument represents a complete hooks YAML document
+type HooksDocument struct {
+	Metadata models.HookMetadata
+	Hooks    map[string]*models.Hook
+}
+
+// LoadHooksYAML loads a sidebar-hooks.yaml file
+func LoadHooksYAML(path string) (*HooksDocument, error) {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return nil, fmt.Errorf("failed to read hooks file: %w", err)
+	}
+
+	meta, hooks, err := parseHookYAML(data)
+	if err != nil {
+		return nil, fmt.Errorf("failed to parse hooks YAML: %w", err)
+	}
+
+	// Convert slice to map
+	hooksMap := make(map[string]*models.Hook)
+	for _, h := range hooks {
+		hooksMap[h.WidgetSlug] = h
+	}
+
+	return &HooksDocument{
+		Metadata: meta,
+		Hooks:    hooksMap,
+	}, nil
+}
+
+// SaveHooksYAML saves a hooks document to a file
+func SaveHooksYAML(path string, doc *HooksDocument) error {
+	// Convert map back to slice
+	var hooks []*models.Hook
+	for _, h := range doc.Hooks {
+		hooks = append(hooks, h)
+	}
+
+	return writeHookFile(path, doc.Metadata, hooks)
+}

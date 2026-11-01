@@ -1,20 +1,43 @@
 ---
 title: OCTOBER SURPRISE
-date: 2026-10-30
-youtube: tAbk7uTtZ5o
-thumbnail: img/october-surprise.png
+date: 2026-10-30T00:00:00Z
 categories:
-- dixie-podcast
-authors:
-- admin
+  - dixie-podcast
 tags:
-- Harry Still
-- Brandon Moseley
-- Tommy Tuberville
-- Doug Jones
-- Bay Minette
-- Elections
-- Prison Infrastructure
+  - Harry Still
+  - Brandon Moseley
+  - Tommy Tuberville
+  - Doug Jones
+  - Bay Minette
+  - Elections
+  - Prison Infrastructure
+  - Trent Garmon
+  - Alabama State Bar
+related_articles:
+  - slug: our-man-in-mar-a-lago
+    title: Our Man In Mar-a-Lago
+    score: 81
+    rank: 1
+  - slug: stealing-from-kids
+    title: STEALING FROM KIDS
+    score: 24
+    rank: 2
+  - slug: portables-and-prisons
+    title: PORTABLES AND PRISONS
+    score: 24
+    rank: 3
+  - slug: august-special-edition
+    title: August Special Election
+    score: 24
+    rank: 4
+  - slug: i-10-toll-bridge-state
+    title: I-10 Toll Bridge State
+    score: 24
+    rank: 5
+authors:
+  - admin
+thumbnail: img/october-surprise.png
+youtube: tAbk7uTtZ5o
 ---
 
 In this episode, we break down the latest political shifts, key ballot measures, and legal battles shaping Alabama:

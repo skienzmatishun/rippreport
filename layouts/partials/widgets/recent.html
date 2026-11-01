@@ -19,7 +19,7 @@
 {{- if $relatedArticles -}}
 {{- range $relatedArticles -}}
 {{- $slug := .slug -}}
-{{- if ne (.llm_score | default 0) 0 -}}
+{{- if ne ((.llm_score | default .score) | default 0) 0 -}}
 {{- range $recent -}}
 {{- $actualSlug := .Slug | default (path.Base .File.Dir) -}}
 {{- if eq $actualSlug "index" -}}{{- $actualSlug = path.Base .File.Dir -}}{{- end -}}

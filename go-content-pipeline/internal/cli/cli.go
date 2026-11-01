@@ -16,6 +16,7 @@ import (
 	"github.com/rippreport/go-content-pipeline/internal/errors"
 	"github.com/rippreport/go-content-pipeline/internal/orchestrator"
 	"github.com/rippreport/go-content-pipeline/internal/processor"
+	"github.com/rippreport/go-content-pipeline/internal/refiner"
 )
 
 // App manages the CLI subcommands and orchestrator lifecycle.
@@ -64,6 +65,8 @@ func (a *App) Run(args []string) int {
 		return a.runGenerateRelated(ctx, cmdArgs)
 	case "generate-hooks":
 		return a.runGenerateHooks(ctx, cmdArgs)
+	case "refine-hooks":
+		return a.runRefineHooks(ctx, cmdArgs)
 	case "pipeline":
 		return a.runPipeline(ctx, cmdArgs)
 	case "apply-staged":
@@ -83,6 +86,7 @@ func (a *App) printUsage() {
 	fmt.Fprintln(a.stdout, "\nCommands:")
 	fmt.Fprintln(a.stdout, "  generate-related  Generate related article recommendations")
 	fmt.Fprintln(a.stdout, "  generate-hooks    Generate contextual sidebar hooks")
+	fmt.Fprintln(a.stdout, "  refine-hooks      Refine existing hooks using Gemini API")
 	fmt.Fprintln(a.stdout, "  pipeline          Run complete pipeline (related + hooks)")
 	fmt.Fprintln(a.stdout, "  apply-staged      Apply staged rankings or hooks to posts (use --hooks flag)")
 	fmt.Fprintln(a.stdout, "  clear-staged      Clear staged ranking or hook files (use --hooks flag)")
@@ -254,6 +258,59 @@ func (a *App) runGenerateHooks(ctx context.Context, args []string) int {
 
 	fmt.Fprintf(a.stdout, "\nGenerated %d hooks (%d failed) in %v\n",
 		res.TotalHooks, res.FailedHooks, res.Duration)
+	return 0
+}
+
+func (a *App) runRefineHooks(ctx context.Context, args []string) int {
+	fs := flag.NewFlagSet("refine-hooks", flag.ContinueOnError)
+	fs.SetOutput(a.stdout)
+
+	configPath := fs.String("config", "config.yaml", "Path to configuration file")
+	posts := fs.String("posts", "", "Comma-separated list of specific post slugs")
+	force := fs.Bool("force", false, "Refine even if hooks are already refined")
+	dryRun := fs.Bool("dry-run", false, "Simulate operations without modifying files")
+	geminiModel := fs.String("gemini-model", "", "Gemini model to use (e.g., gemini-3.7-flash)")
+
+	if err := fs.Parse(args); err != nil {
+		return 1
+	}
+
+	geminiAPIKey := os.Getenv("GEMINI_API_KEY")
+	if geminiAPIKey == "" {
+		fmt.Fprintf(a.stderr, "Error: GEMINI_API_KEY environment variable is not set\n")
+		return 1
+	}
+
+	cfg, err := config.LoadConfig(*configPath)
+	if err != nil {
+		fmt.Fprintf(a.stderr, "Error loading config: %v\n", err)
+		return 1
+	}
+
+	refinerCfg := refiner.Config{
+		GeminiAPIKey: geminiAPIKey,
+		PostsDir:     cfg.Processing.PostsDirectory,
+	}
+
+	r, err := refiner.New(refinerCfg)
+	if err != nil {
+		fmt.Fprintf(a.stderr, "Error creating refiner: %v\n", err)
+		return 1
+	}
+
+	res, err := r.RefineHooks(ctx, refiner.RefineOptions{
+		SpecificSlugs: parseSlugs(*posts),
+		Force:         *force,
+		DryRun:        *dryRun,
+		Model:         *geminiModel,
+	})
+	if err != nil {
+		fmt.Fprintf(a.stderr, "Error refining hooks: %v\n", err)
+		return 1
+	}
+
+	fmt.Fprintf(a.stdout, "\nRefined: %d processed, %d failed, %d skipped in %v\n",
+		res.ProcessedPosts, res.FailedPosts, res.SkippedPosts, res.Duration)
 	return 0
 }
 
