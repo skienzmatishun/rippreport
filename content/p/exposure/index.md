@@ -84,7 +84,7 @@ related_articles:
   rank: 10
 summary: Judge Michelle Thomason ran the family court system like a predatory business
   that shattered local families. Internal court memos show senior judges quietly stripped
-  her of key dockets after endless ethical complaints. Discover how one brave investigation
+  her of key dockets after endless ethical complaints.  Read more about one brave investigation
   finally brought this judicial nightmare to light.
 ---
 The Ripp Report and Baldwin County Legal Eagle had a record posting:

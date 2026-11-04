@@ -122,7 +122,7 @@ Why fire the chief executive officer, combating political corruption, and not ap
 
 ![](http://www.wsfa.com/resizer/Z34PVtGmfzq8j1DHnSkmLuysbXg=/1200x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/ZY3MALQHP5CUPO5QTMNV5WCOAQ.jpg)
 
-The Attorney General's Office confirmed Prosecutor Matt Hart is no longer with the office. He reportedly resigned from his duties Monday morning.
+The Attorney General's Office confirmed Prosecutor Matt Hart is no longer with the office. He resigned from his duties Monday morning.
 
 Please Read: [www.wsfa.com/2018/11/19/public-corruption-prosecutor-matt-hart-out-attorney-generals-office/](https://www.wsfa.com/public-corruption-prosecutor-matt-hart-out-attorney-generals-office/)
 

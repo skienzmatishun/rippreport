@@ -279,13 +279,21 @@ func containsSlug(slice []string, slug string) bool {
 // If transcript.md exists in the post directory, it uses that content.
 // Otherwise, it falls back to the post body.
 func (pm *PostManager) GetEmbeddingContent(post *models.Post) (string, error) {
-	// Try to read transcript.md from the post directory
 	postDir := filepath.Dir(string(post.Path))
-	transcriptPath := filepath.Join(postDir, "transcript.md")
 
-	// Check if transcript.md exists
+	// Priority 1: Try summary.md (factual summary optimized for embeddings)
+	summaryPath := filepath.Join(postDir, "summary.md")
+	if _, err := os.Stat(summaryPath); err == nil {
+		summaryContent, err := os.ReadFile(summaryPath)
+		if err != nil {
+			return "", fmt.Errorf("error reading summary file: %w", err)
+		}
+		return string(summaryContent), nil
+	}
+
+	// Priority 2: Try transcript.md (full transcript from podcast)
+	transcriptPath := filepath.Join(postDir, "transcript.md")
 	if _, err := os.Stat(transcriptPath); err == nil {
-		// Transcript exists, read and return it
 		transcriptContent, err := os.ReadFile(transcriptPath)
 		if err != nil {
 			return "", fmt.Errorf("error reading transcript file: %w", err)
@@ -293,7 +301,7 @@ func (pm *PostManager) GetEmbeddingContent(post *models.Post) (string, error) {
 		return string(transcriptContent), nil
 	}
 
-	// Transcript doesn't exist, return the post body
+	// Priority 3: Fall back to post body
 	return post.Body, nil
 }
 
@@ -415,4 +423,3 @@ func (pm *PostManager) UpdateRelatedArticles(path models.PostPath, articles []mo
 	success = true
 	return nil
 }
-

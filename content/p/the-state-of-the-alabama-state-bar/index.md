@@ -1,12 +1,41 @@
 ---
 title: The State of the Alabama State Bar
-date: 2026-09-05
-thumbnail: img/the-state-of-the-alabama-state-bar.png
-youtube: C2DvKYiqYgU
+date: 2026-09-05T00:00:00Z
 categories:
-- dixie-podcast
+  - dixie-podcast
+youtube: C2DvKYiqYgU
+thumbnail: img/the-state-of-the-alabama-state-bar.png
+related_articles:
+  - slug: key-figures
+    title: KEY FIGURES - WRONGFUL CONVICTION
+    score: 100
+    rank: 1
+  - slug: fairhope-wrongful-conviction-2
+    title: FAIRHOPE WRONGFUL CONVICTION
+    score: 100
+    rank: 2
+  - slug: not-guilty-innocent
+    title: NOT GUILTY - INNOCENT
+    score: 90
+    rank: 3
+  - slug: august-special-edition
+    title: August Special Election
+    score: 50
+    rank: 4
+  - slug: orange-beach-tyranny
+    title: Orange Beach Tyranny
+    score: 50
+    rank: 5
+  - slug: primary-postpartum
+    title: Primary Postpartum
+    score: 50
+    rank: 6
+  - slug: mountain-medicine
+    title: Darryl Patton Mountain Medicine
+    score: 50
+    rank: 7
 authors:
-- admin
+  - admin
 summary: Today we are joined by Jeanetta Pleasant JD, Katherine Church, and Beverly Barber JD, all of whom have had a bad experience with the Alabama State Bar and the personalities who haunt the halls.  We discuss their individual experiences/outcomes and those of Montgomery Attorney Thomas Gallion III, now of Destin, Florida.
 ---
 

@@ -74,7 +74,7 @@ related_articles:
 summary: Insiders on the city council systematically ignored zoning laws to push through
   illegal developments for their favored corporate buddies. Recent court rulings prove
   that municipal leaders acted arbitrarily and violated local land ordinances to aid
-  developers. Discover how grassroots legal action finally dealt a massive blow to
+  developers.  Read more about grassroots legal action finally dealt a massive blow to
   unchecked developer greed.
 ---
 Fairhope’s mayor extended an olive branch to the city council and they accepted it. The last city council meeting was civil, polite and cordial among council and mayor. They are going to have difficult times but as long as they put the city first then it will make solving issues easier.

@@ -96,7 +96,7 @@ related_articles:
 summary: As our murder case investigation expands, prosecutors and law enforcement
   hid vital medical evidence to lock away an innocent man. Uncovered trial transcripts
   and suppressed autopsy reports confirm a total lack of physical evidence linking
-  the accused to the crime scene. Discover how deep this judicial nightmare really
+  the accused to the crime scene.  Read more about deep this judicial nightmare really
   goes.
 ---
 This is the case of Murray “Bubba” Lawrence who was convicted of capital murder in Baldwin County Alabama, May 13, 2005. He was arrested and incarcerated for 11 months 10 days, prior to conviction.

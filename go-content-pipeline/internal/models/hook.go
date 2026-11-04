@@ -13,7 +13,8 @@ type Hook struct {
 	WidgetSlug  string    `yaml:"-"`
 	WidgetTitle string    `yaml:"-"`
 	Brief       string    `yaml:"brief"`
-	Text        string    `yaml:"text,omitempty"`
+	LLMText     string    `yaml:"llm_text,omitempty"` // Initial LLM-generated sidebar hook
+	Text        string    `yaml:"text,omitempty"`     // Gemini-refined final text
 	WidgetDate  string    `yaml:"widget_date,omitempty"`
 	Generated   time.Time `yaml:"generated_at"`
 	ModelName   string    `yaml:"model_name,omitempty"`

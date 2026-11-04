@@ -14,7 +14,8 @@ import (
 
 type hookEntryYAML struct {
 	Brief       string `yaml:"brief"`
-	Text        string `yaml:"text,omitempty"`
+	LLMText     string `yaml:"llm_text,omitempty"` // Initial LLM-generated text
+	Text        string `yaml:"text,omitempty"`     // Gemini-refined final text
 	WidgetDate  string `yaml:"widget_date,omitempty"`
 	GeneratedAt string `yaml:"generated_at,omitempty"`
 	ModelName   string `yaml:"model_name,omitempty"`
@@ -132,6 +133,7 @@ func formatHookYAML(meta models.HookMetadata, hooks []*models.Hook) (string, err
 	for _, h := range hooks {
 		entry := hookEntryYAML{
 			Brief:       h.Brief,
+			LLMText:     h.LLMText,
 			Text:        h.Text,
 			WidgetDate:  h.WidgetDate,
 			GeneratedAt: formatTimestamp(h.Generated),
@@ -207,6 +209,7 @@ func parseHookYAML(data []byte) (models.HookMetadata, []*models.Hook, error) {
 			hooks = append(hooks, &models.Hook{
 				WidgetSlug: slug,
 				Brief:      entry.Brief,
+				LLMText:    entry.LLMText,
 				Text:       entry.Text,
 				WidgetDate: entry.WidgetDate,
 				Generated:  parseTimestamp(entry.GeneratedAt),

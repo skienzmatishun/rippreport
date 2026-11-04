@@ -100,7 +100,7 @@ Corruption has many faces. In Fairhope the local arrest of a bar owner, Ronan Mc
 
 What is not being discussed is the well known fact that Mr McSharry has a long list of domestic incidents and assault charges at his bar.
 
-In 2010 he allegedly assaulted his wife during divorce settlement procedures. She, till this day, suffers from those injuries. His drinking and violent temper is well known among McSharry fans. The Fairhope Police, Municipal Judge and City Attorney have known of this since 2010. Mayor Kant was well aware of the problems of McSharry, he remained silent.
+In 2010 he  assaulted his wife during divorce settlement procedures. She, till this day, suffers from those injuries. His drinking and violent temper is well known among McSharry fans. The Fairhope Police, Municipal Judge and City Attorney have known of this since 2010. Mayor Kant was well aware of the problems of McSharry, he remained silent.
 
 McSharry’s past girlfriend had her scalp torn out by McSharry. She regrets the day that she met him.
 

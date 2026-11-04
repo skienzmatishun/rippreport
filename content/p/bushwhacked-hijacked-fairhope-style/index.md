@@ -89,7 +89,7 @@ related_articles:
   rank: 10
 summary: Jack Burrell and council insiders launched a hostile campaign to hijack city
   government and sabotage the mayor. Whistleblower files uncover how officials manufactured
-  political chaos to conceal their own shady airport deals. Discover how this coordinated
+  political chaos to conceal their own shady airport deals.  Read more about this coordinated
   political ambush really went down behind closed doors.
 ---
 ## PLEASE ATTEND FAIRHOPE CITY COUNCIL MEETING JUNE 11, SUPPORT THE MAYOR

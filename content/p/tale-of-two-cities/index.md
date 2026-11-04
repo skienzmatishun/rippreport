@@ -74,7 +74,7 @@ related_articles:
 summary: Councilmen Kevin Boone and Robert Brown ignored public outcry to protect
   developer Angelo Corte's massive apartment project. Meeting logs and financial paper
   trails prove council members granted secret extensions despite severe environmental
-  damage and citizen outrage. Discover how one town listened to its people while Fairhope
+  damage and citizen outrage.  Read more about one town listened to its people while Fairhope
   sold out to the highest bidder.
 ---
 On Wonderful Wednesday we posted a story about Daphmont Neighborhood in Daphne.

@@ -36,6 +36,8 @@ type FrontMatter struct {
 	Categories      []string               `yaml:"categories,omitempty"`
 	Tags            []string               `yaml:"tags,omitempty"`
 	AltTags         string                 `yaml:"alttags,omitempty"`
+	YouTubeID       string                 `yaml:"youtube,omitempty"`
+	Thumbnail       string                 `yaml:"thumbnail,omitempty"`
 	RelatedArticles []RelatedArticle       `yaml:"related_articles,omitempty"`
 	Draft           bool                   `yaml:"draft,omitempty"`
 	Extra           map[string]interface{} `yaml:",inline"`

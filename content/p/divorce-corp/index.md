@@ -85,7 +85,7 @@ related_articles:
 summary: Judge Michelle Thomason ran a predatory family court racket that enriched
   insider attorneys at the expense of local children. Court dockets and case records
   reveal a shocking pattern of ignored perjury, illegally obtained records, and dismissed
-  expert testimony. Discover how this rigged courtroom systematically tore vulnerable
+  expert testimony.  Read more about this rigged courtroom systematically tore vulnerable
   families apart for cash.
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/REOuslPVZD4" frameborder="0" allowfullscreen></iframe>

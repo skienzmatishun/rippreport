@@ -92,7 +92,7 @@ related_articles:
 summary: Baldwin County economic planners squandered fifty million taxpayer dollars
   on a vacant industrial site that remains a total ghost town. Financial audits reveal
   how county commissioners keep dumping millions more into a failed property to protect
-  their political allies. See how these reckless insiders wasted your hard-earned
+  their political allies. Read more about these reckless insiders wasted your hard-earned
   dollars for the record.
 ---
 The Ripp Report has been covering the Baldwin County Mega-Site since it was purchased.

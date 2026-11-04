@@ -104,7 +104,7 @@ The murder trial of the Police Officer charged with the death of George Floyd pr
 
 Ron Desantis this week declared a State of Emergency in Florida over a disused phosphorus impoundment (sludge pond) that is leaking and could potentially cause an algae bloom that could kill a hell of a lot of the Gulf of Mexico. In the week he has filed a lawsuit against the Federal Government and the CDC demanding that cruise ships be allowed to originate/sail from Florida Ports.
 
-Scumbag Matt Gaetz (R-Pace, FL) seems to have the ground shrinking under his feet related to allegations that he paid to have sex with a trafficed minor. His co-conspirator is allegedly cooperating and trying to cut a deal.
+Scumbag Matt Gaetz (R-Pace, FL) seems to have the ground shrinking under his feet related to allegations that he paid to have sex with a trafficed minor. His co-conspirator is  cooperating and trying to cut a deal.
 
 Casi Calloway is leaving Mobile Baykeeper after a very long stint to work from Mayor Stinson at the City of Mobile. Good luck to you.
 

@@ -92,7 +92,7 @@ related_articles:
 summary: City planners rammed high-density apartment developments through approval
   without giving residents a chance to speak. Continuing our coverage, internal traffic
   studies prove officials knew these developments would paralyze key local intersections.
-  Discover how local officials slowly trapped taxpayers in an infrastructure nightmare.
+   Read more about local officials slowly trapped taxpayers in an infrastructure nightmare.
 ---
 “The boiling frog is a fable describing a frog being slowly boiled alive. The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water which is then brought to a boil slowly, it will not perceive the danger and will be cooked to death.”
 

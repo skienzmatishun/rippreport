@@ -20,7 +20,7 @@ segment_count: 744
 
 💰 Campaign Finance & Ethics Concerns
 
-    Brandon Mosley details ethics filing discrepancies involving Joshua Coleman, a Woodfin aide, who allegedly failed to properly disclose his 20% ownership in Iron City Communications—a consulting firm that received payments from Givens' opponent.
+    Brandon Mosley details ethics filing discrepancies involving Joshua Coleman, a Woodfin aide, who  failed to properly disclose his 20% ownership in Iron City Communications—a consulting firm that received payments from Givens' opponent.
     Discussion of "dark money" flows: out-of-state gambling interests (e.g., DraftKings) funneling funds through PACs like SVB PAC to influence Alabama legislative races.
     Steve Raby, a political consultant, is described as a key operator moving money for Republican candidates, raising questions about transparency and pack-to-pack transfer laws.
 

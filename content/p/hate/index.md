@@ -74,7 +74,7 @@ related_articles:
 summary: Corrupt council members weaponized city resources to sabotage the mayor's
   office and force her out of government. Voting records show the council repeatedly
   denied basic legal funding while rushing secret settlements to protect themselves.
-  See how personal grudges replaced public duty inside city hall.
+  Read more about personal grudges replaced public duty inside city hall.
 ---
 The mayor tried to mediate the impasse the council and her office are experiencing by suggesting the hiring of an attorney to represent the mayor, to mediate with the council's attorney. This is a common practice and is the way the city of Mobile handles similar situations. The threat of a lawsuit only arises if the council refuses and continues to obstruct the mayor. The council refused; however, when it came to “come fly with me” Burrell, when his plane was caught in an ethics investigation, the airport authority approved funds to hire an attorney for Jack. This is the council's definition of FAIRNESS. Take note.
 

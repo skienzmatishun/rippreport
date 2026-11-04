@@ -96,7 +96,7 @@ related_articles:
 summary: State power brokers engineered a massive infrastructure scheme that quietly
   opens the door to secretive foreign investors. Investigative files reveal how officials
   pieced together private partnerships to shield multi-billion dollar port deals from
-  public scrutiny. Discover how every piece of this dirty deal fits into a much larger
+  public scrutiny.  Read more about every piece of this dirty deal fits into a much larger
   conspiracy.
 ---
 _**This is not a proven fact, it's just a collection of puzzle pieces that needs to be looked into.**_

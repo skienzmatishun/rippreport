@@ -98,7 +98,7 @@ related_articles:
 summary: Mayor Lori Mock and Columbia officials siphoned town funds into unauthorized
   contracts, personal gifts, and family favors. Cancelled municipal checks and financial
   invoices held by local whistleblowers document a paper trail of blatant self-dealing.
-  Discover how local officials banked on state immunity to hide their paper trail.
+   Read more about local officials banked on state immunity to hide their paper trail.
 ---
 If every municipality in Alabama had a “Concerned Citizen” such as the one in Columbia, Alabama, Alabama would not be so political corrupt. A concerned citizen is just the first step, where the hell is the Ethics Commission, Attorney General or FBI?
 

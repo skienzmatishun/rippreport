@@ -92,7 +92,7 @@ related_articles:
 summary: Completing our look into Fairhope’s land disposal scheme, Jack Burrell manipulated
   council procedures to surrender twenty million dollars in municipal assets. Documents
   show how city attorneys and outside lobbyists collaborated behind closed doors to
-  bypass public input and property laws. See how seven years of unchecked power led
+  bypass public input and property laws. Read more about seven years of unchecked power led
   directly to this massive betrayal.
 ---
 The President of the Fairhope City Council has held on to that title for over 7 years. This is extremely rare, most often Councils share the position of Council President with other Council members. Not Jack Burrell, he has to maintain “control”. His Control has been very costly for the City of Fairhope. His lack of leadership and his favoritism to special interests, CATALYST, is all to apparent.

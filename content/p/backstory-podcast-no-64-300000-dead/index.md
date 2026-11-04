@@ -84,7 +84,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: Small-town politicians are running dirty operations right under our noses
-  while public health crises rage across the state. Discover how local municipal bosses
+  while public health crises rage across the state.  Read more about local municipal bosses
   turned a public sewer plant into an illegal bootlegging hideout. Listen as Backstory
   Podcast confronts the small-town grifters treating taxpayer property like their
   personal playground.

@@ -91,7 +91,7 @@ related_articles:
   rank: 10
 summary: High-ranking state officials built a free protection plan for politicians
   who break the law. Bank records and internal documents reveal millions in private
-  funds flowing directly to corrupt political insiders. Discover how state regulators
+  funds flowing directly to corrupt political insiders.  Read more about state regulators
   turned public oversight into a total scam.
 ---
 You want to know why Alabama is first in political corruption and last in education? CORRUPTION,

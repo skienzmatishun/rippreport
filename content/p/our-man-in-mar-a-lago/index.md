@@ -1,25 +1,62 @@
 ---
 title: Our Man In Mar-a-Lago
-date: 2026-09-10
+date: 2026-09-10T00:00:00Z
+categories:
+  - dixie-podcast
+tags:
+  - Harry Still
+  - Kevin Brock
+  - Mabel Amos Trust
+  - Whitney Scapecchi
+  - Allbritton
+  - Clifton
+  - Alverson
+  - Moody
+  - Bowden
+  - Alabama State Bar
+  - Rob Holbert
+  - Marino
 youtube: 1EqKp8iDcwI
 thumbnail: img/our-man-in-mar-a-lago.png
-categories:
-- dixie-podcast
+related_articles:
+  - slug: rock-bottom
+    title: ROCK BOTTOM
+    score: 100
+    rank: 1
+  - slug: the-state-of-the-alabama-state-bar
+    title: The State of the Alabama State Bar
+    score: 100
+    rank: 2
+  - slug: a-reckoning-is-predicted
+    title: A RECKONING IS PREDICTED
+    score: 94
+    rank: 3
+  - slug: august-special-edition
+    title: August Special Election
+    score: 50
+    rank: 4
+  - slug: orange-beach-tyranny
+    title: Orange Beach Tyranny
+    score: 50
+    rank: 5
+  - slug: primary-postpartum
+    title: Primary Postpartum
+    score: 50
+    rank: 6
+  - slug: mountain-medicine
+    title: Darryl Patton Mountain Medicine
+    score: 50
+    rank: 7
+  - slug: writ-of-mandamus-update
+    title: 'WRIT OF MANDAMUS: UPDATE'
+    score: 89
+    rank: 8
+  - slug: shackled-chained-handcuffed-bc-un-family-court
+    title: SHACKLED-CHAINED-HANDCUFFED  B.C. UN-FAMILY COURT
+    score: 86
+    rank: 9
 authors:
-- admin
-tags:
-- Harry Still
-- Kevin Brock
-- Mabel Amos Trust
-- Whitney Scapecchi
-- Allbritton
-- Clifton
-- Alverson
-- Moody
-- Bowden
-- Alabama State Bar
-- Rob Holbert
-- Marino
+  - admin
 summary: Today we are joined by Perry Hooper Jr to discuss the ALGOP strategy in the home stretch heading into the November elections.  Former Chief of Police Kevin Brock joins to discuss the arrest of a Baldwin County Alabama Homeland Security Special Agent, specializing in child predators, who was of course arrested for kiddy diddling.
 ---
 Today we are joined by Perry Hooper Jr to discuss the ALGOP strategy in the home stretch heading into the November elections.  Former Chief of Police Kevin Brock joins to discuss the arrest of a Baldwin County Alabama Homeland Security Special Agent, specializing in child predators, who was of course arrested for kiddy diddling.  

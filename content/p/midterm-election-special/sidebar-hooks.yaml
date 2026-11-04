@@ -1,0 +1,175 @@
+metadata:
+  generated_at: "2026-11-04T05:08:23.804441Z"
+  generator_version: 1.0.0
+  post_slug: midterm-election-special
+  main_date: "2026-11-02"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf
+hooks:
+  october-surprise:
+    brief: |-
+      THE CONFLICT:
+      *   Gubernatorial Race featured Tommy Tuberville (51%), Doug Jones (40%), and Brandon Moseley (projected 14-point margin).
+      *   Ballot measures included lieutenant governor vacancy rules, rural school board consolidations, student-led prayer/Pledge requirements, and weekly national anthem broadcasts.
+      *   Prison infrastructure issues included $1.25 billion costs at Elmore County and a federal trial over prison conditions at Holman Correction Facility.
+      *   Trent Garmon initiated legal action against the Alabama State Bar in federal court.
+
+      THE DISCOVERY:
+      *   Widget Article established Tuberville's leading polling position (51% vs 40%) and detailed the scope of state legal battles (Garmon vs. State Bar) and infrastructure costs ($1.25 billion Elmore County).
+
+      THE PIVOT:
+      *   Article 2 set the initial political context for the gubernatorial race and the state's legal/infrastructure challenges (prison, State Bar). Article 1 then introduces a specific legal threat to Tuberville's eligibility (Ken McFeeters claiming he does not live in Alabama), which directly impacts the candidate established as the leader in Article 2.
+
+      KEY ENTITIES:
+      *   Tommy Tuberville
+      *   Doug Jones
+      *   Brandon Moseley
+      *   Ken McFeeters
+      *   Trent Garmon
+      *   Alabama State Bar
+      *   John Wahl
+      *   November 3rd
+      *   $1.25 billion (Elmore County cost)
+    llm_text: Tommy Tuberville leads the gubernatorial race at 51%, but Ken McFeeters challenges his Alabama residency, threatening his eligibility. Read how this legal threat stacks against $1.25 billion in Elmore County prison costs and Trent Garmon's fight against the Alabama State Bar.
+    widget_date: "2026-10-30"
+    generated_at: "2026-11-04T05:02:17.381930Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf
+  court-of-public-opinion-3-rerun:
+    brief: |-
+      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. in Baldwin County, Alabama, involving Hoss Mack and Anthony Lowery.
+      THE DISCOVERY: BCSO under Hoss Mack established total immunity for officers; Mack requested $600,000 for cameras but blocked public footage despite promising public access; Mack worked to secure Tommy Tubberville as governor to control ALEA.
+      THE PIVOT: The historical evidence of corruption and misuse of power by Hoss Mack and Anthony Lowery (wrongful conviction) provides the context for the current election challenges, including Ken McFeeters' lawsuit questioning Tommy Tubberville's residency in Alabama.
+      KEY ENTITIES: Hoss Mack, Anthony Lowery, Murray Lawrence Jr., Tommy Tubberville, Ken McFeeters, BCSO, Baldwin County, ALEA.
+    llm_text: Hoss Mack and Anthony Lowery helped wrongly convict Murray Lawrence Jr. in Baldwin County. Read more about this historical corruption fuels current election fights, including Ken McFeeters' lawsuit questioning Tommy Tubberville's residency.
+    widget_date: "2026-10-22"
+    generated_at: "2026-11-04T05:03:01.497211Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf
+  red-lips-award:
+    brief: |-
+      THE CONFLICT:
+      *   Ethics complaint filed by ADVA Commissioner Admiral Kent Davis against Department of Mental Health Director Kimberly Boswell.
+      *   Complaint alleged Boswell "colluded" to prevent ADVA from receiving $7 million in American Rescue Plan Act funds.
+      *   Legislation to "restructure" the State Board of Veterans Affairs passed the Alabama State Senate 21-9.
+      *   Ethics Director Tom Albritton misused the Mabel Amos Trust, awarding himself $120,000 for kids' scholarships.
+      *   Montgomery County Circuit Court Judge Greg Griffin ordered Special Fiduciary Jim White to gather information related to the Amos Fund and removed Regions bank as Trustee of the Mabel Amos Memorial Fund.
+
+      THE DISCOVERY:
+      *   Alabama is ranked number one in US political corruption.
+      *   The State Board of Veterans Affairs action was alleged retaliation for an ethics complaint against Kimberly Boswell.
+      *   The Ethics Commission dismissed the complaint.
+      *   The RED LIPS AWARD was proposed for State Senator Andrew Jones and State Representative Ed Oliver for fueling Governor Ivey's vindictive drive against Alabama Veterans.
+
+      THE PIVOT:
+      *   Article 2 provides historical proof (prior to the November 3rd election) that Governor Ivey's administration actively targeted and pursued legislation to dismantle the Alabama Department of Veterans Affairs (ADVA).
+      *   This historical pattern of anti-veteran political maneuvering and corruption (ADVA/ARPA funds, Mabel Amos Trust) establishes the context for current political debates regarding veterans in the Midterm Election Special.
+
+      KEY ENTITIES:
+      *   Governor Ivey
+      *   Kimberly Boswell (Director, Department of Mental Health)
+      *   Admiral Kent Davis (ADVA Commissioner)
+      *   Tom Albritton (Ethics Director)
+      *   Mabel Amos Trust (Amos Fund)
+      *   Andrew Jones (State Senator)
+      *   Ed Oliver (State Representative)
+      *   Greg Griffin (Montgomery County Circuit Court Judge)
+      *   Jim White (Special Fiduciary)
+      *   November 3rd (Election Date)
+      *   Alabama State Senate (21-9 vote)
+    llm_text: Admiral Kent Davis accused Kimberly Boswell of blocking $7M in ARPA funds for ADVA, fueling Ivey's anti-veteran push. Meanwhile, Judge Greg Griffin investigated Tom Albritton's $120k misuse of the Mabel Amos Trust.
+    widget_date: "2025-03-03"
+    generated_at: "2026-11-04T05:03:52.215769Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf
+  alabama-ethics-vs-tony-kennon:
+    brief: |-
+      THE CONFLICT:
+      *   Approximately 5 years ago, three City of Orange Beach council members filed a formal ethics complaint against Mayor Tony Kennon regarding conflicts of interest, improper influence, and lack of transparency.
+      *   Simultaneously, The Ripp Report (Harry Still) filed a writ of Mandamus, an Alabama Bar Complaint, and a direct Ethics Complaint against Ethics Director Tom Albritton regarding self-enrichment from the Mabel Amos Memorial Fund.
+      *   Tom Albritton was forced out of his position as trustee of the Mabel Amos Memorial Fund after the courts intervened.
+      *   Albritton attempted to retain $120,000.00 and hire counsel to avoid repayment.
+
+      THE DISCOVERY:
+      *   The Alabama Ethics Commission, led by Tom Albritton, was complicit and corrupt, failing to act on complaints.
+      *   Ethics Commission members Greg Pappas, George Pierce, and David Pruet were unaware of Albritton's self-dealing.
+      *   The Alabama Bar, Attorney General, and Ethics Commission protected each other and high-profile politicians from scrutiny.
+      *   Katherine Robertson ran for Attorney General (defeating Jay Mitchell) while the Mabel Amos Trust/Albritton scandal was ignored by the Ethics Commission.
+
+      THE PIVOT:
+      *   The historical failure of Alabama's governmental and legal institutions (Ethics Commission, Alabama Bar, AG) to prosecute corruption (Albritton/Kennon) demonstrates the deeply entrenched lack of accountability in Alabama politics.
+      *   This historical corruption context explains the difficulty in achieving ethical oversight and the high-stakes, potentially contentious nature of the upcoming Midterm Election/Gubernatorial race (e.g., Ken McFeeters vs. Tommy Tubberville).
+
+      KEY ENTITIES:
+      *   Mayor Tony Kennon (Orange Beach, Alabama)
+      *   Tom Albritton (Ethics Director)
+      *   Harry Still (The Ripp Report)
+      *   Greg Pappas (Ethics Commission member)
+      *   George Pierce (Ethics Commission member)
+      *   David Pruet (Ethics Commission member)
+      *   Mabel Amos Memorial Fund (Trust)
+      *   Tommy Tubberville (GOP Candidate for Alabama Governor)
+      *   Ken McFeeters (ALGOP Primary Candidate for Alabama Governor)
+      *   Katherine Robertson (Chief Counsel, potential AG candidate)
+      *   John Wahl
+      *   Francis Paul Ripp
+      *   Alabama Bar
+      *   Alabama Ethics Commission
+      *   Orange Beach, Alabama
+    llm_text: Tom Albritton tried to keep $120,000 from the Mabel Amos Memorial Fund, but Ethics Commission members Greg Pappas, George Pierce, and David Pruet ignored the corruption. Learn how this historical failure of the Alabama Bar and Ethics Commission impacts the upcoming Tubberville vs. McFeeters gubernatorial race.
+    widget_date: "2026-06-21"
+    generated_at: "2026-11-04T05:05:06.618811Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf
+  our-man-in-mar-a-lago:
+    brief: |-
+      THE CONFLICT: Allegations of a cash grab involving the Mabel Amos Scholarship Trust, administered by the Director of the Alabama Ethics Commission, linked to the Andalusia Alabama Law Firm of Allbritton, Clifton, Alverson, Moody and Bowden. (Past event, detailed in Widget Article).
+      THE DISCOVERY: The Mabel Amos Scholarship Trust recipients list was discussed alongside the arrest of a Baldwin County Alabama Homeland Security Special Agent for kiddy diddling.
+      THE PIVOT: The historical context of legal and ethical failures at the Alabama State Bar (specifically the inaction of the Sisterhood of the Closeted Homosexuals) provides the background for the current political conflict in the ALGOP Primary, where Ken McFeeters filed lawsuits against GOP candidate Tommy Tubberville regarding residency for the November 3rd election.
+      KEY ENTITIES: Ken McFeeters, Tommy Tubberville, John Wahl, Francis Paul Ripp, Perry Hooper Jr, Kevin Brock, Mabel Amos Trust, Allbritton, Clifton, Alverson, Moody, Bowden, Rob Holbert, CC Marino, Harry Still, Whitney Scapecchi, Alabama State Bar, November 3rd.
+    llm_text: The Mabel Amos Scholarship Trust cash grab, involving Allbritton, Clifton, Alverson, Moody and Bowden, reveals deep legal failures at the Alabama State Bar. Read more about this history shapes the current ALGOP Primary fight between Ken McFeeters and Tommy Tubberville for the November 3rd election.
+    widget_date: "2026-09-10"
+    generated_at: "2026-11-04T05:06:10.737561Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf
+  the-state-of-the-alabama-state-bar:
+    brief: |-
+      THE CONFLICT:
+      *   Historical issues involving the Alabama State Bar, discussed in 2020 (interview with Thomas Gallion III).
+      *   Allegations involving Tommy Tubberville related to a Florida lawsuit complaint (kickback scheme, sexual blackmail).
+      *   17 ethics violations related to Mr. McCallum while he was Executive Director of the Alabama State Bar.
+      *   12 bar complaints filed by Harry Still in 2022, naming Roman Shaw, Jeremy McIntyre, and Phillip McCallum.
+
+      THE DISCOVERY:
+      *   The Widget Article (older) revealed past misconduct, ethics violations, and legal complaints against figures associated with the Alabama State Bar, including Phillip McCallum.
+      *   The Main Article (newer) features Ken McFeeters, who is suing GOP candidate Tommy Tubberville over residency claims for the Alabama Governor's race.
+
+      THE PIVOT:
+      *   The older article establishes a history of ethical/legal controversy and misconduct (e.g., 17 ethics violations, 12 bar complaints) tied to Tommy Tubberville (via his Florida lawsuit/past actions) and the Alabama State Bar.
+      *   This context provides background on the integrity of the figures involved before his current election challenge by Ken McFeeters.
+
+      KEY ENTITIES:
+      *   Ken McFeeters (ALGOP Primary Candidate for Alabama Governor)
+      *   Tommy Tubberville (GOP candidate for Alabama Governor)
+      *   Jeanetta Pleasant JD
+      *   Katherine Church
+      *   Beverly Barber JD
+      *   Thomas Gallion III (Montgomery Attorney, now in Destin, Florida)
+      *   Phillip McCallum (former Executive Director of the Alabama State Bar)
+      *   Harry Still (filed 12 bar complaints in 2022)
+      *   Roman Shaw
+      *   Jeremy McIntyre
+      *   John Wahl
+      *   Steve Flowers
+      *   the Ripp Report (The Ripp Report)
+      *   Brandon Moseley (Alabama Gazette)
+      *   Alabama State Bar
+      *   November 3rd (Election Date)
+    llm_text: Ken McFeeters challenges Tommy Tubberville for Alabama Governor, but his past controversies demand attention. Tubberville faces allegations like a Florida kickback scheme and 17 ethics violations tied to the Alabama State Bar, including Phillip McCallum.
+    widget_date: "2026-09-05"
+    generated_at: "2026-11-04T05:06:54.042162Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf
+  august-special-edition:
+    brief: |-
+      THE CONFLICT: Special election held in Alabama on August 11, 2026, concerning the I-10 Bayway Bridge (toll) Project and development challenges in Baldwin County, led by The GUMBO-68 Ventures and Sheriff Huey Mack.
+      THE DISCOVERY: Tommy Tubberville stated his intent to "DOGE the Alabama Government," creating a possibility for Democrat Doug Jones to challenge for Governor, despite the GOP holding control since 2010.
+      THE PIVOT: The 2026 special election established Tubberville's political stance and the competitive state landscape (GOP vs. Democrat viability), providing the background for subsequent challenges, such as Ken McFeeters' lawsuit claiming Tubberville does not reside in Alabama, discussed in the November 3 election coverage.
+      KEY ENTITIES: Tommy Tubberville, Doug Jones, Ken McFeeters, John Wahl, Harry Still, Jerry Carl, Flock, I-10 Bayway Bridge, The GUMBO-68 Ventures, Sheriff Huey Mack.
+    llm_text: Tommy Tubberville plans to "DOGE the Alabama Government," fueled by the I-10 Bayway Bridge conflict involving GUMBO-68 Ventures and Sheriff Huey Mack. Read more about this sets up a competitive challenge for Democrat Doug Jones against long-held GOP control.
+    widget_date: "2026-08-11"
+    generated_at: "2026-11-04T05:07:58.155025Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf

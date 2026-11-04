@@ -91,7 +91,7 @@ related_articles:
 summary: Following up on our recent investigation, corporate elites used fear tactics
   and puppet campaigns to panic voters into protecting the status quo. Internal emails
   connect airport authority insiders directly to shady PR efforts designed to hijack
-  local referendum votes. See how a small circle of power brokers engineered panic
+  local referendum votes. Read more about a small circle of power brokers engineered panic
   to preserve their total control.
 ---
 {{< socialpreview url="https://rippreport.com/p/the-face-of-no/" >}}

@@ -114,7 +114,7 @@ I really expected that an apology would be forthcoming and that would be that. A
 
 {{< socialpreview url="https://rippreport.com/p/now-you-know-jack/" >}}
 
-For over a year the case moved forward through mediation and beyond to depositions. From a no money apology the case expanded monetary with attorney fees stacking up, yet no apology. The apology requested was from Mr. Burrell to the City Of Fairhope citizens, not to Francis Paul Ripp nor the Ripp Report. Instead of an apology Mr. Burrell ran his mouth all over town about how the lawsuit would go nowhere and the “Insurance company would pay any damages.” Think about that.
+For over a year the case moved forward through mediation and beyond to depositions. From a no money apology the case expanded monetary with attorney fees stacking up, yet no apology. The apology requested was from Mr. Burrell to the City Of Fairhope citizens, not to the Ripp Report nor the Ripp Report. Instead of an apology Mr. Burrell ran his mouth all over town about how the lawsuit would go nowhere and the “Insurance company would pay any damages.” Think about that.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/local/lawsuit-alleges-fairhope-council-president-denied-citizen-s-free-speech/article_0e9f0952-4287-5dd2-a569-77bb3e49975d.html" >}}
 

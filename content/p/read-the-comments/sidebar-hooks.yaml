@@ -11,7 +11,7 @@ hooks:
       \ panky problems\" and a reputation for coverups, lack of supervision, transparency,\
       \ and accountability.\n- A top senior officer engaged in an affair with a subordinate\
       \ female employee who is married to another officer. No official action taken\
-      \ by the sheriff; situation reportedly covered up from the public.\n- The Ripp\
+      \ by the sheriff; situation covered up from the public.\n- The Ripp\
       \ Report received three independent sources providing dates, names, and ranks\
       \ of individuals involved.\n- Prior context: Sheriff Hoss Mack was lead investigator\
       \ on the wrongful conviction case of Murray Lawrence Jr., producing zero evidence\
@@ -49,8 +49,8 @@ hooks:
     brief: 'THE CONFLICT: The Ripp Report claims an senior Baldwin County Sheriff''s
       Office officer has been involved in a romantic relationship with a subordinate
       female employee who is married to another BCSO officer. Three separate sources
-      allegedly provided the Ripp Report with dates, names, and ranks of those involved.
-      Sheriff Hoss Mack has reportedly taken no official action and appears to have
+       provided the Ripp Report with dates, names, and ranks of those involved.
+      Sheriff Hoss Mack has taken no official action and appears to have
       covered up the incident from the public.
 
 
@@ -282,7 +282,7 @@ hooks:
   JUDGE-VS-SHERIFF:
     brief: 'THE CONFLICT
 
-      - Top BCSO officer reportedly engaged in extra-curricular activity with subordinate
+      - Top BCSO officer engaged in extra-curricular activity with subordinate
       female employee; subordinate is married to another BCSO officer.
 
       - Sheriff Hoss Mack has taken no official action against the senior officer;
@@ -363,7 +363,7 @@ hooks:
 
       THE DISCOVERY:
 
-      - Georgia/Alabama Governor Kay Ivey allegedly believed all information Hoss
+      - Georgia/Alabama Governor Kay Ivey  believed all information Hoss
       Mack provided regarding his tenure.
 
       - Confirmation of 2 pending federal lawsuits involving Baldwin County Sheriff''s
@@ -498,7 +498,7 @@ hooks:
 
       - GOB ("Good Ole Boys" political faction supporting BCSO and local power)
 
-      - Francis Paul Ripp / The Ripp Report'
+      - the Ripp Report / The Ripp Report'
     widget_date: 2026-05-10
     generated_at: '2026-09-02T01:27:57.863200Z'
   bcso-how-to-become-sheriff:
@@ -541,7 +541,7 @@ hooks:
       - 2023: New exculpatory autopsy evidence found; Article claims Mack, Lowery,
       McGowan withheld this from defense.
 
-      - Jarius McNeal implicated Lawrence after Mack allegedly threatened him with
+      - Jarius McNeal implicated Lawrence after Mack  threatened him with
       death sentence unless he named an accomplice.
 
 

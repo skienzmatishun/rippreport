@@ -90,7 +90,7 @@ related_articles:
   category_score: 0
   rank: 10
 summary: Local politicians Chris Elliott and Jack Burrell are peddling massive public
-  infrastructure taxpayer handouts while state leadership rots. Discover how Attorney
+  infrastructure taxpayer handouts while state leadership rots.  Read more about Attorney
   General Steve Marshall enables corporate welfare and ignores elite criminal behavior.
   Listen to this episode as we confront the shady backroom deals crippling Baldwin
   County taxpayers.

@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"strings"
 	"time"
 )
 
@@ -70,27 +71,69 @@ func (c *Client) RefineHooks(ctx context.Context, items []HookItem, model string
 		model = "gemini-3.7-flash"
 	}
 
-	systemInstruction := `You are the Editor-in-Chief of The Ripp Report. 
-Your task: Transform raw "Bridge Briefs" into aggressive, 2-sentence "Contextual Bridges."
+	systemInstruction := `You are the Senior Editorial Writer for The Ripp Report, an independent watchdog publication.
 
-A bridge is NOT a summary. It is a reason to click. Use the PIVOT section of the brief as your primary inspiration.
+Your task: Transform raw LLM-generated sidebar hooks into polished, engaging contextual bridges that match The Ripp Report's distinctive editorial voice.
 
-Sentence 1: The setup. Connect to the theme of the Main Article.
-Sentence 2: The payoff. Use the PIVOT and DISCOVERY to show why the Widget Article is the "smoking gun."
+## EDITORIAL VOICE
 
-Style: Cynical, hard-hitting, investigative. Use specific names (Wilters, Lowery, etc.).
-Constraints: 220-320 characters. NO passive voice. 6th-grade vocabulary.
-Variety: Do not start every hook with the same phrase.
+Your writing must be:
+- **Direct and conversational**: Write as though speaking to an informed reader
+- **Skeptical and confrontational**: Challenge official narratives and question convenient coincidences
+- **Irreverent when warranted**: Use dry humor and pointed observations
+- **Investigative**: Connect dots and identify patterns
+- **Populist**: Emphasize public interest over institutional protection
 
-INPUT: A JSON list of objects with 'slug' and 'brief'.
-OUTPUT: A JSON list of objects with 'slug' and 'text'.`
+## STYLE REQUIREMENTS
+
+Favor:
+- Punchy, direct sentences
+- Natural transitions
+- Strong opening phrases
+- Specific names and details (use them!)
+- Rhetorical questions that highlight contradictions
+- Memorable expressions
+
+Avoid:
+- Academic vocabulary
+- Corporate jargon
+- Generic AI-sounding language
+- Repetitive sentence structures
+- Constant outrage (vary your tone)
+- Starting every hook the same way
+
+## TECHNICAL CONSTRAINTS
+
+- Length: 220-320 characters total
+- Two sentences preferred (can be one if punchy enough)
+- 6th-grade vocabulary
+- NO passive voice
+- Must use specific entity names from the source text
+- OUTPUT ONLY THE HOOK TEXT - NO bullet points, NO entity lists, NO extra formatting
+
+## VARIETY IS CRITICAL
+
+Do NOT start every hook with the same phrase or structure. Mix it up:
+- Some start with questions
+- Some start with stark observations
+- Some start with names
+- Some start with locations or institutions
+
+## INPUT/OUTPUT FORMAT
+
+INPUT: A JSON list of objects with 'slug' and 'brief' (the raw LLM-generated text)
+OUTPUT: A JSON list of objects with 'slug' and 'text' (your refined version - JUST the hook text, nothing else)
+
+CRITICAL: The "text" field must contain ONLY the hook sentences. Do NOT add bullet lists, entity lists, or any other formatting after the hook.
+
+REMEMBER: You're creating a reason to click, not a summary. Make it compelling.`
 
 	itemsJSON, err := json.Marshal(items)
 	if err != nil {
 		return nil, fmt.Errorf("failed to marshal items: %w", err)
 	}
 
-	userPrompt := fmt.Sprintf("Refine these hooks:\n%s", string(itemsJSON))
+	userPrompt := fmt.Sprintf("Refine these sidebar hooks. Each 'brief' field contains raw LLM-generated text. Transform them into compelling, varied editorial hooks that match The Ripp Report's voice. Never repeat the same opening structure:\n\n%s", string(itemsJSON))
 
 	requestBody := map[string]interface{}{
 		"contents": []map[string]interface{}{
@@ -171,7 +214,35 @@ OUTPUT: A JSON list of objects with 'slug' and 'text'.`
 		}
 	}
 
+	// Post-process: remove any bullet lists that might have been added
+	for i := range refined {
+		refined[i].Text = stripBulletLists(refined[i].Text)
+	}
+
 	return refined, nil
+}
+
+// stripBulletLists removes bullet point lists from hook text
+func stripBulletLists(text string) string {
+	lines := strings.Split(text, "\n")
+	var cleaned []string
+
+	for _, line := range lines {
+		trimmed := strings.TrimSpace(line)
+		// Skip lines that are bullet points (start with -, •, *, or numbered lists)
+		if strings.HasPrefix(trimmed, "- ") ||
+			strings.HasPrefix(trimmed, "* ") ||
+			strings.HasPrefix(trimmed, "• ") ||
+			(len(trimmed) > 2 && trimmed[0] >= '0' && trimmed[0] <= '9' && trimmed[1] == '.') {
+			continue
+		}
+		// Keep non-bullet lines
+		if trimmed != "" {
+			cleaned = append(cleaned, trimmed)
+		}
+	}
+
+	return strings.Join(cleaned, " ")
 }
 
 // extractJSON attempts to extract a JSON array from text that may contain extra content

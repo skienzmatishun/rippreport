@@ -145,7 +145,7 @@ I did not attend the trial however I have read many legal documents relative to 
 
 {{< socialpreview url="https://1819news.com/news/item/east-alabama-prosecutor-to-run-for-circuit-judge-12-16-2021" >}}
 
-Judge Tickle was the presiding Judge. He was formerly a prosecutor for 15 years and tried hundreds of cases in both Opelika municipal and Lee County Courts. He is also a member of the First Baptist Church where he serves as a Sunday School teacher for high school students. Nothing funny about Judge Tickle who has allegedly bragged about sentencing over 3000 years of prison time. Figure what that would be at a 15 thousand a year for each year incarcerated. If that is true it sure does not sound christian.
+Judge Tickle was the presiding Judge. He was formerly a prosecutor for 15 years and tried hundreds of cases in both Opelika municipal and Lee County Courts. He is also a member of the First Baptist Church where he serves as a Sunday School teacher for high school students. Nothing funny about Judge Tickle who has  bragged about sentencing over 3000 years of prison time. Figure what that would be at a 15 thousand a year for each year incarcerated. If that is true it sure does not sound christian.
 
 At the sentencing hearing the good Judge sentenced Mr. Barkley to 45 years in jail. The police in attendance were ecstatic and the prosecutor and District Attorney gladly shook police hands.
 

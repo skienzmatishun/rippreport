@@ -30,7 +30,7 @@ hooks:
       \ Article 1's claim that Burrell is a named defendant in federal court regarding\
       \ this speech restriction.\n- The attempt to amend Ordinance No. 1692, Section\
       \ IX (Widget) provides the specific legal mechanism for restricting speech that\
-      \ caused the lawsuit in Article 1.\n\nKEY ENTITIES\n- Francis Paul Ripp (Plaintiff,\
+      \ caused the lawsuit in Article 1.\n\nKEY ENTITIES\n- the Ripp Report (Plaintiff,\
       \ The Ripp Report)\n- Jack Burrell (Councilman, Defendant)\n- Martin (Councilman,\
       \ targeted by Burrell)\n- Mayor Sullivan\n- Boone Burrell (Recreation land purchase\
       \ proposal)\n- Cain O’Roarke (City Attorney, Triangle litigation fees)\n- CATALYST\
@@ -64,7 +64,7 @@ hooks:
       \ project).\n    *   Publix on Parker Road: Council ignored mud dumping in Fly\
       \ Creek and bulldozing rights of way despite 5 lawsuits.\n    *   Ronan McSharry:\
       \ Multiple arrests for assaulting women; Burrell and council remained silent\
-      \ while municipal attorney allegedly covered up wrongdoing.\n    *   Judicial\
+      \ while municipal attorney  covered up wrongdoing.\n    *   Judicial\
       \ Appointments: Reinstates same municipal judge and municipal attorney chosen\
       \ by Burrell.\n\nTHE PIVOT\n*   Widget article provides the legal validation\
       \ for Main Article’s claim that Burrell is lying about his stance.\n*   Item\
@@ -74,7 +74,7 @@ hooks:
       \ a lie, as he already fought this exact issue in federal court.\n*   Widget\
       \ details the \"good ole boy club\" culture (Boone, Faust, Brown) that Main\
       \ Article alludes to but does not detail as aggressively.\n\nKEY ENTITIES\n\
-      *   Jack Burrell\n*   Francis Paul Ripp (Plaintiff)\n*   Kevin Boone / Boone\
+      *   Jack Burrell\n*   the Ripp Report (Plaintiff)\n*   Kevin Boone / Boone\
       \ Burrell (Councilman/Developer figure)\n*   Ronan McSharry\n*   Mayor Wilson\n\
       *   Cain O’Rear (Attorney)\n*   CATALYST Council\n*   Troy Vickers (Endorsement\
       \ mentioned as alternative candidate)\n*   Jade Consulting\n*   Publix (Parker\
@@ -162,7 +162,7 @@ hooks:
       - US District Court S.D. Ala.'
     generated_at: '2026-03-11T10:43:16.991563Z'
     text: The Council claims they do not know how expensive projects land on the agenda,
-      yet they keep extending old budgets to hide the paper trail. See how Burrell
+      yet they keep extending old budgets to hide the paper trail. Read more about Burrell
       and the Catalyst crew shuffled millions in fees to ram through a massive land
       purchase without any public input.
     character_count: 268
@@ -245,7 +245,7 @@ hooks:
       - Councilman Jack Burrell and Mayor Sherry Sullivan involved in City of Fairhope
       decision-making on 27 million in failed projects.
 
-      - Plaintiff Francis Paul Ripp sued Defendant Jack Burrell (Ripp v Burrell) in
+      - Plaintiff the Ripp Report sued Defendant Jack Burrell (Ripp v Burrell) in
       US District Court S.D. Alabama Southern regarding denial of public participation
       at council meetings.
 
@@ -315,7 +315,7 @@ hooks:
 
       - Jay Robinson (Councilman, alias: "Marble mouth")
 
-      - Francis Paul Ripp (Plaintiff)
+      - the Ripp Report (Plaintiff)
 
       - May Wilson (Former Mayor)
 
@@ -341,7 +341,7 @@ hooks:
       public election following Alabama legislature postponement of 2024 municipal
       elections.
 
-      - Plaintiff Francis Paul Ripp sued Defendant Jack Burrell and Mayor Sullivan
+      - Plaintiff the Ripp Report sued Defendant Jack Burrell and Mayor Sullivan
       in United States District Court for the Southern District of Alabama regarding
       denial of public participation.
 
@@ -428,7 +428,7 @@ hooks:
     generated_at: '2026-03-28T04:24:25.659629Z'
   dog-and-pony-show-2:
     brief: "1. THE CONFLICT\n- Fauxhope City Council attempted to eliminate public\
-      \ participation from council meetings; Francis Paul Ripp was denied right to\
+      \ participation from council meetings; the Ripp Report was denied right to\
       \ speak.\n- Public outcry forced Council to reverse decision (\"backpedal\"\
       ) regarding participation rules.\n- Jack Burrell claimed \"surprise\" at the\
       \ agenda item being discussed; stated adamantly opposed to changes.\n- Legal\
@@ -451,7 +451,7 @@ hooks:
       \ irregularities (Fly Creek Apartments, Utility Fund raid) mentioned in Article\
       \ 1.\n- Article 2 links the Council President's procedural control (agenda items,\
       \ special sessions) to the corruption accusations regarding infrastructure money\
-      \ and settlements.\n\n4. KEY ENTITIES\n- Francis Paul Ripp (Plaintiff)\n- Jack\
+      \ and settlements.\n\n4. KEY ENTITIES\n- the Ripp Report (Plaintiff)\n- Jack\
       \ Burrell (Council President/Councilman)\n- Kevin Boone\n- Mayor Sullivan\n\
       - CATALYST Council\n- Fauxhope City Council / Fairhope"
     generated_at: '2026-03-11T10:43:16.991672Z'
@@ -463,7 +463,7 @@ hooks:
   no-radar:
     brief: 'THE CONFLICT
 
-      *   Fairhope City Council denied reporter Francis Paul Ripp right to speak in
+      *   Fairhope City Council denied reporter the Ripp Report right to speak in
       public forum during official city-sanctioned council meeting.
 
       *   Councilman Jack Burrell publicly stated he was "surprised" item regarding
@@ -521,7 +521,7 @@ hooks:
 
       *   Jack Burrell (Fairhope City Council President)
 
-      *   Francis Paul Ripp (Plaintiff/Reporter)
+      *   the Ripp Report (Plaintiff/Reporter)
 
       *   Mayor Sullivan
 

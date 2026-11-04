@@ -30,6 +30,7 @@ type RefineOptions struct {
 	Force         bool
 	DryRun        bool
 	Model         string
+	BatchSize     int // Number of hooks to refine per API call (0 = per-post)
 }
 
 // RefineResult holds the results of a refinement operation
@@ -80,6 +81,12 @@ func (r *Refiner) RefineHooks(ctx context.Context, opts RefineOptions) (*RefineR
 		return nil, fmt.Errorf("failed to discover posts: %w", err)
 	}
 
+	// If batch size specified, collect hooks across all posts and batch them
+	if opts.BatchSize > 0 {
+		return r.refineBatched(ctx, postPaths, opts, startTime)
+	}
+
+	// Otherwise, refine per-post (original behavior)
 	for _, postPath := range postPaths {
 		post, err := r.postManager.ReadPost(postPath)
 		if err != nil {
@@ -88,7 +95,7 @@ func (r *Refiner) RefineHooks(ctx context.Context, opts RefineOptions) (*RefineR
 		}
 
 		hooksPath := filepath.Join(filepath.Dir(string(postPath)), "sidebar-hooks.yaml")
-		
+
 		// Check if hooks file exists
 		if _, err := os.Stat(hooksPath); os.IsNotExist(err) {
 			result.SkippedPosts++
@@ -114,13 +121,13 @@ func (r *Refiner) RefineHooks(ctx context.Context, opts RefineOptions) (*RefineR
 			continue
 		}
 
-		// Prepare items for refinement
+		// Prepare items for refinement (use llm_text instead of brief)
 		var items []gemini.HookItem
 		for slug, hook := range hooks.Hooks {
-			if hook.Brief != "" {
+			if hook.LLMText != "" {
 				items = append(items, gemini.HookItem{
 					Slug:  slug,
-					Brief: hook.Brief,
+					Brief: hook.LLMText, // Send llm_text as "brief" to Gemini
 				})
 			}
 		}
@@ -169,5 +176,146 @@ func (r *Refiner) RefineHooks(ctx context.Context, opts RefineOptions) (*RefineR
 	}
 
 	result.Duration = time.Since(startTime)
+	return result, nil
+}
+
+// refineBatched collects hooks across multiple posts and refines them in batches
+func (r *Refiner) refineBatched(ctx context.Context, postPaths []models.PostPath, opts RefineOptions, startTime time.Time) (*RefineResult, error) {
+	result := &RefineResult{}
+
+	// Collect all hooks with their file paths
+	type hookWithPath struct {
+		slug     string
+		llmText  string
+		hookPath string
+		hookSlug string
+	}
+
+	var allHooks []hookWithPath
+	hookPathMap := make(map[string]*processor.HooksDocument)
+
+	fmt.Printf("Collecting hooks from %d posts...\n", len(postPaths))
+
+	for _, postPath := range postPaths {
+		hooksPath := filepath.Join(filepath.Dir(string(postPath)), "sidebar-hooks.yaml")
+
+		// Check if hooks file exists
+		if _, err := os.Stat(hooksPath); os.IsNotExist(err) {
+			continue
+		}
+
+		// Load existing hooks
+		hooks, err := processor.LoadHooksYAML(hooksPath)
+		if err != nil {
+			fmt.Printf("  Warning: failed to load hooks from %s: %v\n", hooksPath, err)
+			continue
+		}
+
+		// Store the hooks file for later updating
+		hookPathMap[hooksPath] = hooks
+
+		// Collect hooks with llm_text
+		for slug, hook := range hooks.Hooks {
+			if hook.LLMText != "" {
+				post, _ := r.postManager.ReadPost(postPath)
+				postSlug := ""
+				if post != nil {
+					postSlug = post.Slug
+				}
+				allHooks = append(allHooks, hookWithPath{
+					slug:     postSlug,
+					llmText:  hook.LLMText,
+					hookPath: hooksPath,
+					hookSlug: slug,
+				})
+			}
+		}
+	}
+
+	if len(allHooks) == 0 {
+		fmt.Printf("No hooks with llm_text found\n")
+		result.SkippedPosts = len(postPaths)
+		result.Duration = time.Since(startTime)
+		return result, nil
+	}
+
+	fmt.Printf("Collected %d hooks with llm_text\n", len(allHooks))
+
+	// Process in batches
+	totalBatches := (len(allHooks) + opts.BatchSize - 1) / opts.BatchSize
+	fmt.Printf("Processing in %d batches of %d...\n\n", totalBatches, opts.BatchSize)
+
+	refinedCount := 0
+	for batchIdx := 0; batchIdx < len(allHooks); batchIdx += opts.BatchSize {
+		end := batchIdx + opts.BatchSize
+		if end > len(allHooks) {
+			end = len(allHooks)
+		}
+
+		batch := allHooks[batchIdx:end]
+		batchNum := (batchIdx / opts.BatchSize) + 1
+
+		fmt.Printf("Batch %d/%d (%d hooks)...\n", batchNum, totalBatches, len(batch))
+
+		// Prepare items for Gemini (use llm_text as "brief")
+		var items []gemini.HookItem
+		for _, h := range batch {
+			items = append(items, gemini.HookItem{
+				Slug:  h.hookSlug,
+				Brief: h.llmText,
+			})
+		}
+
+		if opts.DryRun {
+			fmt.Printf("  [DRY RUN] Would refine %d hooks\n", len(items))
+			refinedCount += len(items)
+			continue
+		}
+
+		// Call Gemini API
+		refined, err := r.geminiClient.RefineHooks(ctx, items, opts.Model)
+		if err != nil {
+			fmt.Printf("  ✗ Batch failed: %v\n", err)
+			result.FailedPosts++
+			continue
+		}
+
+		// Update the hooks in memory
+		for _, ref := range refined {
+			for _, h := range batch {
+				if h.hookSlug == ref.Slug {
+					hooks := hookPathMap[h.hookPath]
+					if hook, exists := hooks.Hooks[h.hookSlug]; exists {
+						hook.Text = ref.Text
+						hooks.Hooks[h.hookSlug] = hook
+					}
+					break
+				}
+			}
+		}
+
+		refinedCount += len(refined)
+		fmt.Printf("  ✓ Refined %d hooks\n", len(refined))
+	}
+
+	// Write all updated hooks files
+	fmt.Printf("\nWriting updated hooks to %d files...\n", len(hookPathMap))
+	for hooksPath, hooks := range hookPathMap {
+		if !opts.DryRun {
+			hooks.Metadata.RefinedBy = "gemini"
+			hooks.Metadata.RefinedAt = time.Now().UTC()
+
+			if err := processor.SaveHooksYAML(hooksPath, hooks); err != nil {
+				fmt.Printf("  ✗ Failed to save %s: %v\n", hooksPath, err)
+				result.FailedPosts++
+			} else {
+				result.ProcessedPosts++
+			}
+		}
+	}
+
+	result.Duration = time.Since(startTime)
+	fmt.Printf("\n✓ Refined %d hooks across %d files in %v\n", refinedCount, result.ProcessedPosts, result.Duration)
+
 	return result, nil
 }

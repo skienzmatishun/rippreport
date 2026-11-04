@@ -11,6 +11,7 @@ import (
 	"unicode"
 
 	"github.com/rippreport/go-content-pipeline/internal/client"
+	"github.com/rippreport/go-content-pipeline/internal/config"
 	"github.com/rippreport/go-content-pipeline/internal/models"
 )
 
@@ -32,7 +33,7 @@ var (
 
 // GenerateHook produces a Bridge Brief connecting two articles, matching
 // recent_placement/hook_generator (THE CONFLICT / DISCOVERY / PIVOT / KEY ENTITIES).
-func GenerateHook(ctx context.Context, llamaClient client.LlamaClient, modelName string, cache *CompressionCache, req models.HookRequest) (*models.Hook, error) {
+func GenerateHook(ctx context.Context, llamaClient client.LlamaClient, modelName string, cache *CompressionCache, cfg *config.Config, req models.HookRequest) (*models.Hook, error) {
 	if err := req.Validate(); err != nil {
 		return nil, fmt.Errorf("invalid hook request: %w", err)
 	}
@@ -75,10 +76,51 @@ func GenerateHook(ctx context.Context, llamaClient client.LlamaClient, modelName
 	}
 
 	now := time.Now().UTC()
+
+	// Generate initial LLM hook text from the brief
+	var llmText string
+	if llamaClient != nil && brief != stubBridgeBrief(mainFM.Title, widgetFM.Title) {
+		// Use LLM to generate initial sidebar hook from the brief
+		hookSystemPrompt := `You are a sidebar hook writer for The Ripp Report.
+
+Your task: Transform the structured bridge brief into a compelling 2-sentence sidebar hook.
+
+Style:
+- Direct and conversational
+- Use specific names and details from the brief
+- Connect the widget article to why readers should care
+- 220-320 characters total
+- NO passive voice
+
+Output ONLY the hook text, nothing else.`
+
+		hookUserPrompt := fmt.Sprintf("Create a sidebar hook from this bridge brief:\n\n%s", brief)
+
+		maxTokens := cfg.Processing.HookLLMTextMaxTokens
+		if maxTokens == 0 {
+			maxTokens = 30000 // Default if not configured
+		}
+
+		hookResp, err := llamaClient.Complete(ctx, models.CompletionRequest{
+			Messages: []models.ChatMessage{
+				{Role: "system", Content: hookSystemPrompt},
+				{Role: "user", Content: hookUserPrompt},
+			},
+			Model:       modelName,
+			Temperature: 0.9,
+			TopP:        0.95,
+			MaxTokens:   maxTokens,
+		})
+		if err == nil && len(strings.TrimSpace(hookResp.Text)) > 0 {
+			llmText = strings.TrimSpace(hookResp.Text)
+		}
+	}
+
 	hook := &models.Hook{
 		WidgetSlug:  req.WidgetPost.Slug,
 		WidgetTitle: widgetFM.Title,
 		Brief:       brief,
+		LLMText:     llmText,
 		WidgetDate:  formatDate(widgetFM.Date),
 		Generated:   now,
 		ModelName:   modelName,

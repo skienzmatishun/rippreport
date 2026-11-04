@@ -93,7 +93,7 @@ related_articles:
   rank: 10
 summary: Top state leaders intentionally starved public education to cover up years
   of secret financial mismanagement. Official budget reports reveal how politicians
-  funneled lottery promises away from children into state debt payments. See how state
+  funneled lottery promises away from children into state debt payments. Read more about state
   officials turned systemic failures into a political art form.
 ---
 In today's National news, Alabama is capturing the headlines.

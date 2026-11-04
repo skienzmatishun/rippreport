@@ -5,6 +5,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/rippreport/go-content-pipeline/internal/config"
 	"github.com/rippreport/go-content-pipeline/internal/models"
 )
 
@@ -96,7 +97,7 @@ func TestGenerateHooksBatch(t *testing.T) {
 		{MainPost: main, WidgetPost: w1},
 	}
 
-	hooks, err := GenerateHooksBatch(context.Background(), nil, "model-test", nil, reqs)
+	hooks, err := GenerateHooksBatch(context.Background(), nil, "model-test", nil, config.DefaultConfig(), reqs)
 	if err != nil {
 		t.Fatalf("GenerateHooksBatch failed: %v", err)
 	}

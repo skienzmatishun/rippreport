@@ -45,7 +45,7 @@ Here is a summary of the key points discussed in the **Heart of Dixie Podcast Au
 ### 5. Local Legal Scandals & Public Misconduct
 
 * **Geneva County Embezzlement:** Discussion of the Geneva County Circuit Clerk’s arrest following allegations of misusing $90,000 in court funds for personal gain [[16:48](https://www.youtube.com/watch?v=L6dyOWiaei4&t=1008)], [[17:08](https://www.youtube.com/watch?v=L6dyOWiaei4&t=1028)].
-* **Abuse of Grand Jury Subpoenas:** Steele highlights procedural abuses in local prosecutor offices where grand jury subpoenas are allegedly issued to financial institutions without an active grand jury or official investigation [[29:33](https://www.youtube.com/watch?v=L6dyOWiaei4&t=1773)], [[30:25](https://www.youtube.com/watch?v=L6dyOWiaei4&t=1825)].
+* **Abuse of Grand Jury Subpoenas:** Steele highlights procedural abuses in local prosecutor offices where grand jury subpoenas are  issued to financial institutions without an active grand jury or official investigation [[29:33](https://www.youtube.com/watch?v=L6dyOWiaei4&t=1773)], [[30:25](https://www.youtube.com/watch?v=L6dyOWiaei4&t=1825)].
 
 ---
 

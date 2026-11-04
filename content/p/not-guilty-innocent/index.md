@@ -127,7 +127,7 @@ Elliott later said Still’s case inspired the bill, which did not pass through 
 
 {{< socialpreview url=https://www.lagniappemobile.com/news/audio-of-bay-minette-attorney-councilman-fight-offers-new-details/article_7c04af07-fb80-45f9-9dfe-9abb8052c331.html >}}
 
-"According to former Mayor Bob Wills, former police chief Al Tolbert and police statements, Still attacked Franklin in his office in downtown Bay Minette on Sept. 3 after a conversation became heated. The fight continued out the front door and onto the street, where several witnesses allegedly saw Still restraining Franklin. He was then arrested and charged with assault."
+"According to former Mayor Bob Wills, former police chief Al Tolbert and police statements, Still attacked Franklin in his office in downtown Bay Minette on Sept. 3 after a conversation became heated. The fight continued out the front door and onto the street, where several witnesses  saw Still restraining Franklin. He was then arrested and charged with assault."
 
 Baldwin County Sheriff Lowery issued a bulletin to his officers to beware of Still’s presence, prior to any conviction. BCSO has had a conflict with Still for years due to many of Still’s clients being charged or arrested by BCSO. Al Tolbert, former police chief for Bay Minette is now with BCSO. Tolbert lost his job when Mayor Brown was elected so he just slid over to BCSO. Tolbert was the chief of Bay Minette Police and on the Baldwin County Major crimes when O.J. French was Murdered in Bay Minette. Major crimes ruled the death "justified" which is standard procedure for the sheriff office. Tolbert had issues with Still because Still represented the victims of police false arrest, police harassment and wrongful convictions.
 

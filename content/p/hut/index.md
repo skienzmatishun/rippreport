@@ -1,13 +1,42 @@
 ---
 title: HUT
-date: 2026-10-14
-thumbnail: img/hut.png
-tags:
-- Fairhope
+date: 2026-10-14T00:00:00Z
 categories:
-- citycouncil
+  - citycouncil
+tags:
+  - Fairhope
+thumbnail: img/hut.png
+related_articles:
+  - slug: alabama-fake-ethics-commission
+    title: ALABAMA FAKE ETHICS COMMISSION
+    score: 100
+    rank: 1
+  - slug: mabel-amos-scholarship-list-revealed
+    title: Mabel Amos scholarship list revealed - Lagniappe
+    score: 100
+    rank: 2
+  - slug: fauxhope-know-the-backstory
+    title: FAUXHOPE - KNOW THE BACKSTORY
+    score: 50
+    rank: 3
+  - slug: foot-in-his-mouth
+    title: FOOT IN HIS MOUTH
+    score: 50
+    rank: 4
+  - slug: some-things-need-to-go-away
+    title: SOME THINGS NEED TO GO AWAY
+    score: 50
+    rank: 5
+  - slug: fauxhope-4
+    title: FAUXHOPE
+    score: 50
+    rank: 6
+  - slug: fauxhope-3
+    title: FAUXHOPE
+    score: 50
+    rank: 7
 authors:
-- admin
+  - admin
 summary: The local self-appointed cultural elite are currently wringing their hands, clutching their pearls, and opening their pocketbooks over the relocation of the famous Hermit Hut or the "Round House," if you prefer the dignified title meant to make a six-inch-thick pile of poured cement sound like architectural heritage.
 ---
 
@@ -27,7 +56,7 @@ Yet, the local establishment, being the wonderfully elitist bubble that it is, c
 
 Which brings us to the present spectacle: the grand relocation to a nearby public nature preserve.
 
-You’d think the municipality was preparing to move the Tsar of Russia’s summer palace. They’ve assembled a small army of specialists, engineers, and heavy machinery operators. They’re running routes, measuring tree overhangs, and reportedly threatening to sacrifice a massive, decades-old oak tree in the process just to squeeze this lump of concrete down the road.
+You’d think the municipality was preparing to move the Tsar of Russia’s summer palace. They’ve assembled a small army of specialists, engineers, and heavy machinery operators. They’re running routes, measuring tree overhangs, and threatening to sacrifice a massive, decades-old oak tree in the process just to squeeze this lump of concrete down the road.
 
 And who is paying for this elaborate municipal circus? Not the commercial real estate owner who actually holds the title to the land.
 

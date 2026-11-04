@@ -98,7 +98,7 @@ summary: A Montgomery judge ran from accountability by abruptly recusing himself
 ---
 "The Ivey Gambit", playing to the base related to an Executive Order against Biden's vaccine mandate- and all the grandstanders want a shot at this one.
 
-We recount the Lagniappe article "Nowhere Fast" related to "The Ethical Recusal" of a Montgomery County Circuit Judge in the Francis Paul Ripp v The Alabama Ethics Commission Case related to the involvement of Ethics Director (Tom Albritton) on cases Mr. Ripp alleges were not properly investigated (all Baldwin County Cases-big surprise).
+We recount the Lagniappe article "Nowhere Fast" related to "The Ethical Recusal" of a Montgomery County Circuit Judge in the the Ripp Report v The Alabama Ethics Commission Case related to the involvement of Ethics Director (Tom Albritton) on cases Mr. Ripp alleges were not properly investigated (all Baldwin County Cases-big surprise).
 
 There is a push for a new Baldwin County Planning District 8 outside of Fairhope and North of Point Clear, signatures are being collected as required. The Sheriff cant get no help (meaning the Baldwin County Sheriff Huey Mack).
 

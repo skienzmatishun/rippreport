@@ -56,3 +56,5 @@ progress_sidebar.json
 top_phrases_output.json
 top_sidebar_phrases_output.json
 go-content-pipeline/*
+bin/*
+internal/*

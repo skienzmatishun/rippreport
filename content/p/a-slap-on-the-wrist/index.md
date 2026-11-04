@@ -115,7 +115,7 @@ Lagniappe has covered the Fairhope, McSharry “Bar stool” incident from the o
 
 This article has a paywall, free copies are available at news stands
 
-“At the time of the 2018 incident, McSharry was already on probation. Roughly two months earlier, he was convicted of “breach of peace” after a 2017 incident in which he allegedly harassed artist Nall Hollis, who had a gallery across the street from McSharry’s Irish Pub. McSharry also received a 12-month probation in that case, with additional instructions to avoid contact with Hollis and have “no distilled liquors and shall not become inebriated.”
+“At the time of the 2018 incident, McSharry was already on probation. Roughly two months earlier, he was convicted of “breach of peace” after a 2017 incident in which he  harassed artist Nall Hollis, who had a gallery across the street from McSharry’s Irish Pub. McSharry also received a 12-month probation in that case, with additional instructions to avoid contact with Hollis and have “no distilled liquors and shall not become inebriated.”
 
 \[He also was sentenced to 6 months jail, in Nall case, never served a day.\]
 

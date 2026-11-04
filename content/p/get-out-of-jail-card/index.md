@@ -111,7 +111,7 @@ We all remember lying “Tax Man” Elliott. He pledged to do the right thing an
 
 {{< socialpreview url="https://rippreport.com/p/a-slap-on-the-wrist/" >}}
 
-Paula DiNardi case: “At the time of the 2018 incident, McSharry was already on probation. Roughly two months earlier, he was convicted of “breach of peace” after a 2017 incident in which he allegedly harassed artist Nall Hollis, who had a gallery across the street from McSharry’s Irish Pub. McSharry also received a 12-month probation in that case, with additional instructions to avoid contact with Hollis and have “no distilled liquors and shall not become inebriated.
+Paula DiNardi case: “At the time of the 2018 incident, McSharry was already on probation. Roughly two months earlier, he was convicted of “breach of peace” after a 2017 incident in which he  harassed artist Nall Hollis, who had a gallery across the street from McSharry’s Irish Pub. McSharry also received a 12-month probation in that case, with additional instructions to avoid contact with Hollis and have “no distilled liquors and shall not become inebriated.
 
 McSharry has been arrested a total of 9 times, let’s see how he slips out of arrest 9.
 

@@ -1,11 +1,44 @@
 ---
 title: KEY FIGURES - WRONGFUL CONVICTION
-date: 2026-09-02
-thumbnail: img/key-figures-wrongful-conviction.png
+date: 2026-09-02T00:00:00Z
 categories:
-- bcso
+  - bcso
+thumbnail: img/key-figures-wrongful-conviction.png
+related_articles:
+  - slug: fairhope-wrongful-conviction-2
+    title: FAIRHOPE WRONGFUL CONVICTION
+    score: 100
+    rank: 1
+  - slug: august-special-edition
+    title: August Special Election
+    score: 100
+    rank: 2
+  - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
+    title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+    score: 94
+    rank: 3
+  - slug: not-guilty-innocent
+    title: NOT GUILTY - INNOCENT
+    score: 64
+    rank: 4
+  - slug: fairhope-wrongful-conviction
+    title: FAIRHOPE WRONGFUL CONVICTION
+    score: 50
+    rank: 5
+  - slug: bcso-sound-off
+    title: BCSO SOUND-OFF
+    score: 50
+    rank: 6
+  - slug: read-the-comments
+    title: READ THE COMMENTS
+    score: 50
+    rank: 7
+  - slug: sheriff-commission-races-2014
+    title: Sheriff and Commission Races - Fighting the Machine
+    score: 90
+    rank: 8
 authors:
-- ripp-report
+  - ripp-report
 ---
 
 

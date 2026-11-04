@@ -106,7 +106,7 @@ summary: Expanding on our sidewalk conflict investigation, Lee Turner repeatedly
 **Ripp Report Sept. 25, 2015**
 
 TO: Tom Albritton, Director, Alabama Ethics Commission  
-FROM: The Ripp Report/Baldwin County Legal Eagle - Francis Paul Ripp  
+FROM: The Ripp Report/Baldwin County Legal Eagle - the Ripp Report  
 RE: Ethics Complaint – Fairhope City Government
 
 Dear Mr. Albritton:

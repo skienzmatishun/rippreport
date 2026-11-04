@@ -125,7 +125,7 @@ No criminal charges were filed.
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/trial-begins-over-alleged-fraudulent-pool-mortgage-at-bellaton/article_8736727e-0a11-58d8-a96b-04e70df66ae9.html" >}}
 
-“According to testimony in a civil trial that began in Judge Jody Bishop’s courtroom Friday, Burke and Corte remained obligated to the debt even as, over the next few years, their obligation was allegedly “hidden” by a series of “secret” documents. Further muddying the waters, management of the Bellaton Property Owners Association (BPOA) was assumed by DR Horton in 2012, which purchased dozens of lots, including A1, out of foreclosure or default. “.
+“According to testimony in a civil trial that began in Judge Jody Bishop’s courtroom Friday, Burke and Corte remained obligated to the debt even as, over the next few years, their obligation was  “hidden” by a series of “secret” documents. Further muddying the waters, management of the Bellaton Property Owners Association (BPOA) was assumed by DR Horton in 2012, which purchased dozens of lots, including A1, out of foreclosure or default. “.
 
 No criminal charges filed.
 

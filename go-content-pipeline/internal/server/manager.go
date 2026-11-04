@@ -30,7 +30,7 @@ const (
 	defaultModelsDir      = "/Volumes/1tb/models"
 	defaultHost           = "127.0.0.1"
 	defaultPort           = 8080
-	defaultContextSize    = 4096
+	defaultContextSize    = 30096
 	defaultGPULayers      = 99
 	defaultStartupTimeout = 0 // 0 means no timeout: wait indefinitely until server is ready or process exits
 )
@@ -216,7 +216,7 @@ func (sm *ServerManager) EnsureModel(ctx context.Context, modelPathOrName string
 
 	switch mode {
 	case ModeEmbedding:
-		args = append(args, "--embedding")
+		args = append(args, "--embedding", "--no-mmproj")
 	case ModeReranker:
 		args = append(args, "--reranking")
 	case ModeCompletion:

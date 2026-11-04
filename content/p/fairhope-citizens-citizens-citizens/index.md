@@ -76,7 +76,7 @@ related_articles:
 summary: Council President Jack Burrell openly mocked Fairhope taxpayers while trapping
   the city in millions of dollars of unauthorized airport debt. Financial documents
   reveal how council leadership funneled tax dollars into a black hole while protecting
-  private hangar deals for insider friends. Discover how your hard-earned tax money
+  private hangar deals for insider friends.  Read more about your hard-earned tax money
   vanished behind closed doors.
 ---
 FAIRHOPE “CITIZENS CITIZENS CITIZENS”

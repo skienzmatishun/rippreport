@@ -211,7 +211,9 @@ func (o *Orchestrator) GenerateRelatedArticles(ctx context.Context, opts Ranking
 	postsByPath := make(map[string]*models.Post)
 	var allPosts []*models.Post
 
-	for _, pPath := range corpusPaths {
+	fmt.Printf("Computing embeddings for %d posts...\n", len(corpusPaths))
+
+	for idx, pPath := range corpusPaths {
 		post, readErr := o.postManager.ReadPost(pPath)
 		if readErr != nil {
 			o.errorCollector.Add(errors.NewFileIOError("read_post", readErr.Error(), readErr, false))
@@ -224,6 +226,9 @@ func (o *Orchestrator) GenerateRelatedArticles(ctx context.Context, opts Ranking
 		if vec, hit := o.embeddingCache.Get(string(pPath), post.ContentHash); hit {
 			corpusEmbeddings[string(pPath)] = vec
 			result.CacheHits++
+			if (idx+1)%50 == 0 || idx == len(corpusPaths)-1 {
+				fmt.Printf("  [%d/%d] Processed (cache hit: %s)\n", idx+1, len(corpusPaths), post.Slug)
+			}
 		} else {
 			// Generate embedding
 			embedContent, cErr := o.postManager.GetEmbeddingContent(post)
@@ -232,6 +237,7 @@ func (o *Orchestrator) GenerateRelatedArticles(ctx context.Context, opts Ranking
 			}
 			var vec []float32
 			if o.llamaClient != nil {
+				fmt.Printf("  [%d/%d] Computing embedding for: %s\n", idx+1, len(corpusPaths), post.Slug)
 				vec, err = o.llamaClient.GenerateEmbedding(ctx, embedContent)
 			} else {
 				// Fallback dummy vector for testing
@@ -247,6 +253,8 @@ func (o *Orchestrator) GenerateRelatedArticles(ctx context.Context, opts Ranking
 			o.embeddingCache.Put(string(pPath), post.ContentHash, vec)
 		}
 	}
+
+	fmt.Printf("✓ Embeddings complete: %d computed, %d from cache\n\n", len(corpusEmbeddings)-result.CacheHits, result.CacheHits)
 
 	// Persist updated cache
 	_ = o.embeddingCache.Persist()
@@ -285,7 +293,8 @@ func (o *Orchestrator) GenerateRelatedArticles(ctx context.Context, opts Ranking
 		}
 
 		// Progress notification
-		fmt.Printf("[%d/%d] Processing %s\n", idx+1, total, post.Slug)
+		fmt.Printf("\n[%d/%d] Processing %s\n", idx+1, total, post.Slug)
+		fmt.Printf("  Finding candidates...\n")
 
 		var finalArticles []models.RelatedArticle
 
@@ -301,6 +310,7 @@ func (o *Orchestrator) GenerateRelatedArticles(ctx context.Context, opts Ranking
 
 			candidates := processor.GetTopCandidates(queryVec, corpusEmbeddings, topN*2, []string{post.Slug})
 			candidates = processor.FilterBackstoryFromNonBackstory(candidates, allPosts)
+			fmt.Printf("  Found %d candidates\n", len(candidates))
 
 			scoringModel := opts.Model
 			if scoringModel == "" {
@@ -308,6 +318,16 @@ func (o *Orchestrator) GenerateRelatedArticles(ctx context.Context, opts Ranking
 			}
 
 			useReranker := opts.UseReranker || o.cfg.ShouldUseReranker()
+
+			if !opts.VectorOnly {
+				if useReranker {
+					fmt.Printf("  Scoring with reranker model...\n")
+				} else {
+					fmt.Printf("  Scoring with LLM model...\n")
+				}
+			} else {
+				fmt.Printf("  Using vector-only scoring\n")
+			}
 
 			scoringReq := models.ScoringRequest{
 				CurrentPost: post,
@@ -342,8 +362,28 @@ func (o *Orchestrator) GenerateRelatedArticles(ctx context.Context, opts Ranking
 					}
 				}
 				scoredArticles[i].Title = title
-				finalArticles = append(finalArticles, scoredArticles[i].ToRelatedArticle())
 			}
+
+			// Use new selection strategy
+			selectionOpts := processor.SelectionOptions{
+				RecentYears:         2,
+				RecentScoreCutoff:   50,
+				RecentMaxSlots:      7,
+				RecentMinGoodMatch:  4,
+				AllTimeScoreCutoff:  85,
+				AllTimeMaxSlots:     3,
+				CurrentPostCategory: "", // Will be set from post categories if available
+				CurrentPostDate:     post.FrontMatter.Date,
+			}
+
+			// Set category for backfilling if post has categories
+			if len(post.FrontMatter.Categories) > 0 {
+				selectionOpts.CurrentPostCategory = post.FrontMatter.Categories[0]
+			}
+
+			fmt.Printf("  Selecting related articles (recent: last 2 years, score ≥50; all-time: score ≥85)...\n")
+			finalArticles = processor.SelectRelatedArticles(scoredArticles, allPosts, selectionOpts)
+			fmt.Printf("  ✓ Selected %d related articles\n", len(finalArticles))
 
 			if opts.RefreshRecent && len(post.FrontMatter.RelatedArticles) > 0 {
 				finalArticles = processor.MergeWithExisting(finalArticles, post.FrontMatter.RelatedArticles, 10)
@@ -473,7 +513,7 @@ func (o *Orchestrator) GenerateHooks(ctx context.Context, opts HookOptions) (*Ho
 			})
 		}
 
-		hooks, hErr := processor.GenerateHooksBatch(ctx, o.llamaClient, modelName, o.compressionCache, hookReqs)
+		hooks, hErr := processor.GenerateHooksBatch(ctx, o.llamaClient, modelName, o.compressionCache, o.cfg, hookReqs)
 		if hErr != nil {
 			fmt.Printf("    ✗ batch failed: %v\n", hErr)
 			o.errorCollector.Add(errors.NewProcessingError("generate_hooks", hErr.Error(), hErr, false))

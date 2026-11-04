@@ -26,7 +26,7 @@ This mindset established by Mr. FIXIT, Lynn Stacy, is the same philosophy of for
 
 ## Home Cooking—Baldwin County Style
 
-In the Baldwin County Commission primary race Elliott and James were allegedly only 150 votes apart, with a third candidate, Cody Phillips, receiving 3,000 votes. Bob James, the incumbent, was endorsed by Cody Phillips going into the runoff, six weeks later. Mr. Elliott avoided all public forums for debate and only attended Lynn Stacy-endorsed events. His other bold strategy was to use Lynn Stacy's Queen—Timothy Kant—to open back doors. Elliott, a debris removal contractor, in just six weeks, beats James by guess what? 3,000 votes! This is the same amount Cody Phillips received in the primary—and threw to Bob James!
+In the Baldwin County Commission primary race Elliott and James were  only 150 votes apart, with a third candidate, Cody Phillips, receiving 3,000 votes. Bob James, the incumbent, was endorsed by Cody Phillips going into the runoff, six weeks later. Mr. Elliott avoided all public forums for debate and only attended Lynn Stacy-endorsed events. His other bold strategy was to use Lynn Stacy's Queen—Timothy Kant—to open back doors. Elliott, a debris removal contractor, in just six weeks, beats James by guess what? 3,000 votes! This is the same amount Cody Phillips received in the primary—and threw to Bob James!
 
 So, the powers that be (Lynn Stacy and the rethuglican machine) want us to believe that with only eleven percent voting, Elliott defeated the incumbent by 19 percentage points! Does anyone see any red flags here? How is it that Lynn Stacy's candidates never lose?
 

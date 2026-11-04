@@ -88,7 +88,7 @@ Noted public figure and government watchdog, Francis Paul Ripp, publisher of the
 
 The meeting in question, along with Ripp’s nasty confrontation with Council President Burrell—who denied Ripp his right to speak in a public forum sanctioned by City of Fairhope ordinance—and threatened his removal and arrest for trying to address the council—was captured on the official video of the council meeting.
 
-This is the first time Ripp has sued the City of Fairhope over refusing to allow him to address the city council. The city had denied him in the past, several times, the ability to speak at public meetings, forcing the council to adopt a new set of rules regarding public participation. These are the rules City Councilman Jack Burrell ignored when he allegedly denied Mr. Ripp, a Marine Corps veteran who served in Viet Nam, his constitutional right to free speech.
+This is the first time Ripp has sued the City of Fairhope over refusing to allow him to address the city council. The city had denied him in the past, several times, the ability to speak at public meetings, forcing the council to adopt a new set of rules regarding public participation. These are the rules City Councilman Jack Burrell ignored when he  denied Mr. Ripp, a Marine Corps veteran who served in Viet Nam, his constitutional right to free speech.
 
 <iframe src="https://cdn.rippreport.com/Fairhope-Complaint.pdf" style="height:1000px;width:100%;"></iframe>
 

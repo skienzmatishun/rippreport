@@ -100,7 +100,7 @@ related_articles:
 summary: City Attorney Marcus McDowell and Council leadership routinely make secret
   municipal decisions while completely freezing out the elected Mayor. Meeting minutes
   and police records demonstrate how city hall insiders deliberately hid key files
-  and altered prosecution documents. See how local power brokers weaponized city offices
+  and altered prosecution documents. Read more about local power brokers weaponized city offices
   to control the municipal agenda.
 ---
 Can you hear me now! How many times in the last 18 months has the Mayor of Fairhope gone on record, with the City Council, about the lack of communication between the Mayor’s office and the City Attorney.

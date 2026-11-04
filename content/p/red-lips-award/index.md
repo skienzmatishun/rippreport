@@ -107,7 +107,7 @@ related_articles:
 summary: Vengeful state politicians are dismantling an independent veterans board
   to punish a whistleblower who dared to report cabinet-level corruption. Leaked ethics
   complaints and foundation financial records expose how millions in relief funds
-  were quietly diverted away from Alabama veterans. See how state lawmakers traded
+  were quietly diverted away from Alabama veterans. Read more about state lawmakers traded
   honor for political favors in Montgomery.
 ---
  Alabama is number one in the United States when it comes to political corruption, by far. The Department of Mental Health run by Kimberly Boswell ranks “In 2024, Mental Health America ranked Alabama 50th out of 51 states for access to mental health care.” The veteran suicide rate is higher than the national Veteran average and significantly higher than the national civilian average. Let that soak in!

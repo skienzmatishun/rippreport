@@ -38,7 +38,7 @@ hooks:
   former-summerdale-police-chief-kevin-brock:
     brief: |-
       THE CONFLICT:
-      - September 3, 2025: Harry Still was arrested in Bay Minette on a misdemeanor charge for a skirmish with Matt Franklin (Bay Minette city councilman). Arrest allegedly lacked required officer witnessing.
+      - September 3, 2025: Harry Still was arrested in Bay Minette on a misdemeanor charge for a skirmish with Matt Franklin (Bay Minette city councilman). Arrest  lacked required officer witnessing.
       - Bay Minette Police filed motion to commit Still to mental institution; Judge Scott Tayor dismissed it.
       - In Bay Minette municipal court, Judge Marcus McDowell found Harry Still not guilty.
       - Councilman Franklin admitted three times in court to threatening to kill Still and his dog.
@@ -133,7 +133,7 @@ hooks:
       - State Senator Chris Elliott filed legislation for harsher punishment after this incident (legislation failed).
 
       THE DISCOVERY:
-      - Mayor Bob Wills allegedly lied to the family regarding O.J. French's death and supported BCMCU investigations into themselves.
+      - Mayor Bob Wills  lied to the family regarding O.J. French's death and supported BCMCU investigations into themselves.
       - Joshua Brown is campaigning against Mayor Wills, referencing the O. J. French case.
       - Al Tolbert, former Bay Minette Police Chief, moved from his position after Mayor Brown was elected.
 
@@ -230,7 +230,7 @@ hooks:
       * Context provided: There is historical evidence of judicial malfeasance and corruption in Baldwin County.
 
       THE PIVOT:
-      * Article 2 provides a parallel instance where Municipal Attorney Marcus McDowell allegedly allowed a case to stall or improperly proceed (failure to amend charge), mirroring the critique made in Article 1 regarding his conduct and potential bias/favor toward certain parties (e.g., during the Still trial). It suggests a pattern of misconduct by McDowell, rather than an isolated error.
+      * Article 2 provides a parallel instance where Municipal Attorney Marcus McDowell  allowed a case to stall or improperly proceed (failure to amend charge), mirroring the critique made in Article 1 regarding his conduct and potential bias/favor toward certain parties (e.g., during the Still trial). It suggests a pattern of misconduct by McDowell, rather than an isolated error.
 
       KEY ENTITIES:
       * Harry Still
@@ -257,7 +257,7 @@ hooks:
       THE DISCOVERY:
       * Mayor Bob Wills sent a letter to Tamara French (O.J.’s older sister) concerning O.J. French, killed by Bay Minette police on August 20, 2021.
       * The letter denies allegations of a "cover up."
-      * Albritton, Executive Director of the Ethics Commission, has dismissed complaints, mirroring how the Alabama Bar and Ethics Commission allegedly dismiss complaints against politicians like Mayor Bob Wills regarding self-dealing.
+      * Albritton, Executive Director of the Ethics Commission, has dismissed complaints, mirroring how the Alabama Bar and Ethics Commission  dismiss complaints against politicians like Mayor Bob Wills regarding self-dealing.
 
       THE PIVOT:
       * Article 1 details the legal/political fallout surrounding Harry Still’s case (arrest by Bay Minette Police, municipal court guilty finding by Judge Marcus McDowell, acquittal in Circuit Court before Judge Clark Stankowski). The underlying tension involves conflicts between lawyers like Still and law enforcement/politicians like Al Tolbert and Matt Franklin.

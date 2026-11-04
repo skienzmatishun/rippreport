@@ -161,11 +161,15 @@ func (c *Client) GenerateEmbedding(ctx context.Context, text string) ([]float32,
 		text = text[:maxEmbeddingChars]
 	}
 
+	// Add task prefix for EmbeddingGemma-2 (document retrieval task)
+	// For asymmetric retrieval, we use the document prefix format
+	prefixedText := "title: none | text: " + text
+
 	timeout := c.cfg.Timeout
 
 	reqBody := embeddingRequestBody{
-		Content: text,
-		Input:   text,
+		Content: prefixedText,
+		Input:   prefixedText,
 		Model:   c.cfg.EmbeddingModel,
 	}
 

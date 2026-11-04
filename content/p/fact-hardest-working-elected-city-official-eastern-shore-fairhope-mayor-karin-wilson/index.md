@@ -93,7 +93,7 @@ related_articles:
 summary: Continuing our sewer investigation, former Mayor Can’t and Councilmen Boone
   and Burrell treated city utility funds like a private slush fund. Internal records
   reveal millions drained for legal fees while vital wastewater infrastructure rotted.
-  Discover how Mayor Wilson fought back to fix the mess this corrupt council created.
+   Read more about Mayor Wilson fought back to fix the mess this corrupt council created.
 ---
 Congratulations to all Nappie nominees and winners.
 

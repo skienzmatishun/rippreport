@@ -104,7 +104,7 @@ related_articles:
 summary: Continuing our coverage, State Senator Chris Elliott killed a storm safety
   bill to settle a personal grudge after getting caught gaming the program. Program
   whistleblower files expose how Elliott attempted to manipulate confidential homeowner
-  bids for private profit. Discover how one politician sacrificed statewide home protection
+  bids for private profit.  Read more about one politician sacrificed statewide home protection
   to avenge his own greed.
 ---
 The last session of the Alabama Legislature took tiny steps when it comes to accomplishing any real serious issues plaguing the state. Prisons, health care’ medicaid” and the gambling bill all wound up in the trash can.

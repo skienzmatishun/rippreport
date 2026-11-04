@@ -1,16 +1,37 @@
 ---
 title: ALABAMA FAKE ETHICS COMMISSION
-date: 2026-09-28
-thumbnail: img/alabama-fake-ethics-commission.png
-tags:
-- Ethics Commission
-- Albritton
-- Mabel Amos Trust
-summary: Absolutely the most rotten political figure in Alabama politics is the Alabama Ethics Director Tom Albritton. After 4 years of litigation and hundreds of thousands lost in court actions, Albritton escapes any criminal charges. If you, the voter were to do the same thing, you can bet the Ethics Commission would recommend criminal charges.
+date: 2026-09-28T00:00:00Z
 categories:
-- ethics
+  - ethics
+tags:
+  - Ethics Commission
+  - Albritton
+  - Mabel Amos Trust
+thumbnail: img/alabama-fake-ethics-commission.png
+related_articles:
+  - slug: mabel-amos-scholarship-list-revealed
+    title: Mabel Amos scholarship list revealed - Lagniappe
+    score: 100
+    rank: 1
+  - slug: our-man-in-mar-a-lago
+    title: Our Man In Mar-a-Lago
+    score: 100
+    rank: 2
+  - slug: alabama-ethics-vs-tony-kennon
+    title: ALABAMA ETHICS VS TONY KENNON
+    score: 50
+    rank: 3
+  - slug: scumbag
+    title: SCUMBAG
+    score: 50
+    rank: 4
+  - slug: fire-albritton
+    title: FIRE ALBRITTON
+    score: 50
+    rank: 5
 authors:
-- admin
+  - admin
+summary: Absolutely the most rotten political figure in Alabama politics is the Alabama Ethics Director Tom Albritton. After 4 years of litigation and hundreds of thousands lost in court actions, Albritton escapes any criminal charges. If you, the voter were to do the same thing, you can bet the Ethics Commission would recommend criminal charges.
 ---
 
 Absolutely the most rotten political figure in Alabama politics is the Alabama Ethics Director Tom Albritton. After 4 years of litigation and hundreds of thousands lost in court actions, Albritton escapes any criminal charges. If you, the voter were to do the same thing, you can bet the Ethics Commission would recommend criminal charges.

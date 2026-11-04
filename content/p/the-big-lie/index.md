@@ -94,7 +94,7 @@ related_articles:
 summary: Continuing our investigation, corrupt power brokers pushed dangerous propaganda
   to manipulate public trust and protect their own authority. Congressional votes
   and military veteran accounts expose how local leaders knowingly traded the truth
-  for political gain. See how state representatives actively helped orchestrate the
+  for political gain. Read more about state representatives actively helped orchestrate the
   nationwide deception.
 ---
 Vietnam Veterans were lied to by our politicians. 1968 was the year Martin Luther King was assassinated. The same year Robert Kennedy was assassinated. In Vietnam the Tet Offensive and the battle of Khe Sanh claimed the lives of thousands of young men and women serving in our armed forces.

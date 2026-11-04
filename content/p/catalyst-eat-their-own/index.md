@@ -92,7 +92,7 @@ related_articles:
 summary: Our ongoing investigation shows how the developer machine known as CATALYST
   hijacked Fairhope leadership to line insider pockets. Leaked campaign filings and
   city records confirm officials created fake development pauses that protected their
-  own private business interests. See how these political insiders destroy anyone
+  own private business interests. Read more about these political insiders destroy anyone
   standing in the way of their greed.
 ---
 {{< socialpreview url="https://www.al.com/news/2022/05/a-battle-in-fairhope-can-jennifer-fidler-present-a-strong-challenge-to-five-term-rep-joe-faust.html" >}}

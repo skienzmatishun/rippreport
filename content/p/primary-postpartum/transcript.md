@@ -17,7 +17,7 @@ Here is a summary of the main details from the podcast transcript, broken down b
 
 ## 1. Background: Harry Still’s Arrest and Acquittal
 
-The podcast opens with a news broadcast clip detailing the arrest of local defense attorney Harry Still for allegedly assaulting Bay Minette City Councilman Matt Franklin. The news segment noted that Still had a documented history of aggressive behavior toward officials and was allegedly tied to a previous lockdown of city buildings.
+The podcast opens with a news broadcast clip detailing the arrest of local defense attorney Harry Still for  assaulting Bay Minette City Councilman Matt Franklin. The news segment noted that Still had a documented history of aggressive behavior toward officials and was  tied to a previous lockdown of city buildings.
 
 However, when the podcast begins, co-host Brandon Moseley reveals that **Still was subsequently proven innocent and acquitted by a jury** of these charges. Still implies that the charges were a setup meant to silence him.
 

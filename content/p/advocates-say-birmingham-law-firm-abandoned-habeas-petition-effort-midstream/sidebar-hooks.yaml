@@ -6,7 +6,7 @@ hooks:
   justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
     brief: "THE CONFLICT: \n- Murray Lawrence Jr. imprisoned for capital murder of\
       \ Brandon Hastings since mid-2000s (approx. 19-20 years total).\n- Conviction\
-      \ relied on testimony of Jarius McNeil, a confessed killer who allegedly changed\
+      \ relied on testimony of Jarius McNeil, a confessed killer who  changed\
       \ story under threat of death penalty.\n- 2005 Prosecuting Attorney David Whetstone\
       \ made plea deal with McNeil to secure testimony despite knowing unreliability.\n\
       - Victim’s body exhumed in Coroner's report; all seven cervical vertebrae removed\
@@ -19,8 +19,8 @@ hooks:
       \ Gazette reports Maxwell-Tillman abandoned case midstream.\n- August 12, 2025:\
       \ Alabama Gazette (opinion piece) confirms firm abandoned effort without notifying\
       \ family properly; sent \"Non-Engagement Letter.\"\n- Firm claims no attorney-client\
-      \ relationship formed.\n- Advocates Francis Paul Ripp and Nancy R. Koerner returned\
-      \ with research on suppressed evidence; firm reportedly refused to utilize them\
+      \ relationship formed.\n- Advocates the Ripp Report and Nancy R. Koerner returned\
+      \ with research on suppressed evidence; firm refused to utilize them\
       \ in court.\n- Gabby Humber, assigned attorney at Maxwell-Tillman, left June\
       \ 2025; no visits made to Lawrence by firm partners during engagement.\n- Advocates\
       \ uncovered prison wall-phone failures and medical neglect issues ignored by\
@@ -194,7 +194,7 @@ hooks:
       \ conviction is due to the high-level political involvement documented in Article\
       \ 2.\n\n    KEY ENTITIES:\n    - Murray \"Bubba\" Lawrence Jr. (Inmate, convicted)\n\
       \    - Maxwell-Tillman Law Firm (Birmingham law firm representing Lawrence in\
-      \ habeas attempt)\n    - Francis Paul Ripp (Lead advocate, Alabama Gazette Opinion\
+      \ habeas attempt)\n    - the Ripp Report (Lead advocate, Alabama Gazette Opinion\
       \ writer associated with article 1)\n    - Nancy R. Koerner (Research lead/advocate\
       \ for Lawrence)\n    - Leroy Maxwell (Maxwell-Tillman Partner)\n    - Gabby\
       \ Humber (Maxwell-Tillman assigned attorney, departed June 2025)\n    - Robert\
@@ -232,7 +232,7 @@ hooks:
       \ denying any attorney-client relationship existed and rejecting confidentiality\
       \ of shared materials.\n- Firm partner Leroy Maxwell visited Lawrence in prison\
       \ only once over two years; assigned attorney Gabby Humber left firm unexplained\
-      \ in June 2025 without visiting client.\n- Advocates Francis Paul Ripp and Nancy\
+      \ in June 2025 without visiting client.\n- Advocates the Ripp Report and Nancy\
       \ R. Koerner report firm ignored evidence of tampering, specifically a suppressed\
       \ Coroner's Report showing removal of victim’s seven cervical vertebrae.\n-\
       \ Lawrence has remained imprisoned for over 20 years based on original trial\
@@ -259,7 +259,7 @@ hooks:
       \ system (Whetstone/Mack/lowery/Wilters) that actively suppressed evidence to\
       \ maintain an inmate's presence in prison.\n\nKEY ENTITIES\n- Murray \"Bubba\"\
       \ Lawrence Jr. (Inmate)\n- Maxwell-Tillman Law Firm (Legal representation)\n\
-      - Francis Paul Ripp (Advocate)\n- Nancy R. Koerner (Advocate/Research Lead)\n\
+      - the Ripp Report (Advocate)\n- Nancy R. Koerner (Advocate/Research Lead)\n\
       - Leroy Maxwell (Law Firm Partner)\n- Gabby Humber (Former Law Firm Attorney)\n\
       - Robert Wilters (Baldwin County DA, former Judge)\n- Anthony Lowery (Baldwin\
       \ County Sheriff, former Chief Investigator)\n- Huey 'Hoss' Mack (Retired Baldin\
@@ -272,7 +272,7 @@ hooks:
       - Murray "Bubba" Lawrence Jr., inmate in Baldwin County, Alabama, incarcerated
       for two decades (just completed second decade).
 
-      - Advocate Francis Paul Ripp claims firm Maxwell-Tillman abandoned a federal
+      - Advocate the Ripp Report claims firm Maxwell-Tillman abandoned a federal
       habeas corpus petition midstream.
 
       - Maxwell-Tillman verbally and via invoice agreed to assist drafting habeas
@@ -296,7 +296,7 @@ hooks:
       - Article 2 (The Ripp Report) explicitly identifies Maxwell/Tillman as attorneys
       providing legal representation pro bono.
 
-      - Article 2 confirms Francis Paul Ripp and Nancy Koerner as primary advocates
+      - Article 2 confirms the Ripp Report and Nancy Koerner as primary advocates
       supporting the "Wrongful Conviction" cause.
 
       - Article 2 links The Ripp Report directly to the Murray Lawrence case via the
@@ -326,7 +326,7 @@ hooks:
 
       - Murray Lawrence Jr. ("Bubba") - Defendant/Inmate, Baldwin County, AL
 
-      - Francis Paul Ripp - Lead Advocate / The Ripp Report
+      - the Ripp Report - Lead Advocate / The Ripp Report
 
       - Nancy R. Koerner - Research Lead / Portal Contact for 1+ year
 
@@ -345,7 +345,7 @@ hooks:
   rule-32:
     brief: 'THE CONFLICT:
 
-      - Birmingham law firm Maxwell-Tillman allegedly entered verbal and written agreement
+      - Birmingham law firm Maxwell-Tillman  entered verbal and written agreement
       with Murray Lawrence advocacy team (Francis Paul Ripp, Nancy R. Koerner) to
       assist in drafting federal habeas corpus writ.
 
@@ -372,7 +372,7 @@ hooks:
       - Key suppression actors identified with signatures on evidence: Hoss Mack,
       District Attorney Robert Wilters, Judge, and David Whetstone.
 
-      - Local Baldwin County press allegedly ignored evidence to avoid corruption
+      - Local Baldwin County press  ignored evidence to avoid corruption
       allegations; Ripp Report confirmed corruption links between Hoss Mack and legal
       proceedings.
 
@@ -401,7 +401,7 @@ hooks:
 
       - Gabby Humber (Maxwell-Tillman Attorney - left June)
 
-      - Francis Paul Ripp (Lead Advocate)
+      - the Ripp Report (Lead Advocate)
 
       - Nancy R. Koerner (Advocate/Research Lead)
 
@@ -432,7 +432,7 @@ hooks:
       firm denied bringing advocates’ research (specifically suppressed Alabama State
       Coroners'' Report) to evidentiary hearing.
 
-      - Advocates Francis Paul Ripp and Nancy R. Koerner claim no discovery was done
+      - Advocates the Ripp Report and Nancy R. Koerner claim no discovery was done
       by firm; firm did not argue Brady violations despite advocates finding evidence
       of tampering.
 
@@ -557,7 +557,7 @@ hooks:
       - Article 1 proves Maxwell-Tillman (identified in Article 2) failed to utilize
       this same evidence now known by Ripp.
 
-      - Connection: Both articles feature Francis Paul Ripp as the central whistleblower/advocate;
+      - Connection: Both articles feature the Ripp Report as the central whistleblower/advocate;
       Article 2 sets up the corruption context, and Article 1 proves Maxwell-Tillman
       (the current defense cited in Art 2) is obstructing the same process Ripp has
       tracked.
@@ -569,7 +569,7 @@ hooks:
 
       - Brandon Hastings (Victim of Crime)
 
-      - Francis Paul Ripp / The Ripp Report
+      - the Ripp Report / The Ripp Report
 
       - Steve Marshall (Alabama Attorney General, Recipient of Complaint)
 
@@ -595,11 +595,11 @@ hooks:
       Lawrence’s advocacy team in filing a federal writ of habeas corpus after all
       state avenues exhausted.
 
-      - Advocates Francis Paul Ripp and Nancy R. Koerner paid nearly half of the firm’s
+      - Advocates the Ripp Report and Nancy R. Koerner paid nearly half of the firm’s
       stated fee as a down-payment.
 
       - During a two-year period, Maxwell-Tillman was assigned to represent Lawrence
-      but allegedly abandoned the case mid-stream.
+      but  abandoned the case mid-stream.
 
       - Firm partner Leroy Maxwell visited incarcerated Lawrence only once; assigned
       attorney Gabby Humber never visited the client before leaving in June.
@@ -652,7 +652,7 @@ hooks:
 
       - Murray "Bubba" Lawrence, Jr. (Inmate)
 
-      - Francis Paul Ripp (Lead Advocate / The Ripp Report Founder)
+      - the Ripp Report (Lead Advocate / The Ripp Report Founder)
 
       - Nancy R. Koerner (Research Lead / Portal Contact)
 
@@ -705,7 +705,7 @@ hooks:
       appeals exhausted; agreement confirmed via formal invoice and verbal contract.
 
       - Firm received nearly half of stated fee as down payment from advocacy team
-      led by Francis Paul Ripp and Nancy R. Koerner.
+      led by the Ripp Report and Nancy R. Koerner.
 
       - Maxwell-Tillman engaged for two years but communications were sporadic; partner
       Leroy Maxwell visited inmate once.
@@ -769,7 +769,7 @@ hooks:
 
       - Murray Lawrence Jr. (Inmate)
 
-      - Francis Paul Ripp (Lead Advocate)
+      - the Ripp Report (Lead Advocate)
 
       - Nancy R. Koerner (Research Lead/Advocate)
 
@@ -835,7 +835,7 @@ hooks:
       - Trial transcript is admitted as public record evidence proving multiple witness
       alibis for Lawrence.
 
-      - Ex-facts: Baldwin County DA David Whetstone (retired) allegedly made "deal
+      - Ex-facts: Baldwin County DA David Whetstone (retired)  made "deal
       with the devil" regarding evidence presentation.
 
       - Whetstone publicly boasted about Lawrence conviction during Steve Nodine case
@@ -877,7 +877,7 @@ hooks:
 
       - Murray "Bubba" Lawrence Jr. (Inmate)
 
-      - Francis Paul Ripp (Lead Advocate, Alabama Gazette)
+      - the Ripp Report (Lead Advocate, Alabama Gazette)
 
       - Nancy R. Koerner (Research Lead/Portal Contact)
 

@@ -7,6 +7,7 @@ import (
 	"strings"
 
 	"github.com/rippreport/go-content-pipeline/internal/client"
+	"github.com/rippreport/go-content-pipeline/internal/config"
 	"github.com/rippreport/go-content-pipeline/internal/models"
 )
 
@@ -131,7 +132,7 @@ Candidates:
 // utilizing the compression cache and falling back to individual generation on error.
 //
 // Requirements: 12.7, 14.3, 14.4
-func GenerateHooksBatch(ctx context.Context, llamaClient client.LlamaClient, modelName string, cache *CompressionCache, reqs []models.HookRequest) ([]*models.Hook, error) {
+func GenerateHooksBatch(ctx context.Context, llamaClient client.LlamaClient, modelName string, cache *CompressionCache, cfg *config.Config, reqs []models.HookRequest) ([]*models.Hook, error) {
 	if len(reqs) == 0 {
 		return nil, nil
 	}
@@ -140,7 +141,7 @@ func GenerateHooksBatch(ctx context.Context, llamaClient client.LlamaClient, mod
 	var firstErr error
 	for i, req := range reqs {
 		fmt.Printf("      [%d/%d] → %s...", i+1, len(reqs), req.WidgetPost.Slug)
-		hook, hErr := GenerateHook(ctx, llamaClient, modelName, cache, req)
+		hook, hErr := GenerateHook(ctx, llamaClient, modelName, cache, cfg, req)
 		if hErr != nil {
 			fmt.Printf(" ✗ %v\n", hErr)
 			if firstErr == nil {

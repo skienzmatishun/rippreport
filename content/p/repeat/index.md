@@ -74,7 +74,7 @@ related_articles:
 summary: Our investigation continues to uncover how Jack Burrell and his council majority
   recycle the same abusive tactics to control city hall. Secret financial logs expose
   millions in transferred utility funds and non-level public projects managed by crony
-  committees. Discover how the city council keeps hitting replay on taxpayer betrayal.
+  committees.  Read more about the city council keeps hitting replay on taxpayer betrayal.
 ---
 Freaky Friday is a repeat of Jan 1st. Please read carefully the post it is not fiction or a conspiracy theory.
 

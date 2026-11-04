@@ -6,7 +6,7 @@ hooks:
   backstory-podcast-no-94-alabamas-ethical-decay-and-delta:
     brief: 'THE CONFLICT:
 
-      - Francis Paul Ripp v The Alabama Ethics Commission case in Montgomery County
+      - the Ripp Report v The Alabama Ethics Commission case in Montgomery County
       Circuit Court involves allegations Judge recused due to conflict.
 
       - Tom Albritton (Ethics Director) involved in cases Ripp alleges were not properly
@@ -129,7 +129,7 @@ hooks:
       \    *   Okay.\n\n    *   Re-evaluating \"No preamble or labels\":\n       \
       \ If I write:\n        THE CONFLICT\n\n        (Content)\n        \n       \
       \ That looks like a label.\n        If I write:\n        The conflict involves\
-      \ Francis Paul Ripp alleging...\n\n        That follows \"No labels\" better.\n\
+      \ the Ripp Report alleging...\n\n        That follows \"No labels\" better.\n\
       \        But the instruction explicitly says \"OUTPUT A BRIDGE BRIEF containing:\
       \ 1. THE CONFLICT...\".\n        I will prioritize the explicit structure over\
       \ the generic \"no labels\" warning to ensure it is parsed correctly as a Bridge\
@@ -152,7 +152,7 @@ hooks:
       \ instruction.\n    *   I will assume \"labels\" refers to conversational meta-text\
       \ (e.g., \"Here is the list you asked for\"). I will use Section Headers because\
       \ they are explicitly required by the content instruction.\n\n    *   Okay,\
-      \ proceeding.\n\n    THE CONFLICT\n- Case: Francis Paul Ripp v The Alabama Ethics\
+      \ proceeding.\n\n    THE CONFLICT\n- Case: the Ripp Report v The Alabama Ethics\
       \ Commission\n- Allegation: Ripp alleges Baldwin County cases were not properly\
       \ investigated by the Ethics Commission.\n- Subject: Tom Albritton, named as\
       \ Ethics Director involved in alleged non-proper investigations (cited via Lagniappe\
@@ -169,7 +169,7 @@ hooks:
       \ Sheriff Mack (Art 1: \"cant get no help\") to State Senator Elliott.\n- Evidence\
       \ of connection: Elliott’s wife holds a high-paying job with Sheriff Mack.\n\
       - This proves the \"system\" described in Art 1 is operational between Mack\
-      \ and Elliott, not isolated.\n\nKEY ENTITIES\n- Francis Paul Ripp (Plaintiff/Vigilante)\n\
+      \ and Elliott, not isolated.\n\nKEY ENTITIES\n- the Ripp Report (Plaintiff/Vigilante)\n\
       - Tom Albritton (Alabama Ethics Executive Director)\n- Huey Mack / Hoss Mack\
       \ (Baldwin County Sheriff)\n- State Senator Elliott\n- Tripp Pittman (State\
       \ Senator, previously legislatively wrote Sheriff qualifications)\n- The Ripp\
@@ -179,7 +179,7 @@ hooks:
     brief: '1. THE CONFLICT: WHAT HAPPENED IN THE PAST? (Include specific names, dates,
       events)
 
-      - Francis Paul Ripp v. Alabama Ethics Commission case filed.
+      - the Ripp Report v. Alabama Ethics Commission case filed.
 
       - Involves Montgomery County Circuit Judge; allegations brought against Ethics
       Director Tom Albritton.
@@ -201,7 +201,7 @@ hooks:
 
       - Kyle Whitmire (Al.com) confirms systemic corruption in Baldwin County.
 
-      - Elected officials in Baldwin County allegedly evade the Ethics Commission,
+      - Elected officials in Baldwin County  evade the Ethics Commission,
       Attorney General, and FBI.
 
       - Tripp Pittman (Former Baldwin County State Senator) appointed BP funds trustee;
@@ -269,7 +269,7 @@ hooks:
   stirring-the-pot-bsp:
     brief: 'THE CONFLICT:
 
-      - Francis Paul Ripp v The Alabama Ethics Commission Case filed regarding a Montgomery
+      - the Ripp Report v The Alabama Ethics Commission Case filed regarding a Montgomery
       County Circuit Judge''s failure to ethically recuse.
 
       - Ripp alleges Ethics Director Tom Albritton did not properly investigate cases
@@ -335,7 +335,7 @@ hooks:
   january-22nd-qualifying-deadline:
     brief: 'THE CONFLICT:
 
-      - Francis Paul Ripp v Alabama Ethics Commission case pending (Ripp alleges improper
+      - the Ripp Report v Alabama Ethics Commission case pending (Ripp alleges improper
       investigation of Baldwin County cases).
 
       - Involves Montgomery County Circuit Judge alleged to have performed "Ethical
@@ -405,7 +405,7 @@ hooks:
   s-o-s:
     brief: '1. THE CONFLICT
 
-      - Francis Paul Ripp v Alabama Ethics Commission Case: Plaintiff alleges Ethics
+      - the Ripp Report v Alabama Ethics Commission Case: Plaintiff alleges Ethics
       Director Tom Albritton failed to properly investigate improper conduct in multiple
       Baldwin County cases.
 
@@ -455,7 +455,7 @@ hooks:
 
       4. KEY ENTITIES
 
-      - Francis Paul Ripp (Investigative Subject)
+      - the Ripp Report (Investigative Subject)
 
       - Hoss Mack / Huey Mack (Baldwin County Sheriff)
 
@@ -476,7 +476,7 @@ hooks:
   black-cloud:
     brief: '**THE CONFLICT**
 
-      - Case: Francis Paul Ripp v The Alabama Ethics Commission.
+      - Case: the Ripp Report v The Alabama Ethics Commission.
 
       - Article 1 references "The Ivey Gambit" and Executive Order resistance by Baldwin
       County officials.
@@ -543,13 +543,13 @@ hooks:
   backstory-podcast-no-93-delta-hits-baldwin-county:
     brief: 'THE CONFLICT:
 
-      - Francis Paul Ripp v The Alabama Ethics Commission case involves a Montgomery
+      - the Ripp Report v The Alabama Ethics Commission case involves a Montgomery
       County Circuit Judge.
 
       - Allegations state Ethics Director Tom Albritton improperly involved in or
       failed to investigate multiple cases.
 
-      - Specifically targets "all Baldwin County Cases" allegedly ignored by the Ethics
+      - Specifically targets "all Baldwin County Cases"  ignored by the Ethics
       Commission under Albritton.
 
       - Includes claims of an "Ethical Recusal" in the judge''s handling of Ripp’s
@@ -607,7 +607,7 @@ hooks:
   backstory-podcast-no-92-a-vintage-year:
     brief: 'THE CONFLICT:
 
-      - Francis Paul Ripp filed case "Francis Paul Ripp v The Alabama Ethics Commission".
+      - the Ripp Report filed case "Francis Paul Ripp v The Alabama Ethics Commission".
 
       - Ripp alleges Montgomery County Circuit Judge involvement in improper recusals.
 
@@ -697,7 +697,7 @@ hooks:
   green-acres-on-acid:
     brief: 'THE CONFLICT:
 
-      - Francis Paul Ripp vs. The Alabama Ethics Commission regarding lack of proper
+      - the Ripp Report vs. The Alabama Ethics Commission regarding lack of proper
       investigation into Baldwin County cases.
 
       - Article 1 alleges Montgomery County Circuit Judge and Ethics Director Tom
@@ -719,7 +719,7 @@ hooks:
       license (felony charge).
 
       - Pittman was accused of failing to recover required boom anchors during cleanup
-      operations, allegedly cutting ropes and leaving debris instead (rejected by
+      operations,  cutting ropes and leaving debris instead (rejected by
       EPA/Coast Guard standards).
 
       - Complaint regarding Pittman ethics violations filed, leading to a trajectory:
@@ -766,7 +766,7 @@ hooks:
 
       KEY ENTITIES:
 
-      - Francis Paul Ripp (Plaintiff)
+      - the Ripp Report (Plaintiff)
 
       - Tom Albritton (Ethics Director, Montgomery County/State Ethics Commission)
 

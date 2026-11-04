@@ -98,7 +98,7 @@ alttags: A pair of olive green knee-high rubber boots with yellow trim at the to
 summary: Public officials spun a disastrous legal defeat into a victorious land purchase
   while burying millions in attorney fees. Court records detail how council members
   rejected cheap early settlements, forcing taxpayers to foot an eleven-million-dollar
-  bill. Discover how local leaders manufactured a massive lie to hide their catastrophic
+  bill.  Read more about local leaders manufactured a massive lie to hide their catastrophic
   legal blunder.
 ---
 ## PUT YOUR HIP BOOTS ON!

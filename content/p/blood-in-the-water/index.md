@@ -85,7 +85,7 @@ related_articles:
   rank: 10
 summary: Roy Moore and Luther Strange weaponized state politics while turning a blind
   eye to illegal BP fund payouts. Court documents and campaign trails expose a deeply
-  compromised political machine scrambling to survive. See how the political sharks
+  compromised political machine scrambling to survive. Read more about the political sharks
   quickly circled Alabama's most desperate candidates.
 ---
 Here is the first post I saw this morning:

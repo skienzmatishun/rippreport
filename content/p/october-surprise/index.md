@@ -13,31 +13,43 @@ tags:
   - Prison Infrastructure
   - Trent Garmon
   - Alabama State Bar
+youtube: tAbk7uTtZ5o
+thumbnail: img/october-surprise.png
 related_articles:
+  - slug: court-of-public-opinion-3-rerun
+    title: COURT OF PUBLIC OPINION - READ THE BOOK
+    score: 100
+    rank: 1
+  - slug: hut
+    title: HUT
+    score: 100
+    rank: 2
   - slug: our-man-in-mar-a-lago
     title: Our Man In Mar-a-Lago
-    score: 81
-    rank: 1
-  - slug: stealing-from-kids
-    title: STEALING FROM KIDS
-    score: 24
-    rank: 2
-  - slug: portables-and-prisons
-    title: PORTABLES AND PRISONS
-    score: 24
+    score: 50
     rank: 3
+  - slug: the-state-of-the-alabama-state-bar
+    title: The State of the Alabama State Bar
+    score: 50
+    rank: 4
   - slug: august-special-edition
     title: August Special Election
-    score: 24
-    rank: 4
-  - slug: i-10-toll-bridge-state
-    title: I-10 Toll Bridge State
-    score: 24
+    score: 50
     rank: 5
+  - slug: orange-beach-tyranny
+    title: Orange Beach Tyranny
+    score: 50
+    rank: 6
+  - slug: primary-postpartum
+    title: Primary Postpartum
+    score: 50
+    rank: 7
+  - slug: alabama-national-news
+    title: ALABAMA NATIONAL NEWS
+    score: 91
+    rank: 8
 authors:
   - admin
-thumbnail: img/october-surprise.png
-youtube: tAbk7uTtZ5o
 ---
 
 In this episode, we break down the latest political shifts, key ballot measures, and legal battles shaping Alabama:

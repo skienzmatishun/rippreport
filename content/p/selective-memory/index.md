@@ -77,7 +77,7 @@ related_articles:
 summary: Councilman Kevin Boone pushed an immediate hiring freeze to hamstring Mayor
   Wilson after she fired uncooperative municipal staff. Business filings prove political
   organization Catalyst coordinated the aggressive council pushback behind closed
-  doors. See how shadowy political groups pull the strings of Fairhope government.
+  doors. Read more about shadowy political groups pull the strings of Fairhope government.
 ---
 The Fairhope City Council pounced on Mayor Wilson for exercising her rights and responsibilities as Mayor to hire and fire employees.
 

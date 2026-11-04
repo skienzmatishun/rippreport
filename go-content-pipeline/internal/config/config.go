@@ -170,10 +170,11 @@ func (c LlamaServerConfig) GetHookModel() string {
 
 // ProcessingConfig contains post processing settings
 type ProcessingConfig struct {
-	PostsDirectory string `yaml:"posts_directory"`
-	TopCandidates  int    `yaml:"top_candidates"`
-	BatchSize      int    `yaml:"batch_size"`
-	MaxContentLen  int    `yaml:"max_content_length"`
+	PostsDirectory       string `yaml:"posts_directory"`
+	TopCandidates        int    `yaml:"top_candidates"`
+	BatchSize            int    `yaml:"batch_size"`
+	MaxContentLen        int    `yaml:"max_content_length"`
+	HookLLMTextMaxTokens int    `yaml:"hook_llm_text_max_tokens"`
 }
 
 // StorageConfig contains file storage paths
@@ -459,9 +460,11 @@ func (c *Config) validateScoreWeights() error {
 
 // DefaultConfig returns a configuration with sensible defaults
 func DefaultConfig() *Config {
+	managedDefault := true
 	return &Config{
 		LlamaServer: LlamaServerConfig{
 			BaseURL:         "http://localhost:8080",
+			Managed:         &managedDefault,
 			BinaryPath:      "/Users/ryandunphy/.unsloth/llama.cpp/build/bin/llama-server",
 			ModelsDir:       "/Volumes/1tb/models",
 			ContextSize:     4096,

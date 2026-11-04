@@ -35,7 +35,7 @@ Main Topics Discussed
 
 4. Super PAC & Gambling Industry Involvement
 
-    Focus on the American Conservative Fund, allegedly linked to DraftKings
+    Focus on the American Conservative Fund,  linked to DraftKings
     Claims that this group is funding glossy mailers and ads for pro-gambling candidates across Alabama (Baldwin County, Madison/Huntsville, House District 50)
     Speculation about Poarch Creek Indians potentially negotiating with DraftKings
     Concern that gambling interests are "putting a thumb on the scale" in primary elections

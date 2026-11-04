@@ -97,4 +97,4 @@ Transparency is something that every elected official in Fairhope has stressed. 
 
 Now is the time to recall the progress we have made. As you slow down over the next few holy days with family and friends, think of all the new young people who have moved to Fairhope. At the recent tree lighting downtown I noticed hundreds of young couples with young children. These families are the future of our city. Will we make it a place where they can expect a fair hope for happiness? There is still much work to be done. We have come so far—but there is still a long way to go. After all, corruption has no place in a civilized society. Politicians who steal from us in the form of rigged elections and public contracts are NOT good people.
 
-Semper Fidelis, Francis Paul Ripp BCLE/The Ripp Report
+Semper Fidelis, the Ripp Report BCLE/The Ripp Report

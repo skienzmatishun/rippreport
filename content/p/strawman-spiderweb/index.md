@@ -96,7 +96,7 @@ related_articles:
 summary: Councilman Kevin Boone and his corrupt political network used a labyrinth
   of secret shell companies to line developer pockets. Court filings and corporate
   records expose an intricate web of hidden partnerships designed to evade public
-  oversight and ethics laws. Discover how deep this tangled web of insider self-dealing
+  oversight and ethics laws.  Read more about deep this tangled web of insider self-dealing
   really goes.
 ---
 Many people watched the bully council in their last meeting where Councilman Boone flipped out at the end of the meeting. What many people did not know was why? Watch the video again and you will see that when I mention the “Strawman” series in Lagniappe, Boone realized that I had read some of the latest information submitted to the Alabama Judiciary related to the case.

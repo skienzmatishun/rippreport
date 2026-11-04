@@ -119,7 +119,7 @@ Mr Albritton has used the trust to finance his children’s education, while ign
 
 Is it OK for the trustee to self benefit from the trust?
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/askRegions?ref_src=twsrc%5Etfw">@askRegions</a> director of the Alabama Ethics Commission, Tom Albritton has used the Mabel Amos Memorial Fund to finance his children’s education while ignoring the intent of the trust.<br><br>Is it OK for the trustee to self benefit from the trust?</p>— Francis Paul Ripp (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1424058127729713152?ref_src=twsrc%5Etfw">August 7, 2021</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/askRegions?ref_src=twsrc%5Etfw">@askRegions</a> director of the Alabama Ethics Commission, Tom Albritton has used the Mabel Amos Memorial Fund to finance his children’s education while ignoring the intent of the trust.<br><br>Is it OK for the trustee to self benefit from the trust?</p>— the Ripp Report (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1424058127729713152?ref_src=twsrc%5Etfw">August 7, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Why did Regions Bank and the Tom Albritton not tell the citizens of Conecuh County that oil had been discovered in 2010 and 60 to 80 million dollars of oil had been pumped from beneath the county?

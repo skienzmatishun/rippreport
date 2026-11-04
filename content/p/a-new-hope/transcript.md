@@ -41,5 +41,5 @@ Key Topics Discussed
 5. Future Actions
 
     Still plans to file civil lawsuits against Mayor Wills, local news outlets, and the City of Bayminette for defamation and malicious prosecution
-    References state legislation (by Sen. Chris Elliott) allegedly inspired by Still's case, which he views as retaliatory
+    References state legislation (by Sen. Chris Elliott)  inspired by Still's case, which he views as retaliatory
     Duggar focuses on general election strategy and constituent outreach

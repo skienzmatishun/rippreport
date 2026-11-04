@@ -99,7 +99,7 @@ related_articles:
 summary: Council President Jack Burrell publicly took credit for sewer improvements
   while secretly voting against critical funding for municipal infrastructure. Official
   council minutes and hidden police records show a pattern of deceit, wasteful land
-  deals, and buried reports. See how one politician's claims crumble when matched
+  deals, and buried reports. Read more about one politician's claims crumble when matched
   against his real voting record.
 ---
 Not only is Council Burrell a bald faced liar, he thinks a hard hat works better than a face mask. This is what you get with CATALYST. Jack Burrell was Council President under Mayor Cant for 4 years and did not do one damn thing about infrastructure repairs.

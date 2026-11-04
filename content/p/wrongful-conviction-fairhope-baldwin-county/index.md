@@ -97,7 +97,7 @@ related_articles:
 summary: Local prosecutors and sheriff deputies framed an innocent Fairhope resident
   and locked him away for over two decades. Withheld coroner reports and coerced
   witness statements prove key officials hid the actual cause of death from the jury.
-  Discover how the local justice system worked together to lock up an innocent man.
+   Read more about the local justice system worked together to lock up an innocent man.
 ---
 Many people have seen the movie <a href="https://www.youtube.com/watch?v=6YzyVklCoAU">Just Mercy</a>, a true story of the wrongful conviction of Walter McMillan, Baldwin County, Alabama. A second case that parallels the Just Mercy story is that of Murray Lawrence Jr, Fairhope, Baldwin County. This case involves the Judge, Prosecutor and Sheriff, lead investigator at the time of withholding evidence from the defense, an inefficient police investigation. Please take a few minutes and review the links below, they will inform you of the facts of the
 wrongful conviction.

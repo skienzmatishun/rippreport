@@ -122,7 +122,7 @@ Let’s add a little insult to injury and charge the victim’s family for tryin
 
 {{< socialpreview url="https://www.lagniappemobile.com/news/baldwin_county/victor-family-hit-with-23k-court-bill-after-suit/article_cf24a64c-7b7b-42c5-8cc5-08b122de105d.html" >}}
 
-During trial, Chisesi’s lawyers argued Hunady took unreasonable steps in a “rush to judgement” at the scene and escalated the incident. They argued Hunady was the first to claim Victor could have a gun, and his actions leading up to Victor’s defiant advance violated police standards. This included allegedly rushing Victor out of the car instead of waiting and requesting help from crisis negotiators, creating hostility by putting someone suffering a mental health crisis at gunpoint and not using his stun gun.
+During trial, Chisesi’s lawyers argued Hunady took unreasonable steps in a “rush to judgement” at the scene and escalated the incident. They argued Hunady was the first to claim Victor could have a gun, and his actions leading up to Victor’s defiant advance violated police standards. This included  rushing Victor out of the car instead of waiting and requesting help from crisis negotiators, creating hostility by putting someone suffering a mental health crisis at gunpoint and not using his stun gun.
 
 {{< socialpreview url="https://rippreport.com/p/bcso-no-clones/" >}}
 

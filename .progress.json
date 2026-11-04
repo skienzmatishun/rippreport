@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "started_at": "2026-11-03T11:51:07.208928-06:00",
+  "updated_at": "2026-11-03T20:28:44.845926-06:00",
+  "processed": {
+    "alabama-fake-ethics-commission": {
+      "slug": "alabama-fake-ethics-commission",
+      "status": "success",
+      "timestamp": "2026-11-03T18:57:37.011064-06:00"
+    },
+    "court-of-public-opinion-3-rerun": {
+      "slug": "court-of-public-opinion-3-rerun",
+      "status": "success",
+      "timestamp": "2026-11-03T20:28:44.845918-06:00"
+    },
+    "hut": {
+      "slug": "hut",
+      "status": "success",
+      "timestamp": "2026-11-03T18:57:36.685707-06:00"
+    },
+    "key-figures": {
+      "slug": "key-figures",
+      "status": "success",
+      "timestamp": "2026-11-03T18:57:38.391757-06:00"
+    },
+    "midterm-election-special": {
+      "slug": "midterm-election-special",
+      "status": "success",
+      "timestamp": "2026-11-03T16:05:59.546403-06:00"
+    },
+    "october-surprise": {
+      "slug": "october-surprise",
+      "status": "success",
+      "timestamp": "2026-11-03T20:28:44.449872-06:00"
+    },
+    "our-man-in-mar-a-lago": {
+      "slug": "our-man-in-mar-a-lago",
+      "status": "success",
+      "timestamp": "2026-11-03T18:57:37.301274-06:00"
+    },
+    "rock-bottom": {
+      "slug": "rock-bottom",
+      "status": "success",
+      "timestamp": "2026-11-03T18:57:37.755499-06:00"
+    },
+    "the-state-of-the-alabama-state-bar": {
+      "slug": "the-state-of-the-alabama-state-bar",
+      "status": "success",
+      "timestamp": "2026-11-03T18:57:38.062599-06:00"
+    }
+  }
+}

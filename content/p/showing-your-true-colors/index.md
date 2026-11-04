@@ -78,7 +78,7 @@ related_articles:
 summary: Outgoing city leaders crammed massive development deals into their final
   meetings to line the pockets of top campaign donors. Public records and court dockets
   expose a desperate rush to approve multi-unit projects before new leadership took
-  charge. Discover how easy it is to spot corruption once politicians drop their fake
+  charge.  Read more about easy it is to spot corruption once politicians drop their fake
   promises.
 ---
 Mayor Kant, after receiving the official news that he lost his re-election bid, promised a smooth transition from his administration to the new administration, which takes over Nov. 7th. The Mayor, like much of the community, is slowly coming out of shock; and he’s still taking orders from his good ole boy club and a remora-like gaggle of entitled attorneys.

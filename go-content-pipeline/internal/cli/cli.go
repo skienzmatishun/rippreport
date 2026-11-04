@@ -7,6 +7,7 @@ import (
 	"io"
 	"os"
 	"os/signal"
+	"path/filepath"
 	"strings"
 	"syscall"
 
@@ -17,6 +18,8 @@ import (
 	"github.com/rippreport/go-content-pipeline/internal/orchestrator"
 	"github.com/rippreport/go-content-pipeline/internal/processor"
 	"github.com/rippreport/go-content-pipeline/internal/refiner"
+	"github.com/rippreport/go-content-pipeline/internal/server"
+	"github.com/rippreport/go-content-pipeline/internal/transcript"
 )
 
 // App manages the CLI subcommands and orchestrator lifecycle.
@@ -67,6 +70,10 @@ func (a *App) Run(args []string) int {
 		return a.runGenerateHooks(ctx, cmdArgs)
 	case "refine-hooks":
 		return a.runRefineHooks(ctx, cmdArgs)
+	case "fetch-transcript":
+		return a.runFetchTranscript(ctx, cmdArgs)
+	case "summarize-transcript":
+		return a.runSummarizeTranscript(ctx, cmdArgs)
 	case "pipeline":
 		return a.runPipeline(ctx, cmdArgs)
 	case "apply-staged":
@@ -84,11 +91,13 @@ func (a *App) printUsage() {
 	fmt.Fprintln(a.stdout, "Go Content Pipeline - High Performance Hugo Recommendation System")
 	fmt.Fprintln(a.stdout, "\nUsage: pipeline <command> [options]")
 	fmt.Fprintln(a.stdout, "\nCommands:")
-	fmt.Fprintln(a.stdout, "  generate-related  Generate related article recommendations")
-	fmt.Fprintln(a.stdout, "  generate-hooks    Generate contextual sidebar hooks")
-	fmt.Fprintln(a.stdout, "  refine-hooks      Refine existing hooks using Gemini API")
-	fmt.Fprintln(a.stdout, "  pipeline          Run complete pipeline (related + hooks)")
-	fmt.Fprintln(a.stdout, "  apply-staged      Apply staged rankings or hooks to posts (use --hooks flag)")
+	fmt.Fprintln(a.stdout, "  generate-related     Generate related article recommendations")
+	fmt.Fprintln(a.stdout, "  generate-hooks       Generate contextual sidebar hooks")
+	fmt.Fprintln(a.stdout, "  refine-hooks         Refine existing hooks using Gemini API")
+	fmt.Fprintln(a.stdout, "  fetch-transcript     Download YouTube transcript for podcast posts")
+	fmt.Fprintln(a.stdout, "  summarize-transcript Generate factual summary from transcript")
+	fmt.Fprintln(a.stdout, "  pipeline             Run complete pipeline (related + hooks)")
+	fmt.Fprintln(a.stdout, "  apply-staged         Apply staged rankings or hooks to posts (use --hooks flag)")
 	fmt.Fprintln(a.stdout, "  clear-staged      Clear staged ranking or hook files (use --hooks flag)")
 	fmt.Fprintln(a.stdout, "\nRun 'pipeline <command> --help' for options on a specific command.")
 }
@@ -270,6 +279,7 @@ func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 	force := fs.Bool("force", false, "Refine even if hooks are already refined")
 	dryRun := fs.Bool("dry-run", false, "Simulate operations without modifying files")
 	geminiModel := fs.String("gemini-model", "", "Gemini model to use (e.g., gemini-3.7-flash)")
+	batch := fs.Int("batch", 0, "Batch size for cross-post refinement (0 = per-post)")
 
 	if err := fs.Parse(args); err != nil {
 		return 1
@@ -303,6 +313,7 @@ func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 		Force:         *force,
 		DryRun:        *dryRun,
 		Model:         *geminiModel,
+		BatchSize:     *batch,
 	})
 	if err != nil {
 		fmt.Fprintf(a.stderr, "Error refining hooks: %v\n", err)
@@ -311,6 +322,205 @@ func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 
 	fmt.Fprintf(a.stdout, "\nRefined: %d processed, %d failed, %d skipped in %v\n",
 		res.ProcessedPosts, res.FailedPosts, res.SkippedPosts, res.Duration)
+	return 0
+}
+
+func (a *App) runFetchTranscript(ctx context.Context, args []string) int {
+	fs := flag.NewFlagSet("fetch-transcript", flag.ContinueOnError)
+	fs.SetOutput(a.stdout)
+
+	configPath := fs.String("config", "config.yaml", "Path to configuration file")
+	posts := fs.String("posts", "", "Comma-separated list of post slugs")
+	force := fs.Bool("force", false, "Overwrite existing transcript.md files")
+	autoOnly := fs.Bool("auto-only", false, "Only fetch auto-generated transcripts")
+	language := fs.String("language", "en", "Transcript language code")
+
+	if err := fs.Parse(args); err != nil {
+		return 1
+	}
+
+	if *posts == "" {
+		fmt.Fprintf(a.stderr, "Error: --posts flag is required\n")
+		fmt.Fprintf(a.stderr, "Usage: pipeline fetch-transcript --posts october-surprise\n")
+		return 1
+	}
+
+	cfg, err := config.LoadConfig(*configPath)
+	if err != nil {
+		fmt.Fprintf(a.stderr, "Error loading config: %v\n", err)
+		return 1
+	}
+
+	fetcher := transcript.NewFetcher(cfg.Processing.PostsDirectory)
+	slugs := parseSlugs(*posts)
+
+	if len(slugs) == 0 {
+		fmt.Fprintf(a.stderr, "Error: no post slugs provided\n")
+		return 1
+	}
+
+	fmt.Fprintf(a.stdout, "Fetching transcripts for %d post(s)...\n\n", len(slugs))
+
+	successCount := 0
+	failCount := 0
+
+	for i, slug := range slugs {
+		fmt.Fprintf(a.stdout, "[%d/%d] Processing %s...\n", i+1, len(slugs), slug)
+
+		opts := transcript.FetchOptions{
+			PostSlug: slug,
+			Force:    *force,
+			Language: *language,
+			AutoOnly: *autoOnly,
+		}
+
+		result, err := fetcher.FetchTranscript(opts)
+		if err != nil {
+			fmt.Fprintf(a.stderr, "  ✗ Failed: %v\n\n", err)
+			failCount++
+			continue
+		}
+
+		if result.Success {
+			fmt.Fprintf(a.stdout, "  ✓ Success! Video ID: %s\n", result.VideoID)
+			fmt.Fprintf(a.stdout, "  ✓ Saved to: %s\n", result.TranscriptPath)
+			fmt.Fprintf(a.stdout, "  ✓ Word count: %d\n\n", result.WordCount)
+			successCount++
+		} else {
+			fmt.Fprintf(a.stderr, "  ✗ Failed: %v\n\n", result.Error)
+			failCount++
+		}
+	}
+
+	fmt.Fprintf(a.stdout, "\n")
+	fmt.Fprintf(a.stdout, "Summary: %d succeeded, %d failed\n", successCount, failCount)
+
+	if successCount > 0 {
+		fmt.Fprintf(a.stdout, "\nNext steps:\n")
+		fmt.Fprintf(a.stdout, "  1. Review the transcript(s) for accuracy\n")
+		fmt.Fprintf(a.stdout, "  2. Generate embeddings: ./bin/pipeline generate-related --posts %s\n", *posts)
+		fmt.Fprintf(a.stdout, "  3. Generate hooks: ./bin/pipeline generate-hooks --posts %s\n", *posts)
+	}
+
+	if failCount > 0 {
+		return 1
+	}
+	return 0
+}
+
+func (a *App) runSummarizeTranscript(ctx context.Context, args []string) int {
+	fs := flag.NewFlagSet("summarize-transcript", flag.ContinueOnError)
+	fs.SetOutput(a.stdout)
+
+	configPath := fs.String("config", "config.yaml", "Path to configuration file")
+	posts := fs.String("posts", "", "Comma-separated list of post slugs")
+	force := fs.Bool("force", false, "Overwrite existing summary.md files")
+	model := fs.String("model", "", "LLM model to use for summarization")
+	managed := fs.Bool("managed", false, "Auto-manage llama-server process lifecycle")
+
+	if err := fs.Parse(args); err != nil {
+		return 1
+	}
+
+	if *posts == "" {
+		fmt.Fprintf(a.stderr, "Error: --posts flag is required\n")
+		fmt.Fprintf(a.stderr, "Usage: pipeline summarize-transcript --posts midterm-election-special\n")
+		return 1
+	}
+
+	cfg, err := config.LoadConfig(*configPath)
+	if err != nil {
+		fmt.Fprintf(a.stderr, "Error loading config: %v\n", err)
+		return 1
+	}
+
+	// Determine which model to use
+	summaryModel := *model
+	if summaryModel == "" {
+		summaryModel = cfg.LlamaServer.LLMModel
+	}
+
+	// Build orchestrator with managed mode if requested
+	orch, err := a.buildOrchestrator(*configPath, *managed)
+	if err != nil {
+		fmt.Fprintf(a.stderr, "Error initializing pipeline: %v\n", err)
+		return 1
+	}
+	defer orch.Close()
+
+	// If managed mode, the server manager will handle model loading
+	if *managed || cfg.LlamaServer.IsManaged() {
+		sm := orch.GetServerManager()
+		if sm != nil {
+			fmt.Fprintf(a.stdout, "Starting managed llama-server with model %s...\n", summaryModel)
+			if err := sm.EnsureModel(ctx, summaryModel, server.ModeCompletion); err != nil {
+				fmt.Fprintf(a.stderr, "Failed to start llama-server: %v\n", err)
+				return 1
+			}
+			defer sm.Stop()
+			fmt.Fprintf(a.stdout, "✓ llama-server started\n\n")
+		}
+	}
+
+	summarizer := transcript.NewSummarizer(transcript.SummarizerConfig{
+		LlamaServerURL: cfg.LlamaServer.BaseURL,
+		Model:          summaryModel,
+	})
+
+	slugs := parseSlugs(*posts)
+	if len(slugs) == 0 {
+		fmt.Fprintf(a.stderr, "Error: no post slugs provided\n")
+		return 1
+	}
+
+	fmt.Fprintf(a.stdout, "Generating summaries for %d post(s)...\n\n", len(slugs))
+
+	successCount := 0
+	failCount := 0
+
+	for i, slug := range slugs {
+		fmt.Fprintf(a.stdout, "[%d/%d] Processing %s...\n", i+1, len(slugs), slug)
+
+		postDir := filepath.Join(cfg.Processing.PostsDirectory, slug)
+		transcriptPath := filepath.Join(postDir, "transcript.md")
+
+		opts := transcript.SummarizeOptions{
+			PostSlug:       slug,
+			TranscriptPath: transcriptPath,
+			Force:          *force,
+		}
+
+		result, err := summarizer.Summarize(ctx, opts)
+		if err != nil {
+			fmt.Fprintf(a.stderr, "  ✗ Failed: %v\n\n", err)
+			failCount++
+			continue
+		}
+
+		if result.Success {
+			fmt.Fprintf(a.stdout, "  ✓ Success!\n")
+			fmt.Fprintf(a.stdout, "  ✓ Saved to: %s\n", result.SummaryPath)
+			fmt.Fprintf(a.stdout, "  ✓ Estimated word count: %d\n\n", result.WordCount)
+			successCount++
+		} else {
+			fmt.Fprintf(a.stderr, "  ✗ Failed: %v\n\n", result.Error)
+			failCount++
+		}
+	}
+
+	fmt.Fprintf(a.stdout, "\n")
+	fmt.Fprintf(a.stdout, "Summary: %d succeeded, %d failed\n", successCount, failCount)
+
+	if successCount > 0 {
+		fmt.Fprintf(a.stdout, "\nNext steps:\n")
+		fmt.Fprintf(a.stdout, "  1. Review the summaries for accuracy\n")
+		fmt.Fprintf(a.stdout, "  2. Generate embeddings: ./bin/pipeline generate-related --posts %s\n", *posts)
+		fmt.Fprintf(a.stdout, "     (Will automatically use summary.md for embeddings)\n")
+	}
+
+	if failCount > 0 {
+		return 1
+	}
 	return 0
 }
 

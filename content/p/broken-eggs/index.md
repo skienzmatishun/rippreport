@@ -90,7 +90,7 @@ related_articles:
 summary: Council President Jack Burrell and Planning Chief Lee Turner teamed up to
   bypass standard development rules for favored insiders. Official records show a
   pattern of budget obstruction, secret deals, and millions in wasted tax dollars.
-  Discover how their fragile cover-up completely shattered under public scrutiny.
+   Read more about their fragile cover-up completely shattered under public scrutiny.
 ---
 Fairhope City Council is as dysfunctional as a square bowling ball. Led by Council President Jack Burrell who has been president for going on 7 years. The council has achieved little in the last year other than obstruct the Mayor’s office. It was more of the same at the last council meeting when it came to light that not one of the council has discussed any issues related to the budget in the last two weeks, with the Mayor, as they said they would. Now the supreme commander and self proclaimed “mediator” of the council has said he wishes the budget be sent to the new “APPOINTED” finance committee.
 

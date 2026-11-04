@@ -73,7 +73,7 @@ related_articles:
 summary: Council President Jack Burrell manipulated the municipal agenda to block
   public debate over massive airport debt and illegal lease deals. Following up on
   our investigation, secret council files reveal how politicians executed ground leases
-  before ethics officials could render a verdict. Discover how city hall silenced
+  before ethics officials could render a verdict.  Read more about city hall silenced
   citizen outrage to protect favored developers.
 ---
 Fairhope’s first town hall meeting is this Thursday, 2/16/2017 at the Fairhope public library. The Ripp Report strongly suggest you attend and demand answers to some very pressing issues. Repealing ordinance 1572, the Fly Creek Apartments and the Airport Authority are issues that effect all of us and our schools.

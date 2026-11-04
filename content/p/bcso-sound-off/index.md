@@ -95,7 +95,7 @@ related_articles:
   rank: 10
 alttags: A magazine rack features a Soap Opera Digest cover with a sheriff in uniform
   and headlines about department corruption, surrounded by blurred copies of ...
-summary: Sheriff Anthony Lowery inherited and protected a toxic department culture
+summary: Sheriff Anthony Lowery inherited and protected a department culture
   that routinely shields high-ranking deputies from sexual misconduct allegations.
   Internal whistleblower tips and archived investigative files expose a deep pattern
   of buried evidence stretching back twenty years. Why does the Good Old Boy network

@@ -98,7 +98,7 @@ related_articles:
 summary: Baldwin County politicians used straight-ticket voting tricks to hide their
   long track record of greed and self-serving land deals. Records reveal how powerful
   insiders pocketed public funds while keeping their cozy seats safe from local voters.
-  Discover how the whole corrupt machine keeps its mask on.
+   Read more about the whole corrupt machine keeps its mask on.
 ---
 Sen. Tripp Pittman and the State Representatives Faust, and Randy Davis, INDICTED, did very little in the last 11 years, as far as representing their constituents.
 

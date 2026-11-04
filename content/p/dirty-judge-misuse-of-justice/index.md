@@ -101,7 +101,7 @@ summary: Building on our family court exposure, Judge Thomason systematically ri
   ever expect real justice from this compromised bench?
 ---
 
-Last week's freaky Friday asked questions related to the pot laced brownies to the DA, Allegedly by Judge Wilters. We also wanted to know where the money was collected by the "Judges" nonprofit Baldwin County Substance Center. We ask these questions as taxpayers of elected officials. Simple answer the questions and let's adhere to your professed standards, "transparency, accountability and creditability", your words your promises. Anyone who misinterprets this into thinking it's a personal thing or a hidden agenda, is simply missing the point. It is about holding elected officials ethically obligated to their promises to taxpayers.
+Last week's freaky Friday asked questions related to the pot laced brownies to the DA,  by Judge Wilters. We also wanted to know where the money was collected by the "Judges" nonprofit Baldwin County Substance Center. We ask these questions as taxpayers of elected officials. Simple answer the questions and let's adhere to your professed standards, "transparency, accountability and creditability", your words your promises. Anyone who misinterprets this into thinking it's a personal thing or a hidden agenda, is simply missing the point. It is about holding elected officials ethically obligated to their promises to taxpayers.
 
 ## THE DIRTY JUDGE AND MISUSE OF JUSTICE
 

@@ -142,7 +142,7 @@ The City of Fairhope annually donates $35,000 to Baldwin County Economic Develop
 
 In the end the council rejected any help to the business community instead reinforced it’s position with BCEDA, who’s 35,000 will most likely go to executive salary or payroll for BCEDA.
 
-What irony the CATALYST council turns down economic development for Fairhope businesses’ in order to give it to Baldwin County Economic Development Alliance to allegedly promote Economic Development. BECDA most likely will use the funds for salaries, that is not helping business.
+What irony the CATALYST council turns down economic development for Fairhope businesses’ in order to give it to Baldwin County Economic Development Alliance to  promote Economic Development. BECDA most likely will use the funds for salaries, that is not helping business.
 
 Think that is stupid? Then consider this. The Council will not support the Mayor and the Marketing Plan for $65,000 but they did support:
 

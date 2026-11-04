@@ -119,7 +119,7 @@ Role in 2005: Chief Investigator with the Baldwin County District Attorney’s O
 
 ### Huey 'Hoss' Mack
 
-Role in 2005: Lead Investigator and Captain in the Baldwin County Sheriff’s Office. Testified at trial. Allegedly coerced the real killer, Jarius McNeil, into shifting blame onto Murray. Role Today: Serving in a newly appointed state level position after retiring as Baldwin County Sheriff. Relevance: Mack orchestrated the original investigation, controlled access to evidence including the body’s handling at his own funeral home, and played a powerful role in shaping the narrative of guilt. His leadership established a law enforcement culture that remains in place.
+Role in 2005: Lead Investigator and Captain in the Baldwin County Sheriff’s Office. Testified at trial.  coerced the real killer, Jarius McNeil, into shifting blame onto Murray. Role Today: Serving in a newly appointed state level position after retiring as Baldwin County Sheriff. Relevance: Mack orchestrated the original investigation, controlled access to evidence including the body’s handling at his own funeral home, and played a powerful role in shaping the narrative of guilt. His leadership established a law enforcement culture that remains in place.
 
 ### David Whetstone
 

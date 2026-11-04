@@ -101,15 +101,15 @@ summary: Sheriff Anthony Lowery and Chief Deputy David White quietly suspended c
   federal agents to save face. The Ripp Report uncovers how BCSO bosses traded public
   safety for raw campaign survival.
 ---
-According to two independent sources familiar with communications between the Baldwin County Sheriff’s Office and federal immigration enforcement personnel, internal tensions reportedly escalated during the current sheriff’s election cycle over BCSO participation in immigration-related operations connected to the federal 287(g) program.
+According to two independent sources familiar with communications between the Baldwin County Sheriff’s Office and federal immigration enforcement personnel, internal tensions escalated during the current sheriff’s election cycle over BCSO participation in immigration-related operations connected to the federal 287(g) program.
 
 The sources allege that Chief Deputy David White became upset with BCSO deputies assisting Mobile Enforcement and Removal Operations (ERO), expressing concern that ERO agents were “just out stopping brown people” and that continued involvement risked giving BCSO a negative public image during an election season.
 
-According to the sources, White instructed deputies to back away from assisting with certain immigration-related activities. One of those deputies allegedly contacted the Mobile ERO supervisor to report what had been said and to express concern about the direction being given internally.
+According to the sources, White instructed deputies to back away from assisting with certain immigration-related activities. One of those deputies  contacted the Mobile ERO supervisor to report what had been said and to express concern about the direction being given internally.
 
-The sources state that the Mobile ERO supervisor then contacted Chief Deputy White directly for clarification. During that conversation, White allegedly told the federal supervisor that ERO personnel needed to “chill with immigration” because “we got an election going on right now, we can’t be getting involved in this.”
+The sources state that the Mobile ERO supervisor then contacted Chief Deputy White directly for clarification. During that conversation, White  told the federal supervisor that ERO personnel needed to “chill with immigration” because “we got an election going on right now, we can’t be getting involved in this.”
 
-According to the sources, the Mobile ERO supervisor later relayed those comments back to the involved BCSO deputies. The sources claim this angered White, who then contacted the ERO supervisor again and criticized him for “talking to his guys” and telling deputies that White did not want them involved in immigration operations — despite allegedly conveying that exact message during the earlier conversation.
+According to the sources, the Mobile ERO supervisor later relayed those comments back to the involved BCSO deputies. The sources claim this angered White, who then contacted the ERO supervisor again and criticized him for “talking to his guys” and telling deputies that White did not want them involved in immigration operations — despite  conveying that exact message during the earlier conversation.
 
 The sources further allege that Sheriff Anthony Lowery later contacted higher-ranking ERO leadership and complained that the Mobile ERO group was backing sheriffal candidate Matt McKenzie in an official capacity. Such allegations, if substantiated, could raise serious concerns regarding political activity and neutrality within a federal law enforcement office.
 

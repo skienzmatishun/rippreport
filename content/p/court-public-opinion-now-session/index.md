@@ -146,7 +146,7 @@ I cannot anticipate that your office will open a formal criminal investigation o
 
 I do hope you see the serious nature of this complaint and choose to act on the information provided and available. Your office represents our courts and its laws. I represent the court of public opinion and will continue my efforts to expose political corruption in hopes that the citizens will become involved and hold our elected officials accountable.
 
-Respectfully Francis Paul Ripp The Ripp Report
+Respectfully the Ripp Report The Ripp Report
 
 CC. The Ethics Commission F.B.I. Mobile Office, White Collar Crime United States Attorney’s Office White Collar Crime
 

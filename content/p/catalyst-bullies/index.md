@@ -101,7 +101,7 @@ related_articles:
   rank: 10
 summary: Scott Boone and his political hit squad aggressively bullied city officials
   to push dangerous developer agendas. Campaign records reveal over a million dollars
-  in dark money flowing directly into candidate bank accounts. See how these political
+  in dark money flowing directly into candidate bank accounts. Read more about these political
   thugs plan to buy complete control over local government.
 ---
 Fairhope pay attention: The last four years, Mayor Karin Wilson has been standing up to bullies with special interests that do not align with citizens values.

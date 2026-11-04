@@ -98,7 +98,7 @@ related_articles:
 summary: Council President Jack Burrell and city leaders gutted an approved multi-million
   dollar waterfront restoration project to serve political allies. Public documents
   and altered grant filings show officials stripped critical bluff stabilization features
-  without public input. Discover how city hall transformed a sustainable community
+  without public input.  Read more about city hall transformed a sustainable community
   vision into a cheap maintenance cover-up.
 ---
 I am reluctantly back from a three week vacation and trying to get back on the Ripp Report horse. Let’s review a few subjects that have been in the news in my absence.

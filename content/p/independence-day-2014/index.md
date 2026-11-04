@@ -98,7 +98,7 @@ alttags: A large question mark formed by multicolored fireworks exploding agains
 summary: Key municipal board members exploited corrupt dual roles to hijack private
   community assets and silence public opposition. Meeting minutes reveal how insider
   trading of public land occurred behind closed doors without membership consent or
-  proper votes. See how local power brokers stripped citizens of their democratic
+  proper votes. Read more about local power brokers stripped citizens of their democratic
   rights.
 ---
 Dear Fairhopians,

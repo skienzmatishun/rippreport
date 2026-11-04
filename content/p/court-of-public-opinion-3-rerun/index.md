@@ -1,102 +1,46 @@
 ---
 title: COURT OF PUBLIC OPINION - READ THE BOOK
-date: 2026-10-22
-thumbnail: img/court-of-public-opinion-3.png
+date: 2026-10-22T00:00:00Z
 categories:
-- repost
+  - repost
 tags:
-- Murray Lawrence Jr
-- BCSO
-- Hoss Mack
-- Anthony Lowery
-authors:
-- ripp-report
+  - Murray Lawrence Jr
+  - BCSO
+  - Hoss Mack
+  - Anthony Lowery
+thumbnail: img/court-of-public-opinion-3.png
 related_articles:
-- slug: bcso-culture-2
-  title: BCSO CULTURE
-  score: 91.29952434796648
-  llm_score: 98
-  recency_score: 57.97226500080723
-  length_score: 100
-  category_score: 0
-  rank: 1
-- slug: a-reckoning-is-predicted
-  title: A RECKONING IS PREDICTED
-  score: 84.36741805941914
-  llm_score: 80
-  recency_score: 90.11265384166002
-  length_score: 100
-  category_score: 0
-  rank: 2
-- slug: baldwin-county-judicial-corruption
-  title: Baldwin County Judicial Corruption
-  score: 80.35999340658051
-  llm_score: 95
-  recency_score: 7.069962087837917
-  length_score: 100
-  category_score: 0
-  rank: 3
-- slug: cameras
-  title: CAMERAS
-  score: 77.38365967109976
-  llm_score: 92
-  recency_score: 1.9560431088235848
-  length_score: 100
-  category_score: 0
-  rank: 4
-- slug: read-the-comments
-  title: READ THE COMMENTS
-  score: 73.75354710016929
-  llm_score: 70
-  recency_score: 69.0828958259734
-  length_score: 100
-  category_score: 0
-  rank: 5
-- slug: sheriff-huey-boss-mack-secret-police-2
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 73.34751770546482
-  llm_score: 85
-  recency_score: 6.7482268064227
-  length_score: 100
-  category_score: 0
-  rank: 6
-- slug: sheriff-huey-boss-mack-secret-police
-  title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
-  score: 72.31241007576043
-  llm_score: 85
-  recency_score: 0.7963579356224314
-  length_score: 100
-  category_score: 0
-  rank: 7
-- slug: new-sheriff-no-changes
-  title: NEW SHERIFF - NO CHANGES
-  score: 67.76568089657859
-  llm_score: 75
-  recency_score: 14.652665155326813
-  length_score: 100
-  category_score: 0
-  rank: 8
-- slug: po-po-hoss-mack-ccuo
-  title: PO PO Hoss Mack CCUO
-  score: 63.8140926291165
-  llm_score: 70
-  recency_score: 11.931032617419875
-  length_score: 100
-  category_score: 0
-  rank: 9
-- slug: hanky-panky-by-the-po-po
-  title: Hanky Panky by the Po Po
-  score: 42.86098340798888
-  llm_score: 40
-  recency_score: 11.45065459593608
-  length_score: 100
-  category_score: 0
-  rank: 10
-summary: Continuing our coverage, Baldwin County power brokers used paid consultants
-  and backroom deals to stack the local bench with unearned judicial favors. Internal
-  records and financial trails tie the same corrupt law enforcement clique directly
-  to padded judicial appointments. Read the documented evidence to see how the Good
-  Ol' Boys controlled the courtroom from the start.
+  - slug: hut
+    title: HUT
+    score: 100
+    rank: 1
+  - slug: alabama-fake-ethics-commission
+    title: ALABAMA FAKE ETHICS COMMISSION
+    score: 100
+    rank: 2
+  - slug: court-of-public-opinion-3
+    title: COURT OF PUBLIC OPINION - READ THE BOOK
+    score: 94
+    rank: 3
+  - slug: blast-from-the-past
+    title: HANKY PANK AT THE PO PO - A BLAST FROM THE PAST
+    score: 94
+    rank: 4
+  - slug: fauxhope-know-the-backstory-2
+    title: FAUXHOPE - KNOW THE BACKSTORY
+    score: 50
+    rank: 5
+  - slug: re-gift-gift-2
+    title: RE-GIFT GIFT ??
+    score: 50
+    rank: 6
+  - slug: baldwin-county-sheriff-appointment-2
+    title: BALDWIN COUNTY SHERIFF APPOINTMENT
+    score: 50
+    rank: 7
+authors:
+  - ripp-report
+summary: Continuing our coverage, Baldwin County power brokers used paid consultants and backroom deals to stack the local bench with unearned judicial favors. Internal records and financial trails tie the same corrupt law enforcement clique directly to padded judicial appointments. Read the documented evidence to see how the Good Ol' Boys controlled the courtroom from the start.
 ---
 Have you noticed that when public officials are called out by social media that they start screaming how “you can’t believe social media”. Then use the same social media for self promotion as a denial platform.
 

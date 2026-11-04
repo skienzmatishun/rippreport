@@ -75,7 +75,7 @@ related_articles:
 summary: Council President Jack Burrell pushed through an illegal emergency contract
   to enrich an elected senator's private tractor company. Official meeting minutes
   confirm Burrell actively blocked legal counsel for the mayor while funding his own
-  political protection. Discover how one arrogant official holds our entire municipal
+  political protection.  Read more about one arrogant official holds our entire municipal
   budget hostage.
 ---
 Well folks, as they often say, “You can’t make this stuff up!”

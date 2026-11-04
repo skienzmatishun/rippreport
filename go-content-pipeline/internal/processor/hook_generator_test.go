@@ -7,6 +7,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/rippreport/go-content-pipeline/internal/config"
 	"github.com/rippreport/go-content-pipeline/internal/models"
 )
 
@@ -35,7 +36,7 @@ func TestGenerateHook_Basic(t *testing.T) {
 		WidgetPost: widget,
 	}
 
-	hook, err := GenerateHook(context.Background(), nil, "test-model", nil, req)
+	hook, err := GenerateHook(context.Background(), nil, "test-model", nil, config.DefaultConfig(), req)
 	if err != nil {
 		t.Fatalf("GenerateHook failed: %v", err)
 	}
