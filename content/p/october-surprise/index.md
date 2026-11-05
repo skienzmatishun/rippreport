@@ -13,6 +13,7 @@ tags:
   - Prison Infrastructure
   - Trent Garmon
   - Alabama State Bar
+alttags: Four people, including John Wahl, are featured over a newspaper promoting the "HEART OF DIXIE PODCAST" and the text "Baldwin County Died of overdevelopment and corruption.
 youtube: tAbk7uTtZ5o
 thumbnail: img/october-surprise.png
 related_articles:

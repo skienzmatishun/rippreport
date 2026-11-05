@@ -2,8 +2,11 @@ package orchestrator
 
 import (
 	"context"
+	"encoding/base64"
 	"fmt"
+	"os"
 	"path/filepath"
+	"strings"
 	"sync"
 	"time"
 
@@ -563,6 +566,38 @@ func (o *Orchestrator) GenerateHooks(ctx context.Context, opts HookOptions) (*Ho
 	return result, nil
 }
 
+// GenerateFrontpageBridges delegates frontpage bridge generation to processor.GenerateFrontpageBridges.
+func (o *Orchestrator) GenerateFrontpageBridges(ctx context.Context, opts processor.FrontpageOptions) (*processor.FrontpageResult, error) {
+	defer func() {
+		if o.serverManager != nil && o.cfg != nil && o.cfg.LlamaServer.IsManaged() {
+			_ = o.serverManager.Stop()
+		}
+	}()
+
+	modelName := opts.Model
+	if modelName == "" && o.cfg != nil {
+		modelName = o.cfg.LlamaServer.GetHookModel()
+	}
+
+	if o.serverManager != nil && o.cfg != nil && o.cfg.LlamaServer.IsManaged() {
+		fmt.Printf("Ensuring llama-server is running with model %s...\n", modelName)
+		if err := o.serverManager.EnsureModel(ctx, modelName, server.ModeCompletion); err != nil {
+			return nil, fmt.Errorf("failed to start llama-server with model %s: %w", modelName, err)
+		}
+	}
+
+	res, err := processor.GenerateFrontpageBridges(ctx, o.llamaClient, modelName, o.compressionCache, o.cfg, o.postManager, opts)
+	if err != nil {
+		return res, err
+	}
+
+	if o.compressionCache != nil && !opts.DryRun {
+		_ = o.compressionCache.Persist()
+	}
+
+	return res, nil
+}
+
 // RunPipeline runs both related article generation and hook generation sequentially.
 //
 // Requirements: All pipeline requirements
@@ -655,6 +690,154 @@ func (o *Orchestrator) ApplyStagedHooks(ctx context.Context, postSlugs []string)
 // ClearStagedHooks removes staged hook files.
 func (o *Orchestrator) ClearStagedHooks(ctx context.Context, postSlugs []string) error {
 	return o.stagingManager.ClearStagedHooks(postSlugs)
+}
+
+// AltTagOptions configures alt tag generation for post thumbnails.
+type AltTagOptions struct {
+	PostSlug    string
+	VisionModel string
+	DryRun      bool
+}
+
+// AltTagResult summarizes alt tag generation.
+type AltTagResult struct {
+	PostSlug      string
+	ThumbnailPath string
+	AltTag        string
+	Duration      time.Duration
+}
+
+// GenerateAltTag uses a local vision-capable LLM to describe the post thumbnail
+// and writes the result to the front matter (alttags and alt).
+func (o *Orchestrator) GenerateAltTag(ctx context.Context, opts AltTagOptions) (*AltTagResult, error) {
+	start := time.Now()
+
+	// 1. Discover the post
+	postPath := filepath.Join(o.cfg.Processing.PostsDirectory, opts.PostSlug, "index.md")
+	post, err := o.postManager.ReadPost(models.PostPath(postPath))
+	if err != nil {
+		return nil, fmt.Errorf("failed to read post %s: %w", opts.PostSlug, err)
+	}
+
+	// 2. Resolve thumbnail file path on disk
+	thumbPath, err := o.postManager.ResolveThumbnailPath(post)
+	if err != nil {
+		return nil, fmt.Errorf("failed to locate thumbnail: %w", err)
+	}
+
+	// 3. Read and base64-encode image
+	imgBytes, err := os.ReadFile(thumbPath)
+	if err != nil {
+		return nil, fmt.Errorf("failed to read thumbnail file %s: %w", thumbPath, err)
+	}
+
+	mimeType := "image/png"
+	lowerThumb := strings.ToLower(thumbPath)
+	if strings.HasSuffix(lowerThumb, ".jpg") || strings.HasSuffix(lowerThumb, ".jpeg") {
+		mimeType = "image/jpeg"
+	} else if strings.HasSuffix(lowerThumb, ".webp") {
+		mimeType = "image/webp"
+	}
+
+	imgBase64 := base64.StdEncoding.EncodeToString(imgBytes)
+
+	// 4. Determine vision model
+	visionModel := opts.VisionModel
+	if visionModel == "" && o.cfg != nil {
+		visionModel = o.cfg.LlamaServer.GetHookModel()
+	}
+
+	// 5. If managed server, ensure vision model is loaded with completion mode
+	if o.serverManager != nil && o.cfg != nil && o.cfg.LlamaServer.IsManaged() && visionModel != "" {
+		fmt.Printf("Loading vision model: %s...\n", visionModel)
+		if err := o.serverManager.EnsureModel(ctx, visionModel, server.ModeCompletion); err != nil {
+			return nil, fmt.Errorf("failed to load vision model: %w", err)
+		}
+	}
+
+	// 6. Generate alt tag via llamaClient
+	fmt.Printf("Analyzing thumbnail with vision model (%s)...\n", filepath.Base(thumbPath))
+	prompt := "Describe this image in 1 to 2 concise sentences for an HTML alt tag. Focus on the main visual subjects, visible text, and people. Return ONLY the description without introductory filler words."
+
+	altTag, err := o.llamaClient.CompleteVision(ctx, models.VisionRequest{
+		Prompt:      prompt,
+		ImageBase64: imgBase64,
+		MimeType:    mimeType,
+		Model:       visionModel,
+		MaxTokens:   20000,
+		Temperature: 0.2,
+	})
+	if err != nil {
+		return nil, fmt.Errorf("vision model failed to generate alt tag: %w", err)
+	}
+
+	if altTag == "" {
+		altTag = post.FrontMatter.Title
+	}
+
+	fmt.Printf("✓ Generated alt tag: %s\n", altTag)
+
+	// 7. Write to post front matter if not dry-run
+	if !opts.DryRun {
+		if o.backupManager != nil {
+			_, _ = o.backupManager.Backup(string(post.Path))
+		}
+		if err := o.postManager.UpdateAltTag(post.Path, altTag); err != nil {
+			return nil, fmt.Errorf("failed to update front matter: %w", err)
+		}
+		fmt.Printf("✓ Updated front matter (alttags) in: %s\n", post.Path)
+	}
+
+	return &AltTagResult{
+		PostSlug:      opts.PostSlug,
+		ThumbnailPath: thumbPath,
+		AltTag:        altTag,
+		Duration:      time.Since(start),
+	}, nil
+}
+
+// UpdatePostEmbedding computes and caches the embedding vector for the given post slug.
+func (o *Orchestrator) UpdatePostEmbedding(ctx context.Context, postSlug string) error {
+	if postSlug == "" {
+		return fmt.Errorf("post slug cannot be empty")
+	}
+
+	// Ensure embedding model is loaded if server is managed
+	if o.serverManager != nil && o.cfg != nil && o.cfg.LlamaServer.IsManaged() {
+		if err := o.serverManager.EnsureModel(ctx, o.cfg.LlamaServer.EmbeddingModel, server.ModeEmbedding); err != nil {
+			return fmt.Errorf("failed to load embedding model: %w", err)
+		}
+	}
+
+	if o.embeddingCache != nil {
+		_ = o.embeddingCache.Load()
+	}
+
+	postPath := filepath.Join(o.cfg.Processing.PostsDirectory, postSlug, "index.md")
+	post, err := o.postManager.ReadPost(models.PostPath(postPath))
+	if err != nil {
+		return fmt.Errorf("failed to read post %s: %w", postSlug, err)
+	}
+
+	embedContent, cErr := o.postManager.GetEmbeddingContent(post)
+	if cErr != nil {
+		embedContent = post.Body
+	}
+
+	if o.llamaClient != nil {
+		vec, err := o.llamaClient.GenerateEmbedding(ctx, embedContent)
+		if err != nil {
+			return fmt.Errorf("failed to generate embedding for %s: %w", postSlug, err)
+		}
+		if o.embeddingCache != nil {
+			o.embeddingCache.Put(string(post.Path), post.ContentHash, vec)
+			if err := o.embeddingCache.Persist(); err != nil {
+				return fmt.Errorf("failed to persist embedding cache: %w", err)
+			}
+		}
+	}
+
+	return nil
 }
 
 // ErrorCollector returns the active error collector.

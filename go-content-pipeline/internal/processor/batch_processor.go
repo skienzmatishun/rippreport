@@ -129,7 +129,9 @@ Candidates:
 }
 
 // GenerateHooksBatch generates hooks for multiple article pairs in batch,
-// utilizing the compression cache and falling back to individual generation on error.
+// utilizing the compression cache. Uses a single-prompt batch strategy
+// (matching Python's generate_hook_batch) when an LLM client is available,
+// falling back to individual generation on error.
 //
 // Requirements: 12.7, 14.3, 14.4
 func GenerateHooksBatch(ctx context.Context, llamaClient client.LlamaClient, modelName string, cache *CompressionCache, cfg *config.Config, reqs []models.HookRequest) ([]*models.Hook, error) {
@@ -137,26 +139,5 @@ func GenerateHooksBatch(ctx context.Context, llamaClient client.LlamaClient, mod
 		return nil, nil
 	}
 
-	hooks := make([]*models.Hook, 0, len(reqs))
-	var firstErr error
-	for i, req := range reqs {
-		fmt.Printf("      [%d/%d] → %s...", i+1, len(reqs), req.WidgetPost.Slug)
-		hook, hErr := GenerateHook(ctx, llamaClient, modelName, cache, cfg, req)
-		if hErr != nil {
-			fmt.Printf(" ✗ %v\n", hErr)
-			if firstErr == nil {
-				firstErr = hErr
-			}
-			continue
-		}
-		fmt.Printf(" ✓\n")
-		hooks = append(hooks, hook)
-	}
-	if len(hooks) == 0 {
-		if firstErr != nil {
-			return nil, firstErr
-		}
-		return nil, fmt.Errorf("no hooks generated")
-	}
-	return hooks, nil
+	return GenerateHookBatchSinglePrompt(ctx, llamaClient, modelName, cache, cfg, reqs)
 }

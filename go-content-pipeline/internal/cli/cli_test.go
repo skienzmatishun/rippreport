@@ -50,6 +50,20 @@ func TestApp_GenerateRelatedDryRun(t *testing.T) {
 	}
 }
 
+func TestApp_GenerateFrontpageHelp(t *testing.T) {
+	var stdout, stderr bytes.Buffer
+	app := NewApp(&stdout, &stderr)
+
+	code := app.Run([]string{"pipeline", "generate-frontpage", "--help"})
+	if code != 0 {
+		t.Errorf("expected exit code 0 for help, got %d", code)
+	}
+	out := stdout.String()
+	if !strings.Contains(out, "Usage of generate-frontpage") {
+		t.Errorf("expected usage output, got: %s", out)
+	}
+}
+
 func TestApp_ParseSlugs(t *testing.T) {
 	slugs := parseSlugs("post-1, post-2,post-3  ")
 	if len(slugs) != 3 {
@@ -62,5 +76,62 @@ func TestApp_ParseSlugs(t *testing.T) {
 	empty := parseSlugs("")
 	if empty != nil {
 		t.Errorf("expected nil for empty string, got %v", empty)
+	}
+}
+
+func TestBuildFrontMatter(t *testing.T) {
+	title := "Test Podcast Episode"
+	slug := "test-podcast-episode"
+	desc := "Episode description"
+	youtubeID := "L6dyOWiaei4"
+	categories := []string{"dixie-podcast"}
+	tags := []string{"test-tag"}
+	body := "This is a summary.\n\n{{< youtubecomments >}}\n{{< aicomments >}}\n"
+
+	result := buildFrontMatter(title, slug, desc, youtubeID, categories, tags, true, body)
+
+	if !strings.Contains(result, "title: Test Podcast Episode") {
+		t.Errorf("expected title in frontmatter, got: %s", result)
+	}
+	if !strings.Contains(result, "youtube: L6dyOWiaei4") {
+		t.Errorf("expected youtube ID in frontmatter, got: %s", result)
+	}
+	if !strings.Contains(result, "thumbnail: img/test-podcast-episode.png") {
+		t.Errorf("expected thumbnail in frontmatter, got: %s", result)
+	}
+	if !strings.Contains(result, "- dixie-podcast") {
+		t.Errorf("expected category in frontmatter, got: %s", result)
+	}
+	if !strings.Contains(result, "{{< youtubecomments >}}") {
+		t.Errorf("expected youtube comments shortcode in body, got: %s", result)
+	}
+	if !strings.Contains(result, "{{< aicomments >}}") {
+		t.Errorf("expected aicomments shortcode in body, got: %s", result)
+	}
+}
+
+func TestApp_NewPostRequiresTitle(t *testing.T) {
+	var stdout, stderr bytes.Buffer
+	app := NewApp(&stdout, &stderr)
+
+	code := app.Run([]string{"pipeline", "new-post", "--email"})
+	if code != 1 {
+		t.Errorf("expected exit code 1 when --title is missing, got %d", code)
+	}
+	if !strings.Contains(stderr.String(), "--title flag is required") {
+		t.Errorf("expected required title error message, got: %s", stderr.String())
+	}
+}
+
+func TestApp_EmailPostRequiresTitle(t *testing.T) {
+	var stdout, stderr bytes.Buffer
+	app := NewApp(&stdout, &stderr)
+
+	code := app.Run([]string{"pipeline", "email-post"})
+	if code != 1 {
+		t.Errorf("expected exit code 1 when --title is missing for email-post, got %d", code)
+	}
+	if !strings.Contains(stderr.String(), "--title flag is required") {
+		t.Errorf("expected required title error message, got: %s", stderr.String())
 	}
 }

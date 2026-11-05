@@ -423,3 +423,110 @@ func (pm *PostManager) UpdateRelatedArticles(path models.PostPath, articles []mo
 	success = true
 	return nil
 }
+
+// UpdateAltTag updates the alt and alttags fields in a post's front matter,
+// preserving all other fields and markdown body using an atomic write pattern.
+func (pm *PostManager) UpdateAltTag(path models.PostPath, altTag string) error {
+	filePath := string(path)
+	content, err := os.ReadFile(filePath)
+	if err != nil {
+		return fmt.Errorf("failed to read post file for alt tag update %s: %w", path, err)
+	}
+
+	frontMatter, body, delimiter, err := parser.ParseFrontMatter(string(content))
+	if err != nil {
+		return fmt.Errorf("failed to parse front matter for alt tag update: %w", err)
+	}
+
+	frontMatter.AltTags = altTag
+	if frontMatter.Extra != nil {
+		delete(frontMatter.Extra, "alt")
+	}
+
+	serializedFm, err := parser.SerializeFrontMatter(frontMatter, delimiter)
+	if err != nil {
+		return fmt.Errorf("failed to serialize updated front matter: %w", err)
+	}
+
+	updatedContent := serializedFm + body
+
+	dir := filepath.Dir(filePath)
+	tempFile, err := os.CreateTemp(dir, ".index.md.tmp-*")
+	if err != nil {
+		return fmt.Errorf("failed to create temp file for alt tag update: %w", err)
+	}
+	tempPath := tempFile.Name()
+
+	success := false
+	defer func() {
+		if !success {
+			_ = os.Remove(tempPath)
+		}
+	}()
+
+	if _, err := tempFile.WriteString(updatedContent); err != nil {
+		_ = tempFile.Close()
+		return fmt.Errorf("failed to write to temp file: %w", err)
+	}
+
+	if err := tempFile.Sync(); err != nil {
+		_ = tempFile.Close()
+		return fmt.Errorf("failed to sync temp file: %w", err)
+	}
+
+	if err := tempFile.Close(); err != nil {
+		return fmt.Errorf("failed to close temp file: %w", err)
+	}
+
+	if err := os.Rename(tempPath, filePath); err != nil {
+		return fmt.Errorf("failed to atomically replace post file %s: %w", path, err)
+	}
+
+	success = true
+	return nil
+}
+
+// ResolveThumbnailPath finds the local filesystem path for a post's thumbnail.
+func (pm *PostManager) ResolveThumbnailPath(post *models.Post) (string, error) {
+	if post == nil || post.FrontMatter == nil {
+		return "", fmt.Errorf("post or front matter is nil")
+	}
+
+	thumb := post.FrontMatter.Thumbnail
+	slug := post.Slug
+	postDir := filepath.Dir(string(post.Path))
+	postsDir := pm.postsDirectory
+	contentDir := filepath.Dir(postsDir)
+	repoRoot := filepath.Dir(contentDir)
+
+	candidates := []string{}
+
+	if thumb != "" {
+		// 1. Directly in content/ directory (e.g. content/img/slug.png)
+		candidates = append(candidates, filepath.Join(contentDir, thumb))
+		// 2. Relative to repo root
+		candidates = append(candidates, filepath.Join(repoRoot, thumb))
+		// 3. Directly in post directory
+		candidates = append(candidates, filepath.Join(postDir, filepath.Base(thumb)))
+		// 4. In assets/
+		candidates = append(candidates, filepath.Join(repoRoot, "assets", thumb))
+	}
+
+	// 5. Try slug-based filenames in content/img/
+	candidates = append(candidates,
+		filepath.Join(contentDir, "img", fmt.Sprintf("%s.png", slug)),
+		filepath.Join(contentDir, "img", fmt.Sprintf("%s.jpg", slug)),
+		filepath.Join(contentDir, "img", fmt.Sprintf("%s.jpeg", slug)),
+		filepath.Join(contentDir, "img", fmt.Sprintf("%s.webp", slug)),
+		filepath.Join(postDir, fmt.Sprintf("%s.png", slug)),
+		filepath.Join(postDir, fmt.Sprintf("%s.jpg", slug)),
+	)
+
+	for _, cand := range candidates {
+		if stat, err := os.Stat(cand); err == nil && !stat.IsDir() {
+			return cand, nil
+		}
+	}
+
+	return "", fmt.Errorf("thumbnail not found for post %s (checked candidates: %v)", slug, candidates)
+}

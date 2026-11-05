@@ -86,6 +86,7 @@ type Config struct {
 	Filtering   FilteringConfig   `yaml:"filtering"`
 	Logging     LoggingConfig     `yaml:"logging"`
 	Concurrency ConcurrencyConfig `yaml:"concurrency"`
+	Newsletter  NewsletterConfig  `yaml:"newsletter"`
 }
 
 // LlamaServerConfig contains llama.cpp server connection settings
@@ -219,6 +220,14 @@ type ConcurrencyConfig struct {
 	MaxWorkers     int `yaml:"max_workers"`
 	MaxAPIRequests int `yaml:"max_api_requests"`
 	GCInterval     int `yaml:"gc_interval_posts"`
+}
+
+// NewsletterConfig contains newsletter settings
+type NewsletterConfig struct {
+	FromEmail    string `yaml:"from_email"`
+	FromName     string `yaml:"from_name"`
+	TemplateName string `yaml:"template_name"`
+	ImageWidth   int    `yaml:"image_width"`
 }
 
 // LoadConfig loads configuration from a YAML file
@@ -517,6 +526,12 @@ func DefaultConfig() *Config {
 			MaxWorkers:     4,
 			MaxAPIRequests: 2,
 			GCInterval:     10,
+		},
+		Newsletter: NewsletterConfig{
+			FromEmail:    "news@rippreport.com",
+			FromName:     "Ripp Report",
+			TemplateName: "nextone",
+			ImageWidth:   700,
 		},
 	}
 }

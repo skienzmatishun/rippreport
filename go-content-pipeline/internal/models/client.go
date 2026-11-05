@@ -15,14 +15,25 @@ type ChatMessage struct {
 // Prompt is used with llama.cpp /completion. Messages uses /v1/chat/completions
 // so the server applies the model's chat template (required for Gemma 4 and similar).
 type CompletionRequest struct {
-	Prompt      string        `json:"prompt,omitempty"`
-	Messages    []ChatMessage `json:"messages,omitempty"`
-	Model       string        `json:"model,omitempty"`
-	Temperature float32       `json:"temperature,omitempty"`
-	TopP        float32       `json:"top_p,omitempty"`
-	TopK        int           `json:"top_k,omitempty"`
-	MaxTokens   int           `json:"n_predict,omitempty"`
-	StopTokens  []string      `json:"stop,omitempty"`
+	Prompt            string        `json:"prompt,omitempty"`
+	Messages          []ChatMessage `json:"messages,omitempty"`
+	Model             string        `json:"model,omitempty"`
+	Temperature       float32       `json:"temperature,omitempty"`
+	TopP              float32       `json:"top_p,omitempty"`
+	TopK              int           `json:"top_k,omitempty"`
+	MaxTokens         int           `json:"n_predict,omitempty"`
+	StopTokens        []string      `json:"stop,omitempty"`
+	RepetitionPenalty float32       `json:"repetition_penalty,omitempty"`
+}
+
+// VisionRequest represents a request for vision model completion with an image.
+type VisionRequest struct {
+	Prompt      string  `json:"prompt"`
+	ImageBase64 string  `json:"image_base64"`
+	MimeType    string  `json:"mime_type"`
+	Model       string  `json:"model,omitempty"`
+	MaxTokens   int     `json:"max_tokens,omitempty"`
+	Temperature float32 `json:"temperature,omitempty"`
 }
 
 // CompletionResponse represents the response from LLM completion

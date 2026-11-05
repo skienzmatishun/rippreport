@@ -7,6 +7,7 @@ tags:
   - Albritton
   - Mabel Amos Trust
   - Ethics Commission
+alttags: A muppet style puppet is sitting on a curb looking distressed. The text "ROCK BOTTOM" is prominently displayed above the figure.
 thumbnail: img/rock-bottom.png
 related_articles:
   - slug: the-state-of-the-alabama-state-bar

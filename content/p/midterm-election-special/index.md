@@ -3,6 +3,7 @@ title: Midterm Election Special
 date: 2026-11-02T00:00:00Z
 categories:
   - dixie-podcast
+alttags: A political collage featuring John Wahl's ID, an elderly woman, and text referencing the Alabama 2026 Governor Race, the 3rd of November, and a sign stating "Baldwin County Died of overdevelopment and corruption.
 youtube: 6POChDGGpWs
 thumbnail: img/midterm-election-special.png
 related_articles:

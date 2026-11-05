@@ -8,6 +8,7 @@ tags:
   - BCSO
   - Hoss Mack
   - Anthony Lowery
+alttags: A collage promoting Alabama Exposure & Accountability LLC, featuring a video thumbnail with two women titled "EXPOSE THE CORRUPTION," and logos such as South Alabama Citizens for Government Accountability and Mosquito Press.
 thumbnail: img/court-of-public-opinion-3.png
 related_articles:
   - slug: hut

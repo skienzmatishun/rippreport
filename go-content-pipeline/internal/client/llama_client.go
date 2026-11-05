@@ -29,6 +29,7 @@ const (
 type LlamaClient interface {
 	GenerateEmbedding(ctx context.Context, text string) ([]float32, error)
 	Complete(ctx context.Context, req models.CompletionRequest) (*models.CompletionResponse, error)
+	CompleteVision(ctx context.Context, req models.VisionRequest) (string, error)
 	Rerank(ctx context.Context, req models.RerankRequest) (*models.RerankResponse, error)
 	HealthCheck(ctx context.Context) error
 	GetStats() models.ClientStats
@@ -320,6 +321,154 @@ func (c *Client) chatComplete(ctx context.Context, req models.CompletionRequest)
 		return nil, fmt.Errorf("invalid chat completion response from server: %w", err)
 	}
 	return resp, nil
+}
+
+// CompleteVision calls llama.cpp with an image for vision-based understanding/captioning.
+func (c *Client) CompleteVision(ctx context.Context, req models.VisionRequest) (string, error) {
+	if req.ImageBase64 == "" {
+		return "", fmt.Errorf("image data is required for vision completion")
+	}
+	if req.Prompt == "" {
+		req.Prompt = "Write a concise, descriptive HTML alt tag for this image (1-2 sentences). Describe the key visual subjects and text clearly. Return ONLY the description without filler like 'Image of' or quotes."
+	}
+	if req.MimeType == "" {
+		req.MimeType = "image/png"
+	}
+	if req.MaxTokens <= 0 {
+		req.MaxTokens = 20000
+	}
+	if req.Temperature <= 0 {
+		req.Temperature = 0.2
+	}
+
+	timeout := c.cfg.Timeout
+	if timeout <= 0 {
+		timeout = 180 * time.Second
+	}
+
+	// 1. Try OpenAI-compatible chat completions with image_url
+	type contentItem struct {
+		Type     string `json:"type"`
+		Text     string `json:"text,omitempty"`
+		ImageURL *struct {
+			URL string `json:"url"`
+		} `json:"image_url,omitempty"`
+	}
+
+	type visionMessage struct {
+		Role    string        `json:"role"`
+		Content []contentItem `json:"content"`
+	}
+
+	type visionChatBody struct {
+		Model       string          `json:"model,omitempty"`
+		Messages    []visionMessage `json:"messages"`
+		Temperature float32         `json:"temperature"`
+		MaxTokens   int             `json:"max_tokens"`
+	}
+
+	imageURLStr := fmt.Sprintf("data:%s;base64,%s", req.MimeType, req.ImageBase64)
+	chatBody := visionChatBody{
+		Model: req.Model,
+		Messages: []visionMessage{
+			{
+				Role: "user",
+				Content: []contentItem{
+					{Type: "text", Text: req.Prompt},
+					{Type: "image_url", ImageURL: &struct {
+						URL string `json:"url"`
+					}{URL: imageURLStr}},
+				},
+			},
+		},
+		Temperature: req.Temperature,
+		MaxTokens:   req.MaxTokens,
+	}
+
+	chatJSON, err := json.Marshal(chatBody)
+	if err == nil {
+		endpoint := strings.TrimRight(c.cfg.BaseURL, "/") + "/v1/chat/completions"
+		respBytes, err := c.requestWithRetry(ctx, http.MethodPost, endpoint, chatJSON, timeout)
+		if err == nil {
+			var chatResp chatCompletionsResponse
+			if err := json.Unmarshal(respBytes, &chatResp); err == nil && len(chatResp.Choices) > 0 {
+				content := strings.TrimSpace(chatResp.Choices[0].Message.Content)
+				if content != "" {
+					return cleanAltTagText(content), nil
+				}
+			}
+		}
+	}
+
+	// 2. Fallback: try llama.cpp native /completion with image_data
+	type imageDataItem struct {
+		Data string `json:"data"`
+		ID   int    `json:"id"`
+	}
+	type nativeVisionBody struct {
+		Prompt      string          `json:"prompt"`
+		ImageData   []imageDataItem `json:"image_data"`
+		Temperature float32         `json:"temperature"`
+		NPredict    int             `json:"n_predict"`
+	}
+
+	nativeBody := nativeVisionBody{
+		Prompt: fmt.Sprintf("USER:[img-10]%s\nASSISTANT:", req.Prompt),
+		ImageData: []imageDataItem{
+			{Data: req.ImageBase64, ID: 10},
+		},
+		Temperature: req.Temperature,
+		NPredict:    req.MaxTokens,
+	}
+
+	nativeJSON, err := json.Marshal(nativeBody)
+	if err != nil {
+		return "", fmt.Errorf("failed to marshal native vision request: %w", err)
+	}
+
+	endpoint := strings.TrimRight(c.cfg.BaseURL, "/") + "/completion"
+	respBytes, err := c.requestWithRetry(ctx, http.MethodPost, endpoint, nativeJSON, timeout)
+	if err != nil {
+		return "", fmt.Errorf("vision completion request failed: %w", err)
+	}
+
+	var compResp models.CompletionResponse
+	if err := json.Unmarshal(respBytes, &compResp); err != nil {
+		return "", fmt.Errorf("failed to parse vision completion response: %w", err)
+	}
+
+	return cleanAltTagText(compResp.Text), nil
+}
+
+// cleanAltTagText cleans up LLM output for an alt tag
+func cleanAltTagText(text string) string {
+	s := strings.TrimSpace(text)
+	// Strip thinking tags if any (<think>...</think>)
+	if idx := strings.Index(s, "</think>"); idx != -1 {
+		s = strings.TrimSpace(s[idx+len("</think>"):])
+	}
+	// Strip quotes
+	s = strings.Trim(s, "\"`'")
+	// Strip common prefixes
+	prefixes := []string{
+		"Alt text:", "Alt tag:", "Alt:", "Description:",
+		"This image shows", "This image features", "An image of", "A photo of",
+		"This is an image of", "This graphic shows",
+	}
+	for _, p := range prefixes {
+		if strings.HasPrefix(strings.ToLower(s), strings.ToLower(p)) {
+			s = strings.TrimSpace(s[len(p):])
+			s = strings.Trim(s, ":- ")
+			break
+		}
+	}
+	// Capitalize first letter
+	if len(s) > 0 {
+		runes := []rune(s)
+		runes[0] = []rune(strings.ToUpper(string(runes[0])))[0]
+		s = string(runes)
+	}
+	return strings.TrimSpace(s)
 }
 
 // Rerank calls the /v1/rerank (or /rerank) endpoint using a cross-encoder model.

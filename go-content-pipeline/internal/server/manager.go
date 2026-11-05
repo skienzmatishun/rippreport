@@ -175,6 +175,22 @@ func (sm *ServerManager) ResolveModelPath(modelPathOrName string) (string, error
 	return "", fmt.Errorf("model %q not found (checked %s and %s)", modelPathOrName, sm.cfg.ModelsDir, modelPathOrName)
 }
 
+// FindMMProj searches for a companion mmproj file in the same directory as the model.
+func (sm *ServerManager) FindMMProj(modelPath string) string {
+	dir := filepath.Dir(modelPath)
+	entries, err := os.ReadDir(dir)
+	if err != nil {
+		return ""
+	}
+	for _, entry := range entries {
+		name := strings.ToLower(entry.Name())
+		if !entry.IsDir() && strings.Contains(name, "mmproj") && strings.HasSuffix(name, ".gguf") {
+			return filepath.Join(dir, entry.Name())
+		}
+	}
+	return ""
+}
+
 // EnsureModel ensures that llama-server is running with the specified model and mode.
 // If the server is already running with this model and mode, it returns immediately.
 // Otherwise, it terminates the existing server and launches a new one with the target model.
@@ -221,6 +237,9 @@ func (sm *ServerManager) EnsureModel(ctx context.Context, modelPathOrName string
 		args = append(args, "--reranking")
 	case ModeCompletion:
 		args = append(args, "--jinja")
+		if mmprojPath := sm.FindMMProj(resolvedPath); mmprojPath != "" {
+			args = append(args, "--mmproj", mmprojPath)
+		}
 	}
 
 	// Add speculative decoding options if configured

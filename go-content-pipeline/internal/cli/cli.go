@@ -10,16 +10,21 @@ import (
 	"path/filepath"
 	"strings"
 	"syscall"
+	"time"
 
 	"github.com/rippreport/go-content-pipeline/internal/cache"
 	"github.com/rippreport/go-content-pipeline/internal/client"
 	"github.com/rippreport/go-content-pipeline/internal/config"
+	"github.com/rippreport/go-content-pipeline/internal/email"
 	"github.com/rippreport/go-content-pipeline/internal/errors"
+	"github.com/rippreport/go-content-pipeline/internal/models"
+	"github.com/rippreport/go-content-pipeline/internal/newsletter"
 	"github.com/rippreport/go-content-pipeline/internal/orchestrator"
 	"github.com/rippreport/go-content-pipeline/internal/processor"
 	"github.com/rippreport/go-content-pipeline/internal/refiner"
 	"github.com/rippreport/go-content-pipeline/internal/server"
 	"github.com/rippreport/go-content-pipeline/internal/transcript"
+	"github.com/rippreport/go-content-pipeline/internal/youtube"
 )
 
 // App manages the CLI subcommands and orchestrator lifecycle.
@@ -68,6 +73,8 @@ func (a *App) Run(args []string) int {
 		return a.runGenerateRelated(ctx, cmdArgs)
 	case "generate-hooks":
 		return a.runGenerateHooks(ctx, cmdArgs)
+	case "generate-frontpage", "frontpage-hooks":
+		return a.runGenerateFrontpage(ctx, cmdArgs)
 	case "refine-hooks":
 		return a.runRefineHooks(ctx, cmdArgs)
 	case "fetch-transcript":
@@ -80,6 +87,16 @@ func (a *App) Run(args []string) int {
 		return a.runApplyStaged(ctx, cmdArgs)
 	case "clear-staged":
 		return a.runClearStaged(ctx, cmdArgs)
+	case "send-newsletter":
+		return a.runSendNewsletter(ctx, cmdArgs)
+	case "social-post":
+		return a.runSocialPost(ctx, cmdArgs)
+	case "new-post":
+		return a.runNewPost(ctx, cmdArgs)
+	case "fetch-email", "email-post":
+		return a.runNewPost(ctx, append([]string{"--email"}, cmdArgs...))
+	case "generate-alt", "alt-post":
+		return a.runGenerateAlt(ctx, cmdArgs)
 	default:
 		fmt.Fprintf(a.stderr, "Unknown command: %s\n\n", cmd)
 		a.printUsage()
@@ -93,12 +110,18 @@ func (a *App) printUsage() {
 	fmt.Fprintln(a.stdout, "\nCommands:")
 	fmt.Fprintln(a.stdout, "  generate-related     Generate related article recommendations")
 	fmt.Fprintln(a.stdout, "  generate-hooks       Generate contextual sidebar hooks")
+	fmt.Fprintln(a.stdout, "  generate-frontpage   Generate frontpage narrative bridges connecting recent posts")
 	fmt.Fprintln(a.stdout, "  refine-hooks         Refine existing hooks using Gemini API")
 	fmt.Fprintln(a.stdout, "  fetch-transcript     Download YouTube transcript for podcast posts")
 	fmt.Fprintln(a.stdout, "  summarize-transcript Generate factual summary from transcript")
 	fmt.Fprintln(a.stdout, "  pipeline             Run complete pipeline (related + hooks)")
 	fmt.Fprintln(a.stdout, "  apply-staged         Apply staged rankings or hooks to posts (use --hooks flag)")
-	fmt.Fprintln(a.stdout, "  clear-staged      Clear staged ranking or hook files (use --hooks flag)")
+	fmt.Fprintln(a.stdout, "  clear-staged         Clear staged ranking or hook files (use --hooks flag)")
+	fmt.Fprintln(a.stdout, "  send-newsletter      Send newsletter via Brevo for a specific post")
+	fmt.Fprintln(a.stdout, "  social-post          Print post summary and URL for social media")
+	fmt.Fprintln(a.stdout, "  new-post             Create a new post with folder structure and front matter (use --email for Apple Mail)")
+	fmt.Fprintln(a.stdout, "  email-post           Create a new post by retrieving the latest email from Apple Mail")
+	fmt.Fprintln(a.stdout, "  generate-alt         Generate alt tag for thumbnail using local vision LLM and update front matter")
 	fmt.Fprintln(a.stdout, "\nRun 'pipeline <command> --help' for options on a specific command.")
 }
 
@@ -180,6 +203,9 @@ func (a *App) runGenerateRelated(ctx context.Context, args []string) int {
 	managed := fs.Bool("managed", false, "Auto-manage llama-server process lifecycle")
 
 	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
 		return 1
 	}
 
@@ -241,6 +267,9 @@ func (a *App) runGenerateHooks(ctx context.Context, args []string) int {
 	managed := fs.Bool("managed", false, "Auto-manage llama-server process lifecycle")
 
 	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
 		return 1
 	}
 
@@ -270,6 +299,49 @@ func (a *App) runGenerateHooks(ctx context.Context, args []string) int {
 	return 0
 }
 
+func (a *App) runGenerateFrontpage(ctx context.Context, args []string) int {
+	fs := flag.NewFlagSet("generate-frontpage", flag.ContinueOnError)
+	fs.SetOutput(a.stdout)
+
+	configPath := fs.String("config", "config.yaml", "Path to configuration file")
+	limit := fs.Int("limit", 20, "Number of recent posts to include in the frontpage narrative chain")
+	outputPath := fs.String("output", "data/frontpage-hooks.yaml", "Path to output YAML file")
+	useCompressed := fs.Bool("use-compressed", false, "Use compressed article summaries for bridges")
+	dryRun := fs.Bool("dry-run", false, "Simulate operations without writing files")
+	model := fs.String("model", "", "Model to use for bridge generation (overrides config)")
+	managed := fs.Bool("managed", false, "Auto-manage llama-server process lifecycle")
+
+	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
+		return 1
+	}
+
+	orch, err := a.buildOrchestrator(*configPath, *managed)
+	if err != nil {
+		fmt.Fprintf(a.stderr, "Error initializing pipeline: %v\n", err)
+		return 1
+	}
+	defer orch.Close()
+
+	res, err := orch.GenerateFrontpageBridges(ctx, processor.FrontpageOptions{
+		Limit:         *limit,
+		OutputPath:    *outputPath,
+		UseCompressed: *useCompressed,
+		DryRun:        *dryRun,
+		Model:         *model,
+	})
+	if err != nil {
+		fmt.Fprintf(a.stderr, "Error generating frontpage bridges: %v\n", err)
+		return 1
+	}
+
+	fmt.Fprintf(a.stdout, "\nFrontpage bridges complete: %d generated (%d failed) in %v -> %s\n",
+		res.BridgesGenerated, res.BridgesFailed, res.Duration, res.OutputPath)
+	return 0
+}
+
 func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 	fs := flag.NewFlagSet("refine-hooks", flag.ContinueOnError)
 	fs.SetOutput(a.stdout)
@@ -282,6 +354,9 @@ func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 	batch := fs.Int("batch", 0, "Batch size for cross-post refinement (0 = per-post)")
 
 	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
 		return 1
 	}
 
@@ -336,6 +411,9 @@ func (a *App) runFetchTranscript(ctx context.Context, args []string) int {
 	language := fs.String("language", "en", "Transcript language code")
 
 	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
 		return 1
 	}
 
@@ -419,6 +497,9 @@ func (a *App) runSummarizeTranscript(ctx context.Context, args []string) int {
 	managed := fs.Bool("managed", false, "Auto-manage llama-server process lifecycle")
 
 	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
 		return 1
 	}
 
@@ -543,6 +624,9 @@ func (a *App) runPipeline(ctx context.Context, args []string) int {
 	managed := fs.Bool("managed", false, "Auto-manage llama-server process lifecycle")
 
 	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
 		return 1
 	}
 
@@ -594,6 +678,9 @@ func (a *App) runApplyStaged(ctx context.Context, args []string) int {
 	hooks := fs.Bool("hooks", false, "Apply staged hooks instead of rankings")
 
 	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
 		return 1
 	}
 
@@ -631,6 +718,9 @@ func (a *App) runClearStaged(ctx context.Context, args []string) int {
 	hooks := fs.Bool("hooks", false, "Clear staged hooks instead of rankings")
 
 	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
 		return 1
 	}
 
@@ -657,4 +747,690 @@ func (a *App) runClearStaged(ctx context.Context, args []string) int {
 	}
 
 	return 0
+}
+
+func (a *App) runSendNewsletter(ctx context.Context, args []string) int {
+	fs := flag.NewFlagSet("send-newsletter", flag.ContinueOnError)
+	fs.SetOutput(a.stdout)
+
+	configPath := fs.String("config", "config.yaml", "Path to configuration file")
+	post := fs.String("post", "", "Post slug to send newsletter for (required)")
+	recipients := fs.String("recipients", "", "Comma-separated list of recipient email addresses")
+	recipientsFile := fs.String("recipients-file", "", "Path to file containing recipient emails (one per line)")
+	lists := fs.String("lists", "", "Comma-separated list of Brevo contact list IDs (e.g., '2,5')")
+	testMode := fs.Bool("test", false, "Test mode - only print what would be sent without actually sending")
+	fromEmail := fs.String("from-email", "news@rippreport.com", "From email address")
+	fromName := fs.String("from-name", "Ripp Report", "From name")
+	template := fs.String("template", "nextone", "Brevo template name")
+
+	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
+		return 1
+	}
+
+	if *post == "" {
+		fmt.Fprintf(a.stderr, "Error: --post flag is required\n")
+		fmt.Fprintf(a.stderr, "Usage: pipeline send-newsletter --post october-surprise --recipients email@example.com\n")
+		return 1
+	}
+
+	// Get Brevo API key from environment (not required in test mode)
+	brevoAPIKey := os.Getenv("BREVO_API_KEY")
+	if brevoAPIKey == "" && !*testMode {
+		fmt.Fprintf(a.stderr, "Error: BREVO_API_KEY environment variable is not set\n")
+		fmt.Fprintf(a.stderr, "Tip: Use --test flag to test without actually sending\n")
+		return 1
+	}
+
+	// Load config to get posts directory
+	var cfg *config.Config
+	if *configPath != "" {
+		if _, statErr := os.Stat(*configPath); statErr == nil {
+			loadedCfg, err := config.LoadConfig(*configPath)
+			if err == nil {
+				cfg = loadedCfg
+			}
+		}
+	}
+	if cfg == nil {
+		cfg = config.DefaultConfig()
+		cfg.Processing.PostsDirectory = "/Volumes/1tb/rippreport/content/p"
+	}
+
+	// Parse recipients
+	var recipientList []string
+	if *recipients != "" {
+		recipientList = parseSlugs(*recipients) // Reuse parseSlugs for comma-separated parsing
+	}
+	if *recipientsFile != "" {
+		fileRecipients, err := readLinesFromFile(*recipientsFile)
+		if err != nil {
+			fmt.Fprintf(a.stderr, "Error reading recipients file: %v\n", err)
+			return 1
+		}
+		recipientList = append(recipientList, fileRecipients...)
+	}
+
+	if len(recipientList) == 0 {
+		fmt.Fprintf(a.stderr, "Error: no recipients specified (use --recipients or --recipients-file)\n")
+		return 1
+	}
+
+	// Parse list IDs if provided
+	var listIDs []int
+	if *lists != "" {
+		listStrs := parseSlugs(*lists) // Reuse parseSlugs for comma-separated parsing
+		for _, listStr := range listStrs {
+			var listID int
+			if _, err := fmt.Sscanf(listStr, "%d", &listID); err == nil {
+				listIDs = append(listIDs, listID)
+			} else {
+				fmt.Fprintf(a.stderr, "Warning: invalid list ID '%s', skipping\n", listStr)
+			}
+		}
+	}
+
+	if len(recipientList) == 0 && len(listIDs) == 0 {
+		fmt.Fprintf(a.stderr, "Error: no recipients or lists specified (use --recipients, --recipients-file, or --lists)\n")
+		return 1
+	}
+
+	// Create newsletter client
+	nlClient := newsletter.NewBrevoClient(newsletter.BrevoConfig{
+		APIKey:         brevoAPIKey,
+		FromEmail:      *fromEmail,
+		FromName:       *fromName,
+		TemplateName:   *template,
+		PostsDirectory: cfg.Processing.PostsDirectory,
+		TestMode:       *testMode,
+	})
+
+	// Send newsletter
+	fmt.Fprintf(a.stdout, "Preparing newsletter for post: %s\n", *post)
+	if len(recipientList) > 0 {
+		fmt.Fprintf(a.stdout, "Recipients: %d\n", len(recipientList))
+	}
+	if len(listIDs) > 0 {
+		fmt.Fprintf(a.stdout, "Lists: %v\n", listIDs)
+	}
+	if *testMode {
+		fmt.Fprintf(a.stdout, "TEST MODE: Newsletter will not actually be sent\n")
+	}
+	fmt.Fprintf(a.stdout, "\n")
+
+	result, err := nlClient.SendNewsletter(ctx, newsletter.NewsletterRequest{
+		PostSlug:   *post,
+		Recipients: recipientList,
+		ListIDs:    listIDs,
+	})
+	if err != nil {
+		fmt.Fprintf(a.stderr, "Error sending newsletter: %v\n", err)
+		return 1
+	}
+
+	if result.Success {
+		if *testMode {
+			fmt.Fprintf(a.stdout, "✓ Test successful! Newsletter is ready to send.\n")
+		} else {
+			fmt.Fprintf(a.stdout, "✓ Newsletter sent successfully!\n")
+			fmt.Fprintf(a.stdout, "  Message ID: %s\n", result.MessageID)
+		}
+		fmt.Fprintf(a.stdout, "  Recipients: %d\n", result.Recipients)
+		fmt.Fprintf(a.stdout, "  Sent at: %s\n", result.SentAt.Format(time.RFC3339))
+		return 0
+	}
+
+	fmt.Fprintf(a.stderr, "✗ Newsletter send failed: %v\n", result.Error)
+	return 1
+}
+
+// readLinesFromFile reads a file and returns non-empty lines
+func readLinesFromFile(path string) ([]string, error) {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return nil, err
+	}
+
+	lines := strings.Split(string(data), "\n")
+	var result []string
+	for _, line := range lines {
+		trimmed := strings.TrimSpace(line)
+		if trimmed != "" && !strings.HasPrefix(trimmed, "#") { // Skip empty lines and comments
+			result = append(result, trimmed)
+		}
+	}
+	return result, nil
+}
+
+func (a *App) runSocialPost(ctx context.Context, args []string) int {
+	fs := flag.NewFlagSet("social-post", flag.ContinueOnError)
+	fs.SetOutput(a.stdout)
+
+	configPath := fs.String("config", "config.yaml", "Path to configuration file")
+	post := fs.String("post", "", "Post slug to generate social media text for (required)")
+	format := fs.String("format", "default", "Output format: default, twitter, facebook, linkedin")
+	maxLength := fs.Int("max-length", 0, "Maximum length for summary (0 = no limit)")
+
+	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
+		return 1
+	}
+
+	if *post == "" {
+		fmt.Fprintf(a.stderr, "Error: --post flag is required\n")
+		fmt.Fprintf(a.stderr, "Usage: pipeline social-post --post october-surprise\n")
+		return 1
+	}
+
+	// Load config to get posts directory
+	var cfg *config.Config
+	if *configPath != "" {
+		if _, statErr := os.Stat(*configPath); statErr == nil {
+			loadedCfg, err := config.LoadConfig(*configPath)
+			if err == nil {
+				cfg = loadedCfg
+			}
+		}
+	}
+	if cfg == nil {
+		cfg = config.DefaultConfig()
+		cfg.Processing.PostsDirectory = "/Volumes/1tb/rippreport/content/p"
+	}
+
+	// Read the post
+	postManager := processor.NewPostManager(cfg.Processing.PostsDirectory)
+	postPath := models.PostPath(filepath.Join(cfg.Processing.PostsDirectory, *post, "index.md"))
+	postData, err := postManager.ReadPost(postPath)
+	if err != nil {
+		fmt.Fprintf(a.stderr, "Error reading post: %v\n", err)
+		return 1
+	}
+
+	// Build the post URL
+	postURL := fmt.Sprintf("https://rippreport.com/p/%s/", *post)
+
+	// Get the description/summary
+	summary := ""
+	if postData.FrontMatter != nil && postData.FrontMatter.Description != "" {
+		summary = postData.FrontMatter.Description
+	} else if len(postData.Body) > 0 {
+		// Truncate body if no description
+		summary = postData.Body
+		if len(summary) > 300 {
+			summary = summary[:297] + "..."
+		}
+	}
+
+	// Apply max length if specified
+	if *maxLength > 0 && len(summary) > *maxLength {
+		summary = summary[:*maxLength-3] + "..."
+	}
+
+	// Format output based on platform
+	switch strings.ToLower(*format) {
+	case "twitter", "x":
+		// Twitter/X format - concise with link
+		fmt.Fprintf(a.stdout, "%s\n\n%s\n", summary, postURL)
+	case "facebook", "fb":
+		// Facebook format - more descriptive
+		fmt.Fprintf(a.stdout, "%s\n\n%s\n", summary, postURL)
+	case "linkedin":
+		// LinkedIn format - professional
+		fmt.Fprintf(a.stdout, "%s\n\n%s\n", summary, postURL)
+	default:
+		// Default format - clean and simple
+		fmt.Fprintf(a.stdout, "%s\n\n%s\n", summary, postURL)
+	}
+
+	return 0
+}
+
+func (a *App) runNewPost(ctx context.Context, args []string) int {
+	fs := flag.NewFlagSet("new-post", flag.ContinueOnError)
+	fs.SetOutput(a.stdout)
+
+	configPath := fs.String("config", "config.yaml", "Path to configuration file")
+	title := fs.String("title", "", "Post title (required)")
+	slug := fs.String("slug", "", "Post slug (auto-generated from title if not provided)")
+	fromMail := fs.Bool("email", false, "Retrieve latest post from local Apple Mail")
+	fs.BoolVar(fromMail, "mail", false, "Alias for --email")
+	fromEmail := fs.String("from-email", "fpripp1@gmail.com", "Sender email address to search for in Apple Mail")
+	emailDays := fs.Int("email-days", 2, "Number of days back to search in Apple Mail (default 2)")
+	runPipeline := fs.Bool("pipeline", false, "Run recommendation pipeline (generate-related, generate-hooks, refine-hooks) on the new post")
+	skipRefine := fs.Bool("skip-refine", false, "Skip hook refinement with Gemini when --pipeline is used")
+	podcast := fs.Bool("podcast", false, "Create as podcast post (includes youtube field)")
+	youtubeURL := fs.String("youtube", "", "YouTube video URL or ID (fetches summary, thumbnail, and embeds shortcodes)")
+	categories := fs.String("categories", "", "Comma-separated list of categories")
+	tags := fs.String("tags", "", "Comma-separated list of tags")
+	description := fs.String("description", "", "Post description/summary")
+
+	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
+		return 1
+	}
+
+	if *title == "" {
+		fmt.Fprintf(a.stderr, "Error: --title flag is required\n")
+		fmt.Fprintf(a.stderr, "Usage: pipeline new-post --title \"My Post Title\"\n")
+		return 1
+	}
+
+	// Generate slug from title if not provided (keeps folder naming accurate)
+	postSlug := *slug
+	if postSlug == "" {
+		postSlug = generateSlug(*title)
+	}
+
+	isPodcast := *podcast
+	var youtubeID string
+	bodyContent := "Write your post content here.\n"
+
+	// If email flag is enabled, fetch latest email from Apple Mail
+	if *fromMail {
+		fmt.Fprintf(a.stdout, "Searching Apple Mail for latest post matching %q from %s (last %d days)...\n", *title, *fromEmail, *emailDays)
+		opts := email.FetchOptions{
+			Title:      *title,
+			FromEmail:  *fromEmail,
+			MaxAgeDays: *emailDays,
+		}
+		emailRes, err := email.FetchFromAppleMail(ctx, opts)
+		if err != nil {
+			fmt.Fprintf(a.stderr, "Error fetching from Apple Mail: %v\n", err)
+			return 1
+		}
+
+		fmt.Fprintf(a.stdout, "✓ Found email: %s\n", emailRes.Subject)
+
+		// If title flag was provided as a slug, prefer the email subject for display
+		if strings.Contains(*title, "-") && emailRes.Subject != "" {
+			*title = emailRes.Subject
+		} else if strings.Contains(*title, "-") {
+			*title = email.SlugToSearchQuery(postSlug)
+		}
+
+		// Body content with {{< aicomments >}} at the end
+		bodyContent = fmt.Sprintf("%s\n\n{{< aicomments >}}\n", emailRes.Body)
+
+		if *description == "" && emailRes.Body != "" {
+			lines := strings.Split(emailRes.Body, "\n")
+			for _, l := range lines {
+				trimmed := strings.TrimSpace(l)
+				if trimmed != "" && !strings.HasPrefix(trimmed, "{{<") {
+					*description = trimmed
+					if len(*description) > 200 {
+						*description = (*description)[:197] + "..."
+					}
+					break
+				}
+			}
+		}
+	}
+
+	// If youtube URL or ID is provided, retrieve video info and thumbnail
+	if *youtubeURL != "" {
+		isPodcast = true
+		fmt.Fprintf(a.stdout, "Fetching YouTube video info for: %s...\n", *youtubeURL)
+		info, err := youtube.FetchVideoInfo(*youtubeURL)
+		if err != nil {
+			fmt.Fprintf(a.stderr, "Warning: failed to fetch YouTube info via yt-dlp: %v\n", err)
+			// Try extracting video ID as fallback
+			if extractedID, extractErr := youtube.ExtractVideoID(*youtubeURL); extractErr == nil {
+				youtubeID = extractedID
+			}
+		} else {
+			youtubeID = info.VideoID
+			summary := strings.TrimSpace(info.Description)
+			if summary != "" {
+				bodyContent = fmt.Sprintf("%s\n\n{{< youtubecomments >}}\n{{< aicomments >}}\n", summary)
+				if *description == "" {
+					lines := strings.Split(summary, "\n")
+					for _, line := range lines {
+						trimmed := strings.TrimSpace(line)
+						if trimmed != "" {
+							*description = trimmed
+							if len(*description) > 200 {
+								*description = (*description)[:197] + "..."
+							}
+							break
+						}
+					}
+				}
+			} else {
+				bodyContent = "{{< youtubecomments >}}\n{{< aicomments >}}\n"
+			}
+		}
+	} else if isPodcast {
+		bodyContent = "Write your post content here.\n\n{{< youtubecomments >}}\n{{< aicomments >}}\n"
+	}
+
+	// Load config to get posts directory
+	var cfg *config.Config
+	if *configPath != "" {
+		if _, statErr := os.Stat(*configPath); statErr == nil {
+			loadedCfg, err := config.LoadConfig(*configPath)
+			if err == nil {
+				cfg = loadedCfg
+			}
+		}
+	}
+	if cfg == nil {
+		cfg = config.DefaultConfig()
+		cfg.Processing.PostsDirectory = "/Volumes/1tb/rippreport/content/p"
+	}
+
+
+	// Create post directory
+	postDir := filepath.Join(cfg.Processing.PostsDirectory, postSlug)
+	if _, err := os.Stat(postDir); err == nil {
+		fmt.Fprintf(a.stderr, "Error: post directory already exists: %s\n", postDir)
+		return 1
+	}
+
+	if err := os.MkdirAll(postDir, 0755); err != nil {
+		fmt.Fprintf(a.stderr, "Error creating post directory: %v\n", err)
+		return 1
+	}
+
+	// Download thumbnail if YouTube video ID is available
+	var downloadedThumbPath string
+	if youtubeID != "" {
+		contentImgDir := filepath.Join(filepath.Dir(cfg.Processing.PostsDirectory), "img")
+		thumbFilename := fmt.Sprintf("%s.png", postSlug)
+		thumbPath := filepath.Join(contentImgDir, thumbFilename)
+
+		fmt.Fprintf(a.stdout, "Downloading YouTube thumbnail to: %s...\n", thumbPath)
+		if err := youtube.DownloadThumbnail(youtubeID, thumbPath); err != nil {
+			fmt.Fprintf(a.stderr, "Warning: could not download thumbnail: %v\n", err)
+		} else {
+			downloadedThumbPath = thumbPath
+			fmt.Fprintf(a.stdout, "✓ Saved thumbnail: %s\n", thumbPath)
+
+			// Copy to assets/img if directory exists
+			repoRoot := filepath.Dir(filepath.Dir(cfg.Processing.PostsDirectory))
+			assetsImgDir := filepath.Join(repoRoot, "assets", "img")
+			if stat, err := os.Stat(assetsImgDir); err == nil && stat.IsDir() {
+				_ = copyFile(thumbPath, filepath.Join(assetsImgDir, thumbFilename))
+			}
+
+			// Also copy into the post directory
+			_ = copyFile(thumbPath, filepath.Join(postDir, thumbFilename))
+		}
+	}
+
+	// Parse categories and tags
+	var categoryList []string
+	if *categories != "" {
+		categoryList = parseSlugs(*categories)
+	}
+
+	var tagList []string
+	if *tags != "" {
+		tagList = parseSlugs(*tags)
+	}
+
+	// Create front matter
+	frontMatter := buildFrontMatter(*title, postSlug, *description, youtubeID, categoryList, tagList, isPodcast, bodyContent)
+
+	// Create index.md
+	indexPath := filepath.Join(postDir, "index.md")
+	if err := os.WriteFile(indexPath, []byte(frontMatter), 0644); err != nil {
+		fmt.Fprintf(a.stderr, "Error creating index.md: %v\n", err)
+		return 1
+	}
+
+	fmt.Fprintf(a.stdout, "✓ Created new post: %s\n", postSlug)
+	fmt.Fprintf(a.stdout, "  Directory: %s\n", postDir)
+	fmt.Fprintf(a.stdout, "  Index: %s\n", indexPath)
+	if downloadedThumbPath != "" {
+		fmt.Fprintf(a.stdout, "  Thumbnail: %s (downloaded)\n", downloadedThumbPath)
+	} else {
+		fmt.Fprintf(a.stdout, "  Thumbnail: img/%s.png (you need to create this)\n", postSlug)
+	}
+	if isPodcast {
+		if youtubeID != "" {
+			fmt.Fprintf(a.stdout, "  Type: Podcast (YouTube ID: %s)\n", youtubeID)
+		} else {
+			fmt.Fprintf(a.stdout, "  Type: Podcast (remember to add YouTube ID)\n")
+		}
+	}
+	fmt.Fprintf(a.stdout, "\nNext steps:\n")
+	fmt.Fprintf(a.stdout, "  1. Review your content in: %s\n", indexPath)
+	if downloadedThumbPath == "" {
+		fmt.Fprintf(a.stdout, "  2. Create thumbnail image: /Volumes/1tb/rippreport/content/img/%s.png\n", postSlug)
+	}
+	if isPodcast && youtubeID == "" {
+		fmt.Fprintf(a.stdout, "  3. Add YouTube video ID to the 'youtube:' field\n")
+	}
+
+	// If --pipeline flag is set, run the full pipeline sequence on the new post
+	if *runPipeline {
+		fmt.Fprintf(a.stdout, "\n========================================\n")
+		fmt.Fprintf(a.stdout, "Running Recommendation Pipeline for: %s\n", postSlug)
+		fmt.Fprintf(a.stdout, "========================================\n\n")
+
+		// 1. Generate related articles
+		fmt.Fprintf(a.stdout, "--> Step 1/3: Generating related articles for %s...\n", postSlug)
+		relatedArgs := []string{"--posts", postSlug}
+		if *configPath != "" {
+			relatedArgs = append(relatedArgs, "--config", *configPath)
+		}
+		if code := a.runGenerateRelated(ctx, relatedArgs); code != 0 {
+			fmt.Fprintf(a.stderr, "Warning: generate-related completed with exit code %d\n", code)
+		}
+
+		// 2. Generate hooks
+		fmt.Fprintf(a.stdout, "\n--> Step 2/3: Generating contextual hooks for %s...\n", postSlug)
+		hookArgs := []string{"--posts", postSlug}
+		if *configPath != "" {
+			hookArgs = append(hookArgs, "--config", *configPath)
+		}
+		if code := a.runGenerateHooks(ctx, hookArgs); code != 0 {
+			fmt.Fprintf(a.stderr, "Warning: generate-hooks completed with exit code %d\n", code)
+		}
+
+		// 3. Refine hooks with Gemini (unless skipped or no API key)
+		if !*skipRefine {
+			if os.Getenv("GEMINI_API_KEY") != "" {
+				fmt.Fprintf(a.stdout, "\n--> Step 3/4: Refining hooks with Gemini for %s...\n", postSlug)
+				refineArgs := []string{"--posts", postSlug}
+				if *configPath != "" {
+					refineArgs = append(refineArgs, "--config", *configPath)
+				}
+				if code := a.runRefineHooks(ctx, refineArgs); code != 0 {
+					fmt.Fprintf(a.stderr, "Warning: refine-hooks completed with exit code %d\n", code)
+				}
+			} else {
+				fmt.Fprintf(a.stdout, "\n--> Step 3/4: Skipping hook refinement (GEMINI_API_KEY not set)\n")
+			}
+		}
+
+		// 4. Print Facebook social media post
+		fmt.Fprintf(a.stdout, "\n========================================\n")
+		fmt.Fprintf(a.stdout, "--> Step 4/4: Facebook Social Media Post:\n")
+		fmt.Fprintf(a.stdout, "========================================\n\n")
+		_ = a.runSocialPost(ctx, []string{"--post", postSlug, "--format", "facebook"})
+		fmt.Fprintf(a.stdout, "\n========================================\n")
+
+		fmt.Fprintf(a.stdout, "\n✓ Pipeline sequence completed for %s!\n", postSlug)
+	}
+
+	return 0
+}
+
+func (a *App) runGenerateAlt(ctx context.Context, args []string) int {
+	fs := flag.NewFlagSet("generate-alt", flag.ContinueOnError)
+	fs.SetOutput(a.stdout)
+
+	configPath := fs.String("config", "config.yaml", "Path to configuration file")
+	post := fs.String("post", "", "Post slug to generate alt tag for (required)")
+	visionModel := fs.String("vision-model", "", "Local visual-capable model path or name (required or set in config)")
+	refillCache := fs.Bool("refill-cache", true, "Clear and refill embedding cache after updating alt tag")
+	fs.BoolVar(refillCache, "refresh-cache", true, "Alias for --refill-cache")
+	managed := fs.Bool("managed", false, "Auto-manage llama-server process lifecycle")
+	dryRun := fs.Bool("dry-run", false, "Simulate without modifying post front matter")
+
+	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
+		return 1
+	}
+
+	if *post == "" {
+		fmt.Fprintf(a.stderr, "Error: --post flag is required\n")
+		fmt.Fprintf(a.stderr, "Usage: pipeline generate-alt --post october-surprise --vision-model <model>\n")
+		return 1
+	}
+
+	orch, err := a.buildOrchestrator(*configPath, *managed)
+	if err != nil {
+		fmt.Fprintf(a.stderr, "Error initializing orchestrator: %v\n", err)
+		return 1
+	}
+	defer orch.Close()
+
+	res, err := orch.GenerateAltTag(ctx, orchestrator.AltTagOptions{
+		PostSlug:    *post,
+		VisionModel: *visionModel,
+		DryRun:      *dryRun,
+	})
+	if err != nil {
+		fmt.Fprintf(a.stderr, "Error generating alt tag: %v\n", err)
+		return 1
+	}
+
+	fmt.Fprintf(a.stdout, "\n✓ Successfully generated alt tag for %s in %v:\n", res.PostSlug, res.Duration)
+	fmt.Fprintf(a.stdout, "  Thumbnail: %s\n", res.ThumbnailPath)
+	fmt.Fprintf(a.stdout, "  Alt tag:   %s\n", res.AltTag)
+
+	if *refillCache && !*dryRun {
+		orch.Close()
+
+		// 1. Clear the embeddings cache file
+		cacheFile := ".embedding_cache.json"
+		if *configPath != "" {
+			if cfg, err := config.LoadConfig(*configPath); err == nil && cfg.Storage.CacheFile != "" {
+				cacheFile = cfg.Storage.CacheFile
+			}
+		}
+		fmt.Fprintf(a.stdout, "\nClearing embeddings cache (%s)...\n", cacheFile)
+		_ = os.Remove(cacheFile)
+
+		// 2. Refill the cache by running generate-related with --dry-run --vector-only
+		fmt.Fprintf(a.stdout, "Refilling embeddings cache via generate-related --dry-run --vector-only --posts %s...\n\n", *post)
+		relatedArgs := []string{"--dry-run", "--vector-only", "--posts", *post}
+		if *configPath != "" {
+			relatedArgs = append(relatedArgs, "--config", *configPath)
+		}
+		if *managed {
+			relatedArgs = append(relatedArgs, "--managed")
+		}
+		if code := a.runGenerateRelated(ctx, relatedArgs); code != 0 {
+			fmt.Fprintf(a.stderr, "Warning: generate-related exited with code %d\n", code)
+		} else {
+			fmt.Fprintf(a.stdout, "\n✓ Embeddings cache cleared and refilled for next post!\n")
+		}
+	}
+
+	return 0
+}
+
+// copyFile copies a single file from src to dst
+func copyFile(src, dst string) error {
+	in, err := os.Open(src)
+	if err != nil {
+		return err
+	}
+	defer in.Close()
+
+	if err := os.MkdirAll(filepath.Dir(dst), 0755); err != nil {
+		return err
+	}
+
+	out, err := os.Create(dst)
+	if err != nil {
+		return err
+	}
+	defer out.Close()
+
+	_, err = io.Copy(out, in)
+	return err
+}
+
+// generateSlug converts a title to a URL-friendly slug
+func generateSlug(title string) string {
+	// Convert to lowercase
+	slug := strings.ToLower(title)
+
+	// Replace spaces and special characters with hyphens
+	slug = strings.Map(func(r rune) rune {
+		if (r >= 'a' && r <= 'z') || (r >= '0' && r <= '9') {
+			return r
+		}
+		return '-'
+	}, slug)
+
+	// Remove multiple consecutive hyphens
+	for strings.Contains(slug, "--") {
+		slug = strings.ReplaceAll(slug, "--", "-")
+	}
+
+	// Trim hyphens from start and end
+	slug = strings.Trim(slug, "-")
+
+	return slug
+}
+
+// buildFrontMatter creates the YAML front matter and content for a new post
+func buildFrontMatter(title, slug, description, youtubeID string, categories, tags []string, podcast bool, bodyContent string) string {
+	var builder strings.Builder
+
+	builder.WriteString("---\n")
+	builder.WriteString(fmt.Sprintf("title: %s\n", title))
+	builder.WriteString(fmt.Sprintf("date: %s\n", time.Now().Format("2006-01-02T15:04:05Z07:00")))
+
+	if description != "" {
+		builder.WriteString(fmt.Sprintf("description: %s\n", description))
+	}
+
+	if len(categories) > 0 {
+		builder.WriteString("categories:\n")
+		for _, cat := range categories {
+			builder.WriteString(fmt.Sprintf("  - %s\n", cat))
+		}
+	}
+
+	if len(tags) > 0 {
+		builder.WriteString("tags:\n")
+		for _, tag := range tags {
+			builder.WriteString(fmt.Sprintf("  - %s\n", tag))
+		}
+	}
+
+	if podcast {
+		if youtubeID != "" {
+			builder.WriteString(fmt.Sprintf("youtube: %s\n", youtubeID))
+		} else {
+			builder.WriteString("youtube: \n")
+		}
+	}
+
+	builder.WriteString(fmt.Sprintf("thumbnail: img/%s.png\n", slug))
+	builder.WriteString("---\n\n")
+	if bodyContent != "" {
+		builder.WriteString(bodyContent)
+		if !strings.HasSuffix(bodyContent, "\n") {
+			builder.WriteString("\n")
+		}
+	} else {
+		builder.WriteString("Write your post content here.\n")
+	}
+
+	return builder.String()
 }
