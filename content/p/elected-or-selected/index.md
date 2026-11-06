@@ -122,8 +122,8 @@ What follows is a tip from a supporter of the Ripp Report.
 
 This may be the worst Municipal lease ever written. This was a Mayor Kant deal, he decided who got the lease. It was not offered for public bid. This lease is for an established business on a multimillion dollar pier with city services and guaranteed customers, parking and amenities, which included a Marina, for $5000 a year???? That's about $400 a MONTH. This Councilmen Boone's resolution and one sweet deal that will cost every tax payer in Fairhope. Mr. Boone should be voted out of office and never allowed to approve any Municipal leases. Look at the lease terms: 15 years and rent that is about half the rent of a 1 bedroom apartment. TOTALLY CORRUPT.
 
+
 https://cdn.rippreport.com/wp-content/uploads/2016/07/lease1.pdf
 
-![Karin Wilson for Mayor](https://cdn.rippreport.com/wp-content/uploads/2016/07/13692614_10154369197779993_6629729154215325553_n-272x3002.jpg)
 
 **Fairhope will select the Mayor by ELECTION NOT SELECTION**

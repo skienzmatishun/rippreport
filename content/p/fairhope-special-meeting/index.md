@@ -79,7 +79,12 @@ summary: Our ongoing exposure of council trickery uncovers why Jack Burrell call
 ---
 Jack Burrell is calling a special meeting on Friday the 29th at 8:00 am.
 
-https://cdn.rippreport.com/wp-content/uploads/2017/12/Special-Council-City-Council-Meeting-December-29-2017-1.pdf
+<div style="height:1000px;width:100%;">
+<iframe title="Meeting" src="/p/fairhope-special-meeting/meeting.pdf" style="height:100%;width:100%;border:0;"></iframe>
+</div>
+
+[Open or download the Document](/p/fairhope-special-meeting/meeting.pdf)
+
 
 This is Jack’s way of covering his ass with his hand picked attorney. For years the city has talked about a full time city attorney. Not Jack. He does not care about what it cost the city as long as he is in control.
 
