@@ -1,0 +1,159 @@
+metadata:
+  generated_at: "2026-11-05T22:47:53.804322Z"
+  generator_version: 1.0.0
+  post_slug: court-of-public-opinion-3-rerun
+  main_date: "2026-10-22"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  hut:
+    brief: |-
+      THE CONFLICT:
+      - Hoss Mack (BCSO) and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      - Lowery was lead investigator and found zero evidence against Lawrence Jr.
+      - BCSO established total immunity for officers and blocked camera footage, despite Mack requesting $600,000 for cameras promised for public view to the County Commission.
+      THE DISCOVERY:
+      - The Hermit Hut (Round House) in Fairhope was not a romantic sanctuary but a concrete tool shed built by Henry Stuart due to terminal tuberculosis in the 1920s.
+      - The local establishment falsely sanctified the hut for municipal preservation, despite it sitting on private commercial land.
+      THE PIVOT:
+      - Both articles detail local corruption (BCSO immunity/wrongful conviction vs. municipal political maneuvering for private developer profit), illustrating a pattern of local elite manipulation in Baldwin County.
+      KEY ENTITIES:
+      - Murray Lawrence Jr
+      - Hoss Mack
+      - Anthony Lowery
+      - BCSO
+      - Henry Stuart
+      - Fairhope
+    widget_date: "2026-10-14"
+    generated_at: "2026-11-05T22:47:53.800141Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-fake-ethics-commission:
+    brief: |-
+      THE CONFLICT:
+      - Hoss Mack (BCSO) established total immunity for officers and blocked camera footage, despite Mack requesting $600,000 for cameras promised for public view to the County Commission.
+      - Mack and Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY:
+      - Alabama Ethics Director Tom Albritton was absolved and held harmless from all liability resulting from the administration of the Mabel Amos Memorial Fund (inception 2002) after four years of litigation.
+      - The Special Fiduciary’s report indicated board members indulged in self-dealing by handing out scholarships to relatives and friends.
+      THE PIVOT:
+      - Article 2 provides evidence of systemic political corruption within the state (Albritton/Ethics Commission), contextualizing the deeper, localized corruption alleged in the BCSO operations (Mack/Lowery).
+      KEY ENTITIES:
+      - Hoss Mack
+      - Anthony Lowery
+      - Murray Lawrence Jr
+      - Tom Albritton
+      - Mabel Amos Memorial Fund
+      - Alabama Ethics Commission
+    widget_date: "2026-09-28"
+    generated_at: "2026-11-05T22:47:53.800141Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  court-of-public-opinion-3:
+    brief: |-
+      THE CONFLICT:
+      - Hoss Mack (BCSO) established total immunity for officers and blocked camera footage, despite Mack requesting $600,000 for cameras promised for public view to the County Commission.
+      - Mack and Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY:
+      - Article 2 repeats the exact allegations regarding BCSO immunity, lack of transparency, and the wrongful conviction of Murray Lawrence Jr. (This is a reiteration, not new discovery).
+      THE PIVOT:
+      - Article 2 reinforces the core claims of corruption (BCSO immunity/wrongful conviction) presented in Article 1, emphasizing the depth of the alleged corruption in Baldwin County.
+      KEY ENTITIES:
+      - Murray Lawrence Jr
+      - Hoss Mack
+      - Anthony Lowery
+      - BCSO
+      - Baldwin County
+    widget_date: "2026-07-31"
+    generated_at: "2026-11-05T22:47:53.800141Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  blast-from-the-past:
+    brief: |-
+      THE CONFLICT:
+      - Hoss Mack (BCSO) established total immunity for officers and blocked camera footage, despite Mack requesting $600,000 for cameras promised for public view to the County Commission.
+      - Mack and Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY:
+      - BCSO has alleged internal "hanky panky" (extracurricular activity) between a top officer and a subordinate married to another officer, which the sheriff allegedly covered up.
+      - The wrongful conviction case of Murray Lawrence Jr. involved Robert Wilters as the presiding judge.
+      THE PIVOT:
+      - Article 2 provides specific, recent allegations of internal BCSO misconduct (extracurricular cover-up) and names the specific presiding judge (Robert Wilters) involved in the Murray Lawrence Jr. wrongful conviction, adding concrete detail to the claims of departmental cover-up in Article 1.
+      KEY ENTITIES:
+      - Murray Lawrence Jr
+      - Hoss Mack
+      - Anthony Lowery
+      - Robert Wilters
+      - BCSO
+    widget_date: "2026-01-21"
+    generated_at: "2026-11-05T22:47:53.800141Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-know-the-backstory-2:
+    brief: |-
+      THE CONFLICT:
+      - Hoss Mack (BCSO) established total immunity for officers and blocked camera footage, despite Mack requesting $600,000 for cameras promised for public view to the County Commission.
+      - Mack and Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY:
+      - The initial culvert issues (sewer lines, drainage, wetlands proximity to Fly Creek) were first addressed by the Ripp Report and lawsuits against the city over the Publix project on Parker Road.
+      - Former Mayor Tim Kant first proposed re-establishing creek connectivity in 2014.
+      - The 2023 culvert failure prompted emergency repairs and a $20 million federal BUILD grant application (unsuccessful in 2024/2025).
+      - The current development expansion is fueled by the developer's ability to obtain a green flag after the initial issues.
+      THE PIVOT:
+      - Article 2 provides historical context (2014, 2023, Publix project) showing that the city's inaction on infrastructure/environmental issues (Fly Creek) predates current political maneuvering, linking local corruption (BCSO) with municipal development failure (Fairhope).
+      KEY ENTITIES:
+      - Murray Lawrence Jr
+      - Hoss Mack
+      - Anthony Lowery
+      - Tim Kant
+      - Angelo Corte
+      - Fly Creek
+      - Publix
+      - Mayor Wilson
+    widget_date: "2026-07-21"
+    generated_at: "2026-11-05T22:47:53.800141Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  re-gift-gift-2:
+    brief: |-
+      THE CONFLICT:
+      - Hoss Mack (BCSO) established total immunity for officers and blocked camera footage, despite Mack requesting $600,000 for cameras promised for public view to the County Commission.
+      - Mack and Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY:
+      - In Fall 2016, the developer (Corte) deeded 4 acres between the retention pond outfall pipe and Fly Creek to the City of Fairhope.
+      - This deed occurred simultaneously with the developer submitting a site plan using the out-fall pipe as the primary release point, violating PUD Amendment 1572 (requiring non-point discharge).
+      - Mayor Wilson expressed shock that the City took ownership, as it created the City as the "upper landowner" with obligations regarding run-off/erosion onto its new wetlands.
+      THE PIVOT:
+      - Article 2 provides a precise date (Fall 2016) and mechanism (deed of gift) explaining how the City benefited private development (Corte) at the expense of environmental and legal obligations, paralleling the alleged corruption in BCSO operations (Article 1).
+      KEY ENTITIES:
+      - Murray Lawrence Jr
+      - Hoss Mack
+      - Anthony Lowery
+      - Tim Kant
+      - Angelo Corte
+      - Mayor Wilson
+      - Fly Creek
+    widget_date: "2026-07-16"
+    generated_at: "2026-11-05T22:47:53.800141Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  baldwin-county-sheriff-appointment-2:
+    brief: |-
+      THE CONFLICT:
+      - Hoss Mack (BCSO) established total immunity for officers and blocked camera footage, despite Mack requesting $600,000 for cameras promised for public view to the County Commission.
+      - Mack and Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY:
+      - Hoss Mack is seeking to install Anthony Lowery as his suggested replacement sheriff.
+      - Peyton Little was strangled by a seat belt after being a confidential informant for Bay Minette, which BCSO allegedly covered up.
+      - O.J. French was shot to death by Bay Minette police (cleared by BCSO Major Crimes Unit), and the Bay Minette Mayor offered no answers.
+      - Robert Yates was killed during an eviction attempt where SWAT breached the residence without probable cause, using military-style weapons.
+      - Johnathan Victor was unarmed and shot 4 times from 7 yards during a single-vehicle accident.
+      - Five people (including Joseph L. Andrews, 81, and Kevin J. Andrews, 54) were killed in a wrong-way BCSO pursuit on I-10 at 110mph, which the DA refused to discuss.
+      THE PIVOT:
+      - Article 2 details multiple, specific, high-profile cases of alleged BCSO misconduct, including cover-ups and excessive force (Little, French, Yates, Victor, Andrews pursuit), providing substantial, actionable evidence to support the general claims of total immunity and dangerous culture made in Article 1.
+      KEY ENTITIES:
+      - Hoss Mack
+      - Anthony Lowery
+      - Murray Lawrence Jr
+      - Peyton Little
+      - O.J. French
+      - Robert Yates
+      - Johnathan Victor
+      - Joseph L. Andrews
+      - Kevin J. Andrews
+      - BCSO
+    widget_date: "2026-04-22"
+    generated_at: "2026-11-05T22:47:53.800141Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

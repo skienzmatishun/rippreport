@@ -1,0 +1,174 @@
+metadata:
+  generated_at: "2026-11-05T19:19:41.344141Z"
+  generator_version: 1.0.0
+  post_slug: the-blueprint
+  main_date: "2026-07-14"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  poison-ivy-bridge:
+    brief: |-
+      1. THE CONFLICT:
+          *   2019: Over 50,000 citizens protested against toll implementation.
+      2. THE DISCOVERY:
+          *   State Senator Chris Elliott (R - Daphne) and Mayor Karin Wilson of Fairhope opposed the toll, arguing the State misused the $1B+ BP settlement funds.
+      3. THE PIVOT:
+          *   Article 2 provides historical context, showing that key local leaders initially opposed the toll, countering the narrative of universal political support.
+      4. KEY ENTITIES:
+          *   Mayor Karin Wilson (Fairhope)
+          *   State Senator Chris Elliott (R - Daphne)
+          *   BP settlement funds
+          *   Mobile and Baldwin County
+    widget_date: "2019-08-16"
+    generated_at: "2026-11-05T19:19:41.340493Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  liars-bridge:
+    brief: |-
+      1. THE CONFLICT:
+          *   2019: Over 50,000 citizens protested against toll implementation.
+      2. THE DISCOVERY:
+          *   ESMPO Chairman Jack Burrell, who has been on the council for 10 years, was criticized for delaying infrastructure projects and initially promised no tolls/no federal money.
+      3. THE PIVOT:
+          *   Article 2 reveals that political figures, like Jack Burrell, had prior commitments against tolls, contradicting the current narrative of unified support for the bridge.
+      4. KEY ENTITIES:
+          *   Jack Burrell (ESMPO Chairman, Fairhope City Councilman)
+          *   Jerry Carl
+          *   PACT Act
+          *   Eastern Shore Metropolitan Planning Organization (ESMPO)
+    widget_date: "2022-07-29"
+    generated_at: "2026-11-05T19:19:41.340493Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  trolls-for-tolls:
+    brief: |-
+      1. THE CONFLICT:
+          *   2019: Over 50,000 citizens protested against toll implementation.
+      2. THE DISCOVERY:
+          *   Mobile and Baldwin MPOs unified for tolls; Jack Burrell stated they don't see federal money for the bridge; the project costs $2.2B, needing $250M state contribution.
+      3. THE PIVOT:
+          *   Article 2 details the political shift (MPOs unifying for tolls) and exposes the high project cost and the lack of federal authorization for state-imposed interstate tolls.
+      4. KEY ENTITIES:
+          *   Jim Zigler
+          *   Jack Burrell
+          *   Mobile and Baldwin MPOs
+          *   Jon Gray (political strategist)
+          *   Act 44 (Pennsylvania precedent)
+    widget_date: "2022-01-28"
+    generated_at: "2026-11-05T19:19:41.340493Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  puzzle-pieces:
+    brief: |-
+      1. THE CONFLICT:
+          *   2006: Governor Bob Riley turned down a deal from the United Arab Emirates (UAE) for the Port of Mobile.
+      2. THE DISCOVERY:
+          *   Gulftainer (UAE owned by Dubai Royal Family) has leased Port Canaveral (Florida) and Wilmington (Delaware) for 35-50 years; Bob Riley invested $300M into the Port of Mobile terminal in 2006.
+      3. THE PIVOT:
+          *   Article 2 introduces the suspicion of a long-term, secretive UAE port lease (Project Pelican), suggesting the I-10 bridge and P3 structure may be tied to foreign interests rather than purely local infrastructure needs.
+      4. KEY ENTITIES:
+          *   Bob Riley (Governor, 2006)
+          *   Gulftainer
+          *   Project Pelican
+          *   Kay Ivey
+          *   Richard Clark (Deputy Director, Alabama Port Authority)
+    widget_date: "2019-08-24"
+    generated_at: "2026-11-05T19:19:41.340493Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fingerprint:
+    brief: |-
+      1. THE CONFLICT:
+          *   2019: Over 50,000 citizens protested against toll implementation.
+      2. THE DISCOVERY:
+          *   The Eastern Shore MPO voted against the toll; 100% of Baldwin County elected officials initially opposed the toll; former State Senator BP Pittman opposed the toll but ignored his $750,000 BP contract.
+      3. THE PIVOT:
+          *   Article 2 confirms the initial widespread political opposition in Baldwin County, showing that the later political flip-flops were driven by fear of losing office due to the 50,000-signature petition.
+      4. KEY ENTITIES:
+          *   Eastern Shore Metropolitan Planning Organization (ESMPO)
+          *   BP Pittman (former State Senator)
+          *   Baldwin County
+          *   Poison Ivy
+    widget_date: "2019-08-29"
+    generated_at: "2026-11-05T19:19:41.340493Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  faux-tax-gas-tax:
+    brief: |-
+      1. THE CONFLICT:
+          *   2019: Over 50,000 citizens protested against toll implementation.
+      2. THE DISCOVERY:
+          *   Governor Kay Ivey announced a special session for a gas tax; the tax would fund improvements, including $400k-$600k for Mobile Ship channel dredging, not just roads/bridges.
+      3. THE PIVOT:
+          *   Article 2 reveals the gas tax is being used to facilitate deep-water shipping (Mobile Ship Channel dredging), not solely for road infrastructure, suggesting the priority is port/container terminal expansion over bridge funding.
+      4. KEY ENTITIES:
+          *   Governor Kay Ivey
+          *   Chris Elliott (Tax Man)
+          *   Business Council of Alabama (Jim Page)
+          *   Alabama Department of Transportation (ALDOT)
+    widget_date: "2019-03-06"
+    generated_at: "2026-11-05T19:19:41.340493Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county:
+    brief: |-
+      1. THE CONFLICT:
+          *   2019: Over 50,000 citizens protested against toll implementation.
+      2. THE DISCOVERY:
+          *   Chris Elliott and Tucker Dorsey support maximum development in Orange Beach/Gulf Shores, viewing "bridges" as facilitators of congestion and revenue generation.
+      3. THE PIVOT:
+          *   Article 2 links the bridge to a broader agenda of unbridled development, threatening to push Baldwin County residents out and potentially close the Gulf, suggesting economic motives override infrastructure needs.
+      4. KEY ENTITIES:
+          *   Chris Elliott
+          *   Tucker Dorsey
+          *   Mayor’s Craft and Kennon
+          *   Jeff Boyd
+          *   Brett Robinson Real Estate Development Co. (Phoenix Gulf Towers)
+    widget_date: "2018-07-11"
+    generated_at: "2026-11-05T19:19:41.340493Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  got-fleas:
+    brief: |-
+      1. THE CONFLICT:
+          *   2019: Over 50,000 citizens protested against toll implementation.
+      2. THE DISCOVERY:
+          *   The $6.2 million Waterfront Project (Fairhope), funded by the RESTORE Act (BP oil spill funds), was compromised in the new administration, moving from a sustainable plan to short-sighted maintenance.
+      3. THE PIVOT:
+          *   Article 2 shows the misuse/distortion of BP cleanup funds in Fairhope, demonstrating a pattern of political decisions prioritizing special interests over original public/sustainable plans.
+      4. KEY ENTITIES:
+          *   Mayor Karin Wilson
+          *   Howling Raines
+          *   Jack Burrell
+          *   RESTORE Act
+          *   BP oil spill funds
+    widget_date: "2021-04-01"
+    generated_at: "2026-11-05T19:19:41.340493Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  redneck-renovations:
+    brief: |-
+      1. THE CONFLICT:
+          *   2019: Over 50,000 citizens protested against toll implementation.
+      2. THE DISCOVERY:
+          *   The $6.2M Fairhope Waterfront Project was gutted by the new administration (under CATALYST/Scott Boone Consulting), replacing the "sloping the Bluff" plan with removal of kudzu/native plants and an ADA ramp.
+      3. THE PIVOT:
+          *   Article 2 details how political influence (CATALYST/Scott Boone Consulting) manipulated the original, sustainable waterfront plan, confirming that political agendas, not public input, dictated the outcome.
+      4. KEY ENTITIES:
+          *   Jack Burrell
+          *   CATALYST / Scott Boone Consulting
+          *   Howling Raines
+          *   Fairhope Waterfront
+          *   $6.2 million grant
+    widget_date: "2021-01-24"
+    generated_at: "2026-11-05T19:19:41.340493Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  goat-hill-piggy-bank:
+    brief: |-
+      1. THE CONFLICT:
+          *   2019: Over 50,000 citizens protested against toll implementation.
+      2. THE DISCOVERY:
+          *   Chris Elliott (Tax Man) taxed Baldwin County without a vote; former Governor Riley drained accounts; former Governor Bentley used BP funds for a beach mansion; BP Pittman skimmed $750k.
+      3. THE PIVOT:
+          *   Article 2 establishes a history of political corruption (tax raids, misuse of BP funds) by elected officials in Baldwin County, framing the current toll debate as part of a systemic "Goat Hill" corruption rather than just a bridge issue.
+      4. KEY ENTITIES:
+          *   Chris Elliott
+          *   Governor Riley
+          *   Governor Bentley
+          *   BP Pittman
+          *   Baldwin County
+          *   Business Council of Alabama
+    widget_date: "2019-03-13"
+    generated_at: "2026-11-05T19:19:41.340493Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

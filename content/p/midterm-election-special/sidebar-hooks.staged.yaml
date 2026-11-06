@@ -1,0 +1,70 @@
+metadata:
+  generated_at: "2026-11-05T22:43:41.768877Z"
+  generator_version: 1.0.0
+  post_slug: midterm-election-special
+  main_date: "2026-11-02"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  october-surprise:
+    brief: |-
+      THE CONFLICT: Alabama Governor Race (Tuberville vs. Jones) leading up to the 3rd of November election; corruption and overdevelopment issues in Baldwin County.
+      THE DISCOVERY: Polling showed Tommy Tuberville ahead of Doug Jones (51% vs 40%); specific legal battles included Trent Garmon vs. Alabama State Bar; infrastructure issues included the $1.25 billion Elmore County prison site.
+      THE PIVOT: Article 2 provides specific, data-driven context (polling, named legal cases, financial infrastructure details) for the broader political knife fight discussed in Article 1.
+      KEY ENTITIES: John Wahl, Ken McFeeters, Tommy Tuberville, Doug Jones, Brandon Moseley, Trent Garmon, Alabama State Bar, Bay Minette.
+    widget_date: "2026-10-30"
+    generated_at: "2026-11-05T22:43:41.765503Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  court-of-public-opinion-3-rerun:
+    brief: |-
+      THE CONFLICT: Corruption and lack of transparency within the Baldwin County Sheriff Office (BCSO) under Hoss Mack; wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY: BCSO, under Hoss Mack, established total immunity for officers, blocked all camera footage (despite requesting $600,000 for cameras), and Mack/Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE PIVOT: Article 2 reveals the institutionalized lack of accountability and local corruption in Baldwin County, confirming the sentiment "Baldwin County Died of overdevelopment and corruption" cited in Article 1.
+      KEY ENTITIES: Hoss Mack, Anthony Lowery, Murray Lawrence Jr., BCSO, Baldwin County, Tommy Tuberville.
+    widget_date: "2026-10-22"
+    generated_at: "2026-11-05T22:43:41.765503Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  red-lips-award:
+    brief: |-
+      THE CONFLICT: Systemic political corruption in Alabama (ranked #1); Governor Ivey's attempt to dismantle the ADVA through the State Senate (21-9); financial fraud involving the Mabel Amos Trust.
+      THE DISCOVERY: Ethics Director Tom Albritton received $120,000 from the Mabel Amos Memorial Fund; Judge Greg Griffin of Montgomery County Circuit Court ordered a Special Fiduciary (Jim White) to gather information on the Amos Fund.
+      THE PIVOT: Article 2 connects high-level state political conflict (ADVA/Ivey) to specific financial and ethical fraud (Albritton/Amos Trust), demonstrating the systemic corruption claimed in Article 1.
+      KEY ENTITIES: Kimberly Boswell, Admiral Kent Davis, Ivey, Tom Albritton, Mabel Amos Trust, Andrew Jones, Ed Oliver, Greg Griffin, Jim White.
+    widget_date: "2025-03-03"
+    generated_at: "2026-11-05T22:43:41.765503Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-ethics-vs-tony-kennon:
+    brief: |-
+      THE CONFLICT: Allegations of conflicts of interest and threats against Orange Beach Mayor Tony Kennon; systemic failure and corruption within the Alabama Ethics Commission (Director Tom Albritton).
+      THE DISCOVERY: Tom Albritton, the Ethics Director, was forced out of his role as trustee of the Mabel Amos Memorial Fund following litigation, despite Ethics Commission members (Greg Pappas, George Pierce, David Pruet) claiming no knowledge of his actions; a federal probe continues regarding the AG's Office.
+      THE PIVOT: Article 2 details the institutional failures (Ethics Commission/AG/Bar protection of Albritton) that enable systemic corruption, linking local issues (Kennon) to high-level ethical failures, thus supporting the narrative in Article 1.
+      KEY ENTITIES: Tony Kennon, Tom Albritton, Harry Still, Mabel Amos Trust, Katherine Robertson, Greg Pappas, George Pierce, David Pruet, Alabama Bar.
+    widget_date: "2026-06-21"
+    generated_at: "2026-11-05T22:43:41.765503Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  our-man-in-mar-a-lago:
+    brief: |-
+      THE CONFLICT: Misuse of the Mabel Amos Scholarship Trust, administered by the Ethics Commission Director; systemic failure and bias within the Alabama State Bar.
+      THE DISCOVERY: The Mabel Amos Scholarship Trust was administered by the Andalusia Law Firm (Allbritton, Clifton, Alverson, Moody, Bowden), with Clifton serving on the Trust Board; Tommy Gallion was villainized by the Alabama State Bar.
+      THE PIVOT: Article 2 identifies the specific legal professionals (Allbritton, Clifton, etc.) involved in the trust misuse, providing granular evidence of financial corruption and professional misconduct that supports the claims of deep state corruption in Article 1.
+      KEY ENTITIES: Harry Still, Perry Hooper Jr., Kevin Brock, Francis "Paul" Ripp, Mabel Amos Trust, Allbritton, Clifton, Alverson, Moody, Bowden, Tommy Gallion, Rob Holbert, CC Marino.
+    widget_date: "2026-09-10"
+    generated_at: "2026-11-05T22:43:41.765503Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-state-of-the-alabama-state-bar:
+    brief: |-
+      THE CONFLICT: Allegations of kickback schemes and sexual blackmail by public servants; systemic failure of the Alabama State Bar to enforce ethics.
+      THE DISCOVERY: The Alabama State Bar's former Executive Director, Phillip McCallum, failed to address 17 ethics violations reported by Katherine Church and 12 bar complaints filed by Harry Still in 2022 against individuals including Roman Shaw and Jeremy McIntyre.
+      THE PIVOT: Article 2 specifically indicts the institutional leadership of the Alabama State Bar (McCallum) for failing to enforce ethics, proving the system is compromised, which is central to the state corruption narrative in Article 1.
+      KEY ENTITIES: Jeanetta Pleasant JD, Katherine Church, Beverly Barber JD, Thomas Gallion III, Phillip McCallum, Harry Still, Roman Shaw, Jeremy McIntyre, Tommy Gallion.
+    widget_date: "2026-09-05"
+    generated_at: "2026-11-05T22:43:41.765503Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  august-special-edition:
+    brief: |-
+      THE CONFLICT: Local development conflicts in Baldwin County (Farmers/Cowpokes vs. GUMBO-68 Ventures); abuse of legal process by the DA's office; political maneuvering in the Governor's race.
+      THE DISCOVERY: A special election was held on August 11, 2026, addressing the construction of the I-10 Bayway Bridge (toll) project, with opposition led by Sheriff Huey Mack, who aimed to slow Baldwin County development.
+      THE PIVOT: Article 2 grounds the high-level political discussions (Tuberville lawsuit, Governor race knife fight) in specific local, time-stamped events (August 11, 2026 special election; Bayway Bridge debate), showing the local root of state political tension in Article 1.
+      KEY ENTITIES: Harry Still, Huey Mack, Tommy Tuberville, Doug Jones, I-10 Bayway Bridge, Baldwin County.
+    widget_date: "2026-08-11"
+    generated_at: "2026-11-05T22:43:41.765503Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

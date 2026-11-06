@@ -66,6 +66,20 @@ func (a *App) Run(args []string) int {
 	cmdArgs := args[2:]
 
 	switch cmd {
+	case "check-links", "link-checker":
+		return a.runCheckLinks(ctx, cmdArgs)
+	case "analyze-broken-links":
+		return a.runAnalyzeBrokenLinks(ctx, cmdArgs)
+	case "archive-links":
+		return a.runLinkRepairs(ctx, cmdArgs, false)
+	case "update-redirected-links":
+		return a.runLinkRepairs(ctx, cmdArgs, true)
+	case "audit-content", "content-audit":
+		return a.runAuditContent(ctx, cmdArgs)
+	case "verify-archives", "archive-link-verifier":
+		return a.runVerifyArchives(ctx, cmdArgs)
+	case "missing-pdfs":
+		return a.runMissingPDFs(cmdArgs)
 	case "help", "-h", "--help":
 		a.printUsage()
 		return 0
@@ -97,6 +111,8 @@ func (a *App) Run(args []string) int {
 		return a.runNewPost(ctx, append([]string{"--email"}, cmdArgs...))
 	case "generate-alt", "alt-post":
 		return a.runGenerateAlt(ctx, cmdArgs)
+	case "repost":
+		return a.runRepost(ctx, cmdArgs)
 	default:
 		fmt.Fprintf(a.stderr, "Unknown command: %s\n\n", cmd)
 		a.printUsage()
@@ -108,6 +124,13 @@ func (a *App) printUsage() {
 	fmt.Fprintln(a.stdout, "Go Content Pipeline - High Performance Hugo Recommendation System")
 	fmt.Fprintln(a.stdout, "\nUsage: pipeline <command> [options]")
 	fmt.Fprintln(a.stdout, "\nCommands:")
+	fmt.Fprintln(a.stdout, "  check-links          Audit links in rendered Hugo posts with resumable JSON results")
+	fmt.Fprintln(a.stdout, "  analyze-broken-links Group broken links by domain, status, and error")
+	fmt.Fprintln(a.stdout, "  archive-links        Find and install verified Wayback replacements (JSON + CSV)")
+	fmt.Fprintln(a.stdout, "  update-redirected-links Update successful redirected destinations (previews by default)")
+	fmt.Fprintln(a.stdout, "  audit-content        Audit WordPress shortcodes using a local model or offline checks")
+	fmt.Fprintln(a.stdout, "  verify-archives      Verify and repair audit links with archives and fallbacks")
+	fmt.Fprintln(a.stdout, "  missing-pdfs         Export unresolved PDF links from an audit report to JSON")
 	fmt.Fprintln(a.stdout, "  generate-related     Generate related article recommendations")
 	fmt.Fprintln(a.stdout, "  generate-hooks       Generate contextual sidebar hooks")
 	fmt.Fprintln(a.stdout, "  generate-frontpage   Generate frontpage narrative bridges connecting recent posts")
@@ -122,6 +145,7 @@ func (a *App) printUsage() {
 	fmt.Fprintln(a.stdout, "  new-post             Create a new post with folder structure and front matter (use --email for Apple Mail)")
 	fmt.Fprintln(a.stdout, "  email-post           Create a new post by retrieving the latest email from Apple Mail")
 	fmt.Fprintln(a.stdout, "  generate-alt         Generate alt tag for thumbnail using local vision LLM and update front matter")
+	fmt.Fprintln(a.stdout, "  repost               Duplicate a post folder as a repost with today's date")
 	fmt.Fprintln(a.stdout, "\nRun 'pipeline <command> --help' for options on a specific command.")
 }
 
@@ -1124,7 +1148,6 @@ func (a *App) runNewPost(ctx context.Context, args []string) int {
 		cfg.Processing.PostsDirectory = "/Volumes/1tb/rippreport/content/p"
 	}
 
-
 	// Create post directory
 	postDir := filepath.Join(cfg.Processing.PostsDirectory, postSlug)
 	if _, err := os.Stat(postDir); err == nil {
@@ -1339,6 +1362,247 @@ func (a *App) runGenerateAlt(ctx context.Context, args []string) int {
 	}
 
 	return 0
+}
+
+func (a *App) runRepost(ctx context.Context, args []string) int {
+	fs := flag.NewFlagSet("repost", flag.ContinueOnError)
+	fs.SetOutput(a.stdout)
+
+	configPath := fs.String("config", "config.yaml", "Path to configuration file")
+	post := fs.String("post", "", "Post slug to repost (required)")
+
+	if err := fs.Parse(args); err != nil {
+		if err == flag.ErrHelp {
+			return 0
+		}
+		return 1
+	}
+
+	if *post == "" {
+		fmt.Fprintf(a.stderr, "Error: --post flag is required\n")
+		fmt.Fprintf(a.stderr, "Usage: pipeline repost --post alabama-special-election\n")
+		return 1
+	}
+
+	// Load config to get posts directory
+	var cfg *config.Config
+	if *configPath != "" {
+		if _, statErr := os.Stat(*configPath); statErr == nil {
+			loadedCfg, err := config.LoadConfig(*configPath)
+			if err == nil {
+				cfg = loadedCfg
+			}
+		}
+	}
+	if cfg == nil {
+		cfg = config.DefaultConfig()
+		cfg.Processing.PostsDirectory = "/Volumes/1tb/rippreport/content/p"
+	}
+
+	sourceSlug := *post
+	sourceDir := filepath.Join(cfg.Processing.PostsDirectory, sourceSlug)
+
+	// Verify source post exists
+	if _, err := os.Stat(sourceDir); os.IsNotExist(err) {
+		fmt.Fprintf(a.stderr, "Error: source post directory does not exist: %s\n", sourceDir)
+		return 1
+	}
+
+	// Determine the next available repost suffix (-2, -3, -4, ...)
+	destSlug := nextRepostSlug(cfg.Processing.PostsDirectory, sourceSlug)
+	destDir := filepath.Join(cfg.Processing.PostsDirectory, destSlug)
+
+	fmt.Fprintf(a.stdout, "Reposting %s → %s\n", sourceSlug, destSlug)
+
+	// Copy entire directory
+	if err := copyDir(sourceDir, destDir); err != nil {
+		fmt.Fprintf(a.stderr, "Error copying post directory: %v\n", err)
+		return 1
+	}
+
+	// Update the index.md in the destination: set date to today, categories to repost
+	indexPath := filepath.Join(destDir, "index.md")
+	if err := updateRepostFrontMatter(indexPath); err != nil {
+		fmt.Fprintf(a.stderr, "Error updating front matter: %v\n", err)
+		// Clean up on failure
+		_ = os.RemoveAll(destDir)
+		return 1
+	}
+
+	fmt.Fprintf(a.stdout, "✓ Created repost: %s\n", destSlug)
+	fmt.Fprintf(a.stdout, "  Directory: %s\n", destDir)
+	fmt.Fprintf(a.stdout, "  Date set to: %s\n", time.Now().Format("2006-01-02"))
+	fmt.Fprintf(a.stdout, "  Category set to: repost\n")
+
+	return 0
+}
+
+// nextRepostSlug finds the next available repost slug.
+// Given base slug "foo", it checks for "foo-2", "foo-3", etc.
+// If the slug already ends with a number suffix (e.g. "foo-2"), it strips it
+// to use the original base for numbering.
+func nextRepostSlug(postsDir, slug string) string {
+	// Strip any existing trailing -N suffix to find the true base
+	base := slug
+	for i := len(base) - 1; i >= 0; i-- {
+		if base[i] == '-' {
+			suffix := base[i+1:]
+			allDigits := len(suffix) > 0
+			for _, ch := range suffix {
+				if ch < '0' || ch > '9' {
+					allDigits = false
+					break
+				}
+			}
+			if allDigits {
+				base = base[:i]
+			}
+			break
+		}
+	}
+
+	// Find the next available number starting from 2
+	for n := 2; ; n++ {
+		candidate := fmt.Sprintf("%s-%d", base, n)
+		candidateDir := filepath.Join(postsDir, candidate)
+		if _, err := os.Stat(candidateDir); os.IsNotExist(err) {
+			return candidate
+		}
+	}
+}
+
+// copyDir recursively copies a directory tree from src to dst.
+func copyDir(src, dst string) error {
+	srcInfo, err := os.Stat(src)
+	if err != nil {
+		return err
+	}
+
+	if err := os.MkdirAll(dst, srcInfo.Mode()); err != nil {
+		return err
+	}
+
+	entries, err := os.ReadDir(src)
+	if err != nil {
+		return err
+	}
+
+	for _, entry := range entries {
+		srcPath := filepath.Join(src, entry.Name())
+		dstPath := filepath.Join(dst, entry.Name())
+
+		if entry.IsDir() {
+			if err := copyDir(srcPath, dstPath); err != nil {
+				return err
+			}
+		} else {
+			if err := copyFile(srcPath, dstPath); err != nil {
+				return err
+			}
+		}
+	}
+
+	return nil
+}
+
+// updateRepostFrontMatter reads the index.md file and replaces the date with today
+// and the categories with [repost], preserving all other content.
+func updateRepostFrontMatter(indexPath string) error {
+	data, err := os.ReadFile(indexPath)
+	if err != nil {
+		return fmt.Errorf("failed to read %s: %w", indexPath, err)
+	}
+
+	content := string(data)
+	lines := strings.Split(content, "\n")
+
+	// Find the front matter boundaries (--- delimiters)
+	startIdx := -1
+	endIdx := -1
+	for i, line := range lines {
+		if strings.TrimSpace(line) == "---" {
+			if startIdx == -1 {
+				startIdx = i
+			} else {
+				endIdx = i
+				break
+			}
+		}
+	}
+
+	if startIdx == -1 || endIdx == -1 {
+		return fmt.Errorf("could not find front matter delimiters in %s", indexPath)
+	}
+
+	today := time.Now().Format("2006-01-02")
+
+	// Process front matter lines: replace date and categories
+	var newLines []string
+	newLines = append(newLines, lines[:startIdx+1]...) // include opening ---
+
+	inCategories := false
+	dateReplaced := false
+	categoriesReplaced := false
+
+	for i := startIdx + 1; i < endIdx; i++ {
+		line := lines[i]
+		trimmed := strings.TrimSpace(line)
+
+		// Handle multi-line categories block
+		if inCategories {
+			if strings.HasPrefix(trimmed, "- ") {
+				// Skip old category list items
+				continue
+			}
+			// Not a list item, so categories block ended
+			inCategories = false
+		}
+
+		// Replace date line
+		if strings.HasPrefix(trimmed, "date:") {
+			newLines = append(newLines, fmt.Sprintf("date: %s", today))
+			dateReplaced = true
+			continue
+		}
+
+		// Replace categories
+		if strings.HasPrefix(trimmed, "categories:") {
+			newLines = append(newLines, "categories:")
+			newLines = append(newLines, "- repost")
+			categoriesReplaced = true
+
+			// Check if categories were inline (e.g. "categories: news") vs block
+			afterColon := strings.TrimSpace(strings.TrimPrefix(trimmed, "categories:"))
+			if afterColon == "" {
+				// Block style - mark that we need to skip subsequent "- item" lines
+				inCategories = true
+			}
+			// If inline value, we already replaced it
+			continue
+		}
+
+		newLines = append(newLines, line)
+	}
+
+	// If there was no date line, add one
+	if !dateReplaced {
+		// Insert date right after opening ---
+		insertAt := startIdx + 1
+		newLines = append(newLines[:insertAt+1], newLines[insertAt:]...)
+		newLines[insertAt] = fmt.Sprintf("date: %s", today)
+	}
+
+	// If there was no categories line, add one before the closing ---
+	if !categoriesReplaced {
+		newLines = append(newLines, "categories:")
+		newLines = append(newLines, "- repost")
+	}
+
+	// Add closing --- and the rest of the file
+	newLines = append(newLines, lines[endIdx:]...)
+
+	result := strings.Join(newLines, "\n")
+	return os.WriteFile(indexPath, []byte(result), 0644)
 }
 
 // copyFile copies a single file from src to dst

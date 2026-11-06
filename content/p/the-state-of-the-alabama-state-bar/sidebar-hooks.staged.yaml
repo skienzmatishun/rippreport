@@ -1,0 +1,70 @@
+metadata:
+  generated_at: "2026-11-05T23:24:32.347665Z"
+  generator_version: 1.0.0
+  post_slug: the-state-of-the-alabama-state-bar
+  main_date: "2026-09-05"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  key-figures:
+    brief: |-
+      1. THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. occurred in Baldwin County around 2005. The prosecution was flawed: no physical evidence (no weapon, no DNA, no fingerprints), no signed grand jury indictment, and the death certificate listed strangulation, not the gunshot wound claimed by the prosecution.
+      2. THE DISCOVERY: Article 2 revealed that Robert Wilters served as the presiding Circuit Court Judge in Baldwin County during Murray Lawrence Jr.'s prosecution, despite knowing the forensic evidence (Dr. Paul McGarry's testimony of no bullet hole/gunshot injury) contradicted the State's theory.
+      3. THE PIVOT: Article 2 establishes that the key judicial figure, Robert Wilters, who presided over the flawed trial, held power and influence in the current Alabama legal system, linking the historical injustice to present power structures.
+      4. KEY ENTITIES: Murray Lawrence Jr., Robert Wilters, Baldwin County District Attorney, Hoss Mack, Anthony Lowery, John David Whetstone, Dr. Paul McGarry
+    widget_date: "2026-09-02"
+    generated_at: "2026-11-05T23:24:32.345876Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-wrongful-conviction-2:
+    brief: |-
+      1. THE CONFLICT: Murray Lawrence Jr. is serving life without parole for a murder he did not commit. The case lacked physical evidence (no DNA, no weapon, no witness placement). The State relied on a confession obtained through coercion from another man who named Murray.
+      2. THE DISCOVERY: Article 2 detailed that the Academy Award nominated Alabama Solution Documentary exposed the conditions inside Alabama's prisons and highlighted the disturbing events leading up to incarceration, focusing on the coercion used against the confessing man.
+      3. THE PIVOT: Article 2 provides the narrative and documentary evidence of the injustice, reinforcing the claim in Article 1 that Murray Lawrence Jr.'s conviction was based on coercion and suppressed evidence, not truth.
+      4. KEY ENTITIES: Murray Lawrence Jr., Alabama Solution Documentary, BCSO
+    widget_date: "2026-08-17"
+    generated_at: "2026-11-05T23:24:32.345876Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  not-guilty-innocent:
+    brief: |-
+      1. THE CONFLICT: On September 3, 2025, Harry Still (attorney) was arrested on a misdemeanor charge in Bay Minette after a skirmish with Matt Franklin (Bay Minette city councilman). Judge Marcus McDowell (municipal attorney for Fairhope) found Still guilty, despite Still having filed Alabama Bar complaints against McDowell.
+      2. THE DISCOVERY: Article 2 detailed that Still appealed to a jury trial in Circuit Court presided over by Judge Clark Stankowski, resulting in a swift and unequivocal "not guilty" verdict, invalidating McDowell's initial ruling.
+      3. THE PIVOT: Article 2 uses the specific, recent (2025) case of Harry Still to illustrate the systemic corruption and judicial bias (McDowell's self-interest, Stankowski's subsequent ruling) that mirrors the broader issues of unchecked power in Baldwin County raised in Article 1.
+      4. KEY ENTITIES: Harry Still, Matt Franklin, Marcus McDowell, Clark Stankowski, State Senator Chris Elliott, Ronan McSherry, Bay Minette
+    widget_date: "2026-06-13"
+    generated_at: "2026-11-05T23:24:32.345876Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  august-special-edition:
+    brief: |-
+      1. THE CONFLICT: The I-10 Bayway Bridge (toll) Project is moving forward in Baldwin County. Sheriff Huey Mack is noted as leading the opposition against development, and the DA's office is allegedly abusing the Grand Jury discovery process.
+      2. THE DISCOVERY: Article 2 identified a special election scheduled for August 11, 2026, highlighting local political dynamics in Baldwin County, including the resistance to the Bayway Bridge project led by Sheriff Huey Mack.
+      3. THE PIVOT: Article 2 provides immediate political context (the 2026 special election and specific local projects) against which the long-standing institutional corruption and power consolidation detailed in Article 1 are currently playing out.
+      4. KEY ENTITIES: Harry Still, Huey Mack, I-10 Bayway Bridge, Doug Jones, Tubberville
+    widget_date: "2026-08-11"
+    generated_at: "2026-11-05T23:24:32.345876Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  orange-beach-tyranny:
+    brief: |-
+      1. THE CONFLICT: Danny Williams disappeared and died in Perdido Pass in 2016 during Memorial Day Weekend. There is an alleged pattern of malfeasance involving Orange Beach Mayor Tony Kennon, City Attorney, City Administrator, and Chief of Police. ALEA ignored subpoenas.
+      2. THE DISCOVERY: Article 2 reported on a Federal Lawsuit concerning the disclosure of Orange Beach Police interactions with Tony Kennon, comparing the lack of investigation into Danny Williams' death to the secrecy surrounding the Kennon's personal life.
+      3. THE PIVOT: Article 2 connects the pattern of municipal cover-ups in Orange Beach (Kennon administration) to the broader theme of institutional negligence and obstruction of justice, providing a contemporary example of the systemic malfeasance discussed in Article 1.
+      4. KEY ENTITIES: Tony Kennon, Danny Williams, Orange Beach, ALEA, Neeli Faulkner, Whitney Scapecchi
+    widget_date: "2026-07-09"
+    generated_at: "2026-11-05T23:24:32.345876Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  primary-postpartum:
+    brief: |-
+      1. THE CONFLICT: Harry Still was arrested in Bay Minette after a skirmish with Matt Franklin (Bay Minette city councilman). City of Orange Beach officials attempted to slander Still, leading to his arrest.
+      2. THE DISCOVERY: Article 2 lamented the Primary Election results and noted ethics problems with Tony Kennon and the corruption involving Prichard Cops, framing the political climate against the backdrop of Still's arrest.
+      3. THE PIVOT: Article 2 frames the specific incident involving Harry Still (his arrest and subsequent slander by Orange Beach officials) within the larger political and ethical corruption landscape (Kennon's ethics problems, election results) that the investigation in Article 1 seeks to expose.
+      4. KEY ENTITIES: Harry Still, Matt Franklin, Tony Kennon, Roy Moore, Prichard
+    widget_date: "2026-06-20"
+    generated_at: "2026-11-05T23:24:32.345876Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mountain-medicine:
+    brief: |-
+      1. THE CONFLICT: Tommy Bass, a master herbalist, learned from a Cherokee woman. His book, "Mountain Medicine," details pharmacologically important plants native to Alabama, including magnolia bark, buckeye, and cross vine.
+      2. THE DISCOVERY: Article 2 introduced Darryl Patton, Master Herbalist and author of "Mountain Medicine: The Herbal Remedies of Tommy Bass," positioning the book as an anthropological treasure detailing Alabama's native herbal remedies.
+      3. THE PIVOT: Article 2 shifts focus from legal corruption (Baldwin County) to cultural/natural knowledge within Alabama, using Tommy Bass and his work as a unique local context, while still linking back to the overarching theme of "same characters in each of their stories" mentioned in Article 1.
+      4. KEY ENTITIES: Tommy Bass, Darryl Patton, Mountain Medicine, William Bartram, Bay Minette
+    widget_date: "2026-06-12"
+    generated_at: "2026-11-05T23:24:32.345876Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

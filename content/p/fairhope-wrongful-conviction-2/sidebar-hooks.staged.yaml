@@ -1,0 +1,88 @@
+metadata:
+  generated_at: "2026-11-05T23:59:13.216771Z"
+  generator_version: 1.0.0
+  post_slug: fairhope-wrongful-conviction-2
+  main_date: "2026-08-17"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  alabama-exposure-mljr:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder on May 13, 2005, in Baldwin County, Alabama, serving life without parole. The conviction relied on a confession from Jarius McNeil (who changed his story after being offered a way out), not physical evidence (no DNA, no weapon, no witness placing him).
+      THE DISCOVERY: Article 2 (at the time) is a book, *The Framing of Murray Lawrence Jr.*, by Alabama Exposure and Accountability, detailing the coercion and suppressed evidence in the case.
+      THE PIVOT: Article 2 provides documented factual evidence and context (the book's content) regarding the systemic failures (law enforcement, prosecutors, courts, prison system) that led to Murray's conviction in Fairhope/Baldwin County.
+      KEY ENTITIES: Murray Lawrence Jr., BCSO, Alabama Exposure and Accountability, Fairhope, Baldwin County, Jarius McNeil.
+    widget_date: "2026-02-20"
+    generated_at: "2026-11-05T23:59:10.474886Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder on May 13, 2005, in Baldwin County, Alabama, serving life without parole. Key figures (Judge Robert Wilters, DA David Whetstone, Sheriff Lowery, Captain Hoss Mack) built the case despite lacking physical evidence.
+      THE DISCOVERY: Article 2 (at the time) identifies four key figures responsible: Robert Wilters (2005 Judge, current Baldwin County DA), Anthony Lowery (2005 Chief Investigator, current Baldwin County Sheriff), Huey 'Hoss' Mack (2005 Lead Investigator, coerced McNeil), and David Whetstone (2005 DA, offered plea to McNeil).
+      THE PIVOT: Article 2 links the lack of physical evidence (no DNA, no weapon) directly to the misconduct of specific, high-ranking officials who held power during the trial and subsequently rose to influence in Baldwin County.
+      KEY ENTITIES: Murray Lawrence Jr., Robert Wilters, Anthony Lowery, Huey 'Hoss' Mack, David Whetstone, Jarius McNeil, BCSO, Baldwin County.
+    widget_date: "2025-10-01"
+    generated_at: "2026-11-05T23:59:10.474886Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  advocates:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder on May 13, 2005, in Baldwin County, Alabama, serving life without parole, based on a coerced confession from Jarius McNeil, lacking physical evidence.
+      THE DISCOVERY: Article 2 (since then) reports that advocates discovered the autopsy was never included in the Baldwin man’s murder trial.
+      THE PIVOT: Article 2 offers a specific piece of suppressed, exculpatory evidence (the autopsy) that was withheld from the defense during the 2005 trial, contributing to the wrongful conviction.
+      KEY ENTITIES: Murray Lawrence Jr., Baldwin County, Advocates.
+    widget_date: "2026-11-05"
+    generated_at: "2026-11-05T23:59:10.474886Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  7432-days-in-jail:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder on May 13, 2005, in Baldwin County, Alabama, and has served over 7,500 days in jail for a murder he did not commit.
+      THE DISCOVERY: Article 2 (since then) specifies the duration of incarceration as 7432 days.
+      THE PIVOT: Article 2 provides a quantifiable metric (7432 days) of the injustice Murray Lawrence Jr. has suffered since his 2005 conviction.
+      KEY ENTITIES: Murray Lawrence Jr., Jail, Baldwin County.
+    widget_date: "2026-11-05"
+    generated_at: "2026-11-05T23:59:10.474886Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  Baldwin-county-wrongful-conviction:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder on May 13, 2005, in Baldwin County, Alabama, serving life without parole, based on a coerced confession from Jarius McNeil, lacking physical evidence.
+      THE DISCOVERY: Article 2 (since then) highlights the issue as a specific "Baldwin County Wrongful Conviction."
+      THE PIVOT: Article 2 focuses the broader narrative of the wrongful conviction onto the specific jurisdiction—Baldwin County—where the judicial and law enforcement failures occurred.
+      KEY ENTITIES: Murray Lawrence Jr., Baldwin County, BCSO.
+    widget_date: "2026-11-05"
+    generated_at: "2026-11-05T23:59:10.474886Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  earful:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder on May 13, 2005, in Baldwin County, Alabama, serving life without parole, based on a coerced confession from Jarius McNeil, lacking physical evidence.
+      THE DISCOVERY: Article 2 (since then) is titled "EARFUL" (content only provided by title).
+      THE PIVOT: Article 2 provides a thematic or editorial framing device ("EARFUL") for the continuing story of Murray Lawrence Jr.'s wrongful conviction.
+      KEY ENTITIES: Murray Lawrence Jr., BCSO.
+    widget_date: "2026-11-05"
+    generated_at: "2026-11-05T23:59:10.474886Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  innocent:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder on May 13, 2005, in Baldwin County, Alabama, based on a coerced confession from Jarius McNeil, lacking physical evidence.
+      THE DISCOVERY: Article 2 (at the time) confirms the conviction details: 11 months 10 days incarcerated prior to conviction; DA was David Whetstone; Lead Investigator was Lt. Hoss Mack; Judge was Robert Wilters; Defense Attorney was Willy Huntley. It also cites David Whetstone's quote: "I have made a deal, a deal with the devil so that evidence could be heard."
+      THE PIVOT: Article 2 provides a detailed timeline and specific testimony from the trial, establishing that the prosecution (Whetstone) knowingly used unreliable accomplice testimony (McNeil) despite lack of physical evidence and violated legal standards (felony conviction on accomplice testimony requires corroboration).
+      KEY ENTITIES: Murray Lawrence Jr., David Whetstone, Hoss Mack, Robert Wilters, Willy Huntley, Jarius McNeil, Brandon Hastings, Baldwin County.
+    widget_date: "2022-04-22"
+    generated_at: "2026-11-05T23:59:10.474886Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wrongful-conviction-fairhope-baldwin-county:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder on May 13, 2005, in Fairhope, Baldwin County, Alabama, based on a coerced confession from Jarius McNeil, lacking physical evidence.
+      THE DISCOVERY: Article 2 (at the time) parallels the case to the true story *Just Mercy* (Walter McMillan, Baldwin County, Alabama), noting the involvement of the Judge, Prosecutor, and Sheriff withholding evidence. Legal representation is provided pro bono by Maxwell/Tillman.
+      THE PIVOT: Article 2 contextualizes the local injustice by drawing a parallel to a nationally recognized case (*Just Mercy*), highlighting the pattern of judicial/law enforcement misconduct in Baldwin County.
+      KEY ENTITIES: Murray Lawrence Jr., BCSO, Hoss Mack, Maxwell/Tillman, Fairhope, Baldwin County, Just Mercy.
+    widget_date: "2024-06-17"
+    generated_at: "2026-11-05T23:59:10.474886Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  rule-32:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder on May 13, 2005, in Baldwin County, Alabama, serving life without parole, based on a coerced confession from Jarius McNeil, lacking physical evidence.
+      THE DISCOVERY: Article 2 (at the time) announces that a Rule 32 petition has been filed on Murray Lawrence Jr.'s behalf (November 27, 2023), a legal challenge used to attack a final conviction in court. It also confirms Hoss Mack was the "LEAD INVESTIGATOR" and that evidence was "suppressed willfully rather than inadvertently" by Mack, Wilters, Whetstone, and Lowery.
+      THE PIVOT: Article 2 provides a critical legal development (Rule 32 filing) and names the four officials (Mack, Wilters, Whetstone, Lowery) who knowingly and willfully withheld evidence, transitioning the case from historical injustice to active legal challenge.
+      KEY ENTITIES: Murray Lawrence Jr., Rule 32, Hoss Mack, Robert Wilters, David Whetstone, Anthony Lowery, BCSO.
+    widget_date: "2023-12-14"
+    generated_at: "2026-11-05T23:59:10.474886Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

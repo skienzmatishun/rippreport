@@ -1,0 +1,208 @@
+metadata:
+  generated_at: "2026-11-05T23:45:00.019611Z"
+  generator_version: 1.0.0
+  post_slug: key-figures
+  main_date: "2026-09-02"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-wrongful-conviction-2:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted (2005) for a murder.
+      *   Robert Wilters presided as Circuit Court Judge in Baldwin County during the trial.
+      *   Hoss Mack was Chief Deputy for Baldwin County, leading the investigation.
+      *   David Whetstone was the District Attorney for Baldwin County.
+      *   The case lacked physical evidence (no DNA, no weapon, no fingerprints).
+      *   Cause of death was strangulation (listed on death certificate), but the prosecution claimed gunshot; Dr. Paul McGarry testified no bullet hole/gunshot injury.
+      *   The indictment was unsigned by the grand jury foreman.
+      *   The victim’s body was taken to Mack Funeral Home, owned by Hoss Mack's father, Huey A. Mack Sr.
+      THE DISCOVERY:
+      *   The widget article details the case for Murray's innocence, citing suppressed evidence and coercion (confession from a man who changed his story after being offered a way out).
+      THE PIVOT:
+      *   The widget article provides the core factual claim of Murray's innocence (coercion, lack of evidence) which the main article uses to frame the systemic failure and corruption of the key figures (Wilters, Mack, Whetstone) in Baldwin County.
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Robert Wilters (Presiding Circuit Court Judge)
+      *   Hoss Mack (Chief Deputy)
+      *   David Whetstone (District Attorney)
+      *   Dr. Paul McGarry (Pathologist)
+      *   Huey A. Mack Sr. (Baldwin County Coroner/Mack Funeral Home Owner)
+    widget_date: "2026-08-17"
+    generated_at: "2026-11-05T23:45:00.016153Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  august-special-edition:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted in Baldwin County (2005).
+      *   Robert Wilters presided as Circuit Court Judge in Baldwin County during the prosecution.
+      *   Hoss Mack was Chief Deputy for Baldwin County, overseeing the investigation.
+      *   Hoss Mack won the Sheriff election in 2006 and remained sheriff for 17 years.
+      *   Hoss Mack is now Executive Director of the Alabama Sheriffs Association.
+      *   Anthony Lowery worked under Mack, serving as a lead investigator during the Murray Lawrence Jr. case.
+      *   Hoss Mack's father, Huey A. Mack Sr., owned Mack Funeral Home, which handled the victim's body.
+      THE DISCOVERY:
+      *   The widget article identifies an upcoming special election on August 11, 2026, and mentions the I-10 Bayway Bridge project and figures like Harry Still, Jerry Carl, and Flock.
+      THE PIVOT:
+      *   The widget article introduces unrelated local political/infrastructure issues and figures (Bayway Bridge, Harry Still), providing a contrast to the historical focus on the 2005 conviction and the power structure, but does not provide key context for the wrongful conviction itself.
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Robert Wilters
+      *   Hoss Mack (Executive Director, former Sheriff)
+      *   Anthony Lowery
+      *   Harry Still
+      *   I-10 Bayway Bridge
+    widget_date: "2026-08-11"
+    generated_at: "2026-11-05T23:45:00.016153Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted (2005) in Baldwin County.
+      *   Robert Wilters presided as Circuit Court Judge in Baldwin County during the trial.
+      *   Hoss Mack was Chief Deputy for Baldwin County, leading the investigation.
+      *   Anthony Lowery worked under Mack as a lead investigator during the prosecution.
+      *   David Whetstone was the District Attorney for Baldwin County.
+      *   The prosecution failed to produce a signed indictment by the grand jury foreman.
+      *   Forensic evidence (Dr. Paul McGarry) contradicted the prosecution's gunshot theory (strangulation cause of death).
+      THE DISCOVERY:
+      *   The widget article is a press release detailing the suppression of exculpatory evidence and the role of four key figures (Wilters, Lowery, Mack, Whetstone).
+      *   It notes Robert Wilters is now Baldwin County District Attorney (since approx. 2015) and rejected Rule 32 filing in 2023.
+      *   It states Anthony Lowery was a Chief Investigator and is the Current Baldwin County Sheriff (appointed by Governor Kay Ivey).
+      *   It claims Hoss Mack coerced the real killer, Jarius McNeil, into shifting blame onto Murray.
+      THE PIVOT:
+      *   The widget article provides specific, detailed information on the current roles (Wilters as DA, Lowery as Sheriff) and specific misconduct claims (Mack coercing Jarius McNeil) of the key historical figures, connecting the past conviction to present influence.
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Robert Wilters (Circuit Court Judge/District Attorney)
+      *   Anthony Lowery (Baldwin County Sheriff)
+      *   Hoss Mack (Lead Investigator/Former Sheriff)
+      *   David Whetstone (District Attorney)
+      *   Jarius McNeil (Real killer)
+      *   Governor Kay Ivey
+    widget_date: "2025-10-01"
+    generated_at: "2026-11-05T23:45:00.016153Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  not-guilty-innocent:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted in Baldwin County (2005).
+      *   Robert Wilters presided as Circuit Court Judge in Baldwin County during the prosecution.
+      *   Hoss Mack was Chief Deputy for Baldwin County, overseeing the investigation.
+      *   Anthony Lowery was a lead investigator within the Baldwin County Sheriff’s Office during the case.
+      *   The conviction was based on a coerced confession and lacked physical evidence (no DNA, no weapon, five ignored alibi witnesses).
+      THE DISCOVERY:
+      *   The widget article is a live news broadcast segment featuring Shelby Myers, covering local topics and figures (Al Tolbert, Ronan McSherry, Marcus McDowell, Chris Elliott, Councilman Franklin).
+      *   It details Harry Still's 2025 misdemeanor arrest in Bay Minette.
+      *   Judge Marcus McDowell (municipal attorney for Fairhope) found Still guilty in Bay Minette municipal court but was later found incorrect when Circuit Court Judge Clark Stankowski found Still INNOCENT.
+      *   Al Tolbert, former Bay Minette Police Chief, is now with BCSO, having lost his job when Mayor Brown was elected.
+      THE PIVOT:
+      *   The widget article introduces a separate, concurrent case (Harry Still) involving similar themes of judicial error, local corruption (Councilman Franklin's threats), and police/legal conflict (Al Tolbert/BCSO), suggesting a wider pattern of corruption in Baldwin County beyond the Murray Lawrence Jr. conviction.
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Robert Wilters
+      *   Hoss Mack
+      *   Anthony Lowery
+      *   Harry Still
+      *   Marcus McDowell (Municipal Judge/Attorney for Fairhope)
+      *   Clark Stankowski (Circuit Court Judge)
+      *   Al Tolbert (Former Bay Minette Police Chief)
+      *   Councilman Franklin
+    widget_date: "2026-06-13"
+    generated_at: "2026-11-05T23:45:00.016153Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-wrongful-conviction:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted in Baldwin County (2005).
+      *   Robert Wilters presided as Circuit Court Judge in Baldwin County during the trial.
+      *   Hoss Mack was Chief Deputy for Baldwin County, leading the investigation.
+      *   The conviction was built on a coerced confession and lacked physical evidence.
+      THE DISCOVERY:
+      *   The widget article is a promotional announcement for a book and an Academy Award-nominated documentary.
+      *   It confirms Murray Lawrence Jr. is serving life without parole for a murder he did not commit.
+      *   It confirms the case involved coercion and suppressed evidence.
+      THE PIVOT:
+      *   The widget article acts as a public call-to-action, summarizing the core injustice (wrongful conviction, coercion, suppressed evidence) detailed in the main article and providing resources (book/documentary) for further investigation into the key figures' actions.
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Robert Wilters
+      *   Hoss Mack
+      *   Baldwin County
+      *   Academy Award nominated Alabama Solution Documentary
+    widget_date: "2026-08-01"
+    generated_at: "2026-11-05T23:45:00.016153Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bcso-sound-off:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted (2005) in Baldwin County.
+      *   Robert Wilters presided as Circuit Court Judge in Baldwin County during the trial.
+      *   Hoss Mack was Chief Deputy for Baldwin County, leading the investigation.
+      *   Anthony Lowery worked under Mack as a lead investigator during the prosecution.
+      *   The prosecution was flawed: no physical evidence, no DNA, death certificate showed strangulation, but prosecution claimed gunshot.
+      THE DISCOVERY:
+      *   The widget article reveals internal concerns within the BCSO, stating a top officer had an extramarital affair with a subordinate, which was allegedly covered up by Hoss Mack.
+      *   It links the wrongful conviction to the systemic problems and suggests the case resembles "Just Mercy."
+      THE PIVOT:
+      *   The widget article adds a layer of internal corruption and lack of accountability within the BCSO (Hoss Mack's command) beyond the wrongful conviction, suggesting institutional cover-ups related to Mack's leadership.
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Robert Wilters
+      *   Hoss Mack (Sheriff)
+      *   Anthony Lowery
+      *   BCSO
+      *   Netflix documentary "Just Mercy"
+    widget_date: "2026-03-23"
+    generated_at: "2026-11-05T23:45:00.016153Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  read-the-comments:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted (2005) in Baldwin County.
+      *   Robert Wilters presided as Circuit Court Judge in Baldwin County during the trial.
+      *   Hoss Mack was Chief Deputy for Baldwin County, leading the investigation.
+      *   Anthony Lowery was a lead investigator within the Baldwin County Sheriff’s Office during the prosecution.
+      THE DISCOVERY:
+      *   The widget article features a seal of the Baldwin County Sheriffs Office and highlights internal issues, prompting discussion via "READ THE COMMENTS."
+      *   It focuses on the institutional failures (wrongful conviction, lack of autopsy) linked to Wilters and Mack.
+      THE PIVOT:
+      *   The widget article reinforces the institutional nature of the corruption (BCSO culture, systemic failures) by referencing public commentary, underscoring that the issues described in the main article are widely perceived internally.
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Robert Wilters
+      *   Hoss Mack
+      *   Anthony Lowery
+      *   BCSO
+      *   Baldwin County Sheriffs Office
+    widget_date: "2026-03-18"
+    generated_at: "2026-11-05T23:45:00.016153Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-commission-races-2014:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted (2005) in Baldwin County.
+      *   Robert Wilters presided as Circuit Court Judge in Baldwin County during the trial.
+      *   Hoss Mack was Chief Deputy for Baldwin County, leading the investigation (and later won Sheriff in 2006).
+      *   Anthony Lowery was a lead investigator under Mack during the case.
+      *   The core issue is the consolidation of power among officials who controlled the investigation and the judicial process.
+      THE DISCOVERY:
+      *   The widget article archives historical election information (2014) concerning Sheriff and County Commission races.
+      *   It identifies a "Sick Six" pact (Pittman, Hoss Mack, Tucker Dorsey, Chris Elliott, Bob James, Charles Gruber) designed to control Baldwin County government.
+      *   It critiques the machine leadership of Lynn Stacey and the role of the former coroner's son (Hoss Mack).
+      THE PIVOT:
+      *   The widget article establishes the historical context of the political machine (Lynn Stacey, Sick Six) that allowed Hoss Mack's power and influence to solidify, demonstrating that the power structure responsible for the 2005 conviction is tied to a decades-long political control network in Baldwin County.
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Robert Wilters
+      *   Hoss Mack
+      *   Anthony Lowery
+      *   Lynn Stacey
+      *   Lee "Slippery Trip" Pittman
+      *   Tucker Dorsey
+      *   Chris Elliott
+      *   Bob James
+      *   Charles Gruber
+      *   County Commission (Baldwin County)
+    widget_date: "2014-05-16"
+    generated_at: "2026-11-05T23:45:00.016153Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

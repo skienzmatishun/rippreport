@@ -1,0 +1,97 @@
+metadata:
+  generated_at: "2026-11-05T19:56:16.572553Z"
+  generator_version: 1.0.0
+  post_slug: vote-2026
+  main_date: "2026-05-18"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  guilty-audiobook:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder (Brandon Hastings, May 2003) in Baldwin County, AL.
+      THE DISCOVERY: Article 2 (at the time) revealed that Anthony Lowery (candidate for Sheriff) and Kristy Haygood (candidate for judge) were involved in the wrongful conviction, including lying and filing inaccurate/false statements.
+      THE PIVOT: Article 2 links specific candidates (Lowery, Haygood) to the documented corruption and wrongful conviction, providing context for the election push for change (May 19).
+      KEY ENTITIES: Murray Lawrence Jr, Anthony Lowery, Kristy Haygood, Hoss Mack, Robert Wilters, BCSO, Maxwell-Tillman
+    widget_date: "2026-04-16"
+    generated_at: "2026-11-05T19:56:16.569952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  railroaded-by-the-law:
+    brief: |-
+      THE CONFLICT: [INSUFFICIENT DATA - Article 2 content is missing.]
+      THE DISCOVERY: [INSUFFICIENT DATA - Article 2 content is missing.]
+      THE PIVOT: [CANNOT DETERMINE]
+      KEY ENTITIES: [CANNOT DETERMINE]
+    widget_date: "2026-11-05"
+    generated_at: "2026-11-05T19:56:16.569952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  advocates:
+    brief: |-
+      THE CONFLICT: A Baldwin man's murder trial involved evidence that was excluded from the trial.
+      THE DISCOVERY: Article 2 (since then) revealed that advocates discovered an autopsy report, which was never included in the trial, concerning a Baldwin man's murder.
+      THE PIVOT: Article 2 provides a recent development confirming the suppression of critical evidence, validating the election calls for accountability regarding past legal failures.
+      KEY ENTITIES: Advocates, Baldwin man, autopsy report
+    widget_date: "2026-11-05"
+    generated_at: "2026-11-05T19:56:16.569952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. spent over 20 years in prison (conviction in 2005) for the murder of Brandon Hastings, a crime he did not commit.
+      THE DISCOVERY: Article 2 (at the time) documented that four key figures (Robert Wilters, Anthony Lowery, Huey 'Hoss' Mack, David Whetstone) built the case despite lacking evidence and suppressed exculpatory evidence (autopsy proving strangulation, not gunshot).
+      THE PIVOT: Article 2 establishes the historical and institutional corruption (Wilters, Lowery, Mack, Whetstone) that is now tied to current political candidates, motivating the push for change in the 2026 elections.
+      KEY ENTITIES: Murray Lawrence Jr, Brandon Hastings, Robert Wilters, Anthony Lowery, Huey 'Hoss' Mack, David Whetstone, BCSO
+    widget_date: "2025-07-30"
+    generated_at: "2026-11-05T19:56:16.569952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. spent over 20 years in prison (conviction in 2005) for the murder of Brandon Hastings, a crime he did not commit.
+      THE DISCOVERY: Article 2 (at the time) documented that four key figures (Robert Wilters, Anthony Lowery, Huey 'Hoss' Mack, David Whetstone) built the case despite lacking evidence and suppressed exculpatory evidence (autopsy proving strangulation, not gunshot).
+      THE PIVOT: Article 2 establishes the historical and institutional corruption (Wilters, Lowery, Mack, Whetstone) that is now tied to current political candidates, motivating the push for change in the 2026 elections.
+      KEY ENTITIES: Murray Lawrence Jr, Brandon Hastings, Robert Wilters, Anthony Lowery, Huey 'Hoss' Mack, David Whetstone, BCSO
+    widget_date: "2025-10-01"
+    generated_at: "2026-11-05T19:56:16.569952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  7432-days-in-jail:
+    brief: |-
+      THE CONFLICT: [INSUFFICIENT DATA - Article 2 content is missing.]
+      THE DISCOVERY: [INSUFFICIENT DATA - Article 2 content is missing.]
+      THE PIVOT: [CANNOT DETERMINE]
+      KEY ENTITIES: [CANNOT DETERMINE]
+    widget_date: "2026-11-05"
+    generated_at: "2026-11-05T19:56:16.569952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  no-justice:
+    brief: |-
+      THE CONFLICT: In 2003, the prosecution in the Murray Lawrence case suppressed a second autopsy of victim Brandon Hastings.
+      THE DISCOVERY: Article 2 (at the time) revealed that the second autopsy, ordered by DA Robert Wilters and signed by Judge Robert Wilters, proved the cause of death was suffocation/strangulation, not gunshot, and this report was withheld from the defense.
+      THE PIVOT: Article 2 details the willful suppression of critical evidence by current/former officials (Wilters, Mack, Whetstone), linking historical prosecutorial misconduct to the need for political change in Baldwin County.
+      KEY ENTITIES: BCSO, Murray Lawrence Jr, Robert Wilters, Hoss Mack, Brandon Hastings
+    widget_date: "2024-01-26"
+    generated_at: "2026-11-05T19:56:16.569952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bcso-how-to-become-sheriff:
+    brief: |-
+      THE CONFLICT: Hoss Mack (former Sheriff) assisted in the wrongful conviction of Murray Lawrence Jr. (2005).
+      THE DISCOVERY: Article 2 (at the time) showed Mack transitioned from Captain to Sheriff after assisting in the conviction, and that he hired Anthony Lowery (who lacked field experience) to carry his water in the 2005 capital murder case.
+      THE PIVOT: Article 2 connects the institutional corruption of the former Sheriff (Mack) and subsequent law enforcement leadership (Lowery) directly to the wrongful conviction, highlighting the need to clean up the Sheriff's department (Matt McKenzie).
+      KEY ENTITIES: Hoss Mack, Anthony Lowery, Murray Lawrence Jr, BCSO, Dean McGowan
+    widget_date: "2024-07-16"
+    generated_at: "2026-11-05T19:56:16.569952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  innocent:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder (Brandon Hastings, May 13, 2005) based primarily on the testimony of Jarius McNeil.
+      THE DISCOVERY: Article 2 (at the time) documented that there was no physical evidence (DNA, fingerprints, ballistics, weapon); a timeline established 5 separate witnesses saw Lawrence at home during the crime, making the required trip impossible. David Whetstone admitted to a "deal with the devil" to secure McNeil's testimony.
+      THE PIVOT: Article 2 provides specific factual evidence (lack of physical proof, timeline inconsistencies, Whetstone's admission) demonstrating the conviction was based on fiction and speculation, not facts, justifying the call for justice.
+      KEY ENTITIES: Murray Lawrence Jr, David Whetstone, Hoss Mack, Robert Wilters, Jarius McNeil, Brandon Hastings
+    widget_date: "2022-04-22"
+    generated_at: "2026-11-05T19:56:16.569952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  lee-county-no-justice-center:
+    brief: |-
+      THE CONFLICT: The legal system can be influenced by police/judicial fraternities and lack of transparency, demonstrated in Baldwin County (Wilters/Mack).
+      THE DISCOVERY: Article 2 (at the time) provided an example outside Baldwin County: Cole Barkley (July 25, 2021) was convicted of attempted murder in Lee County, AL, after an Auburn PD officer shot through his door without announcing presence, resulting in a "grossly disproportionate" 45-year sentence in the Lee County Justice Center.
+      THE PIVOT: Article 2 broadens the context of systemic justice failure beyond Baldwin County, showing how police/judicial influence (fraternity, lack of accountability) leads to wrongful convictions and excessive sentencing in Alabama.
+      KEY ENTITIES: Cole Barkley, Auburn PD, Lee County, Judge Tickle, Nicole, Grady Wilkes
+    widget_date: "2024-03-11"
+    generated_at: "2026-11-05T19:56:16.569952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

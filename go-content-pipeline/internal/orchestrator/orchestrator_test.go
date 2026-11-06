@@ -23,21 +23,25 @@ func setupTestOrchestrator(t *testing.T) (*Orchestrator, string) {
 	posts := []struct {
 		slug  string
 		title string
+		date  string
 		body  string
 	}{
 		{
 			slug:  "post-1",
 			title: "First Post Title",
+			date:  "2025-01-10",
 			body:  "Body content of first post with interesting discussion.",
 		},
 		{
 			slug:  "post-2",
 			title: "Second Post Title",
+			date:  "2025-01-15",
 			body:  "Body content of second post relating to first post.",
 		},
 		{
 			slug:  "post-3",
 			title: "Third Post Title",
+			date:  "2025-01-20",
 			body:  "Body content of third post discussing ethics and transparency.",
 		},
 	}
@@ -47,7 +51,7 @@ func setupTestOrchestrator(t *testing.T) (*Orchestrator, string) {
 		if err := os.MkdirAll(dir, 0755); err != nil {
 			t.Fatalf("failed to create dir: %v", err)
 		}
-		content := fmt.Sprintf("---\ntitle: %q\ndate: 2025-01-20\ncategories:\n  - news\n---\n\n%s\n", p.title, p.body)
+		content := fmt.Sprintf("---\ntitle: %q\ndate: %s\ncategories:\n  - news\n---\n\n%s\n", p.title, p.date, p.body)
 		if err := os.WriteFile(filepath.Join(dir, "index.md"), []byte(content), 0644); err != nil {
 			t.Fatalf("failed to write post: %v", err)
 		}

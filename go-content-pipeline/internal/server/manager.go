@@ -32,6 +32,8 @@ const (
 	defaultPort           = 8080
 	defaultContextSize    = 30096
 	defaultGPULayers      = 99
+	defaultBatchSize      = 8192
+	defaultUBatchSize     = 8192
 	defaultStartupTimeout = 0 // 0 means no timeout: wait indefinitely until server is ready or process exits
 )
 
@@ -44,6 +46,8 @@ type ManagerConfig struct {
 	Port           int           `yaml:"port"`
 	ContextSize    int           `yaml:"context_size"`
 	GPULayers      int           `yaml:"gpu_layers"`
+	BatchSize      int           `yaml:"batch_size,omitempty"`
+	UBatchSize     int           `yaml:"ubatch_size,omitempty"`
 	StartupTimeout time.Duration `yaml:"startup_timeout"`
 	// Speculative decoding options
 	DraftModel    string `yaml:"draft_model,omitempty"`      // Path/name of draft model for speculative decoding
@@ -64,6 +68,8 @@ func DefaultManagerConfig() ManagerConfig {
 		Port:           defaultPort,
 		ContextSize:    defaultContextSize,
 		GPULayers:      defaultGPULayers,
+		BatchSize:      defaultBatchSize,
+		UBatchSize:     defaultUBatchSize,
 		StartupTimeout: defaultStartupTimeout,
 	}
 }
@@ -99,6 +105,12 @@ func NewServerManager(cfg ManagerConfig) *ServerManager {
 	}
 	if cfg.GPULayers == 0 {
 		cfg.GPULayers = defaultGPULayers
+	}
+	if cfg.BatchSize <= 0 {
+		cfg.BatchSize = defaultBatchSize
+	}
+	if cfg.UBatchSize <= 0 {
+		cfg.UBatchSize = defaultUBatchSize
 	}
 	if cfg.StartupTimeout < 0 {
 		cfg.StartupTimeout = 0
@@ -221,6 +233,15 @@ func (sm *ServerManager) EnsureModel(ctx context.Context, modelPathOrName string
 		return fmt.Errorf("failed to resolve model: %w", err)
 	}
 
+	batchSize := sm.cfg.BatchSize
+	if batchSize <= 0 {
+		batchSize = defaultBatchSize
+	}
+	ubatchSize := sm.cfg.UBatchSize
+	if ubatchSize <= 0 {
+		ubatchSize = defaultUBatchSize
+	}
+
 	// Build arguments
 	args := []string{
 		"-m", resolvedPath,
@@ -228,6 +249,8 @@ func (sm *ServerManager) EnsureModel(ctx context.Context, modelPathOrName string
 		"--port", fmt.Sprintf("%d", sm.cfg.Port),
 		"-c", fmt.Sprintf("%d", sm.cfg.ContextSize),
 		"-ngl", fmt.Sprintf("%d", sm.cfg.GPULayers),
+		"-b", fmt.Sprintf("%d", batchSize),
+		"-ub", fmt.Sprintf("%d", ubatchSize),
 	}
 
 	switch mode {

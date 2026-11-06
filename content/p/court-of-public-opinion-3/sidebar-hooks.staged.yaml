@@ -1,0 +1,97 @@
+metadata:
+  generated_at: "2026-11-05T18:57:27.078451Z"
+  generator_version: 1.0.0
+  post_slug: court-of-public-opinion-3
+  main_date: "2026-07-31"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  bcso-culture-2:
+    brief: |-
+      THE CONFLICT: Hoss Mack established total immunity for BCSO officers. Mack and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY: The BCSO operates under a culture of ABSOLUTE IMMUNITY; the department investigates itself using the Baldwin County Major Crimes Division.
+      THE PIVOT: Article 2 establishes the institutional culture of no accountability (self-investigation, absolute immunity) that allowed Mack and Lowery to perpetrate the wrongful conviction of Murray Lawrence Jr.
+      KEY ENTITIES: Murray Lawrence Jr, Hoss Mack, Anthony Lowery, BCSO, Baldwin County Major Crimes Division
+    widget_date: "2026-01-13"
+    generated_at: "2026-11-05T18:57:27.074761Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-reckoning-is-predicted:
+    brief: |-
+      THE CONFLICT: Hoss Mack established total immunity for BCSO officers. Mack and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY: Lowery could not change the corrupt culture despite having five times the money of opponent Matt McKenzie; Mack is predicted to be Lowery’s downfall.
+      THE PIVOT: Article 2 contextualizes the political environment, showing that while Mack's influence was strong (using GOB control), public opinion is shifting, predicting the end of the "GOB" system and the removal of Lowery and Mack.
+      KEY ENTITIES: Murray Lawrence Jr, Hoss Mack, Anthony Lowery, Matt McKenzie, Chris Elliott, Kristi Hagood, Robert Wilters, Scott Boone, ALEA
+    widget_date: "2026-06-23"
+    generated_at: "2026-11-05T18:57:27.074761Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  baldwin-county-judicial-corruption:
+    brief: |-
+      THE CONFLICT: Hoss Mack established total immunity for BCSO officers. Mack and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY: Murray Lawrence Jr. was incarcerated for 20 years; evidence proving his innocence was "suppressed willfully rather than inadvertently" by authorities.
+      THE PIVOT: Article 2 provides specific, critical details about the wrongful conviction, naming Hoss Mack, DA Robert Wilters (who was the Judge), and prosecutor David Whetstone, confirming their knowledge and willful withholding of evidence.
+      KEY ENTITIES: Murray Lawrence Jr, Hoss Mack, Anthony Lowery, Robert Wilters, David Whetstone, BCSO, Judge Scully
+    widget_date: "2023-12-07"
+    generated_at: "2026-11-05T18:57:27.074761Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  cameras:
+    brief: |-
+      THE CONFLICT: Hoss Mack established total immunity for BCSO officers. Mack and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY: Hoss Mack requested $600,000 for body/vehicle/jail cameras but made it a policy NOT to provide camera footage to the media or public, despite promising transparency.
+      THE PIVOT: Article 2 demonstrates the negative consequences of the BCSO's lack of transparency policy, citing deadly incidents (May 12, 2017, shooting of Jonathan Victor; March 5, 2018, shooting of Robert Yates) and a 2021 Alabama Supreme Court ruling that restricts public access to investigative records.
+      KEY ENTITIES: Hoss Mack, Jonathan Victor, Robert Yates, U.S. District Court Judge William Cassady, Alabama Supreme Court, BCSO
+    widget_date: "2022-08-25"
+    generated_at: "2026-11-05T18:57:27.074761Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  read-the-comments:
+    brief: |-
+      THE CONFLICT: Hoss Mack established total immunity for BCSO officers. Mack and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY: The BCSO has documented internal hanky panky problems, including a top officer having an affair with a subordinate female employee married to a fellow officer.
+      THE PIVOT: Article 2 reveals that the BCSO's reputation for cover-ups extends beyond legal corruption to internal misconduct, showing a pattern of lack of supervision and transparency under Hoss Mack.
+      KEY ENTITIES: Murray Lawrence Jr, Hoss Mack, BCSO, Robert Wilters
+    widget_date: "2026-03-18"
+    generated_at: "2026-11-05T18:57:27.074761Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-huey-boss-mack-secret-police-2:
+    brief: |-
+      THE CONFLICT: Hoss Mack established total immunity for BCSO officers. Mack and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY: BCSO received over $65 million in funding in 2020 and 2021; Mack secured his second term with help from then State Senator Trip Pittman by legislatively recording qualifications that eliminated 99.5% of the competition.
+      THE PIVOT: Article 2 provides a detailed financial and political context of Mack's power (>$65M funding, election rigging claims), linking this control to multiple deaths (Jonathan Victor, Robert Yates, Kevin J Andrews) and confirming the systemic corruption structure.
+      KEY ENTITIES: Hoss Mack, Anthony Lowery, Jonathan Victor, Robert Yates, Trip Pittman, U.S. District Court Judge William Cassady, Justin Correa, BCSO
+    widget_date: "2023-11-20"
+    generated_at: "2026-11-05T18:57:27.074761Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-huey-boss-mack-secret-police:
+    brief: |-
+      THE CONFLICT: Hoss Mack established total immunity for BCSO officers. Mack and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY: BCSO received over $65 million in funding in 2020 and 2021; Mack secured his second term with help from then State Senator Trip Pittman by legislatively recording qualifications that eliminated 99.5% of the competition.
+      THE PIVOT: Article 2 provides a detailed financial and political context of Mack's power (>$65M funding, election rigging claims), linking this control to multiple deaths (Jonathan Victor, Robert Yates) and confirming the systemic corruption structure that blocked public access to video evidence.
+      KEY ENTITIES: Hoss Mack, Anthony Lowery, Jonathan Victor, Robert Yates, Trip Pittman, U.S. District Court Judge William Cassady, Justin Correa, BCSO
+    widget_date: "2021-10-01"
+    generated_at: "2026-11-05T18:57:27.074761Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  new-sheriff-no-changes:
+    brief: |-
+      THE CONFLICT: Hoss Mack established total immunity for BCSO officers. Mack and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY: Governor Kay Ivey appointed Anthony Lowery, a "carbon copy" of Hoss Mack, despite pending federal lawsuits and the wrongful conviction of Murray Lawrence Jr.
+      THE PIVOT: Article 2 frames Lowery's appointment as a continuation of Mack's corrupt control; it highlights that Lowery inherited massive problems, including two wrongful death federal lawsuits specifically mentioning the BCSO Major Crimes Unit.
+      KEY ENTITIES: Hoss Mack, Anthony Lowery, Governor Kay Ivey, Murray Lawrence Jr, Steve Nodine, BCSO, Alabama
+    widget_date: "2024-08-29"
+    generated_at: "2026-11-05T18:57:27.074761Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  po-po-hoss-mack-ccuo:
+    brief: |-
+      THE CONFLICT: Hoss Mack established total immunity for BCSO officers. Mack and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY: A May 17, 2004, letter from the Alabama Department of Forensic Sciences to David Whetstone (prosecutor) was CC’ed to Hoss Mack and his father, indicating they knew about the second autopsy report.
+      THE PIVOT: Article 2 uses specific forensic evidence (autopsy report, signatures) to prove that Mack, Wilters, and Whetstone knowingly hid evidence that would prove Murray Lawrence Jr.'s innocence, solidifying the "Chief Cover up officer" (CCUO) designation for Mack.
+      KEY ENTITIES: Hoss Mack, Anthony Lowery, Robert Wilters, David Whetstone, Murray Lawrence Jr, Alabama Department of Forensic Sciences, Jon Gray
+    widget_date: "2024-06-15"
+    generated_at: "2026-11-05T18:57:27.074761Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hanky-panky-by-the-po-po:
+    brief: |-
+      THE CONFLICT: Hoss Mack established total immunity for BCSO officers. Mack and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+      THE DISCOVERY: The BCSO has documented internal hanky panky problems, including a top officer having an affair with a subordinate female employee married to a fellow officer.
+      THE PIVOT: Article 2 reveals that the BCSO's reputation for cover-ups extends beyond legal corruption to internal misconduct, showing a pattern of lack of supervision and transparency under Hoss Mack, alongside the failure in the Murray Lawrence Jr. case (where Robert Wilters was the presiding judge).
+      KEY ENTITIES: Murray Lawrence Jr, Hoss Mack, BCSO, Robert Wilters
+    widget_date: "2024-05-31"
+    generated_at: "2026-11-05T18:57:27.074761Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

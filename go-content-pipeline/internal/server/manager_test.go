@@ -7,7 +7,6 @@ import (
 	"os"
 	"path/filepath"
 	"testing"
-	"time"
 )
 
 func TestServerManager_ResolveModelPath(t *testing.T) {
@@ -101,5 +100,11 @@ func TestDefaultManagerConfig(t *testing.T) {
 	}
 	if cfg.StartupTimeout != 0 {
 		t.Errorf("expected 0 startup timeout (no timeout), got %v", cfg.StartupTimeout)
+	}
+	if cfg.BatchSize != defaultBatchSize {
+		t.Errorf("expected default batch size %d, got %d", defaultBatchSize, cfg.BatchSize)
+	}
+	if cfg.UBatchSize != defaultUBatchSize {
+		t.Errorf("expected default ubatch size %d, got %d", defaultUBatchSize, cfg.UBatchSize)
 	}
 }

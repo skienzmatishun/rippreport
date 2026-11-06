@@ -7,28 +7,37 @@ import (
 
 const HookGeneratorVersion = "1.0.0"
 
+// DistilledFacts represents extracted key information from a brief.
+type DistilledFacts struct {
+	ConnectionType string   `yaml:"connection_type" json:"connection_type"`
+	KeyFacts       []string `yaml:"key_facts" json:"key_facts"`
+	Entities       []string `yaml:"entities" json:"entities"`
+}
+
 // Hook is a Bridge Brief linking a main article to one related (widget) article.
 // YAML on disk is a map keyed by widget slug; WidgetSlug is filled on load.
 type Hook struct {
-	WidgetSlug  string    `yaml:"-"`
-	WidgetTitle string    `yaml:"-"`
-	Brief       string    `yaml:"brief"`
-	LLMText     string    `yaml:"llm_text,omitempty"` // Initial LLM-generated sidebar hook
-	Text        string    `yaml:"text,omitempty"`     // Gemini-refined final text
-	WidgetDate  string    `yaml:"widget_date,omitempty"`
-	Generated   time.Time `yaml:"generated_at"`
-	ModelName   string    `yaml:"model_name,omitempty"`
+	WidgetSlug     string          `yaml:"-"`
+	WidgetTitle    string          `yaml:"-"`
+	Brief          string          `yaml:"brief"`
+	LLMText        string          `yaml:"llm_text,omitempty"` // Initial LLM-generated sidebar hook
+	Text           string          `yaml:"text,omitempty"`     // Gemini-refined final text
+	WidgetDate     string          `yaml:"widget_date,omitempty"`
+	Generated      time.Time       `yaml:"generated_at"`
+	ModelName      string          `yaml:"model_name,omitempty"`
+	DistilledFacts *DistilledFacts `yaml:"distilled_facts,omitempty"`
 }
 
 // HookMetadata is the production sidebar-hooks.yaml header.
 type HookMetadata struct {
-	GeneratedAt      time.Time `yaml:"generated_at"`
-	GeneratorVersion string    `yaml:"generator_version"`
-	PostSlug         string    `yaml:"post_slug"`
-	MainDate         string    `yaml:"main_date,omitempty"`
-	RefinedBy        string    `yaml:"refined_by,omitempty"`
-	RefinedAt        time.Time `yaml:"refined_at,omitempty"`
-	ModelName        string    `yaml:"model_name,omitempty"`
+	GeneratedAt      time.Time  `yaml:"generated_at"`
+	GeneratorVersion string     `yaml:"generator_version"`
+	PostSlug         string     `yaml:"post_slug"`
+	MainDate         string     `yaml:"main_date,omitempty"`
+	RefinedBy        string     `yaml:"refined_by,omitempty"`
+	RefinedAt        time.Time  `yaml:"refined_at,omitempty"`
+	ModelName        string     `yaml:"model_name,omitempty"`
+	DistilledAt      *time.Time `yaml:"distilled_at,omitempty"`
 }
 
 // HookFile is the production sidebar-hooks.yaml document.

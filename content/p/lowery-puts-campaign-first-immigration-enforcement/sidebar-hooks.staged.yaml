@@ -1,0 +1,61 @@
+metadata:
+  generated_at: "2026-11-05T20:13:43.134008Z"
+  generator_version: 1.0.0
+  post_slug: lowery-puts-campaign-first-immigration-enforcement
+  main_date: "2026-05-11"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  read-the-comments:
+    brief: |-
+      THE CONFLICT: Allegations of BCSO internal hanky panky: top officer had an extracurricular activity with a subordinate female employee, who was married to a fellow officer. No official action was taken, leading to public suspicion of a cover-up.
+      THE DISCOVERY: The BCSO is noted for cover-ups and has a history of lack of supervision and transparency under Sheriff Hoss Mack. This includes the wrongful conviction of Murray Lawrence Jr., where Mack was the lead investigator and produced zero evidence; Robert Wilters (DA) was the presiding judge.
+      THE PIVOT: Article 2 establishes a history of institutional failure, cover-ups, and compromised justice (Lawrence Jr. case) within the BCSO, providing context for the public distrust raised in Article 1 regarding Lowery's handling of immigration enforcement.
+      KEY ENTITIES: Sheriff Anthony Lowery, Sheriff Hoss Mack, Murray Lawrence Jr., Robert Wilters, BCSO
+    widget_date: "2026-03-18"
+    generated_at: "2026-11-05T20:13:43.132936Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  good-news:
+    brief: |-
+      THE CONFLICT: Concern over the reduction/suspension of active federal immigration enforcement cooperation by the Baldwin County Sheriff's Office, possibly tied to the May 19th election cycle.
+      THE DISCOVERY: The "GOB network" in Baldwin County is eroding due to pushback from 14 incorporated municipalities (e.g., Bay Minette victory against Bob Wills). Anthony Lowery is identified as a GOB member alongside Hoss Mack and Chris Elliott. Lowery was also the lead investigator in Murray Lawrence Jr.'s wrongful conviction.
+      THE PIVOT: Article 2 reveals Lowery's direct political entanglement (GOB membership) and his prior involvement in judicial/investigative failures (Murray Lawrence Jr. case), contradicting the call for accountability in Article 1.
+      KEY ENTITIES: Anthony Lowery, Hoss Mack, Chris Elliott, Jerry Carl, Murray Lawrence Jr., Bob Wills, Bay Minette
+    widget_date: "2026-03-12"
+    generated_at: "2026-11-05T20:13:43.132936Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  blast-from-the-past:
+    brief: |-
+      THE CONFLICT: Allegations of BCSO internal hanky panky: top officer had an extracurricular activity with a subordinate female employee, who was married to a fellow officer. No official action was taken, leading to public suspicion of a cover-up.
+      THE DISCOVERY: The BCSO is noted for cover-ups and has a history of lack of supervision and transparency under Sheriff Hoss Mack. This includes the wrongful conviction of Murray Lawrence Jr., where Mack was the lead investigator and produced zero evidence; Robert Wilters (DA) was the presiding judge.
+      THE PIVOT: Article 2 establishes a history of institutional failure, cover-ups, and compromised justice (Lawrence Jr. case) within the BCSO, providing context for the public distrust raised in Article 1 regarding Lowery's handling of immigration enforcement.
+      KEY ENTITIES: Sheriff Anthony Lowery, Sheriff Hoss Mack, Murray Lawrence Jr., Robert Wilters, BCSO
+    widget_date: "2026-01-21"
+    generated_at: "2026-11-05T20:13:43.132936Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bcso-culture:
+    brief: |-
+      THE CONFLICT: Allegations that the BCSO has quietly stepped back from active cooperation with federal immigration enforcement, possibly tied to the May 19th election cycle.
+      THE DISCOVERY: Anthony Lowery is linked to a "culture of lies, wrongful incarceration, deadly shootings" within BCSO, characterized by blanket immunity and no accountability. This culture includes the 2017 fatal shooting of Johnathan Victor (Deputy Lt. Matthew Hunady cleared by federal jury), and the wrongful conviction of Murray Lawrence Jr. (Lowery was lead investigator; Mack/Wilters hid exculpatory evidence).
+      THE PIVOT: Article 2 provides specific, documented instances of professional misconduct (Victor shooting, Lawrence conviction) under Lowery's tenure, establishing a pattern of systemic lack of accountability that undermines his claims of public safety integrity in Article 1.
+      KEY ENTITIES: Anthony Lowery, Johnathan Victor, Matthew Hunady, Murray Lawrence Jr., Hoss Mack, Robert Wilters, Matt McKenzie
+    widget_date: "2025-10-05"
+    generated_at: "2026-11-05T20:13:43.132936Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hanky-panky-by-the-po-po:
+    brief: |-
+      THE CONFLICT: Allegations that the BCSO has quietly stepped back from active cooperation with federal immigration enforcement, possibly tied to the May 19th election cycle.
+      THE DISCOVERY: The BCSO has internal hanky panky problems: a top officer engaged in an extracurricular activity with a subordinate female employee married to a fellow officer. No official action was taken, suggesting a cover-up under Sheriff Hoss Mack. This also references the wrongful conviction of Murray Lawrence Jr., where Mack was the lead investigator and Robert Wilters (DA) was the presiding judge.
+      THE PIVOT: Article 2 establishes a history of institutional failure, cover-ups, and compromised justice (Lawrence Jr. case) within the BCSO, providing context for the public distrust raised in Article 1 regarding Lowery's handling of immigration enforcement.
+      KEY ENTITIES: Sheriff Anthony Lowery, Sheriff Hoss Mack, Murray Lawrence Jr., Robert Wilters, BCSO
+    widget_date: "2024-05-31"
+    generated_at: "2026-11-05T20:13:43.132936Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  JUDGE-VS-SHERIFF:
+    brief: |-
+      THE CONFLICT: Allegations that the BCSO has quietly stepped back from active cooperation with federal immigration enforcement, possibly tied to the May 19th election cycle.
+      THE DISCOVERY: Sheriff Hoss Mack and DA Robert Wilters pressured a judge to reverse a ruling compelling the BCSO to return a seized car. Hoss Mack's influence dates back 10 years when Sen. Trip Pittman sponsored SB 312, which allowed Mack to secure two terms. Furthermore, the 2021 ruling in *Lagniappe v. Mack* (Associate Justice Greg Shaw) set precedent by declaring law enforcement investigative reports privileged and not public records.
+      THE PIVOT: Article 2 reveals a history of political influence (Pittman's SB 312) and institutional resistance to public transparency (Mack/Wilters pressure, *Lagniappe* ruling), demonstrating the entrenched power structure in BCSO that challenges accountability demanded by Article 1.
+      KEY ENTITIES: Sheriff Hoss Mack, Robert Wilters, Sen. Trip Pittman, Associate Justice Greg Shaw, Lagniappe v. Mack, Pittman
+    widget_date: "2023-09-22"
+    generated_at: "2026-11-05T20:13:43.132936Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

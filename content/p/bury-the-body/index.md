@@ -101,7 +101,9 @@ The Council has already started blaming the City Clerk and the Mayor. The Counci
 
 The below documents represent what The Ripp Report has been able to obtain so far.
 
-https://cdn.rippreport.com/wp-content/uploads/2018/10/Emergency-Petition.pdf
+<iframe title="Emergency petition" src="/p/bury-the-body/emergency-petition.pdf" style="height:1200px;width:100%;border:0;"></iframe>
+
+[Open or download the emergency petition (PDF)](/p/bury-the-body/emergency-petition.pdf).
 
 Fairhope cut the head off the snake, now we need to get rid of the body.
 

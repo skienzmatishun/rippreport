@@ -109,6 +109,8 @@ func NewOrchestrator(
 			Port:             8080,
 			ContextSize:      cfg.LlamaServer.ContextSize,
 			GPULayers:        cfg.LlamaServer.GPULayers,
+			BatchSize:        cfg.LlamaServer.BatchSize,
+			UBatchSize:       cfg.LlamaServer.UBatchSize,
 			StartupTimeout:   cfg.LlamaServer.StartupTimeout,
 			DraftModel:       cfg.LlamaServer.DraftModel,
 			SpecType:         cfg.LlamaServer.SpecType,

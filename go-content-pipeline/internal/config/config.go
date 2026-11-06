@@ -97,6 +97,8 @@ type LlamaServerConfig struct {
 	ModelsDir       string        `yaml:"models_dir,omitempty"`
 	ContextSize     int           `yaml:"context_size,omitempty"`
 	GPULayers       int           `yaml:"gpu_layers,omitempty"`
+	BatchSize       int           `yaml:"batch_size,omitempty"`
+	UBatchSize      int           `yaml:"ubatch_size,omitempty"`
 	EmbeddingModel  string        `yaml:"embedding_model"`
 	LLMModel        string        `yaml:"llm_model"`
 	ScoringModel    string        `yaml:"scoring_model,omitempty"`

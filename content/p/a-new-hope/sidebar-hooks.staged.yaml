@@ -1,0 +1,97 @@
+metadata:
+  generated_at: "2026-11-05T19:52:05.053474Z"
+  generator_version: 1.0.0
+  post_slug: a-new-hope
+  main_date: "2026-05-25"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  audio-of-bay-minette-attorney-councilman-fight-offers-new-details:
+    brief: |-
+      THE CONFLICT: City of Bay Minette v Harry Still III for assaulting Council Member Matthew J Franklin; verdict on Thursday was NOT GUILTY.
+      THE DISCOVERY: The audio recording of the fight (Sept 3) was released, showing a fight between Harry Still and Matthew Franklin, and Still's interaction with law enforcement at the Baldwin County Jail.
+      THE PIVOT: The audio provides contradictory details to the initial narratives provided by former Mayor Bob Wills and former Chief Al Tolbert, supporting Still's account that Franklin initiated the attack.
+      KEY ENTITIES: Harry Still, Matthew J Franklin, Bob Wills, Al Tolbert, Lagniappe
+    widget_date: "2025-11-23"
+    generated_at: "2026-11-05T19:52:05.049939Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  heart-of-dixie-podcast:
+    brief: |-
+      THE CONFLICT: City of Bay Minette v Harry Still III for assaulting Council Member Matthew J Franklin; verdict on Thursday was NOT GUILTY.
+      THE DISCOVERY: Still's podcast discusses his arrest, attempted involuntary commitment, and claims Franklin threatened him and his dog; also mentions Al Tolbert's alleged meeting with officers regarding Mayor-elect Joshua Brown.
+      THE PIVOT: The podcast offers Still's personal defense and frames the incident within the context of local political power struggles (Joshua Brown vs. Bob Wills) and Al Tolbert's role in the incident.
+      KEY ENTITIES: Harry Still, Matthew Franklin, Al Tolbert, Joshua Brown, Bob Wills, BCSO
+    widget_date: "2025-11-21"
+    generated_at: "2026-11-05T19:52:05.049939Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  guilty-audiobook:
+    brief: |-
+      THE CONFLICT: City of Bay Minette v Harry Still III for assaulting Council Member Matthew J Franklin; verdict on Thursday was NOT GUILTY.
+      THE DISCOVERY: Focuses on the wrongful conviction of Murray Lawrence Jr. (2003) for Brandon Hastings' murder; Robert Wilters (DA/Judge), Hoss Mack (Sheriff/Investigator), and Kristi Haygood (Asst. D.A.) allegedly suppressed a second autopsy report showing suffocation, not gunshot.
+      THE PIVOT: Shifts the focus from the Still case to systemic judicial corruption, proving Robert Wilters and Hoss Mack were complicit in a major miscarriage of justice.
+      KEY ENTITIES: Murray Lawrence Jr, Robert Wilters, Hoss Mack, Kristi Haygood, Anthony Lowery, Scott Taylor
+    widget_date: "2026-04-16"
+    generated_at: "2026-11-05T19:52:05.049939Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bay-minette-vote-out-mayor-wills-remember-oj-french:
+    brief: |-
+      THE CONFLICT: O. J. French was shot by Bay Minette police; Mayor Bob Wills allegedly lied to the family about the circumstances.
+      THE DISCOVERY: A federal lawsuit has been filed on behalf of O. J. French's family against the BCSO/BCMCU; the lawsuit criticizes Mayor Wills for his lack of integrity and self-serving behavior.
+      THE PIVOT: Establishes a pattern of institutional cover-ups (BCMCU) involving Mayor Wills and Al Tolbert related to the O. J. French death, reinforcing the theme of local corruption.
+      KEY ENTITIES: Bob Wills, O. J. French, Al Tolbert, Joshua Brown, BCSO, BCMCU
+    widget_date: "2025-08-23"
+    generated_at: "2026-11-05T19:52:05.049939Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  justified:
+    brief: |-
+      THE CONFLICT: City of Bay Minette v Harry Still III for assaulting Council Member Matthew J Franklin; verdict on Thursday was NOT GUILTY.
+      THE DISCOVERY: Details the O. J. French killing via traffic stop; the BCSO/BCMCU self-investigated; Al Tolbert is on the BCMCU; Johnathan Victor also died after being shot by a sheriff deputy.
+      THE PIVOT: Connects the Still case to the broader, documented pattern of police misconduct and self-investigation (BCMCU) in Baldwin County concerning O. J. French and Johnathan Victor.
+      KEY ENTITIES: O. J. French, Al Tolbert, Hoss Mack, Robert Wilters, Brandon Thompson, Johnathan Victor, BCSO
+    widget_date: "2025-03-08"
+    generated_at: "2026-11-05T19:52:05.049939Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-law-enforcement-narrative-2:
+    brief: |-
+      THE CONFLICT: City of Bay Minette v Harry Still III for assaulting Council Member Matthew J Franklin; verdict on Thursday was NOT GUILTY.
+      THE DISCOVERY: Claims Harry Still knows too much about the narrative fed by BCSO/BCMCU, listing multiple cover-ups including O. J. French, Jonathan Victor, and five people killed in a wrong-way I-10 pursuit.
+      THE PIVOT: Frames the Still incident as part of a larger, ongoing pattern of police disinformation and cover-ups orchestrated by Sheriff Huey Mack, undermining the official law enforcement narrative.
+      KEY ENTITIES: Harry Still, Sheriff Huey Mack, O. J. French, Jonathan Victor, BCSO, BCMCU
+    widget_date: "2025-09-10"
+    generated_at: "2026-11-05T19:52:05.049939Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  FEDERAL-CIVIL-RIGHTS-LAWSUIT-INVOLVES-BCSO-AND-MAJOR-CRIMES-UNIT:
+    brief: |-
+      THE CONFLICT: City of Bay Minette v Harry Still III for assaulting Council Member Matthew J Franklin; verdict on Thursday was NOT GUILTY.
+      THE DISCOVERY: A federal civil rights lawsuit was filed regarding O. J. French’s murder by Bay Minette police officer Brandon Thompson, involving the BCSO and Major Crimes Unit.
+      THE PIVOT: Confirms the legal severity of the O. J. French case, providing the specific legal context for the police misconduct alleged in the local context.
+      KEY ENTITIES: O. J. French, Brandon Thompson, BCSO, Hoss Mack, Mayor Wills, Brandon Thompson
+    widget_date: "2024-08-01"
+    generated_at: "2026-11-05T19:52:05.049939Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  no-justice:
+    brief: |-
+      THE CONFLICT: City of Bay Minette v Harry Still III for assaulting Council Member Matthew J Franklin; verdict on Thursday was NOT GUILTY.
+      THE DISCOVERY: Robert Wilters (DA/Judge), Hoss Mack (Sheriff/Investigator), and David Whetstone (Prosecutor) colluded to wrongfully convict Murray Lawrence Jr. (2003) for Brandon Hastings' murder; they suppressed a second autopsy report showing suffocation, not gunshot.
+      THE PIVOT: Details a specific, long-standing miscarriage of justice (Lawrence case), demonstrating institutional corruption involving Wilters and Mack, paralleling the allegations against the Still case.
+      KEY ENTITIES: Murray Lawrence Jr, Brandon Hastings, Robert Wilters, Hoss Mack, David Whetstone, Kristi Haygood
+    widget_date: "2024-01-26"
+    generated_at: "2026-11-05T19:52:05.049939Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bonum-est-faciet-2022:
+    brief: |-
+      THE CONFLICT: City of Bay Minette v Harry Still III for assaulting Council Member Matthew J Franklin; verdict on Thursday was NOT GUILTY.
+      THE DISCOVERY: Bob Wills' building is rented by the Baldwin County Legislative Delegation; AG Steve Marshall joined the Mable Amos Trust lawsuit; Tom Albritton (Alabama Ethics Commission Trustee) is accused of self-dealing.
+      THE PIVOT: Expands the corruption scope beyond policing/judiciary to municipal/legislative financial issues and ethics violations involving Mayor Bob Wills.
+      KEY ENTITIES: Bob Wills, AG Steve Marshall, Mable Amos Trust, Tom Albritton, Alabama Ethics Commission, Matrix LLC Network
+    widget_date: "2022-12-31"
+    generated_at: "2026-11-05T19:52:05.049939Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  southern-gothic:
+    brief: |-
+      THE CONFLICT: City of Bay Minette v Harry Still III for assaulting Council Member Matthew J Franklin; verdict on Thursday was NOT GUILTY.
+      THE DISCOVERY: Reflects on Baldwin County’s history, noting past corruption (2005 land coups) and political patronage; states Bob Wills was stymied by an "angry little man" (Still) before unsuccessfully running for Mayor.
+      THE PIVOT: Provides historical and moral context for the current corruption, framing the Still case not as an isolated event, but as a conflict against an entrenched local political "Cabal."
+      KEY ENTITIES: Harry Still, Bob Wills, CSB (Catalyst Scott Boone Consulting), Judge Charles Hall, Baldwin County Commission
+    widget_date: "2021-04-02"
+    generated_at: "2026-11-05T19:52:05.049939Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

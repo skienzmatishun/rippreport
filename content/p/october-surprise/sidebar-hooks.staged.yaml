@@ -1,0 +1,79 @@
+metadata:
+  generated_at: "2026-11-05T22:45:29.215084Z"
+  generator_version: 1.0.0
+  post_slug: october-surprise
+  main_date: "2026-10-30"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  court-of-public-opinion-3-rerun:
+    brief: |-
+      1. THE CONFLICT: Gubernatorial race polling showed Tommy Tuberville at 51% vs. Doug Jones at 40%. Legal battles included Trent Garmon taking on the Alabama State Bar in federal court.
+      2. THE DISCOVERY: The Baldwin County Sheriff Office (BCSO), under Hoss Mack, established total immunity for officers; Mack requested $600,000 for cameras, promising public view but blocked footage release.
+      3. THE PIVOT: The BCSO's lack of transparency and immunity, coupled with Mack's political ambitions (securing Tommy Tuberville as Governor and aiming for ALEA), provides specific, local context to the broader corruption theme mentioned in the main article's focus on Baldwin County.
+      4. KEY ENTITIES: Hoss Mack, BCSO, Tommy Tuberville, Murray Lawrence Jr, Anthony Lowery, Baldwin County
+    widget_date: "2026-10-22"
+    generated_at: "2026-11-05T22:45:29.214881Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hut:
+    brief: |-
+      1. THE CONFLICT: The main article addressed legal battles (Trent Garmon vs. Alabama State Bar) and political shifts (Tommy Tuberville ahead of Doug Jones).
+      2. THE DISCOVERY: The Hermit Hut (Round House) was a concrete tool shed built by Henry Stuart in the twenties as an isolation ward due to tuberculosis; local elite romanticized it as a Southern Thoreau.
+      3. THE PIVOT: Article 2 details a specific, localized instance of private gain wrapped in public virtue, where the municipality is bankrolling the relocation of a private structure from commercial land for developer profit, linking local political maneuvering to the broader corruption theme.
+      4. KEY ENTITIES: Hermit Hut, Henry Stuart, Fairhope, Concrete Tool Shed, Commercial Real Estate Owner
+    widget_date: "2026-10-14"
+    generated_at: "2026-11-05T22:45:29.214881Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  our-man-in-mar-a-lago:
+    brief: |-
+      1. THE CONFLICT: The main article covered the gubernatorial race (Tuberville 51% vs. Jones 40%) and Trent Garmon's legal battle against the Alabama State Bar.
+      2. THE DISCOVERY: The Mabel Amos Scholarship Trust was administered by the Director of the Alabama Ethics Commission, formerly of the Andalusia Alabama Law Firm of Allbritton, Clifton, Alverson, Moody and Bowden.
+      3. THE PIVOT: Article 2 connects high-level legal corruption (Allbritton/Alverson) and ethical concerns (Mabel Amos Trust) to local criminal activity (arrest of a Baldwin County Homeland Security Special Agent for child predators), reinforcing the theme of corruption running deep in Baldwin County.
+      4. KEY ENTITIES: Mabel Amos Scholarship Trust, Allbritton, Clifton, Alverson, Moody, Bowden, Kevin Brock, Harry Still, Alabama State Bar
+    widget_date: "2026-09-10"
+    generated_at: "2026-11-05T22:45:29.214881Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-state-of-the-alabama-state-bar:
+    brief: |-
+      1. THE CONFLICT: Trent Garmon is challenging the Alabama State Bar in federal court, alongside discussions of the gubernatorial race and prison infrastructure issues ($1.25 billion Elmore County site).
+      2. THE DISCOVERY: Jeanetta Pleasant JD, Katherine Church, and Beverly Barber JD detailed bad experiences with the Alabama State Bar; Tommy Gallion III was villianized by the State Bar; 12 bar complaints filed by Harry Still in 2022 included Roman Shaw, Jeremy McIntyre, and Phillip McCallum.
+      3. THE PIVOT: Article 2 provides specific examples of ethical violations and misconduct within the Alabama State Bar, directly supporting the main article's focus on the legal battles and the integrity of the state's legal system.
+      4. KEY ENTITIES: Alabama State Bar, Trent Garmon, Harry Still, Thomas Gallion III, Jeanetta Pleasant JD, Phillip McCallum
+    widget_date: "2026-09-05"
+    generated_at: "2026-11-05T22:45:29.214881Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  august-special-edition:
+    brief: |-
+      1. THE CONFLICT: The main article analyzed the gubernatorial race (Tuberville 51% vs. Jones 40%) and discussed legal battles like Trent Garmon vs. Alabama State Bar.
+      2. THE DISCOVERY: A special election was held on August 11, 2026, concerning the I-10 Bayway Bridge (toll) Project; Farmers and Cowpokes want to slow development in Baldwin County, led by Sheriff Huey Mack (GUMBO-68 Ventures).
+      3. THE PIVOT: Article 2 contextualizes the local development and corruption concerns (Bayway Bridge/Sheriff Mack) within a specific election timeline, connecting local issues directly to the broader political instability and corruption mentioned in the main episode.
+      4. KEY ENTITIES: Huey Mack, GUMBO-68 Ventures, I-10 Bayway Bridge, Baldwin County, Doug Jones, Tommy Tuberville
+    widget_date: "2026-08-11"
+    generated_at: "2026-11-05T22:45:29.214881Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  orange-beach-tyranny:
+    brief: |-
+      1. THE CONFLICT: The main article covered the gubernatorial race (Tuberville 51% vs. Jones 40%) and Trent Garmon's legal challenge against the Alabama State Bar.
+      2. THE DISCOVERY: Mayor Tony Kennon and his executives compartmentalized information from the public; a Federal Lawsuit investigated the Orange Beach Police interaction with Kennon; investigation into the 2016 disappearance/death of Danny Williams (Perdido Pass) was ignored by the City Attorney and ALEA.
+      3. THE PIVOT: Article 2 provides concrete evidence of municipal malfeasance (Orange Beach) involving Mayor Tony Kennon, linking local political power abuse and police inaction to the overall theme of "overdevelopment and corruption" in Baldwin County.
+      4. KEY ENTITIES: Tony Kennon, Orange Beach, Danny Williams, Neeli Faulkner, Whitney Scapecchi, ALEA, Baldwin County
+    widget_date: "2026-07-09"
+    generated_at: "2026-11-05T22:45:29.214881Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  primary-postpartum:
+    brief: |-
+      1. THE CONFLICT: The main article discussed the gubernatorial race (Tuberville 51% vs. Jones 40%) and legal battles, including Trent Garmon vs. Alabama State Bar.
+      2. THE DISCOVERY: City of Orange Beach officials slandered Baldwin County Attorney Harry Still when he was arrested and assaulted by Bay Minette City Councilman Matt Franklin; the episode lamented Primary Election results, Tubberville/Roy Moore lawsuits, and Tony Kennon's ethics problems.
+      3. THE PIVOT: Article 2 details a specific local political conflict (slander of Harry Still by Orange Beach officials and Matt Franklin) and links it to broader local corruption (Tony Kennon's ethics problems), providing a focused case study supporting the theme of Baldwin County corruption.
+      4. KEY ENTITIES: Harry Still, Matt Franklin, Orange Beach City Officials, Tony Kennon, Bay Minette City Councilman, Tubberville, Roy Moore
+    widget_date: "2026-06-20"
+    generated_at: "2026-11-05T22:45:29.214881Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-national-news:
+    brief: |-
+      1. THE CONFLICT: The main article covered the gubernatorial race (Tuberville 51% vs. Jones 40%) and legal battles, including Trent Garmon vs. Alabama State Bar.
+      2. THE DISCOVERY: Alabama ranked "DEAD LAST" nationally in Education; the worst prison system in the U.S.; and the state was first in opposition to Abortion, even against incest/rape victim minors.
+      3. THE PIVOT: Article 2 shifts the focus from local Baldwin County issues to systemic, statewide failures (Education, Prison, Abortion policy), providing crucial national context to the local corruption claims by demonstrating deeper governmental dysfunction in Alabama.
+      4. KEY ENTITIES: Kay Ivey, Alabama Prison System, Baldwin County, Tommy Tuberville, Doug Jones, Governor Kay Ivey
+    widget_date: "2019-05-15"
+    generated_at: "2026-11-05T22:45:29.214881Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

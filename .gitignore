@@ -58,3 +58,25 @@ top_sidebar_phrases_output.json
 go-content-pipeline/*
 bin/*
 internal/*
+box/
+box/*
+box
+*.mbox
+
+# Archive verifier implementation and requested PDF inventory.
+!audit/missing_pdfs.json
+!go-content-pipeline/internal/
+go-content-pipeline/internal/*
+!go-content-pipeline/internal/archive/
+!go-content-pipeline/internal/archive/browser.py
+!go-content-pipeline/internal/cli/
+go-content-pipeline/internal/cli/*
+!go-content-pipeline/internal/cli/archive.go
+!go-content-pipeline/internal/cli/archive_test.go
+!go-content-pipeline/docs/
+go-content-pipeline/docs/*
+!go-content-pipeline/docs/ARCHIVE_VERIFIER.md
+!go-content-pipeline/internal/linkaudit/
+!go-content-pipeline/internal/cli/linkaudit.go
+!go-content-pipeline/internal/cli/linkaudit_test.go
+!go-content-pipeline/docs/LINK_AUDIT.md
