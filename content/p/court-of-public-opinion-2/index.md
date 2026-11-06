@@ -107,11 +107,7 @@ The above, is no concern of the ethics commission nor is it relevant that Mr. Al
 
 This is the response from the Ethics Commission, General Council
 
-<div style="height:1000px;width:100%;">
-<iframe title="Emergency petition" src="/p/court-of-public-opinion-2/brown-ethics-complaint.pdf" style="height:100%;width:100%;border:0;"></iframe>
-</div>
-
-[Open or download the Document](/p/court-of-public-opinion-2/brown-ethics-complaint.pdf)
+[File Temporarily Unavailable](https://cdn.rippreport.com/668ea96d-ethics-com-min.pdf)
 
 The Alabama Ethics Commission forgot what the definition of Ethics's is:
 
@@ -125,7 +121,11 @@ For the Ethics Commission to allow Mr. Albritton to remain Executive Director, w
 
 The Ripp Report also filed a Alabama Bar complaint against Mr. Albritton, below is Mr. Albritton's responce to the Bar addressing my complaint.
 
-https://cdn.rippreport.com/2a1177a2-skm\_558e2109031024011\_compressed.pdf
+<div style="height:1000px;width:100%;">
+<iframe title="Emergency petition" src="/p/court-of-public-opinion-2/albritton-complaint.pdf" style="height:1000px;width:100%;border:0;"></iframe>
+</div>
+
+[Open or download](/p/court-of-public-opinion-2/albritton-complaint.pdf)
 
 The Ripp Report will respond to the letter Mr. Albritton submitted to the Bar and post it. Mr Albritton's letter is a sad comentaryof his interpertation of has actions. His omessions of certain facts will be corrected.
 
