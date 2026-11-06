@@ -107,7 +107,10 @@ The above, is no concern of the ethics commission nor is it relevant that Mr. Al
 
 This is the response from the Ethics Commission, General Council
 
-https://cdn.rippreport.com/668ea96d-ethics-com-min.pdf
+<div style="height:1000px;width:100%;">
+<iframe title="Emergency petition" src="/p/court-of-public-opinion-2/brown-ethics-complaint.pdf" style="height:100%;width:100%;border:0;"></iframe>
+</div>
+[Open or download the emergency petition (PDF)](/p/court-of-public-opinion-2/brown-ethics-complaint.pdf).
 
 The Alabama Ethics Commission forgot what the definition of Ethics's is:
 
