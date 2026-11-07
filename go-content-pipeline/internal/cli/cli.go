@@ -1113,7 +1113,7 @@ func (a *App) runNewPost(ctx context.Context, args []string) int {
 	emailDays := fs.Int("email-days", 2, "Number of days back to search in Apple Mail (default 2)")
 	runPipeline := fs.Bool("pipeline", false, "Run recommendation pipeline (generate-related, generate-hooks, refine-hooks) on the new post")
 	skipRefine := fs.Bool("skip-refine", false, "Skip hook refinement with Gemini when --pipeline is used")
-	podcast := fs.Bool("podcast", false, "Create as podcast post (includes youtube field)")
+	podcast := fs.Bool("podcast", false, "Create as podcast post; optionally follow with a YouTube URL or ID to fetch summary and thumbnail")
 	youtubeURL := fs.String("youtube", "", "YouTube video URL or ID (fetches summary, thumbnail, and embeds shortcodes)")
 	categories := fs.String("categories", "", "Comma-separated list of categories")
 	tags := fs.String("tags", "", "Comma-separated list of tags")
@@ -1123,6 +1123,27 @@ func (a *App) runNewPost(ctx context.Context, args []string) int {
 		if err == flag.ErrHelp {
 			return 0
 		}
+		return 1
+	}
+
+	// Boolean flags do not consume the following argument. Accept a video after
+	// --podcast and resume parsing so flags after that video are honored too.
+	if *podcast && *youtubeURL == "" && fs.NArg() > 0 {
+		video := fs.Arg(0)
+		if _, err := youtube.ExtractVideoID(video); err != nil {
+			fmt.Fprintf(a.stderr, "Error: invalid podcast video: %v\n", err)
+			return 1
+		}
+		*youtubeURL = video
+		if err := fs.Parse(fs.Args()[1:]); err != nil {
+			if err == flag.ErrHelp {
+				return 0
+			}
+			return 1
+		}
+	}
+	if fs.NArg() > 0 {
+		fmt.Fprintf(a.stderr, "Error: unexpected arguments: %s (use --youtube URL or --podcast URL)\n", strings.Join(fs.Args(), " "))
 		return 1
 	}
 
