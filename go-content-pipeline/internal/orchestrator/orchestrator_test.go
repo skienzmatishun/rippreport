@@ -3,9 +3,11 @@ package orchestrator
 import (
 	"context"
 	"fmt"
+	"github.com/rippreport/go-content-pipeline/internal/models"
 	"os"
 	"path/filepath"
 	"testing"
+	"time"
 
 	"github.com/rippreport/go-content-pipeline/internal/cache"
 	"github.com/rippreport/go-content-pipeline/internal/config"
@@ -150,5 +152,38 @@ func TestOrchestrator_RunPipeline(t *testing.T) {
 	}
 	if res.Hooks.TotalHooks == 0 {
 		t.Errorf("expected generated hooks > 0, got %d", res.Hooks.TotalHooks)
+	}
+}
+
+func TestHooksComplete(t *testing.T) {
+	dir := t.TempDir()
+	path := filepath.Join(dir, "sidebar-hooks.yaml")
+	related := []models.RelatedArticle{{Slug: "target"}}
+	if hooksComplete(path, "main", related) {
+		t.Fatal("missing output was complete")
+	}
+	meta := models.HookMetadata{PostSlug: "main", GeneratedAt: time.Now(), GeneratorVersion: models.HookGeneratorVersion}
+	hooks := []*models.Hook{{WidgetSlug: "target", Brief: "A connection", Generated: time.Now()}}
+	if err := processor.SaveHooks(dir, meta, hooks); err != nil {
+		t.Fatal(err)
+	}
+	if !hooksComplete(path, "main", related) {
+		t.Fatal("valid output was incomplete")
+	}
+	if hooksComplete(path, "other", related) {
+		t.Fatal("wrong post was complete")
+	}
+	related = append(related, models.RelatedArticle{Slug: "new-target"})
+	if hooksComplete(path, "main", related) {
+		t.Fatal("partial output was complete")
+	}
+	if hooksComplete(filepath.Join(dir, "sidebar-hooks.staged.yaml"), "main", related[:1]) {
+		t.Fatal("production output satisfied staging")
+	}
+	if err := os.WriteFile(path, []byte("invalid: ["), 0644); err != nil {
+		t.Fatal(err)
+	}
+	if hooksComplete(path, "main", related[:1]) {
+		t.Fatal("invalid output was complete")
 	}
 }

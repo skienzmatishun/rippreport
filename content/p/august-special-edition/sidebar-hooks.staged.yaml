@@ -1,273 +1,112 @@
 metadata:
-  generated_at: "2026-11-05T18:52:05.075311Z"
+  generated_at: "2026-11-06T05:28:11.652534Z"
   generator_version: 1.0.0
   post_slug: august-special-edition
   main_date: "2026-08-11"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  open-your-eyes:
+  they-dont-want-you-to-see-this-2:
+    brief: |-
+      THE CONFLICT: Opposition to the I-10 Bayway Bridge (toll) project in Baldwin County, Alabama, led to a call for a vote on May 19.
+      THE DISCOVERY: On May 19, voters were urged to vote Jerry Carl OUT and support Austin Sidwell for Congress to "break the system."
+      THE PIVOT: The May 19 effort (Article 2) provides historical context for the ongoing struggle against the I-10 Bayway Bridge construction discussed in the August 11, 2026 special election (Article 1).
+      KEY ENTITIES: Jerry Carl, Austin Sidwell, I-10 Bayway Bridge, Baldwin County, Sheriff Huey Mack, Harry Still, Doug Jones, The GUMBO- 68 Ventures
+    llm_text: Baldwin County voters rejected Jerry Carl and backed Austin Sidwell on May 19, fueling the fight against the I-10 Bayway Bridge. See how that historic effort shapes the August 2026 election and the ongoing struggle to break the system.
+    widget_date: "2026-08-10"
+    generated_at: "2026-11-06T05:27:50.418106Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fairhope-wrongful-conviction:
     brief: |-
       THE CONFLICT:
-      *   Special election is scheduled for August 11, 2026.
-      *   I-10 Bayway Bridge (toll) Project is moving forward in Alabama.
-      *   Farmers and Cowpokes want to slow development in Baldwin County, led by GUMBO-68 Ventures-Sheriff Huey Mack.
+      - Murray Lawrence Jr. is serving life without parole for a murder he did not commit.
+      - No physical evidence connected Murray to the murder: no DNA, no weapon, no witness who placed him there.
+      - The State had a man who confessed to the killing, changed his story only after investigators offered him a way out, and named Murray in the version that saved him.
+      - Alabama special election on August 11, 2026; main article discusses election choices.
+      - State of Alabama moving forward with I-10 Bayway Bridge (toll) Project.
+      - Farmers and Cowpokes want to slow development in Baldwin County.
+      - Led by GUMBO-68 Ventures- Sheriff Huey Mack.
+      - DA’s office abusing Grand Jury discovery process.
+      - Tubberville says going to DOGE Alabama Government.
+      - Republicans in control of Alabama Government since 2010.
+      - Real possibility Doug Jones has a shot at the Governor’s chair.
+      - Democratic Party Bosses agendas; Democratic Party running Governor candidate from Florida and Lt Governor from Tennessee.
+
       THE DISCOVERY:
-      *   Alabama has historically elected only Republicans, despite candidate credentials.
-      *   Governor Kay Ivey is seen as being "handled" due to her refusal to debate opposition, leading to four more years of "limbo government."
-      *   Mayor Walt Maddox of Tuscaloosa is presented as a unifying leader, similar to Coach Paul “Bear” Bryant.
+      - Article 2: Academy Award nominated Alabama Solution Documentary showed what happens inside Alabama’s prisons.
+      - Article 2: This is what happens before someone ever walks through the door; it may be the more disturbing story.
+      - Article 2/book: To get Murray out of prison, must get his story out.
+      - Book laid out record in full: coercion, suppressed evidence, case for Murray’s innocence courts never had to answer.
+      - Legal question still open; book follows it to conclusion.
+
       THE PIVOT:
-      *   Article 2 provides historical context on Alabama's political structure (Republican control since 2010) and critiques current leadership (Kay Ivey), framing the I-10 Bridge discussion within a larger context of political disillusionment.
+      - Article 2 is older than Article 1; frame it as background/historical context.
+      - Article 2 showed alleged wrongful conviction, coercion, suppressed evidence.
+      - Article 1 discusses Alabama legal/political issues, DA’s office, Grand Jury discovery, special election, bridge, Doug Jones, etc.
+      - Article 2 is the smoking gun/key context for Article 1 because it documents alleged Alabama wrongful conviction/justice system failure.
+
       KEY ENTITIES:
-      *   Harry Still
-      *   Heart of Dixie Podcast
-      *   Bayway Bridge
-      *   Jerry Carl
-      *   Flock
-      *   Kay Ivey
-      *   Walt Maddox
-      *   Paul “Bear” Bryant
-      *   Tuscaloosa
-    widget_date: "2018-08-08"
-    generated_at: "2026-11-05T18:52:05.071885Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  puzzle-pieces:
+      - Main article: Harry Still, Heart of Dixie Podcast, Bayway Bridge, Jerry Carl, Flock.
+      - Widget article: BCSO, Murray Lawrence Jr.
+      - People: Sheriff Huey Mack, Tubberville, Doug Jones, Jerry Carl, Harry Still, Lowery, Wilters.
+      - Organizations: GUMBO-68 Ventures, Farmers and Cowpokes, DA’s office, Republican Party, Democratic Party, DOGE, Alabama Government, Data Centers, Bennett’s Archery Supply, Heart of Dixie Podcast, BCSO.
+      - Locations: Alabama, Baldwin County, Wetumpka, Alabama, Florida, Tennessee.
+    llm_text: Murray Lawrence Jr. is in an Alabama prison for a murder he did not commit, and no DNA, weapon, or witness placed him there. The State used a coerced confession and suppressed evidence, so Harry Still’s podcast and the Academy Award nominated documentary may finally force a legal reckoning.
+    widget_date: "2026-08-01"
+    generated_at: "2026-11-06T05:27:00.189316Z"
+    model_name: recursive/flint-v1.0:free
+  faux-pas:
     brief: |-
-      THE CONFLICT:
-      *   Special election is scheduled for August 11, 2026.
-      *   I-10 Bayway Bridge (toll) Project is moving forward in Alabama.
-      *   Farmers and Cowpokes want to slow development in Baldwin County, led by GUMBO-68 Ventures-Sheriff Huey Mack.
-      THE DISCOVERY:
-      *   Alabama is described as the most corrupt state in the United States.
-      *   The I-10 bridge project involves P3 partners investing $2.1 billion.
-      *   Project Pelican was a secret deal between Florida, Washington politicians, and the United Arab Emirates (UAE) to lease Port Canaveral for 35 years.
-      *   Gulftainer (owned by the royal family of Dubai) leased the Port of Wilmington, Delaware, for 50 years.
-      *   In 2006, Governor Bob Riley turned down a UAE deal for the Port of Mobile, though he later invested $80 million (out of $300 million total) into the container terminal.
-      *   The current I-10 bridge plan (toll bridge, $2.1 billion) is questioned as a potential modern-day "Project Pelican" in Mobile, potentially involving Gulftainer/UAE interests.
-      THE PIVOT:
-      *   Article 2 links the current I-10 Bridge controversy to historical and international port leasing deals (UAE/Gulftainer in Florida and Delaware), suggesting the current project is not just an infrastructure issue but a potential foreign control conspiracy.
-      KEY ENTITIES:
-      *   Bob Riley
-      *   Gulftainer
-      *   Port Canaveral
-      *   United Arab Emirates
-      *   Kay Ivey
-      *   Jo Bonner
-      *   Mobile
-      *   Wilmington Delaware
-      *   Richard Clark (new deputy director of Alabama Port Authority)
-    widget_date: "2019-08-24"
-    generated_at: "2026-11-05T18:52:05.071885Z"
+      THE CONFLICT: A political event known as the "Faux Pas" occurred in Summerdale involving Rep Donna Givens and was documented on the Heart of Dixie Podcast.
+      THE DISCOVERY: Article 2 revealed that the "Catalyst Cabal" is not fictitious, confirming the presence of local "dirty politics."
+      THE PIVOT: The local political dynamics and scrutiny of figures like Sheriff Huey Mack (mentioned in both articles) established the context for current Baldwin County issues, such as the I-10 Bayway Bridge construction and the upcoming August 11, 2026, special election.
+      KEY ENTITIES: Harry Still, Huey Mack, Donna Givens, Richard Cox, Brandon Moseley, Whitney Scapecchi, Heart of Dixie Podcast, Summerdale, Baldwin County, I-10 Bayway Bridge, Doug Jones, Jerry Carl, Flock, BCSO.
+    llm_text: Donna Givens' Summerdale "Faux Pas" wasn't just drama; the "Catalyst Cabal" is real dirty politics. See how Huey Mack and local power affects the I-10 Bayway Bridge and the August 2026 Baldwin County election.
+    widget_date: "2026-01-26"
+    generated_at: "2026-11-06T05:26:53.795899Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  i-10-toll-bridge-state:
+  orange-beach-tyranny:
+    brief: "THE CONFLICT: \n- Friday of Memorial Day Weekend, two years prior to a \"naked lady on the balcony\" incident: Danny Williams—old friend of Orange Beach Mayor Tony Kennon and co-target of a 2016 federal drug investigation—disappeared and died in Perdido Pass.\n- Lack of a proper investigation into Williams' death.\n- Mayor Tony Kennon and a loyal band of executives (City Attorney, City Administrator, Chief of Police) compartmentalized information to conceal it from the media, citizens, bereaved family members, and the Orange Beach City Council.\n- Federal lawsuit filed regarding the disclosure of Orange Beach Police interactions with Mayor Kennon behind a closed door and a 911-calling Tiki Bar maid who witnessed the incident.\n- Murder Creek Media and The Alabama Gazette sought help from the Baldwin County Legislative Delegation after the Alabama Law Enforcement Agency (ALEA) ignored subpoenas regarding the matter.\n\nTHE DISCOVERY: \n- Background context from the older widget article (\"Orange Beach Tyranny\") reveals a documented history of institutional stonewalling and administrative corruption under Mayor Tony Kennon's administration in Orange Beach. \n- ALEA's General Counsel in Montgomery was contacted, resulting in a lockdown of Orange Beach City Hall and a failure by ALEA to respond.\n- Established a pattern and practice of malfeasance by city officials who answer to Kennon rather than the Council or the public.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it exposes the deep-rooted corruption, systemic cover-ups, and abuse of power by local officials (like Mayor Tony Kennon) and state agencies (like ALEA) in Baldwin County. This historical context proves that the current institutional rot, political friction, and grand jury discovery abuses mentioned in Article 1 (\"August Special Election\") are part of an ongoing, localized pattern of malfeasance and suppression by the established political power structure in the region.\n\nKEY ENTITIES: \n- Harry Still\n- Tony Kennon\n- Danny Williams\n- Neeli Faulkner\n- Whitney Scapecchi\n- Brandon Moseley\n- Mr. McCallum\n- Huey Mack\n- Doug Jones\n- Jerry Carl"
+    llm_text: Mayor Tony Kennon and his inner circle concealed Danny Williams' suspicious 2014 death in Perdido Pass, exposing deep-rooted municipal corruption. Read how this deadly cover-up proves current local political friction is just business as usual.
+    widget_date: "2026-07-09"
+    generated_at: "2026-11-06T05:26:17.897489Z"
+    model_name: gemini-3.5-flash-lite
+  primary-postpartum:
+    brief: "THE CONFLICT:\n- Baldwin County Attorney and podcast host Harry Still was arrested and assaulted by Bay Minette City Councilman Matt Franklin.\n- City of Orange Beach officials slandered Harry Still at the time of his arrest.\n- Local newscasters repeated unverified information regarding the incident.\n- Ongoing controversies involving Tommy Tubberville and Roy Moore lawsuits, Tony Kennon ethics problems, and Prichard police corruption.\n\nTHE DISCOVERY:\n- City of Orange Beach officials actively engaged in the slander of Harry Still during his arrest.\n- Local media outlets acted as uncritical mouthpieces, repeating false narratives sourced from officials regarding Still's arrest and the altercation with Matt Franklin.\n- Broader systemic issues of local government and official misconduct (Tony Kennon ethics problems, Prichard police corruption, PSC appointments).\n\nTHE PIVOT:\n- Article 2 establishes the historical pattern of targeted attacks, institutional slander, and local political corruption involving Harry Still and Orange Beach officials. \n- This background context explains the ongoing friction and legal/political maneuvers involving Harry Still mentioned in the current political landscape of Article 1 (August 11, 2026 special election, podcast coverage, and Baldwin County development battles).\n\nKEY ENTITIES:\n- Harry Still\n- Matt Franklin\n- Tony Kennon\n- Tommy Tubberville\n- Roy Moore\n- Orange Beach Officials\n- Bay Minette City Council"
+    llm_text: When Bay Minette Councilman Matt Franklin assaulted podcast host Harry Still, Orange Beach officials rushed to slander him, while local media dutifully repeated the lies. Unpack the dark history of institutional corruption and targeted political attacks that fuel Baldwin County's ongoing battles.
+    widget_date: "2026-06-20"
+    generated_at: "2026-11-06T05:26:23.008573Z"
+    model_name: gemini-3.5-flash-lite
+  mountain-medicine:
     brief: |-
-      THE CONFLICT:
-      *   Special election is scheduled for August 11, 2026.
-      *   I-10 Bayway Bridge (toll) Project is moving forward in Alabama.
-      *   Farmers and Cowpokes want to slow development in Baldwin County, led by GUMBO-68 Ventures-Sheriff Huey Mack.
-      THE DISCOVERY:
-      *   Alabama is cited as first in political corruption and last in nearly every category (obesity, drugs, education).
-      *   The I-10 toll is the only toll on the 2,460.34-mile federal highway (I-10).
-      *   The trucking industry (Alabama Trucking Association, represented by Mark Colson) believes the truck-only toll is unconstitutional (Commerce Clause violation).
-      *   MPO (led by Jack Burrell, Eastern Shore MPO Chairman) initially stated federal money was needed, but sponsors now propose a toll, reversing prior positions.
-      *   Mike Lee (former president of the Build the Bridge coalition) noted a "generational opportunity" for federal funding consideration.
-      THE PIVOT:
-      *   Article 2 provides detailed analysis on the I-10 toll's political and constitutional challenges, contrasting the initial push for federal funding with the current necessity of a state toll, thus framing the bridge debate beyond mere development versus conservation.
+      THE CONFLICT: An upcoming August 11, 2026 special election in Alabama involving the I-10 Bayway Bridge toll project, local resistance from "The GUMBO- 68 Ventures- Sheriff Huey Mack," DA's office abuse of the Grand Jury discovery process, and political positioning by Tommy Tubberville and Doug Jones.
+
+      THE DISCOVERY: The historical/background context (Article 2) reveals a previous discussion featuring Master Herbalist and author Darryl Patton, focusing on his book *Mountain Medicine: The Herbal Remedies of Tommy Bass* (detailing Appalachian/Native American pharmacologically important plants native to Alabama like magnolia bark, buckeye, green briar, cross vine, and yaupon holly), alongside a past Tuesday Run-Off and local commentary on Bay Minette, Alabama ice cream shops.
+
+      THE PIVOT: Article 2 serves as the underlying local/cultural foundation—bridging traditional Alabama heritage (ethnobotany, local folklore, and regional commerce like Bennett's Archery Supply) with the hard-edged political machinery, developer friction (68 Ventures), and high-stakes infrastructure battles (I-10 Bayway Bridge) dominating the 2026 election landscape in Article 1.
+
       KEY ENTITIES:
-      *   Toll Bridge
-      *   Burrell (Jack Burrell)
-      *   MPO
-      *   Mike Lee
-      *   Mark Colson
-      *   Richard Shelby
-      *   Tommy Tubberville
-      *   Mo Brooks
-    widget_date: "2021-06-11"
-    generated_at: "2026-11-05T18:52:05.071885Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  flies-in-the-ointment:
-    brief: |-
-      THE CONFLICT:
-      *   Special election is scheduled for August 11, 2026.
-      *   I-10 Bayway Bridge (toll) Project is moving forward in Alabama.
-      *   Farmers and Cowpokes want to slow development in Baldwin County, led by GUMBO-68 Ventures-Sheriff Huey Mack.
-      THE DISCOVERY:
-      *   Straight ticket voting leads to corrupt officials who are "FLIES IN THE OINTMENT."
-      *   County Commissioner Tucker Dorsey is criticized for political ambition and business connections (Catalyst).
-      *   Judge Michelle Thomason used the Baldwin County Republican Party to defeat an opponent, despite an infamous reputation involving broken families.
-      *   Kevin Boone (Fairhope City Council) was forced to follow the Mayor’s direction and is now an obstructionist against a new administration.
-      *   All "Flies" (Dorsey, Thomason, Boone) are "clients" of the Catalyst political group, whose principal operative is Scott Boone.
-      THE PIVOT:
-      *   Article 2 localizes the national political critique (straight ticket corruption) to Baldwin County, specifically naming local political actors (Dorsey, Thomason, Boone) and exposing the influence of the Catalyst political group, linking local corruption to the larger state issues discussed in Article 1.
-      KEY ENTITIES:
-      *   Tucker Dorsey
-      *   Michelle Thomason
-      *   Kevin Boone
-      *   Catalyst
-      *   Scott Boone
-      *   Pittman
-      *   Boone (Kevin)
-      *   Fairhope
-    widget_date: "2016-10-14"
-    generated_at: "2026-11-05T18:52:05.071885Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  a-reckoning-is-predicted:
-    brief: |-
-      THE CONFLICT:
-      *   Special election is scheduled for August 11, 2026.
-      *   I-10 Bayway Bridge (toll) Project is moving forward in Alabama.
-      *   Farmers and Cowpokes want to slow development in Baldwin County, led by GUMBO-68 Ventures-Sheriff Huey Mack.
-      THE DISCOVERY:
-      *   Sheriff Anthony Lowery lost to Matt McKenzie despite having five times the money, due to entrenched corrupt culture (BCSO).
-      *   Hoss Mack is attempting to become head of ALEA, which is considered a "horrible mistake" and a downfall of ALEA.
-      *   Baldwin County is shifting away from the GOB due to media (podcasts, social media, Lagniappe).
-      *   Senator Chris Elliott is in his last term and is predicted to fail, due to his use of Pac money, dark money, and GOB endorsements, specifically citing his closet secrets (solar farm, gambling issues).
-      *   Kristi Hagood was not qualified to be a judge but was supported by GOBs (Jon Gray and Scott Boone) and was involved in the wrongful conviction of Murray Lawrence Jr.
-      *   Robert Wilters (DA) and Hoss Mack (Sheriff) were involved in the wrongful conviction of Murray Lawrence Jr.
-      THE PIVOT:
-      *   Article 2 provides concrete evidence of the "GOB" corruption mentioned in Article 1, focusing heavily on the wrongful conviction of Murray Lawrence Jr. and the complicity of key figures (Wilters, Mack, Hagood, Lowery, Elliott), transforming general political criticism into specific, documented legal/judicial malfeasance.
-      KEY ENTITIES:
-      *   Anthony Lowery
-      *   Matt McKenzie
-      *   Hoss Mack
-      *   ALEA
-      *   Chris Elliott
-      *   Kristi Hagood
-      *   Robert Wilters
-      *   Murray Lawrence Jr.
-      *   Jon Gray
-      *   Scott Boone
-    widget_date: "2026-06-23"
-    generated_at: "2026-11-05T18:52:05.071885Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  january-22nd-qualifying-deadline:
-    brief: |-
-      THE CONFLICT:
-      *   Special election is scheduled for August 11, 2026.
-      *   I-10 Bayway Bridge (toll) Project is moving forward in Alabama.
-      *   Farmers and Cowpokes want to slow development in Baldwin County, led by GUMBO-68 Ventures-Sheriff Huey Mack.
-      THE DISCOVERY:
-      *   Baldwin County had qualifying deadlines (District Attorney, Sheriff, Circuit Judge Place, County Commission, State Senate/House) on January 28, 2022.
-      *   Murray "Bubba" Lawrence Jr. has been in Holman Prison since his 2003 murder conviction (Brandon Hastings).
-      *   Current DA Robert Wilters was the Judge in the Lawrence case; current Sheriff Huey Mack was the lead investigator, creating conflict.
-      *   The $2.1B Mobile Bay Bridge project requires the MPO to defend its position to voters.
-      *   Baldwin County Commission, bending to Sheriff's will, spent $65M to build a new jail in Bay Minette.
-      THE PIVOT:
-      *   Article 2 establishes the historical timeline and specific legal entanglement regarding Murray Lawrence Jr. (2003 conviction, 2022 deadlines), directly connecting the current I-10 bridge controversy to the ongoing, unresolved judicial issues involving DA Robert Wilters and Sheriff Huey Mack.
-      KEY ENTITIES:
-      *   Murray "Bubba" Lawrence Jr.
-      *   Brandon Hastings
-      *   Robert Wilters
-      *   Huey Mack
-      *   MPO
-      *   Bay Minette
-      *   $2.1B
-      *   $65M
-    widget_date: "2022-01-08"
-    generated_at: "2026-11-05T18:52:05.071885Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  alabama-political-corruption-exposed:
-    brief: |-
-      THE CONFLICT:
-      *   Special election is scheduled for August 11, 2026.
-      *   I-10 Bayway Bridge (toll) Project is moving forward in Alabama.
-      *   Farmers and Cowpokes want to slow development in Baldwin County, led by GUMBO-68 Ventures-Sheriff Huey Mack.
-      THE DISCOVERY:
-      *   Investigator reports on the BP Boom Scandal involving Mayor Tim Kant and Senator Lee "Trip" Pittman, following the November 10, 2010, Mobile Press-Register article.
-      *   The federal case involving Kant and Pittman is pending under special prosecutor Matt Hart (Alabama State Attorney General's Office).
-      *   Mike Hubbard (Alabama Speaker of the House) is under three federal grand jury investigations concerning a $13 million education software contract (Florida company) and shady Auburn University contracts.
-      *   Governor Luther Strange (AG) is accused of an affair with his former campaign manager and accepting Indian gambling money for his campaign.
-      *   Former Governor Bob Riley steered $37.2 million of BP money to Brett-Robinson in Gulf Shores before lobbying for Brett-Robinson; $65 million in BP disaster expenses remains unaccounted for.
-      *   Bradley Byrne is highlighted as a qualified, moderate candidate, while Jo Bonner resigned his congressional seat.
-      THE PIVOT:
-      *   Article 2 expands the corruption narrative from local Baldwin County issues (Mack, I-10) to systemic state-level corruption, naming major political figures (Hubbard, Strange, Riley, Pittman) and specific scandals (BP Boom, $13M contract), proving the "Republican machine" is fracturing under federal scrutiny.
-      KEY ENTITIES:
-      *   Mike Hubbard
-      *   Trip Pittman
-      *   Matt Hart
-      *   Luther Strange
-      *   Bob Riley
-      *   Bradley Byrne
-      *   Jo Bonner
-      *   Tim Kant
-      *   Alabama Speaker of the House
-    widget_date: "2013-09-04"
-    generated_at: "2026-11-05T18:52:05.071885Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  trump-n-bama:
-    brief: |-
-      THE CONFLICT:
-      *   Special election is scheduled for August 11, 2026.
-      *   I-10 Bayway Bridge (toll) Project is moving forward in Alabama.
-      *   Farmers and Cowpokes want to slow development in Baldwin County, led by GUMBO-68 Ventures-Sheriff Huey Mack.
-      THE DISCOVERY:
-      *   Former President Donald Trump endorsed the Alabama GOP at the Summer swag event.
-      *   Tommy Tubberville (Space Command debacle) is alleged not to own any property in Alabama.
-      *   The GOP prohibited Republican school board candidates from taking money from the Alabama Education Association.
-      *   Baldwin County faces issues including a "racially motivated brawl" at Waterfront Park, difficulty obtaining rape kits for sexual assault victims, and a fish consumption advisory.
-      *   Governor Ivey responded to a reporter's question about job creation by stating jobs must "get off their fannies" (implying reliance on manual effort).
-      *   EPA is poised to deny Alabama Power Companies' plan to cap 80 years of coal ash industrial waste.
-      *   The website deal-with-the-devil.com contains the full story on the wrongful conviction of Murray "Bubba" Lawrence Jr.
-      THE PIVOT:
-      *   Article 2 connects the state's political climate (Trump endorsement, GOP actions) to specific local social, environmental, and public safety concerns in Baldwin County (rape kit issues, fish advisory, Waterfront Park brawl), showing that the political machine's failures impact daily life.
-      KEY ENTITIES:
-      *   Donald Trump
-      *   Tommy Tubberville
-      *   Kay Ivey
-      *   Baldwin County
-      *   EPA
-      *   Murray "Bubba" Lawrence Jr.
-    widget_date: "2023-08-25"
-    generated_at: "2026-11-05T18:52:05.071885Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  alabama-sec-of-state-the-only-one:
-    brief: |-
-      THE CONFLICT:
-      *   Special election is scheduled for August 11, 2026.
-      *   I-10 Bayway Bridge (toll) Project is moving forward in Alabama.
-      *   Farmers and Cowpokes want to slow development in Baldwin County, led by GUMBO-68 Ventures-Sheriff Huey Mack.
-      THE DISCOVERY:
-      *   The Alabama Secretary of State (John Merrill) is the only state elected official in Baldwin County to act on multiple public complaints.
-      *   Judiciary and Alabama Bar Association failed to act on complaints against Judges (Michelle Thomason, Buddy Bracken) and numerous attorneys (Steven Johnson).
-      *   The Alabama Ethics Commission found no probable cause in multiple Baldwin County elected official cases, granting Senator Trip Pittman a pass to keep $750,000 from BP.
-      *   The Ripp Report submitted complaints to John Merrill for two elections, leading to Merrill monitoring the 2016 Fairhope election.
-      *   Karin Wilson won the 2016 Fairhope election (approx. 600 votes) despite an incumbent mayor having four times more campaign money, allegedly due to Sec. of State monitoring.
-      THE PIVOT:
-      *   Article 2 provides a detailed case study of institutional failure in Baldwin County (Judiciary, Ethics Commission, DA's office inaction), highlighting John Merrill (Sec. of State) as a rare point of accountability, contrasting this with the lack of action against figures like Trip Pittman, thus providing specific context for the corruption claims in Article 1.
-      KEY ENTITIES:
-      *   John Merrill
-      *   Michelle Thomason
-      *   Trip Pittman
-      *   Buddy Bracken
-      *   Karin Wilson
-      *   Steven Johnson
-      *   HB 371
-      *   Alabama Secretary of State
-    widget_date: "2018-04-11"
-    generated_at: "2026-11-05T18:52:05.071885Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  stirring-the-pot-bsp:
-    brief: |-
-      THE CONFLICT:
-      *   Special election is scheduled for August 11, 2026.
-      *   I-10 Bayway Bridge (toll) Project is moving forward in Alabama.
-      *   Farmers and Cowpokes want to slow development in Baldwin County, led by GUMBO-68 Ventures-Sheriff Huey Mack.
-      THE DISCOVERY:
-      *   Fairhope is expanding its $9.5M pier remodel.
-      *   Baldwin County approved thousands of residential lots and cut the sales tax on hearing aids.
-      *   The City of Bay Minette is being sued by the family of OJ French Jr (killed by BMPD Officer Brandon Thompson); Mobile Attorney Andy Ruten is defending the City and hired Bay Minette Mayor Bob Wills.
-      *   Governor Ivey called for the resignation of the Veteran's Affairs Commissioner for Alabama.
-      *   The Baldwin County sample ballot information and voting locations are provided.
-      THE PIVOT:
-      *   Article 2 grounds the broad political discussion in immediate local events (Bay Minette lawsuit, Fairhope expansion, tax cuts), providing ground-level facts and concrete examples of local governance issues that contrast with the high-level state corruption and bridge debate in Article 1.
-      KEY ENTITIES:
-      *   Governor Ivey
-      *   Fairhope
-      *   Bay Minette
-      *   OJ French Jr
-      *   Brandon Thompson
-      *   Andy Ruten
-      *   Bob Wills
-      *   Veteran's Affairs Commissioner for Alabama
-    widget_date: "2024-10-18"
-    generated_at: "2026-11-05T18:52:05.071885Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+      - Harry Still
+      - Jerry Carl
+      - Tommy Bass
+      - Darryl Patton
+      - Sheriff Huey Mack
+      - Tommy Tubberville
+      - Doug Jones
+      - Bennett's Archery Supply
+      - 68 Ventures (The GUMBO)
+    llm_text: Before Tommy Tubberville and Jerry Carl clash in the 2026 I-10 Bayway Bridge showdown, discover how local roots run deeper than developer grease. Master herbalist Darryl Patton reveals Alabama's wild pharmacopeia, connecting cultural heritage directly to the fight against 68 Ventures.
+    widget_date: "2026-06-12"
+    generated_at: "2026-11-06T05:26:29.265595Z"
+    model_name: gemini-3.5-flash-lite
+  a-new-hope:
+    brief: "THE CONFLICT: \n- Harry Still III was criminally prosecuted and stood trial in Circuit Courtroom 8 of the Baldwin County Courthouse.\n- On a Thursday prior to the older article, a Baldwin County Jury returned a \"NOT GUILTY\" verdict in the case of *City of Bay Minette v. Harry Still III*, which charged Still with assaulting Bay Minette City Council Member Matthew J. Franklin.\n- Still alleged that Bay Minette City Councilman Matthew J. Franklin and Bay Minette Attorney Vincent Bellucci committed perjury while on the stand during the trial.\n- Still accused 28th Judicial District District Attorney Robert Wilters of witnessing his illegal arrest, which Still claimed was executed by Al Tolbert (Bay Minette Chief of Police at the time, later a Baldwin County Sheriff's Office corporal and husband to Wilters' work wife).\n- Additional historical grievances cited by Still involving the 28th Judicial District and local actors: Assistant District Attorney Kristi Haygood's alleged use of AI in Murray Lawrence Jr.'s Rule 32 Response and the Forrest Bullin Rule 32 case denied by Judge Scott Taylor (where Bullin lost $4.5 million in a civil trial following a shooting incident involving Deputy Walker); the framing of former Summerdale Police Chief Kevin Brock and his wife for forgery tied to Judge Brackin's JA and a deputy sheriff; and real estate/asset transfers involving North Baldwin Utilities (NBU), including the Baldwin Express Pipe Line Company being gifted The Lodges At Steelwood (approx. $10M) and NBU selling the Bradley Building to MADD Investments LLC (Mark Frenette).\n\nTHE DISCOVERY: \n- Article 2 (the older background text) reveals that Harry Still III was vindicated in court via the Not Guilty jury verdict regarding the alleged assault of Councilman Matthew J. Franklin, proving \"Still was telling the truth all along\" regarding the charges brought against him by the local municipal and legal apparatus.\n- It exposes a web of alleged systemic corruption, collusion, and conflicts of interest within the 28th Judicial District (Baldwin County, Alabama)—specifically targeting Judges Robert Wilters and Scott Taylor, DA operations, police misconduct, and questionable real estate/utility asset movements.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it documents the actual legal battles, criminal charges, and personal persecutions (such as the bogus assault charge and subsequent Not Guilty verdict) that form the baseline of the \"political assassination of my character and business\" claimed by Still. \n- It bridges Still's personal warfare against the Baldwin County political/judicial machine (Wilters, Taylor, Tolbert, Franklin) to the broader 2026 political landscape discussed in Article 1 (the GUMBO/68 Ventures development fights, DA Grand Jury abuse, and local elections), proving that the corruption Still rails against is institutional and longstanding.\n\nKEY ENTITIES: \n- Harry Still III (HBSIII, MPA, J.D.)\n- Matthew J. Franklin (Bay Minette City Council Member)\n- Robert Wilters (District Judge / 28th Judicial District District Attorney)\n- Scott Taylor (Judge / 28th Judicial District)\n- Al Tolbert (Former Bay Minette Chief of Police / Baldwin County Sheriff's Office Corporal)\n- Vincent Bellucci (Bay Minette Attorney)\n- Kristi Haygood (Baldwin County Assistant District Attorney / Republican Candidate Elect for Circuit Judge)\n- Murray Lawrence Jr.\n- Forrest Bullin\n- Deputy Walker\n- Kevin Brock (Former Summerdale Police Chief)\n- Judge Brackin\n- David White (Chief Deputy)\n- Mark Frenette (Delta Realty / MADD Investments LLC)\n- Danielle Duggar (Republican Candidate Elect)\n- Matt Simpson (Attorney / State Representative / Lollipop Guild Member)\n- Doug Jones\n- Huey Mack (Baldwin County Sheriff)\n- Sean Sullivan (FM Talk 106.5)\n- Charles Bryant (Author, *The Tensaw Country North of The Ellicott Line*)"
+    llm_text: Harry Still III beat a bogus assault charge brought by Councilman Matthew J. Franklin, exposing deep corruption in the 28th Judicial District. Read how this courtroom victory ties Robert Wilters and local officials to a massive web of institutional abuse.
+    widget_date: "2026-05-25"
+    generated_at: "2026-11-06T05:26:36.623389Z"
+    model_name: gemini-3.5-flash-lite
+  backstory-podcast-2:
+    brief: "THE CONFLICT: In 2020, *The Ripp Report* and *Backwoods Media LLC* launched the *Backstory Podcast* to investigate and expose political corruption, ignoring of constituents, and misconduct by elected officials, judges, and attorneys in Baldwin County, Alabama.\n\nTHE DISCOVERY: Article 2 (older background/context) established the foundational mission of *The Ripp Report* and its equal partnership with Pamala Traylor in Backwoods Media LLC (establishing a studio in Daphne, running the *Baldwin County Legal Eagle* Facebook page, and refusing donations from politicians) specifically to act as an independent watchdog focusing on the 2020 elections and beyond.\n\nTHE PIVOT: Article 2 serves as the smoking gun/key context because it proves that *The Ripp Report*'s 2026 coverage of the August 11, 2026 special election—including local power players like 68 Ventures, Sheriff Huey Mack, and the I-10 Bayway Bridge project—is the continuation of a multi-year, systematic investigative operation into Baldwin County political corruption originally codified in 2020.\n\nKEY ENTITIES: \n- Pamala Traylor\n- Sheriff Huey Mack\n- Harry Still\n- Jerry Carl\n- Tommy Tuberville\n- Doug Jones\n- 68 Ventures (The GUMBO)\n- Backwoods Media LLC\n- The Ripp Report\n- Backstory Podcast\n- Baldwin County Legal Eagle\n- Bennett's Archery Supply"
+    llm_text: Back in 2020, The Ripp Report and Pamala Traylor launched Backwoods Media to expose Baldwin County corruption without taking politician money. Read how that founding mission fuels our 2026 investigations into 68 Ventures and Sheriff Huey Mack today.
+    widget_date: "2020-01-17"
+    generated_at: "2026-11-06T05:26:41.592649Z"
+    model_name: gemini-3.5-flash-lite

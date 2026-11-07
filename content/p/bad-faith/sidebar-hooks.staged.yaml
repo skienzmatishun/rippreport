@@ -1,0 +1,252 @@
+metadata:
+  generated_at: "2026-11-06T19:49:32.751436Z"
+  generator_version: 1.0.0
+  post_slug: bad-faith
+  main_date: "2023-05-20"
+  model_name: plugsky-lite
+hooks:
+  the-crime-of-the-century:
+    brief: |-
+      THE CONFLICT: Government bad faith cited across levels including FBI, Alabama Legislature, US Congress, City of Dothan, ALDOT Bridge onto Pleasure Island (specific date/names not provided in Article 1)
+      THE DISCOVERY: Update details Governor Kay Ivey firing Admiral Kent Davis and attempts to control the veterans’ board; highlights chaos in veterans’ programs in Clarke County.
+      THE PIVOT: Article 2 provides specific political actions (Ivey firing Davis, veterans board control) substantiating the broader claim of governmental bad faith mentioned in Article 1.
+      KEY ENTITIES: Governor Kay Ivey, Admiral Kent Davis, Alabama Legislature, US Congress, FBI, City of Dothan, ALDOT, Clarke County
+    llm_text: Governor Kay Ivey fired Admiral Kent Davis amidst chaos in Clarke County veterans' programs. See how this action proves broader government bad faith across the Alabama Legislature and FBI.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T19:47:53.075509Z"
+    model_name: plugsky-lite
+  scalped:
+    brief: |-
+      THE CONFLICT:
+      - Main article: “Bad Faith” / Backstory Podcast No. 156.
+      - Alleged bad faith by governments at multiple levels: FBI, Alabama Legislature, United States Congress, City of Dothan, Alabama.
+      - Past cited issues: whistleblower harassments; Debt Ceiling debate; Space Command stripped from Alabama; ALDOT Bridge onto Pleasure Island.
+      - Main article frames these as bad faith; calls Alabama “Hive of Scum and Villainy”; references Obi Wan warning.
+      - Hangout Fest kicked off at 3pm; described as drug-fueled music festival locals abhor; Gulf Shores local context.
+
+      THE DISCOVERY:
+      - Widget article: “Scalped” / Backstory Podcast 190.
+      - Newer update.
+      - Reports terrorist attack narrowly avoided larger, more crowded event, saved only by traffic jams.
+      - Flashy car explosion tied to misguided vet sparks safety and tech gone wrong debates.
+      - Corruption: companies with political ties score million-dollar contracts; law enforcement investigates own mishaps; no accountability.
+      - Courts: scholarships meant for public went to insiders; everyday folks left out.
+      - Rumors: governor’s health and replacements; more political games ahead.
+      - Crime: teens clash with high-powered weapons; fisherman’s hobby accidentally solves cold case.
+      - Lawmakers push to strip local control; state leaders handpick police chiefs instead.
+      - Podcast wraps with levity re festivals for snowbirds; warning Alabama leaders keep failing; citizens demand better.
+
+      THE PIVOT:
+      - Article 2 is newer than Article 1; frame as update.
+      - Article 2 is smoking gun/key context for Article 1 because it adds recent/alternate facts since Article 1: averted terrorist attack, flashy car explosion, million-dollar political contracts, no accountability, scholarship insider scandal, governor health rumors, crime waves, local control stripping.
+      - These support or extend Article 1’s bad faith narrative.
+
+      THE KEY ENTITIES:
+      - Backstory Podcast No. 156 “Bad Faith”
+      - Backstory Podcast 190 “Scalped”
+      - The FBI
+      - Alabama Legislature
+      - United States Congress
+      - City of Dothan, Alabama
+      - ALDOT
+      - ALDOT Bridge onto Pleasure Island
+      - Baldwin County Bridge
+      - Pleasure Island
+      - Baldwin County District Attorney building
+      - Baldwin County District Attorney building construction bid award
+      - Facebook post announcing construction bid award
+      - Gulf Shores, Alabama
+      - Hangout Fest
+      - Alabama governor
+      - Space Command
+      - Whistleblowers
+      - Debt Ceiling
+      - Courts
+      - Scholarship scandal
+      - Political ties companies
+      - Million-dollar contracts
+      - Law enforcement
+      - Teens
+      - High-powered weapons
+      - Fisherman
+      - Cold case
+      - Lawmakers
+      - Local control
+      - Police chiefs
+      - Snowbirds
+      - Festivals
+      - Citizens
+      - Alabama leaders
+      - Obi Wan
+      - Traffic jams
+      - Misguided vet
+      - Flashy car explosion
+      - Terrorist attack
+      - Larger crowded event
+      - Lowery, Wilters
+    llm_text: '''Bad Faith'' alleged governments'' bad faith, but the newer ''Scalped'' podcast just dropped a smoking gun: traffic jams nearly stopped a terrorist attack at Hangout Fest. The flashy car explosion, million-dollar political contracts, and zero accountability prove Alabama''s leaders keep failing.'
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T19:48:27.607750Z"
+    model_name: recursive/flint-v1.0:free
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    brief: |-
+      THE CONFLICT:
+      * Mack vs Hadley legal case involving the theft of a 1968 Camaro by the Baldwin County Sheriff's Department.
+      * Two autopsies were ordered by the Coroner of Baldwin County in 2005.
+      * Corrupt Alabama Federal Judge Mark Fuller from Mobile, Alabama.
+      * ALDOT Bridge onto Pleasure Island (mentioned as a past issue of "Bad Faith").
+
+      THE DISCOVERY:
+      * The Alabama Court of Civil Appeals released a decision today at 1pm regarding Mack vs Hadley.
+      * A Rule 32 Petition was filed seeking a new trial for Murray Lawrence Jr.
+      * The defense alleges a Brady Violation because two autopsies ordered in 2005 were never disclosed to the Defense.
+
+      THE PIVOT:
+      * The specific legal violation (Brady Violation/non-disclosure of 2005 autopsies) in the Mack vs Hadley case provides concrete evidence of the governmental/legal "Bad Faith" and corruption referenced generally in the Main Article across all levels (FBI, Legislature, Congress, ALDOT).
+
+      KEY ENTITIES:
+      * Baldwin County Bridge
+      * Dothan, Alabama
+      * Luigi Manjone
+      * United Healthcare CEO
+      * USS Enterprise
+      * Mack vs Hadley
+      * Murray Lawrence Jr.
+      * Baldwin County Sheriff's Department
+      * Coroner of Baldwin County
+      * Mark Fuller (Alabama Federal Judge)
+      * Alabama Court of Civil Appeals
+    llm_text: The Alabama Court of Civil Appeals ruled on Mack vs Hadley today. Defense lawyers claim the Baldwin County Sheriff's Department committed a Brady Violation by hiding 2005 autopsies, exposing systemic bad faith from Mark Fuller to ALDOT.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T19:48:20.254384Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    brief: |-
+      THE CONFLICT: Bad Faith exhibited by governments (FBI, Alabama Legislature, US Congress, City of Dothan); events included Whistleblower harassments, Debt Ceiling debate, Space Command being stripped from Alabama, and the ALDOT Bridge onto Pleasure Island.
+      THE DISCOVERY: The podcast addresses President Biden's pardon of his son Hunter, a damning report on the US government's COVID-19 response, and wrongful arrests/First Amendment issues exposing corruption in a local school district.
+      THE PIVOT: Article 2 updates the scope of "Bad Faith" from general governmental failures (ALDOT, Debt Ceiling) to specific, recent actions involving high-level political figures (Biden/Hunter) and local corruption investigations.
+      KEY ENTITIES: FBI, Alabama Legislature, United States Congress, City of Dothan, ALDOT, President Biden, Hunter Biden
+    llm_text: President Biden pardoned Hunter, while local corruption exposed wrongful arrests in a Dothan school district. Learn how high-level political bad faith connects to everyday failures from the FBI to ALDOT.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T19:49:22.018455Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    brief: |-
+      THE CONFLICT:
+      - Governments at all levels (FBI, Alabama Legislature, US Congress, City of Dothan) exhibited "Bad Faith."
+      - Specific issues cited include Whistleblower harassments, Debt Ceiling debate, Space Command being stripped from Alabama, and ALDOT Bridge onto Pleasure Island.
+      - Hangout Fest occurred recently (afternoon, 3pm).
+
+      THE DISCOVERY:
+      - Article 2 (Podcast No. 186) is newer and covers 2024 US Presidential election results, The Trump Cabinet 2.0, government spending on misinformation, and news from Alabama including closing of rural hospitals and changes to hunting seasons.
+      - Article 2 features input from a Veterans/Consumer Advocate, a journalist, and an attorney.
+
+      THE PIVOT:
+      - Article 2 provides broader, more recent political and legal context (e.g., 2024 election, antitrust lawsuits against Google, constitutional amendments in Alabama) alongside the specific regional issues mentioned in Article 1.
+
+      KEY ENTITIES:
+      - FBI
+      - Alabama Legislature
+      - United States Congress
+      - City of Dothan, Alabama
+      - ALDOT
+      - Pleasure Island
+      - Hangout Fest
+      - Google
+      - Veterans/Consumer Advocate
+      - journalist
+      - attorney
+    llm_text: The FBI to Alabama Legislature "bad faith" didn't stop here. Get the full 2024 election and Alabama updates, including hospital closures, from our Veterans/Consumer Advocate, journalist, and attorney.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T19:48:01.508917Z"
+    model_name: plugsky-lite
+  stirring-the-pot-bsp:
+    brief: |-
+      THE CONFLICT:
+      - ALDOT Bridge onto Pleasure Island was a subject of past "Bad Faith" allegations mentioned in the Main Article.
+
+      THE DISCOVERY:
+      - Baldwin County approved thousands of residential lots this week (Widget Article).
+      - Baldwin County Bridge near greenery and buildings is a location referenced in the Main Article context.
+
+      THE PIVOT:
+      - Article 2 provides a specific, recent local action (lot approval) in Baldwin County that runs contrary to the "Bad Faith" theme of governmental failings mentioned in Article 1, detailing local governance activity.
+
+      KEY ENTITIES:
+      - Baldwin County
+      - ALDOT
+      - Dothan, Alabama
+      - Gulf Shores
+      - Governor Ivey
+      - Fairhope
+      - Bay Minette, Alabama
+      - OJ French Jr
+      - BMPD Officer Brandon Thompson
+      - Andy Ruten
+      - Mayor Bob Wills
+      - Southern Research (Institute)
+    llm_text: Baldwin County just approved thousands of residential lots near the ALDOT Bridge onto Pleasure Island. See how this local action counters past "Bad Faith" allegations in Dothan and Gulf Shores.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T19:48:09.590972Z"
+    model_name: plugsky-lite
+  the-pete-rose:
+    brief: |-
+      THE CONFLICT: No specific conflict regarding government "Bad Faith" is dated or named in Article 1, though it references Whistleblower harassments, Debt Ceiling debate, and ALDOT Bridge onto Pleasure Island.
+      THE DISCOVERY: Article 2 provides no update on the general "Bad Faith" themes of Article 1; it introduces unrelated events, including the death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama on May 27, 2022, and the passing of Pete Rose.
+      THE PIVOT: Article 2 does not serve as a 'smoking gun' or key context for the general government criticisms in Article 1, as the topics are disparate (murder investigation, celebrity death vs. broad political/local governance failures).
+      KEY ENTITIES: Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, May 27, 2022, May 29, 2022, Pete Rose, Katie Britt, Adm. Kent Davis, Baldwin County, Dothan Alabama, ALDOT.
+    llm_text: Danny Williams Jr's death in Orange Beach and the ALDOT bridge issues show local crises don't neatly align. See how disparate events from Baldwin County to Pleasure Island reveal deeper governance struggles.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T19:48:17.333981Z"
+    model_name: plugsky-lite
+  hatians-eating-cats:
+    brief: |-
+      THE CONFLICT: Bad Faith actions detailed involving FBI, Alabama Legislature, U.S. Congress, City of Dothan Alabama; specific issues included Whistleblower harassments, Debt Ceiling debate, Space Command removal from Alabama, and ALDOT Bridge onto Pleasure Island.
+      THE DISCOVERY: Update shows Former Real Admiral and Jag Officer Kent David, Alabama Veterans Affairs Commissioner, is leaving the State of Alabama due to a whistleblower Ethics Complaint; also notes Renaissance School in Baldwin County was robbed (possible inside job) and Director of the Alabama Department of Transportation had harassment case thrown out.
+      THE PIVOT: Article 2 updates the context of past 'Bad Faith' issues by detailing specific current personnel actions (Kent David leaving) and events (Baldwin County school robbery, ALDOT Director case resolution) directly linked to whistleblower/ethics complaints mentioned in Article 1.
+      KEY ENTITIES: Baldwin County, Dothan Alabama, ALDOT, Kent David, Alabama Veterans Affairs Commissioner, Renaissance School, Alabama Department of Transportation, Brandon Moseley, BamaCarry Inc, David R. Jones, Sheriff Department of Baldwin County
+    llm_text: Kent David leaves Alabama over a whistleblower ethics complaint amid Dothan bad faith actions. See how this impacts ALDOT, Baldwin County, and the ongoing political mess.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T19:48:23.350085Z"
+    model_name: plugsky-lite
+  the-180:
+    brief: |-
+      THE CONFLICT: Governments at all levels (FBI, Alabama Legislature, US Congress, City of Dothan) exhibited Bad Faith regarding whistleblower harassments, Debt Ceiling debate, Space Command stripping from Alabama, and ALDOT Bridge onto Pleasure Island.
+      THE DISCOVERY: VP Kamala Harris's political standing shifted from "scourge of the democratic party" to "darling savior" following the Democratic National Convention; RFK Jr removed his name from battleground ballots; Trump is consuming political oxygen; Sheriff Mack has one week left in Baldwin County, Alabama; Governor is selecting a replacement.
+      THE PIVOT: Article 2 provides a specific, immediate political update regarding high-level figures (VP Harris, Sheriff Mack transition) within the jurisdiction mentioned in Article 1 (Baldwin County, Alabama) alongside unrelated political context.
+      KEY ENTITIES: VP Kamala Harris, RFK Jr, Trump, Sheriff Mack, Governor, Baldwin County, Alabama, FBI, ALDOT, Dothan, Gulf Shores
+    llm_text: VP Kamala Harris's sudden political shift impacts Baldwin County, Alabama, where Sheriff Mack faces his final week. See how this high-stakes drama connects to FBI actions and the ALDOT Bridge on Pleasure Island.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-06T19:48:29.189366Z"
+    model_name: plugsky-lite
+  sheriff-mack-out-oj-french-lawsuit-in:
+    brief: |-
+      THE CONFLICT:
+      - Bad Faith exhibited by governments at all levels (FBI, AL Legislature, US Congress, City of Dothan Alabama).
+      - Mentions ALDOT Bridge onto Pleasure Island.
+      - Hangout Fest kicked off afternoon (date unspecified in Article 1).
+
+      THE DISCOVERY:
+      - OJ French Jr's family filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024.
+      - Mayor Robert Bob Wills allegedly lied about family approval of the investigation outcome.
+      - Sheriff Mack announced mid-July resignation, aiming for Chief Deputy Anthony Lowery appointment by Governor Ivey.
+      - County Commissioner Matt McKenzie is also seeking the Sheriff post.
+
+      THE PIVOT:
+      - Article 2 provides specific, actionable legal conflict (OJ French lawsuit) and local political dynamics (Sheriff Mack resignation, Mayor Wills' alleged deception) which contextualizes the broader claim of "Bad Faith" made in Article 1 concerning Alabama governance.
+
+      KEY ENTITIES:
+      - OJ French Jr
+      - Officer Brandon Thompson
+      - Mayor Robert Bob Wills
+      - Sheriff Mack
+      - May Jung LLC
+      - Anthony Lowery
+      - Governor Ivey
+      - Matt McKenzie
+      - City of Bay Minette
+      - Baldwin County
+    llm_text: OJ French Jr sued the City of Bay Minette over Officer Brandon Thompson's actions. See how Mayor Robert Bob Wills' alleged lies and the Sheriff Mack resignation reveal deeper bad faith in Alabama governance.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T19:48:37.381584Z"
+    model_name: plugsky-lite

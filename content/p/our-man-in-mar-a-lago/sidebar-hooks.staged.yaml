@@ -1,88 +1,183 @@
 metadata:
-  generated_at: "2026-11-05T23:18:23.781390Z"
+  generated_at: "2026-11-06T05:15:23.461326Z"
   generator_version: 1.0.0
   post_slug: our-man-in-mar-a-lago
   main_date: "2026-09-10"
-  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  model_name: recursive/flint-v1.0:free
 hooks:
   rock-bottom:
     brief: |-
-      THE CONFLICT: Tom Albritton, Director of the Alabama Ethics Commission and former Andalusia Alabama Law Firm partner (Allbritton, Clifton, Alverson, Moody and Bowden), was alleged to be involved in a cash grab from the Mabel Amos Memorial Trust. Attorney General Steve Marshall alleged in a Civil Filing in 2021 that Albritton improperly benefited from the trust, receiving over $100,000 for his children.
-      THE DISCOVERY: The Mabel Amos Memorial Trust, administered by Albritton, saw self-dealing and diversion of children’s scholarship money for over 12 years (2012–2019). Total distributions to the Trust Board/associates totaled $257,844. Albritton's son and daughter received $135,000 (2012–2019). Ripp Report filed Ethics and Bar complaints against Albritton as far back as 2021.
-      THE PIVOT: Article 2 provides quantitative data and a precise timeline (2012–2019) confirming the corruption and self-dealing allegations raised in Article 1, highlighting the failure of the Alabama Ethics Commission under Albritton's leadership.
-      KEY ENTITIES: Tom Albritton, Mabel Amos Memorial Trust, Alabama Ethics Commission, Steve Marshall, Allbritton, Clifton, Alverson, Moody, Bowden, Ripp Report.
+      THE CONFLICT:
+      - Mabel Amos Memorial Scholarship Trust self-dealing allegations against Tom Albritton, Director of the Alabama Ethics Commission and Trustee of the Mabel Amos Memorial Scholarship Trust.
+      - Albritton’s son and daughter received a combined total of $135,000 in scholarships; distributions began in 2012 and continued until 2019.
+      - White’s report: disbursements went to children of people closely connected to the Albritton Law, including Albritton himself; son and daughter received combined $135,000; related disbursements totaled $257,844.
+      - White’s report claims self-dealing; violations of three articles of the fund’s formation; disbursements allegedly violated Article V, Part E and F regarding personal inurement and self-dealing; scholarships awarded to children of board members and associates totaled $257,844.
+
+      - 2021: Attorney General Steve Marshall alleged in a civil filing that Alabama Ethics Commission Director Tom Albritton improperly benefited from the Mabel Amos Memorial Scholarship Trust, where Albritton was a “Trustee”; Albritton’s children received over $100,000.
+      - 2021: Perry Hooper Jr / Ripp Report allegations included an Ethics Complaint against the Alabama Ethics Commission, a Bar Complaint against Tom Albritton, and a Writ of Mandamus in the Circuit Court of Montgomery County to get a judge to order the Ethics Commission to review three complaints Albritton disposed of without investigation; basis was Albritton’s self-dealing as Trustee.
+      - 2021: Ripp Report filed Ethics and Bar complaints against Mr. Albritton; Lagniappe broke the story.
+      - 2022: Harry Still ran for Attorney General of Alabama (R-Baldwin) against Steve Marshall (R-Incumbent); Still made stump speeches about the Ethics Commission, the Mabel Amos Trust, and Albritton’s activities.
+      - Main article context: Perry Hooper Jr joined to discuss ALGOP strategy in the home stretch into November elections; Kevin Brock joined to discuss the arrest of a Baldwin County Alabama Homeland Security Special Agent specializing in child predators, arrested for kiddy diddling.
+
+      THE DISCOVERY:
+      - Article 2, titled ROCK BOTTOM, showed Alabama hit rock bottom regarding government oversight; described as failed state; governor absent and sometimes incoherent; Attorney General out of sight most of the time and never responds to complaints, instead passes them to the Bar and Ethics for disposal.
+      - Alabama Bar described as disgrace whose major function is to protect dirty lawyers; weaponized Bar as instrument to exact judgment on attorneys not going along with the program; those in favor can do no wrong and have a pass to break the law.
+      - Alabama Ethics Commission Director Tom Albritton allegedly “stealing” / “self dealing” / “diverting” children’s scholarship money from the Mabel Amos Memorial Trust for over 12 years; Albritton described as Alabama poster boy for in-your-face political corruption; that he should evaluate ethics complaints is described as laughable and embarrassing.
+      - Transparency, Accountability, Bar Complaint, Ethics complaint, Attorney General, plea to Governor described as “total bullshit”; citizen wasting time expecting justice; Alabama failed state; considering out-of-state resident for Governor; if that happens, go further down the toilet.
+      - Article 2 quote: “If the Ethics Director is allowed to keep his position, avoid any prosecution or accountability, then ladies and gentlemen it is proof positive that we are the most politically corrupt state in the United States.”
+      - Article 2 quote: White’s report particularly critical of disbursements that went to children of people closely connected to the Albritton Law, including Albritton himself, whose son and daughter received a combined total of $135,000 in scholarships; distributions began in 2012 — three years before Albritton was chosen to lead the Alabama Ethics Commission — but continued until 2019, four years after he took position as state’s ethics enforcer.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1 and is framed as background/historical context.
+      - Article 2’s disclosures and quotes provided context for the Ripp Report’s Ethics and Bar complaints and the 2022 Harry Still campaign against the Alabama Attorney General.
+      - Article 2 is the smoking gun or key context for Article 1 because it established the timeline and self-dealing allegations around the Mabel Amos Trust and Tom Albritton.
+      - Article 2 quote: “Tom Albritton should resign. BECAUSE HE IS CORRUPT AND HIS JOB IS TO PROTECT THE CORRUPT.”
+      - Article 1’s discussion of Perry Hooper Jr, Francis “Paul” Ripp, Rob Holbert, the Alabama State Bar, the Alabama Ethics Commission, and the Mabel Amos Trust is framed by Article 2’s background findings.
+
+      KEY ENTITIES:
+      - Tom Albritton — Director of the Alabama Ethics Commission; Trustee of the Mabel Amos Memorial Scholarship Trust; formerly of the Andalusia Alabama Law Firm of Allbritton, Clifton, Alverson, Moody and Bowden; son and daughter received $135,000.
+      - Steve Marshall — Alabama Attorney General; R-Incumbent; civil filing alleged Albritton improper benefit.
+      - Perry Hooper Jr — guest; discussed ALGOP strategy; father is Chief Justice Perry Hooper Sr.
+      - Kevin Brock — former Chief of Police; joined to discuss arrest of Baldwin County Alabama Homeland Security Special Agent specializing in child predators, arrested for kiddy diddling.
+      - Francis “Paul” Ripp — Ripp Report.
+      - Rob Holbert — Lagniappe Editor; filed bar complaint against Mississippi attorney CC Marino; broke/followed story.
+      - Tommy Gallion — legendary lawyer; law partner with Chief Justice Perry Hooper Sr.
+      - Chief Justice Perry Hooper Sr — law partner Tommy Gallion; father of Perry Hooper Jr.
+      - Harry Still — candidate for Alabama Attorney General in 2022 (R-Baldwin); made stump speeches.
+      - Mabel Amos Trust / Mabel Amos Memorial Scholarship Trust.
+      - Alabama Ethics Commission.
+      - Alabama State Bar; Sisterhood of the Closeted Homosexuals (SCH).
+      - Allbritton, Clifton, Alverson, Moody, Bowden; Bill Alverson; Judge Bowden.
+      - Whitney Scapecchi — mentioned in main article metadata.
+      - Baldwin County Alabama Homeland Security Special Agent — arrested for child predator/kiddie diddling.
+      - CC Marino — Mississippi attorney; Rob Holbert bar complaint.
+      - Lagniappe; Ripp Report; Heart of Dixie Podcast; ALGOP; Orange Beach.
+      - BE ADVISED: ORANGE BEACH.
+    llm_text: Tom Albritton steered Alabama's Ethics Commission while his kids took $135,000 from the Mabel Amos trust. The Ripp Report says Albritton self-dealing let him divert scholarship money for over a decade, and Alabama's failure to police it shocked Francis "Paul" Ripp.
     widget_date: "2026-09-08"
-    generated_at: "2026-11-05T23:18:23.777266Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:14:40.058629Z"
+    model_name: recursive/flint-v1.0:free
   the-state-of-the-alabama-state-bar:
     brief: |-
-      THE CONFLICT: Tommy Gallion, a legendary lawyer and law partner of Chief Justice Perry Hooper Sr, was villainized by the Sisterhood of the Closeted Homosexuals (SCH) at the Alabama State Bar.
-      THE DISCOVERY: Jeanetta Pleasant JD, Katherine Church, and Beverly Barber JD shared negative experiences with the Alabama State Bar. Tommy Gallion filed a Florida lawsuit alleging kickback schemes and sexual blackmail against bad actors/public servants. Harry Still filed 12 bar complaints in 2022 against Roman Shaw, Jeremy McIntyre, and Phillip McCallum (Executive Director).
-      THE PIVOT: Article 2 details specific examples (Pleasant, Church, Barber) and concrete legal actions (Still's 2022 complaints) confirming the systemic failure and internal corruption of the Alabama State Bar mentioned generally in Article 1.
-      KEY ENTITIES: Tommy Gallion, Alabama State Bar, Harry Still, Jeanetta Pleasant JD, Katherine Church, Beverly Barber JD, Roman Shaw, Jeremy McIntyre, Phillip McCallum.
+      THE CONFLICT:
+      - Thomas Gallion III (Montgomery Attorney) filed a lawsuit in Florida alleging kickback schemes with outside counsel and sexual blackmail by public servants.
+      - Katherine Church filed 17 ethics complaints that were not addressed by Phillip McCallum during his tenure as Executive Director of the Alabama State Bar.
+      - Harry Still filed 12 bar complaints in 2022 against Roman Shaw, Jeremy McIntyre, and Phillip McCallum.
+      - Allegations of systemic misconduct and failure to discipline members within the Alabama State Bar.
+
+      THE DISCOVERY:
+      - Article 2 reveals a documented pattern of the Alabama State Bar ignoring ethics violations and disciplinary complaints.
+      - It identifies a recurring group of "characters" involved in multiple ethics and corruption allegations.
+      - It establishes the historical lack of accountability involving former Executive Director Phillip McCallum.
+
+      THE PIVOT:
+      - Article 2 provides the evidence of a systemic pattern of inaction by the Alabama State Bar, which explains why no action has been taken regarding the Mabel Amos Scholarship Trust "cash grab" described in Article 1.
+      - It connects the current allegations of legal misconduct involving the Allbritton/Clifton/Alverson/Moody/Bowden law firm members to a broader history of Bar-protected corruption and ignored ethics complaints.
+
+      KEY ENTITIES:
+      - Thomas Gallion III
+      - Phillip McCallum (Former Executive Director, Alabama State Bar)
+      - Harry Still
+      - Katherine Church
+      - Roman Shaw
+      - Jeremy McIntyre
+      - Allbritton
+      - Clifton
+      - Alverson
+      - Moody
+      - Bowden
+      - Alabama State Bar
+      - Alabama Ethics Commission
+      - Mabel Amos Scholarship Trust
+    llm_text: The Alabama State Bar’s refusal to address the Mabel Amos Scholarship Trust "cash grab" stems from a history of systemic corruption. Former Director Phillip McCallum and others ignored ethics complaints from Katherine Church to protect a recurring circle of attorneys, including the Allbritton firm.
     widget_date: "2026-09-05"
-    generated_at: "2026-11-05T23:18:23.777266Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  a-reckoning-is-predicted:
-    brief: |-
-      THE CONFLICT: Baldwin County was plagued by a corrupt culture, resulting in the wrongful conviction of Murray Lawrence Jr.
-      THE DISCOVERY: Sheriff Anthony Lowery had five times the money of opponent Matt McKenzie. Hoss Mack (former Sheriff) is cited as responsible for BCSO lack of transparency. Kristi Hagood was appointed judge despite lack of qualifications, supported by GOBs (Robert Wilters, Hoss Mack, Jon Gray, Scott Boone). Lowery, Mack, Wilters, and Hagood are all involved in the wrongful conviction of Murray Lawrence Jr.
-      THE PIVOT: Article 2 names the specific GOB figures (Lowery, Mack, Wilters, Hagood) and the mechanism of corruption (paid consultants, GOB influence) that led to the judicial and law enforcement malfeasance implied by Article 1.
-      KEY ENTITIES: Murray Lawrence Jr., Anthony Lowery, Hoss Mack, Kristi Hagood, Robert Wilters, Matt McKenzie, Jon Gray, Scott Boone, ALEA, Baldwin County.
-    widget_date: "2026-06-23"
-    generated_at: "2026-11-05T23:18:23.777266Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:13:44.269797Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
   august-special-edition:
-    brief: |-
-      THE CONFLICT: General political and governmental issues in Alabama (mentioned in A1).
-      THE DISCOVERY: A special election is scheduled for August 11, 2026. The I-10 Bayway Bridge (toll) Project is advancing. Farmers/Cowpokes oppose Baldwin County development, led by GUMBO-68 Ventures and Sheriff Huey Mack. Doug Jones is noted as a possible Governor candidate.
-      THE PIVOT: Article 2 provides a timely, concrete political update (August 11, 2026 election, Bayway Bridge status) showing the immediate political landscape within which the long-term corruption issues described in Article 1 exist.
-      KEY ENTITIES: August 11, 2026, I-10 Bayway Bridge, Huey Mack, Doug Jones, Baldwin County.
+    brief: "THE CONFLICT: \n- Historical context from the August 11, 2026 special election and ongoing local developments: The State of Alabama moved forward with the I-10 Bayway Bridge (toll) project. \n- Growth and development disputes in Baldwin County involving \"The GUMBO,\" 68 Ventures, and Sheriff Huey Mack trying to slow development.\n- Ongoing allegations regarding the District Attorney's office abusing the Grand Jury discovery process.\n\nTHE DISCOVERY: \n- The older widget article established the political and infrastructural backdrop of Baldwin County leading up to the current investigations—specifically highlighting local government actions, developer pressures involving 68 Ventures and Sheriff Huey Mack, and the looming I-10 Bayway Bridge toll project.\n\nTHE PIVOT: \n- Article 2 serves as the geographical and political smoking gun because it establishes the exact local power dynamics, infrastructure battles (Bayway Bridge), and county friction (Sheriff Huey Mack and 68 Ventures) in Baldwin County that directly intersect with the targets of the main article—such as the arrest of a Baldwin County Homeland Security Special Agent and the exposure of systemic institutional corruption.\n\nKEY ENTITIES: \n- Harry Still\n- Kevin Brock\n- Francis \"Paul\" Ripp\n- Perry Hooper Jr\n- Perry Hooper Sr\n- Mabel Amos\n- Allbritton (Lawyer)\n- Clifton (Lawyer / Trust Board)\n- Alverson (Lawyer / Bill Alverson)\n- Moody (Lawyer)\n- Bowden (Judge)\n- Rob Holbert\n- CC Marino\n- Tommy Gallion\n- Jerry Carl\n- Huey Mack\n- Doug Jones\n- Tubberville\n- Jim Jones\n- 68 Ventures"
+    llm_text: Before Sheriff Huey Mack and 68 Ventures fueled Baldwin County's explosive growth wars, the I-10 Bayway Bridge project set the stage for total institutional corruption. Read how these exact local power dynamics directly connect to the shocking arrest of a county Homeland Security agent.
     widget_date: "2026-08-11"
-    generated_at: "2026-11-05T23:18:23.777266Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:13:32.759301Z"
+    model_name: gemini-3.5-flash-lite
   orange-beach-tyranny:
     brief: |-
-      THE CONFLICT: General political corruption within Alabama (mentioned in A1).
-      THE DISCOVERY: A Federal Lawsuit exists regarding Orange Beach Police interaction with Mayor Tony Kennon. Investigation into the disappearance/death of Danny Williams (2016, Memorial Day Weekend) was ignored by Orange Beach City Council, City Attorney, City Administrator, and Chief of Police, showing a pattern of malfeasance. ALEA ignored subpoenas, leading to a lockdown of Orange Beach City Hall.
-      THE PIVOT: Article 2 shifts the focus from state-level ethical corruption (Mabel Amos Trust) to specific, documented local malfeasance in Orange Beach (Danny Williams disappearance), providing a clear example of governmental failure outside the state capital.
-      KEY ENTITIES: Tony Kennon, Orange Beach, Danny Williams, Neeli Faulkner, Whitney Scapecchi, Brandon Moseley, ALEA.
+      THE CONFLICT:
+      *   Danny Williams, co-target of a 2016 Federal Drug Investigation, disappeared and died in Perdido Pass.
+      *   The incident occurred on the Friday of Memorial Day Weekend (2016).
+      *   The case involves Orange Beach Mayor Tony Kennon and his executives.
+
+      THE DISCOVERY:
+      *   A pattern of malfeasance existed involving Orange Beach City Attorney, City Administrator, and Chief of Police working for Tony Kennon.
+      *   ALEA ignored subpoenas sought by the Alabama Gazette, leading to a lockdown of Orange Beach City Hall.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of institutional failure, malfeasance, and legal obstruction within local government (Orange Beach/ALEA).
+      *   This context parallels the alleged "cash grab" and lack of action by the Alabama State Bar regarding the Mabel Amos Scholarship Trust, which involves high-profile legal figures (Allbritton, Bowden, Alverson).
+      *   Whitney Scapecchi is a documented participant/reporter in both the Orange Beach investigation and the reporting on the Trust.
+
+      KEY ENTITIES:
+      *   Harry Still
+      *   Kevin Brock
+      *   Mabel Amos Trust
+      *   Whitney Scapecchi
+      *   Allbritton, Clifton, Alverson, Moody, and Bowden (Allandron Alabama Law Firm)
+      *   Rob Holbert
+      *   CC Marino
+      *   Tony Kennon (Orange Beach Mayor)
+      *   Danny Williams
+      *   Neeli Faulkner
+      *   Brandon Moseley
+      *   Alabama State Bar
+      *   ALEA
+      *   Perry Hooper Jr (and Perry Hooper Sr)
+    llm_text: Mayor Tony Kennon's Orange Beach malfeasance, tied to Danny Williams' death, parallels the Mabel Amos Trust "cash grab." Whitney Scapecchi investigates how institutional failure—from ALEA to the Alabama State Bar—protects powerful legal figures like Allbritton and Bowden.
     widget_date: "2026-07-09"
-    generated_at: "2026-11-05T23:18:23.777266Z"
+    generated_at: "2026-11-06T05:14:28.318758Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   primary-postpartum:
-    brief: |-
-      THE CONFLICT: General political and legal issues in Alabama (mentioned in A1).
-      THE DISCOVERY: The podcast analyzed the Slander of Baldwin County Attorney Harry Still by City of Orange Beach Officials (during his arrest, involving Bay Minette City Councilman Matt Franklin). The discussion lamented Primary Election results and mentioned PSC new appointments, Tubberville/Roy Moore lawsuits, and Tony Kennon's ethics problems.
-      THE PIVOT: Article 2 connects the legal issues of individuals mentioned in Article 1 (e.g., Harry Still's arrest) to specific local political conflicts (Orange Beach officials/Matt Franklin) and election fallout, grounding the narrative locally.
-      KEY ENTITIES: Harry Still, Matt Franklin, Tony Kennon, Roy Moore, Tubberville, Orange Beach Officials.
+    brief: "THE CONFLICT: Baldwin County attorney and podcast host Harry Still was arrested, during which he was assaulted by Bay Minette City Councilman Matt Franklin. Following the arrest, City of Orange Beach officials and local newscasters defamed and slandered Still by spreading false narratives about the incident.\n\nTHE DISCOVERY: Article 2 established that local officials and media outlets coordinated or recklessly repeated false statements to malign Harry Still during his arrest, exposing a local pattern of official corruption and defamation involving municipal figures like Orange Beach officials and Councilman Matt Franklin.\n\nTHE PIVOT: Article 2 serves as historical context showing the documented bad faith, slander, and abuse of power by local officials (such as those in Orange Beach and Bay Minette) against Harry Still—establishing a pattern of institutional weaponization that mirrors the broader network of corrupt legal and political actors exposed in Article 1.\n\nKEY ENTITIES: \n- Harry Still\n- Matt Franklin\n- Kevin Brock\n- Perry Hooper Jr.\n- Francis \"Paul\" Ripp\n- Rob Holbert\n- CC Marino\n- Tommy Gallion\n- Perry Hooper Sr.\n- Tony Kennon\n- Tommy Tubberville\n- Roy Moore\n- Allbritton (Lawyer)\n- Clifton (Lawyer/Trust Board Member)\n- Alverson (Lawyer)\n- Moody (Lawyer)\n- Bowden (Future Judge)\n- Bill Alverson (TV Star/Lawyer)\n- Mabel Amos"
+    llm_text: When Bay Minette Councilman Matt Franklin assaulted attorney Harry Still during an arrest, Orange Beach officials and local media rushed to spread defamatory lies. Read how this coordinated smear campaign exposes a rotting network of municipal corruption you cannot afford to ignore.
     widget_date: "2026-06-20"
-    generated_at: "2026-11-05T23:18:23.777266Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:13:38.386370Z"
+    model_name: gemini-3.5-flash-lite
   mountain-medicine:
     brief: |-
-      THE CONFLICT: General political and legal issues in Alabama (mentioned in A1).
-      THE DISCOVERY: Master Herbalist Darryl Patton presented the book "Mountain Medicine: The Herbal Remedies of Tommy Bass," who learned from an old Cherokee woman. Discussion included Alabama native plants (magnolia bark, buckeye, green briar, cross vine) and making yaupon holly yerba mate. The coming Tuesday Run-Off was also mentioned.
-      THE PIVOT: Article 2 provides a non-political, anthropological and cultural counterpoint (Darryl Patton, Tommy Bass, herbal remedies) to the consistent political and legal corruption narratives of Article 1.
-      KEY ENTITIES: Darryl Patton, Tommy Bass, "Mountain Medicine," William Bartram, yaupon holly.
+      THE CONFLICT: In the past, the Mabel Amos Scholarship Trust—a trust administered by the Director of the Alabama Ethics Commission and formerly associated with the Andalusia, Alabama law firm of Allbritton, Clifton, Alverson, Moody, and Bowden—was allegedly exploited in a "cash grab." Future Judge Bowden, TV personality Bill Alverson, and other attorneys were recipients of the trust funds, while the Alabama State Bar took no action. Additionally, Lagniappe Editor Rob Holbert filed a bar complaint against Mississippi attorney CC Marino.
+
+      THE DISCOVERY: The background article (Widget Article) showcases a completely separate, seemingly benign cultural and historical discussion featuring Master Herbalist Darryl Patton, author of *Mountain Medicine: The Herbal Remedies of Tommy Bass*, detailing Appalachian and Native American herbal lore, native Alabama plants, and local Alabama spots like Bay Minette.
+
+      THE PIVOT: The older widget article provides localized cultural framing and roots in Alabama's geography and heritage (featuring figures like Tommy Bass and Darryl Patton), contrasting sharply with the deep-seated political, legal, and institutional corruption detailed in the main article regarding the Mabel Amos Scholarship Trust and the Alabama State Bar.
+
+      KEY ENTITIES:
+      - Harry Still
+      - Kevin Brock
+      - Mabel Amos
+      - Whitney Scapecchi
+      - Allbritton
+      - Clifton
+      - Alverson
+      - Moody
+      - Bowden
+      - Rob Holbert
+      - CC Marino
+      - Tommy Gallion
+      - Perry Hooper Jr.
+      - Perry Hooper Sr.
+      - Darryl Patton
+      - Tommy Bass
+    llm_text: While Master Herbalist Darryl Patton celebrates Alabama’s rich natural roots, a darker side of the state thrives in the legal shadows. Discover how political insiders allegedly looted the Mabel Amos Scholarship Trust while the Alabama State Bar turned a blind eye.
     widget_date: "2026-06-12"
-    generated_at: "2026-11-05T23:18:23.777266Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  writ-of-mandamus-update:
-    brief: |-
-      THE CONFLICT: Tom Albritton's self-dealing as a trustee of the Mabel Amos Memorial Fund led to a Writ of Mandamus filed by Francis Paul Ripp (October 18th).
-      THE DISCOVERY: On November 25th, Judge Johnny Hardwick (Montgomery Circuit Judge) was set to review the Writ but recused himself due to a potential conflict of interest (selected by Chief Justice Tom Parker for ethics cases on November 1st). A civil case against Regions Bank involving Mabel Amos Fund trustees is forthcoming. Albritton admitted self-dealing and should resign.
-      THE PIVOT: Article 2 provides a specific, current legal status update (Judge Hardwick's recusal, November 25th status review, pending civil case against Regions Bank), detailing the active progression of the Albritton case from allegation to legal action.
-      KEY ENTITIES: Francis Paul Ripp, Tom Albritton, Judge Johnny Hardwick, Chief Justice Tom Parker, Mabel Amos Memorial Fund, Regions Bank, Harry Still.
-    widget_date: "2021-10-26"
-    generated_at: "2026-11-05T23:18:23.777266Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:13:44.285743Z"
+    model_name: gemini-3.5-flash-lite
+  a-new-hope:
+    brief: "THE CONFLICT: \n- Harry Still III was arrested and prosecuted by the City of Bay Minette for allegedly assaulting Bay Minette City Council Member Matthew J. Franklin.\n- In a related legal and political battle, Forrest Bullin lost $4.5 million in a civil trial presided over by Judge Scott Taylor, following an incident where Bullin shot at a deputy (Walker) after his property was entered without a warrant and his house fired upon with an AR-15.\n- Former Summerdale Police Chief Kevin Brock and his wife were framed for forgery, involving a notary (Judge Brackin's Judicial Assistant) who recanted on the day of trial.\n- Allegations of systemic corruption, perjury in Circuit Courtroom 8 by Matthew J. Franklin and Attorney Vincent Bellucci, orchestrated mental competency hearings by former Bay Minette Chief of Police Al Tolbert, and compromised local officials involving the 28th Judicial District.\n\nTHE DISCOVERY: \n- A Baldwin County jury delivered a NOT GUILTY verdict on a Thursday in the case of *City of Bay Minette v. Harry Still III* regarding the alleged assault of Matthew J. Franklin, proving Still was telling the truth.\n- Historical/background context reveals systemic corruption and cronyism within the 28th Judicial District, including questionable asset transfers (North Baldwin Utilities Board gifting The Lodges At Steelwood valued at ~$10M, selling the Bradley Building to Mark Frenette's MADD Investments LLC), fabrication of FBI/MCU crime scenes, and the use of AI in legal work products by Assistant District Attorney Kristi Haygood in the Rule 32 responses for Murray Lawrence Jr. and Forrest Bullin.\n\nTHE PIVOT: \n- The not-guilty verdict in *City of Bay Minette v. Harry Still III* serves as the crucial catalyst/context (smoking gun) validating Harry Still's long-standing claims of a targeted political prosecution and corruption machine within the 28th Judicial District (operated by figures like Judge Robert Wilters and Al Tolbert), exposing the manufactured nature of the legal actions against him and others like Kevin Brock and Forrest Bullin.\n\nKEY ENTITIES: \n- Harry Still III (HBSIII)\n- Matthew J. Franklin (Bay Minette City Council Member)\n- Al Tolbert (Former Bay Minette Chief of Police / Baldwin County Sheriff's Corporal)\n- Robert Wilters (Judge, 28th Judicial District)\n- Scott Taylor (Judge, 28th Judicial District)\n- Kevin Brock (Former Summerdale Police Chief)\n- Forrest Bullin\n- Kristi Haygood (Assistant District Attorney / Republican Candidate Elect for Circuit Judge)\n- Vincent Bellucci (Bay Minette Attorney)\n- Mark Frenette (Delta Realty / MADD Investments LLC)\n- David White (Chief Deputy)\n- Murray Lawrence Jr.\n- Walker (Deputy Sheriff)\n- Judge Brackin\n- Francis \"Paul\" Ripp (The Ripp Report)\n- Danielle Duggar (Republican Candidate Elect)\n- Matt Simpson (State Representative / Lollipop Guild Member)"
+    llm_text: A Baldwin County jury just acquitted Harry Still III, smashing the rigged 28th Judicial District machine run by Judge Robert Wilters and Al Tolbert. Read how this explosive not-guilty verdict finally blows the lid off systemic local corruption targeting whistleblowers like Kevin Brock and Forrest Bullin.
+    widget_date: "2026-05-25"
+    generated_at: "2026-11-06T05:13:51.397000Z"
+    model_name: gemini-3.5-flash-lite
   shackled-chained-handcuffed-bc-un-family-court:
-    brief: |-
-      THE CONFLICT: Baldwin County was plagued by a deep corruption element across the Judiciary, attorneys, and elected officials, exemplified by the actions of Tom Albritton.
-      THE DISCOVERY: Baldwin County Family Court, under Judge Michelle Thomason, was a "kangaroo court" that stripped assets. Chey Garrigan was arrested by Fairhope Police without Miranda rights and later was shackled, chained, and handcuffed in jail for 30 days, resulting in two years of probation. This case was pursued in Federal Court (with John Merrill as defendant).
-      THE PIVOT: Article 2 shifts the focus from high-level state corruption (Albritton) to specific, detailed judicial abuse (Judge Michelle Thomason), validating Article 1’s warning about the complete lack of justice and accountability within Baldwin County Family Court.
-      KEY ENTITIES: Judge Michelle Thomason, Chey Garrigan, Fairhope Police, Steven Johnson, Brian Chun, Harry Still, Austin Burdick, John Merrill, Baldwin County.
+    brief: "THE CONFLICT: For 8 years, Chey Garrigan battled in Baldwin County family court against her ex-husband, Jake Simkins, after her daughter was taken without permission in an incident involving Bayside Academy. Judge Michelle Thomason—serving beyond her elected District Court capacity through decade-long improper reappointments—presided over the case, repeatedly ruling in favor of connected attorneys like Steven Johnson (who solicited a dinner date from Garrigan), Buddy Brackin, and David Simon. Garrigan faced targeted legal hurdles including forced hair follicle and mental evaluations, asset depletion, a domestic dispute where she was arrested by Fairhope Police while her assaulting ex-husband walked free, and a 30-day jail sentence in shackles, chains, and handcuffs under Judge Jody Bishop after refusing a plea deal, resulting in a two-year probation and total denial of child visitation. Attorney Austin Burdick ultimately filed a federal lawsuit against Secretary of State John Merrill challenging Thomason's unconstitutional jurisdictional usurpation and voter disenfranchisement.\n\nTHE DISCOVERY: Article 2 exposed a deeply entrenched network of systemic corruption, cronyism, and judicial abuse across Baldwin County's legal machinery—including the Family Court, District Attorney's office, Alabama State Bar, and Ethics Commission—where \"roach\" attorneys fleece families, oversight bodies provide zero accountability, and judges like Michelle Thomason operate kangaroo courts shielded by the \"good ole boys\" machine.\n\nTHE PIVOT: Article 2 serves as the smoking gun because it documents the exact systemic impunity, judicial overreach, and protected attorney graft (such as the actions of Judge Michelle Thomason and Steven Johnson) that the Main Article now ties directly to broader state-level political corruption, ethics violations, and the failures of regulatory bodies like the Alabama Ethics Commission under Tom Albritton and the Alabama State Bar.\n\nKEY ENTITIES: \n- Chey Garrigan\n- Judge Michelle Thomason\n- Steven Johnson\n- Jake Simkins\n- Austin Burdick\n- John Merrill\n- Brian Chunn\n- David Simon\n- Harry Still\n- Larry Fison\n- Judge Jody Bishop\n- Judy Newcomb\n- Buddy Brackin\n- Cathy Brumback\n- Brenda Perry\n- Tom Albritton\n- Perry Hooper Jr.\n- Kevin Brock\n- Francis \"Paul\" Ripp\n- Rob Holbert\n- CC Marino\n- Tommy Gallion\n- Perry Hooper Sr."
+    llm_text: For eight years, Chey Garrigan battled a rigged family court machine overseen by unconstitutionally seated Judge Michelle Thomason. Read how this shocking corruption fuels our deeper look into systemic state cronyism and untouchable attorney graft.
     widget_date: "2021-08-21"
-    generated_at: "2026-11-05T23:18:23.777266Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:13:57.148790Z"
+    model_name: gemini-3.5-flash-lite

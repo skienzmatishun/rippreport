@@ -1,97 +1,124 @@
 metadata:
-  generated_at: "2026-11-05T19:44:37.554762Z"
+  generated_at: "2026-11-06T06:34:05.422023Z"
   generator_version: 1.0.0
   post_slug: not-guilty-innocent
   main_date: "2026-06-13"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  mountain-medicine:
+    brief: |-
+      THE CONFLICT:
+      Harry Still was arrested on September 3, 2025, in Bay Minette for misdemeanor assault against Matt Franklin, a Bay Minette City Councilman.
+      Franklin admitted multiple times that he threatened to KILL Still and his dog.
+      Still was investigating corruption, specifically the wrongful conviction of Murray Lawrence Jr., involving Sheriff Lowery, District Attorney Robert Wilters, former sheriff Hoss Mack, former prosecutor David Whetstone, and Judge Kristy Haygood.
+      Judge Marcus McDowell initially found Still guilty in Bay Minette municipal court, but Judge Clark Stankowski found him INNOCENT in Circuit Court.
+
+      THE DISCOVERY:
+      Article 2 featured Darryl Patton and his book, "Mountain Medicine: The Herbal Remedies of Tommy Bass," detailing pharmacologically important native Alabama plants (e.g., magnolia bark, buckeye, green briar, cross vine).
+
+      THE PIVOT:
+      Article 2 provides historical/cultural context of Alabama, highlighting indigenous knowledge and local botany within the state where the political and legal conflicts detailed in Article 1 occurred (Bay Minette, Alabama).
+
+      KEY ENTITIES:
+      Harry Still
+      Matt Franklin
+      Chris Elliott
+      Marcus McDowell
+      Clark Stankowski
+      Al Tolbert
+      Bob Wills
+      Joshua Brown
+      Darryl Patton
+      Tommy Bass
+      Sheriff Lowery
+      Robert Wilters
+      Hoss Mack
+      David Whetstone
+      Kristy Haygood
+      Bay Minette
+      Alabama
+    llm_text: Harry Still investigated corruption involving Councilman Matt Franklin and Sheriff Lowery in Bay Minette. Explore the unique Alabama context, from Still's fight for justice to Darryl Patton's herbal guide on magnolia bark and buckeye.
+    widget_date: "2026-06-12"
+    generated_at: "2026-11-06T06:31:27.501732Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   a-new-hope:
     brief: |-
-      1. THE CONFLICT: On Sept 3, 2025, Harry Still, an attorney, was arrested in Bay Minette for a misdemeanor charge from a skirmish with Matt Franklin (City Councilman). Judge Marcus McDowell found Still guilty in municipal court, despite Franklin admitting to threatening to KILL Still and his dog. Still was later found INNOCENT, NOT GUILTY by a jury in Circuit Court, presided over by Judge Clark Stankowski.
-      2. THE DISCOVERY: The 'A New Hope' widget article mentions Danielle Duggar, Brandon Moseley, Doug Jones, and Grant Blackburn, and connects the verdict to the Dixie Podcast.
-      3. THE PIVOT: Article 2 provides a broader political and personal context (Dixie Podcast, specific candidates) surrounding the core legal conflict detailed in Article 1.
-      4. KEY ENTITIES: Harry Still, Matt Franklin, Marcus McDowell, Clark Stankowski, Chris Elliott, Bay Minette, Danielle Duggar, Dixie Podcast
+      THE CONFLICT:
+      *   Harry Still, III was illegally arrested by Al Tolbert (Bay Minette Chief of Police) at the direction of District Attorney Robert Wilters. (Date not specified, but prior to the 2025 incident).
+      *   Still was OF COUNSEL for Murray Lawrence Jr. and represented victims in the Ronan McSherry case, leading to conflict with Baldwin County Sheriff Lowery and the BCSO.
+      *   Harry Still ran for Mayor of Bay Minette in 2020 and pledged to fire Al Tolbert.
+      *   Still was involved in the exposure of the Murray Lawrence Jr. corruption case, involving Sheriff Hoss Mack and former prosecutor David Whetstone.
+
+      THE DISCOVERY:
+      *   The Widget article reveals long-standing animosity between Still and the Baldwin County establishment (BCSO/Tolbert/Wilters) stemming from Still's defense of victims against police misconduct and wrongful convictions.
+      *   The Widget article establishes that Tolbert (former Bay Minette Chief of Police) was involved in orchestrating Still's "illegal arrest" at the direction of DA Robert Wilters.
+
+      THE PIVOT:
+      *   The Widget article provides the necessary historical context that the September 3, 2025, arrest of Harry Still (for assaulting Councilman Matt Franklin) was not an isolated incident but part of a sustained campaign of animosity and retaliation by the Baldwin County "good ole boys" (BCSO/Tolbert) against Still due to his controversial legal work.
+      *   This history of targeted harassment and alleged corruption explains the alleged bias of Judge Marcus McDowell (municipal judge) who presided over the initial guilty finding against Still.
+
+      KEY ENTITIES:
+      *   Harry Still, III
+      *   Al Tolbert (Former Bay Minette Police Chief, BCSO)
+      *   Robert Wilters (District Attorney of the 28th Judicial District)
+      *   Matt Franklin (Bay Minette City Councilman)
+      *   Marcus McDowell (Municipal Judge/Municipal Attorney for Fairhope)
+      *   Clark Stankowski (Circuit Court Judge)
+      *   Chris Elliott (State Senator)
+      *   Baldwin County Sheriff Lowery
+      *   Joshua Brown (Mayor Elect of Bay Minette)
+      *   Murray Lawrence Jr.
+      *   Hoss Mack (Former Sheriff)
+      *   David Whetstone (Former Prosecutor)
+      *   Kristy Haygood (Assistant District Attorney/Circuit Judge Candidate)
+      *   Vincent Bellucci (Bay Minette Attorney)
+      *   Ronan McSherry
+    llm_text: Harry Still faced an illegal arrest by Al Tolbert, directed by DA Robert Wilters, over his defense of victims and corruption exposes. This targeted harassment explains the bias behind Still's 2025 arrest, not just an isolated incident.
     widget_date: "2026-05-25"
-    generated_at: "2026-11-05T19:44:37.552170Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  former-summerdale-police-chief-kevin-brock:
-    brief: |-
-      1. THE CONFLICT: On Sept 3, 2025, Harry Still was arrested in Bay Minette for a misdemeanor charge during a skirmish with Matt Franklin. Judge Marcus McDowell found Still guilty initially, but Still was later found INNOCENT, NOT GUILTY by a jury in Circuit Court (Judge Clark Stankowski).
-      2. THE DISCOVERY: The 'Thanksgiving Special' widget discusses the NOT GUILTY verdict for Harry Still III in Bay Minette v Matt Franklin, and links to Kevin Brock's case (former Summerdale Police Chief), noting Brock was investigated, fired, indicted (two years later), and had charges dropped.
-      3. THE PIVOT: Article 2 introduces a parallel case (Kevin Brock) that connects Still's legal fight to broader issues of police misconduct and judicial targeting within Baldwin County.
-      4. KEY ENTITIES: Harry Still, Matt Franklin, Kevin Brock, Lori Brock, Anthony Lowery, BCSO, Bay Minette, WKRG
-    widget_date: "2025-11-26"
-    generated_at: "2026-11-05T19:44:37.552170Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  heart-of-dixie-podcast:
-    brief: |-
-      1. THE CONFLICT: On Sept 3, 2025, Harry Still, an attorney, was arrested in Bay Minette for a misdemeanor charge during a skirmish with Matt Franklin. Judge Marcus McDowell found Still guilty in municipal court, though Still was later found INNOCENT, NOT GUILTY by a jury (Judge Clark Stankowski).
-      2. THE DISCOVERY: The 'Heart of Dixie Podcast' widget confirms the NOT GUILTY verdict for Harry Still III in Bay Minette v Matt Franklin, mentioning the podcast and linking the events to Matt Franklin and BCSO.
-      3. THE PIVOT: Article 2 identifies the platform (Heart of Dixie Podcast) where these events are discussed, providing context on the media/public sphere surrounding the legal conflict.
-      4. KEY ENTITIES: Harry Still, Matt Franklin, Marcus McDowell, Clark Stankowski, Bay Minette, Heart of Dixie Podcast, BCSO
-    widget_date: "2025-11-21"
-    generated_at: "2026-11-05T19:44:37.552170Z"
+    generated_at: "2026-11-06T06:32:39.569720Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   audio-of-bay-minette-attorney-councilman-fight-offers-new-details:
     brief: |-
-      1. THE CONFLICT: On Sept 3, 2025, Harry Still was arrested in Bay Minette for a misdemeanor charge during a skirmish with Matt Franklin. Judge Marcus McDowell found Still guilty, but a jury in Circuit Court (Judge Clark Stankowski) later found Still INNOCENT, NOT GUILTY.
-      2. THE DISCOVERY: The 'Lagniappe' widget article releases a never-before-heard audio recording of the fight between Harry Still and Matt Franklin, suggesting conflicting timelines (Police/Bob Wills vs. Still).
-      3. THE PIVOT: Article 2 provides primary evidence (the audio recording) that directly contradicts the official narrative provided by former Mayor Bob Wills and Al Tolbert, adding crucial detail to the initial conflict.
-      4. KEY ENTITIES: Harry Still, Matt Franklin, Bob Wills, Al Tolbert, Joshua Brown, Lagniappe, September 3, 2025
+      THE CONFLICT:
+      *   September 3, 2025: A skirmish occurred in downtown Bay Minette between Harry Still (practicing attorney) and Matt Franklin (Bay Minette City Councilman) in Franklin's office.
+      *   Initial Accounts (Former Mayor Bob Wills, Al Tolbert, police statements): Still attacked Franklin, and witnesses saw Still restraining Franklin. Still was arrested and charged with assault.
+      *   Franklin admitted three times in court to threatening to KILL Still and his dog.
+      *   Still countered: Franklin attacked him, forcing Still to restrain him.
+
+      THE DISCOVERY:
+      *   Widget Article (Lagniappe) released an audio recording of the fight (provided by Still).
+      *   The recording contradicted official details from local police, former mayor Wills, and Al Tolbert.
+      *   The recording showed Franklin yelling, "I'm going to kill your fucking dog, and I'm going to kill you," and started the physical confrontation.
+      *   The recording did not clarify who hit whom first.
+
+      THE PIVOT:
+      *   The audio recording (Article 2) provides factual evidence of Franklin's threats and initial aggression, undermining the police narrative used to file the initial misdemeanor charges and the motion to commit Still to a mental institution (which Circuit Court Judge Scott Tayor dismissed).
+      *   This evidence directly contributed to the jury finding Still NOT GUILTY in the Circuit Court trial (presided by Judge Clark Stankowski) reported in Article 1, overriding the initial guilty verdict by Judge Marcus McDowell.
+
+      KEY ENTITIES:
+      *   Harry Still
+      *   Matt Franklin
+      *   Al Tolbert (former Bay Minette Police Chief; now BCSO)
+      *   Bob Wills (former Mayor of Bay Minette)
+      *   Marcus McDowell (Municipal Judge/Attorney for Fairhope)
+      *   Clark Stankowski (Circuit Court Judge)
+      *   Scott Tayor (Circuit Court Judge)
+      *   Chris Elliott (State Senator)
+      *   Joshua Brown (newly elected Mayor of Bay Minette)
+      *   Bay Minette
+      *   Baldwin County Sheriff Lowery
+      *   Alabama Bar
+      *   Ronan McSherry
+      *   Chris Elliott
+      *   Councilman Franklin
+      *   O.J. French (murder victim)
+      *   Murray Lawrence Jr.
+      *   Sheriff Lowery
+      *   Robert Wilters (District Attorney)
+      *   Hoss Mack (former sheriff)
+      *   David Whetstone (former prosecutor)
+      *   Kristy Haygood (recently elected judge)
+    llm_text: The audio recording from Harry Still exposes Councilman Matt Franklin yelling threats in Bay Minette. See how this evidence overturned the initial police narrative and secured Still's NOT GUILTY verdict.
     widget_date: "2025-11-23"
-    generated_at: "2026-11-05T19:44:37.552170Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  bay-minette-vote-out-mayor-wills-remember-oj-french:
-    brief: |-
-      1. THE CONFLICT: On Sept 3, 2025, Harry Still was arrested in Bay Minette for a misdemeanor charge during a skirmish with Matt Franklin. Judge Marcus McDowell found Still guilty, but Still was later found INNOCENT, NOT GUILTY by a jury (Judge Clark Stankowski).
-      2. THE DISCOVERY: The 'Vote Out Mayor Wills' widget highlights the August 26, 2025, mayoral election where Joshua Brown won, a victory Still campaigned for, contrasting with the former Mayor Bob Wills' actions and the O.J. French murder incident (August 20, 2021).
-      3. THE PIVOT: Article 2 establishes the political stakes and timeline (2020 campaign, 2025 election) and links the current conflict to past political grievances, specifically the O.J. French murder case and Mayor Wills' alleged lies.
-      4. KEY ENTITIES: Harry Still, Matt Franklin, Bob Wills, Joshua Brown, Al Tolbert, O.J. French, August 26, 2025, WKRG
-    widget_date: "2025-08-23"
-    generated_at: "2026-11-05T19:44:37.552170Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  southern-gothic:
-    brief: |-
-      1. THE CONFLICT: On Sept 3, 2025, Harry Still was arrested in Bay Minette for a misdemeanor charge during a skirmish with Matt Franklin. Judge Marcus McDowell found Still guilty, but Still was later found INNOCENT, NOT GUILTY by a jury (Judge Clark Stankowski).
-      2. THE DISCOVERY: The 'Southern Gothic' widget connects Harry Still's fight to the broader history of Baldwin County corruption, referencing 2010 commission actions, the 2005 Orange Beach corruption case (Steve Russo/Larry Sutley), and the McSharry case.
-      3. THE PIVOT: Article 2 elevates the specific Bay Minette incident (Article 1) from a local dispute to a symptom of deep, long-standing judicial and municipal corruption in Baldwin County.
-      4. KEY ENTITIES: Harry Still, Matt Franklin, Marcus McDowell, Clark Stankowski, Baldwin County, Steve Russo, Larry Sutley, McSharry, 2010
-    widget_date: "2021-04-02"
-    generated_at: "2026-11-05T19:44:37.552170Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  american-citizen:
-    brief: |-
-      1. THE CONFLICT: On Sept 3, 2025, Harry Still was arrested in Bay Minette for a misdemeanor charge during a skirmish with Matt Franklin. Judge Marcus McDowell found Still guilty, but Still was later found INNOCENT, NOT GUILTY by a jury (Judge Clark Stankowski).
-      2. THE DISCOVERY: The 'American Citizen' widget details the McSharry assault case (Paula Dinardi assaulted by Ronan McSherry, Nov 22, 2018), focusing on the miscarriage of justice where Marcus McDowell failed to amend the charging document, allowing the green card holder McSherry to escape prosecution.
-      3. THE PIVOT: Article 2 shows that the same judicial actors (Marcus McDowell, City Council President Burrell) involved in Still's case also perpetuated a failure of justice against an American citizen victim (Paula Dinardi) in a different case (McSharry), linking corruption across cases.
-      4. KEY ENTITIES: Harry Still, Matt Franklin, Marcus McDowell, Clark Stankowski, Ronan McSherry, Paula Dinardi, Burrell, Fairhope, November 22, 2018
-    widget_date: "2020-04-22"
-    generated_at: "2026-11-05T19:44:37.552170Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  judicial-trick:
-    brief: |-
-      1. THE CONFLICT: On Sept 3, 2025, Harry Still was arrested in Bay Minette for a misdemeanor charge during a skirmish with Matt Franklin. Judge Marcus McDowell found Still guilty, but Still was later found INNOCENT, NOT GUILTY by a jury (Judge Clark Stankowski).
-      2. THE DISCOVERY: The 'Judicial Trick' widget details the McSharry assault case (Nov 22, 2018), specifically how Circuit Judge Clark Stankoski dismissed the assault charge because Marcus McDowell failed to amend the charging document to include "did cause bodily harm," enabling McSherry to avoid full prosecution.
-      3. THE PIVOT: Article 2 explains the specific legal mechanism (failure to amend the charging document) that allowed the miscarriage of justice in the McSherry case, paralleling the perceived bias and procedural failure in Still's initial municipal trial.
-      4. KEY ENTITIES: Harry Still, Matt Franklin, Marcus McDowell, Clark Stankoski, Ronan McSherry, Paula Dinardi, Fairhope, November 22, 2018
-    widget_date: "2020-04-18"
-    generated_at: "2026-11-05T19:44:37.552170Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  cover-up:
-    brief: |-
-      1. THE CONFLICT: On Sept 3, 2025, Harry Still was arrested in Bay Minette for a misdemeanor charge during a skirmish with Matt Franklin. Judge Marcus McDowell found Still guilty, but Still was later found INNOCENT, NOT GUILTY by a jury (Judge Clark Stankowski).
-      2. THE DISCOVERY: The 'Cover Up' widget reveals Mayor Bob Wills' letter to Tamara French (O.J.'s sister) regarding the Aug 20, 2021, killing of O.J. French by Bay Minette police, where Wills denied "cover up" allegations, despite his history of ethics/Bar complaints and his involvement with BCMCU (led by Al Tolbert).
-      3. THE PIVOT: Article 2 demonstrates that the political pressure and alleged corruption (e.g., BCMCU self-investigation) are not isolated to Still's case but are part of a systemic effort (e.g., Wills' denial of a cover up regarding O.J. French) to protect local figures.
-      4. KEY ENTITIES: Harry Still, Matt Franklin, Bob Wills, O.J. French, Al Tolbert, Tamara French, August 20, 2021, BCMCU
-    widget_date: "2023-03-21"
-    generated_at: "2026-11-05T19:44:37.552170Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  the-law-enforcement-narrative-2:
-    brief: |-
-      1. THE CONFLICT: On Sept 3, 2025, Harry Still was arrested in Bay Minette for a misdemeanor charge during a skirmish with Matt Franklin. Judge Marcus McDowell found Still guilty, but Still was later found INNOCENT, NOT GUILTY by a jury (Judge Clark Stankowski).
-      2. THE DISCOVERY: 'The (Law Enforcement) Narrative' widget refutes the narrative fed by the Baldwin County Major Crimes Unit (BCMCU), calling it a fiction of Sheriff Huey Mack, and lists several instances of law enforcement/judicial cover-ups (e.g., Uvalde, Peyton Little death, Forest Bullin conviction).
-      3. THE PIVOT: Article 2 contextualizes the conflict not merely as personal animosity but as part of a documented, systemic pattern of law enforcement disinformation and cover-ups (BCMCU/Sheriff Mack), reinforcing Still's claims of institutional corruption.
-      4. KEY ENTITIES: Harry Still, Matt Franklin, Al Tolbert, Huey Mack, BCSO, Baldwin County Major Crimes Unit (BCMCU), Sheriff Lowery, Forest Bullin, Sept 3, 2025
-    widget_date: "2025-09-10"
-    generated_at: "2026-11-05T19:44:37.552170Z"
+    generated_at: "2026-11-06T06:33:48.431576Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

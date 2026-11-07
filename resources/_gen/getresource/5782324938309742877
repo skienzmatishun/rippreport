@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a52ed7a99afe3376-MIA
+Cf-Ray: a5688c9f0af3f7aa-MIA
 Content-Type: application/json
-Date: Sat, 31 Oct 2026 01:21:21 GMT
+Date: Sat, 07 Nov 2026 01:26:21 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Ta1t8AsGby4qKkF4XRtBsSZRtmjDUC0vZ%2BNJ6ohabXamQ7pGlTfFuoxSqKDdSuyYwvaddSJa5c59SaHYlQlI%2Bz4b51buxhsI7Xrra%2BbfykplnE6QuqrlaLvdD%2FKfY7K%2FScEutcUBcObj85vCP7Sf5eeQXw%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KrU8QfH7zo6joPmk1g2KnK352lmYNEBy4Dz48n9QjC%2BWj%2BbyVNzTzPbNzPMYcsF%2FpOoWJv24%2FbedBpYf03ojLyRT36QZl8h8V3atlSm%2FIesaGLQeJAjhHZUP2XO7kt6Z%2B7fZaE%2BCWvONK9JuoKLfApoJ%2Fg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=250
+Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=586
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 630611e483b032e889cf61c3ccadc917
-X-Etags-2: 630611e483b032e889cf61c3ccadc917
+X-Etags-1: d1d6d67a896c13cb3bf066414a3d8ad4
+X-Etags-2: d1d6d67a896c13cb3bf066414a3d8ad4
 
-{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/news/lawsuit-contests-perpetual-appointment-to-baldwin-county-court/article_21214597-72b0-51d4-95df-430f5ab82360.html","title":"Preview unavailable","description":"Could not fetch preview data"}
+{"title":"Lawsuit contests perpetual appointment to Baldwin County court","description":"District courts in the state of Alabama are courts of limited jurisdiction, attorney Austin Burdick explained, typically presiding over misdemeanor cr...","url":"https://www.lagniappemobile.com/news/lawsuit-contests-perpetual-appointment-to-baldwin-county-court/article_21214597-72b0-51d4-95df-430f5ab82360.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/0/2b/02b78aae-19cf-54d7-ae40-2ff2ba31c07d/631a2e8f15858.image.jpg?crop=1300%2C683%2C0%2C146&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/news/lawsuit-contests-perpetual-appointment-to-baldwin-county-court/article_21214597-72b0-51d4-95df-430f5ab82360.html","wasRedirected":false}

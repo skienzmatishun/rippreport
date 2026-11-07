@@ -480,7 +480,7 @@ func DefaultConfig() *Config {
 			ModelsDir:       "/Volumes/1tb/models",
 			ContextSize:     4096,
 			GPULayers:       99,
-			EmbeddingModel:  "nomic-embed-text-v1.5",
+			EmbeddingModel:  "/Volumes/1tb/models/unsloth/embeddinggemma-2-GGUF/embeddinggemma-2-UD-Q4_K_XL.gguf",
 			LLMModel:        "qwen3-14b",
 			Timeout:         120 * time.Second,
 			MinRequestDelay: 50 * time.Millisecond,

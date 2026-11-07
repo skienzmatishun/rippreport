@@ -1,0 +1,37 @@
+metadata:
+  generated_at: "2026-11-06T10:59:34.221574Z"
+  generator_version: 1.0.0
+  post_slug: new-years-2026
+  main_date: "2026-01-01"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  former-summerdale-police-chief-kevin-brock:
+    brief: |-
+      THE CONFLICT: Kevin Brock was investigated, fired, and indicted by Baldwin County law enforcement; charges were dropped two years later. Harry Still was arrested on a misdemeanor via an unlawful arrest outside officer presence (Code of Alabama violation).
+      THE DISCOVERY: Anthony Lowery (former District Attorney) used Debbie Williams of WKRG News 5 as a mouthpiece to cover the Brock and Still cases.
+      THE PIVOT: Article 2 establishes a history of law enforcement propaganda and politically leveraged media (Lowery/WKRG) within the local context (Bay Minette/Daphne) that provides background to the broader political and social discussions in Article 1.
+      KEY ENTITIES: Kevin Brock, Dr. Lori Brock, Anthony Lowery, Debbie Williams, Harry Still, BCSO, WKRG, Daphne, 68Ventures, Epstein, THC, Venezuela, Trump, Whitney Scapecci, Dr. John Sophocleus
+    llm_text: Former DA Anthony Lowery leveraged WKRG's Debbie Williams to cover the Kevin Brock investigation and Harry Still's unlawful arrest. See how local law enforcement used media propaganda in Daphne, Bay Minette, and beyond.
+    widget_date: "2025-11-26"
+    generated_at: "2026-11-06T10:57:28.568033Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  audio-of-bay-minette-attorney-councilman-fight-offers-new-details:
+    brief: |-
+      THE CONFLICT: Fight between Harry Still (Bay Minette attorney) and Councilman Matthew Franklin on September 3 in downtown Bay Minette.
+      THE DISCOVERY: An audio recording provided by Still shows contradictions with accounts offered by former Mayor Bob Wills, former police chief Al Tolbert, and police statements regarding the Sept 3 incident.
+      THE PIVOT: Article 2 establishes a documented history of conflict (Still's relationship with local officials, including Wills and Tolbert) and the specifics of the Sept 3 fight, providing essential historical context for the actions of the key entities discussed in Article 1, despite the difference in subject matter (local politics vs. 2025 events).
+      KEY ENTITIES: Harry Still, Matthew Franklin, Bob Wills, Al Tolbert, Joshua Brown, Otis French, Baldwin County Jail, Bay Minette, Baldwin County Sheriff’s Office.
+    llm_text: Harry Still's audio recording challenges official accounts from Bob Wills and Al Tolbert regarding the Sept 3 fight with Councilman Matthew Franklin. See how this documented conflict reveals the real story behind the Bay Minette incident.
+    widget_date: "2025-11-23"
+    generated_at: "2026-11-06T10:58:31.351974Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  heart-of-dixie-podcast:
+    brief: |-
+      THE CONFLICT: Harry Still was arrested and faced attempted involuntary commitment based on the word of Bay Minette City Councilman Matthew Franklin.
+      THE DISCOVERY: A leaked internal BCSO email showed Sheriff Anthony Lowery directing deputies to pre-target attorney Harry Still at a Republican event, instructing them to "do what you need to do."
+      THE PIVOT: Article 2 established viewpoint-based policing and potential First Amendment retaliation by BCSO leadership (Lowery), providing historical evidence of political suppression that frames the political and activist discussions discussed in the 2025 context of Article 1.
+      KEY ENTITIES: Harry Still, Matthew Franklin, Whitney Scapecchi, Anthony Lowery, BCSO, Bay Minette City Council, Southern Freedom Press.
+    llm_text: Sheriff Anthony Lowery directed deputies to pre-target attorney Harry Still at a Republican event, according to a leaked BCSO email. Learn how Councilman Matthew Franklin's word fueled viewpoint-based policing and potential First Amendment retaliation in Bay Minette.
+    widget_date: "2025-11-21"
+    generated_at: "2026-11-06T10:59:23.272224Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

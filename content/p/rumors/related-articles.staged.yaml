@@ -1,5 +1,5 @@
 post_slug: rumors
-generated: 2026-11-05T11:31:10.501799-06:00
+generated: 2026-11-05T21:12:49.006144-06:00
 articles:
   - slug: wrongful-conviction
     title: WRONGFUL CONVICTION
@@ -9,23 +9,19 @@ articles:
     title: BIASED INVESTIGATION
     score: 100
     rank: 2
-  - slug: southern-gothic
-    title: SOUTHERN GOTHIC
-    score: 60
-    rank: 3
   - slug: lethal-force
     title: LETHAL FORCE
-    score: 50
-    rank: 4
+    score: 75
+    rank: 3
   - slug: sheriff-huey-boss-mack-secret-police
     title: SHERIFF HUEY “BOSS” MACK - SECRET POLICE
     score: 50
-    rank: 5
+    rank: 4
   - slug: your-rights-your-money
     title: YOUR RIGHTS YOUR MONEY
     score: 50
-    rank: 6
+    rank: 5
   - slug: non-lethal
     title: NON-LETHAL
     score: 50
-    rank: 7
+    rank: 6

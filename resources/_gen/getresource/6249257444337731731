@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a52ed8623d633376-MIA
+Cf-Ray: a5688cf79b44f7aa-MIA
 Content-Type: application/json
-Date: Sat, 31 Oct 2026 01:21:50 GMT
+Date: Sat, 07 Nov 2026 01:26:36 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xFmWbGDS7Lp7cbpMnmtFc3E9wlAo8VNKPR%2BpIH%2Bf6JiJEU4QcRF4DwgWAotGsE%2BNW9zdJsVJf1mAF%2Bdg%2BEtPcyZn9QDpZNJUUfAyQON2UAAC%2FMP7EAxO%2BmzMcWShRH%2B5qP1X3IHEVOVlNiYla6u7lqQ25A%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3VKdt38vm87LvDGH5r3Z7jKk2C3tOtaTpO6EiMcn1uYOb4HOWmOSR55b%2Ft8Fgfx9tZRfbK0FXov5wTFYFUj5zGQtWlqXo642KB8uUA9hXmO1SgPTJXnIGb0YmJRl4Oud7LnuRidl65rd74PEyLzL77Zn%2Fg%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=4,cfOrigin;dur=0,cfWorker;dur=228
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=0,cfWorker;dur=665
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 1103ef47378472734268ded03ced18ac
-X-Etags-2: 1103ef47378472734268ded03ced18ac
+X-Etags-1: bfe620c4608a55f6c4c327491a9289aa
+X-Etags-2: bfe620c4608a55f6c4c327491a9289aa
 
-{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/opinion/letters_to_editor/we-need-a-local-ethics-watchdog/article_966f6d3e-4f68-51fa-9ae0-792f5e5a5af5.html","title":"Preview unavailable","description":"Could not fetch preview data"}
+{"title":"We need a local ethics watchdog","description":"Editor: People rub their eyes at the prospect of having $87 million on the table for one bridge and $60 million on the table for another, having $4 mi...","url":"https://www.lagniappemobile.com/opinion/letters_to_editor/we-need-a-local-ethics-watchdog/article_966f6d3e-4f68-51fa-9ae0-792f5e5a5af5.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/custom/image/e4cdaace-cf6d-11ef-879c-7ba26cc0eed9.jpg?resize=600%2C301","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/opinion/letters_to_editor/we-need-a-local-ethics-watchdog/article_966f6d3e-4f68-51fa-9ae0-792f5e5a5af5.html","wasRedirected":false}

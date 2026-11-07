@@ -1,0 +1,201 @@
+metadata:
+  generated_at: "2026-11-06T22:00:08.783467Z"
+  generator_version: 1.0.0
+  post_slug: bsp-131
+  main_date: "2022-07-24"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-crime-of-the-century:
+    brief: |-
+      THE CONFLICT: Governor Ivey’s office manages public health concerns (masking, BA5 Omicomin Variant) while regulatory issues include Mobile Baykeeper suing Alabama Power Company over 15 million tons of spent coal ash deposited in the Mobile River.
+      THE DISCOVERY: Governor Kay Ivey fired Admiral Kent Davis and is actively attempting to control the veterans’ board, causing internal chaos within veterans’ programs.
+      THE PIVOT: Article 2 provides a specific, recent example of Governor Ivey's political mismanagement (firing Davis) and the resulting veteran dissatisfaction, contextualizing the broader leadership problems mentioned in Article 1 (Ethics Commission, AG’s Office).
+      KEY ENTITIES: Governor Kay Ivey, Admiral Kent Davis, Mobile Baykeeper, Alabama Power Company, Director LaFluer, Baldwin County Sewer Service
+    llm_text: Governor Kay Ivey fired Admiral Kent Davis, sparking internal chaos within veteran programs. See how this leadership mismanagement connects to major issues like the Mobile Baykeeper suing Alabama Power Company over coal ash.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T21:49:28.005947Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County Sewer Service operated a plant linked to elevated phosphorus in Little Lagoon water, subject to a Strawman Lawsuit.
+      *   Mobile Baykeeper sued Alabama Power Company regarding plans to dispose of 15 million tons of spent coal ash on the Mobile River.
+      *   Leadership problems noted in the Ethics Commission, Attorney General’s Office, and Alabama State Bar.
+      *   Director LaFluer (ADEM) ignored complaints about the package plant on Fort Morgan Road.
+
+      THE DISCOVERY:
+      *   Companies with political ties are scoring million-dollar contracts, suggesting widespread institutional corruption.
+      *   A scandal involved scholarships intended for the public being granted to insiders.
+      *   Lawmakers are pushing to strip local control, allowing state leaders to handpick police chiefs.
+      *   Rumors persist regarding Governor Iveys' health and potential replacements.
+
+      THE PIVOT:
+      *   Article 2 confirms that the institutional failures identified in Article 1 (e.g., ADEM/PSC/Baldwin County issues) are not isolated incidents but part of a broader systemic corruption where political ties determine contracts and accountability is lacking.
+
+      KEY ENTITIES:
+      *   Governor Iveys
+      *   Mobile Baykeeper
+      *   Alabama Power Company
+      *   Baldwin County Sewer Service
+      *   Director LaFluer (ADEM)
+      *   Alabama State Bar
+      *   Public Service Commission (PSC)
+      *   Little Lagoon residents
+    llm_text: Baldwin County Sewer Service polluted Little Lagoon, but this failure isn't isolated. Systemic corruption means political ties dictate million-dollar contracts, ignoring complaints from Mobile Baykeeper to Director LaFluer.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T21:51:45.244590Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    brief: |-
+      THE CONFLICT:
+      *   Mobile Baykeeper filed a lawsuit against Alabama Power Company regarding 15 million tons of spent coal ash near the Mobile River.
+      *   Baldwin County Sewer Service's sewer plant was subject to the Strawman Lawsuit regarding elevated phosphorus in Little Lagoon.
+      *   In 2005, the Coroner of Baldwin County (Sheriff Mack's father) ordered two autopsies related to the Mack vs Hadley case, which were never disclosed to the defense, constituting a Brady Violation.
+      *   Alabama Ethics Commission, Attorney General’s Office, and Alabama State Bar faced leadership problems.
+
+      THE DISCOVERY:
+      *   The Alabama Court of Civil Appeals released a ruling today (update) regarding the Rule 32 Petition for Murray Lawrence Jr.
+      *   The arrest of Luigi Manjone for murdering a United Healthcare CEO is reported.
+      *   Allegations of corruption in Alabama's legal and political systems include the Dothan Summer Feeding Scandal.
+      *   Mark Fuller, a corrupt Alabama Federal Judge from Mobile, Alabama, is documented.
+
+      THE PIVOT:
+      *   Article 2 provides specific, recent, and documented legal instances (Brady Violation, Court of Civil Appeals ruling) of institutional corruption and judicial/legal malfeasance within Baldwin County and Mobile, confirming the systemic issues referenced generally in Article 1 (leadership problems, legal complaints).
+
+      KEY ENTITIES:
+      *   Mobile Baykeeper
+      *   Alabama Power Company
+      *   Governor Iveys
+      *   Director LaFluer (ADEM)
+      *   Baldwin County Sewer Service
+      *   Baldwin County Sheriff's Department (Sheriff Mack)
+      *   Murray Lawrence Jr.
+      *   Mark Fuller (Alabama Federal Judge)
+      *   Luigi Manjone
+      *   United Healthcare CEO
+      *   Dothan Summer Feeding Scandal
+      *   Alabama Court of Civil Appeals
+    llm_text: Mobile Baykeeper sued Alabama Power Company over 15 million tons of coal ash near the Mobile River. Documented corruption involving Mark Fuller and a Brady Violation confirms systemic legal malfeasance in Baldwin County.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T21:53:08.814647Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    brief: |-
+      THE CONFLICT: Mobile Baykeeper is suing Alabama Power Company over plans to leave 15 million tons of spent coal ash on the Mobile River. Baldwin County Sewer Service's sewer plant was subject to the Strawman Lawsuit.
+      THE DISCOVERY: A damning report exists on the US government's COVID-19 response, and President Biden granted a pardon to his son, Hunter.
+      THE PIVOT: Article 2 expands the scope of government corruption from state environmental/utility regulation (ADEM/Public Service Commission) to include federal political misconduct and suppression of local critics (wrongful arrests exposing school district corruption).
+      KEY ENTITIES: Governor Iveys, Mobile Baykeeper, Alabama Power Company, Director LaFluer (ADEM), Baldwin County Sewer Service, President Biden, Hunter Biden
+    llm_text: Mobile Baykeeper is suing Alabama Power Company over 15 million tons of coal ash polluting the Mobile River. This fight connects local environmental risk to federal misconduct, including a damning COVID report and President Biden's pardon of Hunter Biden.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T21:54:14.745530Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    brief: |-
+      THE CONFLICT: Mobile Baykeeper sued Alabama Power Company regarding 15 million tons of spent coal ash intended for the Mobile River; Director LaFluer at ADEM ignored complaints about the Fort Morgan Road package plant; Baldwin County Sewer Service was subject to the Strawman Lawsuit regarding elevated phosphorus.
+      THE DISCOVERY: Podcast No. 186 covered the 2024 US Presidential election results, proposed constitutional amendments in Alabama, and the closing of rural hospitals in Alabama.
+      THE PIVOT: Article 2 updates the statewide political and legal context, including constitutional amendments, providing a broader frame for the localized governance and regulatory failures detailed in Article 1.
+      KEY ENTITIES: Governor Iveys, Mobile Baykeeper, Alabama Power Company, Baldwin County Sewer Service, Director LaFluer (ADEM), Public Service Commission (PSC), 2024 US Presidential election.
+    llm_text: Mobile Baykeeper sued Alabama Power Company over 15 million tons of coal ash, a crisis ignored by Director LaFluer at ADEM. See how Governor Iveys' agenda and proposed constitutional amendments frame local failures affecting Baldwin County Sewer Service and the Mobile River.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T21:50:35.736324Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    brief: |-
+      THE CONFLICT:
+      Mobile Baykeeper is suing Alabama Power Company over 15 million tons of spent coal ash planned for the banks of the Mobile River.
+      Baldwin County Sewer Service operated a plant in Little Lagoon hypothesized to cause elevated phosphorus, which was the subject matter of the Strawman Lawsuit.
+
+      THE DISCOVERY:
+      Baldwin County approved thousands of residential lots and cut sales tax on hearing aids.
+      The City of Bay Minette is being sued by the family of OJ French Jr, who was killed by BMPD Officer Brandon Thompson.
+      Governor Ivey called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama.
+
+      THE PIVOT:
+      Article 2 shows current local governmental action in Baldwin County (lot approvals, tax cuts) and highlights a specific local law enforcement/civil lawsuit (Bay Minette), providing context to the broader regulatory environment and local political activity mentioned in Article 1.
+
+      KEY ENTITIES:
+      Mobile Baykeeper
+      Alabama Power Company
+      Baldwin County Sewer Service
+      Director LaFluer (ADEM)
+      Governor Ivey
+      City of Bay Minette
+      OJ French Jr
+      BMPD Officer Brandon Thompson
+      Andy Ruten
+      Mayor Bob Wills
+      Private Monopolistic Utility
+      Public Service Commission
+    llm_text: Mobile Baykeeper sues Alabama Power Company over 15 million tons of spent coal ash planned for the Mobile River banks. Baldwin County approves residential lots and cuts sales tax, adding local political action to the broader regulatory fight.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T21:55:25.792420Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    brief: |-
+      THE CONFLICT: Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama on May 27, 2022; his body was recovered on Sunday, May 29, 2022.
+      THE DISCOVERY: Article 2 is an update marking the passing of legendary baseball player Pete Rose; it also lists current events including the Longshoreman's Strike and MS-13 Operations in Baldwin County.
+      THE PIVOT: No direct factual link exists between the sewer plant/coal ash environmental issues detailed in Article 1 and the death investigation in Article 2; the articles address separate, though concurrent, regional crises.
+      KEY ENTITIES: Thomas Daniel "Danny" Williams Jr; Orange Beach, Alabama; Pete Rose; Baldwin County Sewer Service; Mobile Baykeeper; Alabama Power Company; Director LaFluer; Governor Iveys; Mobile River; Fort Morgan Road; Katie Britt; Adm. Kent Davis.
+    llm_text: Thomas Daniel "Danny" Williams Jr died in Orange Beach, Alabama, amidst ongoing regional crises. See how the Baldwin County sewer issues and MS-13 operations intersect with this local tragedy and broader state concerns.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T21:56:23.903433Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    brief: |-
+      THE CONFLICT:
+      *   WHO declared Monkeypox Outbreak a Global Pandemic.
+      *   Mobile Baykeeper is suing Alabama Power Company over plans to leave 15 million tons of spent coal ash on the Mobile River.
+      *   Director LaFluer (ADEM) ignored complaints about the package plant on Fort Morgan Road.
+      *   Little Lagoon residents hypothesized elevated phosphorus in water came from Baldwin County Sewer Service, which was subject to the Strawman Lawsuit.
+      *   Ethics Commission, Attorney General’s Office, and Alabama State Bar had noted leadership problems.
+
+      THE DISCOVERY:
+      *   Kent David, Former Real Admiral and Jag Officer, Alabama Veterans Affairs Commissioner, is leaving due to a whistleblower Ethics Complaint.
+      *   The Renaissance School in Baldwin County for special needs kids was robbed, potentially an inside job.
+      *   The Baldwin County Sheriff Department has a new Command Staff.
+      *   The "Haitian Immigrant Eating Cats" debate in Sylacauga Alabama was highlighted by 1819 News.
+
+      THE PIVOT:
+      *   Article 2 demonstrates active, localized corruption and ethical breaches within Alabama (Baldwin County, whistleblower complaints against Kent David) which confirms the systemic leadership and ethics failures mentioned generally in Article 1.
+      *   Article 2 contextualizes the polarized local media focus (Haitian/Cats debate) against the backdrop of real service strains and corruption in Alabama.
+
+      KEY ENTITIES:
+      *   Governor Iveys
+      *   Mobile Baykeeper
+      *   Alabama Power Company
+      *   Director LaFluer (ADEM)
+      *   Baldwin County Sewer Service
+      *   Kent David
+      *   Alabama Veterans Affairs Commissioner
+      *   Sylacauga Alabama
+      *   1819 News
+      *   Director of the Alabama Department of Transportation
+      *   Brandon Moseley
+      *   David R. Jones (Texas Federal Bankruptcy Judge)
+      *   RFK Jr
+      *   Tulsi Gabbards
+      *   Russell Brand
+    llm_text: Mobile Baykeeper is suing Alabama Power Company over plans to dump 15 million tons of spent coal ash into the Mobile River. Director LaFluer (ADEM) ignored local complaints, confirming systemic ethical failures in Baldwin County.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T21:57:45.963059Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    brief: |-
+      THE CONFLICT: Mobile Baykeeper is suing Alabama Power Company over plans to leave 15 million tons of spent coal ash on Mobile River banks; Little Lagoon residents hypothesize elevated phosphorus originating from the Baldwin County Sewer Service plant, which was the subject of the Strawman Lawsuit.
+      THE DISCOVERY: Sheriff Mack in Baldwin County, Alabama, has one week left in office, and the Governor is currently selecting a replacement.
+      THE PIVOT: The ongoing local political transition in Baldwin County (Sheriff replacement) provides current context for the unresolved environmental regulatory and infrastructure issues (Baldwin County Sewer Service, Mobile Baykeeper lawsuit) detailed previously.
+      KEY ENTITIES: Mobile Baykeeper, Alabama Power Company, Baldwin County Sewer Service, Governor Iveys, Director LaFluer (ADEM), Sheriff Mack, VP Kamala Harris, Alabama State Bar, Private Monopolistic Utility, Fort Morgan Road.
+    llm_text: Mobile Baykeeper is suing Alabama Power Company over plans to dump 15 million tons of spent coal ash into Mobile River. As Sheriff Mack leaves office, Baldwin County's political transition pressures Governor Iveys to resolve critical issues like the Baldwin County Sewer Service concerns.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-06T21:58:50.957599Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    brief: |-
+      THE CONFLICT: An incident involving OJ French Jr. occurred, leading to an investigation where Bay Minette Police Officer Brandon Thompson shot him, killing him. Mayor Robert Bob Wills previously misled the family regarding the investigation outcome.
+      THE DISCOVERY: On July 31, 2024, the family of OJ French Jr., Bay Minette Justice League, and May Jung LLC filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson, claiming the officer lacked probable cause and escalated the situation.
+      THE PIVOT: Article 2 details specific, recent legal action (the Federal Court lawsuit) stemming from the local events in Baldwin County that Article 1 broadly references through the mention of local legal issues, such as the "Strawman Lawsuit" concerning the Baldwin County Sewer Service plant.
+      KEY ENTITIES: OJ French Jr., Officer Brandon Thompson, Mayor Robert Bob Wills, May Jung LLC, Sheriff Mack, Deputy Anthony Lowery, Matt McKenzie, Governor Ivey, City of Bay Minette, Baldwin County Sewer Service.
+    llm_text: OJ French Jr.'s family filed a Federal Court lawsuit against Officer Brandon Thompson and the City of Bay Minette. Discover how Mayor Robert Bob Wills misled them after his shooting, challenging local justice in Baldwin County.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T21:59:41.110739Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

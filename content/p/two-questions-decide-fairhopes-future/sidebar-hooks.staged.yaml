@@ -1,0 +1,131 @@
+metadata:
+  generated_at: "2026-11-06T13:01:24.669882Z"
+  generator_version: 1.0.0
+  post_slug: two-questions-decide-fairhopes-future
+  main_date: "2025-08-21"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream:
+    brief: |-
+      THE CONFLICT:
+      Karin Wolff Wilson (former Fairhope mayor) refused a second salary and used funds to hire a professional engineer for city utilities; later, Mayor Sherry Sullivan fired the engineer and took the second salary.
+      Murray "Bubba" Lawrence, Jr. maintained innocence during his second decade of imprisonment, requiring a federal writ of habeas corpus after state-level avenues were exhausted.
+
+      THE DISCOVERY:
+      Article 1 revealed that $40 million in BP funding was secured for utility upgrades, which are currently incomplete.
+      Article 2 revealed that the Birmingham law firm Maxwell-Tillman abandoned the habeas petition after taking a down-payment, issuing a Non-Engagement Letter and failing to build merit-based arguments.
+
+      THE PIVOT:
+      Both articles document systemic failures in accountability and professional ethics—either political malfeasance (Sullivan taking double pay, neglecting utility upgrades) or legal professional misconduct (Maxwell-Tillman abandoning a critical post-conviction defense despite accepting funds).
+
+      KEY ENTITIES:
+      Karin Wolff Wilson
+      Sherry Sullivan
+      BP
+      Fairhope, AL
+      Murray "Bubba" Lawrence, Jr.
+      Francis Paul Ripp
+      Nancy R. Koerner
+      Maxwell-Tillman
+    llm_text: Mayor Sherry Sullivan took a second salary while neglecting $40 million in incomplete BP utility upgrades in Fairhope. Maxwell-Tillman also failed accountability, abandoning Bubba Lawrence's critical habeas petition despite accepting funds.
+    widget_date: "2025-08-19"
+    generated_at: "2026-11-06T12:54:44.472795Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-enforcer-hoss-macks-rise-to-statewide-power:
+    brief: |-
+      THE CONFLICT: Former Baldwin County Sheriff Hoss Mack rose to statewide power building a career on suppression and power consolidation within Baldwin County.
+      THE DISCOVERY: Baldwin County is a politically influential region in Alabama where power is consolidated, narratives are controlled, and officials rarely face consequences.
+      THE PIVOT: Mack's consolidation of unchecked power in Baldwin County serves as historical context for the local lack of accountability in Fairhope, exemplified by Mayor Sherry Sullivan taking a second salary and protecting special interests against utility upgrades and council district reform.
+      KEY ENTITIES: Hoss Mack, Baldwin County, Karin Wolff Wilson, Sherry Sullivan, BP, Fairhope, City Council
+    llm_text: 'Former Sheriff Hoss Mack consolidated unchecked power in Baldwin County. Discover how this history impacts Fairhope today: Mayor Sherry Sullivan took a second salary while blocking crucial utility upgrades and council reform.'
+    widget_date: "2025-08-15"
+    generated_at: "2026-11-06T12:56:56.027556Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  know-before-you-vote-2:
+    brief: |-
+      THE CONFLICT: Karin Wolff Wilson, Mayor of Fairhope, AL, secured $40 million in BP funding and hired a professional engineer to manage city utilities while refusing a second salary. Following her tenure, Mayor Sherry Sullivan fired the utilities engineer and took the second salary herself.
+      THE DISCOVERY: The Fairhope City Council has ignored repeated concerns from its constituents, as noted in a voting reminder for August 26, 2025.
+      THE PIVOT: Wilson’s efforts to professionalize city utilities and introduce council districts were nullified by Sullivan's actions (firing the engineer, taking the salary), resulting in current utility management by a high school graduate and the continued failure of the at-large council system.
+      KEY ENTITIES: Karin Wolff Wilson, Sherry Sullivan, Fairhope, AL, BP, City Council, $40 million, August 26, 2025
+    llm_text: Karin Wolff Wilson secured $40 million in BP funding and professional engineers for Fairhope, AL. Sherry Sullivan fired the engineer and took a second salary, leaving utilities managed by a high school graduate while the City Council ignores resident concerns before August 26, 2025.
+    widget_date: "2025-08-11"
+    generated_at: "2026-11-06T12:58:55.767303Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  know-before-you-vote:
+    brief: |-
+      THE CONFLICT: Karin Wolff Wilson served as mayor, refused a second salary, and secured $40 million in BP funding for city utility upgrades. After Wilson left, Mayor Sherry Sullivan fired the professional utilities engineer and accepted the second salary.
+      THE DISCOVERY: The Fairhope City Council has ignored repeated concerns from constituents.
+      THE PIVOT: The Council's pattern of ignoring constituents (Article 2) supports Wilson's claim that the at-large council seats protect special interests and prevent necessary reforms, such as implementing council districts.
+      KEY ENTITIES: Karin Wolff Wilson, Sherry Sullivan, Fairhope, BP, City Council
+    llm_text: Karin Wolff Wilson secured $40M BP funding in Fairhope while refusing a second salary. Now Mayor Sherry Sullivan accepted that salary and fired the utilities engineer, all while the City Council ignores resident concerns.
+    widget_date: "2025-08-05"
+    generated_at: "2026-11-06T12:57:47.728599Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pretty-flowers-rotten-roots:
+    brief: |-
+      THE CONFLICT:
+      *   Former Mayor Karen Wilson refused a second salary as utilities director during her tenure in Fairhope, AL.
+      *   Wilson used the refused funds to hire a professional utilities engineer to manage city utilities.
+      *   After Wilson left office, Mayor Sherry Sullivan fired the utilities engineer and took the second salary.
+      *   The City Council maintains five at-large seats instead of implementing council districts.
+      *   Sherry Sullivan is noted as not being an engineer, lacking qualifications for a Municipal Utility head.
+
+      THE DISCOVERY:
+      *   The older election context (Aug 26, 2025) showed incumbents were united and supported a Mayor receiving two paychecks (Mayor and Head of Utilities).
+      *   The status quo council was supported by developers and special interests, identified as Catalyst.
+      *   The older article specifically noted Karen Wilson's refusal of the second paycheck and her employment of a utility engineer.
+
+      THE PIVOT:
+      *   Article 2 (older) established the pre-existing council support for the dual salary and the entrenched power of developers/Catalyst.
+      *   Article 1 (newer) details the *consequence* of this entrenched power: after Wilson's refusal, Sullivan reversed the decision by firing the engineer and taking the salary, resulting in a high school graduate managing utilities.
+      *   Article 1 also reveals Wilson secured $40 million in BP funding for utility upgrades.
+
+      KEY ENTITIES:
+      *   Karen Wilson (Former Mayor)
+      *   Sherry Sullivan (Mayor)
+      *   Jack Burrell (Councilman)
+      *   Fairhope/Fauxhope, AL
+      *   City Council
+      *   BP (Funding source)
+      *   Catalyst (Special interests/developers)
+      *   Aug 26 (Election Date)
+      *   $40 million (BP funding)
+    llm_text: Former Mayor Karen Wilson refused a second salary in Fairhope, hiring a professional engineer to manage $40M in BP utility funding. Now, Mayor Sherry Sullivan fired that engineer and took the pay, leaving unqualified leadership in charge of your city utilities.
+    widget_date: "2025-07-18"
+    generated_at: "2026-11-06T12:56:02.387115Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-or-fairhope:
+    brief: |-
+      THE CONFLICT:
+      Karin Wolff Wilson served as mayor, refusing a second salary (utilities director) and using funds to hire a professional engineer for city utilities (electric, gas, water, sewer). Wilson secured $40 million in BP funding for utility upgrades.
+      After Wilson left office, Mayor Sherry Sullivan fired the utilities engineer, took the second salary herself, and replaced the engineer with a high school graduate.
+
+      THE DISCOVERY:
+      On the last day of qualifications for the August 26th municipal election, the Fairhope City Council and Mayor faced challenges from candidates running as a slate against the status quo.
+
+      THE PIVOT:
+      Article 1 details the specific abuses of power and mismanagement (salary theft, utility neglect, failed district initiative) that define the status quo; Article 2 confirms that a coordinated slate of challengers is actively seeking to dismantle this "good ole boy culture" during the upcoming August 26th election.
+
+      KEY ENTITIES:
+      Karin Wolff Wilson
+      Mayor Sherry Sullivan
+      Fairhope City Council
+      BP
+      August 26th
+      $40 million
+      Utilities Director second salary
+      Council districts (at-large seats)
+    llm_text: Karin Wolff Wilson secured $40 million for Fairhope utilities, but Mayor Sherry Sullivan fired the engineer and stole the utilities director salary. Challengers are fighting this "good ole boy culture" at the August 26th election—read how to stop the mismanagement now.
+    widget_date: "2025-07-03"
+    generated_at: "2026-11-06T13:00:01.051814Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  vote-march-5th:
+    brief: |-
+      THE CONFLICT: Systemic lack of accountability and transparency in Baldwin County; Fairhope utility mismanagement (post-Wilson/Sullivan) following the firing of a professional engineer and misuse of a mayor's second salary.
+      THE DISCOVERY: Article 2 (Vote March 5, 2024) revealed the "GOB" and "Catalyst" cabal controlled County positions, including the Circuit Clerk (Kim Earl) and local Mayors (e.g., Fairhope), under the influence of Sheriff Hoss Mack.
+      THE PIVOT: Article 2 establishes that Fairhope Mayors are charter members of the Sheriff's cabal (GOB), providing the necessary historical context for the institutionalized protection of "special interests" and the failure of accountability (such as the inability to create council districts and the subsequent utility mismanagement) detailed in Article 1.
+      KEY ENTITIES: Hoss Mack, Karin Wolff Wilson, Sherry Sullivan, BP, City Council, Kim Earl, Carrie Hosier, Tyler, Gray.
+    llm_text: Hoss Mack’s GOB cabal controls Baldwin County positions, including Circuit Clerk Kim Earl and Fairhope Mayors. See how this entrenched system caused utility mismanagement and blocked real accountability in the county.
+    widget_date: "2024-03-01"
+    generated_at: "2026-11-06T13:01:09.468519Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

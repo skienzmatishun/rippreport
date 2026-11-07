@@ -1,5 +1,5 @@
 post_slug: read-the-comments
-generated: 2026-11-05T11:30:23.884985-06:00
+generated: 2026-11-05T21:12:18.033044-06:00
 articles:
   - slug: good-news
     title: GOOD NEWS
@@ -9,27 +9,31 @@ articles:
     title: LISTEN CLOSELY
     score: 100
     rank: 2
-  - slug: bcso-no-clones
-    title: BCSO - NO CLONES
-    score: 61
-    rank: 3
   - slug: alabama-exposure-mljr
     title: Alabama Exposure and Accountability - The Framing of Murray Lawrence Jr.
     score: 50
-    rank: 4
+    rank: 3
   - slug: bcso-culture-2
     title: BCSO CULTURE
     score: 50
-    rank: 5
+    rank: 4
   - slug: bcso-culture
     title: BCSO CULTURE
     score: 50
-    rank: 6
+    rank: 5
   - slug: justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost
     title: 'Justice Denied: A Wrongful Conviction Buried by Power and Politics'
+    score: 50
+    rank: 6
+  - slug: the-enforcer-hoss-macks-rise-to-statewide-power
+    title: 'The Enforcer: Hoss Mack’s Rise to Statewide Power'
     score: 50
     rank: 7
   - slug: wrongful-conviction
     title: WRONGFUL CONVICTION
     score: 94
     rank: 8
+  - slug: baldwin-county
+    title: BALDWIN COUNTY
+    score: 92
+    rank: 9

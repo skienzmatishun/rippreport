@@ -1,5 +1,5 @@
 post_slug: cattle-gate-mega-site
-generated: 2026-11-05T11:33:27.568174-06:00
+generated: 2026-11-05T21:14:36.278565-06:00
 articles:
   - slug: in-your-face
     title: IN YOUR FACE
@@ -9,23 +9,23 @@ articles:
     title: THE FAIRHOPE JESTER
     score: 100
     rank: 2
-  - slug: pay-executives-first-boy-scouts-come-last
-    title: PAY EXECUTIVES FIRST — BOY SCOUTS COME LAST
-    score: 57
-    rank: 3
   - slug: people-power-2
     title: PEOPLE POWER
     score: 50
-    rank: 4
+    rank: 3
   - slug: bend-over-fairhope
     title: BEND OVER FAIRHOPE
     score: 50
-    rank: 5
+    rank: 4
   - slug: elephant-in-a-volkswagen
     title: ELEPHANT IN A VOLKSWAGEN
     score: 50
-    rank: 6
+    rank: 5
   - slug: new-year-new-problems
     title: NEW YEAR NEW PROBLEMS
+    score: 50
+    rank: 6
+  - slug: repeat
+    title: REPEAT
     score: 50
     rank: 7

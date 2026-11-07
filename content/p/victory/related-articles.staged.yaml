@@ -1,5 +1,5 @@
 post_slug: victory
-generated: 2026-11-05T11:32:59.777737-06:00
+generated: 2026-11-05T21:14:14.336618-06:00
 articles:
   - slug: back-stabber
     title: BACK STABBER
@@ -9,23 +9,23 @@ articles:
     title: POP UP TARGET
     score: 100
     rank: 2
-  - slug: tale-of-two-cities
-    title: TALE OF TWO CITIES
-    score: 64
-    rank: 3
   - slug: im-back
     title: I'M BACK
     score: 50
-    rank: 4
+    rank: 3
   - slug: open-your-eyes
     title: OPEN YOUR EYES
     score: 50
-    rank: 5
+    rank: 4
   - slug: hallucinations
     title: HALLUCINATIONS
     score: 50
-    rank: 6
+    rank: 5
   - slug: catalyst-is-drowning
     title: CATALYST IS DROWNING
+    score: 50
+    rank: 6
+  - slug: gulf-shores-and-orange-beach-closed-to-residents-of-baldwin-county
+    title: GULF SHORES AND ORANGE BEACH - CLOSED TO RESIDENTS OF BALDWIN COUNTY
     score: 50
     rank: 7

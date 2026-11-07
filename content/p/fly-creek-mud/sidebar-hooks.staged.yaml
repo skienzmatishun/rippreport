@@ -1,0 +1,51 @@
+metadata:
+  generated_at: "2026-11-06T20:53:41.681539Z"
+  generator_version: 1.0.0
+  post_slug: fly-creek-mud
+  main_date: "2022-08-28"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  cameras:
+    brief: |-
+      THE CONFLICT:
+      1. May 12, 2017: Jonathan Victor was shot by a deputy of the Baldwin County Sheriff's Office (BCSO).
+      2. Sheriff Hoss Mack requested $600,000.00 from the County Commission for camera, body, vehicle, and jail systems to increase transparency.
+      3. The Baldwin County Major Crimes Unit, led by Sheriff Mack, conducted the investigation.
+      4. A 2021 Alabama Supreme Court decision severely restricted public access to law enforcement records (body/dash camera footage) related to investigations, even after they were closed.
+
+      THE DISCOVERY:
+      1. The lack of transparency regarding police incidents (e.g., Victor shooting) was codified legally by the Alabama Supreme Court, limiting public access to critical investigative materials.
+      2. Sheriff Mack maintained a policy of NOT providing camera footage to the media or public.
+      3. The investigation into the Victor shooting was sealed.
+
+      THE PIVOT:
+      1. Article 2 establishes a pattern of systemic institutional lack of accountability and suppressed public records within Baldwin County governance (Sheriff's Office/County Commission).
+      2. This pattern of unaccountable local power provides the broader context for Article 1's detailed municipal failures (Publix project, Fly Creek apartments, infrastructure neglect), suggesting a wider failure of local government oversight in Fairhope.
+
+      KEY ENTITIES:
+      1. Mayor Kant
+      2. Jack Burrell
+      3. Angelo Corte
+      4. Mayor Wilson
+      5. Corry Martin
+      6. Sheriff Hoss Mack
+      7. Jonathan Victor
+      8. William Cassady (U.S. District Court Judge)
+      9. Ben Crump
+      10. Publix project
+      11. Fly Creek apartments
+      12. Highway 98 (Fairhope)
+    llm_text: Jonathan Victor was shot by a BCSO deputy in 2017, yet Sheriff Hoss Mack sealed the investigation. An Alabama Supreme Court ruling now legally blocks public access to the camera footage, hiding Baldwin County's systemic accountability failures.
+    widget_date: "2022-08-25"
+    generated_at: "2026-11-06T20:53:24.175377Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mouthpiece:
+    brief: |-
+      THE CONFLICT: Jack Burrell on the council for 10 years, supported tolls and development, promised no federal money and no tolls; infrastructure in Fairhope was reported as 10 years behind.
+      THE DISCOVERY: Article 2 showed Jack Burrell supported tolls and development despite existing infrastructure failures (sewage in the bay).
+      THE PIVOT: Article 2 establishes Burrell's historical stance (pro-tolls/development, neglect of infrastructure) which sets the context for the later failures mentioned in Article 1 (Publix project, Kant-Corte Apartments).
+      KEY ENTITIES: Jack Burrell, Mayor Kant, City Council, Angelo Corte, Mayor Wilson, Mayor Sullivan, Corry Martin, Publix project, Toll Bridge, Fairhope, Baldwin County
+    llm_text: Jack Burrell backed tolls and development in Fairhope while infrastructure lagged; see how his 10-year council stance set the stage for today's problems.
+    widget_date: "2022-08-20"
+    generated_at: "2026-11-06T20:52:27.180718Z"
+    model_name: plugsky-lite

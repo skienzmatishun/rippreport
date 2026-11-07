@@ -1,0 +1,121 @@
+metadata:
+  generated_at: "2026-11-06T20:52:22.724468Z"
+  generator_version: 1.0.0
+  post_slug: lethal-force
+  main_date: "2022-09-10"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fly-creek-mud:
+    brief: |-
+      THE CONFLICT: O.J. French's death (number 8) occurred within a string of excessive force incidents over 5 years in Bay Minette, Baldwin County.
+      THE DISCOVERY: Infrastructure failure in Fly Creek (Highway 98 shoulder collapse) caused by the Publix project and Kant-Corte apartments, leading to millions in repair costs due to political decisions by Mayor Kant, Jack Burrell, and the City Council.
+      THE PIVOT: Both incidents highlight a pattern of systemic political failure and lack of accountability in Baldwin County, where powerful figures (Sheriff Hoss Mack, County Commissioners, City Councils) are accused of prioritizing interests over citizen safety and transparency.
+      KEY ENTITIES: O.J. French, Sheriff Hoss Mack (BCSO), Al Tolbert (BMPC Chief/BCMCU Chairman), Brad Kendrick, Edward Delmore, David Carpenter, Thurston Bullock, Mayor Kant, Jack Burrell, Angelo Corte, Mayor Tim Can’t, Mayor Wilson, Mayor Sullivan, Baldwin County Commissioners, BCMCU.
+    llm_text: O.J. French's death and the costly Fly Creek collapse reveal Baldwin County's systemic political failure. Mayor Kant and Sheriff Hoss Mack face scrutiny for prioritizing powerful interests over citizen safety and transparency in Baldwin County.
+    widget_date: "2022-08-28"
+    generated_at: "2026-11-06T20:49:21.386229Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  cameras:
+    brief: |-
+      THE CONFLICT: May 12, 2017 shooting of Jonathan Victor by a BCSO deputy.
+      THE DISCOVERY: Sheriff Hoss Mack requested $600,000.00 from the County Commission for body, vehicle, and jail cameras to provide transparency.
+      THE PIVOT: Article 2 establishes that despite the $600k request for transparency, Sheriff Mack implemented a policy of NOT providing camera footage to the media or public, setting the context for current lack of accountability regarding O J French.
+      KEY ENTITIES: Sheriff Hoss Mack, Baldwin County Sheriff’s Office (BCSO), O J French, Bay Minette, Joshua Brown, Al Tolbert, Brad Kendrick, Edward Delmore, David Carpenter, Thurston Bullock, U.S. District Court Judge William Cassady.
+    llm_text: Sheriff Hoss Mack once sought $600k for BCSO transparency after the Jonathan Victor shooting, yet he still blocks camera footage from the O J French case. See how this past lack of accountability impacts today's search for justice in Bay Minette.
+    widget_date: "2022-08-25"
+    generated_at: "2026-11-06T20:48:31.758589Z"
+    model_name: plugsky-lite
+  sheriff-huey-boss-mack-secret-police:
+    brief: |-
+      THE CONFLICT:
+      *   May 2017: Jonathan Victor (unarmed) was shot to death by BCSO. Sheriff Mack stated BCSO lacked a crisis intervention team or de-escalation training. (Judicial observation by U.S. District Court Judge William Cassady cited).
+      *   March 5, 2018: Robert Yates was shot to death by BCSO SWAT team during a breach of residence without probable cause. Deputy Justin Correa was allegedly involved.
+      *   Murray Lawrence Jr. was falsely incarcerated for over 16 years, later heading to the Innocence Project (supported by Attorney Rebecca Chambliss).
+      *   Wednesday, September 30, 2021: The Lagniappe decision was issued, broadly exempting all law enforcement evidence from citizens' statutory right to public access (per Chief Justice Tom Parker).
+      *   OJ French's death is the 8th death in a string of incidents over 5 years in Baldwin County. (Article 1)
+
+      THE DISCOVERY:
+      *   Sheriff Hoss Mack controls the BCSO, which received over $65 million in 2020/2021 and $700,000 in body/vehicle cameras, claiming these promote accountability.
+      *   The BCSO's internal Major Crimes Unit (BCMCU) includes members from multiple local police chiefs (Al Tolbert, Brad Kendrick, Edward Delmore, David Carpenter, Thurston Bullock) and is tasked with reviewing member actions.
+      *   Sheriff Mack's power was secured through legislative qualifications supported by then State Senator Trip Pittman, limiting competition.
+      *   Sheriff Mack's private business, Mack Funeral Home, received a county contract for unclaimed/special circumstance deceased persons, indicating a conflict of interest with the County Commission.
+      *   The BCSO uses its internal Major Crimes Unit, which is seen as insufficient by critics, instead of outside agencies (like the FBI) for investigating losses of life.
+
+      THE PIVOT:
+      *   Article 2 establishes that BCSO operates with systemic flaws (lack of training, history of excessive force/wrongful conviction) and legal mechanisms (Lagniappe decision) designed to restrict public access to evidence (body cam/video).
+      *   This established system of unchecked power and limited transparency (Article 2) is the direct context explaining why the BCSO is refusing to provide video footage and maintain internal accountability regarding OJ French's death (Article 1), leading to claims that BCMCU is "smoke and mirrors."
+
+      KEY ENTITIES:
+      *   Hoss Mack (Sheriff)
+      *   OJ French
+      *   Murray Lawrence Jr.
+      *   Jonathan Victor
+      *   Robert Yates
+      *   Justin Correa
+      *   Joshua Brown
+      *   Al Tolbert (Bay Minette Police Chief, BCMCU Chairman)
+      *   Brad Kendrick (Robertsdale Police Chief)
+      *   Edward Delmore (Gulf Shores Police Chief)
+      *   David Carpenter (Daphne Police Chief)
+      *   Thurston Bullock (Foley Police Chief)
+      *   Trip Pittman (then State Senator)
+      *   Judge William Cassady
+      *   Judge Scully
+      *   Chief Justice Tom Parker
+      *   Dennis Baily
+      *   Rebecca Chambliss
+      *   Baldwin County Sheriff’s Office (BCSO)
+      *   Baldwin County Major Crimes Unit (BCMCU)
+      *   BMJL
+      *   Bay Minette
+      *   Baldwin County Commissioners
+    llm_text: Sheriff Hoss Mack controls the BCSO, which has a history of excessive force, including the death of OJ French. With Chief Justice Tom Parker's Lagniappe decision blocking public evidence, why is the BCSO refusing to provide footage and hold itself accountable?
+    widget_date: "2021-10-01"
+    generated_at: "2026-11-06T20:50:48.437236Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  your-rights-your-money:
+    brief: |-
+      THE CONFLICT:
+      *   2017: A fatal shooting occurred during a traffic stop in Lagniappe.
+      *   Huey Hoss Mack (BCSO Sheriff) was involved in the context of the 2017 incident.
+      *   Alabama Supreme Court rejected a request from Lagniappe for all details regarding the 2017 traffic stop and fatal shooting.
+      *   Sheriff Mack helped draft standards in Senate Bill 312 with former State Senator Tripp Pittman ($750,000 BP money stolen).
+
+      THE DISCOVERY:
+      *   The Alabama Supreme Court insulated the Baldwin County Sheriff Department (BCSO) from public transparency and accountability.
+      *   The court ruled that the statute can hide "any materials related to a particular investigation" and "items of substantive evidence that existed before the investigation began, such as video recordings."
+      *   $662,597.00 in taxpayer money was approved by the County Commission for 129 BCSO body cameras, intended to increase transparency, but the Supreme Court ruling nullified this intent.
+
+      THE PIVOT:
+      *   The 2017 Supreme Court ruling establishes the legal precedent preventing the release of investigative evidence, directly undermining the call for transparency regarding recent incidents, including the death of O J French (number 8 in a string of 7+ deaths over 5+ years).
+      *   The ruling makes the BCSO legally capable of refusing to produce taxpayer-funded camera footage or information, regardless of accountability demands.
+
+      KEY ENTITIES:
+      *   Huey "Hoss" Mack (BCSO Sheriff)
+      *   O J French
+      *   Joshua Brown (BMJL organizer)
+      *   Baldwin County Sheriff's Office (BCSO)
+      *   Alabama Supreme Court
+      *   Chief Justice Tom Parker
+      *   Al Tolbert (Bay Minette Police Chief)
+      *   Brad Kendrick (Robertsdale Police Chief)
+      *   Edward Delmore (Gulf Shores Police Chief)
+      *   David Carpenter (Daphne Police Chief)
+      *   Thurston Bullock (Foley Police Chief)
+      *   Tripp Pittman
+      *   Albritton
+      *   Ben Bowden (Covington County Circuit Court Judge)
+    llm_text: Alabama Supreme Court blocked public access to 2017 fatal shooting evidence involving BCSO Sheriff Hoss Mack. This ruling nullifies taxpayer-funded body camera efforts, blocking transparency for recent deaths like O J French.
+    widget_date: "2021-09-27"
+    generated_at: "2026-11-06T20:52:05.324033Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  non-lethal:
+    brief: |-
+      THE CONFLICT: Johnathan Victor was shot four times with an Ruger AR-15 from 7 yards in May 2017.
+      THE DISCOVERY: BCSO/local agencies prioritize lethal military weapons (AR-15s, Humvees) over non-lethal options; Sheriff Hoss Mack admitted in May 2017 that BCSO lacked a crisis intervention team and de-escalation training.
+      THE PIVOT: Article 2 establishes a pattern of prioritizing lethal force over de-escalation/non-lethal alternatives and highlights the Sheriff's office's initial resistance to transparency (refusal to turn over footage in Victor case), context for the ongoing lack of accountability mentioned in Article 1 regarding O J French's death (number 8 in a string of 7+ lives lost).
+      KEY ENTITIES: Hoss Mack, Johnathan Victor, O J French, Bay Minette Police, Baldwin County Sheriff's Office (BCSO), Al Tolbert, Joshua Brown
+    llm_text: BCSO prioritized lethal AR-15s over de-escalation in the Johnathan Victor shooting; Sheriff Hoss Mack admitted lacking crisis teams, raising serious accountability questions from O J French's death.
+    widget_date: "2021-02-13"
+    generated_at: "2026-11-06T20:48:37.595771Z"
+    model_name: plugsky-lite

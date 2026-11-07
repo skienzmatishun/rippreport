@@ -89,7 +89,11 @@ func (a *App) Run(args []string) int {
 		return a.runGenerateHooks(ctx, cmdArgs)
 	case "generate-frontpage", "frontpage-hooks":
 		return a.runGenerateFrontpage(ctx, cmdArgs)
-	case "refine-hooks":
+	case "scan-hook-articles", "scan-hook-authors":
+		return a.runHookScan(ctx, cmdArgs, cmd)
+	case "scan-hook-phrases":
+		return a.runScanHookPhrases(ctx, cmdArgs)
+	case "refine-hooks", "refine":
 		return a.runRefineHooks(ctx, cmdArgs)
 	case "fetch-transcript":
 		return a.runFetchTranscript(ctx, cmdArgs)
@@ -134,12 +138,15 @@ func (a *App) printUsage() {
 	fmt.Fprintln(a.stdout, "  generate-related     Generate related article recommendations")
 	fmt.Fprintln(a.stdout, "  generate-hooks       Generate contextual sidebar hooks")
 	fmt.Fprintln(a.stdout, "  generate-frontpage   Generate frontpage narrative bridges connecting recent posts")
+	fmt.Fprintln(a.stdout, "  scan-hook-articles   Export article-number references in hook text to JSON")
+	fmt.Fprintln(a.stdout, "  scan-hook-authors    Export Ripp names and author references in hook text to JSON")
+	fmt.Fprintln(a.stdout, "  scan-hook-phrases    Export repetitive contrast phrasing in hooks to JSON")
 	fmt.Fprintln(a.stdout, "  refine-hooks         Refine existing hooks using Gemini API")
 	fmt.Fprintln(a.stdout, "  fetch-transcript     Download YouTube transcript for podcast posts")
 	fmt.Fprintln(a.stdout, "  summarize-transcript Generate factual summary from transcript")
 	fmt.Fprintln(a.stdout, "  pipeline             Run complete pipeline (related + hooks)")
 	fmt.Fprintln(a.stdout, "  apply-staged         Apply staged rankings or hooks to posts (use --hooks flag)")
-	fmt.Fprintln(a.stdout, "  clear-staged         Clear staged ranking or hook files (use --hooks flag)")
+	fmt.Fprintln(a.stdout, "  clear-staged         Clear staged rankings, hooks (--hooks), or both (--all)")
 	fmt.Fprintln(a.stdout, "  send-newsletter      Send newsletter via Brevo for a specific post")
 	fmt.Fprintln(a.stdout, "  social-post          Print post summary and URL for social media")
 	fmt.Fprintln(a.stdout, "  new-post             Create a new post with folder structure and front matter (use --email for Apple Mail)")
@@ -286,7 +293,21 @@ func (a *App) runGenerateHooks(ctx context.Context, args []string) int {
 	batchSize := fs.Int("batch-size", 5, "Batch size for LLM hook generation")
 	fromStaging := fs.Bool("from-staging", false, "Read rankings from staging files")
 	stage := fs.Bool("stage", false, "Save hooks to staging files instead of writing directly")
+	resume := fs.Bool("resume", false, "Skip posts with complete hooks in the selected output location")
 	dryRun := fs.Bool("dry-run", false, "Simulate operations without writing files")
+	cloudflare := fs.Bool("cloudflare", false, "Use Cloudflare Workers AI alongside other hook workers (requires CLOUDFLARE_API_TOKEN)")
+	cloudflareAccountID := fs.String("cloudflare-account-id", os.Getenv("CLOUDFLARE_ACCOUNT_ID"), "Cloudflare account ID (defaults to CLOUDFLARE_ACCOUNT_ID)")
+	cloudflareModel := fs.String("cloudflare-model", client.DefaultCloudflareModel, "Cloudflare Workers AI model ID")
+	cloudflareMaxTokens := fs.Int("cloudflare-max-tokens", client.DefaultCloudflareMaxTokens, "Output token limit for Cloudflare requests")
+	gemini := fs.Bool("gemini", false, "Use Gemini alongside other hook workers (requires GEMINI_API_KEY)")
+	geminiModel := fs.String("gemini-model", client.DefaultGeminiModel, "Gemini API model ID")
+	geminiMaxTokens := fs.Int("gemini-max-tokens", client.DefaultGeminiMaxTokens, "Output token limit for Gemini requests")
+	plugsky := fs.Bool("plugsky", false, "Use Plugsky alongside other hook workers (requires PLUGSKY_API_KEY)")
+	plugskyModel := fs.String("plugsky-model", client.DefaultPlugskyModel, "Plugsky API model ID")
+	plugskyMaxTokens := fs.Int("plugsky-max-tokens", client.DefaultPlugskyMaxTokens, "Output token limit for Plugsky requests")
+	openRouter := fs.Bool("openrouter", false, "Use OpenRouter alongside llama-server for hook generation (requires OPENROUTER_API_KEY)")
+	openRouterModel := fs.String("openrouter-model", client.DefaultOpenRouterModel, "OpenRouter helper model")
+	openRouterMaxTokens := fs.Int("openrouter-max-tokens", client.DefaultOpenRouterMaxTokens, "Output token limit for OpenRouter requests (independent of llama-server)")
 	hookModel := fs.String("hook-model", "", "Model to use for hook generation (overrides config)")
 	managed := fs.Bool("managed", false, "Auto-manage llama-server process lifecycle")
 
@@ -305,21 +326,35 @@ func (a *App) runGenerateHooks(ctx context.Context, args []string) int {
 	defer orch.Close()
 
 	res, err := orch.GenerateHooks(ctx, orchestrator.HookOptions{
-		SpecificSlugs: parseSlugs(*posts),
-		UseCompressed: *useCompressed,
-		BatchSize:     *batchSize,
-		FromStaging:   *fromStaging,
-		Stage:         *stage,
-		DryRun:        *dryRun,
-		Model:         *hookModel,
+		SpecificSlugs:       parseSlugs(*posts),
+		UseCompressed:       *useCompressed,
+		BatchSize:           *batchSize,
+		FromStaging:         *fromStaging,
+		Stage:               *stage,
+		Resume:              *resume,
+		DryRun:              *dryRun,
+		Model:               *hookModel,
+		Cloudflare:          *cloudflare,
+		CloudflareAccountID: *cloudflareAccountID,
+		CloudflareModel:     *cloudflareModel,
+		CloudflareMaxTokens: *cloudflareMaxTokens,
+		Gemini:              *gemini,
+		GeminiModel:         *geminiModel,
+		GeminiMaxTokens:     *geminiMaxTokens,
+		Plugsky:             *plugsky,
+		PlugskyModel:        *plugskyModel,
+		PlugskyMaxTokens:    *plugskyMaxTokens,
+		OpenRouter:          *openRouter,
+		OpenRouterModel:     *openRouterModel,
+		OpenRouterMaxTokens: *openRouterMaxTokens,
 	})
 	if err != nil {
 		fmt.Fprintf(a.stderr, "Error generating hooks: %v\n", err)
 		return 1
 	}
 
-	fmt.Fprintf(a.stdout, "\nGenerated %d hooks (%d failed) in %v\n",
-		res.TotalHooks, res.FailedHooks, res.Duration)
+	fmt.Fprintf(a.stdout, "\nGenerated %d hooks (%d failed, %d posts skipped) in %v\n",
+		res.TotalHooks, res.FailedHooks, res.SkippedPosts, res.Duration)
 	return 0
 }
 
@@ -376,6 +411,7 @@ func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 	dryRun := fs.Bool("dry-run", false, "Simulate operations without modifying files")
 	geminiModel := fs.String("gemini-model", "", "Gemini model to use (e.g., gemini-3.7-flash)")
 	batch := fs.Int("batch", 0, "Batch size for cross-post refinement (0 = per-post)")
+	threshold := fs.Float64("similarity-threshold", 0.85, "Rewrite hook pairs with cosine similarity above this threshold")
 
 	if err := fs.Parse(args); err != nil {
 		if err == flag.ErrHelp {
@@ -385,10 +421,6 @@ func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 	}
 
 	geminiAPIKey := os.Getenv("GEMINI_API_KEY")
-	if geminiAPIKey == "" {
-		fmt.Fprintf(a.stderr, "Error: GEMINI_API_KEY environment variable is not set\n")
-		return 1
-	}
 
 	cfg, err := config.LoadConfig(*configPath)
 	if err != nil {
@@ -396,9 +428,35 @@ func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 		return 1
 	}
 
+	if *threshold <= 0 || *threshold >= 1 || *batch < 0 {
+		fmt.Fprintln(a.stderr, "Error: similarity-threshold must be between 0 and 1 and batch must be nonnegative")
+		return 1
+	}
+	var sm *server.ServerManager
+	defer func() {
+		if sm != nil {
+			_ = sm.Stop()
+		}
+	}()
 	refinerCfg := refiner.Config{
 		GeminiAPIKey: geminiAPIKey,
 		PostsDir:     cfg.Processing.PostsDirectory,
+		PrepareEmbedding: func(ctx context.Context) (refiner.Embedder, error) {
+			embeddingCfg := cfg.LlamaServer
+			if embeddingCfg.IsManaged() {
+				sm = server.NewServerManager(server.ManagerConfig{
+					Managed: true, BinaryPath: embeddingCfg.GetBinaryPath(), ModelsDir: embeddingCfg.GetModelsDir(),
+					Host: "127.0.0.1", Port: 8080, ContextSize: embeddingCfg.ContextSize,
+					GPULayers: embeddingCfg.GPULayers, BatchSize: embeddingCfg.BatchSize,
+					UBatchSize: embeddingCfg.UBatchSize, StartupTimeout: embeddingCfg.StartupTimeout,
+				})
+				if err := sm.EnsureModel(ctx, embeddingCfg.EmbeddingModel, server.ModeEmbedding); err != nil {
+					return nil, err
+				}
+				embeddingCfg.BaseURL = sm.GetBaseURL()
+			}
+			return client.NewClient(embeddingCfg), nil
+		},
 	}
 
 	r, err := refiner.New(refinerCfg)
@@ -408,11 +466,12 @@ func (a *App) runRefineHooks(ctx context.Context, args []string) int {
 	}
 
 	res, err := r.RefineHooks(ctx, refiner.RefineOptions{
-		SpecificSlugs: parseSlugs(*posts),
-		Force:         *force,
-		DryRun:        *dryRun,
-		Model:         *geminiModel,
-		BatchSize:     *batch,
+		SpecificSlugs:       parseSlugs(*posts),
+		Force:               *force,
+		DryRun:              *dryRun,
+		Model:               *geminiModel,
+		BatchSize:           *batch,
+		SimilarityThreshold: *threshold,
 	})
 	if err != nil {
 		fmt.Fprintf(a.stderr, "Error refining hooks: %v\n", err)
@@ -644,6 +703,19 @@ func (a *App) runPipeline(ctx context.Context, args []string) int {
 	dryRun := fs.Bool("dry-run", false, "Dry run mode")
 	scoringModel := fs.String("scoring-model", "", "Model to use for scoring (overrides config)")
 	useReranker := fs.Bool("use-reranker", false, "Use cross-encoder reranker model (/v1/rerank) for scoring")
+	cloudflare := fs.Bool("cloudflare", false, "Use Cloudflare Workers AI alongside other hook workers (requires CLOUDFLARE_API_TOKEN)")
+	cloudflareAccountID := fs.String("cloudflare-account-id", os.Getenv("CLOUDFLARE_ACCOUNT_ID"), "Cloudflare account ID (defaults to CLOUDFLARE_ACCOUNT_ID)")
+	cloudflareModel := fs.String("cloudflare-model", client.DefaultCloudflareModel, "Cloudflare Workers AI model ID")
+	cloudflareMaxTokens := fs.Int("cloudflare-max-tokens", client.DefaultCloudflareMaxTokens, "Output token limit for Cloudflare requests")
+	gemini := fs.Bool("gemini", false, "Use Gemini alongside other hook workers (requires GEMINI_API_KEY)")
+	geminiModel := fs.String("gemini-model", client.DefaultGeminiModel, "Gemini API model ID")
+	geminiMaxTokens := fs.Int("gemini-max-tokens", client.DefaultGeminiMaxTokens, "Output token limit for Gemini requests")
+	plugsky := fs.Bool("plugsky", false, "Use Plugsky alongside other hook workers (requires PLUGSKY_API_KEY)")
+	plugskyModel := fs.String("plugsky-model", client.DefaultPlugskyModel, "Plugsky API model ID")
+	plugskyMaxTokens := fs.Int("plugsky-max-tokens", client.DefaultPlugskyMaxTokens, "Output token limit for Plugsky requests")
+	openRouter := fs.Bool("openrouter", false, "Use OpenRouter alongside llama-server for hook generation (requires OPENROUTER_API_KEY)")
+	openRouterModel := fs.String("openrouter-model", client.DefaultOpenRouterModel, "OpenRouter helper model")
+	openRouterMaxTokens := fs.Int("openrouter-max-tokens", client.DefaultOpenRouterMaxTokens, "Output token limit for OpenRouter requests (independent of llama-server)")
 	hookModel := fs.String("hook-model", "", "Model to use for hook generation (overrides config)")
 	managed := fs.Bool("managed", false, "Auto-manage llama-server process lifecycle")
 
@@ -674,11 +746,24 @@ func (a *App) runPipeline(ctx context.Context, args []string) int {
 			UseReranker:   *useReranker,
 		},
 		HookOptions: orchestrator.HookOptions{
-			SpecificSlugs: slugList,
-			UseCompressed: *useCompressed,
-			BatchSize:     *batchSize,
-			DryRun:        *dryRun,
-			Model:         *hookModel,
+			SpecificSlugs:       slugList,
+			UseCompressed:       *useCompressed,
+			BatchSize:           *batchSize,
+			DryRun:              *dryRun,
+			Model:               *hookModel,
+			Cloudflare:          *cloudflare,
+			CloudflareAccountID: *cloudflareAccountID,
+			CloudflareModel:     *cloudflareModel,
+			CloudflareMaxTokens: *cloudflareMaxTokens,
+			Gemini:              *gemini,
+			GeminiModel:         *geminiModel,
+			GeminiMaxTokens:     *geminiMaxTokens,
+			Plugsky:             *plugsky,
+			PlugskyModel:        *plugskyModel,
+			PlugskyMaxTokens:    *plugskyMaxTokens,
+			OpenRouter:          *openRouter,
+			OpenRouterModel:     *openRouterModel,
+			OpenRouterMaxTokens: *openRouterMaxTokens,
 		},
 	}
 
@@ -740,6 +825,7 @@ func (a *App) runClearStaged(ctx context.Context, args []string) int {
 	configPath := fs.String("config", "config.yaml", "Path to configuration file")
 	posts := fs.String("posts", "", "Comma-separated list of post slugs to clear")
 	hooks := fs.Bool("hooks", false, "Clear staged hooks instead of rankings")
+	all := fs.Bool("all", false, "Clear both staged rankings and hooks (all posts unless --posts is set)")
 
 	if err := fs.Parse(args); err != nil {
 		if err == flag.ErrHelp {
@@ -756,18 +842,19 @@ func (a *App) runClearStaged(ctx context.Context, args []string) int {
 
 	slugs := parseSlugs(*posts)
 
-	if *hooks {
+	if *hooks || *all {
 		if err := orch.ClearStagedHooks(ctx, slugs); err != nil {
 			fmt.Fprintf(a.stderr, "Error clearing staged hooks: %v\n", err)
 			return 1
 		}
 		fmt.Fprintln(a.stdout, "Successfully cleared staged hooks files.")
-	} else {
+	}
+	if !*hooks || *all {
 		if err := orch.ClearStaged(ctx, slugs); err != nil {
 			fmt.Fprintf(a.stderr, "Error clearing staged rankings: %v\n", err)
 			return 1
 		}
-		fmt.Fprintln(a.stdout, "Successfully cleared staged files.")
+		fmt.Fprintln(a.stdout, "Successfully cleared staged ranking files.")
 	}
 
 	return 0

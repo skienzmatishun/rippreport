@@ -79,7 +79,7 @@ summary: In our 2018 Baldwin County primary election coverage, we unmask politic
 ---
 Mid Term Elections are upon us, qualification closes 5:00 PM Feb. 9th. Then it is game on for many important positions in Baldwin County. Statewide general information can be found on:
 
-[http://sos.alabama.gov/sites/default/files/voter-pdfs/2018/2018AdministrativeCalendar.pdf](https://cdn.rippreport.com/wp-content/uploads/2018/01/2018AdministrativeCalendar.pdf)
+[http://sos.alabama.gov/sites/default/files/voter-pdfs/2018/2018AdministrativeCalendar.pdf](http://sos.alabama.gov/sites/default/files/voter-pdfs/2018/2018AdministrativeCalendar.pdf)
 
 We have only 4 months until the primary election June 5 2018.
 

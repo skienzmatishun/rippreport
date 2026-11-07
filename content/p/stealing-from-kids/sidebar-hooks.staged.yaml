@@ -1,0 +1,191 @@
+metadata:
+  generated_at: "2026-11-06T18:49:37.415491Z"
+  generator_version: 1.0.0
+  post_slug: stealing-from-kids
+  main_date: "2023-11-04"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-murray-lawrence-jr-project:
+    brief: |-
+      THE CONFLICT:
+      *   Murray "Bubba" Lawrence Jr. was convicted of the murder of Brandon Hastings.
+      *   The disappearance occurred in Foley, Alabama, during Spring Break of 2003.
+      *   Lawrence was convicted based on the word of a co-conspirator (per Baldwin County District Attorney David Whetstone circa 2003).
+
+      THE DISCOVERY:
+      *   The initial conviction involved institutional conflict, as then Lt. Huey Mack (Lead Detective in 2003) later became the 5th term Sheriff of Baldwin County.
+      *   Robert Wilters is currently serving his second term as District Attorney after a 22-year tenure.
+      *   Lawrence's new trial petition, handled by The Maxwell-Tillman Law Firm, is based on newly discovered *Brady Evidence*.
+
+      THE PIVOT:
+      *   The systemic connections between police/DA (Mack, Wilters) and the judicial process shown in the Lawrence case (Article 2) provides context for Article 1's claim that Alabama is politically corrupt and its judiciary lacks accountability.
+      *   This institutional failure mirrors the current issue where Tom Albritton (Executive Director of the Alabama Ethics Commission) maintains his position despite criminal behavior.
+      *   The slow judicial process in the current case (Judge Johnny Hardwick not ruling on 70+ motions) supports the theme of whitewashing and lack of transparency mentioned in Article 1.
+
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Brandon Hastings
+      *   Tom Albritton
+      *   Judge Johnny Hardwick
+      *   Lt. Huey Mack (Baldwin County Sheriff)
+      *   Robert Wilters (Baldwin County District Attorney)
+      *   David Whetstone (Baldwin County District Attorney circa 2003)
+      *   Harry Still
+      *   The Maxwell-Tillman Law Firm
+      *   Alabama Ethics Commission
+    llm_text: Murray Lawrence Jr. challenges his 2003 conviction for Brandon Hastings' murder, relying on new *Brady Evidence*. This case reveals deep institutional ties between Lt. Huey Mack and DA Robert Wilters, exposing Alabama's systemic judicial accountability crisis.
+    widget_date: "2023-10-08"
+    generated_at: "2026-11-06T18:46:51.883318Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  judge-vs-sheriff:
+    brief: |-
+      THE CONFLICT:
+      - Baldwin County, Alabama: Baldwin County District Attorney Robert Wilters and Sheriff Hoss Mack asked a judge to change a ruling compelling the Sheriff’s Office / BCSO to return a car that deputies seized earlier this month.
+      - Sheriff Hoss Mack and District Attorney Robert Wilters are joined at the hip; their relationship spans 30+ years; Wilters will do whatever the Boss wants.
+      - Conflict context: Sheriff Mack’s unbridled power vs. Judge; Sheriff Mack greatly influenced which judges got elected; now time for Judge to bend over for Sheriff and lackey District Attorney.
+      - Prior background: About 10 years before the article, Sen. Trip Pittman sponsored Senate Bill 312 for qualifications of Baldwin County Sheriff; it allowed the Boss to eliminate competition and locked Hoss Mack into a secure Sheriff position for two terms.
+      - Baldwin County was the only county in the state with such qualifications.
+      - Three years earlier, State Senator Pittman awarded himself $750,000.00 of B/P money.
+      - 2021: Lagniappe v. Mack — lawsuit against Baldwin County Sheriff Huey “Hoss” Mack for withholding bodycam footage of Deputy Matt Hunady? blowing away an unarmed motorist on the side of I-10.
+
+      THE DISCOVERY:
+      - Article 2 revealed/background: latest controversy surrounding Sheriff “No Body Cam Available,” aka The Boss, Hoss Mack; BCSO; chicken shit intimidation tactics used in Baldwin County, especially if ya upset the Boss or one of his buddies.
+      - Article 2: Not about a car. About unbridled power of Sheriff Mack.
+      - Hoss Mack does not like being told to do his job; Judge has been advised his actions are not acceptable to the District Attorney and Boss Hoss. The Judge must reverse his decision, to the satisfaction of the Sheriff.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame it as background/historical context.
+      - Article 2 covered the 2021 ruling in Lagniappe v. Mack; Associate Justice Greg Shaw wrote the majority decision, stating law enforcement investigative reports and related investigative material are not public records and are privileged communication protected from disclosure.
+      - Chief Justice Tom Parker was the only member of the court to dissent and blasted the decision.
+      - Article 2 is the key/background context for Article 1 because it documents law enforcement secrecy/privilege, lack of transparency/accountability, and court-vs-sheriff/Judge conflict themes relevant to the Alabama Ethics Commission matter.
+
+      THE KEY ENTITIES:
+      - Tom Albritton — Executive Director, Alabama Ethics Commission; accused of criminal behavior; maintained position.
+      - Judge Johnny Hardwick — overseeing Alabama Ethics Commission case; had not ruled on almost any of the 70+ motions filed so far.
+      - Mathews — quote: Alabama attorney general can not be trusted; settlement sweetest.
+      - Alabama Ethics Commission — Alabama.
+      - Hoss Mack — Baldwin County Sheriff; aka “No Body Cam Available,” “The Boss.”
+      - BCSO — Baldwin County Sheriff’s Office; has Major Crimes Division.
+      - Baldwin County District Attorney Robert Wilters.
+      - Sen. Trip Pittman — sponsored Senate Bill 312; awarded himself $750,000.00 of B/P money.
+      - Associate Justice Greg Shaw — majority in Lagniappe v. Mack.
+      - Chief Justice Tom Parker — dissent in Lagniappe v. Mack.
+      - Deputy Matt Hunady? — bodycam footage; unarmed motorist killed on I-10.
+      - Lagniappe v. Mack — 2021 ruling.
+    llm_text: Baldwin County Sheriff Hoss Mack and District Attorney Robert Wilters are pushing Judge Johnny Hardwick to reverse a ruling, but the fight goes back to the 2021 Lagniappe v. Mack case. Readers should care because it shows how the Boss’s unchecked power and secrecy collided with ethics oversight in Alabama.
+    widget_date: "2023-09-22"
+    generated_at: "2026-11-06T18:46:30.767974Z"
+    model_name: recursive/flint-v1.0:free
+  alabama-black-hole:
+    brief: |-
+      THE CONFLICT:
+      *   Allegations of "Self Dealing" and theft from the Mabel Amos Trust, which was flush with cash following an 80 million dollar oil discovery in 2010.
+      *   In 2014, Tom Albritton, along with other trustees and Regions Bank, made alterations to the trust's handling.
+      *   Tom Albritton, Executive Director of the Alabama Ethics Commission, was accused of failing to disclose his role as a multi-million dollar trust trustee on his economic statement and benefiting $120,000 through scholarships for his children.
+      *   Initial complaints against Albritton were filed on July 16, 2021, to Clark Morris, Special Prosecution Office.
+
+      THE DISCOVERY:
+      *   The trust handling was altered in 2014 to list schools instead of students, concealing beneficiaries.
+      *   Circuit Judge Ben Bowden received $45,000 for his children’s scholarships.
+      *   The Alabama Ethics Commission and Alabama Bar were accused of deliberately ignoring or covering up these violations, despite Albritton's 2015 appointment.
+
+      THE PIVOT:
+      *   Article 2 (August 21, 2022) establishes specific, documented financial misconduct by Tom Albritton and his co-trustees, providing the concrete evidence for the generalized claim in Article 1 that Albritton maintains his position despite "criminal behavior."
+
+      KEY ENTITIES:
+      *   Tom Albritton (Executive Director, Alabama Ethics Commission)
+      *   Cynthia Raulston
+      *   Clark Morris (Special Prosecution Office, Alabama Attorney General)
+      *   Mabel Amos (Founder of the trust)
+      *   Regions Bank
+      *   Judge Johnny Hardwick
+      *   Ben Bowden (Circuit Judge)
+      *   Francis Paul Ripp (The Ripp Report author/complainant)
+      *   Alabama Ethics Commission
+      *   Alabama Bar
+    llm_text: Tom Albritton, Alabama Ethics Commission Executive Director, pocketed $120,000 from the Mabel Amos Trust after an $80M oil discovery. He hid beneficiaries by listing schools instead of students, raising serious questions about ethics oversight by the Alabama Bar and Commission.
+    widget_date: "2022-10-21"
+    generated_at: "2026-11-06T18:48:12.586343Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  elliott-history-lesson:
+    brief: |-
+      THE CONFLICT: Systemic political corruption in Alabama, exemplified by Senator Chris Elliott (DUI, 1% tax) and Sheriff Hoss Mack's political direction in Baldwin County.
+      THE DISCOVERY: Article 2 detailed how Senator Chris Elliott was linked to the Porch Indians (Rolin construction), defended a "dirty lease" with Bob Wills, and faced scrutiny over his DUI and political maneuvering.
+      THE PIVOT: Article 2 establishes a historical pattern of deep, foundational political corruption in Alabama (Baldwin County), providing context that the criminal behavior and lack of accountability involving Tom Albritton (Executive Director of the Alabama Ethics Commission) is not an isolated case but part of a recognized state issue.
+      KEY ENTITIES: Tom Albritton, Senator Chris Elliott, Dr. Maigen Sullivan, Sheriff Hoss Mack, Judge Johnny Hardwick, Bob Wills, Alabama Ethics Commission.
+    llm_text: Senator Chris Elliott’s DUI and "dirty lease" deals, alongside Sheriff Hoss Mack's political direction, expose deep corruption in Alabama. Don't miss how this pattern affects Tom Albritton and proves this isn't just an isolated ethics case.
+    widget_date: "2023-07-15"
+    generated_at: "2026-11-06T18:49:24.475878Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hair-on-fire:
+    brief: |-
+      THE CONFLICT:
+      - Executive Director of the Alabama Ethics Commission Tom Albritton faces credibility issues regarding criminal behavior while maintaining his position.
+      - Mathews (attorney) claims the Attorney General cannot be trusted to represent financially needy children in Alabama.
+      - Judge Johnny Hardwick is overseeing the case and has ruled on nearly zero of approximately 70 motions filed, raising questions about judicial engagement.
+      - Allegations of political maneuvering and potential whitewashing of criminal activity in a final settlement.
+      - State Senator Chris Elliott (R-Josephine) is carrying water for Sheriff Hoss Mack.
+      - Elliott's wife has worked for Sheriff Hoss Mack since Chris was elected to office in Baldwin County.
+      - Sheriff Hoss Mack is identified as the political director behind events in Baldwin County.
+      - Baldwin County voters are being warned about Elliott's actions and Sheriff's political interference.
+      - Sen. Greg Albritton (R-Range) voted against Chairman Chris Elliott's Senate Bill 306, arguing the committee should not advance legislation lacking public support.
+      - ACCA (Association of County Commissioners of Alabama) filed opposition letters regarding Senate Bill 306.
+      - If passed, Elliott's bill would create a full-time, non-rotating commissioner to act as chairman of the Baldwin County Commission.
+
+      THE DISCOVERY:
+      - Elliott is actively supporting Sheriff Hoss Mack's agenda while his wife is employed by the sheriff's office.
+      - Albritton (Senator) opposes Elliott's legislation based on lack of constituent support, highlighting a rift within the Republican delegation.
+      - The Ethics Commission's Executive Director (Albritton) is central to the "stealing from kids" allegations in the main article, suggesting a pattern of ethical failures among Alabama officials connected to Albritton.
+
+      THE PIVOT:
+      - Elliott's alliance with Sheriff Hoss Mack and his wife's employment create a direct connection between the "hair on fire" local politics and the "stealing from kids" ethics corruption.
+      - Albritton's dual role as Ethics Commission Executive Director and State Senator positions him as the linchpin connecting both articles' corruption themes.
+      - The pattern of Albritton protecting allies (Elliott) while facing his own ethical scrutiny creates the smoking gun linking past ethical failures to current legislative maneuvers.
+
+      KEY ENTITIES:
+      - Tom Albritton (Executive Director, Alabama Ethics Commission; State Senator)
+      - Chris Elliott (State Senator; ally of Sheriff Hoss Mack)
+      - Sheriff Hoss Mack (Baldwin County political director)
+      - Elliott's wife (Employed by Sheriff Hoss Mack's office)
+      - Judge Johnny Hardwick (Overseeing ethics case)
+      - Mathews (Attorney involved in children's fiduciary case)
+      - ACCA (Association of County Commissioners of Alabama)
+    llm_text: 'State Senator Chris Elliott''s wife works for Sheriff Hoss Mack while he advances the sheriff''s political agenda, exposing the real reason Sen. Tom Albritton opposes the bill. Albritton, Ethics Commission chief and state senator, knows the pattern: protecting allies like Elliott while his own credibility crumbles under "stealing from kids" allegations.'
+    widget_date: "2023-05-18"
+    generated_at: "2026-11-06T18:46:06.325770Z"
+    model_name: plugsky-lite
+  go-to-hell-ethics:
+    brief: |-
+      THE CONFLICT:
+      - Baldwin County Legislative Delegation leased offices from Bay Minette Mayor Bob Wills at 125 D'Olive Street
+      - Original lease: $4,090/month for five years for entire ground floor
+      - Revised lease: $1,750/month until December 2027 for two offices, two conference rooms, parking lot
+      - Baldwin County Commission Attorney Brad Hicks stated he sees no ethics violation with Mayor Bob Wills renting his building to the delegation
+      - Brad Hicks refused to obtain an official ethics opinion from the Alabama Ethics Commission, Attorney General, or legal council for the Speaker of the House
+      - Alabama Ethics Commission created by Alabama Legislature in 1973 by Act No. 1056
+
+      THE DISCOVERY:
+      - Article 2 reveals the Alabama Ethics Commission's mission is to ensure public officials are independent and impartial, and that public office is not used for private gain
+      - Ethics Law defines "conflict of interest" as a conflict between a public official's private interests and official responsibilities (Ala. Code § 36-25-1(8))
+      - Article 2 shows a pattern where local officials bypass the Ethics Commission to avoid official rulings on potentially unethical arrangements
+      - Executive Director of Alabama Ethics Commission Tom Albritton referenced in connection with ethics enforcement failures
+
+      THE PIVOT:
+      - Article 2 establishes the precedent of local officials (Brad Hicks, Mayor Bob Wills) circumventing the Alabama Ethics Commission to approve questionable arrangements involving public funds
+      - Tom Albritton, as Executive Director of the Alabama Ethics Commission, is the central figure failing to enforce ethics rules in both the Baldwin County rental deal and the broader corruption context in Article 1
+      - Article 2 demonstrates the systemic failure of ethics oversight that enables the criminal behavior described in Article 1 involving Albritton and the misuse of funds meant for financially needy children
+
+      KEY ENTITIES:
+      - Tom Albritton (Executive Director, Alabama Ethics Commission)
+      - Brad Hicks (Baldwin County Commission Attorney)
+      - Mayor Bob Wills (Bay Minette)
+      - Alabama Ethics Commission
+      - Baldwin County Legislative Delegation
+      - Baldwin County Commission
+      - Judge Johnny Hardwick
+      - Attorney General (unnamed)
+      - 125 D'Olive Street (Bay Minette)
+    llm_text: Baldwin County attorneys let Bay Minette Mayor Bob Wills rent offices at 125 D'Olive Street to the Legislative Delegation without an official ethics opinion. Ethics Commission Executive Director Tom Albritton refuses to enforce the rules that stop officials from profiting off public deals.
+    widget_date: "2023-01-28"
+    generated_at: "2026-11-06T18:46:21.381341Z"
+    model_name: plugsky-lite

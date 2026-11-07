@@ -32,8 +32,10 @@ type Config struct {
 
 // HookItem represents a hook to be refined
 type HookItem struct {
-	Slug  string `json:"slug"`
-	Brief string `json:"brief"`
+	Slug          string   `json:"slug"`
+	Brief         string   `json:"brief"`
+	Text          string   `json:"text,omitempty"` // Current hook text, supplied separately for collision rewrites.
+	AvoidExamples []string `json:"avoid_examples,omitempty"`
 }
 
 // RefinedHookItem represents a refined hook
@@ -67,6 +69,15 @@ func NewClient(cfg Config) (*Client, error) {
 
 // RefineHooks refines a list of hooks using the Gemini API
 func (c *Client) RefineHooks(ctx context.Context, items []HookItem, model string) ([]RefinedHookItem, error) {
+	return c.refineHooks(ctx, items, model, "")
+}
+
+// RewriteCollision rewrites only the second hook, keeping the first as context.
+func (c *Client) RewriteCollision(ctx context.Context, first, second HookItem, model string) ([]RefinedHookItem, error) {
+	return c.refineHooks(ctx, []HookItem{first, second}, model, "These two hooks are too similar in structure and metaphor. Rewrite the second one using a completely different angle. Each item contains its current hook in text and the complete source brief in brief. Rewrite the second item's text using its full brief as factual context. Preserve its facts and specific names; do not invent claims. Return ONLY the second hook, with its original slug. The first hook is context only. Any avoid_examples are rejected previous versions: do not repeat their metaphors, structure, or angle. Use a new angle supported by the full brief.")
+}
+
+func (c *Client) refineHooks(ctx context.Context, items []HookItem, model, instruction string) ([]RefinedHookItem, error) {
 	if model == "" {
 		model = "gemini-3.7-flash"
 	}
@@ -134,6 +145,10 @@ REMEMBER: You're creating a reason to click, not a summary. Make it compelling.`
 	}
 
 	userPrompt := fmt.Sprintf("Refine these sidebar hooks. Each 'brief' field contains raw LLM-generated text. Transform them into compelling, varied editorial hooks that match The Ripp Report's voice. Never repeat the same opening structure:\n\n%s", string(itemsJSON))
+
+	if instruction != "" {
+		userPrompt = instruction + "\n\n" + string(itemsJSON)
+	}
 
 	requestBody := map[string]interface{}{
 		"contents": []map[string]interface{}{

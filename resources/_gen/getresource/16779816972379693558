@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a52ed8aceb073376-MIA
+Cf-Ray: a5688d505c10f7aa-MIA
 Content-Type: application/json
-Date: Sat, 31 Oct 2026 01:22:03 GMT
+Date: Sat, 07 Nov 2026 01:26:49 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5tilyp5y62doGcHh32NXJGHW%2BA21MQ1Yw%2BInSgr8qh%2Bzo3QD3o%2F0bhszBaUgu1C%2BH4iHEoPfyhCGqH2qbEf9y1jYnmCn5KT9fBffZoyN2MRF1n5Fjjempkvx2cruQMUQjI79kAYpWrVtnTpdSITOCBYWag%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BhauW7U40kzADazyTcJwitKZNh8ZHAcJ1B8GkxvDRdOwjQ8i6kEG6AgCKkf%2BIQCnR96sFuxjV3HNj03%2BIe15Ozs2gESccSrd3AaiHtlBXJ%2F2X7rDZHCaWdHlH6SCQSOwTbVjlx3LL5oBSYiX55Wmr%2BvVsA%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=6,cfOrigin;dur=0,cfWorker;dur=627
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=0,cfWorker;dur=279
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 1c64754fc5d479c2060bb22f67710775
-X-Etags-2: 1c64754fc5d479c2060bb22f67710775
+X-Etags-1: c178cea2d23bea357cd1601ba125d735
+X-Etags-2: c178cea2d23bea357cd1601ba125d735
 
-{"title":"Thank you for 17 years of support!","description":"There’s probably no kid in America right now sitting on the couch mindlessly blowing zombies away in “Resident Evil 2” and thinking, “One day, when I ...","url":"https://www.lagniappemobile.com/opinion/columnists/dtt/thank-you-for-17-years-of-support/article_798f57e3-994a-5650-9395-92e5169bf357.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/b/53/b5395e7e-804e-531f-b153-0d3ba858fef7/630ebc0bdf119.image.jpg?crop=1625%2C853%2C0%2C1&resize=1200%2C630&order=crop%2Cresize","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/opinion/columnists/dtt/thank-you-for-17-years-of-support/article_798f57e3-994a-5650-9395-92e5169bf357.html","wasRedirected":false}
+{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/opinion/columnists/dtt/thank-you-for-17-years-of-support/article_798f57e3-994a-5650-9395-92e5169bf357.html","title":"Preview unavailable","description":"Could not fetch preview data"}

@@ -1,5 +1,5 @@
 post_slug: top-shelf-corruption
-generated: 2026-11-05T11:31:14.370299-06:00
+generated: 2026-11-05T21:12:52.987827-06:00
 articles:
   - slug: dirty-underwear
     title: DIRTY UNDERWEAR
@@ -9,24 +9,24 @@ articles:
     title: FAUXHOPE
     score: 100
     rank: 2
-  - slug: happy-days
-    title: HAPPY DAYS
-    score: 94
-    rank: 3
   - slug: pot-calling-the-kettle-black
     title: POT CALLING THE KETTLE BLACK
     score: 50
-    rank: 4
+    rank: 3
   - slug: perfect-puzzle
     title: PERFECT PUZZLE
     score: 50
-    rank: 5
+    rank: 4
   - slug: writ-of-mandamus-update
     title: 'WRIT OF MANDAMUS: UPDATE'
     score: 50
-    rank: 6
+    rank: 5
   - slug: this-is-a-test
     title: THIS IS A TEST
+    score: 50
+    rank: 6
+  - slug: alabama-ugly
+    title: ALABAMA UGLY
     score: 50
     rank: 7
   - slug: portables-and-prisons

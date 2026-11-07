@@ -1,0 +1,208 @@
+metadata:
+  generated_at: "2026-11-06T19:15:20.691268Z"
+  generator_version: 1.0.0
+  post_slug: the-mug-shot
+  main_date: "2023-08-28"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-crime-of-the-century:
+    brief: |-
+      THE CONFLICT:
+      *   Former President Donald Trump was booked in an Atlanta Jail under a RICO prosecution involving nearly 20 co-conspirators.
+      *   Alabama Attorney General Steve Marshall challenged the Biden Administration regarding the Space Command relocation from Huntsville, Alabama to Colorado.
+      *   William Coleman Barkley was convicted of attempted murder of an Auburn Police Officer, receiving 35 years in prison.
+      *   Governor Kay Ivey fired Admiral Kent Davis and attempted to control the veterans’ board.
+
+      THE DISCOVERY:
+      *   Veterans’ programs are in chaos following Admiral Kent Davis's ousting, with leaders politicizing the role.
+      *   A court case established that individuals cannot sue over a wrong SWAT raid, impacting police accountability.
+      *   True crime in Clarke County exposed a hospice business with shady ties to a judge, highlighting Alabama's "good old boy" system.
+
+      THE PIVOT:
+      *   Article 2 provides context to the "messy politics" in Alabama mentioned in Article 1 by detailing Governor Kay Ivey's actions, the resulting chaos in veterans' programs, and new legal limitations on police accountability.
+
+      KEY ENTITIES:
+      *   Donald Trump
+      *   Steve Marshall
+      *   William Coleman Barkley
+      *   Chris Elliott (THE TAX MAN)
+      *   Kay Ivey
+      *   Admiral Kent Davis
+      *   Biden Administration
+      *   Baldwin Bridge Company
+      *   Alabama Department of Transportation
+      *   Clarke County (judge/hospice)
+      *   NEOCON Right
+      *   Moms for Liberty
+    llm_text: Governor Kay Ivey fired Admiral Kent Davis, plunging veterans’ programs into political chaos across Alabama. New court rulings limit police accountability following a SWAT raid case, revealing the state's complex system of power and justice.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T19:13:51.521955Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    brief: |-
+      THE CONFLICT:
+      Former President Donald Trump was booked into an Atlanta Jail under a RICO prosecution scheme involving nearly 20 co-conspirators.
+      Alabama Attorney General Steve Marshall issued allegations against the Biden Administration regarding Space Command relocation from Huntsville Alabama to Colorado.
+      William Coleman Barkley received a 35-year sentence for attempted murder of an Auburn Police Officer.
+      An officer involved shooting occurred in Westchester Colorado, with body cam released.
+
+      THE DISCOVERY:
+      Article 2 confirms that law enforcement mishaps often lack accountability and that companies with political ties secure million-dollar contracts amid corruption.
+
+      THE PIVOT:
+      The Westchester Colorado officer involved shooting (Article 1) is contextualized by Article 2, which highlights systemic failures in law enforcement accountability and suggests state leaders are stripping local control by handpicking police chiefs.
+
+      KEY ENTITIES:
+      Donald Trump
+      Steve Marshall
+      William Coleman Barkley
+      Auburn Police Officer
+      Chris Elliott
+      Baldwin County District Attorney
+      Westchester Colorado
+      Alabama Department of Transportation
+      Decatur City Police
+    llm_text: A Westchester Colorado officer shooting demands answers, but systemic failures hide accountability. Discover how state leaders strip local control and allow corruption amid law enforcement mishaps.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T19:15:10.241354Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    brief: |-
+      THE CONFLICT: William Coleman Barkley convicted of attempted murder of an Auburn Police Officer; received 35 years sentence.
+      THE DISCOVERY: Alabama Court of Civil Appeals ruling regarding Mack vs Hadley; discovery of two autopsies ordered by Coroner of Baldwin County in 2005 constitutes a Brady Violation.
+      THE PIVOT: Article 2 details specific instances of corruption within Alabama's legal/political systems (e.g., Dothan Summer Feeding Scandal, corrupt Judge Mark Fuller) connecting to general allegations of corruption mentioned in Article 1.
+      KEY ENTITIES: William Coleman Barkley, Auburn Police Officer, Chris Elliott, Donald Trump, Alabama Attorney General Steve Marshall, Luigi Manjone, Sheriff Mack, Mark Fuller, Baldwin County Sheriff's Department
+    llm_text: William Coleman Barkley faces 35 years after attacking an Auburn Police Officer; new Baldwin County autopsies expose a Brady Violation linked to Alabama legal corruption. Read how this case connects to scandals like the Dothan Summer Feeding issue.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T19:13:01.600217Z"
+    model_name: plugsky-lite
+  backstory-podcast-no-187-the-pardon:
+    brief: |-
+      THE CONFLICT:
+      - Former President Donald Trump was booked into Atlanta Jail this week under a RICO prosecution scheme with almost 20 co-conspirators; Trump was defiant; iconic mugshot.
+      - Trump did not participate in Republican Presidential Debate; he took lead from Mee-Maw and Coach Tubbs playbook.
+      - William Coleman Barkley was convicted of attempted murder of Auburn Police Officer; Barkley and wife claimed they did not know police were at residence; Barkley got 35 years.
+      - Alabama Attorney General Steve Marshall issued allegations against Biden Administration regarding Space Command not located in Huntsville, Alabama, but in Colorado.
+      - Decatur City Police took down multiple illegal gambling establishments.
+
+      THE DISCOVERY:
+      - Article 2, The Pardon, discusses President Biden issuing pardon of his son Hunter.
+      - Article 2 discusses damning report on US government’s COVID-19 response.
+      - Article 2 discusses allegations of misconduct against various officials.
+      - Article 2 discusses controversies surrounding political appointments.
+      - Article 2 discusses murder of healthcare CEO.
+      - Article 2 discusses arrests of individuals critical of local government.
+      - Article 2 discusses First Amendment and wrongful arrests of individuals who exposed corruption in local school district.
+
+      THE PIVOT:
+      - Article 2 is newer than Article 1; frame as update.
+      - Article 2/The Pardon is key context for Article 1/The Mugshot because both involve presidential actions or legal/political developments.
+      - Biden Hunter pardon vs. Trump Atlanta RICO mugshot; Article 2 is newer context/smoking gun.
+      - Source does not establish direct smoking gun link; Article 2 provides newer context around presidential legal/political conduct.
+
+      THE KEY ENTITIES:
+      - Lowery
+      - Wilters
+      - Donald Trump
+      - Former President Donald Trump
+      - Atlanta Jail
+      - RICO prosecution
+      - Republican Presidential Debate
+      - Mee-Maw
+      - Coach Tubbs
+      - Alabama Attorney General Steve Marshall
+      - Biden Administration
+      - President Joe Biden
+      - Hunter Biden
+      - Pardon
+      - Space Command
+      - Huntsville, Alabama
+      - Colorado
+      - Decatur City Police
+      - William Coleman Barkley
+      - Auburn Police Officer
+      - State Senator Chris Elliott AKA THE TAX MAN
+      - Foley
+      - NEOCON Right
+      - Foley City Council
+      - Baldwin County
+      - Moms for Liberty
+      - Westchester, Colorado
+      - Alabama Medical Cannabis Commission
+      - Alabama Open Meeting Laws
+      - Montgomery County Circuit Court
+      - Baldwin Bridge Company
+      - Alabama Department of Transportation
+      - Pleasure Island
+      - Richard Scrushy
+      - Foley Park
+      - US government
+      - COVID-19 response
+      - Political appointments
+      - Healthcare CEO murder
+    llm_text: President Biden's Hunter pardon just dropped, and now Trump's defiant Atlanta mugshot stares at us from a RICO case with 20 co-conspirators. Here's why this pardon is the smoking gun context you need for the story already breaking.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T19:13:32.630058Z"
+    model_name: recursive/flint-v1.0:free
+  backstory-podcast-no-186-change-is-coming-alabama:
+    brief: "THE CONFLICT: \n- Former President Donald Trump was booked into an Atlanta jail under a RICO prosecution scheme with nearly 20 co-conspirators, producing an iconic mugshot (August 2023 timeframe).\n- Trump skipped the Republican Presidential Debate.\n- Alabama Attorney General Steve Marshall attacked the Biden Administration over the decision to move Space Command from Huntsville, Alabama, to Colorado.\n- William Coleman Barkley was sentenced to 35 years for the attempted murder of an Auburn Police Officer (who shot him first; Barkley and his wife claimed they did not know police were at the residence).\n- State Senator Chris Elliott (The Tax Man) spoke at a Foley City Council meeting warning against books and sex education in schools, alongside the establishment of a Baldwin County chapter of \"Moms for Liberty.\"\n- The Alabama Medical Cannabis Commission faced a Montgomery County Circuit Court lawsuit over potential Open Meeting Law violations during a Monday executive session.\n- Baldwin Bridge Company lost its lawsuit against the Alabama Department of Transportation (ALDOT), greenlighting a toll-free third bridge onto Pleasure Island.\n- Decatur City Police raided multiple illegal gambling establishments.\n\nTHE DISCOVERY: \n- Backstory Podcast No. 186 serves as an update covering the aftermath of these political and legal battles, specifically addressing the 2024 US Presidential election results, the formation of Trump Cabinet 2.0, government spending on misinformation, the war in Ukraine, Google antitrust lawsuits, proposed Alabama constitutional amendments, rural hospital closures, and hunting season changes.\n\nTHE PIVOT: \n- Article 2 (Backstory Podcast No. 186) acts as the smoking gun/update because it fast-forwards past the initial 2023 local Alabama disputes and Trump RICO indictment phase, showing the actual macro-level realization of those political shifts—namely, the 2024 election outcomes, the rollout of Trump Cabinet 2.0, and ongoing federal/state policy battles (antitrust, rural healthcare, and constitutional amendments) that evolved directly from the climate described in Article 1.\n\nKEY ENTITIES: \n- Donald Trump\n- Steve Marshall (Alabama Attorney General)\n- William Coleman Barkley\n- Chris Elliott (State Senator / \"The Tax Man\")\n- Baldwin Bridge Company\n- Alabama Department of Transportation (ALDOT)\n- Alabama Medical Cannabis Commission\n- Decatur City Police\n- Moms for Liberty (Baldwin County Chapter)\n- Backstory Crew / Backstory Podcast"
+    llm_text: Trump’s mugshot and local Alabama battles only scratched the surface of a much bigger political war. Backstory Podcast No. 186 exposes how those 2023 flashpoints directly spawned Trump Cabinet 2.0, federal antitrust crackdowns, and high-stakes state policy shifts.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T19:12:57.201567Z"
+    model_name: gemini-3.5-flash-lite
+  stirring-the-pot-bsp:
+    brief: "THE CONFLICT: \n- In the past, the City of Bay Minette, Alabama faced a wrongful death lawsuit filed by the family of OJ French Jr., who was killed by Bay Minette Police Department (BMPD) Officer Brandon Thompson. \n- Mobile attorney Andy Ruten, representing the City of Bay Minette, asked a judge to review bodycam footage privately to excuse the officer's actions while simultaneously insisting that the footage be withheld from the public.\n\nTHE DISCOVERY: \n- Article 2 proves that the corruption circle has expanded: Mobile attorney Andy Ruten's firm subsequently hired Bay Minette Mayor Bob Wills to represent *them* in an active malpractice lawsuit. \n\nTHE PIVOT: \n- Article 2 serves as the smoking gun for Article 1 by exposing a blatant, incestuous conflict of interest at the local government level. While Article 1 highlights routine local governance, police actions, and legal battles across Alabama, Article 2 uncovers a quid-pro-quo legal arrangement where the Mayor of Bay Minette (Bob Wills)—who oversees the very city administration and police department being sued in the OJ French Jr. lethal force case—is personally put on the payroll of the defense attorney (Andy Ruten) defending that exact municipality.\n\nKEY ENTITIES:\n- OJ French Jr.\n- Brandon Thompson (BMPD Officer)\n- Andy Ruten (Mobile Attorney)\n- Bob Wills (Mayor of Bay Minette)\n- Governor Kay Ivey\n- William Coleman Barkley\n- Steve Marshall (Alabama Attorney General)\n- Chris Elliott (State Senator / \"The Tax Man\")\n- Richard Scrushy"
+    llm_text: When attorney Andy Ruten hid BMPD bodycam footage in the OJ French Jr. lawsuit, he conveniently hired Bay Minette Mayor Bob Wills for his own defense. Read how this blatant quid-pro-quo reveals the incestuous corruption poisoning Alabama's local government.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T19:13:02.523232Z"
+    model_name: gemini-3.5-flash-lite
+  the-pete-rose:
+    brief: |-
+      THE CONFLICT:
+      - On May 27, 2022 (Memorial Day weekend), Thomas Daniel "Danny" Williams Jr. died in Orange Beach, Alabama.
+      - His body was recovered two days later on Sunday, May 29, 2022.
+      - An ongoing local mystery surrounds the circumstances of his death, lacking a definitive conclusion.
+
+      THE DISCOVERY:
+      - A reward has now been offered for information, video, or audio leading to the resolution of the Danny Williams Jr. death investigation.
+
+      THE PIVOT:
+      - While Article 1 catalogues general regional news, local politics, and law enforcement actions across Alabama (such as Decatur gambling busts and Foley city council meetings), Article 2 provides the crucial, unresolved criminal justice update regarding a suspicious local death in Orange Beach that still demands accountability.
+
+      KEY ENTITIES:
+      - Thomas Daniel "Danny" Williams Jr.
+      - Orange Beach, Alabama
+      - Pete Rose
+      - Katie Britt
+      - Adm. Kent Davis
+      - Mayor of Montgomery
+    llm_text: Orange Beach still conceals the dark truth behind Thomas Daniel "Danny" Williams Jr.’s tragic 2022 Memorial Day weekend death. While local headlines chase routine politics, a newly posted reward demands real accountability for this unresolved case.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T19:13:08.257671Z"
+    model_name: gemini-3.5-flash-lite
+  hatians-eating-cats:
+    brief: |-
+      THE CONFLICT: Donald Trump was booked into an Atlanta Jail under a RICO prosecution scheme involving almost 20 co-conspirators.
+      THE DISCOVERY: The second article mentions Trump got into a food fight with Taylor Swift and avoided a second assassination attempt.
+      THE PIVOT: The second article updates the narrative surrounding Trump's situation from a simple RICO booking to more complex public incidents (food fight, assassination scare).
+      KEY ENTITIES: Donald Trump, Alabama Attorney General Steve Marshall, William Coleman Barkley, State Senator Chris Elliott, Kent David, Brandon Moseley, Taylor Swift, RFK Jr, Tulsi Gabbards, Russell Brand
+    llm_text: Donald Trump's Atlanta RICO booking takes a wild turn; discover how a food fight with Taylor Swift and an assassination scare reshape the story beyond just the legal charges.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T19:13:09.694079Z"
+    model_name: plugsky-lite
+  the-180:
+    brief: "THE CONFLICT: \n- Former President Donald Trump was booked into an Atlanta jail under a RICO prosecution scheme with nearly 20 co-conspirators, producing an iconic mugshot (Article 1 timeline).\n- Alabama AG Steve Marshall fought the Biden administration over Space Command moving from Huntsville to Colorado (Article 1).\n- William Coleman Barkley was sentenced to 35 years for the attempted murder of an Auburn Police Officer (Article 1).\n- State Senator Chris Elliott (The Tax Man) and the \"Moms for Liberty\" right-wing soccer mom club pushed anti-book and anti-sex education agendas at a Foley City Council meeting (Article 1).\n- The Baldwin Bridge Company lost its lawsuit against ALDOT, keeping the third bridge to Pleasure Island toll-free (Article 1).\n- An ongoing dispute involving the Alabama Medical Cannabis Commission over alleged Open Meetings Law violations in Montgomery County Circuit Court (Article 1).\n- Sheriff Mack's term in Baldwin County, Alabama, was down to its final week with the Governor selecting a replacement (Article 1 and Article 2).\n\nTHE DISCOVERY: \n- Vice President Kamala Harris transitioned from a struggling Democrat to the party's savior, riding high off the Democratic National Convention (Article 2).\n- Robert F. Kennedy Jr. removed his name from battleground state ballots and endorsed Candidate Trump, instantly consuming all political oxygen (Article 2).\n- Paul Finebaum officially declared the University of Alabama football dynasty over (Article 2).\n- Sheriff Mack's tenure in Baldwin County has officially concluded, leaving the Governor's office actively selecting his replacement amidst local apprehension (\"Pray for change but expect the worst\") (Article 2).\n\nTHE PIVOT: \n- Article 2 provides the immediate national and local political fallout following the initial turbulence outlined in Article 1. While Article 1 established the baseline chaos—from Trump's RICO booking to local government culture wars and Sheriff Mack's impending departure—Article 2 updates the power dynamics: RFK Jr.'s endorsement completely hijacks the post-DNC momentum away from Harris/Trump's RICO saga, and the final expiration of Sheriff Mack's term forces an immediate crisis regarding local law enforcement leadership in Baldwin County.\n\nKEY ENTITIES: \n- Donald Trump\n- Kamala Harris\n- Sheriff Mack\n- RFK Jr.\n- Steve Marshall\n- William Coleman Barkley\n- Chris Elliott (The Tax Man)\n- Paul Finebaum"
+    llm_text: Sheriff Mack's departure leaves Baldwin County bracing for change while RFK Jr. steals the national spotlight from Kamala Harris and Trump. Dive into the local and national fallout you missed.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-06T19:13:15.117027Z"
+    model_name: gemini-3.5-flash-lite
+  sheriff-mack-out-oj-french-lawsuit-in:
+    brief: |-
+      THE CONFLICT: No specific prior conflict involving OJ French or Officer Brandon Thompson is detailed in Article 1.
+      THE DISCOVERY: Article 2 details a lawsuit filed on July 31, 2024, by the Family of OJ French Jr, the Bay Minette Justice League, and May Jung LLC against the City of Bay Minette and Officer Brandon Thompson, alleging lack of probable cause leading to a shooting death.
+      THE PIVOT: Article 2 provides the specific details and legal action (Federal Court lawsuit) regarding the incident involving Officer Brandon Thompson which was mentioned contextually in Article 1's general locale (Alabama).
+      KEY ENTITIES: OJ French Jr, Officer Brandon Thompson, Bay Minette, Mayor Robert Bob Wills, May Jung LLC, Sheriff, Anthony Lowery, Governor Ivey, Matt McKenzie, Donald Trump, Steve Marshall
+    llm_text: OJ French Jr's family and May Jung LLC sued Bay Minette, naming Officer Brandon Thompson over a shooting death. See how this Federal Court lawsuit challenges the City of Bay Minette.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T19:13:19.622520Z"
+    model_name: plugsky-lite

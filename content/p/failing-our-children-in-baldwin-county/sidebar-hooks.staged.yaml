@@ -1,0 +1,138 @@
+metadata:
+  generated_at: "2026-11-06T14:33:24.679738Z"
+  generator_version: 1.0.0
+  post_slug: failing-our-children-in-baldwin-county
+  main_date: "2025-03-21"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  go-to-hell-veterans:
+    brief: |-
+      THE CONFLICT:
+      *   2020 showdown occurred between Ed Oliver (Tallapoosa County’s State Rep, Military and Veterans Affairs Committee chairman) and Kent Davis (ADVA Commissioner) regarding COVID-era protocol at the Bill Nichols State Veterans Home in Alexander City.
+      *   Kimberly Boswell (Department of Mental Health Director, Ivey’s cabinet member) was accused by Kent Davis of colluding with other state officials to divert $7 million from the American Rescue Plan Act (ARPA) intended for the ADVA.
+      *   Legislation restructuring the State Board of Veterans Affairs passed the Alabama State Senate 21-9.
+      *   Napoleon Bracy, Chip Brown, Barbara Drummond, Brett Easterbrook, Jennifer Fidler, Donna Givens, Frances Holk-Jones, Chris Pringle, Mark Shirey, Matt Simpson, Shane Stringer, and Margie Wilcox voted against cutting veterans' funding.
+      *   Rep. Alan Baker (R-Brewton) was the only local House member to vote in favor of the veterans bill.
+
+      THE DISCOVERY:
+      *   Article 2 reveals historical political and financial mismanagement within Alabama state agencies (ADVA, Department of Mental Health) related to veteran funding and ARPA funds, dating back to 2020.
+
+      THE PIVOT:
+      *   Article 2 demonstrates a pattern of systemic dysfunction, political interference, and inadequate funding/management within Alabama state agencies (ADVA, DOH).
+      *   This historical institutional failure (financial neglect/political maneuvering) provides the background context for the current systemic failure in Baldwin County's child protection system (DHR, Family Court) detailed in Article 1, where agencies are understaffed and unable to adequately protect children.
+
+      KEY ENTITIES:
+      *   Baldwin County, Alabama
+      *   Department of Human Resources (DHR)
+      *   Daphne Police Department (Detective Trey Kraynak, Case #230 700 147)
+      *   GAL (Guardian Ad Litem)
+      *   January 10, 2024 (Mother's arrest for Domestic Family Violence)
+      *   May 9, 2024 (GAL meeting date)
+      *   CASE #DR-2017-900956.03 (Father's family law case)
+      *   Kimberly Boswell (Department of Mental Health Director)
+      *   Kent Davis (ADVA Commissioner)
+      *   Ed Oliver (Tallapoosa County’s State Rep)
+      *   Napoleon Bracy
+      *   Chip Brown
+      *   Barbara Drummond
+      *   Brett Easterbrook
+      *   Jennifer Fidler
+      *   Donna Givens
+      *   Frances Holk-Jones
+      *   Chris Pringle
+      *   Mark Shirely
+      *   Matt Simpson
+      *   Shane Stringer
+      *   Margie Wilcox
+      *   Rep. Alan Baker
+      *   Andrew Jones (State Sen., Cherokee County)
+      *   $7 million (ARPA funds diverted)
+    llm_text: Ed Oliver and Kent Davis fought over $7 million ARPA funds in 2020, exposing systemic financial mismanagement in Alabama agencies. This institutional failure explains current critical neglect within Baldwin County's child protection system.
+    widget_date: "2025-03-14"
+    generated_at: "2026-11-06T14:29:07.197049Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  justified:
+    brief: |-
+      THE CONFLICT:
+      *   O.J. French of Bay Minette was killed during a traffic stop.
+      *   The killing was ruled 'justified' by the Baldwin County Major Crimes Unit.
+      *   Johnathan Victor (unarmed) was killed by a sheriff deputy in Baldwin County, pending a federal lawsuit.
+      *   Wilters, Mack, and former DA David Whetstone colluded to wrongfully convict Murray Lawrence of murder, resulting in nearly 20 years of incarceration.
+
+      THE DISCOVERY:
+      *   Baldwin County Major Crimes Unit investigates itself.
+      *   Robert Wilters (Baldwin County District Attorney) utilizes a "Secret" Grand Jury to cover Major Crimes Unit actions.
+      *   Al Tolbert (Chief of police, Bay Minette) and Sheriff Hoss Mack were members of the Major Crimes Unit.
+
+      THE PIVOT:
+      *   The historical pattern of institutional cover-ups, self-investigation, and prosecutorial collusion (Article 2) establishes a systemic failure of accountability within Baldwin County law enforcement and the DA's office.
+      *   This historical context provides evidence that the current failure of law enforcement, DHR, and the family court system to protect children (e.g., Case #230 700 147, Mother's arrest Jan 10, 2024; GAL failure May 9, 2024) is not isolated but part of a wider, entrenched systemic neglect and lack of accountability within the county.
+
+      KEY ENTITIES:
+      *   O.J. French
+      *   Bay Minette
+      *   Baldwin County Major Crimes Unit
+      *   Al Tolbert
+      *   Sheriff Hoss Mack
+      *   Johnathan Victor
+      *   Robert Wilters
+      *   David Whetstone
+      *   Murray Lawrence
+      *   Antony Lowery
+      *   Bob Willis
+      *   Trey Kraynak
+      *   Baldwin County Department of Human Resources (DHR)
+      *   Case #230 700 147
+      *   Case #DR-2017-900956.03
+    llm_text: 'Baldwin County’s Major Crimes Unit covered up injustices like the killing of O.J. French and the wrongful conviction of Murray Lawrence. This systemic failure, fueled by Robert Wilters, shows why current neglect in Case #230 700 147 endangers children today.'
+    widget_date: "2025-03-08"
+    generated_at: "2026-11-06T14:30:37.312238Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-huey-boss-mack-secret-police-2:
+    brief: |-
+      THE CONFLICT:
+      Jonathan Victor was shot to death by BCSO on May 2017.
+      Robert Yates was shot to death by BCSO on March 5 2018.
+      Kevin J Andrews was killed in a BCSO traffic pursuit.
+      Murray Lawrence Jr. was falsely incarcerated and headed to the Innocence Project (case details referenced in 2021).
+      Sheriff Huey “Hoss” Mack secured his second term with help from State Senator Trip Pittman.
+      The BCSO received $65 million+ in funding in 2020/2021, with $700,000+ for body/vehicle cameras.
+
+      THE DISCOVERY:
+      Sheriff Mack's BCSO lacks crisis intervention/de-escalation training (cited in 2017).
+      Sheriff Mack's private business (Mack Funeral Home) received a county contract, indicating a conflict of interest.
+      Judicial decisions (Judge Scully) have been alleged to favor the BCSO.
+      BCSO has restricted public access to investigative records (Lagniappe decision, Sept 30, 2021).
+
+      THE PIVOT:
+      Article 2 establishes a historical pattern of unchecked power, lack of transparency, and systemic failure within the Baldwin County Sheriff's Office (BCSO) and local legal structures (Judge Scully), providing the context for the subsequent systemic failures in child protection (DHR, GAL, Family Court) detailed in Article 1.
+
+      KEY ENTITIES:
+      Huey “Hoss” Mack (Baldwin County Sheriff)
+      Jonathan Victor (Deceased, May 2017)
+      Robert Yates (Deceased, March 5 2018)
+      William Cassady (U.S. District Court Judge)
+      Trip Pittman (State Senator)
+      Judge Scully
+      Tom Parker (Chief Justice)
+      Dennis Baily (Alabama Press Association Chief Legal Council)
+      Daphne Police Department (Detective Trey Kraynak, Case #230 700 147)
+      Baldwin County Department of Human Resources (DHR)
+      May 9, 2024 (Date of GAL meeting)
+      CASE #DR-2017-900956.03
+      Alta Pointe Health
+      Baldwin County, Alabama
+    llm_text: Sheriff Huey Mack's BCSO shot Jonathan Victor and Robert Yates, yet the office lacks necessary de-escalation training. Despite $65M+ in funding, Mack's office restricts public records, revealing unchecked power and systemic failure in Baldwin County.
+    widget_date: "2023-11-20"
+    generated_at: "2026-11-06T14:32:03.711130Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  moma-bear:
+    brief: |-
+      THE CONFLICT: Judge Michelle Thomason is criticized for allegedly telling attorneys in Baldwin County Family Court, "Your Honor she is crazy" (2023).
+      THE DISCOVERY: Article 2 highlights judicial injustice where victimized women are scrutinized and judged, framing maternal instinct as a natural, non-logical defense against judicial oppression.
+      THE PIVOT: Article 2 provides historical context of alleged judicial bias and mistreatment within the Baldwin County Family Court system, linking to the current case where the GAL exhibited troubling behavior and the father's case was dismissed by the presiding judge (CASE #DR-2017-900956.03).
+      KEY ENTITIES: Judge Michelle Thomason, Nancy R. Koerner, Baldwin County Family Court, Concerned Father, Detective Trey Kraynak (Daphne Police Department), Daphne Police Department, Loxley Police Department, DHR, Baldwin County Sheriff Department, Baldwin County Child Advocacy Center, GAL, CASE #230 700 147, CASE #DR-2017-900956.03, January 10, 2024, May 9, 2024.
+    llm_text: 'Judge Michelle Thomason allegedly told Baldwin County Family Court attorneys, "Your Honor she is crazy." Discover how this judicial bias impacted the Concerned Father in CASE #DR-2017-900956.03 and why women face scrutiny within the system.'
+    widget_date: "2023-07-12"
+    generated_at: "2026-11-06T14:33:07.318679Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

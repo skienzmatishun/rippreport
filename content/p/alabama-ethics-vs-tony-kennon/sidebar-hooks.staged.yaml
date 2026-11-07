@@ -1,97 +1,102 @@
 metadata:
-  generated_at: "2026-11-05T19:31:20.441227Z"
+  generated_at: "2026-11-06T06:15:50.150969Z"
   generator_version: 1.0.0
   post_slug: alabama-ethics-vs-tony-kennon
   main_date: "2026-06-21"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  primary-postpartum:
+    brief: |-
+      THE CONFLICT: Harry Still, Baldwin County Attorney, was subjected to slander by City of Orange Beach Officials during his arrest following an assault by Bay Minette City Councilman Matt Franklin. At the same time, Tony Kennon faced documented ethics problems in Orange Beach.
+
+      THE DISCOVERY: The Widget Article revealed the immediate local conflict (slander, assault) between Orange Beach officials and Harry Still, establishing a pattern of official misconduct in Orange Beach (e.g., Prichard Cops corruption).
+
+      THE PIVOT: The Widget Article demonstrates that the conflict between Orange Beach officials and critics like Harry Still is historical, providing context for the Main Article's report that Harry Still initiated major legal actions (writ of Mandamus, complaints) against the Mayor's administration (Kennon) nearly five years ago, setting the stage for the current scrutiny of Kennon and the Mabel Amos Trust scandal involving Tom Albritton.
+
+      KEY ENTITIES:
+      Tony Kennon (Mayor, Orange Beach)
+      Harry Still (Baldwin County Attorney)
+      Tom Albritton (Former Ethics Director, Trustee of Mabel Amos Trust)
+      Katherine Robertson (Chief Counsel, potential AG candidate)
+      Greg Pappas (Ethics Commission Member)
+      George Pierce (Ethics Commission Member)
+      David Pruet (Ethics Commission Member)
+      Mabel Amos Memorial Fund/Trust
+      Alabama Ethics Commission
+      Alabama Bar
+      Byron B Mathews
+      Steve Marshall
+      Jay Mitchell
+      Matt Franklin
+      Orange Beach, Alabama
+      Regions Bank
+    llm_text: Orange Beach officials slandered Harry Still after the Matt Franklin assault. Still has fought Mayor Tony Kennon for five years over ethics, now scrutinizing the Mabel Amos Trust scandal.
+    widget_date: "2026-06-20"
+    generated_at: "2026-11-06T06:11:49.666230Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scum-bag:
+    brief: |-
+      THE CONFLICT:
+      James Pittman (Baldwin County Attorney) used his role on the Baldwin Judicial Commission (headed by Judge Clark Stankoski) to influence judicial appointments (Judge Brackin). Pittman engaged in financial fraud, attempting to coerce payment from Mediacom regarding a SERVPRO bill of $35,106.38, and targeted an elderly woman's property. His brother, Tripp Pittman, self-dealt approximately $750,000 from BP funds.
+
+      THE DISCOVERY:
+      Article 2 revealed how powerful attorneys can manipulate the legal system, judicial appointments, and financial rules (e.g., LLC formation) for self-enrichment while avoiding accountability.
+
+      THE PIVOT:
+      Article 2 establishes a historical pattern of systemic legal and judicial corruption in Alabama, demonstrating that powerful attorneys exploit the system for personal gain. This context explains why the Alabama Bar, Attorney General, and Ethics Commission failed to hold Tom Albritton accountable for the Mabel Amos Trust fraud ($120,000.00), allowing Mayor Tony Kennon to evade ethics complaints despite mounting scrutiny.
+
+      KEY ENTITIES:
+      Tony Kennon (Mayor, Orange Beach), Tom Albritton (Ethics Director), Mabel Amos Trust, Greg Pappas, George Pierce, David Pruet (Ethics Commission members), James Pittman (Baldwin County Attorney), Tripp Pittman, Clark Stankoski, Judge Brackin, Katherine Robertson, Harry Still.
+    llm_text: Baldwin County Attorney James Pittman used judicial power to influence Judge Brackin and swindled $750,000 from BP funds. Powerful attorneys exploit Alabama's legal system—a pattern that shielded Tony Kennon and Tom Albritton from accountability.
+    widget_date: "2026-06-19"
+    generated_at: "2026-11-06T06:13:28.122994Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   scumbag:
     brief: |-
-      THE CONFLICT: Three members of the City of Orange Beach council filed a formal ethics complaint against Mayor Tony Kennon (alleging conflicts of interest, improper influence, threats, and transparency failures).
-      THE DISCOVERY: Tom Albritton, the Ethics Director, skimmed $120,000.00 from the Mabel Amos Memorial Fund.
-      THE PIVOT: Article 2 establishes that the Ethics Director, Tom Albritton, was engaged in self-dealing, highlighting the systemic corruption that allowed the Ethics Commission to fail in its duty and dismiss complaints (like those against Kennon).
-      KEY ENTITIES: Tony Kennon, Tom Albritton, Mabel Amos Memorial Fund, Greg Pappas, George Pierce, David Pruet, Harry Still, Alabama Ethics Commission.
+      THE CONFLICT:
+      Tom Albritton, the Alabama Ethics Director, was accused of fraud and self-dealing from the Mabel Amos Memorial Fund (a children’s scholarship trust).
+      This alleged theft from children's scholarships occurred prior to the reporting timeframe (approx. 5 years ago).
+      The Ripp Report, represented by Attorney Harry Still, filed a writ of Mandamus, an Alabama Bar Complaint, a complaint to the Attorney General, and a direct Ethics Complaint.
+      Albritton was ultimately forced out of his position as trustee of Mabel Amos Memorial Fund via court action.
+
+      THE DISCOVERY:
+      Article 2 established that state institutions (Attorney General, Ethics Commission, Alabama Bar) failed to adequately hold Albritton accountable, despite the fraud allegations.
+      It also named local state politicians (Chris Elliott, Matt Simpson, Greg Albritton) who turned a blind eye to Albritton's actions.
+      The case led to Allen Dodd being appointed Deputy Alabama Attorney General.
+
+      THE PIVOT:
+      Article 2 demonstrates a historical pattern of institutional failure and corruption within Alabama's state government (AG, Ethics Commission, Bar) to protect corrupt officials.
+      This established pattern of protective failure provides context for Article 1, where the Ethics Commission is criticized for failing to act on a formal ethics complaint against Mayor Tony Kennon regarding conflicts of interest, improper influence, and threats.
+
+      KEY ENTITIES:
+      Tony Kennon (Orange Beach Mayor)
+      Tom Albritton (former Ethics Director/Trustee)
+      Harry Still (Attorney for The Ripp Report)
+      Mabel Amos Memorial Fund
+      Greg Pappas (Ethics Commission Member)
+      George Pierce (Ethics Commission Member)
+      David Pruet (Ethics Commission Member)
+      Katherine Robertson (Chief Counsel/AG candidate)
+      Steve Marshall (Governor)
+      Allen Dodd (Deputy Alabama Attorney General)
+      Byron B Mathews (Attorney)
+      Ashby Pate (Attorney)
+      Clifton (Individual involved in trust/insurance claims)
+      Orange Beach (Location)
+      Alabama Bar
+      Ethics Commission
+      Alabama Attorney General's Office
+    llm_text: Tom Albritton's alleged fraud against the Mabel Amos Memorial Fund exposed deep institutional rot. See how this pattern of failure links to the Ethics Commission ignoring Mayor Tony Kennon.
     widget_date: "2026-04-29"
-    generated_at: "2026-11-05T19:31:20.437278Z"
+    generated_at: "2026-11-06T06:14:26.232708Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  alabama-ag:
+  fire-albritton:
     brief: |-
-      THE CONFLICT: Three members of the City of Orange Beach council filed a formal ethics complaint against Mayor Tony Kennon (alleging conflicts of interest, improper influence, threats, and transparency failures).
-      THE DISCOVERY: Katherine Robertson defeated Jay Mitchell in the Republican runoff to become a candidate for Attorney General, while a federal probe continues regarding the AG's Office, Ethics Commission, and Regions Bank.
-      THE PIVOT: Article 2 updates the political fallout, showing that despite Albritton's alleged fleecing of the Mabel Amos Trust, the corruption issues were not debated during Katherine Robertson's successful run for AG.
-      KEY ENTITIES: Tony Kennon, Katherine Robertson, Tom Albritton, Steve Marshall, Alabama Ethics Commission, Regions Bank, Jay Mitchell.
-    widget_date: "2026-11-05"
-    generated_at: "2026-11-05T19:31:20.437278Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  deaf-ears:
-    brief: |-
-      THE CONFLICT: Three members of the City of Orange Beach council filed a formal ethics complaint against Mayor Tony Kennon (alleging conflicts of interest, improper influence, threats, and transparency failures).
-      THE DISCOVERY: Steve Marshall filed a complaint in Sept. 2022 against Ethics Commission Executive Director Tom Albritton, noting Albritton remained the director despite his $120,000.00 self-dealing from the Mabel Amos Trust.
-      THE PIVOT: Article 2 details specific attempts by The Ripp Report (represented by Harry Still) to hold Albritton accountable, revealing that Albritton's self-dealing (Mabel Amos Trust) was the basis of the complaints against the Ethics Commission's inaction.
-      KEY ENTITIES: Tony Kennon, Tom Albritton, Steve Marshall, Mabel Amos Trust, Harry Still, Hoss Mack, Murray Lawrence Jr, Alabama Ethics Commission.
-    widget_date: "2024-01-21"
-    generated_at: "2026-11-05T19:31:20.437278Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  alabama-black-hole:
-    brief: |-
-      THE CONFLICT: Three members of the City of Orange Beach council filed a formal ethics complaint against Mayor Tony Kennon (alleging conflicts of interest, improper influence, threats, and transparency failures).
-      THE DISCOVERY: The Ripp Report filed complaints against the Ethics Commission (July 16 2021), which were ignored or dismissed, leading to a Writ of Mandamus attempt.
-      THE PIVOT: Article 2 provides the timeline (Lagniappe broke story almost 5 years ago; complaints filed July 16 2021) detailing the systemic failure of the state agencies to investigate Albritton's self-dealing from the Mabel Amos Trust.
-      KEY ENTITIES: Tony Kennon, Tom Albritton, Mabel Amos Trust, Harry Still, Clark Morris (Alabama AG), Regions Bank, Steve Marshall.
-    widget_date: "2022-10-21"
-    generated_at: "2026-11-05T19:31:20.437278Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  dirty-underwear:
-    brief: |-
-      THE CONFLICT: Three members of the City of Orange Beach council filed a formal ethics complaint against Mayor Tony Kennon (alleging conflicts of interest, improper influence, threats, and transparency failures).
-      THE DISCOVERY: The Ethics Commission, Alabama Bar, and Attorney General all allegedly protect each other and politicians, allowing Tom Albritton to keep $120,000.00 from the Mabel Amos Trust despite being forced out as trustee.
-      THE PIVOT: Article 2 elaborates on the extent of the institutional failure, noting that Albritton, who was confirmed in March 2015, received $105,000 in scholarships for his children between 2014 and 2018, demonstrating institutional complicity.
-      KEY ENTITIES: Tony Kennon, Tom Albritton, Mabel Amos Trust, Alabama Ethics Commission, Alabama Bar, Attorney General, Cynthia Raulston.
-    widget_date: "2022-07-01"
-    generated_at: "2026-11-05T19:31:20.437278Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  license-to-steal:
-    brief: |-
-      THE CONFLICT: Three members of the City of Orange Beach council filed a formal ethics complaint against Mayor Tony Kennon (alleging conflicts of interest, improper influence, threats, and transparency failures).
-      THE DISCOVERY: Steve Marshall stated the AG's office had not responded to a complaint delivered in Montgomery regarding a Fairhope councilman's self-enrichment, reinforcing the Ethics Commission's lack of accountability.
-      THE PIVOT: Article 2 provides real-world examples of institutional failure (Fairhope councilman, lack of AG response) that corroborate the claim that the Ethics Commission provides immunity, exemplified by Albritton's $120,000.00 trust theft.
-      KEY ENTITIES: Tony Kennon, Tom Albritton, Steve Marshall, Mabel Amos Trust, Clark Morris, Fairhope, Alabama Ethics Commission.
-    widget_date: "2021-07-28"
-    generated_at: "2026-11-05T19:31:20.437278Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  letter-to-the-alabama-attorney-general:
-    brief: |-
-      THE CONFLICT: Three members of the City of Orange Beach council filed a formal ethics complaint against Mayor Tony Kennon (alleging conflicts of interest, improper influence, threats, and transparency failures).
-      THE DISCOVERY: The Ripp Report sent a specific complaint against Tom Albritton to the Alabama Attorney General (Clark Morris), detailing his self-dealing, IRS code violations, and his role as one of three trustees of the Mabel Amos Memorial Fund, which paid $105,000 to his daughters (2014-2018).
-      THE PIVOT: Article 2 provides the direct evidence (scholarship amounts, IRS violations, trust structure) supporting the core corruption claim against Albritton, which was then sent to the AG's office for review.
-      KEY ENTITIES: Tony Kennon, Tom Albritton, Mabel Amos Memorial Fund, Francis Paul Ripp, Clark Morris, Harry Still.
-    widget_date: "2021-07-16"
-    generated_at: "2026-11-05T19:31:20.437278Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  alabama-ethics-self-dealing-immunity:
-    brief: |-
-      THE CONFLICT: Three members of the City of Orange Beach council filed a formal ethics complaint against Mayor Tony Kennon (alleging conflicts of interest, improper influence, threats, and transparency failures).
-      THE DISCOVERY: The Ripp Report documented numerous past cases (e.g., BP Oil Spill, State Senator boom boom Pittman skimming $750,000.00) where the Ethics Commission found nothing wrong, effectively granting immunity.
-      THE PIVOT: Article 2 establishes a pattern of systemic corruption—not just Albritton's self-dealing—proving the Ethics Commission functions as a tool to grant immunity to politicians like Pittman, confirming the core thesis of institutional failure.
-      KEY ENTITIES: Tony Kennon, Tom Albritton, Mabel Amos Trust, BP Oil Spill, State Senator boom boom Pittman, Regions Bank, Alabama Ethics Commission.
-    widget_date: "2021-07-02"
-    generated_at: "2026-11-05T19:31:20.437278Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  alabama-ethics-a-political-tool:
-    brief: |-
-      THE CONFLICT: Three members of the City of Orange Beach council filed a formal ethics complaint against Mayor Tony Kennon (alleging conflicts of interest, improper influence, threats, and transparency failures).
-      THE DISCOVERY: Jack Burrell (Fairhope Airport Authority board member) and State Senator Tripp Pittman faced ethics complaints but were cleared, while the City Council turned a blind eye, showing the Ethics Commission's failure in Baldwin County.
-      THE PIVOT: Article 2 broadens the scope of corruption beyond Albritton to include political figures (Pittman, Ray Hix) using the Ethics Commission as a defense, demonstrating it is a political tool, not a regulatory body.
-      KEY ENTITIES: Tony Kennon, Tom Albritton, Mabel Amos Trust, Jack Burrell, Tripp Pittman, Fairhope, Luther Strange, Alabama Ethics Commission.
-    widget_date: "2017-08-02"
-    generated_at: "2026-11-05T19:31:20.437278Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  POSTER-BOY-of-CORRUPTION:
-    brief: |-
-      THE CONFLICT: Three members of the City of Orange Beach council filed a formal ethics complaint against Mayor Tony Kennon (alleging conflicts of interest, improper influence, threats, and transparency failures).
-      THE DISCOVERY: The poster identifies Tom Albritton as the "Boy of Corruption," noting that he remains employed by the Ethics Commission with a salary over $100,000 while being accused of self-dealing from the Mabel Amos Trust.
-      THE PIVOT: Article 2 emphasizes the hypocrisy—Albritton, the Ethics Director, advocates against changes to Ethics Rules while simultaneously benefiting from the trust, solidifying his status as the central figure of state corruption.
-      KEY ENTITIES: Tony Kennon, Tom Albritton, Mabel Amos Trust, Alabama Ethics Commission, Representative Matt Simpson, Alabama Bar, Attorney General.
-    widget_date: "2024-03-13"
-    generated_at: "2026-11-05T19:31:20.437278Z"
+      THE CONFLICT: Tom Albritton, Executive Director of the Alabama Ethics Commission, managed the Mabel Amos Trust, leading to millions of dollars unaccountable and documented unethical behavior in relation to the Trust.
+      THE DISCOVERY: Albritton used scholarships and donations from the Mabel Amos Trust as a "blackmail card" to maintain his position, while remaining in office with a salary over $100,000 despite allegations of fraud.
+      THE PIVOT: Article 2 establishes the historical corruption and systemic failure (AG, Alabama Bar, Ethics Commission protection) surrounding Albritton, providing the context for Article 1's claim that the Alabama ethics complaint system is corrupt and ineffective against figures like Mayor Tony Kennon.
+      KEY ENTITIES: Tom Albritton, Mabel Amos Trust, Alabama Ethics Commission, Tony Kennon, Harry Still, Katherine Robertson, Greg Pappas, George Pierce, David Pruet, Alabama Bar, Attorney General
+    llm_text: Tom Albritton managed the Mabel Amos Trust, leaving millions unaccountable and using trust funds as a "blackmail card" while earning over $100,000. This scandal exposes how the Alabama Ethics Commission protects figures like Mayor Tony Kennon, proving the state's ethics system is corrupt.
+    widget_date: "2024-11-03"
+    generated_at: "2026-11-06T06:15:37.905761Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

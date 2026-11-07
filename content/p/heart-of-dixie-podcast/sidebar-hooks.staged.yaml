@@ -1,0 +1,77 @@
+metadata:
+  generated_at: "2026-11-06T11:12:07.237257Z"
+  generator_version: 1.0.0
+  post_slug: heart-of-dixie-podcast
+  main_date: "2025-11-21"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fauxhope-4:
+    brief: |-
+      THE CONFLICT: Systemic local government corruption and developer favoritism occurred in Fairhope, including the clearance of a 6'2" live oak on Parker Road, the construction of Publix (clear cut of the city right of way), the development of "signature" apartments that flooded, and a corrupt side deal involving Councilman Boone Brown and Jack Burrell for recreation land purchased rapidly.
+      THE DISCOVERY: Article 2 reveals a history of developer control over the Fairhope City Council and Mayor, evidenced by a waterfront project ballooning from $6.2 Million to $10 Million (5.5 years late) and low voter participation (12% in the last election).
+      THE PIVOT: The historical pattern of developer-friendly, opaque local governance (Article 2) provides the context for the recent incident (Article 1) where Bay Minette City Councilman Matthew Franklin's claims led to Harry Still’s arrest, incarceration, and attempted involuntary commitment, compounded by Sheriff Anthony Lowery directing deputies to pre-target Still, suggesting viewpoint-based policing against political transparency.
+      KEY ENTITIES: Harry Still, Matthew Franklin, Sheriff Anthony Lowery, Whitney Scapecchi, Francis Paul Ripp, Brandon Moseley, Brown G Linder III PE Esq, BCSO, Bay Minette City Council, Boone Brown, Jack Burrell, Publix, Fairhope City Council, Mayor (Fairhope).
+    llm_text: Fairhope’s opaque governance, marked by Councilman Boone Brown deals and Publix development, is not an isolated issue. Discover how Sheriff Anthony Lowery targeted Matthew Franklin and Harry Still after they pushed for local political transparency.
+    widget_date: "2025-11-14"
+    generated_at: "2026-11-06T11:08:30.344173Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bcso-culture:
+    brief: |-
+      THE CONFLICT:
+      1. 2017 fatal shooting of Jonathan Victor by Deputy Lt. Matthew Hunady in Baldwin County.
+      2. Wrongful conviction of Murray Lawrence Jr. led by Lowery; exculpatory evidence allegedly hidden by Hoss Mack, Robert Wilters, and David Whetstone.
+      3. Stephen Nodine murder trial was allegedly a political hit piece orchestrated by Mack and Lowery.
+      4. OJ French was killed in Bay Minette (a confidential informant for BCSO) and initially ruled a "justified shooting."
+      5. Peyton Little died in a deadly interstate crash.
+      6. Harry Still was arrested and attempted involuntary commitment by Bay Minette City Councilman Matthew Franklin.
+
+      THE DISCOVERY:
+      1. BCSO has developed a culture characterized by lies, wrongful incarceration, deadly shootings, blanket immunity, no transparency, and no accountability (as stated by Anthony Lowery and anonymous deputies).
+
+      THE PIVOT:
+      1. Article 2 establishes a history of institutional cover-up, lack of accountability (e.g., Victor case ruled justified, Nodine/Lawrence Jr. cases), and political targeting under BCSO leadership (Anthony Lowery/Hoss Mack).
+      2. This historical context supports the claim in Article 1 that Sheriff Anthony Lowery directed deputies to pre-target attorney Harry Still at a Republican event, constituting potential viewpoint-based policing and First Amendment retaliation.
+
+      KEY ENTITIES:
+      1. Anthony Lowery (Baldwin County Sheriff)
+      2. Harry Still
+      3. Matt Franklin (Bay Minette City Councilman)
+      4. BCSO (Baldwin County Sheriff Department)
+      5. Hoss Mack (Judge/BCSO)
+      6. Matthew Hunady (Deputy Lt.)
+      7. Murray Lawrence Jr.
+      8. Stephen Nodine
+      9. Johnathan Victor (killed 2017)
+      10. OJ French
+      11. Peyton Little
+      12. Robert Wilters
+      13. David Whetstone
+      14. Whitney Scapecchi
+      15. Francis Paul Ripp
+      16. Brandon Moseley
+      17. Brown G Linder III PE Esq
+      18. Matt McKenzie
+    llm_text: Anthony Lowery's BCSO fostered lies and wrongful convictions, from the 2017 Jonathan Victor shooting to Murray Lawrence Jr.'s conviction. Learn how Lowery allegedly directed deputies to target Harry Still, exposing institutional corruption and First Amendment retaliation.
+    widget_date: "2025-10-05"
+    generated_at: "2026-11-06T11:09:41.995631Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  threesome:
+    brief: |-
+      THE CONFLICT: Systemic corruption involving elected officials (Mayors, Judges, Municipal Attorneys) across Baldwin County municipalities (Spanish Fort, Summerdale, Fairhope) using the legal system to conceal issues, demonstrated by 2019/2020 data.
+      THE DISCOVERY: Elected officials in Baldwin County (e.g., Mayor David Wilson, Municipal Judge Robert Stankowski, City Attorney David Conner) are implicated in misconduct like speed traps (Summerdale) and sham trials, often relying on insurance payments rather than city funds.
+      THE PIVOT: Article 2 establishes a pattern of abuse of legal/governmental power by local officials in Baldwin County, providing systemic context for the specific incident in Article 1, where BCSO Sheriff Anthony Lowery allegedly directed deputies to pre-target attorney Harry Still based on the word of Bay Minette City Councilman Matthew Franklin, suggesting viewpoint-based policing within a culture of official misconduct.
+      KEY ENTITIES: Harry Still, Matt Franklin, Whitney Scapecchi, Francis Paul Ripp, Brandon Moseley, Brown G Linder III PE Esq, BCSO, Bay Minette, Sheriff Anthony Lowery, David Conner (Spanish Fort City Attorney), Lyndsey Cooper, David Wilson (Summerdale Mayor), Robert Stankowski (Summerdale Municipal Judge), Spencer Davis (Summerdale Municipal Attorney), Jack Burrell, Spanish Fort, Summerdale, Fairhope (Fauxhope), Baldwin County.
+    llm_text: Baldwin County officials like Mayor David Wilson and Judge Robert Stankowski run systemic corruption using the legal system. Read how local power abuse extends from Summerdale speed traps to viewpoint-based policing involving Sheriff Anthony Lowery.
+    widget_date: "2022-02-25"
+    generated_at: "2026-11-06T11:10:51.835983Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-open-letter-to-baldwin-county-district-attorney:
+    brief: |-
+      THE CONFLICT: Allegations of corruption and undue influence in Fairhope involving City Councilman Kevin Boone, Fairhope Mayor Wilson, and influence over Baldwin County District Attorney Robert Wilters (documented 2016-2018).
+      THE DISCOVERY: The existence of a group called "Catalyst" allegedly operating as a shadow government attempting to obstruct and unseat elected officials in Fairhope.
+      THE PIVOT: The historical pattern of political maneuvering and institutional corruption (Catalyst influence, improper DA support) detailed in the older article provides context for the current incident where Bay Minette City Councilman Matthew Franklin utilized his position to target Harry Still, and BCSO Sheriff Anthony Lowery directed viewpoint-based policing against Still.
+      KEY ENTITIES: Robert Wilters, Kevin Boone, Scott Boone, Mayor Wilson (Fairhope), Harry D’Olive, Catalyst, Harry Still, Matthew Franklin, Anthony Lowery, Whitney Scapecchi, Francis Paul Ripp, Brandon Moseley, Brown G Linder III PE Esq, BCSO.
+    llm_text: The shadowy "Catalyst" group allegedly influenced Fairhope officials like Kevin Boone and Mayor Wilson, even impacting DA Robert Wilters (2016-2018). Understand this history to see why Matthew Franklin targets Harry Still and BCSO Sheriff Anthony Lowery polices viewpoint.
+    widget_date: "2018-08-10"
+    generated_at: "2026-11-06T11:11:50.225711Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

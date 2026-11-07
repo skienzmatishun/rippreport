@@ -1,5 +1,5 @@
 post_slug: pandoras-box
-generated: 2026-11-05T11:34:02.979443-06:00
+generated: 2026-11-05T21:14:57.231897-06:00
 articles:
   - slug: gob-coup
     title: GOB COUP
@@ -9,23 +9,23 @@ articles:
     title: 'BOYCOTT: The Gas Station on the New Roundabout'
     score: 100
     rank: 2
-  - slug: elected-or-selected
-    title: ELECTED OR SELECTED
-    score: 91
-    rank: 3
   - slug: fairness
     title: FAIRNESS
     score: 50
-    rank: 4
+    rank: 3
   - slug: community-or-developer
     title: COMMUNITY OR DEVELOPER
     score: 50
-    rank: 5
+    rank: 4
   - slug: beavis-and-butthead
     title: RUDE, CRUDE, AND SOCIABLY UNACCEPTABLE
     score: 50
-    rank: 6
+    rank: 5
   - slug: balls
     title: BALLS
+    score: 50
+    rank: 6
+  - slug: selective-memory
+    title: Selective Memory
     score: 50
     rank: 7

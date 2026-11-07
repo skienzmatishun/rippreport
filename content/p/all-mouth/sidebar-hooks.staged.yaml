@@ -1,0 +1,214 @@
+metadata:
+  generated_at: "2026-11-06T19:45:36.964207Z"
+  generator_version: 1.0.0
+  post_slug: all-mouth
+  main_date: "2023-05-25"
+  model_name: gemini-3.5-flash-lite
+hooks:
+  i-see-you:
+    brief: "THE CONFLICT: \n- In 2013, instead of building a new sewer plant for approximately $20 million, Councilman Jack Burrell led the charge to upgrade the failing wastewater treatment plant. \n- The council initially approved $10 million for upgrades, which ballooned to $13 million by completion, and a comprehensive upgrade was completed in 2015 for $12 million.\n- On Wednesday, September 21, 2022, a public comment noted that Mayor Sullivan was appointed as Utilities Superintendent to boost her salary to over $100K, resulting in a \"double-dipping\" mayor with access to the utility fund despite having no utility management experience.\n- The city council subsequently voted themselves a full family insurance package valued at $17,000 a year, alongside a non-budgeted $2.65 million land purchase near the airport, leading to delayed city budgets, potential police and employee cuts, and stalled infrastructure/sewer repairs.\n\nTHE DISCOVERY: \n- The historical context (Article 2) shows a pattern of the Fairhope City Council operating without public discussion or adequate transparency, rubber-stamping controversial agenda items (such as the May 22, 2023 City Council agenda).\n- It exposed questionable appointments, such as Haymes Snedeker—described as the largest developer in Fairhope—being appointed as Municipal Judge by the same City Council that must approve his development projects and infrastructure needs.\n- It revealed costly municipal spending projects, such as the Fairhope Clock Plaza project awarded to RH Deas Building Co., LLC for $282,211.00 (pushing past-failure costs over $600,000), and the unnotified procurement of Intelligence-Led Policing Sensor Kits (tag reader/video program) from ProTecVideo, LLC for $20,000.\n- It documented taxpayer-funded infrastructure being rushed to support commercial developments like ALDI and east-side projects managed by developers and city insiders.\n\nTHE PIVOT: \n- Article 2 serves as the \"smoking gun\" because it exposes the direct mechanics of the municipal corruption and developer favoritism that Article 1 critiques. \n- While Article 1 outlines Councilman Jack Burrell's current public posturing and shifting blame regarding the failing Fairhope sewer system, Article 2 provides the tangible evidence of the council's actual operations—such as insider appointments (developer-judge Haymes Snedeker), unvetted surveillance spending, and a developer-friendly agenda—proving that Burrell and the council are actively prioritizing unchecked, developer-driven growth while hiding behind misleading public statements and manufactured crises.\n\nKEY ENTITIES: \n- Jack Burrell (Councilman)\n- Mayor Sullivan (Mayor / Utilities Superintendent)\n- Mayor Wilson (Former Mayor)\n- Haymes Snedeker (Municipal Judge / Developer)\n- Jody W. Bishop (Circuit Judge, 28th Judicial Circuit)\n- RH Deas Building Co., LLC\n- ProTecVideo, LLC\n- ALDI\n- Fairhope City Council\n- Fairhope Police Department"
+    llm_text: While Councilman Jack Burrell blames Fairhope’s failing sewers on everyone else, leaked records expose a shadow agenda of developer favoritism and insider cash grabs. Read the smoking-gun evidence proving how Burrell and the council prioritize private growth over public infrastructure.
+    widget_date: "2023-05-23"
+    generated_at: "2026-11-06T19:43:48.097882Z"
+    model_name: gemini-3.5-flash-lite
+  bad-faith:
+    brief: |-
+      THE CONFLICT:
+      - Fauxhope/Fairhope sewer issue.
+      - Councilman Jack Burrell, long-term Fauxhope council member and mouthpiece, expressed purported concern about Fauxhope sewer.
+      - In 2013, instead of building new sewer plant for around $20 million, Burrell led charge to upgrade failing sewer plant.
+      - Council approved $10 million for upgrades, ballooned to $13 million by completion.
+      - Proposal to replace head works at city’s wastewater treatment plant at north end of Church Street met cool reception from some council members due to $5 million estimated price tag.
+      - Councilman Burrell told Times cost seemed very high considering comprehensive upgrade to entire plant completed in 2015 cost only $12 million.
+      - Sewer upgrade should meet needs of city for next 15 years; new sewer plant may need to be constructed on city-owned land south of airport.
+      - Burrell at public B.S. podium again expressing “concocted” concern for citizens’ money.
+      - Burrell responsible for problem; B.S. depends on ignorance of voters and lack of information council provides taxpayer.
+
+      THE DISCOVERY:
+      - Article 2, Backstory Podcast No. 156, “Bad Faith”: From The FBI to The Alabama Legislature and the United States Congress and even City of Dothan Alabama, this week detailed Bad Faith exhibited by governments at all levels.
+      - Article 2 covered whistleblower harassments, Debt Ceiling debate, Space Command being stripped from Alabama, ALDOT Bridge onto Pleasure Island, “Hive of Scum and Villainy” Obi Wan warning, Hangout Fest kicked off at 3pm.
+      - Article 2 is older than Article 1; frame as background/historical context.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun or key context for Article 1.
+      - Article 2’s bad faith coverage connects to Main Article’s local sewer, council, mayor, utilities, budget, and whistleblower issues.
+
+      THE KEY ENTITIES:
+      - Jack Burrell
+      - Mayor Sullivan
+      - Mayor Wilson
+      - Fauxhope City Council
+      - Fairhope City Council
+      - Fairhope Times
+      - Fairhope Utilities Superintendent
+      - Utilities Superintendent position assigned to Mayor
+      - Fairhope sewer plant / wastewater treatment plant at north end of Church Street
+      - Fauxhope sewer
+      - Baldwin County Bridge / ALDOT Bridge onto Pleasure Island
+      - Pleasure Island
+      - Gulf Shores
+      - Hangout Fest
+      - FBI
+      - Alabama Legislature
+      - United States Congress
+      - City of Dothan, Alabama
+      - Whistleblower harassments
+      - Debt Ceiling debate
+      - Space Command
+      - Alabama
+      - Lowery
+      - Wilters
+      - $20 million
+      - $10 million
+      - $13 million
+      - $5 million
+      - $12 million
+      - $2.65 million
+      - $17,000
+      - $100K
+      - May 10, 2023
+      - Wednesday, September 21, 2022
+      - 2013
+      - 2015
+      - 3pm
+      - 15 years
+    llm_text: Councilman Jack Burrell spent a decade pushing a sewer upgrade that ballooned from $10 million to $13 million. Now he's parroting "concocted" concerns — but the Bad Faith podcast just exposed how governments fake outrage for years.
+    widget_date: "2023-05-20"
+    generated_at: "2026-11-06T19:44:27.318495Z"
+    model_name: recursive/flint-v1.0:free
+  fauxhope-tunnel:
+    brief: |-
+      THE CONFLICT:
+      City lost two decade lawsuit regarding the triangle property, paying $8.25 million settlement; spent $3 million on legal fees; on May 29th, council considered conservation easement on 102 acres valued at $20 million while proposing to buy $2.65 million of property on HWY 13 near the Airport.
+      THE DISCOVERY:
+      Councilman Jack Burrell led charge against 2013 plan to build new sewer plant (~$20 million); council approved $10 million upgrade, ballooned to $13 million by completion; upgrade completed 2015.
+      THE PIVOT:
+      Article 2 establishes Burrell/council supported the losing lawsuit over the triangle property and the $2.65M land purchase by the Airport, which relates to the land Burrell is later noted to have "plans for" in the Main Article.
+      KEY ENTITIES:
+      Jack Burrell
+      Mayor Sullivan
+      Mayor Wilson
+      Council
+      Triangle
+      Fairhope
+      Scott Hutchinson
+      Goodwyn, Mills and Cawood
+      Robinson
+      Martin
+      City Attorney
+      Municipal Judge
+      Burrell
+      Boone
+    llm_text: Jack Burrell backed the losing $8.25 million Triangle lawsuit and the $2.65M Airport land buy. See how this connects to his current plans for that valuable property.
+    widget_date: "2023-05-09"
+    generated_at: "2026-11-06T19:43:49.557647Z"
+    model_name: plugsky-lite
+  mouthpiece:
+    brief: |-
+      THE CONFLICT: Jack Burrell, who has been on the council for 10 years, initially promised no federal money and no tolls regarding the Toll Bridge/Bayway project (Widget Article).
+      THE DISCOVERY: Burrell actively promoted increased population and supported tolls/development, despite existing infrastructure being 10 years behind and sewage issues in the bay (Widget Article).
+      THE PIVOT: Burrell's historical focus on supporting tolls and rapid development (Article 2) provides context for the current infrastructure failures, including the failing Fauxhope sewer system and budget delays (2013/2015) detailed in Article 1, showing a pattern of prioritizing development over city maintenance.
+      KEY ENTITIES: Jack Burrell, Fauxhope, Baldwin County, Mayor Sullivan, Mayor Wilson, Council
+    llm_text: Jack Burrell promised no tolls for the Toll Bridge/Bayway project, yet he now actively supports development and increased population. This pattern prioritizes growth over city care, ignoring Fauxhope's critical sewer system failures.
+    widget_date: "2022-08-20"
+    generated_at: "2026-11-06T19:44:21.618016Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stinking-ticking-time-bomb:
+    brief: |-
+      THE CONFLICT:
+      1. Baldwin County Sewer Service (BCSS) is a privately operated, unregulated sewer service in Alabama.
+      2. Mr. Clarence Burke, principle of BCSS, was involved in the "Straw-man case" with Delaney, a South Alabama lender, alleged to be a Ponzi scheme/defrauding Bass.
+      3. The civil trial involving Burke and Corte showed obligations were "hidden" by secret documents.
+      4. DR Horton assumed management of Bellaton Property Owners Association (BPOA) in 2012.
+      5. Fairhope has been a major contributor to Bay pollution for over 20 years.
+
+      THE DISCOVERY:
+      1. BCSS operates without regard for permits or penalties because it uses county right-of-ways free.
+      2. BCSS converts farmland into subdivisions, driving uncontrolled development sprawl.
+      3. Mr. Clarence Burke, head of BCSS, resides in Costa Rica, funded by Baldwin County residents.
+      4. BCSS is not a Baldwin County entity, despite misleading public perception.
+
+      THE PIVOT:
+      1. Article 2 establishes a long-term pattern of unregulated, private, profit-driven utility management (BCSS) and political connections among developers (Burke).
+      2. This context explains the recent council decisions (Article 1) that prioritize development (e.g., out-of-control development, 2.65 million land purchase south of the airport) over necessary infrastructure repairs (failing sewer plant, 2013/2015 upgrades).
+      3. Article 2 demonstrates that the underlying system (BCSS) is inherently designed to bypass regulation and prioritize profit, informing the current perceived failures in Fairhope's utility oversight (e.g., Mayor Sullivan's appointment).
+
+      KEY ENTITIES:
+      1. Clarence Burke (BCSS principal/developer)
+      2. Baldwin County Sewer Service (BCSS)
+      3. Fairhope
+      4. Mayor Sullivan
+      5. Councilman Jack Burrell
+      6. Delaney (South Alabama lender)
+      7. Bass
+      8. DR Horton
+      9. Bellaton Property Owners Association (BPOA)
+      10. Judge Jody Bishop
+      11. Little Lagoon Preservation Society (LLPS)
+      12. Gayfer Road roundabout (near CR 13)
+      13. Mayor Wilson
+      14. Baldwin County Planning and Zoning Department
+    llm_text: Clarence Burke, principal of the unregulated Baldwin County Sewer Service (BCSS), funds a Costa Rica life using Baldwin County residents' money. This private system drives uncontrolled Fairhope sprawl and pollutes local bays, proving profit overrides public health.
+    widget_date: "2022-08-12"
+    generated_at: "2026-11-06T19:45:20.076691Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-roller-coaster:
+    brief: |-
+      THE CONFLICT:
+      1. Fauxhope council made crucial decisions without public participation.
+      2. A waterfront project experienced design changes and delays over 18 months, resulting in estimated $6 million loss.
+      3. The council decided against an ADA compliant walkway, eventually proposing an open car on rails for handicapped transport.
+
+      THE DISCOVERY:
+      1. Article 2 (older) revealed the initial waterfront project delays and the decision to use an open car on rails as an alternative to an ADA compliant walkway.
+
+      THE PIVOT:
+      1. Article 2 establishes the council's pattern of prioritizing specific, questionable project decisions (like the open car concept) over standard planning and public input, setting context for subsequent financial and governance issues cited in Article 1 (e.g., infrastructure neglect, problematic appointments).
+
+      KEY ENTITIES:
+      1. Fauxhope
+      2. Mayor Sullivan
+      3. Mayor Wilson
+      4. Councilman Jack Burrell
+      5. Gayfer Road roundabout
+      6. CR 13
+      7. Fairhope Times
+      8. Utilities Superintendent
+    llm_text: Fauxhope council pushed through a $6M waterfront mess, ditching ADA for an open car on rails. See how Mayor Sullivan and Councilman Burrell prioritized questionable projects over public input.
+    widget_date: "2022-04-12"
+    generated_at: "2026-11-06T19:43:57.871295Z"
+    model_name: plugsky-lite
+  trolls-for-tolls:
+    brief: |-
+      THE CONFLICT:
+      * Bayway Bridge project financing and toll discussion occurred with politicians initially hesitant.
+      * Jim Zigler's Facebook page gathered over 50,000 "no tolls" responses, leading to Mobile and Baldwin MPOs unifying behind tolls.
+      * Jack Burrell stated a "toll-free route" was available due to lack of federal/state funds for the $2.2 billion bridge ($125M federal, $250M state commitment mentioned).
+      * David Peterson (Baldwin County Citizens For Government Accountability) referenced Pennsylvania Act 44 and DOT rejection of I-80 toll authorization, questioning Alabama's authorization for the Bay Bridge.
+
+      THE DISCOVERY:
+      * Article 1 (2022/2023 context) shows Councilman Jack Burrell is associated with failing infrastructure (sewer) and budget issues (2.65 million land purchase at airport), while promoting development despite these failures.
+      * Article 1 details the 2013 need for a $20 million sewer plant upgrade, approved at $10M, finishing at $13M.
+      * Article 1 notes Mayor Sullivan's appointment to head utilities to increase salary/access funds, despite lack of experience.
+
+      THE PIVOT:
+      * Article 2 establishes Burrell's history of political maneuvering (toll stance changes) and financial promotion for large projects (Bay Bridge $2.2B) rooted in resource gaps.
+      * This history of prioritizing large, complex, and possibly under-funded development/infrastructure (Bay Bridge tolls) provides context to Burrell's current actions in Article 1 (e.g., pushing sewer upgrades that ballooned costs, promoting development despite failing utilities/budget crises).
+
+      KEY ENTITIES:
+      * Jack Burrell
+      * Fauxhope
+      * Airport Authority
+      * Mayor Sullivan
+      * Mayor Wilson
+      * Jim Zigler
+      * Mobile and Baldwin MPO’s
+      * Jon Gray
+      * David Peterson
+      * ALDOT
+      * Council (Fauxhope)
+      * Church Street (wastewater plant location)
+    llm_text: Jim Zigler's 50K "no tolls" push couldn't stop the Bayway Bridge funding. See how Jack Burrell's past infrastructure failures tie into his current push for this $2.2B project.
+    widget_date: "2022-01-28"
+    generated_at: "2026-11-06T19:44:06.287439Z"
+    model_name: plugsky-lite

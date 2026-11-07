@@ -1,0 +1,158 @@
+metadata:
+  generated_at: "2026-11-06T22:53:09.769537Z"
+  generator_version: 1.0.0
+  post_slug: fauxhope-2
+  main_date: "2022-06-29"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  win-for-baldwin:
+    brief: |-
+      THE CONFLICT: Jerry Carl beat CATALYST’s Lowtower in the Republican House Race; Matt McKenzie won County Commission District 2 against the CATALYST candidate.
+      THE DISCOVERY: Baldwin County citizens rejected the CATALYST candidate in the primary and subsequent races, indicating a shift against CATALYST influence.
+      THE PIVOT: Article 2 establishes that the CATALYST party's influence and candidates (who supported the council criticized in Article 1) were rejected by voters, providing context to the claims in Article 1 that the council was supported and financed by CATALYST and developers.
+      KEY ENTITIES: Matt McKenzie, Jerry Carl, CATALYST, Scott Boone Consulting, Tim Kant, Cory Martin, Sherry Sullivan, Jack Burrell, Mayor (unnamed), Baldwin County Citizens For Government Accountability (CGA).
+    llm_text: Jerry Carl beat CATALYST's Lowtower and Matt McKenzie secured his commission district win. Baldwin County voters rejected CATALYST influence, refuting claims the local council was financed by the party.
+    widget_date: "2022-06-22"
+    generated_at: "2026-11-06T22:45:52.436034Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  primary-election-may-24th:
+    brief: |-
+      THE CONFLICT: Neglect of Fairhope infrastructure (electrical/water shortages) occurred during the Tim Kant administration (2000–2016) and continued through the Wilson administration (2016/2020), resulting in failed projects (e.g., bridge cost increase from $600M to $3B) and stalled development (denial of new wells).
+      THE DISCOVERY: Article 2 previews the May 24th Primary Election and highlights dissatisfaction with the status quo, citing criticism of Mayor Robert Craft in Gulf Shores regarding local issues (Hangout Fest/citizenry care).
+      THE PIVOT: Article 2 establishes the immediate political climate of voter discontent and a call for change (voting against the status quo) that provides the contemporary context for the historical failures and ongoing mismanagement detailed in Article 1 (e.g., Jack Burrell/Catalyst council).
+      KEY ENTITIES: Fairhope, Baldwin County, Tim Kant, Cory Martin, Sherry Sullivan, Jack Burrell, Mayor, CATALYST, Steve Marshall, Robert Craft.
+    llm_text: Fairhope suffered massive infrastructure neglect during the Tim Kant and Wilson administrations, spiking bridge costs from $600M to $3B. Voter discontent, fueled by local issues like Mayor Robert Craft's handling, demands change this May 24th.
+    widget_date: "2022-05-23"
+    generated_at: "2026-11-06T22:47:57.371349Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  talking-heads:
+    brief: |-
+      THE CONFLICT:
+      * Tim Kant administration led to infrastructure neglect in Fairhope (2000-2016).
+      * Initial cost for the bridge in Fairhope was $600 million, now estimated at $3 billion.
+      * In Baldwin County, Commissioners Chris Elliott and Tucker Dorsey formed a block vote of two.
+      * Elliott and Dorsey covered for Sen. Trip Pittman regarding BP contracts taken during the 2010 oil spill.
+
+      THE DISCOVERY:
+      * Baldwin County has a population topping 250,000 but only four commissioners.
+      * The Commission structure risks deadlock or split votes due to the four-member size.
+      * The current proposed commissioners in Baldwin County are Jeb Ball and Johnathan Armstrong.
+
+      THE PIVOT:
+      * Both Fairhope's council (Jack Burrell, do nothing city council) and Baldwin County's political maneuvering are supported/influenced by CATALYST and developers.
+      * The block voting/self-serving political pattern observed in Baldwin County (Elliott/Dorsey/Catalyst) mirrors the dysfunction in Fairhope (Burrell/Catalyst support).
+
+      KEY ENTITIES:
+      * Tim Kant
+      * Cory Martin
+      * Sherry Sullivan
+      * Wilson administration (2016/2020)
+      * Jack Burrell
+      * CATALYST
+      * Mayor (Fairhope)
+      * Chris Elliott
+      * Tucker Dorsey
+      * Trip Pittman
+      * Jeb Ball
+      * Johnathan Armstrong
+      * Steve Carey
+      * Matt McKenzie
+      * Fairhope
+      * Baldwin County
+      * BP (oil spill 2010)
+    llm_text: The $3 billion Fairhope bridge cost stems from Tim Kant's neglect, not just infrastructure failure. Chris Elliott and Tucker Dorsey's self-serving block vote, fueled by CATALYST, mirrors the dysfunction in Fairhope's council.
+    widget_date: "2022-05-18"
+    generated_at: "2026-11-06T22:50:16.726810Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  total-darkness:
+    brief: |-
+      THE CONFLICT: Jack Burrell and Mayor Sullivan took down online meetings of the Fairhope Airport Authority last year (Article 2 context); Fairhope infrastructure (electrical/water shortages) suffered neglect during the Tim Kant administration (2000-2016) and the Wilson administration (2016/2020) (Article 1).
+
+      THE DISCOVERY: Article 2 showed that the Fairhope Airport Authority (FAA) represented a tremendous debt, costing taxpayers millions, and operated in violation of open meeting laws using executive sessions to avoid public scrutiny.
+
+      THE PIVOT: Article 2 establishes the historical pattern of Jack Burrell and Mayor Sullivan using "darkness" and lack of transparency regarding the Airport Authority's debt and special interests, providing context for the current political struggles and infrastructural failures detailed in Article 1, such as the $8 million Airport debt and the council's debate over City vs. Authority property ownership.
+
+      KEY ENTITIES: Jack Burrell, Mayor Sullivan, Steve Marshall, Tim Kant, Wilson administration, Fairhope Airport Authority (FAA), BCSO, Cory Martin, CATALYST
+    llm_text: Jack Burrell and Mayor Sullivan secretly hid millions in Fairhope Airport Authority debt, violating open meeting laws. This pattern of darkness explains current infrastructure failures and the ongoing fight over City vs. Authority property ownership.
+    widget_date: "2022-01-26"
+    generated_at: "2026-11-06T22:49:09.453228Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  columbia-questions-and-documents:
+    brief: |-
+      THE CONFLICT: Past corruption allegations regarding bid-rigging, FEMA fraud, fraudulent bids, and land fraud occurred in Columbia, Alabama, involving the Columbia City Council, Mayor, and Police Chief.
+      THE DISCOVERY: Article 2 (Columbia) revealed evidence and documents (held by James Whitehead) supporting allegations of municipal misuse, including illegal spending (purchasing flowers/gift baskets with town funds), unauthorized hiring of contractors, and giving away municipal property without legal authority (supported by Alabama Attorney General Opinion 2002-133).
+      THE PIVOT: Article 2 establishes a historical and regional precedent of systemic, documented municipal corruption and ignored allegations within Alabama city councils (Columbia), providing context that mirrors the current concerns in Fairhope (Article 1) regarding council neglect, political motivation, misuse of funds, and infrastructure failure (e.g., Airport property/debt, sewer plant relocation denial).
+      KEY ENTITIES: Fairhope, Columbia, Columbia-Alabama, Tim Kant, Cory Martin, Sherry Sullivan, Wilson administration, Jack Burrell, CATALYST, Airport Authority, James Whitehead, Alabama Attorney General.
+    llm_text: Columbia City Council and Mayor faced documented fraud, including bid-rigging and illegally buying flowers with town funds. Understand this systemic history in Columbia to see how it mirrors current Fairhope concerns about council neglect and misuse of funds.
+    widget_date: "2020-12-23"
+    generated_at: "2026-11-06T22:46:42.278031Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  take-a-chance:
+    brief: |-
+      THE CONFLICT:
+      *   2000–2016: Infrastructure neglect in Fairhope under Tim Kant administration.
+      *   2016–2020: Wilson administration slowed or denied needed infrastructure projects and new well digging.
+      *   2020: Jack Burrell and Sherry Sullivan defied State/Federal guidelines and local medical advice by trying to hold the 2020 Arts and Crafts Show after Mayor Wilson canceled it.
+      *   2017: Jack Burrell refused public comment during a City Council meeting on August 28th, 2017.
+      *   Current: Council President Jack Burrell opposes City ownership of the Airport property, which has an $8 million debt and requires $310,000 annual appropriation from Fairhope taxpayers.
+
+      THE DISCOVERY:
+      *   Article 2 revealed that Jack Burrell and Sherry Sullivan were willing to "take a chance" on public health during the COVID-19 pandemic, contrary to advice from Baldwin County Doctors and Nurses and Mayor Wilson's initial decision.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of disregard for public health and official guidelines by Jack Burrell and Sherry Sullivan, contextualizing the later claims in Article 1 regarding political motivation, inaction, and prioritizing development (supported by CATALYST) over public good.
+
+      KEY ENTITIES:
+      *   Jack Burrell (Council President/Associate Mayor)
+      *   Sherry Sullivan
+      *   Tim Kant (2000–2016 administration)
+      *   Wilson administration (2016–2020)
+      *   Cory Martin
+      *   Councilman Brown
+      *   CATALYST
+      *   Fairhope City Council
+      *   Airport Authority
+      *   $8 million (Airport debt)
+      *   $310,000 (Annual appropriation)
+      *   August 28th, 2017
+      *   2020 Arts and Crafts Show
+    llm_text: Jack Burrell and Sherry Sullivan defied Baldwin County medical advice to hold the 2020 Arts and Crafts Show. This pattern of ignoring public health resurfaces as Council President Burrell opposes City ownership of the $8 million-debt Fairhope Airport, costing taxpayers $310,000 annually.
+    widget_date: "2020-11-18"
+    generated_at: "2026-11-06T22:51:26.728385Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-attack:
+    brief: |-
+      THE CONFLICT:
+      *   Tim Kant administration (2000-2016) is cited for infrastructure neglect in Fairhope.
+      *   Wilson administration (2016/2020) is cited for slowing/denying needed infrastructure projects (wells).
+      *   The bridge originally cost $600 million but is now estimated at $3 billion.
+      *   CATALYST, a political group, was active in Baldwin County, attempting county administration takeover in 2018.
+      *   CATALYST lost a congressional race, leading to a name change to Scott Boone Consulting (CSB).
+
+      THE DISCOVERY:
+      *   CATALYST/CSB is a profit-making political group representing developer interests, not citizen interests.
+      *   Developers (Prebble, DR Horton, Columbia Southern, Truland, Corte) funnel money to vetted CSB politicians (Triangle Trade model).
+      *   Scott Boone is the money distributor/bank for CATALYST candidates, linked to Kevin Boone (Fairhope councilman) in a land fraud known as "Strawman."
+
+      THE PIVOT:
+      *   Article 1 alleges that the current council and Mayor are supported and financed by CATALYST and developers.
+      *   Article 2 provides the historical evidence that CATALYST/CSB is the structured, developer-funded entity responsible for selecting candidates and maintaining a "good ole boy creed" of corruption in Baldwin County, linking the current political climate to a systemic pattern, not just individual negligence.
+
+      KEY ENTITIES:
+      *   Tim Kant (Council)
+      *   Wilson (Council)
+      *   Jack Burrell (Council President)
+      *   Sherry Sullivan (Council)
+      *   Cory Martin (Council)
+      *   Kevin Boone (Fairhope councilman)
+      *   Scott Boone (CSB/Money distributor)
+      *   CATALYST (Political group)
+      *   Scott Boone Consulting (CSB)
+      *   Airport Authority
+      *   Fairhope (City)
+      *   Baldwin County (County)
+      *   Prebble, DR Horton, Columbia Southern, Truland, Corte (Developers)
+    llm_text: The Fairhope bridge ballooned from $600M to $3B amid infrastructure neglect. Scott Boone Consulting (CSB), a developer-funded entity, finances local politicians like Kevin Boone, proving this is systemic corruption, not just poor governance.
+    widget_date: "2020-08-12"
+    generated_at: "2026-11-06T22:52:53.090209Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

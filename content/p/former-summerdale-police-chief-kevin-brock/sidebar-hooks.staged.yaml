@@ -1,0 +1,101 @@
+metadata:
+  generated_at: "2026-11-06T11:03:52.385686Z"
+  generator_version: 1.0.0
+  post_slug: former-summerdale-police-chief-kevin-brock
+  main_date: "2025-11-26"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  audio-of-bay-minette-attorney-councilman-fight-offers-new-details:
+    brief: |-
+      THE CONFLICT: Kevin Brock was investigated, fired, and indicted (two years later) by Baldwin County law enforcement, which he claims was a "Propaganda Machine." Harry Still and Councilman Matthew Franklin fought on September 3 in Bay Minette, leading to Still's arrest.
+      THE DISCOVERY: Audio released in the Widget Article proves conflicting accounts of the September 3 fight and documents Still's interaction with law enforcement, including police asking his side of the story before his arrest, and the possibility of an unlawful arrest (misdemeanor outside officer presence, violating Code of Alabama).
+      THE PIVOT: Article 2 provides evidence of questionable police conduct (unlawful arrest attempt, attempts to characterize Still as aggressive) and establishes Harry Still's long-standing critical relationship with local officials (including Al Tolbert) and the Bay Minette Police Department, framing the context of the "Baldwin County Law Enforcement Propaganda Machine" mentioned in Article 1.
+      KEY ENTITIES: Kevin Brock, Dr. Lori Brock, Anthony Lowery, Debbie Williams, Harry Still, Matthew Franklin, Al Tolbert, Bob Wills, BCSO, WKRG News 5, Bay Minette, Baldwin County, Joshua Brown, Lagniappe.
+    llm_text: Audio proves Harry Still's September 3 arrest wasn't simple; police asked his side before the misdemeanor charge. See how Matthew Franklin and local officials frame Still, connecting to the "Baldwin County Propaganda Machine."
+    widget_date: "2025-11-23"
+    generated_at: "2026-11-06T11:00:04.471454Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  heart-of-dixie-podcast:
+    brief: |-
+      THE CONFLICT:
+      *   Harry Still was arrested by BCSO in Bay Minette, Alabama, following an incident where Bay Minette City Councilman Matthew Franklin was involved.
+      *   The arrest was on a misdemeanor, which Whitney Scapecchi noted occurred outside police presence and was potentially an unlawful arrest.
+      *   No charges were filed against Harry Still in that incident.
+
+      THE DISCOVERY:
+      *   A leaked internal BCSO email showed Sheriff Anthony Lowery directing deputies to pre-target attorney Harry Still at a Republican event.
+      *   Lowery instructed deputies to pull Harry's jail log photo and "do what you need to do."
+      *   This action is identified as potential viewpoint-based policing and First Amendment retaliation.
+
+      THE PIVOT:
+      *   The internal BCSO targeting of Harry Still (Article 2 context) establishes a pattern of political targeting and misuse of law enforcement power by Anthony Lowery/BCSO.
+      *   This pattern provides context for the subsequent investigation, firing, and indictment of former Summerdale Police Chief Kevin Brock and Dr. Lori Brock by the "Baldwin County Law Enforcement Propaganda Machine" (Article 1).
+
+      KEY ENTITIES:
+      *   Kevin Brock (Former Summerdale Police Chief)
+      *   Dr. Lori Brock
+      *   Anthony Lowery (Sheriff, BCSO)
+      *   Harry Still (Attorney)
+      *   Matthew Franklin (Bay Minette City Councilman)
+      *   BCSO (Baldwin County Sheriff's Office)
+      *   Bay Minette
+      *   Debbie Williams (WKRG News 5)
+      *   WKRG News 5
+      *   Southern Freedom Press
+      *   Matt Franklin (Podcast participant)
+    llm_text: A leaked BCSO email reveals Sheriff Anthony Lowery directed deputies to pre-target attorney Harry Still at a political event. This potential First Amendment retaliation establishes a pattern of political policing linking Lowery to the misconduct involving Kevin Brock and Dr. Lori Brock.
+    widget_date: "2025-11-21"
+    generated_at: "2026-11-06T11:00:49.270442Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  new-sheriff-no-changes:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence suffered a wrongful conviction involving the Baldwin County Prosecutor, Sheriff, and Judge.
+      *   Steve Nodine was involved in a "clown show case" with the same Prosecutor, Sheriff, and Judge.
+      *   In the last 15 years, 10 innocent lives were lost in Baldwin County due to contact with BCSO, often investigated by the BCSO Major Crimes Unit (MCU).
+      *   Former Summerdale Police Chief Kevin Brock was investigated, fired, and indicted (two years later) by the Baldwin County Law Enforcement Propaganda Machine.
+      *   Harry Still was arrested on a misdemeanor that occurred outside officer presence, a Code of Alabama violation (unlawful arrest).
+
+      THE DISCOVERY:
+      *   Governor Kay Ivey appointed Anthony Lowery to replace Sheriff Hoss Mack (Mack was leaving August 31).
+      *   Ivey ignored two pending federal lawsuits concerning BCSO and their MCU, and ignored Murray Lawrence's wrongful conviction.
+      *   The BCSO MCU investigated itself without accountability, transparency, or camera footage.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of unchecked institutional misconduct, ignored federal lawsuits, and wrongful convictions under Sheriff Hoss Mack.
+      *   Article 1 presents Kevin Brock’s specific case as evidence of the documented "Baldwin County Law Enforcement Propaganda Machine."
+      *   Debbie Williams of WKRG News 5, who covered the Brock and Still cases, is identified as a mouthpiece for Anthony Lowery, who was appointed into the system detailed in Article 2.
+
+      KEY ENTITIES:
+      *   Anthony Lowery (Baldwin County Sheriff)
+      *   Kevin Brock (Former Summerdale Police Chief)
+      *   Dr. Lori Brock
+      *   Hoss Mack (Former BCSO Sheriff)
+      *   Governor Kay Ivey
+      *   BCSO / BCSO Major Crimes Unit
+      *   Debbie Williams (WKRG News 5)
+      *   Harry Still
+      *   Murray Lawrence
+      *   Steve Nodine
+      *   Baldwin County
+    llm_text: Murray Lawrence's wrongful conviction and Kevin Brock's firing expose Baldwin County's misconduct machine. Governor Kay Ivey ignored federal lawsuits as Anthony Lowery takes over the BCSO.
+    widget_date: "2024-08-29"
+    generated_at: "2026-11-06T11:02:14.388126Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  judge-vs-sheriff:
+    brief: |-
+      THE CONFLICT:
+      Hoss Mack and Robert Wilters have a 30+ year relationship, with Wilters serving Mack’s interests. In 10 years ago, Sen. Trip Pittman sponsored Senate Bill 312, which created unique BCSO qualifications securing Mack’s two terms. Three years ago, Pittman awarded himself $750,000.00. In 2021, the ruling *Lagniappe v. Mack* set precedent that law enforcement reports are privileged communication and not public records, per Associate Justice Greg Shaw.
+
+      THE DISCOVERY:
+      Article 2 reveals systemic political corruption and a lack of accountability within Baldwin County; the BCSO's Major Crimes Division investigates its own issues; the judicial system (Mack/Wilters) is influenced by political power.
+
+      THE PIVOT:
+      Article 2 establishes the historical pattern of institutional corruption and lack of transparency (Mack/Wilters/BCSO) that provides the context for Article 1's claim that Kevin Brock and Lori Brock were targeted by the "Baldwin County Law Enforcement Propaganda Machine."
+
+      KEY ENTITIES:
+      Hoss Mack (Sheriff), Robert Wilters (District Attorney), Trip Pittman (Senator), Greg Shaw (Associate Justice), Tom Parker (Chief Justice), Kevin Brock (Former Summerdale Police Chief), Lori Brock, Harry Still, Anthony Lowery, Debbie Williams (WKRG News 5), BCSO, WKRG, Bay Minette.
+    llm_text: Hoss Mack and Robert Wilters wielded 30 years of power, backed by Senator Trip Pittman's $750k award. This institutional corruption, shielded by *Lagniappe v. Mack*, targeted Kevin and Lori Brock using the "Baldwin County Law Enforcement Propaganda Machine."
+    widget_date: "2023-09-22"
+    generated_at: "2026-11-06T11:03:32.022967Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

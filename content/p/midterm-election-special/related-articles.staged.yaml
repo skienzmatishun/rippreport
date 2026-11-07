@@ -1,5 +1,5 @@
 post_slug: midterm-election-special
-generated: 2026-11-05T11:41:38.913006-06:00
+generated: 2026-11-05T21:12:05.014252-06:00
 articles:
   - slug: october-surprise
     title: OCTOBER SURPRISE
@@ -9,23 +9,27 @@ articles:
     title: COURT OF PUBLIC OPINION - READ THE BOOK
     score: 100
     rank: 2
-  - slug: by-appointment-only
-    title: BY APPOINTMENT ONLY
-    score: 80
-    rank: 3
-  - slug: august-special-edition
-    title: August Special Election
-    score: 80
-    rank: 4
-  - slug: red-lips-award
-    title: RED LIPS AWARD
-    score: 78
-    rank: 5
   - slug: fire-albritton
     title: FIRE ALBRITTON
-    score: 78
+    score: 93
+    rank: 3
+  - slug: our-man-in-mar-a-lago
+    title: Our Man In Mar-a-Lago
+    score: 50
+    rank: 4
+  - slug: the-state-of-the-alabama-state-bar
+    title: The State of the Alabama State Bar
+    score: 50
+    rank: 5
+  - slug: august-special-edition
+    title: August Special Election
+    score: 50
     rank: 6
-  - slug: alabama-fake-ethics-commission
-    title: ALABAMA FAKE ETHICS COMMISSION
-    score: 78
+  - slug: orange-beach-tyranny
+    title: Orange Beach Tyranny
+    score: 50
     rank: 7
+  - slug: qualification
+    title: QUALIFICATION
+    score: 92
+    rank: 8

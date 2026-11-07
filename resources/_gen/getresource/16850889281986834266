@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a52ed978ace33376-MIA
+Cf-Ray: a5688d827d16f7aa-MIA
 Content-Type: application/json
-Date: Sat, 31 Oct 2026 01:22:35 GMT
+Date: Sat, 07 Nov 2026 01:26:58 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=RgTl09niJ5iO3oH%2B%2BLsD7ouAl%2FhFY2W%2FJDNN%2BP4WuZeyw27sgHa5yTy4aLfcC0Z6Anrx6wBSC6mfAMr4x%2FKfa%2F1gOsSdYszj8ebbItwPEaLR7BzaMNMk23I2TNzXqVClL75mFMvX13pSQSrDbB4%2FvF6%2F9A%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=XGxlC4%2FEdfbK1szGN8hyPUrdDLWGcI9QCCjrCaJxOuMuGWGSyyF55Q1TwvpDicuLD8%2BiZAceqH2WOZh%2F2BBtDz27RA5%2B4wg%2FvC2A56o8wrNz1RgzU4uYuY5U2Kng36aLpzEz5qrTnxxPBWsPMK%2BeMEzbDw%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=300
+Server-Timing: cfEdge;dur=12,cfOrigin;dur=0,cfWorker;dur=580
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: b6061567ed8dd24dae36fdcd92fb01ef
-X-Etags-2: b6061567ed8dd24dae36fdcd92fb01ef
+X-Etags-1: 746cea3bfe915eff96f5cceca73e8d2e
+X-Etags-2: 746cea3bfe915eff96f5cceca73e8d2e
 
-{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/news/local/orange-beach-mayor-s-tour-seeks-infrastructure-help/article_3cddaad0-9ea4-569a-882c-8987b8cef79a.html","title":"Preview unavailable","description":"Could not fetch preview data"}
+{"title":"Orange Beach mayor’s tour seeks infrastructure help","description":"Orange Beach Mayor Tony Kennon is planning to visit the major cities in Alabama in the coming weeks to promote how much the beach tourist economy cont...","url":"https://www.lagniappemobile.com/news/local/orange-beach-mayor-s-tour-seeks-infrastructure-help/article_3cddaad0-9ea4-569a-882c-8987b8cef79a.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/3/0c/30c464a3-458a-5082-b552-315cb507d8e2/630eda10f12e4.image.jpg?crop=615%2C323%2C0%2C20","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/news/local/orange-beach-mayor-s-tour-seeks-infrastructure-help/article_3cddaad0-9ea4-569a-882c-8987b8cef79a.html","wasRedirected":false}

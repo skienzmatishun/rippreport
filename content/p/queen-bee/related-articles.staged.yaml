@@ -1,5 +1,5 @@
 post_slug: queen-bee
-generated: 2026-11-05T11:31:39.29406-06:00
+generated: 2026-11-05T21:13:16.486743-06:00
 articles:
   - slug: bsp-tlp
     title: Backstory Podcast No 56 The Lincoln Project
@@ -9,24 +9,24 @@ articles:
     title: SLAP IN THE FACE
     score: 100
     rank: 2
-  - slug: fairhope-voters-guide
-    title: FAIRHOPE VOTERS GUIDE
-    score: 64
-    rank: 3
   - slug: fairhope-going-backwards
     title: FAIRHOPE GOING BACKWARDS?
     score: 50
-    rank: 4
+    rank: 3
   - slug: fly-on-the-wall
     title: FLY ON THE WALL
     score: 50
-    rank: 5
+    rank: 4
   - slug: truth
     title: TRUTH
     score: 50
-    rank: 6
+    rank: 5
   - slug: fairhope-waterfront
     title: FAIRHOPE WATERFRONT
+    score: 50
+    rank: 6
+  - slug: invitation
+    title: INVITATION
     score: 50
     rank: 7
   - slug: beavis-and-butthead

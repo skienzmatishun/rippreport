@@ -1,5 +1,5 @@
 metadata:
-  generated_at: "2026-11-05T23:22:31.662365Z"
+  generated_at: "2026-11-06T05:18:59.964479Z"
   generator_version: 1.0.0
   post_slug: rock-bottom
   main_date: "2026-09-08"
@@ -8,223 +8,136 @@ hooks:
   the-state-of-the-alabama-state-bar:
     brief: |-
       THE CONFLICT:
-      *   Tom Albritton, Ethics Commission Director, was alleged to be "stealing" or "diverting" children’s scholarship money from the Mabel Amos Memorial Trust for over 12 years.
-      *   Albritton's son and daughter received $135,000 in scholarships, starting in 2012 and continuing until 2019.
-      *   Total disbursements fitting self-dealing criteria were $257,844, violating Trust articles V, part E and F (personal inurement/self-dealing).
-      *   In 2021, Attorney General Steve Marshall filed a Civil Filing alleging Albritton (as a "Trustee") improperly benefited from the Trust.
-      *   Ripp Report/Lagniappe filed Ethics and Bar complaints against Albritton as far back as 2021.
+      *   Thomas Gallion III filed a lawsuit against public servants, alleging kickback schemes and sexual blackmail, discussed in a 2020 interview.
+      *   Katherine Church filed 17 ethics complaints regarding the Alabama State Bar.
+      *   Phillip McCallum, Executive Director of the Alabama State Bar, lacked a disciplinary record despite Church’s complaints.
+      *   Harry Still filed 12 bar complaints in 2022 naming Roman Shaw, Jeremy McIntyre, and Phillip McCallum.
+      *   Tom Albritton, Ethics Commission Director, was implicated in self-dealing from the Mabel Amos Memorial Trust between 2012 and 2019.
+      *   AG Steve Marshall filed a Civil Filing in 2021 against Tom Albritton regarding his role as a Trustee of the Trust.
 
       THE DISCOVERY:
-      *   Jeanetta Pleasant JD, Katherine Church, and Beverly Barber JD shared negative experiences with the Alabama State Bar.
-      *   Montgomery Attorney Thomas Gallion III filed a Florida lawsuit against bad actors, alleging a kickback scheme and sexual blackmail.
-      *   Mr. McCallum (Executive Director of the Alabama State Bar) was involved in 17 ethics violations but has no disciplinary record.
-      *   Harry Still filed 12 bar complaints in 2022 against Roman Shaw, Jeremy McIntyre, and Phillip McCallum.
+      *   The 2020 discussion revealed systemic misconduct and lack of accountability within the Alabama State Bar, specifically concerning Phillip McCallum and the handling of 17 ethics violations.
 
       THE PIVOT:
-      *   Article 2 provides specific, documented examples (Gallion's lawsuit, McCallum's ignored violations, Still's 2022 complaints) of the systemic failures and protection of "dirty lawyers" within the Alabama State Bar, directly supporting the claims of institutional corruption made against Albritton in Article 1.
+      *   Article 2 demonstrates a historical pattern of institutional failure and protected misconduct within the Alabama Bar (McCallum’s tenure), providing context for Article 1's claim that the Bar is a "disgrace" that "protects dirty lawyers."
 
       KEY ENTITIES:
       *   Tom Albritton
       *   Mabel Amos Memorial Trust
-      *   Alabama Ethics Commission
-      *   Alabama State Bar
       *   Steve Marshall (Attorney General)
       *   Thomas Gallion III
-      *   Jeanetta Pleasant JD, Katherine Church, Beverly Barber JD
+      *   Katherine Church
       *   Phillip McCallum
       *   Harry Still
-      *   Roman Shaw, Jeremy McIntyre
+      *   Roman Shaw
+      *   Jeremy McIntyre
+    llm_text: Katherine Church filed 17 ethics complaints against the Alabama State Bar, yet Phillip McCallum avoided disciplinary action. This systemic failure, involving Tom Albritton's self-dealing and Thomas Gallion III's lawsuit, proves the Bar protects corrupt lawyers.
     widget_date: "2026-09-05"
-    generated_at: "2026-11-05T23:22:31.658816Z"
+    generated_at: "2026-11-06T05:18:23.816669Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   key-figures:
-    brief: |-
-      THE CONFLICT:
-      *   Tom Albritton, Ethics Commission Director, was alleged to be "stealing" or "diverting" children’s scholarship money from the Mabel Amos Memorial Trust for over 12 years.
-      *   Albritton's son and daughter received $135,000 in scholarships (2012–2019).
-      *   Total disbursements fitting self-dealing criteria were $257,844, violating Trust articles V, part E and F.
-      *   In 2021, Attorney General Steve Marshall filed a Civil Filing alleging Albritton (as a "Trustee") improperly benefited from the Trust.
-      *   Ripp Report/Lagniappe filed Ethics and Bar complaints against Albritton as far back as 2021.
-      *   In 2022, Mr. Still ran for Attorney General against Mr. Marshall, focusing on Albritton's activities.
-
-      THE DISCOVERY:
-      *   The wrongful conviction of Murray Lawrence Jr. in 2005 is linked to the power structure in Baldwin County.
-      *   Robert Wilters served as the presiding Circuit Court Judge in Baldwin County at the time of the prosecution.
-      *   Hoss Mack was Chief Deputy for Baldwin County, involved in the investigation, and his family owned the Baldwin County Coroner, Mack Funeral Home, where the victim's body was taken.
-      *   Anthony Lowery worked under Mack as a lead investigator during the Murray Lawrence Jr. case.
-      *   David Whetstone served as District Attorney for Baldwin County during the prosecution, who pushed the flawed case despite forensic evidence (no bullet hole, death by strangulation).
-
-      THE PIVOT:
-      *   Article 2 shifts the focus from state-level ethical corruption (Albritton) to deep-seated local corruption and miscarriage of justice (Murray Lawrence Jr. case) in Baldwin County, illustrating how power structures (Wilters, Mack, Whetstone) protect the corrupt, mirroring the systemic failure Albritton represents.
-
-      KEY ENTITIES:
-      *   Tom Albritton
-      *   Mabel Amos Memorial Trust
-      *   Robert Wilters (Circuit Court Judge, Baldwin County)
-      *   Hoss Mack (Chief Deputy, Alabama Sheriffs Association Executive Director)
-      *   Anthony Lowery (Baldwin County Sheriff)
-      *   David Whetstone (Baldwin County District Attorney)
-      *   Murray Lawrence Jr.
-      *   Steve Marshall
-      *   Harry Still
+    brief: "THE CONFLICT:\n- The 2005 wrongful conviction of Murray Lawrence Jr. in Baldwin County.\n- Key procedural failures: No state-ordered autopsy, no murder weapon, no DNA, no fingerprints, and an indictment unsigned by the grand jury foreman.\n- Evidence issues: The prosecution's theory of a gunshot wound contradicted forensic testimony from pathologist Dr. Paul McGarry (who cited strangulation) and the official death certificate.\n- Presiding officials: Judge Robert Wilters (who allowed the trial to proceed despite contradictions) and District Attorney David Whetstone (who pushed the case forward despite lack of evidence).\n\nTHE DISCOVERY:\n- The officials responsible for the 2005 conviction successfully ascended to high-level positions of authority rather than facing discipline.\n- Hoss Mack moved from Baldwin County Chief Deputy to Sheriff, and now serves as Executive Director of the Alabama Sheriffs Association.\n- Anthony Lowery moved from lead investigator to Appointed Baldwin County Sheriff.\n- Robert Wilters transitioned into a senior figure of influence within the Alabama legal system.\n\nTHE PIVOT:\n- Article 2 provides the historical blueprint for the \"power structure\" described in Article 1. \n- It establishes a documented pattern where Alabama officials protect one another and use their positions to consolidate power.\n- This explains why Tom Albritton can allegedly engage in 12 years of self-dealing—including the disbursement of $257,844 in questionable scholarships and $135,000 specifically to his own children via the Mabel Amos Memorial Trust—and remain the head of the Alabama Ethics Commission without facing prosecution or removal.\n\nKEY ENTITIES:\n- Tom Albritton (Director, Alabama Ethics Commission)\n- Mabel Amos Memorial Trust\n- Murray Lawrence Jr. (Wrongfully convicted)\n- Robert Wilters (Former Baldwin County Circuit Court Judge)\n- Hoss Mack (Executive Director, Alabama Sheriffs Association)\n- Anthony Lowery (Appointed Baldwin County Sheriff)\n- David Whetstone (Former Baldwin County District Attorney)\n- Steve Marshall (Alabama Attorney General)"
+    llm_text: Judge Robert Wilters and DA David Whetstone ignored blatant forensic gaps to wrongfully convict Murray Lawrence Jr. in 2005. Their rapid ascent to power reveals the exact protectionist blueprint that allows Tom Albritton to exploit the Alabama Ethics Commission with total impunity.
     widget_date: "2026-09-02"
-    generated_at: "2026-11-05T23:22:31.658816Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:18:16.207419Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
   the-blueprint:
     brief: |-
       THE CONFLICT:
-      *   Tom Albritton, Ethics Commission Director, was alleged to be "stealing" or "diverting" children’s scholarship money from the Mabel Amos Memorial Trust for over 12 years.
-      *   Albritton's son and daughter received $135,000 in scholarships (2012–2019).
-      *   Total disbursements fitting self-dealing criteria were $257,844, violating Trust articles V, part E and F.
-      *   In 2021, Attorney General Steve Marshall filed a Civil Filing alleging Albritton (as a "Trustee") improperly benefited from the Trust.
-      *   Ripp Report/Lagniappe filed Ethics and Bar complaints against Albritton as far back as 2021.
+      - Article 1 (Main): ROCK BOTTOM. Alabama government oversight at rock bottom. Failed state. Governor absent/incoherent. Attorney General out of sight. Alabama Bar protects dirty lawyers. Ethics Commission director Tom Albritton self-dealing/diverting children’s scholarship money from Mabel Amos Memorial Trust for over 12 years. Tom Albritton should resign. Answer: BECAUSE HE IS CORRUPT AND HIS JOB IS TO PROTECT THE CORRUPT. BE ADVISED: ORANGE BEACH.
+      - Article 2 (Widget, older): THE BLUEPRINT THEY HID IN PLAIN SIGHT - THE TOLL TAX TRAVESTY. For decades, Gulf Coast strategy finalized in backrooms where no local resident invited. Endgame of scheme on drawing boards long before. Coordinated effort involving Governor’s office, federal agencies, key investors. Aligned interests to execute transformation decades in making.
+      - 2019: South Alabama Citizens for Government Accountability (SACGA), led by Jim Zeigler, mobilized over 50,000 against tolls. Made clear toll plan was financial trap. Many politicians stood with opposition.
+      - Later: Same politicians who opposed tolls became loudest supporters after being smoothed over by powers/investors.
+      - Tolls: $7.70 per trip; nearly $31/day; ALGO Pass; $3.2 billion project; Eastern Shore to Mobile.
+      - Ethics details: Tom Albritton; son/daughter received combined $135,000 in scholarships from 2012–2019; began 2012 before Albritton led Alabama Ethics Commission; continued until 2019, four years after taking position; disbursements allegedly totaled $257,844; violated Article V, parts E/F re personal inurement/self-dealing.
+      - AG Steve Marshall civil filing: Albritton improperly benefited from Trust where Trustee; Albritton’s children received over $100,000; Ripp allegations included Ethics Complaint against Ethics Commission, Bar Complaint against Albritton, Writ of Mandamus in Montgomery County Circuit Court, 2021; basis self-dealing as Trustee.
 
       THE DISCOVERY:
-      *   A $3.2 billion toll project strategy for the Gulf Coast was finalized in backrooms, not involving local residents.
-      *   In 2019, over 50,000 people opposed tolls, but politicians who stood against it have now supported the project.
-      *   The Eastern Shore to Mobile commute requires a toll of $7.70 per trip, costing nearly $31 daily.
-      *   The scheme is seen as a slow-motion takeover prioritizing infrastructure and investors over community existence.
-      *   Opposition groups like South Alabama Citizens for Government Accountability (SACGA) are documenting the truth.
+      - Article 2 showed coordinated effort, backroom blueprint, decades-long plan, no local resident invited, investor/political alignment, media pushing “essential” investment narrative, ignoring public outcry/politicians abandoning principles.
 
       THE PIVOT:
-      *   Article 2 shifts the corruption narrative from internal government ethics (Albritton) to large-scale, infrastructure-driven financial capture and political betrayal (Toll Tax), demonstrating that corruption permeates major state policy and economic decisions, not just regulatory oversight.
+      - Article 2 is smoking gun/key context for Article 1 because it documented earlier backroom coordination/investor-politician alignment and political turncoating around toll plan, framing Alabama corruption/failed-state narrative.
 
       KEY ENTITIES:
-      *   Tom Albritton
-      *   Mabel Amos Memorial Trust
-      *   Alabama Ethics Commission
-      *   South Alabama Citizens for Government Accountability (SACGA)
-      *   Jim Zeigler
-      *   $3.2 billion (Project value)
-      *   $7.70 (Toll cost)
-      *   Eastern Shore/Mobile
+      - Lowery
+      - Wilters
+      - Tom Albritton
+      - Alabama Ethics Commission
+      - Alabama Bar
+      - Attorney General Steve Marshall
+      - Mabel Amos Memorial Trust
+      - White
+      - Rob Holbert
+      - Lagniappe
+      - Ripp Report
+      - Jim Zeigler
+      - South Alabama Citizens for Government Accountability (SACGA)
+      - Governor’s office
+      - Federal agencies
+      - Key investors
+      - Eastern Shore
+      - Mobile
+      - Orange Beach
+      - ALGO Pass
+      - $3.2 billion project
+      - $7.70 per trip
+      - $31/day
+      - $135,000
+      - $257,844
+      - $100,000
+    llm_text: Alabama’s ethics chief Tom Albritton steered kids’ scholarship money through the Mabel Amos Trust while the Governor’s office, federal agencies and investors drafted a secret $3.2 billion toll plan. The Ripp Report’s blueprint shows how backroom money met political turncoating—and why Orange Beach may be just the start.
     widget_date: "2026-07-14"
-    generated_at: "2026-11-05T23:22:31.658816Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:18:27.984703Z"
+    model_name: recursive/flint-v1.0:free
   medical-cannabis-issues-licenses:
-    brief: |-
-      THE CONFLICT:
-      *   Tom Albritton, Ethics Commission Director, was alleged to be "stealing" or "diverting" children’s scholarship money from the Mabel Amos Memorial Trust for over 12 years.
-      *   Albritton's son and daughter received $135,000 in scholarships (2012–2019).
-      *   Total disbursements fitting self-dealing criteria were $257,844, violating Trust articles V, part E and F.
-      *   In 2021, Attorney General Steve Marshall filed a Civil Filing alleging Albritton (as a "Trustee") improperly benefited from the Trust.
-      *   Ripp Report/Lagniappe filed Ethics and Bar complaints against Albritton as far back as 2021.
-
-      THE DISCOVERY:
-      *   On January 22, 2026, Alabama issued three medical cannabis dispensary licenses and approved five certifying physicians.
-      *   This progress is part of the Darren Wesley “Ato” Hall Compassion Act.
-      *   Oversight for medical cannabis is held by the Alabama Medical Cannabis Commission (AMCC).
-      *   Dispensaries are restricted to non-smokable forms (tablets, gels, oils, creams).
-      *   The program emphasizes physician oversight for conditions like chronic pain, PTSD, and epilepsy.
-
-      THE PIVOT:
-      *   Article 2 highlights a specific, regulated policy achievement (medical cannabis program rollout) occurring in 2026. This contrasts with the state of "rock bottom" described in Article 1, showing that while state corruption exists (Albritton), specific regulatory and health policy implementations are advancing.
-
-      KEY ENTITIES:
-      *   Tom Albritton
-      *   Mabel Amos Memorial Trust
-      *   Alabama Ethics Commission
-      *   Steve Marshall
-      *   Darren Wesley “Ato” Hall
-      *   Alabama Medical Cannabis Commission (AMCC)
-      *   Chey Lindsey Garrigan
-      *   Alabama Board of Medical Examiners & Medical Licensure Commission
+    brief: "THE CONFLICT: \n- Tom Albritton (Alabama Ethics Commission Director) engaged in self-dealing and diverted children's scholarship money from the Mabel Amos Memorial Trust.\n- Albritton's children (a son and daughter) received a combined total of $135,000 in scholarships from the Trust, beginning in 2012 and continuing until 2019 (four years after he became ethics director in 2015).\n- A report by White detailed that total disbursements violating personal inurement and self-dealing rules reached $257,844, benefiting members of the Board and associates, including Albritton.\n- The Ripp Report and Lagniappe broke the story and filed Ethics and Bar complaints against Tom Albritton as far back as 2021.\n- Attorney General Steve Marshall filed a civil action alleging Tom Albritton improperly benefited from the Trust where he served as a trustee.\n- Mr. Ripp filed a Writ of Mandamus in the Circuit Court of Montgomery County to force the Ethics Commission to review complaints disposed of by Albritton without investigation.\n- Harry Still ran for Attorney General in 2022 against Steve Marshall, campaigning on Albritton's activities and the Mabel Amos Trust.\n- Lagniappe Editor Rob Holbert conducted years of investigative reporting, with follow-up articles published around September 9th.\n\nTHE DISCOVERY: \n- (Historical Context from Widget Article - Jan 22, 2026): The Alabama Medical Cannabis Commission (AMCC) issued three new medical cannabis dispensary licenses and approved five certifying physicians under the Darren Wesley “Ato” Hall Compassion Act. \n- The state's regulated cannabis program moved forward with strict oversight requirements (product tracking, security, patient verification), contrasting sharply with the deep-seated corruption and lack of oversight highlighted in the main article regarding state ethics enforcement.\n\nTHE PIVOT: \n- The historical background of the state's tight regulatory rollouts (like the cannabis program overseen by the AMCC) stands in stark contrast to the total lack of accountability for top ethics officials. While the state enforces strict compliance on new industries, the man tasked with policing state ethics (Tom Albritton) remains in power despite documented, years-long evidence of self-dealing and civil allegations regarding the Mabel Amos Memorial Trust. Article 2's documented state regulatory actions highlight the hypocritical double standard of a \"failed state\" where ordinary rules apply to new markets, but elite enforcers like Albritton operate with complete impunity.\n\nKEY ENTITIES:\n- Tom Albritton\n- Mabel Amos Memorial Scholarship Trust\n- Rob Holbert\n- Steve Marshall\n- Harry Still\n- Mr. Ripp\n- White (Report author)\n- Alabama Ethics Commission\n- Alabama State Bar\n- Alabama Medical Cannabis Commission (AMCC)\n- Chey Lindsey Garrigan\n- Alabama Cannabis Industry Association"
+    llm_text: While the AMCC enforces strict rules on new medical cannabis licenses, Ethics Director Tom Albritton dodges accountability for steering $135,000 in Mabel Amos Trust funds to his kids. Read why ordinary compliance applies everywhere except at the top.
     widget_date: "2026-01-23"
-    generated_at: "2026-11-05T23:22:31.658816Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:17:23.675078Z"
+    model_name: gemini-3.5-flash-lite
   go-to-hell-veterans:
-    brief: |-
-      THE CONFLICT:
-      *   Tom Albritton, Ethics Commission Director, was alleged to be "stealing" or "diverting" children’s scholarship money from the Mabel Amos Memorial Trust for over 12 years.
-      *   Albritton's son and daughter received $135,000 in scholarships (2012–2019).
-      *   Total disbursements fitting self-dealing criteria were $257,844.
-      *   In 2021, Attorney General Steve Marshall filed a Civil Filing alleging Albritton (as a "Trustee") improperly benefited.
-      *   Ripp Report/Lagniappe filed Ethics and Bar complaints against Albritton as far back as 2021.
-
-      THE DISCOVERY:
-      *   Governor Kay Ivey's administration is accused of targeting veterans and dismantling the Alabama Department of Veterans Affairs (ADVA).
-      *   ADVA Commissioner Admiral Kent Davis filed an ethics complaint against Department of Mental Health Director Kimberly Boswell.
-      *   The complaint alleged Boswell "colluded" with officials to divert $7 million from the American Rescue Plan Act intended for ADVA.
-      *   Legislation to "restructure" the State Board of Veterans Affairs passed the Alabama State Senate 21-9, viewed by opponents as retaliation.
-      *   State Rep. Ed Oliver and State Senator Andrew Jones received the "RED LIPS AWARD" for supporting Ivey's anti-veteran push.
-
-      THE PIVOT:
-      *   Article 2 connects state political vindictiveness (Ivey's actions against veterans) with specific ethical failures (Boswell/ADVA funding, Albritton's misuse of Trust). It shows the conflict isn't only about individual financial corruption but also about targeted political attacks against vulnerable groups like veterans.
-
-      KEY ENTITIES:
-      *   Tom Albritton
-      *   Mabel Amos Memorial Trust
-      *   Kimberly Boswell (Dept of Mental Health Director)
-      *   Kay Ivey (Governor)
-      *   Admiral Kent Davis (ADVA Commissioner)
-      *   Ed Oliver (State Rep)
-      *   Andrew Jones (State Senator)
-      *   Napoleon Bracy, Chip Brown, Barbara Drummond, Brett Easterbrook, Jennifer Fidler, Donna Givens, Frances Holk-Jones, Chris Pringle, Mark Shirely, Matt Simpson, Shane Stringer
-      *   $7 million (ARPA funds)
+    brief: "THE CONFLICT: \n- Tom Albritton, Director of the Alabama Ethics Commission, engaged in multi-year self-dealing and diverted children's scholarship money from the Mabel Amos Memorial Trust.\n- Albritton's children received a combined total of $135,000 in scholarships from the Trust starting in 2012 and continuing until 2019, four years after he took his position as the state’s ethics enforcer.\n- A forensic report by White detailed that total disbursements violating personal inurement and self-dealing rules reached $257,844.\n- In 2021, the Ripp Report and Lagniappe broke the story, leading to filed Ethics and Bar complaints against Tom Albritton, plus a Writ of Mandamus filed in the Circuit Court of Montgomery County.\n- In 2022, candidate Still ran for Attorney General against incumbent Steve Marshall, campaigning heavily on Albritton's corruption and the Mabel Amos Trust.\n- In a civil filing on a Tuesday, Attorney General Steve Marshall officially alleged that Albritton improperly benefited from the Trust where he served as a trustee.\n\nTHE DISCOVERY: \n- Historical reporting by Lagniappe (led by Editor Rob Holbert) and investigative work by the Ripp Report established that Tom Albritton used his position as trustee to funnel over $100,000 to his own children from 2012 to 2019.\n- White’s independent report confirmed violations of three articles of the fund’s formation regarding personal inurement and self-dealing.\n- Despite the 2021 complaints, legal challenges, and Attorney General Steve Marshall's subsequent civil filing, Tom Albritton has maintained his position as Alabama Ethics Commission Director, evading prosecution or accountability.\n\nTHE PIVOT: \n- Article 2 (historical context/background) serves as the smoking gun because it proves that allegations, investigations, White's forensic report, and even Attorney General Steve Marshall's civil filings regarding Tom Albritton's self-dealing of Mabel Amos Memorial Trust funds have existed on record since 2021. \n- It highlights the hypocrisy and systemic corruption of the Alabama Ethics Commission, showing that the state's chief ethics enforcer has openly faced documented proof of financial corruption for years while continuing to retain his position and shield others from accountability.\n\nKEY ENTITIES: \n- Tom Albritton\n- Rob Holbert\n- Steve Marshall\n- Mabel Amos Memorial Trust\n- White (Report Author)\n- Still\n- Mr. Ripp\n- Kay Ivey (\"Mee Ma\")\n- Kimberly Boswell\n- Kent Davis\n- Ed Oliver\n- Andrew Jones\n- Greg Albritton"
+    llm_text: Alabama Ethics Director Tom Albritton funneled $135,000 in children's scholarship money from the Mabel Amos Trust straight to his own family. Read why this documented self-dealing proves the state's chief ethics enforcer continues dodging accountability.
     widget_date: "2025-03-14"
-    generated_at: "2026-11-05T23:22:31.658816Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:17:29.067860Z"
+    model_name: gemini-3.5-flash-lite
   red-lips-award:
-    brief: |-
-      THE CONFLICT:
-      *   Tom Albritton, Ethics Commission Director, was alleged to be "stealing" or "diverting" children’s scholarship money from the Mabel Amos Memorial Trust for over 12 years.
-      *   Albritton's son and daughter received $135,000 in scholarships (2012–2019).
-      *   Total disbursements fitting self-dealing criteria were $257,844.
-      *   In 2021, Attorney General Steve Marshall filed a Civil Filing alleging Albritton (as a "Trustee") improperly benefited.
-      *   Ripp Report/Lagniappe filed Ethics and Bar complaints against Albritton as far back as 2021.
-
-      THE DISCOVERY:
-      *   Alabama is ranked 50th out of 51 states by Mental Health America for access to mental healthcare (2024).
-      *   Veteran suicide rate in Alabama is higher than both the national veteran and civilian averages.
-      *   Governor Ivey is accused of dismantling the ADVA via legislation to "restructure" the State Board of Veterans Affairs (21-9 Senate vote).
-      *   ADVA Commissioner Admiral Kent Davis filed an ethics complaint against Department of Mental Health Director Kimberly Boswell regarding the diversion of $7 million from the American Rescue Plan Act.
-      *   The Ethics Commission dismissed the complaint, leading to the "RED LIPS AWARD" for State Senator Andrew Jones and State Representative Ed Oliver.
-      *   Montgomery County Circuit Court Judge Greg Griffin ordered Special Fiduciary Jim White to gather information on the Amos Fund.
-
-      THE PIVOT:
-      *   Article 2 directly links the perceived political vindictiveness against veterans (Ivey targeting ADVA) to the dismissal of a related ethics complaint (Boswell) by the Ethics Commission, further emphasizing the systemic failure and political influence that protects officials, while still maintaining the core corruption issue of Tom Albritton.
-
-      KEY ENTITIES:
-      *   Tom Albritton
-      *   Mabel Amos Memorial Trust
-      *   Kimberly Boswell
-      *   Kay Ivey (Governor)
-      *   Admiral Kent Davis (ADVA Commissioner)
-      *   Andrew Jones (State Senator)
-      *   Ed Oliver (State Representative)
-      *   Greg Griffin (Montgomery County Circuit Court Judge)
-      *   Jim White (Special Fiduciary)
-      *   $7 million (ARPA funds)
+    brief: "THE CONFLICT:\n- In 2021, Mr. Ripp filed an ethics complaint and a bar complaint against Alabama Ethics Commission Director Tom Albritton, followed by a Writ of Mandamus in the Circuit Court of Montgomery County regarding alleged self-dealing.\n- Tom Albritton improperly benefited from the Mabel Amos Memorial Scholarship Trust where he served as a trustee, securing $135,000 in scholarships for his son and daughter starting in 2012 and continuing until 2019 (four years after taking his position as state ethics enforcer).\n- Special Fiduciary Jim White released a report detailing disbursements totaling $257,844 that violated trust articles regarding personal inurement and self-dealing, leading Montgomery County Circuit Court Judge Greg Griffin to remove Regions Bank as trustee and appoint White.\n- In 2022, candidate Still ran for Attorney General and campaigned against Tom Albritton's activities regarding the Mabel Amos Trust.\n- In a civil filing on a Tuesday, Attorney General Steve Marshall alleged Tom Albritton improperly benefited from the Trust.\n- Admiral Kent Davis, Commissioner of the Alabama Department of Veterans Affairs (ADVA), filed an ethics complaint at the direction of the State Board of Veterans Affairs claiming Department of Mental Health Director Kimberly Boswell colluded with other state officials to divert $7 million in American Rescue Plan Act (ARPA) funds intended for the ADVA.\n- The Ethics Commission dismissed the ADVA's complaint and allegedly leaked a copy to Governor Kay Ivey.\n- Following the complaint, the Alabama State Senate passed legislation 21-9 to restructure the State Board of Veterans Affairs, driven by Governor Kay Ivey and supported by State Senator Andrew Jones and State Representative Ed Oliver (mockingly awarded the \"Red Lips Award\").\n\nTHE DISCOVERY:\n- Background context shows that state government oversight and regulatory bodies (including the Alabama Ethics Commission, the Alabama Bar, and the Attorney General's office) routinely protect political insiders while retaliating against whistleblowers.\n- The historical record proves that Tom Albritton has faced years of documented allegations, investigative reporting by Lagniappe (Editor Rob Holbert), and legal challenges regarding the Mabel Amos Memorial Trust without facing removal or criminal prosecution.\n- The Department of Mental Health, led by Kimberly Boswell, was ranked 50th out of 51 states for access to mental health care in 2024 by Mental Health America, operating amidst unresolved allegations of diverting $7 million in federal ARPA funds originally designated for Alabama veterans.\n\nTHE PIVOT:\n- The historical reporting and court records from the 2021–2022 Mabel Amos Trust scandal serve as the ultimate smoking gun because they establish a multi-year pattern of corruption and self-dealing by the state's top ethics enforcer, Tom Albritton. \n- While the background reveals that Albritton flagrantly violated trust rules to funnel tens of thousands of dollars to his own children while serving on the Ethics Commission, the main article exposes that he remains comfortably in his position years later—proving that the entire oversight apparatus is weaponized to protect corrupt officials rather than police them.\n\nKEY ENTITIES:\n- Tom Albritton\n- Governor Kay Ivey\n- Jim White\n- Greg Griffin\n- Rob Holbert\n- Steve Marshall\n- Kimberly Boswell\n- Admiral Kent Davis\n- Andrew Jones\n- Ed Oliver\n- Greg Albritton\n- Chris Elliott\n- Vivian Davis Figures\n- Donna Givens\n- Alan Baker\n- Jennifer Fidler\n- Frances Holk-Jones\n- Matt Simpson\n- Shane Stringer\n- Cliff McCollum\n- Mabel Amos Memorial Trust\n- Alabama Ethics Commission\n- Alabama Department of Veterans Affairs (ADVA)\n- Alabama Department of Mental Health\n- Regions Bank"
+    llm_text: Alabama Ethics Director Tom Albritton funneled thousands from the Mabel Amos Trust to his own children while dodging prosecution. Read how this shocking corruption proves the state's top oversight body protects insiders instead of policing them.
     widget_date: "2025-03-03"
-    generated_at: "2026-11-05T23:22:31.658816Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:17:35.552045Z"
+    model_name: gemini-3.5-flash-lite
   veterans-rally:
+    brief: "THE CONFLICT: \n- In 2021, The Ripp Report filed an Ethics Complaint, a Bar Complaint, and a Writ of Mandamus in the Circuit Court of Montgomery County against Alabama Ethics Commission Director Tom Albritton. \n- The complaints alleged that Albritton engaged in self-dealing and improper benefit as a Trustee of the Mabel Amos Memorial Scholarship Trust.\n- Specifically, an investigative report by White revealed that Albritton's son and daughter received a combined total of $135,000 in scholarships from the Trust between 2012 and 2019 (spanning before and after he took his position as Ethics Director in 2015).\n- Total questionable distributions for scholarships awarded to children of board members and associates totaled $257,844, violating articles regarding personal inurement and self-dealing.\n- In 2022, Mr. Still ran against incumbent Attorney General Steve Marshall (R), campaigning heavily on the Mabel Amos Trust and Albritton's corrupt activities.\n- Lagniappe Editor Rob Holbert broke the story, with a follow-up print edition published on September 9th.\n\nTHE DISCOVERY: \n- Attorney General Steve Marshall filed a civil action alleging that Alabama Ethics Commission Director Tom Albritton improperly benefited from the Mabel Amos Memorial Scholarship Trust where Albritton served as a Trustee.\n- Despite the 2021 complaints, ongoing investigations by Lagniappe and The Ripp Report, and the civil filing by the Attorney General, Albritton remains in his position as Director of the Alabama Ethics Commission.\n\nTHE PIVOT: \n- The historical documentation of the 2021 complaints, combined with the Attorney General's civil filing and the investigative reports by Lagniappe, serve as the smoking gun proving systemic state-level hypocrisy and corruption. \n- It establishes that the state's top ethics enforcer has been credibly accused of years of financial self-dealing using children's scholarship money yet remains protected in his position, illustrating that Alabama oversight agencies exist to protect the corrupt rather than prosecute them.\n\nKEY ENTITIES: \n- Tom Albritton (Alabama Ethics Commission Director / Trustee)\n- Mabel Amos Memorial Scholarship Trust\n- Steve Marshall (Alabama Attorney General)\n- Mr. Ripp (The Ripp Report)\n- Rob Holbert (Lagniappe Editor)\n- White (Investigative Report Author)\n- Mr. Still (2022 Attorney General Candidate)"
+    llm_text: When Alabama Ethics Commission Director Tom Albritton funneled $135,000 in scholarship money to his own children, he proved our watchdog agencies protect the corrupt. Read how Tom Albritton clings to power despite our 2021 ethics complaints and AG Steve Marshall's civil action exposing this blatant self-dealing.
+    widget_date: "2025-02-23"
+    generated_at: "2026-11-06T05:17:40.666835Z"
+    model_name: gemini-3.5-flash-lite
+  letter-to-the-alabama-attorney-general:
     brief: |-
       THE CONFLICT:
-      *   Tom Albritton, Ethics Commission Director, was alleged to be "stealing" or "diverting" children’s scholarship money from the Mabel Amos Memorial Trust for over 12 years.
-      *   Albritton's son and daughter received $135,000 in scholarships (2012–2019).
-      *   Total disbursements fitting self-dealing criteria were $257,844.
-      *   In 2021, Attorney General Steve Marshall filed a Civil Filing alleging Albritton (as a "Trustee") improperly benefited.
-      *   Ripp Report/Lagniappe filed Ethics and Bar complaints against Albritton as far back as 2021.
+      - Francis Paul Ripp / The Ripp Report filed ethics complaints, Alabama Bar complaints, and a Writ of Mandamus in the Circuit Court of Montgomery County regarding Alabama Ethics Commission Director Tom Albritton.
+      - In 2021, the Ripp Report and Lagniappe exposed Tom Albritton for self-dealing as a trustee of the Mabel Amos Memorial Scholarship Trust.
+      - Tom Albritton's children (son and daughter) received a combined total of $135,000 ($105,000 specifically noted as going to his daughters for the University of Texas) in scholarships from the Mabel Amos Memorial Trust, with distributions starting in 2012 and continuing until 2019 (spanning before and after he became Ethics Director in 2015).
+      - A report by White cited violations of three articles of the trust's formation, including personal inurement and self-dealing, noting total suspicious disbursements of $257,844 to children of board members and associates.
+      - Attorney General Steve Marshall failed to respond to or investigate complaints delivered personally by Francis Paul Ripp in Montgomery regarding a Fairhope councilman using a board position for personal enrichment, instead passing complaints to the Bar and Ethics Commission.
+      - During the 2022 election cycle, candidate Still ran against incumbent AG Steve Marshall (R-Baldwin) and made stump speeches attacking the Ethics Commission, the Mabel Amos Trust, and Tom Albritton's activities.
 
       THE DISCOVERY:
-      *   The article serves primarily as a call to action for veterans regarding state government failures.
-      *   The context of "rock bottom" is tied to poor mental healthcare access (Alabama ranked 50th/51st) and high veteran suicide rates.
-      *   The state government is accused of failing veterans (e.g., ADVA issues, alleged diversion of $7 million ARPA funds).
-      *   The primary focus is encouraging veterans to rally and challenge politicians (e.g., Ed Oliver, Andrew Jones) who supported policies damaging veterans.
+      - The older widget article (the formal letter from Francis Paul Ripp to Alabama Attorney General Steve Marshall) demonstrates that the allegations, evidence, Lagniappe articles ("SELF-DEALING"), Ethics Complaints, Bar Complaints, and Writs of Mandamus concerning Tom Albritton's self-dealing have been actively pressed upon the Attorney General's office for years without meaningful prosecution or accountability from state enforcers.
 
       THE PIVOT:
-      *   Article 2 reinforces the core claim of "failed state" status by linking generalized governmental corruption (Albritton) to specific, tangible harm against a vulnerable population (Alabama Veterans), mobilizing public outrage against specific political figures.
+      - Article 2 serves as the smoking gun because it establishes a multi-year paper trail proving that the Attorney General's office was directly and formally notified of Tom Albritton's corruption via delivered investigative documents as early as 2021, yet state oversight bodies continue to shield Albritton, exposing the systemic hypocrisy and failure of Alabama's top law enforcement.
 
       KEY ENTITIES:
-      *   Tom Albritton
-      *   Mabel Amos Memorial Trust
-      *   Alabama Ethics Commission
-      *   Kay Ivey (Governor)
-      *   Veterans of Alabama
-      *   $7 million (ARPA funds)
-      *   Ed Oliver
-      *   Andrew Jones
-    widget_date: "2025-02-23"
-    generated_at: "2026-11-05T23:22:31.658816Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+      - Tom Albritton (Director, Alabama Ethics Commission / Trustee, Mabel Amos Memorial Trust)
+      - Francis Paul Ripp / The Ripp Report
+      - Steve Marshall (Alabama Attorney General)
+      - Rob Holbert (Editor, Lagniappe)
+      - Mabel Amos Memorial Scholarship Trust / Mabel Amos Memorial Fund
+      - White (Author of investigative report on the trust)
+      - Still (2022 Attorney General candidate)
+    llm_text: Francis Paul Ripp buried Alabama Attorney General Steve Marshall in hard proof that Ethics Director Tom Albritton funneled $135,000 in trust funds to his own kids. Marshall ignored the smoking-gun evidence for years, proving Alabama's top watchdogs protect their own corrupt cronies.
+    widget_date: "2021-07-16"
+    generated_at: "2026-11-06T05:17:47.232734Z"
+    model_name: gemini-3.5-flash-lite

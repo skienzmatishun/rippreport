@@ -1,0 +1,117 @@
+metadata:
+  generated_at: "2026-11-06T05:30:35.605096Z"
+  generator_version: 1.0.0
+  post_slug: they-dont-want-you-to-see-this-2
+  main_date: "2026-08-10"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  fairhope-wrongful-conviction:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. is serving life without parole for a murder he did not commit.
+      THE DISCOVERY: An Academy Award nominated Alabama Solution Documentary and related book details that the conviction was based on a coerced confession from another man, not physical evidence (DNA, weapon, witness).
+      THE PIVOT: There is no factual link provided between Murray Lawrence Jr.'s wrongful conviction and the May 19 political call to vote for Austin Sidwell or against Jerry Carl.
+      KEY ENTITIES: Murray Lawrence Jr., BCSO, Jerry Carl, Austin Sidwell, Alabama Solution Documentary
+    llm_text: Murray Lawrence Jr. serves life without parole for a murder he did not commit. The Alabama Solution Documentary proves his conviction relied solely on a coerced confession, ignoring all physical evidence like DNA.
+    widget_date: "2026-08-01"
+    generated_at: "2026-11-06T05:28:50.039083Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  court-of-public-opinion-3:
+    brief: |-
+      THE CONFLICT:
+      - Jerry Carl turned his back on Baldwin County.
+      - Main article: “Please vote toll bridge Jerry Carl OUT.”
+      - Main article: Vote Austin Sidwell for Congress.
+      - Main article: May 19. Show up. Vote. Shock them. We’re ready.
+      - Main article: “They told you it’s impossible. They told you your vote doesn’t count. They told you only money wins. They’re wrong. A vote for me or ANY candidate without a war chest is NOT wasted.”
+      - Main article: “This is how we break the system. This is how we force REAL change. May 19. Show up. Vote. Shock them. We’re ready. Vote Austin Sidwell for Congress. Let’s take it back.”
+      - Widget context: Hoss Mack / BCSO and Anthony Lowery principals in wrongful conviction of Murray Lawrence Jr.
+
+      THE DISCOVERY:
+      - BCSO under Hoss Mack ran social media vanity campaign.
+      - Hoss Mack requested $600,000 for cameras to protect citizens of Baldwin County.
+      - Hoss Mack promised in presence of County Commission that camera footage was for public view as well as police.
+      - Hoss Mack bare-faced lied; proceeded to expand Immunity coverage.
+      - BCSO blocked releasing any camera footage.
+      - BCSO investigated itself.
+      - BCSO had total immunity for any officer actions.
+      - BCSO had no transparency, no accountability.
+      - District Attorney licking one boot; State Senator licking other.
+      - BCSO had judges and lawyers who take BCSO actions as gospel.
+      - Mack developed dangerous culture adopted by Anthony Lowery.
+      - Baldwin County: person can be innocent, no warrant, no gun, shot dead by sheriff department; most likely no court will investigate or find guilty party responsible.
+      - BCSO snowing some general public; those who paid attention see entirely different picture.
+      - Hoss Mack working to secure Tommy Tuberville as governor; eye on heading Alabama League of Enforcement officers, ALEA.
+      - Electing resident of another state as Governor will secure position he desires.
+      - Mack and Lowery principals in wrongful conviction of Murray Lawrence Jr.
+      - Motive: self promotion; succeeded in conviction of innocent man.
+      - Lowery lead investigator; found not one shred of evidence.
+      - Book: account of wrongful conviction of Murray Lawrence in Baldwin County; how deep corruption runs.
+      - Book purchase: Page and Pallet Bookstore or order online.
+
+      THE PIVOT:
+      - Article 2 is older / background context; Article 1 is current campaign material.
+      - Article 2 is the smoking gun / key context for Article 1.
+      - Article 2 documents BCSO immunity, no camera footage, self-investigation, Mack / Lowery, Murray Lawrence Jr.
+      - Article 2 explains why Article 1 frames the vote against Jerry Carl / vote for Austin Sidwell as taking back country, breaking system, forcing real change.
+      - Article 2 provides background for Baldwin County accountability failures relevant to Article 1.
+
+      THE KEY ENTITIES:
+      - Jerry Carl
+      - Austin Sidwell
+      - Baldwin County
+      - BCSO / Baldwin County Sheriff Office
+      - Hoss Mack
+      - Anthony Lowery
+      - Murray Lawrence Jr.
+      - District Attorney
+      - State Senator
+      - County Commission
+      - Tommy Tuberville
+      - Alabama League of Enforcement officers / ALEA
+      - Page and Pallet Bookstore
+      - May 19
+      - $600,000
+      - Baldwin County Sheriff Office Protection Plan
+      - BCSO social media vanity campaign
+      - Wilters: not identified in provided text.
+    llm_text: Jerry Carl turned his back on Baldwin County, and Hoss Mack’s BCSO blocked camera footage after promising public view. Now vote Austin Sidwell for Congress on May 19 to take on a sheriff’s office that lied about immunity and justice.
+    widget_date: "2026-07-31"
+    generated_at: "2026-11-06T05:28:47.613708Z"
+    model_name: recursive/flint-v1.0:free
+  they-dont-want-you-to-see-this:
+    brief: "THE CONFLICT: \n- Austin Sidwell ran an insurgent campaign for Congress challenging incumbent Jerry Carl.\n- The election was scheduled for May 19.\n- Austin Sidwell ran on an anti-establishment platform targeting Jerry Carl, accusing him of turning his back on Baldwin County regarding the toll bridge issue.\n\nTHE DISCOVERY: \n- Historical context (Widget Article) established the core campaign messaging and grievances against Jerry Carl prior to the May 19 election.\n- The platform emphasized a lack of campaign financing (\"without a war chest\") as a disruptive tool to break the political system.\n\nTHE PIVOT: \n- The background material (Widget Article) serves as the smoking gun by revealing the exact populist rhetoric and anti-incumbent strategy Austin Sidwell deployed in his bid to oust Jerry Carl.\n\nKEY ENTITIES: \n- Jerry Carl (Incumbent candidate / Congressional target)\n- Austin Sidwell (Congressional candidate)\n- Baldwin County (Geographic location / Political battleground)"
+    llm_text: Austin Sidwell stormed the May 19 congressional race without a war chest, targeting incumbent Jerry Carl over the Baldwin County toll bridge betrayal. Read how Sidwell's raw populist rhetoric exposed the political establishment and fueled his fiery anti-establishment crusade.
+    widget_date: "2026-07-21"
+    generated_at: "2026-11-06T05:28:13.305586Z"
+    model_name: gemini-3.5-flash-lite
+  vote-2026:
+    brief: |-
+      THE CONFLICT: May 19 primary elections in Baldwin County involved calls to vote out long-serving incumbents due to alleged reliance on PACs and lobbyist money. Specific accusations included Mike Van (Baldwin County Senate District 32) being linked to "Stealing BP money" and passing legislation that limited sheriff qualifications.
+
+      THE DISCOVERY: Article 2 revealed a local political environment in Baldwin County where incumbents were targeted for corruption, including alleged rigged elections and fixed qualifications regulated by the GOB.
+
+      THE PIVOT: Article 2 provides the historical context of anti-establishment sentiment and systemic local corruption (GOB influence, incumbent failure) in Baldwin County, which frames the contemporary call in Article 1 to vote Jerry Carl OUT and support an outsider like Austin Sidwell.
+
+      KEY ENTITIES: Jerry Carl, Austin Sidwell, Matt McKenzie, Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill, Jeremiah Giles, Grant Blackburn, Whitney Scapecchi, Terry Waters, Mike Van, Danielle Dugger, Joe Freeman, GOB, Baldwin County.
+    llm_text: Baldwin County voters challenge incumbents like Mike Van over alleged PAC money and local corruption. Discover how outsiders Austin Sidwell and Jerry Carl shape the anti-establishment fight against GOB influence.
+    widget_date: "2026-05-18"
+    generated_at: "2026-11-06T05:30:17.801145Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  letter-to-ag-elections:
+    brief: "THE CONFLICT: \n- Historical elections in Baldwin County involving a 20-year culture of the Baldwin County Sheriff's Office (BCSO) characterized by no transparency, no accountability, and claiming immunity for all actions.\n- Suspended and strongly alleged reports of elections being fixed involving numerous races in Baldwin County in the past.\n- A high-profile Baldwin County Sheriff's race where the current sheriff was appointed by the Governor after the previous elected sheriff resigned to seek another political position.\n- Public complaints and warnings regarding suspected voter fraud and the compromised role of the Sheriff as the custodian of the ballot boxes, documented by Francis Paul Ripp based on 33 years of experience.\n\nTHE DISCOVERY: \n- Article 2 (dated May 17, 2026, serving as the historical/background context) revealed formal outreach and warnings sent to Alabama Secretary of State Wes Allen and Director of Elections Jeff Elrod regarding a \"Good Ole Boy\" culture and election integrity concerns in Baldwin County.\n- It exposed the structural conflict of interest in Baldwin County where the Sheriff acts as the custodian of the ballot boxes amidst an infamous reputation for lack of transparency and accountability.\n- It documented explosive population growth and a shifting demographic in Baldwin County that was actively clashing with the entrenched political status quo and demanding change.\n\nTHE PIVOT: \n- Article 2 provides the critical background context of systemic corruption, fixed elections, and a compromised sheriff's office in Baldwin County, directly laying the groundwork for the anti-establishment rebellion seen in Article 1.\n- It proves that the current insurgent campaigns (such as Austin Sidwell's challenge against Jerry Carl) are not happening in a vacuum, but are part of a long-standing, documented battle against a rigged, \"good ole boy\" political and electoral system in Baldwin County.\n\nKEY ENTITIES: \n- Francis Paul Ripp (The Ripp Report)\n- Wes Allen (Alabama Secretary of State)\n- Jeff Elrod (Director of Elections)\n- Jerry Carl (Congressional Candidate)\n- Austin Sidwell (Congressional Candidate)\n- Baldwin County Sheriff's Office (BCSO)\n- Baldwin County"
+    llm_text: For decades, the Baldwin County Sheriff's Office dodged accountability while fixing local elections behind closed doors. Discover how Francis Paul Ripp warned Alabama officials about this rigged system, proving today's anti-establishment revolt is decades overdue.
+    widget_date: "2026-05-17"
+    generated_at: "2026-11-06T05:28:19.757037Z"
+    model_name: gemini-3.5-flash-lite
+  kristy-haygood-is-not-qualified-2:
+    brief: "THE CONFLICT: \n- Murray Lawrence has been wrongfully incarcerated for over 20 years on bogus charges.\n- Prosecutors and officials withheld evidence from the defense, constituting a clear Brady violation (failure to disclose favorable evidence to the defense).\n- Officials responsible for the wrongful conviction and subsequent refusal to admit error include Assistant District Attorney Kristi Hagood, Anthony Lowery, Hoss Mack, Robert Wilters, and David Whetstone.\n\nTHE DISCOVERY: \n- Article 2 (older background context) exposes a systemic pattern of judicial and prosecutorial misconduct in the local justice system, specifically naming individuals involved in securing and upholding a wrongful conviction over a two-decade span.\n- It highlights specific legal failures, labeling the withholding of evidence by Lowery, Mack, Wilters, and Whetstone, alongside errors by Kristi Hagood, as disqualifying for judicial office.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun regarding establishment corruption and systemic failure within the local legal and political machine, directly connecting to the anti-establishment, \"break the system\" sentiment of Article 1. \n- While Article 1 targets political figures like Jerry Carl for turning their backs on the community, Article 2 proves that the rot extends deep into the local justice and judicial apparatus (involving judges, DAs, and sheriffs), validating the necessity of voting against compromised incumbents and supporting disruptive candidates like Austin Sidwell and Jeremiah Giles.\n\nKEY ENTITIES: \n- Jerry Carl (Congress / Toll Bridge candidate)\n- Austin Sidwell (Congressional candidate)\n- Francis Paul Ripp (The Ripp Report / Alabama Exposure and Accountability LLC)\n- Kristi Hagood (Assistant District Attorney / Judicial candidate)\n- Anthony Lowery\n- Hoss Mack\n- Robert Wilters\n- David Whetstone\n- Murray Lawrence (Incarcerated individual)\n- Jeremiah Giles (Candidate)"
+    llm_text: For over 20 years, Murray Lawrence has suffered wrongful incarceration while prosecutors like Kristi Hagood and Anthony Lowery hid crucial evidence. This smoking gun proves local justice is utterly corrupt, making your vote for disruptors like Austin Sidwell vital.
+    widget_date: "2026-05-14"
+    generated_at: "2026-11-06T05:28:25.498325Z"
+    model_name: gemini-3.5-flash-lite
+  lowery-puts-campaign-first-immigration-enforcement:
+    brief: "THE CONFLICT: \n- An open letter/contribution published by a \"Concerned Baldwin County Citizen\" addressed to Sheriff Anthony Lowery and citizens of Baldwin County, Alabama.\n- Allegations that the Baldwin County Sheriff's Office (BCSO) quietly stepped back from active cooperation with federal immigration enforcement.\n- Allegations that this policy rollback was directly tied to the current election cycle and Sheriff Lowery's political standing, prioritizing campaign strategy over public safety and citizen security ahead of the May 19th election.\n\nTHE DISCOVERY: \n- Historical documentation (Widget Article) proving that political maneuvering and accusations of putting campaigns ahead of public safety have actively plagued Baldwin County local law enforcement races.\n- Visual and textual evidence showing Sheriff Anthony Lowery campaigning alongside federal immigration enforcement imagery while facing public accusations of reducing immigration cooperation for political gain.\n\nTHE PIVOT: \n- Article 2 provides the critical historical context of local political corruption and compromised public safety enforcement in Baldwin County. \n- It serves as the baseline for Article 1's broader anti-establishment crusade, proving that local officials like Sheriff Lowery and federal figures like Jerry Carl are part of a connected system where politicians consistently put self-interest, money, and campaigns over the safety and representation of Baldwin County residents.\n\nKEY ENTITIES: \n- Sheriff Anthony Lowery\n- Jerry Carl\n- Austin Sidwell\n- McKenzie\n- Hoss Mack\n- Baldwin County Sheriff's Office (BCSO)"
+    llm_text: Sheriff Anthony Lowery quietly pulled back immigration enforcement to protect his campaign, trading public safety for political survival ahead of the May 19th election. Read our historical archive to see how politicians like Lowery and Jerry Carl consistently put self-interest above Baldwin County residents.
+    widget_date: "2026-05-11"
+    generated_at: "2026-11-06T05:28:32.147711Z"
+    model_name: gemini-3.5-flash-lite

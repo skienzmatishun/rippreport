@@ -16,7 +16,7 @@ func TestLoadConfig_ValidConfig(t *testing.T) {
 	validConfig := `
 llama_server:
   base_url: "http://localhost:8080"
-  embedding_model: "nomic-embed-text-v1.5"
+  embedding_model: "/Volumes/1tb/models/unsloth/embeddinggemma-2-GGUF/embeddinggemma-2-UD-Q4_K_XL.gguf"
   llm_model: "qwen3-14b"
   timeout: 120s
   min_request_delay: 100ms

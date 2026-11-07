@@ -1,0 +1,82 @@
+metadata:
+  generated_at: "2026-11-06T11:07:30.189651Z"
+  generator_version: 1.0.0
+  post_slug: audio-of-bay-minette-attorney-councilman-fight-offers-new-details
+  main_date: "2025-11-23"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  heart-of-dixie-podcast:
+    brief: |-
+      THE CONFLICT:
+      *   September 3: Fight occurred in downtown Bay Minette between attorney Harry Still and Councilman Matthew Franklin.
+      *   Former Mayor Bob Wills and former police chief Al Tolbert stated Still attacked Franklin; Still countered that Franklin attacked him.
+      *   Still was arrested for assault and booked into the Baldwin County Jail.
+      *   Tolbert resigned on Nov. 3 and subsequently joined the Baldwin County Sheriff’s Office (BCSO) as a deputy.
+      *   Still is currently scheduled to appear in Baldwin County Municipal Court on December date.
+
+      THE DISCOVERY:
+      *   The earlier podcast discussion (Widget Article) questioned the official narrative (denying "stomping") and framed Still's actions as protected political speech regarding corruption.
+      *   A leaked internal BCSO email revealed Sheriff Anthony Lowery directing deputies to pre-target Harry Still at a Republican event ("do what you need to do").
+      *   This action was alleged to be viewpoint-based policing and potential First Amendment retaliation under 18 U.S.C. § 242.
+
+      THE PIVOT:
+      *   Article 2 provided the initial context of institutional bias and potential police misconduct (Lowery's directive) immediately following the arrest, establishing a motive beyond the physical altercation.
+      *   Article 1 confirms the incident details, the contradictory accounts, and the police actions (attempted involuntary commitment, petition for competency) detailed in Article 2, while providing updated legal and political context (Brown's election, Tolbert's resignation/new role).
+
+      KEY ENTITIES:
+      *   Harry Still (Bay Minette attorney)
+      *   Matthew Franklin (City Councilman)
+      *   Bob Wills (Former Mayor)
+      *   Al Tolbert (Former police chief; now BCSO deputy)
+      *   Joshua Brown (Mayor-elect)
+      *   Anthony Lowery (BCSO Sheriff)
+      *   Baldwin County Sheriff’s Office (BCSO)
+      *   Bay Minette
+      *   September 3
+      *   August 26 (Mayoral election date)
+      *   November 3 (Tolbert resignation)
+      *   December (Court date)
+    llm_text: Did the Bay Minette fight between Harry Still and Councilman Matthew Franklin hide something? A leaked BCSO email shows Sheriff Anthony Lowery directed deputies to pre-target Still, raising major First Amendment retaliation concerns.
+    widget_date: "2025-11-21"
+    generated_at: "2026-11-06T11:04:48.122701Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fauxhope-4:
+    brief: |-
+      THE CONFLICT:
+      Harry Still and Councilman Matthew Franklin fought in Franklin's downtown Bay Minette office on Sept. 3.
+      Former Mayor Bob Wills and Al Tolbert stated Still attacked Franklin.
+      Still countered that Franklin attacked him.
+      Al Tolbert resigned on Nov. 3 and joined the Baldwin County Sheriff’s Office.
+
+      THE DISCOVERY:
+      Article 2 details systemic development issues in Fairhope (Fauxhope), including extensive tree removal (e.g., near Publix on Parker Road) and alleged corruption in projects, such as the waterfront project (ballooned from $6.2 Million to $10 Million).
+
+      THE PIVOT:
+      Neither article provides a direct factual link; however, both expose similar themes of local political opacity, unchecked developer influence, and lack of governmental accountability (e.g., Joshua Brown defeating Bob Wills; developer-friendly Council/Mayor in Fairhope).
+
+      KEY ENTITIES:
+      Harry Still
+      Matthew Franklin
+      Bob Wills
+      Al Tolbert
+      Joshua Brown
+      Boone Brown
+      Burrell
+      Publix
+      Baldwin County
+      Fairhope
+      Bay Minette
+    llm_text: Harry Still and Councilman Matthew Franklin fought in Bay Minette, but local political opacity runs deeper. Discover how Fairhope's waterfront project ballooned from $6.2M to $10M amid unchecked developer influence.
+    widget_date: "2025-11-14"
+    generated_at: "2026-11-06T11:06:08.262831Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  biased-investigation:
+    brief: |-
+      THE CONFLICT: Otis French was killed by a BCSO deputy following an encounter with police in Bay Minette. The Mayor-elect, Joshua Brown, led protests against this fatal shooting.
+      THE DISCOVERY: Article 2 reveals a historical pattern of institutional opacity, specifically noting that Baldwin County MCU Lt. Andre Reid stated officer body camera footage would not be released, and the officer involved in the French shooting remains unnamed.
+      THE PIVOT: This established history of lack of transparency, distrust in law enforcement, and the powerful political role of the BCSO Sheriff provides the context for Harry Still’s extreme criticism of former officials like Al Tolbert and his subsequent refusal to trust the BMPD during the September 3 fight with Councilman Matthew Franklin, leading him to involve the Baldwin County Sheriff’s Office.
+      KEY ENTITIES: Harry Still, Matthew Franklin, Bob Wills, Al Tolbert, Joshua Brown, Otis French, Andre Reid, Baldwin County Sheriff’s Office (BCSO), Bay Minette Police Department (BMPD)
+    llm_text: Joshua Brown led protests after Otis French was killed by a BCSO deputy. Despite Lt. Andre Reid refusing body camera footage, the officer remains unnamed, exposing a history of institutional opacity in Baldwin County.
+    widget_date: "2022-09-24"
+    generated_at: "2026-11-06T11:07:16.524851Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

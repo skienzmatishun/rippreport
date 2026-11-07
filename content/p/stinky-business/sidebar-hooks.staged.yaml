@@ -1,0 +1,154 @@
+metadata:
+  generated_at: "2026-11-06T23:37:55.557421Z"
+  generator_version: 1.0.0
+  post_slug: stinky-business
+  main_date: "2022-05-19"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  talking-heads:
+    brief: |-
+      THE CONFLICT:
+      *   In 2010, Senator Trip Pittman took BP contracts during the oil spill.
+      *   Commissioners Chris Elliott and Tucker Dorsey formed a block vote of two and covered for Pittman.
+      *   Pittman subsequently resigned.
+      *   Tucker Dorsey was later voted out of office.
+
+      THE DISCOVERY:
+      *   Baldwin County has a commission of only four commissioners, which creates a high risk of deadlock or split vote.
+      *   The current potential block vote involves Jeb Ball and Johnathan Armstrong, which is predicted to lead to Baldwin County suffering for four more years.
+
+      THE PIVOT:
+      *   The historical precedent of the Elliott/Dorsey block vote and the cover-up of Senator Pittman demonstrates past political failures in Baldwin County.
+      *   This history of block voting and inaction is the key context for the current refusal by the County Commission (including Ball/Armstrong) to regulate the unregulated Baldwin County Sewer Services (BCSS).
+      *   The current political structure risks repeating the past failures concerning BCSS regulation.
+
+      KEY ENTITIES:
+      *   Baldwin County Sewer (BCSS)
+      *   Baldwin County
+      *   Alabama
+      *   Jeb Ball
+      *   Johnathan Armstrong
+      *   Matt McKenzie
+      *   Steve Carey
+      *   Chris Elliott
+      *   Tucker Dorsey
+      *   Senator Trip Pittman
+      *   ADEM
+      *   Eric H. Meyer Civic Center
+      *   Gulf Shores
+      *   Costa Rica
+      *   2010 (oil spill)
+      *   May 19 (public hearing date)
+      *   May 24 (election date)
+    llm_text: The historic block vote that covered for Senator Trip Pittman in 2010 repeats in Baldwin County. Jeb Ball and Johnathan Armstrong's current standoff risks four more years of unregulated Baldwin County Sewer Services (BCSS).
+    widget_date: "2022-05-18"
+    generated_at: "2026-11-06T23:32:48.934102Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  shooting-yourself-in-the-foot:
+    brief: |-
+      THE CONFLICT: In 2007, Baldwin Substance Abuse Services Inc. (BSAS) was founded through the District Attorney’s office by Judge Michell Thomason and was a no-bid contract, with Jeb Ball being selected as director.
+      THE DISCOVERY: Baldwin County Sewer Services (BCSS) is the only private, unregulated sewer utility in Alabama; the County commission has refused to regulate BCSS, which uses county right-of-ways for subdivision development and has raised rates at will.
+      THE PIVOT: The historical pattern of judges/lawyers monetizing county resources (BSAS/Ball's double paycheck) establishes a precedent of unregulated, non-accountable entities (BCSS), linking political control (Catalyst) to financial conflicts of interest in Baldwin County.
+      KEY ENTITIES: Baldwin County Sewer (BCSS), Baldwin County, Jeb Ball, Johnathan Armstrong, Steve Carney, Matt McKenzie, Catalyst, Baldwin Substance Abuse Services Inc. (BSAS), Judge Michell Thomason, ADEM, Eric H. Meyer Civic Center.
+    llm_text: Jeb Ball directed the no-bid BSAS in 2007, establishing a precedent of local power monetizing county resources. Now, unregulated Baldwin County Sewer Services (BCSS) raises rates at will, proving the county refuses essential financial accountability.
+    widget_date: "2022-05-17"
+    generated_at: "2026-11-06T23:35:14.215439Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fried-chicken-and-watermelon:
+    brief: |-
+      THE CONFLICT:
+      *   Former Mayor Tim Can’t ignored Fairhope infrastructure for 16 years, particularly neglecting the African American Community on Young Street.
+      *   Current Mayor Wilson’s administration was awarded over $10 million in grants for sewer and infrastructure.
+      *   Council President Jack Burrell, Councilman Boone, and Councilman Brown were involved in a $2.65 million farmland purchase near the airport, leased back for $9,000/year.
+
+      THE DISCOVERY:
+      *   The Fairhope Comprehensive Plan is criticized for encouraging development (e.g., Publix strip center, sub-standard soccer fields) while neglecting core community needs, especially the African American Community.
+      *   The City of Fairhope violates its own rules and comprehensive plan regularly, prioritizing developers.
+
+      THE PIVOT:
+      *   The historical context of development focus and municipal neglect in Fairhope (Article 2) is directly linked to the current unregulated infrastructure crisis where Baldwin County Sewer (BCSS) operates as an unregulated, private utility in Alabama (Article 1).
+      *   BCSS is involved in land and business fraud lawsuits, and the Baldwin County commission refuses to regulate it despite its expansion of development sprawl using county right of ways.
+
+      KEY ENTITIES:
+      *   Baldwin County Sewer (BCSS)
+      *   Baldwin County commission
+      *   ADEM
+      *   Tim Can’t (Former Mayor)
+      *   Mayor Wilson (Current Mayor)
+      *   Jack Burrell (Council President)
+      *   Councilman Boone
+      *   Councilman Brown
+      *   Gulf Shores
+      *   May 19 (Public Hearing date)
+      *   Eric H. Meyer Civic Center
+      *   Young Street Youth Club (Fairhope Rotary Youth Club)
+    llm_text: Former Mayor Tim Can’t ignored Young Street for 16 years, neglecting the African American community. Now, Mayor Wilson received $10M in grants while Council President Jack Burrell and Councilman Boone handled a $2.65M farmland purchase—read how BCSS fraud fuels Fairhope’s neglect.
+    widget_date: "2021-11-04"
+    generated_at: "2026-11-06T23:36:26.836627Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  got-fleas:
+    brief: |-
+      THE CONFLICT:
+      *   The Fairhope Waterfront Project, a $6.2 million stabilization project funded by the RESTORE Act (BP oil spill funds), was initially planned over 18 months.
+      *   Municipal elections led to a new administration that changed the resilient plan to short-sighted maintenance.
+      *   Howling Raines criticized this change in a letter to Sherry Sullivan and Council President Jack Burrell, concerned the proposal lacked full citizen vetting.
+
+      THE DISCOVERY:
+      *   Article 2 demonstrated that political distortion and prioritizing special interests over public input compromised a major RESTORE Act funding project in Fairhope.
+
+      THE PIVOT:
+      *   Article 2 provides historical context showing local governance (Fairhope Council/Mayor Wilson) has a pattern of failing to protect public resources ($6.2M RESTORE Act) against political interests, paralleling the refusal of Baldwin County Commission to regulate BCSS, allowing unregulated private entities to raise rates at will and engage in fraud (Article 1).
+
+      KEY ENTITIES:
+      *   Baldwin County Sewer (BCSS)
+      *   Baldwin County Commission
+      *   ADEM
+      *   Fairhope Waterfront Project
+      *   $6.2 million
+      *   RESTORE Act
+      *   Sherry Sullivan
+      *   Mayor Wilson
+      *   Howling Raines
+      *   Jack Burrell
+      *   May 19 (ADEM hearing date)
+    llm_text: Howling Raines criticized the new plan that ditched the resilient $6.2 million Fairhope Waterfront Project. See how Mayor Wilson's administration prioritized special interests over public input, mirroring Baldwin County's BCSS failures.
+    widget_date: "2021-04-01"
+    generated_at: "2026-11-06T23:37:39.914487Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-justice:
+    brief: |-
+      THE CONFLICT:
+      1. Ronan McSharry assaulted Paula DiNardi.
+      2. Paula DiNardi sustained $10,000 in medical bills and lost her job.
+      3. Fairhope Municipal Attorney Marcus McDowell failed in his duties regarding DiNardi's assault case, potentially resulting in litigation against the city.
+      4. Other officials linked to CATALYST include Councilman Robert Brown, Jack Burrell, Sen Tripp Pittman ($750,000 BP theft), Mayor Cant (misuse of FEMA funds), and Senator Chris Elliott (DUI charge).
+
+      THE DISCOVERY:
+      1. CATALYST is identified as the common denominator for political corruption and abuse of law in Baldwin County and Fairhope.
+      2. The Baldwin County Judicial System is described as broken, lacking citizen confidence.
+      3. The Fairhope City Council appointed Marcus McDowell despite his failure in handling the assault case.
+
+      THE PIVOT:
+      1. Article 2 establishes a pattern of systemic, unchecked local power, corruption, and judicial failure (CATALYST influence) in Baldwin County.
+      2. This context frames the refusal by the Baldwin County commission to regulate the private, unregulated Baldwin County Sewer (BCSS) as a continuation of this systemic failure to hold powerful local entities accountable.
+      3. BCSS operates outside regulatory oversight, raising rates at will and engaging in land/business fraud, fitting the pattern of unchecked power described in Article 2.
+
+      KEY ENTITIES:
+      1. Baldwin County Sewer (BCSS)
+      2. Paula DiNardi
+      3. Ronan McSharry
+      4. Marcus McDowell (Fairhope Municipal Attorney)
+      5. CATALYST
+      6. Baldwin County Commission
+      7. Fairhope City Council
+      8. Councilman Robert Brown
+      9. Jack Burrell
+      10. Sen Tripp Pittman
+      11. Mayor Cant
+      12. Senator Chris Elliott
+      13. Gulf Shores (Location of BCSS hearing)
+      14. May 19 (Date of ADEM public hearing)
+    llm_text: Ronan McSharry assaulted Paula DiNardi, yet Municipal Attorney Marcus McDowell failed her case, highlighting CATALYST's systemic corruption in Baldwin County. Unchecked power now lets Baldwin County Sewer raise rates and commit fraud, demanding public accountability at the May 19 Gulf Shores hearing.
+    widget_date: "2020-05-21"
+    generated_at: "2026-11-06T23:34:26.747351Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

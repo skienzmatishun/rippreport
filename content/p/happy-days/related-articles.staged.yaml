@@ -1,5 +1,5 @@
 post_slug: happy-days
-generated: 2026-11-05T11:31:19.211814-06:00
+generated: 2026-11-05T21:12:57.301492-06:00
 articles:
   - slug: press-release
     title: PRESS RELEASE
@@ -9,23 +9,27 @@ articles:
     title: TROLLS FOR TOLLS
     score: 100
     rank: 2
-  - slug: southern-gothic
-    title: SOUTHERN GOTHIC
-    score: 94
-    rank: 3
   - slug: mcsharry-madness
     title: McSHARRY MADNESS
     score: 50
-    rank: 4
+    rank: 3
   - slug: get-zoned-or-get-screwed
     title: GET ZONED or GET SCREWED
     score: 50
-    rank: 5
+    rank: 4
   - slug: black-cloud
     title: BLACK CLOUD
     score: 50
-    rank: 6
+    rank: 5
   - slug: fauxhope
     title: FAUXHOPE
     score: 50
+    rank: 6
+  - slug: liar-liar-pants-on-fire-2
+    title: LIAR LIAR PANTS ON FIRE
+    score: 50
     rank: 7
+  - slug: stark-reality
+    title: A Stark Reality
+    score: 85
+    rank: 8

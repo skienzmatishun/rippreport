@@ -1,0 +1,23 @@
+metadata:
+  generated_at: "2026-11-06T18:16:16.534367Z"
+  generator_version: 1.0.0
+  post_slug: Smell-Test
+  main_date: "2024-02-19"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  vote-smart:
+    brief: |-
+      THE CONFLICT: Systemic control of Baldwin County politics by the Good Ole Boys (GOB) or Catalyst, involving past operatives Lynn Stacy, Stacy Haygood (Mayor of Daphne), and Elliott (County Commissioner).
+      THE DISCOVERY: Article 2 revealed the historical pattern of GOB/Catalyst placing select candidates to maintain the status quo and control positions over many years.
+      THE PIVOT: Article 2 establishes the long-standing systemic control (GOB/Catalyst) that Article 1 demonstrates is actively operating in the current election (Andrea Lindsey's party switching and tied donations).
+      KEY ENTITIES: Carrie Hosier, Andrea Lindsey, Superintendent Tyler, Eddie Tyler, John Gray, Lynn Stacy, Stacy Haygood, Elliott, Baldwin County School Board District 2, March 5th (Election Date).
+    llm_text: Baldwin County politics aren't organic; the Good Ole Boys (GOB) have controlled the status quo for years using figures like Mayor Stacy Haygood. Discover how GOB power impacts the March 5th election and Andrea Lindsey's critical party switch.
+    widget_date: "2024-02-13"
+    generated_at: "2026-11-06T18:15:52.748372Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-ethics-commission-hide-the-list:
+    brief: "THE CONFLICT: \n- Between 2013 and 2021, $3.2 million from the Mabel Amos Trust was improperly distributed as scholarships to privileged kids (belonging to judges, bankers, lawyers, and politicians) rather than deserving, qualified children.\n- Tom Albritton served as a trustee of the Mabel Amos Trust while simultaneously acting as the Executive Director of the Alabama Ethics Commission.\n- Albritton and the Alabama Bar pushed to keep the recipient list sealed, while plaintiffs and *Lagniappe* demanded the names be made public.\n- Alabama Attorney General Steve Marshall’s office intervened in civil litigation, and a deal was reached with Regions Bank to make the trust whole.\n- On January 17, Superintendent Tyler’s wife made a $1,000 campaign donation to Daphne school board incumbent and candidate Andrea Lindsey.\n- On January 18 (verified by video), Andrea Lindsey seconded and voted for a motion to give Superintendent Tyler's wife a promotion, following a prior change to the position's required credentials.\n\nTHE DISCOVERY: \n- Article 2 (historical context) revealed deep-rooted political corruption involving Tom Albritton, who used his position as Ethics Commission Executive Director to dismiss legitimate citizen ethics complaints while allegedly shielding the \"Good Ole Boys\" (GOB) network who benefited from the Mabel Amos Trust funds.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it establishes a systemic pattern of institutional corruption and cover-ups by Alabama officials (like Tom Albritton), directly mirroring the \"barely legal\" and unethical quid pro quo behavior exposed in Article 1 regarding Baldwin County’s GOB network, Superintendent Tyler, and Andrea Lindsey.\n\nKEY ENTITIES: \n- Tom Albritton\n- Andrea Lindsey\n- Carrie Hosier\n- Superintendent Eddie Tyler (and Mrs. Tyler)\n- John Gray\n- Steve Marshall\n- Amanda Priest\n- Cameron Mixon\n- Mabel Amos Trust\n- Regions Bank\n- Alabama Ethics Commission\n- *Lagniappe* (Mobile newspaper)\n- Governor Kay Ivey"
+    llm_text: Tom Albritton shielded the elite beneficiaries of the Mabel Amos Trust while leading the Ethics Commission. Discover how this historic cover-up mirrors Baldwin County's current "Good Ole Boys" corruption network.
+    widget_date: "2024-01-29"
+    generated_at: "2026-11-06T18:15:11.712048Z"
+    model_name: gemini-3.5-flash-lite

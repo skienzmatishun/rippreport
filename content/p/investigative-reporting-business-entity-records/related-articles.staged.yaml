@@ -1,5 +1,5 @@
 post_slug: investigative-reporting-business-entity-records
-generated: 2026-11-05T11:34:13.05021-06:00
+generated: 2026-11-05T21:15:06.503479-06:00
 articles:
   - slug: follow-bouncing-ball
     title: FOLLOW THE BOUNCING BALL
@@ -9,7 +9,19 @@ articles:
     title: A SPIDER’S WEB
     score: 100
     rank: 2
+  - slug: driving-under-the-influence
+    title: Driving Under the Influence - A SOURCE OF STEADY INCOME...for Whom?
+    score: 70
+    rank: 3
+  - slug: you-re-fired
+    title: YOU'RE FIRED
+    score: 63
+    rank: 4
   - slug: investigative-reporting
     title: INVESTIGATIVE REPORTING
     score: 50
-    rank: 3
+    rank: 5
+  - slug: memorial-day-special-edition
+    title: Memorial Day Special Edition - R&R Billboards
+    score: 94
+    rank: 6

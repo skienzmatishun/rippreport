@@ -1,0 +1,184 @@
+metadata:
+  generated_at: "2026-11-06T19:38:47.447083Z"
+  generator_version: 1.0.0
+  post_slug: elliott-history-lesson
+  main_date: "2023-07-15"
+  model_name: plugsky-lite
+hooks:
+  moma-bear:
+    brief: |-
+      THE CONFLICT: No specific conflict involving Senator Chris Elliott or Mayor Sullivan is dated in the older widget article.
+      THE DISCOVERY: The widget article discusses injustice in Baldwin County Family Court and names Judge Michelle Thomason.
+      THE PIVOT: The older article does not provide context for the political corruption or allegations against Elliott; it only references the Baldwin County Delegation and Mayor Bob.
+      KEY ENTITIES: Senator Chris Elliott, Mayor Sullivan, Hoss Mack, Bob Wills, Dr. Maigen Sullivan, Baldwin County Delegation, Judge Michelle Thomason, Porch Indians
+    llm_text: Judge Michelle Thomason faces Baldwin County Family Court injustice, but how does this connect to allegations against Senator Chris Elliott? Read more about the Baldwin County Delegation and Mayor Sullivan now.
+    widget_date: "2023-07-12"
+    generated_at: "2026-11-06T19:37:42.115964Z"
+    model_name: plugsky-lite
+  alien-indictment:
+    brief: |-
+      THE CONFLICT:
+      - Senator Chris Elliott, State Senator in Baldwin County, Alabama.
+      - Elliott is described as a Hoss Mack errand boy and works independent of the Baldwin County Delegation.
+      - The Baldwin County Delegation often became aware of Mr. Elliott’s public relations events after they became public.
+      - Elliott’s political retaliation against the Alabama archives is described as shameless grandstanding and a threat to accurate history.
+      - Dr. Maigen Sullivan, co-founder of the Invisible Histories Project, said calls to restrict historical discussion of marginalized communities are fascist.
+      - Sullivan told APR, “Restricting marginalized history is textbook fascism.”
+      - Elliott is again carrying the water for Sheriff Hoss Mack.
+      - Elliott’s wife has worked for the sheriff since Chris was elected to office in Baldwin County.
+      - Sheriff Hoss Mack is the political director behind anything happening in Baldwin County.
+      - The fifth commissioner may be a good idea but allowing Elliott to spearhead this attempt should set fire to your hair.
+      - The local opposition to this legislation is overwhelming.
+      - The voters should decide not Chris Elliott.
+      - The Baldwin County delegation has remained silent.
+      - Delegates have voiced concerns about Elliott running rogue and not consulting the delegation prior to legislation.
+      - Senator Chris Elliott is one of the major architects of this dirty lease.
+      - Elliott vehemently defended the lease to greedy Bob Wills on radio and in church.
+      - Elliott remembered for the 1% tax he shoved down throats, or the DUI he promised to face up to, only to climb in a hole and have attorneys get him off the hook.
+      - Elliott also thinks poor people should be denied access to health care.
+      - Senator Elliott has a direct link to the Porch Indians.
+      - Elliott was bombastic in his defense of Mayor Bob, cover-up, Wills sleazy deal to rent office space to the Baldwin County Delegation.
+      - If cover-up Bob can do it, why can’t Senator Elliott.
+      - It is reported that Elliott rents property to Rolin Construction, a Porch Creek Indian company.
+      - Clear that up for us, Chris.
+      - Politicians like Mr. Elliott are the foundation of Alabama political corruption.
+      - Alabama is the laughing stock of the United States.
+      - Baldwin County is viewed, by Goat Hill, as a piggy bank, only.
+      - Why? Because Senator Chris Elliott has alienated the Governor and the big goats on the hill.
+      - Elliott has a lone wolf reputation of promoting himself rather than the interests of the people.
+      - Past context: Supreme Court of the United States again step-childs Alabama in a decision related to how U.S. House Districts are not compliant with the Voting Rights Act of 1965.
+      - Huge gamble and loss for Alabama Attorney General Steve Marshall.
+      - Former President indicted for mishandling classified documents.
+      - Former Secretary of State Hillary Clinton was given a “pass” by FBI Director James Comey prior to the 2016 election.
+
+      THE DISCOVERY:
+      - This week: Executive Branch (Defense Department) has been concealing from Congress and the American People the existence of non-human remains and technology in the form of aerial vehicles recovered over the last 50 years.
+      - Former President indicted for mishandling classified documents.
+      - Hottie Colorado Rep. Lauren Bobert claims to have seen evidence of a $5M bribery scheme involving President Biden when he was Vice President.
+      - President Biden’s response at the following presser was rehearsed.
+      - Baldwin County really lose in distribution of almost $20B this legislative session or were we sold down the river so the Creek Indians could maintain their status quo monopoly?
+      - Name Image and Likeness is the talk of DC with Coach Saban in town to try and maintain his recruiting dynasty.
+      - Instagram algorithm helped connect pedophiles.
+      - Certain parties want you support a 28th Amendment to the United States Constitution for the purpose of gun control.
+      - Homework: read Unrestricted Warfare, book written by two PLA air force political officers, Senior Col. Qiao Liang and Senior Col. Wang Xiangsui.
+
+      THE PIVOT:
+      - Article 2 is older and should be framed as background/historical context.
+      - Article 2’s facts include executive branch concealment, non-human remains, aerial vehicles, former President classified documents indictment, Hillary Clinton FBI pass, Supreme Court Alabama/Voting Rights Act 1965, Alabama AG Steve Marshall, Lauren Bobert $5M bribery claim, President Biden response, Baldwin County $20B distribution, Creek Indians, Name Image and Likeness, Coach Saban, Instagram pedophiles, 28th Amendment, Unrestricted Warfare.
+      - Article 2 is the smoking gun/key context for Article 1 because it places Senator Chris Elliott, Sheriff Hoss Mack, Mayor Bob Wills, dirty lease, Elliott retaliation, Alabama archives, Invisible Histories Project, fascist restriction claims, and Baldwin County corruption within a broader context of government secrecy, legal cases, bribery claims, and political corruption.
+
+      THE KEY ENTITIES:
+      - Senator Chris Elliott
+      - Sheriff Hoss Mack
+      - Dr. Maigen Sullivan
+      - Invisible Histories Project
+      - Baldwin County Delegation
+      - Alabama Archives
+      - Mayor Bob Wills
+      - Bob Wills
+      - Porch Indians
+      - Porch Creek Indian company
+      - Rolin Construction
+      - Fifth Commissioner
+      - Alabama Attorney General Steve Marshall
+      - Hillary Clinton
+      - FBI Director James Comey
+      - President Biden
+      - Rep. Lauren Bobert
+      - Coach Saban
+      - Senior Col. Qiao Liang
+      - Senior Col. Wang Xiangsui
+      - APR
+      - Goat Hill
+      - Baldwin County
+      - Alabama
+      - Creek Indians
+      - DC
+      - Colorado
+      - PLA
+    llm_text: Senator Chris Elliott is carrying water for Sheriff Hoss Mack while Elliott dragged Alabama’s archives and history into a shameless grandstanding fight. Why should Baldwin County voters let one rogue politician decide what the public remembers?
+    widget_date: "2023-06-10"
+    generated_at: "2026-11-06T19:38:35.140070Z"
+    model_name: recursive/flint-v1.0:free
+  sunday-sermon:
+    brief: "THE CONFLICT: State Senator Chris Elliott, Mayor Bob Wills of Bay Minette, and Commissioner Jeb Ball orchestrated a lucrative, highly questionable 15-year lease agreement totaling $867,000 for the new Baldwin County Legislative Delegation offices, funneling taxpayer money directly into Mayor Wills' private law office property. The initial 5-year term cost $245,000 ($4,090 per month), with subsequent 10 years totaling an additional $622,000. Commissioner Billie Jo Underwood opposed the rushed deal, while Commissioner Jeb Ball pushed it through after amendments forced the delegation to pay full rent. \n\nTHE DISCOVERY: Background reporting exposes a deep-seated network of political corruption and conflicts of interest, noting that Senator Chris Elliott was a primary architect defending the \"dirty lease\" on the radio. It also reveals Elliott's historical ties to Mayor Bob Wills—dating back to 2012 when Elliott's political consulting group (stretching from Stacy, Elliott and Haygood to Catalyst and Scott Boone Consulting) helped elect Wills. Furthermore, the background details long-standing ethical red flags surrounding Elliott, including a settled business lawsuit kept out of the public eye, a past DUI where he dodged license suspension by claiming his commissioner duties constituted \"special treatment,\" a 1% tax push, opposition to healthcare access for the poor, and ties to Sheriff Hoss Mack and Rolin Construction.\n\nTHE PIVOT: The older background reporting acts as the smoking gun because it maps out the exact historical roots of the current corruption, proving that Senator Chris Elliott and Mayor Bob Wills' shared brand of backroom politics is a decade-old partnership rather than an isolated incident. It connects Elliott's past consultant-group machinations directly to the modern taxpayer-funded real estate scam.\n\nKEY ENTITIES:\n- Senator Chris Elliott\n- Mayor Bob “Greedy” Bob Wills\n- Commissioner Jeb Ball\n- Commissioner Billie Jo Underwood\n- Sheriff Hoss Mack\n- Dr. Maigen Sullivan\n- Invisible Histories Project\n- Rolin Construction / Porch Creek Indians\n- Stacy, Elliott and Haygood (Catalyst / Scott Boone Consulting)"
+    llm_text: Senator Chris Elliott and Mayor Bob Wills are funneling $867,000 of taxpayer money into a sketchy lease for Wills' private law office. Read how this dirty real estate deal exposes a decade-old partnership in backroom political corruption.
+    widget_date: "2022-12-18"
+    generated_at: "2026-11-06T19:37:42.286435Z"
+    model_name: gemini-3.5-flash-lite
+  hair-on-fire:
+    brief: |-
+      THE CONFLICT: Senator Chris Elliott (R-Josephine) proposed Senate Bill 306, which would create a full-time, non-rotating commissioner to chair the Baldwin County Commission.
+      THE DISCOVERY: In the older context, Senator Greg Albritton (R-Range) voted against SB 306 because it lacked support from the Baldwin County Commission and the Association of County Commissioners of Alabama (ACCA).
+      THE PIVOT: Article 2 establishes Elliott's pattern of running "rouge" and legislating against the will of the local delegation, setting the context for Article 1's accusations of broader political corruption, including the controversial office space lease deal involving Bob Wills and the 1% tax.
+      KEY ENTITIES: Senator Chris Elliott, Sheriff Hoss Mack, Dr. Maigen Sullivan, Senator Greg Albritton, Bob Wills, Rolin construction, Baldwin County Delegation, Porch Indians, ACCA.
+    llm_text: Senator Chris Elliott pushed Senate Bill 306, creating a full-time commissioner, but Senator Greg Albritton opposed it because it ignored the Baldwin County Delegation. Discover how Elliott's "rouge" actions link to broader corruption, including the controversial Bob Wills office space lease and 1% tax.
+    widget_date: "2023-05-18"
+    generated_at: "2026-11-06T19:38:18.954875Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  go-to-hell-ethics:
+    brief: "THE CONFLICT: \n- Mayor Bob Wills rented his building (125 D’Olive Street) to the Baldwin County Legislative Delegation for $4,090 per month on a five-year lease, which was later revised/lowered to $1,750 per month following public pushback and complaints filed by Ripp.\n- Baldwin Commission Attorney Brad Hicks dismissed potential ethics violations without seeking an official opinion from the Ethics Commission, Attorney General, or Speaker of the House's legal counsel. \n\nTHE DISCOVERY: \n- Article 2 (historical background) exposed the suspicious leasing arrangement between Mayor Bob Wills and the Baldwin County Legislative Delegation, alongside Commission Attorney Brad Hicks clearing the deal without consulting proper oversight bodies like the Alabama Ethics Commission.\n\nTHE PIVOT: \n- Article 2 serves as the smoking gun because it establishes the exact origin of the \"dirty lease\" infrastructure and cronyism that Senator Chris Elliott is later documented (in Article 1) of vehemently defending on the radio and in church, proving a continuous pattern of questionable backroom deals and conflicts of interest in Baldwin County.\n\nKEY ENTITIES: \n- Senator Chris Elliott\n- Mayor Bob Wills\n- Brad Hicks\n- Sheriff Hoss Mack\n- Dr. Maigen Sullivan\n- Ripp"
+    llm_text: Mayor Bob Wills cut a shady $4,090 rent deal with the delegation, and Attorney Brad Hicks swept it under the rug without any oversight. See why Senator Chris Elliott fiercely defended this cronyism.
+    widget_date: "2023-01-28"
+    generated_at: "2026-11-06T19:37:47.237442Z"
+    model_name: gemini-3.5-flash-lite
+  alabama-black-hole:
+    brief: |-
+      THE CONFLICT:
+      July 16 2021: Complaint filed against Ethics Executive Director Tom Albritton regarding "Self Dealing" involving the Mabel Amos trust.
+      January 2022: Cynthia Raulston contacted Francis Paul Ripp to defend Albritton's actions.
+      June 30 2021: Article "Self Dealing" published by Lagniappe Mobile.
+      2014: Alterations made to the handling of the Mabel Amos trust by Albritton, other trustees, and Regions Bank.
+
+      THE DISCOVERY:
+      Article 2 revealed corruption in the Mabel Amos trust involving Tom Albritton, Cynthia Raulston, Regions Bank, and Circuit Judge Ben Bowden; specifically, misuse of trust funds for scholarships benefiting privileged children instead of needy ones.
+
+      THE PIVOT:
+      Article 2 establishes a documented pattern of significant political/financial corruption and cover-ups within Alabama state institutions (Ethics Commission, Alabama Bar), setting a historical context for the current claims in Article 1 regarding Senator Chris Elliott's alleged ties to local political corruption and questionable dealings (e.g., lease to Bob Wills, link to Porch Indians).
+
+      KEY ENTITIES:
+      Senator Chris Elliott
+      Mayor Sullivan (Dr. Maigen Sullivan)
+      Hoss Mack (Sheriff)
+      Bob Wills
+      Baldwin County Delegation
+      Tom Albritton
+      Cynthia Raulston
+      Francis Paul Ripp
+      Clark Morris (Attorney General)
+      Steve Marshall
+      Mabel Amos
+      Regions Bank
+      Circuit Judge Ben Bowden
+      Rolin construction
+      Porch Indians
+    llm_text: Tom Albritton's Mabel Amos trust scandal involving Regions Bank reveals deep Alabama corruption; see how this pattern connects to Senator Chris Elliott's questionable dealings.
+    widget_date: "2022-10-21"
+    generated_at: "2026-11-06T19:37:51.095265Z"
+    model_name: plugsky-lite
+  writ-of-mandamus-update:
+    brief: |-
+      THE CONFLICT: On October 18th, Francis Paul Ripp filed a Writ of Mandamus, leading to a scheduled status review on Monday, November 25th, before Montgomery County Circuit Judge Johnny Hardwick. Judge Hardwick subsequently recused himself on November 1st due to a potential conflict of interest after reviewing the evidence. Plans were also made to file a civil case against Regions Bank regarding the Mabel Amos Memorial Fund, targeting self-dealing by trustees.
+
+      THE DISCOVERY: Article 2 exposed corruption and "self-dealing" within the Mabel Amos Memorial Fund trust, specifically implicating Ethics Commission Executive Director Tom Albritton—who admitted to his actions in Lagniappe articles—along with his law partners and friends on a "self serving" money train, resulting in impending civil litigation and calls for his immediate resignation.
+
+      THE PIVOT: Article 2 serves as baseline proof of entrenched systemic corruption, cronyism, and ethical breaches among Alabama officials (specifically involving the Ethics Commission and financial self-dealing), providing the historical context and corruption framework that mirrors the allegations of backroom deals, political retaliation, and self-serving actions leveled against Senator Chris Elliott in Article 1.
+
+      KEY ENTITIES:
+      - Senator Chris Elliott
+      - Francis Paul Ripp (The Ripp Report)
+      - Judge Johnny Hardwick
+      - Tom Parker (Chief Justice)
+      - Tom Albritton (Executive Director, Ethics Commission)
+      - Sheriff Hoss Mack
+      - Mayor Bob Wills (Bob Wills)
+      - Dr. Maigen Sullivan
+      - Regions Bank
+      - Mabel Amos Memorial Fund
+      - Invisible Histories Project
+      - Rolin Construction
+      - Alabama Archives
+    llm_text: When Francis Paul Ripp filed a Writ of Mandamus, Montgomery County Judge Johnny Hardwick immediately recused himself after reviewing evidence of corruption in the Mabel Amos Memorial Fund. Read how Ethics Commission Director Tom Albritton engineered this self-serving money train, proving the exact systemic cronyism fueling our fight against Senator Chris Elliott.
+    widget_date: "2021-10-26"
+    generated_at: "2026-11-06T19:37:53.450542Z"
+    model_name: gemini-3.5-flash-lite

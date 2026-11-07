@@ -2,12 +2,14 @@ package processor
 
 import (
 	"context"
+	"fmt"
 	"os"
 	"path/filepath"
 	"strings"
 	"testing"
 	"time"
 
+	"github.com/rippreport/go-content-pipeline/internal/client"
 	"github.com/rippreport/go-content-pipeline/internal/config"
 	"github.com/rippreport/go-content-pipeline/internal/models"
 )
@@ -453,5 +455,76 @@ func TestRepetitionPenaltyInCompletionRequest(t *testing.T) {
 	}
 	if req.RepetitionPenalty != 1.25 {
 		t.Errorf("expected RepetitionPenalty 1.25, got %f", req.RepetitionPenalty)
+	}
+}
+
+// Embed the interface so unexpected client operations fail the test.
+type hookTextClient struct {
+	client.LlamaClient
+	calls     int
+	failText  bool
+	emptyText bool
+}
+
+func (c *hookTextClient) Complete(ctx context.Context, req models.CompletionRequest) (*models.CompletionResponse, error) {
+	c.calls++
+	if strings.Contains(req.Messages[0].Content, "sidebar hook writer") {
+		if c.failText {
+			return nil, fmt.Errorf("text server failed")
+		}
+		if c.emptyText {
+			return &models.CompletionResponse{Text: "  "}, nil
+		}
+		return &models.CompletionResponse{Text: "  The council approved the contract. Follow the records behind the decision.  "}, nil
+	}
+	brief := "1. THE CONFLICT: The council approved a costly contract without public oversight.\n2. THE DISCOVERY: Records revealed the contractor's ties.\n3. THE PIVOT: These records explain the council decision.\n4. KEY ENTITIES: Council, contractor"
+	if strings.Contains(req.Messages[0].Content, "For EACH pair") {
+		brief = "=== BRIEF 1 ===\n" + brief + "\n=== BRIEF 2 ===\n" + brief
+	}
+	return &models.CompletionResponse{Text: brief}, nil
+}
+
+func TestGeneratedHookTextStaging(t *testing.T) {
+	for _, count := range []int{1, 2} {
+		for _, failure := range []string{"", "error", "empty"} {
+			t.Run(fmt.Sprintf("pairs=%d/failure=%s", count, failure), func(t *testing.T) {
+				main := &models.Post{Path: "/p/main/index.md", Slug: "main", FrontMatter: &models.FrontMatter{Title: "Main", Date: time.Now()}, Body: "Council records."}
+				reqs := make([]models.HookRequest, count)
+				for i := range reqs {
+					reqs[i] = models.HookRequest{MainPost: main, WidgetPost: &models.Post{Path: models.PostPath(fmt.Sprintf("/p/widget-%d/index.md", i)), Slug: fmt.Sprintf("widget-%d", i), FrontMatter: &models.FrontMatter{Title: "Widget", Date: time.Now()}, Body: "Contract records."}}
+				}
+				c := &hookTextClient{failText: failure == "error", emptyText: failure == "empty"}
+				hooks, err := GenerateHooksBatch(context.Background(), c, "test-model", nil, config.DefaultConfig(), reqs)
+				if failure != "" {
+					if err == nil {
+						t.Fatal("expected text generation failure")
+					}
+					return
+				}
+				if err != nil {
+					t.Fatal(err)
+				}
+				if c.calls != count+1 {
+					t.Fatalf("got %d calls, want %d", c.calls, count+1)
+				}
+				dir := t.TempDir()
+				sm := NewStagingManager(dir, NewPostManager(dir), NewBackupManager(filepath.Join(dir, "backups")))
+				if err := sm.SaveStagedHooks("main", models.HookMetadata{PostSlug: "main"}, hooks); err != nil {
+					t.Fatal(err)
+				}
+				loaded, err := sm.ReadStagedHooks("main")
+				if err != nil {
+					t.Fatal(err)
+				}
+				if len(loaded) != count {
+					t.Fatalf("got %d hooks, want %d", len(loaded), count)
+				}
+				for _, h := range loaded {
+					if h.LLMText != "The council approved the contract. Follow the records behind the decision." {
+						t.Fatalf("missing or unexpected llm_text: %q", h.LLMText)
+					}
+				}
+			})
+		}
 	}
 }

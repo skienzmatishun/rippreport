@@ -1,0 +1,219 @@
+metadata:
+  generated_at: "2026-11-06T07:50:11.250473Z"
+  generator_version: 1.0.0
+  post_slug: not-qualified
+  main_date: "2026-05-09"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  kristy-haygood-is-not-qualified:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was convicted in a trial (around 2005) for Hastings' murder. The murder occurred between 1 and 3 AM on the same day. The prosecution (led by DA David Whetstone and investigator Anthony Lowery) failed to disclose a second autopsy report and relied heavily on the testimony of Jarius McNeil, who pleaded guilty to involvement. The cause of death was found to be asphyxiation by suffocation, not murder by firearm.
+
+      THE DISCOVERY: The second autopsy report was excluded from Lawrence’s 2005 trial, raising a specter of a "Brady Information" violation (established by *Brady v. Maryland*, 1963). Lawrence's attorney believes this exclusion warrants a new trial.
+
+      THE PIVOT: Article 2 established that the conviction lacked physical evidence (no DNA, ballistics, etc.) and potential Brady violations. Article 1 uses this historical context, noting that Hagood's boss (DA Wilters) was the Circuit Judge who presided over Lawrence Jr.'s trial, and critiques Hagood's current statements regarding the Brady violation as inaccurate and false, suggesting she failed to recuse herself.
+
+      KEY ENTITIES: Murray Lawrence Jr., Kristi Hagood (Baldwin County Assistant District Attorney/candidate), Jerimiah Giles, Jeff Sessions (Jefferson Beauregard Session), Willie Huntley, David Whetstone (District Attorney), Anthony Lowery (lead investigator), Jarius McNeil, DA Wilters (Circuit Judge), Kevin Brock (Former Chief of Police in Summerdale), Billy Jo Underwood, Dr. Paul McGarry, Huntley, Baldwin County.
+    llm_text: Murray Lawrence Jr.'s 2005 conviction for Hastings' death ignored a critical second autopsy report, raising Brady violation concerns. Kristi Hagood's current claims miss that DA Wilters presided over the original trial, proving flawed justice in Baldwin County.
+    widget_date: "2026-05-07"
+    generated_at: "2026-11-06T07:40:28.825202Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scumbag:
+    brief: |-
+      THE CONFLICT: Tom Albritton, the Director of Ethics for Alabama, was accused of fraud and self-dealing concerning the Mabel Amos Memorial Fund almost 5 years ago.
+
+      THE DISCOVERY: Ripp Report filed a writ of Mandamus, Alabama Bar Complaint, and Ethics Complaint, but the AG, Ethics Commission (Greg Pappas, George Pierce, David Pruet), and local politicians (Chris Elliott, Matt Simpson, Greg Albritton) ignored or dismissed the complaints, protecting Albritton.
+
+      THE PIVOT: The systemic corruption and lack of independent oversight shown in the Albritton case (A2) provide historical context for the judicial conflicts in Article 1, specifically the failure of DA Wilters (Hagood's boss) to recuse from the Murray Lawrence Jr. trial, despite professional conduct rules.
+
+      KEY ENTITIES: Kristi Hagood, Jerimiah Giles, Murray Lawrence Jr., DA Wilters, Willie Huntley, Jeff Sessions, Dr. Paul McGarry, Tom Albritton, Mabel Amos Memorial Fund, Harry Still, Katherine Robertson, Allen Dodd, Greg Pappas, George Pierce, David Pruet, Steve Marshall, Kevin Brock, Billy Jo Underwood.
+    llm_text: Tom Albritton hid fraud in the Mabel Amos Memorial Fund five years ago, yet local leaders like Greg Pappas ignored Ripp Report complaints. This systemic corruption explains why DA Wilters failed to recuse in the Murray Lawrence Jr. trial, impacting Kristi Hagood's case.
+    widget_date: "2026-04-29"
+    generated_at: "2026-11-06T07:42:37.483892Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  gambling-money-run-amok:
+    brief: |-
+      THE CONFLICT: Steve Raby, the Speaker's lobbyist, utilized out-of-state gambling interest money to influence Alabama state politics, specifically supporting Democrat Rep. Juandalynn Givan (AL House District 60) against Speaker Ledbetter's interests.
+      THE DISCOVERY: The gambling funds influenced state legislators (Elliott, Simpson, Allbritton, Holk-Jones) and candidates running for US Senate.
+      THE PIVOT: Article 2 provides historical context of financial influence within the Alabama political landscape, framing the current local election challenges in Baldwin County (Kristi Hagood vs. Jerimiah Giles) and the legal scrutiny of Murray Lawrence Jr. (trial presided over by DA Wilters).
+      KEY ENTITIES: Kristi Hagood (Baldwin County ADA), Jerimiah Giles, Murray Lawrence Jr., DA Wilters (Circuit Judge), Willie Huntley, Jefferson Beauregard Sessions (US Attorney General), Steve Raby (Speaker's lobbyist), Juandalynn Givan (Rep AL HD 60), Speaker Ledbetter, Kevin Brock (Former Chief of Police in Summerdale), Billy Jo Underwood, Elliott, Simpson, Allbritton, Holk-Jones, SVB PAC.
+    llm_text: Steve Raby used out-of-state gambling money to influence Alabama state politics, backing Rep. Juandalynn Givan against Speaker Ledbetter. Discover how this financial influence connects to Baldwin County's Kristi Hagood versus Jerimiah Giles race and Murray Lawrence Jr.'s legal scrutiny.
+    widget_date: "2026-04-16"
+    generated_at: "2026-11-06T07:44:15.518273Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  by-appointment-only:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was convicted in a trial presided over by Circuit Judge Wilters. (Specific date of conviction/trial is not provided in the text).
+      *   Jeff Sessions was United States Attorney General (confirmed/mentored Willie Huntley).
+      *   Willie Huntley testified regarding his relationship with Jefferson Beauregard Session and the bankruptcy of the Ku Klux Klan.
+
+      THE DISCOVERY:
+      *   Baldwin County has a "cabal" controlling judicial appointments via political influence with the State Executive Branch.
+      *   This control is not tied to a specific political party.
+      *   Draft Kings is supporting pro-gaming legislators and negotiating with PCI Gaming for the creation/merger of the Alabama Gaming Commission.
+
+      THE PIVOT:
+      *   The alleged political cabal controlling the judicial bench (Article 2) provides the context for the concern in Article 1 that Circuit Judge Wilters (Hagood's boss/DA Wilters) did not recuse herself from the trial of Murray Lawrence Jr.
+      *   Article 2 frames the judiciary as politically influenced, supporting the argument in Article 1 that judicial impartiality was compromised.
+
+      KEY ENTITIES:
+      *   Kristi Hagood (Baldwin County Assistant District Attorney, candidate for Circuit Judge)
+      *   Jerimiah Giles (Hagood's opponent)
+      *   Murray Bubba Lawrence Jr.
+      *   Jeff Sessions
+      *   Willie Huntley
+      *   Jefferson Beauregard Session
+      *   Dr. Paul McGarry (pathologist)
+      *   DA Wilters (Circuit Judge)
+      *   Kevin Brock (Former Chief of Police in Summerdale, Baldwin County Commission District 3)
+      *   Billy Jo Underwood (Commission candidate)
+      *   Baldwin County
+      *   Alabama Gaming Commission
+      *   Draft Kings
+      *   PCI Gaming (Porch Band of Creek Indians)
+    llm_text: Baldwin County's judicial system hides a political cabal controlling appointments, raising serious questions about impartiality. Did Circuit Judge Wilters compromise the trial of Murray Lawrence Jr.?
+    widget_date: "2026-04-10"
+    generated_at: "2026-11-06T07:45:15.475463Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  eddie-tyler-exits-stage-left:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr.'s trial was presided over by Circuit Judge DA Wilters.
+      *   The trial involved accusations of racism against Jefferson Beauregard Session (US Attorney General nominee).
+      *   The primary election for Baldwin County is scheduled for May 19, 2026.
+
+      THE DISCOVERY:
+      *   $16.3 Million was spent on the Golden Triangle to build a bridge over Fish River and a boulevard for a developer.
+      *   A 20-year Baldwin County Sheriffs Deputy resigned, citing that "these are Ungodly men" running the place.
+
+      THE PIVOT:
+      *   The historical context of financial mismanagement and ethical concerns (Fish River development, Sheriffs Deputy resignation) detailed in the older article provides background to the current political and legal scrutiny regarding DA Wilters's role in the Murray Lawrence Jr. trial and Kristi Hagood's qualifications/conduct.
+
+      KEY ENTITIES:
+      *   Kristi Hagood (Baldwin County Assistant District Attorney)
+      *   Jerimiah Giles
+      *   Murray Lawrence Jr.
+      *   DA Wilters (Circuit Judge)
+      *   Willie Huntley
+      *   Jeff Sessions
+      *   Kevin Brock (Former Chief of Police, Summerdale)
+      *   Billy Jo Underwood
+      *   Fish River
+      *   Golden Triangle
+      *   Eddie Tyler
+      *   Harry Still
+      *   Brandon Moseley
+      *   Afroman
+    llm_text: $16.3 million built the Golden Triangle bridge, yet a Sheriffs Deputy resigned calling current Baldwin County leaders "Ungodly men." How does this financial mismanagement relate to DA Wilters's role in the Murray Lawrence Jr. trial against Jeff Sessions nominee?
+    widget_date: "2026-03-27"
+    generated_at: "2026-11-06T07:41:16.717260Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  faux-pas:
+    brief: |-
+      THE CONFLICT:
+      Murray Lawrence Jr trial presided over by Circuit Judge DA Wilters (implied past event).
+      Willie Huntley testified about being mentored by Jeff Sessions, who helped bankrupt the Ku Klux Klan.
+
+      THE DISCOVERY:
+      Article 2 documented early political controversy ("Faux Pas by Rep Donna Givens" and "Catalyst Cabal") occurring in Summerdale/Baldwin County before the primary season.
+
+      THE PIVOT:
+      Article 2 established the local political environment and controversy in Summerdale (where Kevin Brock, A1 endorser, is a Former Chief of Police) providing background for the election challenges (Kristi Hagood vs. Jerimiah Giles) in Article 1.
+
+      KEY ENTITIES:
+      Kristi Hagood (Baldwin County Assistant District Attorney)
+      Jerimiah Giles
+      DA Wilters (Circuit Judge)
+      Murray Lawrence Jr
+      Willie Huntley
+      Jeff Sessions (US Attorney General)
+      Dr. Paul McGarry (Pathologist)
+      Kevin Brock (Former Chief of Police, Summerdale)
+      Richard Cox (Baldwin County Commission District 1 candidate)
+      Donna Givens (Representative)
+      Harry Still
+      Summerdale
+      Baldwin County Commission District 3
+      May 19, 2026 (Republican Primary)
+    llm_text: Summerdale's early political controversies, like the "Catalyst Cabal" and Donna Givens' "Faux Pas," shaped the current Baldwin County race. See how these local events set the stage for the Kristi Hagood vs. Jerimiah Giles election challenges.
+    widget_date: "2026-01-26"
+    generated_at: "2026-11-06T07:46:24.929203Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  new-years-2026:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr.'s trial was presided over by DA Wilters. Jeff Sessions and Willie Huntley were involved in bankrupting the Ku Klux Klan.
+      THE DISCOVERY: Article 2 (discussing 2025) reveals no facts connecting to the legal or political events detailed in Article 1.
+      THE PIVOT: Article 2 provides no context or 'smoking gun' for Article 1.
+      KEY ENTITIES: Kristi Hagood, Jerimiah Giles, DA Wilters, Murray Lawrence Jr., Jeff Sessions, Willie Huntley, Dr. Paul McGarry, Kevin Brock, Billy Jo Underwood
+    llm_text: Murray Lawrence Jr.'s trial under DA Wilters involved Jeff Sessions and Willie Huntley, who helped bankrupt the Ku Klux Klan. Discover the specific high-stakes connections between the trial and this powerful KKK operation now.
+    widget_date: "2026-01-01"
+    generated_at: "2026-11-06T07:47:42.349144Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  a-gentlemans-race-judge-of-probate:
+    brief: |-
+      THE CONFLICT:
+      Judge Tim Russell retired as Baldwin County Probate Judge, a role handling $40 million in 2017.
+      The 2018 Probate Judge race included candidates Max Hansen, Alan Lipscomb, Matt McKenzie, Catalyst Candidate Lynn Perry, and “little” Harry D’Olive.
+
+      THE DISCOVERY:
+      Article 2 revealed details of the 2018 Probate Judge election, including the $3.9 million budget and the involvement of Catalyst, noting Lynn Perry had not recorded the required $2587.13 qualification fee since February.
+
+      THE PIVOT:
+      Article 2 establishes the historical context and power dynamics within Baldwin County's judicial structure (e.g., influence of Catalyst, non-attorney options for Probate Judge) which provides background for Article 1's focus on Kristi Hagood (Baldwin County Assistant District Attorney) and her connection to former Circuit Judge DA Wilters (who presided over Murray Lawrence Jr’s trial), demonstrating a pattern of judicial and legal influence in the county.
+
+      KEY ENTITIES:
+      Kristi Hagood
+      Murray Lawrence Jr
+      Jeff Sessions
+      Willie Huntley
+      Dr. Paul McGarry
+      DA Wilters (Former Circuit Judge)
+      Judge Tim Russell
+      Alan Lipscomb
+      Catalyst
+      Harry D’Olive
+      Lynn Perry
+      Max Hansen
+      Matt McKenzie
+      Kevin Brock
+      Jerimiah Giles
+      Baldwin County
+      May 19, 2026 (Primary Election)
+      May 22 (Pending Trial)
+    llm_text: Judge Tim Russell retired, but the 2018 Probate Judge race involving Lynn Perry and the Catalyst influence reveals deeper Baldwin County legal dynamics. See how missing qualification fees and a $3.9M budget shaped the county's judicial power structure.
+    widget_date: "2018-05-09"
+    generated_at: "2026-11-06T07:48:44.974645Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  qualification:
+    brief: |-
+      THE CONFLICT:
+      1. Mid Term Elections were held in Baldwin County, Alabama, with qualification closing on February 9, 2018.
+      2. Political machine involved former Mayor Kant and Sen Pittman, facilitating deals in Bay Minette/Fairhope.
+      3. The political environment was characterized by a need to break the mold of electing flawed candidates and exposing political corruption.
+
+      THE DISCOVERY:
+      1. The 2018 context identified "Catalyst" as a group involved in vetting candidates, and Judge Michelle Thomason was noted for her negative reputation as a Circuit Judge in Family Court.
+      2. The 2018 report called for the Attorney General to expose elected officials and bite the head off the Ethics Commission, which was accused of aiding corruption.
+
+      THE PIVOT:
+      1. Article 2 established a historical pattern of political corruption and questionable judicial figures in Baldwin County prior to the 2026 primary.
+      2. This history of influence and ethical challenges provides the context for current concerns regarding Kristi Hagood's professional conduct (specifically her failure to recuse from the Murray Lawrence Jr. trial presided over by her boss, DA Wilters).
+
+      KEY ENTITIES:
+      1. Kristi Hagood (Baldwin County Assistant District Attorney)
+      2. Jerimiah Giles
+      3. Murray Lawrence Jr.
+      4. DA Wilters (Circuit Judge)
+      5. Willie Huntley
+      6. Jefferson Beauregard Session (US Attorney General nominee)
+      7. Kevin Brock (Former Chief of Police in Summerdale)
+      8. Billy Jo Underwood
+      9. Karen Wilson (Former Mayor)
+      10. Catalyst
+      11. Michelle Thomason (Court of Civil Appeals Judge)
+      12. Kant and Pittman
+    llm_text: Kristi Hagood’s recusal failure in the Murray Lawrence Jr. trial reflects a deep Baldwin County history of political corruption, including deals made by former Mayor Kant and Sen Pittman. Discover how the 2018 elections established a pattern of ethical challenges still affecting today's officials.
+    widget_date: "2018-01-19"
+    generated_at: "2026-11-06T07:49:52.885640Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

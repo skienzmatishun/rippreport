@@ -1,0 +1,212 @@
+metadata:
+  generated_at: "2026-11-06T10:03:05.730589Z"
+  generator_version: 1.0.0
+  post_slug: summerdale-sunshine
+  main_date: "2026-01-24"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  medical-cannabis-issues-licenses:
+    brief: |-
+      THE CONFLICT:
+      1. Scott Boone Consulting (aka Catalyst) has been linked to corruption and toxicity in Baldwin County politics.
+      2. Kristy Haygood is linked to the wrongful conviction of Murray Lawrence Jr. and her Rule 32 filing disqualifies her from judicial office, according to District Robert Wilters.
+      3. Jeremiah Giles, Judge Jodi Bishop, and Judge Scott are positioned against Scott Boone, Jon Gray, and Kristy Haygood.
+      4. Donna Black Givens attempted to influence the Summerdale candidate forum through behind-the-scenes coordination, referencing "friends in the right places."
+      5. Donna Black Givens introduced HB51, which threatened constitutional free speech rights, before reframing it after the bill died.
+      6. Fort Morgan community raised $10,000 to oppose Frances Jones.
+      7. Chris Elliott had a relationship with Jon Gray and Eddie Tyler, who are now working together to remove Elliott.
+
+      THE DISCOVERY:
+      1. On January 22, 2026, Alabama issued three medical cannabis dispensary licenses.
+      2. Five physicians were approved by the Alabama Board of Medical Examiners & Medical Licensure Commission to certify patients for medical cannabis use (e.g., chronic pain, PTSD, cancer-related symptoms).
+      3. This progress is part of the Darren Wesley “Ato” Hall Compassion Act, overseen by the Alabama Medical Cannabis Commission (AMCC).
+
+      THE PIVOT:
+      1. Article 2 provides historical regulatory context for the state of Alabama, while Article 1 details the contemporary local political conflict in Baldwin County (Summerdale/Fort Morgan).
+      2. There is no direct factual link between the medical cannabis licensing approvals (Article 2) and the specific political infighting, legal issues, or candidate conflicts detailed in Article 1.
+
+      KEY ENTITIES:
+      1. Scott Boone (Catalyst)
+      2. Jon Gray
+      3. Kristy Haygood
+      4. Frances Jones
+      5. Fort Morgan
+      6. Jodi Bishop (Judge)
+      7. Jeremiah Giles
+      8. Murray Lawrence Jr.
+      9. Robert Wilters (District)
+      10. Chris Elliott
+      11. Eddie Tyler
+      12. Donna Black Givens
+      13. Lowery
+      14. Judge Scott
+      15. Darren Wesley “Ato” Hall
+      16. Alabama Medical Cannabis Commission (AMCC)
+    llm_text: 'Baldwin County politics are messy: Scott Boone Consulting faces corruption claims while Kristy Haygood is disqualified from judicial office by Robert Wilters. See how local battles involving Jon Gray and Jodi Bishop shape your community.'
+    widget_date: "2026-01-23"
+    generated_at: "2026-11-06T09:55:01.779434Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  blast-from-the-past:
+    brief: |-
+      THE CONFLICT: Wrongful conviction case of Murray Lawrence Jr.; Hoss Mack was the lead investigator; Robert Wilters (DA/Judge) presided over the "kangaroo court."
+      THE DISCOVERY: Widget Article established the history of the Baldwin County Sheriff's Department (BCSO) lacking transparency, citing the Lawrence Jr. case and internal hanky panky involving Hoss Mack and a subordinate officer.
+      THE PIVOT: Article 2 established the historical pattern of corruption and judicial failure (Lawrence Jr. case/Wilters' involvement), which Article 1 links directly to Kristy Haygood's disqualification for judge due to "legal mistakes" in Mr. Lawrence’s case, reinforcing the claim that Scott Boone/Catalyst candidates are untrustworthy.
+      KEY ENTITIES: Murray Lawrence Jr, Hoss Mack, Robert Wilters, Kristy Haygood, Scott Boone, Jon Gray, Jeremiah Giles, Donna Black Givens, Judge Jodi Bishop, Judge Scott, Lowery, Chris Elliott, Eddie Tyler, Frances Jones, Summerdale, Fort Morgan, BCSO
+    llm_text: Murray Lawrence Jr. faced a wrongful conviction overseen by Robert Wilters and investigated by Hoss Mack. This corruption links directly to Kristy Haygood's disqualification, showing why you must scrutinize Scott Boone and Catalyst candidates.
+    widget_date: "2026-01-21"
+    generated_at: "2026-11-06T09:56:41.631517Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  CAMPAIGN-KICKOFF-RECEPTION:
+    brief: |-
+      THE CONFLICT: Campaign Kickoff Reception for Matt McKenzie involving BCSO took place in the past (Article 2).
+      THE DISCOVERY: Article 2 documented early electoral activity centered on Matt McKenzie.
+      THE PIVOT: Article 2 provides the historical election context in Baldwin County, setting the stage for the later political infighting, toxicity, and conflicts (e.g., Scott Boone's dismissal, Donna Black Givens' HB51 actions) detailed in Article 1.
+      KEY ENTITIES: Matt McKenzie, BCSO, Summerdale, Jon Gray, Scott Boone, Kristy Haygood, Frances Jones, Fort Morgan, Judge Jodi Bishop, Jeremiah Giles, Murray Lawrence Jr., Robert Wilters, Judge Scott, Chris Elliott, Eddie Tyler, Donna Black Givens, Lowery, Hoss Mack, Judge Taylor, 1819 News.
+    llm_text: Matt McKenzie's initial BCSO campaign kickoff in Summerdale predates Baldwin County's political toxicity. Learn how that early election context fueled later infighting involving Scott Boone's dismissal and Donna Black Givens' actions.
+    widget_date: "2026-01-15"
+    generated_at: "2026-11-06T09:57:55.869097Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bcso-no-clones:
+    brief: |-
+      THE CONFLICT: Hoss Mack and Lowery shared a "horrible record," with Lowery inheriting Mack's political legacy in Baldwin County.
+      THE DISCOVERY: The older article established that Lowery was a clone of Hoss Mack, linked to a historical pattern of poor governance, necessitating a change like Matt Mckenzie.
+      THE PIVOT: The older article provides the historical context of Lowery's problematic record; the newer article shows this legacy continues, as Scott Boone (aka Catalyst) is currently Lowery’s campaign manager in the Summerdale elections.
+      KEY ENTITIES: Lowery, Hoss Mack, Scott Boone (aka Catalyst), Matt Mckenzie, Jon Gray, Kristy Haygood, Frances Jones, Jeremiah Giles, Judge Jodi Bishop, Judge Scott, Robert Wilters, Chris Elliott, Eddie Tyler, Donna Black Givens, Summerdale, Fort Morgan, Baldwin County.
+    llm_text: Lowery is a clone of Hoss Mack, inheriting a pattern of poor Baldwin County governance. Now, Scott Boone (Catalyst) manages his Summerdale campaign; will Matt Mckenzie's needed change succeed?
+    widget_date: "2025-09-26"
+    generated_at: "2026-11-06T09:59:01.711764Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  good-ole-boys-lose-front-teeth:
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County saw a shift away from "good ole boy" (GOB) culture in past elections.
+      *   In Bay Minette, ex-Mayor Bob Willis lost to Joshua Brown.
+      *   In Spanish Fort, Mayor Brad Bass defeated "slappin Mike."
+      *   In Summerdale, Mayor Randy Farris won after 17 years without a mayoral vote.
+      *   In Robertsdale, eight-term incumbent Charlie Murphy finished third.
+
+      THE DISCOVERY:
+      *   The Widget Article revealed that the GOB/Catalyst political machine was losing power and influence across multiple Baldwin County municipalities.
+
+      THE PIVOT:
+      *   Article 2 established the historical decline of the GOB/Catalyst machine, which is the core context for Article 1's current infighting, where Scott Boone (Catalyst) is being publicly rejected and criticized as "toxic" by figures like Judge Taylor and candidates.
+
+      KEY ENTITIES:
+      *   Scott Boone
+      *   Catalyst (Scott Boone Consulting)
+      *   Jon Gray
+      *   Kristy Haygood
+      *   Frances Jones
+      *   Fort Morgan
+      *   Jodi Bishop
+      *   Judge Scott
+      *   Jeremiah Giles
+      *   Murray Lawrence Jr.
+      *   Robert Wilters
+      *   Chris Elliott
+      *   Eddie Tyler
+      *   Donna Black Givens
+      *   Lowery
+      *   Hoss Mack
+      *   Bob Willis
+      *   Joshua Brown
+      *   Brad Bass
+      *   Randy Farris
+      *   Charlie Murphy
+      *   Ruthie Campbell
+      *   Russell Johnson
+    llm_text: Baldwin County's old "good ole boy" machine is crumbling as local power shifts. Bob Willis lost to Joshua Brown in Bay Minette, proving the Catalyst influence, including Scott Boone, is fading across municipalities like Spanish Fort and Summerdale.
+    widget_date: "2025-08-27"
+    generated_at: "2026-11-06T09:55:59.128741Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  end-the-good-ole-boy-culture-in-baldwin-county:
+    brief: |-
+      THE CONFLICT:
+      *   Years ago, Lynn Stacy formed a political cohort with Chris Elliott and Kristy Haygood in Baldwin County.
+      *   This group was initially named Catalyst, later evolving into Scott Boone Consulting.
+      *   Former Sheriff Hoss Mack was the driving force behind this system, putting many Judges and Mayors in office.
+      *   Hoss Mack retired, and Anthony Lowery took over responsibility for maintaining the "good ole boy" connections.
+
+      THE DISCOVERY:
+      *   Scott Boone Consulting represents the established, long-standing "cabal of good ole boys" in Baldwin County, operating through entrenched political structures (Mayors/Judges holding 15-30+ years).
+
+      THE PIVOT:
+      *   Article 2 establishes that Scott Boone/Catalyst is not a temporary political faction but the historical foundation of long-term corruption in Baldwin County, making Article 1's criticisms of his current candidates (Haygood, Gray) part of a decades-old system.
+
+      KEY ENTITIES:
+      *   Scott Boone
+      *   Catalyst
+      *   Kristy Haygood
+      *   Chris Elliott
+      *   Lynn Stacy
+      *   Hoss Mack
+      *   Anthony Lowery
+      *   Jon Gray
+      *   Frances Jones
+      *   Fort Morgan
+      *   Jodi Bishop
+      *   Jeremiah Giles
+      *   Murray Lawrence JR
+      *   Robert Wilters
+      *   Donna Black Givens
+      *   Eddie Tyler
+    llm_text: Scott Boone Consulting, led by Lynn Stacy and Chris Elliott, established Baldwin County’s entrenched "good ole boy" system via Hoss Mack. Anthony Lowery now maintains this decades-old corruption, influencing current candidates like Kristy Haygood and Jon Gray.
+    widget_date: "2025-08-25"
+    generated_at: "2026-11-06T09:59:57.440941Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  last-chance-fauxhope-or-fairhope-vote-out-fauxhope-city-council:
+    brief: |-
+      THE CONFLICT:
+      *   Jack Burrell, Councilman in Fairhope, was identified as a key player in a "Good Ole Boy Club" over 23 years.
+      *   Burrell orchestrated the Mayor to receive a second paycheck (double dipping) after winning the COVID election in 2020.
+      *   The waterfront project cost ballooned from $6.3 million to $10 million, despite community approval.
+      *   Former Councilman Boone participated in securing bids/contracts (e.g., Fairhope Art Center) without ethics oversight.
+      *   Council and municipal attorney failed to address multiple arrests of Ronan McSharry, often assaulting women.
+
+      THE DISCOVERY:
+      *   Article 2 established that the "Boone" name (specifically Former Councilman Boone) was associated with conflicts of interest, unethical contracts, and failure to adhere to ethics rules within the Fairhope City Council.
+
+      THE PIVOT:
+      *   Article 2 provides historical evidence of corruption involving "Boone," which Article 1 uses to warn Summerdale voters that candidates managed by Scott Boone Consulting (aka Catalyst) should not be supported, framing his involvement as a pattern of untrustworthiness.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Mayor Wilson
+      *   Kevin Boone
+      *   Andrea Faust
+      *   Ronan McSharry
+      *   Scott Boone
+      *   Jon Gray
+      *   Kristy Haygood
+      *   Frances Jones
+      *   Jeremiah Giles
+      *   Judge Jodi Bishop
+      *   Judge Scott
+      *   Robert Wilters
+      *   Donna Black Givens
+      *   Chris Elliott
+      *   Eddie Tyler
+      *   Lowery
+      *   Hoss Mack
+      *   Summerdale
+      *   Fort Morgan
+      *   Fairhope
+      *   Baldwin County
+      *   HB51
+    llm_text: Jack Burrell ran a 23-year "Good Ole Boy Club" in Fairhope, helping Mayor Wilson double-dip on pay. Summerdale voters must avoid candidates managed by Kevin Boone’s Scott Boone Consulting due to his pattern of unethical contracts.
+    widget_date: "2025-08-24"
+    generated_at: "2026-11-06T10:01:31.436031Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-is-drowning:
+    brief: |-
+      THE CONFLICT: In November 2018, Baldwin County elections showed People's Choice 2 to Catalyst 1. Chris Elliott, supported by Sheriff Mack and Eddie Tyler, campaigned despite running in Virginia, and utilized a Baldwin County School Board lobbyist/Jon Gray. Elliott's campaign led to an unauthorized 1% education tax, costing the School Board $4 million a year ($40M in ten years).
+
+      THE DISCOVERY: The 2018 election results demonstrated specific ethical and financial issues linked to Catalyst (Scott Boone Consulting) and its associated figures, including the misuse of local resources and unauthorized tax imposition.
+
+      THE PIVOT: Article 2 provides the historical, evidence-based foundation (2018 financial/ethical failures) that Article 1 uses to warn that candidates managed by Scott Boone/Catalyst should be rejected due to their established "toxicity" and systemic corruption.
+
+      KEY ENTITIES: Scott Boone (Catalyst), Jon Gray, Kristy Haygood, Frances Jones, Fort Morgan, Jodi Bishop, Scott, Jeremiah Giles, Murray Lawrence JR, Robert Wilters, Chris Elliott, Eddie Tyler, Donna Black Givens, Lowery, Hoss Mack, Billie Jo Underwood, Michelle Thomasson.
+    llm_text: Chris Elliott’s 2018 win cost the Baldwin County School Board $4 million yearly via an unauthorized 1% tax. Reject candidates managed by Scott Boone (Catalyst); their systemic corruption and ethical failures demand your vote.
+    widget_date: "2018-07-18"
+    generated_at: "2026-11-06T10:02:48.384640Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,5 +1,5 @@
 metadata:
-  generated_at: "2026-11-05T19:47:20.551317Z"
+  generated_at: "2026-11-06T06:44:03.985562Z"
   generator_version: 1.0.0
   post_slug: mountain-medicine
   main_date: "2026-06-12"
@@ -7,91 +7,91 @@ metadata:
 hooks:
   a-new-hope:
     brief: |-
-      1. THE CONFLICT: Darryl Patton, Master Herbalist and apprentice to Tommy Bass, authored "Mountain Medicine: The Herbal Remedies of Tommy Bass," detailing Alabama native plants like magnolia bark, buckeye, and cross vine.
-      2. THE DISCOVERY: Harry Still III was acquitted by a Baldwin County Jury in Bay Minette of assaulting City Council Member Matthew J Franklin in the City of Bay Minette v Harry Still III on Thursday.
-      3. THE PIVOT: The podcast discusses herbal remedies from Tommy Bass, while the widget provides current local legal news, establishing a context of local Bay Minette events (Still/Franklin) within the broader discussion of Alabama life/local issues.
-      4. KEY ENTITIES: Darryl Patton, Tommy Bass, Harry Still III, Matthew J Franklin, Bay Minette, Baldwin County
+      THE CONFLICT: City of Bay Minette v Harry Still III verdict on Thursday, concerning the assault of Bay Minette City Council Member Matthew J Franklin.
+      THE DISCOVERY: A Baldwin County Jury found Harry Still III NOT GUILTY.
+      THE PIVOT: The past political conflict involving Bay Minette City Council Member Matthew J Franklin (Article 2) provides the local political and legal context within Bay Minette, Alabama, where Tommy Bass and Darryl Patton's work (Article 1) is situated.
+      KEY ENTITIES: Harry Still III, Matthew J Franklin, Darryl Patton, Tommy Bass, Danielle Duggar, Al Tolbert, Bay Minette, Baldwin County.
+    llm_text: A Baldwin County Jury cleared Harry Still III in the assault case against Bay Minette Council Member Matthew J Franklin. Read how this verdict ties into the local political conflicts Tommy Bass and Darryl Patton track throughout Bay Minette.
     widget_date: "2026-05-25"
-    generated_at: "2026-11-05T19:47:20.546905Z"
+    generated_at: "2026-11-06T06:34:56.910938Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  former-summerdale-police-chief-kevin-brock:
+  vote-2026:
     brief: |-
-      1. THE CONFLICT: Chief Kevin Brock and his wife, Dr. Lori Brock, were investigated, fired, and indicted (two years later) by the Baldwin County Law Enforcement Propaganda Machine.
-      2. THE DISCOVERY: Harry Still's recent arrest was on a misdemeanor in Bay Minette; a Baldwin County Jury found Harry Still III NOT GUILTY in the City of Bay Minette v Harry Still III for assaulting City Council Member Matthew J Franklin.
-      3. THE PIVOT: The podcast features Darryl Patton discussing Tommy Bass's herbal knowledge, providing a contrast to the serious local legal and political struggles faced by figures like Kevin Brock and Harry Still in Baldwin County.
-      4. KEY ENTITIES: Darryl Patton, Tommy Bass, Kevin Brock, Lori Brock, Harry Still, Matthew J Franklin, Baldwin County, Bay Minette
-    widget_date: "2025-11-26"
-    generated_at: "2026-11-05T19:47:20.546905Z"
+      THE CONFLICT: Baldwin County elections featured primaries on May 19, focused on demanding change from career politicians; District 32 incumbent Mike Van faced 20 years of criticism regarding "Stealing BP money."
+      THE DISCOVERY: Article 2 revealed concerns about Baldwin County political corruption, including the influence of PACs and lobbyists, alleged GOB-regulated rigged elections, and the need to force term limits.
+      THE PIVOT: Article 2 provides the context of local political corruption and institutional issues within Baldwin County, while Article 1 provides anthropological and medicinal knowledge about Alabama native plants from Tommy Bass, but there is no direct factual link connecting the two topics in the provided texts.
+      KEY ENTITIES: Darryl Patton, Tommy Bass, Matt McKenzie, Richard Cox, Angelo Fermo, Kevin Brock, Tracey Gambill, Jeremiah Giles, Grant Blackburn, Whitney Scapecchi, Terry Waters, Mike Van, Danielle Dugger, Joe Freeman, Baldwin County, Bay Minette, Alabama, GOB.
+    llm_text: Mike Van faced 20 years of criticism over "Stealing BP money" during the Baldwin County primaries. Discover how PACs and GOB influence fuel local corruption, forcing Baldwin County to demand term limits now.
+    widget_date: "2026-05-18"
+    generated_at: "2026-11-06T06:37:17.256833Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  heart-of-dixie-podcast:
+  anonymous-bb:
     brief: |-
-      1. THE CONFLICT: Darryl Patton, Master Herbalist, discussed "Mountain Medicine: The Herbal Remedies of Tommy Bass," detailing Alabama native plants.
-      2. THE DISCOVERY: Harry Still, Francis Paul Ripp, and Brandon Moseley discussed the arrest and incarceration of Harry Still (who claimed he was assaulted by Councilman Matthew Franklin), the resulting non-filing of charges, and an internal BCSO email showing Sheriff Anthony Lowery directing deputies to pre-target Still.
-      3. THE PIVOT: The podcast introduces the topic of Alabama herbalism via Tommy Bass, setting the stage for the discussion in the widget regarding the alleged viewpoint-based policing and First Amendment retaliation against Harry Still by BCSO under Sheriff Anthony Lowery.
-      4. KEY ENTITIES: Darryl Patton, Tommy Bass, Harry Still, Matthew Franklin, Sheriff Anthony Lowery, BCSO, Anthony Lowery, WKRG Channel 5
-    widget_date: "2025-11-21"
-    generated_at: "2026-11-05T19:47:20.546905Z"
+      THE CONFLICT: BCSO culture under Hoss Mack and Anthony Lowery is characterized by corruption, police cover-ups, and failures of justice, leading to incidents like the death of Robert Yeats (alleged involvement of deputy Justin Correa), the wrongful conviction of Murray Lawrence Jr., the death of O J French, and a deadly interstate crash on I-10 (five lives lost).
+      THE DISCOVERY: The Baldwin Beat (BB) newsletter anonymously exposed the systemic corruption and lack of accountability within the Baldwin County Sheriff Office over the last 10 years, citing over 60 articles regarding BCSO culture.
+      THE PIVOT: No factual pivot connects the two articles. Article 1 details the herbal remedies and anthropological knowledge of Tommy Bass and his apprentice, Darryl Patton, using native Alabama plants (magnolia bark, buckeye, cross vine). Article 2 details political corruption and law enforcement misconduct in Baldwin County, Alabama. The only shared context is Alabama geography.
+      KEY ENTITIES: Darryl Patton, Tommy Bass, Magnolia bark, Buckeye, Cross vine, Baldwin County, Hoss Mack, Anthony Lowery, Matt Mc Kenzie, Kristi Hagood, Robert Wilters, Murray Lawrence Jr., Robert Yeats, Justin Correa, O J French, BCSO, Baldwin Beat.
+    llm_text: Darryl Patton uses native Alabama plants like magnolia bark, but Baldwin County faces deep BCSO corruption under Hoss Mack and Anthony Lowery. Discover how police cover-ups led to the death of Robert Yeats and the wrongful conviction of Murray Lawrence Jr.
+    widget_date: "2026-05-10"
+    generated_at: "2026-11-06T06:38:24.720676Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  audio-of-bay-minette-attorney-councilman-fight-offers-new-details:
+  not-qualified:
     brief: |-
-      1. THE CONFLICT: Darryl Patton, Master Herbalist, discussed "Mountain Medicine: The Herbal Remedies of Tommy Bass," detailing Alabama native plants.
-      2. THE DISCOVERY: An audio recording provided by Harry Still captured a fight between Harry Still and Councilman Matthew Franklin in September 3 in Franklin’s office, contradicting the version offered by former Mayor Bob Wills and former police chief Al Tolbert, where Still attacked Franklin.
-      3. THE PIVOT: The podcast presents the subject of Tommy Bass's herbal remedies, while the widget provides primary evidence (the audio recording) that contradicts the official law enforcement narrative regarding the September 3 fight between Still and Franklin.
-      4. KEY ENTITIES: Darryl Patton, Tommy Bass, Harry Still, Matthew Franklin, Bob Wills, Al Tolbert, Joshua Brown, Bay Minette
-    widget_date: "2025-11-23"
-    generated_at: "2026-11-05T19:47:20.546905Z"
+      THE CONFLICT: Murray Bubba Lawrence Jr. conviction; presided over by Circuit Judge DA Wilters. Willie Huntley testified regarding Jeff Sessions and Jefferson Beauregard Session's role in bankrupting the Ku Klux Klan.
+      THE DISCOVERY: Election primary is May 19, 2026, in Baldwin County; Kristi Hagood (Baldwin County Assistant District Attorney) is being challenged.
+      THE PIVOT: Both articles detail significant events and figures within the state of Alabama, establishing a regional context for both the historical legal events (Murray Lawrence Jr. trial) and the cultural/anthropological history (Tommy Bass/Mountain Medicine).
+      KEY ENTITIES: Darryl Patton, Tommy Bass, Kristi Hagood, Murray Bubba Lawrence Jr., DA Wilters, Willie Huntley, Jeff Sessions, Kevin Brock, Bay Minette, Alabama.
+    llm_text: Murray Bubba Lawrence Jr.'s conviction, overseen by DA Wilters, reveals deep Alabama history, including Willie Huntley's testimony on Jeff Sessions and the KKK. See how this legal drama connects to the May 2026 challenge against Kristi Hagood in Baldwin County.
+    widget_date: "2026-05-09"
+    generated_at: "2026-11-06T06:39:40.282439Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  bay-minette-vote-out-mayor-wills-remember-oj-french:
+  gambling-money-run-amok:
     brief: |-
-      1. THE CONFLICT: Darryl Patton, Master Herbalist, discussed "Mountain Medicine: The Herbal Remedies of Tommy Bass," detailing Alabama native plants.
-      2. THE DISCOVERY: Mayor Bob Wills lied to the family of O. J. French, claiming they were OK with his death (August 20, 2021); he supported the BCMCU (which investigates itself, chaired by Chief Al Tolbert), and a federal lawsuit has been filed on behalf of O. J. French and his family.
-      3. THE PIVOT: The podcast introduces the herbal remedies of Tommy Bass, serving as a neutral anchor before the widget exposes the alleged cover-up involving Mayor Bob Wills and the BCMCU regarding the death of O. J. French.
-      4. KEY ENTITIES: Darryl Patton, Tommy Bass, Mayor Bob Wills, O. J. French, Al Tolbert, Joshua Brown, Baldwin County Major Crimes Unit (BCMCU)
-    widget_date: "2025-08-23"
-    generated_at: "2026-11-05T19:47:20.546905Z"
+      THE CONFLICT: Steve Raby (Speaker's lobbyist) ran out-of-state gambling interest money to influence the Alabama Legislature and Speaker Ledbetter.
+      THE DISCOVERY: Raby's funds were reportedly used by executives in the Mayor of Birmingham's LGBTQ Office to support Democrat Rep Juandalynn Givan (Alabama House District 60).
+      THE PIVOT: Article 2 provides context regarding political financial influence in Alabama; Article 1 discusses native Alabama herbal remedies (Tommy Bass/Darryl Patton). There is no direct factual link between the two topics provided in the texts.
+      KEY ENTITIES: Darryl Patton, Tommy Bass, Steve Raby, Juandalynn Givan, Speaker Ledbetter, Joshua Coleman, Dax Swatek, Elliott, Simpson, Albritton, Holk-Jones, Bay Minette, Alabama, SVB PAC.
+    llm_text: Steve Raby used out-of-state gambling money to influence Alabama Speaker Ledbetter. Birmingham Mayor's LGBTQ Office executives then backed Rep Juandalynn Givan. See how political cash shapes Alabama power.
+    widget_date: "2026-04-16"
+    generated_at: "2026-11-06T06:36:04.727808Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  by-appointment-only:
+    brief: |-
+      THE CONFLICT: A cabal controls judicial appointments in Baldwin County, Alabama, using political influence coordinated with the State Executive Branch.
+      THE DISCOVERY: Draft Kings supported pro-gaming legislators for four years, leading to the creation of the Alabama Gaming Commission, potentially negotiating a merger/acquisition with PCI Gaming.
+      THE PIVOT: Article 2 establishes the political and economic context (Alabama Gaming Commission, Baldwin County influence) within which the local history and knowledge detailed in Article 1 (Mountain Medicine, Tommy Bass, native Alabama herbs) was developed and recorded.
+      KEY ENTITIES: Darryl Patton, Tommy Bass, Mountain Medicine, Alabama Gaming Commission, Draft Kings, PCI Gaming, Bay Minette, Alabama, Baldwin County
+    llm_text: A Baldwin County cabal uses political influence, backed by Draft Kings, to control judicial appointments and shape the Alabama Gaming Commission. Discover how this powerful economic context shaped local history, including Tommy Bass and Mountain Medicine.
+    widget_date: "2026-04-10"
+    generated_at: "2026-11-06T06:40:25.576427Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  eddie-tyler-exits-stage-left:
+    brief: |-
+      THE CONFLICT: Eddie Tyler's era ended; $16.3 Million was allocated for Golden Triangle bridge/boulevard over Fish River; a 20-year Baldwin County Sheriffs Deputy resigned citing "Ungodly men."
+      THE DISCOVERY: Article 2 revealed local financial and political corruption centered on the Fish River development and involving figures like Eddie Tyler, Brandon Moseley, and Harry Still.
+      THE PIVOT: Article 2 establishes the historical context of local power and financial conflict in Baldwin County, which connects to the family members (Mrs. Tom Bradley Jr/Pat Bradley) associated with Tommy Bass (featured in Article 1).
+      KEY ENTITIES: Darryl Patton, Tommy Bass, Eddie Tyler, Brandon Moseley, Harry Still, Fish River, Baldwin County, Pat Bradley, Afroman, Bay Minette, Alabama.
+    llm_text: $16.3M for the Fish River development masks deep local corruption involving Eddie Tyler, Brandon Moseley, and Harry Still. Discover how this political conflict in Baldwin County ties directly to the legacy of Tommy Bass and Pat Bradley.
+    widget_date: "2026-03-27"
+    generated_at: "2026-11-06T06:41:16.864846Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   southern-gothic:
     brief: |-
-      1. THE CONFLICT: Darryl Patton, Master Herbalist, discussed "Mountain Medicine: The Herbal Remedies of Tommy Bass," detailing Alabama native plants.
-      2. THE DISCOVERY: Gabriel Tynes, in the Southern Gothic podcast, noted Harry Still confronted judicial and municipal corruption in Baldwin County, having faced pressure after his candor; he referenced historical figures like Harry Still, Sr., and noted corruption issues dating back to 2005 (Orange Beach Mayor Steve Russo/City Attorney Larry Sutley).
-      3. THE PIVOT: The podcast discusses Tommy Bass and his herbal knowledge, providing a thematic contrast to the widget, which frames Harry Still's actions as resistance against long-standing judicial and municipal corruption in Baldwin County.
-      4. KEY ENTITIES: Darryl Patton, Tommy Bass, Harry Still, Gabriel Tynes, Baldwin County, Charles Hall, Steve Russo, Larry Sutley
+      THE CONFLICT: In 2005, the prosecution of Orange Beach Mayor Steve Russo and City Attorney Larry Sutley was the last public corruption case in Baldwin County, Alabama. In 2010, familiar faces on the Baldwin County Commission exploited special interests, notably Catalyst Scott Boone Consulting (CSB).
+      THE DISCOVERY: Darryl Patton, master herbalist and author of *Mountain Medicine*, documented the herbal remedies of Tommy Bass, who learned from an old Cherokee woman, utilizing native Alabama plants (e.g., magnolia bark, buckeye, cross vine) in Bay Minette, Alabama.
+      THE PIVOT: The Widget Article establishes a historical context of entrenched judicial and municipal corruption in Baldwin County, AL (founded 1809), detailing the political environment (2005-2010) within which local issues, such as those in Bay Minette, Alabama (Main Article location), occurred.
+      KEY ENTITIES: Darryl Patton; Tommy Bass; Harry Still; Steve Russo; Larry Sutley; Catalyst Scott Boone Consulting (CSB); Baldwin County, Alabama; Bay Minette, Alabama; Judge Charles Hall; Constable Edward Steadham.
+    llm_text: Baldwin County saw corruption from Steve Russo and Larry Sutley to CSB in 2010. Understand this local history before reading about Tommy Bass's native Alabama remedies documented by Darryl Patton in Bay Minette.
     widget_date: "2021-04-02"
-    generated_at: "2026-11-05T19:47:20.546905Z"
+    generated_at: "2026-11-06T06:42:29.055711Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   american-citizen:
     brief: |-
-      1. THE CONFLICT: Darryl Patton, Master Herbalist, discussed "Mountain Medicine: The Herbal Remedies of Tommy Bass," detailing Alabama native plants.
-      2. THE DISCOVERY: The McSharry assault case (Paula Dinardi assaulted by Ronan McSharry in November 2018) involved Baldwin County incompetence, political interference (CATALYST), and judicial failure; Municipal Judge Snedeker and Fairhope City Prosecutor Marcus McDowell allowed the Green Card holder McSharry to escape prosecution due to a charging document defect.
-      3. THE PIVOT: The podcast presents Tommy Bass's herbal remedies, contrasting with the detailed widget which exposes a specific case (McSharry vs. Dinardi) showing how local political influence (CATALYST council) led to a miscarriage of justice favoring a non-American citizen over an American citizen victim, Paula Dinardi.
-      4. KEY ENTITIES: Darryl Patton, Tommy Bass, Ronan McSharry, Paula Dinardi, Marcus McDowell, Municipal Judge Snedeker, Jack Burrell, Baldwin County, Fairhope
+      THE CONFLICT: Ronan McSharry, an Irish Green Card holder, assaulted Paula Dinardi in Fairhope in November 2018, leading to legal failure in Baldwin County.
+      THE DISCOVERY: Article 2 exposed Baldwin County judicial failure, political interference (involving City Council and Council President Burrell), and lack of ethics that allowed McSharry to escape prosecution despite past convictions.
+      THE PIVOT: Article 2 provides historical context of local judicial and political failure within Baldwin County, Alabama, contrasting with Article 1’s discussion of native Alabama herbalism (Tommy Bass/Darryl Patton) and local issues in Bay Minette, establishing a regional theme of local governance and community focus within the state.
+      KEY ENTITIES: Paula Dinardi, Ronan McSharry, Darryl Patton, Tommy Bass, Marcus McDowell, Judge Snedeker, Judge Stankowski, Council President Burrell, Dinardi, City Attorney, Baldwin County, Bay Minette, Alabama
+    llm_text: Ronan McSharry assaulted Paula Dinardi in Fairhope, yet Baldwin County shielded him from prosecution despite past convictions. Council President Burrell's political interference exposed deep judicial failure across the entire county.
     widget_date: "2020-04-22"
-    generated_at: "2026-11-05T19:47:20.546905Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  judicial-trick:
-    brief: |-
-      1. THE CONFLICT: Darryl Patton, Master Herbalist, discussed "Mountain Medicine: The Herbal Remedies of Tommy Bass," detailing Alabama native plants.
-      2. THE DISCOVERY: Baldwin County exhibits judicial malfeasance/corruption; the case of Ronan McSherry (assaulting Paula Dinardi on November 22, 2018) was dismissed by Circuit Judge Clark Stankoski because Municipal Attorney Marcus McDowell failed to amend the charging document to include "did cause bodily harm."
-      3. THE PIVOT: The podcast features Tommy Bass discussing herbalism, providing context to the widget which details how specific judicial tricks, like the failure by City Attorney Marcus McDowell to amend a charge for Ronan McSherry, led to the dismissal of a serious assault case despite video evidence.
-      4. KEY ENTITIES: Darryl Patton, Tommy Bass, Ronan McSherry, Paula Dinardi, Clark Stankoski, Marcus McDowell, Jack Burrell, Baldwin County
-    widget_date: "2020-04-18"
-    generated_at: "2026-11-05T19:47:20.546905Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  cover-up:
-    brief: |-
-      1. THE CONFLICT: Darryl Patton, Master Herbalist, discussed "Mountain Medicine: The Herbal Remedies of Tommy Bass," detailing Alabama native plants.
-      2. THE DISCOVERY: Mayor Bob Wills sent a letter to O.J.’s sister, Tamara French, regarding O.J. French's death (August 20, 2021), denying allegations of a cover up; BCMCU (chaired by Al Tolbert) has no credibility as it investigates itself; Mayor Wills received $867,000.00 from a building rental deal (with Baldwin County Legislative Delegation) and faces pending ethics and Alabama Bar complaints.
-      3. THE PIVOT: The podcast covers Tommy Bass's herbal remedies, while the widget exposes Mayor Bob Wills' actions (denial of cover up, self-dealing via rent) and the institutional failure of BCMCU (led by Al Tolbert) to investigate the death of O. J. French.
-      4. KEY ENTITIES: Darryl Patton, Tommy Bass, Mayor Bob Wills, O. J. French, Tamara French, Al Tolbert, BCMCU, Alabama Attorney General Steve Marshall, Albritton
-    widget_date: "2023-03-21"
-    generated_at: "2026-11-05T19:47:20.546905Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  the-law-enforcement-narrative-2:
-    brief: |-
-      1. THE CONFLICT: Darryl Patton, Master Herbalist, discussed "Mountain Medicine: The Herbal Remedies of Tommy Bass," detailing Alabama native plants.
-      2. THE DISCOVERY: The narrative fed by the BCMCU (Sheriff Huey Mack's imagination) concerning the death of a Bay Minette community member was a fiction; past incidents linked to Baldwin County include the death of Jonathan Victor, Robert Yates, Peyton Little (a confidential drug informant), and the conviction of Forest Bullin for attempting murder of Sheriff's Deputy Michael Walker.
-      3. THE PIVOT: The podcast introduces Tommy Bass's herbal remedies, contrasting with the widget which challenges the official law enforcement narrative from Sheriff Huey Mack and BCMCU, highlighting a pattern of historical cover-ups and disinformation in Baldwin County.
-      4. KEY ENTITIES: Darryl Patton, Tommy Bass, Sheriff Huey Mack, Bay Minette Justice League, Jonathan Victor, Robert Yates, Peyton Little, Forest Bullin, Michael Walker, Baldwin County Major Crimes Unit (BCMCU)
-    widget_date: "2025-09-10"
-    generated_at: "2026-11-05T19:47:20.546905Z"
+    generated_at: "2026-11-06T06:43:45.891065Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

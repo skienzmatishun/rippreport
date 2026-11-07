@@ -2,6 +2,7 @@ package processor
 
 import (
 	"context"
+	"errors"
 	"fmt"
 	"math"
 	"os"
@@ -19,14 +20,14 @@ import (
 const (
 	sidebarHooksFilename = "sidebar-hooks.yaml"
 	hookMaxPromptTokens  = 20000
-	hookMaxOutputTokens  = 8096
+	hookMaxOutputTokens  = 30000
 
 	// Retry configuration matching Python's hook_generator.py
 	hookMaxRetries      = 3
 	hookRetryBackoffSec = 1 // base seconds for exponential backoff
 
 	// Batch prompt constants matching Python's generate_hook_batch
-	hookBatchMaxOutputTokens = 20000
+	hookBatchMaxOutputTokens = 30000
 
 	// RepetitionPenalty matching Python's REPETITION_PENALTY = 1.25
 	hookRepetitionPenalty float32 = 1.25
@@ -116,7 +117,7 @@ func GenerateHook(ctx context.Context, llamaClient client.LlamaClient, modelName
 			if err != nil {
 				lastErr = err
 				// Don't retry connection errors — fail fast (matching Python)
-				if isConnectionError(err) {
+				if hookCompletionCannotRetry(err) {
 					return nil, fmt.Errorf("hook completion failed for %s -> %s: %w", req.MainPost.Slug, req.WidgetPost.Slug, err)
 				}
 				if attempt < hookMaxRetries-1 {
@@ -157,42 +158,12 @@ func GenerateHook(ctx context.Context, llamaClient client.LlamaClient, modelName
 
 	now := time.Now().UTC()
 
-	// Generate initial LLM hook text from the brief
 	var llmText string
 	if llamaClient != nil && brief != stubBridgeBrief(mainFM.Title, widgetFM.Title) {
-		// Use LLM to generate initial sidebar hook from the brief
-		hookSystemPrompt := `You are a sidebar hook writer for The Ripp Report.
-
-Your task: Transform the structured bridge brief into a compelling 2-sentence sidebar hook.
-
-Style:
-- Direct and conversational
-- Use specific names and details from the brief
-- Connect the widget article to why readers should care
-- 220-320 characters total
-- NO passive voice
-
-Output ONLY the hook text, nothing else.`
-
-		hookUserPrompt := fmt.Sprintf("Create a sidebar hook from this bridge brief:\n\n%s", brief)
-
-		maxTokens := cfg.Processing.HookLLMTextMaxTokens
-		if maxTokens == 0 {
-			maxTokens = 30000 // Default if not configured
-		}
-
-		hookResp, err := llamaClient.Complete(ctx, models.CompletionRequest{
-			Messages: []models.ChatMessage{
-				{Role: "system", Content: hookSystemPrompt},
-				{Role: "user", Content: hookUserPrompt},
-			},
-			Model:       modelName,
-			Temperature: 0.9,
-			TopP:        0.95,
-			MaxTokens:   maxTokens,
-		})
-		if err == nil && len(strings.TrimSpace(hookResp.Text)) > 0 {
-			llmText = strings.TrimSpace(hookResp.Text)
+		var err error
+		llmText, err = generateHookText(ctx, llamaClient, modelName, cfg, brief)
+		if err != nil {
+			return nil, fmt.Errorf("hook text for %s -> %s: %w", req.MainPost.Slug, req.WidgetPost.Slug, err)
 		}
 	}
 
@@ -209,6 +180,48 @@ Output ONLY the hook text, nothing else.`
 		return nil, fmt.Errorf("generated hook validation failed: %w", err)
 	}
 	return hook, nil
+}
+
+// generateHookText turns a bridge brief into the initial sidebar copy.
+func generateHookText(ctx context.Context, llamaClient client.LlamaClient, modelName string, cfg *config.Config, brief string) (string, error) {
+	hookSystemPrompt := `You are a sidebar hook writer for The Ripp Report.
+
+Your task: Transform the structured bridge brief into a compelling 2-sentence sidebar hook.
+
+Style:
+- Direct and conversational
+- Use specific names and details from the brief
+- Connect the widget article to why readers should care
+- 220-320 characters total
+- NO passive voice
+
+Output ONLY the hook text, nothing else.`
+
+	hookUserPrompt := fmt.Sprintf("Create a sidebar hook from this bridge brief:\n\n%s", brief)
+
+	maxTokens := cfg.Processing.HookLLMTextMaxTokens
+	if maxTokens == 0 {
+		maxTokens = 30000 // Default if not configured
+	}
+
+	hookResp, err := llamaClient.Complete(ctx, models.CompletionRequest{
+		Messages: []models.ChatMessage{
+			{Role: "system", Content: hookSystemPrompt},
+			{Role: "user", Content: hookUserPrompt},
+		},
+		Model:       modelName,
+		Temperature: 0.9,
+		TopP:        0.95,
+		MaxTokens:   maxTokens,
+	})
+	if err != nil {
+		return "", fmt.Errorf("sidebar text completion failed: %w", err)
+	}
+	text := strings.TrimSpace(hookResp.Text)
+	if text == "" {
+		return "", fmt.Errorf("sidebar text completion returned empty text")
+	}
+	return text, nil
 }
 
 // GenerateHookBatchSinglePrompt generates multiple Bridge Briefs in a single
@@ -311,7 +324,7 @@ func GenerateHookBatchSinglePrompt(ctx context.Context, llamaClient client.Llama
 		})
 		if err != nil {
 			lastErr = err
-			if isConnectionError(err) {
+			if hookCompletionCannotRetry(err) {
 				return nil, fmt.Errorf("batch hook completion failed: %w", err)
 			}
 			if attempt < hookMaxRetries-1 {
@@ -362,10 +375,19 @@ func GenerateHookBatchSinglePrompt(ctx context.Context, llamaClient client.Llama
 				// For individual garbage briefs, use the stub
 				cleaned = stubBridgeBrief(pairs[i].mainFM.Title, pairs[i].widgetFM.Title)
 			}
+			var llmText string
+			if cleaned != stubBridgeBrief(pairs[i].mainFM.Title, pairs[i].widgetFM.Title) {
+				var err error
+				llmText, err = generateHookText(ctx, llamaClient, modelName, cfg, cleaned)
+				if err != nil {
+					return nil, fmt.Errorf("hook text for %s -> %s: %w", pairs[i].mainSlug, pairs[i].widgetSlug, err)
+				}
+			}
 			hooks = append(hooks, &models.Hook{
 				WidgetSlug:  pairs[i].widgetSlug,
 				WidgetTitle: pairs[i].widgetFM.Title,
 				Brief:       cleaned,
+				LLMText:     llmText,
 				WidgetDate:  formatDate(pairs[i].widgetFM.Date),
 				Generated:   now,
 				ModelName:   modelName,
@@ -801,4 +823,9 @@ func LoadHookFile(path string) (*models.HookFile, error) {
 		return nil, fmt.Errorf("sidebar hooks validation failed: %w", err)
 	}
 	return file, nil
+}
+
+func hookCompletionCannotRetry(err error) bool {
+	var unavailable *client.OpenRouterUnavailableError
+	return errors.As(err, &unavailable) || isConnectionError(err)
 }

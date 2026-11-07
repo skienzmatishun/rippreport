@@ -1,88 +1,187 @@
 metadata:
-  generated_at: "2026-11-05T18:54:10.282733Z"
+  generated_at: "2026-11-06T05:32:31.900160Z"
   generator_version: 1.0.0
   post_slug: fairhope-wrongful-conviction
   main_date: "2026-08-01"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
+  court-of-public-opinion-3:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. is serving life without parole for a murder he did not commit.
+      THE DISCOVERY: Article 2 revealed BCSO (under Hoss Mack) granted total immunity, blocked camera footage despite requesting $600,000 for cameras (promising public view), and that Anthony Lowery (lead investigator) found not one shred of evidence in the case.
+      THE PIVOT: Article 2 established the institutional corruption (BCSO immunity, self-investigation, Mack and Lowery's motives for self-promotion) that enabled the wrongful conviction described in Article 1, which relied on a coerced confession rather than physical evidence (no DNA, no weapon, no witness).
+      KEY ENTITIES: Murray Lawrence Jr., BCSO, Hoss Mack, Anthony Lowery
+    llm_text: Murray Lawrence Jr. serves life for a murder he did not commit. BCSO under Hoss Mack granted immunity and blocked footage, while Anthony Lowery found no evidence—proving institutional corruption enabled this wrongful conviction.
+    widget_date: "2026-07-31"
+    generated_at: "2026-11-06T05:31:22.018303Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  fins-to-the-left-fins-to-the-right:
+    brief: |-
+      THE CONFLICT:
+      - Murray Lawrence Jr. is serving life without parole for a murder he did not commit, per main article.
+      - Main article states there was no physical evidence connecting Murray to the murder: no DNA, no weapon, no witness who ever placed him there.
+      - Main article states the State had a man who confessed to the killing, changed his story only after investigators offered him a way out, and named Murray in the version that saved him.
+      - Main article: BCSO and the Academy Award nominated Alabama Solution documentary showed what happens inside Alabama’s prisons; main article says it may be the more disturbing story.
+      - Main article: frames getting Murray out of prison as getting his story out.
+      - Main article: describes coercion, suppressed evidence, case for Murray’s innocence that courts have never had to answer.
+      - Main article: legal question still open.
+
+      THE DISCOVERY:
+      - Article 2 is older than Article 1; frame as background/historical context.
+      - C.C. Dixon-Moreno Facebook post: said she does not delete; said not about one post, one lawsuit, one dead deal; said it is about an ecosystem.
+      - Pirate’s Voyage is dead.
+      - Beech’s contract is dead.
+      - John McInnis and Cameron Price both signed the Beech’s contract.
+      - John McInnis and Cameron Price are the same Flora-Bama Lounge & Package ownership interests behind Orange Beach Land Company and Coastal Orange Beach.
+      - City of Orange Beach’s own CoastAL announcement said City and Orange Beach Land Company divided 800 feet of beachfront.
+      - City took 400 feet; private company took adjoining 400 feet for CoastAL.
+      - City public side carried public obligation and improvements; private side got adjoining commercial development, shared parking arrangements, and certain parking rights.
+      - Tony Kennon publicly championed the deal.
+      - John McInnis and Cameron Price were private partners in the deal.
+      - Jack Robertson has his own long Flora-Bama relationship while sitting on City side of the table.
+      - Trace land deals backward through GCOF, Nathan Cox, 68 Ventures and APD.
+      - Trace forward through Orange Beach Land Company, CoastAL, Law and Land Title, campaign reports and CASH PAC.
+
+      THE PIVOT:
+      - Article 2’s dead deal still leaves paper; signatures don’t sprout legs and run away.
+      - Dead Beech contract still tells who was involved, who had access, who communicated with City, and which private interests were at the table.
+      - Overlapping names and interests across land deals, litigation, deaths, financial interests, city actions, police records, retainers, lawsuits, and subpoenas.
+      - Article 2 is positioned as smoking gun or key context for Article 1 because it connects same names to dead contracts, land deals, private interests, city money, litigation, and records.
+      - Article 2 may provide background/context for understanding the alleged ecosystem relevant to Murray Lawrence Jr. case and the broader BCSO/Alabama prison documentary narrative.
+      - Article 2 does not itself prove Murray’s innocence; it provides context through public records and overlapping interests.
+
+      KEY ENTITIES:
+      - Murray Lawrence Jr.
+      - BCSO
+      - C.C. Dixon-Moreno
+      - Tony Kennon
+      - John McInnis
+      - Cameron Price
+      - Orange Beach Land Company
+      - CoastAL
+      - Coastal Orange Beach
+      - Flora-Bama Lounge & Package
+      - Jack Robertson
+      - GCOF
+      - Nathan Cox
+      - 68 Ventures
+      - APD
+      - Law and Land Title
+      - Campaign reports
+      - CASH PAC
+      - Danny Williams
+      - Steve Russo
+      - Larry Sutley
+      - Ken Wall
+      - Greg Kennedy
+      - Eli Kennedy
+      - Bayshore
+      - Bayshore Towers Condominium Owners’ Association, Inc.
+      - DRI Gulf Coast LLC
+      - Donna Davis
+      - Jay McKinney
+      - Lueckemeyer
+      - Wendy Pickering
+      - Jennifer Miller Howell
+      - Wayne Livingston
+      - Payton Lueckemeyer
+      - Brittany Lueckemeyer Finch
+      - Jimmy Quick
+      - Cristy Heck
+      - Wallace E. Heck Jr.
+      - Lori Anderson
+      - Jim Bomar
+      - Tommie Werneth
+      - Ginger Harrelson
+      - Barb Wadle
+      - Dylan Roeck
+      - Sam Spencer
+      - Carol Stine
+      - Scott Stine
+      - City of Orange Beach
+      - Orange Beach Police Department
+      - Fob James
+      - Hurricane Ivan
+      - Alabama Solution documentary
+
+      KEY FACTS/ENTITIES FOR DATES, MONEY, LOCATIONS:
+      - Hurricane Ivan.
+      - Former Alabama Governor Fob James.
+      - Tony Kennon: approximately $85,000/year as Mayor; later put down approximately $50,000 retainer.
+      - City of Orange Beach and Orange Beach Land Company divided 800 feet of beachfront; City took 400 feet; private company took adjoining 400 feet for CoastAL.
+      - Academy Award nominated Alabama Solution documentary.
+    llm_text: Murray Lawrence Jr. may be innocent, but Alabama prisons have kept his real story away from him behind no DNA and a coerced confession. Now a dead Beach contract and a tangled web of Orange Beach land deals, BCSO records, and private interests may finally connect the dots.
+    widget_date: "2026-07-28"
+    generated_at: "2026-11-06T05:31:08.008159Z"
+    model_name: recursive/flint-v1.0:free
+  justice-denied-a-wrongful-conviction-buried-by-power-and-politics:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted in 2005 of a capital murder.
+      *   He has spent over 20 years in prison for a murder he did not commit.
+      *   The true killer was Jarius McNeil, who confessed but changed his story after being coerced by Huey Mack.
+      *   There was no physical evidence connecting Murray to the crime (no DNA, no weapon, no fingerprints).
+      *   The victim, Brandon Hastings, was strangled in Mississippi, not shot in Alabama, contradicting the State's claim.
+
+      THE DISCOVERY:
+      *   The 2005 trial involved severe prosecutorial misconduct and suppressed exculpatory evidence.
+      *   Key figures who built the case (Wilters, Lowery, Mack, Whetstone) have since risen to positions of power in Baldwin County.
+      *   Robert Wilters served as the 2005 Presiding Circuit Court Judge; Anthony Lowery was Chief Investigator (2005) and is currently Baldwin County Sheriff.
+      *   Huey 'Hoss' Mack was the 2005 Lead Investigator/Captain and coerced Jarius McNeil.
+      *   David Whetstone (2005 DA) admitted to making a plea deal with the unreliable Jarius McNeil.
+
+      THE PIVOT:
+      *   The Widget Article provides the documented historical context (2005 trial misconduct) proving that the lack of physical evidence cited in the Main Article was ignored and suppressed by the system.
+      *   The Main Article calls for action based on a new book/documentary; the Widget Article identifies the powerful individuals who perpetuated the injustice and still influence local law enforcement and judicial processes (e.g., Lowery as Sheriff, Wilters as DA).
+
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Jarius McNeil
+      *   Brandon Hastings
+      *   BCSO (Baldwin County Sheriff’s Office)
+      *   Robert Wilters (Circuit Court Judge 2005; Baldwin County DA since ~2015)
+      *   Anthony Lowery (Chief Investigator 2005; Current Baldwin County Sheriff)
+      *   Huey 'Hoss' Mack (Lead Investigator/Captain 2005; Former Baldwin County Sheriff)
+      *   David Whetstone (Baldwin County DA 2005)
+      *   Baldwin County
+      *   Governor Kay Ivey (appointed Lowery)
+    llm_text: Murray Lawrence Jr. spent over 20 years for a capital murder he did not commit, despite zero physical evidence. Current Baldwin County Sheriff Anthony Lowery and former Judge Robert Wilters helped build the 2005 wrongful conviction.
+    widget_date: "2025-07-30"
+    generated_at: "2026-11-06T05:32:17.716654Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bcso-sound-off:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr. was wrongfully convicted and sentenced to life without parole for a murder he did not commit, based on a coerced confession where another man changed his story to save himself. The conviction relied on zero physical evidence (no DNA, no weapon, no eyewitnesses) and involved suppressed evidence and systemic investigative misconduct. Separately, the Baldwin County Sheriff's Office (BCSO) developed a deeply entrenched "good ole boys" (GOB) culture characterized by arbitrary command, lack of accountability, internal cover-ups, and systemic corruption.
+
+      THE DISCOVERY: The historical context (Article 2 - BCSO Sound-Off) documented internal whistleblowing from BCSO deputies and officers exposing the department's "sorry state of affairs." It revealed that former Sheriff Hoss Mack dumped 20 years of institutional problems onto his successor, Lowery (who was appointed by Governor Kay Ivey, ignoring facts). The department at the time was thoroughly compromised by internal cover-ups, favoritism, and systemic corruption that victimized deputies trying to do the right thing.
+
+      THE PIVOT: The historical revelations about BCSO's corrupt, cover-up-driven internal culture (under Hoss Mack and Lowery) serve as the smoking gun for Murray Lawrence Jr.'s wrongful conviction. They expose the exact institutional machinery—coercion, suppressed evidence, and a "win at all costs" good ole boy network—that allowed investigators to fabricate a case against Lawrence and protect themselves from accountability.
+
+      KEY ENTITIES:
+      - Murray Lawrence Jr.
+      - Hoss Mack (Former Sheriff)
+      - Lowery (Appointed Sheriff)
+      - Governor Kay Ivey
+      - BCSO (Baldwin County Sheriff's Office)
+    llm_text: Former Sheriff Hoss Mack left behind a corrupted Baldwin County Sheriff's Office culture that explains how Murray Lawrence Jr. landed in prison for life without parole. Read how the exact same institutional cover-ups and coerced confessions that victimized whistleblower deputies also framed an innocent man.
+    widget_date: "2026-03-23"
+    generated_at: "2026-11-06T05:30:37.692071Z"
+    model_name: gemini-3.5-flash-lite
+  read-the-comments:
+    brief: "THE CONFLICT: \n- Murray Lawrence Jr. was wrongfully convicted and sentenced to life without parole for a murder he did not commit, based on zero physical evidence (no DNA, no weapon, no eyewitnesses).\n- The State's case relied entirely on a confession from a man who changed his story only after investigators offered him a way out, implicating Lawrence to save himself.\n- The conviction involved a coerced narrative, suppressed evidence, and a lack of accountability within the Baldwin County law enforcement and judicial systems.\n\nTHE DISCOVERY: \n- Historically (per the widget/background article), the Baldwin County Sheriff's Department under Sheriff Hoss Mack was documented engaging in institutional corruption, internal cover-ups (specifically involving top officers), and a lack of supervision, transparency, and accountability.\n- The historical record specifically tied Sheriff Hoss Mack (acting as lead investigator) and District Attorney/presiding judge Robert Wilters to the handling of the Murray Lawrence Jr. case, exposing it as a \"kangaroo court\" operating with zero evidence.\n\nTHE PIVOT: \n- Article 2 acts as the smoking gun because it connects Murray Lawrence Jr.'s wrongful conviction directly to a documented pattern of institutional corruption, systemic cover-ups, and lack of accountability under Sheriff Hoss Mack's leadership.\n- It proves that Lawrence's case was not an isolated judicial error, but part of a systemic operational style within the Baldwin County Sheriff's Department that utilizes coercion and suppresses misconduct.\n\nKEY ENTITIES:\n- Murray Lawrence Jr.\n- Hoss Mack (Sheriff)\n- Robert Wilters (District Attorney / Presiding Judge)\n- Baldwin County Sheriff's Office (BCSO)\n- The Ripp Report"
+    llm_text: Sheriff Hoss Mack and DA Robert Wilters sent Murray Lawrence Jr. to die in prison on zero physical evidence. Discover how The Ripp Report exposes Lawrence's nightmare as a calculated product of systemic corruption inside the Baldwin County Sheriff's Office.
+    widget_date: "2026-03-18"
+    generated_at: "2026-11-06T05:30:43.631761Z"
+    model_name: gemini-3.5-flash-lite
+  listen-closely:
+    brief: "THE CONFLICT: Murray Lawrence Jr. is serving a life without parole sentence for a murder he did not commit, based on a coerced confession where another man changed his story to save himself, combined with suppressed evidence and zero physical evidence (no DNA, no weapon, no eyewitnesses). Meanwhile, in the background of Alabama's carceral system, systematic abuses and corruption led to incidents like the beating death of incarcerated man Steven Davis, overseen by a state administration refusing federal intervention.\n\nTHE DISCOVERY: The 2025 documentary *The Alabama Solution* (directed by Andrew Jarecki and Charlotte Kaufman, premiering at the Sundance Film Festival on January 28, 2025, and released via HBO/HBO Max on October 10, 2025) exposed deep-seated corruption, brutality, and systemic failures inside Alabama prisons—including Easterling Correctional Facility—following a six-year investigation initiated in 2019. It documented guard violence, the murder of Steven Davis (pursued by his mother, Sandy Ray), and retaliation against incarcerated activists (Robert Earl Council, Melvin Ray, and Raoul Poole) who were placed in extreme solitary confinement and filed a federal lawsuit against the Alabama Department of Corrections in February 2026 for First Amendment violations.\n\nTHE PIVOT: While *The Alabama Solution* exposes the horrific realities, brutality, and corruption *inside* Alabama prisons once an inmate is behind bars, Murray Lawrence Jr.'s case exposes what happens *before* someone ever walks through the door—proving that the same corrupt, coercive state machinery responsible for systemic prison abuses also fabricates wrongful convictions through coerced confessions and suppressed evidence before inmates even arrive.\n\nKEY ENTITIES: \n- Murray Lawrence Jr.\n- Andrew Jarecki\n- Charlotte Kaufman\n- Steven Davis\n- Sandy Ray\n- Robert Earl Council\n- Melvin Ray\n- Raoul Poole\n- Governor Kay Ivey\n- BCSO (Baldwin County Sheriff's Office)\n- Alabama Department of Corrections (ADOC)\n- Easterling Correctional Facility"
+    llm_text: Murray Lawrence Jr. is serving life without parole for a crime he never committed, framed by the exact same coercive state tactics exposed in the documentary *The Alabama Solution*. Read how Alabama's corrupt criminal justice machine manufactures wrongful convictions before victims even reach prison walls.
+    widget_date: "2026-03-09"
+    generated_at: "2026-11-06T05:30:53.359974Z"
+    model_name: gemini-3.5-flash-lite
   alabama-exposure-mljr:
-    brief: |-
-      1. THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder (May 6, 2003) in Baldwin County, Alabama, and is serving life without parole. The conviction relied on a confession from Jarius McNeil, who changed his story after being offered a way out. No physical evidence (DNA, weapon, witness) connected Murray to the crime.
-      2. THE DISCOVERY: Article 2 (at the time) is the book, *The Framing of Murray Lawrence Jr.*, which documents the coercion and suppressed evidence related to his conviction, noting the systemic failures across law enforcement, prosecutors, courts, and the prison system in Fairhope/Baldwin County.
-      3. THE PIVOT: The book provides documented factual grounding for the claims of injustice, moving the discussion from general allegations to specific, researched records of coercion and suppressed evidence.
-      4. KEY ENTITIES: Murray Lawrence Jr., BCSO, Baldwin County, Fairhope, The Framing of Murray Lawrence Jr., Alabama Exposure and Accountability.
+    brief: "THE CONFLICT: \n- Murray Lawrence Jr. was wrongfully convicted and sentenced to life without parole for a murder he did not commit.\n- The conviction relied on a coerced confession from a man who named Lawrence only after investigators offered him a way out.\n- The State's case lacked any physical evidence connecting Lawrence to the crime: no DNA, no weapon, and no eyewitnesses.\n\nTHE DISCOVERY (Historical Context from Article 2):\n- Documented systemic failures across law enforcement, prosecutors, defense counsel, the courts, and the prison system in Baldwin County, Alabama.\n- The existence of a documented record detailing police coercion and suppressed evidence regarding Lawrence's case.\n- Availability of the book *The Framing of Murray Lawrence Jr.* (published via Alabama Exposure and Accountability), which exposes the depth of local corruption and outlines the case for Lawrence's innocence that the courts have not addressed.\n\nTHE PIVOT: \n- Article 2 (the older widget/book reference) serves as the foundational \"smoking gun\" because it provides the documented, factual blueprint of the exact corruption, suppressed evidence, and investigative coercion referenced in Article 1. \n- It shifts the narrative from a generalized claim of wrongful conviction to a specific, evidence-backed indictment of Baldwin County authorities, proving that Lawrence's imprisonment is the result of a documented framing rather than a mere judicial oversight.\n\nKEY ENTITIES:\n- Murray Lawrence Jr.\n- BCSO (Baldwin County Sheriff's Office)\n- Alabama Exposure and Accountability\n- Page and Pallet Bookstore\n- JusticeForMurrayLawrenceJr.com"
+    llm_text: Investigators coerced a false confession and buried the truth to lock away Murray Lawrence Jr. for life with zero physical evidence. Discover the dark blueprint of Baldwin County corruption in *The Framing of Murray Lawrence Jr.* available at Page and Pallet and JusticeForMurrayLawrenceJr.com.
     widget_date: "2026-02-20"
-    generated_at: "2026-11-05T18:54:09.257325Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  justice-denied-a-wrongful-conviction-buried-by-power-and-politics-repost:
-    brief: |-
-      1. THE CONFLICT: Murray Lawrence Jr. was convicted of a murder he did not commit (May 6, 2003). He has served over 20 years in prison. The case involved prosecutorial misconduct, suppressed exculpatory evidence, and a coerced confession from Jarius McNeil.
-      2. THE DISCOVERY: Article 2 (at the time) identifies four key figures who built the case and now hold higher office: Robert Wilters (2005 Judge/2015+ DA), Anthony Lowery (2005 CI/Current Baldwin County Sheriff), Huey 'Hoss' Mack (2005 Lead Investigator/Former BCSO Captain, coerced McNeil), and David Whetstone (2005 DA, offered plea deal to McNeil).
-      3. THE PIVOT: Article 2 establishes the direct link between the original wrongful conviction and the current power structure in Baldwin County, showing the key actors who perpetuated the injustice have advanced politically.
-      4. KEY ENTITIES: Murray Lawrence Jr., Robert Wilters, Anthony Lowery, Huey 'Hoss' Mack, David Whetstone, BCSO, Baldwin County.
-    widget_date: "2025-10-01"
-    generated_at: "2026-11-05T18:54:09.257325Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  advocates:
-    brief: |-
-      1. THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder in Baldwin County, Alabama, on May 13, 2005. The conviction lacked physical evidence and relied on the testimony of Jarius McNeil.
-      2. THE DISCOVERY: Article 2 (since then) reveals that advocates discovered the autopsy report was never included in the Baldwin man’s murder trial.
-      3. THE PIVOT: The discovery of the suppressed autopsy report is a specific piece of evidence that corroborates the claims of suppressed evidence and procedural failure during the original trial.
-      4. KEY ENTITIES: Murray Lawrence Jr., Baldwin County, Advocates, Autopsy Report.
-    widget_date: "2026-11-05"
-    generated_at: "2026-11-05T18:54:09.257325Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  7432-days-in-jail:
-    brief: |-
-      1. THE CONFLICT: Murray Lawrence Jr. was convicted of a murder he did not commit, leading to life without parole.
-      2. THE DISCOVERY: Article 2 (since then) states Murray Lawrence Jr. has served 7432 days in jail.
-      3. THE PIVOT: This figure quantifies the severe duration of the injustice, providing a concrete measure of the time lost due to the wrongful conviction.
-      4. KEY ENTITIES: Murray Lawrence Jr., 7432 days, Life without parole.
-    widget_date: "2026-11-05"
-    generated_at: "2026-11-05T18:54:09.257325Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  Baldwin-county-wrongful-conviction:
-    brief: |-
-      1. THE CONFLICT: Murray Lawrence Jr. was wrongly convicted of a murder in Fairhope/Baldwin County, Alabama.
-      2. THE DISCOVERY: Article 2 (since then) frames the case as a major Baldwin County wrongful conviction, drawing parallels to the *Just Mercy* case involving Walter McMillan.
-      3. THE PIVOT: Article 2 contextualizes the specific Fairhope/Baldwin County injustice within the broader framework of high-profile wrongful convictions in Alabama, emphasizing the pattern of systemic failure.
-      4. KEY ENTITIES: Murray Lawrence Jr., BCSO, Baldwin County, Fairhope, Just Mercy.
-    widget_date: "2026-11-05"
-    generated_at: "2026-11-05T18:54:09.257325Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  earful:
-    brief: |-
-      1. THE CONFLICT: Murray Lawrence Jr. was wrongly convicted of a murder.
-      2. THE DISCOVERY: Article 2 (since then) is titled 'EARFUL,' which serves as a general advocacy/awareness piece regarding the injustice.
-      3. THE PIVOT: This article functions as a continuing public awareness tool, maintaining pressure and drawing attention to the ongoing case despite the passage of time.
-      4. KEY ENTITIES: Murray Lawrence Jr., BCSO, EARFUL.
-    widget_date: "2026-11-05"
-    generated_at: "2026-11-05T18:54:09.257325Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  innocent:
-    brief: |-
-      1. THE CONFLICT: Murray Lawrence Jr. was convicted of capital murder in Baldwin County, Alabama, on May 13, 2005, based on a coerced confession from Jarius McNeil.
-      2. THE DISCOVERY: Article 2 (at the time) details the lack of physical evidence (no DNA, fingerprints, weapon) and provides specific roles: David Whetstone (DA, admitted "deal with the devil"), Hoss Mack (Lead Investigator), Robert Wilters (Judge, currently DA), and Willy Huntley (Defense Attorney). It also notes the murder occurred in Baldwin County but the body was disposed of in Mississippi.
-      3. THE PIVOT: Article 2 provides the comprehensive factual timeline and names the specific officials involved in the 2005 trial, detailing how the lack of basic investigative procedures (timeline) proved his innocence.
-      4. KEY ENTITIES: Murray Lawrence Jr., Baldwin County, David Whetstone, Hoss Mack, Robert Wilters, Jarius McNeil, Brandon Hastings, Willy Huntley, May 6, 2003, May 13, 2005.
-    widget_date: "2022-04-22"
-    generated_at: "2026-11-05T18:54:09.257325Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  wrongful-conviction-fairhope-baldwin-county:
-    brief: |-
-      1. THE CONFLICT: Murray Lawrence Jr. is serving life without parole for a murder he did not commit in Fairhope, Baldwin County.
-      2. THE DISCOVERY: Article 2 (at the time) compares the Murray Lawrence Jr. case to the *Just Mercy* story (Walter McMillan) in Baldwin County and highlights the involvement of the Judge, Prosecutor, and Sheriff in withholding evidence.
-      3. THE PIVOT: Article 2 uses a well-known, successful wrongful conviction case (*Just Mercy*) to establish a clear parallel, lending immediate context and gravity to the systemic corruption in the Baldwin County case.
-      4. KEY ENTITIES: Murray Lawrence Jr., Fairhope, Baldwin County, BCSO, Just Mercy, Maxwell/Tillman (Attorneys).
-    widget_date: "2024-06-17"
-    generated_at: "2026-11-05T18:54:09.257325Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  rule-32:
-    brief: |-
-      1. THE CONFLICT: Murray Lawrence Jr. is serving life without parole for a murder he did not commit.
-      2. THE DISCOVERY: Article 2 (at the time) announces that a Rule 32 petition has been filed on his behalf on November 27, 2023, challenging his conviction after appeals were final. It further alleges that Hoss Mack, Robert Wilters, and David Whetstone knowingly and willfully suppressed evidence.
-      3. THE PIVOT: Article 2 provides the critical legal update—the filing of the Rule 32 petition—which moves the case from historical injustice toward a concrete legal mechanism for challenging the conviction and achieving exoneration.
-      4. KEY ENTITIES: Murray Lawrence Jr., Rule 32, November 27, 2023, Hoss Mack, Robert Wilters, David Whetstone, Alabama Rules of Criminal Procedure.
-    widget_date: "2023-12-14"
-    generated_at: "2026-11-05T18:54:09.257325Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:30:58.614590Z"
+    model_name: gemini-3.5-flash-lite

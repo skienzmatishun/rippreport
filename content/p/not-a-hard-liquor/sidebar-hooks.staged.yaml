@@ -1,0 +1,163 @@
+metadata:
+  generated_at: "2026-11-06T19:30:16.655279Z"
+  generator_version: 1.0.0
+  post_slug: not-a-hard-liquor
+  main_date: "2023-08-01"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-crime-of-the-century:
+    brief: |-
+      THE CONFLICT:
+      *   Kay Ivey (Alabama Governor, octogenarian) is involved in a Medical Cannabis License scandal.
+      *   Her administration utilized private dollars and lawyers to defend actions deemed "indefensible."
+      *   The state legislature was accepting a special master for drawing congressional lines.
+
+      THE DISCOVERY:
+      *   Governor Kay Ivey fired Admiral Kent Davis.
+      *   Ivey is attempting to control the veterans’ board, upsetting veteran support.
+      *   Backstory Podcast uncovered a true crime story in Clarke County involving a hospice business with shady ties to a judge, exposing "good old boy" systems.
+
+      THE PIVOT:
+      *   Article 2 provides specific administrative turmoil (firing Admiral Kent Davis and veterans board chaos) that contextualizes the general governance issues mentioned in Article 1.
+      *   Article 2 introduces evidence of local corruption (Clarke County judge/hospice ties) alongside Ivey's political issues.
+
+      KEY ENTITIES:
+      *   Kay Ivey
+      *   Admiral Kent Davis
+      *   Backstory Podcast
+      *   Baldwin County
+      *   Clarke County
+    llm_text: Kay Ivey faces a medical cannabis license scandal while her administration fires Admiral Kent Davis and creates veterans' board chaos. Discover how local corruption in Clarke County—tied to a judge and hospice—exposes the "good old boy" systems undermining Alabama governance.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T19:28:56.529343Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    brief: |-
+      THE CONFLICT:
+      - Article 1, Main Article, “NOT A HARD LIQUOR”: Alabama Governor Kay Ivey, referenced as Meemaw, has a new alcoholic beverage with her likeness and name and the Col. Sanders bow tie; beverage labeled sweet tea sour ale; image context includes Baldwin County seal and Backstory Podcast.
+      - Article 1 frames Ivey as an octogenarian running a complex organization that is “pretty much off the rails.”
+      - Article 1 lists past/current issues: private dollars to lawyers to defend the indefensible; Medical Cannabis License scandal designed to derail the entire program; Legislature content with a special master drawing congressional lines; Mr. Ripp quote: “This place is nuts.”
+      - Dates: no specific dates provided in article content for Kay Ivey beverage or Medical Cannabis License scandal.
+
+      THE DISCOVERY:
+      - Article 2, Widget Article, “Scalped”: Backstory Podcast 190; graphic shows new Baldwin County District Attorney building and a Facebook post announcing its construction bid award.
+      - Article 2 reports: terrorist attack narrowly avoided a larger, more crowded event, saved only by traffic jams; flashy car explosion tied to a misguided vet sparks debates about safety and tech gone wrong.
+      - Article 2 reports: corruption steals spotlight; companies with political ties score million-dollar contracts; law enforcement investigates its own mishaps; spoiler: no accountability; courts step into scandal where scholarships meant for the public went to insiders; everyday folks left out.
+      - Article 2 reports: rumors swirl about the governor’s health and replacements, hinting at more political games ahead.
+      - Article 2 reports: crime waves hit hard; teens clash with high-powered weapons; fisherman’s hobby accidentally solves a cold case.
+      - Article 2 reports: lawmakers push to strip local control, letting state leaders handpick police chiefs instead.
+      - Article 2 reports: podcast wraps with mix of levity (festivals for snowbirds!) and warning: Alabama’s leaders keep failing; up to citizens to demand better.
+
+      THE PIVOT:
+      - Article 2 is newer than Article 1; frame Article 2 as an update.
+      - Article 2’s Baldwin County District Attorney building, construction bid award, and Facebook post connect to corruption and political ties.
+      - Article 2 proves/shows since Article 1: million-dollar contracts, political ties, corruption, insider scholarships, no accountability, law enforcement mishaps, governor’s health/replacement rumors, local control/police chief issues.
+      - Article 2 is the smoking gun/key context for Article 1 because it updates/contextualizes Article 1’s claims about Gov. Kay Ivey’s off-the-rails administration, Medical Cannabis License scandal, Legislature/special master, private dollars/lawyers.
+
+      KEY ENTITIES:
+      - Alabama Governor Kay Ivey; Meemaw; Col. Sanders; sweet tea sour ale; Baldwin County; Backstory Podcast; Backstory Podcast 190; Scalped; Baldwin County District Attorney building; Facebook post; construction bid award; Mr. Ripp; private dollars; Medical Cannabis License scandal; Legislature; special master; congressional lines; terrorist attack; traffic jams; flashy car explosion; misguided vet; million-dollar contracts; law enforcement; courts; scholarships; governor’s health; replacements; crime waves; teens; high-powered weapons; fisherman; cold case; lawmakers; state leaders; police chiefs; snowbirds; citizens.
+    llm_text: Kay Ivey’s Meemaw launched a sweet tea sour ale, but a new Backstory Podcast 190 update exposes the Baldwin County DA building construction bid award amid corruption. The million-dollar contracts and insider scandals keep proving Ivey’s off-the-rails administration is even worse.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T19:29:05.727411Z"
+    model_name: recursive/flint-v1.0:free
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    brief: |-
+      THE CONFLICT:
+      Kay Ivey (Meemaw), Alabama Governor, faced allegations regarding the Medical Cannabis License scandal and the use of private funds for defense. Earlier conflicts included the Dothan Summer Feeding Scandal and the 2005 Mack vs Hadley case involving the theft of a 1968 Camaro by the Baldwin County Sheriff's Department, leading to a Brady Violation (undisclosed autopsies) and the history of corrupt Alabama Federal Judge Mark Fuller from Mobile.
+
+      THE DISCOVERY:
+      The Alabama Court of Civil Appeals released a decision (today at 1pm) regarding the Rule 32 Petition for Murray Lawrence Jr., confirming ongoing legal controversies and systemic corruption within Alabama's political and legal systems.
+
+      THE PIVOT:
+      Article 2 establishes that the alleged political and legal instability surrounding Kay Ivey (Article 1) is not an isolated incident but part of a larger, documented pattern of institutional corruption and legal malpractice in Alabama, evidenced by the Dothan scandal, corrupt judges (Mark Fuller), and law enforcement misconduct (Baldwin County Sheriff's Department).
+
+      KEY ENTITIES:
+      Kay Ivey (Meemaw), Alabama Governor, Baldwin County, Dothan, Luigi Manjone, United Healthcare CEO, Mack vs Hadley, Baldwin County Sheriff's Department, Murray Lawrence Jr., Coroner of Baldwin County, Mark Fuller, Alabama Court of Civil Appeals, Col. Sanders.
+    llm_text: Governor Kay Ivey faces ongoing legal scrutiny over the Medical Cannabis License scandal. This isn't isolated; documented corruption involving Mark Fuller and the Baldwin County Sheriff's Department proves systemic rot across Alabama's legal system.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T19:29:59.247237Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    brief: |-
+      THE CONFLICT: Kay Ivey has a new alcoholic beverage (sweet tea sour ale) featuring her likeness and the Baldwin County seal. Past issues include a Medical Cannabis License scandal and defense via private dollars for "the indefensible."
+      THE DISCOVERY: Podcast covers US government COVID-19 response, President Biden's pardon of his son Hunter, and allegations of misconduct against various officials.
+      THE PIVOT: Article 2 provides broader context on political misconduct, government pardons, and corruption allegations, framing Ivey's actions alongside national/local controversies, not directly connecting to the beer or cannabis scandal specifically.
+      KEY ENTITIES: Kay Ivey, Baldwin County, President Biden, Hunter Biden
+    llm_text: Kay Ivey markets a sweet tea sour ale with the Baldwin County seal amid past scandals. See how her local actions fit into bigger stories about Biden pardons and government misconduct.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T19:28:27.920166Z"
+    model_name: plugsky-lite
+  backstory-podcast-no-186-change-is-coming-alabama:
+    brief: "THE CONFLICT: \n- Alabama Governor Kay Ivey (\"Meemaw,\" octogenarian) running a state government described as \"off the rails,\" involving private dollars, lawyers defending the indefensible, and a Medical Cannabis License scandal aimed at derailing the entire program.\n- The Alabama Legislature allowing a special master to draw congressional lines.\n- The commercial release of a \"sweet tea sour ale\" beer can featuring Governor Ivey's likeness, glasses, and a Colonel Sanders bow tie, flanked by the Baldwin County seal and the Backstory Podcast.\n\nTHE DISCOVERY: \n- Backstory Podcast No. 186 (newer update) reveals the broader media and investigative ecosystem tracking these systemic Alabama failures alongside national crises.\n- The podcast documents specific, ongoing state-level collapses running concurrently with Ivey's administration, including the closing of rural hospitals, changes to hunting seasons, proposed constitutional amendments, and federal-level legal/political issues like the 2024 US Presidential election, Trump Cabinet 2.0, government spending on misinformation, the war in Ukraine, and Google antitrust lawsuits.\n- The episode features direct input from a Veterans/Consumer Advocate, a journalist, and an attorney, signaling coordinated scrutiny on these institutional breakdowns.\n\nTHE PIVOT: \n- Article 2 (Backstory Podcast No. 186) acts as the smoking gun because it proves that Governor Ivey's dysfunctional administration and the bizarre novelty beer marketing aren't isolated incidents—they are part of a wider, actively tracked catalog of state decay (rural hospital closures, legislative failures, constitutional amendments) being investigated by journalists, attorneys, and consumer advocates on a public record.\n\nKEY ENTITIES: \n- Kay Ivey (Alabama Governor / \"Meemaw\")\n- Backstory Podcast (specifically Episode No. 186)\n- Baldwin County\n- Google (Antitrust lawsuits)\n- Trump Cabinet 2.0"
+    llm_text: Governor Kay Ivey’s chaotic administration and bizarre novelty beer cans seem like isolated jokes until Backstory Podcast No. 186 exposes a massive catalog of state decay. Tune in to see how journalists and attorneys track Alabama's institutional collapse right alongside national crises.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T19:28:27.306393Z"
+    model_name: gemini-3.5-flash-lite
+  stirring-the-pot-bsp:
+    brief: "THE CONFLICT: \n- Alabama Governor Kay Ivey (\"Meemaw,\" octogenarian running an off-the-rails organization) was featured with her likeness, name, and Col. Sanders bow tie on a new sweet tea sour ale beer can.\n- Ongoing state issues cited in the past include private dollars, lawyers defending the indefensible, a Medical Cannabis License scandal aimed at derailing the program, and a Legislature accepting a special master to draw congressional lines.\n\nTHE DISCOVERY: \n- Governor Kay Ivey has \"come out of cryo-sleep\" to demand the immediate resignation of the Alabama Veterans Affairs Commissioner.\n- In Bay Minette, Alabama, the family of OJ French Jr. is suing the city over his killing by BMPD Officer Brandon Thompson. \n- Mobile Attorney Andy Ruten is representing the City of Bay Minette, asking a judge to review bodycam footage to excuse the officer's actions while insisting the public not see it. \n- Ruten's firm subsequently hired Bay Minette Mayor Bob Wills to represent them in a separate malpractice lawsuit against the firm.\n- Local government actions include Fairhope expanding a $9.5M pier remodel and Baldwin County approving thousands of residential lots over public outcry while cutting sales tax on hearing aids.\n\nTHE PIVOT: \n- While Article 1 highlights Governor Ivey as a disconnected figure featured on novelty beer cans amidst broad state dysfunction, Article 2 provides the smoking gun update showing her sudden, targeted intervention (demanding the Veterans Affairs Commissioner's resignation) amidst a web of deep-seated local government corruption, police misconduct cover-ups (the OJ French Jr. case managed by Attorney Andy Ruten), and glaring conflicts of interest involving elected officials like Bay Minette Mayor Bob Wills.\n\nKEY ENTITIES: \n- Kay Ivey (Governor of Alabama)\n- OJ French Jr.\n- Brandon Thompson (BMPD Officer)\n- Andy Ruten (Mobile Attorney)\n- Bob Wills (Mayor of Bay Minette / Attorney)\n- Fairhope\n- Baldwin County\n- City of Bay Minette\n- Southern Research (Institute)\n- Mr. Ripp"
+    llm_text: While Governor Kay Ivey graces novelty beer cans, she just woke up to demand the Alabama Veterans Affairs commissioner's resignation. Meanwhile, Mobile attorney Andy Ruten hides bodycam footage in the OJ French Jr. police killing while hiring Bay Minette Mayor Bob Wills, proving state corruption runs deep.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T19:28:33.146416Z"
+    model_name: gemini-3.5-flash-lite
+  the-pete-rose:
+    brief: |-
+      THE CONFLICT:
+      No specific past conflict involving Kay Ivey or her administration is detailed with dates in Article 1. Article 1 mentions a Medical Cannabis License scandal and legislative issues.
+
+      THE DISCOVERY:
+      Article 2 provides unrelated events/topics from a more recent timeframe but does not contain updates regarding Kay Ivey or the alcoholic beverage.
+
+      THE PIVOT:
+      Article 2 does not serve as a 'smoking gun' or key context for Article 1; the articles cover disparate topics.
+
+      KEY ENTITIES:
+      Kay Ivey (Governor), Baldwin County, Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, May 27, 2022, May 29, 2022, Pete Rose, Katie Britt, Adm. Kent Davis, Montgomery Alabama Mayor.
+    llm_text: Kay Ivey's administration faces scrutiny over a Medical Cannabis License scandal. See how these legislative issues impact Alabama politics now.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T19:28:34.168671Z"
+    model_name: plugsky-lite
+  hatians-eating-cats:
+    brief: |-
+      THE CONFLICT:
+      - Alabama Governor Kay Ivey launched a new alcoholic beverage named "NOT A HARD LIQUOR" featuring her likeness (with Col. Sanders bow tie).
+      - The Main Article mentions previous issues including a Medical Cannabis License scandal and legal defense costs for Governor Ivey.
+
+      THE DISCOVERY:
+      - Article 2 does not offer a direct update on Kay Ivey or the alcoholic beverage.
+      - Article 2 contains unrelated events such as the departure of Kent David (Alabama Veterans Affairs Commissioner), the Renaissance School robbery (Baldwin County), and the Sheriff Department of Baldwin County having a new Command Staff.
+
+      THE PIVOT:
+      - Article 2 does not serve as a 'smoking gun' or key context for Article 1; the articles cover distinct and unrelated topics.
+
+      KEY ENTITIES:
+      - Kay Ivey (Governor of Alabama)
+      - Col. Sanders
+      - Baldwin County
+      - Kent David (Former Alabama Veterans Affairs Commissioner)
+      - Renaissance School
+      - Sheriff Department of Baldwin County
+      - Donald Trump
+      - Taylor Swift
+      - RFK Jr
+      - Tulsi Gabbards
+      - Russell Brand
+    llm_text: Governor Kay Ivey launched "NOT A HARD LIQUOR" featuring her and Col. Sanders. See how this new venture stacks up against her past Medical Cannabis License scandal.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T19:28:40.275680Z"
+    model_name: plugsky-lite
+  the-180:
+    brief: "THE CONFLICT:\n- Alabama Governor Kay Ivey (\"Meemaw\", octogenarian) presided over a state government described as \"off the rails,\" involving private funding, legal defense of indefensible actions, a Medical Cannabis License scandal aimed at derailing the program, and a Legislature accepting a special master to draw congressional lines.\n- An alcoholic beverage (sweet tea sour ale) was released featuring Governor Ivey's likeness and name, complete with a Colonel Sanders bow tie.\n\nTHE DISCOVERY: \n- Article 2 (newer update) reveals a critical impending power transition in Baldwin County, Alabama: there is only \"one week left of Sheriff Mack in office here in Baldwin County, Alabama.\"\n- Governor Ivey is actively \"selecting a replacement as we speak\" to fill the vacancy left by Sheriff Mack, raising immediate concerns of more political appointments going \"nuts.\"\n\nTHE PIVOT:\n- Article 2 acts as the critical context/smoking gun because it proves that Governor Ivey's unchecked executive authority is actively expanding *right now* through the imminent, unilateral appointment of a new Baldwin County Sheriff, just as her administration faces severe scrutiny over broader governance failures (cannabis scandals, legislative dysfunction, and personalized novelty merchandising).\n\nKEY ENTITIES:\n- Governor Kay Ivey (\"Meemaw\")\n- Sheriff Mack\n- Baldwin County, Alabama\n- Mr. Ripp\n- Vice President Kamala Harris\n- Candidate Donald Trump\n- RFK Jr.\n- Finebaum\n- University of Alabama"
+    llm_text: Governor Kay Ivey’s administration is already completely off the rails, but Meemaw now holds total power to appoint Sheriff Mack’s replacement in Baldwin County. Read Mr. Ripp's urgent breakdown to see why this unilateral decision threatens our local future.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-06T19:28:39.083432Z"
+    model_name: gemini-3.5-flash-lite
+  sheriff-mack-out-oj-french-lawsuit-in:
+    brief: |-
+      THE CONFLICT: No specific past conflict dated in Article 1. Article 1 references Kay Ivey's management of complex organizational issues, a Medical Cannabis License scandal, and a special master drawing congressional lines.
+      THE DISCOVERY: Article 2 (July 31, 2024) reveals OJ French Jr's family filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson, alleging Officer Thompson shot and killed French Jr.
+      THE PIVOT: Article 2 details local law enforcement and political issues (Mayor Wills, Sheriff resignation, appointments) occurring concurrently with Article 1's commentary on Governor Ivey's governance and local issues, specifically noting Governor Ivey's involvement in appointing Deputy Anthony Lowery.
+      KEY ENTITIES: Kay Ivey, OJ French Jr, Mayor Robert Bob Wills, Officer Brandon Thompson, Sheriff Mack, May Jung LLC, Anthony Lowery, Matt McKenzie, Baldwin County.
+    llm_text: OJ French Jr's family sued Bay Minette over Officer Brandon Thompson's shooting; this local tragedy plays out alongside Kay Ivey's governance decisions in Baldwin County. See how local law enforcement issues connect to state politics.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T19:28:46.276185Z"
+    model_name: plugsky-lite

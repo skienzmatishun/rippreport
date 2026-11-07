@@ -1,0 +1,41 @@
+metadata:
+  generated_at: "2026-11-06T15:03:22.696781Z"
+  generator_version: 1.0.0
+  post_slug: lt-governor-ainsworth-breaks-with-governor
+  main_date: "2025-02-12"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  alabama-off-the-rails:
+    brief: |-
+      THE CONFLICT: State of Alabama approved the medical cannabis Compassion Act on May 17, 2021.
+      THE DISCOVERY: As of February 3, 2025, the medical cannabis industry is mired in litigation, and the Alabama Board of Medical Examiners has not issued the first patient license, despite the 2021 legislation.
+      THE PIVOT: Article 2 provides historical context on the state's legislative struggles (medical cannabis implementation) but does not provide context for the conflict in Article 1 (Veterans Affairs bill); Article 1 details Lt. Governor Ainsworth's opposition to Governor Ivey's Senate Bill 67, which aims to strip the Veterans Board of power.
+      KEY ENTITIES: Will Ainsworth, Governor Kay Ivey, State Senator Andrew Jones, Veterans Commissioner Kent Davis, Alabama Ethics Commissioner Kim Boswell, Senator April Weaver, Senator Chris Elliott, Rep. Ed Oliver, Senator Tim Melson, Chey Garrigan, Alabama Board of Medical Examiners.
+    llm_text: 'Alabama''s 2021 Compassion Act remains stalled: the Board of Medical Examiners hasn''t issued a single medical cannabis patient license. Lt. Governor Ainsworth challenges Governor Ivey over Senate Bill 67, fighting to protect the Veterans Board from power stripping.'
+    widget_date: "2025-02-06"
+    generated_at: "2026-11-06T15:02:01.951764Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-crime-of-the-century:
+    brief: |-
+      THE CONFLICT: Governor Kay Ivey fired Veterans Commissioner Kent Davis after Davis filed an ethics complaint with Alabama Ethics Commissioner Kim Boswell, triggering veteran and board opposition to Ivey's attempt to control the Department of Veterans Affairs.
+
+      THE DISCOVERY: Article 2 revealed that the ousting of Kent Davis led to chaos in veterans' programs and political backlash from veterans who typically support Republican leadership.
+
+      THE PIVOT: Article 2 establishes the initial, controversial firing of Kent Davis and the resulting political chaos, providing the historical context and public discontent that motivated Governor Ivey and State Senator Andrew Jones to push Senate Bill 67 to formalize her sole appointing power.
+
+      KEY ENTITIES:
+      Kay Ivey (Governor)
+      Will Ainsworth (Lt. Governor)
+      Kent Davis (Veterans Commissioner)
+      Kim Boswell (Alabama Ethics Commissioner)
+      Andrew Jones (State Senator)
+      April Weaver (Senator)
+      Chris Elliott (Senator)
+      Ed Oliver (Representative)
+      Senate Bill 67 (SB 67)
+      Department of Veterans Affairs (VA)
+      Baldwin County (Mentioned in context, not primary actor)
+    llm_text: Governor Kay Ivey fired Veterans Commissioner Kent Davis after he filed an ethics complaint with Kim Boswell. This controversial ousting caused chaos in VA programs and generated veteran backlash, pushing Ivey and Senator Andrew Jones to push SB 67 for sole appointing power.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T15:03:03.353798Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

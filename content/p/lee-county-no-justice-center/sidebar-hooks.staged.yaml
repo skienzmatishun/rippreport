@@ -1,0 +1,209 @@
+metadata:
+  generated_at: "2026-11-06T18:01:41.272799Z"
+  generator_version: 1.0.0
+  post_slug: lee-county-no-justice-center
+  main_date: "2024-03-11"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  vote-march-5th:
+    brief: |-
+      THE CONFLICT:
+      Cole Barkley was charged with attempted murder in 2021 after an Auburn Police Department officer fired through his home door without announcing his presence, resulting in a 45-year sentence from Judge Tickle in the Lee County Justice Center.
+
+      THE DISCOVERY:
+      Baldwin County political power is dominated by a "GOB" (Good ole Boys) cabal, which controls positions like Circuit Clerk and influences candidates, exemplified by Sheriff Hoss Mack's endorsements and the Catalyst candidates in the 2024 election (March 5th).
+
+      THE PIVOT:
+      Article 2 demonstrates that the systemic, entrenched, and unaccountable control of local law enforcement and political elites (GOB/Catalyst) is a decades-long institutional pattern, not an isolated incident, providing context for the legal vulnerability and lack of accountability seen in the Barkley case (Article 1).
+
+      KEY ENTITIES:
+      Cole Barkley
+      Auburn Police Department
+      Lee County Justice Center
+      Judge Tickle
+      Sheriff Hoss Mack
+      Baldwin County
+      Kim Earl
+      Carrie Hosier
+      2021 (July 25)
+      2024 (March 5)
+    llm_text: Cole Barkley received a 45-year sentence after the Auburn Police Department fired through his home door in 2021. This incident isn't isolated; it reflects decades of unaccountable control by Baldwin County's GOB cabal, including Sheriff Hoss Mack.
+    widget_date: "2024-03-01"
+    generated_at: "2026-11-06T17:55:52.237369Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-attorney-general:
+    brief: |-
+      THE CONFLICT:
+      - Tom Albritton (Executive Director of the Alabama Ethics Commission and trustee of the Mabel Amos Memorial Fund) and trustees (including Regions Bank and Rick Clifton) allegedly mismanaged the Mabel Amos Memorial Fund.
+      - Between 2013 and 2021, approximately $3.2 million was awarded to anonymous recipients from the trust.
+      - Albritton allegedly awarded himself $135,000 for his children's education.
+      - Albritton allegedly used his position to dismiss ethics complaints filed against him and the trust.
+
+      THE DISCOVERY:
+      - High-ranking Alabama officials possess the power to arbitrarily dismiss investigations and ethical complaints against themselves.
+      - State oversight mechanisms (the Ethics Commission) failed to provide accountability, effectively shielding trustees from legal and public scrutiny.
+      - The Mabel Amos Trust, valued at $8.2 million, functioned as a "personal piggy bank" for select officials and institutions.
+
+      THE PIVOT:
+      - Article 2 establishes a documented pattern of "fraternity" behavior and institutional corruption at the state level, where those in oversight positions (Albritton/Ethics Commission) protect themselves from accountability.
+      - This provides the structural context for the "Justice Center Fraternity" described in Article 1, suggesting that the local collusion in Lee County (police, prosecutors, and Judge Tickle) is part of a larger, systemic culture of self-protection within the Alabama legal and ethics framework.
+
+      KEY ENTITIES:
+      - Tom Albritton (Alabama Ethics Commission Executive Director)
+      - Cole Barkley (Lee County defendant)
+      - Judge Tickle (Lee County Presiding Judge)
+      - Nicole Barkley (Wife of Cole Barkley)
+      - Mabel Amos Memorial Fund/Trust
+      - Auburn Police Department
+      - Regions Bank
+      - Rick Clifton (Trustee)
+      - Matt Simpson (State Representative)
+      - Francis Paul Ripp (The Ripp Report)
+    llm_text: Tom Albritton allegedly siphoned $135,000 from the $8.2 million Mabel Amos Memorial Fund to pay for his children’s education. This blatant misuse of power proves that Alabama’s powerful officials use the Ethics Commission to shield themselves and hide a culture of systemic corruption.
+    widget_date: "2024-02-22"
+    generated_at: "2026-11-06T17:55:11.925863Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  no-justice:
+    brief: |-
+      THE CONFLICT:
+      Murray Lawrence Jr. was convicted in 2003 of the murder of Brandon Hastings in Baldwin County, sentenced to life without parole.
+
+      THE DISCOVERY:
+      A second autopsy, ordered by DA Robert Wilters (who was the presiding Judge), revealed the cause of death was suffocation, not gunshot, but this report was deliberately withheld from Lawrence’s defense.
+
+      THE PIVOT:
+      The suppression of evidence and the conflicts of interest (Wilters serving as Judge and DA; Mack serving as Sheriff and lead investigator) in the Lawrence case demonstrate a systemic pattern of judicial and law enforcement misconduct—including suppressing critical evidence and achieving wrongful convictions—that supports Article 1's critique of the biased, police-dominated "Justice Center" environment (Lee County, 2021).
+
+      KEY ENTITIES:
+      Murray Lawrence Jr.
+      Brandon Hastings
+      Robert Wilters (Baldwin County District Attorney, presiding Judge)
+      Hoss Mack (Lead Investigator/Sheriff)
+      David Whetstone (Prosecutor)
+      Judge Tickle (Lee County Justice Center presiding Judge, 2021)
+      Cole Barkley (Victim, 2021)
+      Nicole Barkley
+      Lee County Justice Center
+      Auburn PD
+      July 25, 2021
+      2003 (Lawrence conviction date)
+    llm_text: Robert Wilters, who served as both DA and presiding Judge, suppressed key evidence in the 2003 conviction of Murray Lawrence Jr. A second autopsy proved Brandon Hastings died by suffocation, not gunshot—exposing systemic misconduct in the Justice Center environment.
+    widget_date: "2024-01-26"
+    generated_at: "2026-11-06T17:58:14.799429Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  rule-32:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted in a 2005 trial and served 20 years in jail.
+      *   Cole Barkley was convicted in 2021 (sentenced to 45 years) for attempted murder stemming from an incident involving Auburn PD.
+
+      THE DISCOVERY:
+      *   In the Lawrence case, Sheriff Hoss Mack, DA Robert Wilters, Judge Robert Wilters, and prosecutor David Whetstone knowingly and willfully suppressed evidence (a second autopsy) that proved Lawrence's innocence.
+      *   This suppression was revealed via a Rule 32 petition filed on November 27, 2023.
+
+      THE PIVOT:
+      *   The Lawrence case provides concrete historical evidence of systemic corruption and judicial misconduct (withholding evidence) by key officials (Mack, Wilters, Whetstone) within Baldwin County, supporting the Main Article's claim that the "Police Fraternity" and local legal fraternity intentionally avoid accountability in cases like Barkley's.
+
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Hoss Mack (Lead Investigator/Sheriff)
+      *   Robert Wilters (DA/Judge)
+      *   David Whetstone (Prosecutor)
+      *   Cole Barkley
+      *   Nicole Barkley
+      *   Judge Tickle
+      *   Lee County
+      *   Auburn PD
+    llm_text: Murray Lawrence Jr. served 20 years after Sheriff Hoss Mack and DA Robert Wilters suppressed evidence proving his innocence. This Baldwin County corruption suggests the "Police Fraternity" avoids accountability in cases like Cole Barkley's.
+    widget_date: "2023-12-14"
+    generated_at: "2026-11-06T17:59:13.207715Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-huey-boss-mack-secret-police-2:
+    brief: |-
+      THE CONFLICT:
+      1. Murry Lawrence Jr. was convicted of capital murder in a 2005 trial based on no physical evidence (no gun, no witness, no DNA).
+      2. Jonathan Victor was shot to death by the Baldwin County Sheriff Office (BCSO) in May 2017 (unarmed).
+      3. Robert Yates was shot to death by BCSO SWAT in March 5, 2018, during an eviction where the situation was not exigent.
+
+      THE DISCOVERY:
+      1. Sheriff Huey “Hoss” Mack (BCSO) managed over $65 million in funding in 2020/2021.
+      2. BCSO lacked crisis intervention teams and de-escalation training in 2017.
+      3. Sheriff Mack secured his second term with the help of State Senator Trip Pittman via qualifications that eliminated 99.5% of competition (alleged election rigging).
+      4. Sheriff Mack's private business (Mack Funeral Home) received a contract from the County Commission, illustrating conflict of interest.
+
+      THE PIVOT:
+      1. Article 2 establishes the historical pattern of unchecked authority, excessive force, and lack of transparency within the BCSO under Sheriff Mack.
+      2. This systemic failure and lack of accountability (denial of records, selective video) is the context enabling the 2021 Cole Barkley case, where an Auburn PD officer shot Barkley through a door without announcing presence, resulting in a conviction and 45-year sentence in the Lee County Justice Center.
+
+      KEY ENTITIES:
+      1. Huey “Hoss” Mack (Baldwin County Sheriff)
+      2. Cole Barkley (Victim, July 25, 2021)
+      3. Nicole (Barkley's wife)
+      4. Judge Tickle (Presiding Judge, Lee County Justice Center)
+      5. Murry Lawrence Jr.
+      6. Jonathan Victor
+      7. Robert Yates
+      8. State Senator Trip Pittman
+      9. Baldwin County Sheriff Office (BCSO)
+      10. Lee County Justice Center
+      11. Auburn PD
+    llm_text: Huey “Hoss” Mack managed $65 million and rigged his term while the BCSO killed Jonathan Victor and Robert Yates. See how this unchecked power enabled the 2021 Cole Barkley case and why accountability demands we expose BCSO's systemic failures.
+    widget_date: "2023-11-20"
+    generated_at: "2026-11-06T17:57:16.039066Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  judge-vs-sheriff:
+    brief: |-
+      THE CONFLICT:
+      1.  In Baldwin County, Senator Trip Pittman sponsored Senate Bill 312 approximately 10 years ago, which established qualifications allowing Sheriff Hoss Mack to secure multiple terms.
+      2.  In 2021, the ruling in *Lagniappe v. Mack* established that law enforcement investigative records (including bodycam footage, such as the incident involving Deputy Matt Hunady) are privileged communication and not public records.
+      3.  On July 25, 2021, Cole Barkley was shot by an Auburn Police Department officer in his home after the officer failed to announce his presence, leading to his conviction of attempted murder and a 45-year sentence in the Lee County Justice Center.
+
+      THE DISCOVERY:
+      1.  The Baldwin County Sheriff's Office (BCSO) exhibits a pattern of lacking transparency and accountability, exemplified by the protection of internal incidents (e.g., Deputy Matt Hunady) and the influence of Sheriff Mack and DA Robert Wilters (30+ year relationship).
+
+      THE PIVOT:
+      1.  The 2021 *Lagniappe v. Mack* ruling and the overall pattern of suppressed evidence in BCSO demonstrate the institutional capacity to withhold crucial police records (e.g., officer personnel files, bodycam footage) that directly impacted the Barkley case, where the officer's records were never made public and his lack of identification contributed to the conviction.
+
+      KEY ENTITIES:
+      1.  Lee County
+      2.  Auburn PD
+      3.  Cole Barkley
+      4.  Nicole Barkley
+      5.  Judge Tickle
+      6.  Hoss Mack
+      7.  BCSO
+      8.  Robert Wilters
+      9.  Senator Trip Pittman
+      10. Associate Justice Greg Shaw
+      11. Deputy Matt Hunady
+      12. Lawrence (2005 wrongful conviction reference)
+    llm_text: Hoss Mack's BCSO shields internal records, including Deputy Matt Hunady's bodycam footage. This pattern of secrecy suppressed crucial evidence in the Cole Barkley attempted murder case, fueling his 45-year conviction.
+    widget_date: "2023-09-22"
+    generated_at: "2026-11-06T18:00:23.410791Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  boss-sheriff:
+    brief: |-
+      THE CONFLICT:
+      *   Baldwin County Sheriff Hoss Mack exercises significant influence over local justice.
+      *   The District Attorney takes orders from Hoss Mack.
+      *   Most Judges in Baldwin County were put in office by Hoss Mack.
+
+      THE DISCOVERY:
+      *   Article 2 reveals a documented pattern of centralized power and misconduct within the Baldwin County Sheriff Office under Hoss Mack.
+
+      THE PIVOT:
+      *   Article 2 establishes a historical pattern of unchecked, dominant police/judicial authority (Boss Sheriff controlling DA/Judges), providing context for alleged systemic judicial bias within the Lee County Justice Center described in Article 1.
+
+      KEY ENTITIES:
+      *   Hoss Mack (Baldwin County Sheriff)
+      *   Baldwin County
+      *   Lee County
+      *   Cole Barkley
+      *   Nicole Barkley
+      *   Auburn Police Department
+      *   Judge Tickle (Presiding Judge in Lee County Justice Center)
+      *   Lawrence (Individual from 2005 trial)
+    llm_text: Hoss Mack, Baldwin County Sheriff, controls local justice, appointing most judges and dictating orders to the District Attorney. This pattern of unchecked power links directly to systemic bias within the Lee County Justice Center.
+    widget_date: "2023-09-09"
+    generated_at: "2026-11-06T18:01:27.347538Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

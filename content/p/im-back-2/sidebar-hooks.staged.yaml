@@ -1,0 +1,64 @@
+metadata:
+  generated_at: "2026-11-06T20:00:12.853803Z"
+  generator_version: 1.0.0
+  post_slug: im-back-2
+  main_date: "2023-05-04"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  backstory-153:
+    brief: |-
+      THE CONFLICT: Pras Michel was convicted this week on Ten Counts for funneling $200,000,000.00 stolen from the Milesians Tax Increment Finance Fund to influence the Obama and Trump campaigns.
+      THE DISCOVERY: The Widget Article detailed political issues, including Kay Ivey's campaigns, Alabama Legislature priorities (Glock Chip legislation, Sheriff succession), and the Pras Michel conviction.
+      THE PIVOT: Article 2 provides the political/corruption context and factual basis for the types of "news and facts about issues politicians do not speak of" that Francis Paul Ripp plans to cover on the Backstory podcast (referenced in Article 1).
+      KEY ENTITIES: Francis Paul Ripp, Kay Ivey, Pras Michel, Milesians Tax Increment Finance Fund, Jefferson Beauregard Sessions III, Leonardo DiCaprio, Casa Carolyn, Backstory podcast, Baldwin County Legal Eagle, Deal with the Devil Facebook sites
+    llm_text: Pras Michel faces conviction for funneling $200M from the Milesians Tax Increment Finance Fund to influence both Obama and Trump campaigns. Francis Paul Ripp uses this corruption to expose hidden facts about Alabama politics, including Kay Ivey's priorities, on the Backstory podcast.
+    widget_date: "2023-04-30"
+    generated_at: "2026-11-06T19:59:55.085086Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  cover-up:
+    brief: |-
+      THE CONFLICT: O.J. French was killed by Bay Minette police on August 20 2021. Mayor Bob Wills issued a letter to Tamara French regarding this incident.
+      THE DISCOVERY: Article 2 details Mayor Bob Wills' involvement in a questionable self-dealing deal, renting office space to the Baldwin County Legislative Delegation for a total potential income of $867,000.00, despite having pending ethics and Alabama Bar complaints.
+      THE PIVOT: Article 2 establishes Mayor Wills' history of questionable ethics and self-dealing, undermining his statements in the context of the O.J. French case, suggesting his claims of "no merit" regarding a "cover up" are suspect.
+      KEY ENTITIES: Francis Paul Ripp, Mayor Bob Wills, Tamara French, O.J. French, Alabama Attorney General Steve Marshall, Albritton, Mabel Amos Memorial Fund (MAMF), Baldwin County Legal Eagle, Casa Carolyn, Baldwin County Major Crimes Unit (BCMCU), Al Tolbert, Brad Kendrick, Huey “Hoss” Mack, Edward Delmore, David Carpenter, Thurston Bullock, AltaPoine Health.
+    llm_text: Mayor Bob Wills' questionable $867K self-dealing deal raises serious doubts about his "no merit" claims in the O.J. French police shooting. See how his ethics issues undermine his statements to Tamara French.
+    widget_date: "2023-03-21"
+    generated_at: "2026-11-06T19:59:28.449787Z"
+    model_name: plugsky-lite
+  run-away-train:
+    brief: |-
+      THE CONFLICT:
+      - Francis Paul Ripp, author of The Ripp Report, was absent for a few months after losing his soul mate of 50 years.
+      - Ripp downsized living accommodations and restored property known as Casa Carolyn.
+      - Casa Carolyn project took almost 5 months; end result: refurbished three bedroom/two bath, fully furnished home on three acres of manicured lawn, gardens and art.
+      - Ripp missed the last two Wonderful Wednesday’s; expected to be back on schedule by the first of the new year.
+
+      THE DISCOVERY:
+      - Baldwin County has 14 municipalities, 14 Mayors, a County Commission and 15 Planning and Zoning departments, all working independent of each other.
+      - Daphne allows apartments to be built on Highway 98, within a mile; Fairhope approves apartments on 98; between approximately 500 apartments are three traffic lights and a school zone.
+      - Daphne and Fairhope never communicated with one another regarding traffic or other impacted issues.
+      - Miriam Boutwell helped establish Plan Lower AL Now (PLAN).
+      - Article 2 cited growth statistics: Foley had 545% increase in residential units added in last two years; final stages include 1,276 lots over 50 subdivisions.
+      - Fairhope: 1,200 residential lots in 17 different subdivisions. Orange Beach: 2018 most single year development in city’s history. Gulf Shores: 1,382 lots approved for 17 subdivisions. Daphne: 683 residential lots approved for 16 subdivisions. Unincorporated Baldwin County: 693 single family permits issued with 4 multifamily housing.
+      - Baldwin County estimated population was 212,000 in 2017; Article 2 stated the train is bringing another 100,000+.
+
+      THE PIVOT:
+      - Article 2 is older/background context for Article 1.
+      - Article 2 framed Baldwin County growth as a “Runaway Train” with no conductor.
+      - That framing serves as the key context for Article 1 (“I’M BACK”), which promises upcoming Ripp Report reports on issues politicians do not speak of and do not want readers to know.
+
+      KEY ENTITIES:
+      - Francis Paul Ripp
+      - The Ripp Report
+      - Baldwin County Legal Eagle
+      - Deal with the Devil Facebook site
+      - Backstory podcast
+      - Baldwin County
+      - Baldwin County municipalities, 14 Mayors, County Commission, 15 Planning and Zoning departments
+      - Daphne, Fairhope, Foley, Orange Beach, Gulf Shores, Unincorporated Baldwin County
+      - Miriam Boutwell
+      - Plan Lower AL Now (PLAN)
+    llm_text: Francis Paul Ripp missed two Wonderful Wednesday’s while rebuilding Casa Carolyn, and now he’s back with The Ripp Report on Baldwin County’s runaway train of growth. After 14 municipalities, 14 mayors, and no real traffic plan, why aren’t Daphne and Fairhope talking about the 100,000 new residents coming?
+    widget_date: "2018-12-20"
+    generated_at: "2026-11-06T19:59:43.804307Z"
+    model_name: recursive/flint-v1.0:free

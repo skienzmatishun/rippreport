@@ -1,5 +1,5 @@
 post_slug: the-fairhope-jester
-generated: 2026-11-05T11:31:59.943814-06:00
+generated: 2026-11-05T21:13:33.33436-06:00
 articles:
   - slug: shelter-in-place
     title: SHELTER IN PLACE
@@ -9,23 +9,23 @@ articles:
     title: APRIL FOOL
     score: 100
     rank: 2
-  - slug: blind-leading-the-blind
-    title: BLIND LEADING THE BLIND
-    score: 90
-    rank: 3
   - slug: fairhope-council-asleep-at-the-wheel
     title: FAIRHOPE COUNCIL ASLEEP AT THE WHEEL
     score: 50
-    rank: 4
+    rank: 3
   - slug: off-the-rails
     title: OFF THE RAILS
     score: 50
-    rank: 5
+    rank: 4
   - slug: rotten
     title: ROTTEN
     score: 50
-    rank: 6
+    rank: 5
   - slug: triangle-roaches
     title: TRIANGLE ROACHES
+    score: 50
+    rank: 6
+  - slug: nail-in-the-coffin
+    title: NAIL IN THE COFFIN
     score: 50
     rank: 7

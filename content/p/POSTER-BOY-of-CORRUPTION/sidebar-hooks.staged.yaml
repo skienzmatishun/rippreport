@@ -1,0 +1,191 @@
+metadata:
+  generated_at: "2026-11-06T17:54:47.246305Z"
+  generator_version: 1.0.0
+  post_slug: poster-boy-of-corruption
+  main_date: "2024-03-13"
+  model_name: '@cf/google/gemma-4-26b-a4b-it'
+hooks:
+  lee-county-no-justice-center:
+    brief: |-
+      THE CONFLICT:
+      The "Justice Center Fraternity" culture in Lee County and Auburn, Alabama. A specific instance involved Cole Barkley, who was shot by an Auburn Police officer (who failed to announce his presence) and subsequently sentenced to 45 years in prison for attempted murder by Judge Tickle. The case demonstrated a pattern where police, prosecutors, and judges collaborate to protect institutional interests and avoid municipal liability.
+
+      THE DISCOVERY:
+      Article 2 revealed a systemic pattern of collusion between law enforcement, the judiciary, and prosecutors in Alabama. It highlighted how the "fraternity" protects its own by suppressing officer personnel files, controlling courtroom access, and prioritizing the protection of the status quo over constitutional rights and accountability.
+
+      THE PIVOT:
+      Article 2 provides the systemic context for the corruption alleged in Article 1. It establishes that the Alabama legal and ethical oversight institutions—such as the Alabama Bar and the Ethics Commission—operate within a protective "fraternity" that prevents accountability. This explains why Tom Albritton can allegedly mismanage the Mabel Amos Trust and lobby against ethics reforms without facing investigation or repercussions from the very bodies meant to police him.
+
+      KEY ENTITIES:
+      - Tom Albritton (Executive Director, Alabama Ethics Commission)
+      - Mabel Amos Trust
+      - Cole Barkley
+      - Nicole Barkley
+      - Judge Tickle
+      - Auburn Police Department
+      - Alabama Ethics Commission
+      - Alabama Bar
+      - Representative Matt Simpson
+      - Lee County Justice Center
+    llm_text: Why does Tom Albritton evade investigation for allegedly mismanaging the Mabel Amos Trust? He thrives within a Lee County "Justice Center Fraternity" where Auburn police and Judge Tickle collude to protect their own and crush any hope for accountability, much like in the Cole Barkley case.
+    widget_date: "2024-03-11"
+    generated_at: "2026-11-06T17:49:14.442077Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  vote-march-5th:
+    brief: |-
+      THE CONFLICT: Entrenched "GOB" control dictates candidates and lacks transparency in Baldwin County; Sheriff Hoss Mack controls local power structure (Historical context: March 5, 2024).
+      THE DISCOVERY: Tom Albritton, Executive Director of Alabama Ethics Commission, is accused of unethical handling of the Mabel Amos Trust while receiving a $100,000+ salary.
+      THE PIVOT: Article 2 establishes a historical pattern of systemic local corruption and lack of accountability in Alabama (Baldwin County), providing the backdrop for the current state-level ethical crisis detailed in Article 1 (Albritton's handling of the trust).
+      KEY ENTITIES: Tom Albritton, Alabama Ethics Commission, Mabel Amos Trust, Representative Matt Simpson, HB-277, Sheriff Hoss Mack, Baldwin County, Kim Earl, Carrie Hosier, Eddie and Gray, Tyler (Superintendent), Andrea Lindsey.
+    llm_text: Sheriff Hoss Mack's GOB control dominates Baldwin County, but state corruption runs deeper. Tom Albritton, Executive Director of the Alabama Ethics Commission, faces scrutiny over the Mabel Amos Trust while earning a $100,000+ salary.
+    widget_date: "2024-03-01"
+    generated_at: "2026-11-06T17:49:46.705829Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-attorney-general:
+    brief: |-
+      THE CONFLICT:
+      *   Tom Albritton, as a trustee of the Mabel Amos Scholarship Trust, and two other trustees (including Rick Clifton and Regions Bank) engaged in alleged fraud and self-serving actions between 2013 and 2021.
+      *   These actions included awarding $135,000 to Albritton's children for UT attendance and $1 million to Regions Bank for inflated services.
+      *   The Ripp Report filed complaints against Albritton with the Alabama Bar and the Ethics Commission, which were subsequently dismissed by Albritton.
+
+      THE DISCOVERY:
+      *   The Mabel Amos Trust, originally $500,000, ballooned to $4.1 million in 2011 (after oil discovered in 2010) and is currently valued at $8.2 million.
+      *   Albritton's salary was raised from $25,000 to $210,000 annually by the Ethics Commission while the alleged misconduct occurred.
+      *   Lawsuits involved figures like Megan Carmack (represented by Tommy Gallion) and Tyra Lindsey (represented by Bryon Mathews), and Deputy Alabama Attorney General Allen Dodd.
+
+      THE PIVOT:
+      *   Article 2 proves that Albritton not only misused the trust funds but actively used his position as Ethics Director to suppress accountability by arbitrarily dismissing complaints, demonstrating a systemic conflict of interest.
+      *   Article 1 highlights the current failure of the system (including the Alabama Bar dropping complaints) to remove Albritton despite the documented history of trust misuse and ethical violations (e.g., $100,000 check from Mabel Amos Memorial Fund).
+
+      KEY ENTITIES:
+      *   Tom Albritton
+      *   Mabel Amos Trust
+      *   Rick Clifton
+      *   Regions Bank
+      *   Matt Simpson (State Rep, Ethics and Finance committee)
+      *   Alabama Ethics Commission
+      *   Allen Dodd (Deputy Alabama Attorney general)
+      *   Tommy Gallion
+      *   Bryon Mathews
+      *   Ashby Pate
+      *   Megan Carmack
+      *   Tyra Lindsey
+    llm_text: Tom Albritton allegedly misused the Mabel Amos Trust, giving $1 million to Regions Bank and $135k to his children. He used his Ethics Director position to dismiss complaints, proving the system failed to hold him accountable.
+    widget_date: "2024-02-22"
+    generated_at: "2026-11-06T17:52:14.201180Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-ethics-commission-hide-the-list:
+    brief: |-
+      THE CONFLICT: Misuse of Mabel Amos Trust funds (scholarships); civil litigation (Lawrence v. State) occurred over distributions between 2013 and 2021; Attorney General Steve Marshall's office became involved in oversight capacity.
+      THE DISCOVERY: Plaintiffs demanded public disclosure of names who received over $3.2 million in Mabel Amos Trust scholarships; a deal between the AG and Regions was reached to make the trust whole.
+      THE PIVOT: Article 2 establishes that Tom Albritton served as both a trustee of the corrupt Mabel Amos Trust and the Executive Director of the Alabama Ethics Commission, allowing him to deny legitimate Ethics complaints against the same individuals who received trustee money.
+      KEY ENTITIES: Tom Albritton, Mabel Amos Trust, Alabama Ethics Commission, Steve Marshall (AG), Representative Matt Simpson, HB-277, Alabama Bar, Governor Kay Ivy, Lawrence v. State.
+    llm_text: Tom Albritton managed the corrupt Mabel Amos Trust, overseeing over $3.2 million in scholarships. He also directed the Alabama Ethics Commission, allowing him to deny complaints against the very individuals who stole trustee money.
+    widget_date: "2024-01-29"
+    generated_at: "2026-11-06T17:53:06.234299Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  deaf-ears:
+    brief: |-
+      THE CONFLICT:
+      *   Tom Albritton, Executive Director of the Alabama Ethics Commission, skimmed $120,000.00 from the Mabel Amos Trust.
+      *   The Alabama Bar found no reason to pursue complaints against Albritton regarding the trust.
+      *   Murray Lawrence was wrongfully convicted in 2005 after being incarcerated for over 18 years (6570 days).
+      *   Hoss Mack (Sheriff, Baldwin County), Robert Wilters (Judge/DA), and David Whetstone (retired prosecutor) were accused of colluding to withhold the Coroners Report from Lawrence's defense.
+
+      THE DISCOVERY:
+      *   In 2022, the Ripp Report documented 15 years of complaints filed with the Ethics Commission regarding Judges, Lawyers, and City Council members.
+      *   Albritton was the decision-maker who often refused to pursue these complaints.
+      *   The Alabama Ethics Commission and the Alabama Bar were found to be politically compromised and lacking transparency.
+
+      THE PIVOT:
+      *   Article 2 provides specific, documented evidence ($120k theft, 15 years of ignored complaints, Bar inaction) that establishes Albritton's historical pattern of corruption and institutional protection.
+      *   This history proves the current claims in Article 1—that Albritton is a "poster boy of corruption" and his lobbying against ethics rule changes is hypocritical—are founded on past, unaddressed ethical violations.
+
+      KEY ENTITIES:
+      *   Tom Albritton
+      *   Mabel Amos Trust
+      *   Alabama Ethics Commission
+      *   Steve Marshall
+      *   Hoss Mack
+      *   Murray Lawrence
+      *   Robert Wilters
+      *   David Whetstone
+      *   Matt Simpson (HB-277)
+      *   Alabama Bar
+      *   Francis Paul Ripp (The Ripp Reporter)
+    llm_text: Tom Albritton skimmed $120,000 from the Mabel Amos Trust, and the Alabama Ethics Commission protected him. See how this pattern of institutional corruption allowed him to ignore 15 years of complaints against local judges and council members.
+    widget_date: "2024-01-21"
+    generated_at: "2026-11-06T17:50:51.906402Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stealing-from-kids:
+    brief: "THE CONFLICT: \n- Legal proceedings involving Tom Albritton regarding his role as a fiduciary for financially needy children.\n- Judge Johnny Hardwick presiding over the case, overseeing approximately 70 filed motions.\n- Allegations by Mathews that the Attorney General/Albritton cannot be trusted to represent the interests of needy children.\n- Concerns regarding judicial delays and potential \"whitewashing\" of criminal activity through a settlement agreement.\n\nTHE DISCOVERY: \n- Early indicators of systemic corruption within the Alabama judiciary and the Ethics Commission.\n- Specific warnings regarding Albritton's inability to protect the interests of vulnerable children.\n- Evidence of procedural stalling by Judge Johnny Hardwick in matters involving Albritton.\n\nTHE PIVOT: \n- Article 2 provides the historical foundation for the \"stealing from kids\" narrative, establishing that Albritton’s alleged mismanagement of the Mabel Amos Trust is a long-standing legal issue rather than a new accusation.\n- It connects the current fight against HB-277 to a pattern of documented fiduciary failure and judicial inaction.\n\nKEY ENTITIES: \n- Tom Albritton (Executive Director, Alabama Ethics Commission)\n- Mabel Amos Trust\n- Judge Johnny Hardwick\n- Mathews\n- Representative Matt Simpson\n- Alabama Ethics Commission\n- Alabama Bar\n- Attorney General\n- HB-277"
+    llm_text: Tom Albritton faces damning allegations of failing to protect vulnerable children through his mismanagement of the Mabel Amos Trust. See how Judge Johnny Hardwick’s suspicious procedural delays and the fight against HB-277 expose a systemic rot within Alabama’s legal system.
+    widget_date: "2023-11-04"
+    generated_at: "2026-11-06T17:50:15.882613Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  top-to-bottom-corruption:
+    brief: |-
+      THE CONFLICT:
+      *   Mabel Amos Memorial Fund (MAMF) was established by Alabama’s first female secretary of state in her will, via the Albritton Law Firm in Andalusia.
+      *   Tom Albritton and Rick Clifton (attorneys) and John Bell (Regions Bank officer) became MAMF board members.
+      *   In 2013, millions poured into the trust following crude discovery on trust-owned land (2011).
+      *   Albritton's two children received $120,000 in tuition from MAMF (self-dealing), which is forbidden by law.
+      *   Shortly after the scholarships began, Albritton was appointed Executive Director of the Alabama Ethics Commission.
+      *   Amos relatives filed a civil suit against Regions Bank (over $1M in fees).
+      *   Alabama Attorney General Steve Marshall accused Albritton of fraud and self-dealing, attempting to join the case.
+      *   Albritton and Marshall previously fought over Ethics Commission’s requirement to provide exculpatory evidence (Brady information); legislature later settled this by requiring disclosure.
+
+      THE DISCOVERY:
+      *   Article 2 revealed Albritton, a board member, personally benefited via self-dealing from the trust during a period of massive financial gain (2013).
+      *   Article 2 established that Albritton’s role as Ethics Commission Executive Director immediately followed the start of his children receiving MAMF scholarships.
+      *   Article 2 showed Attorney General Steve Marshall initially investigated Albritton, accusing him criminally, but later reversed course regarding certain legal actions (e.g., regarding Tyra Lindsey's petition).
+
+      THE PIVOT:
+      *   Article 2 provides the original, documented evidence (2013 self-dealing/personal benefit) of unethical behavior concerning the Mabel Amos Trust, establishing the foundation for the current accusations in Article 1.
+      *   Article 1 highlights Albritton's ongoing refusal to change Ethics Rules and his retention in office despite the history documented in Article 2, making the historical context the critical proof of sustained corruption.
+
+      KEY ENTITIES:
+      *   Tom Albritton (Executive Director, Alabama Ethics Commission)
+      *   Steve Marshall (Alabama Attorney General)
+      *   Mabel Amos Memorial Fund (MAMF) / Mabel Amos Trust
+      *   Rick Clifton
+      *   John Bell (Regions Bank officer)
+      *   Matt Simpson (Representative)
+      *   HB-277
+      *   Tyra Lindsey (Student petitioner)
+      *   Byron Mathews, Jr. (Lindsey's attorney)
+      *   Albritton Law Firm (Andalusia)
+      *   Alabama Ethics Commission
+      *   Regions Bank
+    llm_text: Tom Albritton, Ethics Commission Executive Director, benefited from the Mabel Amos Memorial Fund through his children's scholarships. Attorney General Steve Marshall initially accused Albritton of fraud, exposing deep conflicts within Alabama's ethics structure.
+    widget_date: "2023-07-21"
+    generated_at: "2026-11-06T17:54:30.235952Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pot-calling-the-kettle-black:
+    brief: |-
+      THE CONFLICT:
+      * Allegations of widespread corruption in Alabama involving potential fraud exceeding $1.5 million (including embezzlement, mail, wire, and credit card fraud).
+      * Former State Senator Tripp Pittman allegedly accepted $750,000 in B.P. funds while serving as a trustee, resulting in millions in losses for Baldwin County.
+      * Media complicity in suppressing investigations into high-level political corruption.
+
+      THE DISCOVERY:
+      * Investigative reports identified that Tom Albritton, Executive Director of the Alabama Ethics Commission, used a private charitable trust under his oversight to pay more than $100,000 for his children's college tuition.
+
+      THE PIVOT:
+      * Article 2 provides the specific evidentiary link—the $100,000 tuition payments—that substantiates the current allegations in Article 1 regarding Albritton’s personal enrichment and "unethical handling" of the Mabel Amos Trust.
+
+      KEY ENTITIES:
+      * Tom Albritton (Executive Director, Alabama Ethics Commission)
+      * Mabel Amos Trust
+      * Tripp Pittman (Former State Senator)
+      * Matt Simpson (Representative)
+      * Alabama Ethics Commission
+      * Alabama Bar
+      * Jeff Poor (Radio Host)
+      * B.P.
+      * Baldwin County
+      * Lagniappe (Publication)
+    llm_text: The corruption in Baldwin County runs far deeper than Tripp Pittman’s alleged $750,000 fraud. See the evidence of how Alabama Ethics Commission Director Tom Albritton reportedly funneled over $100,000 from the Mabel Amos Trust to bankroll his children’s college tuition.
+    widget_date: "2022-02-19"
+    generated_at: "2026-11-06T17:51:39.250057Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'

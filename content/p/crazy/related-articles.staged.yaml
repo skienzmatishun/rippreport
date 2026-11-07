@@ -1,5 +1,5 @@
 post_slug: crazy
-generated: 2026-11-05T11:32:22.011336-06:00
+generated: 2026-11-05T21:13:44.842303-06:00
 articles:
   - slug: blind-leading-the-blind
     title: BLIND LEADING THE BLIND
@@ -9,23 +9,23 @@ articles:
     title: “DOWN HOME” FAIRHOPE JESTER
     score: 100
     rank: 2
-  - slug: shut-up-2
-    title: SHUT UP
-    score: 71
-    rank: 3
   - slug: law-and-disorder-part-2
     title: LAW and DisORDER - Part 2
     score: 50
-    rank: 4
+    rank: 3
   - slug: law-and-disorder-part-1
     title: LAW and DisORDER Part 1
     score: 50
-    rank: 5
+    rank: 4
   - slug: catalyst-sheriff
     title: CATALYST SHERIFF
     score: 50
-    rank: 6
+    rank: 5
   - slug: police-report
     title: POLICE REPORT
+    score: 50
+    rank: 6
+  - slug: cooking-for-the-judge
+    title: COOKING FOR THE JUDGE
     score: 50
     rank: 7

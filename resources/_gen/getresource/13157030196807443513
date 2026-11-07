@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a52ed8c56d223376-MIA
+Cf-Ray: a5688d763c19f7aa-MIA
 Content-Type: application/json
-Date: Sat, 31 Oct 2026 01:22:06 GMT
+Date: Sat, 07 Nov 2026 01:26:57 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lu54MAlEsFUl3oeZtBWaXbeK58MRkOzoW79HceauwgNsxCqKZ5yiS%2BGfKffPB%2Ffe4fR5pW5oc27lHgftvPLNNaXc%2Ffa4seGa11tqdT2zyaWt9vxHseu4%2F9STa6%2F02CQVdVdUG9OWymYi2DI%2FIqjJHS4Gjw%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=IsCrhpWtABWifj%2Fky%2FyC2%2BRRAdz%2Fdfr5P17YwinOkeZmJe%2FUxT04J1SEf9eqBoGjjtN1X0deutUNszGQeof3WEW5AdqwPh9lVAWnyQoF7A7wEz%2BiPiNh03nuA%2BIWY2fftyMA1Ylwk4lO%2F%2BQbXzryqowjHQ%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=426
+Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=1673
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: 6bd9a516d9aaded9ea3757debc2f30a2
-X-Etags-2: 6bd9a516d9aaded9ea3757debc2f30a2
+X-Etags-1: c065c441c099ef5a568a0e56f1e5c410
+X-Etags-2: c065c441c099ef5a568a0e56f1e5c410
 
-{"error":"Upstream returned 429","url":"https://web.archive.org/web/20180616182519/http://www.wsfa.com/story/38397411/races-in-alabamas-july-17-primary-run-off-elections","title":"Preview unavailable","description":"Could not fetch preview data"}
+{"title":"Races in Alabama's July 17 primary run-off elections","description":"Alabamians headed to the polls on June 5 to fill out their choices in the state's primaries. But some of those races aren't a done deal. They'll need ...","url":"https://web.archive.org/web/20180616182519/http://www.wsfa.com/story/38397411/races-in-alabamas-july-17-primary-run-off-elections","image":"https://web.archive.org/web/20180616182519im_/http://wsfa.images.worldnow.com/images/16956923_G.jpg?lastEditedDate=20180611175859","charset":"utf-8","originalUrl":"https://web.archive.org/web/20180616182519/http://www.wsfa.com/story/38397411/races-in-alabamas-july-17-primary-run-off-elections","wasRedirected":false}

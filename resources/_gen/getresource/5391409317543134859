@@ -4,17 +4,17 @@ Access-Control-Allow-Methods: GET, OPTIONS
 Access-Control-Allow-Origin: *
 Alt-Svc: h3=":443"; ma=86400
 Cache-Control: public, max-age=3600
-Cf-Ray: a52ed7b7ed793376-MIA
+Cf-Ray: a5688cab9d3ff7aa-MIA
 Content-Type: application/json
-Date: Sat, 31 Oct 2026 01:21:23 GMT
+Date: Sat, 07 Nov 2026 01:26:23 GMT
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OsmqGCWVeKX14Rr4twZPYOAGhiat7xdN6GOcB9VKErCc73jU0BbzWWP%2FTZlEGXuQ%2BuHJTIM4DmbPEqiRwD7bAbFWlAwRqyXEuAIaglE1JBsn%2FGsqnulMnDdYVAWfNILP2TsGSIyv7ZSbhsdZ98xFE5ua9A%3D%3D"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=5MCcPd%2FMC7U%2FfuepgjJ%2BkaKQBvWUn6XW1n0%2FHIcFcK3qemAUXI%2BF7LfnI9uRdzcczkQwEDU2gR2NYRegvu%2FSqAgALdq5aSpwVAHuClMwJIZ0ATps7r1BStCLqdkD34i3w9XvrWrkPuBTzbuJF%2BIxJ%2BY13A%3D%3D"}]}
 Server: cloudflare
-Server-Timing: cfEdge;dur=5,cfOrigin;dur=0,cfWorker;dur=599
+Server-Timing: cfEdge;dur=7,cfOrigin;dur=0,cfWorker;dur=276
 Speculation-Rules: "/cdn-cgi/speculation"
 Strict-Transport-Security: max-age=15552000; preload
 X-Content-Type-Options: nosniff
-X-Etags-1: b91723ab192b9421d4cf892a63c85115
-X-Etags-2: b91723ab192b9421d4cf892a63c85115
+X-Etags-1: a9ed7201c080b57bdd25b2e908f9ee67
+X-Etags-2: a9ed7201c080b57bdd25b2e908f9ee67
 
-{"title":"“Shhhhhh!” — UA System Office demands confidentiality agreement from employees","description":"University of Alabama System Office employees were shocked to receive an email Friday afternoon requiring them to sign a confidentiality agreement by ...","url":"https://www.lagniappemobile.com/news/local/shhhhhh-ua-system-office-demands-confidentiality-agreement-from-employees/article_e095d606-c765-5954-bb2e-74198a2d5470.html","image":"https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/6/50/650ca590-891a-547f-870a-12e70ce93a8f/631a3bcbe30a8.image.png?crop=286%2C286%2C0%2C59&resize=200%2C200&order=crop%2Cresize","charset":"utf-8","originalUrl":"https://www.lagniappemobile.com/news/local/shhhhhh-ua-system-office-demands-confidentiality-agreement-from-employees/article_e095d606-c765-5954-bb2e-74198a2d5470.html","wasRedirected":false}
+{"error":"Upstream returned 429","url":"https://www.lagniappemobile.com/news/local/shhhhhh-ua-system-office-demands-confidentiality-agreement-from-employees/article_e095d606-c765-5954-bb2e-74198a2d5470.html","title":"Preview unavailable","description":"Could not fetch preview data"}

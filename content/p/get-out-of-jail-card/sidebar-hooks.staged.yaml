@@ -1,0 +1,100 @@
+metadata:
+  generated_at: "2026-11-06T21:03:24.639403Z"
+  generator_version: 1.0.0
+  post_slug: get-out-of-jail-card
+  main_date: "2022-08-16"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  schools-and-taxes:
+    brief: |-
+      THE CONFLICT:
+      *   2017 incident: McSharry harassed artist Nall Hollis; convicted of "breach of peace" and received 12-month probation.
+      *   2018 incident: Chris Elliott declined a requested breathalyzer, resulting in a DUI citation, and subsequently applied for a Get Out of Jail Card.
+      *   BP Grant Distribution: Senator Trip Pittman and State Rep. Steve McMillan (R-Gulf Shores) were tapped by Gov. Bob Riley to head BP grant plans in Baldwin.
+      *   Financial Misuse: Pittman, as trustee, distributed $750,000.00 for himself regarding BP contracts.
+      *   Legal Case: April 19, U.S. District Court Judge William Cassady dismissed a single claim against Mack but denied a broader motion for summary judgment.
+      *   Accountability Failure: Sheriff Hoss Mack has a trail of cases dismissed due to "Qualified Immunity"; his Major Crimes Division investigates itself.
+      *   Ethics Reporting: A judge reported referral fees increasing from $10,000–$50,000 (2014-2016) to $50,000–$150,000 (2017-2018).
+
+      THE DISCOVERY:
+      *   As of August 2022 (Fiscal Year 2022), the total local revenue paid by Baldwin County to BCBOE and Gulf Shores BOE was $140,269,185.76.
+      *   For the first 11 months of FY22, BCBOE received $130,888,985.70 (a $12,825,094.51 increase over FY21).
+      *   BCBOE is advertising for new supervisor positions (HR/Special Services) with a salary range of $91,000–$103,000, while teachers reportedly lack funding.
+
+      THE PIVOT:
+      *   The high volume of local tax revenue ($140M+) collected by the Baldwin County Commission (3 cents on each dollar spent) exists despite the documented corruption and lack of accountability (Get Out of Jail Cards, Qualified Immunity).
+      *   The tax dollars collected are channeled heavily into the BCBOE, yet the BCBOE is criticized for prioritizing high-level administrative salaries over adequate funding for teachers, suggesting that the financial system is used to mask or enable questionable spending priorities alongside systemic corruption.
+
+      KEY ENTITIES:
+      *   Ben Reynolds (Mobile City Councilman)
+      *   Chris Elliott
+      *   Paula DiNardi
+      *   McSharry
+      *   Nall Hollis
+      *   Mayor Mike McMillan
+      *   City Magistrate Lyndsey Cooper
+      *   Senator Trip Pittman
+      *   Steve McMillan (R-Gulf Shores)
+      *   Gov. Bob Riley
+      *   Sheriff Hoss Mack
+      *   Judge William Cassady
+      *   BCBOE (Baldwin County Board of Education)
+      *   CGA (Baldwin County Citizens For Government Accountability)
+      *   Jeanne Carney
+      *   August 2022 (FY22)
+      *   Baldwin County
+    llm_text: Senator Trip Pittman misused $750,000 from BP grants while Sheriff Hoss Mack faces immunity issues. Despite collecting $140M+ in local taxes, the BCBOE prioritizes $91k+ supervisor salaries instead of adequate teacher funding.
+    widget_date: "2022-08-15"
+    generated_at: "2026-11-06T21:01:31.312280Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stinking-ticking-time-bomb:
+    brief: |-
+      THE CONFLICT: Bass sued Burke and Delaney regarding a Ponzi scheme. The civil trial occurred in Judge Jody Bishop's courtroom.
+      THE DISCOVERY: Baldwin County Sewer Service (BCSS) is a privately operated, unregulated entity using county right of ways for free, leading to uncontrolled sprawl and rate hikes.
+      THE PIVOT: The Strawman case (mentioned in Article 2) revealed business and political connections between major Baldwin County development players, linking the corrupt development issues detailed in Article 2 to the claims of impunity and "Get Out of Jail Cards" detailed in Article 1.
+      KEY ENTITIES: Baldwin County Sewer Service (BCSS), Clarence Burke, Delaney, Judge Jody Bishop, Bass, Bellaton Property Owners Association (BPOA), DR Horton, Nall Hollis, McSharry, Ben Reynolds, Chris Elliott, Paula DiNardi, Mayor Mike McMillan, City Magistrate Lyndsey Cooper, Senator Trip Pittman, Steve McMillan, Gov. Bob Riley, Sheriff Hoss Mack, U.S. District Court Judge William Cassady.
+    llm_text: Bass sued Burke and Delaney over a Ponzi scheme in Judge Jody Bishop's court, but BCSS's unregulated sprawl shows deeper Baldwin County corruption. See how development players connect to those "Get Out of Jail Cards."
+    widget_date: "2022-08-12"
+    generated_at: "2026-11-06T20:59:48.386321Z"
+    model_name: plugsky-lite
+  howling-rains:
+    brief: |-
+      THE CONFLICT:
+      2008 and 2012 municipal elections in Fairhope were suspected of being rigged.
+      In 2016, the Alabama Secretary of State supervised the municipal election, resulting in Mayor Karin Wilson becoming the first female Mayor.
+      Senator Trip Pittman and State Rep. Steve McMillan (R-Gulf Shores) were tapped by Gov. Bob Riley to distribute BP grant money in Baldwin.
+      Pittman distributed $750,000.00 for himself.
+      In 2017, McSharry was convicted of “breach of peace” following a 2017 incident harassing artist Nall Hollis, receiving a 12-month probation.
+
+      THE DISCOVERY:
+      Article 2 established historical context regarding political maneuvering, including the $6.2 million Fairhope Waterfront Grant funded by the 2010 BP Deepwater Horizon Restore Act grant.
+      Article 1 details current systemic lack of accountability in Baldwin County, citing instances where officials use "Get Out of Jail Cards" to avoid criminal charges (e.g., Chris Elliott, McSharry).
+      Article 1 revealed that a judge in the Strawman case reported referral fees of $10,000-$50,000 (2014) increasing to $50,000-$150,000 (2018).
+
+      THE PIVOT:
+      Article 2 demonstrates that political obstruction and misuse of funds (like the $11.25 million Triangle Park cost and $2.65 million farmland purchase) were established patterns in Fairhope dating back to 2016.
+      This historical pattern of local corruption provides context to Article 1's claims that Baldwin County, generally, lacks accountability, allowing figures like Senator Pittman and Sheriff Mack to evade justice using legal or political influence.
+
+      KEY ENTITIES:
+      Baldwin County
+      Fairhope
+      Karin Wilson (Mayor)
+      Chuckie Cheeze
+      Howling Rains
+      Catalyst
+      Senator Trip Pittman
+      Steve McMillan (R-Gulf Shores)
+      Gov. Bob Riley
+      Paula DiNardi
+      McSharry
+      Nall Hollis
+      Mayor Mike McMillan
+      City Magistrate Lyndsey Cooper
+      Sheriff Hoss Mack
+      U.S. District Court Judge William Cassady
+      Ben Reynolds
+      Chris Elliott
+    llm_text: Senator Trip Pittman took $750,000 from a BP grant for himself. In Baldwin County, officials like McSharry use "Get Out of Jail Cards," proving a systemic lack of accountability.
+    widget_date: "2020-07-06"
+    generated_at: "2026-11-06T21:03:04.099280Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,5 +1,5 @@
 post_slug: marble-mouth
-generated: 2026-11-05T11:32:09.071451-06:00
+generated: 2026-11-05T21:13:38.550723-06:00
 articles:
   - slug: off-the-rails
     title: OFF THE RAILS
@@ -9,13 +9,13 @@ articles:
     title: MALFUNCTION JUNCTION
     score: 100
     rank: 2
-  - slug: full-plate
-    title: FULL PLATE
-    score: 63
-    rank: 3
   - slug: nail-in-the-coffin
     title: NAIL IN THE COFFIN
     score: 59
+    rank: 3
+  - slug: quid-quo-pro
+    title: QUID QUO PRO
+    score: 50
     rank: 4
   - slug: read-and-listen
     title: READ and LISTEN
@@ -29,7 +29,3 @@ articles:
     title: HONEY BEES
     score: 50
     rank: 7
-  - slug: mimes-whitewashing
-    title: MIME'S WHITEWASHING
-    score: 94
-    rank: 8

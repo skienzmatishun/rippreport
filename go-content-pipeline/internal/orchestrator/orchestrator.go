@@ -43,20 +43,35 @@ type RankingResult struct {
 
 // HookOptions configures contextual sidebar hook generation.
 type HookOptions struct {
-	SpecificSlugs []string
-	UseCompressed bool
-	BatchSize     int
-	DryRun        bool
-	FromStaging   bool
-	Stage         bool // Save to staging files instead of writing directly
-	Model         string
+	Plugsky             bool
+	PlugskyModel        string
+	PlugskyMaxTokens    int
+	Cloudflare          bool
+	CloudflareAccountID string
+	CloudflareModel     string
+	CloudflareMaxTokens int
+	Gemini              bool
+	GeminiModel         string
+	GeminiMaxTokens     int
+	OpenRouter          bool
+	OpenRouterModel     string
+	OpenRouterMaxTokens int
+	Resume              bool
+	SpecificSlugs       []string
+	UseCompressed       bool
+	BatchSize           int
+	DryRun              bool
+	FromStaging         bool
+	Stage               bool // Save to staging files instead of writing directly
+	Model               string
 }
 
 // HookResult summarizes hook generation.
 type HookResult struct {
-	TotalHooks  int
-	FailedHooks int
-	Duration    time.Duration
+	SkippedPosts int
+	TotalHooks   int
+	FailedHooks  int
+	Duration     time.Duration
 }
 
 // PipelineOptions configures full pipeline execution.
@@ -435,6 +450,61 @@ func (o *Orchestrator) GenerateHooks(ctx context.Context, opts HookOptions) (*Ho
 	startTime := time.Now()
 	result := &HookResult{}
 
+	var providers []processor.HookProvider
+	var remote *client.OpenRouterClient
+	if opts.OpenRouter {
+		var err error
+		remote, err = client.NewOpenRouterClient(o.llamaClient, os.Getenv("OPENROUTER_API_KEY"), opts.OpenRouterModel, opts.OpenRouterMaxTokens)
+		if err != nil {
+			return nil, err
+		}
+		if opts.OpenRouterModel == "" {
+			opts.OpenRouterModel = client.DefaultOpenRouterModel
+		}
+		fmt.Printf("OpenRouter helper enabled (model: %s)\n", opts.OpenRouterModel)
+		providers = append(providers, processor.HookProvider{Name: "OpenRouter", Client: remote, Model: opts.OpenRouterModel})
+	}
+
+	if opts.Gemini {
+		geminiClient, err := client.NewGeminiClient(o.llamaClient, os.Getenv("GEMINI_API_KEY"), opts.GeminiModel, opts.GeminiMaxTokens)
+		if err != nil {
+			return nil, err
+		}
+		if opts.GeminiModel == "" {
+			opts.GeminiModel = client.DefaultGeminiModel
+		}
+		providers = append(providers, processor.HookProvider{Name: "Gemini", Client: geminiClient, Model: opts.GeminiModel})
+		fmt.Printf("Gemini helper enabled (model: %s)\n", opts.GeminiModel)
+	}
+
+	if opts.Plugsky {
+		plugskyClient, err := client.NewPlugskyClient(o.llamaClient, os.Getenv("PLUGSKY_API_KEY"), opts.PlugskyModel, opts.PlugskyMaxTokens)
+		if err != nil {
+			return nil, err
+		}
+		if opts.PlugskyModel == "" {
+			opts.PlugskyModel = client.DefaultPlugskyModel
+		}
+		providers = append(providers, processor.HookProvider{Name: "Plugsky", Client: plugskyClient, Model: opts.PlugskyModel})
+		fmt.Printf("Plugsky helper enabled (model: %s)\n", opts.PlugskyModel)
+	}
+
+	if opts.Cloudflare {
+		accountID := opts.CloudflareAccountID
+		if accountID == "" {
+			accountID = os.Getenv("CLOUDFLARE_ACCOUNT_ID")
+		}
+		cf, err := client.NewCloudflareClient(o.llamaClient, os.Getenv("CLOUDFLARE_API_TOKEN"), accountID, opts.CloudflareModel, opts.CloudflareMaxTokens)
+		if err != nil {
+			return nil, err
+		}
+		if opts.CloudflareModel == "" {
+			opts.CloudflareModel = client.DefaultCloudflareModel
+		}
+		providers = append(providers, processor.HookProvider{Name: "Cloudflare", Client: cf, Model: opts.CloudflareModel})
+		fmt.Printf("Cloudflare helper enabled (model: %s)\n", opts.CloudflareModel)
+	}
+
 	postPaths, err := o.postManager.DiscoverPosts(models.PostFilter{
 		SpecificSlugs: opts.SpecificSlugs,
 	})
@@ -492,6 +562,18 @@ func (o *Orchestrator) GenerateHooks(ctx context.Context, opts HookOptions) (*Ho
 			continue
 		}
 
+		if opts.Resume {
+			filename := "sidebar-hooks.yaml"
+			if opts.Stage {
+				filename = "sidebar-hooks.staged.yaml"
+			}
+			if hooksComplete(filepath.Join(filepath.Dir(string(pPath)), filename), post.Slug, relatedArticles) {
+				result.SkippedPosts++
+				fmt.Printf("  [%d/%d] %s — skipped (hooks already complete)\n", postIdx+1, totalPosts, post.Slug)
+				continue
+			}
+		}
+
 		fmt.Printf("  [%d/%d] %s — generating %d hooks...\n", postIdx+1, totalPosts, post.Slug, len(relatedArticles))
 
 		var hookReqs []models.HookRequest
@@ -518,7 +600,13 @@ func (o *Orchestrator) GenerateHooks(ctx context.Context, opts HookOptions) (*Ho
 			})
 		}
 
-		hooks, hErr := processor.GenerateHooksBatch(ctx, o.llamaClient, modelName, o.compressionCache, o.cfg, hookReqs)
+		var hooks []*models.Hook
+		var hErr error
+		if len(providers) > 0 {
+			hooks, hErr = processor.GenerateHooksWithProviders(ctx, o.llamaClient, modelName, o.compressionCache, o.cfg, hookReqs, providers...)
+		} else {
+			hooks, hErr = processor.GenerateHooksBatch(ctx, o.llamaClient, modelName, o.compressionCache, o.cfg, hookReqs)
+		}
 		if hErr != nil {
 			fmt.Printf("    ✗ batch failed: %v\n", hErr)
 			o.errorCollector.Add(errors.NewProcessingError("generate_hooks", hErr.Error(), hErr, false))
@@ -616,6 +704,8 @@ func (o *Orchestrator) RunPipeline(ctx context.Context, opts PipelineOptions) (*
 	}
 
 	hookOpts := opts.HookOptions
+	hookOpts.Resume = hookOpts.Resume || opts.RankingOptions.Resume
+	hookOpts.Stage = hookOpts.Stage || opts.RankingOptions.Stage
 	if opts.RankingOptions.Stage {
 		hookOpts.FromStaging = true
 	}
@@ -845,4 +935,22 @@ func (o *Orchestrator) UpdatePostEmbedding(ctx context.Context, postSlug string)
 // ErrorCollector returns the active error collector.
 func (o *Orchestrator) ErrorCollector() *errors.ErrorCollector {
 	return o.errorCollector
+}
+
+// hooksComplete requires valid output covering every currently related article.
+func hooksComplete(path, slug string, related []models.RelatedArticle) bool {
+	file, err := processor.LoadHookFile(path)
+	if err != nil || file.Metadata.PostSlug != slug {
+		return false
+	}
+	available := make(map[string]bool, len(file.Hooks))
+	for _, hook := range file.Hooks {
+		available[hook.WidgetSlug] = true
+	}
+	for _, article := range related {
+		if !available[article.Slug] {
+			return false
+		}
+	}
+	return true
 }

@@ -1,0 +1,126 @@
+metadata:
+  generated_at: "2026-11-06T20:31:14.756077Z"
+  generator_version: 1.0.0
+  post_slug: this-is-the-new-logo-for-fairhope
+  main_date: "2022-10-28"
+  model_name: recursive/flint-v1.0:free
+hooks:
+  alabama-black-hole:
+    brief: |-
+      THE CONFLICT:
+      - August 21, 2022: Francis Paul Ripp (The Ripp Report.com) sent complaint letter to Alabama Attorney General Steve Marshall, C/O Clark Morris, Office of Special Prosecutions. Ref: Complaint against the Executive Director of Ethics, Thomas Albritton.
+      - Core allegation: Thomas Albritton engaged in "self Dealing" as trustee of the Mabel Amos trust.
+      - Alleged act: In 2014, Albritton and two other trustees, along with Regions Bank, altered trust handling to list schools receiving scholarships instead of students by name.
+      - Circuit Judge Ben Bowden, former law partner of Albritton, received $45,000 for his children's scholarships; other Albritton law partners also received scholarship money.
+      - Ripp first contacted Governor, Ethics Commission, Alabama Bar, and office July 16, 2021; filed Writ of Mandamus; failed to get hearing.
+      - Alleged non-disclosure: Albritton failed to disclose on economic statement that he was trustee of multi-million dollar trust; allegedly received $120,000 in spared family expense via scholarships to his children.
+      - IRS sections 4941(d) alleged self-dealing violation; IRS taxes possibly due but unpaid by scholarship recipients.
+      - Mabel Amos: Alabama's first female Secretary of State; established trust to help children with strong academic history but lacking financial capability for state college education.
+      - 2010: Oil discovered on Mabel Amos land, producing $80 million in oil and gas, potential $20 million more.
+
+      THE DISCOVERY:
+      - Widget Article ("Alabama Black Hole") revealed Ripp's August 21, 2022 appeal to Special Prosecution Office; letter accompanied by 100+ page bound evidence package.
+      - Copies sent to Alabama Bar, Governor, Judiciary, Ethics Commission; no reply from any agency as of August 21, 2022.
+      - Attorney General, Alabama Bar, and Ethics Commission accused of covering up allegations against Albritton.
+      - Article 2 framed Alabama as a "black hole of political and white collar crime."
+      - Media attention: Lagniappe Mobile broke story; no other state news agency did significant follow-up.
+      - Albritton traveling state giving "Lessons in Alabama Ethics" while self-serving from trust.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; serves as background/historical context.
+      - The cover-up narrative and institutional failures in Article 2 frame the systemic context for the Albritton complaint in Article 1.
+      - Article 2 is the "smoking gun" context: it documented lack of response from state agencies and the "black hole" framing prior to the main article's allegations.
+      - Why Article 2 is key context for Article 1: it established baseline of institutional silence/cover-up that the main article's complaint (filed August 21, 2022) challenges.
+
+      THE KEY ENTITIES:
+      - Francis Paul Ripp (The Ripp Report.com)
+      - Thomas Albritton (Executive Director of Ethics)
+      - Cynthia Raulston (attorney for Albritton)
+      - Clark Morris (Special Prosecutions, Alabama AG office)
+      - Steve Marshall (Alabama Attorney General, August 21, 2022)
+      - Ben Bowden (Circuit Judge)
+      - Regions Bank
+      - Mabel Amos (trust)
+      - Alabama Bar
+      - Ethics Commission
+      - Governor (as listed: Governor Ivy)
+      - Harry Still (Attorney)
+      - Greg Morris (Attorney)
+      - Tommy Gallion (Attorney)
+      - Lagniappe Mobile
+      - Lowery, Wilters (per instruction)
+      - Montgomery police officers
+    llm_text: Alabama Ethics Chief Thomas Albritton allegedly steered the Mabel Amos trust through self-dealing while ignoring scholarship rules. The Ripp Report says state agencies covered up his complaint, and now Alabama faces a black hole of political and white-collar crime.
+    widget_date: "2022-10-21"
+    generated_at: "2026-11-06T20:29:28.457919Z"
+    model_name: recursive/flint-v1.0:free
+  rumors:
+    brief: |-
+      THE CONFLICT: Jonathan Victor was shot four times by Hunady, a sheriff deputy, on an unspecified date prior to April 2021.
+      THE DISCOVERY: Article 2 (older) established a pattern of lack of transparency and failed accountability concerning police shootings in Baldwin County, specifically referencing the 2017 Jonathan Victor case and the 2023 O.J. French shooting.
+      THE PIVOT: Article 2 provides historical context showing a recurring pattern of internal investigation failures, withholding of camera footage, and judicial protection (qualified immunity) that precedes the current discussion surrounding Fairhope's logo/local governance context of Article 1.
+      KEY ENTITIES: O.J. French, Jonathan Victor, Bay Minette, BCSO, BCSCU, Huey “Hoss” Mack, Brandon Thompson, Al Tolbert, Brad Kendrick, Sam White, Judge William Cassady, Alabama Supreme Court, Mayor Wills, Fairhope
+    llm_text: Jonathan Victor was shot four times by deputy Hunady, revealing Baldwin County's pattern of failed police accountability. See how past cases like O.J. French prove systemic issues persist beyond Fairhope's current governance debates.
+    widget_date: "2022-10-15"
+    generated_at: "2026-11-06T20:29:06.439844Z"
+    model_name: plugsky-lite
+  deal-with-the-devil:
+    brief: |-
+      THE CONFLICT:
+      *   Wrongful conviction of Murray “Bubba” Lawrence Jr. in Baldwin County.
+      *   Related to the Steve Nodine case, around December 2, 2010.
+      *   David Whetstone was the prosecuting District Attorney at the time.
+
+      THE DISCOVERY:
+      *   The 2000+ page trial transcript established a timeline proving Murray Lawrence had multiple witness alibis.
+      *   The prosecution, defense, jury, and judge failed to establish any timeline.
+      *   Two attempts at appeal failed.
+
+      THE PIVOT:
+      *   Article 2 (Widget, 2010) provides the historical evidence of legal incompetence and overlooked alibis (Whetstone/Wilters) that form the basis of The Ripp Report’s investigation, which is referenced in Article 1.
+      *   Article 1 (Main, New Logo) offers no factual connection to the legal case, merely announcing a new logo for Fairhope.
+
+      KEY ENTITIES:
+      *   Murray “Bubba” Lawrence Jr.
+      *   David Whetstone (former DA)
+      *   Robert Wilters (Judge/current DA)
+      *   Willy Huntly (defense attorney)
+      *   Hoss Mack (Baldwin County Sheriff)
+      *   Paul McGarry (pathologist)
+      *   Baldwin County
+    llm_text: Murray "Bubba" Lawrence Jr. suffered a wrongful conviction in Baldwin County regarding the Steve Nodine case. The 2000+ page trial transcript proves former DA David Whetstone and the court failed to establish a timeline, overlooking Lawrence's key witness alibis.
+    widget_date: "2022-03-14"
+    generated_at: "2026-11-06T20:29:53.125787Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  press-release:
+    brief: |-
+      THE CONFLICT:
+      Harry Still has waged a fight against corruption in Alabama his entire adult life, including promises to release recordings of former Speaker Mike Hubbard attempting to influence legislators to shorten his prison sentence.
+
+      THE DISCOVERY:
+      Article 2 revealed Harry Still's platform for Attorney General, including promises to review all complaints filed with the Alabama Ethics Commission since 2015.
+
+      THE PIVOT:
+      Article 2 is not the 'smoking gun' for Article 1; the articles concern unrelated subjects (Article 1: Fairhope logo change; Article 2: Harry Still's AG campaign platform). Article 2 provides historical context regarding state corruption and justice reform efforts in Alabama, not municipal changes in Fairhope.
+
+      KEY ENTITIES:
+      Harry Still (Attorney At Law)
+      Fairhope
+      Mike Hubbard (former Speaker of the Alabama House of Representatives)
+      Alabama Ethics Commission
+      APOST (Alabama Police Officers Standards and Training Commission)
+      Auburn University / Troy State University / Birmingham School of Law
+    llm_text: Harry Still fights Alabama corruption, promising to review all Alabama Ethics Commission complaints since 2015. Still also challenged former Speaker Mike Hubbard over attempts to influence legislators.
+    widget_date: "2022-01-29"
+    generated_at: "2026-11-06T20:31:02.665738Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  Baldwin-County-seeks-public-input-on-land-use-plan:
+    brief: |-
+      THE CONFLICT: None specified in the older article.
+      THE DISCOVERY: Baldwin County Commission’s Planning and Zoning Department, with Design Workshop consultants, initiated a countywide long-range land use planning process.
+      THE PIVOT: The older article establishes the official county-level planning and zoning framework relevant to the location mentioned in the newer article (Fairhope logo).
+      KEY ENTITIES: Baldwin County Commission; Planning and Zoning Department; Design Workshop; Fairhope; Robertsdale; Jan. 24; Jan. 25
+    llm_text: Baldwin County's Planning and Zoning Department launched a long-range land use plan with Design Workshop. See how this impacts Fairhope and Robertsdale development starting Jan 24.
+    widget_date: "2022-01-13"
+    generated_at: "2026-11-06T20:29:13.711019Z"
+    model_name: plugsky-lite

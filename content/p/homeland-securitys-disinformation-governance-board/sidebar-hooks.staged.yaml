@@ -1,0 +1,274 @@
+metadata:
+  generated_at: "2026-11-07T00:21:02.570894Z"
+  generator_version: 1.0.0
+  post_slug: homeland-securitys-disinformation-governance-board
+  main_date: "2022-05-06"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-crime-of-the-century:
+    brief: |-
+      THE CONFLICT:
+      * State Representative Steve McMillan of Baldwin County died; he served in the Legislature since 1980.
+      * The Biden Administration created the Department of Homeland Security’s Disinformation Governance Board.
+
+      THE DISCOVERY:
+      * Governor Kay Ivey fired Admiral Kent Davis.
+      * Veterans’ programs are in chaos following Davis's ousting, turning the role into a political issue.
+      * A true crime story in Clarke County revealed a hospice business had shady ties to a judge, exposing local corruption.
+
+      THE PIVOT:
+      * Article 2 provides current context on Alabama's messy politics (Ivey/Davis) and institutional corruption (Clarke County judge ties), reinforcing the themes of public service loss and governmental instability referenced by the death of Steve McMillan in Article 1.
+
+      KEY ENTITIES:
+      * Steve McMillan
+      * Biden Administration
+      * DHS Disinformation Governance Board
+      * Governor Kay Ivey
+      * Admiral Kent Davis
+      * Bill Maher
+      * Baldwin County
+      * Clarke County
+    llm_text: 'Steve McMillan served Baldwin County since 1980, but Alabama''s political instability continues: Governor Kay Ivey fired Admiral Kent Davis, while Clarke County exposed local judge corruption. Discover how these crises reflect a wider loss of public service across the state.'
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T00:10:03.640320Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    brief: |-
+      THE CONFLICT:
+      1. Steve McMillan, State Representative for Baldwin County, died.
+      2. McMillan served in the Legislature since 1980.
+      3. The Biden Administration created the Department of Homeland Security’s Disinformation Governance Board.
+      4. Bill Maher criticized the government for misuse of Covid-19 relief funds.
+
+      THE DISCOVERY:
+      1. Companies with political ties scored million-dollar contracts in Alabama.
+      2. The new Baldwin County District Attorney building construction bid was awarded to politically connected companies.
+      3. Law enforcement in Alabama investigates its own mishaps with no accountability.
+
+      THE PIVOT:
+      1. The contract corruption (Article 2) provides evidence of systemic local governmental failure and lack of accountability within Baldwin County (Article 1's locale).
+      2. The award of million-dollar contracts links local political ties directly to public spending issues mentioned in the context of state representation.
+
+      KEY ENTITIES:
+      1. Steve McMillan
+      2. Baldwin County
+      3. Department of Homeland Security’s Disinformation Governance Board
+      4. new Baldwin County District Attorney building
+    llm_text: Steve McMillan served Baldwin County since 1980, but local corruption continues. Politically connected firms scored million-dollar contracts for the new Baldwin County District Attorney building, proving local government lacks accountability.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T00:12:10.401263Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    brief: |-
+      THE CONFLICT:
+      *   State Representative Steve McMillan died.
+      *   McMillan served Baldwin County in the Legislature since 1980.
+      *   The Biden Administration created the Department of Homeland Security’s Disinformation Governance Board.
+
+      THE DISCOVERY:
+      *   Luigi Manjone was arrested for murdering a United Healthcare CEO.
+      *   Allegations of corruption exist in Alabama's legal and political systems (e.g., The Dothan Summer Feeding Scandal).
+      *   The Baldwin County Sheriff's Department was involved in the Mack vs Hadley case concerning the theft of a 1968 Camaro.
+      *   The Alabama Court of Civil Appeals released a decision regarding the Rule 32 Petition for Murray Lawrence Jr.
+      *   A Brady Violation occurred when two autopsies ordered by the Coroner of Baldwin County in 2005 were never disclosed to the Defense.
+      *   Mark Fuller, a corrupt Alabama Federal Judge from Mobile, Alabama, is documented.
+
+      THE PIVOT:
+      *   Article 2 proves that the political and legal issues mentioned in Article 1 (e.g., the death of a public servant, local governance) are embedded within a broader, documented pattern of systemic corruption in Alabama, including police misconduct (Sheriff's theft), judicial corruption (Mark Fuller), and legal malfeasance (Brady Violation, Dothan Scandal).
+
+      KEY ENTITIES:
+      *   Steve McMillan
+      *   Baldwin County
+      *   Department of Homeland Security’s Disinformation Governance Board
+      *   Luigi Manjone
+      *   United Healthcare CEO
+      *   The Dothan Summer Feeding Scandal
+      *   Mack vs Hadley
+      *   Baldwin County Sheriff's Department
+      *   Alabama Court of Civil Appeals
+      *   Murray Lawrence Jr.
+      *   Mark Fuller
+      *   Mobile, Alabama
+      *   Cheryl Ramsey
+    llm_text: State Rep Steve McMillan's death in Baldwin County exposes deep local issues. We documented systemic corruption, including corrupt Mobile judge Mark Fuller and the Dothan Summer Feeding Scandal, proving Alabama's legal system fails its citizens.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T00:14:26.055424Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    brief: |-
+      THE CONFLICT:
+      *   State Representative Steve McMillan died; served Baldwin County Legislature since 1980.
+      *   A corrections officer went missing/presumed abducted in Florence, Alabama, while transporting a convicted murderer.
+      *   An Alabama Public Health Officer was killed by a pack of dogs.
+      *   The Biden Administration created the Department of Homeland Security’s Disinformation Governance Board.
+      *   Comedian Bill Maher criticized government spending meant for Covid-19 relief.
+
+      THE DISCOVERY:
+      *   A podcast reported on a damning report regarding the US government's COVID-19 response.
+      *   President Biden issued a pardon to his son, Hunter.
+      *   The podcast covered allegations of misconduct against various officials and controversies surrounding political appointments.
+      *   The podcast discussed the First Amendment and wrongful arrests of individuals exposing corruption in a local school district.
+
+      THE PIVOT:
+      *   Article 2 provides specific evidence (damning COVID report, Hunter pardon, wrongful arrests of whistleblowers) that contextualizes the political spending criticism (Covid-19 relief) and the governmental control issues (DHS Board) mentioned in Article 1.
+
+      KEY ENTITIES:
+      *   Steve McMillan
+      *   Baldwin County
+      *   Bill Maher
+      *   Biden Administration
+      *   Hunter (Biden)
+      *   DHS Disinformation Governance Board
+      *   Florence, Alabama
+      *   Alabama Public Health Officer
+      *   Keys/Alligator Reef Light House (24.8518° N, 80.6189° W)
+    llm_text: Bill Maher criticized Covid-19 spending, but a damning report exposes deeper government failures. Learn how the Biden Administration's Hunter pardon and the controversial DHS Disinformation Governance Board connect to local whistleblower arrests.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T00:13:22.516565Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    brief: |-
+      THE CONFLICT:
+      *   State Representative Steve McMillan died; served Baldwin County Legislature since 1980.
+      *   The Biden Administration created the Department of Homeland Security’s Disinformation Governance Board.
+      *   Bill Maher criticized government spending intended for Covid-19 relief.
+      *   A Corrections Officer was missing/presumed abducted by a convicted murderer in Florence, Alabama.
+      *   An Alabama Public Health Officer was killed by a pack of dogs.
+
+      THE DISCOVERY:
+      *   Backstory Podcast No. 186 discusses government spending on misinformation, directly addressing the DHS Board issue.
+      *   The podcast covers 2024 US Presidential election results and The Trump Cabinet 2.0.
+      *   Alabama news topics covered in the update include the closing of rural hospitals and changes to hunting seasons.
+
+      THE PIVOT:
+      *   Article 2 confirms that the political controversies criticized in Article 1 (e.g., government misinformation spending) remain central, active topics in current political discussions (Podcast No. 186).
+
+      KEY ENTITIES:
+      *   Steve McMillan
+      *   Biden Administration
+      *   Bill Maher
+      *   Homeland Security’s Disinformation Governance Board
+      *   Baldwin County
+      *   Florence, Alabama
+      *   Backstory Podcast No. 186
+      *   Trump Cabinet 2.0
+    llm_text: The Biden Administration’s Disinformation Governance Board fuels debate over government spending, echoing Bill Maher’s criticism. Backstory Podcast No. 186 explores this issue alongside the death of Steve McMillan and the future of Trump Cabinet 2.0.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T00:11:07.808521Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    brief: |-
+      THE CONFLICT:
+      *   State Representative Steve McMillan died.
+      *   McMillan served Baldwin County in the Legislature since 1980.
+      *   An Alabama Public Health Officer was killed by dogs.
+      *   A corrections officer is missing and presumed abducted in Florence Alabama.
+
+      THE DISCOVERY:
+      *   Baldwin County approved thousands of residential lots this week over public outcry.
+      *   Baldwin County cut sales tax on hearing aids.
+      *   Fairhope is expanding its $9.5M pier remodel.
+      *   Governor Ivey called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama.
+
+      THE PIVOT:
+      *   Article 2 provides a current update on local governance and economic activity within Baldwin County since the death of State Representative Steve McMillan.
+
+      KEY ENTITIES:
+      *   Steve McMillan
+      *   Baldwin County
+      *   Governor Ivey
+      *   Fairhope
+      *   Andy Ruten
+      *   Bob Wills
+      *   OJ French Jr.
+      *   BMPD Officer Brandon Thompson
+      *   Mobile Bay Magazine
+      *   Department of Homeland Security’s Disinformation Governance Board
+    llm_text: State Rep Steve McMillan died after serving Baldwin County since 1980. Discover how Baldwin County governance shifted since his death, including approving thousands of residential lots and Fairhope's $9.5M pier remodel.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T00:15:43.416017Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    brief: |-
+      THE CONFLICT:
+      - State Representative Steve McMillan died, having served Baldwin County in the Legislature since 1980.
+      - The Biden Administration created the Department of Homeland Security’s Disinformation Governance Board.
+      - Comedian Bill Maher criticized government spending for Covid-19 relief.
+      - Thomas Daniel "Danny" Williams Jr. died in Orange Beach, Alabama, on May 27, 2022.
+      - His body was recovered on Sunday, May 29, 2022.
+
+      THE DISCOVERY:
+      - A reward is currently offered for information regarding the death of Thomas Daniel "Danny" Williams Jr.
+      - The investigation into Danny Williams Jr.'s death is ongoing.
+
+      THE PIVOT:
+      - Article 2 provides specific, dated details (May 2022) about an unresolved homicide investigation in Orange Beach, Alabama, linking local criminal events to the geographic scope mentioned in Article 1.
+
+      KEY ENTITIES:
+      - Steve McMillan
+      - Thomas Daniel "Danny" Williams Jr.
+      - Biden Administration
+      - Department of Homeland Security’s Disinformation Governance Board
+      - Bill Maher
+      - Katie Britt
+      - Adm. Kent Davis (Veterans Affairs Director)
+      - Baldwin County
+      - Orange Beach, Alabama
+      - Florence, Alabama
+      - Montgomery, Alabama
+    llm_text: Thomas Daniel "Danny" Williams Jr. died in Orange Beach, Alabama, in May 2022, and the homicide investigation remains unsolved. Help The Ripp Report solve this local mystery; a reward is currently offered for information.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T00:16:55.400257Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    brief: |-
+      THE CONFLICT:
+      *   Steve McMillan, State Representative for Baldwin County, died.
+      *   McMillan served in the Legislature since 1980.
+      *   The Biden Administration created the Department of Homeland Security’s Disinformation Governance Board.
+      *   Bill Maher criticized the government regarding Covid-19 relief spending.
+
+      THE DISCOVERY:
+      *   Kent David, Former Real Admiral and Jag Officer, Alabama Veterans Affairs Commissioner, is leaving the State of Alabama.
+      *   David's departure is linked to a whistleblower Ethics Complaint.
+      *   The "Haitian Immigrant Eating Cats" debate is centered in Sylacauga, Alabama.
+      *   A rally is scheduled in DC on September 29, 2024, featuring RFK Jr, Tulsi Gabbards, and Russell Brand.
+
+      THE PIVOT:
+      *   Article 2 demonstrates that local political narratives (e.g., the "Haitian Immigrant Eating Cats" debate) are highly visible in Alabama, potentially diverting attention from the critical public servant failures and institutional decay (like the exit of Kent David) noted in Article 1.
+
+      KEY ENTITIES:
+      *   Steve McMillan
+      *   Biden Administration
+      *   Bill Maher
+      *   Kent David
+      *   Donald Trump
+      *   Taylor Swift
+      *   Brandon Moseley
+      *   David R. Jones (Texas Federal Bankruptcy Judge)
+      *   Sylacauga, Alabama
+      *   Baldwin County, Alabama
+    llm_text: Local politics in Baldwin County, marked by Steve McMillan's death, face a strange distraction. Does the "Haitian Immigrant Eating Cats" debate in Sylacauga overshadow Kent David’s critical whistleblower exit?
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T00:18:17.003533Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    brief: |-
+      THE CONFLICT: State Representative Steve McMillan, who served Baldwin County in the Legislature since 1980, has died.
+      THE DISCOVERY: Sheriff Mack in Baldwin County, Alabama, has one week remaining in office, and the Governor is currently selecting a replacement.
+      THE PIVOT: Article 2 provides the immediate political context in Baldwin County, Alabama, showing current leadership transition amidst the recent loss of a long-serving public servant (McMillan) detailed in Article 1.
+      KEY ENTITIES: Steve McMillan, Baldwin County, Alabama, Sheriff Mack, Vice President Kamala Harris, Biden Administration, Department of Homeland Security’s Disinformation Governance Board
+    llm_text: Steve McMillan, Baldwin County's long-serving representative since 1980, has died. Sheriff Mack holds his post for only one week as the Governor selects a replacement amid this critical local leadership transition.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T00:19:25.845169Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    brief: |-
+      THE CONFLICT: Incident involving OJ French Jr and Bay Minette Police Officer Brandon Thompson prior to July 31, 2024, resulting in French's death.
+      THE DISCOVERY: The French family filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024. The Sheriff announced mid-July resignation with Chief Deputy Anthony Lowery potentially appointed before County Commissioner Matt McKenzie contests the post.
+      THE PIVOT: The lawsuit challenges Mayor Robert Bob Wills' claims regarding the family's acceptance of the outcome and questions Officer Thompson's probable cause for the stop, forcing a review of local justice and leadership in Baldwin County ahead of the Sheriff's mid-August departure.
+      KEY ENTITIES: OJ French Jr, Brandon Thompson, Robert Bob Wills, Anthony Lowery, Matt McKenzie, Governor Ivey, City of Bay Minette, Bay Minette Justice League.
+    llm_text: OJ French Jr's family sued Bay Minette and Officer Brandon Thompson, challenging Mayor Robert Bob Wills' claims about the outcome. This lawsuit forces a crucial review of Baldwin County justice and leadership before the Sheriff's mid-August departure.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T00:20:48.947940Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

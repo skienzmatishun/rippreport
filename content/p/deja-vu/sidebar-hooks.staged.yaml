@@ -1,0 +1,27 @@
+metadata:
+  generated_at: "2026-11-06T14:16:41.184590Z"
+  generator_version: 1.0.0
+  post_slug: deja-vu
+  main_date: "2025-07-02"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  notice:
+    brief: |-
+      THE CONFLICT: A political cabal (CATALYST/SBC) operated in Baldwin County/Fairhope. Hand Anderall Sale lied in the Triangle Lawsuit, costing taxpayers $3 million in legal fees.
+      THE DISCOVERY: The Ripp Report and Francis Paul Ripp were blocked from Facebook and transitioned to new sites.
+      THE PIVOT: The Widget Article provides no factual context or smoking gun regarding the SBC political corruption; it only documents the media platform change of The Ripp Report.
+      KEY ENTITIES: SBC, Scott Boone, Kevin Boone, Fairhope, Baldwin County, Hand Anderall Sale, Municipal Judge, Utilities Director, Publix, Fly Creek, January 25, 2021
+    llm_text: Hand Anderall Sale lied in the Triangle Lawsuit, costing Baldwin County taxpayers $3 million amid SBC political corruption. Read how The Ripp Report fought Facebook bans to expose this Fairhope cabal.
+    widget_date: "2025-05-04"
+    generated_at: "2026-11-06T14:15:20.332449Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  baldwin-county-dhr-lawsuit:
+    brief: |-
+      THE CONFLICT: Two minor children (13 and 11 years old) were left unprotected for over five months in the mother's custody despite clear signs of abuse and law enforcement involvement within Baldwin County.
+      THE DISCOVERY: Baldwin County's Family Court, DHR, and GAL systems demonstrated deep, systemic failure and corruption in child protection.
+      THE PIVOT: Article 2 establishes the pattern of systemic government failure and abuse within Baldwin County's institutions (DHR/Family Court), which Article 1 demonstrates is controlled and manipulated by private political cabals like SBC for financial gain (e.g., Triangle Lawsuit, utilities manipulation).
+      KEY ENTITIES: Baldwin County, DHR, Family Court, GAL, Scott Boone, SBC, Fairhope, Hand Anderall Sale, Triangle Lawsuit, Municipal Judge, Publix, Fly Creek Apartments.
+    llm_text: Baldwin County's DHR and Family Court failed 13- and 11-year-olds for over five months. Private cabals like SBC manipulate this systemic failure for financial gain, proving government corruption runs deep in Baldwin County.
+    widget_date: "2025-04-03"
+    generated_at: "2026-11-06T14:16:25.081137Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,70 +1,128 @@
 metadata:
-  generated_at: "2026-11-05T23:24:32.347665Z"
+  generated_at: "2026-11-06T05:22:47.803196Z"
   generator_version: 1.0.0
   post_slug: the-state-of-the-alabama-state-bar
   main_date: "2026-09-05"
-  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  model_name: '@cf/google/gemma-4-26b-a4b-it'
 hooks:
   key-figures:
     brief: |-
-      1. THE CONFLICT: Wrongful conviction of Murray Lawrence Jr. occurred in Baldwin County around 2005. The prosecution was flawed: no physical evidence (no weapon, no DNA, no fingerprints), no signed grand jury indictment, and the death certificate listed strangulation, not the gunshot wound claimed by the prosecution.
-      2. THE DISCOVERY: Article 2 revealed that Robert Wilters served as the presiding Circuit Court Judge in Baldwin County during Murray Lawrence Jr.'s prosecution, despite knowing the forensic evidence (Dr. Paul McGarry's testimony of no bullet hole/gunshot injury) contradicted the State's theory.
-      3. THE PIVOT: Article 2 establishes that the key judicial figure, Robert Wilters, who presided over the flawed trial, held power and influence in the current Alabama legal system, linking the historical injustice to present power structures.
-      4. KEY ENTITIES: Murray Lawrence Jr., Robert Wilters, Baldwin County District Attorney, Hoss Mack, Anthony Lowery, John David Whetstone, Dr. Paul McGarry
+      THE CONFLICT:
+      - In 2005, Murray Lawrence Jr. was wrongfully convicted in Baldwin County, Alabama, despite a lack of physical evidence (no DNA, fingerprints, or murder weapon), no Alabama-performed autopsy, and a death certificate listing strangulation rather than the prosecution's gunshot theory.
+      - The prosecution led by District Attorney David Whetstone utilized an indictment that was not signed by the grand jury foreman and relied on coerced witness testimony.
+      - Presiding Circuit Court Judge Robert Wilters allowed the trial to proceed despite forensic contradictions and the absence of an independent autopsy.
+      - Hoss Mack (then Chief Deputy) and Anthony Lowery (then investigator) oversaw the investigation; the victim's body was sent to Mack's family-owned funeral home rather than an independent coroner.
+
+      THE DISCOVERY:
+      - Article 2 reveals that the officials responsible for the 2005 miscarriage of justice transitioned into high-ranking positions of authority rather than facing accountability.
+      - Hoss Mack moved from Chief Deputy to Sheriff, and then to Executive Director of the Alabama Sheriffs Association.
+      - Anthony Lowery moved from investigator to the appointed Sheriff of Baldwin County by Governor Kay Ivey.
+      - The investigation shows a closed loop of power where the same individuals control criminal investigations, evidence storage, law enforcement policy, and election certification.
+
+      THE PIVOT:
+      - Article 2 serves as the structural "smoking gun" for Article 1 by demonstrating the historical pattern of systemic protectionism that defines the Alabama legal system.
+      - While Article 1 details current failures of the Alabama State Bar to discipline bad actors (such as the 17 ethics violations ignored by former Executive Director Phillip McCallum), Article 2 provides the proof of how this culture of impunity was built.
+      - It establishes that the "personalities who haunt the halls" of the Bar are part of an entrenched network of legal and law enforcement officials who use their positions to suppress evidence, ignore ethics complaints, and protect one another from accountability.
+
+      KEY ENTITIES:
+      - Murray Lawrence Jr. (Wrongfully convicted individual)
+      - Robert Wilters (Former Baldwin County Circuit Court Judge)
+      - Hoss Mack (Executive Director, Alabama Sheriffs Association; former Baldwin County Sheriff)
+      - Anthony Lowery (Appointed Baldwin County Sheriff)
+      - David Whetstone (Former Baldwin County District Attorney)
+      - Phillip McCallum (Former Executive Director, Alabama State Bar)
+      - Thomas Gallion III (Montgomery Attorney/Florida Plaintiff)
+      - Harry Still (Complainant, 2022)
+      - Jeanetta Pleasant, Katherine Church, Beverly Barber (Bar complainants)
+      - Roman Shaw, Jeremy McIntyre (Subjects of bar complaints)
+    llm_text: Baldwin County officials wrongfully convicted Murray Lawrence Jr. in 2005 despite a total lack of physical evidence. Rather than facing justice, players like Hoss Mack and Anthony Lowery ascended to massive power, proving how an entrenched network still protects Alabama’s legal elite.
     widget_date: "2026-09-02"
-    generated_at: "2026-11-05T23:24:32.345876Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:21:45.565218Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
   fairhope-wrongful-conviction-2:
     brief: |-
-      1. THE CONFLICT: Murray Lawrence Jr. is serving life without parole for a murder he did not commit. The case lacked physical evidence (no DNA, no weapon, no witness placement). The State relied on a confession obtained through coercion from another man who named Murray.
-      2. THE DISCOVERY: Article 2 detailed that the Academy Award nominated Alabama Solution Documentary exposed the conditions inside Alabama's prisons and highlighted the disturbing events leading up to incarceration, focusing on the coercion used against the confessing man.
-      3. THE PIVOT: Article 2 provides the narrative and documentary evidence of the injustice, reinforcing the claim in Article 1 that Murray Lawrence Jr.'s conviction was based on coercion and suppressed evidence, not truth.
-      4. KEY ENTITIES: Murray Lawrence Jr., Alabama Solution Documentary, BCSO
+      THE CONFLICT:
+      - Murray Lawrence Jr. is serving life without parole for a murder he did not commit (Widget Article).
+      - No physical evidence connected Murray to the murder: no DNA, no weapon, no witness placing him at the scene (Widget Article).
+      - Murray allegedly confessed to the killing, then changed his story only after investigators offered him a way out, and named Murray in the version that saved him (Widget Article).
+      - Katherine Church filed ethics complaints; 17 ethics violations resulted; Executive Director Phillip McCallum had "nary a word" in his disciplinary record while serving as Executive Director when the violations occurred (Main Article).
+      - Harry Still filed 12 bar complaints in 2022, including complaints against Roman Shaw, Jeremy McIntyre, and Phillip McCallum (Main Article).
+      - Thomas Gallion III, a Montgomery attorney now of Destin, Florida, has a Florida lawsuit complaint against "bad actors/public servants," including an alleged kickback scheme with outside Counsel and sexual blackmail for looking the other way (Main Article).
+      - Gallion's case was discussed in a 2020 interview by Steve Flowers (Main Article).
+      - Tampering with a court record was presumed to be a crime, reserved for Baldwin County (Main Article).
+
+      THE DISCOVERY:
+      - Article 2 (Widget Article: "FAIRHOPE WRONGFUL CONVICTION") revealed Murray Lawrence Jr.'s case: coercion, suppressed evidence, and the case for Murray's innocence that courts have never had to answer.
+      - The Academy Award nominated Alabama Solution documentary showed what happens inside Alabama's prisons.
+      - The book tied to the article lays out the full record and follows the open legal question to its conclusion.
+
+      THE PIVOT:
+      - Article 2 provides background/context on a wrongful conviction in Alabama, which frames the Alabama State Bar discussion in Article 1.
+      - Article 2 is positioned as older/background context; Article 1 (Alabama State Bar) is the current framing.
+      - Article 2 serves as the 'smoking gun' context because it establishes the wrongful conviction narrative (Murray Lawrence Jr.) that connects to the suppression/coercion themes in the bar complaints and Gallion's lawsuit.
+
+      KEY ENTITIES:
+      - Murray Lawrence Jr.
+      - BCSO (Baldwin County Sheriff's Office)
+      - Thomas Gallion III
+      - Jeanetta Pleasant JD
+      - Katherine Church
+      - Beverly Barber JD
+      - Phillip McCallum
+      - Harry Still
+      - Roman Shaw
+      - Jeremy McIntyre
+      - Steve Flowers
+      - Francis "Paul" Ripp
+      - Brandon Moseley
+      - Alabama State Bar
+      - Alabama State Bar Executive Director
+      - Baldwin County
+      - Montgomery, Alabama
+      - Destin, Florida
+      - Florida lawsuit complaint
+      - Outside Counsel
+      - Alabama Solution documentary
+      - Ripp Report
+      - Alabama Gazette
+    llm_text: Murray Lawrence Jr. got life without parole for a murder he didn’t commit, with no DNA or weapon linking him to the crime. Now Alabama ethics complaints and a Florida lawsuit accuse public servants of hiding the truth, and the Ripp Report connects the wrongful conviction story.
     widget_date: "2026-08-17"
-    generated_at: "2026-11-05T23:24:32.345876Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:21:28.051812Z"
+    model_name: recursive/flint-v1.0:free
   not-guilty-innocent:
     brief: |-
-      1. THE CONFLICT: On September 3, 2025, Harry Still (attorney) was arrested on a misdemeanor charge in Bay Minette after a skirmish with Matt Franklin (Bay Minette city councilman). Judge Marcus McDowell (municipal attorney for Fairhope) found Still guilty, despite Still having filed Alabama Bar complaints against McDowell.
-      2. THE DISCOVERY: Article 2 detailed that Still appealed to a jury trial in Circuit Court presided over by Judge Clark Stankowski, resulting in a swift and unequivocal "not guilty" verdict, invalidating McDowell's initial ruling.
-      3. THE PIVOT: Article 2 uses the specific, recent (2025) case of Harry Still to illustrate the systemic corruption and judicial bias (McDowell's self-interest, Stankowski's subsequent ruling) that mirrors the broader issues of unchecked power in Baldwin County raised in Article 1.
-      4. KEY ENTITIES: Harry Still, Matt Franklin, Marcus McDowell, Clark Stankowski, State Senator Chris Elliott, Ronan McSherry, Bay Minette
+      THE CONFLICT: Skirmish/assault on September 3, 2025, in Bay Minette between attorney Harry Still and Bay Minette City Councilman Matt Franklin. Still was initially arrested on a misdemeanor charge.
+
+      THE DISCOVERY: Despite initial guilty ruling by Municipal Court Judge Marcus McDowell, Harry Still was subsequently found INNOCENT, NOT GUILTY by a jury in Circuit Court presided over by Judge Clark Stankowski.
+
+      THE PIVOT: The 2025 incident and McDowell's failure to recuse himself (due to prior Alabama Bar complaints from Still in the Ronan McSherry case) serve as a concrete historical example demonstrating the systemic misconduct, judicial bias, and institutional failures of the Alabama State Bar and local/county authorities discussed in Article 1.
+
+      KEY ENTITIES: Harry Still, Matt Franklin, Marcus McDowell, Clark Stankowski, Al Tolbert, Chris Elliott, Thomas Gallion III, Roman Shaw, Jeremy McIntyre, Phillip McCallum, Jeanetta Pleasant JD, Katherine Church, Beverly Barber JD, Lowery (Baldwin County Sheriff), O.J. French, Murray Lawrence Jr., Robert Wilters, Hoss Mack, David Whetstone, Kristy Haygood, Joshua Brown.
+    llm_text: Judge Marcus McDowell initially convicted Harry Still in the Bay Minette clash with Matt Franklin, but a jury later found Still innocent. This reversal exposes systemic judicial bias and institutional failure within the Alabama State Bar, detailed in our full report.
     widget_date: "2026-06-13"
-    generated_at: "2026-11-05T23:24:32.345876Z"
+    generated_at: "2026-11-06T05:22:14.093795Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   august-special-edition:
-    brief: |-
-      1. THE CONFLICT: The I-10 Bayway Bridge (toll) Project is moving forward in Baldwin County. Sheriff Huey Mack is noted as leading the opposition against development, and the DA's office is allegedly abusing the Grand Jury discovery process.
-      2. THE DISCOVERY: Article 2 identified a special election scheduled for August 11, 2026, highlighting local political dynamics in Baldwin County, including the resistance to the Bayway Bridge project led by Sheriff Huey Mack.
-      3. THE PIVOT: Article 2 provides immediate political context (the 2026 special election and specific local projects) against which the long-standing institutional corruption and power consolidation detailed in Article 1 are currently playing out.
-      4. KEY ENTITIES: Harry Still, Huey Mack, I-10 Bayway Bridge, Doug Jones, Tubberville
+    brief: "THE CONFLICT: \n- Harry Still filed 12 bar complaints in 2022 against Roman Shaw, Jeremy McIntyre, and Phillip McCallum.\n- Montgomery Attorney Thomas Gallion III (now of Destin, Florida) faced negative outcomes and a Florida lawsuit complaint involving a kickback scheme with outside counsel and sexual blackmail.\n- Katherine Church filed ethics complaints resulting in 17 ethics violations that do not appear in the disciplinary record of Phillip McCallum, who was Executive Director of the Alabama State Bar at the time.\n- Jeanetta Pleasant JD, Katherine Church, and Beverly Barber JD experienced negative outcomes with the Alabama State Bar.\n- Steve Flowers interviewed Thomas Gallion III in 2020, with participation from Francis \"Paul\" Ripp (Ripp Report) and Brandon Moseley (Alabama Gazette).\n\nTHE DISCOVERY: \n- Historical context from the August 11, 2026 Special Election widget outlines local political and infrastructure battles, including the I-10 Bayway Bridge (toll) project, Baldwin County development resistance led by \"The GUMBO,\" 68 Ventures, and Sheriff Huey Mack.\n- The widget highlights ongoing systemic issues including DA's office abuse of the Grand Jury discovery process and political shifts involving Doug Jones and Tommy Tubberville.\n\nTHE PIVOT: \n- The widget article's snapshot of Baldwin County power players, infrastructure pushes (I-10 Bayway Bridge), and prosecutional/Grand Jury overreaches provides the systemic backdrop for the Main Article. \n- It proves that the \"same characters\" and institutional corruption driving local political and development fights (such as Sheriff Huey Mack, 68 Ventures, and the DA's office) mirror the entrenched networks protecting bad actors within the Alabama State Bar, exposing a broader web of institutional protectionism across the region.\n\nKEY ENTITIES:\n- Harry Still\n- Roman Shaw\n- Jeremy McIntyre\n- Phillip McCallum\n- Thomas Gallion III\n- Jeanetta Pleasant JD\n- Katherine Church\n- Beverly Barber JD\n- Steve Flowers\n- Francis \"Paul\" Ripp\n- Brandon Moseley\n- Sheriff Huey Mack\n- Doug Jones\n- Tommy Tubberville\n- 68 Ventures\n- The GUMBO\n- Alabama State Bar"
+    llm_text: When Harry Still and Katherine Church exposed corruption involving Phillip McCallum and Thomas Gallion III, they hit the exact same entrenched power networks driving Sheriff Huey Mack and 68 Ventures. Read how this local institutional protectionism fuels our broader regional crisis.
     widget_date: "2026-08-11"
-    generated_at: "2026-11-05T23:24:32.345876Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:21:18.276188Z"
+    model_name: gemini-3.5-flash-lite
   orange-beach-tyranny:
-    brief: |-
-      1. THE CONFLICT: Danny Williams disappeared and died in Perdido Pass in 2016 during Memorial Day Weekend. There is an alleged pattern of malfeasance involving Orange Beach Mayor Tony Kennon, City Attorney, City Administrator, and Chief of Police. ALEA ignored subpoenas.
-      2. THE DISCOVERY: Article 2 reported on a Federal Lawsuit concerning the disclosure of Orange Beach Police interactions with Tony Kennon, comparing the lack of investigation into Danny Williams' death to the secrecy surrounding the Kennon's personal life.
-      3. THE PIVOT: Article 2 connects the pattern of municipal cover-ups in Orange Beach (Kennon administration) to the broader theme of institutional negligence and obstruction of justice, providing a contemporary example of the systemic malfeasance discussed in Article 1.
-      4. KEY ENTITIES: Tony Kennon, Danny Williams, Orange Beach, ALEA, Neeli Faulkner, Whitney Scapecchi
+    brief: "THE CONFLICT:\n- In 2016, a Federal Drug Investigation targeted Mayor Tony Kennon's old friend and co-target, Danny Williams.\n- Danny Williams disappeared and died in Perdido Pass on the Friday of Memorial Day weekend (two years prior to the \"naked lady on the balcony\" incident involving a 911-calling Tiki Bar maid). \n- Orange Beach officials (including the City Attorney, City Administrator, and Chief of Police who answer to Mayor Tony Kennon) compartmentalized information to hide it from the media, citizens, bereaved family members, and the Orange Beach City Council.\n- A federal lawsuit was filed regarding the concealment of Orange Beach Police interactions with Mayor Kennon behind closed doors and the Tiki Bar maid witness.\n- In 2022, Harry Still filed 12 bar complaints against figures including Roman Shaw, Jeremy McIntyre, and Phillip McCallum.\n- Phillip McCallum (then Executive Director of the Alabama State Bar) had 17 ethics violations stemming from Katherine Church's ethics complaints completely absent from his disciplinary record.\n- Montgomery Attorney Thomas Gallion III (now of Destin, Florida) was subjected to a targeted targeting by the Alabama State Bar, resulting in a Florida lawsuit complaint detailing a kickback scheme with outside counsel and sexual blackmail.\n\nTHE DISCOVERY (Background/Context from Article 2):\n- Article 2 (Orange Beach Tyranny) exposed a pattern and practice of malfeasance and cover-ups by Orange Beach Mayor Tony Kennon and his administration regarding the uninvestigated death of Danny Williams.\n- It revealed how state agencies like the Alabama Law Enforcement Agency (ALEA) stonewalled investigations, ignored subpoenas, and how staff members like Phillip McCallum engaged in defensive stonewalling when approached by the Baldwin County Legislative Delegation and media (Murder Creek Media's Neeli Faulkner and Whitney Scapecchi, and The Alabama Gazette's Brandon Moseley).\n\nTHE PIVOT:\n- Article 2 serves as the smoking gun because it exposes Phillip McCallum and the exact network of corrupt local and state actors operating in Baldwin County and ALEA. \n- It directly ties the political/police corruption in Orange Beach under Mayor Tony Kennon to the institutional rot inside the Alabama State Bar, proving that figures like Phillip McCallum—who stonewalled the Danny Williams/ALEA inquiries—are the exact same bad actors shielding themselves from Harry Still's 2022 bar complaints, Katherine Church's ethics violations, and the persecution of attorney Tommy Gallion.\n\nKEY ENTITIES:\n- Mayor Tony Kennon\n- Danny Williams\n- Phillip McCallum\n- Harry Still\n- Thomas Gallion III (Tommy Gallion)\n- Neeli Faulkner\n- Whitney Scapecchi\n- Brandon Moseley\n- Jeanetta Pleasant JD\n- Katherine Church\n- Beverly Barber JD\n- Roman Shaw\n- Jeremy McIntyre\n- Steve Flowers\n- Francis \"Paul\" Ripp (The Ripp Report)"
+    llm_text: When Danny Williams died under mysterious circumstances, Mayor Tony Kennon’s administration and state officials quickly buried the truth. Discover how this Orange Beach cover-up exposes a massive web of corruption tied directly to the Alabama State Bar and Phillip McCallum.
     widget_date: "2026-07-09"
-    generated_at: "2026-11-05T23:24:32.345876Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:21:24.286733Z"
+    model_name: gemini-3.5-flash-lite
   primary-postpartum:
-    brief: |-
-      1. THE CONFLICT: Harry Still was arrested in Bay Minette after a skirmish with Matt Franklin (Bay Minette city councilman). City of Orange Beach officials attempted to slander Still, leading to his arrest.
-      2. THE DISCOVERY: Article 2 lamented the Primary Election results and noted ethics problems with Tony Kennon and the corruption involving Prichard Cops, framing the political climate against the backdrop of Still's arrest.
-      3. THE PIVOT: Article 2 frames the specific incident involving Harry Still (his arrest and subsequent slander by Orange Beach officials) within the larger political and ethical corruption landscape (Kennon's ethics problems, election results) that the investigation in Article 1 seeks to expose.
-      4. KEY ENTITIES: Harry Still, Matt Franklin, Tony Kennon, Roy Moore, Prichard
+    brief: "THE CONFLICT: In 2022, Baldwin County Attorney and podcast host Harry Still filed 12 bar complaints targeting Alabama State Bar officials—specifically naming Roman Shaw, Jeremy McIntyre, and Phillip McCallum. Around this same timeframe, Harry Still was arrested, during which he was assaulted by Bay Minette City Councilman Matt Franklin, and subsequently subjected to slander by City of Orange Beach officials and local newscasters. Additionally, Montgomery Attorney Thomas Gallion III (now of Destin, Florida) faced severe disciplinary actions, resulting in a Florida lawsuit complaint detailing a kickback scheme with outside counsel, sexual blackmail, and court record tampering originating from Baldwin County.\n\nTHE DISCOVERY: The older widget article establishes the hostility and coordinated public attacks against Harry Still by local power brokers, specifically highlighting the slander by Orange Beach officials at the time of his arrest and assault by Councilman Matt Franklin. It proves a documented history of powerful local figures attempting to discredit and silence Still while he was actively investigating and challenging local and state corruption.\n\nTHE PIVOT: The older background on Harry Still's targeting, arrest, and subsequent 12 bar complaints filed in 2022 serves as the smoking gun for the main article. It connects the localized harassment of Still in Baldwin County directly to the broader, systemic corruption within the Alabama State Bar exposed by Jeanetta Pleasant, Katherine Church, Beverly Barber, and Thomas Gallion—proving that the same entrenched network of corrupt public servants and bar officials (including Phillip McCallum, Roman Shaw, and Jeremy McIntyre) retaliated against anyone who filed ethics complaints or challenged their authority.\n\nKEY ENTITIES: \n- Harry Still (Baldwin County Attorney / Podcast Host)\n- Phillip McCallum (Former Executive Director of the Alabama State Bar)\n- Roman Shaw (Bar official / Target of complaints)\n- Jeremy McIntyre (Bar official / Target of complaints)\n- Matt Franklin (Bay Minette City Councilman)\n- Thomas Gallion III (Montgomery / Destin, Florida Attorney)\n- Tony Kennon (Orange Beach Official)\n- Jeanetta Pleasant JD\n- Katherine Church\n- Beverly Barber JD\n- Steve Flowers\n- Francis \"Paul\" Ripp (The Ripp Report)\n- Brandon Moseley (Alabama Gazette)\n- Tommy Tubberville\n- Roy Moore"
+    llm_text: When Bay Minette Councilman Matt Franklin assaulted podcast host Harry Still and local officials slandered him, it wasn’t just personal—it was retaliation for exposing Alabama State Bar corruption. Read how Still's 2022 fight against bar officials like Phillip McCallum exposes the deep network silencing whistleblowers.
     widget_date: "2026-06-20"
-    generated_at: "2026-11-05T23:24:32.345876Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:21:30.256750Z"
+    model_name: gemini-3.5-flash-lite
   mountain-medicine:
-    brief: |-
-      1. THE CONFLICT: Tommy Bass, a master herbalist, learned from a Cherokee woman. His book, "Mountain Medicine," details pharmacologically important plants native to Alabama, including magnolia bark, buckeye, and cross vine.
-      2. THE DISCOVERY: Article 2 introduced Darryl Patton, Master Herbalist and author of "Mountain Medicine: The Herbal Remedies of Tommy Bass," positioning the book as an anthropological treasure detailing Alabama's native herbal remedies.
-      3. THE PIVOT: Article 2 shifts focus from legal corruption (Baldwin County) to cultural/natural knowledge within Alabama, using Tommy Bass and his work as a unique local context, while still linking back to the overarching theme of "same characters in each of their stories" mentioned in Article 1.
-      4. KEY ENTITIES: Tommy Bass, Darryl Patton, Mountain Medicine, William Bartram, Bay Minette
+    brief: "THE CONFLICT: \n- Montgomery Attorney Thomas Gallion III (Tommy) filed a Florida lawsuit complaint detailing a kickback scheme with outside counsel and sexual blackmail.\n- Katherine Church filed ethics complaints resulting in 17 ethics violations against Phillip McCallum (former Executive Director of the Alabama State Bar), which allegedly do not appear on his disciplinary record.\n- In 2022, Harry Still filed 12 bar complaints involving Roman Shaw, Jeremy McIntyre, and Phillip McCallum.\n- Additional individuals reporting bad experiences with the Alabama State Bar include Jeanetta Pleasant JD, Katherine Church, and Beverly Barber JD.\n- Court record tampering allegedly occurred in Baldwin County.\n\nTHE DISCOVERY (Historical Context from Widget Article): \n- Master Herbalist Darryl Patton appeared as a guest to discuss his book *Mountain Medicine: The Herbal Remedies of Tommy Bass*, detailing Bass's herbal knowledge learned from an old Cherokee woman, native Alabama pharmacologically important plants (magnolia bark, buckeye, green briar, cross vine, yaupon holly), the upcoming Tuesday Run-Off, and ice cream shops in Bay Minette, Alabama.\n\nTHE PIVOT: \n- The older widget article establishes the cultural and historical baseline surrounding Tommy Bass and his apprentice Darryl Patton, which directly contrasts with the modern legal battles, corruption allegations, kickback schemes, sexual blackmail, and ethics violations involving Thomas Gallion III and Alabama State Bar officials detailed in the main article.\n\nKEY ENTITIES: \n- Thomas Gallion III (Tommy)\n- Jeanetta Pleasant JD\n- Katherine Church\n- Beverly Barber JD\n- Phillip McCallum\n- Harry Still\n- Roman Shaw\n- Jeremy McIntyre\n- Steve Flowers\n- Francis \"Paul\" Ripp\n- Brandon Moseley\n- Darryl Patton\n- Tommy Bass"
+    llm_text: Attorney Tommy Gallion’s explosive lawsuit exposes kickbacks and sexual blackmail within the Alabama State Bar, contrasting sharply with our look at master herbalist Darryl Patton preserving authentic Appalachian mountain medicine. Read how these modern legal corruption scandals dismantle the state's traditional heritage.
     widget_date: "2026-06-12"
-    generated_at: "2026-11-05T23:24:32.345876Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T05:21:35.889151Z"
+    model_name: gemini-3.5-flash-lite

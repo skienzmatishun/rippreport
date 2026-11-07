@@ -1,5 +1,5 @@
 post_slug: nappi-award
-generated: 2026-11-05T11:31:44.96798-06:00
+generated: 2026-11-05T21:13:21.808598-06:00
 articles:
   - slug: catalyst-aka-scott-boone-consulting
     title: CATALYST AKA SCOTT BOONE CONSULTING
@@ -9,7 +9,11 @@ articles:
     title: SCARY
     score: 100
     rank: 2
+  - slug: state-of-the-city-2019
+    title: STATE OF THE CITY - 2019
+    score: 50
+    rank: 3
   - slug: attention-baldwin-county
     title: ATTENTION BALDWIN COUNTY
     score: 50
-    rank: 3
+    rank: 4

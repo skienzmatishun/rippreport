@@ -1,0 +1,179 @@
+metadata:
+  generated_at: "2026-11-07T00:45:20.850376Z"
+  generator_version: 1.0.0
+  post_slug: fauxhope-roller-coaster
+  main_date: "2022-04-12"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  ki-yay-mother-yippee:
+    brief: |-
+      THE CONFLICT: Corruption involving Steve Windom (former Lt. Governor, mega-lobbyist, one-third owner of software firm) and his wife Mary Edna Windom (Presiding Judge of the Alabama Court of Criminal Appeals) who used 3 percent of the Alabama General Fund Budget for secret no-bid contracts.
+
+      THE DISCOVERY: The Fairhope City Council previously released a sketch of a "problem solving tram" to ensure the Fairhope pier project was accessible to the handicapped.
+
+      THE PIVOT: Article 2 establishes the Fairhope City Council's prior political involvement and maneuvering regarding the pier project's accessibility, providing historical context before the current controversy regarding the open car on rails solution and the questioned $6 million expenditure discussed in Article 1.
+
+      KEY ENTITIES: Fauxhope city council, Mayor, Steve Windom, Mary Edna Windom, Governor Ivey, Fairhope pier project, 6 million (dollar amount).
+    llm_text: Steve Windom and Mary Edna Windom misused 3% of the Alabama General Fund for secret contracts. Discover how the Fairhope City Council politically maneuvered on the pier project before the questioned $6 million expenditure.
+    widget_date: "2022-04-11"
+    generated_at: "2026-11-07T00:37:23.731193Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-slap:
+    brief: |-
+      THE CONFLICT: Ladd Peebles Stadium Shooter was captured in St. Augustine, Florida; Oscars incident occurred in LA (2022); violence is reported across Mobile, Alabama, Panama City, and Miami.
+      THE DISCOVERY: Article 2 reports rising violence nationally and local political activity, including the US House passing the MORE ACT.
+      THE PIVOT: Article 2 does not contain any facts, names, or events related to the Fauxhope waterfront project, the bluff, ADA compliance, or the open car on rails, and therefore cannot serve as key context or a 'smoking gun' for Article 1.
+      KEY ENTITIES: Fauxhope City Council; Mayor; $6 million; "famous bluff"; ADA compliant walkway; open car on rails; Oscars; Ladd Peebles Stadium Shooter; Mobile, Alabama.
+    llm_text: National violence is rising, from the Ladd Peebles Stadium Shooter to Miami. Amid this instability, Fauxhope City Council pushes a $6 million waterfront project on the "famous bluff," raising questions about ADA compliance and local priorities.
+    widget_date: "2022-04-05"
+    generated_at: "2026-11-07T00:39:43.575572Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  trolls-for-tolls:
+    brief: |-
+      THE CONFLICT:
+      *   Bayway Bridge project started years ago with financial uncertainty regarding tolls.
+      *   Public opposition to tolls was mobilized via Jim Zigler's Facebook page (over 50,000 likes).
+      *   Mobile and Baldwin MPO’s unified their front for tolls, despite public opposition.
+      *   Jack Burrell's track record as councilman is cited as a reason to oppose tolls.
+
+      THE DISCOVERY:
+      *   The Bayway Bridge price tag is $2.2 billion.
+      *   ALDOT/local leaders committed $250 million (state) plus $125 million (federal).
+      *   The need for tolls stems from the inability to raise sufficient funding through other means.
+
+      THE PIVOT:
+      *   Article 2 establishes a pattern of local political strategy (MPO unity, toll advocacy) overriding public opinion to manage large, complex, and under-funded infrastructure projects.
+      *   This pattern mirrors Article 1, where the Fauxhope council made a controversial, financially dubious decision (open car on rails) instead of a simpler, ADA-compliant walkway, resulting in $6 million unaccounted for and project delays (18 months ago).
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Bayway Bridge
+      *   Mobile and Baldwin MPO’s
+      *   Fauxhope City Council
+      *   Mayor (Fauxhope)
+      *   Jim Zigler
+      *   Jon Gray
+      *   6 million (Fauxhope unaccounted funds)
+      *   $2.2 billion (Bayway Bridge cost)
+      *   18 months (Fauxhope project timeline)
+    llm_text: The $2.2 billion Bayway Bridge needs tolls, ignoring Jim Zigler and Jack Burrell's opposition. This MPO unity mirrors the Fauxhope City Council’s $6 million unaccounted fiasco, showing local politics always overrides public opinion.
+    widget_date: "2022-01-28"
+    generated_at: "2026-11-07T00:41:08.490720Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  lego-rocket-scientist:
+    brief: |-
+      THE CONFLICT: Jack Burrell served 9 years as President of the Fairhope Council; he resigned from the presidency in November (date unspecified) and was accused of bid rigging and costing taxpayers millions; he swore in Municipal Judge Haymes Snedeker.
+      THE DISCOVERY: Article 2 establishes Jack Burrell's long-term influence as a puppet for developers and special interest groups within Fairhope politics, specifically regarding the Fairhope Airport Authority.
+      THE PIVOT: Burrell's historical pattern of self-motivated chaos, alleged corruption, and favoring special interests (as shown in Article 2) provides context for the current waterfront project's controversial decisions (avoiding ADA compliance, spending $6 million, using the open car on rails) detailed in Article 1.
+      KEY ENTITIES: Jack Burrell, Fairhope City Council, Mayor, Fairhope Airport Authority, Catalyst/Scott Boone Consulting, Haymes Snedeker, Continental Motors, $6 million, $350,000, 9 years.
+    llm_text: Jack Burrell used 9 years as Council President to serve developers, facing bid rigging accusations. Discover how his past chaos informs the current $6 million waterfront project, which skips ADA compliance.
+    widget_date: "2022-01-13"
+    generated_at: "2026-11-07T00:42:17.040790Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pied-piper:
+    brief: |-
+      THE CONFLICT:
+      *   Compliance issue regarding the bluff/bluff stabilization was triggered in 1992.
+      *   The $6.2 million Waterfront project was subject to design changes and cost overruns.
+      *   Original plan for the lower parks included cleaning up the kudzu covered bluff and installing an ADA compliant switchback walkway.
+      *   Jack Burrell, Fairhope City Council President and Eastern Shore MPO Chairman, was instrumental in these decisions, allegedly serving special interests of Catalyst/Scott Boone Consulting.
+      *   The political spin used was that development would "destroy or bulldoze the bluff," which was false, as the bluffs were remnants of lower level parks dug out by founders.
+
+      THE DISCOVERY:
+      *   In 2021, due to federal grant funds, the council was finally addressing the 1992 compliance trigger.
+      *   The grant criteria required ADA compliance and bluff stabilization, not loss of elevation.
+      *   The original plan supported the required ADA compliance, while later actions (under Burrell) led to significant waste and delay.
+
+      THE PIVOT:
+      *   Article 2 establishes that ADA compliance was required from the start (1992) and was part of the original, successful plan for the waterfront project, contradicting the current council's attempt to avoid compliance.
+      *   Article 2 proves that the "famous bluff" was not a singular historical feature to be destroyed, but rather remnants of lower parks, disproving the narrative used to block the original ADA walkway plan.
+      *   Article 2 connects the current financial confusion ($6M/$6.2M waste) directly to Burrell's political maneuvering and delayed compliance, not just logistical errors.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Fairhope City Council
+      *   Eastern Shore MPO
+      *   Catalyst/Scott Boone Consulting
+      *   Jay Robinson
+      *   Robert Brown
+      *   Richard Shelby
+      *   Kant (Tim Kant)
+      *   Fairhope Waterfront
+      *   Bay-bridge (proposed)
+      *   $6 million / $6.2 million
+      *   1992
+      *   2021
+      *   6300 Morphy Ave
+    llm_text: Jack Burrell used political spin to delay ADA compliance for the Fairhope Waterfront since 1992, wasting $6.2 million. The "famous bluff" was never endangered, proving his maneuvering benefited Catalyst/Scott Boone Consulting, not public good.
+    widget_date: "2021-06-04"
+    generated_at: "2026-11-07T00:38:34.225705Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  no-qualifications:
+    brief: |-
+      THE CONFLICT:
+      *   The city faced the Triangle Lawsuit, losing $3 million from the utility fund.
+      *   The K-1 center (purchased Sept 2018) required $5 million+ but only received $100,000 for a temporary roof.
+      *   Mayor Wilson hired a qualified utility engineer, opposing dual salary/position.
+      *   Jack Burrell and Sherry Sullivan fired the qualified engineer, hiring High School Sullivan as Utility Director ($25,000 salary).
+      *   The city spent $6.2 million on the Waterfront project, which saw tens of thousands wasted on design and plan changes.
+
+      THE DISCOVERY:
+      *   Burrell and Sullivan prioritized political control and conservative tax rhetoric over qualified administration and transparency (e.g., meetings are no longer recorded).
+      *   Burrell acquired 114 acres near the Airport for $2.65 million and leased it to a farmer for $9000 annually.
+      *   The city utilized questionable financial maneuvers, such as paying $250,000 for land to save $750,000 in dirt costs, and brokered a $600,000 clock deal for a 26x60 lot.
+      *   The council disregarded public input, as seen in the Hawthorne Glenn Subdivision issue (forcing an electric substation location).
+
+      THE PIVOT:
+      *   Article 2 establishes the historical pattern of financial mismanagement, lack of transparency, and political opportunism by Jack Burrell and Sherry Sullivan.
+      *   This pattern provides context for the current Fauxhope City Council's decision-making, which disregards public participation and results in the $6 million loss on the Waterfront project.
+      *   The current council's refusal of ADA compliance and the creation of the open car on rails solution (Article 1) is a continuation of the non-prudent, politically motivated decision-making highlighted in Article 2.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Sherry Sullivan
+      *   Mayor Wilson
+      *   Tim Kant
+      *   Fairhope Waterfront
+      *   Fairhope City Council
+      *   Hawthorne Glenn Subdivision
+      *   Fairhope Airport
+      *   Bay Bridge
+      *   K-1 center
+      *   Fairhope Single Tax Colony
+    llm_text: Jack Burrell and Sherry Sullivan traded qualified administration for political control, costing Fairhope $6.2 million on the Waterfront project and $3 million in the Triangle Lawsuit. Discover how their decisions—like firing Mayor Wilson's engineer—continue to drain city funds today.
+    widget_date: "2021-05-28"
+    generated_at: "2026-11-07T00:43:44.271524Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  no-radar:
+    brief: |-
+      THE CONFLICT:
+      *   Jack Burrell served as Fairhope City Council President for two terms (9 years prior to current period).
+      *   Burrell and the Council were sued in Federal court for denying public speech regarding a council meeting.
+      *   The Fairhope Airport Authority issued an RFP on September 21, 2015, with a submittal date of October 13, 2015.
+      *   Robert Brown purchased "family" property on July 21, 2020.
+      *   Burrell/Mayor was moving to replace Robert Brown's seat on the City Council before public input.
+
+      THE DISCOVERY:
+      *   The Fairhope Council has a consistent history of suppressing public participation (e.g., no recorded FAA meetings since February; denying public speech rights).
+      *   Jack Burrell has an established reputation for bid rigging (FAA) and making costly decisions without oversight.
+      *   The City Attorney is Marcus McDowell, and the Councilman conduit is Kevin Boone.
+
+      THE PIVOT:
+      *   Article 2 establishes a long-standing pattern of non-transparency, closed-door decision-making, and political maneuvering by Jack Burrell and the Council.
+      *   This historical pattern provides context for the current lack of public participation and the controversial, costly decision (open car on rails vs. ADA walkway) regarding the waterfront project detailed in Article 1.
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Kevin Boone
+      *   Marcus McDowell
+      *   Robert Brown
+      *   Wilson (Former Mayor)
+      *   Raines
+      *   Haymes Snedeker (Municipal Judge)
+      *   FAA / Fairhope Airport Authority
+      *   City of Faux Hope / Fairhope
+      *   $6 million (Waterfront project cost concern)
+    llm_text: Jack Burrell has a history of bid rigging and suppressing public speech, including a Federal lawsuit against the Fairhope Council. Discover how this pattern of closed-door decisions impacted Robert Brown's seat and the controversial $6 million waterfront project.
+    widget_date: "2021-04-09"
+    generated_at: "2026-11-07T00:45:02.438743Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

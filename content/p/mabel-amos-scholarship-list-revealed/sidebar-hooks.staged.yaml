@@ -1,272 +1,190 @@
 metadata:
-  generated_at: "2026-11-05T23:14:10.360105Z"
+  generated_at: "2026-11-06T05:13:30.824817Z"
   generator_version: 1.0.0
   post_slug: mabel-amos-scholarship-list-revealed
   main_date: "2026-09-11"
   model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
 hooks:
-  POSTER-BOY-of-CORRUPTION:
+  our-man-in-mar-a-lago:
     brief: |-
       THE CONFLICT:
-      *   Mabel Amos Memorial Fund was created upon Mabel Amos' death in 1999 ($500,000 initial gift).
-      *   Tom Albritton, Executive Director of the Alabama Ethics Commission, was a board member of the trust via the trust's formation in her will.
-      *   Scholarships to Albritton’s children began in 2012 and continued until 2019, totaling $135,000.
-      *   A civil suit involving the trust was filed in 2021 (by Leigh Manning and Megan Carmack) and consolidated with Tyra Lindsay’s suit.
-      *   The Alabama Supreme Court rejected Alabama Attorney General Steve Marshall’s attempt to derail the independent accounting process.
-      *   Albritton resigned from the board in March *this year* (relative to Article 1 publication).
+      Mabel Amos died in 1999, establishing the Mabel Amos Memorial Fund with roughly $500,000. Board members, including Tom Albritton and Rick Clifton, indulged in self-dealing, awarding scholarships to relatives and friends over a period including 2012–2019. The total unallowed spending cited in the Special Fiduciary’s report is $725,000.
 
       THE DISCOVERY:
-      *   At the time of the Widget article, Albritton was publicly accused of unethical behavior related to the Mabel Amos Trust while serving as Ethics Commission Executive Director, leading to calls for an investigation (e.g., supporting Rep. Matt Simpson and HB-277).
-      *   The Alabama Bar subsequently dropped complaints against Albritton.
+      The Mabel Amos Scholarship Trust was administered by Tom Albritton, Director of the Alabama Ethics Commission, and managed by the law firm Allbritton, Clifton, Alverson, Moody and Bowden. Clifton served on the Trust Board.
 
       THE PIVOT:
-      *   The Widget article established the public accusations and Albritton's position as the Ethics Director, setting the context for the later, court-verified findings.
-      *   The Main Article provides the factual evidence from Special Fiduciary James C. White, Sr.'s report, confirming self-dealing and detailing specific violations, including $257,844 awarded to board members and associates, and a total unallowed spending of $725,000.
+      Article 2 establishes the initial institutional link between the Mabel Amos Scholarship Trust and the law firm Allbritton, Clifton, Alverson, Moody and Bowden, providing the historical context for the later findings in Article 1, where the Special Fiduciary James C. White, Sr. documented specific self-dealing violations involving Albritton's family and associates like Judge Ben Bowden's daughter.
 
       KEY ENTITIES:
-      *   Tom Albritton (Alabama Ethics Commission Executive Director)
-      *   Mabel Amos Trust / Mabel Amos Memorial Fund (MAMF)
-      *   James C. White, Sr. (Special Fiduciary/CPA)
-      *   Judge Greg Griffin (Montgomery County Circuit Court)
-      *   Steve Marshall (Alabama Attorney General)
-      *   Rick Clifton (Albritton's former law partner)
-      *   John Bell (Former Regions Bank representative/board member)
-      *   Drew McNeese (Current Regions Bank representative on board)
-      *   Matt Simpson / HB-277
-      *   Martha H. Albritton ($67,500 in scholarships)
-      *   James Albritton ($67,500 in scholarships)
-    llm_text: Ethics Director Tom Albritton misused the Mabel Amos Memorial Fund, directing $135,000 in scholarships to his children. Special Fiduciary James C. White, Sr. confirmed $725,000 in unallowed spending, revealing a major breach of public trust.
-    widget_date: "2024-03-13"
-    generated_at: "2026-11-05T22:58:09.258752Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  ALABAMA ETHICS COMMISSION HIDE THE LIST:
-    brief: |-
-      THE CONFLICT:
-      *   Mabel Amos Memorial Fund (MAMF) was formed in 1999 following Mabel Amos' death; $500,000 was left for scholarships for Alabama students.
-      *   MAMF board members (Tom Albritton, Rick Clifton, John Bell) engaged in self-dealing, awarding scholarships to relatives and friends between 2012 and 2019.
-      *   Albritton served as Alabama Ethics Commission Executive Director starting in 2012, coinciding with the start of these self-dealing disbursements.
-      *   Special Fiduciary James C. White, Sr. compiled a report detailing $725,000 in unallowed spending (2014-2024) across six specific high-profile self-dealing recipients.
-
-      THE DISCOVERY:
-      *   The Alabama Ethics Commission actively hid the comprehensive list of scholarship recipients (2014-2024) that was revealed in White's report.
-      *   This concealment contradicts the public interest in transparency regarding the MAMF's finances.
-
-      THE PIVOT:
-      *   The Ethics Commission's action of hiding the list proves the self-dealing was not merely a financial violation within the trust, but also an ethical failure involving a state oversight body.
-      *   The concealment makes the full scope of the historical self-dealing, particularly involving Albritton during his time as Ethics Commission Director, indisputable.
-
-      KEY ENTITIES:
-      *   Mabel Amos
-      *   Tom Albritton (Alabama Ethics Commission Executive Director)
-      *   James C. White, Sr. (Special Fiduciary)
-      *   Rick Clifton
-      *   John Bell / Drew McNeese (Regions Bank Trustee)
-      *   Judge Greg Griffin (Montgomery County Circuit Court)
-      *   Steve Marshall (Alabama Attorney General)
-      *   Alabama Ethics Commission
-      *   $725,000 (Total unallowed spending 2014-2024)
-    llm_text: Tom Albritton and MAMF board members misused $725,000 in scholarships for relatives between 2014-2024. The Alabama Ethics Commission then actively hid the full recipient list, proving this was an ethical failure, not just a trust violation.
-    widget_date: "2026-11-05"
-    generated_at: "2026-11-05T23:00:03.262247Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  TOP-TO-BOTTOM-CORRUPTION:
-    brief: |-
-      THE CONFLICT: Mabel Amos, a two-term Alabama Secretary of State, established the Mabel Amos Memorial Fund upon her death in 1999, initially with roughly $500,000. The board, including Tom Albritton and Rick Clifton (Albritton Law Firm) and John Bell (Regions Bank), began awarding scholarships. Albritton's children received approximately $120,000 in tuition between 2011 and 2013. Albritton subsequently was appointed Executive Director of the Alabama Ethics Commission.
-
-      THE DISCOVERY: The July 15, 2023, article revealed that the MAMF, which grew into millions after 2011 oil discoveries in Conecuh County, was distributing larger scholarships to Albritton’s children, raising immediate concerns about self-dealing and violation of the fund's formation language.
-
-      THE PIVOT: Article 2 established the timeline of Albritton's conflicted position (board member/Ethics Director) and the initial allegations of self-dealing, leading to civil suits. Article 1, based on the Special Fiduciary James C. White, Sr.'s report, provides the official, court-verified accounting, identifying $725,000 in total unallowed spending and revealing the full list of recipients from 2014 to 2024, many of whom were connected to Albritton's law firm.
-
-      KEY ENTITIES: Mabel Amos, Tom Albritton, Rick Clifton, John Bell, Steve Marshall (Alabama AG), James C. White, Sr. (Special Fiduciary), Judge Greg Griffin (Montgomery County Circuit Court), Byron B. Mathews, Jr., Regions Bank, Alabama Ethics Commission, Martha H. Albritton, James Albritton, Anna E. Bowden, Chandlar Dauphin.
-    llm_text: Tom Albritton, a board member of the Mabel Amos Memorial Fund, directed $725,000 in unallowed scholarships to his children. See the court-verified accounting revealing how this Alabama charity misused millions after Conecuh oil discoveries.
-    widget_date: "2023-07-21"
-    generated_at: "2026-11-05T23:02:13.082280Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  alabama-black-hole:
-    brief: |-
-      THE CONFLICT:
-      Mabel Amos died in 1999, leaving $500,000 for the Mabel Amos Memorial Fund (MAMF).
-      Tom Albritton, Alabama Ethics Commission Executive Director, was part of the board (with Rick Clifton and John Bell) when the trust was formed via Amos’ will.
-      Albritton’s son (James) and daughter (Martha) received $135,000 in scholarships from 2012 to 2019.
-      Albritton was accused by The Ripp Report of self-dealing, violating three articles of the fund’s formation.
-      The lawsuit began after Lagniappe reported Albritton's children receiving scholarships in 2021.
-
-      THE DISCOVERY:
-      On August 21, 2022, The Ripp Report asserted that the Alabama Attorney General (Steve Marshall/Clark Morris), Alabama Bar, and Ethics Commission were covering up allegations against Tom Albritton.
-      The Ripp Report detailed that Albritton failed to disclose his role as a trustee of the multi-million dollar MAMF on his economic statement.
-      The Ripp Report claimed Albritton, Clifton, and Bell made alterations to the trust's handling in 2014, beginning to list schools instead of students to hide recipients.
-      The Ripp Report stated that Judge Ben Bowden (Albritton’s law partner) received $45,000 for his daughter’s scholarships.
-
-      THE PIVOT:
-      Article 2 (2022) establishes the historical context of repeated, ignored complaints, the alleged non-action by state regulatory bodies (Ethics Commission/Alabama Bar), and the motive for the cover-up.
-      Article 1 (2025) provides the independent, court-sanctioned findings of the Special Fiduciary James C. White, Sr., confirming the self-dealing allegations (totaling $257,844 to board associates and $725,000 in unallowed spending) which were previously only allegations in 2022.
-
-      KEY ENTITIES:
-      Mabel Amos (Deceased, 1999, two-term Alabama Secretary of State)
+      Mabel Amos
       Tom Albritton (Alabama Ethics Commission Executive Director)
-      Rick Clifton (Albritton's former law partner, died June 2025)
-      John Bell (Regions Bank trustee, resigned 2021)
-      Drew McNeese (Regions Bank replacement)
-      James C. White, Sr. (Special Fiduciary, CPA)
-      Greg Griffin (Montgomery County Circuit Court Judge)
-      Steve Marshall (Alabama Attorney General)
-      The Ripp Report (Francis Paul Ripp)
-      Albritton Law (Albritton, Clifton, Alverson, Moody and Bowden, P.C.)
-      Martha H. Albritton (Albritton's daughter, received $67,500)
-      James Albritton (Albritton's son, received $67,500)
-      Anna E. Bowden (Daughter of Judge Ben Bowden, received $60,000)
-      Paula Tillman (Rick Clifton’s secretary)
-      Tina Ballard (Secretary at Albritton firm)
-      Regions Bank
-      Montgomery County Circuit Court
-      August 21, 2022 (Date of The Ripp Report complaint)
-      March 2025 (Albritton formally resigned from board)
-    llm_text: Tom Albritton, Alabama Ethics Commission Executive Director, misused $725,000 from the Mabel Amos Memorial Fund. Special Fiduciary James C. White, Sr. confirmed the self-dealing, proving Albritton violated trust, even paying Judge Ben Bowden's daughter $60,000.
-    widget_date: "2022-10-21"
-    generated_at: "2026-11-05T23:03:56.393781Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  writ-of-mandamus-and-bar-complaint:
-    brief: |-
-      THE CONFLICT:
-      *   Mabel Amos died in 1999, creating the Mabel Amos Memorial Fund (MAMF) with approximately $500,000.
-      *   Tom Albritton, Executive Director of the Alabama Ethics Commission, was one of three trustees of the MAMF, appointed via Mabel Amos’ will.
-      *   Albritton's children received scholarships from the MAMF starting in 2012 and continuing until 2019.
-      *   In June 2021, Lagniappe first reported that Albritton’s children received over $100,000 from the trust.
-
-      THE DISCOVERY:
-      *   In June 2021, The Ripp Report filed an ethics complaint, a Writ of Mandamus, and a separate Alabama Bar Complaint against Tom Albritton regarding self-dealing.
-      *   The initial allegations stated Albritton was overseeing a trust paying over $100,000 to his children.
-
-      THE PIVOT:
-      *   Article 2 (2021) established the initial public conflict and legal action (Ethics/Bar complaints).
-      *   Article 1 (Current) provides the comprehensive, independently audited proof from Special Fiduciary James C. White, Sr.'s report, confirming total unallowed spending of $725,000 (including $135,000 to Albritton's children) and listing six specific high-profile self-dealing recipients.
-      *   Article 1 also shows the institutional consequence: Court removed Albritton's involvement in selecting scholarships in 2023, and he resigned in March of this year.
-
-      KEY ENTITIES:
-      *   Mabel Amos (Two-term Alabama Secretary of State, died 1999)
-      *   Tom Albritton (Executive Director, Alabama Ethics Commission)
-      *   James C. White, Sr. (Special Fiduciary, CPA)
-      *   Judge Greg Griffin (Montgomery County Circuit Court Judge)
-      *   Steve Marshall (Alabama Attorney General)
-      *   Rick Clifton (Former Albritton Law partner, died June 2025)
-      *   John Bell (Regions Bank trustee, resigned 2021)
-      *   Drew McNeese (Regions Bank representative, replaced Bell)
-      *   Martha H. Albritton ($67,500, 2014-2024)
-      *   James Albritton ($67,500, 2014-2024)
-      *   Anna E. Bowden ($60,000, 2014-2017)
-      *   Chandlar Dauphin ($26,120)
-      *   Total unallowed spending: $725,000
-      *   Key Dates: June 29, 2021 (Article 2); 2023 (Court removed Albritton); March (Albritton formally resigned).
-    llm_text: Ethics Director Tom Albritton misused the Mabel Amos Memorial Fund, draining $725,000 through self-dealing, including over $135,000 paid to his children. An independent audit confirmed this illegal spending, forcing Albritton to resign after the court removed his trust involvement in 2023.
-    widget_date: "2021-07-15"
-    generated_at: "2026-11-05T23:05:31.212187Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  self-dealing-self-stealing:
-    brief: |-
-      THE CONFLICT:
-      Mabel Amos, a former two-term Alabama Secretary of State, left roughly $500,000 upon her death in 1999 to create the Mabel Amos Memorial Fund (MAMF). Board members, including Tom Albritton, engaged in self-dealing by awarding scholarships to relatives and friends, violating the fund’s formation articles. This controversy was first reported by Lagniappe in 2021.
-
-      THE DISCOVERY:
-      The Widget Article (July 2, 2021) publicly accused Tom Albritton, then Director of the Alabama Ethics Commission, of self-dealing in the MAMF, stating his children received more scholarship money than other relatives, linking the Ethics Commission to political corruption in Alabama.
-
-      THE PIVOT:
-      Article 2 established the initial public accusation and controversy, centering Albritton's ethical conflict as the Director of the Alabama Ethics Commission. Article 1 later substantiated this accusation with the special fiduciary report (compiled by James C. White, Sr.), providing specific financial documentation (e.g., $135,000 to Albritton’s children from 2012-2019) and detailing the resulting four-year civil suit involving Judge Greg Griffin and AG Steve Marshall.
-
-      KEY ENTITIES:
-      Mabel Amos
-      Tom Albritton
       Rick Clifton
-      John Bell
       James C. White, Sr. (Special Fiduciary)
-      Judge Greg Griffin (Montgomery County Circuit Court)
-      Steve Marshall (Alabama Attorney General)
       Alabama Ethics Commission
-      Lagniappe
-      Regions Bank
-    llm_text: Tom Albritton, former Alabama Ethics Commission Director, funneled $135,000 from the Mabel Amos Memorial Fund to his children. James C. White, Sr.'s fiduciary report details this self-dealing, exposing political corruption that led to a civil suit involving Judge Greg Griffin and AG Steve Marshall.
-    widget_date: "2021-07-09"
-    generated_at: "2026-11-05T23:07:18.341269Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  alabama-ethics-self-dealing-immunity:
-    brief: |-
-      THE CONFLICT:
-      Tom Albritton, Director of the Alabama Ethics Commission, served on the Mabel Amos Memorial Fund board, which was created following Mabel Amos' death in 1999. Albritton and his partner Rick Clifton used their board positions to award scholarships to their children and associates' children, constituting self-dealing.
-
-      THE DISCOVERY:
-      Richard Fording discovered that Tom Albritton’s two children received a total of $105,000 through 2018 from the trust, while the fund gave only $500 to a Historically Black College or University. Article 2 also noted Regions Bank received over $1 million for managing the fund since its inception.
-
-      THE PIVOT:
-      Article 2 establishes the early, long-running history of Albritton’s personal benefit and excessive banking fees (pre-2018), providing historical context that validates the later comprehensive findings of Special Fiduciary James C. White, Sr.'s report (Article 1), which documented $725,000 in unallowed spending between 2014 and 2024.
-
-      KEY ENTITIES:
-      Tom Albritton
-      Mabel Amos
-      Alabama Ethics Commission
-      James C. White, Sr.
-      Regions Bank
-      Judge Greg Griffin
+      Mabel Amos Memorial Fund (MAMF)
+      Allbritton, Clifton, Alverson, Moody and Bowden, P.C.
+      John Bell / Drew McNeese (Regions Bank)
+      Judge Greg Griffin (Montgomery County Circuit Court Judge)
       Steve Marshall (Alabama Attorney General)
-      Rick Clifton
-      John Bell
-      Drew McNeese
-      Richard Fording
       Martha H. Albritton
       James Albritton
-    llm_text: Tom Albritton, Alabama Ethics Director, self-dealt from the Mabel Amos Memorial Fund, awarding $105,000 to his children. Special Fiduciary James C. White, Sr. documented $725,000 in unallowed spending, exposing a long history of abuse.
-    widget_date: "2021-07-02"
-    generated_at: "2026-11-05T23:08:57.674319Z"
+      Anna E. Bowden (Daughter of Judge Ben Bowden)
+      Ben Bowden (Alabama Court of Appeals Judge)
+      Paula Tillman
+      Whitney Ballard
+      Rick Clifton
+      Alverson
+      Moody
+      Bowden
+    llm_text: Tom Albritton, Director of the Alabama Ethics Commission, oversaw the Mabel Amos Memorial Fund. His associates, including Rick Clifton, misused $725,000 for family and friends, violating the trust.
+    widget_date: "2026-09-10"
+    generated_at: "2026-11-06T05:12:43.456387Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  alabama-attorney-general:
+  rock-bottom:
     brief: |-
       THE CONFLICT:
-      *   Mabel Amos (two-term Alabama Secretary of State) died in 1999, establishing the Mabel Amos Memorial Fund (MAMF) of roughly $500,000.
-      *   Board members, including Tom Albritton (Alabama Ethics Commission Executive Director), Rick Clifton, and John Bell (Regions Bank representative), managed the fund.
-      *   Albritton and his partners awarded him $135,000 in scholarships for his children (2012-2019).
-      *   The fund grew to $4.1 million by 2011 due to oil discovery on Amos-owned land.
-      *   Lagniappe reported Albritton's payouts in 2021, initiating a civil suit led by Leigh Manning and Megan Carmack against Attorney General Steve Marshall.
+      - Mabel Amos died in 1999 at age 99; left roughly $500,000 for the Mabel Amos Memorial Fund.
+      - Tom Albriton and Rick Clifton of Albriton Law drew up the formation of the charitable trust in Mabel Amos’ last will and testament when she was in her 90s; Albriton and Clifton installed by will language giving the firm two of three board member positions overseeing the Mabel Amos Memorial Fund; John Bell of Regions Bank served as the third member/trustee.
+      - Oil was discovered on Amos-owned land in Conecuh County; millions poured into the fund; from 2002 through 2013 scholarships were meager; IRS 990 forms from 2002 through 2013 listed recipients and amounts; by 2014 scholarship amounts grew larger and names were no longer listed in the 990s.
+      - Alabama Attorney General Steve Marshall twice attempted to get the Alabama Supreme Court to derail Montgomery County Circuit Court Judge Greg Griffin’s efforts to have an independent accounting of the fund conducted, first by a special master, then by a special fiduciary; the second attempt was rejected.
+      - After Lagniappe reported in 2021 scholarship payments to Albriton’s children, Leigh Manning and Megan Carmack filed a civil suit; Marshall sought to join; Tyra Lindsay filed a suit; Byron B. Mathews Jr. represented Lindsay; cases were consolidated; Mathews pushed for a full accounting and removal of Albriton, Clifton, and Regions Bank.
+      - Special Fiduciary James C. White Sr., CPA, report: critical of self-dealing; disbursements violated Article V, part E and F; personal inurement and self-dealing; scholarships to children of board members/associates totaled $257,844.
+      - Albriton’s children received a combined total of $135,000; distributions began in 2012 and continued until 2019; Albriton told Lagniappe in 2021 he abstained from voting; denied self-dealing.
+      - Court removed Albriton’s involvement in selecting scholarships in 2023; Albriton formally resigned from the board in March of this year.
+      - White identified six recipients with direct connections: Martha H. Albriton/University of Texas at Austin, $67,500; James Albriton/University of Texas at Austin, $67,500; Anna E. Bowden/Southern Methodist University, $60,000; Chandlar Dauphin/Auburn University/University of Alabama, $26,120; Megan Ballard/Lurleen B. Wallace/Troy University, $14,997; Whitney Ballard/Lurleen B. Wallace/Troy University, $21,727.
+      - White said nearly $470,000 was distributed directly to colleges and universities as endowed scholarships; not in concert with articles; White tallied $725,000 in unallowed spending.
 
       THE DISCOVERY:
-      *   Article 2 proves the misuse of the MAMF was long-standing, with approximately $3.2 million awarded to anonymous recipients between 2013 and 2021.
-      *   Article 2 reveals Regions Bank charged inflated services (approx. $1 million).
-      *   Article 2 documents that Albritton used his position to dismiss complaints against himself filed with the Alabama Ethics Commission since 2015.
+      - Article 2, the Widget article titled “ROCK BOTTOM,” is older/background context; frames Alabama government oversight as failed; says Alabama hit rock bottom; governor absent and sometimes incoherent; Attorney General out of sight most of the time and never responds to complaints, instead passes them to Bar and Ethics for disposal.
+      - Article 2 says the Alabama Bar is a disgrace whose major function is to protect dirty lawyers; says they have weaponized the Bar as an instrument to exact judgment on attorneys who do not go along; says those in favor can do no wrong and have a pass to break the law.
+      - Article 2 says Alabama Ethics Commission Executive Director Tom Albriton has been “stealing”/self-dealing/diverting children’s scholarship money from the Mabel Amos Memorial Trust for over 12 years; Albriton is Alabama’s poster boy for in-your-face political corruption; says he should not be evaluating ethics complaints; calls it laughable and an embarrassment to citizens of Alabama.
+      - Article 2 says Transparency, Accountability, Bar Complaint, Ethics Complaint, Attorney General, plea to Governor are all total bullshit; says as a citizen you are wasting your time expecting any justice; says Alabama is a failed state and they are considering an out-of-state resident for Governor; says they will go further down the toilet.
+      - Article 2 says if you wish to research the Mabel Amos Memorial Trust, go to The Ripp Report or Lagniappe and use the search bar; says issue existed since Lagniappe broke the story and Ripp Report filed Ethics and Bar complaints against Albriton as far back as 2021.
+      - Article 2 quotes White’s report critical passages; says if the Ethics Director is allowed to keep his position, avoid prosecution or accountability, then it is proof positive that Alabama is the most politically corrupt state in the United States.
+      - Article 2 says Albriton should resign because he is corrupt and his job is to protect the corrupt.
+      - Article 2 notes that in 2021 Mr. Ripp made allegations including an Ethics Complaint against the Ethics Commission, a Bar Complaint against Albriton regarding the matter, and a Writ of Mandamus in the Circuit Court of Montgomery County to get a judge to order the Ethics Commission to review three complaints that Albriton disposed of without investigation; basis was Albriton’s involvement in self-dealing as Trustee; that was in 2021.
+      - In 2022 Mr. Ripp ran for Attorney General of the State of Alabama (R-Baldwin) against Mr. Marshall (R-Incumbent) and made numerous stump speeches about the Ethics Commission, the Mabel Amos Trust, and Albriton’s activities.
 
       THE PIVOT:
-      *   Article 1 provides the legally documented, detailed evidence (Special Fiduciary James C. White, Sr.'s report) of self-dealing ($725,000 in unallowed spending, 2014-2024).
-      *   Article 2 provides the institutional context, proving Albritton used his authority as Ethics Director to actively obstruct or dismiss complaints regarding the trust, making the self-dealing systemic rather than isolated.
+      - Why Article 2 is the smoking gun/key context for Article 1: Article 2 provides older/background framing that connects Albriton’s conduct as trustee to his later/current role as Ethics Commission director; presents the issue as systemic/political corruption; quotes White’s report language and calls for accountability.
+      - Article 2 frames Main Article’s White report findings as part of a longer pattern: self-dealing, hidden scholarship list, Ethics Commission inaction.
+      - Article 2’s claim that Albriton should resign because he is corrupt and his job is to protect the corrupt sets up Main Article’s revelation that White found self-dealing and unallowed spending.
+      - Article 2’s statement that if the Ethics Director is allowed to keep his position and avoid prosecution/accountability, then it is proof positive Alabama is the most politically corrupt state in the US, makes Main Article’s accounting details the evidentiary backbone.
 
       KEY ENTITIES:
-      *   Mabel Amos
-      *   Tom Albritton
-      *   Rick Clifton
-      *   John Bell / Drew McNeese
-      *   Steve Marshall / Allen Dodd
-      *   James C. White, Sr.
-      *   Montgomery County Circuit Court Judge Greg Griffin
-      *   Alabama Ethics Commission
-      *   Regions Bank
-      *   Lagniappe
-      *   Francis Paul Ripp (The Ripp Report)
-    llm_text: Tom Albritton misused the $4.1 million Mabel Amos Memorial Fund, awarding $3.2 million to anonymous recipients while inflating Regions Bank fees by $1 million. Discover how Albritton used his Ethics Director position to bury complaints, putting AG Steve Marshall in the crosshairs.
-    widget_date: "2024-02-22"
-    generated_at: "2026-11-05T23:11:00.249509Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  dirty-underwear:
+      - Tom Albriton — Alabama Ethics Commission Executive Director.
+      - Alabama Ethics Commission.
+      - Alabama Attorney General Steve Marshall.
+      - Montgomery County Circuit Court Judge Greg Griffin.
+      - Special Fiduciary James C. White Sr., CPA.
+      - Rick Clifton — Albriton law partner.
+      - John Bell — Regions Bank trustee.
+      - Drew McNeese — replaced Bell as Regions representative.
+      - Mabel Amos — Alabama Secretary of State; donor.
+      - Leigh Manning — Mabel Amos grandniece.
+      - Megan Carmack — Mabel Amos great-grandniece.
+      - Tyra Lindsay — Conecuh County student.
+      - Byron B. Mathews Jr. — attorney.
+      - Regions Bank.
+      - Alabama Bar.
+      - Governor — mentioned as absent/incoherent; no name given.
+      - Lagniappe — Rob Holbert, Ashley Trice.
+      - Ripp Report — filed Ethics and Bar complaints against Albriton.
+      - Andalusia — Covington County; Conecuh County; PowerSouth Energy Cooperative; Alabama Electrical Cooperative.
+      - Education entities: University of Texas at Austin; Southern Methodist University; Auburn University; University of Alabama; Troy University; Lurleen B. Wallace.
+        - Ben Bowden — Alabama Court of Appeals; former partner; former probate judge; Anna Bowden daughter.
+        - Paula Tillman — Rick Clifton’s secretary; Chandlar Dauphin grandmother.
+        - Tina Ballard — Rick Clifton’s secretary; Ballard children.
+        - Martha H. Albriton — Albriton daughter.
+        - James Albriton — Albriton son.
+    llm_text: Tom Albriton steered the Mabel Amos scholarship fund, paid his kids $135,000, and now leads Alabama’s Ethics Commission. The ROCK BOTTOM widget says if he keeps his job, Alabama proves it’s the most politically corrupt state in America.
+    widget_date: "2026-09-08"
+    generated_at: "2026-11-06T05:12:53.912369Z"
+    model_name: recursive/flint-v1.0:free
+  fins-to-the-left-fins-to-the-right:
     brief: |-
-      THE CONFLICT: Mabel Amos died in 1999, establishing the Mabel Amos Memorial Fund ($500,000). Tom Albritton's law firm drafted the trust. Albritton was confirmed as Executive Director of the Alabama Ethics Commission in March 2015. Between 2014 and 2018, Albritton's children received $105,000 in scholarships from the trust.
-      THE DISCOVERY: The special fiduciary’s report (compiled by James C. White, Sr.) revealed that board members engaged in self-dealing, resulting in $725,000 in unallowed spending between 2014 and 2024.
-      THE PIVOT: Article 2 establishes the fundamental conflict of interest—Albritton held a leadership role at the Alabama Ethics Commission (2015) while simultaneously serving as a trustee and benefiting his children from the fund, validating the self-dealing claims detailed in the later report.
-      KEY ENTITIES: Mabel Amos, Tom Albritton, Rick Clifton, John Bell, Judge Greg Griffin, Alabama Attorney General Steve Marshall, James C. White, Sr., Alabama Ethics Commission, Martha H. Albritton, James Albritton, Ben Bowden, Paula Tillman, Tina Ballard, Regions Bank.
-    llm_text: Tom Albritton received $105,000 for his children from the Mabel Amos Memorial Fund while serving as Executive Director of the Alabama Ethics Commission. A special fiduciary report revealed board members committed $725,000 in self-dealing between 2014 and 2024.
-    widget_date: "2022-07-01"
-    generated_at: "2026-11-05T23:12:35.684665Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  letter-to-the-alabama-attorney-general:
+      THE CONFLICT: Historical pattern of "ecosystems" in South Alabama where private interests and public officials overlap through "dead deals" and land development. Specifically, the Orange Beach/CoastAL deal involved private partners John McInnis and Cameron Price (Flora-Bama/Orange Beach Land Company interests) and public-side figures like Jack Robertson and Tony Kennon.
+
+      THE DISCOVERY: Article 2 established that "dead deals still leave paper," revealing a recurring cycle where the same names appear across land deals, contracts, political campaign reports, and regulatory boards, creating a web of interlocking private and public control.
+
+      THE PIVOT: Article 2 provides the structural framework for Article 1; the Mabel Amos Memorial Fund scandal is a specific, documented manifestation of the "ecosystem" theory, where the "paper trail" (the Special Fiduciary’s report) finally exposed the "who's who" of prominent citizens and board members (Albritton, Clifton, Bell) engaged in self-dealing.
+
+      KEY ENTITIES:
+      - Tom Albritton (Alabama Ethics Commission Executive Director)
+      - Rick Clifton (Albritton Law partner/MAMF Board Member)
+      - John Bell (Regions Bank/MAMF Board Member)
+      - James C. White, Sr. (Special Fiduciary)
+      - Steve Marshall (Alabama Attorney General)
+      - Tony Kennon (Orange Beach Mayor/Official)
+      - John McInnis (Orange Beach Land Company/Flora-Bama)
+      - Cameron Price (Orange Beach Land Company/Flora-Bama)
+      - Jack Robertson (City official)
+      - Mabel Amos (Former Secretary of State/Trust creator)
+    llm_text: From the Orange Beach CoastAL deal to the Mabel Amos scandal, names like Tony Kennon and Tom Albritton keep resurfacing across South Alabama. Article 2 exposes the "ecosystem" of interlocking interests and public officials that leaves a permanent paper trail of self-dealing.
+    widget_date: "2026-07-28"
+    generated_at: "2026-11-06T05:12:15.678819Z"
+    model_name: '@cf/google/gemma-4-26b-a4b-it'
+  the-blueprint:
     brief: |-
-      THE CONFLICT: Tom Albritton, Director of the Alabama Ethics Commission and a trustee of the Mabel Amos Memorial Fund, was accused of self-dealing and IRS code violations related to the fund's management.
-      THE DISCOVERY: The letter from Francis Paul Ripp (The Ripp Report) to Alabama Attorney General Steve Marshall asserts that Albritton's self-dealing in the Mabel Amos Memorial Fund, which awarded his daughters $105,000 for the University of Texas, was ignored by the Ethics Commission.
-      THE PIVOT: Article 2 established the initial public allegation and demanded state investigation into Albritton's dual role (Ethics Director and Fund Trustee), which Article 1 later substantiated with the Special Fiduciary James C. White, Sr.'s detailed report proving self-dealing and specific scholarship payments to his relatives/associates between 2012 and 2019.
-      KEY ENTITIES: Tom Albritton, Steve Marshall, Francis Paul Ripp, Mabel Amos Memorial Fund, Alabama Ethics Commission, Alabama Attorney General, James C. White, Sr., Rick Clifton, John Bell, Greg Griffin, University of Texas at Austin, Andalusia, Montgomery County Circuit Court.
-    llm_text: Tom Albritton, Alabama Ethics Director, allegedly self-dealt from the Mabel Amos Memorial Fund, awarding his daughters $105,000 for UT. Francis Paul Ripp confirmed the Ethics Commission ignored this violation, demanding an investigation from Attorney General Steve Marshall.
-    widget_date: "2021-07-16"
-    generated_at: "2026-11-05T23:13:53.050027Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+      THE CONFLICT: In 2019, over 50,000 Gulf Coast residents and groups led by figures like Jim Zeigler mobilized in massive public opposition against proposed tolls, establishing a clear public mandate rejecting toll infrastructure as a financial trap for average families.
+
+      THE DISCOVERY: Article 2 demonstrates that a coordinated regional strategy involving the Governor's office, federal agencies, and private investors was quietly formulated in backrooms long before public awareness, serving as the foundational blueprint for the current $3.2 billion project.
+
+      THE PIVOT: Article 2 provides the critical historical context showing that the current push for tolls is not a new economic necessity, but rather the execution of a decades-long hidden endgame—exposing politicians who initially stood with the 50,000 protestors in 2019 as turncoats who later flipped to support the investor-backed toll scheme once public attention faded.
+
+      KEY ENTITIES: Jim Zeigler, South Alabama Citizens for Government Accountability (SACGA)
+    llm_text: In 2019, Jim Zeigler and SACGA mobilized 50,000 residents against toxic Gulf Coast tolls. Now, our investigation exposes the backroom blueprints proving politicians turned coat to back this $3.2B trap.
+    widget_date: "2026-07-14"
+    generated_at: "2026-11-06T05:11:14.330349Z"
+    model_name: gemini-3.5-flash-lite
+  advocates-say-birmingham-law-firm-abandoned-habeas-petition-effort-midstream:
+    brief: "THE CONFLICT: Inmate Murray \"Bubba\" Lawrence, Jr. has maintained his innocence for over two decades of imprisonment. Advocates Francis Paul Ripp and Nancy R. Koerner engaged the Birmingham law firm Maxwell-Tillman—represented primarily by partner Leroy Maxwell and assigned attorney Gabby Humber—to assist in drafting a federal writ of habeas corpus after exhausting state-level avenues. Despite a verbal agreement, three advocacy witnesses, a formal invoice, and a prompt financial down-payment, the firm abruptly abandoned the case after two years, issuing a Non-Engagement Letter denying an attorney-client relationship and returning only generic summations and advocate-compiled research without conducting independent discovery or uncovering suppressed evidence like the Alabama State Coroners' Report detailing the exhumation of the victim and removal of all seven cervical vertebrae.\n\nTHE DISCOVERY: The background coverage from the Alabama Gazette details systemic legal abandonment and professional misconduct by retained counsel in high-stakes post-conviction relief efforts. It exposes how legal representation took retainers, accepted client-provided research for two years, and then severed ties midstream with alarming disclaimers regarding privileged information while ignoring critical issues such as the inmate's deteriorating medical condition and prison communication failures.\n\nTHE PIVOT: While the main article exposes elite self-dealing and corruption within the Mabel Amos Memorial Fund controlled by prominent figures like Tom Albritton, the background widget article acts as the thematic and systemic \"smoking gun\" by demonstrating the parallel failure and abandonment of justice within Alabama's legal and institutional framework—showing how ordinary citizens and inmates like Murray Lawrence face professional stonewalling, while insiders exploit fiduciary trusts for personal enrichment.\n\nKEY ENTITIES: \n- Murray \"Bubba\" Lawrence, Jr.\n- Francis Paul Ripp\n- Nancy R. Koerner\n- Maxwell-Tillman (Law Firm)\n- Leroy Maxwell\n- Gabby Humber\n- Murray Lawrence, Sr.\n- Tom Albritton\n- James C. White, Sr.\n- Steve Marshall\n- Greg Griffin\n- Rick Clifton\n- John Bell\n- Mabel Amos"
+    llm_text: After taking a financial down-payment, Birmingham attorneys Leroy Maxwell and Gabby Humber abandoned innocent inmate Murray Lawrence, Jr. Read how this legal betrayal mirrors the systemic corruption and elite self-dealing bleeding Alabama dry.
+    widget_date: "2025-08-19"
+    generated_at: "2026-11-06T05:11:19.672029Z"
+    model_name: gemini-3.5-flash-lite
+  lt-governor-ainsworth-breaks-with-governor:
+    brief: "THE CONFLICT: \n- In February 2025, a political battle erupted in Alabama when Governor Kay Ivey pushed for Senate Bill 67 (sponsored by Senator Andrew Jones), aimed at taking over the Department of Veterans Affairs by stripping power from the Veterans Board and granting the Governor sole authority to appoint the commissioner and board members.\n- Veterans Commissioner Kent Davis previously filed an ethics complaint with the Alabama Ethics Commission (involving Executive Director Kim Boswell), prompting Governor Ivey to fire Davis and seek total executive control over the department, overriding opposition from Lt. Governor Will Ainsworth, Senators April Weaver and Chris Elliott, and state veterans' groups.\n\nTHE DISCOVERY: \n- The older article (February 2025) documents a major executive overreach and power grab by Governor Kay Ivey targeting an independent state board (the Department of Veterans Affairs) following an internal ethics complaint. \n- It establishes a direct historical precedent of friction between independent administrative boards, state oversight bodies, and executive power plays in Alabama politics.\n\nTHE PIVOT: \n- Article 2 serves as critical context for the main article by exposing the systemic rot and hypocrisy within Alabama's ethics and governance structures—specifically highlighting how state officials and enforcers (such as Ethics Commission Executive Director Tom Albritton in the Mabel Amos trust scandal) operate with impunity while executive figures like Governor Ivey simultaneously move to dismantle independent boards and consolidate absolute political control under the guise of reform or compliance.\n\nKEY ENTITIES:\n- Tom Albritton\n- Governor Kay Ivey\n- Lt. Governor Will Ainsworth\n- Kent Davis\n- James C. White, Sr.\n- Judge Greg Griffin\n- Steve Marshall\n- Rick Clifton\n- John Bell\n- Drew McNeese\n- Andrew Jones\n- April Weaver\n- Chris Elliott\n- Ed Oliver\n- Kim Boswell\n- Mabel Amos\n- Leigh Manning\n- Megan Carmack\n- Tyra Lindsay\n- Byron B. Mathews, Jr."
+    llm_text: When Governor Kay Ivey fired Veterans Commissioner Kent Davis to seize control of the Department of Veterans Affairs, she exposed Alabama’s deeper governance rot. Read our February 2025 report to see how officials like Tom Albritton weaponize executive power while independent boards crumble.
+    widget_date: "2025-02-12"
+    generated_at: "2026-11-06T05:11:25.783370Z"
+    model_name: gemini-3.5-flash-lite
+  this-is-a-test:
+    brief: |-
+      THE CONFLICT:
+      - Francis Paul Ripp (The Ripp Report) filed a Writ of Mandamus on October 18 in Montgomery County Circuit Court, scheduled for status review before Circuit Judge Johnny Hardwick on Monday, November 25.
+      - The litigation centers on Alabama Ethics Commission Executive Director Tom Albritton engaging in self-dealing via the Mabel Amos Memorial Fund, distributing trust funds for his children's education (over $120,000/$135,000 total) while acting as a trustee.
+      - Between 2014 and 2017, Covington County Probate/Circuit Court Judge Ben Bowden—a former law partner and childhood friend of Albritton—received $45,000 ($60,000 total) in trust funds for his daughter's education.
+      - Regulatory bodies (the Ethics Commission, Attorney General Steve Marshall, Bar Association, Judiciary, and District Attorneys) failed to act on complaints filed by The Ripp Report, prompting the Writ of Mandamus as a test of the state's ethics system.
+      - Oil well "Amos 36-3" on Mabel Amos Memorial Fund land produced $70 million to $80 million in oil and gas, with millions more in potential value, while trustees and Regions Bank heavily profited and hid disbursements.
+
+      THE DISCOVERY:
+      - Francis Paul Ripp's earlier reporting and legal filings (The Ripp Report widget article, contextualized as the historical baseline) exposed that Tom Albritton used his position as ethics chief and Mabel Amos Trust trustee to enrich himself and connected insiders.
+      - The background filings established that complaints to state agencies (Governor, Ethics Commission, AG, Bar Association, Judiciary, DA) were completely ignored, exposing systemic institutional corruption and toothless oversight across Alabama.
+      - The early baseline identified Regions Bank as benefiting to the tune of $1 million in fees while failing to properly oversee the trust.
+      - Highlighted parallel corruption in the Baldwin County Family Court under Judge Michelle Thomasson, demonstrating a statewide pattern where authorities refuse to intervene against compromised officials.
+
+      THE PIVOT:
+      - The older Ripp Report background (Article 2) serves as the conceptual 'smoking gun' because it predicted and exposed the exact systemic failure and self-dealing network that Main Article 1 now proves with the newly unsealed special fiduciary report.
+      - While Article 2 flagged the initial allegations of Tom Albritton funneling money to his children and Ben Bowden's family amid a brick-wall of state inaction, Main Article 1 utilizes CPA James C. White, Sr.'s court-ordered special fiduciary report to definitively confirm those exact cash flows, unveil the full 12-year hidden recipient list totaling $725,000 in unallowed spending, and detail the cover-up.
+
+      KEY ENTITIES:
+      - Tom Albritton (Alabama Ethics Commission Executive Director / Albritton Law Firm)
+      - Francis Paul Ripp (The Ripp Report)
+      - Judge Johnny Hardwick (Montgomery County Circuit Judge)
+      - Judge Ben Bowden (Covington County Probate/Circuit Court Judge / former Albritton law partner)
+      - Rick Clifton (Albritton law partner)
+      - John Bell and Drew McNeese (Regions Bank representatives / trustees)
+      - James C. White, Sr. (Special Fiduciary / CPA)
+      - Mabel Amos (Former Alabama Secretary of State / Trust creator)
+      - Steve Marshall (Alabama Attorney General)
+      - Judge Greg Griffin (Montgomery County Circuit Court Judge)
+      - Leigh Manning and Megan Carmack (Amos grandniece and great-grandniece / plaintiffs)
+      - Tyra Lindsay (Conecuh County student / plaintiff)
+      - Byron B. Mathews, Jr. (Plaintiff's attorney)
+      - Judge Michelle Thomasson (Baldwin County Family Court Judge)
+    llm_text: Francis Paul Ripp caught Alabama Ethics Director Tom Albritton funneling trust funds to his kids while state agencies looked the other way. Read how this explosive background ties directly into the new court-ordered report exposing the massive Mabel Amos cover-up.
+    widget_date: "2021-10-22"
+    generated_at: "2026-11-06T05:11:32.951347Z"
+    model_name: gemini-3.5-flash-lite

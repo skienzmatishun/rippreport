@@ -3,8 +3,11 @@ package refiner
 import (
 	"context"
 	"fmt"
+	"math"
 	"os"
 	"path/filepath"
+	"sort"
+	"strings"
 	"time"
 
 	"github.com/rippreport/go-content-pipeline/internal/models"
@@ -12,310 +15,346 @@ import (
 	"github.com/rippreport/go-content-pipeline/pkg/gemini"
 )
 
-// Refiner handles hook refinement using external APIs
+type Embedder interface {
+	GenerateEmbedding(context.Context, string) ([]float32, error)
+}
 type Refiner struct {
-	geminiClient *gemini.Client
-	postManager  *processor.PostManager
+	geminiClient     *gemini.Client
+	postManager      *processor.PostManager
+	embedder         Embedder
+	prepareEmbedding func(context.Context) (Embedder, error)
 }
-
-// Config holds refiner configuration
 type Config struct {
-	GeminiAPIKey string
-	PostsDir     string
+	GeminiAPIKey, PostsDir string
+	Embedder               Embedder
+	PrepareEmbedding       func(context.Context) (Embedder, error)
 }
-
-// RefineOptions holds options for refinement
 type RefineOptions struct {
-	SpecificSlugs []string
-	Force         bool
-	DryRun        bool
-	Model         string
-	BatchSize     int // Number of hooks to refine per API call (0 = per-post)
+	SpecificSlugs       []string
+	Force, DryRun       bool
+	Model               string
+	BatchSize           int
+	SimilarityThreshold float64
 }
-
-// RefineResult holds the results of a refinement operation
 type RefineResult struct {
-	ProcessedPosts int
-	FailedPosts    int
-	SkippedPosts   int
-	Duration       time.Duration
+	ProcessedPosts, FailedPosts, SkippedPosts int
+	CollisionPairs, RewrittenHooks            int
+	Duration                                  time.Duration
 }
 
-// New creates a new Refiner
 func New(cfg Config) (*Refiner, error) {
-	var geminiClient *gemini.Client
+	var c *gemini.Client
 	if cfg.GeminiAPIKey != "" {
 		var err error
-		geminiClient, err = gemini.NewClient(gemini.Config{
-			APIKey: cfg.GeminiAPIKey,
-		})
+		c, err = gemini.NewClient(gemini.Config{APIKey: cfg.GeminiAPIKey})
 		if err != nil {
-			return nil, fmt.Errorf("failed to create Gemini client: %w", err)
+			return nil, err
 		}
 	}
-
-	postManager := processor.NewPostManager(cfg.PostsDir)
-
-	return &Refiner{
-		geminiClient: geminiClient,
-		postManager:  postManager,
-	}, nil
+	return &Refiner{geminiClient: c, postManager: processor.NewPostManager(cfg.PostsDir), embedder: cfg.Embedder, prepareEmbedding: cfg.PrepareEmbedding}, nil
 }
 
-// RefineHooks refines existing hooks using the Gemini API
+type hookEntry struct{ path, slug, text string }
+
+// RefineHooks polishes hooks, then compares the entire run for semantic clones.
+// No documents are saved until all remote operations and validation succeed.
 func (r *Refiner) RefineHooks(ctx context.Context, opts RefineOptions) (*RefineResult, error) {
-	if r.geminiClient == nil {
-		return nil, fmt.Errorf("Gemini API key not configured")
-	}
-
-	startTime := time.Now()
+	start := time.Now()
 	result := &RefineResult{}
-
-	// Discover posts to process
-	filter := models.PostFilter{
-		SpecificSlugs: opts.SpecificSlugs,
+	defer func() { result.Duration = time.Since(start) }()
+	threshold := opts.SimilarityThreshold
+	if threshold == 0 {
+		threshold = 0.85
 	}
-
-	postPaths, err := r.postManager.DiscoverPosts(filter)
+	if math.IsNaN(threshold) || threshold <= 0 || threshold >= 1 {
+		return result, fmt.Errorf("similarity threshold must be between 0 and 1")
+	}
+	if opts.BatchSize < 0 {
+		return result, fmt.Errorf("batch size must be nonnegative")
+	}
+	paths, err := r.postManager.DiscoverPosts(models.PostFilter{SpecificSlugs: opts.SpecificSlugs})
 	if err != nil {
-		return nil, fmt.Errorf("failed to discover posts: %w", err)
+		return result, err
 	}
-
-	// If batch size specified, collect hooks across all posts and batch them
-	if opts.BatchSize > 0 {
-		return r.refineBatched(ctx, postPaths, opts, startTime)
-	}
-
-	// Otherwise, refine per-post (original behavior)
-	for _, postPath := range postPaths {
-		post, err := r.postManager.ReadPost(postPath)
+	sort.Slice(paths, func(i, j int) bool { return paths[i] < paths[j] })
+	docs := map[string]*processor.HooksDocument{}
+	var entries []hookEntry
+	var groups [][2]int
+	for _, p := range paths {
+		path := filepath.Join(filepath.Dir(string(p)), "sidebar-hooks.yaml")
+		if _, err := os.Stat(path); os.IsNotExist(err) {
+			result.SkippedPosts++
+			continue
+		}
+		doc, err := processor.LoadHooksYAML(path)
 		if err != nil {
-			result.FailedPosts++
-			continue
+			return result, fmt.Errorf("load %s: %w", path, err)
 		}
-
-		hooksPath := filepath.Join(filepath.Dir(string(postPath)), "sidebar-hooks.yaml")
-
-		// Check if hooks file exists
-		if _, err := os.Stat(hooksPath); os.IsNotExist(err) {
-			result.SkippedPosts++
-			continue
-		}
-
-		// Load existing hooks
-		hooks, err := processor.LoadHooksYAML(hooksPath)
-		if err != nil {
-			result.FailedPosts++
-			continue
-		}
-
-		// Check if already refined
-		if hooks.Metadata.RefinedBy == "gemini" && !opts.Force {
-			result.SkippedPosts++
-			continue
-		}
-
-		if opts.DryRun {
-			fmt.Printf("[DRY RUN] Would refine hooks for %s\n", post.Slug)
-			result.SkippedPosts++
-			continue
-		}
-
-		// Prepare items for refinement (use llm_text instead of brief)
-		var items []gemini.HookItem
-		for slug, hook := range hooks.Hooks {
-			if hook.LLMText != "" {
-				items = append(items, gemini.HookItem{
-					Slug:  slug,
-					Brief: hook.LLMText, // Send llm_text as "brief" to Gemini
-				})
+		alreadyRefined := doc.Metadata.RefinedBy == "gemini" && !opts.Force
+		copied := false
+		var slugs []string
+		for slug, h := range doc.Hooks {
+			if h == nil || strings.TrimSpace(h.LLMText) == "" {
+				continue
 			}
-		}
-
-		if len(items) == 0 {
-			result.SkippedPosts++
-			continue
-		}
-
-		// Refine using Gemini
-		refined, err := r.geminiClient.RefineHooks(ctx, items, opts.Model)
-		if err != nil {
-			fmt.Printf("Failed to refine %s: %v\n", post.Slug, err)
-			result.FailedPosts++
-			continue
-		}
-
-		// Update hooks with refined text
-		anyUpdated := false
-		for _, refinedItem := range refined {
-			if hook, exists := hooks.Hooks[refinedItem.Slug]; exists && refinedItem.Text != "" {
-				hook.Text = refinedItem.Text
-				hooks.Hooks[refinedItem.Slug] = hook
-				anyUpdated = true
-			}
-		}
-
-		if !anyUpdated {
-			result.FailedPosts++
-			continue
-		}
-
-		// Update metadata
-		hooks.Metadata.RefinedBy = "gemini"
-		hooks.Metadata.RefinedAt = time.Now()
-
-		// Save updated hooks
-		if err := processor.SaveHooksYAML(hooksPath, hooks); err != nil {
-			fmt.Printf("Failed to save refined hooks for %s: %v\n", post.Slug, err)
-			result.FailedPosts++
-			continue
-		}
-
-		fmt.Printf("Successfully refined hooks for %s\n", post.Slug)
-		result.ProcessedPosts++
-	}
-
-	result.Duration = time.Since(startTime)
-	return result, nil
-}
-
-// refineBatched collects hooks across multiple posts and refines them in batches
-func (r *Refiner) refineBatched(ctx context.Context, postPaths []models.PostPath, opts RefineOptions, startTime time.Time) (*RefineResult, error) {
-	result := &RefineResult{}
-
-	// Collect all hooks with their file paths
-	type hookWithPath struct {
-		slug     string
-		llmText  string
-		hookPath string
-		hookSlug string
-	}
-
-	var allHooks []hookWithPath
-	hookPathMap := make(map[string]*processor.HooksDocument)
-
-	fmt.Printf("Collecting hooks from %d posts...\n", len(postPaths))
-
-	for _, postPath := range postPaths {
-		hooksPath := filepath.Join(filepath.Dir(string(postPath)), "sidebar-hooks.yaml")
-
-		// Check if hooks file exists
-		if _, err := os.Stat(hooksPath); os.IsNotExist(err) {
-			continue
-		}
-
-		// Load existing hooks
-		hooks, err := processor.LoadHooksYAML(hooksPath)
-		if err != nil {
-			fmt.Printf("  Warning: failed to load hooks from %s: %v\n", hooksPath, err)
-			continue
-		}
-
-		// Store the hooks file for later updating
-		hookPathMap[hooksPath] = hooks
-
-		// Collect hooks with llm_text
-		for slug, hook := range hooks.Hooks {
-			if hook.LLMText != "" {
-				post, _ := r.postManager.ReadPost(postPath)
-				postSlug := ""
-				if post != nil {
-					postSlug = post.Slug
+			if directPublishHook(h, doc.Metadata.ModelName) {
+				if h.Text != h.LLMText {
+					h.Text = h.LLMText
+					copied = true
 				}
-				allHooks = append(allHooks, hookWithPath{
-					slug:     postSlug,
-					llmText:  hook.LLMText,
-					hookPath: hooksPath,
-					hookSlug: slug,
-				})
+				continue
+			}
+			if !alreadyRefined && shouldRefineHook(h, doc.Metadata.ModelName) {
+				slugs = append(slugs, slug)
 			}
 		}
+		sort.Strings(slugs)
+		if copied {
+			docs[path] = doc
+		}
+		if len(slugs) == 0 {
+			if copied {
+				continue
+			}
+			result.SkippedPosts++
+			continue
+		}
+		begin := len(entries)
+		for _, slug := range slugs {
+			entries = append(entries, hookEntry{path, slug, doc.Hooks[slug].LLMText})
+		}
+		groups = append(groups, [2]int{begin, len(entries)})
+		docs[path] = doc
 	}
-
-	if len(allHooks) == 0 {
-		fmt.Printf("No hooks with llm_text found\n")
-		result.SkippedPosts = len(postPaths)
-		result.Duration = time.Since(startTime)
+	if len(docs) == 0 {
 		return result, nil
 	}
-
-	fmt.Printf("Collected %d hooks with llm_text\n", len(allHooks))
-
-	// Process in batches
-	totalBatches := (len(allHooks) + opts.BatchSize - 1) / opts.BatchSize
-	fmt.Printf("Processing in %d batches of %d...\n\n", totalBatches, opts.BatchSize)
-
-	refinedCount := 0
-	for batchIdx := 0; batchIdx < len(allHooks); batchIdx += opts.BatchSize {
-		end := batchIdx + opts.BatchSize
-		if end > len(allHooks) {
-			end = len(allHooks)
+	if opts.DryRun {
+		fmt.Printf("[DRY RUN] Would save %d files, polishing/comparing %d hooks (threshold > %.2f)\n", len(docs), len(entries), threshold)
+		result.SkippedPosts += len(docs)
+		return result, nil
+	}
+	if len(entries) > 0 {
+		if r.geminiClient == nil {
+			return result, fmt.Errorf("Gemini API key not configured")
+		}
+		if r.prepareEmbedding != nil {
+			r.embedder, err = r.prepareEmbedding(ctx)
+			if err != nil {
+				return result, err
+			}
+		}
+		if r.embedder == nil {
+			return result, fmt.Errorf("local embedding client not configured")
+		}
+		if opts.BatchSize > 0 {
+			groups = nil
+			for i := 0; i < len(entries); i += opts.BatchSize {
+				end := i + opts.BatchSize
+				if end > len(entries) {
+					end = len(entries)
+				}
+				groups = append(groups, [2]int{i, end})
+			}
+		}
+		for _, g := range groups {
+			var items []gemini.HookItem
+			for i := g[0]; i < g[1]; i++ {
+				items = append(items, gemini.HookItem{Slug: fmt.Sprint(i), Brief: entries[i].text})
+			}
+			refined, err := r.geminiClient.RefineHooks(ctx, items, opts.Model)
+			if err != nil {
+				return result, err
+			}
+			texts, err := validateResponse(items, refined)
+			if err != nil {
+				return result, err
+			}
+			for i := g[0]; i < g[1]; i++ {
+				entries[i].text = texts[fmt.Sprint(i)]
+			}
+			fmt.Printf("Polished %d hooks\n", len(items))
+		}
+		vectors := make([][]float64, len(entries))
+		for i, h := range entries {
+			if err := ctx.Err(); err != nil {
+				return result, err
+			}
+			v, err := r.embedder.GenerateEmbedding(ctx, h.text)
+			if err != nil {
+				return result, fmt.Errorf("embed hook %d: %w", i, err)
+			}
+			vectors[i], err = normalize(v)
+			if err != nil {
+				return result, err
+			}
+			if i > 0 && len(vectors[i]) != len(vectors[0]) {
+				return result, fmt.Errorf("inconsistent embedding dimensions")
+			}
+		}
+		if err := r.resolveCollisions(ctx, entries, vectors, docs, threshold, opts.Model, result); err != nil {
+			return result, err
 		}
 
-		batch := allHooks[batchIdx:end]
-		batchNum := (batchIdx / opts.BatchSize) + 1
+	}
 
-		fmt.Printf("Batch %d/%d (%d hooks)...\n", batchNum, totalBatches, len(batch))
-
-		// Prepare items for Gemini (use llm_text as "brief")
-		var items []gemini.HookItem
-		for _, h := range batch {
-			items = append(items, gemini.HookItem{
-				Slug:  h.hookSlug,
-				Brief: h.llmText,
-			})
+	for _, h := range entries {
+		doc := docs[h.path]
+		hook := doc.Hooks[h.slug]
+		hook.Text = h.text
+		doc.Hooks[h.slug] = hook
+	}
+	refinedPaths := map[string]bool{}
+	for _, h := range entries {
+		refinedPaths[h.path] = true
+	}
+	var files []string
+	for path := range docs {
+		files = append(files, path)
+	}
+	sort.Strings(files)
+	for _, path := range files {
+		doc := docs[path]
+		if refinedPaths[path] {
+			doc.Metadata.RefinedBy = "gemini"
+			doc.Metadata.RefinedAt = time.Now().UTC()
 		}
-
-		if opts.DryRun {
-			fmt.Printf("  [DRY RUN] Would refine %d hooks\n", len(items))
-			refinedCount += len(items)
-			continue
-		}
-
-		// Call Gemini API
-		refined, err := r.geminiClient.RefineHooks(ctx, items, opts.Model)
-		if err != nil {
-			fmt.Printf("  ✗ Batch failed: %v\n", err)
+		if err := processor.SaveHooksYAML(path, doc); err != nil {
 			result.FailedPosts++
+			return result, err
+		}
+		result.ProcessedPosts++
+	}
+	return result, nil
+}
+func validateResponse(items []gemini.HookItem, response []gemini.RefinedHookItem) (map[string]string, error) {
+	expected := map[string]bool{}
+	for _, item := range items {
+		expected[item.Slug] = true
+	}
+	texts := map[string]string{}
+	for _, item := range response {
+		if !expected[item.Slug] || texts[item.Slug] != "" || strings.TrimSpace(item.Text) == "" {
+			return nil, fmt.Errorf("invalid Gemini response for hook %q", item.Slug)
+		}
+		texts[item.Slug] = item.Text
+	}
+	if len(texts) != len(expected) {
+		return nil, fmt.Errorf("incomplete Gemini response: got %d of %d hooks", len(texts), len(expected))
+	}
+	return texts, nil
+}
+func normalize(v []float32) ([]float64, error) {
+	var sum float64
+	for _, x := range v {
+		sum += float64(x) * float64(x)
+	}
+	if sum == 0 || math.IsNaN(sum) || math.IsInf(sum, 0) {
+		return nil, fmt.Errorf("invalid embedding: empty, zero, or non-finite vector")
+	}
+	out := make([]float64, len(v))
+	for i, x := range v {
+		out[i] = float64(x) / math.Sqrt(sum)
+	}
+	return out, nil
+}
+func dot(a, b []float64) float64 {
+	var sum float64
+	for i := range a {
+		sum += a[i] * b[i]
+	}
+	return sum
+}
+
+// Per-hook provenance takes precedence over the document default. Force only
+// overrides prior refinement, never the direct-publication model exclusion.
+func shouldRefineHook(h *models.Hook, defaultModel string) bool {
+	if h == nil || strings.TrimSpace(h.LLMText) == "" {
+		return false
+	}
+	model := strings.TrimSpace(h.ModelName)
+	if model == "" {
+		model = strings.TrimSpace(defaultModel)
+	}
+	return !directPublishModel(model)
+}
+
+func directPublishHook(h *models.Hook, defaultModel string) bool {
+	model := strings.TrimSpace(h.ModelName)
+	if model == "" {
+		model = strings.TrimSpace(defaultModel)
+	}
+	return directPublishModel(model)
+}
+func directPublishModel(model string) bool {
+	model = strings.ToLower(strings.TrimSpace(model))
+	return strings.Contains(model, "gemini") || model == "recursive/flint-v1.0:free"
+}
+
+// Each rewrite is checked against every other hook, including later hooks.
+// Bound retries so a stubborn collision cannot consume unlimited API calls.
+const maxCollisionRewrites = 3
+
+func (r *Refiner) resolveCollisions(ctx context.Context, entries []hookEntry, vectors [][]float64, docs map[string]*processor.HooksDocument, threshold float64, model string, result *RefineResult) error {
+	rejected := make([][]string, len(entries))
+	attempts := make([]int, len(entries))
+	for j := 1; j < len(entries); j++ {
+		first := -1
+		for i := 0; i < j; i++ {
+			if dot(vectors[i], vectors[j]) > threshold {
+				first = i
+				break
+			}
+		}
+		if first < 0 {
 			continue
 		}
-
-		// Update the hooks in memory
-		for _, ref := range refined {
-			for _, h := range batch {
-				if h.hookSlug == ref.Slug {
-					hooks := hookPathMap[h.hookPath]
-					if hook, exists := hooks.Hooks[h.hookSlug]; exists {
-						hook.Text = ref.Text
-						hooks.Hooks[h.hookSlug] = hook
-					}
+		for {
+			if err := ctx.Err(); err != nil {
+				return err
+			}
+			if attempts[j] >= maxCollisionRewrites {
+				return fmt.Errorf("hook %s in %s still exceeds similarity threshold %.2f after %d rewrites; no hook files saved", entries[j].slug, entries[j].path, threshold, maxCollisionRewrites)
+			}
+			rejected[j] = append(rejected[j], entries[j].text)
+			result.CollisionPairs++
+			fmt.Printf("Semantic collision %d / %d: %.4f (rewrite %d/%d)\n", first, j, dot(vectors[first], vectors[j]), attempts[j]+1, maxCollisionRewrites)
+			reference := gemini.HookItem{Slug: fmt.Sprint(first), Brief: docs[entries[first].path].Hooks[entries[first].slug].Brief, Text: entries[first].text}
+			target := gemini.HookItem{Slug: fmt.Sprint(j), Brief: docs[entries[j].path].Hooks[entries[j].slug].Brief, Text: entries[j].text, AvoidExamples: append([]string(nil), rejected[j]...)}
+			response, err := r.geminiClient.RewriteCollision(ctx, reference, target, model)
+			if err != nil {
+				return err
+			}
+			texts, err := validateResponse([]gemini.HookItem{target}, response)
+			if err != nil {
+				return err
+			}
+			entries[j].text = texts[target.Slug]
+			attempts[j]++
+			result.RewrittenHooks++
+			v, err := r.embedder.GenerateEmbedding(ctx, entries[j].text)
+			if err != nil {
+				return err
+			}
+			vectors[j], err = normalize(v)
+			if err != nil {
+				return err
+			}
+			if len(vectors[j]) != len(vectors[0]) {
+				return fmt.Errorf("inconsistent embedding dimensions")
+			}
+			// Restart the scan after every rewrite: it may collide with a different hook.
+			first = -1
+			for i := range entries {
+				if i != j && dot(vectors[i], vectors[j]) > threshold {
+					first = i
 					break
 				}
 			}
-		}
-
-		refinedCount += len(refined)
-		fmt.Printf("  ✓ Refined %d hooks\n", len(refined))
-	}
-
-	// Write all updated hooks files
-	fmt.Printf("\nWriting updated hooks to %d files...\n", len(hookPathMap))
-	for hooksPath, hooks := range hookPathMap {
-		if !opts.DryRun {
-			hooks.Metadata.RefinedBy = "gemini"
-			hooks.Metadata.RefinedAt = time.Now().UTC()
-
-			if err := processor.SaveHooksYAML(hooksPath, hooks); err != nil {
-				fmt.Printf("  ✗ Failed to save %s: %v\n", hooksPath, err)
-				result.FailedPosts++
-			} else {
-				result.ProcessedPosts++
+			if first < 0 {
+				break
 			}
 		}
 	}
-
-	result.Duration = time.Since(startTime)
-	fmt.Printf("\n✓ Refined %d hooks across %d files in %v\n", refinedCount, result.ProcessedPosts, result.Duration)
-
-	return result, nil
+	return nil
 }

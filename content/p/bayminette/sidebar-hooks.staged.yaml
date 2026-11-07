@@ -1,0 +1,62 @@
+metadata:
+  generated_at: "2026-11-06T20:24:41.976451Z"
+  generator_version: 1.0.0
+  post_slug: bayminette
+  main_date: "2022-12-10"
+  model_name: plugsky-lite
+hooks:
+  delight:
+    brief: |-
+      THE CONFLICT: Fairhope taxpayers face a $10 million federal lawsuit filed on Oct. 27 concerning Gables on Lawrence and Skyline Village; previous incident involved the Triangle costing taxpayers $11.25 million.
+      THE DISCOVERY: Widget Article is older than Main Article (implied by temporal context rule) but focuses on Fairhope financial mismanagement, not Bay Minette land deals.
+      THE PIVOT: Widget Article establishes a pattern of financial controversy and rule-changing within local Alabama government (Fairhope), setting a tone of taxpayer vulnerability and political disregard that underpins the Bay Minette self-dealing allegations in the Main Article.
+      KEY ENTITIES: Fairhope, Mayor Can't, Hand Anderall Sale, Attorney Cain O’Rear, Single Tax Corporation, Bob Wills, Guy Busby, Baldwin County Commission, Commissioner Billie Jo Underwood, Commissioner Jeb Ball, Cliff McCollum, Robert A. Wills, Sr.
+    llm_text: Fairhope taxpayers now face a $10 million lawsuit over Gables and Skyline Village. Discover this pattern of local financial mismanagement before the Bay Minette self-dealing allegations take center stage.
+    widget_date: "2022-11-04"
+    generated_at: "2026-11-06T20:23:42.755001Z"
+    model_name: plugsky-lite
+  veterans-day-in-alabama:
+    brief: |-
+      THE CONFLICT:
+      - Article 1 reports that on Tuesday, Nov. 16, the Baldwin County Commission voted to lease a building on D’Olive Street in Bay Minette to the Baldwin County Legislative Delegation.
+      - The initial resolution called for the Baldwin County Commission and Baldwin County Legislative Delegation to split the lease cost.
+      - The delegation later agreed to pay the entire cost.
+      - The lease cost is $49,080 per year, $245,400 total over five years, or $4,090 per month.
+      - The delegation sought to have half of the cost paid by the commission; half of $245,400 is $122,700.
+      - The lease with Robert A. Wills, Sr. grants the delegation through the County Commission the first floor, parking lot, and grounds of 125 D’Olive Street from Jan. 1, 2023, to Dec. 31, 2027.
+      - The building is reportedly owned by Mayor Bob Wills, according to the Lagniappe excerpt in Article 1.
+      - Article 1 states Mayor Bob Wills has an outstanding ethics complaint involving his office and personal gain, and an Alabama Bar complaint is hanging over him.
+      - Article 1 mentions the Baldwin County Major Crimes Unit, the Baldwin County Commission, the City of Bay Minette, Mayor and Council, and O J French.
+      - Article 1 mentions Mayor Bob Wills’ priority to build a justice center and support the 903-bed new jail to be located downtown.
+
+      THE DISCOVERY:
+      - Article 2, “Veterans Day In Alabama,” is older than Article 1.
+      - Article 2 content states Veterans Day is November 11th.
+      - Article 2 image context: red map of Alabama divided into counties overlaid on blurred background of two soldiers in uniform saluting.
+
+      THE PIVOT:
+      - Article 2 is older and should be framed as background/historical context for Article 1.
+      - Article 2 revealed the Veterans Day date and military imagery, but did not mention Mayor Bob Wills, the lease, or the Baldwin County Commission.
+      - Article 2 is the smoking gun or key context for Article 1 because it provides older background context for the related patriotic/holiday framing in Article 1.
+
+      THE KEY ENTITIES:
+      - Bob Wills, Mayor of Bay Minette.
+      - Robert A. Wills, Sr., landlord/lessor.
+      - Baldwin County Commission.
+      - Baldwin County Legislative Delegation.
+      - Billie Jo Underwood, Baldwin County Commissioner.
+      - Jeb Ball, Baldwin County Commissioner.
+      - Cliff McCollum, Director of Constituent Services, Baldwin County Legislative Delegation.
+      - Alabama Attorney General’s Office.
+      - Alabama Ethics Commission.
+      - O J French.
+      - Baldwin County Major Crimes Unit.
+      - City of Bay Minette.
+      - Baldwin County.
+      - Bay Minette.
+      - Fairhope.
+      - Alabama.
+    llm_text: The Baldwin County Commission voted to lease 125 D’Olive Street to the Baldwin County Legislative Delegation, but Mayor Bob Wills pushed a justice center and a new downtown jail. Now Veterans Day in Alabama gives that lease a patriotic backdrop, and ethics complaints and an Alabama Bar complaint hang over the mayor.
+    widget_date: "2022-11-04"
+    generated_at: "2026-11-06T20:24:33.038735Z"
+    model_name: recursive/flint-v1.0:free

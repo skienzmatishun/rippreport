@@ -1,0 +1,221 @@
+metadata:
+  generated_at: "2026-11-06T23:47:02.559310Z"
+  generator_version: 1.0.0
+  post_slug: talking-heads
+  main_date: "2022-05-18"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  shooting-yourself-in-the-foot:
+    brief: |-
+      THE CONFLICT:
+      Chris Elliott and Tucker Dorsey formed a block vote of two; they had prior meetings before being sworn into office; they covered for Sen. Trip Pittman who took BP contracts during the oil spill of 2010; Pittman eventually resigned.
+
+      THE DISCOVERY:
+      In 2007, Jeb Ball started Baldwin Substance Abuse Services Inc. (BSAS), a no-bid contract certified by the Administrative Office of Courts, which provides court-ordered drug/alcohol classes; BSAS was founded by Judge Michell Thomason and is a brainchild of judges/lawyers; Ball and Johnathan Armstrong share a business interest in BSAS, creating a conflict of interest if they become commissioners.
+
+      THE PIVOT:
+      Article 2 established the conflict of interest (BSAS/two paychecks/Catalyst control) involving Jeb Ball and Johnathan Armstrong; Article 1 warns that Ball and Armstrong, if elected on the panel of four commissioners, will form a block vote and suffer the same institutional deadlock issues noted in the past (e.g., Elliott and Dorsey).
+
+      KEY ENTITIES:
+      Baldwin County; Chris Elliott; Tucker Dorsey; Sen. Trip Pittman; Jeb Ball; Johnathan Armstrong; Steve Carney; Matt McKenzie; Catalyst; Baldwin Substance Abuse Services Inc. (BSAS); Judge Michell Thomason; BCSA; Daphne.
+    llm_text: Judge Michell Thomason founded BSAS, which Jeb Ball and Johnathan Armstrong share a business interest in. If they become commissioners, they will form a block vote, risking the same institutional deadlock Chris Elliott and Tucker Dorsey faced.
+    widget_date: "2022-05-17"
+    generated_at: "2026-11-06T23:38:22.202850Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bsp-128:
+    brief: |-
+      THE CONFLICT:
+      *   Chris Elliott and Tucker Dorsey formed a block vote prior to being sworn into office.
+      *   Staff reported Sen. Trip Pittman for taking BP contracts during the 2010 oil spill.
+      *   Elliott and Dorsey covered for Pittman.
+      *   Pittman resigned.
+
+      THE DISCOVERY:
+      *   Novelis is building a $2.5 Billion low-carbon aluminum plant in Bay Minette, Alabama, on the Baldwin County Megasite.
+      *   The Baldwin County Commission previously repealed the Comprehensive Plan.
+      *   A Public Hearing was scheduled for May 19th regarding the expansion of Baldwin County Sewer Service Fort Morgan Plant.
+
+      THE PIVOT:
+      *   Article 2 provides historical context of major Baldwin County infrastructure decisions (e.g., Megasite, Comprehensive Plan repeal) and local governance activity, preceding the current political debate in Article 1 regarding insufficient representation (4 commissioners) and the risk of deadlock.
+
+      KEY ENTITIES:
+      *   Baldwin County
+      *   Chris Elliott
+      *   Tucker Dorsey
+      *   Sen. Trip Pittman
+      *   Jeb Ball
+      *   Johnathan Armstrong
+      *   Steve Carey
+      *   Matt McKenzie
+      *   Novelis
+      *   Lance LaCour
+      *   Bay Minette
+      *   Baldwin County Megasite
+    llm_text: Chris Elliott and Tucker Dorsey covered for Sen. Trip Pittman regarding his BP contracts, leading to his resignation. Learn how Baldwin County's history—like the $2.5B Novelis plant in Bay Minette—created the current political deadlock over the Megasite.
+    widget_date: "2022-05-15"
+    generated_at: "2026-11-06T23:41:15.276603Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  total-darkness:
+    brief: |-
+      THE CONFLICT:
+      1. Chris Elliott and Tucker Dorsey formed a block vote after prior meetings before being sworn into office.
+      2. Sen. Trip Pittman took BP contracts during the oil spill of 2010, covered up by Elliott and Tucker.
+      3. Steve Marshall, Alabama AG, was appointed by Love Gov Bentley and has failed to address white collar crime and political corruption.
+      4. A boating accident involving 5 juveniles occurred on January 22, 2021, in Fairhope.
+
+      THE DISCOVERY:
+      1. Jack Burrell and Mayor Sullivan (Fairhope) prevented online meetings of the Fairhope Airport Authority (FAA) using executive sessions, violating open meeting laws.
+      2. The Burrell deal involved purchasing $2.65 million of farmland by the Airport Authority.
+      3. The FAA is currently in a protracted negotiation to unwind legal issues created by Councilman Burrell and Mayor Sullivan.
+      4. The FBO renewed a lease with the FAA in 2018, despite Jack Burrell initially defending the FBO.
+
+      THE PIVOT:
+      1. Article 2 establishes a pattern of political darkness and lack of transparency in Alabama (Marshall, Burrell/Sullivan, FAA violations) prior to the discussion in Article 1.
+      2. This context validates the concerns raised in Article 1 regarding potential block voting and lack of representation in Baldwin County, suggesting systemic issues rather than isolated incidents.
+
+      KEY ENTITIES:
+      1. Chris Elliott
+      2. Tucker Dorsey
+      3. Sen. Trip Pittman
+      4. Steve Marshall
+      5. Love Gov Bentley
+      6. Jack Burrell
+      7. Mayor Sullivan
+      8. Fairhope Airport Authority (FAA)
+      9. Jeb Ball
+      10. Johnathan Armstrong
+      11. Steve Carey
+      12. Matt McKenzie
+      13. Baldwin County
+      14. Alabama Attorney General
+      15. ALEA (Alabama Law Enforcement Agency)
+    llm_text: Jack Burrell and Mayor Sullivan hid FAA meetings, violating open laws during a $2.65M land purchase. This Fairhope Airport Authority mess reveals systemic Alabama corruption, linking to Sen. Trip Pittman's past BP contract issues.
+    widget_date: "2022-01-26"
+    generated_at: "2026-11-06T23:42:38.484873Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  columbia-questions-and-documents:
+    brief: |-
+      THE CONFLICT: Chris Elliott and Tucker Dorsey formed a block vote; they covered up Sen. Trip Pittman taking BP contracts during the 2010 oil spill; Pittman later resigned.
+      THE DISCOVERY: Columbia, Alabama, faces allegations of bid-rigging, FEMA fraud, fraudulent bids, and misuse of town funds (e.g., purchasing flowers/gift baskets with town money) which local authorities (City Council, Mayor, AG) have ignored.
+      THE PIVOT: Both articles demonstrate the prevalence of local political corruption and the systemic failure of municipal/county authorities to address misconduct, leading to issues like block voting (Baldwin County) or misappropriation of taxpayer funds (Columbia).
+      KEY ENTITIES: Baldwin County; Columbia, Alabama; Chris Elliott; Tucker Dorsey; Trip Pittman; Jeb Ball; Johnathan Armstrong; Steve Carey; Matt McKenzie; Mayor (Columbia); James Whitehead.
+    llm_text: Chris Elliott and Tucker Dorsey covered up Trip Pittman taking BP contracts in Baldwin County. Meanwhile, Columbia, Alabama faces bid-rigging and misuse of taxpayer funds, proving local corruption never stops.
+    widget_date: "2020-12-23"
+    generated_at: "2026-11-06T23:43:47.695466Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  take-a-chance:
+    brief: |-
+      THE CONFLICT:
+      *   2010: Sen. Trip Pittman took BP contracts during the oil spill.
+      *   Chris Elliott and Tucker Dorsey formed a block vote to cover for Pittman.
+      *   Tucker Dorsey was later voted out of office.
+      *   Current concern: Jeb Ball and Johnathan Armstrong, as commissioners, are expected to form a block vote, potentially causing deadlock on the county commission panel of four (Baldwin County).
+      *   Election date: May 24th, for Matt McKenzie (District Two).
+
+      THE DISCOVERY:
+      *   During the 2020 COVID crisis, local medical community advised against large gatherings (over 8-10) and promoted masks/social distancing.
+      *   The 2020 Arts and Crafts Show was initially canceled by then Mayor Wilson.
+      *   Council President Jack Burrell and Sherry Sullivan attempted to hold the show despite health guidelines, supported by Councilman Robert Brown.
+      *   Sullivan (now Mayor) and Burrell risked public health by planning a large gathering for November 19th, 2021.
+
+      THE PIVOT:
+      *   Article 2 demonstrates a pattern of local political leaders (Sullivan, Burrell, Brown) prioritizing events/political will over public health during a major crisis (2020/2021).
+      *   This historical context reinforces the criticism in Article 1 regarding poor governance, block voting, and lack of independent leadership (Elliott/Dorsey scandal, current Ball/Armstrong risk), suggesting systemic failure in Baldwin County leadership across different crises (public health vs. governmental deadlock).
+
+      KEY ENTITIES:
+      *   Baldwin County
+      *   Chris Elliott
+      *   Tucker Dorsey
+      *   Sen. Trip Pittman
+      *   Jeb Ball
+      *   Johnathan Armstrong
+      *   Matt McKenzie
+      *   Steve Carey
+      *   Jack Burrell
+      *   Sherry Sullivan
+      *   Robert Brown
+      *   Mayor Wilson
+      *   Catalyst
+    llm_text: Sen. Trip Pittman's contract scandal and the Dorsey block vote exposed Baldwin County's governance flaws. Now, Jeb Ball and Johnathan Armstrong risk deadly deadlock; vote Matt McKenzie on May 24th to end this systemic failure.
+    widget_date: "2020-11-18"
+    generated_at: "2026-11-06T23:39:49.165448Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  catalyst-attack:
+    brief: |-
+      THE CONFLICT:
+      *   2010: Oil spill occurred; Sen. Trip Pittman took BP contracts.
+      *   Prior to swearing in: Commissioners Chris Elliott and Tucker Dorsey formed a block vote of two, having prior meetings.
+      *   Elliott and Dorsey covered for Pittman.
+      *   Pittman resigned; Chris Elliott remained unopposed.
+      *   Tucker Dorsey was voted out of office.
+      *   2018: CATALYST attempted and failed to take over county administration.
+      *   2020: CATALYST/CSB lost to Jerry Carl in the congressional race.
+
+      THE DISCOVERY:
+      *   CATALYST/CSB is a profit-making political group representing developer interests (Prebble, DR Horton, Columbia Southern, Truland, Corte, Cox).
+      *   CSB transitioned from CATALYST after a congressional defeat.
+      *   Scott Boone Consulting (CSB) is led by Scott Boone (son of Fairhope councilman Kevin Boone) and is the money distributor for the organization.
+      *   Scott Boone and Kevin Boone are implicated in "Strawman" land fraud (over $1 million).
+      *   The CSB system involves a "Triangle Trade": developers fund politicians, politicians pay Catalyst, and Catalyst maintains control.
+
+      THE PIVOT:
+      *   Article 2 establishes that CSB/CATALYST is an organized, developer-funded political machine that uses block voting, precinct stacking, and intimidation.
+      *   Article 1 warns that Jeb Ball and Johnathan Armstrong will form a block vote, which aligns directly with the historical, corrupt political strategy detailed by CSB (Article 2).
+      *   Article 2 provides the context for the long-standing "good ole boys" political siege Baldwin County has experienced.
+
+      KEY ENTITIES:
+      *   Chris Elliott
+      *   Tucker Dorsey
+      *   Trip Pittman
+      *   Jeb Ball
+      *   Johnathan Armstrong
+      *   Steve Carey
+      *   Matt McKenzie
+      *   CATALYST
+      *   CSB (Scott Boone Consulting)
+      *   Scott Boone
+      *   Kevin Boone
+      *   Baldwin County
+      *   Fairhope
+      *   Daphne
+      *   Spanish Fort
+      *   Bay Minette
+      *   Prebble
+      *   DR Horton
+      *   Columbia Southern
+      *   Truland
+      *   Corte
+      *   Cox
+    llm_text: Scott Boone Consulting (CSB) runs a developer-funded political machine, using "Triangle Trades" and block voting in Baldwin County. Jeb Ball and Johnathan Armstrong now align with this corrupt history, threatening the local control you rely on.
+    widget_date: "2020-08-12"
+    generated_at: "2026-11-06T23:45:16.533762Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wear-a-mask:
+    brief: |-
+      THE CONFLICT:
+      *   In 2010, Sen. Trip Pittman took BP contracts during the oil spill.
+      *   Commissioners Chris Elliott and Tucker Dorsey formed a block vote of two and covered for Pittman.
+      *   Pittman eventually resigned.
+      *   Tucker Dorsey was later voted out of office.
+
+      THE DISCOVERY:
+      *   The Widget Article (older) documented a public health crisis (COVID-19) where refusal to wear masks and congregate was spiking case numbers.
+      *   This behavior endangered vulnerable populations, specifically the older generation, restricting their "Golden Years."
+
+      THE PIVOT:
+      *   The historical context of public health responsibility (Article 2) frames the contemporary political debate (Article 1) as a failure of collective responsibility; just as mask refusal harms the community, potential block voting by candidates like Jeb Ball and Johnathan Armstrong will harm Baldwin County.
+
+      KEY ENTITIES:
+      *   Jani Handwerger (Mobile)
+      *   Trip Pittman
+      *   Chris Elliott
+      *   Tucker Dorsey
+      *   Jeb Ball
+      *   Johnathan Armstrong
+      *   Steve Carey
+      *   Matt McKenzie
+      *   Baldwin County Commission
+    llm_text: Trip Pittman took BP contracts in 2010, and Chris Elliott and Tucker Dorsey covered that corruption. This history of failing collective responsibility mirrors the current health crisis; candidates like Jeb Ball and Johnathan Armstrong risk harming Baldwin County's vulnerable older generation.
+    widget_date: "2020-07-08"
+    generated_at: "2026-11-06T23:46:26.802253Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

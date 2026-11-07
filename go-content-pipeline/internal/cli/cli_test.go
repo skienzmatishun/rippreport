@@ -135,3 +135,23 @@ func TestApp_EmailPostRequiresTitle(t *testing.T) {
 		t.Errorf("expected required title error message, got: %s", stderr.String())
 	}
 }
+
+func TestGeminiHookFlags(t *testing.T) {
+	for _, command := range []string{"generate-hooks", "pipeline"} {
+		t.Run(command, func(t *testing.T) {
+			var stdout, stderr bytes.Buffer
+			app := NewApp(&stdout, &stderr)
+			if code := app.Run([]string{"pipeline", command, "--help"}); code != 0 {
+				t.Fatalf("help failed: %s", stderr.String())
+			}
+			for _, flag := range []string{"-plugsky", "-plugsky-model", "-plugsky-max-tokens", "plugsky-lite", "-gemini", "-gemini-model", "-gemini-max-tokens", "gemini-3.5-flash-lite", "-openrouter", "-cloudflare", "-cloudflare-model", "-cloudflare-max-tokens", "-cloudflare-account-id", "@cf/google/gemma-4-26b-a4b-it"} {
+				if !strings.Contains(stdout.String(), flag) {
+					t.Errorf("missing %s", flag)
+				}
+			}
+			if strings.Contains(stdout.String(), "huggingface") {
+				t.Fatal("removed provider still advertised")
+			}
+		})
+	}
+}

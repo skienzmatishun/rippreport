@@ -1,0 +1,51 @@
+metadata:
+  generated_at: "2026-11-06T15:00:58.667533Z"
+  generator_version: 1.0.0
+  post_slug: war
+  main_date: "2025-02-22"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  lt-governor-ainsworth-breaks-with-governor:
+    brief: |-
+      THE CONFLICT:
+      *   Veterans Commissioner Kent Davis filed an ethics complaint with Alabama Ethics Commissioner Kim Boswell.
+      *   Governor Kay Ivey fired Kent Davis.
+      *   The Veterans Board refused to back Ivey's action.
+      *   Ivey sought to strip the Veterans Board of governing power via Senate Bill 67 (sponsored by State Senator Andrew Jones, and also sponsored by Rep. Ed Oliver in the House).
+      *   Lt. Governor Will Ainsworth, Senator April Weaver, and Senator Chris Elliott publicly opposed SB67.
+
+      THE DISCOVERY:
+      *   On February 11, 2025, Lt. Governor Will Ainsworth publicly opposed Governor Ivey's push for Senate Bill 67, which aimed to change the Department of Veterans Affairs (ADVA) structure.
+      *   Currently, the Veterans Board governs the department, but Ivey wanted sole appointment power for the Commissioner.
+
+      THE PIVOT:
+      *   Article 2 establishes that Governor Ivey's move to remove the Veterans Board's power (SB67) was a direct response to the Veterans Board opposing her use of "supreme executive power" to remove Kent Davis.
+      *   Article 1 frames the current legislative effort (cabinet position/advisory role) as the continuation of this initial power struggle documented in Article 2.
+
+      KEY ENTITIES:
+      *   Governor Kay Ivey
+      *   Lt. Governor Will Ainsworth
+      *   Kent Davis (Veterans Commissioner)
+      *   State Senator Andrew Jones
+      *   Rep. Ed Oliver
+      *   Senator April Weaver
+      *   Senator Chris Elliott
+      *   Kim Boswell (Alabama Ethics Commissioner)
+      *   Alabama Department of Veterans Affairs (ADVA)
+      *   Montgomery, AL (Rally location)
+      *   February 11, 2025
+      *   Senate Bill 67 (SB67)
+    llm_text: Governor Kay Ivey tried to strip the Veterans Board of power via Senate Bill 67 after firing Kent Davis. Lt. Governor Will Ainsworth and Senators Weaver and Elliott publicly oppose this move, protecting ADVA governance.
+    widget_date: "2025-02-12"
+    generated_at: "2026-11-06T14:59:31.956003Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-off-the-rails:
+    brief: |-
+      THE CONFLICT: Governor “poison Ivy” used “supreme executive power” to remove ADVA director Admiral Kent Davis; this action was retaliation against the current veterans board which opposed her move to strip veterans representation by creating a cabinet position for the ADVA director and reducing the veterans board to an advisory position.
+      THE DISCOVERY: The State of Alabama approved the Compassion Act on May 17, 2021, allowing medical cannabis for qualified patients, but the legislation became a legal morass, and the Alabama Board of Medical Examiners could not issue the first patient license by 2025.
+      THE PIVOT: Both conflicts illustrate state-level overreach, vindictiveness, and legislative failures (2021 Compassion Act compromise/current veterans representation strip) leading to institutional gridlock and harm to constituents (patients/veterans).
+      KEY ENTITIES: Governor “poison Ivy”; Admiral Kent Davis; Senator Tim Melson (R-Florence); Chey Garrigan (President, Alabama Cannabis Industry Association); Alabama Department of Veterans Affairs (ADVA); Montgomery (rally location).
+    llm_text: Governor "poison Ivy" removed Admiral Kent Davis from ADVA, showing how state overreach harms veterans. This vindictiveness mirrors the Compassion Act's failure, leaving Alabama patients without crucial medical cannabis licenses.
+    widget_date: "2025-02-06"
+    generated_at: "2026-11-06T15:00:47.316120Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,0 +1,140 @@
+metadata:
+  generated_at: "2026-11-06T22:27:39.335809Z"
+  generator_version: 1.0.0
+  post_slug: water
+  main_date: "2022-07-10"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-crime-of-the-century:
+    brief: |-
+      THE CONFLICT: Baldwin County Commission is tearing down a 112-year-old water tower in Fairhope to construct a Jail; local leadership issues involve references to Roy Moore, the AG, State Bar, and Ethics Commission.
+      THE DISCOVERY: The Backstory Podcast reports state-level corruption, including true crime in Clarke County (hospice ties to a judge), Governor Kay Ivey firing Admiral Kent Davis, and chaos within veterans’ programs.
+      THE PIVOT: State-level power struggles and systemic corruption (Clarke County judge/hospice; Ivey/Davis) demonstrate the broader "messy politics" and "good old boy" systems that frame the local governance problems (Fairhope water tower/Jail construction) mentioned in the earlier article.
+      KEY ENTITIES: Baldwin County Commission, Fairhope, Roy Moore, Thomas Hospital, Governor Kay Ivey, Admiral Kent Davis, Backstory Podcast, Clarke County.
+    llm_text: The Baldwin County Commission is demolishing a 112-year-old Fairhope water tower to build a jail. Discover how this local mess connects to deeper state corruption involving Roy Moore and Governor Kay Ivey, revealing systemic power struggles across Alabama.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T22:17:28.605675Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    brief: |-
+      THE CONFLICT:
+      Baldwin County Commission is tearing down the 112-year-old goblet water tower in Fairhope to build a new Jail.
+      Roy Moore is mentioned as a figure in local leadership issues.
+      No Alabama court sessions are scheduled for the coming week due to judges attending a conference in San Destin, Florida.
+
+      THE DISCOVERY:
+      Companies with political ties have received million-dollar contracts, demonstrating corruption in infrastructure and development.
+      The new Baldwin County District Attorney building is part of this development trend.
+      Lawmakers are pushing to strip local control, allowing state leaders to handpick police chiefs.
+
+      THE PIVOT:
+      Article 2 provides context that the infrastructure change (new Jail/DA building) is part of a larger pattern of political corruption and centralized state control, not just local 'progress.'
+      KEY ENTITIES:
+      Baldwin County Commission
+      Fairhope
+      Roy Moore
+      Ms. C.A.
+      Baldwin County District Attorney building
+      AG/State Bar/Ethics Commission (mentioned in Article 1)
+    llm_text: The Baldwin County Commission is demolishing Fairhope's 112-year-old goblet water tower to build a new jail. This project reveals how million-dollar contracts and centralized state control override local power, proving this is corruption, not just progress.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T22:19:29.506439Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    brief: |-
+      THE CONFLICT: Baldwin County Commission plans to tear down a 112-year-old goblet water tower in Fairhope for a new Jail. Concerns regarding local leadership include mention of Roy Moore, the AG, State Bar, and Ethics Commission.
+      THE DISCOVERY: The Alabama Court of Civil Appeals released a decision (today at 1pm) regarding the Mack vs Hadley case, confirming a Brady Violation. This involved the non-disclosure of two autopsies ordered by Sheriff Mack's father (Coroner of Baldwin County in 2005) which were never disclosed to the defense.
+      THE PIVOT: Article 2 provides specific, documented proof of corruption and legal misconduct (theft by BCD Sheriff's Department, Brady Violation) within Baldwin County, directly supporting the general allegations of leadership and political corruption raised in Article 1.
+      KEY ENTITIES: Baldwin County Commission, Fairhope, Roy Moore, AG, State Bar, Ethics Commission, Mack vs Hadley, Baldwin County Sheriff's Department, Sheriff Mack, Coroner of Baldwin County (2005), Alabama Court of Civil Appeals, Mark Fuller (Alabama Federal Judge).
+    llm_text: The Baldwin County Commission plans to tear down Fairhope's 112-year-old water tower for a new jail. A new court decision confirms Sheriff Mack’s department committed a Brady Violation by hiding 2005 autopsies, proving deep local corruption.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T22:20:26.719685Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    brief: |-
+      THE CONFLICT: Baldwin County Commission plans to tear down a 112 year old goblet water tower in Fairhope to construct a Jail; Roy Moore is cited regarding Fairhope leadership problems.
+      THE DISCOVERY: The newer article details current events including arrests of individuals who exposed corruption in a local school district and allegations of misconduct against various officials.
+      THE PIVOT: Article 2 provides context on systemic local government corruption (wrongful arrests, exposure of corruption) linking to the leadership issues and major local infrastructure changes (water tower/Jail) discussed in Article 1.
+      KEY ENTITIES: Baldwin County Commission, Fairhope, Roy Moore, AG, State Bar, Ethics Commission, Thomas Hospital, President Biden, Hunter Biden
+    llm_text: Baldwin County Commission plans to tear down Fairhope's 112-year-old water tower for a new Jail. Local arrests exposing school corruption link to misconduct allegations against officials and Roy Moore.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T22:21:28.914457Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    brief: |-
+      THE CONFLICT: Baldwin County Commission plans to tear down a unique 112-year-old goblet water tower in Fairhope to make way for a Jail.
+      THE DISCOVERY: Podcast No. 186 features discussions on Alabama issues including the closing of rural hospitals and proposed constitutional amendments in Alabama.
+      THE PIVOT: Article 2 provides a wider political and legal context for Alabama (e.g., rural hospital closures, constitutional amendments) relevant to the local governance and leadership issues raised in Article 1.
+      KEY ENTITIES: Baldwin County Commission, Fairhope, Roy Moore, AG, State Bar, Ethics Commission, Ms. C.A., Paul, Thomas Hospital.
+    llm_text: Should Baldwin County Commission tear down Fairhope's unique 112-year-old water tower for a new jail? This local decision connects directly to wider Alabama struggles, including rural hospital closures and proposed constitutional amendments.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T22:18:35.375124Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    brief: |-
+      THE CONFLICT: Baldwin County Commission planned to tear down a 112-year-old goblet water tower in Fairhope to make way for a Jail.
+      THE DISCOVERY: Fairhope is expanding its $9.5M pier remodel. Baldwin County approved thousands of residential lots this week.
+      THE PIVOT: Article 2 confirms ongoing local government actions and development (lot approvals, pier remodel) within Baldwin County and Fairhope, providing current context for the local leadership issues raised regarding the water tower and jail construction in Article 1.
+      KEY ENTITIES: Baldwin County Commission, Fairhope, Roy Moore, Thomas Hospital, Governor Ivey, City of Bay Minette, OJ French Jr., BMPD Officer Brandon Thompson, Andy Ruten, Mayor Bob Wills, Southern Research
+    llm_text: The Baldwin County Commission plans to tear down a 112-year-old Fairhope water tower for a new jail. Learn how the $9.5M pier remodel and thousands of new residential lots complicate this major local development fight.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T22:22:39.443247Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    brief: |-
+      THE CONFLICT: Baldwin County Commission is planning to tear down a 112-year-old goblet water tower in Fairhope to build a Jail. Roy Moore has been criticized regarding Fairhope leadership.
+      THE DISCOVERY: A reward is offered for information regarding the death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama, on May 27, 2022 (Memorial Day Weekend); his body was recovered on May 29, 2022.
+      THE PIVOT: The articles share regional concerns (Baldwin County, Alabama) and reference Thomas Hospital (where Ms. C.A. was recovering), but there is no direct factual link establishing the Williams Jr death mystery as context for the water tower/jail project.
+      KEY ENTITIES: Baldwin County Commission, Fairhope, Roy Moore, Thomas Daniel "Danny" Williams Jr, Orange Beach, Alabama, Ms. C.A., MS-13 Operations
+    llm_text: Baldwin County Commission plans to demolish Fairhope’s 112-year-old water tower to build a new jail. Learn why local leaders face criticism and follow the search for answers regarding Thomas Daniel "Danny" Williams Jr’s unsolved death in Orange Beach.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T22:23:57.796313Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    brief: |-
+      THE CONFLICT:
+      Baldwin County Commission is planning to tear down the 112 year old goblet water tower in Fairhope to construct a Jail.
+      Specific entities mentioned regarding governance include the AG, State Bar, and Ethics Commission.
+
+      THE DISCOVERY:
+      Former Real Admiral and Jag Officer Kent David, Alabama Veterans Affairs Commissioner, is leaving the State due to a whistleblower Ethics Complaint.
+      The Renaissance School in Baldwin County (for special needs kids) has been robbed, possibly an inside job.
+      The Sheriff Department of Baldwin County has a new Command Staff.
+
+      THE PIVOT:
+      The activity and influence of the Ethics Commission (mentioned in the context of the water tower/Jail project) is proven by the recent whistleblower Ethics Complaint that directly impacted the departure of Kent David, highlighting broader local governance instability.
+
+      KEY ENTITIES:
+      Baldwin County Commission
+      Fairhope
+      Roy Moore
+      Ethics Commission
+      Kent David
+      Renaissance School
+      Brandon Moseley
+      Thomas Hospital
+      Alabama Veterans Affairs Commissioner
+    llm_text: Baldwin County Commission plans to tear down Fairhope’s 112-year-old water tower for a jail, but local governance is crumbling. Whistleblower ethics complaints forced Kent David, Alabama Veterans Affairs Commissioner, out, revealing deep instability in Baldwin County.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T22:25:23.733878Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    brief: |-
+      THE CONFLICT: Baldwin County Commission is tearing down a 112-year-old goblet water tower in Fairhope to build a Jail. Issues mentioned include Roy Moore, the AG, State Bar, and Ethics Commission.
+      THE DISCOVERY: Sheriff Mack has one week left in office in Baldwin County, Alabama, and the Governor is currently selecting a replacement.
+      THE PIVOT: The political instability and change in local leadership (Sheriff Mack replacement) provides context for the Baldwin County Commission's infrastructure decisions (water tower removal for a Jail).
+      KEY ENTITIES: Baldwin County Commission, Roy Moore, VP Kamala Harris, Sheriff Mack, Governor, Finebaum, Thomas Hospital, Ms. C.A.
+    llm_text: The Baldwin County Commission plans to tear down a 112-year-old Fairhope water tower to build a jail. With Sheriff Mack leaving next week and the Governor selecting a replacement, local leadership instability drives this major infrastructure decision.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-06T22:26:15.765508Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    brief: |-
+      THE CONFLICT: OJ French Jr. was killed by Bay Minette Police Officer Brandon Thompson during a struggle over a taser after a stop without probable cause.
+      THE DISCOVERY: The French family filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024. Sheriff Mack announced his mid-August resignation, creating a vacancy County Commissioner Matt McKenzie and Chief Deputy Anthony Lowery are vying for.
+      THE PIVOT: The lawsuit regarding Officer Thompson’s actions provides concrete evidence of police misconduct and local governmental failure within Baldwin County, reinforcing the claim in Article 1 about a deep "leadership problem" within the Baldwin County Commission regarding issues like the planned demolition of the 112-year-old water tower for a Jail.
+      KEY ENTITIES: OJ French Jr., Brandon Thompson, Mayor Robert Bob Wills, Sheriff Mack, Anthony Lowery, Matt McKenzie, Roy Moore, Baldwin County Commission, Thomas Hospital, Governor Ivey.
+    llm_text: OJ French Jr. died by Bay Minette Officer Brandon Thompson during a taser struggle after a stop without probable cause. This police misconduct proves Baldwin County’s deep leadership failure, fueling scrutiny over issues like the planned water tower demolition for a jail.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T22:27:18.617739Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

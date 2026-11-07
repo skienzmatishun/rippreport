@@ -1,5 +1,5 @@
 post_slug: dog-and-pony-show
-generated: 2026-11-05T11:32:37.907331-06:00
+generated: 2026-11-05T21:13:54.954185-06:00
 articles:
   - slug: portables-and-prisons
     title: PORTABLES AND PRISONS
@@ -9,23 +9,23 @@ articles:
     title: DIRTY HANDS
     score: 100
     rank: 2
-  - slug: law-and-disorder-part-1
-    title: LAW and DisORDER Part 1
-    score: 69
-    rank: 3
   - slug: one-woman
     title: ONE WOMAN
     score: 50
-    rank: 4
+    rank: 3
   - slug: 100-voices
     title: 100 VOICES
     score: 50
-    rank: 5
+    rank: 4
   - slug: pedaling-forward
     title: PEDALING FORWARD
     score: 50
-    rank: 6
+    rank: 5
   - slug: pedaling-backwards
     title: PEDALING BACKWARDS
+    score: 50
+    rank: 6
+  - slug: jack-gets-an-f-again
+    title: JACK GETS AN F - AGAIN
     score: 50
     rank: 7

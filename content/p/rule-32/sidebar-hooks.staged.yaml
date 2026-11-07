@@ -1,0 +1,80 @@
+metadata:
+  generated_at: "2026-11-06T18:34:16.674788Z"
+  generator_version: 1.0.0
+  post_slug: rule-32
+  main_date: "2023-12-14"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-lie-of-the-century:
+    brief: |-
+      THE CONFLICT: Capital Murder of Eric Hastings (Brandon Hastings) occurred in 2003 in Baldwin County, Alabama. Murray "Bubba" Lawrence was convicted, despite conflicting evidence (Mississippi ME suggested strangulation, not shooting). The State case rested on a co-conspirator's testimony.
+
+      THE DISCOVERY: The 2003 trial involved the withholding of an autopsy report from the defense team of Murray Lawrence, linked to then-DA David Whetstone’s last capital case.
+
+      THE PIVOT: Article 2 (2003) establishes a historical pattern of judicial and investigatory misconduct (withholding evidence/autopsy reports) involving key figures (Whetstone, Wilters, Hoss Mack) in Baldwin County. This context supports the current allegation in Article 1 (November 27, 2023) that evidence was "suppressed willfully rather than inadvertently" in the wrongful conviction of Murray Lawrence.
+
+      KEY ENTITIES:
+      *   Murray Lawrence Jr / Murray "Bubba" Lawrence
+      *   Hoss Mack (Lt/4th Term Boss Hogg Sheriff)
+      *   Robert Wilters (Trial Judge/District Attorney)
+      *   David Whetstone (Prosecutor/Former DA)
+      *   Brandon Hastings / Eric Hastings
+      *   Attorneys Maxwell/Tillman
+      *   Baldwin County, Alabama
+    llm_text: Former DA David Whetstone withheld the crucial autopsy report during Murray "Bubba" Lawrence's 2003 capital trial in Baldwin County. This pattern of judicial misconduct reveals how powerful figures impacted the wrongful conviction of the Hastings family.
+    widget_date: "2023-12-12"
+    generated_at: "2026-11-06T18:31:14.184134Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  baldwin-county-judicial-corruption:
+    brief: |-
+      THE CONFLICT: Wrongful conviction of Murray Lawrence Jr, resulting in over 7500 days (20 years) in jail. Involved parties included Hoss Mack (LEAD INVESTIGATOR/Sheriff), District Attorney Robert Wilters (Judge), and prosecutor David Whetstone.
+      THE DISCOVERY: The Baldwin County Sheriff's office has had 20 years of questioned criminal and loss of life cases, using the Major Crimes Division to avoid accountability. Hoss Mack promised the County Commission $600,000.00 in body and car cameras, which were often not released fully or were edited.
+      THE PIVOT: The previous allegations of systemic corruption in Baldwin County (20 years) provide the historical context and foundation for the specific claim in Article 1 that the evidence regarding Murray Lawrence was "suppressed willfully rather than inadvertently" by Mack, Wilters, and Whetstone, leading to the Rule 32 filing on November 27, 2023.
+      KEY ENTITIES: Murray Lawrence Jr, Hoss Mack, Robert Wilters, David Whetstone, Baldwin County, Maxwell/Tillman (Attorneys), Rule 32 (Alabama Rules of Criminal Procedure)
+    llm_text: Murray Lawrence Jr. served 20 years for a wrongful conviction involving Hoss Mack, Robert Wilters, and David Whetstone. These officials allegedly suppressed evidence willfully, exposing two decades of systemic corruption in Baldwin County.
+    widget_date: "2023-12-07"
+    generated_at: "2026-11-06T18:32:29.158663Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-huey-boss-mack-secret-police-2:
+    brief: |-
+      THE CONFLICT:
+      *   Murray Lawrence Jr. was wrongfully convicted and incarcerated for over 7500 days (20 years).
+      *   Sheriff Hoss Mack leads the Baldwin County Sheriff’s Office (BCSO).
+      *   BCSO incidents cited include Jonathan Victor (May 2017, deceased, shot unarmed) and Robert Yates (March 5, 2018, deceased, shot without probable cause).
+      *   Sheriff Mack secured his second term with help from State Senator Trip Pittman, who legislatively recorded qualifications eliminating 99.5% of competition.
+
+      THE DISCOVERY:
+      *   The 2021 article established BCSO under Huey “Hoss” Mack operates under a "SECRET POLICE" model.
+      *   On September 30, 2021, Chief Justice Tom Parker ruled broadly interpreting the investigative privilege statute, potentially limiting citizens' statutory right to access law enforcement records (body cam, 911 transcripts).
+      *   Mack Funeral Home, a private business of Sheriff Mack, was awarded a county contract to handle deceased persons, indicating a conflict of interest with the County Commission.
+
+      THE PIVOT:
+      *   The 2021 article established a systemic culture of restricted public access and lack of accountability within BCSO.
+      *   This context supports the 2023 Rule 32 petition, where the evidence was allegedly "suppressed willfully rather than inadvertently" and never disclosed to Murray Lawrence’s defense.
+
+      KEY ENTITIES:
+      *   Murray Lawrence Jr.
+      *   Hoss Mack (Huey Mack)
+      *   Robert Wilters (District Attorney)
+      *   David Whetstone (Prosecutor)
+      *   Attorneys Maxwell/Tillman
+      *   Jarius McNeil
+      *   State Senator Trip Pittman
+      *   Chief Justice Tom Parker
+      *   Judge William Cassady
+      *   Jonathan Victor (May 2017)
+      *   Robert Yates (March 5, 2018)
+    llm_text: Murray Lawrence Jr. spent 20 years wrongfully incarcerated while Sheriff Hoss Mack’s BCSO oversaw the deaths of Jonathan Victor and Robert Yates. Chief Justice Tom Parker's ruling limits public access to law enforcement records, fueling questions about Mack’s "secret police" system and county contracts.
+    widget_date: "2023-11-20"
+    generated_at: "2026-11-06T18:33:59.236744Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  innocent:
+    brief: |-
+      THE CONFLICT: Murray Lawrence convicted of capital murder on May 13, 2005, regarding the May 6, 2003, murder of Brandon Hastings in Baldwin County, Alabama.
+      THE DISCOVERY: Article 2 details the initial investigation found no physical evidence (fingerprints, DNA, ballistics) connecting Murray Lawrence to the crime, and the trial timeline contradicted his ability to travel to the scene/disposal site.
+      THE PIVOT: Article 2 established the initial flawed investigation and reliance on accomplice Jarius McNeil; Article 1 reveals that key authorities (Hoss Mack, DA Robert Wilters, David Whetstone) knowingly and willfully suppressed evidence to secure a conviction, leading to his 7500+ days in jail.
+      KEY ENTITIES: Murray Lawrence Jr, Hoss Mack (Lt/Sheriff of BCSO), Jarius McNeil, Brandon Hastings, David Whetstone (Prosecutor/Retired DA), Robert Wilters (Judge/Current DA), Willy Huntley (Defense Attorney), Maxwell/Tillman (Current Defense Attorneys)
+    llm_text: Hoss Mack and DA Robert Wilters knowingly suppressed evidence against Murray Lawrence, who served over 7500 days for Brandon Hastings' 2003 murder. See how a flawed investigation secured a wrongful capital murder conviction.
+    widget_date: "2022-04-22"
+    generated_at: "2026-11-06T18:30:29.568388Z"
+    model_name: plugsky-lite

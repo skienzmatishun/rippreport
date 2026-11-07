@@ -1,5 +1,5 @@
 post_slug: ayatollah-of-alabama
-generated: 2026-11-05T11:33:40.870419-06:00
+generated: 2026-11-05T21:14:43.647022-06:00
 articles:
   - slug: banned-from-the-mall
     title: BANNED FROM THE MALL
@@ -13,19 +13,19 @@ articles:
     title: LITTLE CHOICE
     score: 92
     rank: 3
-  - slug: blood-in-the-water
-    title: BLOOD IN THE WATER
-    score: 90
-    rank: 4
   - slug: black-hole
     title: BLACK HOLE
     score: 50
-    rank: 5
+    rank: 4
   - slug: ethics-comedians
     title: ETHICS COMEDIANS
     score: 50
-    rank: 6
+    rank: 5
   - slug: pandemic-corruption
     title: PANDEMIC CORRUPTION
+    score: 50
+    rank: 6
+  - slug: blood-in-the-water
+    title: BLOOD IN THE WATER
     score: 50
     rank: 7

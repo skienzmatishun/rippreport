@@ -1,0 +1,37 @@
+metadata:
+  generated_at: "2026-11-06T14:19:46.821521Z"
+  generator_version: 1.0.0
+  post_slug: notice
+  main_date: "2025-05-04"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  baldwin-county-dhr-lawsuit:
+    brief: |-
+      THE CONFLICT: Two minor children (then 13 and 11) were left unprotected for over five months in mother's custody despite clear signs of abuse and law enforcement involvement in Baldwin County.
+      THE DISCOVERY: Systemic failures were revealed in Baldwin County’s court system, DHR, and GAL systems, leading to the formation of a federal class action lawsuit against DHR.
+      THE PIVOT: Article 2 provides the historical context of systemic failure in Baldwin County that Article 1's reporting (The Ripp Report/Francis Paul Ripp) addresses, which was complicated by the loss of Facebook platform access.
+      KEY ENTITIES: Baldwin County; DHR; GAL; Baldwin County Family Court Reform Project; The Ripp Report; Francis Paul Ripp; Spanish Fort (law firm location).
+    llm_text: Two children suffered five months of unprotected neglect in Baldwin County despite clear abuse signs. DHR's systemic failures led to a federal class action lawsuit, detailed by Francis Paul Ripp.
+    widget_date: "2025-04-03"
+    generated_at: "2026-11-06T14:17:19.117559Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  failing-our-children-in-baldwin-county:
+    brief: |-
+      THE CONFLICT: Daughter exposed to sexual intercourse and explicit materials under two mothers over five months; Mother arrested on January 10, 2024, for Domestic Family Violence; GAL meeting occurred on May 9, 2024; Father's family law case (Case #DR-2017-900956.03) was dismissed despite lack of legal representation.
+      THE DISCOVERY: Systemic failures were evident in Baldwin County, Alabama, involving DHR (lack of home inspections/interviews), law enforcement (Daphne Police Dept., Case #230 700 147), and the family court system, which failed to protect vulnerable children despite forensic admissions.
+      THE PIVOT: The systemic child endangerment and lack of judicial/agency accountability detailed in Article 2 are the critical events driving the public reporting and media focus of The Ripp Report (Article 1), which is now adapting its online presence due to Facebook blocks.
+      KEY ENTITIES: Baldwin County, Alabama; Department of Human Resources (DHR); Detective Trey Kraynak (Daphne Police Department); Guardian Ad Litem (GAL); The Ripp Report / Francis Paul Ripp; Alta Pointe Health; Baldwin County Sheriff Department; Loxley Police Department.
+    llm_text: Baldwin County DHR and family court failed a vulnerable child exposed to sexual material under two mothers. Detective Trey Kraynak's investigation reveals systemic failures across law enforcement and DHR, demanding immediate accountability.
+    widget_date: "2025-03-21"
+    generated_at: "2026-11-06T14:18:33.214315Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  mia:
+    brief: |-
+      THE CONFLICT: Meta (Facebook) locked out social media pages, specifically The Ripp Report and F. Paul Ripp.
+      THE DISCOVERY: The initial lockout occurred during a two-month MIA period, following F. Paul Ripp's 14th shoulder operation on Nov. 4th, which required about 4 weeks recovery, followed by 4 weeks of vertigo.
+      THE PIVOT: Article 2 establishes the specific personal timeline (Nov 4th operation, two-month MIA) and identifies the scope of the lockout (including Baldwin County Legal Eagle), providing historical context for the ongoing block mentioned in Article 1.
+      KEY ENTITIES: The Ripp Report, Francis Paul Ripp, Meta, rippreport.com, Baldwin County Legal Eagle, Baldwin County.
+    llm_text: Meta locked out The Ripp Report and F. Paul Ripp, even blocking the Baldwin County Legal Eagle page. This block followed his Nov 4th shoulder operation and two-month recovery, including vertigo, so understand the full context of this ongoing social media issue.
+    widget_date: "2025-01-16"
+    generated_at: "2026-11-06T14:19:18.024130Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

@@ -1,5 +1,5 @@
 metadata:
-  generated_at: "2026-11-05T22:43:41.768877Z"
+  generated_at: "2026-11-06T04:50:42.125527Z"
   generator_version: 1.0.0
   post_slug: midterm-election-special
   main_date: "2026-11-02"
@@ -7,64 +7,320 @@ metadata:
 hooks:
   october-surprise:
     brief: |-
-      THE CONFLICT: Alabama Governor Race (Tuberville vs. Jones) leading up to the 3rd of November election; corruption and overdevelopment issues in Baldwin County.
-      THE DISCOVERY: Polling showed Tommy Tuberville ahead of Doug Jones (51% vs 40%); specific legal battles included Trent Garmon vs. Alabama State Bar; infrastructure issues included the $1.25 billion Elmore County prison site.
-      THE PIVOT: Article 2 provides specific, data-driven context (polling, named legal cases, financial infrastructure details) for the broader political knife fight discussed in Article 1.
-      KEY ENTITIES: John Wahl, Ken McFeeters, Tommy Tuberville, Doug Jones, Brandon Moseley, Trent Garmon, Alabama State Bar, Bay Minette.
+      THE CONFLICT:
+      *   Gubernatorial race included Tommy Tuberville and Doug Jones.
+      *   Legal battle involved Trent Garmon against the Alabama State Bar in federal court.
+      *   Prison infrastructure costs reached $1.25 billion at the Elmore County site.
+      *   Holman Correction Facility experienced issues during a recent Hurricane.
+
+      THE DISCOVERY:
+      *   Article 2 revealed major structural issues in Alabama, including high prison costs, ongoing federal prison condition trials, and critical constitutional amendments (e.g., student-led prayer, national anthem broadcasts).
+
+      THE PIVOT:
+      *   Article 2 established the deep systemic corruption and infrastructure failure (e.g., $1.25B prison costs, legal battles) which provides the historical context for the claim in Article 1 that "Baldwin County Died of overdevelopment and corruption."
+
+      KEY ENTITIES:
+      *   Tommy Tuberville
+      *   Doug Jones
+      *   Brandon Moseley
+      *   John Wahl
+      *   Ken McFeeters
+      *   Trent Garmon
+      *   Alabama State Bar
+      *   Harry Still
+      *   Bay Minette
+      *   Elmore County
+      *   Escambia County
+      *   Holman Correction Facility
+      *   3rd of November (Election date)
+      *   Baldwin County
+    llm_text: $1.25 billion in prison costs and federal trials like Trent Garmon vs. the Alabama State Bar show deep systemic failure. These failures confirm why Baldwin County died from overdevelopment and corruption, despite races involving Tommy Tuberville and Doug Jones.
     widget_date: "2026-10-30"
-    generated_at: "2026-11-05T22:43:41.765503Z"
+    generated_at: "2026-11-06T04:47:18.121556Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   court-of-public-opinion-3-rerun:
     brief: |-
-      THE CONFLICT: Corruption and lack of transparency within the Baldwin County Sheriff Office (BCSO) under Hoss Mack; wrongful conviction of Murray Lawrence Jr.
-      THE DISCOVERY: BCSO, under Hoss Mack, established total immunity for officers, blocked all camera footage (despite requesting $600,000 for cameras), and Mack/Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
-      THE PIVOT: Article 2 reveals the institutionalized lack of accountability and local corruption in Baldwin County, confirming the sentiment "Baldwin County Died of overdevelopment and corruption" cited in Article 1.
-      KEY ENTITIES: Hoss Mack, Anthony Lowery, Murray Lawrence Jr., BCSO, Baldwin County, Tommy Tuberville.
+      THE CONFLICT:
+      *   Hoss Mack (BCSO) established total immunity for officers for any actions.
+      *   Hoss Mack requested $600,000 for camera footage in Baldwin County, promising public view but then blocking releases and expanding immunity.
+      *   Mack and Anthony Lowery were principals in the wrongful conviction of Murray Lawrence Jr.
+
+      THE DISCOVERY:
+      *   The BCSO in Baldwin County operates without transparency, accountability, or public camera footage.
+      *   The BCSO investigates itself, with no court finding the guilty party responsible for actions like shooting unarmed individuals without warrants.
+
+      THE PIVOT:
+      *   Article 2 establishes the historical, systemic corruption and lack of accountability in Baldwin County (e.g., wrongful conviction, BCSO immunity) which validates the claim in Article 1 that "Baldwin County Died of overdevelopment and corruption."
+      *   This historical context provides the foundation for the scrutiny of current gubernatorial candidates (e.g., Tommy Tubberville).
+
+      KEY ENTITIES:
+      *   Hoss Mack (BCSO)
+      *   Anthony Lowery
+      *   Murray Lawrence Jr.
+      *   Tommy Tubberville
+      *   Ken McFeeters (ALGOP Primary Candidate)
+      *   John Wahl
+      *   Baldwin County
+      *   BCSO
+      *   Alabama Exposure & Accountability LLC
+      *   South Alabama Citizens for Government Accountability
+    llm_text: Hoss Mack granted total immunity for BCSO actions, linking him to the wrongful conviction of Murray Lawrence Jr. See how this Baldwin County corruption impacts current candidates like Tommy Tubberville.
     widget_date: "2026-10-22"
-    generated_at: "2026-11-05T22:43:41.765503Z"
+    generated_at: "2026-11-06T04:49:17.510960Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  red-lips-award:
+  fire-albritton:
     brief: |-
-      THE CONFLICT: Systemic political corruption in Alabama (ranked #1); Governor Ivey's attempt to dismantle the ADVA through the State Senate (21-9); financial fraud involving the Mabel Amos Trust.
-      THE DISCOVERY: Ethics Director Tom Albritton received $120,000 from the Mabel Amos Memorial Fund; Judge Greg Griffin of Montgomery County Circuit Court ordered a Special Fiduciary (Jim White) to gather information on the Amos Fund.
-      THE PIVOT: Article 2 connects high-level state political conflict (ADVA/Ivey) to specific financial and ethical fraud (Albritton/Amos Trust), demonstrating the systemic corruption claimed in Article 1.
-      KEY ENTITIES: Kimberly Boswell, Admiral Kent Davis, Ivey, Tom Albritton, Mabel Amos Trust, Andrew Jones, Ed Oliver, Greg Griffin, Jim White.
-    widget_date: "2025-03-03"
-    generated_at: "2026-11-05T22:43:41.765503Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
-  alabama-ethics-vs-tony-kennon:
-    brief: |-
-      THE CONFLICT: Allegations of conflicts of interest and threats against Orange Beach Mayor Tony Kennon; systemic failure and corruption within the Alabama Ethics Commission (Director Tom Albritton).
-      THE DISCOVERY: Tom Albritton, the Ethics Director, was forced out of his role as trustee of the Mabel Amos Memorial Fund following litigation, despite Ethics Commission members (Greg Pappas, George Pierce, David Pruet) claiming no knowledge of his actions; a federal probe continues regarding the AG's Office.
-      THE PIVOT: Article 2 details the institutional failures (Ethics Commission/AG/Bar protection of Albritton) that enable systemic corruption, linking local issues (Kennon) to high-level ethical failures, thus supporting the narrative in Article 1.
-      KEY ENTITIES: Tony Kennon, Tom Albritton, Harry Still, Mabel Amos Trust, Katherine Robertson, Greg Pappas, George Pierce, David Pruet, Alabama Bar.
-    widget_date: "2026-06-21"
-    generated_at: "2026-11-05T22:43:41.765503Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+      THE CONFLICT:
+      - Past event: Alabama Gov. Kay Ivey, “Me Ma Governor,” fired Alabama Department of Veterans Affairs Director Kent Davis using “extreme Executive Power.”
+      - Past/background event: Alabama Ethics Commission Exec. Director Tom Albritton was alleged to have engaged in unethical behavior in relation to the Mabel Amos Trust.
+      - Mabel Amos Trust: millions of dollars unaccountable.
+      - Albritton remained in office with 100 thousand dollar plus salary.
+      - Albritton did not provide detailed list of all people he rewarded with donations or scholarships.
+      - Article 2 described Albritton’s list as his “blackmail card” used to stay in office.
+      - Politicians, lawyers, judges, and prominent people received money; they did not want to refund the money or make names public.
+      - Albritton should face criminal charges and be dis-barred.
+      - Albritton was used as a pawn by Gov. Ivey to fire Kent Davis, described as more integrity than Gov. Ivey or Albritton.
+      - Article 1 context: “Midterm Election Special” discussed Ken McFeeters, Tommy Tubberville, John Wahl, Constitutional Amendments, library books, shark alert systems, data centers, voting info, Alabama 2026 Governor Race, November 3, 2026.
+
+      THE DISCOVERY:
+      - Article 2, “FIRE ALBRITTON,” focused on Tom Albritton, Alabama Ethics Commission, Mabel Amos Trust, Kent Davis, Kay Ivey.
+      - At the time, Article 2 alleged Alabama ethics issues and questioned Albritton’s conduct.
+      - Article 2 stated Alabama Attorney General, state and local Representatives, State Senators, Alabama Bar, and all of Goat Hill were aware of Albritton’s alleged unethical behavior.
+      - Article 2 stated the Ethics Commission was a joke and Mr. Albritton was a fraud.
+      - Article 2 is older than Article 1; frame as background/historical context for Article 1.
+
+      THE PIVOT:
+      - Article 2 is the smoking gun/key context for Article 1 because it provided earlier allegations around the Alabama Ethics Commission, Mabel Amos Trust, Kent Davis firing, and Gov. Ivey.
+      - Article 1, “Midterm Election Special,” covered upcoming Alabama Governor race, Ken McFeeters lawsuits vs. Tommy Tubberville, John Wahl debate, Constitutional Amendments, social engineering, library books, shark alert systems, data centers, and voting info.
+      - Article 2’s Albritton/Davis/Ivey material serves as background for Article 1’s election/ethics discussion.
+
+      KEY ENTITIES:
+      - Kay Ivey — Alabama Governor, “Me Ma Governor.”
+      - Kent Davis — Director, Alabama Department of Veterans Affairs.
+      - Tom Albritton — Exec. Director, Alabama Ethics Commission.
+      - Mabel Amos Trust — Trust; millions unaccountable; donations/scholarships.
+      - Alabama Ethics Commission — alleged joke; Albritton fraud.
+      - Alabama Attorney General — aware of Albritton behavior.
+      - State and local Representatives, State Senators – aware.
+      - Alabama Bar – aware; all of Goat Hill aware.
+      - Goat Hill – location/entity.
+      - Ken McFeeters – ALGOP Primary Candidate for Alabama Governor; filed lawsuits claiming GOP candidate Tommy Tubberville does not live in Alabama.
+      - Tommy Tubberville – GOP candidate for Alabama Governor; alleged not live in Alabama.
+      - John Wahl – GOP candidate; decided to debate; to detriment.
+      - The Ripp Report – joined for down ballot pointers.
+      - Baldwin County – sign “Baldwin County Died of overdevelopment and corruption.”
+      - Constitutional Amendments – social engineering; library books; shark alert systems.
+      - November 3 – election date; “Remember, Remember the 3rd of November.”
+      - Alabama 2026 Governor Race – image context.
+      - Data centers – mentioned.
+      - Techno-open-air-prison – mentioned.
+      - Lowery – requested name.
+      - Wilters – requested name.
+    llm_text: Gov. Kay Ivey fired Alabama Veterans Affairs Director Kent Davis over "extreme Executive Power," while Ethics chief Tom Albritton kept millions from the Mabel Amos Trust. Now The Ripp Report ties that back-story to the Alabama 2026 governor race and its ethics fight.
+    widget_date: "2024-11-03"
+    generated_at: "2026-11-06T04:47:27.464031Z"
+    model_name: recursive/flint-v1.0:free
   our-man-in-mar-a-lago:
     brief: |-
-      THE CONFLICT: Misuse of the Mabel Amos Scholarship Trust, administered by the Ethics Commission Director; systemic failure and bias within the Alabama State Bar.
-      THE DISCOVERY: The Mabel Amos Scholarship Trust was administered by the Andalusia Law Firm (Allbritton, Clifton, Alverson, Moody, Bowden), with Clifton serving on the Trust Board; Tommy Gallion was villainized by the Alabama State Bar.
-      THE PIVOT: Article 2 identifies the specific legal professionals (Allbritton, Clifton, etc.) involved in the trust misuse, providing granular evidence of financial corruption and professional misconduct that supports the claims of deep state corruption in Article 1.
-      KEY ENTITIES: Harry Still, Perry Hooper Jr., Kevin Brock, Francis "Paul" Ripp, Mabel Amos Trust, Allbritton, Clifton, Alverson, Moody, Bowden, Tommy Gallion, Rob Holbert, CC Marino.
+      THE CONFLICT: Mabel Amos Scholarship Trust involved a perceived "cash grab" administered by the Director of the Alabama Ethics Commission, formerly of the Andalusia Alabama Law Firm of Allbritton, Clifton, Alverson, Moody, and Bowden. This occurred prior to the November elections.
+
+      THE DISCOVERY: Article 2 revealed ethical and financial misconduct within the Andalusia Alabama Law Firm and the Mabel Amos Scholarship Trust, linking key figures including Clifton, Judge Bowden, and Bill Alverson to alleged corruption.
+
+      THE PIVOT: The historical evidence of corruption and overdevelopment in Baldwin County (detailed in Article 2) serves as the context for Article 1’s critique that "Baldwin County Died of overdevelopment and corruption," framing the current 2026 Governor Race (Tommy Tubberville vs. Ken McFeeters) as a battle against systemic decay.
+
+      KEY ENTITIES:
+      *   Baldwin County
+      *   Mabel Amos Scholarship Trust
+      *   Allbritton, Clifton, Alverson, Moody and Bowden
+      *   Alabama Ethics Commission
+      *   Tommy Tubberville
+      *   Ken McFeeters
+      *   John Wahl
+      *   3rd of November (2026 election context)
+      *   Kevin Brock
+      *   Rob Holbert
+      *   CC Marino
+    llm_text: Clifton, Judge Bowden, and Bill Alverson are linked to corruption within the Mabel Amos Scholarship Trust and the Alabama Ethics Commission. This systemic decay in Baldwin County defines the 2026 Governor Race between Tommy Tubberville and Ken McFeeters.
     widget_date: "2026-09-10"
-    generated_at: "2026-11-05T22:43:41.765503Z"
+    generated_at: "2026-11-06T04:48:21.585149Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
   the-state-of-the-alabama-state-bar:
     brief: |-
-      THE CONFLICT: Allegations of kickback schemes and sexual blackmail by public servants; systemic failure of the Alabama State Bar to enforce ethics.
-      THE DISCOVERY: The Alabama State Bar's former Executive Director, Phillip McCallum, failed to address 17 ethics violations reported by Katherine Church and 12 bar complaints filed by Harry Still in 2022 against individuals including Roman Shaw and Jeremy McIntyre.
-      THE PIVOT: Article 2 specifically indicts the institutional leadership of the Alabama State Bar (McCallum) for failing to enforce ethics, proving the system is compromised, which is central to the state corruption narrative in Article 1.
-      KEY ENTITIES: Jeanetta Pleasant JD, Katherine Church, Beverly Barber JD, Thomas Gallion III, Phillip McCallum, Harry Still, Roman Shaw, Jeremy McIntyre, Tommy Gallion.
+      THE CONFLICT:
+      - Past events: Alabama State Bar ethics complaints, lawsuits, and court actions.
+      - Ken McFeeters (ALGOP Primary Candidate for Alabama Governor) filed numerous lawsuits claiming GOP candidate Tommy Tubberville does not live in Alabama.
+      - Tommy Tubberville (GOP candidate for Alabama Governor) — Tommy's Florida lawsuit complaint against "bad actors/public servants"; complaint described as a "bad movies script" involving kickback scheme with outside Counsel and sexual blackmail for looking the other way.
+      - 17 ethics violations from the Church ethics complaints; Phillip McCallum (Executive Director of the Alabama State Bar when they occurred) had "nary a word" in his disciplinary record about them.
+      - 12 bar complaints filed by Harry Still in 2022; included Roman Shaw, Jeremy McIntyre, and Phillip McCallum.
+      - Montgomery Attorney Thomas Gallion III, now of Destin, Florida.
+      - Baldwin County context: tampering with a Court record presumed a crime, "reserved for Baldwin County"; sign read "Baldwin County Died of overdevelopment and corruption."
+      - Election context: Midterm Election Special; Alabama 2026 Governor Race; election date the 3rd of November; John Wahl debated to his detriment; others cowered; some held their own.
+
+      THE DISCOVERY:
+      - Article 2 (The State of the Alabama State Bar) revealed at the time: Jeanetta Pleasant JD, Katherine Church, and Beverly Barber JD had bad experiences with the Alabama State Bar and its personalities.
+      - Tommy's Florida lawsuit complaint details: kickback scheme with outside Counsel; sexual blackmail for looking the other way.
+      - 17 ethics violations stemming from Church ethics complaints re: Phillip McCallum.
+      - 12 bar complaints filed by Harry Still in 2022, including Roman Shaw, Jeremy McIntyre, and Phillip McCallum.
+
+      THE PIVOT:
+      - Article 2 is the 'smoking gun'/key context for Article 1 because the Main Article (Midterm Election Special) covers the upcoming November 3 election and candidates (Ken McFeeters, Tommy Tubberville, John Wahl) tied to the same Alabama State Bar conflict.
+      - Article 2 provided background on Alabama State Bar actions; same characters appear in both articles.
+      - Bar complaint context frames the corruption narrative referenced in the Main Article (Baldwin County corruption sign, election integrity).
+
+      KEY ENTITIES:
+      - Ken McFeeters – ALP Governor candidate; filed lawsuits vs. Tubberville
+      - Tommy Tubberville – GOP Governor candidate; alleged non-resident of Alabama; Florida lawsuit
+      - John Wahl – candidate who debated to his detriment
+      - Thomas Gallion III – Montgomery attorney, now of Destin, Florida
+      - Jeanetta Pleasant JD
+      - Katherine Church
+      - Beverly Barber JD
+      - Phillip McCallum – Executive Director, Alabama State Bar
+      - Harry Still – filed 12 bar complaints in 2022
+      - Roman Shaw
+      - Jeremy McIntyre
+      - Steve Flowers – interviewed Gallion (2020)
+      - Francis "Paul" Ripp – Ripp Report
+      - Brandon Moseley – Alabama Gazette
+      - Alabama State Bar
+      - Baldwin County, Alabama
+      - Montgomery, Alabama / Destin, Florida
+      - Alabama Governor race / November 3 election / 2026 midterm
+    llm_text: Alabama's governor race just got darker as Ken McFeeters sues Tommy Tubberville over residency, while the Alabama State Bar faces ethics complaints tied to Phillip McCallum and Harry Still's 12 bar complaints. If you care about the November 3 election, this corruption story could decide Baldwin County and the race.
     widget_date: "2026-09-05"
-    generated_at: "2026-11-05T22:43:41.765503Z"
-    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+    generated_at: "2026-11-06T04:48:04.444304Z"
+    model_name: recursive/flint-v1.0:free
   august-special-edition:
     brief: |-
-      THE CONFLICT: Local development conflicts in Baldwin County (Farmers/Cowpokes vs. GUMBO-68 Ventures); abuse of legal process by the DA's office; political maneuvering in the Governor's race.
-      THE DISCOVERY: A special election was held on August 11, 2026, addressing the construction of the I-10 Bayway Bridge (toll) project, with opposition led by Sheriff Huey Mack, who aimed to slow Baldwin County development.
-      THE PIVOT: Article 2 grounds the high-level political discussions (Tuberville lawsuit, Governor race knife fight) in specific local, time-stamped events (August 11, 2026 special election; Bayway Bridge debate), showing the local root of state political tension in Article 1.
-      KEY ENTITIES: Harry Still, Huey Mack, Tommy Tuberville, Doug Jones, I-10 Bayway Bridge, Baldwin County.
+      THE CONFLICT:
+      - Event: Alabama 2026 Governor Race context heading into the November 3, 2026 midterm election ("Midterm Election Special," The Ripp Report).
+      - Event: Alabama special election context set for August 11, 2026 ("August Special Election," The Ripp Report).
+      - Tommy Tubberville: GOP candidate for Alabama Governor; lawsuits filed claiming he does not live in Alabama; Ken McFeeters (ALGOP Primary Candidate for Alabama Governor) filed numerous lawsuits claiming Tubberville does not live in Alabama.
+      - Republicans have been in control of Alabama Government since 2010.
+      - State of Alabama moving forward with I-10 Bayway Bridge (toll) Project.
+      - Farmers and Cowpokes want to slow development in Baldwin County, led by GUMBO- 68 Ventures - Sheriff Huey Mack.
+
+      THE DISCOVERY:
+      - Article 2 (August 11, 2026, "August Special Election") revealed/shown at the time:
+        - Special election in Alabama tomorrow August 11, 2026; discussed your choices.
+        - State of Alabama moving forward with Construction of the I-10 Bayway Bridge (toll) Project.
+        - Farmers and Cowpokes want to slow development in Baldwin County, led by The GUMBO- 68 Ventures - Sheriff Huey Mack.
+        - The DA's office is abusing Grand Jury discovery process.
+        - Water is wet and Tubberville says going to DOGE the Alabama Government (where Republicans have been in control since 2010) and bring about a golden age, more like Jim Jones and Data Centers be the cool-aid.
+        - Real possibility that Doug Jones has a shot at the Governor's chair; Doug is alright for a Democrat; Democratic Party Bosses and their agendas; party running a guy for Governor from Florida and a guy from Tennessee for Lt Governor.
+        - Thank you to Bennett's Archery Supply in Wetumpka, Alabama.
+
+      THE PIVOT:
+      - Article 2 is the 'smoking gun'/key context for Article 1 because:
+        - Article 2 (August 11, 2026) covered the special election, I-10 Bayway Bridge toll project, Baldwin County development slowdown, Tubberville DOGE stance, and Doug Jones possibility.
+        - Article 1 ("Midterm Election Special") is framed around tomorrow's election, November 3, 2026 ("Remember, Remember the 3rd of November").
+        - Article 1 image context: political collage featuring John Wahl's ID, an elderly woman, text referencing Alabama 2026 Governor Race, the 3rd of November, and a sign stating "Baldwin County Died of overdevelopment and corruption."
+        - Article 2's Baldwin County development/overdevelopment coverage feeds the "overdevelopment and corruption" theme in Article 1.
+        - Article 2's context on Tubberville's DOGE stance and Democratic alternative sets up Article 1's knife-fight race narrative and Ken McFeeters' lawsuits against Tubberville.
+
+      KEY ENTITIES:
+      - Tommy Tubberville (GOP candidate for Alabama Governor)
+      - Ken McFeeters (ALGOP Primary Candidate for Alabama Governor)
+      - John Wahl (candidate who debated)
+      - Doug Jones (Democrat)
+      - Harry Still
+      - Heart of Dixie Podcast
+      - Bayway Bridge
+      - Jerry Carl
+      - Flock
+      - GUMBO- 68 Ventures
+      - Sheriff Huey Mack
+      - DA's office
+      - I-10 Bayway Bridge
+      - Farmers and Cowpokes
+      - Bennett's Archery Supply
+      - Data Centers
+      - Constitutional Amendments
+      - Library books and shark alert systems
+      - The Ripp Report
+      - Baldwin County
+      - Alabama
+      - Lowery
+      - Wilters
+    llm_text: Tommy Tubberville's Alabama lawsuit over his residency just collided with Ken McFeeters' GOP challenge, while the I-10 Bayway Bridge toll and Baldwin County overdevelopment keep boiling. If you're watching the August 11 special election and November 3 midterm race, this is the knife fight that matters.
     widget_date: "2026-08-11"
-    generated_at: "2026-11-05T22:43:41.765503Z"
+    generated_at: "2026-11-06T04:48:49.043619Z"
+    model_name: recursive/flint-v1.0:free
+  orange-beach-tyranny:
+    brief: |-
+      THE CONFLICT: Danny Williams disappeared and died in Perdido Pass on the Friday of Memorial Day Weekend (two years prior to the 'naked lady' incident); Williams was a co-target of a 2016 Federal Drug Investigation.
+      THE DISCOVERY: Mayor Tony Kennon, along with the City Attorney, City Administrator, and Chief of Police, showed a pattern of malfeasance, compartmentalizing information and resisting subpoenas from the Alabama Law Enforcement Agency (ALEA).
+      THE PIVOT: The historical pattern of corruption and obstruction in Orange Beach/Baldwin County (Williams case) provides context for the contemporary political narrative surrounding Baldwin County's "overdevelopment and corruption" which impacts the Alabama 2026 Governor Race (3rd of November).
+      KEY ENTITIES: Tony Kennon, Danny Williams, Ken McFeeters, John Wahl, Tommy Tubberville, Neeli Faulkner, Whitney Scapecchi, Brandon Moseley, ALEA, Baldwin County
+    llm_text: Danny Williams died in Perdido Pass during a 2016 Federal Drug Investigation, revealing systemic corruption in Orange Beach. Mayor Tony Kennon and others resisted ALEA subpoenas, providing crucial context for Baldwin County's political battles affecting the 2026 Governor Race.
+    widget_date: "2026-07-09"
+    generated_at: "2026-11-06T04:50:18.490267Z"
     model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  qualification:
+    brief: |-
+      THE CONFLICT:
+      - Past Baldwin County event: Good ole boy network counted on former Mayor Kant and Sen Pittman to keep wheels greased in Bay Minette.
+      - Past Baldwin County event: Fairhope was facilitator.
+      - Past Baldwin County event: Election of Mayor Karen Wilson was first step taken by Baldwin County to change political makeup; good ole boy network counted on former Mayor Kant and Sen Pittman.
+      - Past Baldwin County event: Wheel of corruption stopped; valuable connections gone, fired, retired or drying up.
+      - Past Baldwin County event: Baldwin County opportunity to vote out as many county commissioners as possible; vet candidates; Catalyst; faux/placement candidates.
+      - Past Baldwin County event: Election agenda included County Commissioners, Sheriff, Judge of Probate, Coroner, State Senate seat 32, previously held by Pittman.
+      - Past Baldwin County event: Judge Michelle Thomason running for Court of Civil Appeals; negative reputation as Circuit Judge in Family Court; first client of Catalyst; many would like see her go; may vote for her to show door out of Baldwin County.
+      - Past statewide event: Alabama going to elect new Governor and Attorney General; utmost priority break mold of electing flawed candidates; past Alabama Governors and AGs had baggage taking state backwards.
+      - Past statewide event: Alabama first in political corruption, until that changes remain last in everything else.
+
+      THE DISCOVERY:
+      - Article 2 showed: Midterm Elections upon us.
+      - Article 2 showed: qualification closes 5:00 PM Feb. 9th.
+      - Article 2 showed: game on for important positions in Baldwin County.
+      - Article 2 showed: statewide general information can be found on...
+      - Article 2 showed: only 4 months until primary election June 5, 2018.
+      - Article 2 showed: Baldwin County in position to change political makeup of good ole boys with candidates fed up with back room deals.
+      - Article 2 showed: first step taken by election of Mayor Karen Wilson.
+      - Article 2 showed: good ole boy network counted on former Mayor Kant and Sen Pittman to keep wheels greased in Bay Minette.
+      - Article 2 showed: Fairhope WAS facilitator, NOT NOW, wheel of corruption stopped and all those valuable connections gone, fired, retired or drying up.
+      - Article 2 showed: Baldwin County now opportunity to vote out as many county commissioners as possible; vet candidates; who are faux/placement candidates by Catalyst; Ripp Report dig in hard; election agenda included County Commissioners, Sheriff, Judge of Probate, Coroner, State Senate seat 32, previously held by Pittman.
+      - Article 2 showed: Judge Michelle Thomason running for Court of Civil Appeals; tricky decision; negative reputation as Circuit Judge in Family Court; first client of Catalyst; many would like see her go; may find themselves voting for her to show door out of Baldwin County.
+      - Article 2 showed: Alabama going to elect new Governor and Attorney General; utmost priority should be to break mold of electing flawed candidates; past baggage.
+      - Article 2 showed: Alabama Attorney General needs commitment to exposing/prosecuting elected officials involved in political corruption; AG office needs start by biting head off Ethics Commission; Ethics Commission guilty of aiding/abetting corruption while protecting officials needing accountability.
+      - Article 2 showed: Alabama first in political corruption, until that changes remain last in everything else.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; frame as background/historical context.
+      - Article 2 documented Baldwin County corruption/backroom deals and Catalyst; election of Mayor Karen Wilson stopped wheel.
+      - Article 1 is Main Article: Midterm Election Special; upcoming/tomorrow election; Alabama 2026 Governor Race; 3rd of November; Baldwin County Died of overdevelopment and corruption; special guest Ken McFeeters; ALGOP Primary Candidate for Alabama Governor; lawsuits claiming GOP candidate Tommy Tubberville does not live in Alabama; John Wahl debate; social/political issues; Constitutional Amendments; data centers; joined by Ripp Report; photo ID, firearm/pocketknife; Remember Remember 3rd of November.
+      - Article 2 is smoking gun/key context for Article 1 because it established prior Baldwin County political corruption/elections/Catalyst context that frames Article 1's upcoming election/corruption narrative.
+
+      KEY ENTITIES:
+      - Ken McFeeters
+      - Tommy Tubberville
+      - John Wahl
+      - Karen Wilson
+      - Kant
+      - Pittman
+      - Michelle Thomason
+      - Catalyst
+      - The Ripp Report
+      - ALGOP
+      - GOP
+      - Alabama Attorney General
+      - Ethics Commission
+      - Baldwin County
+      - Fairhope
+      - Bay Minette
+      - County Commissioners
+      - Sheriff
+      - Judge of Probate
+      - Coroner
+      - State Senate seat 32
+      - Court of Civil Appeals
+      - Circuit Judge
+      - Family Court
+      - Alabama Governor
+      - Alabama
+      - Lowery
+      - Wilters
+    llm_text: The Ripp Report showed Baldwin County's good ol' boy network leaned on Mayor Kant and Sen. Pittman while Fairhope facilitated, until Karen Wilson's election stopped the wheel. Now the midterms are on, and Alabama's Attorney General must stop the Ethics Commission from protecting corrupt officials before November.
+    widget_date: "2018-01-19"
+    generated_at: "2026-11-06T04:50:21.633456Z"
+    model_name: recursive/flint-v1.0:free

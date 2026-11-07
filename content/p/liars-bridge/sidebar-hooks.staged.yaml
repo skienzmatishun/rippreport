@@ -1,0 +1,137 @@
+metadata:
+  generated_at: "2026-11-06T21:41:07.873879Z"
+  generator_version: 1.0.0
+  post_slug: liars-bridge
+  main_date: "2022-07-29"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  alabama-shuffle:
+    brief: |-
+      THE CONFLICT: Attorney General Steve Marshall utilized the "Alabama Shuffle" by sidetracking constituents with topics like Biden, Abortion, or Immigration while ignoring white collar or political corruption cases.
+      THE DISCOVERY: In relation to a complaint against Ethics Director Tom Albritton, AG Marshall responded with an unsigned, non-disclosing letter stating, "WE cannot, however, disclose to you any decision about your complaint."
+      THE PIVOT: Article 2 demonstrates a pattern of systemic state-level political obstruction and cover-up (AG Marshall protecting the Bar/Ethics) which provides context for local politicians, specifically Jack Burrell, who are accused of breaking public promises regarding the Mobile Bridge (No Tolls, No Federal Money) by now pushing the project to secure federal funding, despite opposition from 50,000 petition signers.
+      KEY ENTITIES: Steve Marshall (Alabama Attorney General), Tom Albritton (Ethics Director), Jack Burrell (ESMPO Chairman, Fairhope City Councilman), Jerry Carl, Mobile Bay Bridge.
+    llm_text: AG Steve Marshall used the "Alabama Shuffle" to ignore corruption, protecting figures like Ethics Director Tom Albritton. This pattern mirrors Jack Burrell pushing the Mobile Bridge for federal funds, betraying 50,000 petition signers.
+    widget_date: "2022-07-27"
+    generated_at: "2026-11-06T21:33:47.772327Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  bsp-131:
+    brief: |-
+      THE CONFLICT: Mobile Baykeeper is suing Alabama Power Company over plans to leave 15 million tons of spent coal ash on the banks of the Mobile River.
+      THE DISCOVERY: The Widget Article (older) revealed systemic leadership and regulatory issues within the Ethics Commission, Attorney General’s Office, Alabama State Bar, and the Private Monopolistic Utility that operates with impunity due to owning members of the Public Service Commission.
+      THE PIVOT: The Widget Article provides historical context of regulatory failure and environmental negligence in the Mobile area, setting the stage for the Main Article's discussion of infrastructure failures and politicians (like Jack Burrell) making contradictory promises regarding the Mobile Toll Bridge and federal funding.
+      KEY ENTITIES: Mobile Baykeeper, Alabama Power Company, Mobile River, Public Service Commission, Baldwin County Sewer Service, Governor Iveys, Jack Burrell, Jerry Carl.
+    llm_text: Mobile Baykeeper is suing Alabama Power Company over plans to leave 15 million tons of spent coal ash on the Mobile River banks. This negligence exposes deep regulatory failure within Alabama’s Ethics Commission and Public Service Commission.
+    widget_date: "2022-07-24"
+    generated_at: "2026-11-06T21:35:59.466817Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  line-in-the-sand:
+    brief: |-
+      THE CONFLICT: Mabel Amos Charitable Trust was established after Mabel Amos' death in 1999; trustees, including Tom Albritton and Rick Clifton, engaged in alleged "self-dealing" and institutional neglect, leading to a civil lawsuit in Montgomery County Circuit Court.
+
+      THE DISCOVERY: The Mabel Amos Charitable Trust awarded excessive scholarships, including at least $120,000 to Tom Albritton's children and $45,000 to a child of judge Ben Bowden (2014–2017); Regions Bank increased its fees by $1.2 million (2002–2020).
+
+      THE PIVOT: Both articles detail institutional failure and broken promises within Alabama governance: Article 2 shows complicity of the Ethics Commission/AG in allowing corruption (Albritton), paralleling Article 1's claims that politicians (Jack Burrell) broke public promises regarding no tolls and no federal money for the Mobile bridge project.
+
+      KEY ENTITIES: Jack Burrell, Jerry Carl, Mabel Amos, Tom Albritton, Rick Clifton, Ben Bowden, Regions Bank, ESMPO.
+    llm_text: Trustees Tom Albritton and Rick Clifton allegedly misused the Mabel Amos Charitable Trust, giving $120,000+ to his children. This institutional failure mirrors how Jack Burrell broke public promises on the Mobile bridge project.
+    widget_date: "2022-07-24"
+    generated_at: "2026-11-06T21:37:18.683339Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  elephants-in-alabama:
+    brief: |-
+      THE CONFLICT:
+      *   Jack Burrell (ESMPO Chairman, Fairhope City Councilman) has been on council for 10 years, failing to update Fairhope infrastructure.
+      *   Tom Albritton served as Executive Director of the Ethics Commission.
+
+      THE DISCOVERY:
+      *   Article 2 revealed evidence of corruption within the Alabama Bar and Ethics Commission.
+      *   McCallum ("Employee 1") continued to receive salary and perks after resigning.
+      *   The State Bar paid McCallum an additional $37,000 approximately 10 months after his resignation.
+      *   The Attorney General has not filed criminal charges against Albritton or the Ethics Commission.
+
+      THE PIVOT:
+      *   Article 2 establishes a precedent of high-level, systemic political corruption (Ethics Commission) within Alabama.
+      *   This context provides background evidence of governmental lack of transparency and accountability, which mirrors the broken promises regarding tolls and infrastructure cited in Article 1 (e.g., Burrell promising no tolls/no federal money).
+
+      KEY ENTITIES:
+      *   Jack Burrell
+      *   Jerry Carl
+      *   Tom Albritton
+      *   McCallum
+      *   Mobile Bay Bridge
+      *   Fairhope City Council
+      *   Ethics Commission
+      *   Alabama Bar
+    llm_text: Tom Albritton and the Ethics Commission hid corruption, paying McCallum $37k even after he resigned. This systemic failure mirrors Jack Burrell’s decade of ignoring Fairhope infrastructure, showing why you need to demand real government accountability now.
+    widget_date: "2022-07-14"
+    generated_at: "2026-11-06T21:38:31.370236Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  top-shelf-corruption:
+    brief: |-
+      THE CONFLICT:
+      *   Tom Albritton was confirmed as Executive Director of the Alabama Ethics Commission in March 2015.
+      *   McCallum engaged in transgressions leading to an administrative resolution forwarded to Attorney General Steve Marshall.
+      *   Between 2014 and 2018, Albritton's two children received $15,000 scholarships each from the trust, totaling $105,000.
+
+      THE DISCOVERY:
+      *   Steve Marshall approved the administrative resolution and punted on a criminal investigation of McCallum.
+      *   The Ethics Commission meted out fines to McCallum but did not enforce criminal accountability.
+      *   Albritton received a pass from the Ethics Commission, Alabama Bar, and the Attorney General.
+
+      THE PIVOT:
+      *   The 2015 corruption context proves institutional failures (Ethics Commission/AG) allowed high-level misconduct to continue unpunished in Alabama.
+      *   This historical failure of oversight mirrors current political behavior where elected officials (e.g., Jack Burrell) are accused of breaking original promises (No Tolls/No Federal Money) for development interests.
+      *   The systemic lack of accountability (2015) suggests a pattern enabling current political dishonesty (Mobile Bridge project).
+
+      KEY ENTITIES:
+      *   Jack Burrell (ESMPO Chairman, Fairhope City Councilman)
+      *   Jerry Carl
+      *   Steve Marshall (Attorney General, Alabama)
+      *   Tom Albritton (Ethics Commission Executive Director)
+      *   McCallum
+      *   Ethics Commission
+      *   Regions Bank
+      *   Mobile Bay Bridge
+    llm_text: In 2015, Tom Albritton allowed McCallum to dodge criminal charges even after his children received $105,000 in scholarships. This institutional failure, approved by AG Steve Marshall, shows why Jack Burrell now faces accusations over the Mobile Bridge project.
+    widget_date: "2022-07-09"
+    generated_at: "2026-11-06T21:35:04.241643Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  dirty-underwear:
+    brief: |-
+      THE CONFLICT:
+      1. A decade ago (pre-2010), campaign finance in Alabama was untraceable due to shifting money between political action committees, laundering millions.
+      2. Tom Albritton, Ethics Commission Executive Director (confirmed March 2015), received $105,000 in scholarships for his children (2014-2018) from a trust where he was a trustee, violating IRS Section 4941(d) self-dealing rules.
+      3. McCallum was fined $100,000 by the Ethics Commission but faced no criminal prosecution from the Attorney General’s Office.
+
+      THE DISCOVERY:
+      1. The Attorney General, Ethics Commission, and Alabama Bar protect each other and political figures from political corruption complaints (the "dirty underwear trio").
+      2. Complaints filed against various officials (Municipal Judge, Councilman, State Senator, Circuit Judge) are consistently quashed by this trio.
+
+      THE PIVOT:
+      1. The institutional protection detailed in the older article (Widget) allows local politicians, such as Jack Burrell, to break public promises (e.g., "no tolls," "no federal money") and prioritize development over constituents without facing legal accountability or criminal charges (as seen in the Main Article).
+      2. Burrell's current claims about securing federal funding for the Mobile Bay Bridge contradict his prior promise that no federal money or tolls were needed.
+
+      KEY ENTITIES:
+      1. Jack Burrell (ESMPO Chairman, Fairhope City Councilman)
+      2. Jerry Carl
+      3. Tom Albritton (Ethics Commission Executive Director)
+      4. McCallum
+      5. Attorney General
+      6. Ethics Commission
+      7. Alabama Bar
+      8. Mobile Bay Bridge
+    llm_text: Jack Burrell broke his "no tolls" promise for the Mobile Bay Bridge. The Attorney General, Ethics Commission, and Alabama Bar protect politicians like him from legal accountability.
+    widget_date: "2022-07-01"
+    generated_at: "2026-11-06T21:39:44.061485Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  pot-calling-the-kettle-black:
+    brief: |-
+      THE CONFLICT: Former State Senator Tripp Pittman took $750,000.00 from B.P. while acting as trustee; Baldwin County lost millions of B.P. money due to Pittman and his legislative delegation.
+      THE DISCOVERY: The Alabama Ethics Commission Director, Tom Albritton, holds a private charitable trust that pays over $100,000 for his children’s college tuition, raising ethical questions about his role as state watchdog.
+      THE PIVOT: Article 2 establishes a pattern of high-level, documented political corruption and ethical breaches within Alabama governance, providing the necessary context for the broken campaign promises (e.g., no tolls) and infrastructure neglect cited by Jack Burrell in Article 1.
+      KEY ENTITIES: Jack Burrell, Jerry Carl, Tripp Pittman, Tom Albritton, B.P., ESMPO, Fairhope City Council
+    llm_text: Former Senator Tripp Pittman stole $750k from B.P. while trustee, draining millions from Baldwin County. Ethics Director Tom Albritton pays over $100k for his children's college, raising serious questions about high-level corruption in Alabama.
+    widget_date: "2022-02-19"
+    generated_at: "2026-11-06T21:40:51.242252Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

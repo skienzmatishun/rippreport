@@ -1,0 +1,143 @@
+metadata:
+  generated_at: "2026-11-06T20:29:00.166040Z"
+  generator_version: 1.0.0
+  post_slug: veterans-day-in-alabama
+  main_date: "2022-11-04"
+  model_name: recursive/flint-v1.0:free
+hooks:
+  this-is-the-new-logo-for-fairhope:
+    brief: |-
+      THE CONFLICT:
+      - Veterans Day is November 11th.
+      - Article 1 frames Veterans Day in Alabama; image context shows a red map of Alabama divided into counties over blurred soldiers in uniform saluting.
+
+      THE DISCOVERY:
+      - Article 2, titled “THIS IS THE NEW LOGO FOR FAIRHOPE,” revealed the new logo for Fairhope.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1 and is treated as background/historical context.
+      - Article 2’s new Fairhope logo is the prior context/event that serves as the smoking gun/key backdrop for Article 1’s Veterans Day content.
+
+      THE KEY ENTITIES:
+      - Fairhope
+      - Alabama
+      - November 11 / Veterans Day
+      - No additional names, organizations, dollar amounts, positions, or titles appear in the provided content.
+    llm_text: Before Fairhope got its new logo, this Alabama town was just a blip in an older article. Now that new logo becomes the smoking gun backdrop for the Veterans Day story with soldiers saluting across Alabama on November 11th.
+    widget_date: "2022-10-28"
+    generated_at: "2026-11-06T20:27:17.690693Z"
+    model_name: recursive/flint-v1.0:free
+  alabama-black-hole:
+    brief: |-
+      THE CONFLICT:
+      - Original complaint against Tom Albritton and Cynthia Raulston cited in correspondence dated July 16, 2021.
+      - Original complaints implicated Lawyers, a Judge, Council President, councilman, and a mayor; these were allegedly excused by the Ethics Commission.
+      - Cynthia Raulston contacted complainant in January 2022 regarding the Mabel Amos trust and Albritton's 'self-serving' of funds.
+      - Article 2 references "Self Dealing" reported in Lagniappe on June 30, 2021.
+
+      THE DISCOVERY:
+      - Tom Albritton failed to disclose being a trustee of a multi-million dollar Mabel Amos trust on his economic statement prior to his appointment (2015).
+      - Albritton and other trustees, with Regions Bank, altered trust handling in 2014, listing schools instead of students to hide recipients.
+      - Circuit Judge Ben Bowden (former law partner of Albritton) received $45,000 from scholarship funds.
+      - Mabel Amos established the trust; oil discovery in 2010 generated $80 million, making the trust wealthy.
+      - Albritton potentially violated IRS Section 4941{d} ("self Dealing").
+
+      THE PIVOT:
+      - Article 2 (older) establishes the specific allegations of financial self-dealing by Tom Albritton involving the Mabel Amos trust, Cynthia Raulston, and Regions Bank (2014/2021 evidence).
+      - Article 1 (November 11th) is a contemporary context (Veterans Day in Alabama) but lacks the specific corruption details presented in Article 2.
+
+      KEY ENTITIES:
+      - Tom Albritton (Ethics Executive Director)
+      - Cynthia Raulston
+      - Clark Morris (Attorney General of Alabama)
+      - Steve Marshall (Governor of Alabama)
+      - Mabel Amos (Alabama's first female Secretary of State)
+      - Regions Bank
+      - Circuit Judge Ben Bowden
+      - The Ripp Report.com (Francis Paul Ripp)
+      - Alabama Bar
+      - Ethics Commission
+      - Lagniappe Mobile
+    llm_text: Tom Albritton concealed his multi-million dollar Mabel Amos trust role from his 2015 appointment. See how he and Judge Ben Bowden allegedly self-dealt using scholarship funds.
+    widget_date: "2022-10-21"
+    generated_at: "2026-11-06T20:27:16.022652Z"
+    model_name: plugsky-lite
+  liars-bridge:
+    brief: |-
+      THE CONFLICT: Politicians made original promises regarding the Mobile bridge (no tolls, no federal money) but changed decisions after the no tolls petition reached 50,000.
+      THE DISCOVERY: The Widget Article revealed Jack Burrell (ESMPO Chairman/Fairhope City Councilman) repeatedly broke promises concerning the Mobile bridge infrastructure, driven primarily by development expansion, and expressed concerns about the PACT Act legislation.
+      THE PIVOT: Article 2 provides concrete examples of politicians breaking promises to constituents and veterans (tolls, PACT Act concerns) which serves as the historical context for the Veterans Day theme (honoring promises) discussed in Article 1.
+      KEY ENTITIES: Jack Burrell, Jerry Carl, Mobile Bay Bridge, ESMPO, Fairhope City Council, PACT Act, Alabama
+    llm_text: Jack Burrell repeatedly broke his no-tolls promise for the Mobile Bay Bridge, prioritizing development expansion over constituent commitments. See concrete examples of this betrayal impacting veterans and raising serious concerns about the PACT Act legislation.
+    widget_date: "2022-07-29"
+    generated_at: "2026-11-06T20:27:42.650750Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  alabama-shuffle:
+    brief: |-
+      THE CONFLICT:
+      Steve Marshall, Attorney General of Alabama, faced a complaint regarding Ethics Executive Director Tom Albritton.
+      This event occurred prior to the filing of a civil lawsuit detailing charges against Tom Albritton.
+
+      THE DISCOVERY:
+      The Attorney General's office responded to the complaint with an unsigned, non-disclosing letter, refusing to disclose any decision.
+      The Widget Article framed Marshall's actions as the "Alabama Shuffle"—sidetracking constituents through frivolous lawsuits while ignoring white-collar and political corruption cases.
+
+      THE PIVOT:
+      The Widget Article establishes the historical pattern of political corruption and stonewalling by AG Steve Marshall (covering the Bar and Ethics) within Alabama state governance, providing the context for the state's political environment referenced in the Main Article.
+
+      KEY ENTITIES:
+      Steve Marshall (Attorney General of Alabama)
+      Tom Albritton (Ethics Director/Executive Director)
+      Alabama
+    llm_text: AG Steve Marshall stonewalled a complaint against Ethics Director Tom Albritton with a non-disclosing letter. This "Alabama Shuffle" reveals a pattern of political corruption and stonewalling within Alabama state governance.
+    widget_date: "2022-07-27"
+    generated_at: "2026-11-06T20:28:49.847412Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  line-in-the-sand:
+    brief: |-
+      THE CONFLICT: Mabel Amos died in 1999.
+      THE DISCOVERY: Mabel Amos Charitable Trust, established by her will, was alleged to be used for personal benefit/self-dealing by trustees.
+      THE PIVOT: The civil lawsuit filed by Mabel Amos relatives concerning the trust's handling provides the foundational evidence of the alleged corruption detailed in the later reporting.
+      KEY ENTITIES: Mabel Amos, Tom Albritton, Rick Clifton, John Bell, Regions Bank, Ethics Commission, Alabama AG, Ben Bowden, Montgomery County Circuit Court
+    llm_text: Mabel Amos relatives sued the trust over alleged self-dealing involving Tom Albritton and Rick Clifton. See how this Montgomery County Circuit Court case uncovers corruption connected to Regions Bank.
+    widget_date: "2022-07-24"
+    generated_at: "2026-11-06T20:27:24.244375Z"
+    model_name: plugsky-lite
+  elephants-in-alabama:
+    brief: |-
+      THE CONFLICT:
+      - Civil lawsuit filed against Ethics Commission Executive Director Tom Albritton.
+      - Allegations of corruption and lack of action by state agencies/Governor.
+
+      THE DISCOVERY:
+      - State payroll data shows McCallum (identified as "Employee 1" in Examiners’ report) was paid salary months after resigning.
+      - State Bar paid McCallum an additional $37,000 approximately 10 months after resignation.
+      - Ethics Commission did not disclose specific laws violated by Albritton.
+
+      THE PIVOT:
+      - Widget Article (older) details documented financial irregularities (McCallum payments) and corruption allegations against Tom Albritton, providing context for the current political situation in Alabama referenced in the Main Article (Veterans Day in Alabama, November 11th).
+      - The Main Article provides a date (November 11th) related to Alabama, while the Widget Article provides the specific corrupt governance context for the state.
+
+      KEY ENTITIES:
+      - Tom Albritton (Ethics Commission Executive Director)
+      - McCallum ("Employee 1")
+      - Alabama Bar
+      - Ethics Commission
+      - Lauderdale County
+      - Sweet Home Alabama
+      - Governor (unnamed)
+      - November 11th
+    llm_text: Tom Albritton faces a civil suit over corruption, but state payroll shows McCallum got paid $37k after resigning. See how these financial irregularities fueled Alabama's governance issues before November 11th.
+    widget_date: "2022-07-14"
+    generated_at: "2026-11-06T20:27:34.790475Z"
+    model_name: plugsky-lite
+  top-shelf-corruption:
+    brief: |-
+      THE CONFLICT: Steve Marshall, Attorney General of Alabama, approved an administrative resolution concerning McCallum's transgressions, resulting in fines but no criminal investigation for McCallum. Tom Albritton was confirmed as Executive Director of the Alabama Ethics Commission in March 2015.
+      THE DISCOVERY: Tom Albritton's children received $15,000 scholarships from the trust in 2015, totaling $105,000 between 2014 and 2018 (based on 990 records).
+      THE PIVOT: Article 2 (Widget) establishes a history of high-level political corruption involving Marshall, McCallum, and Albritton, providing historical context to Alabama politics, which Article 1 (Main) is set within (Veterans Day, Alabama).
+      KEY ENTITIES: Steve Marshall, McCallum, Tom Albritton, Alabama Ethics Commission, Regions Bank, Alabama Bar, Alabama.
+    llm_text: Steve Marshall approved fines for McCallum, but Tom Albritton's children received $105k from the trust. See how this high-level corruption connects to Alabama's political history.
+    widget_date: "2022-07-09"
+    generated_at: "2026-11-06T20:27:44.396055Z"
+    model_name: plugsky-lite

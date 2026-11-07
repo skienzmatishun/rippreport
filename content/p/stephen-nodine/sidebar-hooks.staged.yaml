@@ -1,0 +1,157 @@
+metadata:
+  generated_at: "2026-11-06T20:13:41.450190Z"
+  generator_version: 1.0.0
+  post_slug: stephen-nodine
+  main_date: "2023-01-27"
+  model_name: plugsky-lite
+hooks:
+  the-crime-of-the-century:
+    brief: |-
+      THE CONFLICT: Stephen Nodine, former Mobile County Commissioner, was politically prosecuted for murder in Baldwin County, Alabama (January 28, 2023).
+      THE DISCOVERY: The Backstory Podcast covers "messy politics" in Alabama and exposes a true crime story in Clarke County involving a hospice business and a judge.
+      THE PIVOT: Article 2 places the Nodine case within a broader context of "Alabama’s messy politics" and systemic issues ("good old boy" system) beyond just the murder trial.
+      KEY ENTITIES: Stephen Nodine, Baldwin County, Alabama, Governor Kay Ivey, Admiral Kent Davis, Joe Biden, Kamala Harris
+    llm_text: Stephen Nodine's Baldwin County murder prosecution shows more than just one case; The Backstory Podcast links it to Alabama's "good old boy" politics. Discover how systemic issues shape messy Alabama power beyond the headlines.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-06T20:11:45.468494Z"
+    model_name: plugsky-lite
+  scalped:
+    brief: |-
+      THE CONFLICT:
+      - Stephen Nodine, former Mobile County Commissioner, prosecuted for murder in Baldwin County, Alabama.
+      - Case referred to as “Bosom of Justice” aka Baldwin County, Alabama.
+      - Prosecution described as political.
+      - New true crime news show covering Stephen Nodine story announced: Oxygen Channel.
+      - Premiered Saturday, January 28, 2023, at 8PM.
+      - Third national program to cover the story.
+
+      THE DISCOVERY:
+      - Article 2, titled “Scalped,” is newer/update.
+      - Image context: Backstory Podcast 190, episode “Scalped,” graphic showing new Baldwin County District Attorney building and Facebook post announcing its construction bid award.
+      - Widget content: corruption; companies with political ties scoring million-dollar contracts; law enforcement investigating own mishaps; courts/scandal scholarships meant for public went to insiders; governor health rumors/replacements; crime waves; teens clash with high-powered weapons; fisherman’s hobby solves cold case; lawmakers strip local control/let state leaders handpick police chiefs; podcast wrap; Alabama leaders keep failing; citizens demand better.
+
+      THE PIVOT:
+      - Article 2 is key context/smoking gun for Article 1 because it ties Baldwin County District Attorney building, construction bid award, and Facebook post to Backstory Podcast 190 “Scalped.”
+      - This connects the Stephen Nodine political prosecution/Baldwin County legal setting to broader Alabama corruption/political narrative.
+      - Article 2 updates Article 1 by adding newer Baldwin County DA building/political context since the Oxygen show announcement.
+
+      THE KEY ENTITIES:
+      - Stephen Nodine
+      - Mobile County Commissioner
+      - Baldwin County, Alabama
+      - “Bosom of Justice” aka Baldwin County, Alabama
+      - Oxygen Channel
+      - January 28, 2023
+      - 8PM
+      - Backstory Podcast 190
+      - “Scalped”
+      - Baldwin County District Attorney building
+      - Facebook post
+      - Construction bid award
+      - Corruption
+      - Million-dollar contracts
+      - Governor
+      - Lawmakers
+      - Police chiefs
+      - Citizens
+      - Alabama leaders
+      - Lowery
+      - Wilters
+    llm_text: 'Stephen Nodine''s murder case just got a new twist: the Oxygen Channel premieres his story January 28 at 8PM. Backstory Podcast 190''s ''Scalped'' ties Baldwin County DA building corruption to a construction bid award and Facebook post.'
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-06T20:12:42.249625Z"
+    model_name: recursive/flint-v1.0:free
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    brief: |-
+      THE CONFLICT:
+      Stephen Nodine, former Mobile County Commissioner, was politically prosecuted for murder in Baldwin County, Alabama. (Recounted January 28, 2023, on Oxygen Channel).
+
+      THE DISCOVERY:
+      A current podcast (newer) covers broader allegations of political and legal corruption in Alabama, including the Dothan Summer Feeding Scandal and the corrupt practice of Federal Judge Mark Fuller. The podcast also details a case (Mack vs Hadley) where two autopsies (2005) ordered by the Coroner of Baldwin County (Sheriff Mack's father) were never disclosed to the Defense, constituting a Brady Violation.
+
+      THE PIVOT:
+      The Nodine prosecution (Article 1) is not isolated but is part of a larger, documented pattern of political corruption and legal misconduct within Alabama's justice system, as demonstrated by the Brady Violation case in Baldwin County and the mention of corrupt figures like Mark Fuller.
+
+      KEY ENTITIES:
+      Stephen Nodine
+      Baldwin County, Alabama
+      Mobile County
+      Luigi Manjone
+      Mack vs Hadley
+      Murray Lawrence Jr.
+      Mark Fuller
+      Dothan Summer Feeding Scandal
+    llm_text: Stephen Nodine's murder prosecution in Baldwin County isn't isolated. New reporting connects his case to systemic corruption, including the Mack vs Hadley Brady Violation and corrupt Judge Mark Fuller.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-06T20:12:27.071751Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    brief: |-
+      THE CONFLICT: Stephen Nodine, former Mobile County Commissioner, faced political prosecution for murder in Baldwin County, Alabama. (Referenced in January 2023 coverage).
+      THE DISCOVERY: Article 2 (podcast) discusses broader themes including wrongful arrests of individuals who exposed corruption in local school districts and the First Amendment.
+      THE PIVOT: Article 2 provides general context on political corruption and wrongful arrests, aligning thematically with the political prosecution of Stephen Nodine mentioned in Article 1, but does not contain specific facts or updates regarding his case.
+      KEY ENTITIES: Stephen Nodine, Mobile County Commissioner, Baldwin County, Alabama, Oxygen Channel
+    llm_text: Stephen Nodine, former Mobile County Commissioner, faced political murder prosecution in Baldwin County, Alabama. Learn how local corruption and First Amendment rights fuel wrongful arrests of truth-tellers.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-06T20:13:21.899780Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    brief: |-
+      THE CONFLICT: Stephen Nodine was politically prosecuted for murder in Baldwin County, Alabama; Oxygen Channel show premieres Saturday, January 28, 2023, at 8PM.
+      THE DISCOVERY: Backstory Podcast No. 186 (newer) covers general Alabama legal and political issues, including proposed constitutional amendments, but does not specifically address the Nodine case.
+      THE PIVOT: Article 2 does not provide any direct update or evidence regarding the 2023 Nodine murder prosecution; it offers broad, unrelated Alabama political context.
+      KEY ENTITIES: Stephen Nodine, Mobile County Commissioner, Baldwin County, Alabama, Oxygen Channel, Backstory Podcast No. 186
+    llm_text: Stephen Nodine faces murder prosecution in Baldwin County, Alabama. Catch the Oxygen Channel premiere on January 28th to see the full story.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-06T20:11:53.625077Z"
+    model_name: plugsky-lite
+  stirring-the-pot-bsp:
+    brief: |-
+      THE CONFLICT: Stephen Nodine was politically prosecuted for murder in Baldwin County, Alabama, covered by a show premiering January 28, 2023.
+      THE DISCOVERY: Article 2 provides no direct update on the Stephen Nodine murder prosecution.
+      THE PIVOT: Article 2 does not provide context or evidence for the Stephen Nodine case.
+      KEY ENTITIES: Stephen Nodine, Baldwin County, Mobile County, Oxygen Channel, Governor Ivey, Fairhope, City of Bay Minette, OJ French Jr, Brandon Thompson, Andy Ruten, Bob Wills, Southern Research
+    llm_text: Stephen Nodine's Baldwin County murder prosecution has no recent updates, leaving questions about his case. See how this legal drama connects to events in Fairhope and Mobile County now.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-06T20:12:02.431791Z"
+    model_name: plugsky-lite
+  the-pete-rose:
+    brief: |-
+      THE CONFLICT: Stephen Nodine was politically prosecuted for murder in Baldwin County, Alabama, regarding the death of Thomas Daniel "Danny" Williams Jr on May 27, 2022 (body recovered May 29, 2022).
+      THE DISCOVERY: A reward is currently offered for information regarding the mystery of Thomas Daniel "Danny" Williams Jr's death.
+      THE PIVOT: The Widget Article establishes the victim's death in Orange Beach, Alabama (May 27, 2022), which predates the January 28, 2023, Oxygen Channel program detailing the prosecution against Stephen Nodine.
+      KEY ENTITIES: Stephen Nodine, Thomas Daniel "Danny" Williams Jr, Baldwin County, Alabama, Orange Beach, Alabama, Oxygen Channel, January 28, 2023, May 27, 2022
+    llm_text: Stephen Nodine faced murder charges in Baldwin County over Thomas Daniel "Danny" Williams Jr's May 27, 2022, death. Discover how the Orange Beach timeline predates the January 2023 Oxygen Channel program.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-06T20:12:10.701983Z"
+    model_name: plugsky-lite
+  hatians-eating-cats:
+    brief: |-
+      THE CONFLICT: Stephen Nodine was politically prosecuted for murder in Baldwin County, Alabama; event covered by a true crime news show premiering January 28, 2023.
+      THE DISCOVERY: Article 2 contains no factual update or proof related to the Stephen Nodine murder prosecution or case details.
+      THE PIVOT: Article 2 does not provide context or a 'smoking gun' for the Stephen Nodine case; the articles discuss unrelated topics (Haitian immigrants, Trump, Kent David, etc.).
+      KEY ENTITIES: Stephen Nodine, Oxygen Channel, Baldwin County, Alabama
+    llm_text: Stephen Nodine's murder prosecution in Baldwin County didn't get the true crime spotlight on the Oxygen Channel. Don't trust the noise—our article cuts through the unrelated chatter to give you what matters.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-06T20:12:17.850628Z"
+    model_name: plugsky-lite
+  the-180:
+    brief: |-
+      THE CONFLICT: Stephen Nodine was politically prosecuted for murder in Baldwin County, Alabama, detailed in an Oxygen Channel program airing January 28, 2023.
+      THE DISCOVERY: The newer article mentions Sheriff Mack is in office with one week remaining in Baldwin County, Alabama, and the Governor is selecting a replacement.
+      THE PIVOT: Article 2 does not provide direct context or a 'smoking gun' for Article 1; they cover separate, unrelated local/political updates in Baldwin County.
+      KEY ENTITIES: Stephen Nodine, Baldwin County, Alabama, Kamala Harris, RFK Jr, Trump, Sheriff Mack
+    llm_text: Stephen Nodine faced murder charges in Baldwin County, but Sheriff Mack's final week and the Governor's replacement selection offer a new look at local power. See how these separate Baldwin County updates shape the community's future.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-06T20:12:24.324033Z"
+    model_name: plugsky-lite
+  sheriff-mack-out-oj-french-lawsuit-in:
+    brief: |-
+      THE CONFLICT: Stephen Nodine was politically prosecuted for murder in "Bosom of Justice" (Baldwin County, Alabama) around January 28, 2023.
+      THE DISCOVERY: The Family of OJ French Jr filed a Federal Court lawsuit against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024, alleging Officer Thompson lacked probable cause and shot OJ French Jr.
+      THE PIVOT: Article 2 details a separate, recent, high-stakes legal/police incident involving Bay Minette/Officer Thompson, providing contemporary context to the broader political/legal atmosphere in Baldwin County, contrasting the Nodine prosecution timeline.
+      KEY ENTITIES: Stephen Nodine, OJ French Jr, Sheriff Mack, Officer Brandon Thompson, Mayor Robert Bob Wills, Matt McKenzie, Deputy Anthony Lowery, May Jung LLC, Baldwin County, Bay Minette.
+    llm_text: OJ French Jr's family sued Officer Brandon Thompson over the January 2023 shooting, raising questions in Baldwin County. See how a recent Bay Minette incident offers fresh context to the Stephen Nodine prosecution.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-06T20:12:31.779745Z"
+    model_name: plugsky-lite

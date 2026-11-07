@@ -1,0 +1,209 @@
+metadata:
+  generated_at: "2026-11-06T20:35:13.908323Z"
+  generator_version: 1.0.0
+  post_slug: alabama-black-hole
+  main_date: "2022-10-21"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  rumors:
+    brief: |-
+      THE CONFLICT:
+      1. Jonathan Victor was shot four times by sheriff deputy Hunady in April 2021.
+      2. O.J. French was shot in August 2020 after a vehicle equipment violation stop by Bay Minette Police.
+      3. The Mabel Amos Trust, established in 2010 following oil discovery on her land, was allegedly misused starting in 2014 by trustees and Regions Bank.
+      4. Tom Albritton was appointed Ethics Commission Executive Director in 2015.
+
+      THE DISCOVERY:
+      1. The Baldwin County Major Crimes Unit (BCMCU) is self-investigating, comprising Bay Minette Police Chief Al Tolbert and Sheriff Huey “Hoss” Mack (BCSO).
+      2. The Alabama Supreme Court upheld a Baldwin County ruling that investigative records (dash and body camera footage) from the 2017 Jonathan Victor shooting are exempt from open records law.
+      3. Sheriff Hoss Mack demanded $600,000 from taxpayers for cameras but BCSCU refused to share footage.
+      4. Lagniappe Mobile published an article on June 30, 2021, detailing Albritton's failure to disclose being a trustee of a multi-million dollar trust and the misuse of scholarship funds.
+
+      THE PIVOT:
+      1. Article 2 establishes a systemic pattern of cover-up, lack of transparency, and local government obstruction (e.g., withholding camera footage, self-investigation) in Baldwin County.
+      2. This pattern mirrors the state-level corruption alleged in Article 1, where state agencies (Alabama Bar, Ethics Commission) are accused of deliberately covering up self-dealing by officials like Tom Albritton.
+      3. It demonstrates that the "black hole" corruption is not isolated to ethics violations but is embedded across state and local political and law enforcement structures in Alabama.
+
+      KEY ENTITIES:
+      1. Tom Albritton (Ethics Executive Director)
+      2. Cynthia Raulston
+      3. Clark Morris (Special Prosecution Office)
+      4. Francis Paul Ripp (The Ripp Report)
+      5. Hoss Mack (BCSO Sheriff)
+      6. Jonathan Victor
+      7. O.J. French
+      8. Judge William Cassady
+      9. Mabel Amos
+      10. Regions Bank
+      11. BCSO
+      12. BCMCU
+      13. Alabama Supreme Court
+      14. Alabama Bar
+      15. Lagniappe Mobile
+    llm_text: The Alabama Supreme Court shielded records from the Jonathan Victor shooting while Hoss Mack's BCSO self-investigates. Tom Albritton's misuse of the Mabel Amos Trust proves local corruption runs deeper than just law enforcement.
+    widget_date: "2022-10-15"
+    generated_at: "2026-11-06T20:32:31.748052Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  wrongful-conviction:
+    brief: |-
+      THE CONFLICT: Murray Lawrence Jr was wrongfully convicted of murder and has been in jail since 2005.
+      THE DISCOVERY: Baldwin County BCSO has a history of withholding information, exemplified by Lt. Andre Reid stating officer body camera footage for Steve Nodine/Jonathan Victor will not be available.
+      THE PIVOT: Article 2 establishes a pattern of corruption and lack of transparency within Baldwin County BCSO (Hoss Mack involvement in Lawrence case), providing context for the broader claims of political/white-collar corruption against Alabama state agencies detailed in Article 1 (e.g., Ethics Commission/Alabama Bar).
+      KEY ENTITIES: Murray Lawrence Jr, Hoss Mack, District Attorney David Whetstone, Robert Wilters, Steve Nodine, Jonathan Victor, BCSO, Alabama Supreme Court, Clark Morris, Thomas Albritton, Cynthia Raulston, Mabel Amos.
+    llm_text: Murray Lawrence Jr suffered a wrongful conviction, but Baldwin County BCSO won't release key body camera footage. See how BCSO's history of secrecy connects to broader Alabama state corruption.
+    widget_date: "2022-10-05"
+    generated_at: "2026-11-06T20:31:19.849197Z"
+    model_name: plugsky-lite
+  court-of-public-opinion-2:
+    brief: |-
+      THE CONFLICT:
+      Tom Albritton, Executive Director of the Alabama Ethics Commission, engaged in "self-dealing" as a trustee of the Mabel Amos trust, utilizing $120,000 for his family/friends. The Mabel Amos trust was established by Mabel Amos and became flush with cash following oil discovery on her land in 2010 ($80 million production). The initial complaint was filed with the Alabama Ethics Commission and the Alabama Bar.
+
+      THE DISCOVERY:
+      Article 2 established that the Mabel Amos trust contained strict language prohibiting "self-dealing" (Section 4941(d)) and alleged that the Alabama Ethics Commission failed to hold Albritton accountable, choosing to overlook the violations.
+
+      THE PIVOT:
+      Article 2 provided the initial documented evidence of Albritton's alleged self-dealing and the Ethics Commission's initial non-action, setting the foundation for Article 1's escalation; Article 1 documents the subsequent failure of state agencies (AG Clark Morris, Ethics Commission, Alabama Bar) to respond to a new complaint filed on July 16, 2021, and August 21, 2022, indicating a systemic cover-up.
+
+      KEY ENTITIES:
+      Tom Albritton
+      Mabel Amos
+      Clark Morris (Attorney General of Alabama)
+      Steve Marshall (Governor)
+      Regions Bank
+      John Bell (Trustee)
+      Rick Clifton (Trustee)
+      Alabama Ethics Commission
+      Alabama Bar
+      The Ripp Report.com
+      Cynthia Raulston
+    llm_text: Tom Albritton, Alabama Ethics Director, allegedly self-dealt $120,000 from the Mabel Amos trust. State agencies, including AG Clark Morris, failed to act, suggesting a systemic cover-up you need to know about.
+    widget_date: "2021-09-04"
+    generated_at: "2026-11-06T20:35:00.478272Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  black-cloud:
+    brief: |-
+      THE CONFLICT: Tom Albritton, Executive Director of the Alabama Ethics Commission, allegedly engaged in "Self Dealing" by acting as a trustee of the multi-million dollar Mabel Amos trust (established around 2010 following oil discovery on her land). This involved altering trust records starting in 2014 to hide recipients, allowing Albritton to receive $120,000 for his children's education.
+
+      THE DISCOVERY: Article 2 (Widget), referencing Lagniappe's "Self Dealing" article (June 30, 2021), first exposed Albritton's conflict of interest, stating he helped oversee a charitable trust that paid over $100,000 for his children’s college tuition.
+
+      THE PIVOT: Article 2 establishes the factual basis of Albritton's financial misconduct; Article 1 (dated August 21, 2022) details the subsequent failure of state agencies (Alabama Attorney General Clark Morris, Ethics Commission, Alabama Bar) to investigate, alleging a state-level cover-up of the established crime.
+
+      KEY ENTITIES: Tom Albritton, Mabel Amos, Cynthia Raulston, Regions Bank, Clark Morris (Office of Special Prosecutions), Steve Marshall, Alabama Ethics Commission, Alabama Bar, Circuit Judge Ben Bowden, The Ripp Report.com
+    llm_text: Tom Albritton allegedly used the Mabel Amos trust to illegally siphon $120,000 for his children, violating ethics rules at the Alabama Ethics Commission. Discover how state officials, including AG Clark Morris, failed to investigate, suggesting a deep cover-up of this financial misconduct.
+    widget_date: "2021-10-08"
+    generated_at: "2026-11-06T20:33:57.234438Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  writ-of-mandamus-update:
+    brief: |-
+      THE CONFLICT:
+      July 16 2021: Francis Paul Ripp contacted Governor Steve Marshall/Clark Morris (Special Prosecution Office) regarding a complaint against Ethics Executive Director Tom Albritton.
+      October 18 [Year not specified, but before Nov 25]: Francis Paul Ripp filed a Writ of Mandamus which failed to get a hearing.
+      June 30 2021: Lagniappe published article "Self Dealing".
+      Around Jan 2022: Cynthia Raulston contacted Francis Paul Ripp regarding the complaint against Albritton.
+      August 21 2022: Francis Paul Ripp sent a follow-up complaint to Clark Morris.
+      Nov 25 [Year not specified, but before Aug 21 2022 context]: Judge Johnny Hardwick (Montgomery Circuit Judge) was scheduled to hear a STATUS REVIEW on Ripp's Writ of Mandamus, but recused himself.
+
+      THE DISCOVERY:
+      Article 2 (Widget, older) confirmed that the Mabel Amos Memorial Fund, a private trust, was involved in allegations of Albritton’s "self Dealing" as a trustee and that a civil case against Regions Bank involving the trust trustees would be filed.
+      Article 1 (Main, newer) detailed that Albritton failed to disclose his trustee duties on his economic statement, benefited financially ($120,000) via scholarships, and that the trust's handling was altered in 2014 involving Regions Bank.
+
+      THE PIVOT:
+      Article 2 established the initial legal action (Writ of Mandamus filing on Oct 18) and the subject matter (Albritton's "self Dealing" of the Mabel Amos Memorial Fund and pending civil suit against Regions Bank), providing the factual basis for the subsequent escalation and detailed accusations in Article 1.
+
+      KEY ENTITIES:
+      Francis Paul Ripp
+      Tom Albritton
+      Cynthia Raulston
+      Clark Morris
+      Steve Marshall
+      Regions Bank
+      Mabel Amos
+      Judge Johnny Hardwick
+      Alabama Ethics Commission
+      Alabama Bar
+      Harry Still
+      Lagniappe Mobile
+      Circuit Judge Ben Bowden
+    llm_text: Francis Paul Ripp sued Ethics Executive Director Tom Albritton over the Mabel Amos Memorial Fund's "self dealing." See our widget article for how Albritton financially benefited $120,000 without disclosing his trustee duties.
+    widget_date: "2021-10-26"
+    generated_at: "2026-11-06T20:31:30.519245Z"
+    model_name: plugsky-lite
+  your-rights-your-money:
+    brief: |-
+      THE CONFLICT:
+      *   2017: Lagniappe in Mobile requested release of details on a 2017 traffic stop and fatal shooting involving Baldwin County Sheriff Huey Mack.
+      *   2014-2017: Covington County Circuit Court Judge Ben Bowden received $45,000 in scholarships for his child from the Mabel Amos Memorial Foundation.
+
+      THE DISCOVERY:
+      *   Alabama Supreme Court ruled to hide "any materials related to a particular investigation" and "items of substantive evidence" from public eye regarding a Baldwin County investigation.
+      *   Alabama Supreme Court insulated Baldwin County Sheriff Department (BCSO) from transparency/accountability.
+      *   BCSO approved $662,597 expenditure for 129 body cameras, despite subsequent legal refusal to produce footage.
+
+      THE PIVOT:
+      *   The Supreme Court ruling (Article 2) provided the judicial insulation that allowed the Ethics Commission and Alabama Bar (discussed in Article 1) to allow Tom Albritton and associates to continue the "self-serving" of the Mabel Amos trust without public oversight.
+
+      KEY ENTITIES:
+      *   Huey Mack / Hoss Mack (Baldwin County Sheriff)
+      *   Tom Albritton (Ethics Executive Director)
+      *   Cynthia Raulston
+      *   Clark Morris (Attorney General of Alabama)
+      *   Steve Marshall (Governor)
+      *   Mabel Amos (Trust founder)
+      *   Ben Bowden (Covington County Circuit Court Judge)
+      *   Regions Bank
+      *   Lagniappe in Mobile
+      *   Alabama Supreme Court
+      *   Baldwin County Sheriff Department (BCSO)
+      *   Tripp Pittman
+    llm_text: Baldwin County's Supreme Court ruling shields Sheriff Huey Mack from transparency, allowing Judge Ben Bowden's $45k trust funds to bypass oversight. See how this judicial insulation impacts accountability now.
+    widget_date: "2021-09-27"
+    generated_at: "2026-11-06T20:31:39.733651Z"
+    model_name: plugsky-lite
+  license-to-steal:
+    brief: |-
+      THE CONFLICT:
+      - March 15, 2018: Steve Marshall (AG) stated corruption would not be tolerated and committed to cutting corruption.
+      - March 20, 2018: Steve Marshall stated citizens could not expect AG to investigate if Ethics Commission Director and Vice Chair were accused.
+      - March 27, 2018: Steve Marshall stated his priority was ensuring integrity and building on ethics laws.
+      - July 28, 2021: Sheriff Mike Blakely corruption trial recap mentioned (state lawmaker testified, prosecutor dropped 1 of 11 charges).
+      - August 4, 2021: Hearing for Columbia Mayor Rhonda Freeman (Case numbers 2020-0337 & 0361) was scheduled at RSA Building.
+      - June 30, 2021: Lagniappe published "Self Dealing" article.
+
+      THE DISCOVERY:
+      - Article 1 (dated August 21, 2022) details a new complaint against Ethics Executive Director Tom Albritton regarding "Self Dealing" from the Mabel Amos trust.
+      - Article 1 asserts that Albritton failed to disclose being a trustee of a multi-million dollar trust and benefited $120,000 via scholarships for his children.
+      - Article 1 states initial complaints against Albritton and Cynthia Raulston (from Jan 2022) were ignored by the Ethics Commission and Alabama Bar.
+      - Article 1 notes previous complaints against Albritton and Raulston implicated Lawyers, a Judge, Council President, councilman, and a mayor, who received a pass.
+
+      THE PIVOT:
+      - Article 2 (2018-2021) established a pattern of public statements by Steve Marshall regarding the need to combat corruption while simultaneously noting the Ethics Commission Director and Vice Chair were accused, suggesting systemic failure or inaction.
+      - Article 1 (2022) demonstrates that this systemic failure materialized into a specific, ongoing financial misconduct case against Tom Albritton (Ethics Director) involving the Mabel Amos trust, confirming the concern raised previously.
+
+      KEY ENTITIES:
+      - Steve Marshall (AG of Alabama)
+      - Tom Albritton (Ethics Executive Director)
+      - Cynthia Raulston
+      - Mabel Amos
+      - Clark Morris (Special Prosecution Office)
+      - The Ripp Report.com (Francis Paul Ripp)
+      - Alabama Ethics Commission
+      - Alabama Bar
+      - Regions Bank
+      - Circuit Judge Ben Bowden
+      - Rhonda Freeman (Columbia Mayor)
+      - John Plunk (Vice Chair of Ethics)
+    llm_text: Steve Marshall vowed to fight corruption, yet Ethics Director Tom Albritton benefited $120k from the Mabel Amos trust. See how ignored complaints expose systemic failures within Alabama's ethics system.
+    widget_date: "2021-07-28"
+    generated_at: "2026-11-06T20:31:51.305268Z"
+    model_name: plugsky-lite
+  in-your-face:
+    brief: |-
+      THE CONFLICT: Robert Brown, Fairhope City Councilman, secured a contract with Eastern Shore Art Center despite Ethics Commission warning (Feb. 26 2018).
+      THE DISCOVERY: Complaint filed against Ethics Executive Director Tom Albritton regarding self-dealing and the Mabel Amos trust, involving Regions Bank and Circuit Judge Ben Bowden (August 21 2022).
+      THE PIVOT: Article 2 (2018) demonstrates prior documented failures of the Ethics Commission to hold elected officials like Robert Brown accountable, setting the context for later allegations against Albritton (2022) regarding the failure to investigate self-dealing.
+      KEY ENTITIES: Robert Brown, Thomas B. Albritton, Theresa Davis, Francis Paul Ripp, Clark Morris, Mabel Amos, Regions Bank, Ben Bowden, Cynthia Raulston, Steve Marshall, Fairhope Airport, Ethics Commission.
+    llm_text: Councilman Robert Brown ignored an Ethics Commission warning for an Eastern Shore Art Center contract; see how later self-dealing allegations against Ethics Director Tom Albritton expose deeper accountability failures.
+    widget_date: "2018-02-28"
+    generated_at: "2026-11-06T20:32:01.282833Z"
+    model_name: plugsky-lite

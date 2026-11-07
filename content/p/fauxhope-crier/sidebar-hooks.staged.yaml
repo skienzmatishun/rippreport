@@ -1,0 +1,167 @@
+metadata:
+  generated_at: "2026-11-06T19:12:54.927889Z"
+  generator_version: 1.0.0
+  post_slug: fauxhope-crier
+  main_date: "2023-09-05"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-mug-shot:
+    brief: |-
+      THE CONFLICT: No specific past conflict is shared between the two articles; Article 2 covers convictions (William Coleman Barkley, 35 years) and political events (Donald Trump RICO prosecution, Steve Marshall allegations), while Article 1 focuses on Fauxhope's current municipal issues.
+      THE DISCOVERY: Article 2 is a collection of diverse local Alabama political, legal, and infrastructure news from a past period; it does not provide background context for Fauxhope's current council dynamics (Article 1).
+      THE PIVOT: Article 2 is NOT a 'smoking gun' for Article 1; the two articles cover separate jurisdictions (Foley/Decatur vs. Fauxhope) and unrelated topics (national politics/crime vs. local utility/developer influence).
+      KEY ENTITIES: Cory Martin, Fauxhope City Council, Mayor/Utility Director, Municipal Judges project, Donald Trump, Steve Marshall (Alabama Attorney General), Chris Elliott (State Senator), William Coleman Barkley, Baldwin Bridge Company, Richard Scrushy.
+    llm_text: Fauxhope City Council battles developer influence and municipal issues. Dig into Alabama's complex political history, including William Coleman Barkley's convictions and Donald Trump's RICO prosecution.
+    widget_date: "2023-08-28"
+    generated_at: "2026-11-06T19:12:35.653963Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  trump-n-bama:
+    brief: |-
+      THE CONFLICT:
+      - Fauxhope government — Mayor, City Council, Municipal Judge, Municipal Attorney — supported 100% by special interests, developers, and good ole boys; they OWN Fauxhope.
+      - Fairhope City Council could soon vote on an ordinance requiring people to annex inside city limits before tapping into Fairhope water; Councilman Corey Martin introduced the ordinance during the council's regular meeting rescheduled for Tuesday night.
+      - Councilman Cory Martin (City Council Crier) pledged to support the African American community; Cory has not been seen in the African American community, which he pledged to support.
+      - Fauxhope did not want an increase in African American residents in Fauxhope; duck pond and beach fees started to eliminate or restrict non-resident African Americans from Mobile picnicking on the beach.
+      - Infrastructure issues existed and been ignored for 20 years; issues with water, infrastructure, and Municipal Judges east side project known to rest of council.
+      - City paying over $500,000.00 a year for full family insurance for council and mayor; term will cost taxpayers 2.5 million in full family insurance costs.
+
+      THE DISCOVERY (Article 2 — older, background/context):
+      - Fairhope Alabama has an infrastructure problem (shocker); this time they are out of water.
+      - Former President Donald Trump attended Alabama GOP Summer event after arraignment in Washington DC; promised six-lane I-65 from Huntsville to Mobile; presumably recompense for Space Command debacle; endorsed by all ALGOP Congressmen; Tommy Tubberville of said Space Command debacle alleged to not own any property in the State he represents.
+      - GOP decided any Republican running for any elected position on local school boards would be prohibited from taking money from the Alabama Education Association.
+      - Montgomery was host to a "racially motivated brawl" that occurred at the Waterfront Park.
+      - Rape kit almost impossible for a victim of a sexual assault to have evidence collected in Baldwin County.
+      - EPA is poised to deny Alabama Power Companies plan to cap in place 80 years of industrial waste in the form of coal ash.
+      - State of Alabama issued a new fish consumption advisory...dont eat a bass unless it came out of a pond.
+      - Jubilee Season in Daphne; ADCNR wants to remind you that creel limits are not abated during the occurrence.
+      - Marion County Kansas and Baldwin County Alabama seem to be the only places in America where the 4th Estate and freedom of the press means diddly-squat.
+      - Father Alex Crow Aka The Mobile Exorcist was a high school girl grooming sexual predator all along.
+      - Montgomery Judge suspended licenses issued by the embattled Alabama Medical Cannabis Commission for entering into executive session to illegally discuss the licensures of individual applicants.
+      - CDC confirmed the existence of an illegal lab discovered in California run by Chinese Nationals that contained Covid 19, HIV, Herpes, etc.
+      - State Senator Tim Melson is back stateside after a heart attack in Korea last week.
+      - Karol Kemp and Michael Hoyt have announced that they are seeking two of the three new judicial positions created by the legislature and on the ballot next cycle.
+      - Alabama's hearing regarding their US Congressional reapportionment did not go well on Monday.
+      - Murray "Bubba" Lawrence Jr wrongful conviction website has a new FULL STORY tab that went live this week at deal-with-the-devil.com.
+
+      THE PIVOT:
+      - Article 2 is older than Article 1; Article 2 revealed Fairhope's infrastructure problem and out-of-water status as background context.
+      - Article 2 frames Article 1's conflict: Fairhope out of water, infrastructure problem, water issues — which connects to Article 1's newer coverage of Cory Martin, the annexation ordinance, and the Municipal Judges east side project.
+      - Article 2's context shows the infrastructure issue existed prior (20 years / 30 years), making Article 1's current water/ordinance conflict part of a longer pattern.
+
+      THE KEY ENTITIES:
+      - Cory Martin / Corey Martin, City Council Crier, Councilman, Fairhope City Council, Fauxhope Mayor, Municipal Judge, Municipal Attorney, Utility Director, Cory the Crier, Municipal Judges east side project, ALDI store, Fairhope water, Fairhope Budget Overview, State of the City, African American community, special interests, developers, good ole boys.
+      - Donald Trump, Alabama GOP, Tommy Tubberville, Space Command, ALGOP Congressmen, Alabama Education Association, local school boards, Montgomery, Waterfront Park, Baldwin County, EPA, Alabama Power Companies, coal ash, State of Alabama, fish consumption advisory, Jubilee Season, Daphne, ADCNR, creel limits, Marion County, Kansas, 4th Estate, freedom of press, Father Alex Crow, Mobile Exorcist, Montgomery Judge, Alabama Medical Cannabis Commission, CDC, illegal lab, California, Chinese Nationals, Covid 19, HIV, Herpes, State Senator Tim Melson, Korea, Karol Kemp, Michael Hoyt, judicial positions, legislature, ballot, US Congressional reapportionment, Rich men North of Richmond, Murray "Bubba" Lawrence Jr, deal-with-the-devil.com, Gov Ivey, Governor Ivey, 2% unemployment, Huntsville, Mobile, I-65, CVB, Infrastructure problem, Out of water.
+    llm_text: Councilman Cory Martin promised the African American community he'd fight for them, then pushed an annexation ordinance that could cut off water for outsiders. With the mayor, judge, and attorney in the pocket of good ole boys while Fairhope runs out of water, who's looking out for you?
+    widget_date: "2023-08-25"
+    generated_at: "2026-11-06T19:10:55.773838Z"
+    model_name: recursive/flint-v1.0:free
+  all-mouth:
+    brief: |-
+      THE CONFLICT: In 2013, instead of building a new sewer plant for approximately $20 million, Councilman Jack Burrell led the charge to upgrade the failing wastewater treatment plant at the north end of Church Street. The council initially approved $10 million for upgrades, which ballooned to $13 million by completion (referenced later as a comprehensive upgrade completed in 2015 costing $12 million). Additionally, historical infrastructure neglect spans 20 to 30 years, driven by special interests and developers.
+
+      THE DISCOVERY: Article 2 (ALL MOUTH) revealed that Jack Burrell has a long history of misleading taxpayers regarding city infrastructure and sewer costs—specifically opposing a $5 million headworks replacement in favor of previous patch jobs—while covering up the true strain that out-of-control development places on city utilities. It also documented how Mayor Sullivan took on the Utilities Superintendent role to double-dip and boost her salary above $100K without proper experience, alongside a non-budgeted $2.65 million land purchase near the airport.
+
+      THE PIVOT: Article 2 serves as the smoking gun because it exposes the multi-decade hypocrisy of veteran council members like Jack Burrell, proving that current utility and sewer crises—which new council spokesperson Cory Martin is now left to awkwardly defend—were directly caused by Burrell's past decisions to cheap out on infrastructure (choosing a $13M patch over a $20M new plant in 2013) to appease developers.
+
+      KEY ENTITIES:
+      - Cory Martin (Councilman / "Cory the Crier" / Utility Spokesperson)
+      - Jack Burrell (Long-term Councilman)
+      - Mayor Sullivan (Mayor / Utilities Superintendent)
+      - Mayor Wilson (Former Mayor)
+      - ALDI store
+      - Fairhope Municipal Judge
+      - Church Street wastewater treatment plant
+      - Gayfer Road roundabout / CR 13
+    llm_text: Veteran Councilman Jack Burrell spent decades covering up infrastructure strains by choosing cheap patch jobs over a real fix, leaving Cory Martin to defend the fallout. Discover how Burrell's 2013 sewer Gamble created today's crisis.
+    widget_date: "2023-05-25"
+    generated_at: "2026-11-06T19:10:14.688209Z"
+    model_name: gemini-3.5-flash-lite
+  bull:
+    brief: |-
+      THE CONFLICT:
+      *   Mayor Karen Wilson managed Fairhope from 2016–2000.
+      *   Wilson neutered "good ole boy" connections for city contracts.
+      *   Wilson refused to take two positions (Mayor/Utility Director) and two salaries, forgoing $60k of the $90k historical pay.
+      *   Financial mismanagement occurred via "co-mingling of money," hiding City operating expenses in the Utility budget and transferring profits.
+      *   Council cut infrastructure funds for the Sewer System in 2017 and 2018, despite Operation Director advice.
+
+      THE DISCOVERY:
+      *   The current administration (Council/Mayor) reversed Mayor Karen Wilson's gains.
+      *   The water issue is rooted in the "pro development mentality of the same good ole boys," not solely infrastructure neglect.
+      *   City operates on tax dollars; Utility Department operates on rate fees.
+      *   Current family insurance cost for elected officials is a minimum of $374k.
+
+      THE PIVOT:
+      *   Article 2 establishes that the current council's push for developer-focused infrastructure (like the ALDI water line and Municipal Judges project mentioned in Article 1) is part of a historical "pro development mentality" cycle, not just a modern mistake.
+      *   Article 2 provides context that Wilson attempted to reform the financial and operational systems that the current council is reportedly reversing.
+
+      KEY ENTITIES:
+      *   Cory Martin (Councilman)
+      *   Karen Wilson (Former Mayor/Utility Director)
+      *   Fairhope City Council
+      *   Mayor/Utility Director
+      *   Municipal Judge
+      *   Municipal Attorney
+      *   2016–2000
+      *   $60,000
+      *   $374,000
+      *   ALDI store
+    llm_text: Former Mayor Karen Wilson reformed Fairhope from 2016–2000, forgoing $60k to clean up city contracts. Is the current council's focus on projects like the ALDI water line reversing her financial gains and perpetuating a "pro development" cycle?
+    widget_date: "2023-08-09"
+    generated_at: "2026-11-06T19:11:15.450873Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  i-see-you:
+    brief: |-
+      THE CONFLICT: Haymes Snedeker appointed Municipal Judge by City Council on Monday, May 22, 2023.
+      THE DISCOVERY: Council approved the appointment of Municipal Judge Haymes Snedeker, who is also identified as the largest developer in Fauxhope, without broad public discussion.
+      THE PIVOT: Article 2 establishes Snedeker's conflict of interest (developer/judge/approver) which directly contextualizes Cory Martin's claims in Article 1 regarding infrastructure for Snedeker's East side/ALDI development.
+      KEY ENTITIES: Cory Martin, Haymes Snedeker, Fauxhope City Council, Jody W. Bishop, RH Deas Building Co., LLC, ProTecVideo, LLC, ALDI
+    llm_text: Fauxhope Council appointed developer Haymes Snedeker as Municipal Judge without public debate. See how this conflict impacts Cory Martin's push for infrastructure for Snedeker's ALDI development.
+    widget_date: "2023-05-23"
+    generated_at: "2026-11-06T19:10:17.194761Z"
+    model_name: plugsky-lite
+  fauxhope-tunnel:
+    brief: |-
+      THE CONFLICT:
+      - The City of Fairhope lost a two-decade lawsuit over the infamous "triangle" property, resulting in an $8.25 million payout.
+      - The city spent $3 million on legal fees; city attorneys pledged to pay if they lost but failed to do so, instead getting brand new offices while $3 million was drained directly from city utilities to cover the settlement.
+      - On May 29th, the Mayor begged the council to reconsider a conservation easement involving the 102-acre triangle property valued at $20 million, which the council was willing to give away while simultaneously proposing to buy $2.6 million of property on Hwy. 13.
+      - Council members Burrell and Boone supported the lawsuit that the city ultimately lost.
+      - The city spent $2.65 million on recreation land near the airport that Fairhope now leases back for $9,000 a year, and purchased the K-1 building for $4 million without a plan, subsequently requiring roughly $100,000 in temporary roof repairs as the building deteriorated.
+
+      THE DISCOVERY:
+      - Historical background shows a multi-million dollar track record of financial waste, botched land acquisitions, and lack of long-range planning by the Fairhope City Council and Mayor.
+      - The city has repeatedly engaged in questionable real estate and development maneuvers, such as trying to give away a $20 million triangle property via conservation easement, attempting various abandoned proposals on the site (performing arts center, archery range, city hall/fire station, or letting Publix go across the street), and planning an underground tunnel and masterplan through Goodwyn, Mills and Cawood presented by Scott Hutchinson on Monday, March 14.
+      - City leadership is tied to special interests, developers, and "good ole boys," with the city attorney protecting their agenda and a municipal judge who is a major developer in Fairhope whose projects require council approval.
+
+      THE PIVOT:
+      - Article 2 serves as the smoking gun because it exposes the deep-seated, 20-year history of financial mismanagement, developer favoritism, and backroom deals that directly enable current councilman Cory Martin's uncritical promotion of the Municipal Judge's east side commercial project and developer-driven infrastructure.
+      - It proves that the current rubber-stamping of developer projects and infrastructure prioritization (like the ALDI store and judge's project) is just a continuation of the same corrupt, taxpayer-funded vanity projects and fiscal irresponsibility (such as the $8.25 million triangle lawsuit loss and $4 million uncalculated K-1 purchase) documented in the past.
+
+      KEY ENTITIES:
+      - Cory Martin (Councilman / "Cory the Crier")
+      - Scott Hutchinson (Goodwyn, Mills and Cawood)
+      - Burrell (Council member)
+      - Boone (Council member)
+      - ALDI
+      - Goodwyn, Mills and Cawood
+    llm_text: Fairhope leaders drained $3 million from city utilities to cover a botched lawsuit while dropping $4 million on the deteriorating K-1 building. Read how this twenty-year history of financial recklessness directly fuels Councilman Cory Martin's current developer-driven deals today.
+    widget_date: "2023-05-09"
+    generated_at: "2026-11-06T19:10:21.139511Z"
+    model_name: gemini-3.5-flash-lite
+  mouthpiece:
+    brief: |-
+      THE CONFLICT: Jack Burrell on the council 10 years ago was directly involved in slowing down or not approving infrastructure projects, despite promising no federal money or tolls for the Toll Bridge/Bayway project.
+      THE DISCOVERY: Article 2 shows historical context of infrastructure failures in Fairhope linked to Jack Burrell's tenure and support for tolls/development.
+      THE PIVOT: Article 2 establishes a history of deferred infrastructure needs and development prioritization (tolls/growth) which is the 20-year issue Cory Martin references in Article 1 (e.g., water/infrastructure issues, Municipal Judges project supporting commercial build-out).
+      KEY ENTITIES: Jack Burrell, Cory Martin, Fauxhope City Council, Toll Bridge, Municipal Judges project, ALDI store, Baldwin County
+    llm_text: Jack Burrell slowed infrastructure in Fairhope ten years ago despite toll promises. See how his past decisions fuel the water and development issues Cory Martin highlights today.
+    widget_date: "2022-08-20"
+    generated_at: "2026-11-06T19:10:25.029240Z"
+    model_name: plugsky-lite
+  fairhope-waterfront:
+    brief: "THE CONFLICT: \n- Fairhope government officials, Mayor, City Council, Municipal Judge, and Municipal Attorney operated entirely backed by special interests, developers, and good ole boys over a 20-to-30-year period.\n- The Fairhope City Council spent $2,650,000 of taxpayer money on recreation property without any public participation.\n- The city is currently paying over $500,000 a year for full family insurance for the council and mayor, totaling $2.5 million over their term.\n- Historical institutional exclusion: Infrastructure issues and water access have been ignored for 20 years to restrict/limit African American residents and non-resident visitors from Mobile (such as implementing duck pond and beach fees).\n- Councilman Cory Martin (\"Cory the Crier\") introduced a new ordinance requiring people to annex inside city limits before tapping into Fairhope water, while publicly pushing infrastructure for commercial projects like the ALDI store and the Municipal Judge's east side project.\n\nTHE DISCOVERY (Background context from the older Waterfront article):\n- The Fairhope Waterfront project initially secured City Council approval for $500,000 for engineering and conceptual plans based on community input (493 questionnaire respondents and public meetings).\n- The project involves a $6,200,000 grant from BP—the first major project on the Fairhope waterfront in 50 years.\n- The \"CATALYST Council\" attempted to distance themselves from the plan, shifting blame to the Mayor and claiming citizens were unfamiliar with the 2-year-old proposal, while engineering firm Goodwyn Mills & Cawood held a press conference at Fairhope City Hall to dispel social media misconceptions and political attacks from the council.\n\nTHE PIVOT:\n- The older Waterfront article acts as the smoking gun because it exposes the exact same pattern of political manipulation, hypocrisy, and deflection by the Fairhope City Council (\"CATALYST Council\") that Councilman Cory Martin is now carrying forward. \n- Just as the past council played games to tank a $6.2 million BP waterfront grant while quietly spending $2.65 million on recreation property without public input, the current council is hiding behind new spokesmen like Cory Martin to push developer-driven projects (like the Municipal Judge's project and ALDI infrastructure) while ignoring 20-year-old infrastructure crises and wasting $2.5 million on council/mayor family insurance.\n\nKEY ENTITIES:\n- Cory Martin (Councilman / \"Cory the Crier\")\n- Goodwyn Mills & Cawood (Engineering firm)\n- ALDI\n- BP (Grant provider)\n- Fairhope City Council / CATALYST Council"
+    llm_text: Councilman Cory Martin and the Fairhope City Council are repeating a decades-long game of political manipulation, sinking community grants while wasting millions of taxpayer dollars on themselves. Dive into the smoking-gun evidence proving how this regime protects developers and special interests at your expense.
+    widget_date: "2020-06-27"
+    generated_at: "2026-11-06T19:10:27.280510Z"
+    model_name: gemini-3.5-flash-lite
