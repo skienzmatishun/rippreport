@@ -1299,6 +1299,18 @@ func (a *App) runNewPost(ctx context.Context, args []string) int {
 	if *categories != "" {
 		categoryList = parseSlugs(*categories)
 	}
+	if isPodcast {
+		hasPodcast := false
+		for _, category := range categoryList {
+			if category == "podcast" {
+				hasPodcast = true
+				break
+			}
+		}
+		if !hasPodcast {
+			categoryList = append(categoryList, "podcast")
+		}
+	}
 
 	var tagList []string
 	if *tags != "" {

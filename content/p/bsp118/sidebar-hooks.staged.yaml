@@ -1,0 +1,240 @@
+metadata:
+  generated_at: "2026-11-07T01:46:09.192381Z"
+  generator_version: 1.0.0
+  post_slug: bsp118
+  main_date: "2022-03-09"
+  model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+hooks:
+  the-crime-of-the-century:
+    brief: |-
+      THE CONFLICT:
+      *   Attorney General Steve Marshall accepted $725,000.00 from an out-of-State Political Action Committee during the last election cycle.
+      *   The Alabama Ethics Commission cleared Marshall in a 3-2 vote, finding insufficient evidence.
+      *   Mr. Ripp sued the Ethics Commission, which was dismissed because the Commission argued Ripp should have sued on behalf of the State of Alabama.
+
+      THE DISCOVERY:
+      *   Governor Kay Ivey fired Admiral Kent Davis and attempted to control the veterans’ board, upsetting veteran support.
+      *   A true crime story in Clarke County exposed a hospice business's shady ties to a judge, illustrating local "good old boy" system corruption.
+      *   A court case ruled that people cannot sue over a wrong SWAT raid, questioning police accountability.
+
+      THE PIVOT:
+      *   Article 2 demonstrates that the systemic lack of accountability and corruption (referenced in Article 1's Ethics Commission dismissal) is not limited to high-level political finance but is deeply entrenched in local government (Clarke County judge/hospice) and state operations (Ivey/Davis firing/police accountability).
+
+      KEY ENTITIES:
+      *   Harry Still
+      *   Raines Rushin
+      *   Steve Marshall
+      *   Troy King
+      *   Mr. Ripp
+      *   Alabama Ethics Commission
+      *   Kay Ivey
+      *   Admiral Kent Davis
+      *   Clarke County
+    llm_text: Steve Marshall accepted $725,000 from an out-of-state PAC, yet the Alabama Ethics Commission cleared him. Don't think corruption stops at the capitol; Clarke County true crime exposes how local judges and hospice businesses operate within the same "good old boy" system.
+    widget_date: "2025-02-01"
+    generated_at: "2026-11-07T01:35:09.492840Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  scalped:
+    brief: |-
+      THE CONFLICT: Steve Marshall, Attorney General, accepted $725,000.00 from an out-of-State Political Action Committee (Dark Money) during the last election cycle. The Alabama Ethics Commission cleared him in a 3-2 vote. Mr. Ripp sued the Ethics Commission, but the case was dismissed last week.
+      THE DISCOVERY: Companies with political ties are scoring million-dollar contracts, exemplified by the construction bid award for the new Baldwin County District Attorney building. Scholarships intended for the public went to insiders, highlighting a lack of accountability in court scandals.
+      THE PIVOT: The Marshall/Ethics Commission case (Article 1) is not an isolated incident of AG corruption but part of a broader, systemic issue where political ties allow insiders (like Marshall) to receive illicit funds and score favorable contracts, escaping investigation and accountability, as shown in Article 2.
+      KEY ENTITIES: Harry Still, Raines Rushin, Steve Marshall, Troy King, Mr. Ripp, Alabama, Baldwin County, May 24th (Republican Primary), Alabama Ethics Commission.
+    llm_text: Steve Marshall accepted $725k dark money, yet the Alabama Ethics Commission cleared him. See how political ties let insiders score million-dollar contracts, like the Baldwin County DA building, bypassing accountability for the public.
+    widget_date: "2025-01-13"
+    generated_at: "2026-11-07T01:37:31.253448Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-188-assassins-drones-and-political-corruption:
+    brief: |-
+      THE CONFLICT: Steve Marshall (Attorney General) took $725,000.00 from an out-of-State Political Action Committee last election cycle; the Alabama Ethics Commission dismissed the Ethics Complaint in a 3-2 vote.
+
+      THE DISCOVERY: The Alabama Court of Civil Appeals released a ruling today regarding Mack vs Hadley, confirming a Brady Violation due to two autopsies ordered in 2005 by the Coroner of Baldwin County never being disclosed to the Defense (Murray Lawrence Jr.).
+
+      THE PIVOT: Both articles establish widespread, systemic corruption in Alabama's political and legal structures, encompassing the AG office/Ethics Commission (A1) and judicial/law enforcement failures (corrupt Judge Mark Fuller, Baldwin County Sheriff’s Department actions in A2), demonstrating institutional immunity to accountability.
+
+      KEY ENTITIES: Harry Still, Raines Rushin, Steve Marshall, Troy King, Mr. Ripp, Luigi Manjone, Mark Fuller, Dothan Summer Feeding Scandal, Baldwin County Sheriff's Department, Murray Lawrence Jr.
+    llm_text: Steve Marshall took $725,000 from an out-of-state PAC, yet the Alabama Ethics Commission dismissed the complaint. The Court of Civil Appeals simultaneously confirmed a Brady Violation in Mack vs Hadley after crucial 2005 autopsies were never disclosed to the defense.
+    widget_date: "2024-12-13"
+    generated_at: "2026-11-07T01:38:57.633121Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-187-the-pardon:
+    brief: |-
+      THE CONFLICT:
+      Harry Still (Republican) is running for Attorney General of Alabama against a Democrat (Don Siegleman, previously appointed until 2011).
+      Attorney General Steve Marshall took $725,000.00 from an out of State Political Action Committee (Dark Money) in the last election cycle.
+      The Alabama Ethics Commission approved the payment in a 3-2 vote, finding insufficient evidence of misconduct.
+      Raines Rushin (Democrat) is the host of Backstory Podcast, which highlights public corruption in Alabama.
+      The Ethics Commission represented itself when Ripp sued to compel legal obligations; the case was dismissed last week (prior to the May 24th primary).
+
+      THE DISCOVERY:
+      Article 2 shows ongoing patterns of government misconduct, including President Biden pardoning his son Hunter and allegations of misconduct against various officials.
+      Article 2 also confirms instances of wrongful arrests of individuals who exposed corruption in their local school district, linking local exposure of corruption to First Amendment issues.
+
+      THE PIVOT:
+      Article 2 provides broader context that the corruption detailed in Article 1 (Alabama AG/Ethics Commission) is not isolated, but part of a national trend of political misconduct and the suppression of whistleblowers/critics.
+
+      KEY ENTITIES:
+      Harry Still
+      Raines Rushin
+      Steve Marshall
+      Don Siegleman
+      Troy King
+      Alabama Ethics Commission
+      President Biden
+      Hunter Biden
+      The Ripp Report
+    llm_text: Harry Still challenges incumbent Steve Marshall in the Alabama AG race, despite Marshall taking $725k from dark money. This local Ethics Commission failure mirrors a national pattern of political misconduct, including issues involving President Biden and whistleblower suppression.
+    widget_date: "2024-12-07"
+    generated_at: "2026-11-07T01:39:52.362102Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  backstory-podcast-no-186-change-is-coming-alabama:
+    brief: |-
+      THE CONFLICT:
+      *   Harry Still (Republican) ran for Alabama Attorney General during the primary election on May 24th.
+      *   Attorney General Steve Marshall received $725,000.00 from an out-of-state Political Action Committee (Dark Money).
+      *   Troy King filed an Ethics Complaint against Steve Marshall.
+      *   The Alabama Ethics Commission voted 3-2 to dismiss the complaint, citing insufficient evidence.
+      *   The Ripp Report sued the Ethics Commission to compel legal obligations; the case was dismissed last week (argument: Ripp should have sued on behalf of the State of Alabama).
+
+      THE DISCOVERY:
+      *   Backstory Podcast No. 186 covers the 2024 US Presidential election results.
+      *   The podcast discusses ongoing Alabama issues, specifically the closing of rural hospitals and changes to hunting seasons.
+      *   The episode includes input from a Veterans/Consumer Advocate, a journalist, and an attorney.
+
+      THE PIVOT:
+      *   Article 1 focused on state-level corruption and election integrity (AG race, Ethics Commission failure).
+      *   Article 2 provides the post-election context (2024 results) and shows that the consumer protection concerns highlighted by The Ripp Report are compounded by critical, non-electoral state issues (rural hospital closures, hunting changes).
+
+      KEY ENTITIES:
+      *   Harry Still
+      *   Raines Rushin
+      *   Steve Marshall
+      *   Troy King
+      *   Alabama Ethics Commission
+      *   The Ripp Report (Not For Profit Consumer Protection Agency)
+      *   Backstory Podcast No. 186
+      *   Alabama
+    llm_text: Despite the Alabama Ethics Commission dismissing Troy King's complaint against Steve Marshall's $725k dark money, the crisis goes deeper. Listen to Backstory Podcast No. 186 to understand how rural hospital closures and hunting changes impact your life.
+    widget_date: "2024-11-27"
+    generated_at: "2026-11-07T01:36:27.438373Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  stirring-the-pot-bsp:
+    brief: |-
+      THE CONFLICT:
+      Harry Still (Republican) is running for Attorney General of Alabama against Don Siegleman (former appointed Democrat) during a primary election on May 24th.
+      Attorney General Steve Marshall received $725,000.00 from an out-of-State Political Action Committee, which the Alabama Ethics Commission cleared in a 3-2 vote.
+      The Ripp Report sued the Ethics Commission to compel action, but the case was dismissed as the Commission represented the State of Alabama.
+
+      THE DISCOVERY:
+      Governor Ivey called for the immediate resignation of the Veteran's Affairs Commissioner for Alabama.
+      Baldwin County approved thousands of residential lots and cut sales tax on hearing aids.
+      The City of Bay Minette is being sued by the family of OJ French Jr, who was killed by BMPD Officer Brandon Thompson.
+      Andy Ruten represents the City of Bay Minette and hired Mayor Bob Wills to represent them in a separate malpractice lawsuit.
+
+      THE PIVOT:
+      Article 2 demonstrates that while state-level corruption (Marshall/Ethics Commission) is a central focus (Article 1), local Alabama governance and law enforcement issues (Baldwin County land approvals, Bay Minette police/legal actions) are simultaneously active, showing a wider scope of public scrutiny and local decision-making in Alabama.
+
+      KEY ENTITIES:
+      Harry Still
+      Raines Rushin
+      Steve Marshall
+      Troy King
+      Alabama Ethics Commission
+      Governor Ivey
+      Baldwin County
+      OJ French Jr
+      Brandon Thompson
+      Andy Ruten
+      Bob Wills
+    llm_text: Harry Still battles Don Siegleman for AG, while Steve Marshall takes a $725k donation. Local issues heat up too; the Bay Minette family of OJ French Jr. is suing over the death of Officer Brandon Thompson.
+    widget_date: "2024-10-18"
+    generated_at: "2026-11-07T01:40:51.254290Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-pete-rose:
+    brief: |-
+      THE CONFLICT:
+      *   Steve Marshall (Attorney General) received $725,000.00 from an out of State Political Action Committee (Dark Money).
+      *   The Alabama Ethics Commission dismissed the Ethics Complaint filed by opponent Troy King in a 3-2 vote.
+      *   Harry Still (Republican) is running for Attorney General of Alabama in a primary election on May 24th.
+      *   Raines Rushin is a Democrat and AP award-winning reporter in Gulf Coastal Mississippi.
+
+      THE DISCOVERY:
+      *   An investigation is ongoing regarding the death of Thomas Daniel "Danny" Williams Jr in Orange Beach, Alabama.
+      *   The death occurred on May 27, 2022, during Memorial Day Weekend.
+      *   The body was recovered on Sunday, May 29, 2022.
+
+      THE PIVOT:
+      *   Article 2 details a specific local criminal investigation (Danny Williams death, May 2022) and is not factually connected to the ongoing state-level political corruption or the May 24th primary election mentioned in Article 1.
+
+      KEY ENTITIES:
+      *   Harry Still
+      *   Raines Rushin
+      *   Steve Marshall
+      *   Troy King
+      *   Thomas Daniel "Danny" Williams Jr
+      *   Alabama Ethics Commission
+      *   Katie Britt
+      *   Adm. Kent Davis
+      *   The Ripp Report
+    llm_text: Orange Beach investigators are still pursuing answers regarding Thomas Daniel "Danny" Williams Jr.'s death on Memorial Day Weekend in May 2022. The Ripp Report details this local criminal investigation, giving you the facts about this tragedy.
+    widget_date: "2024-10-04"
+    generated_at: "2026-11-07T01:42:24.683181Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  hatians-eating-cats:
+    brief: |-
+      THE CONFLICT:
+      *   Attorney General Steve Marshall took $725,000.00 from an out of State Political Action Committee (Dark Money) in the last election cycle.
+      *   Troy King filed an Ethics Complaint against Steve Marshall.
+      *   The Alabama Ethics Commission gave Marshall a pass in a 3-2 vote, citing insufficient evidence.
+      *   Raines Rushin and Harry Still were involved in debating this corruption, with the Republican Primary set for May 24th.
+      *   The case filed by Ripp against the Ethics Commission was dismissed last week, based on the argument that Ripp should have sued on behalf of the State of Alabama.
+
+      THE DISCOVERY:
+      *   Article 2 confirms the ongoing relevance of a "whistleblower Ethics Complaint" within Alabama political discourse.
+      *   The State of Alabama is losing qualified public servants, such as Former Real Admiral and Jag Officer Kent David (Alabama Veterans Affairs Commissioner).
+      *   Brandon Moseley spoke for BamaCarry Inc of Tuscaloosa regarding five firearms-related bills for the 2025 session.
+
+      THE PIVOT:
+      *   Article 2 provides contemporary evidence (whistleblower Ethics Complaint) of systemic political instability and service strain in Alabama, reinforcing the corruption concerns (Steve Marshall's $725k) raised in Article 1.
+      *   The focus shifts from a single dismissed lawsuit (Ripp vs. Ethics Commission) to broader governmental failure and the loss of key personnel (Kent David).
+
+      KEY ENTITIES:
+      *   Steve Marshall (Attorney General)
+      *   Troy King
+      *   Harry Still
+      *   Raines Rushin
+      *   Alabama Ethics Commission
+      *   Kent David (Alabama Veterans Affairs Commissioner)
+      *   Brandon Moseley
+      *   BamaCarry Inc (Tuscaloosa)
+      *   David R. Jones (Texas Federal Bankruptcy Judge)
+    llm_text: Attorney General Steve Marshall took $725k from dark money, yet the Alabama Ethics Commission gave him a pass. This failure exposes systemic instability, including the loss of qualified public servants like Kent David.
+    widget_date: "2024-09-20"
+    generated_at: "2026-11-07T01:43:30.540533Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  the-180:
+    brief: |-
+      THE CONFLICT: Steve Marshall, Alabama Attorney General, accepted $725,000.00 from an out-of-state Political Action Committee; the Alabama Ethics Commission cleared him in a 3-2 vote; Mr. Ripp sued the Ethics Commission, but the case was dismissed last week; Harry Still (Republican) is running for AG against a political chameleon (who was a Don Siegleman appointee until 2011); the Republican Primary Election is May 24th.
+
+      THE DISCOVERY: Sheriff Mack in Baldwin County, Alabama, has one week remaining in office, and the Governor is currently selecting his replacement.
+
+      THE PIVOT: Article 2 provides an immediate, localized update on Alabama governance (Baldwin County Sheriff replacement) demonstrating concurrent leadership instability at the local level while the state-level corruption and legal battles detailed in Article 1 (Marshall/Ethics Commission/Primary) are ongoing.
+
+      KEY ENTITIES: Harry Still, Raines Rushin, Steve Marshall, Troy King, Mr. Ripp, VP Kamala Harris, Sheriff Mack, Baldwin County, May 24th, Alabama Ethics Commission.
+    llm_text: While Steve Marshall's $725k PAC payment faces legal battles, Alabama leadership remains shaky. Baldwin County Sheriff Mack leaves soon, and Harry Still battles a political chameleon in the May 24th AG primary.
+    widget_date: "2024-08-24"
+    generated_at: "2026-11-07T01:44:42.662021Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf
+  sheriff-mack-out-oj-french-lawsuit-in:
+    brief: |-
+      THE CONFLICT: Harry Still (Republican) ran for Attorney General of Alabama; Steve Marshall took $725,000.00 from an out of State Political Action Committee; The Alabama Ethics Commission gave Marshall a pass in a 3-2 vote; Mr. Ripp sued the Ethics Commission, and the case was dismissed last week.
+
+      THE DISCOVERY: OJ French Jr.'s family, the Bay Minette Justice League, and May Jung LLC filed a lawsuit in Federal Court against the City of Bay Minette and Officer Brandon Thompson on July 31, 2024; The Sheriff announced his resignation in mid-July, intending to resign mid-August; Governor Ivey is set to appoint Deputy Anthony Lowery or County Commissioner Matt McKenzie to fill the remainder of the term.
+
+      THE PIVOT: The articles detail separate but simultaneous political and legal struggles in Alabama (State Ethics/AG race vs. Local Police Misconduct/Civil Suit) demonstrating the broad scope of legal and governmental challenges currently affecting the state, including the investigation into Officer Brandon Thompson and the political maneuvering for the Sheriff's post.
+
+      KEY ENTITIES: Harry Still, Raines Rushin, Steve Marshall, Troy King, The Alabama Ethics Commission, OJ French Jr, Bay Minette, Officer Brandon Thompson, Mayor Robert Bob Wills, May Jung LLC, Deputy Anthony Lowery, Governor Ivey, County Commissioner Matt McKenzie.
+    llm_text: Steve Marshall took $725,000 from an out-of-state PAC, yet the Alabama Ethics Commission gave him a pass. Simultaneously, OJ French Jr.'s family sued Bay Minette over Officer Brandon Thompson, showing Alabama faces tough legal challenges from state ethics to local misconduct.
+    widget_date: "2024-08-02"
+    generated_at: "2026-11-07T01:45:51.785788Z"
+    model_name: /Volumes/1tb/models/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF/NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q6_K_XL.gguf

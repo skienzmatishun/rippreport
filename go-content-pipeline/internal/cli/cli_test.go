@@ -2,8 +2,15 @@ package cli
 
 import (
 	"bytes"
+	"image"
+	"image/png"
+	"os"
+	"path/filepath"
 	"strings"
 	"testing"
+
+	"github.com/rippreport/go-content-pipeline/internal/config"
+	"gopkg.in/yaml.v3"
 )
 
 func TestApp_Help(t *testing.T) {
@@ -120,6 +127,118 @@ func TestApp_NewPostRequiresTitle(t *testing.T) {
 	}
 	if !strings.Contains(stderr.String(), "--title flag is required") {
 		t.Errorf("expected required title error message, got: %s", stderr.String())
+	}
+}
+
+func TestApp_NewPodcastPost(t *testing.T) {
+	for _, tc := range []struct {
+		name  string
+		args  []string
+		video bool
+	}{
+		{"podcast URL", []string{"--title", "Friday Roundup", "--podcast", "https://www.youtube.com/watch?v=pXUsuYKgCmk", "--tags", "roundup"}, true},
+		{"podcast ID before title", []string{"--podcast", "pXUsuYKgCmk", "--title", "Friday Roundup"}, true},
+		{"youtube flag", []string{"--title", "Friday Roundup", "--youtube", "pXUsuYKgCmk", "--categories", "local,podcast"}, true},
+		{"boolean podcast", []string{"--title", "Friday Roundup", "--podcast", "--categories", "local"}, false},
+	} {
+		t.Run(tc.name, func(t *testing.T) {
+			root := t.TempDir()
+			cfg := config.DefaultConfig()
+			cfg.Processing.PostsDirectory = filepath.Join(root, "content", "p")
+			if err := os.MkdirAll(cfg.Processing.PostsDirectory, 0755); err != nil {
+				t.Fatal(err)
+			}
+			data, err := yaml.Marshal(cfg)
+			if err != nil {
+				t.Fatal(err)
+			}
+			configPath := filepath.Join(root, "config.yaml")
+			if err := os.WriteFile(configPath, data, 0644); err != nil {
+				t.Fatal(err)
+			}
+			// Supply metadata and a real PNG locally so the test needs no network.
+			fixture := filepath.Join(root, "fixture.png")
+			f, err := os.Create(fixture)
+			if err != nil {
+				t.Fatal(err)
+			}
+			if err := png.Encode(f, image.NewRGBA(image.Rect(0, 0, 2, 2))); err != nil {
+				t.Fatal(err)
+			}
+			if err := f.Close(); err != nil {
+				t.Fatal(err)
+			}
+			t.Setenv("TEST_THUMBNAIL", fixture)
+			script := `#!/bin/sh
+case "$1" in
+  --dump-json) printf '%s\n' '{"id":"pXUsuYKgCmk","description":"Episode summary from YouTube."}' ;;
+  --skip-download)
+    while [ "$1" != "-o" ]; do shift; done
+    shift
+    /bin/cp "$TEST_THUMBNAIL" "${1%.*}.png"
+    ;;
+  *) exit 1 ;;
+esac
+`
+			if err := os.WriteFile(filepath.Join(root, "yt-dlp"), []byte(script), 0755); err != nil {
+				t.Fatal(err)
+			}
+			t.Setenv("PATH", root)
+			var stdout, stderr bytes.Buffer
+			args := append([]string{"pipeline", "new-post", "--config", configPath}, tc.args...)
+			if code := NewApp(&stdout, &stderr).Run(args); code != 0 {
+				t.Fatalf("new-post failed: %s", stderr.String())
+			}
+			postDir := filepath.Join(cfg.Processing.PostsDirectory, "friday-roundup")
+			post, err := os.ReadFile(filepath.Join(postDir, "index.md"))
+			if err != nil {
+				t.Fatal(err)
+			}
+			content := string(post)
+			if strings.Count(content, "  - podcast\n") != 1 {
+				t.Fatalf("expected one podcast category: %s", content)
+			}
+			if strings.Contains(strings.Join(tc.args, " "), "local") && !strings.Contains(content, "  - local\n") {
+				t.Fatal("lost explicit category")
+			}
+			if tc.video {
+				for _, want := range []string{"youtube: pXUsuYKgCmk", "description: Episode summary from YouTube.", "Episode summary from YouTube.\n\n{{< youtubecomments >}}"} {
+					if !strings.Contains(content, want) {
+						t.Errorf("post missing %q: %s", want, content)
+					}
+				}
+				for _, path := range []string{filepath.Join(root, "content", "img", "friday-roundup.png"), filepath.Join(postDir, "friday-roundup.png")} {
+					file, err := os.Open(path)
+					if err != nil {
+						t.Fatal(err)
+					}
+					_, err = png.Decode(file)
+					file.Close()
+					if err != nil {
+						t.Fatal(err)
+					}
+				}
+			}
+			if tc.name == "podcast URL" && !strings.Contains(content, "  - roundup\n") {
+				t.Fatal("flag after podcast URL was ignored")
+			}
+		})
+	}
+}
+
+func TestApp_NewPostRejectsUnusedArguments(t *testing.T) {
+	for _, args := range [][]string{
+		{"--title", "Example", "stray"},
+		{"--title", "Example", "--podcast", "invalid"},
+		{"--title", "Example", "--podcast", "pXUsuYKgCmk", "stray"},
+	} {
+		var stdout, stderr bytes.Buffer
+		if code := NewApp(&stdout, &stderr).Run(append([]string{"pipeline", "new-post"}, args...)); code != 1 {
+			t.Fatalf("expected failure for %v", args)
+		}
+		if !strings.Contains(stderr.String(), "Error:") {
+			t.Fatalf("missing error: %s", stderr.String())
+		}
 	}
 }
 
